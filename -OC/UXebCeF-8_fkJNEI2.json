@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "y2p7mV7mE0XQOFvA3UeXmkV0tVV2"
+  },
+  "authorId": "y2p7mV7mE0XQOFvA3UeXmkV0tVV2",
+  "blueprintString": "0eNrNnO1uq0YQhm+lQuqfCh+xnyxWeyVHUUSc7TlIGLsYp40i33t3WCduYKgNbDzkRzQeYPbddx0eZmXnLXoqj3ZfF1UTrd+iYrOrDtH6+1t0KH5UeQm5Kt/aaB3lddH83Nqm2Kw2u+1TUeXNro5OcVRUz/afaM1OD3Fkq6ZoCutLtC9eH6vj9snW7oT4vdRhm5flqsy3+yiO9ruDu2RXwVCuzEpK8U3F0asLWWK+qdMp7pXiH6Wei8O+zF9X+7yyJVqNf64Wu0tqu/HnMFfIzbipd+Xjk/2ZvxRuSu7KfV678o2t24mcHmCWG1/0PO7HGaskwhSKEQqT2QrhlOePqn8W9aF57C3gJ8lt1UOTw7KzxP9AbgtnwcKuo9/9xP63dPO6h9IvRd0cc5jd+wq3Z6zSWwe6+HulYhJcFJ8vigUXJeaL4sFFyfmiRHBRar4oGVyUni9KBReVzhelg4sy80WlwUVl80WZL7t5zlGVOVUPGK7kCFyxheDqC3hlwlueBFfFk0UQy+DEIkaWwZFFzCyDM4sYWgaHFjG1DE4tYmwZHFvE3DI4t4jBNXQX/RJyqRu7SmGudpX6dgiKbBkQDI9AfeM49wSgRgFIiz+N4o8WfhqFHy36NIo+WvBpFHy02NMo9mihp1Ho0SJPo8ijBZ4Ovs01iLt0BKP0EhgVnlDyplHuySeJ8ImWThKhEy2bJMImWjJJhEy0XJIIl2ipJBEq0TJJIkyiJZJEiETLI+wOOZ9GY/82O+QyI8iVLqK7Co8uFXhhkuCS+AJaK4W1VrT0UlhnRYsvhTVWtPxSWF9FCzCFtVW0BFNYV0WLMIU1VbQMU6H3oQZbquzWHUR5dQeRJSMgpxYAufCIE7cMck/AiT7gaPEm+nijhZvow40WbaKPNlqwiT7YaLEm+lijhZroQ40WaaKPNFqgibDbViN7MoP2ZIyN4JWg51V4XPEbxrgnrXiPVrSw4j1Y0bKK91hFiyreQxUtqXiPVLSg4j1Q0XKK9zhFiynewxQtpXjQx/eRkJI4pEZ82l9wckiFZxS7PsQ9EcW6iKIlFOsSihZQrAsoWj6xLp9o8cS6eKKlE+vSiRZOrAsnWjaxLpto0cRCPqqPJBP+JS8mbt06TK5vHY74CL746o/gX3fjvyvRXYc/7sujLoFnqGHB1fAZanhwNWKGGhFcjZyhRgZXo2aoUcHV6BlqdHA16Qw1aXA1ZoYaE1xNNkNNGApdPgKPf0cbIQjPRvPjUvvxw73D7S3SwcJVj5/bmN3eOtvaYaNfnc7dsdkfxy3FCbVET7AkXYAlATxhQ56kEzxRS/AkgCl8yBQzwRSxCFMCuCKGXMkmuMKW4UoAW+SALTwZbwvLFmJLAF/UkC9sgi/pUnwJYIweMoZPMEYtxpgAzqRDzogJzojlOBPAGjNkjZxgzX1vvnH0l5uRE+3yx8pJ27qRML/4Z5t+w2xC/6EOasyE59wkIzOmzmuLmiKCmjLhSTdJyUyx+2KDmiKDmjLhUTdRZKaU9oetnvP6FXVGT3fmIY7+dtOADb/vImaxjNlD3Eb6HHGX4+dIt5E7Epv2qHvtIsilHzmIXOPmw8thDkkI4Vjs7kbMxxziNs8gz32eQZ77PIe81wUpiNu8hLyKhY85xG1eQazfYwFxew6Idc8U3McC4jbfavMyIQVxmzeQz3zeQD7zeZeK+XkuLgUx5CEVcz8XSEHc5mEu3M8FUhC3eZiLgxz3sYC4zYPR7g4vIZbdWPlYdWPtY92NUx+n77Fb784u75lBxbN717hfA+/B1aftkMsbs9rV25Zc3Q0OeGcVjd26V5d/HxdHZf5kSyDcprDVxv5y3sh2R16coLa80jyTWaZkmqUqFafTvxZkAYE=",
+  "createdDate": 1732474743405,
+  "descriptionMarkdown": "## Converts different rarities of science packs into common science equivalent.\n\n- common == 1\n- uncomon == 2\n- rare == 3\n- epic == 4\n- legendary == 6\n\n## How to use:\n- Place this blueprint, and use desired science pack as a parameter.\n- Connect nearby roboport with `green` wire to this blueprint.\n- On roboport, set it to `Read logistic network contents`.\n- 🎉 Voalia! You can now read effective science you have stockpiled!\n\n## Room for improvement:\n- If your science is held on belts, you can read belt contents to get science pack amounts, this setup is not exclusive to logistic storage.\n- ⚠️Calculated effective science of `Agriculture (Gleba)` packs will always be inaccurate (higher) due to spoil mechanic making them less effective!",
+  "image": {
+    "id": "s0RCUMX",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/s0RCUMX",
+  "lastUpdatedDate": 1732474806093,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/production/science/",
+    "1": "/version/2,0/",
+    "2": "/mods/space-age/"
+  },
+  "title": "effective-science counter display",
+  "favorites": {
+    "NkxM1USI7Qf9VRCPPGV5ATu24ir1": true,
+    "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
+    "zVVk7GVeblcAwWqO9OFmYlDiuh32": true
+  }
+}

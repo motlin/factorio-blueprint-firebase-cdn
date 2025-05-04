@@ -1,0 +1,25 @@
+{
+  "author": {
+    "userId": "ORV4437WIsOh01l8NxaMQybgkOI3"
+  },
+  "authorId": "ORV4437WIsOh01l8NxaMQybgkOI3",
+  "blueprintString": "0eNrlV9tuozAQ/ZVqHlemChcTgpQ+7QdUat6qCDnBaSyBQcZkF0X8+45NLm2WbhcabVft2zD2nJk5cwH2sMpqXiohNcR7EOtCVhA/7qEST5JlRidZziGGlK9FypWzLvKVkEwXCloCQqb8J8RuS3pMtGJCOpUuymdXvXZJgEsttOCdK/vQJLLOV1whFvmDSwJlUaFpIY0fhHOo5xNoIA7oLUUvqVB83Z27HgHMR6siS1Z8y3YCAdDqAJvgWWqhKqN9/oRBbYSqdHJOSTelCWknlK5Rc4qxu+GkXDYmSQy1ZMqGGsMcDC0DkRYdjKw0MzXxw8lk8n4YRLkI7g6OCp4csJhMwVSnqHVZ68s+eNvhyyb4uwDLButQS51sVJEnQqJjiDcsq3i7bC3iRXt4Q9vD/Q/ag8lGb4V8+q1F7t5F+CgC/RNQzlNR5w7PkBIl1k5ZZLyXwuCWdiROkcQeyGDkyIYfWZNFXzGGD9rDNWt6P7KmdORQTD/bUDyMJDAcSeCHdjDfcfUKhfPxFJ5fZYNZnJ6wmBJ6m3ONW+WtVXDcLdFLIqN+Hs/AF1QO5M5OWsUNRnJ+TVJ8SxYlRxZtDPANjiQOQu4lJxraYt4wZv7NjpxfZ0fOr/z1MXZxzkbOffSF5x4d/MDEDfyjS1ziEX9JrBQeJA/lwEo+CYiLkoe6kHgo+SgF9tRIUyvhHUKtLT3dM9LsIPkomdMp6iJrEaGF0WEsQvMcszj/xxDI2IpjyrAwPyA39wprgUW/+d7VAi8ggZUtGw29WTCbUUrdKAiDtv0FaIR3BQ==",
+  "createdDate": 1739707216515,
+  "descriptionMarkdown": "This ***should*** work as intended, please contact me if not.\n\nThis circuit is able to change the priority of a train station based on 2 criteria:\n\n* There are no resources in the chests.\n* It's been at least 10 minutes since the chests were filled (grace period of 10 seconds).\n\nJust connect the green wire from the right side to your chests and from the power pole to your station. If there's been a train at the station within the last 10 minutes that has satisfied the grace period, the priority will be set to 1. Once there are no more resources in the chests and there's been 10 minutes, priority will be reset to 50 again.\n\nNote: The 10 seconds grace period is there to avoid accidents, and also does so that if the chests are almost instantly emptied, it doesn't count. Change it as you please. The circuit shouldn't need to be swapped based on the resource. The top left can be tweaked though based on your preferences.\n\nDo not change X, it is what tells the system to stop.\nT is for Ticks. The interval which the clock will go on its own is 600 - 36 000 ticks, or 10 seconds to 10 minutes. Outside of that, if the condition becomes false, the clock is stopped and priority is reset to 50.\n\nThis took me like 20 tries to upload so I probably won't bother if this is buggy.",
+  "image": {
+    "id": "Q6R9MZt",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/Q6R9MZt",
+  "lastUpdatedDate": 1739707246127,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/circuit/counter/"
+  },
+  "title": "Train Priority Decider",
+  "favorites": {
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true
+  }
+}

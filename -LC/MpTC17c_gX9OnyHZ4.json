@@ -1,0 +1,26 @@
+{
+  "blueprintString": "0eNrFWG1u2zAMvUqh3zFgy19pgO0Iu8BQBIrCJEJt2ZPloFmRA+we28V2klF24mSOXCte0f1p6zh6fHzkI4W+klVWQ6mE1GTxSgQvZEUWX19JJbaSZeYzfSiBLIjQkJMZkSw3TxykVmJTb4EcZ0TINbyQRXCcjR4sVbGuuRZ7oQ9ejn9n4IVXGPT4NCMILrSAlknzcFjKOl+BwiAd1IZV2tOKyaoslPZWkGmMUxYVni2kYWDwZuRAFl6MEdZCAW9fRYZpD5hOAo7GgcNJwOE4cDQJmI4Dx5OAg3HgpAOuNOPPnpAVKI1vbjC9eQPqgJm6Y6YNpv83ZmLBnNsa/RYv7jgimmi6/bnYMwUvHkgl+C7H0x62PIeqwvPGCpU5bHcBNr+Fy+OlGCLDvN5KMLSJhuVpT7Z+Opu1g62xvKLOPRrOyfHJwiDw3eQIbuU4Y580EHJ7LUNVAqzH8g96jh9OP7CVl9ogqSskPaVkA5nka3+8oYPIlV3k6pHg4uis2IpKC+7xHSB4ybAqezAF2ov1cBDDe8XUacj34RNXxukbeqZDHBV8q/H3MJ7ftFzzpeXbrV5hv9Wld27LTQ2ZxyHLEJkXtVmCsW/3wLw3ZsbN2HKj723GxysiYOgbjQYHqNVS1HefmUkD099GRi6cBEW2XMGO7UWhzPe5ULwWeonv1h3IRigsy8i14JJ2bC4D5hqimSlHYB7ykimmTQzy+8dPcmy/IVs2zSQJzI+tApDXdwaxRuYRymgVIbi7olGnhWMNY3sNKXWf6f57xQzvG6N0fEvSy6DCKQL5KsP57uWM74Q08/wGOexyuVkQ104cW5ORtZyxa36xraNta4ImTnsvvc1K1jwDptqsFPzD9qOpo91bn9qlmbvbPT7B9IfWB9nd79n9851mp0Nmf3TtjtMdqqdA8mEKRLcT79edIpgNhgeKPSiFO33ZFB0JfQf7+g59xx6LOmmcydDHq4ANu2CgRKHzPe900fxvJeo36acp9bEpQB3rQCfUYT4U9M69EI3vhTByy8OfkEar3VM7RjHA5d8XM5IxvHnjZ1/a6ftgpu/DeYdg1BlBR1RN/DT0gyRK4ySaH49/ANFNvvU=",
+  "createdDate": 1555178054713,
+  "fileName": "PJ5WZSh.png",
+  "image": {
+    "height": 412,
+    "id": "yQzMET3",
+    "type": "image/png",
+    "width": 768
+  },
+  "numberOfFavorites": 1,
+  "favorites": {
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true
+  },
+  "authorId": "wpvaPcU3V5PkuyWf3ZfOMnMGq1v2",
+  "descriptionMarkdown": "I often centralize uranium processing and ship nuclear fuel cells to my plants and spent rods back. \n\nHowever, since Kovarex is 'so damn good' and U235 is mostly free in the end game we might as well produce the fuel cells locally from ore and plates. \n\nThis simple setup (without modules) will produce enough fuel for 10 reactors, for 3 iron plates and 48 uranium ore per minute. You should prime it with 40 U-235 in the kovarex centrifuge. I would also add a stack of U238 and possibly some spare U235 in the bottom right chest to speed things up.\n\nCircuit conditions on the chests control kovarex: the filter stack inserters take all the U235 out. Then, if U235>=41, the blue inserter moves exactly 1 U235 to the holding chest on the right, and another one if U235 was 42 (due to productivity). As soon as the holding chest is non-empty, the stack inserters move the remaining 40 U235 to the chest on the left. The final stack inserter moves the 40x U235 back into the centrifuge unless the rightmost chest already has >=1 U235 (to prevent kovarex from eating too much 238). \n\nThe rest of the process is straightforward. The reprocessing outputs directly into the fuel cell plant. The ore processor outputs U238 into the kovarex process, and outputs into the fuel cell plant. It can also output 235 into the U235 storage chest to make sure U235 does not block processing. \n\nOnce 1.4GW is no longer enough, you probably also have too many modules. So, simply add prod modules to kovarex and fuel cell, and speed to ore processing and reprocessing. This produces enough fuel for 32 reactors at the price of 7 iron plates and 90 ore per minute. I tested setups with and without modules in creative mode against the stated number of reactors for an hour. \n\nCalculations: https://docs.google.com/spreadsheets/d/1ACVK5sX2-ETbghPQbJs8QoRrI6ZEIg4xNwESC-ysk9I/edit?usp=sharing ",
+  "lastUpdatedDate": 1555179418967,
+  "tags": {
+    "0": "/power/kovarex enrichment/"
+  },
+  "title": "On-site fuel cell production",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/PJ5WZSh.png?alt=media&token=490b07ad-bfca-4d94-93f3-1c29f7f43e71",
+  "author": {
+    "userId": "wpvaPcU3V5PkuyWf3ZfOMnMGq1v2"
+  }
+}

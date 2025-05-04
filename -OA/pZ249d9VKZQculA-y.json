@@ -1,0 +1,28 @@
+{
+  "author": {
+    "userId": "4VcNIrIfYEOyFIxqlvGym3eYuqf1"
+  },
+  "authorId": "4VcNIrIfYEOyFIxqlvGym3eYuqf1",
+  "blueprintString": "0eNrtVktu2zAQvUrANRWE+qSSlj1CuzQCgZImNhGJFEjKqRvoAD1IL9aTdCjJcmozTuoUaBddmeKQbx7fvBn4iZRND50W0pL8iYhKSUPy1RMxYi154/Ykb4HkREO1qxrQZKBEyBq+kJwNd5SAtMIKmG6NH7tC9m2JJ3NG97c7bozYQtBptRU16KDagLGEkk4ZvK6ky4SQYZhdJ5TsSJ6E6XWCuZCR1aopStjwrVDaHayErnphC4zV4+0CJC8bqEl+zxsDw0BPuIQLFwMNVFYhB9WWQnJceonMNLKRRi1QgCke+0mpDjSfTswpEHVaFC1HSKt7mLVzzI3lTvQbH9noQNby6iEQ0oC24OWZHgn2OtO9fAZscS8axDV7dvvQhsu60MDrolU1uFJT0hs4Pq62oDXWsxhpFkZ8xbOx50ExPfHR6VOicC/5r89guN8KrR17l9eDnyz4NVSTwc4VN0peKq7L5dNshj1YzoxKPvtC+98LbVDWpXXsrnOUtkLbHncORR1PBIDq7exGyDWZjD5bYixb23E9ss/Jj2/f8e5z8EKCfVT6YSShF99TstYAclbJdafqbdfb45Z+hReXB1ZvSzT4THy74Npelyro0fl6rRX+BiU01luXIzPPTKdnEE+SD0uSsm/ONkoUn2kUD3L6nuEVsT86vLILh1d08xeGF7u5ZHrNiv2T04ux3xlfETseKT7I8D3dMYs1d4eQLzQHiy7oDk8hfNDxZRP31JH/J+6FExeTPaKMLtWKUUZDyu7oKqQxTWiIqwh3EhrjKsVoNkYzjGLpXBjbNHTr+A6BhIXWuWT5M0hJw9GGuPcRzXj12XUIErz6dPA/amnGCia3YRZnWRJHUZqydBh+AoMPh0k=",
+  "createdDate": 1730696721134,
+  "descriptionMarkdown": "uses a buffer chest, combinators, and stack inserters to allow the recycler to run constantly and allows for the products to pile up enough for a stack inserter to place a full 4 stack on the belt. when used in a large array will output an entire stacked green belt of items. Note: the buffer chests are passive providers so that if you choose to use quality modules the bots can grab any of the rare+ quality items and sort/use them.",
+  "image": {
+    "id": "qCjGozm",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/qCjGozm",
+  "lastUpdatedDate": 1730696721134,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/2,0/",
+    "2": "/planets/fulgora/"
+  },
+  "title": "max throughput scrap recyling",
+  "favorites": {
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
+    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
+    "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+  }
+}

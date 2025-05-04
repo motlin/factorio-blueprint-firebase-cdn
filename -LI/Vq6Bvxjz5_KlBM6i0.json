@@ -1,0 +1,25 @@
+{
+  "authorId": "DYHujJYiI4PgUUnXLTlSIxkD5or2",
+  "blueprintString": "0eNqllt1ugzAMhd/F1+lE+Cktr9HLaapoG3WRaEAhTEMV7z5D22mCTjvWrpAD+Xwc+Zhc6VB1pvHWBSquZI+1a6l4vVJrz66sxrXQN4YKssFcSJErL2MUfOnapvZhdTBVoEGRdSfzSYUe3hQZF2yw5kaagn7vusvBeP7gN4aipm55W+3GrIxaJYp6fsRMP1lvjrd3HC6gsRia/A1NcKiGoSkOjeHyM7FSALoWKwXKz2FoBDM338y2qWwIvLagPcp+yWY8RXUXmi7s2QO1ZyxjvD2/jz29yLQFMt116/9l0hF8UHibaNx7uEt0LIUiShNp+YjSVDwlNEDNpNQIgMrNh0jNgf59TIhI0MDj9Ic7G7HrvailhmfArXCmAOcf4/bT8PHHWghFhIrdhwgVuw+BpkKlSPWZUCjCXEt/prN5lj6D5lKoBqAbKTSZQ/muNt3rih/XQEVVyRRe243+5PjD+HbakCeRzjeZ3kbpMHwBJXhn/A==",
+  "createdDate": 1561771668679,
+  "descriptionMarkdown": "The way to tap into your bus if your into sifting (better than balancing) but want some material to remain on the belt for the subfactories at the end of the bus.\n\nEach instance of that contraption will tap half a belt into the main bus until you tap everything or until it backs up and and subfactory can tap full (starting with the last).\n\nBy comparison, priority tapping and balancing taps 1, 3/4, 9/16, 27/64, ... before backing up : less balanced, the four first belts are advantaged. Non priority tapping plus balancing taps : 1/2 , 7/16, 49/256... decent, but still inferior (might be better if you factory is really too big for your bus or input production, which is very bad to begin with)",
+  "image": {
+    "height": 1080,
+    "id": "UvoaZfV",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "lastUpdatedDate": 1561771668679,
+  "title": "SIfted Bus non priority tapping",
+  "author": {
+    "userId": "DYHujJYiI4PgUUnXLTlSIxkD5or2"
+  },
+  "fileName": "Screende 2019-06-29 02-59-35.png",
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/belt/balancer/"
+  },
+  "favorites": {
+    "vnMibAlJ4Yf26PY2ak6VPs1VHoJ2": true
+  }
+}

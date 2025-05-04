@@ -1,0 +1,29 @@
+{
+  "createdDate": 1603917074982,
+  "descriptionMarkdown": "Simple red-yellow-green indicator unit.\n\nDefault blueprint indicate light oil level in such ranges:\n- 0....25k units - Red light\n- 25k...50k units - Yellow light\n- 50k+ units - Green light\n\n1. Set the link between the inputs of the arithmetic combinator (A) in upper-left corner and storage.\n2. Set type of fluid/item indication on this (A) arithmetic combinator.\n3. Set values of indication ranges on two decider combinators below (B and C, see figure)\n\nNotice, that number [0] and settings [>=] on decider combinator (D) in lower-left corner must stay untochable to proper work of the red indicaton range of the scheme. ",
+  "numberOfFavorites": 4,
+  "favorites": {
+    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
+    "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true,
+    "mUyT2467SZaK2J5KctU2mJcDSuA3": true,
+    "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true
+  },
+  "author": {
+    "userId": "tbP5ZCyaS0hNhE7rns1u8h5unru2"
+  },
+  "authorId": "tbP5ZCyaS0hNhE7rns1u8h5unru2",
+  "blueprintString": "0eNrlmF2OmzAUhbcy8mthBISfCVL7Xqk7qCLkwE1i1djImLRRxAK6kG6sK6kNmYQQYAhKmlGbh0hwzfH1+Xxty3u0pAVkgjCJwj0iMWc5Cr/uUU7WDFP9Tu4yQCEiElJkIIZT/ZRATBIQZszTJWFYcoFKAxGWwA8U2uXCQMAkkQRqtephF7EiXYJQDY46WBC5SUGSuClloIzn6mvOdAJK0bTdmYF2KAw899lTPSVEQFw38A2kspaC02gJG7wlSkB9dVKOVDip1HIdWBGRy+hifCtakOQ0QErWG2lyQvW4ctASWieXWDtlGYhnIHCdAfqgvuOFzIoO3S0RslBvjsp1CzPhEpVlWSXP6rFU6Tn6T0DS9E0lFjqqJRFxQWT1aJfGWfhlODxvhxe67wswzhDgISpem4rTTeUgOw7JoHWV/gGHZ6mffpFmWFS5hujTBCbxBuJvtXS2UzkWTEYrwdOIMKWDwhWmOXQws3uY2eeuO8p1owa8FgCs3dwdB2l2TDuFhBSpCVTlIlQJZZxCJyb72WuUT4emO6Eirb6KdG5TkW9SukdZHsT7IHdyc9qYB0vTGS7NxiTpmFHecJn7w+Fg3ATzrl0FTtPLP58J7h1XgUaxvvK3W2vAxwkTQJt+uxXAvW4FsK0eJP61SKx3gsS5AZIdUMq/P5BKX6EEV1KZzd8JldkNqNRWPQ6K0wPlZeoZxn/oGcbx/qczzHwqpOChkNqAfv/89c8isq1T3imm1KQ4zd7Y/ms6XTxeezzymIDjuDX37/cqXOSgeqFcKM+kKOCak5x36WSnNfZYa6y/ZE1zi7ybO/5Id5yR7jS2w/u609iq7mZO0GXOwqjvTcLGNYuBKF6CShvNzGyDc3j6ou8anj6r8cWH9W8LIq9XtxfbDdx54Ae25atDQ/kHXa4UZg==",
+  "tags": {
+    "0": "/version/1,0/",
+    "1": "/circuit/indicator/"
+  },
+  "title": "3-phase light indicator ",
+  "fileName": "FIGURE2.png",
+  "image": {
+    "height": 425,
+    "id": "L7jZyTC",
+    "type": "image/png",
+    "width": 567
+  },
+  "lastUpdatedDate": 1603965421303
+}

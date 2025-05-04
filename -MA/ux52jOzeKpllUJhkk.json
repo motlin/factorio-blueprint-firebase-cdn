@@ -1,0 +1,29 @@
+{
+  "image": {
+    "width": 1168,
+    "height": 780,
+    "id": "F5hr39H",
+    "type": "image/jpeg"
+  },
+  "numberOfFavorites": 3,
+  "favorites": {
+    "rbPyJKUVm0MITtMrWfEKfs6Pvj93": true,
+    "NaQ5mNWcfjeKHdXH8QEaqBnnvDu2": true,
+    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true
+  },
+  "authorId": "lUncD4QhVnepV6ODHxwkkU1kMGJ3",
+  "createdDate": 1593348219242,
+  "descriptionMarkdown": "System designed to restart power plant by supplying some energy to it, in the event that power plant ran out of energy. It will provide energy to start the inserters, but will still require supply of standard fuel. Will keep power plant out of grid until backup recharges.\n\nSee the image for power connection details. Active accumulator on the screenshot has to be connected to the power plant grid [and ONLY that accumulator can be connected to any grid outside of the control system].\n\nLarger version with pre-linked power systems can be provided on request, This module was designed to be small.",
+  "fileName": "power control.jpg",
+  "lastUpdatedDate": 1593348219242,
+  "tags": {
+    "0": "/power/accumulator/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,18/"
+  },
+  "title": "Backup power system",
+  "author": {
+    "userId": "lUncD4QhVnepV6ODHxwkkU1kMGJ3"
+  },
+  "blueprintString": "0eNrFmsFu4zYQhl8l4FlakJRlZw1sD91DrwV6LAJDlpmYqEQJFJXUDfzuJS2v4rUlWz/ptJcgkjkz5HwznCGhd7IuWlFrqQxZvhOZV6ohyz/fSSNfVFa4d2ZXC7Ik0oiSRERlpXuqqzeh4+ZNmnxL9hGRaiP+Jku2f4qIUEYaKTo9h4fdSrXlWmg7YFhDZB8bK1QpZ9Eq4l/SiOzIMk6+pFa9nZbRVbFai232KivtRuVS5600K/vbphd9lroxq4vJv0ptWvumt96NiF+0EIp0BhqTOSdQ91DWmc6Ms0N+IfvudyVyZ6Vxapn70wmfLFJuyHK2f9pbgYuF8w/TVZHpuM6UKC7XHSfdsvmQjmSaDnpFxQz1P/tU/2uxuav32cmS3fOjpRGR7y09H/gYkTepxeF/6pBduirtJ7sRudxYZ9mZraU6zGwA3NFj1BrcWNV59yMfdt5R5YfzGg/vSfVcXXffNytTtaZufZjUOzu9VpnVs67KlVRWC1k+Z0Ujxpg40XNHnxFhziHHyOmIOUJ8lOj8fPh1dXwk/eYYTN6hPMT+CczZJ8Lst6JGOD0evH5KG5z7yV54F/LzCzLRMOL0fODPiBejAXPbKBs1upgWNwsobuh/HzZH+mjQnMAODJv7bheLqUEzR6JiMTUq5tdD8WIzS0fC5rH3Uik2si1jUdjFa5nHdVWIgQ2H9bVjoqPSG/sinR750aQG5mu/pCzP27IthlOA/SiDNgkGtDA6TU1yomY4e9A47YolUriG/cDYtBX0DQEf8QT36y/Y/9lfMHqPDuPelSbFWop02tbPkomg2Q3Qs2l66A01H/1oU2ZFERdZWY/uJOwTm/ZM7cxWqpebnXtE2kZYU0WlLT+jW4H08hMrNJtPcy8/da/dG40sjkfUcw8eTz6zfa94m/2T6Y3NT5VrYUSs5cvWEDeZEdkkQJYHyDJ/WeovGmA1YLEBPvZCOwsIi9lFWPwQujacY8MZNJxCozHd2MQxr3j5Pwlgl2DsEoxdgrFLIHYJxC6B2CUQu8SfHQ9gxzF2HGPHMXYcYschdhxixyF23J8dC2DHMHYMY8cwdgxixyB2DGLHIHbMmx31R0chchQCRyFuFMFGEWoUgUYRZtQbWUC2YcmG5RqWalCmQYkG5RmUZv5ZFlDcsNqGlTasskGFDaprUFmDqpp/UQvoJbFWEusksUYS6iOhNhLqIqEm0r+HDDi6YSc37OCGndugYxt0aoMObdCZzf/IFnAJE3AHE3AFE3AD438B43//4n/94n/7MvXy5SnqvjZZnnycEpEiW4vCvvvdfbjw8JtQ4nDV+PBrlv/V1g/fu9vOhz92TfelyqvQzcH2YpEwNk++pulsv/8X68SYpA=="
+}

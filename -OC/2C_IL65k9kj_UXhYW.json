@@ -1,0 +1,31 @@
+{
+  "author": {
+    "userId": "4rdlL8ezowNz71NRkFkNrWM9gXC3"
+  },
+  "authorId": "4rdlL8ezowNz71NRkFkNrWM9gXC3",
+  "blueprintString": "0eNrtm99q2zAUxl9FCAYrKJ3/xw5sN+3NnmAXXQiKoyZijmwkOVkoefcdycnSslLsOYaQyL2orHN09OmzzM+G+AXPi5pVkguNJy94wVQueaV5KfAEJ2jBl1yjz/4os8cddKiqoDtUUcEK9FxKRJHiYlkwlHOZ15Ct+FLQ4h49lEKw/HiOdIn0iiHJlyuN1qXSiEquV2umeY7ycj3ngmqot+EUai4lYwJtuWT36AcvClSKYoe2pfxlJz3UzMtaaIXmTG9N+lEmDFnBKT2mcYV+YpprvmE/MawGQQWYgGom74hVVbBn0CMWr+XZJSrQALMfl21yD0XnDJbdKGCLg0hR6kbjFlaG1nWheQXOcFHVRx/UPSaY56VQePL0gptOY72gawaen0wZnUzBexgjFuw3nvh78s6og76R1fwqO3ibrXeVyd5wqWvoIcfhTcYoeTUy7DTy8dXIaD8lmAnNNWfNIu3Jbibq9ZxJWAL5eLEEV6XizR58wVAx9r37mOAdnoxCHwyA5UrYWTYhJRjM1LIsZnO2ohsOBWDUqfIMwgtbTZnAM5dKz1ovjNF8ZdammCljailNzb3ie+YguKyYpIf75QsML2sNF7vrBHCQf3wKuvvkX6ZPg9oUdrcpuECb3nr06bweRd09Ci9yKw26k+LuLkW3tpOS7h7Ft+bRuLtHySXebYPebGl3k8a3tpGy7h6lF+/RmfeRKd/VpOzWNpJ/euZ++6rw4TOkBz7t3zekohLKwQtU84T/15T/8ISKnV7BuxRupjoY4pmTtZnGXMMJ/mbfMPJmhtYV91MYRYst3amZWpVbPNGyZu8ZFLQ3KLhIg752MMjDdpOcX5TfQ5Q/lKigh6hgKFFhD1HhUKKiHqKioUTFPUTFQ4lKeohKhhI17iFqPJSotIeodChRWQ9RWX9RbMPkuaHnHWjXPr0lGcP2ZAwdGR0ZHRkdGR0ZHRmvn4xRezJGjoyOjI6MjoyOjI6M10/GuD0ZY0dGR0ZHRkdGR0ZHxusnY9KejGNHRkdGR0ZHRkdGR8brJ+O4PRkTR0ZHRkdGR0ZHRkfG6ydj2p6M6fX/eHdKsPku1Gh/8klg/qbEtnz/0AyJD2fQNNHIdgbQGdo++79pQoiMbTiCztj2xSYc2WZCfAiHtgWdTRzySWbHpBDObDg14bENZ0aH1+jwTDs9tiEFCk5BPtdsDQs+fXlLcEHncEEnOBk92k9uv0MKejAfl6LH5ppDEuxZZS9TnARZlGVxFHlRGCf7/R+RpGMk",
+  "createdDate": 1731999454464,
+  "descriptionMarkdown": "6-digit (1-999999) display panel for a single circuit signal. Connect signal to the right most arithmetic combinator via a green wire. Will only work for signal counts between 1-999999. When a signal is \"active\" (1 or greater), the left and right most panels will display the signal being counted. Will not work with multiple input signals.",
+  "image": {
+    "id": "mGYL5yT",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/mGYL5yT",
+  "lastUpdatedDate": 1731999454464,
+  "numberOfFavorites": 5,
+  "tags": {
+    "0": "/circuit/indicator/",
+    "1": "/mods/vanilla/",
+    "2": "/version/2,0/"
+  },
+  "title": "6-Digit Item Count Display",
+  "favorites": {
+    "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "GKTYlR8ucDUFiglqNtFC3cCUPxW2": true,
+    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
+    "R92ZrkAKrAfzopb4k8vq6REkhyT2": true,
+    "sMMES60xUTaduX3eCOXbEtM0gfr1": true
+  }
+}

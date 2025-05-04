@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "ykwEZW3ThchtUfeM5YxKbnKk4zs1"
+  },
+  "authorId": "ykwEZW3ThchtUfeM5YxKbnKk4zs1",
+  "blueprintString": "0eNrNWN1u2jAUfpXINytSUpFAuoLU3qy3+7mY2KQORU5yAlYdO7UdOlTxAHuLXezJ9iQ7cSgUCrRFJUORkLF9/r5z8p0D9yTmJRSKCUP694QlUmjSv74nmo0E5dWeoDmQPkkhYSkoL5F5zAQ1UpGZS5hI4Sfp+zN3gwhVzIxzMCzZLBXMhi4BYZhhUFu1X6aRKPMYFKp1H1RVfhkqzGNFLimkRlkpKpuozwvC09AlU1y1T0O0g1JGSR7FMKYThiJ4T0NSiejVNdp+CMUlGeMG1PqumRaVJxOmTIlhLlyrw/YGuHOLB+g/bgqpcnsJ/S2osv72yYXdKCusPb/drkCb6+89qz+V5nUW/NkQH0Sh4HQKKkpBJ4oVNV7kE4yoYRNwrkAzBakzAC4TVO2cXM9d8GrLF3MHvg9bP0T9bLmBLg4vfOckleKdcZIxFSNokSrKtbwG7o6q2pDW7uOkpuhuUh93N6d4rjTCs5Qtkv34GyY2Y0qbaFmzL4C/rihbh6TfsenbokUXNAEPAaXW0YUyQcsJ02uK1lL499fvRVYhmiukIiV72JuUPKGibNDiiENMmzOXlXwkVYMG6W3JuGzOnpacKk9PtYHcg3QEDZoeU4M8CKmHDCLA7GsZSV6WpijNemd5ySu3g8K+shyUY9lOO9hkbvRW7qqYqeWgN44CDXidZhiZ02nP5VjmCGkcbWRRIBdS41CnDtrZxF+dpavIwdzjNC92taPt3ShhKimZiUDQmENK+kaV4C62F5xV3X0lY2Ul8NWUtddSdklm9pzXvtQNd2Q/Y/tJqy6yIf7uXvz9P+l7sIqEF7aflO+fXe/Is21hBVZ3RU2EZXQn1Y0NQy2TPFIAiEJGuYbZa1/alwYahG8T6LMAXpK3CuFJqw2PGWD/QAAHYXMA++2jRrh9GIT9JhE+6ho+UAn7DXJEcNwlfCASbhDfAxbwvgPicsIpppGdA6NMyTxiAnU9mNw+P36ubW4dGpMxJDc4NsZU40woxfIn8hXLMhyMRQJbhQfDlg3sDsedKqxr3w2qZ+jaVdeuArdad+yqg3s+rjr2tDtEWYYzP/q5/IfGJZzGGHOffPn2cenOh3qIwuMJKG2DC8+CXrfXC8/8953z4Hw2+wecATAT",
+  "createdDate": 1742664485237,
+  "descriptionMarkdown": "Velocity Controlled Pulse Width Modulator for fuel pump\n\nattach green wire from constant combinator to main hub (read velocity and planet info)\n\noutputs fuel symbol to light (can bypass and delete) then to pumps (enabled if fuel symbol > 0)\n\nset desired velocity in constant combinator with a negative in front \n\n100km/s -> V=-100   \n\n200km/s -> V=-200",
+  "image": {
+    "id": "vF48Z0r",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/4GOrKS5",
+  "lastUpdatedDate": 1742678116454,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/circuit/counter/",
+    "1": "/mods/space-age/"
+  },
+  "title": "Velocity Controlled Pulse Width Modulator",
+  "favorites": {
+    "cDvDl0TMvLYOW826NTooe9CRjdg1": true,
+    "zPHLWaDFzqbyuGBmQQHTMWqnTuv2": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  }
+}

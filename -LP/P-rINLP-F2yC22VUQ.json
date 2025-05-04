@@ -1,0 +1,31 @@
+{
+  "fileName": "Tileable Kovarex.png",
+  "image": {
+    "height": 834,
+    "id": "IH4dp6G",
+    "type": "image/jpeg",
+    "width": 794
+  },
+  "title": "Tileable Kovarex",
+  "author": {
+    "userId": "hTJAsUbrSwNy0QRCJ5O5jCOKBUw2"
+  },
+  "createdDate": 1569173238979,
+  "descriptionMarkdown": "This is a tileable kovarex design my friend and I came up with. Just create a loop of the desired size, input U238 on the inside of the loop, and put the U238 shunt right before your input belt. The U238 shunt guarantees that there is space on the U238 belt for the Kovarex's U238 output. When set up correctly, it will spit out 1 U235 from the output belt each time the Kovarex process is complete.\nThe design's biggest drawback is having to manually insert the initial 40 U235 to get it started, but its self sustaining after that. \n\n*Important note: This system is will work with with stack inserters, however, the filter inserter that outputs U235 from the centrifuge may cause issues with stack sizes >3. That being said, assuming you're using stack inserters and stack filter inserters with the same stack size, it shouldn't be an issue.\n\nCredit to TwinCanine for the design",
+  "lastUpdatedDate": 1599568361439,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/power/nuclear/",
+    "2": "/general/tileable/",
+    "3": "/mods/vanilla/"
+  },
+  "favorites": {
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true,
+    "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+  },
+  "authorId": "hTJAsUbrSwNy0QRCJ5O5jCOKBUw2",
+  "blueprintString": "0eNq1V9uO2yAQ/ZUVz3ZlnMtmI/UL+tj2qVpZxJ4kaDFYgKONVvn3DnbjZBMSE9q+xGKAwzBz5jD5ICvRQqO5tMVKqTey/DhZDFn+Ohu6OV4q2ZsN30gmnM3uGyBLwi3UJCGS1W5UgrSar9sNkENCuKzgnSzpIRnduGbGplYzaRqlbboCYc8Q8sNrQhCaWw69H91gX8i2XoHGI+4CJaRRBvcq6c5HvHSSkD1+cjyi4hrKfm7qHL1AzuOQ6Tjy5DMylwa0xYlrzNyLOfdgTn2ZuALMTniIxrt0vKkd0/CegtS83Na4O220KsEY3O9yZdxm0wBUaa2qVoBLi8eF2elaXOB9Ai52kQa09lv7VB9ZNOC2mAPe1mk+WZDDq8eF+WM5y4PJ8BwFHMCFRRTLsnHglyjgAI9pNiDXULl0gMD1SJ60UQJuJjvzcYbSB0hDBxcDWTLzs4TmoQWYBQdlEkOQgDTSaQxwiMezKIIE1Ap9sAr/5PVSC3zID5Zh5gVOCD5qVitRrGDLdlxpt7zkumy5LUCylYCi4sZ9yXLNhIFkmNbAqmLLZFU4EOgeTavbsxVHe78UFRP6fKBd9j50gkrdz0YDyPNnjVe4eIGs9RbLg2JBI66Pc9WAseba2GLkAf9Ubh24scx1D1M3qBummXVnkK/d9I0wf46hL8oXifCFOXsozM+3wvwSU3JXhfHav56IcuqoEiIYgqDtBxfgbv70rX9+cWqHitbtfZ5kdPEyn2fo4tAJZc7TuN7sfosV3KSZRnDrZPI/tmc0tj0bnLsWgS8zP2hCVGub1hYYUaURG7E032xdcMZ6ttCLBAjxNAo5G1fLC4FvMWV6oxV+78rlVbeZHDnRh4v8fd8VHpwowc/+edtFI7uucVbSK1Jy6efkfT35iT3x0/dt2xnvKwn1QaXdv8G7+sTQxx0URz26cczhN76a3fw="
+}

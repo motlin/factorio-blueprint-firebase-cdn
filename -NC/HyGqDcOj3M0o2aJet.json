@@ -1,0 +1,35 @@
+{
+  "author": {
+    "userId": "RFBYRc7DSEalI9pbH56N7RPmYT53"
+  },
+  "authorId": "RFBYRc7DSEalI9pbH56N7RPmYT53",
+  "blueprintString": "0eNrlWktzqzYU/isalh3IAAIMnttuuuyim9tVJ+ORQbY14TWSyKMZ//ceIATHlmKJ5DbTdhHHWNKno0/npSOenW3Z0ZazWjrrZ6egIueslaypnbXzR4hj9GtTUYFYjXa8qZA8ULRtpGyqGwTNKcovmjnbHyQSrKA3CP1e5xRFPmoZzaFfs0MDKKckPwy9c1pLznbdnrqISfTAyhKRDvCJZDkpyyfUdLLt5NC5pg/jeNmMktBSoqYevsumvUHf4YuQJL8DiQTlknKhgiwbUiAyYDKOKvLIqq5CoqW0cKG/PMCc6IEICUIVHZ2mg7VuWU1kw8UNclxH1KT1ZOPtOSt69h6ddbBynSf45x9dh2xFU3aSen2/ltV7Zy15R12H5U0tnPWfz45g+5qU/Vj51FKgnElaAXJNqv6p46RmXeXBkh0AZHVB+zmO7sKRodXI9GQkNhg5b+XJwOh46zrQwCSj45qHh6dN3VVbymE1r+MlzCzahkuv31fAbRvBRlUcuU1u4oFdD77ADAXjNB/bk168M+DQHDiagKNz4FABjBdIHAOwAipaABWpoWJzqNhquckr8BasFnpdAIYTXjDg9Voh+qbBoLyqKbqSerhHV8CvrsLHH4FPjWlZTdOEaoKzq4JmHxE08K/iBx8iOggWGARWcxEsMS4NrwG236JAAxXZQ/kaqHjBCnVYyQIs3RJXxua4SElme9lB/POmMHo5S/RmlhMfAnsAYknelJstPZB71vB+SM543jG5gbbiFWfHuJAbu1jWB09J+nzF7x+qlvA+JEPHX5zj2F6PsgzLDvqPPae0Po0+fcAOwaInqYbn4+1RyUlmvH0TKb6JYw19Y9zYCtfc0BMr3NnoC5pDfse9OSNSYKvVI1GrxwvirB7iR+iH64zZpDVk+wSSdbXc9GnuhtWAMWZzOo3jtLjQt+hc39w37di/0EdXo7nhpea6TqiZF8fGQMGZSOcmEmhMJLT34RpfGc4unHDIxCsKSfu7epZa6dkM+jFVG5JjQXuMzaxxvUk3LQWFG09QPy3TOAulivG7e3+5wZoNnMOd6LawmmEBl+HJH8lWQiTmCcyS0BSu7KOoTslSeyhNPA4zK6cYDFj4wt1+nVP8+ZOd4o6UgtrFYb03U/YPUo0SY9/Wd2Cr7fgs3xErfYcX/FDfoaSyDw2f4D3wnHEISWnp5Qcq3kmPwoFwQw+HL+JkohMjPBGD5HcG2Sv+uuwV+/65LX5zLDw/1u4GVpVktIF4pAAIYIP0d8094fTRozVnOWh7Lb2WNzkVwrH12HiO5aIiZemVpGr1ya3mrIlj412N3+jX9WTgnzmTzDbEKSk2BzKavYR1iqkkOPUQFP76VYIAf9GpdfxlWsHgaO18gnmOGprmoOfZqlYbE9MTZabbvfA/YJMWyYt/woMKKrWH0plWZmSg2fsokfk5Ngh0fldVwY0sKlahFfCC8pUZMLYH1mxzZFEbxlYynvjTtmRSaYuvNWJ84UhfcpKWgxkCLsCUdCcd1UzmpeN4wYEgWtllHZE261A6uEiXZkbWNbL4X5JlqHlY6XjITHlIvp6HSMHC9cBsw1McKAIimMs95RxOcW/CeqC6wPHP8pwdK4FNg3QnUgTMcfB44zbdG6pZulXJElidalP17ob/j1KfkTacH2Ki7MopV6lOqq0K7dMB3RUittXATKeBVxJu8Ox00+w2J+ddvNgaDUqtL7ZoaBSpxigi8wLXkngWz4F5Uuz3a0mxJfuny7crdA4GMZD1+g7CrXIJ5hE/XcKQ+WXxIvjU+qLH6E2EOLO+kDHCTewvkMxwA+Or7iU0J6H1ZcFK7bAS+2sHMwIsLH0RA7G13JmGgcQaKdUgrey8TzrVxf0prf4cfxPb+JvE/vWOQd6+qjEIsD55/811SgJj4bfvrKRkW1L021gMG186e/NiGPSGxE6MeU4aRKssXK1SnGKcHI9/A8s4Hx8=",
+  "createdDate": 1663544401360,
+  "descriptionMarkdown": "TL;DR For every tile you put down, you get 1 U235 every 9.5 seconds.\n\nU235 Comes in from the bottom. U238 comes in from the right side.  Once 40 pieces of U235 reach the centrifuge, it will output the new U235 to the belt on the top and start priming the next tile. The stack inserters will automatically load at their maximum speed, without waste, due to the combinators. (When your stack size for stack inserters is 8, it will load 8, 8, 8, 8, 8 - 5 cycles. When your stack size is 12, it will load 12, 12, 12, 4 - 4 cycles.) \n\nThis is an overhaul of Nilaus' kovarex design:\n1. Use boxes with the stack inserters instead of belts.\n2. No queue of U235 that needs to be built up before output begins.\n3. Make it full-self-priming with an extra inserter and combinator at the bottom.\n4. Allow pass-through of extra U235 once primed, so that it can be ignored after building.\n5. Make it tileable so that you can make as much U235 as possible, at maximum speed.\n\n- With a stack inserter size of 12 and a full set of speed module beacons, a new U235 will go to the next tile once every 9.5 seconds. \n- Tile about 20 before the fast inserters start to get overwhelmed. This should keep your atomic bomb production running smoothly.  \n- Make sure all combinators are built and connected properly before feeding any U235 in. \n\n11/14/23 - Updated to prevent it from blocking the flow of U235 when the steel chests run out of space by setting shutoffs for the centrifuge and inserters. ",
+  "fileName": "Tiled Kovarex2.png",
+  "image": {
+    "height": 801,
+    "id": "jtRR0hH",
+    "type": "image/png",
+    "width": 726
+  },
+  "lastUpdatedDate": 1699995793150,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/general/beaconized/",
+    "1": "/general/tileable/",
+    "2": "/mods/vanilla/",
+    "3": "/power/kovarex enrichment/",
+    "4": "/power/nuclear/",
+    "5": "/production/belt based/",
+    "6": "/version/1,0/"
+  },
+  "title": "Fastest Kovarex",
+  "favorites": {
+    "XBYfT4aHG3SI5BdFwc502l0dRy13": true,
+    "CZLrNgU51qauVDklKOqBY3YXPwW2": true,
+    "hO28pb2GzwcRMlKBfuFVFBilB7E3": true,
+    "ojjy6M90aTbRQa5WeKMShJwRrvQ2": true
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Tileable%20Kovarex%20U235%20without%20waste.png?alt=media&token=0d963437-5439-4940-91f4-c77091c0193d"
+}

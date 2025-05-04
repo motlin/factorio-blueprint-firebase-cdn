@@ -1,0 +1,41 @@
+{
+  "author": {
+    "userId": "UrWZ6KC37GRnzA0mCQTgpSt53162"
+  },
+  "authorId": "UrWZ6KC37GRnzA0mCQTgpSt53162",
+  "blueprintString": "0eNqdVU1vm0AQ/SurPVRNBVGMIY0tufdIVVrl0Bxsy1pggleC3c3uYteK+Fs99dY/1lnAAROaypElG+/OvPl4b4ZnGuclKM2FpfNnyhMpDJ0vn6nhmWC5O7MHBXROjWIJ+LlMmOVSUI8KVrhzwcodN7TyKBcp/KTzSeWNuO+4tiWevPilci98prXc93yDU9/WNGE6k37ORMpF5iuW9jymo9FAWG4PXbAGQcm+Z1itvcaQQ1Nz47URZRGDxkK6XCHhKWg/kUXMBbNSI7SShtetwLAI589uLiOPHrCIayyDYietlvkmhi3bcfRAsxZng3dp7Wvcaf8fZvHItbGb/zewsfCBJVtaxysU03Vuc/qFuuJkaVVp/8Hn23jVukJMlbMDppuCSTRXTbH0npUmg0eeW9CW7JkhGYg/v/ErJTupt0gTCMKNvVyJlbgVmMKcLLmFYuHUZZmwvUauycfvyCxYcgeQmgvyobVlmtttAZYno9ZfWQaasNwQARn5wVDFFyvxra74JdxQN+hu0PcenkowFu2pU8+A9qBTzet0x3ifdbxfRti1lGtIGoubcR2Y5t6cPiNLxxHyaNPf4WmbmC11LH2rmTBKauvHkFvM7An5dLLHoZS6qLk9UcWiPijdqEdXV67049gNkEs81plG0/Qd2JMT7OkA2yjEwdLOwwyiHmTYm+s8QarPzO+0+KiXoMiMBeGj7s8FdZg4cq5pCm+WqpbpotmOa3JX/5LbwvFF35iuB5ynPdcp2fJa3zkYEuN8/bI8s4SVjySFgjRDMKbert2jAzSq31a94VC94bh6O+DBInvn5sIJQJjNcdowJVS6VKBZ25NP9LjLzgV/s824otoGd2vLLZQ7yDDyDsgDLjh4tcS0jKVjEZeJBpYS1yIk4aJeuUhd/TJZTrzAfdZe/TT1wjXeOn8M3r1yPZozHLDXglm2dflNOYvubTnUkkd3uCfqqqLrYBbOZlEYfJ4GN5Oq+gtjC7aL",
+  "createdDate": 1730632888875,
+  "descriptionMarkdown": "Easy Circuit for Cargo-Request\n\nInput from Roboport (read logistic network content) -> Arithmit * -1\nInput Combinator (with items you need)\nboth to deciver to filter out negatives (those items are enough in stock)\nOutpot to Cargo landing pad (Set requests)",
+  "image": {
+    "id": "bZU4yCA",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/bZU4yCA",
+  "lastUpdatedDate": 1730632888875,
+  "numberOfFavorites": 12,
+  "tags": {
+    "0": "/version/2,0/",
+    "1": "/mods/space-age/"
+  },
+  "title": "Atem Nauvis Import",
+  "favorites": {
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "qeST7wsECohOnSkFIoAHjtNB4Wv2": true,
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
+    "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,
+    "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
+    "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,
+    "famODU8cvORCQzZ0wM8bGg4TcIX2": true,
+    "NJ2Rg6V5VteClFaADQE0pDqoll82": true,
+    "Tk7MtyRn8ORbPnTVPuEvulUhxXd2": true,
+    "jOyXw79flpdPQ0qvay1UIgLKT252": true,
+    "EmLs4bLrUFVIx7oIA3CYPreKiwo1": true,
+    "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,
+    "aYB2yefWJXaSTlzFj0sE6csteGj2": true,
+    "KzlPKaNhLOcP8xEvPY1Dfsy73KH2": true,
+    "kWNq4WZh5uOypOlNLzkxd4u92423": true,
+    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
+  }
+}

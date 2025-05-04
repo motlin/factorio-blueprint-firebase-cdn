@@ -1,0 +1,22 @@
+{
+  "author": {
+    "userId": "9d8NbFGkY8fbDW578uosnEYKGKI2"
+  },
+  "blueprintString": "0eNq9WO2OmzAQfBf/hpPXNl95lep0IsRKrRKDjKkaRbx7ndCSu8ZcvSbtLwQYj8e7OzvmQvbtKHujtCW7C1FNpwey+3Ihgzrqur0+s+dekh1RVp5IQnR9ut7JVjbWdFo1aaNMMypLpoQofZA/yA6m14RIbZVVcp7tdnN+0+NpL40bsMwztladaivT0X1qjqZz13QvW+ug+m5wM3T6ugg3ayoScnaXygEdlHH4t3fu6e8V6n68LuMBji1wRh5SpQdprHu+ilB+RMjdQNV8G/u3P8fTeTxMHlC+gNbDIE/7Vuljeqqbr0rLNPeAszu4g1Y3Sk3X99KkTb1vpY+ZWEDWWdH7tq3QgNsI6mORIVnMU6XFexLeXHlAygODBN4scJt3MN0DtZk7vDDKgWU+gkVMKrLYTCwjkyLDJEUVkBR8njef/PuW0heoKgZlkc07GJU8QJGFlwUW3q+wejE3aYtYi2g32pWQAosrEY4vEeDh5Z7FRSxEUMAbLLGKxz7By2Kixe8L+FvBQb4BQEwh8S+2JBxHSwiUyKJiz+hmUEUqF8MoF6Ph0vW4c94G8FHH0jghYxDHHlDkWXh1Q2jtfUYqXE1o3K6JDb0V8ErMMpyFgCALsZTFkklernk8V4o3tAWKKX2SV2JI6YHt7ZxVG9SV4XOI06huzvDNnG8xKvi2wZGHIPGUM1DkIUhgdJOHH4JElI7xLNgUiSd4Ip4HN0H+T+07L+K9kwjwZjzyNFSgsqOKKugcX9CCxm9XFuI0BQQnRv4fzZFAKkuxvSsIvkE7S3xXEOESUz7BmYks3kzEsMP9eimjbdNrMv9F3L376ZiQ79IMt+8KTqHKGfAin6afBRXNnw==",
+  "createdDate": 1589764763633,
+  "fileName": "Greenchips.png",
+  "tags": {
+    "0": "/production/electronic circuit (green)/"
+  },
+  "title": "Dense Green chips! Pattern-able",
+  "authorId": "9d8NbFGkY8fbDW578uosnEYKGKI2",
+  "descriptionMarkdown": "There are spots for substations, use the level of substations that you have available. Most inserters are modified to move 90°and alternate left and right sides for depositing resources on outgoing belts. You may need to check that those work before patterning. \n\nThere are too many options for modules and factory speeds for a suggested length. I also upgrade inserters as needed depending on throughput. (I like using minimal amounts of electricity if possible)\n\nPattern them as you see fit. Per pattern, 18x8=144 squares, and an output of 4 machines. Without modules and using green assemblers, each setup produces 28 green chips per second. (4 machines*3.5Crafting speed/.5crafting time). Input belts are generally my largest limiting factor. \n\nPlease send feedback.",
+  "image": {
+    "height": 857,
+    "id": "EDGUwFy",
+    "type": "image/png",
+    "width": 441
+  },
+  "lastUpdatedDate": 1589764763633,
+  "numberOfFavorites": 0
+}

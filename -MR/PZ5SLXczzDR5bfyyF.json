@@ -1,0 +1,35 @@
+{
+  "blueprintString": "0eNrVWmlu4zYUvoohoL9qpyK1B2mBdPalg0HQf53AoC06IaDFpSgjQeAD9CD90XP0Jj1JHyUvsixaojLyYGAktiTy8fF7+6OejFmU0yVniTAun4yQZnPOloKliXFpvKBC0NGSCgZf8zTJBM/n8hnc4zEVoxBuk2ieR5SPIjpK0njG6SgmD/KJ4ITByDRfkUSMVjRhfMTp/J5y+BtFBMbBLxKyjI4yGgFVuPdnDoOZ+PcfoJDBmosFp9nFl+RLwqIRzcSI5FnGgCr8n8GSsM4d5erl5UxjbDDJvXH5x5ORsbuERHKv4nFJYZOwtxhGJCSWV8WsSSbSpbGGaUlIH4xLtB63TsxiEkWTiMTVibjDxCidp3Eq2IpWJtrr27FBJRKMlnwXF4/TJI9nlANLTQuPDcCFlcJ7MoDMxHX8C2dsPMJPZFkXDqwASAieRtMZvScrlnI5dM74PGdiCs/C3fwF45mYHnG/YlzkcGfPQDFi8qtREs8Ekbpkyot4STgRcg3jSj7OMwprRCmHPYEu0XJGQgulyuQiSP6745Qm1V2zcINl5dpZ367XlXtbZHBXZIJzIXM9MDKohoylQMbqgQweFJmXZ9YZhBTQ2F2h8c4FzauBoXHq0KjsyekBzbD29GJgaOw6NApk3B1jhDNxDwGRzSfAyowlBStNILkVkICnkPGSpUIFmwDbk95jlvV1QhmVNLpPYskilfNSiPdkkxT8BKPSXCxzjcVvDAlgowQ4DY/8GTiqrZ5s8B83S8o/HIhBUGMDqx3lMeFGwXo7/rda1iZWu+4W2gW7YJGgXJGUqIAst1VAmUvdR5Uc5VYrZrjH0DVB4ffQcedb6Tgl8/uKmh+4iKoK/9hDha8bVVita243VQt65HFoUO/6ZuhsBXWNPMjskbCYg4Lz7tzgYFMFDuoBzrCa83pocMyjRPfwOlBhhbUdul/XqIEc+nXFmU+Q6XmB5SLst5SeLTXYhhqGj2P5jttSj7bkWSU1GwW2Zdo7UpYWqZcHjAWmaaLAk2LZ1bs61F4dgmb7juea5o6Yo0Xs9SGxwPYgbNn7jbpa1N5Ug7PpYM8zq6h5WsTenhKAr0Xq3cEuHdd33QA+O2qBFrX3VWqOjUzXwWhPrDTUztQ+HGot9gMLLGGvHEjPCD6eQg3pmcCJfMvSTLj8bgkB2lfpIZ2zkHKNkgJ1clQbus/LtW5O1ROnOlwHMeG/v/4+kYudJrN8nBZSmS54Gk9ZAiQ2MaV7qXGUpdVSE69rJXKUTrcSOlmp4I6VCurTuBg2RXo/dBZQ71xgWwVOn9bFsCnS23O3LuyuKZKr63bsb+d21AD+3KOyk25B7VAWJMqUHqVZQTVt3avrs6uSkacrI+c7Dg1XPURJV5Q/inuW3H29EHHcNKqJy1MGhbapyH1eVFA1bVCfrs2+TMT++qx9ms7zPtV7kVe9lKRYXUcDgiPYVQKvx32MNSWsDPRBD5H65xPp58a+G6o13n7oIa5PWrKqA15pCTdJ1m+xbdzN4HCPThUOBs00Ppy7GaNUXdzjrPo7BwfXwUH+6fpAmcNi3MPuvfPZ/U2z3T//yOiz2uw71tfj1th5wjEELZE76OgYrGedEeJgkPOTUznYEGcnN7qytDTP9bwW68ItuqF8l6RHeT2w6/o4tOtCxyWkAhyn6a2pxjJET52/BkwtdeIvxePNOjQhs4hOQ5bJ7xKycbmnqdzTkmrkqL+XRiSmxfxsGrGYiQOam3t65qMjwaYqAXgSWxM2moTpdtX0fd2PvUE13Wwr9Z+bwXQ8Asf6rwM4XTDqdV60fSNj0492zcq5B9J+23BLpecB0a5zUuuNF4eW3csrr6nXCSVWwfll5QXVsRGRGQXOjDc0K95D/Y08bF70vCOcwoAVIFqIAvvI9gLsYdu1Ld9er/8HAWaMgg==",
+  "createdDate": 1611058407506,
+  "descriptionMarkdown": "<h2>[English]</h2>w\n<p> Check out my Youtube channel for more information: <a href=\"https://www.youtube.com/channel/UCdlujoDu2bPxSKpWIOWFz6Q\">Danico Gaming</a></p> \n<p>This small construction makes it possible to limit the number of trains according to the quantity of the chests and to manage the maximum number of future trains in the station.</p>\n\nIn the constant transmitter this find 2 signals that you can modify according to your needs.\n\n1. \"Info\" signal: this is the value that your train can contain (example: 3 iron ore wagons = 6000)\n2. Train: this signal makes it possible to limit the number of trains that can come (example: you only have the place for 3 trains but the boxes for 7 trains so your station will be limited to 3)\n\nTo connect the system there is calculator + at the top of the image. Connect your safe directly to it\n\n<h2>[Français]</h2>\n<p>Regarde ma chaine Youtube pour plus d'information : <a href=\"https://www.youtube.com/channel/UCdlujoDu2bPxSKpWIOWFz6Q\">Danico Gaming</a></p>\n<p>Cette petite construction permet de limiter le nombre de train selon la quantité des coffres et de gérer le nombre max de train avenir dans la gare.</p>\n<p>Dans l'émetteur de constante ce trouver 2 signaux que vous pourrez modifier selon vos besoins.</p>\n\n1. Signal \"info\" : ceci est la valeur que votre train peux contenir (exemple : 3 wagons de minerai de fer = 6000 )\n2. Train : ce signal permet de limiter le nombre train qui pourrons venir (exemple : vous avez seulement la place 3 train mais les coffres pour 7 train donc votre gare sera limité a 3 )\n\nPour  connecter le système il y a calculateur + en haut de l'image. Brancher vos coffre directement dessus\n",
+  "lastUpdatedDate": 1611058407506,
+  "numberOfFavorites": 5,
+  "tags": {
+    "6": "/circuit/counter/",
+    "0": "/circuit/indicator/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/",
+    "3": "/train/loading station/",
+    "4": "/train/unloading station/",
+    "5": "/train/crossing/"
+  },
+  "favorites": {
+    "w0Ce9dFrlnVxDADCb49BTBNSlN43": true,
+    "rxLnyLwNvHPeHerSjsHle8plFe73": true,
+    "V515dCjEUngAzrK44nUMwDHWagn1": true,
+    "SElYPaFgB3f468N9eZf3MN5YuSS2": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true
+  },
+  "author": {
+    "userId": "wNV0sR0FMJSn5PxJaYA3VcSqAUB2"
+  },
+  "authorId": "wNV0sR0FMJSn5PxJaYA3VcSqAUB2",
+  "fileName": "BluePrint_gestion_Gare.jpg",
+  "image": {
+    "height": 1080,
+    "id": "QIBdBmx",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "title": " Train station limiter calculator"
+}

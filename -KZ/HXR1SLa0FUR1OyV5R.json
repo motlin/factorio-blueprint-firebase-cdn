@@ -1,0 +1,33 @@
+{
+  "authorId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2",
+  "createdDate": 1482074735016,
+  "descriptionMarkdown": "Part of a set of blueprint for a 4-lane railnetwork that includes solar power. Based closely on designs by Zisteau: https://www.youtube.com/playlist?list=PLVPJ1jbg0CaFzYF6jJyUIJYXYpCE4UIr3",
+  "image": {
+    "height": 806,
+    "id": "udxecmn",
+    "type": "image/jpeg",
+    "width": 834
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4-Lane-X-Junction.png?alt=media&token=fab37807-48d6-44bc-acd8-85a12e2c596a",
+  "lastUpdatedDate": 1498344559823,
+  "numberOfFavorites": 32,
+  "author": {
+    "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"
+  },
+  "tags": {
+    "0": "/train/junction/",
+    "1": "/train/roundabout/",
+    "2": "/power/solar/",
+    "3": "/mods/vanilla/",
+    "4": "/version/0,14/"
+  },
+  "title": "4-Lane-X-Junction",
+  "favorites": {
+    "d5E6YHHvycaJQKdJfXVjcs2OnlG2": true,
+    "W7JSus0WLyQIHtcf3S72kHaBLYe2": true,
+    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "GNbsWDnsFZXKep3FNDDr43QdULx2": true
+  },
+  "blueprintString": "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\n"
+}

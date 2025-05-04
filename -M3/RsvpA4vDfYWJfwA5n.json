@@ -1,0 +1,32 @@
+{
+  "favorites": {
+    "NgBzqG2VRIg1R5gVTmINfsmCtMQ2": true
+  },
+  "author": {
+    "userId": "R4oIiyLvkkXzQvLhRFUTnYiIhes1"
+  },
+  "authorId": "R4oIiyLvkkXzQvLhRFUTnYiIhes1",
+  "fileName": "Screenshot_3.png",
+  "image": {
+    "height": 771,
+    "id": "1VI8CGq",
+    "type": "image/jpeg",
+    "width": 1082
+  },
+  "title": "Accumulator charge controller",
+  "tags": {
+    "7": "/power/nuclear/",
+    "0": "/power/accumulator/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,17/",
+    "3": "/general/early game/",
+    "4": "/general/late game (megabase)/",
+    "5": "/power/solar/",
+    "6": "/power/steam/"
+  },
+  "blueprintString": "0eNqlVW2OmzAQvcpqflawAhLYlh8rZXuMKkLETJKRwCBjJ40iDtBb9Gw9ScckhXyQLEn/IMaeeX5+b2zvYZEbrBRJDfEeSJSyhvjHHmpayTS3Y3pXIcRAGgtwQKaFjVIhTGHyVJcKGgdIZvgTYr9xPq2syi0qt96SFuuT0qCZO4BSkyY8MGiDXSJNsUDF2MMIDoc1F5XSrshAbvAaOrDjH+81ZHzekVZlnixwnW6I6XKaICUM6YTnsq52SarWyRX7DSlteKRb/pDhfsABvNap1c6zQVGlqpUkhj+/fkNzyJAo7Bq1BfXtZ6UQ5ekeKWMBnI6WDf1mztXfjX+ZFzmwJYXtv8dJVvILqYLeJkV6XaAm4TK7BcmW3bVm3lEzj9fMGF0cJoNh+XrUXsH6WQlrtBhJr+RXlrKskIVsOcAXriuNrswDyDPW/hHx/RMVbTw5NyO4mI5acwILpzC7BJtcOznk0qQjnaGgjFt6lEWuf+5RNOzREfP/DJqd93h42eTvT1hzPDfVjqkZqZOlKouEJGNAvEzzGm8ZN6B0cN+msLdp7JEbMmo6eOtdOTTi3nmmjUeLEd6gH3ao/5y822j+I122pFyjuvFifNJVxraUO/VOXo/5+N1O759Yf+DEDokTdeQKzMgULua8uOL7sipzvKWO95ArzgPdx8ntcxmfvMsO5OkCWVmY9f33ItapWuHL0ZUcrZUb9qLl+jbx/G9R4E/eoqb5C7Uzsys=",
+  "createdDate": 1585327619562,
+  "descriptionMarkdown": "This blueprint allows disabling power switch when the accumulator is discharged under 10% and again enable it when accu is charged above 90%\n\nAutor: Vega_128\n\nhttps://www.reddit.com/user/Vega_128",
+  "lastUpdatedDate": 1585610707064,
+  "numberOfFavorites": 1
+}

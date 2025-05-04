@@ -1,0 +1,42 @@
+{
+  "author": {
+    "userId": "A9eGHHYPCuY65PSckPpKzDd8VtD2"
+  },
+  "authorId": "A9eGHHYPCuY65PSckPpKzDd8VtD2",
+  "blueprintString": "0eNq1mGuO4jgQgK8y8s9VMoI86AGp9wR7A4SQk1SCZxw74wfTrRZ333JgcBJomqDwi+DE9VWV62H7g2TcQqOYMGT1QVguhSar9QfRrBKUuzFBayArklNVyZBTUTBRhQ0tyCEgTBTwRlbzwyYgIAwzDI7T2z/vW2HrDBR+EHwuJiCN1DhTCkdz0pIoIO/u9wciUCOjJN9msKN7JpX7KGcqt8xsa1nAVpZb2YCiRwlznKLgtwVttiXjBpR2MzTk7v1Rua7W52+VrLeZLct2glEWDofgwo7obIeSmWykMtfUT47qp8koXa7xYu83nGCoMGEu64wJatATV9Dz7+kJ/vI9RXzB1JFGVsl1X3ptPtEsIGfde6N/HQH5e87BafPbUo7a46CQqsboccS6oarVdkVe2wHrQm0+mzlzT9K8W4GjCrgUtBJgWB42GClmnOikKzk5S6bFnoocivAUPGOFzjDaa7fibajg29LySipKOrT0TGuUzEFrF+NWjIUt7oItPnWazhmgqZhd+a/RyzJzWVEpaRt8tXb+B/N6wm/We6YMiguP5eFVsWpnQqqU/LMh/QUdithbnlNh9d0y4ksZFYfsfiWSLyIX3hqFaxQaRYV2zg4z4COXKnVLVdO3rf9/Pa5PLIsvlDNLFA/Q5gNaP4viC5puULJ5IDdvUHxGZZb/CpnQoEYjogEi6iF8GpVUmwcRt63wycMl5ugO+xGWhmeQfpxJNRTM1uExW11tkxymJC39yrDqeZj57MzRNsOm1LaXKQE+RanWUGfcldGa5jsmIIzHJuggP7sgn5+S8VBBiQD1PtaWgSldQKd/76BmORatBzpaNEyWLiIZtAFc8dIqQXOY0FE+I2VZ6p1U2Fxs3Uxohk9IJ/jn6M51U7jPDC05VdgYBfApK1bkc4Lmua0tP23QpiP4pNAoh+MWeqz/b61w5FOBKmZ2dbuR6O01pyL5nCggZ9gOn4NJvtg6T8VZdFbesD0mhpL7o1k73PhPSHrxKYJ18ako37Q0TqQVTE7oNKv20DU1IJ51TijtEewJjPm14+BERSuOOluUimmXj44yEhEPqkrc3zIODpjKtgfAJ4BehqcV4erLI0cxrIsXhbKH8sHLEOMarhm/AbrYoPQQy47bmgYj6wmQpLPPMgD8EUYyQCR9Qqen4FkRWkKJMkOsl24f/MgJsm/StcOkoHbPvjoHbg7X7kOSL7vUZ3dJ6eLO+xAvGI0QBTtfjpRMabP192LmvXGKnKwg3pXtFyHgftVdkWlwYrZ/mxBZheiizoUV+QenSmsaO1r4VRelt9vrhX/Skf45SR04p/tv/bCvekH1L3HBc/TM8E7yPve4GEIRf9AmJ2A9D6IgDZJNsI7wKQkifIrbMfeU4Ih7whnMgLt08VejAeEUj+s49t/x5vJbQ4tvp8aCb/egdOu0dBEtk+UyTZJZEqeLw+F/vooZdA==",
+  "createdDate": 1731712633957,
+  "descriptionMarkdown": "Circuit that will automatically request from platform only items that you need.\n\nIt work on all planets.\n\nHow to change requested items:\n\nGo to constant combinator and change logistic group to what you need.\nYou can use the same group that pulls things to the space platform from the planets.\n",
+  "image": {
+    "id": "iK7juPN",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/iK7juPN",
+  "lastUpdatedDate": 1731714689327,
+  "numberOfFavorites": 10,
+  "tags": {
+    "0": "/version/2,0/",
+    "1": "/mods/space-age/",
+    "2": "/planets/space-platform/",
+    "3": "/mods/vanilla/"
+  },
+  "title": "Cargo landing pad - Automatic request from network",
+  "favorites": {
+    "NpLAScMy2ihG6nokQKcs4apPrgk1": true,
+    "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,
+    "5O01u19sLeV2KUowegpdi0Mfaiu1": true,
+    "ocV9ibG8mVVnvwjTVLYZf6Rq0jD3": true,
+    "xzi2eMmaGdZ7pWNart8dKgk14Lc2": true,
+    "KivVYvRQTXP0gNOAKEtU9HSNJZ52": true,
+    "M7syl4343PWRo3WcG8qxY9MylnR2": true,
+    "ZY64AlFgXcVlFDSxHsCHfGHWijw2": true,
+    "igUggl5TdBahMSdgyglC0j8t6tW2": true,
+    "teeMkYcONMNUuWvaIIN4eHt3WNy2": true,
+    "TiryW3bpxbX7PYsS4Mw2T9ExwyR2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "vNxmhmWkjGTkLBMIcRlQ5CeVb272": true,
+    "9hJKsOvZMpQyzkKWwIaPN42ujst2": true,
+    "B0KOmdg2OYciavffRlLAOMasVH82": true,
+    "Vx9R519Xg6TJDNtA74BzorAre3I3": true
+  }
+}

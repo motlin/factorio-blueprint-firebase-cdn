@@ -1,0 +1,37 @@
+{
+  "authorId": "lEPYdC58rvhWCgVGvgeoUBREKXf2",
+  "blueprintString": "0eNq1VduO2jAQ/RXLfYE2bHNjYSP1odA+VGpfKt7KCoVkgJESO7IdugjlA/oh/bH9ko4TFrLbrZpUWwlFGexzfGaODxz5OiuhUCgMj448BZ0oLAxKwSM+k8bInH2GjWEfIMEUFHvHBq+Y3DANiRSpZgdZsu+xMEN2x65dWp4vxVfc7gyby3yNIjZSscGGHgo0GINiO7Qk87eBhYy8pViKxQ7YWQeDuzgvMmCoWeg+HBTZfd7VkPUVNbaiBqF7fved0HUt2/yhYLbyibuXcFv4hG7VU+I6vY7onTscSZDm0bcj17gVcWaHbA4F0HT3qExJ3zhcxLn9otkxWvCKcCKFOx55ldMD+amF9Hshv7SQQS/kxxYyrG4dDsKgQWiarovDSpT5GhS1c0bHCs0uB4PJKDmPm8gLqbG5fUdOjGNv4vADj0aeG9xcjemoFBUkzQ7f4TRdo2S2WsMu3iMxEOxCvbK3oabTdmGDSptV587e286aG2WJtIltRqgFWYCKTxF5QzBZmqLsR1xVtXbRtFKr8+xjqwBEe3KY1kcmqJISTV3WzraWg6fLt0TuWzYF6VMu//FmzzrW5VDaaEX/5qh/bi5tstjZzmlHO0+8L+DlxUQbW1vnRaxqpRG///HzH6ycNbzFgeSVwqw2SuYrFMTBo02cafiT0c9Y4/XxMehmT9A/cOTLJXLV/43Y7NmI2Z/Oxyl7/bIp+3suWsPvng6KEhrIScLlP9XhWbwG0ssXmIMd+B6Ubu771AsnN/5kfE2fcFpVvwDGsYLh",
+  "descriptionMarkdown": "A timer. 07/24/2022 Fix thanks to Hares\n\nIn the picture:\n1. Bottom Left Decider = (**# of seconds you want**) x 60 = **C**\n2. Right Combinator (for resetting) = (**C**/3) x -1\n\nThe blueprint example is 40 seconds:\n1. Bottom Left Decider = (**# of seconds you want**) x 60 = (40) x 60 = 2,400\n\n**C** = 2,400\n\n2. Right Combinator (for resetting) = (**C**/3) x -1 = (2400/3) x -1 = 800 x -1 = -800",
+  "fileName": "2018-05-05-21-39-23.jpeg",
+  "image": {
+    "height": 2006,
+    "id": "1Csvtm3",
+    "type": "image/jpeg",
+    "width": 2089
+  },
+  "numberOfFavorites": 9,
+  "author": {
+    "userId": "lEPYdC58rvhWCgVGvgeoUBREKXf2"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2018-05-05-21-39-23.jpeg?alt=media&token=75bda18a-b97a-484a-9292-63335fca6c4a",
+  "lastUpdatedDate": 1658718226853,
+  "tags": {
+    "2": "/circuit/indicator/",
+    "3": "/version/0,15/",
+    "4": "/mods/vanilla/",
+    "5": "/mods/creative/",
+    "0": "/version/0,16/",
+    "1": "/circuit/counter/"
+  },
+  "title": "Timer/Stopwatch",
+  "favorites": {
+    "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
+    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
+    "oDs7ZPRTUob2eeaRdBX2qXN9LGI2": true,
+    "eGPxZ44hxvS9weyZsixxEsnOwjy2": true,
+    "xsZ1ACrRRMU2J50EsFoXdBKuEy63": true,
+    "KQqlwOwi1jU0la0oCYm5NRXSJ5s2": true,
+    "J1fLrjM5A2OakN5et032wO7cmcE3": true
+  },
+  "createdDate": 1525570192255
+}

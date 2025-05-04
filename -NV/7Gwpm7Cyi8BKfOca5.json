@@ -1,0 +1,30 @@
+{
+  "author": {
+    "userId": "FDRHPVEODyMtZwlY53EIKqfxx5B2"
+  },
+  "authorId": "FDRHPVEODyMtZwlY53EIKqfxx5B2",
+  "blueprintString": "0eNrdWstu2zgU/ZWAazEQX6JkzCyKrrvpZhZFYcgSY3MiSwJFZZoG/veh7E4ie8TwIRQFugki2Tzn8F7eB2/yAnbNKHolWw02L0BWXTuAzZcXMMh9WzbTO/3cC7ABUosjSEBbHqendqwaUSqoRFnpToFTAmRbi29gg06Jc/UgoCGqRTsIBfWodrIVMwjsA2FYy72AumwfZ0vJ4tInqfRo3swFDH1ZieEg+9lqevqaANFqqaW4mOH88Lxtx+NOKLO5/yHAXhqKBPTdYFZ17cRqkCDG6T1LwLP5FdHsnp0mYTdoeBkN6g7uVTe29RIuKq5xE1BLJarLd7IFFuKvGWVOzTRKM39HM15gYRaWpmv38G9IFkloIEkWYBjsNAyPMgwKdGburznNnZqLGM1pEWhnlL7SHESpofhWHcp2bz5yhM2iZhQQg2hmArpsAoQDxM3jYxktJNioW1xctM2AmQWYhewau3YdEkmpe9c8QNz8lC+j5cs1YwmLvWERi7bCWgId5w9ZasBbcDyUg4Zyqona4ogbfdfZIgGmpmrVNdudOJRP0kgyCyupqlHq7VRvX9EepBr01qNMnr8BP0wlcuoMjOFMm1Cw6enYl6qc9r0Bf5w//0FkzFFvjb/qiVKb3ZpCqtUoLhDtRe4wsaLphxL1vNBK84RNGTamAt2TUErWYmt4q0cj97v40V7c2hAF2HAWHPhsQ38aHEBD3nEV/n1cxUNdRYLiJ3XHD42LH/QTnHLdoY6DqOHYw1GVrRyP8GEUDaxE01y7CN146E9wCrB/Gmr/t8T/T9eZDhxWBzFoV6TYjJ+trU/prRvoEg2PCzz0E3LkL/AxDvVxXMVLfXo5XMT1ciR3u5mkUZ0dyZcPJ0FxnZ2XVBzV51mlkpVxRAoLMI3r87xswKK6PqsNsriuz0sqD7g2ZW6pIbcw5oYrAuDch4mmUUMKYrvwx923rHAhkVO44eKmG1Y4GgDH3XAsLk3Y4ELuWcwNx9dmHe5TvWkeNWexqg6IllkzYINjIUUHueHQ+5Mr5spmfuMxHJeAbKLfgqgfj70r7/BFDPr+dNeRfCzXbcaCUedhaUPNwlGpG5WHoyI3ah6MOj9ONtQipkUkxGusmkZNFWc0lqFVhuLqpA0Ox9XJ1AJH4gqbDY7GjMD5Na7bVysH7Z4sWQwLCmXhESzzWPFjyeNaScsNOivi4Cynhq+OPeRT0jlaS2PTj9dUEezVj3CypqZ4ctA1FcaTg62pN54c2Zrq48nBY2oRttx+eB6V1bHlbxG8iMrqNrg8XZfVz7jOHJWjdVndkwWvy+qeLGRdVvdkoVFp2OpmtjI/YuYTOXkWdQ24qP6aXGaZm9l/gCSgKXeiMe8+/hfqdyy/x3ef/rr7/DqmfxJquFgyR5QXmGeFsTjBp9O/P0D7Mg==",
+  "createdDate": 1683766103470,
+  "descriptionMarkdown": "(For the Space Exploration Mod)\n\nThis is a 58.2 MW nuclear reactor that uses condenser turbines, intended to be used in mid-game spaceships.\n\nThe reactor will add 370 units of Hull Stress and 58 units of container stress to the spaceship. It stores enough fuel cells to last 20.8 hours and enough water to last 3.48 hours between refueling at 100% operation.\n\nThe input inserters are wired to read the hand contents of the output inserters as a pulse, with a circuit condition to only enable when reading a used fuel cell. Combined with a stack size limit of 1, this insures that only 1 fuel cell is inserted into the reactor at a time. The first fuel cell must be inserted manually. The output inserts are then controlled via a circuit condition that reads accumulator charge (accumulators not included), only activating when the charge is below 95%. This allows the reactor to conserve fuel when idle, or even when in transit (say, if the current region of space has very sparse asteroid density).\n\nThe low container stress makes this reactor ideal for large haulers, and hitting this low stress is the reasoning behind using a single wooden chest for fuel cell storage, as this saves a whopping 88 units of container stress compared to the standard configuration of 4 steel chests.",
+  "fileName": "reactor showcase.png",
+  "image": {
+    "height": 920,
+    "id": "s2Lj1GM",
+    "type": "image/jpeg",
+    "width": 737
+  },
+  "lastUpdatedDate": 1683766103470,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/power/nuclear/",
+    "1": "/mods/space-exploration/"
+  },
+  "title": "SE 58.2 MW Condenser Turbine Reactor",
+  "favorites": {
+    "u0t8Ux9JI5WUDfvdiVGFvmdQ7qu2": true,
+    "alBepV3YMSOZF6NGCKPgRQM3Txc2": true,
+    "gqRxnCXXMANqEwcgCfIdenYYsO22": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
+    "tHmMdZr98kMW0nUBFVNJhrOhmKd2": true
+  }
+}

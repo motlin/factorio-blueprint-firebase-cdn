@@ -1,0 +1,22 @@
+{
+  "author": {
+    "userId": "cCOADiTVkWR3tpdDoVdRUrkSE202"
+  },
+  "authorId": "cCOADiTVkWR3tpdDoVdRUrkSE202",
+  "blueprintString": "0eNrtmd9u2jAUxl+l8nXYsAkkRFWlbr3e5W6mCiXhAFbzT45TDVU8wN5iz7Yn2XECNEAS4jTQVdpN1ST2sf397O/Y5oV4QQaJ4JEkzgvhfhylxPnxQlK+jNxAvZPrBIhDuISQGCRyQ/XkCi5XIUjuD/w49HjkyliQjUF4NIefxKEb42yMOfh8DqI6ANs8GgQiySWHokf5w3oWZaEHAltoimOQJE6xahyp1jHceGiQNXEGdPRpjI3MuQC/+MwMgoOWIg5mHqzcZ47Vsc426Ay/zfNAqXq74CKVs5NxPXMhM3yz71JRYuCvwH9Sg1KySldpTNVDmLgi76dD/vz6jdXiTCaZRuBhETRZY/+ySM4WIg5nPMIYxFm4QQqbotGoGGXed6r+CJiXxeT4RMdYlAs/4zJ/RuWxMqspzQ4LUyy8UayP6DA9Ouw96AwPyUzMIzS3PYORItPhwo6xGIfY3kTtMNaoHdTRmeV/ytXU5Poa921owfVXikQKKsystPzQB+IEEHHeDfK5A+Mi+FtI7lEtBUB0XHxSI7+pLf/O9Gg/8h+42FZavZVRlv62y/pi9cLXatmkNW3pZ+N9R3YiNCuPE36r/TDXvkrtBQ8kiJp0WyfAfWEwmaLAzqTbuhhfSjHMUsbVifG1FMPexxhpxXgoj+W1I2bOrOXastrxm+zbDmHOs3AAAQYXuICSOICqjLQHSHcA2824UbNtm81ObDV/plVOjUMDvlx5cZZPJjp5rBDA0jaPwwn8bt7d3WDu7q5h7mO1UT3nPRX17HYT19bmZv0b3A6SRRnL/beHa3CxTpNulb5TPWM3rZ0v2Jfzdbvk6xpWSGm7KaX2QN3GPL3cmEfDHpIZYz1kM2r2kc4m3dJZ2/0IpV03g/YHsXN2bOdX8o1prZ9Xsan3d9ryUEVZV5LT/ySb19KwFqV55mxNL0Ja//w8+lhr9p22YJTp4WQdt2zHN2W1oM2up8XJ5RIs7SG/DvtIrz1kV9oxubblN9a7vdzCs655eQnPINZyxaNl8/1ylwVYurbu54b5zJmYms3LriW11zN+mnkoRw7hlBYtaI2Pz814bEZbyH+icEq/ihgkcD1A2ch3tFfXC+BGikyubqT6Hz8jiLTAbVPTmjLLmpjUYvZm8xfeAKDi",
+  "createdDate": 1698078859995,
+  "descriptionMarkdown": "This is a variable truth table with circuits. it can be configured to have up to 62 different output scenarios(rows in the example below).\nAny number of inputs with any number of outputs work.\n\nThe configured blueprint contains the following truth table:\n\nA B C D -> A B C D\n\n1 1 1 1   -> 1 0 0 0\n\n1 1 1 0   -> 0 1 0 0\n\nx 0 1 1   -> 0 0 1 1\n\n1 1 0 1   -> 0 0 0 1\n\nThe left 2 constant combinators contain the input truth table.\nThe top constant combinator contains the output of the truth table. \nThe bottom constant combinator contains the input signals",
+  "fileName": "variable truth table.jpg",
+  "image": {
+    "height": 688,
+    "id": "AbI2Ree",
+    "type": "image/jpeg",
+    "width": 1016
+  },
+  "lastUpdatedDate": 1698078859995,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/vanilla/"
+  },
+  "title": "Variable Truth Table"
+}

@@ -1,0 +1,25 @@
+{
+  "lastUpdatedDate": 1499429612229,
+  "author": {
+    "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"
+  },
+  "authorId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1",
+  "blueprintString": "H4sIAAAAAAAA/7VY226cMBD9ldU+g7TYwG4U8dD+Qj8gIuCkVrkJTJVotf9eL1AlgO0Ze+GpUXc8nsuZMwfn9aGos7Q4vCRXVgkuOOuS67VKS5YcX1ma1dXR\na+pO/lBXyfUj8SPvM/GD8OZxwcq77f3f5Ng1jOV+Wed9wXx69LK6r0RCbrebN3lreMMWvsjgKzLaBLDNCTZBeFkFo0r/oex9UfvvrfwpV9Yh/LJmH03Lus4X\nbVp1Td0K/5UVQlkZGUvOW5YN/02sPJy2cUCd4qbqa011ciqTokqhlQNiChcfwQMO6NpBaETpNKSBPUxLlvO+9Fkh72l55jd1sRzIMRrydaYTafbH51XHWsFa\nZbOJOvbsNyu5ZB+/KdJKia3TrGqe/EviQ17ZF2+9vGqeXtPKzKTpXy4+H8wyWCYJ41KTo45oAgzROHQQDyhNwP8dyDRZO6ardRHMXHji894cXjW9OCIAetlk\nidAJKDZUO4NVDHp/AvfGkw1STmoq0MJgkzrBiawKiSWDM7zkL3ALLzYdPDsSyuxcvBWfmBhwHW7sMmpn1aTVvZiNmqluyxrrxzLaWN3Q0SkIgBiG0TcTsNWh\nqdUSzWnG8x03yDJeECORJSs4tAm9GyJ3uTS10lKrEPdkzMMzQkuGYD8x41GN7DKKHrLGHwhtCu4YilAMDnVEsPy4tuAJRuqlaWXD404sxj3Yc9w1HbHShwjq\nfUDuIaYg0A2BhY/TTS3ywHHAKy4yhIoDUjCmpfJsimh1LET3MVCzNG4fIEUqXdbLzKCOyFELQAxM93j+oHp8GGkE/dU13EJADqN4yqG7aEkIgIZ3k3U3EStj\n42bSeZUtqCXSUAsIHVhahuCqCfFtj3d5klBvGGNqFGMQIub5vJtoONtpz6FZscOZb/eAmyjGDtAiARzFGz9iFqHqRtKhH9BI2gry+xvFHl8XQ7cuDmcsHlie\n7Df7Iirtlt2zKtgnLGJhO4opzeM3eInDOao4J2smq3mvWcffq7RIriPPvxX9XZJPYzvT6fKIXBgfgxoZf/85tITlh1+T4eHHYPjcMtG31eHlmVX5P1B2ZAHO\nGgAA",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bp-sulfuric-acid-fs8.png?alt=media&token=ddaec0e8-ae7b-4ee0-b382-1e915d73fbbc",
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/general/beaconized/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,14/"
+  },
+  "title": "Beaconed Sulfuric Acid",
+  "createdDate": 1491304402559,
+  "descriptionMarkdown": "9-tall stackable production cell for sulfuric acid. Not ratio-perfect.\nAll liquid inputs and outputs can be easily rearranged to point in the other direction independently with just 1 pipe change.\n\nInputs:\n - 1 pipe of water\n - 1 pipe of Petroleum Gas\n - 50% belt of Iron Plates on the side closest to the chemical plants\n\nOutputs:\n - 1 pipe of Sulfuric Acid",
+  "fileName": "bp-sulfuric-acid-fs8.png",
+  "image": {
+    "height": 897,
+    "id": "FDv0h1b",
+    "type": "image/png",
+    "width": 520
+  }
+}

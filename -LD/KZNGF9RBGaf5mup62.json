@@ -1,0 +1,28 @@
+{
+  "descriptionMarkdown": "This is my first upload to factorio print and I guess my little design has some flaw and is not perfect.\n\nMy design is a small centrifuge that will perform kovarex enrichment with a system of chests and a logic with it so that the enrichment process is automatic and the player does not have to intervene.\n\n**The only thing that the player has to worry about is to enter the 40 uranium 235 inside the requester chest to start the process**\n\nThis system can be downgraded by changing the requester chest for a belt that introduces uranium 238 into the system and the active provider chest for outputs (other chests or belts)\n\nBug: In rare cases when the 41 elements of uranium 235 are deposited in the central chest the logical system does not detect it well and does not activate any arm, this is solved by removing and returning the 41 elements inside the chest. (it happened to me only once)\n\nNote: \"it's google traduction\"\n\n---------------------------------------------------------------------------------------------------------------------------------------------\n\n**Spanish:**\n\n**Lo Unico que hay que hacer es meter 40 elementos de uranio 325 en la maquina o el cofre solicitador (azul) y empezar el proceso**\n\nEste plano busca que mediante un sistema de circuitos logicos automatizar el proceso de enriquecimiento de kovarex, ya que como sabréis necesitáis 40 de uranio 235 y da como resultado 41 de uranio 235 y la centrifugadora al usar huecos diferentes para el producto y los ingredientes necesitas sacar 1 de uranio 235 y el resto volverlo ha meter en la maquina para que vuelva ha procesar.\n\nEsto lo he conseguido aplicando una serie de circuitos logicos que cuentan que en la caja central (puede ser de cualquier tipo que no sea de drones) hayan 41 elementos de uranio 235, cuando obtenemos los 41 elementos el sistema de circuitos logicos activa el brazo Azul (puede de cualquier tipo pero que tenga  sobreescrito el tamaño de stack = 1) para que pase 1 elemento de uranio al cofre proveedor activo (output del sistema) tras pasar ese elemento (quedan 40 en el centro) se activa el brazo que se dirige al cofre solicitador (cofre azul y input del sistema).\n\nEl sistema se puede modificar para no tener que usar drones logisticos cambiando el cofre solicitador (cofre azul) por una cinta que traslade uranio 238 y pase por el lugar del cofre (para que el brazo pueda meter el uranio 235 y reaprovecharlo en el proceso) y los cofres de salida(cofres proveedores activos) por otras cintas de salida que se lleven los productos o cofres proveedores pasivos (ya que para el logro este tipo de cofres los permite).\n\nTened en cuenta que este es mi primer diseño publico y puede tener fallos o bug.\n\nBug: En raras ocasiones cuando se depositan los 41 elementos de uranio 235 en el cofre central el sistema logico no lo detecta bien y no activa ningun brazo, esto se soluciona quitando y volviendo ha meter los 41 elementos dentro del cofre. (me ha pasado solo una vez)",
+  "image": {
+    "type": "image/png",
+    "width": 388,
+    "height": 668,
+    "id": "Lk0loL9"
+  },
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,17/"
+  },
+  "title": "SmalI SmartProcessor Kovarex Enrichment - By Hollex",
+  "lastUpdatedDate": 1556215175728,
+  "numberOfFavorites": 2,
+  "favorites": {
+    "5WBwlfihhCOj517eiGyCycwP1Wx1": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true
+  },
+  "author": {
+    "userId": "aNuC1fG7YjgVZTtAgPRId7wFv9W2"
+  },
+  "authorId": "aNuC1fG7YjgVZTtAgPRId7wFv9W2",
+  "blueprintString": "0eNrtmF1unDAQx+/iZ6iwgV2K2oekfe4FqgixrNlYWQy1zSrbiAP0IL1YT9KxSWHD18JGUVIpL7syxv8Z5jczNjygzb6khWBcofABsSTnEoXfH5BkOx7v9TV1LCgKEVM0QxbicaZHCeVKsLTcUVRZiPEtvUchrqyzC7c0YVsq7CTPNozHKhcnAqS6sRAoM8Vo7YYZHCNeZhsqwMKQAxYqcglLcq6tgoxNLHSEPx+UBdgzbtzlh1jQe5tywZLbDJbbhcgTKiXSbncMkcaQVHFyZzMuqVAw0zfm1sZcMLZlYK6e8wZE3UY0jaWa0sStZn6gQkDIIuNIJNlP+hjpjrrXqO/zHZOKJXZyS8GOoD9K+J9ynphImduilO3h3jr8/8A20qWIOSszm7gBqCV5qfMGO44G1wiIPIs2ZZoaFSVKOuCt30gykfPa0/FAaP8gNXkdXalnsf4RdHuaJgxGGNAlTCQlU/X4xLgZr7vzN1U14OBqKSxc+6hEvo829DY+MMhtuOWfMZjbNutSJiBSvVo5MKFKuNJmn7nD/oJqccgBE3A9yIpYmPoJ0WdUjQRoJyjlvRC5T0NAdAgWZNp6dmhIi++kNsh/EyjveYEKxkoyBusHqhvQQXfDfuSavB9Q/djpTXXBTmBwBilAgs8udXjuvh/YufjxHmvGGXo8jKc2i7EcIx/8TgMeTrJHyTbJ5ESWPd262oD4T7PM6WUZ5EipinJB4l7VksUxMk21bqKMgwYK03gvafWcFgj4EBlPc39eS8RkGRn86mS8bgP48+v3K8Pxu/sRXghrNRNWe9qIBVNw4jH1OcGrxuUaXEOAWpl5jCajKanWmL/oWi/KCwogjcfo6tvXC0jC/rCkkFa9/m+NUFn3d4opiqsxat5SauSd2pl2NkEtWEZtPUbNv2TL8l6iMZ5pYW92y5pfaXiU2ZCud+ZtYG43XV2y9b0TvqgqySLC7hnCcw8360WEa8D+aNt9w6eZ65c8zQQLTzPuTDrBIjrkLdD59Mpshr50TLLwhlhAlZoAhCdfCi0Eb8DShHvtOtgPiEOCoKr+Ak/m8yE=",
+  "createdDate": 1556213761283,
+  "fileName": "Captura.PNG"
+}

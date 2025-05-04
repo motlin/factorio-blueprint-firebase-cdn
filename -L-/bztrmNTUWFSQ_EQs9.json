@@ -1,0 +1,24 @@
+{
+  "descriptionMarkdown": "+ 21 accumulators, 25 solar panels (perfect .84 ratio)\n+ 11 unused tiles (96.6% space efficiency)\n+ Tileable in both vertical and horizontal directions\n+ Accumulators are insulated by solar panels to reduce noise\n+ Minimal resource usage (no concrete, lights, etc.)",
+  "fileName": "18xsolararray.png",
+  "image": {
+    "width": 537,
+    "height": 528,
+    "id": "f5SUp1G",
+    "type": "image/png"
+  },
+  "numberOfFavorites": 1,
+  "title": "18x Perfect Solar Array",
+  "author": {
+    "userId": "0ccRvVfCkZSFHrz2BB66YRSeBSr1"
+  },
+  "authorId": "0ccRvVfCkZSFHrz2BB66YRSeBSr1",
+  "blueprintString": "0eNqV19tqg0AQBuBXCXNtgnvwEO/6DL0spazpUgSzBg8lIfjuVVtKoTPG/yqYuJ/Z+Wdl905lPfhLW4WeijtVpyZ0VLzcqas+gqvn7/rbxVNBVe/PFFFw5/mqa2rX7i8u+JrGiKrw7q9UqPE1Ih/6qq/8N7Nc3N7CcC59O93AAhFdmm4a04T5eZOzzyO6zR/jGP0z9EYjWTHMRkOvGHaboVaIZBthV4h0G5GtEBkWSsIZ+a/hTqfhPNSub1rGsIefWJID6xw3OvqBo+KNUPwIUtsg9cjRUNa8YaCwecOiSRlhQgkalQSlaFQSlIFRSU6OLQjNIke0zor/NzpG6yxBf16+Q9n1bhm8UmbJ0WCZJcdAK4KtsrbQiuCNBIpbsUYKph0LNcnAsCUnB9eU5ByxrAXGxEjUbIWNQpLmCQ0WVwuzMWBxJcdixZUYrH8ta6TQpoo30N61wnzQ3pUcsHcFxkK9y1bGQr3LExoKOWMNA4XMGxbaOfNGguyceSJFQuGJDAllIqajzXIGKv4cmSKqXTmNKkjlV5Xvnmdp99S27jb99unbboFSa3WmTJzn8Th+AYCeYS0=",
+  "createdDate": 1512499551778,
+  "lastUpdatedDate": 1512499551778,
+  "tags": {
+    "0": "/power/solar/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/"
+  }
+}

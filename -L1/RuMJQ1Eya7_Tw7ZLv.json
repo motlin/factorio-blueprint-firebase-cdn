@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "wuV2ggjAt6MLzbk8cSRJdrUO8no2"
+  },
+  "blueprintString": "0eNq1Vs2OmzAQfpWVr4UKk582HHqp1FPVQ69VhAwMu6OCjYwdNVrxAH2P9sX6JB3DJmEjoCFJL0j+mY+Z+WY+zzNLCguVRmniRKnvLHo+7dQs+tZbujNMley2a3yUonB7Zl8BixgaKJnHpCjdStq0AKF9DSI1SrPGYygz+MEi3ngD1jvUxtLOEaC74X/sWYbN1mMgDRqEzol2sY+lLRPQBH20ziDFDLSfqjJBKZwHHqtUTaZKut8SnB+8XXlsz6KAfpGhhrQ7DD1GURqtijiBJ7FDMiaLF8iYzrIWpna7OeraxBeHE7hwanAYlxuFzogiqYRuI4nYn5+/6JayprJzf56qak8xWCI816qMURIGi4y20LTHUnaJaMPj7qMh62cbsy5HqFOLpls6TnvHq/PjLUGHI1hnlzldbnp4B3LDYzhCo3kqwWA6ye+BXp+/5nc9zO8J9TaKeY9i1y1GuNZZBMRXBURg6wN7cwV/VAczKFpMJp1flvTF0YdDKJMpD4f6aSTfORYG9IiYTCa3rV7CDYKgpyrbq6uXn1Xv+rLcLOepTfhSjvz+apMXlhw95cqAKLtEHcovOBOQDxPlN442qBy5KOoh6bix3Vdz2/0o55cl+F7tPqnoY6m8VQmCWUrAp8V6OUes+V1aZz2rdfj/65y7vtN84J3+PcHu64nJaiHRln5uofBTKIorem78Lfjn+9y44ar1KOqNfB4rRALkNPvSDXQPn8i9h6/CwMNnLNHd2JGKd0L//h3fbBar5SY8DW3BEK7fzpoeo9kQdxAfro5gNX8B+rOoXQ==",
+  "createdDate": 1514461033866,
+  "tags": {
+    "2": "/version/0,16/",
+    "3": "/mods/vanilla/",
+    "4": "/version/0,15/",
+    "0": "/power/nuclear/",
+    "1": "/circuit/counter/"
+  },
+  "favorites": {
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
+    "0SncYCeArFMKvG6NNPV5D35i1uP2": true,
+    "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  },
+  "title": "Rate Limiting for Nuclear Fuel",
+  "authorId": "wuV2ggjAt6MLzbk8cSRJdrUO8no2",
+  "descriptionMarkdown": "This is a small circuit to limit the rate that nuclear fuel is inserted into reactors and only when required.\n\nNuclear reactors consume fuel constantly regardless of demand, limiting the input improves efficiency.\n\n### Requirements\n\n* Steam storage with at least one tank connected to a decider combinator, see setup.\n* Regular inserters for the fuel with the stack size set to 1 and connected to the circuit network, enabled on nuclear fuel signal.\n\n### Setup\n\n1. Connect all fuel inserters and the steam detect to the same circuit network.\n2. The Steam detector should be set to output a steam signal when the steam level in the tank is below a set point (20,000 is suggested)\n3. Connect this network to the input of the left-most decider combinator.\n4. Connect the output of the right-most decoder combinator back to the network.\n\n### Theory of Operation\n\n(See screenshot)\n\nNuclear fuel is consumed every 200 seconds or 12,000 ticks. The circuit is setup to output a signal for half a second every 200 seconds to allow one fuel to be inserted.\n\n* A outputs a single steam signal when any steam signal is received\n* B and F form a counter with a 2-tick cycle time\n* D contains the system reset point. 6000 or half the ticks as the counter is incremented every other tick.\n* C outputs the inserter enabling signal once the counter reaches the set point. (After 200 seconds)\n* E adds 15 to the set point (half-second) which is read by F.\n* F resets once the counter reaches the output of E (After 200.5 seconds)",
+  "fileName": "Limiter.PNG",
+  "image": {
+    "height": 700,
+    "id": "J3F7Dl3",
+    "type": "image/png",
+    "width": 1000
+  },
+  "lastUpdatedDate": 1514461033866,
+  "numberOfFavorites": 11
+}

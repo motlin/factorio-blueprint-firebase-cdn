@@ -1,0 +1,31 @@
+{
+  "author": {
+    "userId": "JNhrZSWMbMRNQq4ORDwdtD39HAu1"
+  },
+  "authorId": "JNhrZSWMbMRNQq4ORDwdtD39HAu1",
+  "blueprintString": "0eNqtmMFuozAQhl9l5cteoMJgDOS8x32DVVQZ6k0sGRsZ025V5d3XkG5IGxPGdE+IBH/zj8dj//CGajnwzghl0e4NiUarHu1+vaFeHBST42/2teNoh4TlLYqQYu14Zw1TfaeNjWsuLTpFSKgn/gft8ClaHTy4R83BaHf9PDwFDO87Kazl5mpYBhjG+p63tRTqELesOQrFY3yFIKd9hLiywgp+noLp5vVRDW3tgu3wUvIR6nTvhmk1xnao/CGP0Ku7lg+5C/AkDG/Of9NR5yduCuaSIG524QrVczNO2DKxckQPg4C1FUHacjCXBnHpvEhaJmXMpXvaiCbutOR34NUEV1wcjrUezFh/nEdZuvfEKMDaqyDtJZhbBnErwDooV9YBTsDiMA5Sh+FthZMwcgpIfFa7lHkG15eF6YM3F07DyHlYG8x4Tx/QKCt8bYApXH7YhojhHYbDtkRcQpbE2qaIK7i+4uPMrh0FyQYy7JAJaDO6qJn4yOkGMkzz3HqjLbFM2bjRbS0Us9pXuHJ5sqMRYY2WjzU/smfhxrtBv4V0SwBkeM4tpJVrokaYZhCTa2mch7GTNbjYn71vyaRkayrl/09FuDTiTjLLg1LI7zupRW9B8ZSCS0B0l/AHzkz8cuRcIl8sGhirXIh1Y1NvQxWALYF+xK+t2zJQ/eUQ+izfY5Rvo1Wh0ZYKc+Wrb81kEt7lt7Pl2z+yDTsTTUDkdJsbpBn8FMwgLru4BvsgJMCiLULyELvznuPaDFIIM1lTVmy0I75CTLY8yipvMUDHe7YmtwqUS+7I9a8akkCE5kG1Ilv6CEbecMLTFESeu+dF6yeu4ubI+ztvl5RM2JqZBSBZ/siw+Hr2Dr3S6hL+d3KqbvBuuyQPfl3zxPGBaUAKcz/fyUEPdimJAjj/c49fFQD7iGWI+vRLFaig4jOg+DwJf6WZmD4WDpkI8qUy5lsalNxamX10doq7q4+CEZLModxvP9gz/95/+6kPorei6b+N3uLZec6zzhKTokoLkmRFSsrT6S8TCKKr",
+  "createdDate": 1627819437823,
+  "descriptionMarkdown": "A simple tier 1 logistic blueprint for early game that builds yellow transport belts, underground belts and splitters. \n\nIt is obviously NOT a perfect ratio only a \"set-and-forget\" system to automate tier 1 logistics to grab as you need. There are limiters on the chests, check them if you wish to stack more items. Inputs lines are marked with combinators.\n\nThis can be upgraded directly using the upgrade planner tool without any issues and is the base module to my tier 2 and 3 logistics.",
+  "fileName": "davestier1.png",
+  "image": {
+    "height": 427,
+    "id": "QvT6jBM",
+    "type": "image/png",
+    "width": 697
+  },
+  "lastUpdatedDate": 1627821511554,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/version/1,0/",
+    "1": "/belt/transport belt (yellow)/",
+    "2": "/production/belts/",
+    "3": "/general/early game/"
+  },
+  "title": "[Belts] Dave's Logistics Tier 1",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/davestier1.png?alt=media&token=8270150d-6f44-45df-892f-19e940a5451f",
+  "favorites": {
+    "ijTFqoAMXJcqfqO4ccGPjExaLCE3": true,
+    "rT0sEouqMRf3QDsOB2Wy0E2EdRt2": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true
+  }
+}

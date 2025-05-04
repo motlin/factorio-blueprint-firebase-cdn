@@ -1,0 +1,31 @@
+{
+  "authorId": "97wNiQRtfHdbQd0EBeS2zJrayiz2",
+  "blueprintString": "0eNqdk+1qhTAMhm9l5HcFPXa6eQ/bDYwx/AgSqKm0dUzEe1/1gIxz6sTzK6Qfz5u8JBNUasDeEDsoJqBas4XiYwJLLZdqOXNjj1AAOexAAJfdkqHC2hmqo46YuI0aQ0rBLIC4wR8okvlTALIjR3gFrsn4xUNXofEPDlACem39b81LDZ4YXQSMS/AiDRn/Z73z6R37cpYdRmcBdLqhB9+oaY32MapQuXtqHKRKsTnK/eAgICI3EduVSkVbF71WuKuTzAHU84M2J8cuZ6etiPec0IPbsSLfRJwp2fbauH8lbuqWAeTLY9ORHA/H68li0+Nik/gk83balj1cV7f4s+kCVOkh/uxt7fzpXTd+TQV8o7HX9qS8ZHmaZ5mc519AbmOT",
+  "fileName": "mining node.png",
+  "image": {
+    "height": 494,
+    "id": "uF7Q9d8",
+    "type": "image/png",
+    "width": 518
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mining%20node.png?alt=media&token=b5c9ab3b-9534-43b8-bd50-5a70119eb2e7",
+  "numberOfFavorites": 25,
+  "tags": {
+    "0": "/production/mining/",
+    "1": "/general/tileable/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,15/"
+  },
+  "author": {
+    "userId": "97wNiQRtfHdbQd0EBeS2zJrayiz2"
+  },
+  "favorites": {
+    "TXSq8gdoyJcv5q9rWec3NJHKUlv1": true,
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "NUYhQ3EE2DWKNx5zhfKisyKRJ0C3": true
+  },
+  "title": "Tileable Mining Node",
+  "descriptionMarkdown": "Basic tileable mining block; 85.7% mining efficiency;\n\nBased on design from http://imgur.com/a/Imfhz\n\nUranium compatible; Puzzle like in design - can be overlayed in  away that external belt is added to other side; Basic pole allows for early game use",
+  "lastUpdatedDate": 1504312364001,
+  "createdDate": 1504283110280
+}

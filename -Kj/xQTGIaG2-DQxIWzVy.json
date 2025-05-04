@@ -1,0 +1,42 @@
+{
+  "author": {
+    "userId": "syUfm5BjpuUruBZMMW2wtlzcUA72"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/science%20rint.png?alt=media&token=775496bd-6cd5-4da0-82ba-82988ebf27da",
+  "lastUpdatedDate": 1498568547082,
+  "numberOfFavorites": 46,
+  "title": "Simple sushi-belt for sciencelab inputs. (0.15.x)",
+  "tags": {
+    "0": "/production/research (labs)/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/"
+  },
+  "favorites": {
+    "YSJ3K1BPJOh7D7U3tLmwe1XBKV42": true,
+    "g9hE5Toln9Rgow0DLnlvDXm3Yv63": true,
+    "YbnGonhNS3QRIJKGIStLtPrejae2": true,
+    "wy1phRzu68NuP0ofN7tF8TtCdUJ2": true,
+    "3W81lziJULPXcOPam3x4pANeE7g2": true,
+    "LylevhR6mzeN0Y6y2M6abk1wQ2c2": true,
+    "vNEO2WnecNfbfmURCEVsg4JBCMA2": true,
+    "hK6VxIzfJGRr2Kl981tEFBjv7FI2": true,
+    "gqRxnCXXMANqEwcgCfIdenYYsO22": true,
+    "sueZVQO5MHdM0JiaKYrWgicVopw1": true,
+    "9O6qYAb980Qe3wE84Ig5CvmQDrI2": true,
+    "j4bLXnfx03WPVXU29zQuCpjo4rt2": true,
+    "2KxZ3vMl06TA7FbpLvbR8IROgVJ2": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "L6GmxB6DgggwnCVNKPqh1i92zv83": true
+  },
+  "authorId": "syUfm5BjpuUruBZMMW2wtlzcUA72",
+  "blueprintString": "0eNrNWNGOmzAQ/Bc/tlBhA7kE9U+qEzLgBKtgkDFRo4h/r4G7HCGQLO6F60sisD27nvFmNj6jKKtZKblQKDgjHheiQsGvM6r4QdCsfadOJUMB4orlyEKC5u1TRiPUWIiLhP1BAW6shyv2tFK2klRUZSGVHbFMDRBI82ohJhRXnPUJdA+nUNR5xKQOcQGikqs0Z4rHdlzkERdUFVLHKYtKry5Em4FGtD0LnfSX+8PXYfS+lCyyMGIpPXI9X0/6AAr1cNItrtqBPZeVCm/2c+RS1frNJZN+hs1onKI+RqVoS6Stsy1KJmmfD/qm1xS1KuvFqE2PK1h8yQ63HwfJmBjyxBMUuLh51fPJ7ASiwbiMa666x3Z600o34pos5tr9Oq6da6q/r0P1iEkyYLFj9sHw9nOEcu9W161M5E0mHTvhst8oCrwJZM8M2XuM7C9DdsApbxamjMHIL0YpA7jYmqUMQN4tQ4YfDOwsQ4azjLFRzgAyMDHKGYK8sAJdOBueETIk54UV+G6kBAC9MYPG19CbKehREVZlxpVid8wId2b0CHZUglxUTE7Dkg8aphzu/ff6Ym933O26M0r5IbUVi1O7ijkTMbNLGv++cTltwCWVnQEH6Gc3/BZSMpqEKRVJG1zpHWrzUrJm/2BoeORYZM6C8M7MKQCSEweqjfMsaYaC2O7aktyI4M81bBh8ivGzqCplkdTdtr70GDtTrdYkZ8TMfCEH1zVqGCDIHlRoskpJkLXl9cclMSuvD2XqaRWRc21RVJ7+q3og3hxhG6MmCXJoX4waOwgy2L3dVcoBr63urJg7o+4RQLm7sP+Hd3gu3MR6UOeBmHmRsLDYh4PrAfdz+cfAv+nk6t5sbj+kaS/BuuMVDK7lLHRksupp8zzi4423ddym+QuP4L26",
+  "createdDate": 1494605489475,
+  "descriptionMarkdown": "6 inputs to 1 belt with the circuit logic to add in a science bottle when a lab uses one.\n\nHow to use:\n\n1 - Plop down the blueprint.\n\n2 - Make a loop with belts and put down labs. I prefer to put them in a line, anything works as long as it's a loop.\n\n3 - Connect all the inserters which place science bottles to labs with wire to the one inserter that comes with the blueprint. (it's also placing science bottles to lab)\n\n4 - Shift - right click to copy the circuit logic from the inserter (that is placing bottles to labs) that comes with the blueprint and then shift - left click to paste the logic to all the other inserters you've placed.\n\n5 - To start the perpetual machine, drop a science bottle to the belt by using \"Z\". and when it's used another will be thrown in from the inputs. \n\nMore labs you use the more bottles you want to drop to the belt, say if you have 40 labs, you can just drop in a 300 of each bottle on the belt and whenever any of them are used a new one is added of the same kind. (Or if it's huge and you're lazy, just belt in the bottles at first, the system staggers them naturally). This will allow a theoretical 100% uptime for all the labs.\n\nHow it works:\n\n1 - The circuit memorizes what's in the belt. That will be state 0. Add in things to the belt to modify what's the state 0.\n\n2 - When something gets taken away from the belt by an inserter that is connected to the circuit, the state will be -1 for whatever item that was taken. In this case any kind of science bottle. Say a the labs took away 12 red bottles. 4 blue ones and a single military one from the belt. The circuit adds 12 reds and so on and nothing more nothing less. Get to state 0.\n\n3 - Because the input only happens when things are gone, it's pretty much 100% uptime if you place enough bottles at state 0. I think this is simpler and easier to customize than the usual 6 sushi belt like: https://www.youtube.com/watch?v=WDRiklzGg8Q\n\n\nThis is more of a simple customization tutorial on this kind of circuit logic and a demonstration, rather than the perfect solution. (it's a pretty good solution though). You can add in 1 more input to make it work with 7 science packs all the same, but you can logistics bots at that point so, eh, why bother.\n\n",
+  "fileName": "science rint.png",
+  "image": {
+    "height": 485,
+    "id": "p4qcKMl",
+    "type": "image/jpeg",
+    "width": 1001
+  }
+}

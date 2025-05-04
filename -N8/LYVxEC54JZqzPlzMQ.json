@@ -1,0 +1,28 @@
+{
+  "author": {
+    "userId": "VaCbYHMOf8YOXrYnyUGXyIAahHW2"
+  },
+  "authorId": "VaCbYHMOf8YOXrYnyUGXyIAahHW2",
+  "blueprintString": "0eNrdWMuOmzAU/ZXKywqm2OGtqot221U3XVQj5IAzsQo2MmbaaMS/14bJi+AUhkzSqRRFIdjX99xzH0d+Asu8JqWgTIL4CdCUswrEP55ARR8YzvV/clMSEAMqSQEswHChnzCm9i8syJrXFQGNBSjLyG8Qw+beAoRJKinpDLUPm4TVxZIItcBgwgIlr9QuzvSZylIU+BbYgNiGTqjsK8cYSfX7Si+A+kuQ7PAIqp5cff6DIIT130BHGaEiransnpv7pmmsEwfRzsFK4vSnvaK5JMKmrCJC/RhyNLrznl2Fzp2nnM2o6HxtzSnXpeB5siRr/Ei50Pu2nhQ8IwlfJbwkAnc74Hi0vgHDYoehIBmtC5vkypqgqV3ynPwFAmwhMEIf1kteC80iXNwPnOKOpjJcvIBKaKYyGkelN4dKJ7wyldYxRu8YIzJg9GdhjK6KEfUwegZMwSxMfh+TfzFMg9kY9pkzURXOghVcGVZgQBHtUOhZITGTdsqLJWVY8kEM3h6DOzLdusgYBtEjFbJW/+yj2a6wv4IWXq0nGTwcSBNazsgZoddtW5+gcl0QqXrr+TAEU4Owt5yo1xndeb+iopLJ6LgQnK51aCqizSRb1togHSQHeK928lqW9WTbzfgIR+am3hKFTMz45o3hSNL20qMqcJ7bOS7KIabC44QdMjVLJDje1Uu516HccbMFztERz3l+pCMGZQTc64iMpDRTcTxbSSE8OKMZjtyzocsUzr5iXN0feFFi0foWg08vrhltqNwkbb9KVoIXCWXKDIhXOK/IhIrqC4WDOhouFyPb3kQenJvxYJ8Q8fEfIMLtE3Fcdcg5rTpzwzNpI+hPnL8hervz15iqwQwRsnjNIHy7QBCikUEIZ4gQdFsRMi2pDlXKh4urlFG3BeeLFY3N22gGZYuRquG/1I0IGfWfe144BsaNCI68EXqB2o+mdptXZ82+CW1wShmdShnrrNI3lRmCMwhDty2zaZPmFp0xmtMZjTWGZsiatzbRuyCottTeqccHV/AWyPGSKLfA9+116rvPdfXui9K6nJF2xaOC0KEMoRtEKPB89XHDpvkDkcsXMg==",
+  "createdDate": 1659309526927,
+  "descriptionMarkdown": "A warehouse bus design that balances the inventory of all items contained in the warehouses across all connected warehouses via filter inserter. Note that nodes can become locally unbalanced if the total inventory is low. This is a reimplementation of a design originally found here: https://www.reddit.com/r/factorio/comments/5u5srg/modded_warehouse_bus/ but has been lost to Pastebin.",
+  "fileName": "warehouse bus component.png",
+  "image": {
+    "height": 750,
+    "id": "6Awxi20",
+    "type": "image/png",
+    "width": 818
+  },
+  "lastUpdatedDate": 1659309526927,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/mods/warehousing/"
+  },
+  "title": "[SE] Warehouse Bus Module",
+  "favorites": {
+    "PWLp9XkcAOSIsLIpKPAdVvl1aQd2": true,
+    "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
+    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
+    "LDSPhy30E8W4NKaT7U1SAQNQVMJ2": true
+  }
+}

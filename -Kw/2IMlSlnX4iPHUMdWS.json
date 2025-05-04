@@ -1,0 +1,36 @@
+{
+  "author": {
+    "userId": "PBs1efCHSvdLZK6TU2vHcpodUnH2"
+  },
+  "blueprintString": "0eNqll21unDAQhu/i3yDhsYHdPUNvEEUVH9PIKhhkmyirFXevCepumjpl7P4CY/zMeGbeMdxYOyw4G6Udu9yY6iZt2eXpxqx60c2wPXPXGdmFKYcjy5huxm00NC1bM6Z0j2/swtfscEWLjYd/WATrc8ZQO+UU7jbfB9fvehlbNJ76eW3G5sn61/2tt+IReZmxq7+cNqq3Zrfndkbs83HqlwFzsdnZvPvEhkN2Mlrc0SP2ahlzHLBzRnX5PA0Y2ATsluoQTEbC/sUqyfEsozdd/VEZf4GLnSs/cmfjkZ1Tr55zhK+p6Yr3/ESOCkSzz3e2dU33M1faonF+5ssiEN5Gr4zP8ftcFYDy4k7Ft9mgtfniFWVezOSveYuDC/DFg/9bnnpeHAsZ4GS3w15DCEpWXHyYuUiISExAZHQegZDH8j/yCA+3p8V95XeV2Ip4MMo1SeM8VeP8FFt2QCi7c1oDDUYAivQ6IyUMyEcejz/xHgL80VhHr7WCoBAQsQopjgUCMtFjTop1GesyJ7hMOgchVSJQR0qkOFYIxMqOE5hnYrOPL2NRxBYFvYoFT2OT6k0AVdsyPiiCGO8EtEw7Q8ogrEzqxmFWRY1nHb9p6vfmEfp5n94499+sbGsN6H+U2LemtX74isbuHUVKqGpRV5Vc11/S9oBf",
+  "descriptionMarkdown": "This is a blueprint from my [1000 science per minute book](https://factorioprints.com/view/-Kv98Ua8jl-tzglA7cp6). I haven't seen a similar version anywhere, so I thought I'd upload it separately.\n\nIt is a tile-able blueprint for creating rows of beaconed labs. I use 2 rows of 30, which is enough to consume 1000 science packs per minute. The rate of consumption (and the max number of labs per row) depends on how long your research item takes. (It's limited by a red half-belt, which can carry 13.33 packs per second.) I haven't done the exact calculations, but a row of 50 *should* work for a 60s research item.",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/labs-beacon.jpg?alt=media&token=ecaa62c8-91dd-4b09-ba54-852b206713ed",
+  "favorites": {
+    "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
+    "aBKWofpQC8M9611L2LgNH1yOobD3": true,
+    "clP32pQDHDZSHSHJnPNbZaCr6uU2": true,
+    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
+    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
+    "AWXVB0E6gfQeIrVuS5OWi4XSVXn1": true,
+    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  },
+  "numberOfFavorites": 20,
+  "tags": {
+    "0": "/production/research (labs)/",
+    "1": "/general/beaconized/",
+    "2": "/version/0,15/",
+    "3": "/mods/vanilla/"
+  },
+  "title": "Beaconized lab rows",
+  "authorId": "PBs1efCHSvdLZK6TU2vHcpodUnH2",
+  "createdDate": 1507588930702,
+  "fileName": "labs-beacon.jpg",
+  "image": {
+    "height": 1046,
+    "id": "vdgjpaQ",
+    "type": "image/jpeg",
+    "width": 712
+  },
+  "lastUpdatedDate": 1507588930702
+}

@@ -1,0 +1,27 @@
+{
+  "image": {
+    "height": 364,
+    "id": "CQ3Zkot",
+    "type": "image/png",
+    "width": 669
+  },
+  "lastUpdatedDate": 1527454665051,
+  "numberOfFavorites": 6,
+  "blueprintString": "0eNrtmM2OmzAQx18l8hlWYD6D1D7DSttbtUIOOMQSMcg2aaOIdy+G3ZSEsIyjaA/tXqKA8c9/z3iGGU5oUza0FowrlJwQyyouUfLzhCQrOCn1PXWsKUoQU3SPLMTJXl8JwkrUWojxnP5Gidtai1MKouhoCm5fLUS5YorRYcn+4pjyZr+homOeZ0pVcWr/ImXZ0epKdlMqrtfpMLb/FFjo2P1xn4JWy7jCYBjGG2Ms1NlBiapMN3RHDqwS+rGMiaxhKq1qytN+N4kSDbXOA4KSPJWUS/38MFQ1qm5UOjHNgQnVkPKvdYYn7GdtoXdeJyI/i9wyIQ1AP9CwC6mIdq2jL/Y1EURpcegbaodxTjO9gtRIV/8UglI+9gfLOyNG7Wt7y7repXundnUv7ZozMSyoD8AU5y/hsBEuWMA5RrRwSZwZLlrAmW01XqCZ+WENCpql0HMdEOZfC73nj0PvO7oZSe4433Xptdgpu8+y03MW9+Zylt3oYjAzBDMXQ/79WDgzp8IHi/LBogKoKHtOVQhWhcGqIijTASNjKBKucr1guwV/YgcqCexO7AIlzXkTgw8++NxjD4oEhyf2L+opO9sRxu23PDM9d9HbpicZPLzFDi7Zs9RglvpxKs7KStJzUryVjS+GBM1T04zc1zCVILyg983ta5n7pn7Si+ARNRgOzSrlR71mt6SUd7xn3U8qcR9m3sisg/hqIG5ZNxhZtr8RXt+4uvb8OX/E0CYBVOriNbSFAeE8B9olwHAusIWB0TCwS4DRPGAHA6P5Rj3HVxIz69MDo1bsv+7EvBBWOs1XTvrTVv/xKxl9XrNQSTa0k41eyJauNHqViUpKxouVvXph+7rUQXSgQg6YOMJu7IVOlwrbP0ZTlfg=",
+  "createdDate": 1524603517764,
+  "descriptionMarkdown": "Simple safe rail crossing withouth using combinater, doesnt need electricity. It give priority to the player and prevent crossing if the train can not stop in time before the crossing or is already inside the crossing. The player gate are normaly close to prevent biters crossing.\n\nadded light and speakers for 2 lane LHD on [Asthetic safe rail crossing](https://factorioprints.com/view/-LAvuy5e__RpCNfE67bA).\n\nThe circuit it selfcontained however you can link it with the same gate crossing if you wanna cross multiple rail at the same time. simply hook both system with a green wire. \n\nT = Train   \nP = Player\n\nPlayer gate : open condition T = 0 , output signal  \nTrain gate : open condition T > 0  \nRail signal (entry) : closed condition P > 0 , Output signal red,yellow,green T   \nRail signal (exit) : not connected   \n\nRail signal can only be overwritten/ don't give any output signal when the rail signal would be naturally green.  \nThis allow to set the green signal also  with output T. When the player at the gate it will cut the green T signal allowing for the player to cross. But when there no player at the player gate it will always send a T signal closing the player gate preventing biters to enter\n\nThe condition at the train gate is to only close the train gate when the player gates are open this prevent player using the train gate to exit and potentially killing themself with the train. (idiot proof yay!!! ;p)\n\nI used single locomotives with nuclear fuel to test it and found 2 problems.   \n~~1) The rail signal (entry) to close to the train gate. sometimes it smash the gate becuase the accelration faster then the gate can lower down. Putting down a rail chain signal just infront the rail signal seem to prevent this. It possible it not needed with actually cargo.~~    \nadded rail signal infront entry rail signal  \n2) It does not prevent the train enter the crossing even though it can not exit the crossing (put a a train at the exit). Was hoping to change the entry rail signal to a rail chain signal but sadly those signal have no input. :(  \n*tried to make the entry rail signal a chain signal by linking it with the output of the exit rail signal although it prevent train to enter the crossing when it cannot exit, it forces player gate to open when the exit rail signal is red/yellow braking the original desing*\n\nPlanning to make a second version that maybe addres the problems + putting lamp and audio indicaters but it probably need combinators.\nany help/critic welcome\n",
+  "fileName": "screenshot-tick-13607212.png",
+  "author": {
+    "userId": "kVQTSNSajtRFQLrEZr4kMxTim8X2"
+  },
+  "authorId": "kVQTSNSajtRFQLrEZr4kMxTim8X2",
+  "tags": {
+    "0": "/train/crossing/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,16/"
+  },
+  "title": "Simple safe rail crossing player priority (no combinators) version 1",
+  "favorites": {
+    "Sf3vDqTONZPv6IjAGOue3LjFA0F3": true
+  }
+}

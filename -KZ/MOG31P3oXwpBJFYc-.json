@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "2IvZam0BeGakQNXTGqMvFYIysFS2"
+  },
+  "blueprintString": "0eNq1mt1u6zYMx18l8NUGxIBFfdjO7QH2ALsdDgbH1nqE+Qu2U5yg6LtPOcnatFXiv1j0Kont/EjRJEVRekr27cGOk+uXZPeUuHro52T311Myu4e+ak/XluNok13iFtsl26SvutOvva38o8nzNnF9Y38mO/G8Xf1TNc+227euf0i7qv7hepvKKwQhiOax6mvbpLWb6oNbrv4ugb+P09Ac6sU9uuWYdv57+1YF9fx9m9h+cYuzZzv8+nH8uz90ezv5Yb63wDYZh9k/7r96oR6RFtvk6D/yE9ULn0/X59F6nV8E+qGelH3HpnW25rLlOpu4bLXKFly0XkUrLtqsonMuOn9B25/jZOc5Xaaqn8dhWtK9bZeA8cuzLO1lNW6y9fkeBeDFB/jB++70MA3+cwWvPP4SF8NhGQ+n8PkgoIzXvoC1F1k8Pcfpr+HZ2cYdutS2/vnJ1ek4tPY2W4Veo6B4XTWuq4ynG5z+GpRzV7Vt2lbdeJsYHr/muJoM6/jieK6/4XfiNSL/qeYldf1sp8XfuSlDvZWhQlBGLCrcykWsv4l79i4Z9l4z9+04pwy1N25uEtHmxiOGKNLa+o6xKT78cL8gFQ3HkxzpaDieN8hAeeNe2qD4kMPnD+JMfzGzH8VPf/jcLTN2ZUBv6SZEF2y6BOjErgsQ3SWbjuiu2FUHQtdsOmKZq4hcqvrfe/OixnXOo6mIrqzi1IS1BoJVlp+QR/HyVHZ/LXuzUjnJ8pLcGFzDXq0vwgvUXTDRKsEZvVix9s36TNEnxFG8OMkQl7FdSSm+OI4n6UhP+lJHwlNMOMOE5jqVx0IJgBbcwgrIiarkwoHUqDOGfxlu8GjBlxafGTRxKz7grWjJhSNvRXGrPURzzYUjmhtusZcFG235J9pK4hnwkSJ26jy7o/iKhKdLuNVQXGy2mppMhldU5n+7hTgC58iQcqF1uaFI62cfjV8P42intK72fq0dkiFhxXG9VaTeX+g0RsPju/t+4TZX0PVCucDk/EUxErumYCayYKoxJTdzAWkx50yzlyBnlHH5dbBa26b1Dzvf7oqejL2vpstu2XsW8dut8RVCjkfrpSEKlGe5ioUKAMpqQxP7lUastwkeQ475CeImBbtLzLEGZ4VNTJ8s8Ck0aPlQQijw6VShSaagSCaiJ2e5W3ANzS17EeNobnpXANxw24QIPOf28RB4wdualKEptCi5O5OApmXG3ZhE4CJmXzI4+JLRiJawfpK7X4jAGW1oAcMZcUcw3PA2OsMvMD7OcCvEl6oZzC7htJ9dRr++P53FRxvszCKL3xEiHE7MvV4ILqE8oW97mcgUc4cX0k8ze4UQ3DB3eCF4HhnK5p6NC2ZzDtKUuxWLwK8OIq2c5DPR57+EEOhRPg6c0LN8HLgED/Nx2Ao8zcdha/A43xr7+/n2ifNyMHabtJX3N3/tT9tsvlVTs/mjqpdhOm6+2bbd/HYWaZvftxtq0sW19leTbJs82mk++6BSZEqpKPcy/gOyaZDo",
+  "createdDate": 1511147245902,
+  "descriptionMarkdown": "This blueprint provides a factory subunit that manufactures advanced circuits. \n\nPlacement\n-------------\n\nThe subunit can be tiled in two dimensions. In the North/South direction, one row of beacons should overlap with beacons already placed to create parallel tracks. In the East/West direction, the cells can extend along the same track: the first/last column (containing the vertical track elements for side-loading) should overlap with an already-placed column of track elements. \n\nAn 8x5 array of these factory cells with all modules installed will produce approximately 6500 advanced circuits/minute. \n\nOperation\n-------------\n\nCopper plates must be sent to the bottom-most track. Advanced circuits are delivered via the top-most track. If desired, you can reverse the direction of this top-most track to send output in the same direction as the input. \n\nThere are three tracks through the middle of the cell; the top and bottom of these three tracks must be loaded with one of plastic or green cards, and the middle track loaded with the opposite resource. \n\nIt would take a very large number of these cells in a linear configuration to consume all resources off of express tracks, so the two tracks with the same resource can be easily fed from a single main stream with a splitter. ",
+  "numberOfFavorites": 2,
+  "authorId": "2IvZam0BeGakQNXTGqMvFYIysFS2",
+  "fileName": "advcircuits.png",
+  "image": {
+    "height": 722,
+    "id": "QMBkbpe",
+    "type": "image/png",
+    "width": 788
+  },
+  "lastUpdatedDate": 1511147245902,
+  "tags": {
+    "4": "/general/tileable/",
+    "0": "/production/advanced circuit (red)/",
+    "1": "/version/0,15/",
+    "2": "/mods/vanilla/",
+    "3": "/general/beaconized/"
+  },
+  "title": "Advanced (Red) Circuit Factory Cell (2d tileable)"
+}

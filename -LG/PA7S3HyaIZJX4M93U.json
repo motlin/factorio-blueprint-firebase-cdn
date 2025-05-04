@@ -1,0 +1,24 @@
+{
+  "authorId": "KASYIXAXD4SlsMSJ8HgWcDSF9yh2",
+  "blueprintString": "0eNrNl81uozAQx1+l8nFFVuB8lkPPPfSUqL2sqsiBSWLJGGRMuijiAfY9dl9sn2THkA9aSAJslPYSBcwMnv/P88GWLEQCkeJSE3dLuBfKmLg/tiTmK8mEuafTCIhLNlzpBO9YRLLA3Cie6E1JZhEuffhJXCezWljOSpa0leVjyXKQvVoEpOaaQ7H1/CKdyyRYgMJNHayZ4nodgOZezwuDBZdMhwqdR2GM1qE0b0aPPfp9aJEU/2A8xOcKvGKVWgT10SoU8wWs2YajNZoc3c5x2c9dxWZhyVWs542jAuatTWAxGDfGV6yZ4YIRhBEoVuyCfEPLMNFR0sL3C8myLN++LKLJN0jNjwK/LBv3i0C58hKu80snezXWFWXp4S0+eNwHdV5Wu52sO5//p+lLSdDGRs8klyqImMpDccnfX386iD4r/EQpxpBIPV+qMJhziT6Iu2QihhokzgkkznsktITDXPerxKyTeB27Gd9+R770i/N9quH7uwPf6RX5VlLuPd/BWaDD88aTZrgHh/j2pedCmTzSruO75EKDatlNdmgSU/aGtm13bC3PJTfULvuhuZANofSbCTdslSfOJ6TJrEuaTCtp8tAhSVIQIny7Yqb0z1fCj8WNns2c0Qmko2MYAROiJ1gQVVHSYz+rQ7ffxgFdB3JMpnrN5aoQcD8R2BUwuJzEgK8Sock5rRJoLumwKlmdKOPWk9T+rN92kJrVTlG9K4xRs9ox6pSskzYnsWlTnrRrynsC9u2KzfTSWf3cSarfhsq4GZT7D+UCBG5EYXZEoYAqFXuHpMaTOQYdmol9417ydfGOz7cHWqFvkZUCkJfykbabwJq6LU4UPs01BKjI8XPcIoItAOUj01nviWlvffeG9fHuMY1xroKYx/jIBiesnPhoMqZ04tzbY5pl/wBH2nAQ",
+  "createdDate": 1530521225197,
+  "descriptionMarkdown": "<p>This is a RS-latch from classic electronics: **S** signal sets output as logical 1 and holds it until signal **R** become positive.<br>\nA signal's priority sets up in the latest decider combinator that outputs color.</p>\n<p>The universal input is an arithmetic combinator that outputs the signal **V**. Boundaries of the circuit are set in a constant combinator.</p><br>\n<p>For some reason popular blueprints and schemas doesn't work in my cases or were not suitable for some reasons. Feel free to criticize or propose changes aimed at optimizing the number of combinators used</p><br>\n<p>_a goal of this blueprint was to save as much place as possible. for those who isn't concerned about such problems or wants to understand how everything works here, there is a wider version:_ https://pastebin.com/6tenQu9Y</p>",
+  "fileName": "Screenshot_2018-07-02_11-45.png",
+  "image": {
+    "id": "F3Xu0nU",
+    "type": "image/png",
+    "width": 622,
+    "height": 445
+  },
+  "lastUpdatedDate": 1530539099210,
+  "author": {
+    "userId": "KASYIXAXD4SlsMSJ8HgWcDSF9yh2"
+  },
+  "tags": {
+    "0": "/general/compact/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,16/"
+  },
+  "title": "RS-Latch with Hysteresis",
+  "numberOfFavorites": 4
+}

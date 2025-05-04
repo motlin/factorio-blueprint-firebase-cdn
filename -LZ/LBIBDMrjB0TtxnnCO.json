@@ -1,0 +1,31 @@
+{
+  "createdDate": 1579846546130,
+  "fileName": "pulse rate counter instructions.png",
+  "image": {
+    "height": 748,
+    "id": "vdBDYde",
+    "type": "image/jpeg",
+    "width": 1121
+  },
+  "lastUpdatedDate": 1579860245660,
+  "favorites": {
+    "YGqCItpBpUhT6KSAPc3asOIDQpQ2": true,
+    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
+    "DYU2zOWriiZZ5tuiKXznVcdJeta2": true
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/pulse%20rate%20counter%20instructions.png?alt=media&token=26c33152-f5d5-4809-89e4-6f5c003347b2",
+  "author": {
+    "userId": "vC7DLIVL0zgP1ZsY55AmGAWJrUB3"
+  },
+  "blueprintString": "0eNrtWl1vmzAU/SuVn7aJVBgIJNH2A/Ywadr6Nk0RIU5jFTAyJl1U5b/PhjRJEwy+JFm7Ji+RwPgazrm+H8d5QpO4IBmnqRhPGHtAo6ftnRyNfu1cqjEasbS6ndP7NIzVPbHMCBqhBeWikHcslIaJulE90YvmJHpAKwvRdEr+oBFeWTWzqSDJduqURHRKeC9iyYSmoWB8x4BjYCDkVMwTImhUb8OttaH7BJrO2M5kb/XbQiQVVFBSgVFeLMdpkUwIl5+4NZCEcdyLwySTRjOWyyksVStKM72+hZZoZEvDElXBWTyekHm4oPJN5RMR5VFBxViOTTfTZpTnYtzy8Tx87M1oPkeV5VyEiryBukiykJdQjNBnNVzkRC4QMy6/Q/CCVDNSEqkFc7UCVj+cTHe/k8orbCsU7jkh6f6QY21evrxc/V6tFN57KDlNdB+i5ZZo9ezbvgawtZUtYHknxHKiDMAw3oH1i3yGFSIrgDRlS/nihdyGM86SMU2lgTUl5pwcAG+9GPYPeNEQODgk0EKO2aJ4b9Fgf1i3KNa4iQtzE+/qJm1u4ja7iQdh3zWlt9/sJoMDO7XO4LVE+EN/wG3+sDV0LpfQpZUpE2oay4j0ivKV0acObgFgvm8aAYbH+UAtd30wd84/526bLpXjnIuZWshdCOSeGeQ+FPLrbmmMSZrdEhyVL+upC6DU2e90s5jUORu8a+nxzRAfQBF3rpulAWSrJaFY0DBo0mvouB2CisjTtho6ju5e9mc2oEJsoV1TJs7COCegnIQxJLIZx0vD7IXtzfc9w9RIW3M/PaOxIBwoXqw5KhRBuEXC0NlYkjhmj7WGKjxNO25964QNAcWgbeC9xjbw7QOdAr4P7k7XLNVsAR0LduPuqCHJrPiu2JQPl1F6tCPIWSgOJ0QCgr4Xcmvf/AgFufnGUiqRu/nwM6bJR/nMQnp9SWrg2njoO9gN/K2YZSs/uWp859L41jWC83+KfIHWR/2zaHzr9gNfdMRxTANOAOwzzCqu0+hw9msw+RZLKOe4tv7IjO91FADwtadpF0oHHRN6sw/4UDXNKLJWeeiqigO0UeuIVqhv6hqD5rZZtUAwoQ+QZ6/eYCxntJ+RnOIoDaahwI/SAlg//Vy8yvdAU8or1KqMdln9tXMmAdFu2YaXlGu9jgeJJxJ/h90KpUtQ230Y4HBxz/go97ZS+ByjePSezgb7kCzSQQ00jVevS8Abjl77dVqX8w2jMrKTEvg1Z5IHTqN2ORDXme+Vfw1sWkMOhhKlBRk/y4qahVZ/AY2Y2bY=",
+  "descriptionMarkdown": "This is a circuit network solution for counting the number of pulses which have occurred in the previous second. It can be easily adapted to count any item crossing a point on a conveyor, or any other kind of pulse signal. It can also be easily adjusted to observe any other span of time by adjusting the clock (use 60 for one second, 3600 for one minute, or 216,000 for one hour.)\n\nIt comes in slim and isometric layouts and includes a dumb light for low value warning.",
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/circuit/indicator/",
+    "1": "/circuit/counter/",
+    "2": "/version/0,16/",
+    "3": "/version/0,17/"
+  },
+  "title": "Pulse Rate Counter",
+  "authorId": "vC7DLIVL0zgP1ZsY55AmGAWJrUB3"
+}

@@ -1,0 +1,25 @@
+{
+  "blueprintString": "0eNqdmNtuozAQht/F11jyGcirrKqKEG9iLRiE6XajKO++JLSbajOUGa6inD7+mfEcPBe2b958P4Q4st2FhbqLie1+XFgKx1g1t8/Gc+/ZjoXRtyxjsWpv76qUfLtvQjzytqpPIXou2TVjIR78H7aT12wVMQ5VTH03jHzvm/HLn9X1JWM+jmEMfhZzf3N+jW/t3g8TfYmRsb5L09+6eHvqhOIqY+fpJZ/ohzD4ev7O3OT9B1V4qAShDoBqNFSgmQbNxOu0aKZCMx3eoWaG2vUo5XioBqGQ0oIMdetKy3/QEJMfxumzxZOEwElBPvRu3XIpv8/oRcWTRDaRwz2vUx18rD3vq/rXvQw8P+eRXamtmob7ZpI1hJr3XeMXT667QiyN8KzCO9YQXaC3eQCfYtzNT9AI8YQksyAVPBU5mWoQWgvaGfisCho8BCW5uph1w5WgSXTfKFSSHHCF6FKKTJUIuzW1DMxJIGg5oMitC6PdUnusRLj5kVc/qzTy5UIj8KHDZ5XGQwsqFOPSkjoOIKBaYF2q0NbrR469d93BR16ffAJk2k8kBFGIfmJATQrCUXPJPqdSGLrIj74a+PvJ+wbKJW0w88XMlgjV5PYkQF86KkaCmBx7Vj7mEYGwsCDWCYE4fyWRiYiEEcQiiWHKLeMXGGGjiLUBIw8z0WlsoI0hKoTtJCcEWFwMOSHAYcKQJzLEmGe2DWSwwHLbRYI4RVtB68tgTKykdSIYojZdG6j2alKDA0NjMZ3Cfli6WvKs3TIiw8LIlxcDYnLqVQBxE7AFFWpBbSV1tYBYVzhBhYL3aCfxGwoYoKgrCcRGwmkqNAe1Geo6D7PRslvaKOw7R5wcMPJy4uSAYRboZQtsJ/Uq8aTpJZv3xrsvm+qM/fZDmn9Q5EoVshT5VKb/AmErkiw=",
+  "descriptionMarkdown": "An Automation Science Pack farm made in my personal aesthetic. The eastern Assembler produces gears, the other five produce Science Packs. Iron goes in the south bin and copper goes in the north bin. The copper and gears circulate in the central \"whirlpool\" while Science Packs are whisked away along the outer track.\n\nQ: Are the Fast Inserters necessary?  \nA: Yes. Normal Inserters can't grab moving items off of a corner conveyor belt. This will stall the farm until the gears and copper pile up.\n\nQ: Is this efficient?  \nA: Not very. It makes gears faster than it needs to. You can make it more efficient by upgrading the other 5 Assemblers.\n\nQ: That's an octagon.  \nA: Shut up.",
+  "image": {
+    "height": 535,
+    "id": "dDIAny5",
+    "type": "image/png",
+    "width": 534
+  },
+  "numberOfFavorites": 0,
+  "tags": {
+    "2": "/version/0,15/",
+    "3": "/production/science/",
+    "0": "/production/research (labs)/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Hexagons: Automation Science Pack",
+  "author": {
+    "userId": "2F5FnghhGZcxYo8EtwWEtV73h0W2"
+  },
+  "authorId": "2F5FnghhGZcxYo8EtwWEtV73h0W2",
+  "createdDate": 1560684178251,
+  "fileName": "HexRed.png",
+  "lastUpdatedDate": 1560697938916
+}

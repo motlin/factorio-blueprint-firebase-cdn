@@ -1,0 +1,34 @@
+{
+  "author": {
+    "userId": "7l0tOZukYgeBWLwfWJrHPHsI5NI2"
+  },
+  "authorId": "7l0tOZukYgeBWLwfWJrHPHsI5NI2",
+  "blueprintString": "0eNrtVNtugzAM/Rc/p1WhUDbUP5kqFIjbWoKAElMNVfn3JaBV3VqqrU972AvIlxz7HFs+Q1n32BnSDPkZqGq1hfztDJYOWtbBx0OHkAMxNiBAyyZYbKS2XWt4UWLN4ASQVvgOeeR2AlAzMeGENBpDofumROMT5jAEdK31z1odqnqoRZqslqmAAfJslS5TX0SRwWpKSQT4Ztm0dVHiUZ6oNeFdRabqiQvUsqyxUGTDH/K9rC2KS9igVMVRalUEEN+i75VNf5Xx6Z9Sm1ZhIDcW1VMPNtSLwseguqZK3ordzjknbujHv6EfzdOPH9P3MXUB25OxXNxM9ESGe++5dDRlLPCEZuAj6QNMfC3LsB5pMJpOGsmhGGzH8IzeX8W8J/e3idzTe/VzvaMZvdfPrVs26v2XFyydIZw8R3hzs2B3sNPnljf7X97Hs1yPs/SHczyy+dVNFuD52Em0lyjJXuMs84LGm8S5DzjdAII=",
+  "createdDate": 1696510746233,
+  "descriptionMarkdown": "Circuit based 2 to 1 belt merger, that pulls equally from all 4 lanes.\n\nExample in action:\n\nhttps://i.imgur.com/3cw4GqI.mp4",
+  "fileName": "BeltMerger.png",
+  "image": {
+    "height": 297,
+    "id": "seKnIrd",
+    "type": "image/png",
+    "width": 594
+  },
+  "lastUpdatedDate": 1696510832806,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/belt/balancer/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Belt merger",
+  "favorites": {
+    "X62XRCzUveaEJfUtYOALUITXp953": true,
+    "yLtG1UfgccTYmyf4Kqpw3kiVzLA2": true,
+    "IRU7QeROU9TotND7H5KRe9na4gs2": true,
+    "lyPTlzDER9ei9oDJhzTCkoQHFY52": true,
+    "Etq4IYnw9yOCi0fOeUxj8AY3BR33": true,
+    "424jNGDhcmMUZYc5dYXtvzkJRw62": true,
+    "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "RHaUn8wA8Bfck3HtnAegqYYH96D3": true
+  }
+}

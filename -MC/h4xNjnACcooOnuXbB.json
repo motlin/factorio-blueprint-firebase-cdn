@@ -1,0 +1,32 @@
+{
+  "authorId": "409vyxQK7gQeeeGsOpySMcdXXMt2",
+  "blueprintString": "0eJytnN1u4zYQRt9F186CQ1KUmMt9jaIo7ETYGvAfbKdoEOTdK2fjRYFudw41c5fNSjOhbJ6Zj/yot26ze5lO5+3h2j2+ddun4+HSPf721l223w7r3e1319fT1D122+u071bdYb2//WszredLu/dVtz08T393j/L++6qbDtftdTt9j/B55fm4OZ6O5+t87+l4mf97vm2OOt/yEOVLv+pebz/FL/0c63l7np6+XxE+o73+cXjZb6bzLcOqKSiJGf8V83NI/40o4/2P1MKl1cdjutzuvJym6flhf3x+2U0P6ZaqJZdULVf2y1W0XL1frqTlKn65gpZrcMs1aKlGt1RZS1X9nqA6J4NXLnVuiXil0kkTvVKNaio3ZIj+YbkhQ9TvoLghQ9SpJW7IiCoxxA0ZUSWhODCjp6VLMDUuL5vLdf0R52cJ7yVdKii/oWUQeu2ImBF0EAEMgjURPaR3xESgYwBDyA1D0KPhuc9GMIABlIYB6PSKeJazEUgBQxgbhqDDI+L5vL5cpv1mtz18e9ivn/7cHm6X/CRz+vw6qTxOYXl0tWAmWRxcLZApLo+tVo6UlgdXxUBiEzhiIeNQviOldnKo3xHSNTnU78gwmBzKd4TASg49f4Rkyfaev9LvYbY3/RULanvXf8+lCupsb/srnV7Z3vbfc6mQy3ZuVCios50aFUIj26Fxf4JqKjs0KtPT2Y6MykDYewFDbQ56L1zoYrr3ooUO994LFnrr1nuxQlfSvRcq9IrV21FRaMXqfaRDaZHRPZIOhRaM3mcpoLSI6IJWAgoEdvFZBygNErqgVYDCiFl81gAKF9AFCYgCiVV8VgBKg3wuaAWgQGIUPIuhkstUPJdxcXC1PJa6NLZaDocFmj9D5TwskPwZCucBTdtE6T/YS3WimB7stTpBng72Wp0Y+QZ7qU4QUoO9q08QJ4O5qw/4G2hu6wMVzKO5r7+nUvXyaG7sA51Wo7mxv6dSwTaaaRHo7rOZFQGiYjSj4v741ExmVASmlEczKAKD3+iECbURGJ0gocvk6sQIHefVCRF6i1adCKFr5OoECL1CVTMgcI9UXcRBbBHIlYgD3HhVF4kfW+RxJQqfdnPVRd/HBnEsgch72CJKcFH3kYtjCUQl0L5Tgou6jw3iWAKR97SblYBnMFNr9y+S7vQJZWlw3YkVhoWxgUuuXdT3UBxLaBf1PRTHImTa4qVRsVv48Bqm2D18dLFR7B4+uCwodgcfXcETu4GPrrWJ3b+H95PF7t/D+8li9+/h/WTh9j0tl/55RXNPj/eThTv6lFx6bYlmYtD9ZOEeP+0J6qnMyID7ycJtf7/OBOzZTsDQewJuBPx1JmDOjk60AGzn3kAllT6pkhMrgDM7OaECVKxkRgW34klykQsiLYJZkKGQW/yEGwrhIIBolkRkP7YOCvcOwjGQIRDhTx2Jwm2CaAREOmciIbDPUbghEI0AiedM1D+2Twr3/jE1J3hvWXJeHF2vlblfGhycXGrX/UK3lyW3C3+h+8uS0QTmx3Tstj1+nEbszj187EXs3j16PkXs3j18kkTs5j185EPs7j1+1Fns/j1+1lnsDj5+2Fm4hU9NBj4zc9vPjzsLd/ZpycChTDs76IFn4X4/9SHquezwoCeeuQ1QSaUjsXihQ+8TuDlQSQVEdfHiBiA99wxqucDk8qIG0NXFCxqggg0YGv//BpDGt4oM7L0iTa8VkSHeXodyG8ntsfx4w8qq+2s6Xz5uGlKYe4Mytz3z492tN9NuvvLrjyvf3/8BloWNgQ==",
+  "descriptionMarkdown": "What I will be using for all of my sub-factories in my upcoming megabase. Each cell has 20 assembling machine 3s, and each assembling machine has enough room for up to 6 interters and chests(either provider or requester), on the top and left edges of each assembling machine. On the right edge of each assembling machine(and bottom, but the bottom one won't have room for the pump), there is enough room for a pump, a straight pipe, and a full set of underground pipe, for recipes that need fluids. Maximum number of beacons(12) per assembling machine, all containing 2 speed3 modules. Recommended to place one down, then add chests, inserters, pipes, pumps, change recipes, then add 4 speed3 modules or 4 prod3 modules to each assembling machine, then recopy the blueprint to tile as much as you want.\n\nTo Tile, simply overlap the roboports. This is able to tile both horizontally and vertically as big as you want. If you want to save on beacons and speed3 modules, I would recommend that you only tile vertically, as then all of the beacons should overlap when tiling. Needless to say, it is intended to use this with a robot based system, but I believe that in theory you could have a transport belt on the top and left edges of each assembling machine if using blue underground belts. In such a case, though, the number of times you could tile would be limited to the belts you are using and the recipe you are producing.\n\nEDIT:\nI suggest that once you have the blueprint pasted as much as you want, to then go and place extra roboports around the entire perimeter of the design, to help bots charge easier.",
+  "image": {
+    "height": 1632,
+    "id": "hrxvKM4",
+    "type": "image/png",
+    "width": 1504
+  },
+  "lastUpdatedDate": 1595860305547,
+  "author": {
+    "userId": "409vyxQK7gQeeeGsOpySMcdXXMt2"
+  },
+  "fileName": "Production Cell.png",
+  "numberOfFavorites": 3,
+  "tags": {
+    "5": "/version/0,17/",
+    "0": "/production/logistic (bot) based/",
+    "1": "/general/late game (megabase)/",
+    "2": "/general/tileable/",
+    "3": "/general/beaconized/",
+    "4": "/mods/vanilla/"
+  },
+  "title": "Tileable Production Cell",
+  "favorites": {
+    "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,
+    "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true,
+    "i3tuKk4UukVWjIFlGXzeO8RTwmf1": true
+  },
+  "createdDate": 1595263145558
+}

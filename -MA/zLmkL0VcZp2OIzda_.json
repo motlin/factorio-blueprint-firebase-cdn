@@ -1,0 +1,33 @@
+{
+  "author": {
+    "userId": "iHhtt0VjClOKL7oySaUPBKGsblU2"
+  },
+  "authorId": "iHhtt0VjClOKL7oySaUPBKGsblU2",
+  "blueprintString": "0eNrdWFuO2yAU3UrFty0Z8COx+jWzjCqysE0aJBtbgEeNIi+gC+nGupJCrEldD0l820rT5icRF/sA955zAJ9Q2Qy8V0IalJ+QqDqpUf7phLT4LFnjYubYc5QjYXiLAiRZ61pGMan7Tpmw5I1BY4CErPkXlOMxuPuyUJ0MqwPX8xfJuAsQl0YYwacpnBvHQg5tyZVFvjZ4gPpO29c66Ua0UFGAjigPEwteC8WrqSsOkF2dUV1TlPzAXkSn3POVUNUgTMElKxte1EK7f5TvWaN5cOlWnNXFgcm6cCB2anaORg2zJ17j06NtV/NzNtygcpqDduNh96N4PV+isK1k3I2jS95i2cSXtjdLDsm05tgHQS8Q5aAkV6GQmitju67iUB9ODK0AXVTAg5lcMHXLmibkjX1aiSrsO1uFt/PDP5FXJhbPRnXtdNHG0TJAl4HNIkDwlWKlgEzj14r9kiNym6W2r76g7IXSprgjtqqznVO2tGFO5qlrtD1TzDhw9P3rNzT+OVEzKDvi++zYrCL/Le5v11fkFvVxtB7HX9j0vy0sxiALIl4MAvcg7AWicImRR5EYBjswua8xnEBB8QrQFKJcP2UysHT9jNmApUseRrpbiHQj7/kjAivXWwaCf2unB52gFrs0WQayRYAut3569RRGwLYTvTuJPkIodPVMQyjQH6L79kCgRrbCckgCsBw/1VOo4/iZnkENJ3r3DeovUWUD9grvaYuAbMu7e9AILFjyIIKl0JvyikMCJUBM+i9cvn0LoVCNexlKY4DZ+AmaQF2CPIhL0BSibv8XDehlc8Vdk0Ium3ZWu2DKXz77hBaghtlp2NizTeaHp2G/P9fzhSt9hsgyinFKt0liEX4AcEWhcA==",
+  "descriptionMarkdown": "Early game coal buffer as a backup, if power fails and no electric mining drills can be used. It uses only burner inserters and tries to keep the throughput of the belt consistent, by only taking from it when there is enough supply and adding when it's unstable.",
+  "fileName": "2020-06-29_11-13-20.png",
+  "title": "Coal buffer",
+  "favorites": {
+    "IbpV4kn3HjMWyjZU8KMvIGLIPRH2": true,
+    "rbPyJKUVm0MITtMrWfEKfs6Pvj93": true,
+    "oUiGLHVg7lfyt4UHU9QAOynBHsv1": true,
+    "6sePdt17UVO6DUD4zz27xe7Imtu1": true,
+    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
+    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
+    "9bVtKU2cu5hvRuW0OonRpGiGuxq1": true
+  },
+  "createdDate": 1593422064842,
+  "image": {
+    "height": 915,
+    "id": "OHSnw5A",
+    "type": "image/png",
+    "width": 371
+  },
+  "lastUpdatedDate": 1593422064842,
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/power/steam/",
+    "1": "/version/0,18/",
+    "2": "/mods/vanilla/"
+  }
+}

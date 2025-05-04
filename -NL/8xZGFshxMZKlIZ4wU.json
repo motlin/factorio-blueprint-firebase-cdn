@@ -1,0 +1,22 @@
+{
+  "author": {
+    "userId": "7gar487CDGPNiqqF9QUZzNGOaNj2"
+  },
+  "authorId": "7gar487CDGPNiqqF9QUZzNGOaNj2",
+  "blueprintString": "0eJzdl02umzAQx6+CvGxJFMg3ahdt12+VZfWECEySkcAgY6JGEQfoLXq2nqRj/D4SAgSjSK26QbI9Hpv/b8Yen9k2LiATyCXzziyCPBSYSUw589hTITHHPQ9iK4EkFScrhDj2rI310psVcQ65BUegMYkJWPIAAizMrYCfLORZIV9sc9uiT/o+l2x2GEsyj6ydSBM11UoLSVPGzGYYpjxn3vcz0/Zqd/KUAW0LJSRkwYNEtQKB8pCAxHAUpskWeSBTwUrywCP4wTyntO/6iCDECESzA7d8thlwiRJB76hqnHxeJFsQtEKXH5tlaY5a0DMjdwtnYbMT82buejynVSIUEOpxGqC/liKN/S0cgiPS/ApK5dWnsajylKtepY8MFLaJmpZkgagW9NgnpjqyE00ouPSVuH6FgnlSFFCW1TJcr1r5ctSHQFz+HVLLJUsUYYFSN8vnslRy1gRw78Bo0GBtqMG745oMOxS59G/4HlHIgnredqYtRhCEB8U2B+XGvxIxzYAk1KH/kWbqYDT1bSDv/FZem7ktxs61sXPBQbWn/VBNjVG5zl9CtWnkNHKuQX0YAGpjRGlpQqlnxswGZ8zU+Vcy5hEkjFNmUc+CNxh7AcDvZJjTgmM+HMekjsP9b3E0KjyrB7zdlTyOSfLUj7gGX00wF2bX8ev51juxmq9jQ4xUHskD8j3TWrfc5L9//hp2vLUWADsqwkwqgFk3klUnz57AlgOB9U29hwDbdJP6PCTbVNl8EQWPqNhuLiu76/isD98WJHbvc9UgDDorl7YoWb3J90rhTphMx3PDzNbvkZZXRxvFLxpeoaLCufPqaPPxtdGHrjSGX4ylwlc9dLyLV57N4mALsXrebZ6+UZOiMNfps3Jmy7W7XK4X69lkVZZ/AFUj2eo=",
+  "createdDate": 1702047925481,
+  "descriptionMarkdown": "Mutisignal memory cell: \n* set signal S pulses every time there is any input signals\n* S signal is filtered from the output\n* works freely with pulse or constatnt signals\n* updated signals value in real time\n\nBased on AlexAegis' multi-signal memory cell: [*link*](https://www.factorio.school/view/-LXNpyTm9_3pVRdhNcCk)",
+  "fileName": "image_2023-12-08_170447835.png",
+  "image": {
+    "height": 479,
+    "id": "v6nj6sf",
+    "type": "image/png",
+    "width": 643
+  },
+  "lastUpdatedDate": 1702047925481,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/vanilla/"
+  },
+  "title": "Mutisignal memory cell"
+}

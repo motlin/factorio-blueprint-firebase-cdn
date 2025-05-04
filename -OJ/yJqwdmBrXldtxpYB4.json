@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "3LyNbiDmtER7Tfrui4bWufb0dWw2"
+  },
+  "authorId": "3LyNbiDmtER7Tfrui4bWufb0dWw2",
+  "blueprintString": "0eNrdWMGOmzAQ/ZXKZ1gFAgmgtoceqlbqradqtUIGnMRaY1Njso1W/HvHEAibmCSgqqoqraLEhjfjNzNvxvuKElaRQlKuUPSKaCp4iaLHV1TSLcdMr3GcExQhKRJRCKlQbSHKM/ILRU5tGR5MqEh3OE+IHDzq1k8WIlxRRUlroPlxiHnVPBk5Vvc+ThXdE7uQYk8zIu10R0qFLFSIEt4WXJsCRNtfLB58Cx1QtA4f/Fr7cobp9pgFLYithL2VouKZAcwLwxtgyx4sqdizTXlJpIKNa44F8AU4yKgkaftEYKENZfBeS0JHZI9dFoIyvCUA+7PCDByARS5kDhRbKBV5gSVWAvxBH5DmtCpJ3CMqWRGD697drnth0LnunLvuaftcScHihOzwnmovXlFKZVpRFROOE0ay1gmrX4ZXst7EhspSxZephV/sDS13Ol90Aiqss3F1dt73qDbFxZ8TZENgDNCrHlpJzEud/XZCmDJCr4fEGcDWlqFAriaP2/ho4lwSnGlmFdjoww6rKTAABjSXdiIJySjfom4jNiQUVSQ/ZmI2CAjZbGhKCU8Pdi6yihF72dRy+7RO25jyPRgX8nDM4/4XpAkEMH1G0UKzYNxxRneWozugIDX8XRIbzMlu9zz+jmuADidA9/Ffjobtr5XKR3OpOItZCe2aE9oZqFaVgCfN6yak1RHHiOLO0VXvnvJ1pki2Mw16iqSG06BPgta3XBOq12L6TeH/rKBHnvoAdOXWxNsuoyvIYHA1WZlWD/5Qb3ilJNVSZG+kyO0EdELaZPv/S49zEnU46CFlY9pwpO1iFhgh4UjXiYHhNMDIlvAMg4v/Li/BFKHxurRajwjNFBn2h2Bv5xfThDhBEQf5H97VPVxnCrgzEXyWbgYN9tUJtC/mPzqCurO0OLhHMN2TFsOdYStxnuv2apcFwc+35oDwZrOe1JVH6/TUqxeXvfo0AujlnPQi3tiJ9xiuaDEt44KqdIeiDWYl0TerEsjOgY1Yi4fOZKFI+x3KCL3FKhg+JFC18V6wSjsNEe/XQGf0MbZMJE2QMWPiJS4EOxQ7wQ9Hk7XegKide7mDZ5uNbqBpVgSPc1x0S/pieeQtfiN1t6lrbeakLPW9KEKfv37/8qP5QMZL36B/tn3xyh1y0JzDhymt9EYRDVvg7SLSC5XODWexAD2FkgK9KHcxxDPuznCcFo0nPjVweJCwK6cNhpVlglrPmWvuK9Pgbi9Xt7ycNZcHhgvt1SDeSM3ZWrhczOqOI2QsnTndMbhsMn+UjfcjbMDiCxjVNh49y7XWlvtkPcKnFTbfXL0ICe0+PbXDjT5W/x8qCzEMRMHat87wu8/g07tP+rLbnHkPtpoD+Ss3hBz1fd8JvJVX178B/htMJQ==",
+  "createdDate": 1740507410296,
+  "descriptionMarkdown": "Simple machine to breed and recycle fish to get one of legendary quality as required for the 'Today's fish is trout a la creme' achievement. Requires you to have access to biter eggs on Nauvis, but optionally you can change the nutrient recipe to bioflux, though this is way less efficient. The machine will breed fish, keeping a few spare to keep the process going. Any leftovers will be recycled and potentially reycled again, unless it's legendary quality. Because fish spoil after some hours the machine will sound a global alarm to notify you when you received one. \n\nMust be kick started by providing some fish for the top bio chamber, and some nutrients in the bottom bio chamber. You can get nutrients by putting some spoilage in an assembly machine. Also don't forget to connect the water pipe. Efficiency modules are optional, and your quality modules in the recycler can be changed into any quality module tier/quality, though this will likely increase the time to get a legendary fish. With four rare tier 3 quality modules it took me about two hours to get the final result. Your mileage may vary.",
+  "image": {
+    "id": "MxY3d1p",
+    "type": "image/png"
+  },
+  "imageUrl": "https://i.imgur.com/MxY3d1p.png",
+  "lastUpdatedDate": 1740507410296,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/quality/"
+  },
+  "title": "Legendary Fish Breeder",
+  "favorites": {
+    "I6YX1Ar1cWUwhbQgMcW4nyZkDs52": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+  }
+}

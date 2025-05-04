@@ -1,0 +1,22 @@
+{
+  "author": {
+    "userId": "Ohb4SvhurNO7rZRBjTb22exZuMZ2"
+  },
+  "createdDate": 1519065837714,
+  "descriptionMarkdown": "A very simple Laser system i've been using to advance into biter territory and claim new lands.\n\nI got very bored early on dying against biters because i couldn't place and load a gun turret quick enough.\n\nWith this setup you simply need to place the first blueprint near power to connect and then use the Large Power Pole as an anchor within the deployment to lay down new ones, it allows you to advance quickly. You can then place a new one, rip up the old one and advance!\n\n*ProTip:* Leave the large power poles when you strip one out, otherwise you'll disconnect any further out ones (black list large power poles in deconstruction planner to make this easier)\n\n**Pros:**\n1.  Easy to lay down new blueprint using anchor point.\n2. Fully rotatable, use to go any horizontal or vertical direction.\n3. Lasers fire as soon as power line is connected - no more flapping around trying to load ammo into the guns.\n4. Walled for a little added safety - also if you step inside before it's built you get added safety :)\n\n**Cons:**\n1. Needs Lasers unlocked, which can be tough due to battery requirements.\n2. Works best with construction bots or nanobots (mod) as it's built in seconds once placed.\n\nIf your like me though, the investment into Lasers has been worth it, i can now safely advance and lay waste to biters.\n\nEnjoy and let me know what you think  - This is my first blueprint, feedback is welcome!",
+  "fileName": "Laser Advance Deployment.jpg",
+  "numberOfFavorites": 2,
+  "title": "Laser Advance Deployment",
+  "authorId": "Ohb4SvhurNO7rZRBjTb22exZuMZ2",
+  "blueprintString": "0eNqdlt1q4zAQhV8l6KoLdrFk+Se+K/Syb7AsxYmHIJBkIyvdDcHvvrK7JGEZVE2vjIz0aY7mSDNXdtBnmJyynnVXpo6jnVn388pmdbK9Xv/5ywSsY8qDYRmzvVlHoOHonTrmRlllT/nglNZsyZiyA/xhHV+yLxne9XaeRufzA2j/sFgsvzIG1iuv4DOabXB5t2dzABfoN8bsRwv57z5snrFpnMOS0a47BkwuM3YJH94uazT/MUQao4wxSlocDcaQN4buZ3C5PzsHHqGI5+ofp36uwmENyoUcbBMkwq3SYhMxfXUag8cYTaq+gqavTYqtiIW2T0JE1fEiUR6nqeNpFo9mj6dZPOpwXpIYqMO5pF21CoVUtLuGQ2oapEYhyY6+51wm5bxNBBdE7p6UQ1S0KEgM9PQFzdM4g/hslyikpEEkCrm72sCgzia/1cRp1BB5JvGY7v4+qNNXrLsDQlVAcTXprHGFDYmBy2ppR81RyJ4GEWitfnCwCetz3ZspkiUcwmkVEZVTClppxiElqXjhDEmqoTijIpkEZ9DMimem+c792Yrx2m1unWn30Axn4Q0ObWn497a+xbuX4aO3R9i9wqTHiwm7757eXl5/hIkf4OYNXUspGl4WbVssy1+rH6/S",
+  "image": {
+    "height": 620,
+    "id": "omJljFG",
+    "type": "image/jpeg",
+    "width": 192
+  },
+  "lastUpdatedDate": 1519065837714,
+  "tags": {
+    "0": "/version/0,15/"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "favorites": {
+    "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true,
+    "hV0B6HJQxENHyvKbKteEaWPCF8l2": true,
+    "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
+    "ZDpk7kq5Y4RULwL1BSiv8whzPs22": true,
+    "9gqFDiAFACRKi2dh3ix7mU9I1xt2": true,
+    "LuonmNlVcaeeaqLhrUyNK6Yld7B3": true,
+    "iyJrGkTHngYEbukofOgaYkMQo7e2": true,
+    "iknVlssYY1bmK75g45YQCCQvjjE3": true,
+    "nRkXWDUfALOT8vv9D3Z66m88aGs1": true,
+    "Trl32J15yHd3bT8CxGeKASCIRcA2": true,
+    "Kp4K3TlzgKdsVaLtVwMo20bgNH93": true,
+    "H99DxSEod5X7fPcc5DV4mypq9K13": true,
+    "6nvml2YP2adY24rxfR3q4McsDti2": true,
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "UlXf1N8EXUfddHj3a5NChfy0ssN2": true,
+    "g8zpfVV4dAgYjCPr3bfdJ2AyGUs2": true,
+    "CYCFZUse5fcF3jOyE364GK83GMl2": true,
+    "8VPwHnt9MBeqrji6rx32n61qnFt1": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
+    "Vdfyg4Lk98QAUnrC2jpl5De4uFw1": true,
+    "OL8xfc96wwTE1nPxvUf2Xz2J5zV2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "YMO4RuPRs6VInVsWqFs6bB7CsOQ2": true,
+    "lPU5PduoWRawKN9sTKDMB0TY34T2": true,
+    "oIxcWQU47SVcWGeEuzh8PUjuEki2": true,
+    "bK5wEOtiO7cSmaMzvtHj9mVMCIH3": true,
+    "we7GMANN5SYFeddgkztRoERAX3n2": true,
+    "PSoyauiznDOhY2rkNIZ2rO4hsY42": true,
+    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
+    "QW1hcUR2yQV8FWKDwwlx2jTfESq1": true,
+    "4IqublTFgaVK1VtwljleKAsXdJ92": true,
+    "HOSPsjyKxEgL0M8dQp4qYyTZwX12": true,
+    "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true,
+    "sfRnxFoxGjPvyPxLEoh754u6Dnk2": true
+  },
+  "blueprintString": "0eNqlVFtu2zAQvEqxQL8qBSL1cK3f3CC/QWBQMlMToEiCDzuGoQPkILlYT9IlHViqrSJN+yNoVzuzuzMiT9DJwI0VykN7AtFr5aB9PIETPxSTMeePhkMLwvMBMlBsiJHTktncMMUljBkIteUv0JIx+xBp2ZbZGYaOTxlw5YUX/Nw6BceNCkPHLZJeoEYfuM3dQfh+h4RGOwRpFVshUV7c1Rkc8YXc1ciPq3ir5abjO7YX2sayXtg+CL/Bb9sL9llY5zc3Y++F9QEz086pIn+AM7nzLIpG6mbVNGXRlDE7GGaZj83g5+sbjOdSxfvYzEV2Eh+Wb+erCowi/H26GJLxCbH3obiuqzI4CMvTexG1uw/kumb1e80YbblSlV7WYn0fhiDT1DeikrmmCzTlRGOF3w3ciz5HGTqhlgnLjyyaeCaX3P/bVK3rsqbf1xlow9GiNBF8Q5gO3oTPEf+7rXSm4WQz/ft/YsmEahpxYFLmXOJgFo0wWvKFg1IlD4olqvrqnN6CSQKTJXCzeD3cUNA/M6w+t8llETwG6ZZpZ9dZBpJ12L+Fh7jKF1IUXzG559YlhqaqaLMuK7qi4/gLsYKukw==\n",
+  "image": {
+    "type": "image/png",
+    "width": 517,
+    "height": 361,
+    "id": "dj8hBpV"
+  },
+  "lastUpdatedDate": 1553985562475,
+  "numberOfFavorites": 31,
+  "fileName": "minimal_radar_blueprint.png",
+  "tags": {
+    "0": "/general/compact/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Minimal Autonomous Radar Setup",
+  "author": {
+    "userId": "nApcf3ORtlMklhR78e4uj2J4BZE2"
+  },
+  "authorId": "nApcf3ORtlMklhR78e4uj2J4BZE2",
+  "createdDate": 1553985562475,
+  "descriptionMarkdown": "Clever Radar setup that turns on _only long enough to get map coverage_. Then gets powered down only long enough _not to lose_ the map coverage.\n\nAverage Radar consumption ~45 kW.\n\nCreators: [Lav](https://forums.factorio.com/memberlist.php?mode=viewprofile&u=38997) and [DaveMcW](https://forums.factorio.com/memberlist.php?mode=viewprofile&u=1868) \nNot my idea, found on forums:\nOriginal source: https://forums.factorio.com/viewtopic.php?t=53659\n\n"
+}

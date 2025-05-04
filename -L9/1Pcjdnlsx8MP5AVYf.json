@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "Ebjjnpo2JATWBpAjYcarrCnHCW03"
+  },
+  "authorId": "Ebjjnpo2JATWBpAjYcarrCnHCW03",
+  "lastUpdatedDate": 1522606443579,
+  "numberOfFavorites": 5,
+  "tags": {
+    "3": "/version/0,16/",
+    "4": "/general/tileable/",
+    "0": "/belt/fast transport belt (red)/",
+    "1": "/mods/vanilla/",
+    "2": "/belt/balancer/"
+  },
+  "title": "4-Belt Filter-T by Lingh & Pebble",
+  "blueprintString": "0eNrVWU2P2jAQ/SvIh6qVkioeh68ce+iplXrorapQAoa1GpzIMauiFf+9DrCCJQnxTIOqnlCc+PnNjJ89T7ywLN/J0ihtF1lR/GLJy2WkYsmPq8f6nVoW+jRcqY1O83rM7kvJEqas3LKA6XRbP63TyobWpLoqC2PDTOaWHQKm9Er+Zgk/BH4IVZkra6W5mguHnwGT2iqr5InK8WG/0Ltt5r5M+FuInZtmNqZwvycaASuLys0udL22QwwhYHv3I9wiZyrFzpa7mnEDHbDoEQJc3M1fkzh/xW7Bijsy2UA5Rw8fx47iShm5PL2cBGyt8npKwpaFq1RwZr5w26Ewbi33wqjNU2soY1wo9yKZUAsKjYB6KzBFVuC8Er9ZqQV5RqutB/Lct9LnrciHrTSPaJFBW605x4H555+jlct7dpHSHZuIC9Lm9wkiJmqB46XAxyQtRB5RTEg7xgd5itNCRJJCLtftGaNp/KY2cRvynCILj4RBhLsm+KAJA07TJEdLEoAiSZ8ECqIi4eDBOiZJsPUWhTGtc/HiSRO08Egv8kKO7iSApk7oVyfMKZvLI3oRUYAbjF3DfOytk6tmPmB56kDcWBx+cmCjz0cVh99H2X70RenN0+jd6JvMsly6b5+lqU4sZ1PgMzGJRHxpyaOa+v/uE7pPvrCrQ4Y3Z19ZuvQVRuJOQPTp0d6VQL9Ixd+2iQOEGz/SPY0HdE9ozwE9ZRnMctxjPSOy9kov6ZDr6PKjIVpLGMA/dBg48DAQ6N4SoZ9usyWGaJ3Bw1oQDSoM4CT8qz0Zwi2Ch5Eg9YswgEdAZHmOvND4IzboraHwvtE4+kLDuwdERwsPaxYF7ZDm+JsFax+87SjeS8DDvIR/4v+5lRD9IgaS0W8lSTMPDY448/D+qzLGHRqrDxcfkeqVr5PgbcuFx38mcIYldfyf5eLVoHSse/gDGHFg6Q==",
+  "createdDate": 1522606443579,
+  "descriptionMarkdown": "A simple T-filter that filters the selected item (default copper) off of a 4-wide belt into a 4-wide belt. Every un-filtered item continues along the belt. *Note: change copper to the desired material on all four splitters)",
+  "fileName": "20180401135817_1.jpg",
+  "image": {
+    "height": 1080,
+    "id": "J97CA3a",
+    "type": "image/jpeg",
+    "width": 1920
+  }
+}

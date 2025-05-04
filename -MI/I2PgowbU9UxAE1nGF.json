@@ -1,0 +1,22 @@
+{
+  "numberOfFavorites": 0,
+  "title": "Centered Landmines Renew",
+  "author": {
+    "userId": "jbCHoUY1FxhZe3cm3AHGaLDQqgq1"
+  },
+  "authorId": "jbCHoUY1FxhZe3cm3AHGaLDQqgq1",
+  "blueprintString": "0eNqVkk1vwjAMhv9K5XNpKaNly3HsNriw2z40ldSMbK1TJSldqfrf5xaJTQKhcYos+XnyJnYL67zC0ihyIFrI0EqjSqc0gYAVbtAgSbTCe6Wtc6UVYVjXdbBJpdNG6cDKrdZ5uFNYh6NHR3LRzO+flw9P+3j5+YX7X+yIuEJRNA5MFYIPSmqyIF5asOqD0rwP4ZoS+XblsOAOSou+ylPKRkwidExRht8gou7NBySnnMKDZCiad6qKNRpuOOK11hnSSG7ROpaW2qrDI1tg0TiIfWiGs+v8E83kTIoTR3TZcXONIzrvmP7HMbmcI77GMeTgPx5GIf6sis/0GnlaMGc/L0nmLVjX26y3QsKaW3Zo7OCc3EbT2fRulsyicRInXfcDkUHQBQ==",
+  "createdDate": 1601268722729,
+  "descriptionMarkdown": "The old \"Centered landmines\" blueprint by Goo se doesn't align to the center of the tile in Factorio version 1.0. So I changed the JSON code a little bit using \"Factorio 0.15 blueprints decoder/encoder\" to make it work like before and better. The blueprint can rotate and match with original landmines' positions exactly now.\n\nReferences: \\\n\"Centered landmines\" by Goo se, https://factorioprints.com/view/-KtncLyCBZMDSz5Mjkez \\\n\"Factorio 0.15 blueprints decoder/encoder\", https://factorio.tmin10.ru/",
+  "fileName": "Centered Landmines Renew.PNG",
+  "image": {
+    "type": "image/png",
+    "width": 395,
+    "height": 319,
+    "id": "8laPtjO"
+  },
+  "lastUpdatedDate": 1601270439456,
+  "tags": {
+    "0": "/mods/vanilla/"
+  }
+}

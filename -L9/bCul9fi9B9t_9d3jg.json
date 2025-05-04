@@ -1,0 +1,28 @@
+{
+  "createdDate": 1523223866505,
+  "descriptionMarkdown": "Give this 4 belts of any input, even just one lane, and it will balance the output across all 8 lanes on the 4 belts coming out.\n\nIt is more compact than the variations I've seen on here at 12x4 with an extra 5 squares on each side.\n\nIt has been thoroughly tested to have proper throughput and proper lane balancing.\n\nIt will **not** balance input loading when its backed up and will draw from some lanes more than others.\n",
+  "fileName": "4-Belt Full-Balance.png",
+  "lastUpdatedDate": 1526054486623,
+  "title": "Yet Another 4-4 Lane Balancer - Pebble + oliveawesomesauz",
+  "author": {
+    "userId": "Jfw5fgZ8AcO891GSakpfCC4QUl22"
+  },
+  "authorId": "Jfw5fgZ8AcO891GSakpfCC4QUl22",
+  "blueprintString": "0eNqdmMlu2zAQhl8l4JlqOSS1WMeeesgbFEFBO4xBQKYEikprGHr3UlUbJLVcD+dka/v4D2eVLmzfTXYIzkfWXpg79H5k7bcLG93Rm245F8+DZS1z0Z4YZ96clqMXM8YiBuPHoQ+x2Nsuspkz55/tT9bCzHGEcehcjDa8e1bOT5xZH110dpXy++D83U+nfbqzhRsIzoZ+TE/1flkzkQr4VHJ2Tn+qhH92wR7Wq3qR9w9VYqkiA6r+u1/XguVK1h/JcoOsM8lqk7yluURvr/y7E+V9avWROiVfh2Po0+8NxWIbzd+CyQ/TEnJXK9W5KxVAXarJc4JA+2CX6V1Ak0HkobfJ1RYZ8sgSrxmdm5ARkUBMTolAE7NT3c97KGmq1bwFq0gBLBEya1oES0ScNegC9VaqFcJnO1JiIKJBClJiqPtbIYGkeTMWpMxuqwJhu8quxn/Mh+xqLHVuC8cYUBIb1039/RRvGVBRWxdlsew+CWTHNKSaBYgE2JEKLaKAKUHSjCgHCkiaAUGWlHKO2QxFAWMUa1KbwJBLEhnRf1RFKbqYwKgpfQKjuKGAMZtM6pmAeLsRxLah8wuhBlKmI2Y1LbMnFcQ0rBUpshEjkNaUNMeAS1qvoXiTlJ2IWUvX2fMR4iVEN7kzyxX0ia8fVtp3X3I460yyN53TxaPx9uGL6Yw/2PDw4/NX070U67Hzx3Trqw3janZTS2hUJZSe51+5eAlA",
+  "favorites": {
+    "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
+    "KHYeyqAvq0aTJLImH1gW3sG4atB3": true
+  },
+  "image": {
+    "height": 906,
+    "id": "hdHIc4K",
+    "type": "image/png",
+    "width": 510
+  },
+  "numberOfFavorites": 9,
+  "tags": {
+    "0": "/belt/balancer/",
+    "1": "/belt/fast transport belt (red)/",
+    "2": "/mods/vanilla/"
+  }
+}

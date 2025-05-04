@@ -1,0 +1,29 @@
+{
+  "author": {
+    "userId": "sIcyBjW8zYWgRO7WKduF3nN0M342"
+  },
+  "authorId": "sIcyBjW8zYWgRO7WKduF3nN0M342",
+  "blueprintString": "0eNrVVtuOmzAQ/ZXIj5WpuISEoLbvfegXrCJkYJJYC4Y1Zi9d8QH9j35Zv6Rjc8uF3ZB9W0WKBnt8PHPmeOxXEmc1lJILRcJXwpNCVCS8eyUV3wuW6THBciAhYVUFeZxxsbdylhy4AMsjDSVcpPBMQqehE4tKJtFQIC37yNdttpSAUFxxaHczHy+RqPMYJILRHqBShWR7sJIDVIpQUhYVriqE3kMjrb/6lLzgCjRwAwxfySKLYjiwR15I7ZZwmdRcRTiXmrURCBZnkJJwx7IKcJmEhxrxox3PMNZKr6og0b5teH2OlAweJ6MT2VLyULMMk8JxUcgcadHh5dpH6cDIdzNQa+Id2262+NMcnlHhDugpJDxFbASJuTAgl3ysej4CTCvlss2ChME0Nx3myI3J/fgL89xxidyMtVUvpY7nkUtVm7T6WhkPC1AdpK1FpViX3lnuPwg9gY0EqKdC3pvtpS6NkjVQspcAoq+TVk1Rq7JW5xKdGdG8TZqpMngDZlxn9xYXFUgs9HuKDIwir9eg1+egyjaqC9lq3/NSTB+zkXn/nPhvZDK95W0qCz6Hyv79+fvZdOaPmJAhrcWVSvhdJVxnViWKEpAc44GtlSX3VsV/A5mKZEXf7fxvC9+157fiVgen+tTtmKURbofccYyqagk0EwkvLzttOxxdNNyJrNY3n2PX/UTnOBiLJrk6IBZP5l0YrjcryRH27DR/8PjiNYsw0Zgp3nfHIv1C+rN4K/YkP5vBt7vydae78rRwvat6zosUomIXHUXu0PceHoOe5707pp8Gjn1jswhuq/WbzQL74xOu1jHeOdShHnW21FhrY7lorTprSX3qorUcxpba3zamj2ZgrACtjbHwX097W9xlOA8tHV3deTqW/KeCfKGKRSLZThcR5954h1knB/D648ww3u3YMU57IyS+Pcbwiz0vWG5ecpoajiHp/jK8qynJWAyZ8cyyRddODd4jpmYi8lfuZrnZ+Mv1Zu2vvab5D0sK9rM=",
+  "createdDate": 1732702831422,
+  "descriptionMarkdown": "This blueprint creates a mall item and is able to detect a good amount of items to request. Good mean:\n- for low item count, it will take a stack of items. For example for pipes it will request 100 iron plates\n- for high item count it will take *2 of a stack. For example rocket, it will ask for 200 steel. \n\nIt also stops adding items in the assembler to avoid having huge items inside doing anything. Like rockets",
+  "image": {
+    "id": "dCB1t3H",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/dCB1t3H",
+  "lastUpdatedDate": 1732702831422,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/production/mall (make everything)/"
+  },
+  "title": "Mall item with controlled requests",
+  "favorites": {
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
+    "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,
+    "8awE4zsqLiXHS5oGy4qZqFX4C7u1": true,
+    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "m2skN62u91QV0pEwO9J5Ck4jThk2": true
+  }
+}

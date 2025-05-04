@@ -1,0 +1,31 @@
+{
+  "author": {
+    "userId": "UA7Q5xDaA6XZtMvX1FO3O7eNLDw2"
+  },
+  "authorId": "UA7Q5xDaA6XZtMvX1FO3O7eNLDw2",
+  "blueprintString": "0eNrtWN1u2zoMfhVDV9ugbLUtp0mADegGDDj3vSsGQ7HZRpj/JsntgiIPcB5kL7YnGSUndpLKy+x2Wy8GFAUlUeLHj6RE554ssxoqKQpNFvdEJGWhyOLqnihxU/DMzBU8B7Ig8LWSoNRES16oqpR6soRMkw0lokjhK1n4G+rYpnKeZZOM59WeauBU5VLoVQ5aJJOkzJei4LqUe7vCzSdKoNBCC2hA2sE6Lup8CRIR0BNgKalKhdvLwpg1mP3gdUTJmiyiCCW0hQRoWWbxElb8VqB9VEyETGqhYwk8jVe8SGOjhcYRhZY10FZjN9+o5mUKhhfj7RHU4FFQw98E9cwFNWyhppCIFOR+dBwwD/lMhYSkWWduyNtTDaDUnqSsI3sjjPS1kErHXcrodWUQ3Qqpa5xpITYakw+k4UdpbhLbN4O84tJiXpB3uGH/xLgAfVfKz9ayhHTH1Y0EQODXPFOwMdlX1rqq9XGFnAADtyDXeiWKG4PqgSl7emvLGEZTG1ck2MhIhP8i8cSRiOjPLy1HMM4HBqM7+CgeAwMAPFkZbxWYY+IuFGi3rAADYVGQV2RH6q+ffUE2Tnqm4+kJngs9s0N63oyg530PPecD63j+fOp4r3TfkiepQ1Nh6HPG14g4BZVIUW051yvwmrh4W5e8g8bgAbGzkcQ+46fq+//fTl6Rznvr91yRztu4N4CXK6E8/DOBzCEv5dpLIMu8F3bGOuW9dAVyTh39oyOAYdsSRb0tUa0AA5aVsmuBzKjtzijh2R1fq7jckfcQj3828umN/nZmbe+1X950ScbnzgfS9176XWu+S/UTBLI2suyYQj9wc6gaBXUoowO7DxRTR5kGeTx70i1KvuACOoSTRSlzq3R0GZqJ2lYwctDDQjCUhej5sHA5jIUgivp5CMf3B+wP9wcXziLa6lxzpR0fxI/tG/raKp8NzZ/p696L6Mnz5yecDMqcsD9vRrTds46BQ/9no/Kme6gxwYffrhfH6TEZkR7mIe5JkBGN9/xpCRrSHDu6bv/xHyVNc2IIwnfsDv0xiXrl04CGNPhErwKUmJVC6lN82UMrmmVmJUandpl1y8zuYVZiNLLLEUp+c+QUxXMr4X+zh+3EcCuGdEb9rYRpbEScwMnQSu2mmVmf2vW5MR9ZBStOrYh6LapG9q02ynhIYEEYVNQ3PiIDQkOO5HQ/81GScaxKnHuPtel9zMo77z8MZLLNEGwAlWU/mgZzNp9HbB7Mpuxss/kBJ2rcBw==",
+  "createdDate": 1734134014548,
+  "descriptionMarkdown": "Circuits that read and average the contents and flow of a belt over time and output it to a light\n- Red: No flow\n- Green: Max content\nFor any state in between the light is a mix of red and green. For example for a full belt that is not moving, the light is yellow.\n\nShould work for all belts regardless of what they are transporting. Should also work for stacked belts but I you have to mess around with the constants a bit (the \"8\" and \"belt\" constant have to be changed)\n\nWorks for all tiers of belts, but you'll have to change the \"belt\" constant\n- 1: Yellow\n- 2: Red\n- 3: Blue\n- 4: Green",
+  "image": {
+    "id": "yVaQ4Ek",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/yVaQ4Ek",
+  "lastUpdatedDate": 1734134014548,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/circuit/indicator/",
+    "1": "/mods/vanilla/",
+    "2": "/version/2,0/"
+  },
+  "title": "Belt Flow Indicator",
+  "favorites": {
+    "khmswhCNWaR5MeI2KcZQWQ2Yf3E3": true,
+    "sfRnxFoxGjPvyPxLEoh754u6Dnk2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "iZLgeauJDGUVkJzmeG84taoTDVc2": true,
+    "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true,
+    "wdSusraLSWMRsvXCgJejDgzsvA93": true,
+    "wN6BFBBBUoW3OTtKB6kGpXpIXA82": true
+  }
+}

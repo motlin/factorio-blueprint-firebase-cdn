@@ -1,0 +1,20 @@
+{
+  "author": {
+    "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
+  },
+  "createdDate": 1495276115324,
+  "descriptionMarkdown": "- In the constant combinator, set the repeating interval of Hours Minutes and Seconds (H:M:S) that you would like a clock to reset\n- Switch the combinator on\n- The green power pole on the right is the clock counter on the green wire, green signal\n- Every time the clock starts or resets the green signal is 0\n\nNotes\n\n- The green signal is ALWAYS zero when you switch off the combinator\n- The screenshot includes concrete, the blueprint does not\n- The H:M:S in the blueprint is preset to 0:0:5 and the combinator is off\n- Play with the Green variable in the constant combinator at your peril, you may break the clock if you do",
+  "fileName": "hmsclock.PNG",
+  "image": {
+    "height": 688,
+    "id": "wM8kIEQ",
+    "type": "image/png",
+    "width": 627
+  },
+  "lastUpdatedDate": 1495276115324,
+  "title": "H:M:S Clock",
+  "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
+  "blueprintString": "0eNrlV01vozAU/CsrH3fJCgz5QnvrpZeeclxViMBL+1SwkTFRo4j/vs+QJUkTUpxUkVZ7SYTxG4/fzIDZsmVWQaFQaBZuGSZSlCz8vWUlvog4M2N6UwAL2RqVrmjEYSLOzUA7Y/TIaoehSOGdhV7tWFQ+HVRyq8rFQaVvVfmiAMRBdVA/OwyERo3Qbry52ESiypegaEsdQg4pVvkIMki0wmRUyAwIv5AlFUthFifAke+wDf15teH1AYx3YKbPOhZ6lMh8iSLWUp3BClosag5LUdG6zT0apXKtZBYt4TVeI9VSwQozDeoa9RJZGfndW3Q8wbhC0R2G794q7g7I22/INzpjGZn+reKshGaWEG1PSwPumZ8W4sAHmLJwTHNRJRXq5tKrn+tz6vqWVgn+OsWCyuyYCu+hEnRUYoX6NQdNLC5azf85buh4x17j5722R43odood8xWqUkeDFXswapVgMCI7v8kCVNxyZD9oiqx0UdmtXPc0XkH6iQO4cdMwqzhHtyenTnIY71l0Osx246u1du+q9e5R0z73qBXusYjfv1bEs+rwD3IENnIEw+SYWMvh/jvRW9w/etOh0QsuR29mo/V8mNbTq7V276/13aL3eXb4xeZPhjV/1lFKIcEU1MXOc6uQ7RBv63p3HLFN2U6uvIhVs5mQ/bpCoYPTULGJmiNRtFIyj1AQDgu1qsBCwpOTh3MpMf0xtXoFnoa2B9XvMcncNqH8/wzoxCags3MBNedrDTkR2H9ROiyLl0Bs2ePT4ttDJpM3GlvTV0qzr0kQ8DGfj2dTXtd/AOZl81A=",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/hmsclock.PNG?alt=media&token=f0c5e6b4-6a6a-424b-a841-f2bbbbf56c8e",
+  "numberOfFavorites": 0
+}

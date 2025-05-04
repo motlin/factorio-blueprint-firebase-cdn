@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "Wt8Ba57cjpe1PTEF5iMxgAg5TEJ3"
+  },
+  "authorId": "Wt8Ba57cjpe1PTEF5iMxgAg5TEJ3",
+  "blueprintString": "0eNrlVm1r2zAQ/ivjPislfksTw741P6DsYwlCti+tQJY9Wc5mgv/7TnLipsEsS8a6jSIIp9O9Pnd+yB4y1WJtpLaQ7kHmlW4gfdpDI5+1UE5nuxohhZ00tiUNAy1KpxgsZg/QM5C6wO+QBj079TwYFpjLAs0sr8pMamErc+IS9hsGqK20EofM/tJx3ZYZGoo5JnS1WaHtaSAGddWQb6VdQoo3S5K7hEFHUhTPw7uEUpGjNZXiGb6InSQvMm0wd17NW5nSH1thsJXKojnXXoSDwVd6oBZIqStTeiMquRbGl5zCZ69oHeRBv6FDaDTctbAVqkG61kp0aHiBTW5kPbQHX9CCA/gMoJD9BOgJfOIzdApphv4hjaexOsTl9FbIEbXTGyG0laax/Lq1OU7UA3sGkev0ypjrSzGPCuSHSEIX4Bawam3d2is3/3FIV3fcD5NvTVVyqSnQcZCbvp8YWPQaiJZDzZQo66lBzX9pkXNp8lZajlpkCgtIrWmRjepxSs72SjwfL87Iv6uhkOFbfYZ0ziDzv8Lt9wQA8ZUbG/4TG3tA4y0A7707ye+wYfDubLj+c2y49vs+RYiLmwkx+PuE+EE48P4GDgz+Cw6cew4MLnHg8mYODD4WB1L0b9Sri/0UsNCdDfPSwkshC0gKvBTTcbqIeZmkmF6XLPJSRJKzS0aPBVktvcc9eSzJg7JJiyUV+fq/mIESGVJH8PBJCZu/kGZHVOjBTxbhKl6tkiRMFlFIo/4BuGTNMw==",
+  "createdDate": 1735041768977,
+  "descriptionMarkdown": "D latch (aka single input sr latch with enable input) implemented with the circuit network.\nConstant combinators are just to fake the input and can be removed when in use. First one is the D input, second is the enable line",
+  "image": {
+    "id": "HWTK9iT",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/HWTK9iT",
+  "lastUpdatedDate": 1735041768977,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/circuit/indicator/"
+  },
+  "title": "D latch with enable circuit",
+  "favorites": {
+    "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,
+    "UUXDX0aZFASvRFVULz0iamxj6yV2": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "fileName": "bp-red-circuits-fs8.png",
+  "numberOfFavorites": 8,
+  "tags": {
+    "1": "/mods/vanilla/",
+    "2": "/version/0,14/",
+    "0": "/production/advanced circuit (red)/"
+  },
+  "author": {
+    "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"
+  },
+  "blueprintString": "H4sIAAAAAAAA/8Va226jMBD9lSjPQQIDuajiZfcP9gcqAt6utYlBYKpWEf++DiRVLh48Hi/qQxWpYezxmTNnxkPKanGoivyweM1OXCqhBG+z00nmR54t9zwv\nKrlc1VWrv6hkdvrIgnT1mQVR2q+E4sfzs+fPbNnWnJfBsSq7Aw/i5aqoOqky1vf9amI18mL8o2542wadLHnz1ujvy2DPD+rB2fi6vvqstVXVqbpTy69Vfuet\nCoRseaN482DKrqalaHgx/Hv9ZZi3LT/uD0K+Bce8+CPk4OatfTiYJ/1KG4vz3nn5nstCH6sQTdEJ7en9metGH1fv8y7U59PRk5ujH3kpumPAD9qrRhRBXR34\n/d5X1yehvwSS0bFXTS7bumoUjDy7hS9xwD2+NWQOZ7/YM5K7sdldbLSjGaI9AdUkUlY7ZraDs3QmplyRd0ztL36ZMxtm/G42sWFXEtzgenFPyDvvHCgZOYf3\n4kdoVi4n4Qx7s/9WcnltPoHjY5jxBIvMqY1fIDQvAOYLgWfWoO68Yjossb1bwgIrhiQ7KAXxJN96ye72+2rszlUj4BAQFOIZu2dKWO13eFqP+rmes2FYm73B\nlv01Zc8NsUfZmJUZydr0G3qFNa1VAA7qUKc3QB1xWGLtUumpRIVZH8/J+pRY4xP/Ep94RWZ0I0V0PEhBTUiCanSA3Coknp1C6tgoeFALE+GYfPmN6aVl3Bq4\n/blwi2HaFaTkshkk14GlxqM4NtYeIXmOCMEeuCCDuhnOOl2gDhem65l1Y+AmgGxSwt6Rt98wVQhpjQIALKR8HuTAzAa8e47QebhAkHIbWy0Zi6gAzAKEle+W\nfEHIuMtMxK6kqMmAhaueQug5TQAKI5Qoczaflm4HEdwEU6Id+EpuWIDiiFPZOSb1eEobMSS10IZBqo2NlmuEzdy1JyDcy2yRBy5QqCRgo0vUdB4oC1ys0fbA\nlQHRUUTD7higQvicFq30QPcJXMr4IAUKGCSXM02o4nuoQX7P+4LhflplBqZVefF3Kl+2nnzdkq6i0BQIJ9A3Y96iqmveBEW+P+fD7OK8gQrSFM6eMD+gDFHd\ng2vWIBuG2/ZWMXQ0YqORsQBZabzzoHFE3Dh8OOXUsxGACKLFhd682SgHQGKvJFD07PIMvgACFXK2Hx2wy+LEYjpgEJFk+eH9os8rsWg8BMHI4PqUUfjkt1vz\nxwiORv9jT8dzxoCfdmpH0BAB0uNZf04TeUymxwWAVh2fWx7zRzaewN2GcKNx3Scm7DMiCnTu6MOlBEfTM3mE5t+ZZa14k/khO11oqjm3XF3aqsdrrDbSjNc5\nqM3HR34MNObl4pf++zk+1i77l4arrpGL1xcuy3/TQOMEIigAAA==",
+  "descriptionMarkdown": "10-tall red circuit production cell. I use 4 of these to output to the same blue belt for my main random-production bus.\n\nInputs:\n - 1 belt of copper plates (outer rightmost)\n - 1 belt of 50/50 green circuits and plastic bars\n\nOutputs:\n - Advanced Circuits\n\nThere are no calculations here, I simply made it stackable in the same manner as the rest of my factory (10 beacons tall). Like I said, I use 4 of these for the production line where I make all the random stuff, but I don't know if 4 of them actually fully saturates the belt or not. Probably not far off.\n\nIt's worth noting that 1 full belt of copper plates is more than enough to feed 4 of these at the same time.",
+  "image": {
+    "height": 969,
+    "id": "2VyG92M",
+    "type": "image/png",
+    "width": 517
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bp-red-circuits-fs8.png?alt=media&token=8ac0186d-6ac7-483d-938f-a734488d50ee",
+  "lastUpdatedDate": 1497823574645,
+  "title": "Beaconed Red Circuits",
+  "authorId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1",
+  "createdDate": 1491317369124
+}

@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "hLFN2AV5tFfwTNFEOeib4sVMwXG3"
+  },
+  "authorId": "hLFN2AV5tFfwTNFEOeib4sVMwXG3",
+  "blueprintString": "0eNq9V91u0zAUfhXLN0jgTmuTrE0luNjEHRcIkLjYpshtzlaLxA62s1GmPgBvwbPxJBw7P8u6dDQFpkmd45zz+Tvf+XF7RxdZCYUW0tL5HU3BLLUorFCSzukHWIK4EfKaGMvdHrkVdkW4JLy0apTCUkMO0joLhFBa2PXRhbyQb/lyRazIgdiVMK239nhgCCdWcyEZEfaFaV0JmmpIyyWkZLEmSgIxivAsI8quQDcwpmKBW8RwPEK6D7NSZZY2JzQHkAVcKb2Thaxwvann/XkFGJtcd2wxEuhQ/A5aMYQ34lryzDE2KABy9Xw0T7kmEuyt0l+IVehvwPoQWvK426JNouiIMiqW+ILOz+9oBesy4aLCFHC0W+VgxXK0VPlCSG6Vphv0kSl8o/PxhvV4YWZECrrfZbK5ZNRlzQqoTvUP60SW+QI0YrIGx8eDBAtlRFUTdxQRRrM4PIoYXeNyPMYYoo2jsQUzYU/Q6cGcxV1M5JsKTFVlMmMUNbJaZckCVvwG9avK1QMn+C71YMbtdp8wuiuhjU3uNbLrwpG6EdqWuNOyrCxG751UyLTg2jOd09fUKaZKW5R2R5qcMWYJYzyu3Is1kiqlTa60yhMh0ZXOr3hmYHO56VMrYE+nvE+w2YMUPBAs7BfsHntLs0okV4eWu1GAlcmoAWe0v3Q+dlWA5vUAGdFGt0H69woUDi2ne3XCbXXGk+erJzdBHpXUGzTr4iT1zPDn4Qysa4XRaw2AhK0uwYsy8HCfkaFpfOecBrPbOuexj7NqXapWaFSBpKbEZfpEs/052B3NFbWmftaPjFVF71gL2poJ9qsYj5c4vAIGSPzJSYyXS5p4AFMNi0aj7t7+mGdVrm3SXC8NXPM8rAcRyzZ9fC4s5K87Q+6y/WqAvjmXCNJEkolc2Ppi2krDyfAZFx+3GZn8mxk3rA3qmt4ajN0Z9/KAGfdux4ybDpxxHXWC/zrjdl1ze96S+yh9wJ05O/xKCPYspv9xI5wdMpRPHwn+68fPwyU/2zkr47/6IvLcTXrW26THD1v01QEteupbFOW9xVicuOdjNsG/8JKdu/9BvQrZlE1wFbh3fg/fsMjvhWzMTljgV81bt5r5Fdqw2Nud4Grq92boEXuPWf0WGbRdV+W4Ji5S98sh3epKRr9iNJjPUSurC7beRGOpdO7D3W5eF6sb8/h0/5OQ0YwvIHvwW/BjfS0weoOU/AHRySQO4zgKp/E0mgabzW9G5Ozh",
+  "createdDate": 1733049484334,
+  "descriptionMarkdown": "Receiving station with an auto-decrementing priority.\n\nEach time this station receives a train, it's priority is reduced by one so all other stations with the same name should receive a train before this station receives another train.\n\nWhen any station reaches priority zero, a signal is sent on the radar network to reset all stations to priority 255.",
+  "image": {
+    "id": "pb7PytM",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/pb7PytM",
+  "lastUpdatedDate": 1733049484334,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/circuit/counter/",
+    "1": "/train/unloading station/"
+  },
+  "title": "Priority Receiving Station",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true
+  }
+}

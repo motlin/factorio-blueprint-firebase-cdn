@@ -1,0 +1,31 @@
+{
+  "author": {
+    "userId": "NlhKxPyJ6SRcVz4ce4YJSjzdpg32"
+  },
+  "authorId": "NlhKxPyJ6SRcVz4ce4YJSjzdpg32",
+  "blueprintString": "0eNq1Vl1v2jAU/SuWnzYNaBI+2kVC08S0t0kT9GHSWkUmMXC3xI6cmzKE8t937aQ0RYyPtntB2Nf3+NxzfB1v+TwtZW5AIQ+3PJFFbCBH0IqH3GffQJUoGUImTe9OzcYzGWuVFMxIkbD5huFKslyvpWHfdSppyWQl1FKyollXKoSUVhcSw13QJolMU4yBciMDyxWyRMaQENREZ3NQQqNhqNl6JVA+0PQj5kaXbC0o+d1s/OP9nfpWpgh5WpNpL8rLegNiX7Bu4DGhEjeJBMlUmc0JlSrXLnOiVYEWNq63R2167Ks2bMBme6C34+6NR5k9tqD4cBened+rt7GBvrejQ5ERRSTGpBEJ2UwXK71ma6PVsqHziU1tSMkYHampE+azAVxlEiF+1IbIWW0AC5kumFgKS4Z3OFBywcOfW17AUonUmoqbXJKbgDKjFUpkdiR2kN2nenlFCCqRf3joV52TGI1fhwGC6r7DJdmPIGtGbrCJ6kJphx1OJhMos65MqWpDhHI6SrRLrguoT+KWEyAZOOoNO3xDf4f93pC2apQCV/OW+/bHyKS9G9CIkmIwcQnohn51X1W2vD1CwY5Q3ByFdmXH+QSOTwKmpsPDgWOHRqfRXK7EAxAE5S0gRWn+4dADGCxpZsejXtG95a7W0vZo1w88r+XS/fkyDM6ToX/ijBwS4vrJmLNkeEKObCPAjvsCTIHRZcrUPRY9muZOls6lEc019oHSdInUuBcBV+cr23+ubNBS9YDwgTMtOA/L38ManWfi4FiTHnJw+MzBQ541QK8zbFof5ZZTxCsXxvEK+fhlVlmUfBO5FokWRmcRKMLgIZpSXuDjvnHDVxl32Jnhpc4MLuytN/Fp9tynkfcGRk2PGLUQaXGJUyfa4rhTZ16EoxdchP2TbfR/rz5rVPvuu3qBT7PX3X3HlD/4JaZ3gntXhK23aIenYi6JLZ+kOv7NrtitfYPaJ+cX/YseWJqW0KOwcGUGN/7g+mNwPfBHN/3Aq6q/yLq01g==",
+  "createdDate": 1629585473100,
+  "descriptionMarkdown": "Overview\n-\nAfter searching online for a whole I could not find a timer or clock or if I did it was not really useful, only woked with trains etc. So I decided to make my own. It was a bit tricky since I do only very basic stuff with those networking tools but I got it to work and I wanted to publish it for everyone :)\n\n*The Medium pole reads the seconds.* After 60 seconds it will reset to 0 and begin to count again. You can just connect whatever you want to that pole.\n\nDetailed info and how to change the seconds:\n-\nArithmetic combinator left\n- Input from itself and Decider Combinator left\n- Outputs to the Arithmetic combinator right and itself\n- Continously adds ticks (T) of the game. The game runs at 60 Ticks per second so every second there will be 60 new ticks on the tick timer\n\nArithmetic combinator Right\n- Input from Arithmetic combinator left\n- Output to Power Pole and decider combinator right (the adjacent one)\n-Since the game runs at 60 Ticks per second and we can count the ticks, this Combinator just divides the tick count by 60 to get the seconds (S)\n\nDecider combinator Right\n- Input from Arithmetic Combinator right\n- Output to Decider combinator Left\n- Simply reads the seconds and when the counter hits 60, the Decider Combinator will send a signal (R) to reset the counter \n\nDecider combinator Left\n- Input from Decider combinator Right and Constant Combinator\n- Output to Arithmetic combinator left\n- If the Reset signal (R) is 1, meaning the 60 seconds are full, it will take the input from the constant combinator and output it into the left arithmetic combinator to reset the Tick count, therefore resetting the seconds.\n\nConstant Combinator\n- Outputs to Decider combinator Left\n- Adds -1200 ticks (20 seconds) to the tick count from the Arithmetic Combinator left\n- It has to be 1200 Ticks and not 3600 (1 minute) since the signal has to travel for a bit until the clock gets reset again. \n\nHow to change the seconds then?\n- You need to change the value of the right decider combinator to whatever seconds you wish to.\n- You need to change the amount of ticks in the constant combinator. For every second you need to count 20 Ticks.\n- If you want to have a 1 second timer you only put 20 T in there. For 30 seconds you put 600 in (20*30=600) etc. \n- In the case that the count is wrong, you can reset the time by reconnecting the left Arithmetic calculator to itself again. \n\n",
+  "fileName": "1m Timer.PNG",
+  "image": {
+    "height": 382,
+    "id": "1x1Xx08",
+    "type": "image/png",
+    "width": 501
+  },
+  "lastUpdatedDate": 1629585823102,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/circuit/counter/",
+    "1": "/version/1,0/"
+  },
+  "title": "Self resetting 1 minute timer / 1 Minute Clock!",
+  "favorites": {
+    "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
+    "jdG942UYPRTZmxxPyHpUtgjWFnj1": true,
+    "vApYLA00VJQ99DMtlTLjKjWUw5h2": true,
+    "XgTOK8fTzVbSIxG4sThzippYiz03": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
+  }
+}

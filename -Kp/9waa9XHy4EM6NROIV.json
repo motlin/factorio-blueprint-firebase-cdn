@@ -1,0 +1,28 @@
+{
+  "blueprintString": "0eNq9VlGOmzAQvYu/YQUOJLv89gL9X60iAxMyqjHImKhRxAF6kF6sJ+kYqpREeIFutj+JDH5v5r2Zwb6wVLZQa1SGJReGWaUalrxeWIOFEtI+M+caWMLQQMk8pkRpV42ptCjAN0J9Y53HUOXwnSVh581C67asRxDevXkMlEGDMITuF+e9assUNHFekTY5Cmj8rCpTVIJyINq6aghbKRuQ+Hzaf6a/mEIQwOhK7lM4ihPSbtpyQGlAO0QeZIv5KFWwcGhLvxAN6wlba1Q4EvzWWc13OfO/FFiTS5VfaILm7nQjYs9RQza8iyZIN+uMCB7ng8TiaPwK5RoPosUeBIstiNdZ8MBWOII4nddasF1swfIu2N0OkrOh+JNLdoY6a9Hs6V1+RR5QN2b/DwMxlKFXQKWohe5LkbBfP36ybtihBj2N5Q3tT6EB1HjWKUbyPBJr12FgTZ1w4HnGgeATDbibhIeJ392Jf3Fof5nR/pnFvxuBBxZ+WmsYXEOXkCM1HUgi1Jj5NTWhs/WDjxgfxq5swpthdg9eOInmM+jgT+pT2M0irCNwNAN+N+t4+sB3aee3ny++og7OaQ+Xf0R93mcRTdLsVl4jBq7/dYvwPnoI8yUU7x9iG1sBuoz117VkdDH0mBQpEC/7aivwRYJQYD07kQW9Zdso4ttoF8ec+ug3UPx8MA==",
+  "createdDate": 1500200987204,
+  "fileName": "pipecleaner.jpg",
+  "author": {
+    "userId": "HUwFUow6Xtf73NeNmrxXJY5tdYJ3"
+  },
+  "authorId": "HUwFUow6Xtf73NeNmrxXJY5tdYJ3",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/pipecleaner.jpg?alt=media&token=d08085d4-89d9-4f95-b2ad-17536e47d7ba",
+  "lastUpdatedDate": 1564834914641,
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/production/oil processing/",
+    "1": "/general/storage/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,15/",
+    "4": "/version/0,16/",
+    "5": "/version/0,17/"
+  },
+  "title": "Pipe-Cleaner",
+  "descriptionMarkdown": "Input tank any oils\n\nSorting:<br>\n-Gas go left side with pump<br>\n-Light oil go center with pump<br>\n-Heavy oil go right side with pump<br>\n\nPump Condition = (value =>1)\n\nUPDATE(0.16 ver) some times  pump can stuck if there too low pressure in pipes. When tank has 0.9 there can pump ohter liquid/gas for it. Updates values for 0.16. is (Value=> 1)\n\nBlueprint compatibility 0,15/0,16/0,17 (tested)",
+  "image": {
+    "id": "nSuttQE",
+    "type": "image/jpeg",
+    "width": 749,
+    "height": 554
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "author": {
+    "userId": "RFBYRc7DSEalI9pbH56N7RPmYT53"
+  },
+  "authorId": "RFBYRc7DSEalI9pbH56N7RPmYT53",
+  "blueprintString": "0eNrlWU2PszYQ/isWxyqsAEMCUfteeuyhl/ZUrSIHnMR6ASPb7EdX+987wCYQ1kkYNv2QeokCtp/5esaeMW/ONq95pURpnPWbk3GdKlEZIUtn7fwe0Ij8LAuuiSjJTsmCmAMnW2mMLB4IDMck/TSsxP5giBYZfyDk1zLlJPRIJXgK8+SOtKCKs/TQzk55aZTY1Xu+IMKQZ5HnhNWAz4xIWZ6/Elmbqjbt5JI/d+uN7DThuSGybP/nfHeU+hs8asPS76CX5spwpW3AuWQZYS2yUKRgL6KoC6IrzrMFzDcHkEyemTagWlbzo1CweCtKZqTSnahcPnM1eL0YiGVl1mmZshL+gOGFfOIZKA1+ObefCE0gEEUjXarOHgYIpGJam4OS9f7w4CwckcpSO+s/3hwt9iXLm7iZ14pDwIThBcwoWdE81YqVoi5ccJjzDuvKjL84a/99MXNlgFoZD1bSCSt7RwwWhu+PCwcGhBG8s7l9eN2UdbHlCqw5rd8CpYC1C6eSWnQEfnMAwg286CFaOK/N3zB+iBp0kKyb8TbYbiGzOucubUxsNB3JCKbICL4mg96W4Sfx12SEU2R80VfRSQZTkEEFh2Rz+9Swu+4ocNkKzITiaTcDRkBPo2S+2fIDexKAAMt66A0MZy1cq+JOKG02OHJr3mA0QLBlNLugC5ySFVfsYxf8AZZ2exAKGbzTKF92trTq+c3PXnFeDqksMqAxEB3mB80ExbNPw0CPVKi0FqZ7htk27y9Pquh6C+a0FliZdHK5DWaFJEo0gyjxSYYBr+lKKuM2G6WVIcteVjjmyNICnpzAM57CkaBuUTA8N2UIb6fgB+4d+NcTz2seioqpVs2189M84jUo1StoVpdm05zKG1EChrPesVxzHC1HvAt6ltrnexeI6XsnXXdwoLrHA9IejCvRvrAjHJU8heP+0fjmoFyXfPYcLIezXykgzqYtT0C3P/nHiTx2mI/JjwiZH35/pEF1w3M3PXBth6bn0DYwis224L+Ybd/unG1G1ReTzbLFR2O+LM4z69M4FEbYnLWdLOFkIH+kUjLtTPLDAdeA9NdzP7jG5H8z93tjoXfJNgfW1QwGrNVdsPsZmpuzBO9GuzdHC1qW4AqKyVyyUOBCjKOJMZxT1nnYLL9XWRdby7rA+1vLOlsYVncp6vylrUeyerxPHtr6HDwuWoO+yyem+IvLSyVS8HFp3EpJ6Mi1gy3c/NUon3cih2y+ltZnnQs2rUEdvpG7zSB29HYyIqJky4GF01nV9ZzHztnOtUebkxDlrZ+srngntKH39e2R39eT0U/oWITN5UObcdnWHn+th063DI/WVtpD9uv+nH7dx5w4dJw0N5wfzKqdAnvtFFB0Mp2dkYGlPp7I3MjO3GBwXBcsz92cFdUtNegF66LJVf/ZFmGzanLlHCxnpl4wKfqrmejTuBUjO+9Z6ZFgTFheMcHWWlAPgx5h0X0MeohFDzDoFItOMS3dILu8SeghBp1i0SNE/07H/LzBerrEqO5hVV9h0H0seoxwjH/NMf9YcxOOu5sfp3Q3mLsPmlhLqslbOEXf33kX/Rr8P24UJsVhfKlA4xv3eXRijx8iyzo66/OFj/sOM09IMG8vaoXZ8OhMvOQCXoj7UDTPCRGuDJknZOauT5cXPLOaibe6gBejm6zkXMk7NlnR5SbrsXN8E6vTl/yFkzMwHd790jX+3Vfzs2/aMAn2Y91tkrEfrpJgtfRpGHre+/tfIauaEw==",
+  "createdDate": 1661897173183,
+  "descriptionMarkdown": "U235 Comes in from the bottom. U238 comes in from the right side.  Once 40 pieces of U235 reach the centrifuge, it will automatically output the new U235 to the belt on the left side. The stack inserters will automatically load at their maximum speed, without waste, due to the combinators. The lower combinator, inserters and belt can be removed once the centrifuge is primed, or left as a passthrough.\n\nThis is Nilaus' kovarex design with some tweaks:\n1.  Use boxes with the stack inserters instead of belts.\n2.  No queue of U235 that needs to be built up before output begins.\n3.  Make it full-self-priming with an extra inserter and combinator at the bottom.\n4. Allow pass-through of extra U235 once primed, so that it can be ignored after building.\n\nEdit: Added two more level three speed modules to the centrifuge. Fixed typos.\n\n\n",
+  "fileName": "MatrixllamaKovorex.png",
+  "image": {
+    "height": 599,
+    "id": "ygXyUz8",
+    "type": "image/png",
+    "width": 599
+  },
+  "lastUpdatedDate": 1662760043997,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/production/belt based/",
+    "2": "/version/1,0/",
+    "3": "/power/nuclear/",
+    "4": "/mods/vanilla/",
+    "5": "/general/beaconized/"
+  },
+  "title": "Maximum Uranium - Kovarex U235 Without Waste",
+  "favorites": {
+    "Y3bxY60AnQNwJ3jcTnoepdkD9mv2": true,
+    "1P8ZTLqSk5TIlHixJiuFZ9dfxk92": true,
+    "Lzk3E159OnMtTItLyyuUmH0jVwx1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "pYT1DqOk8cTytMrjipa8Et3BUZE3": true
+  }
+}

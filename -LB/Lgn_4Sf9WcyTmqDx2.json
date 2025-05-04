@@ -1,0 +1,36 @@
+{
+  "author": {
+    "userId": "ZhBhxX51lDQoid0dfAFAMH55uIj1"
+  },
+  "authorId": "ZhBhxX51lDQoid0dfAFAMH55uIj1",
+  "blueprintString": "0eNrVVk1vnDAQ/SvRHCsTYfYbtYdKbU5Re2hzqiJkYDZrFQyyzaqrFf+9NmwC2eAsu60i5QIaG8/Me/M8wx7irMJScqEh3ANPCqEg/LUHxR8Ey+ya3pUIIXCNORAQLLeWKjKeeusKM6gJcJHiHwhpTU4e1JJx4SldlL2DQX1PAIXmmmMbvjF2kajyGKXx3AXWiJmXbFBp47QslDlTCBvO+PEm1zMCOwj965nxbsAITOy+sh9Q+5CY9gNwY01t9AeJKI53lvV9XVtQR+kET+nkmPIq9zAzcSRPvLLIcCCv6SEvzyY24HDSw8eS3x4XCqU2O26IXosx5bKFaHA0iLUssijGDdvyQtpDCZdJxXVk9tInT2sulY7OKrKVhmZWJ7418pJJpm0I+AS1g+1BVlcOVqfjSQie1bnHQfBWHNDZMQsfnSwMaI46OJiNFDq9ROhzR9D5eOLpc/W9DdcT/5+4njlgL8bD9l16m78Tvbk62XKc3vxL5LZw9lXay6Sx7bU9UPba7ViNrpj/7rvk5JgjFynUP3Ma0RPDiNKhaf3CzbxVxH/vv1sudWVWOoKbL7ybk/R2IkLB4gyjlCv7hlDLConRKEujtSzyqMH1uNwYkQVZYjo+n5/nTr3XNR/Y8hIr7JYfuLn7ent19+32++cvMFSl7ieESa43OWpTcUNJzEVDyYuCBU3B6MiR2TntqqYuvBQKrYuo180IFCXKR6gfzMGi0mV1nhzO4t92QAKBc/9wv0zLapCEvR9jAhmLDRJTEwPo6sehRAS2KFU7BpaLIFjSlb8I6vovNSPZIQ==",
+  "favorites": {
+    "ttw2QTgsoZThnG6XI29INSAbeLG3": true,
+    "EtByybUWN9SnmOLAFVAYTTHXxl62": true,
+    "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
+    "uYTWKQo7sYaedbAgG6nxRGTub5H3": true,
+    "esvNuxWxJlfpeJRdIUYJRq0Uiwa2": true,
+    "cdOwOkp1PkR1rUgTlJcBuZRrRoc2": true,
+    "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "Fkti949ZP1eSwfyjl2sY2N9cHZF3": true,
+    "OW852IbXtyOaBiO7KHnrzhFsp7p2": true
+  },
+  "createdDate": 1554085263740,
+  "descriptionMarkdown": "# Vanilla Train Stop for Fuel\n\n* Does not use LTN (or any other mod).\n* Designed for 2 header trains.\n* Train station is placed 1 tile ahead of existing trains\n* 1-1 Fuel train must be provided\n* Automatically disables station unless it needs fuel (station reads chest contents)\n* Fuel inserters are disabled when fuel train is present by reading train contents. \n * Enabled when Solid Fuel = 0 (i.e. train does not contain Solid fuel)\n * This means the inserters are disabled when train *does* contain Solid Fuel\n * Enabled at all other times\n* Currently setup for solid fuel. (Signal must be changed for different fuel types)\n* Combinator is needed to turn chest contents signal into **F**. This prevents the station from loading fuel back into the fuel car \n\n\n# Train being loaded with fuel\n\n![Train being loaded with fuel](https://i.imgur.com/gPAfFms.png)\n\n# Fuel train loading station\n\n![Fuel train loading station](https://i.imgur.com/d51ozrN.png)\n\n# Blueprint\n\n![Blueprint](https://cdn.discordapp.com/attachments/334735604342325249/562094995952369664/blueprint.png)",
+  "fileName": "2019-03-31-2220.png",
+  "image": {
+    "height": 399,
+    "id": "n9fRxtd",
+    "type": "image/png",
+    "width": 505
+  },
+  "lastUpdatedDate": 1554086417798,
+  "numberOfFavorites": 11,
+  "tags": {
+    "0": "/train/unloading station/",
+    "1": "/train/right-hand-drive/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "Train Stop Fuel - Vanilla"
+}

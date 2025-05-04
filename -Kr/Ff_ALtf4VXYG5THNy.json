@@ -1,0 +1,29 @@
+{
+  "lastUpdatedDate": 1502444671853,
+  "tags": {
+    "2": "/power/steam/",
+    "3": "/general/early game/",
+    "4": "/general/mid game/",
+    "5": "/belt/transport belt (yellow)/",
+    "6": "/general/compact/",
+    "0": "/power/accumulator/",
+    "1": "/power/solar/"
+  },
+  "author": {
+    "userId": "8lBgiDzGS1Z0YAbFkbEi58wbrMs1"
+  },
+  "blueprintString": "0eNrNV22O2yAQvQu/7ZXxR3Zrqb9yjGplEXuyQcJgAd40WvkAvUdP1pMU7DROHJzF0Ubqn1jAzIN582YgH2jDWmgk5RrlH4iWgiuU//hAir5xwuycPjSAckQ11ChAnNR2RMqyrVtGtJCoCxDlFfxEOe6CTz0bsQcZqj3V5e7MNfZwraCklXEuRb2hfLJ34gGgNJA6BP5GOZy5pt1rgIBrqikM0feDQ8HbegPSxHXrCIEJSRlXwe2+Bi6MA3Qwn/QpM3tUVEI5rKYBMvxqKVixgR15p8bbuBwxC7NW9TjKzm6pVLq4CuidSt2amTGm3iJc23hs9jSxqcSRHdUNkf0Zc/Tn12/jI1rdtAtQJVQDbnMwx2u5LrZS1AXlBgXlW8IUdMO+fAiyPzq2P28SgJ+TSStzLNy9GvvYGljsyfKLWe1sHif8x8v4xw/k/1JQkuzDvRDVhPwJ99/vYH6g707uHdQ+j8S7M5PNcJ8s4j76H6QffQH/B2BM7B8mfqfB80wKUmfbveI+fsoG9pOefRffS1kw1C6O0BVBNgLXhLEQmMGTtAwbwcBRwckxEBfW6oSlJeGqEVKHG2B6vhHHEy06QJ8XgyZeAi+pLFuqR4Hfoe9zKc63GLt83Aw42TAoKqrsF+VatjCuSiBVsSO8sofShgc1tfg3P5jWooL+avdtNfGI1IvC3q5OuSSXhvGMeF5OhGyJ0iHlCqSGG41/kpr4cak53Y838uJPHPbj45svH5G3/O1zYXwjAQvLHSg9i+isS4yXFTkeT+ffYKbSCm4JarqczhCK48XVjycSc6Em/qjYHzX1Ro38QTP38/wa8njFRLM3zFdU1dnbZ3ldOXUTX1dWgNZtdH2BBWhvuOoHkW1c6xZfGa0ujZySWt1TDFlnt+yfmPnZH7MAvYNUvfEqTeNVluIoW3XdX6hIsoY=",
+  "descriptionMarkdown": "An easy to build emergency switch for early to mid game; once your reserves get too low it will turn on steam till your reserves are back at 100%\n\nPut only 1 Wood or Wood substitute in the chest\n\nAccumulator = C\n\nWood=W\n\n* Left: C < 10 Out: Red 1 To: Inserter Enabled when: Red = 1\n* Center: Input: Transport belt In: W = 1 Out: Green 1 To: Switch Enabled when: Green =1\n* Right: C = 100 Out: Yellow 1 To: Transport belt Enabled when: Yellow = 1",
+  "image": {
+    "height": 925,
+    "id": "ouz6qmn",
+    "type": "image/jpeg",
+    "width": 1075
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio%20em%20switch.png?alt=media&token=e1fa68b3-3c7d-44c6-a8df-fc67e35981b4",
+  "numberOfFavorites": 4,
+  "title": "Basic Emergency Power Circuit Switch",
+  "authorId": "8lBgiDzGS1Z0YAbFkbEi58wbrMs1",
+  "createdDate": 1502444671853,
+  "fileName": "factorio em switch.png"
+}

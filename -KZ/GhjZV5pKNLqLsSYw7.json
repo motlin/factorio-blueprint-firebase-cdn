@@ -1,0 +1,28 @@
+{
+  "lastUpdatedDate": 1499944113281,
+  "author": {
+    "userId": "WwanSHz6MaTe8mhQdh7CXogM8092"
+  },
+  "authorId": "WwanSHz6MaTe8mhQdh7CXogM8092",
+  "createdDate": 1482060921392,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/GreenBeaconed.JPG?alt=media&token=5403065f-ce2e-4238-8142-7559524dc617",
+  "tags": {
+    "0": "/production/electronic circuit (green)/",
+    "1": "/general/beaconized/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,14/"
+  },
+  "title": "Green Circuits, Beaconed",
+  "favorites": {
+    "3zF5GoMNnvfQzz4njSwohNnEBCI3": true
+  },
+  "blueprintString": "H4sIAAAAAAAA/8Va626jOhB+lSq/oYJwSaIqz1IRsHqsw01gVq2ivvsayG4TG1/GA9lfK3Xn+s03M7ZJ0byUTZ6VL+/nK6kZZZT05+u1zipy3pHPtiN97/dt\nSRkj3c5rm56LNPX5+nn2w8D7OvvH1+TbK2hH8uk/9t+eoM26rO7bpmP+hZRMsHGaTNwbiGEGEqQBrL4ugX649Cwb/ygiF79OflOO3V/pC8lyWTKc5L49ykg1\nVmb8l1tuCSn8qimGkvjRzsuboWYce4O1g6Mx+1KmiFJOBg7LBhbTibZMJ8Gmk2jSUTIjsCSGa+pLtrZkBRZFHYhLuTj3i3WvI5LREVzFiDCyHhXxKBdv1A7h\n/mbduR/mdfFgIQVaCDUW1AMv2nLgJdiBhwEkwUaQSBEA93eMNYCmVaSJYIkTwYZdgk1GRhNGCBkLmL6OT8rNsVF7ydSE5bIwbmDUlLvTQR/RnOiJuzAu9a3h\nvEE0+yiEW8v6nlSXktYffpXl/9F6klvYBNw2T4y2XCdv2pZ0fp5dSrITPLYdd8bz/0XZl+Q4vnPMF3D+v0/rnnQLt539THZL6RAkHQjSFhBET0cghqQEQisS\nhJVz24FNOsdikGbYn446BHQRRp2sA+We33SgLpIaVD3iHGikPF4G613CVjI1T979doM3+qEAKflm6Zqa5n5Ou3ygbMPpG0KGr7Vw8Chsdeg8zgAvXuR0zk6i\n3s+ZpiIFHSp/BpTD2TZjU0na92lVWVn6ZVa1C7TcAzNK1RlZLqNtWGEBSwKodiKmubfffbY+IFSNHmVVi2+TZt6uaKada4kOAHQBRzNrAKSROAO7iGg6S9XB\nDg2smUiWm/1f9a841TSVkManXfeKI9545LCV3Zu713UXqxd7stFz1nHmgPNDzKivuK0ad6Linm/UixCPZyky39Qx30T0a7mCEtGf+Z3LgSqmQYhAHAm4I94S\nbLCgkV3h2BQSt+04IrWSxXvPyhyZT+qYN+nJQAo56iu8mY/9qDDDKUzE14wAaeAoZuDw7R3j/4BEMBX1Zf9DXZDuo+MMLFQRPH6P89jXeIChdTuwnf3RHpNG\nLAYBLEOi1jdeM1yYHyHzFdrT+iONQ47IUQIYJBoSmK4diAAl6sA/9yDUpf6DEVfiLXyxGrpfp24xfPTDY43ZgV0i8gqAf2JyaCvdijbejbBftICjQ16z+jPN\nfEc6rnXhCt2MKX/fc5h+zXG4/zGH9a4+OOgcDQlGbvlZLzZozIk55mC9+jpmr6pu6lZcB5wsYHKlru3cAUZsQUbXzrVuhpOsY3HAPC0tiWZgD1vCmtwLMZgK\nDQ571ahvwPGy8IKNZenpR52V5+ttW/Ii7bybOfnZkKvxUHltuU+14o0Nf4TH4r51hA1d/fL+RuriN/hi4cymLAAA",
+  "descriptionMarkdown": "My first iteration of a beaconed green circuit setup. \n\nInputs: 1 belt Iron plates, 1 belt Copper plates. blue belt, fully compression.\n\nOutput: 1.5 blue belts, full compression.\n\nConsumption/Production per minute: \n2K iron plates, 2.1K Copper Plates/ 2.8K Green circuits at full throughput.\n\n\nNo mod requirements! Vanilla only.",
+  "image": {
+    "height": 397,
+    "id": "Iod4z80",
+    "type": "image/jpeg",
+    "width": 683
+  },
+  "numberOfFavorites": 8
+}

@@ -1,0 +1,31 @@
+{
+  "author": {
+    "userId": "75xJAJufg6N4DHY4yGfcd3Lb4P52"
+  },
+  "authorId": "75xJAJufg6N4DHY4yGfcd3Lb4P52",
+  "blueprintString": "0eNq9Vsuu2zYQ/RWCm/Qhu9dOfIurbTfNoqsE6CIJDFoaW4QlUiUpucKF/71nSD3smyJB0KCAAUvkzJnnmdGzPNQdtU6bIPNnWZIvnG6Dtkbm8n2lvWhs2dUkLrquRVFRcRZKeG1OONOBGqGNGGznhA/WqRMJ60RtT9oHXQhD4WLdWfxwqVSgnhyLisras+haEawIFYmTIzKAabvwo1CmFLYLeI5mTkbV4mhdMlE4dQzkfCYc/dWRT8+FcicrDmrAM4VizbjjfcRXje1MgC9UUsmXDVG6CZUjX9m6jG55CmvxTjdtPYi2VgVlOKqpSLIxVigjzOLcakTPrlb2IpquqCLARRkgvDXR+SWOFIUXyk2xXjTsrsWfSI3HS6hGUR/VYia8KKwxMJ5cVjeaglRRZdFFlCE6V2gXOs2mSlodhhX/r2UmNUC8zD88y+QEl9iohlBb5WC3IVRpVdjmoI1C/eQVOqakv2W+uWa3WmFoWatnQzjJJpgkseLsrFrlcIii3MBsr58ySSbooCl5El+GvemaAyTzTfZljzLZWq9TQz5LIK4eH9a7TA54+vUNDCHE4Gy9P1Cleg0NiC1Qe1yXUd3zxVE7H/afJWP2fPXAvntiLVb1QTExNg8PmbQtOTUy42f4lWr2VbBbk/uRENEXR6XMg+sok7G4Mj+iTWix/w06V2ihIQZy+3+h8JJOgbcDcdt0PnVWojQ3kaETwuvR6qZHkawbRK8wHIQ6KW1GMqWT1tleM5u61pqpE9ciGiPvucSqBo3i0MBruZA5YBKIktPTaEN+YVBj0drQTzwFE63Qx2hz5BHuUiv0YCbDvIIwayszLIqRo4jDH4fFYbDyJdQU7QxVTVBxRCnkwfLAupsT64/mo3mPk7Zz8AUiDAs0/DiXjjDmEOs4fjjPU9g25SFKYYrxVQMecw7uxxmKNE80ZGEcVaNswgmTwi+OCt2C6kzWF8Ta/hdibf8nYq0297z66XvxKtJiJgkz5iscia0a1JmWaT8uhTSUj3FtxZbnIsR9NO05Py86u+zBBfBuScTOYsSGrzSvuZl4qXQjj7jdlQupxUik1N1SeSbvtH7HvdT7e4scAv5fwQBvKHBL8lCOSwgT+cMm22Tb7PUnnM0pTqN6HPq6XOb925drMOc1U35Wnll5bMdsesglhumC9/vk6T0mO8g1gMTyfZLJWh0ILSHfzcH+pl3Bm++P+JUCEXDWx7LuHrdPb56edrvt7vH1dnO9/gPPXyos",
+  "createdDate": 1735178368359,
+  "descriptionMarkdown": "Here is a parameterized blueprint for creating a single item stockpile circuit. The purpose of this is to be able to set individual items to be stockpiled via a circuit network. This works in a much simpler fashion to my other blueprint the [Cargo Landing Pad Requester](https://factorioprints.com/view/-ODhwA_jbjd1aCL2wpX8) where instead of requesting entire stacks of an item via a constant combinator, you can set the requests of each individual item and the quantity by item, not by stack. This will allow much more finer control for your network at the cost of footprint space depending on how many items you're looking to maintain.\n\n#### Setup\n- You'll need to set up a space between your storage network and your crafters, requesters, cargo bay where you can put a line of these. In the example image below, I've set up my crafters going right and my storage going left.\\\n[setting up space](https://imgur.com/em82YeX.png)\n- Next, place the blueprint with the arrows pointing towards he crafters.\\\n[placing blueprint](https://imgur.com/PdSOeqg.png)\n- When you place the blueprint you'll be presented with the following prompt. Select the item you wish to monitor and how much you wish to be stockpiled.\\\n[prompt](https://imgur.com/RNiPsWj.png)\n- Once the parameters are set, you can place the arithmetic combinators and hook up the green wires to the input and output as shown.\\\n[Hooking up input](https://imgur.com/dEjYnFN.png) and [Hooking up output](https://imgur.com/BkkFrZT.png)\n- Bonus step: If you place multiple in series as shown in the blueprint thumbnail, you only need one input wire from the pole, just hook up the inputs and outputs in series as shown here\\\n[series connection](https://imgur.com/aUrwIMh.png)\\\nAn example of a series of items being monitored for stockpile is shown [here](https://imgur.com/CYeeRSm.png)\n\n#### Usage\nThis is an automated system, so once you've set your parameters you do not have to configure it further. The only thing you need to do outside of the blueprint is ensure that the storage setup you have is hooked up to the green circuit wire that leads to the input of the blueprint. For requester chests and cargo bays make sure the \"set requests\" option is enabled when connected to the green wire. For crafters, make sure the \"set recipe\" option is enabled when connected to the green wire. If you wish to change the stockpile amount, you can do so with the second combinator by changing the value highlighted\\\n[stockpile value](https://imgur.com/hPsfKex.png)\\\nIf you want to change the item, you can either pick up the combinators and replace them to use the parameter menu <sub>(easiest)</sub> just be sure to reconnect the green input and output lines. If you don't want to pick up the combinators or cant do so easily, you just need to go into each combinator and change the item icons <sub>(all 4 of them)</sub> to the item you want.\n\n#### Technical info\n<sup>I've included this technical info in the combinator descriptions.</sub>\n\nThe way this combinator works is it takes the incoming signal from your storage and checks for the item you set in the storage. It'll take the amount that's in the storage and multiply it by -1, making it a negative number. This negated number will then be added to the value set to stockpile. The resulting value is a signal to tell your crafters, requesters, or cargo bay how much of the item is needed. Negative values on this end are ignored by machines and will only focus on the positive resulting numbers. So say you have 495 iron plate and you want to request 500, the resulting signal will be 5 iron plate. If you have 505 iron plate already in storage, the signal will be -5. Essentially the value will try to say \"this is how much you need to add to the stockpile.\"\n\n#### Changelog\n##### V 1.0\n- Initial release",
+  "image": {
+    "id": "m7atoFi",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/CYeeRSm",
+  "lastUpdatedDate": 1735184259447,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/version/2,0/",
+    "1": "/circuit/counter/",
+    "2": "/general/storage/",
+    "3": "/general/compact/",
+    "4": "/mods/vanilla/",
+    "5": "/production/other/"
+  },
+  "title": "Stockpile Circuit Module",
+  "favorites": {
+    "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "UUXDX0aZFASvRFVULz0iamxj6yV2": true,
+    "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true
+  }
+}

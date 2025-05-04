@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "uMpbM27pF3RkbwmC0r3jO7MJe023"
+  },
+  "authorId": "uMpbM27pF3RkbwmC0r3jO7MJe023",
+  "blueprintString": "0eNrlmE1v2zgQhv/KQNfKhvVhNxHQQ5tiP4BdYLfbnhrDYKSxQoQiVZJKawT+7x1Sst1kHVRS04PTkyWSmnnnITkDz11wJRqsNZd2daXUTZDdHUZMkH28+/6Cpi41K3BVCyYlarfCoLVclsY9V6yuUbdL11pVbsxuagyyAKXldhOEgWSVeycDxaTiEmnoU8OEm8wCqXTFBA3lqqqZZlaRj+BVsA0DqwZbaySZqZSkwUoVjcCV4BW3QTbbDxihfGhL8sBlgV9ochuOVP+NvyfRr5nGYdrT0do7X0+iG2ueD9N9Nlp35+tJdAssURZMb4aJj+LtMgwKNLnmteW0/1nwDj81XKOBf1vrIdhrBLVe85wzAWQMXLjwG8tJM1cZ/FezHOF1idNL+Q4rZ1tn8MEgXFgt4AVcCJ7fTArNSrAKKnaDwKBQn6W/ktBdyamLnVus3Hlsb+tkd1tDivsKBc38TaHDh3Ya/tlP39Ll9frni/g8PT+fp/HLJD6LHlyOAnMljdVN7qJ9LBm0zFdrLuwuJxyhv7dLCC13gFFga5cg0er4EM99v4+F9fbeqkHRRU5F52yf+SY+Fx6cdAYNDdHm8Vtc7WLoDbB/IvZQJasnVk1KzQv37oSGwcbJJbMuWP+N4aWk3JkdwfwgQr8zHNvPum2STXXl9jA6ekdqZXh7sr372XTuBdDv9hiyb2jN/MGmMwEXTBdc+uw+FNMjFGIvIj4BCtE4ClEfCokXkZwAhXgchbgPhdSLSE+AQjKOQtKHQitifgIU0nEU0j4UFl7E4gQozMdRmPepUzuLOxfj6lX0y9art5yV6jnVq6ijEDkK4f9sxD+t5g0iGZ1ath9JMu5sxEMqxiCS8anlypEkk85GMiTfDiLZq/aeeRFnp0wy7Wyk3yf5chzJtE/l2ln8scoV/7KV6w/88nNK10kn3Kh/wo1GohxQuxbPoXYlQ2rXMJQDilc0ew7Vaz6keg1jmfRJunuTP5Z1e/l6zwVOLogWaizAde1cN+1+B9Wvybs1IbhdnzBBe0tffHQOXu2hLsE9uicDn7m9hqZ2LdIFmA7XLdOcUcYHLiGBmlkyKk22/9MV7otYCGTpgHcKf8pcNKSs8/mgpbqEbsB/1i453qVcwv3xXb/WXMpL+dde/jW7dW1dumDguqFgNS9L1EA+eGO8l6SdKVjFSnxhbCO72Sm8v+YUo4EKmWkcWt9jdp3nFiSotX9rz2kIUtnDEixK3C0wtG0WnUF6dh4EM4QvAeOCKMzUqX6zIVCC/97IkmuYQDyL02k0myZRMO4+9j9u269X28b+",
+  "createdDate": 1730371497815,
+  "descriptionMarkdown": "Tile-centered, grid-aligned landmines with up to 6 spacing variants in 3 patterns: Cardinal, Diagonal, and Hexagonal. Includes upgrade and deconstruction planners.\n\nBPs are the minimum size needed for tiling, so just 1 or 2 mines. \"Zero Spacing\" is just a single mine, for example. (Somehow nobody has uploaded this yet - all of the landmine BPs I could find were ancient and use a wood chest to create grid alignment.)\n\nLandmines have a 2.5 tile trigger radius and 3 tile damage+stun radius. This is measured from the center of the entity, not from the edge of the sprite. The stun lasts 3 seconds.",
+  "image": {
+    "id": "x6PzgE7",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/x6PzgE7",
+  "lastUpdatedDate": 1730441997754,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/combat/defense/",
+    "1": "/general/tileable/",
+    "2": "/mods/vanilla/",
+    "3": "/mods/quality/",
+    "4": "/version/2,0/"
+  },
+  "title": "Tile-Centered Landmines",
+  "favorites": {
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "oq5pjOP0jQOjzGVxi2y9DPzXdYs1": true,
+    "q4O7HqsaMTTYRSEdtZUd8kN4gIo1": true,
+    "eeK13ksO87hJ3NagYGjQSCk0owB2": true,
+    "3xgAYHehkrStlOSXS13hgJ2ksy62": true,
+    "JhEKLcnYOHP5J5Pnyt8MAC4cuXx2": true
+  }
+}

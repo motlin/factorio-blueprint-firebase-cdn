@@ -1,0 +1,22 @@
+{
+  "author": {
+    "userId": "EP6NsXxAEobyGPwEfw35Sc3bZ2D3"
+  },
+  "authorId": "EP6NsXxAEobyGPwEfw35Sc3bZ2D3",
+  "blueprintString": "0eNqllttuozAQQH8lmseVqQrYbIO0H9DXvq6qiMuktRYMtSHaKOLfd8ytlHW2ZaM8AI7nHMOMR75AWrRYa6kaiC8gs0oZiH9ewMgXlRR2TCUlQgyJMVimhVQvXplkr1KhF0LHQKocf0Psd88MUDWykTgQ+ofzQbVlipomsImk8a1F06D2sle6AoO6MhRXKasjlhc83AkGZ7rzubgTZBljDkdZUKCxEw1mNmaQTatgMM/4MDqq60TTjVX7pH1rk4KWSOOq0iW9LYOsKu2cpqIVw49+oLWfxu/YjAscuGAbLljgQgcu3IYLFzjuwPFtOL7ACQdObMOJBS5y4KJtuKh7pp9lripsmRdj5Am9WlcnmX+x0HhfaGmix/Ss6O9pStvilyeVQU2rd0G/r6s3l3ooViokF5v/F5uv2dyBfs+fcwM7DGJtIL6sP6bsHqbhw1+Zs41gnjnsw+bcx8sc5tU8NljSEw2tuSPQo1aUzyv7vD76iliKVmi74endNeaSPpFXHVfiT8KD28LD28L5beHitvDo6+Fj2bHpJgZ/kfOZsfN3w26mfk35bIvEIu8P0v/m2xrIsUZqGHa7N7rFfwoCpyC4Igi2C0KnILwiCLcLuFPArwj4doFwCsQVgdguiJyC6Iogcguob0jbFeLFmYRBkaRI5xB4mk4Nu2OS0aY/038najB9gxBRsOf7vRDCf+AR77o/mvLhNA==",
+  "createdDate": 1738919230867,
+  "descriptionMarkdown": "Parameterized blueprint to build an assembler with requester chest that automatically requests ingredients and provider chest that is limited to two stacks",
+  "image": {
+    "id": "EJWnowt",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/1NFuOs2",
+  "lastUpdatedDate": 1738920744731,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/production/robots/",
+    "1": "/mods/space-age/",
+    "2": "/version/2,0/"
+  },
+  "title": "Auto assembler"
+}

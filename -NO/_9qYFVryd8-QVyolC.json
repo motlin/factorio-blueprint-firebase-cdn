@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "y6853lU5FlUbMMuaq66KlEubIDx2"
+  },
+  "authorId": "y6853lU5FlUbMMuaq66KlEubIDx2",
+  "blueprintString": "0eNrVmF1y2jAQx6+S0WPHymAb8+GZ9CVHaPvUYRjZLEaDLXlkmZZmOEDv0V6sJ+naJokx2Fg0JCkPDAbtSvv/7a42eSBBnEOquNDEfyCZYCnVkkaKL4rn78R3LLLF951FWJDJONdAi1UpFxHxtcrBIjyUIiP+V7TnkWBxYam3KRCfcA0JsYhgSfGUoW3KQshWPKVhzJKUoF8uFoAb2TvrvAMtFYuAaibWNVPnpOmGK53jN0/WP6QAypSS3yhQdCQiqDlxe+y/gJAvQNFQJgEXDE9TczDczSwCQnPNoZKjfNjORZ4EoDDCLiEsksoMTaXYC0/dUnmK5yILriCsfkMeKLdWMp4HsGIbjmdAgyWPNagWCkdK4P5MhCupaJ4hSKp4tNLPREKZF/lgD5wandmuEKgRkmMWkn0ypNE1QopheSoi91xEbhfsVkiDW68Xpr3POf62KP1kVaQq03OT4lEyXIOmgZQZavRUD0Uh4meM1PMG+Cq+SVKmysP75M/P3+hP5jrNT2x3JCnDWDa4q2ZY9CzXstoi3c5LOedLJZM5F+iM+EsWZ7CrjiAqEcrQ7OItUgCiXhFFd5niWq7CnOvyscBhEad1+bC53Ory5hRwT9AdmtG1r0i3r9yPRN1/g3mQPjHLsVZeFKfbD4BnBMB+m+oqRJcxHOpvew0Ad0bylytouIJwfYHu7XUxOi6jU7qPntNMcb1KQPOwU/qhmfTPXi/M/qZAGRR++hsCqxJapoCAyqOSDxcQqvwYpb7XTP3D1jQ+09nsQb/SGT8d9TEpOwE6t54ZQuP7No2ZwEtIqoDr2iXrTsdnhroXmEccU8c41baMBE5tBJyZcO9ZepNLJgr7Va6cfc7fH3a647Hh1387NvScC6aXMLrKtbSMczxoPYHRAMVUwJLGQOC98wnP7R7ZJmYk3e4uO+kHumi25hPgK1XjuS7YVqAfO5j3+Qv8xYjbjhnTUTfTprtWqPYlUN3XnirPgzTstPv2/emqDFtFdy4R3XmTSmre/O+/kAZmhXQ8QzYqyT41q8ysKiq/9l9Ai8QsAAycfGZiDermi4glW4jo5r6yxxUbHBMreBN7OJ4649HIm4wmk93uL4WABPQ=",
+  "createdDate": 1676734589254,
+  "descriptionMarkdown": "The [727 Stretched](https://factorioprints.com/view/-NO_1PO8KZQM1a2WjCPJ) has an integrated circuit to wait for the tanker to fill up or empty itself, refuel, and then take off for its next scheduled stop. This is the dock-side circuit to control that.\n\nThere are three sub circuits that to be connected to the clamp and a few combinators to modify:\n* (1) Green wire from clamp.  This brings in the signals that can be used to control when the launch signal is sent.  The conditions in the BP are for ion stream fuel, rocket fuel, and cargo empty (change the bottom combinator to set it to cargo full)\n* (2) Green wire from clamp. This decides, based on the console signal, what the next destination is.  Set the console id for the ship in the left combinator.  Set the destination planet/orbit and the clamp ids to use in the constant combinator.\n* (3) Green wire from clamp.  This toggles a [S]et signal on and off for saving the destination information in the ship.  It works by sending the [S]et signal to the clamp unless the clamp signals are being sent from the circuit in (2).  When the ship lands, this circuit is sending the [S]et signal to the ship, allowing the destination to be modified. Circuit (2) will then send the clamp information to both the ship and this circuit.  After two ticks (the number of combinators the signal passes through in this circuit), the [S]et signal is turned off and the ship's next destination will be remembered.\n* (A) Red wire to clamp. This carries the spaceship launch signal to the ship.  If you are debugging this circuit, I recommend unhooking this wire and checking the signals reaching the ship's console are correct.\n* (B) Red wire to clamp.  This carries information about the next destination to the ship.  A green wire in the BP carries the new clamp info to circuit(3).  If the destination signal is not making it to the ship console (for instance, on initial build), break and replace the green wire so that the [S]et signal will be sent to the ship, allowing the destination to be saved in the ship's memory cell.\n* (C) Red wire to clamp. This carries the [S]et signal to the ship, allowing the onoard memory cell to be changed.",
+  "fileName": "727-dock.png",
+  "image": {
+    "height": 352,
+    "id": "9y7Ip7z",
+    "type": "image/png",
+    "width": 361
+  },
+  "lastUpdatedDate": 1676734589254,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/mods/space-exploration/"
+  },
+  "title": "Dockng circuit for the 727 Stretched tanker",
+  "favorites": {
+    "bT1uh4MXybTn1mNEikQMoTheiUr2": true,
+    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true
+  }
+}

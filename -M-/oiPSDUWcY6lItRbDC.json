@@ -1,0 +1,28 @@
+{
+  "authorId": "knHtxh4wDXaumqgful47NygduO93",
+  "createdDate": 1581432547294,
+  "tags": {
+    "0": "/version/0,17/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,18/"
+  },
+  "title": "Infinity interfaces and chest preset",
+  "lastUpdatedDate": 1637365407596,
+  "numberOfFavorites": 2,
+  "author": {
+    "userId": "knHtxh4wDXaumqgful47NygduO93"
+  },
+  "blueprintString": "0eNqNUtFqhDAQ/BXZ5wjnea3UP+jzPZYiUVcvEBNJVjkR/70bhVZKLb4EsrMzu5nJDKUesHfKEOQzqMoaD/nHDF61RupQo6lHyEERdiDAyG69mUYZRVNcPdATLIIrNT4hTxZxntwrRn+41xNc1FiRU1WMBl07xbw4ukZWe530jM6zd+h9rK2s0e3It+VTABpSpHCzYr1MhRm6kjvz5MgEAb31TLMmTGWpi4CJz1V76yw8EinT+tDhsLMjFgNjmh+BdRFWZIjcgAK26rbC0cDKDiG4hCd1tg4tkmKNcgX3ifzp/Dn+dcf/5dq3wMt/Aule4DC+c1qczhICWsPMd59XgJYlct5wp6FpoveotoaihxyD9MhGrrlkWXp5e83SW5YuyxeduAE+",
+  "descriptionMarkdown": "## Introduction\nThis is a blueprint of an **infinity chest** with set filters for the cheat-mode items **infinite electricity, fluids and unloaders**.\nEvery time I want to create blueprints, I keep forgetting the commands to insert an infinity chest. Since, by default, these cheat interfaces aren't available from the inventory GUI, I use this for quick access.\n\n## how to set up\n- make sure cheat mode is on with  ```/c game.player.cheat_mode=true``` or by starting a sandbox game and enabling cheat mode.\n- place this blueprint\n- press `Q` (or your `Settings>Controls`>`Basic interaction`>`pipette tool` keybind) on the [ghost](https://wiki.factorio.com/Ghost) of this blueprint\n- enjoy.\n\n### more sandbox stuff\nI tried making a [little compendium a while back](https://www.factorio.school/view/-L7BnkM6kTxgOFpMWU6b). It contains some deprecated blueprints to quickly setup robots with access to every item for fast blueprint building. (To actually quickly test your blueprints in the vanilla game)\n\n### useful blueprints with this:\n- [Factorio (vanilla) Sandbox kickstarter blueprint](https://factorioprints.com/view/-Mou_FHgOojGlswFEgVA)\n\n\n`blueprint-creation` or smth",
+  "fileName": "Infinity chest.png",
+  "image": {
+    "id": "GTLmnSd",
+    "type": "image/png",
+    "width": 286,
+    "height": 330
+  },
+  "favorites": {
+    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "createdDate": 1549832682956,
+  "descriptionMarkdown": "Makes an Arrival or Departure chime as trains use your train stops.\n\nConnect the != Decider Combinator to as many train stops as you want. Set the stops to *Read stopped train* (leave signal as T).\n\nYou can easily change the Four Note chime to have as many notes as you'd like. The timer immediately starts at 0 when a train arrives/departs, and counts up by 1 every tic. (60th of a second)\n\n---\nDefault arrival: C5, E5, G5, C6  (C Major Chord)  \nDefault Departure: C4, D#4, G4, C5  (C Minor Chord one octave lower)\n\n---\nOn the Four Note blueprint, if a train arrives while the arrival chime is already playing, it will immediately start the chime again from the beginning. Same if the departure chime is already playing when another train departs.\n\nOn both blueprints, if a train arrives as another departs, both chimes will play.\n\n**Exception**: If a train arrives on the **exact same tic** as another train is departing, it will only play one chime. If the arriving train's ID is larger than the leaving train's ID, then it will play the arrival chime. If the reverse is true, then it will play the departure chime. (since no two trains ever have the same ID, there will never be a case where T stays exactly the same and no chime at all plays.)",
+  "lastUpdatedDate": 1549832682956,
+  "numberOfFavorites": 0,
+  "tags": {
+    "2": "/train/loading station/",
+    "3": "/train/unloading station/",
+    "0": "/mods/vanilla/",
+    "1": "/version/0,16/"
+  },
+  "author": {
+    "userId": "Dpao822gmUMHlnAiFtlAA14dovo1"
+  },
+  "authorId": "Dpao822gmUMHlnAiFtlAA14dovo1",
+  "blueprintString": "0eNrtW1+PozYQ/yorv1SqSIUNIX/Uq3TqqY+tqtu3aoVM4k2sBYwM5C465QPct7iH9ov1k9wYskmWNQnmKgK5vqwW4xnj+c2Mx/Pb/YSCMGeJ5HHmB0I8ofmn40iK5n+dPKp3fCHicjjlq5iGaizbJgzN0YbLLIcRC8U0UgPljBFGOwvxeMk+ojneWQaS5ESSGEk6J5KOkaR7IunuHizE4oxnnJWbLh62fpxHAZOwnYP0ki34ksnRQkQBj2kmJGhORAqiIlbLgroR/mlsoS38AptBSy7ZonxLLARmzaQI/YCt6YaDNIjsdfrwblnoSdXoI5dp5jfez73ajwItowpBWz1ECZXFJ87Rv5//BhGRZ0luoPRtqTTZwrfl4DmPUkQ+j0EHmj/SMGW7ctG43GHx3Vj9kGx5akcOTw7M5HKR86x4JLsHkCVq8koyFlenk5fTMUzfKYAryBAjZOwrAPP2PDC/tIDl/RlYMpmboEJeoWLp8cDVidbL1/YRz8vL4Ir0tAZdxyzuyB5eu0dh96UFvvfm+NYZHp83vHcBVedVFNa4h9csXN3DVhMpVpJGEQ1CNkoTRp+YFtIyXvFOj+HzmgcMW0D4/jyEb4rX+3XUcMQyJgujlwr8DYWT0+epn/Bssd5nRnW4pABWBBZ4zn+xyFhpnplBiI6VLcEyL5ZOQroN6OLJ34gwV7sBoA9jq1AENAy3h0+BB/HBT0S4TdYi3u69SI0z+WpTa5havDiIF0Mi9iOalKLPkhFLU7pStkQ6tMemaOPO0cZdwE0cA7jdSgxOBgu/d7A9lTxbwxp8cT6B20YJ/Kj1P8jhKVM6/KNnKGcUCQO/KL4B/dgukdchr82i9TVSs4JKh8LEMAjtzmOQdBKDnlHK1dQng4zBqSH63Wdgpwv0HfwtNfGtJOTZAYqILXkejVgI5pCQleFTWJ0z2DpV6tzc63qG8mxqJ7q87umd7JGH5eZNug97r8qLQ/2kD/HQHHfsNa12G15OMW5X7t5a9E2MDkFMBhtgmLSreG/tsMW2GeLVayl2h+sCTrteYZ9ahf+0KHXfddIqbJa19cnYbVUI39pdFELLMBlXQnO47Qg8blUMfze9J70DVPsR2NPcO4fpD14r8qDDTP2u19wBdi5zAnVsgmfGBr1O8rqspJbjGYtgt0cy00IhDRiYBv0mcnn3O8RBCoMb8KfyEjKdEDLFM3tCjoygrfRfjxDFrQlR3JoQxR0Qov8TM8crZMWD3fOxNK0NJdeUKO1PL/7+Unq7MvNygfN0BnvyOf3rCV/BF4xomSr4wy2DXVNa5ntnZbDRdbQZKzPuX1/+GhFoQso41b9duAFitBn45CbBN+JkhptuJ4akC6knXab96y5f8Jufu2QTzCu42Q1QeX1pZl7BE+ppBo0rTHV/sTjQxpXdu0bmNdB3DdCfVdHHw0Uftyofbg19o4v8UGL9fAPzj5jd/boWcnmxf4l1mkbFP34c1f2ZU/lDencvKY9BL4+KxigFc27AxvtGaM1Ku6+Luazs",
+  "fileName": "QuarTrainChimes.png",
+  "image": {
+    "width": 1016,
+    "height": 1032,
+    "id": "T1EaVbv",
+    "type": "image/jpeg"
+  },
+  "title": "Quar's Train Chimes"
+}

@@ -1,0 +1,61 @@
+{
+  "author": {
+    "userId": "WCNCC2ZqEcWZw0O2r9zVvfVo3Ff1"
+  },
+  "blueprintString": "0eNrVWVuPmzgU/iuVn2EEtiGTqOrL7g9YrfrQ3dUoIuBkrIKNjIk2O+K/rx0mlwGH+NB21D5MNFz8+fP5js/FvKBN2bJacaHR6gXxXIoGrf55QQ3fiay09/ShZmiFuGYVCpDIKnuVNQ2rNiUXu7DK8mcuWIhRFyAuCvYvWsVdcBeilDveaJ6HSm6kvhqMPQZbnlq1ueZSjABI9xQgJjTXnPWrOV4c1qKtNkwZemccO7SWShvkWjbcwtk5DUiYPiQBOph/yENisM2MWslyvWHP2Z5LZV/LucpbrteVLNhabteyZirrMeJ+iGBHio19O7Y/O8WYuObEC7RaBGcoexl3T11njTCgjc+0t1mjQy4aprR5MOZOeubUkCi46jmgFXVgkjNmxQreViErzevKyFLLkjmg6QnaAUbH4ubPzFCtjb/wPQtrJfe8mKJsTb3JDFbiwE+8DUAvaFcGwNMymmfFGWXLVaPXIzfcc6Vbc+fMpH8jzA+ZQL3mjc7sborsRVVnxiPsNOgT6m74hGLFHY/A1iMCJPdMKWO/tZki/2rI/cde99rAUOmZXsFya/DQUNlwcaQytlZ8cvWBw6Rue71iXuzVzDDY32+tFQ/N9dGMkK2u21ki1AfDrhV6vVWyWnNhYNBqm5UN675xYwYIAzRzaLOYqU3yftp8fqsNiaKfUp10qE7w5vG0Wsng7dRPvcfpFDjWD/fqmaRmWOS8vpm9RlMtfaNd9JqnBsHOAWl3GQgTe2BesqlWmWhsOg03rHTk1PhE1AWDoTDYCQNOaGmPFjvRqDep6ARz32AJdKVubimQW+REWQDJRIMw5MJ89MbETqs5QZfeoMQbFEdAph6rx5f90NQl187t1VOMHhIPPP+NQf0XToCgPgu/bJbWFOJqp0yML26gJm6qwSmJ9MnFFRZxAp4mmjFL+rbXMIlwMk+nt9bjStJbXhqv8Gq0+uglhS2l+/TUp9D2WDRdNVxPzo5hAbDV4o4kfZ52zfI4x1bR9zbVtjzYZHzMp+FW2ZsQUy3BporAliIRpPPEP7zxJMl0CUWXN8ogEgN7UezRiuJvbh/jqe6REGD7GP+q3eNQVmj7SOi8HgW/X4vy5VdoH8fba6ojcarmUieZp078fur8NVTn52wgrZ9PhT8STQtGhu9TTwWhpXvsET2hhbxHlUgegTw92kWyBPL0yBwUWsZ7rJ3GQEzsgYmBPYwPJrSS98GkQEwP/6Twsn1Gc0Bnle3fvWrPin0mclbMqdkpvGaHl+x05jkWvT7GGn3BGU+znPd5gYKieHQjzCbA0y56P3olMQzS40wugR58kfubLSFAzNGXoqegd+nV1QfCAJWZATH3fjd4z9nX8Ld+m5Ss+PCn9YEPfyhZvJ5rxg+RGWFKzuYIuSBRnJDU/nXd//jbpDE=",
+  "lastUpdatedDate": 1560206239027,
+  "authorId": "WCNCC2ZqEcWZw0O2r9zVvfVo3Ff1",
+  "createdDate": 1553284928720,
+  "descriptionMarkdown": "This blueprint creates robots from flying robot frames in a controlled manner.  The control system is inspired by KoS in her videos.  Each side has two combinators.  One is set to the desired minimum total number of bots in the system.  The other, set to check the number of available bots, is there to continue slowly growing the numbers after the minimum is reached.  ",
+  "fileName": "robot production.png",
+  "image": {
+    "height": 643,
+    "id": "Gd7NwGp",
+    "type": "image/png",
+    "width": 767
+  },
+  "numberOfFavorites": 34,
+  "tags": {
+    "0": "/production/robots/",
+    "1": "/version/0,17/"
+  },
+  "title": "Controlled  Robot (Logistic and Construction) Production for 0.17",
+  "favorites": {
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
+    "0brSiKWRFCS7JtivjZsIbZmYzP62": true,
+    "MzULrpdZngY1YbMEmAIihXt4TLd2": true,
+    "P6keDRc8OtQWqMjGMczdNiv3vwy1": true,
+    "TU9BviyRL8gojhothrvdE1eHfyo1": true,
+    "Z0wznCV262f4l76PteXbBfZGvIN2": true,
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
+    "EI18ukBCwARYCRYbxcloVpkq9Zd2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "IJQ0mWXucjMQDRDZGezolqYPf603": true,
+    "V515dCjEUngAzrK44nUMwDHWagn1": true,
+    "kMDqFGCMrtTHCxqxDtD86uDfQ6f1": true,
+    "vna5iVRoFHSaVilB2dBl4rxBxjD3": true,
+    "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
+    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
+    "KdWythfZCccOs1nLw27KpRp44vU2": true,
+    "khLPe6WmLRMQMcimI8nXXVibBe63": true,
+    "lh9Sb6mMHBOem0bKqprUB71aBjD2": true,
+    "Tth007EbJBNSWlITH00gVnEqSPR2": true,
+    "ayevH2b1iWSB897AMxCpAjX2buB2": true,
+    "BG4kiibuelNBHXUj7TeGwWgFm1Y2": true,
+    "zRZ569azMxcT2b0Fbw8qkJaBQyl1": true,
+    "kOht14bSMCc1Lz86TALpXSERIdV2": true,
+    "N4DYD8higBTOlCgZXMLjaLcrgSw2": true,
+    "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true,
+    "lb6xH49FVKRr23RyHv2NjhValGz2": true,
+    "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
+    "zGPzvuxUcrStDhFysauedhHEUUb2": true,
+    "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,
+    "mTiuvlps0JPVw3tHfnnB64K9LLf1": true,
+    "jdG942UYPRTZmxxPyHpUtgjWFnj1": true,
+    "WydKwCmkprQ2JwsKWwzuWVvizAj1": true,
+    "SVsbcfZvZJM81UTYSaoxpTaPqD23": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "QWaQU5ITjPOigpaS9CE8F3UGa303": true
+  }
+}

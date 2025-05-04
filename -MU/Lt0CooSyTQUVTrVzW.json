@@ -1,0 +1,26 @@
+{
+  "createdDate": 1614218007601,
+  "fileName": "ChargeMeter.png",
+  "image": {
+    "height": 453,
+    "id": "lhIpsJJ",
+    "type": "image/png",
+    "width": 797
+  },
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/power/accumulator/"
+  },
+  "title": "Daily Accumulator Charge Checker",
+  "authorId": "VaZ1ea2pkxNvbJJlZDH0C6TBvnM2",
+  "blueprintString": "0eNrNV8lu2zAQ/ZWAx0IutHiL0AVBT702xyIQKGkiE+EGinIrBPr3DqVE3hc5cZGLYQ45jzPzHjnUM0l5BdowaUn8TFimZEni38+kZIWk3NlsrYHEhFkQxCOSCjfKIWM5mFGmRMoktcqQxiNM5vCXxEHjnQSgWVaJim95hs2DR0BaZhl0cbSDOpGVSMEg9LEIPKJVia5Kum0RbjoLZp8nHqlJPAp93AbTs0bxJIUFXTJ0wXUvQAnO5a1z6ayPzJQ22UliyYyt0NKH0a0Y3ZEOvbTUVTLwfTcUmpo2sph8QRdVWV0NAL3vQHWNsVXSJo9GiYRJxCDxI+UlNN2mErI+7sD9GMjXi8dwFOJKZrKK2XYYNA/oG563GFlpGsfpFhnhUDLmH4SMrxeQ8esdyQi2yfA2pmdHyQm2ydl0jnaI9khhAOQ2zvg8kqOhJN9ukJwz0xWk2/BalLdHpQSHMZjSNWF8+1in9AS34VGdXCqE4IAQxgOFEAb/57Tfb552/8qUWlMNYXR8nNH5QVai446TIVIYnyuFE/qbnqeUyarLG2YXAizLToklOimWFdb7XRUr2YzwWlUaUDVtWOTTZbIZoIzpQQbfckqnF9Q+HHhjX4OJYZf2FZk6t1cePm2T85ia7X0L7+PH79gJ5gdOxtDs8X30pofjvmzm/SbaqMJQIWjKYVRqoE9woj+4d+GB1F637nX29gYRTnx/t0k0qzSdGdUNpq1LB5IsKX4nJaxMNLPZ4qWzu++WEhuCwGK01UFcqSx0/y/vEm2RsWQbgWhO65RmT8lS8crlhzdWbyu4SinndR8YDtSfRCte64WSr/bGTYDZyXGBa9uJ3r81KZkIqrue9+opoCxp4cpL9ungtq++gJxVYgQc8zd4CWEssF/evQ7w6di43tR+KsZrn6Ye4TQFJJvciZufNz8W1BRMFt9xYok5tHDhPBjPbsNZFAXTaBI2zT9V0RiG",
+  "descriptionMarkdown": "SR latch sets when accumulators drop below 100%, and resets when accumulators hit 100%. When the SR latch is on, there's a simple counter to see how long it's been on. If that counter is 25,000 or more, it has been a full factorio day since the last time the accumulators were fully charged. ",
+  "lastUpdatedDate": 1614218007601,
+  "author": {
+    "userId": "VaZ1ea2pkxNvbJJlZDH0C6TBvnM2"
+  },
+  "favorites": {
+    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true
+  }
+}

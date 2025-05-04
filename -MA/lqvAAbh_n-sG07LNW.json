@@ -1,0 +1,41 @@
+{
+  "authorId": "IbpV4kn3HjMWyjZU8KMvIGLIPRH2",
+  "blueprintString": "0eNqdWdtuozAQ/ZWVn0OFL9iQD9gv6NuqqkjrJpaIQcZst6ry7+tcmqTFwIyfUBJyzszxXOGTbJpBd85YT9afxLy0tifrP5+kN1tbN8fv/EenyZoYr/dkRWy9P356a8LV71z7rl3mB+e0J4cVMfZV/yNrenhaEW298Uaf4U4fPp7tsN9oF264AtV9r/ebxthttq9fdsbqjAWaru3Dn1t7NCAAZnJFPsJFBA6nX8zZItfabKtrl73vtG4C/4iHYXl4hEfb7fH2wRof4+BIDoanEFcK72rbd63z2UY3PuJAeUanAf3VBPzzbywCWsBB1RdoBEbeYqLufWZsr50PP0yisO+miQimAmPKL8wISvkdZQix6bauDdcpP2VcvNU1B2w3RA+oQsZAEYmBeEqNUye/cs3owsFaUwrBEzM601uWATQWqRpTjj5PvsDVDn6KTKDJaLJjBUK/PN0liXapjEYRxKUfGdx3jfHxyKouDj0UI5azL8+hO7UuoAcwZ7a7OGGZel4sQckKS5anCslu2d4Pm97Xp3+OnckfLiWFBx1jOBRrskqWh2HqgUyOZ8YBhUuC6yAT0KZTwDELrOrpFYtJhOostVYxBZ4aKHgSYSXgJOEdjVUAODbT0Hj+/dgW5yMGdpXTtImUYwZS7NSb4ymwQ2+CFwJJIccUwJGKF8gZNo9GjUROrflyKHOVtiixexW64yUGfku7pg2wuzrUjddscaqMrgG8woKJC9iiCCJHQudgZIo1mk4rIBgSbEZNwZFYDOyyQCLLGSsLdKPP8Y1NSFxjjpsKHkgv3T0fzaMx1BLXKAS4T4gKIa2Yl3aymRfYxBLgHlxQ8JygotbHMBk0ENR0IBQc/tijAluGTaqMwZUskNgUDi0hqz+bEVMBAGZKZgEZ/MTM/6vEreZHbsvlXJF54s43STVd8SRNXWYT/GKpTwVSHIMnX3WZY2IoAlEbq2tjXFSiQMNm/ADxWiK9Pj0XvJc2BqqQZUHdLF6ChmRleZ0zl9AwnewSW/hWpnIMS5E6iyh4W8sEtHsoBgflYFB4qjEwJvw9BNxOTNbR5HO7pWC/r5smC4thN1Wyo9udUpgAo6lhXMJDAX5stwycHnsvRV08jMv6ydr7p7CNfgvWP63O7wTXd68QV6Spg7nhu993q/evx9Pq3T8/mkbXm0aH+/5q158IFM9pJRnlSh4O/wF+OIPr",
+  "createdDate": 1593195607070,
+  "fileName": "Flamethrower.PNG",
+  "image": {
+    "height": 648,
+    "id": "WWT6J6S",
+    "type": "image/jpeg",
+    "width": 1125
+  },
+  "lastUpdatedDate": 1593494433423,
+  "title": "Flamethrower Turret Production_Tileable",
+  "favorites": {
+    "M8u1q2bABAV0noL5XGO29L8ePXf2": true,
+    "lh9Sb6mMHBOem0bKqprUB71aBjD2": true,
+    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
+    "11o67rL7N1dLaULE2eBjzVXoldK2": true,
+    "Y2URO9PlR2YZ2CfZL49ImN7lkdJ2": true,
+    "cUku97fDotM02M52z8MNa5HgVAe2": true,
+    "4bS3YvZNwEf6tx5u2tCbhLaRbM72": true,
+    "75H3rlL5hqU5SvY2KrlQbI99EVk2": true,
+    "N9N2cY5oVqY0apy4LprpAxs5AQr2": true,
+    "0k99wUQ9pgeWzO3anBNntwolmGx2": true,
+    "RHaUn8wA8Bfck3HtnAegqYYH96D3": true,
+    "o3iQm9pgtHTAICmQ9CnHXJc2gM52": true
+  },
+  "author": {
+    "userId": "IbpV4kn3HjMWyjZU8KMvIGLIPRH2"
+  },
+  "descriptionMarkdown": "This is a compact, tileable blueprint to manufacture Flamethrower Turrets using perfect ratios. I like to keep my production units as vertically compact as possible. I prefer building directly from base materials rather than intermediate products whenever feasible. This keeps the overall base less complicated, and the ratios correct no matter what else your factory produces.\n\nAdvantages:\n1. Self contained: Only base materials are input. Does not place a load on existing gear, pipe, or engine supply, or require bus lanes for them.\n2. Compact: Constrained to 10 tall, by 19 wide. Placing more tiles overlaps by 2, saving even more space.\n3. Tiles easily: Pre-configured to connect to the blueprint next to it.\n4. Perfect ratios: According to Factorio Calculator: https://kirkmcdonald.github.io/calc.html#data=0-17-60&min=2&items=flamethrower-turret:f:2&ignore=iron-plate,steel-plate\n5. Capable infrastructure: All throughput taken into account. As built, inputs can sustain 6 tiles, yielding 27 items per minute.\n6. Upgradeable: Use upgrade planner to upgrade infrastructure and assemblers, yielding 45/min@6 tiles.\n7. Moduleable: Up to two speed modules per tier 2 assembler (27/min@3 tiles), 2 speed modules in tier 3 assemblers (45/min@3 tiles), or 4 speed modules in tier 3 assemblers (45/min@2 tiles)\n\nINPUT:\n1. Red belt of Iron Plates (15% use per tile)\n2. Yellow belt of Steel (~9% u.p.t.)\n\nOUTPUT:\n1. Flamethrower turrets at 4.5 per minute, per tile.\n\nNotes:\n1. Iron demand is highest. If you need more than 45/min production, add another parallel row of tiles.\n\n\nThis is my second in a line of optomized blueprint releases. I welcome any and all feedback. Thank you, and enjoy!",
+  "numberOfFavorites": 8,
+  "tags": {
+    "0": "/production/guns and ammo/",
+    "1": "/general/mid game/",
+    "2": "/general/tileable/",
+    "3": "/general/compact/",
+    "4": "/mods/vanilla/",
+    "5": "/version/0,17/"
+  }
+}

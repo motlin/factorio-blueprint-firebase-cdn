@@ -1,0 +1,35 @@
+{
+  "authorId": "1mWNpXvBKWel5dpejdaG7pdDQbs2",
+  "blueprintString": "0eNrlVtuOmzAQ/ZVqHiuognPZLWo/IU99rCpkYLIZFWw0mKgo4t/rgWxuIinZbp/6ArLHc3zmzLFhD2nRYMVkHMR7oMyaGuLve6jpxehC5lxbIcSwI3aNnwnA6FImhhXhGroAyOT4C+Ko+xEAGkeOcIDpB21imjJF9guO2bKR08aFmS1TMtpZ9tCVrX2uNbKvxwuXAbT+FfktcmLMhtgikHTHtkhS3Ood+VyfsKHCId+gTw7LE3fGShOHlc5+Cv3MNlJ/GKnZWS3BH2H6IrjpaYVsU+su0E5gSoShOhH2G13U2C8zZqiolg0ieTDm57KRHym/kjhryPVDL3HXCbUrZdWRlGZy2xIdZXe1nX0aF1eNi3tCTXw4pyPvDXHtksl2QZ1tRaQaBSZ5tYHwCMBWyHqgAR99qm1c1TwM3k0XV9QMQEn0hRHNdXwxTfz5g7ZWvfLv4OpbQnw782F0eTwnuHBUiuU0KRZv9eHsf7HhqLpXp1ydKXtD/INtR0w9sVPLI+0cM8qRJ7Vp2m1xQPy7Hh1M/NqZmQzKSnNPMIavb+nMDrl1WzIvA3bVJv0pSTZsy4SMB4PY3+j4wB2yvN+6xXXYn8FRC8zvJz7Y80us1TRLrB6yxPwdLHG7vV/gnzVIipebUL7l8dkPUACFTtH7CNZN4WjwzIc1lpZbH/TeqfsKV89PSj1Hn2dPqut+AxupLhY=",
+  "createdDate": 1548752513057,
+  "fileName": "multisignal-memory.png",
+  "image": {
+    "height": 1693,
+    "id": "JgkDruU",
+    "type": "image/jpeg",
+    "width": 2806
+  },
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/0,16/"
+  },
+  "favorites": {
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
+    "F3pe6BFZBgSjU5wq4uwNMoF54X43": true,
+    "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
+    "9gqFDiAFACRKi2dh3ix7mU9I1xt2": true,
+    "v5AIdp8toXhiShLRFxebvOlDFau1": true,
+    "dPxCFsU4RuUwuBuIapvl3xbepmp1": true,
+    "i2ukrR7eu5d1Z3KbCNNYx1UGfgl2": true,
+    "kJIFhTeSYWT126EvpC7aVXJ33jm2": true,
+    "RNRy11ePrQRDlqu6AwY4QDQi26l2": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  },
+  "author": {
+    "userId": "1mWNpXvBKWel5dpejdaG7pdDQbs2"
+  },
+  "descriptionMarkdown": "# Multi-signal Memory\n\n## [Reddit Post / Video](https://www.reddit.com/r/factorio/comments/aky8l1/multisignal_memory_saves_every_signal_as_is_to/)\n\nStores every signal and it's value (except `S` since that's reserved as the set/save/store signal, but you can change it)\n\nPulsing the `S` signal stores the input value. If there is no input value it stores that (erases the memory).\n\nHandles negative values too.\n\n> ###### I made this based on [SafwatHalaby](https://forums.factorio.com/viewtopic.php?f=193&t=60330&p=362377#p362377)s original memory design. The layout is completely the same, but instead of storing only a value for a fixed signal, it stores everything as is. And while on the original design you would use the bottom signal (Marked as `R` there) to reset the memory (erase it), here you use it for setting the memory.",
+  "lastUpdatedDate": 1548772014088,
+  "numberOfFavorites": 11,
+  "title": "Multi-signal Memory"
+}

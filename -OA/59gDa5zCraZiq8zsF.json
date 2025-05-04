@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "0b0KcQzS7NObr8MD5NMlVdik5rI3"
+  },
+  "authorId": "0b0KcQzS7NObr8MD5NMlVdik5rI3",
+  "blueprintString": "0eNrFlt2OmzAQhV8F+aqtoOU/G9Q+Qi+qvaxWyAQnsWIMa5s0UcS7dwyBkuDdLIqqKBcBZ3zOfPZk7BPKWE0qQblCyQnRVcklSn6fkKQbjpke47ggKEEVFvCgiHBc1NiI8pwcUOI1tiEWS0mKjFG+cQq82lJOnGA0yW9ebES4ooqSzq19Oaa8LjIiQNV+V8lGVSlhcsm1Jwg6fux+jWx01I8hPIKXICtaXSfeD6evNWbgCD/zUhSQvOa4ysIfsshqtnMol0SAjNHeG+yDp9Y+p+DUxTwZtIOPa0fLa23YJCVKlmZki/e0FDoUxjgYpqpMWbmhUtFVyon6U4odSpSoiY2GcYjNB481FVKlt7Zb14XCukg819WvhQ5Q2ht9R01jQAwHREFeayK11moL37cWcHHev3ZSuqYMZkodKbsV7UqmL0AbDREXoxMOD3wn236F8qMdqFtOjdQXrEHOnyfnj+QCg1wwTy4YyYUGuXCeXDiSiwxy0Ty5aCQXG+TieXJx8wIfQ4n9S1XCJLwhbxfY+F/0nwrMnVtgLRW0wkGis1DHtm/RHA0mz4RBalbXvBIYhx/fsHYu/t2382nXdWx5Je3dIa07/kaQnMK+OeV60lYG4/OG2v1DgrTtGnRrhuGtoPxT5aXStio3pZ71TX8r64sVu58hMCcVgX3Rq6pb3Q0i/zFE/pTI74n8+4iCxxAFU6KgJwruIwofQxROicKeKLyPKHoMUTQlinqi6D6i+DFE8ZQoBiINFH8cyNxxzu32V43bg8Yq1xZce1Y7aanS0mdM23z3WFCcMR15uNHFXPciW0hOQnIHQ2pwDlBFCn0jHG7kcGfDGWH6ACiwUNZPzJj1TFR3U9zDgdGueBT7y3C5jEJ3EceLoGn+AnD340w=",
+  "createdDate": 1729901544512,
+  "descriptionMarkdown": "This is based on Krydax's Youtube video named \"The Best Simple Parameterized Bot-Mall Blueprint For Factorio Space Age!\", but with the addition of setting however many stacks you wish the outbound inserter to set itself to.\n\nBonus tip, since I've seen some people using combinators to have extra parameters on the blueprint: you can use them or whatever else (like a yellow inserter with a filter) to add additional parameters, but you don't need to keep them on the blueprint: after using it to set your parameters, you can then just right click the entity you don't actually want in the blueprint screen.",
+  "image": {
+    "id": "wJE3Aln",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/xyCT0hG",
+  "lastUpdatedDate": 1729907637964,
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/production/mall (make everything)/"
+  },
+  "title": "Smart Mall Setter",
+  "favorites": {
+    "1MpOm4Yqs8hl1Fz2RND0lCSyFDZ2": true,
+    "jZD2w2o6MwdHUE2yJzf4BEofcY02": true,
+    "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,
+    "AFPFXOdLPjgS7e3EnneWncHg3MG3": true,
+    "TWOm1ShS8WSm7S4XOUOQhdAhGiM2": true,
+    "DuykYHtYmzUDYAJ1x9bMgMsnR1r2": true,
+    "0q0ujwCFNpVLhBSOFVdjq4laiyy1": true,
+    "vNxmhmWkjGTkLBMIcRlQ5CeVb272": true,
+    "eWWR2VVaDGbO3T5nSVFWgXnPzLA2": true,
+    "CSjv9HKKz5f2aMXGyV4KkENrali2": true
+  }
+}

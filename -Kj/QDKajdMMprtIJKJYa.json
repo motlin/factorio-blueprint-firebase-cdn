@@ -1,0 +1,55 @@
+{
+  "descriptionMarkdown": "A circuit controlled unit to enrich U-238 into U-235 with the Kovarex Enrichment tech.  Just seed with 40xU-235 (or 80 for more efficient cycles) into the Centrifuge, and have logistic bots delivering the U-238.  Will continually cycle the U-235, only outputting the excess and otherwise keeping what it needs to run again.",
+  "lastUpdatedDate": 1498331484764,
+  "title": "Kovarex Enrichment (Logistic fed)",
+  "favorites": {
+    "MPEhhaCUe5OCHk0vGjeVH5FOQhr2": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "PRpeczrrQHfDt2mwZRRmHwecHHN2": true,
+    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
+    "mRvuLMIjU1N2W08lF6Qkadh6Wc92": true,
+    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
+    "kX2ghFV7gAVebNBHRokcmXuNG6G2": true,
+    "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,
+    "YZ79eCKXovfsxXD9fmNAuyd9mlc2": true,
+    "wfxURq0IPdVtVEWb7xMPpV6X7Cz1": true,
+    "tYQGObRXw9MQ8DeZti8NvIR46k93": true,
+    "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
+    "XvQ5aE6OgyawRBQ18TpUaUspx8r2": true,
+    "rsD3RssFJhVX3AQ14FJKgvidUeT2": true,
+    "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
+    "TO9F2VuZSpNbC7CdnrdbGPm0d0r2": true,
+    "La6gxR6NRxcjDHOUeDLvmRqUkCJ3": true,
+    "3E4yEYLNAah8VSQS2k9zXE4xHZf1": true,
+    "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,
+    "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,
+    "MOYhSCygcVeOWTgDWM5lHePu6N83": true,
+    "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
+    "424jNGDhcmMUZYc5dYXtvzkJRw62": true,
+    "58b3dEYpKdeIuSB6g8sipzHhFRo1": true,
+    "AcDAKoQCSPgKmkEExTmrB1vlK1v2": true,
+    "UUtP52QxZqUMU3SZWAN41jiCPfH2": true,
+    "wM8z2IORYrTGcyIXS4rECbwlw2Q2": true
+  },
+  "blueprintString": "0eNrtV8GOmzAQ/ZXKZ1iBE9INUivtoad+QlUhB08Sa8Gmtkk3XfHvHRsWthvYgLpVe+glEWT8/Gbe83jySHZFDZUW0pL0kYhcSUPSL4/EiINkhXtnzxWQlAgLJQmIZKV7ykFaLfb1AUgTECE5PJA0boKrCznkgoMOc1XuhGRW6WcAtPkaEEQWVkBLwz+cM1mXO9C4wxiBgFTK4BIl3a4IE9KAnEkaIbDG7TyLe3ViGh5CkFrkxxJXh5VWORiD6x3Fdj9PNiWmAuBhqXhdQLjCiFzVrkJI0OX4ghV9LbsLdtFN4umFFPlxgQzbH6nbBZNSRbaDIzsJXIwrOsgMf+Mexri3e6GNzS5qfRLa1vimJ9RGhHACfbZHIQ+u2k5ky1w+kXsoK6Y91ZR8wJWqtlW9APuuhazOmS9StteqzIREDJLuWWGgabeUbaKefuw+DhpAPldZcFQ4ciUmdDJgg2BC57WwbTyGNyOarAaaluX3oZAGtIUxPVo14hdqjGCue8xCHYSxIg/zIxgbavhW4/cYejygd1HZXhQY2vmtOzk9cq2ZFHUZ0tXtYLskikaNlywy3qqjcpM0f9Bqd/+QwzTwK/bxHWfciPFF5JMvr8NOuXKzSDD6XzDv8XmC0SV6JRd6TaBuJ5R83+dcAncHFgpMBu+WsFIFTHWZaAzqdmGretGpNiOQ29mQcX9VPoNcj9vtqWK93d7ebR/Jotvi8jSPihVHPY3vSnGQbd+eqkY8353xaq4fp1pCHC/rCd30EL398PDroDZcRMk1yf76zLC6MjMkM6WgUxd8xYwRJ3Aj48kVdOpyjUdhh1lkzxBs+jDS0fP9+4dxprLr+KL3N0PlNDCeHZnkbkuLOaIqVtew4LBEs29bLxH6CudWjQXPfBvDxH5A16y7QX349xKQgu0Asyaf21H/3Sc/6vs6I4xpi7le0yTabulm3TQ/AXF8c0Q=",
+  "authorId": "yid9xxB5FrVIszQf642uBbblp3K2",
+  "createdDate": 1494031620677,
+  "fileName": "kovarex process.png",
+  "image": {
+    "width": 424,
+    "height": 780,
+    "id": "D2zWyGK",
+    "type": "image/png"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/kovarex%20process.png?alt=media&token=532d8c78-0934-4554-82e7-ccb8b7faf3bc",
+  "numberOfFavorites": 73,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/"
+  },
+  "author": {
+    "userId": "yid9xxB5FrVIszQf642uBbblp3K2"
+  }
+}

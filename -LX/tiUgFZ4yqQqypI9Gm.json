@@ -1,0 +1,53 @@
+{
+  "lastUpdatedDate": 1556470555677,
+  "numberOfFavorites": 24,
+  "tags": {
+    "0": "/general/tileable/",
+    "1": "/power/solar/",
+    "2": "/power/accumulator/",
+    "3": "/version/0,16/",
+    "4": "/version/0,17/"
+  },
+  "author": {
+    "userId": "PrVMij0PlnSy13Ttc3cej4jo8d92"
+  },
+  "authorId": "PrVMij0PlnSy13Ttc3cej4jo8d92",
+  "createdDate": 1549304199893,
+  "descriptionMarkdown": "This solar array uses Roboports and Radars to stay infinitely tileable using only the map view. \n\nThe 163 accumulator to 196 solar panel ratio is 0.832, which is 99% of the ideal ratio (0.84). \n\nThe array leaves no room to move between each other, as they are at max Roboport range. You'll need the Squeak Through mod if you don't want to go around them. (https://mods.factorio.com/mods/Supercheese/Squeak%20Through) \n\nThis particular design is friendly for a Solar Field outpost supplied via train. Keep the outpost stocked with enough supplies for a few arrays and isolate the logistics network, then expand as needed. I personally use a programmable speaker to alert myself of a brown-out, which signals for me to open the map and stamp a few down.\n\nThere is another accumulator next to the radar. Removing this would provide a slightly closer ratio (0.832 -> 0.835), but I wanted to be space efficient and my factory features backup steam power (like most factories) that can provide some storage to the extra accumulators.\n\nYou need radars on the outer-most arrays in your grid so that you can have full vision to stamp another array. You can remove some of the inner radars to stamp 2 additional accumulators if you want, but remember that it'll have to happen step-wise because you'll lose vision of some arrays in the middle if you remove all radars at once. I find it's easy enough to remove rows or columns (minus each edge array) of radars at a time, because the array will still be visible from the adjacent row/column.\n\n\n\n",
+  "image": {
+    "height": 1704,
+    "id": "7To5W9M",
+    "type": "image/jpeg",
+    "width": 1760
+  },
+  "favorites": {
+    "045KdRXaUxRheTe5vlrxfvnZlC22": true,
+    "GFEspbg4ZxZMLoN3u4yDgaqnVGC2": true,
+    "PmTR4deO80X3kXhKceOIJnwcatF2": true,
+    "hV0B6HJQxENHyvKbKteEaWPCF8l2": true,
+    "bQwDhFd6BxSuutErnREHeK4Hprs2": true,
+    "4WQRrHqDt7cGKxp2h43nSvAzHCH2": true,
+    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
+    "QKJndPIXYAbDviw1bUD3uLFmCKI3": true,
+    "k218UOibx2envvHmgegzIJFIAng2": true,
+    "Trl32J15yHd3bT8CxGeKASCIRcA2": true,
+    "DVzPZyqb5WMfIyUXQTfcJu6kaFD2": true,
+    "PE0o09wRDZdvSD4PLNnMGedWFF22": true,
+    "Tth007EbJBNSWlITH00gVnEqSPR2": true,
+    "qJs1UwJHRQPQkxXdzcvMl6UowUh2": true,
+    "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
+    "cTPNGnDPY7O9eYKFbKuNSlETv5n1": true,
+    "ggqTQZ1NQQNNmgleUslnnSEFWas2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "R0z5tCujQnh2n9fAFnWESCPeR5W2": true,
+    "AWXVB0E6gfQeIrVuS5OWi4XSVXn1": true,
+    "If7P9u6Tf6exvndWcCBASfehWHA2": true,
+    "Rjt3W2N86eaJWs3PfdYoDqvt3tQ2": true,
+    "RBwNhhrSb6OwHFvq2p1QlfpZZwQ2": true,
+    "9PqE6g68yweUFvW7zuyvvbDxorv2": true,
+    "FssG1seRWiPCkz5f7evhkyM7MBf2": true
+  },
+  "blueprintString": "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",
+  "fileName": "Roxas solar-accumulator array.png",
+  "title": "11.76 MW Solar/Accumulator Array (Map-View expandable)"
+}

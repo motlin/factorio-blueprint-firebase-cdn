@@ -1,0 +1,28 @@
+{
+  "image": {
+    "height": 562,
+    "id": "yYByR30",
+    "type": "image/png",
+    "width": 219
+  },
+  "lastUpdatedDate": 1578766019887,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/version/0,17/"
+  },
+  "author": {
+    "userId": "H7UvAXTCxNTx1f1dEQYcg7qNhFz2"
+  },
+  "authorId": "H7UvAXTCxNTx1f1dEQYcg7qNhFz2",
+  "blueprintString": "0eNrNVtuK2zAU/JWgvhW7+JJ4W8MWtksWFvrWx7IY2T5JDtiSkeVQE/wB/Yt+W7+kR/Y2Fyde7HQX+hKiyxmNZkYn2bE4q6BQKDQLdwwTKUoWft+xEteCZ2ZO1wWwkG1R6YpmLCZ4bia6HfYjayyGIoUfLHQba0Llw1GlN6lyeVTpN08WA6FRI3TU20EdiSqPQRGpfXUKCaag7ETmMQqupSLkQpZUKoU5luBs58PCYjV9IUosRQVJtxpYjMTRSmZRDBu+RaqmkmfMiNbSFqc0sytUpY5G34eLWm9QrM21jAOaGzscM8gLrlqmIftMdbLSRTUB+a6DLGoiWAkdrZTMIxSEwcIVz0pouiNFd82WvGs+FKTHYmJqPHqizd7Aqk84qJIKdTt0aXNjTO254e0ZopLCTjZQ6nMXnM4Cfzw5d9zx/rQwuB0PysRpGOZvGIa70xS4vRTcXpGCL6+Ygp7Q3pHIZjw/9+E5M2sFIPpoiz7aZdvmk2xz/j/Xfv/8dYVv96/omz9ozIXNi3GvabEnzBXqTQ4ak3Hd1R3VXA+o/2ZOq2MJBiM6eEStSBZADrUU2PvrDJpgwfw87C+9Df/llxYMmBIcSOY8y+yM58XQG/Gay8L/PXev+rWin6jd62NDyo1vFPTLjxpyQnvnejz4mFL4MknK24d/NRbLeAxEmN139TN79vgwW379tqS1Laiyvd6N77ifAs/1b4Km+QPx5BwE",
+  "createdDate": 1578766019887,
+  "descriptionMarkdown": "```\nIF ('Anything' > 0) {\n  B = 1;\n} ELSE {\n  C = 2;\n}\n```\n\nIf there are items in the chest, the Lamp will receive a 'B=1' signal. If there are no items in the chest, the light will receive a 'C=2' signal. You can reverse-engineer the in/out to suit your needs. For reference, I made this for use with the \"TrainCircuitCodition\" mod, aka \"Train auto add circuit condition\".",
+  "fileName": "Screenshot0x59853245.png",
+  "title": "Circuit: IF ELSE",
+  "favorites": {
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true,
+    "Ns8cFPXWiDWXqJhfFz34XbiDtkK2": true
+  }
+}

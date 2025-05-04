@@ -1,0 +1,32 @@
+{
+  "lastUpdatedDate": 1560944848592,
+  "numberOfFavorites": 4,
+  "favorites": {
+    "I1abnwkZzSOYXeueztbbVjJNZA12": true,
+    "Bse3EDdskWMFRPDT9cImNXh0gw13": true,
+    "PqNaA3HYYVVKj65LdoDPIoEi0Oz1": true,
+    "9JLFC4LbNSdSjz3VD1hQWXtYgBT2": true
+  },
+  "author": {
+    "userId": "dCaZChyoCMWT1MEAgsiVV9KMXJY2"
+  },
+  "blueprintString": "0eNqdlt2O2yAQhV9lxbUdMQPmJ7dV+xJVtXISdmXJxhbGVaMo795xskm7CcmGyBcWYJ8zzMAHO7ZqJzeExke23LFm3fuRLX/u2Ni8+7qd++J2cGzJmug6VjBfd3PLtW4dQ7Mu36bg67Vj+4I1fuP+sCXsfxXM+djExh21Do3tq5+6lQv0wW2Vgg39SD/2fnYmsVIUbEsv3O+LKyE8C73VYywbP7oQaeBaBU4qBds0gUwPY5jQFGfNzm2aqSvPMQ59mwiQH5VFKj75Ob6J8hPeQ0/vcuXaeDtO8TlO0jkVwQ9TZAmrKteKJzPyz6mf4g0rlVG+e9XTj1YvnRQq/ib0w+tVCheGc20Aq8NvPGVtMq0vsqQSkjZ/UUMqNOC5ixougkvnBRbaKqPvJAUg05k/ZIwLsBbBKFSopeBKV0JLNNJoCSisUQa4lJU2VYUoFbfiI0q7UCC45VoJozSKyiBoaanHavpGSGpzIaTW2gjkgkruSm6Sc7tARQy1H4c+xLu742KCMiUsnhG+rFlSWWbvs/SCykZDel09ggZQz3nxbN6Bzlys8DX6wTwHUciP3j55MjyBa+R5sIOvWYeQJ4mPkRsXh01MYFC8kvQgAIFBVYraXEkihUXNOdhKnPBeEiQEB0XsqKTQoGYFbqXE+RAgPlQClaJBVMQXORPwyAi6oxxuNMv/LkAFa2tKP/V967uhXseX7x877+XHeef9dmE8ZsZoRAPEJzre/gKxNvqJ",
+  "image": {
+    "height": 420,
+    "id": "SGybis5",
+    "type": "image/jpeg",
+    "width": 476
+  },
+  "fileName": "furnace.jpg",
+  "tags": {
+    "3": "/mods/vanilla/",
+    "4": "/version/0,15/",
+    "0": "/general/compact/",
+    "1": "/version/0,16/",
+    "2": "/production/smelting/"
+  },
+  "title": "Compact Electric Furnace Layout",
+  "authorId": "dCaZChyoCMWT1MEAgsiVV9KMXJY2",
+  "createdDate": 1560944799718,
+  "descriptionMarkdown": "Achieves 2/3rd furnace saturation\n\nInput goes in the middle, output goes on the side belts\n\nJust connect them together and you can get ton of smelting job done :)\n\nCredit : reddit.com/user/Hexicube/"
+}

@@ -1,0 +1,31 @@
+{
+  "createdDate": 1501050338855,
+  "numberOfFavorites": 9,
+  "tags": {
+    "1": "/general/beaconized/",
+    "2": "/general/compact/",
+    "3": "/production/other/",
+    "4": "/version/0,15/",
+    "0": "/general/late game (megabase)/"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/RoboAcid.png?alt=media&token=46d6263a-d2cd-4d40-850f-b6fdfa04bc0e",
+  "lastUpdatedDate": 1501101494265,
+  "author": {
+    "userId": "9TeSFNl4qZdSo7KZHSrUMIMVg8u2"
+  },
+  "authorId": "9TeSFNl4qZdSo7KZHSrUMIMVg8u2",
+  "blueprintString": "0eNrVWtuOpDYQ/ZWI52aFDdjQyku+IFJeo9WIpj091tJADEwyGvW/x25o+lYYu3aTKC87Owx1XK7LqSqbz2BXDaJVsu6D7Wcgy6bugu3vn0EnD3VRmWf9RyuCbSB7cQw2QV0czW+q2TVto/rgtAlkvRd/BVty2gBir9Ug91e5bqheByXLsCj146swPX3dBKLuZS/FqMD5l4+XejjuhNLoM0TVHGTXa4jyTXR92PWNKg5CL9E2nRZvarO6hgxJtAk+9M/sZDR7wKP+eLkFLvaHyyxwyQy3E4X2CSDORnFubKhd05nnXSvEPjw2+6ESYWysCmCn69gxFputYkdYaL4KjdY6W4VGGzv3jgtbWJiI9oSzJgHxzypbEhCKT1IOAsZ4QAYCJjdMtOv64iwJ5OaXdEL5kmqf65ioRWleOHuemH+U2N/ylGazLUlvljQP4uzhAWeG5w5KiBonfAJ3lTrtCrmp5EENEkXLmwBfhpVm6FiGY4Wj8eBQyZ6LnSVQYm1TCCVfZ9sJIfEmF3qlA73ToyyLKmyrooYUpZOaepG9VKPfz3VG/1+219Ic3CjRKr2+fvNdL3qjSwzqgijQE2GDhqMILqE2vCuVtGa/S4UpAYUTBA/ZlEm98SIbHCKVbHD+mWS1fOYcpXCQsh8XpOvZiE7G2L822+I/Jg70s8Y+MXVmH+K/4fuMCvsmPKhmqPeLwQv6JE7cEhPWIXV1KGJ/zKcARAse4M5GmugrAmGym+CqD+FbocemfSjrTqheqEVujcY636umetmJt+JdNsq8UUpVDrJ/0X/bz2KvUnX9y8rgNyWgxu2EkX5+/12qftBPriLnN8Jfg7Myx7ZQRW/UCH4OTl59iKXrgHuMOF+JrUvJIOAQFrn7LrbhEGcCHGOdrPHfZX5G0mBC18xCbNtxrKSw8GIlVeKPQf+EgpleU3h66+VVVvrV8aTgcv4wI4tjq42wK5QSJgxL7bPedEvRuRkFlLrpn/ui/BaO6Jb0onN23fhJP7SqdUkdUAXmqwK5GgW/Kkd448osTs6YK/a6GzJsBYVDLfeooAv0nUauBZT6n8MQ39LwwAsJBEqxbThow3RxAC8M14hQ08673FsqELz1xI2XYeHUsxZSy/7YiiI2Pbhj74EIjQxtdpszc1+OiWf972fGf6KlmGrahbb/gwbDdq4xHmM4Ue3jRiCqY5FPb5nA5MSIKzml/ge5Vx4puk4cd5XUqXYsyjdZG6mljE2WzxfGqvxnYUJudvLzwrFvkI7txvPBhtVVUjW1acJ6seAgTJ8SzSZwqow3OjhUR5Z6eoTeaDO5QKtThQvp9rwgc+Q3RHRxj9K8FP3eI9FoEPbDR6K7dvPf5y3LmfLiiTHLfUcbtt578Ah5qgX6lxPP4wUXDalvzBBn6BiVnvxphHjgy1aYSBXDMTwUnSVbeYK+KgHvcniKxgOP5znzu3nh33VHwbLvubSApcFE4v5npdPNLWwl/xEo5Ba4HKsdGBNZhNUOhkNcGSTLm80Qo09qgYux2sGbTbDawXApds6D4Rh+zqMWWL4258UWB2S+8/EDmTIINEf0dVMVyFwbu7se16G1yyPPshTN+tzXjv9DXwPt3+MkhIBlEwKlTseUYOjl3kNIsuARa5zAtR2MEH/2sDBlniKSIPXLAXBvLrngf5dpqVg5R6LBdvOvzpYCk/sXZ0sx1S2K10cgXv1Vmj9/irJ5/Hplqb1yE4a/EYkI0kbwJyIRxX4jsmDzGIun9fs6Ts1mvJ4/wdwEVbHTibINftNz8U+/jJc87zrLxoqWJJQlPE0pOZ3+BjRH9rc=",
+  "descriptionMarkdown": "There's quite a bit more than meets the eye here (a mess of long-handed inserters and pipes):\n  - Producing 1,000 of each science type per minute requires 246.25 acid per second if you're using production module 3's for all components (Assuming I've done my math right, there was a lot of it).  This design produces 263.25, so it should be enough.\n  - The red and green wires are there to prevent logistics storage backups.  When using active provider chests for produced goods (or empty barrels), I like to circuit control the inserters so they won't output any more items if there are already enough of them in logistics storage.  The green wire carries a global limiter signal 'O' (for output) that's currently set to 100,000.  The red wire carries the current contents of the local logistics network (I have several separate networks).  If there are already more than 100,000 of the item to output in the local network (empty barrels, sulfur, or barrels of acid in this design) then the inserters will be disabled and no more items will be sent to the network.  If this confuses you and/or you don't want it, the design will still work perfectly fine if you disconnect all of the red and green wires.\n  - The long-handed inserters were necessary to reduce the design footprint.  The most heavily used liquid, water, must be unbarreled into the system at 776.62 units per second.  The chest-to-chest speed of a long-handed inserter with full stack upgrades is 3.46 items per second (https://wiki.factorio.com/Inserters).  3.46 barrels of water per second provides 865 units, so the long-handed inserters won't constrain the throughput.\n  - Notice the direct empty barrel inserter going from the water unbarreler to the acid barreler?  Since acid will be produced at less than half of the speed which water is consumed at, this means that this inserter will always provide enough empty barrels for the acid barreler, even with half of the outbound empty water barrels going to the active provider chest (necessary to prevent backups since the acid barreler can't consume them all by itself).  This was all determined to prevent the need for an additional empty barrel requester chest and save 1 tile worth of space!\n  - You may notice the separate requester chests and inserters for iron and sulfur going to the acid plant and say \"hey, why don't you just combine those into one requester chest and inserter?  Unfortunately, a chest-to-chest stack inserter can only move 27.7 items per second and the plant needs 29.55 to meet its quota (24.62 for sulfur and 4.92 for iron).  By separating them the throughput will no longer be limited by inserter speed.\n  - The gratuitous smattering of storage containers is there because I can't stand wasted space.  I also really like having buffer storage for everything.  There's enough space here for 480,000 units of acid (19.2 storage tanks' worth).\n\nUPDATE:  Blueprint string was updated to reflect changes after discussion at http://bit.ly/2h3PmKD",
+  "fileName": "RoboAcid.png",
+  "image": {
+    "type": "image/jpeg",
+    "width": 1024,
+    "height": 1024,
+    "id": "aNrzmyX"
+  },
+  "title": "Ultra Compact 1,000 SPM Robo Acid",
+  "favorites": {
+    "DjYNvGesC5N1c9aGVkw7uZSZIcn1": true,
+    "8af4Wdf1SkPu93MuDNLsC5XYz0b2": true
+  }
+}

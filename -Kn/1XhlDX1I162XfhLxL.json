@@ -1,0 +1,61 @@
+{
+  "image": {
+    "height": 1280,
+    "id": "tKe7GYp",
+    "type": "image/png",
+    "width": 1280
+  },
+  "lastUpdatedDate": 1679692948111,
+  "numberOfFavorites": 72,
+  "title": "☀️ MadZuri's Mk4 Solar Build",
+  "authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
+  "descriptionMarkdown": "Originally shared [on YouTube here](https://www.youtube.com/watch?v=Van_JPkkJeo).\n\n> In this Factorio Workshop, Xterminator and Madzuri cover a new Solar Layout / Design made by Zuri with the new Factorio 0.15 Substation coverage. Each stamp generates about 4.3MW of power and is the perfect Solar Ratio of 0.84 Accumulators per panel.\n\nThis blueprint is just one \"tile\" but since it's a smaller blueprint than previous versions of the solar array, it may be more convenient to create your own 4-tile version of the blueprint.\n\n![4 tiles](https://imgur.com/vv9lxQLl.png)",
+  "fileName": "☀️ MadZuri's Mk4 Solar Build.png",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E2%98%80%EF%B8%8F%20MadZuri's%20Mk4%20Solar%20Build.png?alt=media&token=b129870d-e1e2-4d62-b81f-37013537817b",
+  "tags": {
+    "0": "/power/solar/",
+    "1": "/general/tileable/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,15/"
+  },
+  "favorites": {
+    "LpxV1Ie5hgWPX3rlum1aZEYXDy63": true,
+    "1rjjfj5x2PRHrcLBWZcjpCq1Thq2": true,
+    "Twp5IEVwyRYZWSZg0Fp3PUkZU2g2": true,
+    "hGqyaEOhkGPS7gjjmImGE4rGmD62": true,
+    "zuzzQ4UJUleX2sWuorCTBET66Tq1": true,
+    "sW4HdUp0kyWqshPmsrqdsvOhfWr1": true,
+    "IsbhMPeVEKdruws7yqTZeHcMYV73": true,
+    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
+    "4MKYdr8yg3b3PCxMyROOzx0gX8m1": true,
+    "y8LR2PR8rehYlB8INpSr4WGp2yl2": true,
+    "wPESWJA53LaqiB9hek8o4OBVPZT2": true,
+    "I4mYVqMx2tbSFlvC0iWPCbPU4Vq2": true,
+    "3kHQwHN3KCNQ0rQ82I1TMyMpAhk2": true,
+    "3XiOM36Qe8T1SSMWv1XVwtIOdS62": true,
+    "yEkV5AJi4TdlypuvUIb1yqbiznG3": true,
+    "X7S3eQ2uole5giMJHfwHCoeaMXq1": true,
+    "1KkfFubseSbqDTAUiPpOfmgp9TD3": true,
+    "Rtlb0cH0v5Rw0o9WwgCuToTicI53": true,
+    "mzBugZoJH3h4rzD0HSMvD9yKISr1": true,
+    "XoNMzc9sA3daAv7RoeL91yTLbzV2": true,
+    "UfQPmi9D1VcOQOtjLEVgJtDkYAv1": true,
+    "VuWK80CYvean0GP3sRRCv6RHy8T2": true,
+    "oDs7ZPRTUob2eeaRdBX2qXN9LGI2": true,
+    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
+    "AvgfLfpEHASioDLs7N95kY0V12i1": true,
+    "un0gcSkAFPSLMKy1Luq7Asn96px2": true,
+    "3iXo1kJA1uMmdAInrBJE5SbZbu93": true,
+    "YS09FjZlfbdnQvQac5eFyaXMjyZ2": true,
+    "kX2ghFV7gAVebNBHRokcmXuNG6G2": true,
+    "VjQKBjnonCMhsYXKgQOSGm97xz62": true,
+    "EArq7i5tq9NrwS4GIV9DwbaGIRK2": true,
+    "sRl86JWljkWy1SmRUxuRz33xi4p2": true,
+    "sTn4kH568DWWmJlCfUiyP7v4O7t2": true
+  },
+  "author": {
+    "userId": "H3QlaVpvadfVuTpGGxs7016oR2K3"
+  },
+  "blueprintString": "0eNqV201uK0UYheGtRD1h4qCuqq4/D5nfETNQhOzEChaObfkHEV1ZYgdMWQrrYQNsgXYS4Ep8p13vKIqUPLLL3zl2V7U/d8vNebU/rLenbv65O24X+/vT7v75sH66/v5LNw9p1r1ef1xm3fpxtz128+/HP1w/bxeb65+cXverbt6tT6uXbtZtFy/X3467zeJwv19sV5vu+n/bp9VIucvDrFttT+vTevXOvP3y+sP2/LJcHcY/MIFZt98dx//ZbT8ekvs6vj2m8eflMvuf4tuUYVoJbUqeVobGZ9RPM7GRCdNM+pdZPD6eX86bxWl3MJj3l7y3iNxIFE2UNsL3mqht6+H99Hq4vtGJN5zGwfXlhtM4uuFGAlzj8IYbGXADGhhvGhFNjG0kNDK2kVm5DGJJCmsXxVRWL4LxPewX5ThYMMppHGCXbjiNA+zqDWeARaGcCItCOQkWhXIyLArlFFgUyqksXFm85/YsXIpxbXWR3xGT8G1EnSBCY/G5CWOAuVQrEmEulZNgLpWTYS6V0/pZIk6scW00JsZl6BuNiXkZHMy0WJPBw0wrJ5AUVZP4YnzPy+Np8fZvIkR1vFDYrtbPPy5358P18mDIMxfdg+VGFC37sSU0OraRm56fz+IJDuMTHMwnWNA82Q8OdvL1M4J57QFLWTqolZ0zDVTLwmC9LBBazHJVaDNLiFazhGg3S4iVs1ho1s42klg9C4T2s1qXRAtaQgEmPAhngAlXToR7JspJdNdEQa27FeGDMZHGMXZxCmkcY5cnkNw4xq5OIY017N0U0tjDfmphc6C7L+JlzgPdflFQpBFXUKIRVxCcYBuBE2wjcIJNpMAJthE4wTYCJ9hGGj9KvG9LuWQajXtsfsqIsMCTPW0lwQJXTqYFrqDCxt+8sCqVjb+J1P8m97Bb7va7w0nuYbpiCnBs7YcBx9ZGcPGKl6fi4lUQLl4FNV7VXTdWZJxqY+l+HI0JpKBusEemom4o9hkHvX6r6rDEwXaQkKf1IKXA+qHaysAKQiiR5VsoiQVcKJkmXK5woRGXUqUZV5LrWcjtXDjHUi4UT2LuexsJJOcKGVAWvLOViLKglIQ+LColo0+LSikol0qpKJdC8WxyxSvt2eQqxbPdg+t+jw0F9gajoYG9wWgowjcYLSUWqmArmYVKKIWFSiiVhcpWQs9CJRTHQiUUD9/s5KsdAnyz09IA3+y0FOFWgpYSDHxUUIaBl1AhRwJeIJWcCQik9QDv41BAKfQ2CrkyA72RQkv0Vgot0ZsptBTRyYBa7YSOBpSS0dmAUgrNu1ybSvOupNijdGUbceAIdzSajzhd61neP5ETjy+wURLKQA5yjacpj6pdjGy+xAOk3V3UUNDulhDrbvs6NbLutpEEu1souLvVyiTc3VLC3S0l3N1Sgt0tVht2t1BgdwsFd7dcG9zdSso9y3tQd/Bmx/KuIc8uzjQU4MWZluhNGFqid2Foid6GoSV6H4aWCrxA0lKFF0hSKj0MnZYcDJ2W4I5IkPeIwx0RDcEdEQ3RHREtJRo6KWX07YIw2EpB3y9QSkXfMBBK7Wlk5dcDHI2slDyNrJQCjayUBhpZKUU2Q8lWEpshoWQ2Q6PyMHv/4tz8i6/hzbrNYjmuxrz78/df//rjt7tPi6fvzof1V8e7Tz8Nd99eF+zum/N68zT+6c+rw/FN9mW8kq0+pxRLKuVy+Rs+pBM8",
+  "createdDate": 1497912499354
+}

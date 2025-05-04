@@ -1,0 +1,31 @@
+{
+  "authorId": "Kte5ZhE52cfaQtQcVGVAFqYkB4m1",
+  "image": {
+    "width": 421,
+    "height": 576,
+    "id": "BNSCQqB",
+    "type": "image/png"
+  },
+  "numberOfFavorites": 4,
+  "title": "Emergency generator",
+  "lastUpdatedDate": 1610361444039,
+  "tags": {
+    "0": "/power/steam/",
+    "1": "/mods/vanilla/",
+    "2": "/general/mid game/"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio.generator.graph.jpg?alt=media&token=7313b797-68a7-46fb-a61a-4c383b503820",
+  "author": {
+    "userId": "Kte5ZhE52cfaQtQcVGVAFqYkB4m1"
+  },
+  "blueprintString": "0eNrNWNuO2jAQ/ZXIT70AigNJALWVVlV/YLVv3QqZZABrEyeyHVSE8u8dJywBEiCB3bYvSHbGx56ZM8djtmQeZZBKLjSZbkkIKpA81TwRZEqeVmAlKUimuVhamsdgcWWFsOACQmu+sTQarBkCWMmiGCwlgLAUXwoWWVwUc98ToTQT2gqSeM4F04m0PuA3kcVzkMVKHryoj8+CWgqCRITWV8uzy9lnMbR3swqn6djef6BWzEWmAaeHXjU9GAxIj3Bcocj055aUhzHO6U0K6BXXEKOFYLEZKQ0s7oNYok8kx4UihN9kSvNfPQJCc82hxCkGm1l5ajTYI2jJhEoTqftziDQip4niZQS3BKH6rmcP3B7ZkKln+wMXNwm5hKA0cfJeDdvpgk27YQ87YLuTbtijPfY84RHOXIwFtY8RRw2IboWYSQGyz4UCqZuhD447Lo6LHNAyiWZzWLE1T6SxDLgMMq5nhlH75QsulZ7VmLLmUmc4U5GlsOgHKwheSLlBQW0ytc0gTpk09EbLbyQvv4vSPWVgqfmREB7yiePIz3/leYP3XjNLL0d1iK43YPl7rBhCniFYhCeTPOinSdSI6Xp7TPc1nG28cQ92N2NqYrOLuhk7Z7wd3+LtuNnbyR6LBUEWZ1GRliYnR69AZ/iSZDrNOnDjoUviKT0ODT0TGhPC3TYhBDzEQqjEtNGt1/h4tbptdnMHW5WFuqcuSsFuv/CxLKaj+ul1Dv1BWaYb9CQTeraQSTzjAnHIdMEiBXdkxzF3QnHD1SxrFD8pgVG9BHrEOSsHJ6udGktanuMsn2hnPlUVl78jgx6OVXV8Kqtf/gNaTC4mr3UKqkueSa5XMWD/ci0Lw45VXSH/o8J+Mot2LWTRUn66IYEI0qVqr9Wi16UWT63PprPqq1TMoqgfsThtzKGzryS/+e6io1vFfvI3xf7pFj6UqvUWYv/4lkLvtRZ6t2LLfQpcdbavcncty85R09Oc2QWPsDk+8/BpkZTMqK55TR0+hM4Estn/UUv/vTvkr8Zz733l75Dq1eVEj5Xt8/srm9NJuWqZuNpVNGfKP+jLE8mW0Ef/Xy6/RR2nzXuRjrs/SqotbCOfWKjFe3568D9Gj0QMn7Q49yMGuQQRbCz8Bbkj1horpDzTmI780cT3fGp7rpfnfwC9Qr8I",
+  "createdDate": 1610360101296,
+  "descriptionMarkdown": "## Desc\nConvert your first power station into an emergency device. When you have solar or nuclear technology, your thermal power plant will be shut down and activated only in the event of peak electrical needs.\n\n### Principle\n\nWhen your electrical network recovers the energy stored in the accumulators below 80%, a signal is sent to inserters to load the boilers with fuels, for a period of 60 seconds.\n\n Electric network info GUI screenshot : https://imgur.com/bYI3DHe\n\nThe peak demand exceeds the power of my nuclear reactor. The emergency generator started twice to dampen it. My network has 3 emergency groups:\n- My early-game power plant, powered by coal\n- An isolated power plant, installed directly on a coal mine\n- A small generator next to my refinery, fed by recycling by-products from the fluid regulation / conversion system. It burns the excess solid fuel/rocket fuel.\n\n### Duration\nThe operating time is defined by the value of the green signal in the Constant combinator (in number of ticks)\n- 1 second = 60 ticks\n- 30 seconds = 1800 ticks\n- 1 minute = 3600 ticks\n\n### Tips\nBy defining several groups of generators with different types of fuel (coal, solid fuel, rocket fuel...), it is possible to combine their efficiency times and latencies. This has the effect of damping the shutdown phase of the generator set when the demand from the network is satisfied.",
+  "fileName": "factorio.generator.png",
+  "favorites": {
+    "VjQKBjnonCMhsYXKgQOSGm97xz62": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "Y6mqhGL7QsbsoRS9wzqO94723Yu1": true,
+    "6vcOE83nwZfUONZYZnuptrW5kbo2": true
+  }
+}

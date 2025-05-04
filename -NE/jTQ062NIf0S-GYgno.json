@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "b6oViI0Mkwdfa4j0a8yUjn9xca42"
+  },
+  "authorId": "b6oViI0Mkwdfa4j0a8yUjn9xca42",
+  "blueprintString": "0eNrVWEtu2zAQvYrAtWVYf9toty3QbopuW0OgpVFCRCJVknLjGD5AD9KL9SQdSq7jOIojQmiabuKQGs6beeQ8DbUj67KBWjKuyXJHclCZZLVmgpMlWW8dxcXdXQlrkNpZUwW5I4rCeS+bqt5+EDD9yr/yT5JV4Hxn+toJZw5wybJryKfOO0DzdrpoytJZQ6lxtdPwe5N7czREG8W0w7hT0EwLuXW+NdAAOjoMW5Nsm5XgMK2cWoq8yfCfNc1ucJkWZhrKYkomhGWCK7L8siOKXXFamuz0tgZMi2mo0ILTyowy4FqyorkCssdlPIdbsvT3k2cXNpJy1lSuH0QnK4P9akLQJdMMOvx2sE15UyGLZOkdHRRUaZdxhdzigwmpBabfMr8jxpM3jSZki8EswmAaIUTOJGSdRTghmKCWokzXcE03TEizLGMya5hO8Vl+9FUwqXRql41hT1NzKLyZGVU1lVQbEPKmfX4AkkDz9Jry3EBqTBVz1rKBe4v2YWtWiRyRvM477zJRJiDP/LmSAPyUMJYb8P1qjwvEBqRkOaQYVHaDudx1nh6x6x8TgttaglKuxsRULaR2zQG8TLN/TrPfAxHYQ/iWEKE9RGAJEdlDhJYQsT1EZAmR2EPElhBze4jEEmJxhGiP90BNiCw1wZRfKopU1ICl3K4IXrKQJw8nokuVPethyQjRkSaA0sXXhnqmoMOWo8FRLs6DPB97Jui+2LzhW+ifh3eyhfG/k/VfP36+GmHv3X6/75V9UaW6CkFyWcvMjdhQCbdu13JU6MTFFiLDkjb9AtLWxnzoKtgGwV3MrCnBDUzd9sUUjBIH2woGTtclpDlT5pcsC1oqsNmyP/NDtk1C/mjTFk8d//Ds+BesxMN/qQriCzRgFXQOugbq0Fl5PYd6TjCinngie6mIR0pF/BQ3sTU3/nlUp++P1yzyB00fuHmoSCsrBUiGi+xJI5G8YO88fyiy5xr79u8o7JOlatE4e/Ph5MaXzmef78UomYz/N5lMzrUheEIb/Nmo68r8kXD2YXij7ivDMPxRF5ZhGMGoG8swjHDUlWUYRjTqzjIMIx5VcD0Yq65DMh+Fjt+LJqSk6AznPnadlfMZ2q8zRjNQd1QnCHMvTBZ+kgTJIpqH+/1vuFZHKg==",
+  "createdDate": 1695161102436,
+  "descriptionMarkdown": "by snozzlebert based off GrumpyJoe.\n\nPrime with 40 enriched. Feed with full belt of unenriched. 0 enriched will sit in factory queue. Factory will cycle its products back into itself.\n\nBug: if output belt is saturated the input will begin to saturate.",
+  "fileName": "OtfO1QIO7rirxLIk82wXl3olAT69iw98.PNG",
+  "image": {
+    "height": 852,
+    "id": "CZuPumP",
+    "type": "image/jpeg",
+    "width": 1170
+  },
+  "lastUpdatedDate": 1695240332056,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/power/nuclear/",
+    "1": "/power/kovarex enrichment/",
+    "2": "/production/uranium/"
+  },
+  "title": "Centrifuge Kovarex Recycler"
+}

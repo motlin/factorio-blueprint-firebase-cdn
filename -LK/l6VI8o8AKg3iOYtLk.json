@@ -1,0 +1,25 @@
+{
+  "blueprintString": "0eNqlmt1u6ygQx1+l8nV8xKcxuV3pPMDero5WTkJTJH/JdrpbVX33xcnWcRIIM5yrtlHzYxhm+M8An9muPpl+sO2UbT8zu+/aMdv+9ZmN9thW9fzZ9NGbbJvZyTTZJmurZv6rGkfT7GrbHvOm2r/Z1uQs+9pktj2Yf7Mt/dpEEdNQtWPfDVO+M/W0+jL7+rXJTDvZyZqLMec/Pv5uT83ODI4eYmyyvhvd17p2HtWhckp/yE324X7jP6Qb4mAHs7/8g5htvCMzOFkHwcwD5gu4t84XHkPJN084nocgbgj51OXHoTu1h6cs7mdJOEuvzbqZZuEBF3D/lSj/KThYoVa8XMBjX9tpcp89IuWCjFuq4b7lQd/6wJTAfSBQzqWIhOIo71IWi3sWCVXKwYRA4lBM5gRn54t2Cs8jjluQIjJpEfOaigBkDFBGAEUMoCMAFQGwa7i/VuOU23Y0gzc9b7e7+B5Pn6vYI3+JCnnmO7o969ksltNwOo+VD92um1XscbxrDoxNVde5qZ15g93nfVebZ8OFPMNT9I9BAo9dc8WFsRku4RyH0wf45lv0u9PUn/yOkQlqS0HTQOjQNXpgaJVgNAssZJliJmwhdYISgxzASYIUU78DOE1ggebPkUl3lfiQqYikK3CmCuhGdxVfCpEnLhMKBgrZQnmRQGYgskooRWBuRiQbw5ERuYbbjgV5JlX0GZ/cS1XfmyHfVzsX/b6RKDgIwxuRLwgFQ07hTlOWGZyrCN8AHCnnIjDAskOY9jh/9dRar2wJgRxQ/e6A1zyuu6MdJ/eV/Ztxq9Q7A+y7yfuhe7eH57XRZbV21fB/d34/SHG3YdZV0z/yYpImFL5qA205Ap6+lMWM1GAjcfkqSYKRAcGRNKkUIymVmGSQLnhZMQrwBMeXSQTkYoEvGWBgia+YYGCEWEoUWOFLEhi4xMs7DKwxMS1utWy9QSwxbdtASBcEX0gQyEZUXPOyMQd7amKlJVnRfbxr7oX3IRZhcNDmTSMUcCHKIyAJBUmU5wsotkBhwZKlItMukZFRRngae1BBbua9FBqv9cf8zfMJRf46zEjfEWuKeAVMVxTPCqGwndy3nATEX3FAvi0QUKOlBLZMVysbVwvlDRvfgBIyB3kzSOyAPaGlA3V0SqXs+TS85YfLGFXi93zQmYfSeHAg/EqCbxZBNpYU39/CwCy1CeW+fqdr5/bFDvuTv9spOboTDVTQpVj1Tc7kt8rF3+EJkGCSvpSJdFDbXK7aMbec9vg25e5H7SkNLlDAOiooUoCRJRRZgJEa6dYSs2iaJNJBi6ZpqmDzFMHWDC+ygVTRHI8KbHBaYPQVdB2mf+MAJL/zcfAARBcJF+wCooD6mnjO6sbuqzrv66p91rLKh3hbhceumjv0D29MlODdU4bm4F0CjaxtF3zofpAkXGeD3E0JxZNht9mE4euA4Pw5nhW64SYisScNGicTT23vbkitk/v8aKoh/+fNmDrzjlWgmtegyeA2juHWvMR2xUCuTjy3vnNx5PCYUoLtmkMephTb1gdJLPEIHTt3jm3tYWtHRWKnH3SIxOtvkFXgWaGN5e4dyXNRpCHt8r85KhPQBQytwa/tZGDiq9cn/cm3HeVzXoEtWr05gdWdi3xK0EMkliBMwaknCBPQCwIvzEBywlW3hD1gAx86Ll01EKzwBwFAZyTcdAPJGt2bF6D4XT0qgdw+FqG3ghR9+xjKAo5orgjKiTyh1wpaKfCsoPMQGvQkIH9tLu+8t6uX5ZusrhzJffZH1/TVfnr5c25tX37Ore3LT/dB59qZTfZuhvESJKVirKSaKPb19R9m1id8",
+  "descriptionMarkdown": "A tiny factory that takes in a mixed copper/iron belt, a steel belt, sulphuric acid and lubricant, and outputs flying robot frames, based on [this old version](https://www.reddit.com/r/factorio/comments/3fzycb/compact_modular_factory_for_engines_and_flying/) by Reddit's havoc_mayhem.\n\nI tweaked havoc_mayhem's original to take in sulphuric acid and make it easier to place the wagon, but credit for the idea is all his.\n\nThe blueprint also contains a factory for building medium poles, but you could put whatever you want there that uses the same components. Handy!\n\nNote that you will also need a **cargo wagon**, (doesn't show up in the materials). It's a bit tricky to get working:\n\n- Check that you can place the rails for the wagon both horizontally and vertically, before building everything else. Rails take up 2 squares each way, and their grid is fixed; you can't move them to be 1 square between so the assemblies etc. may have to be shifted to account.\n\n- Place it centrally but a little bit towards the frame factories, so that the output of the furthest engines / electrical engines can reach it. Don't worry about the others as much; that's what the long inserters are for.\n\n- Set the filters on the wagon slots! This is *much* easier before the factories are placed. You'll want 7 slots: pipes, gears, steel, green circuits, batteries, engines, electrical engines. (Add one of each to a slot and use the middle mouse button to set; unset with shift-key). The pipe assembler is particularly voracious for empty slots, so if you do need to set filters after, disconnect it first.\n\n- Frames appear in the box at the end; connect to whatever factory you would like!\n\n- I got the stack-inserter updates shortly after this. Turns out the long inserter with the steel on can occasionally get stuck, if there ends up being steel still in the inserter's hand while the car is full (or batteries, but you never have too many of those). Override the stack size to 1 and it'll be fine.\n",
+  "fileName": "Compact Robot Factory.png",
+  "image": {
+    "type": "image/jpeg",
+    "width": 1687,
+    "height": 919,
+    "id": "Ze16DhY"
+  },
+  "tags": {
+    "0": "/production/robots/"
+  },
+  "author": {
+    "userId": "ouIPy2sMCkePoi07epruwcSWAwC3"
+  },
+  "authorId": "ouIPy2sMCkePoi07epruwcSWAwC3",
+  "numberOfFavorites": 7,
+  "title": "Compact Robot Frame Factory with Cargo Wagon",
+  "favorites": {
+    "qvvanQvXcrenYPfZ62NWrbClNh33": true
+  },
+  "createdDate": 1535201117519,
+  "lastUpdatedDate": 1536445090292
+}

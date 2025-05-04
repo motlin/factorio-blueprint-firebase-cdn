@@ -1,0 +1,23 @@
+{
+  "author": {
+    "userId": "UdFmEWRo4SORyF74TByNFsDAMb03"
+  },
+  "authorId": "UdFmEWRo4SORyF74TByNFsDAMb03",
+  "blueprintString": "0eNrll1GO2yAQhu/CM44MGMeO1JOsVhFx2AQVgwt422iVA/QgvVhP0gHvJruNlcRSVUXZF3uMh/nHH2CYF7TSveycMgEtXpBqrPFo8fCCvNoYoWObEa1ECxScML6zLmQrqQPaY6TMWv5AC7J/xEiaoIKSQ9/0sFuavl1JBw74LcZa+U6LXdYJIzXCqLMeelkTZSBSkc84Rju0yEhBZzxKNMPL1/6iD7YVsUfmGyVNIyFU8xXt9/hElV6tSi+oartRPqjmsiY7aPpWaJ1p0XbnP5MkQdALzurlSm7Fs7IuOjbKNb0KS2nESss1WgTXS3xohi7rQ9An5XxYHocs7LqYxLNyoRfxk9+ySh6ZMLuwVWaDBmkfRBz9Is/z+Nx2wokQk0C/f/6K3wmNekgKLuCzSWO6SraIE2AERTEZRX47KBi9CgVJKPLZvCoYYXNWsaLM67rijBNeUn6JEb+OEf3MjMrJjO52Sc3/QiG1bIKD/1JntRxhQg5MWA1MRiJWUxdpCnQjcGnxXyZgPZlRdTuMSDmF0SUUJJ+6GO+YBZnM4vOtHUInL5757UCq/ul8YZPny92iKCZuZO+YlOMbGTkepXqoStzGWbgPlcrZjZElxmvlIIPkAbm9ElKm62Odcyr27kzSaRUCNJ6d08WJxJPSsdflygajbzBKoA4+xro2jdiHgfgSR8r2AZJdQh1n3eDs1GY7nv3xGKEcyDVb6ccgsY+QxiIdjw9PwodMGS/dOAx6hjihsYD8Dg2xenxgmOIC00f8AFdcJYuDVR4s+PVGc445hqnEwQQvXKfGOr6nyYTd6uA72GywabTnYIOsCrKF/I9FMEbP0vmUGPzh6qKueclzwvNiv/8DgAD2vQ==",
+  "createdDate": 1746470543706,
+  "descriptionMarkdown": "This blueprint provides a visual indicator system to monitor the fill level of containers holding science packs (in this case, red and green). Lamps connected to the circuit network display the current fill level using color coding:\n\n🟢 Green — container is mostly empty\n\n🟡 Yellow/Orange — partially filled\n\n🔴 Red — nearly full\n\nThis allows players to quickly assess the stock levels of science packs at a glance, without opening chests. It's especially useful in large bases where maintaining balanced science production is critical.\n\nFeatures:\n\nThresholds are set using lamp conditions via the circuit network\n\nCan be adapted for any science pack type by changing the item filters\n\nEasily scalable to monitor more containers or display finer levels of detail\n\n",
+  "image": {
+    "id": "m9uKq1S",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/m9uKq1S",
+  "lastUpdatedDate": 1746470582079,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/production/science/"
+  },
+  "title": "Science Pack Fill Level Indicators",
+  "favorites": {
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  }
+}

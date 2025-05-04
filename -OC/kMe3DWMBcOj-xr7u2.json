@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "PYKe0LSYLsWpAKiMgZX3oyYSPXf2"
+  },
+  "authorId": "PYKe0LSYLsWpAKiMgZX3oyYSPXf2",
+  "blueprintString": "0eNrVWWuOozgQvkrLP0dmFB5JOtHuSUYRIlDptgYMY0zvRi0OsAeZi81JpoyBPDCBsE1HI+VH4cf3lcsfVcZ5J/u4gEwwLsn2nbAw5TnZfnsnOXvhQazaeJAA2RKIIZQiTYIXDpKFVhYHOIeSH0UQM3nEETG8AI8CcSQlJYxH8C/Z2iU1YAkIj2EMYnC6U+4oAS6ZZKD9qh6OPi+SPc7f2tSAmaU5Tki5YkQQjxLEt5YIGzEcpruwNWFCpAgiRQFmT9ARCYlmZtHZCurBVpJGRQyWe2MlGgDnc5/xN/Q/xY4K8PSEzuQyCL+T7UIFzNhj9/Y4vT1uuSvxRztxc9q45RIgtsJXyGU3dKuvSx087+uyNMC4Lcy+iL9bjOcgpGkP1udAl/tggPXGwrb+La9hnyk5sBgn1ZtXy/F8m3gqEpQlJWGaZIEIpNIC+ZsozRU5+O18pQ+Dl8txMXweiOGqhYkgZBEIC/3ZM1750ydm53q9tqPWwfENjf09vAZvTK3mvcH0sS+qcCotnj9hdA5M5NLvvKYqKAlgDCz7Qt8iEKCkrZKFVFlAxfUiiL/++9nGFXx5zBRcwCOi1j/I5gywOR/K5g6wuR/K5g2weaPZUKVpIbNC9iTsE+eihzM7oiwKLv0D5nVMTohFtocgzkGlDYNU11Ok6j5SqgVHDxNk/TS5mhnnlKyZcU7Zmhnnl+4l793yfR5bVpZNynYNZcUk3ZCJsGDSBx7sY4iaI0XTLCCI/FdcutK2RK/y6xFVZzUMTxRQFfue+jUQovOzy8Vu/DW6rm3urr46TLcCMyUCBtfsxVjfnqdu4cx7pTZBD65n4wEcj2oxq44OY7bHtqdk4cUjs/DFgfhz0nAP5Zx5uIdyzkTcQzl/Jr4ivjsV284UEduPFDFkLPw8/XbZ5pRul21O1XbZ5hfsifN+rZ6+cvsuQa6/dmu59hTFHFSZCZlalS4tVTW5rjdVI+MvAiJ2ai/7qn2DeBUC3ewbPnv/9KuNvh6v79LDHn2vsGlOD8ay+bEHs/EXDvbIGwd7ce6+CWjKnUMnFN6cuffWwf8yePRutNMX8AXS9PTWl2pmgb8qvSM47smZE1Pk+t5vBnv0hd1AWe69xaMtiEOHqu0IEJcOFdERIB4dqo33XUpi4z8YQhWybw516Jo6O1pZm8paURvb7NrC3KXNZqCysFGbLja6tYWN2vSw0astbFQmfn+0UNp2G7tFQ7sF0XY75hwH7ZUe76q5SLLDFbWh0UqolYw1ilaFyvxiWG2CUUIbEU+1Kzeg7f8Brf6+aKq2lR46b9hNYudRxO6jiL3PIK4zFW2MLVE7fEDcIg7UtIXP7KcvTyr8EWSYYUEdTJtK3IvidFCcCShuB8WdgOJ1ULwelJ0+vFW3D83ff5TEwR6wLhBda59k+nR+aHnDF7LamOXK2XibzdJbb9bLtVuWvwHlE56P",
+  "createdDate": 1732757070230,
+  "descriptionMarkdown": "simple, no latches or memory cells needed\n\ndoes not clog\n\nalways does at least two rounds to ensure productivity bonus\n\nif your chosen item has less than 4 ingredients you need to remove the empty conditions in the combinators\n\nthere is enough space to add multiple inputs if needed\n\nyou can also reroute the common output (top) and use as input\n\ncan swap to foundry or assembler\n\nexplanation: four combinators check if there is enough ingredients for 2 items for each rarity. A fifth adds common recipe if there is no other. To ensure the signal stays on when loading we track the input of inserter, chest and machine, and we also emit the recipe from the machine, this ensures it stays on for a second round.",
+  "image": {
+    "id": "vLP1OCF",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/vLP1OCF",
+  "lastUpdatedDate": 1732757070230,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/space-age/",
+    "1": "/mods/quality/"
+  },
+  "title": "simple common to legendary",
+  "favorites": {
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
+    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "aGRZVaEL5kX199TBKlLfFOYVy0n2": true,
+    "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "xsZ1ACrRRMU2J50EsFoXdBKuEy63": true,
+    "u3mYmJmxLSOiBOGo3G0slSAhSB33": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
+  }
+}

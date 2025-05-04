@@ -1,0 +1,25 @@
+{
+  "author": {
+    "userId": "SuLdYs4lLeQP7nTn8t3hp0Kqato1"
+  },
+  "createdDate": 1495393850729,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_screenshots_20170522030652_1.jpg?alt=media&token=6c258e36-ed87-4fe4-98fa-e64b4c8d2818",
+  "numberOfFavorites": 10,
+  "authorId": "SuLdYs4lLeQP7nTn8t3hp0Kqato1",
+  "blueprintString": "0eNrNl12O2jAQx6+C/NpQxYbwEVV96WO3J6hWkUkGsNaxI9uhjVAO0Hu0F+tJapOKj4SwJAu0PICcjGcmv//MBG/RgueQKSYMCreIxVJoFH7dIs1WgnJ3zRQZoBAxAynykKCpWyUQswTUMJbpgglqpEKlh5hI4DsKcfnsIRCGGQaVt92iiESeLkBZg70fnVLOh5ymmfWdSW23SOGiWjdDa1bYn5H1bPMySvJoAWu6YTaaNYmZinNmInsv2e9bMqVN1Mh+w5TJ7ZVD4J3FkIrCrJlYoSqGNtSBwG6RZlTtHixEv3/8cga5BhuMS2Ufyqgcqj0CYhdcu2jYfa0UgDh+bJagMPD2+bolKZ/LsvQaZMg+QaqYWadgWHwMuQHJfx8cKCVMVcmgcHKe2cHrAZvuwQ1ovHZINDg31+97cptkBpbsLk30zprI3GS56eSkbLIn17LHR9zdenadNKNORUseXrRT335uX7jjFhzjTjjww3FM7oNjVCueSQue4NKobO9ifNrF5Dy1vy7f1sJPp7zmLby6t2fGxEvlOytsirkw0VLJNGLCukHhknINZRfmpNmg3oV2xy2STLpUrP/wgh3fq39PC3bab/pNu8B7fLeT+8Cb1GBhvwXPrFe7+1e9s+/R7cHNur3idst2x7j+vr7c73WRGuPi9Pa86f2covNeiuL/StEPPfQsgHP57aaCzi4L0lXvun3byMJ+l5l1zz9sNanqMn1865iavkK0lRDuVeTknxX5+TH/s0eZK0huWuPzTmeMV0vcvzy0KkHtKXt3Kg+PDvEe4nQBlgDCvv958AUMKG/wqXqMwUHdgZEDbfLl0u7YgNKVkuMxCcg8mE1JWf4BWO+Xcw==",
+  "descriptionMarkdown": "Compact meter, measures up to 100K, connect wire from what you wish to meter to input of combinator (top most) to use.\n\n1 Red, < 20k\n\n2 Red  <30k\n\n2 yellow > 30k\n\n3 yellow > 40k\n\n3 green >50k\n\n4 green > 60k\n\n5 green > 70k\n\n5green + 1 purple = 90k and above\n\nIf you wish to set custom values for metering, change values on lights.",
+  "fileName": "427520_screenshots_20170522030652_1.jpg",
+  "image": {
+    "height": 1080,
+    "id": "bQy4wCu",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "lastUpdatedDate": 1497704000762,
+  "tags": {
+    "2": "/version/0,15/",
+    "0": "/circuit/indicator/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Compact meter"
+}

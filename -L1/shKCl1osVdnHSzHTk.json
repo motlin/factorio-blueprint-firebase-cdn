@@ -1,0 +1,26 @@
+{
+  "authorId": "msckiXGw6BhPE5nVxoXExQFig3D3",
+  "blueprintString": "0eNqlmNtuozAQhl+l8jVU+Ajkci/2CfZuVa2AeFNLnBY70UZV3n1NKU22neJDrpJA+GbG/DP8+AXV7VGOk+oN2r0g1Qy9RrufL0irQ1+18zFzHiXaIWVkhxLUV938q5aV/Su6JEj1e/kX7fAlcV5UaS27ulX9Ie2q5ln1MqU3CHJ5SpDsjTJKLkm8/jj/6o9dLScb452kj7U2lVE2hQSNg1avX21ci0lx9sgTdLbfxCO/zHl94JCPZXxmFAsgn7OzNej5uB6l3KfdsD+2c+I2X4BN3Wwey2ZuNollcycbx6KFE81i0bkTnceiCy+xlQ6ple5bhrOFwKDr55Nb3fMZl6+0m4LHydbaGHWy6Ju64Yg4NCK9N+K1H39X2qSq13Iy9gywVksobkPt1SSb5ZyAoNQXCjMJxLw2YDsclDaqSZtnaemjXSp1kqkt+6T2UJRsjQJxeeCS373iIjCguDegu1HLrS64NuM01MM4TAYSB12bEcPNiK/dqLuqbVPZ2ts92bs4Dq38elKDOZEsVLXMrTCCAzN8Q1MwQ/KVXCf552g/N3QKlxzaU8zdp4SFVZxtFcw9ZIKJQyVE+M9sDAJyb2W82QzwAUQKb0y+Yv5bbgZBy/gRtmYLFk2zCLGticNE7G2lcLhNI95eKgJOfc1UBJv5uqkINvdVXL6hWyriJbapB++2Et7tQIsI1YqtJEvfBx14Ocu8Zw/8hoADR0/mXiNG4iwoiTULjAYOvgyksDgfG582DzQE2P10ZOJexwnLLA97kGO3c2FFlIeNX+0yysJGx+NZ2Gz0aCyOwwYaKHNOPAcO/NZPAzVL3ErgLMrDgo6O8zChEndLcRHtiuElzGMMLFxtEbjBxWEHy0vfDS4evpmT+bqyCDb2NWURbOLpySLQ1NOSRaCZ5wZXBJoHbXB9ITVx87KkDs5WX4Wbz7SnJeX50vc96AS1VS1be+yH7Ma2MvLh22vhcv/wvWrMMJ3tf05y0kuDFznJiKBYFJfLP12QiUo=",
+  "descriptionMarkdown": "This is a simple blank template to use to assemble whatever machines you need.  It is completely driven by logistics robots.  \n\nUse is simple.    Build the blueprint, change the requester chests to fetch whatever resources you need, set the assemblers to the right recipe and watch it go.      If you need a LOT of one item for the recipe (i.e. Yellow science needs 30 copper cable) you can switch out the fast inserters to stack inserters pulling from the requester chest.  \n\nBy default, I use productivity modules in the assemblers, but a lot of items won't allow you to use them - I typically replace them with Speed3 modules.  \n\nit's not the absolute most efficient design, but you can build as many of these as you want for whatever product you are interested in.    Allows for very modular growth, as long as you can feed it the proper resources and have enough logistics robots.   \n\nThis design can be easily tiled and works great - Simply remove the row of beacons and substations on the top or bottom (or left/right if you rotate it) and place the next blueprint up against what's left.  \n\nEdit:  If you like this, I expanded it and other similar blueprints into a book - https://factorioprints.com/view/-LBNSPM2EgNJORg_ce3l ",
+  "image": {
+    "height": 578,
+    "id": "gNy1DWW",
+    "type": "image/jpeg",
+    "width": 972
+  },
+  "lastUpdatedDate": 1525203571307,
+  "author": {
+    "userId": "msckiXGw6BhPE5nVxoXExQFig3D3"
+  },
+  "createdDate": 1514927379445,
+  "fileName": "generic-factory.jpg",
+  "numberOfFavorites": 11,
+  "tags": {
+    "0": "/production/rocket parts/",
+    "1": "/production/modules/",
+    "2": "/production/logistic (bot) based/",
+    "3": "/production/mall (make everything)/",
+    "4": "/general/tileable/"
+  },
+  "title": "Tileable Template / Blank / Generic Factory "
+}

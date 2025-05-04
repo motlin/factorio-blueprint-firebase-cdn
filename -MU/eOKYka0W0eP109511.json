@@ -1,0 +1,25 @@
+{
+  "author": {
+    "userId": "VaZ1ea2pkxNvbJJlZDH0C6TBvnM2"
+  },
+  "authorId": "VaZ1ea2pkxNvbJJlZDH0C6TBvnM2",
+  "blueprintString": "0eNrtml1vmzAUhv/K5MuNbNjhW9ouK+0qWntZVRFJ3MQSGGRMtajiv8+GNmnClw0h0bTdVKKY42Oe43PeY/IKVlGOU0YoB8ErIOuEZiB4fAUZ2dIwkv/j+xSDABCOY2AAGsbyKmSE72LMyXq2TuIVoSFPGCgMQOgG/wYBLIxeGxu8JhvMmg2g4skAmHLCCa48Ki/2S5rHK8zEDD2+GCBNMvF0QqUD0iXHdQywB8EMQh99tcVcG8LwuhqCDCDWzlkSLVd4F74QYUI8d7S9FLc3pb1M3ngmLOPL2gpfCOO5+M/BuWrEDIfrnVxdhqUZaSvjoXznM7GOJMUsrNwAn8WjSc7TXNt4UZRLoNWKSieh/MPw5uP7I+LKEiMJW+eEl5fiXYtnUctgtz64kHTPeKABPLx2Hs60PLYMYzoZkDfrbUSq22ev2Tl9zfDIRGV4G5W5PhXPvBmVxWREFlr7w2tl0T+4jYQ1Kl/BK+er+8lI3GvuC/uchdG3D9pRwW5bthpJexRJ87aVRy8Cpq1MjbytbkYQ6exNS42oM6p2wStnyaFEDzXv6nrDrTEzmuEjPfiop0jWhhtaoea0hIvbJWG7Y8VUjJU3w5cJlGMCN+VFnIasdDUAPwbTl4bSvfAvp3z5zJJ4SagwAwLOcjw8NFB3ej9H5I8QsjXc3Z5As554moLDG6W4rp1LHiar8w9aGWKuxbk76c+7QfpqNcEfxdH8S2rCw03qgdezE2sE2+oFdM8eReYFM4LXkxHmahlBZo7hgtHzbxtKH7ICOg2VbzeQDjUGUEv/Q0Viow6XPO+/xO8gCs0epFrdd70sd1vryCW+YnAgXfnnfrWPu/k0MqwJ5d/5GZdeXIzWiYfpW4TicxhlOkqxQfwbikcGnQHU13NYrfM4igEz1wyYo46oJ380Zb/wgtme7wjddncN34fJwYtFgpbq93vw2ooQj+d3WRxG0SwK47S52fuw26tK0ATsfc4DsDEbvKvBE7fzDIt5ooRlb+3ZiD1ndObMNjEN7TFqul5Qb9IVmafF8svkx9DQ1hOgPeKn5yQVKTa48HhaFuMNyeMZjsRimACaJhHu3RP++54Y9F2kjDDhACbb3SrJZUg/QvepyU9X20/PHu5nk3o499Np9NMbJTbdf+HLgJKWH9MJNvURjcHvDz77UyZ1kVoeUpVKfnVd16y89Zo4q+0LtDlcZ12VzWLwSc1oePeXFOS2FjZP9SNAYx8mBpe/Hgk+/GDFAFG4wmLZ4O7n3eLTrxznMq0LFZtVDD1ouT5ybWjDuWMWxR9Di+xH",
+  "createdDate": 1643536275849,
+  "descriptionMarkdown": "Chainable queue, no length limit, all signals except S, R, O, and green can be used in each queue item. For chains, input pole is the \"Front\" or \"entrance\" of the queue, next items align their input pole with the output pole of the last. \"End\" or \"exit\" of the queue is the final output in the chain. Complex signals also possible, IE iron=2 steel=4 copper=8 may be handled as one queue item. Only positive values on the queue. Pretty lights to indicate queue items.\n\nSend double the signal values you wish to maintain for one tick on the input pole, or the exact signal value for 2+ ticks. You may monitor the input pole for an R=1 pulse, which acknowledges reception of the signal, and you have a short time(<10 ticks? Not sure, make it snappy and you'll be fine) to turn the signal off, where you won't double send the signal. If the queue is full, you can send the signal as long as you'd like and it won't be added until a spot opens up, at which point you will receive an acknowledging R pulse. If the queue is empty and you send a continuous signal, you'll fill the queue with that value. \n\nThe first tick of the two tick input window, is the same tick any signal is sent on the input pole. Any signals present on the input pole during these two ticks will be interpreted as input and averaged over the two ticks. Sending a signal for one tick to the primary input pole therefore results in halving, and halving 1 results in zero. \n\nThe R signal is reserved for system control. Remove items from the queue by pulsing R=1 signal on the output pole of the final queue item. You may examine the output signals of any queue items for as long as you'd like, pulsing R on the final pole destroys its queue item and grabs the next in line. Sending R=1 continuously will result in all items from that pole to the start of the queue being cleared as fast as possible. Sending R on any pole but the final one will send the system into race conditions because R is used to reset the system. If this happens, strip the self-connect wire from the count holder across the entire system, then rewire what you removed. It's probably easier to c-x paste. \n\nDon't send S, O, or green as input signals or you'll have to do the same strip/reBP. Maybe I could defend against those but it's not worth the combos, I 100% can't defend against R, just read the instructions. ",
+  "fileName": "FIFO.png",
+  "image": {
+    "height": 355,
+    "id": "ExLMmLX",
+    "type": "image/png",
+    "width": 424
+  },
+  "lastUpdatedDate": 1643666842089,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/circuit/indicator/"
+  },
+  "title": "FIFO Queue",
+  "favorites": {
+    "emoHeBAnYQcVcY2zlU38xVnS68m2": true
+  }
+}

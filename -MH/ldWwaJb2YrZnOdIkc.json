@@ -1,0 +1,28 @@
+{
+  "fileName": "screenshot 2020-09-21 001.png",
+  "image": {
+    "height": 472,
+    "id": "2LmaiSD",
+    "type": "image/png",
+    "width": 1163
+  },
+  "title": "Compact circuitless Kovarvex Enrichment",
+  "lastUpdatedDate": 1600708288338,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/general/compact/",
+    "2": "/mods/vanilla/"
+  },
+  "author": {
+    "userId": "xQUvGGv5ptRdVTQKNbbrdySaaN92"
+  },
+  "authorId": "xQUvGGv5ptRdVTQKNbbrdySaaN92",
+  "blueprintString": "0eNq1mVuv2jgQgP+K5adWAjY3J8BbVfWpj9u3VVWZYMBqYke+cA464r/vhLAcVMHxGDYSQiR4vhnPzXbyRleNF52RytHlG10LWxvZOakVXdIfO2kJfDipddvx2pFamtpL1whryXe956/kmzLS1btWKEf+Fs53M/KlaUgN10Zu/FaAuBHEimZDrOPGSbUl3Frf9j+E0n67I2v9oqwzgrfEW8G3gnxq+W9BeNtqsjG6PY+AAZ9n5MdOkI001l1pITVXSjvSaG0Fkc6CRrEmYi8U8WotDHEgtePG7gQIdvoFbmnvQNdfm8Y7z/s5D2wjWi5Vb55WZ/NbDV9nJ0zIyjvyImGWuq5PcrxpDmfVfFA86BzUAL92vh9HPvWi8iy96lVZB+g1WR2I704TvHbd7DOdUFlrZenynzdq5RZU9XFyh05AgKQTLYxQvO2vVoLDUHoEEdD+SpfpcRIUetd2JZgdf04o/CGdFIPq08Xhl/LtShggX+Sd4cp22rjpSjQOuJ22csifNwqoaZrN2IQe4FcyY6BiLY2ohwFlb98f5CyCnEaR8wvZdo10Du7dYCb/MdMwscDburhgMaYyPHgeBS4fsBjl3OoBi1HgOR5cXoNvoBYPoFBeTRNMalX3MmtCN7LpZZbUg2HSt9MsZ0CA/tR59wu6s4YmC6K0ERtHb1mQYixg/4MFRm53t03IMCYUYzohxwc4D+RKWjzAwiULw/gpGzVUEW0gCTmqeoCFc9Qc1bDHTCh8x0ijppZhGkYyZgpk+BU8C2RAhl+y87itQB5vI879+OJmocmzeBTOxhKRIh9005hcwJdwFRdATAWXo6Y5voLv79CKW5vJJB6M26XiCzNuI5XjyzSNa9R5/gA5QXm5QCRQmo6ZQTm+wNO49pbjV+HIM1T+XtAbbt1UKivMx5vSO+0tf6/gRqvtdMfhgLj+CFgGgItbJ8/7mOw0X5itPJ1df+s9HMdfp0IZOTx0mHZG18La/qAMB1vbA2wHR/Bpq9e+EdO8P87eOrwlaCcVH8+pSGOdxK6AwSIoMpzL8vFdlsdONA94rogFZlGeY+gQpwFDy1hDkwCwwgU1GT+o8z8fIN3dXQ1GROIXkZ5LYiLMkkh6oJRZbCmzAA9Xu2z0KLPY0i2jwlAEc2j+RA4xFr3ZuhePMn6rglpyWRX0wPuzRfaID8JlelnMH+IvwvziCX6ZIBz0DD8N8p/CZ0H8U97Jg3h8cH8Of/esy7udCW045Dnc+3r1Cufr+bXOd232/BUG7YWxJ5XZPC2qYlGVVZqUrDwe/wXBvqB/",
+  "createdDate": 1600708288338,
+  "descriptionMarkdown": "This compact circuitless Kovarvex Enrichment blueprint is self seeding as long as there is downstream U-238 usage.\nOnce seeded, the first centrifuge will never lose it's U-235 regardless of power fluctuation/outages. The other layout can under just the right circumstances lose their seed, but it's rare and it immediately gets replaces by upstream centrifuges.\n\nThe U-235 and U-238 can both backup without any issues. As soon as there's space for more U-235 it will resume processing. The incoming stream can also go dry without causing any problems. As soon as there's more U-238 it will resume processing.",
+  "favorites": {
+    "7LAcoEipbUWAtfS15LTVlDlTZui1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+  }
+}

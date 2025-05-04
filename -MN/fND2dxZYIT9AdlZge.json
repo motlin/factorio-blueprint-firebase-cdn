@@ -1,0 +1,36 @@
+{
+  "descriptionMarkdown": "Requirements:\n\n- Stack Inserters or Filter Inserters with at least 3 total grab capacity\n\n- Startup by hand insertion (60/80 recommended for Krastorio 2 / Vanilla, respectively, for full uptime\n\nFeatures:\n\n- No Logistics network required\n\n- Never loads more than the initial amount\n\n- Perfectly handles Productivity modules\n\n- Proof to:\n\n    1) Power outages or slow machinery because of low power\n\n    2) Backed up output belts (had problems with the circuitry with this in other designs)\n\n    3) U-235 from the output belt going amiss; will fill itself back up to the original amount you put in over the following cycles! (Unless the total U-235 is insufficient to procuce more or you take it directly out of the machine itself)\n\n- Indicator lamp shines red while U-235 reloading process is still underway or it is refilling its initial capacity after you took U-235 off the belt. Also persistently shines red if there is too little U-235 in the machine (if you took some directly out of the machine). You can remove this and the Combinator it is attached to if you dont like it.\n\nRemember, you can use regular Filter Inserters instead of Stack Inserters, but they need at least a grab capacity of 3! Just replace the U-235 \"out\" Stack Filter Inserter with a Filter Inserter and the \"in\" Stack Inserter with a Fast Inserter (same settings)",
+  "fileName": "Kovarex47.jpg",
+  "image": {
+    "height": 827,
+    "id": "2CrnqZj",
+    "type": "image/jpeg",
+    "width": 840
+  },
+  "author": {
+    "userId": "A0Xj6olFkOTcTOpgQxI55Dppp7J3"
+  },
+  "blueprintString": "0eNrVWetu2zYYfRWBv7rByqyLpcTABqTBNgTpLsi6DcNaCLREO0QlSiCprFngB+hb9Nn2JPtI2bGsUIopB2v3J4guPN/98Ii+R4u8JhWnTKL5PcqISDmtJC0ZmqPfMKN5jr+64ljIktPS8d+wN+xXgRc5cf6i8sbhZFXnmDvf0VwS7lwyQTj8IxzKhCQ4c8ql84vE6bvWoxc/XP544gTO99fnL52L85/PLy5f/+H8dO1cvnZ+v3z1ynl5/e351RdoggTDlStLd8Vpptx7j+bxBN3B3/UE0bRkAs3/vEeCrhjO1QvyriLgOJWkgOUMF+oqJUxyuqxXBKllLCOA460nTy6sOSSgLlw/mLVW+geszEhKM8LdtCwWlGFIXgsgWL+dIPCJSkqaAPTFXcLqYkE4+PaAs4TEuxLcEFXJpbsguQQjVSloUyKdEjc8memsuGE4PZmBoYxykjZv+BMEeZK8zJMFucG3FFyBZSnlaU1lQpiqZZJRXVM0X+JckMnDYw4lTG4wyxIFAm6Cv5LXrTe295tXizIjKrcqRZ2gfMug/KGgDPiBJX7wf0haaBnU1DJpM0t8zxI/GpqIR/Bt9H3s0FyQDajKZ6aBhLq7pFzIxG62FZdIrEhwqi6KCnPt4xz98+EjrCprWdX2oNUd+FYzmSx5WSSUAUbTC+vGJmsC1G576s+KE8LanKCIL9p1jrpsJ1pde+Hwc/+0+/wtWPeVOU6yrrG4i+7tr/a6zzWdHeK3B3ZNTR7bNeFQj4fDg/vQJ8/fJl/rxz0EsT/9Jn7oUIiZIMwtY6hh9LjgpsSf7ideVDmVsEObdphNxoMzyLgB6Wz0jhWc6hp+HnTrTU2iYYgGg1i7Dw1Idfe8K28xJ+9dwjhNbwoAcStepkQIZLLnWfGj67fLsNf40edKkLeUyxruPOA2b7iqa/spUpd4fVTD9zNc0EdE3k6jCKVZ3aVWtS7dSNdBFbFp5MNVhOrDpFwmZUUglXpF8HRX2+wbXeLXcU9QE1WjPLdq2Fx2IPbylnBQ3yTRGYH6/q2GZ2rKXtDJ3kDadhy+aeVPxNqqd9c2VCKI3MtE87S5s41B97CVi8c0es/e2xUFm9qby2mq5k56Yg5fegWRNB1Wb7aDsMN9Bn4SRGEku1K74E9rtNCX41SclVBTWmhLPMcoIq+jy2uYUr7iQJPZk6Lo8d4AldzGqdnVZDAav4FHj+yZDMS2EbVNxIaOejKklrqxofHIYMuKMZuXNzIDLXKYs5wKs4873VSQTIGQHMyCdHCrMifDjsZmKeZPLTG9/dhNkJ5t8byDateMoykxvn/EAET9AzBgsXN+0N8s06HYTMjh+NkKDzIwG29gdsjw+pH18PpDMTw9vH48+jTnwJyd2invoDdh/n+nvP2OevnmUx9MeP7z7Hf+mXWDTQ9qsP55D6ajj9YMPWAysCNNUeA8d3NcVMPfkuGzSOG+Ly7M7uQNZav9nvJM5xi1IGAqL/nwR4dBn3ZPi/qOHgJrgm8najaq4sERu9hsBIkF4diDLd0JJsTZaERDz4JW0Swxb/0GNEE5Biy4d9WcZDgvLppyOhdNX+YkUz/NwHeEaHBOvTAOz+Io9qbRLFqv/wXtuuVr",
+  "createdDate": 1607045538123,
+  "lastUpdatedDate": 1607055805227,
+  "numberOfFavorites": 2,
+  "tags": {
+    "9": "/version/1,0/",
+    "0": "/general/tileable/",
+    "1": "/power/kovarex enrichment/",
+    "4": "/general/compact/",
+    "8": "/mods/vanilla/",
+    "7": "/mods/krastorio/",
+    "2": "/power/nuclear/",
+    "3": "/general/beaconized/",
+    "5": "/production/belt based/",
+    "6": "/circuit/indicator/"
+  },
+  "title": "Kovarex setup (7x7); tileable all directions / beaconable ",
+  "authorId": "A0Xj6olFkOTcTOpgQxI55Dppp7J3",
+  "favorites": {
+    "s5KhWKIJu3QfhBoJpHqLzNFIWE63": true,
+    "oze12jqqGNPBaRHVyEruuC94eyw2": true,
+    "Vv8XQdy9x6OLqAqeIjSrBtb8KU52": true
+  }
+}

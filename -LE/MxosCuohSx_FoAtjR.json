@@ -1,0 +1,29 @@
+{
+  "blueprintString": "0eNrlWtuOqzYU/ZWKxyocYRvI5aFP/YKqb9UIOcGTWCWAjEk7HeXfa5tciMFkm5mjTtuHCeK22N6XxdqbeQ+2RctqwUsZbN4DvqvKJtj89h40fF/SQh+TbzULNgGX7BgsgpIe9Z6gvAjOi4CXOfsz2KDz4vkt1baqKyF7t2HAbUW1543ku3B3YI0Ma9o0/MTCWlQnnjPRQyP+aI2sBN2zHkh8flkErJRcctZ5wuy8ZWV73KrHbdANq5HKC/uDDI0zFkFdNequqtQPV0ghihbBm9rGCj3ngu26k2bRFigGg67AmASMmYIxYzBmDMZMwJgYjJlCMeEhWkIh4VauoJBwZ66hkPCY6zSGYcJzE4GryKOIEH6gp/BCBWOF+S3pUPG35BE3HcO9V1LOdpp0wl113PKSKvYYgU9u6ApbEaoUVZFt2YGeuLpeXXRBydS53NzZ6KOvXDQyG/DXiQvZmmVcHWauCGn5Jg+83AfdQxpJNYXjSO8dayqMcZvgJ3Vj1cq69YDeFnT3e4dbvykr21Jmr6I6ZrxUOMHmlRYNO3fPLTvPmRUg/SNY3qdNrvZQen5RV2PX6aU6fR5zfJ9ulEkhLxsmJBtzeuwMaTyGnFjIr7xQuFMPINcHoEHOjEd5x8Wu5TI7VjnLqtesqpkKirlDZf/17IGWeSYYzc115k0KdqvTb+mz992E/7rlQU0g95WY/Z41ej9GLhPvdHpkOW+PISvU84SytK4KNuV/7GVgYllkW4zt82uXxXe2fp4s6BOTpWewyROTMRpDGajWLkXLPiWdcGS5ApvgLS7L7cTQVe/dfGGoR7QGPtQST+u723V4mIiXa17GXLz2rko8yIp/pA4txxFHDuEILGsnlupXoSuXLegDtkRzbbEchV3GYXixRf/GWrOJEifOWvOrIUy8ayiC19BNsUwIlseGa5QfeoJlqFfOEx6+n2qY+tMLVAb8xa6h6Y5cV2DkyhwDPVJ6bQcynUmao8G8CyAquDwcmanSCfGJn2nPO87H5Ceju4MOVcM0THYPaKiW2auo4McZArQD9wiDKR+3wuyCMubgZD4JolkcqEM6pZjclJj6Fjb6nnVtc9GXqmnbuPnhwcNXu3VgBah3EHEvH+lBeXKy0skg/QbR7ds0k6ZbHU/dg3sM+sZSw8aBTP5Us1Ky8A9aFA8Ykd/Aj6ryCGUrBOubkkS9id9zlNEeZRQtAaBt+R4C1XXN0MR16ryVZ6c1r9HCy+GL0Drg6qzwXfbrWVCpu9TaPQnC1iTo48zmN2KZZDdW0m3Bspw3enujMKY4T1aZWd5lfrLoFpvpxdYsh1v1qxefXehJ2X55H//CasrFDz+zWtWmxik6h3Wj7b353ZpVUq2t4/UqImuMErVBcUpSTKI4XS2TsUiSCDaBQ8hrAEdQP0HKRn9FCLeskBNzjAgEjOHAxAuYzJhcRZDJFYk9xhDYZfPXKpqxzhye4iSxX9km46sTE0IptwdFgcY8mviK7OuHiAjYcP43NTdZTmpuEjvonqTDT4KO7zJ41khHVpIW2VWFZC5HPBMt9KQozLB5XxwB4T7WVZKV3SQ4XLmE00z0SDNfqMv/Iq28zSN2Z0Zc+oWs5nbp6H/VpJPpz0DEHqXEkcvha3Dao++Z9bN74C/Q6NoUYze6xPVxKY7m9anRZ7SpkNYS0qJC213s04INXerwIPL99pVe+cJr2t4NvV4W3do3vf/0Wai2WMncYTegNFPTKZnVEqMVSSP1Gj//DU7JVd0=",
+  "image": {
+    "type": "image/jpeg",
+    "width": 1831,
+    "height": 847,
+    "id": "elmLmYX"
+  },
+  "lastUpdatedDate": 1528336698945,
+  "tags": {
+    "0": "/mods/vanilla/"
+  },
+  "title": "Repair Depot",
+  "author": {
+    "userId": "Dpao822gmUMHlnAiFtlAA14dovo1"
+  },
+  "authorId": "Dpao822gmUMHlnAiFtlAA14dovo1",
+  "createdDate": 1528336698945,
+  "descriptionMarkdown": "I put these in my outposts to resupply bots, repair packs, and replacement equipment. (mainly for defensive equipment)\n\ncouple of notes... \n\n* Needs a 2 cargo wagon train. At the base, the first cargo wagon should be filled with the items assigned in the depots, second wagon is for carrying stuff back to the base. It should be emptied into active provider chests.\n* All repair depots should be named identically. Train should leave after 2 seconds of inactivity.\n* The combinator next to the train sets what items you want stored in the depot.\n* The combinator next to the roboport sets how many bots you want in the network. (By default it's set to exactly 10 logistics bots, and 10 *inactive* construction bots. (When construction bots leave to do work, it will load more until the work is done.)\n* If the station needs any of the items that have been placed in the storage chest, it will automatically retrieve them instead of calling the train.\n* train will not be called for trash collection until there are 50 or more items in the chest. (a single stack of 50, or multiple smaller stacks that add to 50)\n\n---\nI don't expect a lot of excitement over this, but a few people might like it, or gain inspiration from it to build something better suited to their needs.",
+  "fileName": "Repair Depot.png",
+  "numberOfFavorites": 10,
+  "favorites": {
+    "3W81lziJULPXcOPam3x4pANeE7g2": true,
+    "nQfAZHqfdedgCdivt9okfzA4XZB2": true,
+    "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
+    "5zHH8RTrpCfxg5Xv4jiu9UJMJJ83": true,
+    "xsZ1ACrRRMU2J50EsFoXdBKuEy63": true
+  }
+}

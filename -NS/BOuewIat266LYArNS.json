@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "3U5r1SfexDRcBsPy8uMyoklyseH2"
+  },
+  "authorId": "3U5r1SfexDRcBsPy8uMyoklyseH2",
+  "blueprintString": "0eNrtWVFvmzAQ/ivIjxOpMAkJQd1eqr1uU/vYRciBS2INbGZMtyjiv88GtaFpQgzL0lTrSyT7fOe77zvf2WSD5kkBmaBMomCDYsgjQTNJOUMB+lZIS5Bf1s+CMEnl2qIsU1OcWfd3kjOY3d/NLMLip+HtzIp4OqeMSC5yvVCuwEpgIa++s5sV5zlYwCIeU7Z8lC7U6sTKQdldNLWvkI1oxFmOgvsNyulSLdMuynUGyrcHKmShZmzESKon6hWDz6hUeiyG3yjApd1B80tD0+2kedPQHJYzG4GGi0LtejVYh6xI5yCUU0/aMUQ0BjHYBq0sZzynNfwbpM15av0aBQM8uvLULjEVENVy10YKHil4Es5hRR6o0q8orKyGShZXlnI9u6Ail+GLiKiEtBGOZlHHomGXRKcEdhw9TDMiKgcDdK3W80KqRAiNAbqrjWZr5VXBZLgQPA2rZELBgiQ5lPWmrI6t8tjVPwLiJoZUjYZqJRVRQWU1xOWsLDVbOzC7HWEevirMuyB/agH5oLFO8OID8OIdfF2Fr32QDHwI/mHPLHf/BfytaZmDtmGudFuDbUjWKU/EQcp2GbOfiUcvCLXRUgCwIyerwbzJcryzrW92Tkc9E2X4OuXQc05A/u35y6HXsxy6F18OD4Fc5+zFFcZxTyKGb5YIfHkkTJ58JILKVQqSRoZ1xzHkYWv473oUkGjVaFNbagbKI56BYqa+rH/oQU1tvAP+frcWgQ2rk9+zCeCz3xYarWDnaHw8z5WtY+few+GkvW9j94j8SN/HIzPOpz0LofNeCPeg3LMQYqcnC/h/fyadCP/t14AUYlqkA0jU7kK1o4wnsI8B9UB9xoGhw277I2HcLvbaxTqN2uTTI+reSzD3ouX27tv+e9vu0LYNSzju+cqfnrNtPzJx2lq+tXqScuKbvtEnXcrOkU4+bhd7hkkw6tdC/MtKgus3lATY7dR8nHaep0fuc6Z50PMTw/TN3uc01q98o1AZUoUaNP7GsVFC5qACQF9VQDyX9V8uIKyMRD/IUt8qHkDkNdg+Hk2m7mQ89vyx75flH/vq8J0=",
+  "createdDate": 1680614075327,
+  "descriptionMarkdown": "If you want to monitor the state of an outpost from the base, and you have lots of outposts, you can't put every outpost on the shared circuit network. Instead, use this circuit to \"pulse\" the state and capture the pulse back at base. This generate a pulse of 3 signals simultaneously for one tick, and you can detect it at base and turn a light on or off.",
+  "fileName": "Screenshot 2023-04-04 184358.png",
+  "image": {
+    "height": 716,
+    "id": "7bktfi7",
+    "type": "image/png",
+    "width": 706
+  },
+  "lastUpdatedDate": 1680614075327,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/0,15/",
+    "2": "/circuit/indicator/"
+  },
+  "title": "Pulse encode an outpost's state"
+}

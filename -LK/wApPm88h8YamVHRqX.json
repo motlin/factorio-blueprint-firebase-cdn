@@ -1,0 +1,27 @@
+{
+  "authorId": "XUnGYNeR1sZXdp74kqbYBNapdxv2",
+  "blueprintString": "0eNrNVtuO2jAQ/RXk1yYrEthLI7XfUKl9qyrLSQaw1jfZDm2K8u8dOxAWEqCL+tAXFs/YZ2bOmRl2R0rRgLFceVLsCK+0cqT4viOOrxUTweZbA6Qg3IMkCVFMhlMNFa/BppWWJVfMa0u6hHBVwy9SZF1yE4BZ7jcSPK+mMfLuR0JAee459BnFQ0tVI0uwGGSAklDzRqYgoPIW8YwWgIGMdvhYq5ACAqZ5Qlr8k3UhuzOw/FphY6j5w+MBLCE1txg4ep8SggR6qwUtYcO2HF/jkz0mRV8dcVywrrh1nt6giVutUiOYh8BNUMezINU8HKRhNmZYkM/4RDfeNBOIW259g5YBtL+RfushTYuJNcrTldWScoUYpFgx4aDrQ6q+vJh0Fj4s1G8V4XhCPipuq4b7eMyCemsLoG5fxCD5BdTF+eXkGha2TDcl7uJG0430zXpxUeVTeZfT8h5R/07hq3o4CBj0qDQmow2gzjEF8uE+od8hZT5m9bJCE3JOSbAcUjJWry2TkpUCUmeAvYK9OKzzbprxQ8iB7nvZPtL8NJ6o7lhbMKPCYCNzPQLdMlydlDtquK82+5kJC8x520hkIFKCuEp72HN590TF5kaeThLBxdCWrHqlWy2aUBw2y2BbC10yIZBGTAfzwu/6J8Xl2JqNVu1hxoMD7KjEDd6NjsPzaNGKSmYOpvBrsSc85niT81DmEFCCc2wdvF+jd8bd7DdY/UCmOujxvg09/18W9Kd/vKCDAvcP9fkmXYya7cL6zt+zvkeb5DToMi4LjBQZLd78J5IQwUpAisgXq+smljfruzEhW2zRXsyX5zx/yT7On3Gu/gCYPQpg",
+  "descriptionMarkdown": "This small set of combinators will raise an alert if a signal has been zero for one second. This may be useful to monitor the production of an item, raising an alert if it has been zero for too long.\n\nThis is intended to be connected to the output belt of a factory. However, it can be connected to anything. The signal should be connected to the two deciders by green cable (these are already connected to each other), although red is fine as long as your signal is not T. \n\nThe blueprint has its signal preset to iron plates.\n\nThe circuit is very simple and can be easily modified. The bottom decider will let the timer run, and the top one will reset it. The speaker has the treshold for the amount of frames that the signal has to be zero - this is preset to 60, or 1 second.",
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/circuit/indicator/",
+    "1": "/version/0,16/"
+  },
+  "title": "Production alert circuit",
+  "author": {
+    "userId": "XUnGYNeR1sZXdp74kqbYBNapdxv2"
+  },
+  "createdDate": 1535386801993,
+  "fileName": "blueprint2.png",
+  "image": {
+    "height": 388,
+    "id": "xVn88fR",
+    "type": "image/png",
+    "width": 400
+  },
+  "lastUpdatedDate": 1535386801993,
+  "favorites": {
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "authorId": "wuobWc9yGhffkyLhvoB8EoqS70o2",
+  "blueprintString": "0eNrdWNuO2yAQ/Ree7ZWBxLlI7Usf+hHVyiI2m0XF2AKcNor87wU7zSaxWYOzqtR9icLtDHOYGQ4+gR1vaC2Z0GB7AiyvhALbHyeg2F4Qbvv0saZgC5imJYiAIKVt7YmmoI0AEwX9DbawjSaXSMJ4fJ7zthK1zxGgQjPNaG+5axwz0ZQ7Kg30BUDpStD4F+HcgNaVMksqYc0ZmBg/LSNwNH/g09KgGz+0rHi2o6/kwCppp+VM5g3TWVVTkXUObLVsaHQZkJQUmaJC2fm3QwavuNh7YVLpbODugUndEP7mcT8jlrQA/ZaUJpbnxDbKmkiirSXwBbT9uKC5taEsKLQ/dukVJ6zoCGtbS/cdT+hitqQFa8qYcoMmWR7XFafvMYb+MuZjHl6Z7tr3HQg6Noj9DnJxfZAjMItAGDQOs7wN5SEAug2ogsmeHXsCQ7h0Cg4Gwa2m4JIguPUEXBjaxusE4H+ekCOOw8TLczQRwRAGpiqclanoPlPxXQdOHJkKUZif6ENPuGp03cw4zQ8IjO/zwgKP3nEDvrA7y95nL+eVohcvXghXAwbPY2cGJRF7ms0iMuAmcBV6eF2iDSP7Vx1bYkbKWNoRkkzXHLj0xlx4Y6bemMgbc+WLmXhDrn0h/Xe58YX0JhMlt0mQvxImnKkQL8+5MEiFdDwVHgrpse3CuXLpoRrsLLkIhckah6pBgSLLcUOhRZjo/jxXPPLWhV5SCXnrQj84b13oB+erC/3QNkGqwRHBOJkpjsJeMSOvlrtMHaQudr1rYJDfjpTDKEhVf/ZXrrNQ4kCx5XvBjGutMeZuZdgjF9M/Ea1fZ9D+HPXfbrZXX4ciwMmOmg2Bb7JSyoTnT9N3oFJ1217hBK5TvMY4bds/zpErVg==",
+  "createdDate": 1565525917902,
+  "fileName": "DeepinScreenshot_20190811141508.png",
+  "image": {
+    "height": 673,
+    "id": "0TixJcn",
+    "type": "image/png",
+    "width": 1096
+  },
+  "tags": {
+    "0": "/train/crossing/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Safe rail crossing",
+  "author": {
+    "userId": "wuobWc9yGhffkyLhvoB8EoqS70o2"
+  },
+  "descriptionMarkdown": "Rail crossing that stops trains when a player is nearby, but also stops players when a train is incoming or passing.\n\nDemo video: https://www.youtube.com/watch?v=wkExJOErxYw\n\nHow it works:\n\n- The rail signal on the left-hand side detects when a train is incoming, passing, or stopped across the crossing, and locks the gates in any of these cases.\n- The gates detect when a player is nearby, which locks the rail signal on the right-hand side.\n- The chain signal makes trains wait before entering the crossing if the following block is occupied, instead of blocking the crossing.",
+  "lastUpdatedDate": 1578698374000,
+  "numberOfFavorites": 22,
+  "favorites": {
+    "5zpbq4m4qNZUUs8tij5bzeiAK8J2": true,
+    "ZitjyEzMRLawAMlSQOUEVeNn6eH3": true,
+    "JnWz5y2pLHQSO06pdND9IFBe48D3": true,
+    "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,
+    "kALwykyXyrP1NJIsZC2UMuo9ZNs1": true,
+    "uMw2umSK3oRGbq68p8fE8xJLsmO2": true,
+    "KMzOmkiUNCO2aJMrPzkH3pOjNLy1": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
+    "9y7yzBowfBZdf4Q7Vlkp34re2Hg1": true,
+    "1QDGnqMYZgTIvdkDcUagNfUSRCr1": true,
+    "G4BmNu3vonVRx5aKJSZVuDDhw4o1": true,
+    "4x3FiHGpbjOLt9JjvcIZrfgaO9i2": true,
+    "YoKyEyYV12VwWZZB4UQx6csnKIR2": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "8h1LWFmsKcVg3fY3GWXEIkvo2IC3": true,
+    "K4UzHXqbSUVvuPWzb7OjCO08B8F3": true,
+    "6I7YiLOFw5VIiIrhZjmzOaIcKsx2": true,
+    "CIZhC6UO5xZy9zmCcjGL6jQB1Aq1": true,
+    "n7nbBTJbY0cBv5e8926tF16Rul43": true,
+    "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "fileName": "factorio 2018-11-02 23-31-04-67.jpg",
+  "image": {
+    "height": 1080,
+    "id": "nZHIuaa",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/0,15/"
+  },
+  "author": {
+    "userId": "lq21OXMYllaYMEm2xypGLM9Z7AC2"
+  },
+  "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
+  "blueprintString": "0eNrlWd1umzAUfhdfblBhE0hAW6Ve9LLS1N51qiJCnNQafwLTrqryAH2L3ezF9iSzISGE2MSmaSJtvagE2J/POZ/POZ+dVzCLSpzlJKHAfwUkTJMC+N9fQUGWSRDxd/Qlw8AHhOIYGCAJYv40xyGZ49wM03hGkoCmOVgZgCRz/BP4cGUcBCjYlGCJTRokP1pT0erBADihhBJcG1I9vEyTMp7hnGE3CNxUNpu2bTBAlhZsbprwhbkplgFegG9Ci63BZtA8jaYz/Bg8ETacjVmQiOJc4vMTyWnJ3mytrkaY30CFVvKgWY3tttBtGcZNCwM2GKPVQ21ogkPuRsGRIP+X43k7HmReD17xRTsxQn007YVoHaHRhcNWnpO8XpihiwO2hpyyb3PSmLggeUGnugGsCaxMYBZmQV5Z6IOvbEJa0qzUgLyvIbOXaRXU6SJP4ylJGAbwF0FU4JVeYA2AJF/HDIfkYUlo9QglLNiNhUEYlnEZicNvXzhtAkQh1w3FFZD5uswxTlS30ajBnZGliSMGlpPQzNII77vhbtxwNm6oBBq2luXPqBva3c/eXuQNsUu2xCVHXH/2vDEntTO2Thx5jdl94UrMcPUSdBNaezdB0Qcm6B3PpgJzDPVJt3UKthL5ckAi3x0xkd3dDYOkGwaivZE9FcDt36YTtQIx3haInNDHGFOWXb3NrCkVShthi/q+vXDf2gvbmm1Ch7WtNMOM68oK8GlY1dagU4skb3+wiIWJVi6imgB0ymZ5198sL8/cLN13kdKpmIqp4+mmji2poe7Hps6NMHUgPHnmjLqBHu0HWlnxoP56hw6sJctErtXXPsZ4Tsr4kOYw4Vrc63Rpp2udopyDcFjThqdr2le7hcKx2F+nWHw5ZUNW6rTwAB+teqLcuYX8oWH8obPxByeWgMEh5f72uAxCae0Qjj+glrpwUgJtLQJtSQK6pyMQHSP7jssd0uQOqZIzGkYOOh05nTsHu8PNn7ffZxZSnk5LVlS30NHsqe6GFxGYq3f5Zq5v3wbdvS2ikjnWLPgcsKGtK7OquVlW687xQU8FSOKlfShbuyi9vNGVkjK/91SktashPw/YvVdyDSm74TjQjKGimBpy6rJOeei6/4hqcX3EanFIdHs6xzIkuzCDnhZR8EAy/A/n4arrK0de9cSLrEEN9oTi5x+5MhTQZ6hrox6ivX4Z3F1XuhHgoI1gnU0FT5xzMixuU7aeCu6OR0O5255Bs/SZMVc8Exo+CpTT5vjJLxpFQLYiEGrhiCnf2N1QPoDx6/6K/OftF9DIQDhR07ZopBiE0ToIjiSYuhrZq9DGQixXE6uWj96KV5nqF3K/9Yu8AZ6YPq4TdjJGaAI9a8yk+V9J5dsg",
+  "createdDate": 1541194325804,
+  "descriptionMarkdown": "red wire input signals:      \np==0 shut down no matter what.   \nm!=0 run the build no matter what  except when p==0.   \np>=3 may the power to the build .   \n\ngreen wire input :    \nthe amount of output product in storage/buffer \nthresholds are 50k and 1,8M ATM\n\n\nother charge needed to run the build must be in the range of  20-85  \nif  charge gets under 20 build will shut down to prevent catastrophic power down spiral in the base   \nthere are 2 manual switches :  \nleft is manual turn on   \nright-low is manual turn off even if conditions above are met   \nthese 2 are for cases when manual intervention might be needed and are radar map friendly  ",
+  "lastUpdatedDate": 1541194325804,
+  "numberOfFavorites": 0,
+  "title": "circuit that helps consume less power in beaconed or other power demanding builds signal control + manual on/off + emergency signals "
+}

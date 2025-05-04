@@ -1,0 +1,20 @@
+{
+  "author": {
+    "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"
+  },
+  "blueprintString": "H4sIAAAAAAAA/8Va226jMBD9lYhnkLjlUq142V/YD6gouKm1xCAwu60i/n25bROCL2NP0j5Vau1hZnzm+IynebkpyiwtNs/JmTBOOSVNcj6z9EQS54WkWckc\ntyqb/g8lS87vibd1PxIviDqXcnIa1g4/E6epCMm9U5m3BfEix83KlvEk7LrOna2R96omTePxOmVNVdbceyEFv7Eejta3nZvTmmTjr2MzCxHawuRDjPYBYyFQ\nRdHwNPvtUdaQmpN6udNff3pn82mJ82nTkNNLQdnRO6XZG2XjYV/v/8xev5lW/RZal8w7krT2/r4RUjg3wKnqHjP9Z/5Q/rHCT3yFHxEa0WBsWU7qY93/PZdD\nIVrkwuUfY1isarnzafBEctqePFL0y2qaeVVZEKGx0LAiIoELNhZCNBoxPgQqH/S5W6VOVQLR7WIFj/kPhk4ggk7Z8gV2DE4xUJ8ByCcfAGegwQhsUM9ZgZqz\nNJ4E8nQbeDKb8TtjwvOvCO/TNARaAYjiLHAqR/3e3Jg+DRO4Dpc0vNKiT8Il0ablfrh8/TVtuKrYD4AUWgStRMro486YFqJpG4AVFEH7c0AXIyG80Hb4OgP5\nD6yc3RViFhEDgBw/jL3HY9oaEKVeUcbi8zKhbqFDt3kHKJFgMmYUhA+IQS8BEAYgSVTtx34/Wu2P9axjgVCFWjE3piCRCVIR4kTHjIRYAxpZCamLpQ/iQtXT\nkT+b+k9HTUYJy4hXDYQaWfctiiOAnIA6fnn4MpGptic4EXveW+MDUDEWIDcSq8ird9bQqDt0cASimXVu+GIvYEgP7g50aBsHLg1JfGDoaZol3X4fjtyRn8MH\nvYlF02mh+n9N9w8g2SXk7bVHOHoDhYDmdtGTo9Btq2Z3nUZEO786052WGS3gJYXq9oFQxT5VSSSajgxR1+hoIb6bioi/WkSgNYQwdnsJcU8FYSi5EdAGXNug\nDkwH1S1aPQgbcEP1IHkHgCF8/03qYQsuCc0zhw51iAHS+oD0hHx4ICHv0Xf/HnL3g/052E4BRl9gz4Lh7XdsSFEYtrV2ONxTO+zNtIMFvKRQDRAdmhYbT0jx\nsJxFwNXDE1o93HwZIx+uhwlfox9Q4cujtxcQT3cUEIFBI4cFOODuDoRNhP38DTZj1BWAbPym3RdiZMQwU/4WHRHAXyFkEYLhh3yGkE3N5QSNGIvoCRbb3un+\nLQZCtRFEjwD1RO8PGAmoEY7cc2tJcZNL7HtEZCYqTHDWr+xtDCsbemRpkZzn0Pt9jjtPLpcE0G/pE/A+DMjnBT+Llmx+Tauc7kdNeFuzzfMPwvJ/MvP49sgm\nAAA=",
+  "image": {
+    "width": 565,
+    "height": 1065,
+    "id": "hklxcKp",
+    "type": "image/png"
+  },
+  "numberOfFavorites": 4,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bp-blue-science-fs8.png?alt=media&token=0fb8c7bc-babf-4716-9273-17022e872d39",
+  "lastUpdatedDate": 1491337159248,
+  "title": "Beaconed Blue Science",
+  "authorId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1",
+  "createdDate": 1491337159248,
+  "descriptionMarkdown": "10-tall production stack for blue science packs.\n\nInputs:\n - 1x 50/50 belt of red circuits and steel plates\n - 1x 50% belt of batteries\n - 1x 50/50 belt of iron plates and green circuits\n\nOutputs: Blue science packs\n\nTwo things to note:\n1. The output is on the opposite side of the inputs\n2. One input belt will be filled on one side with Filter Inserters. You will see what I mean; the filter inserters will be output on the side of the belt that is closest to the beacon row.",
+  "fileName": "bp-blue-science-fs8.png"
+}

@@ -1,0 +1,22 @@
+{
+  "authorId": "CgHUgDuTChSiliL1pd4se7eARnS2",
+  "blueprintString": "0eNqdlsGOgyAQhl+lmTNugKpVr3vd2x43m42tZEOiQAA3bRrffVHTpKm2AicCyje/PzODVzi2PVOaCwvVFfhJCgPV1xUM/xV1O67Zi2JQAbesAwSi7sYZOyvNjEmsroVRUtvkyFoLAwIuGnaGigzIG2JUy61l+m47Hb4RMGG55WwWNE0uP6Lvju7NimxJQaCkcdulGOM7ZOK2XNxAXZSGa3aan6Wj0Ac4DYbjVXa+wt4Hs4k3O31u7YJKZyp5y7a5WbjZ6YTH2+w8QHOyn0VjH9GHcNE3T7bhxQLeu8TVv1q68TX+0RN0Kw7ZW9WPNbSIVkYnu8enEBxLx8MajkRYg187w8UTYwiNrCaPxCTRlUq2OwxJg+F7/xPNYk+UrJ5oHoujq7hDpK/r4opImkc7JWXkPeDBpji4V3u1akoiE2uh2V3A03Vd3f0iIGhrB3Fr77Kb6KzZffKG7T5k3UzS/5g2M6E4kLLIyzJzafAPCiTYwg==",
+  "createdDate": 1513886527676,
+  "image": {
+    "height": 591,
+    "id": "wxbcLyJ",
+    "type": "image/png",
+    "width": 833
+  },
+  "tags": {
+    "0": "/belt/express transport belt (blue)/"
+  },
+  "title": "0.16 compressed blue side loading",
+  "author": {
+    "userId": "CgHUgDuTChSiliL1pd4se7eARnS2"
+  },
+  "descriptionMarkdown": "Sideloading belts in (current experimental builds of) 0.16 tends to cause them to lose compression.  If it's desirable to feed two different materials to a production unit, this can be troublesome.  This is a workaround -- feed each input splitter with at least half a belt of that side's desired item, and the output should be a compressed belt.\n\nIt's not particularly compact or elegant, so hopefully this will become unnecessary again in a future patch.",
+  "fileName": "Factorio Compressed Side Loader.png",
+  "lastUpdatedDate": 1513886527676,
+  "numberOfFavorites": 7
+}

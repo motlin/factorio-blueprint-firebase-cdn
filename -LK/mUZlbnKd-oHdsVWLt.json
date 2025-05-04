@@ -1,0 +1,24 @@
+{
+  "blueprintString": "0eNrNWkuO4zYQvYrBVRJIHfGjnxFkEyDIPjPZBA1BlmibGP1AUZ0YjT5A7pGT5SQhpW5bpkS3qZlRsrGalqpYn1evSnQ/g13R0YazSoDtM2BZXbVg+/szaNmhSgv1nTg1FGwBE7QEDqjSUq0ET1nltqJuwIsDWJXTP8EWvjgzgk+Mi05+c5YdnnAPnNJqJI2spD+OJLGVJBxJkpdHB9BKMMHo4He/OCVVV+4oly5dpJXLh6Nw5UUpbepWStWV2lFq8hxwAls3elG2aEqQpZJgTgmei/1EA3rT4ACZSsHrItnRY/rEaq6eyBjPOiYSeS8/i+0Zb0VinzeFFZEq4EC1KJuUp0LtA37ob7/uRat0V9AkZ626gq3gHXUGJxLlREPz+zf/AF6GnSuaKftbJQPVB6f5OIFMrmCf3sHemVtKk3RgCAMASm0xhGlI/KFPyK7/TOXnA4kjD8cI+vICSYADhD0SRKE/ly9imXQyp8Q/K8lpxnLKXRnnHav6OE80ua/ZRw++dC1nfIgR2AbzaHjVeUFDuwAO9Inykziy6nCNCU/DxI9Ssu5E0y2DWnOSZnaVSPa8LhNWST1gu0+Lln4ZQIQXwKolkvBwAFJ6buBnJmPBxYcyLQq3SMtmLlMP/pAr2OdqxVqd5kXe7lqa9Ohvh/o0hNQuFOHZmpQzcSypYNlt/MJzVAwxuSj6TNCm2VH53VKlJrlER5VQ3VD+xgrfL0DtoNwGlt47aPOvwQkNAY8sKQfNKYmtKAeNUfw/Y5x//vp7QfZ+Xso388WBvxCvQO9s6JvH7/SCt1ry9NyQ+dzsWSEov2v6y1TX5m5TpIIO4er6MQB5njeaBh/vL4FwgnBT4/ZNAbqMaiXNWVe6tJAbc8k5TS3nDjPbqADNKbQc27xZJdiWBJEha8F/xYjwmhG/W4MR0Xt1Eut4ca7lTRQJiSVKxiC523z/tnVYtxYZ4R7r9HEtGWhr//bj2BQVfwT1NPvkDlzgsqqlXP5xo3gmzI9uTzNlndOk3icjSEErQvU0n2BgcipY7BRa2ylfR4SxDVyGKsbrys2OtBU32B/awBZGpl0ju12R1a6h7nxoMiO2Y+TZ+QZ5trAwoiL4uqhAE97wDIFBcKlPcGWfpvOQlnuji+guCC7DPdE5Bb/TXkxEirCVlVZ1giZsbmpyiCxmPrw28+kdDJnmO7S8R5GVnUI6nrARL4EdsRIrwOjEik2tEll2FWxlhp5iY5tBli+ws0dmKF7KhWRlLsT6KINjQ2Dw4p6F1+5Zuk/I6BO0oko7yOkTNkYmK+zailX9Yb1tEBNhY7yY2/y1uU0fVbFpVMXLu1CwslN4ghcTRWHfjikDK8DoTElM0xC27Bu+lRmTtxFT38ChHWHP/7AVLSW3YG3CJncT9uIm5K9N2PG90CeeFVUGnwU5I1USu7ZhBXzi3ds2CFp62BjOHzYSbFdJs78zkwvjKln39XzOiLVocjI8p9RfeGLWe/roDEfH29H/GTigSHe0kN/9yqpDQTcf1G/Bm58GRNN887Eq6jSX9zZ/MHHc/HJqZcnQlrWbb36jvJVbbdC3Us3TsJBYi0KEIhh7oXzl/xfVNiQ3",
+  "image": {
+    "id": "Zd7VlwY",
+    "type": "image/jpeg",
+    "width": 1200,
+    "height": 501
+  },
+  "lastUpdatedDate": 1535938665870,
+  "tags": {
+    "0": "/train/unloading station/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,16/"
+  },
+  "author": {
+    "userId": "AWAi8TMSkqM3IcTA5lRHvs502v52"
+  },
+  "createdDate": 1535224204455,
+  "descriptionMarkdown": "#Single Train Circuited Unloading with Hysteresis (Version 2)\n\nSimply Drop this wherever you would like to unload a single train, and set the type and amount of material to be unloaded in the constant combinator.  Set any trains going to this station to leave if Signal Condition `F > 0` .\n\nThe power pole closest to the train station has a copy of all the signals going to the station, so you can easily see what the train sees.\n\nThis station does the following things:\n* Filters unloading based on the item type in the constant combinator.\n* Stops unloading when the chests contain the number of items set in the constant combinator.\n* Outputs an `F` signal when it stops unloading, and sends that signal to the train.\n* Outputs a `Green` signal when the chests are at least half full.\n* Disables the train station when the chests are at least half full.\n\nThis is in some ways a complicated way of solving an easy problem.\nThe same could be achieved by:\n* Setting limits on chests\n* Manually setting the filter inserters.\n* Sending all chest contents to the train station\n* Manually setting the train station enable condition\n* Setting the train leave condition to based on a pre-set number of items in the chest\n\nNote:  Picture is missing a green wire between the power pole and train station, and is of Version 1.\n\nChangelog:\n\nVersion 2:\n* Removed the stack inserters\n* Added support for more than one item type\n\nTo really make use of this feature, switch the stack filter inserters out for regular filter inserters.",
+  "fileName": "Circuited Unloading (Markup).PNG",
+  "numberOfFavorites": 6,
+  "title": "Single Train Circuited Unloading with Hysteresis (Version 2)",
+  "authorId": "AWAi8TMSkqM3IcTA5lRHvs502v52"
+}

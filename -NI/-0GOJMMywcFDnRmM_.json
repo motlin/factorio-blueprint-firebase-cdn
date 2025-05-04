@@ -1,0 +1,25 @@
+{
+  "author": {
+    "userId": "nZxzXl9Fb0Wj6jyx9TD7eHn9PCM2"
+  },
+  "authorId": "nZxzXl9Fb0Wj6jyx9TD7eHn9PCM2",
+  "blueprintString": "0eNrdWG2OmzAQvUrlv4UtNiRAtKq056hWEQmTxCpgZEzaaMUBepBerCepTbKQEEMM2V1V/bMr8/FmeDN+85wXtEpKyDnNBFq8ILpmWYEW315QQbdZlKhr4pADWiAqIEUWyqJUrTaJ/C92nP0AbouScxCoshDNYviJFriybiKoSIKXa0FZZnO2YucApHq2EGSCCgrHfOrFYZmV6Qq4jNDgFILxaAu2iLLvEj1nBVWQKq4EsnHoPMwsdECLuR8+zGSImHJYHx8hlkojOy4L9QpWfzjE5zGpXM3lk5SvSyrqJa6eq0p9ZCctYpxW4HfSMkwEO4qaLQfIurd8sxzdNsc0ShJbVjLXZuhdZyg4S5Yr2EV7yrh68jWgvBc3r28oL8Tyqv57ykUpr7Tx6yfsJ3QELyRXsguJ4zhqneYRj4QKgx5R1cOQlgjsXjJBepjwTJmY/TNM/Pn1+324mJly4X4QF+4lF+7dRBAzIuZNIhGnYidVjq5tGXpFszq0TmLwKycBuRQYT89Pi9xSVAxwtElKmXKT2A6i/cFmNFEUFaAgli1TsmVYDpKnOgP0Wb7HSpGXI7gnqKpGSJJk0kKk7y4xkyV/Au/Of8Y77udd29PkTZgPmjTUGM4ZF/qBdaLa1WGEl3NdEnKjdkHY1A53x3JP9TY0EcB77MkNSS1VhfCZQXke0d+uGY/YaYLnZd8kOX2z0/3m+f1KOtStE8erho0+3cStJUshpmVqQyLhuNzFOUtg2GGceiADut2tWFkXGYfPujBkij6/tq7eAN6tEwP7uRGKMeJ7qST2BCVxRym43x2N1pD5Jb0OFAfXM3ZAn673VQ/urJMQ9vuasDW3MaxpLA8nxjLkGonQCfa+vrjhbR4nFPykc/lhWYvdcsNZuqSZxEALecyCarreddvh2kld3g9HVt0a7KH+rvA6b7pdpFlfl7TGP2FbWtQKsoNC2KdT2w2xUjKig2099CaSYDQrgMuJdQONGIrSxxwwvr7P8QLPz07GAMmR7+EDRs2MDssfwbN7UTWTHf4OhxdyJ8mGRxcc3DEbPUNH8laz8Ulrot250/HRX97WRxvpXaNfRuXo9YPheEfUjiNP44iwzhERZ5LsXNdbh40nbFuFrES7/r1vcfYDo4WSaAWygMh1PsnSf4ohiQ7y8l7a+qP0BdjzQ+L7cw/7JKiqv7yW8xE=",
+  "createdDate": 1698659899120,
+  "descriptionMarkdown": "Answer to https://www.reddit.com/r/factorio/comments/17jcke3/other_than_kiil_them_faster_is_there_a_way_to/\nI made a system with a clock. I am waiting until 2000 ticks after combat ends to insert construction bots in the robot port and let them go repair. I pull them back after they finish their job.\nThere are 2 connected tanks with oil and I compare the amount of oil in each of them to detect when the attack and when it's finished.\nAlso I have a robot port + 2 chest and 3 inserters system. First is pulling robots out robot port into chest X, 2nd passes bots when attack starts (it reads the difference in the amount of oil) to chest Y, and the last inserter inserts bots in roboport when 2000 ticks passed after combat finished.\n\nSo, here is video with example and explanation:\nhttps://youtu.be/KFo0DwlILaY\n\n1) We can see bots idle in Chest X\n2) Turret starts firing\n3) Difference in the amount of liquids is detected (i compare if there > 3). It's \"3\" in combinator.\n4) Inserter puts bots from chest X to chest Y\n5) Combat is over, we wait for oil difference in tanks < 3\n6) Start count ticks (\"A\" in combinator)\n7) When ticks reach 2000 (33 seconds) inserter put bots in robot port from chest Y\n\nAlso there is a failure case. If nothing happened for 1 minute I add +1 to the tank amount. So after 3 minutes of turret idle it thinks combat started (#3 step) and the process comes full circle just in case and system resets.\nSystem is ready to go after you build it. Just need connect any type of oil, change oil type in the arithmetic combinators and insert bots.\n\nAlso to make this system more readable i added 3 lights. They show status of the system:\nA => 2k (last combat was a long time ago, failure case will work in next 1-2 minute);\nA <2k (last combat/reset was less 33 seconds ago);\n\"3\" => 3 (there is the difference in the amount of oil in both tanks)",
+  "fileName": "20231030115700_1.jpg",
+  "image": {
+    "height": 1080,
+    "id": "lvGB3gh",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "lastUpdatedDate": 1698665930500,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/production/robots/"
+  },
+  "title": "Roboport with construction bot delay after attack",
+  "favorites": {
+    "Q3pXMD608Jf5t7HlClC2NyMd0VL2": true
+  }
+}

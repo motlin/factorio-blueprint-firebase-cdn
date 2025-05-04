@@ -1,0 +1,28 @@
+{
+  "author": {
+    "userId": "1UhRYcwWpGYajSI4jJGSGTutP3q1"
+  },
+  "authorId": "1UhRYcwWpGYajSI4jJGSGTutP3q1",
+  "blueprintString": "0eNrlWM2O2jAQfhXLp3YLKAlkgRz20FZ77aHtqbtFJpmApcRObYctQnmAvkWfrU/SMWHZwIYl/GiFtJdIiWc+z3yfZ2xnQcdJDpniwtBgQSPQoeKZ4VLQgH7XoInmE8ESkuaJ4VnCQ2YHSSInPCRGkpgnBtSj1buxNEamJJTp+D154GZKzBTIw5QbSLg25J2RWTnaId9wJIHYtFOJI58/acIUECENUfAr5woiwmOCiNMVfGmQMhNOuZggjIi4jUYHd4JckY9Vy1wDkSKZ4wPnR7B6EzuiiYxJxOMYFAiDsIlUeml+u5HclGEAZMaQMOvhklgqwpKE6HzcXoHeiTvxBVNWD1xDyyaPkzym9phW507QFuUYv6bBjwUtfS3/Zp4BEo9spWghWGrfmEIeUzA8bFvmuGBGKloggojgNw3colWDMePK5PhlDVNatG8rnl5x36KYM7IIZSjLl/lI5OkYFEKvvW2whglTDaFFM6l5uVgWFPHavUG/47foHD2dodvxcaoIMw5LG69lYYySyWgMUzbjiIGO5RJqRAVXUrSlAptDKHO7aN09PGwChDLLQO2E8BpAaINLqta7W9wvPwtRZqwthmsfEwUgqgTzqKSDqzDnZvnqondh59/SwFvPHEHII4x+jwQHC7DCHT0VVCmL0mbUeF0BC6clK+VCoYFjX9KMqWWkAb1BH5mbLD8KNZuPloSPYiXTERcIQ4MYSw6KQ0h3lxp5O8e7zUTp7qnOOl28Q3V5gj6PNBoszOhJIZxXYjmwVb//ebRAxQnr3qvQa9/7zxVYCYatcxurt228ieW623PVy9k7Qk7n4uRsu5t6Xp1dzxoFus8Z3i2X/7Jcg2Zq+Yer1R9cnFpbYt3cvIZavUPUut7B//U6jBQinqdtSHBqhSJkMoFa+v3tY0HDeP1mK6J/Sjvuvpl2XEPwdod07ZGw6c740kY6aLaRDk7pvBejnLOp3IfX2Uj7hxRzr1klDU858fvnP/E/O207jnP6id+vgDQ589fcOzzfqRz890PkignbK7euHpVAejuvD3V16zSrL2t35PXBv6zrw78/f89/gTAqhwO65fDFEqvppfWauKdsV/6b3q6cM14eunUtEbe/ZeEGlT9jLZqwMWBC9Gv5K6j8MYTfZ9jGShEGbq8/9PoDr+v6vlcU/wE8SZwy",
+  "createdDate": 1701960542350,
+  "descriptionMarkdown": "Unlike other signal filters, this build is less compact but can handle any signal value.\n\nUses [signal multiplication logic 🔗](https://wiki.factorio.com/Tutorial:Combinator_tutorial#Multiplier_and_Dictionaries/Arrays) to filter signal (bottom comb) with the whitelist (top comb).\nThe left-most DCs are not required if both signals are matching conditions:\n * Both signals use only one wire\n * Both signals use wires of different colors\n * Filter signal has a value of 1 for all sub-signals\n\nOtherwise, these DCs are required.\n",
+  "fileName": "Screenshot from 2023-12-07 17-48-15.png",
+  "image": {
+    "height": 497,
+    "id": "WBp9qqn",
+    "type": "image/png",
+    "width": 1029
+  },
+  "lastUpdatedDate": 1701960542350,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/circuit/indicator/",
+    "2": "/circuit/counter/",
+    "3": "/version/1,1/"
+  },
+  "title": "Signal Filter",
+  "favorites": {
+    "bkWAmc2dhcZCsTAY8id93S2Xmmt2": true
+  }
+}

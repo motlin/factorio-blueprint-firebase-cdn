@@ -1,0 +1,25 @@
+{
+  "author": {
+    "userId": "pDBS9bOaWzPxNL0lOnjtc0z61W03"
+  },
+  "authorId": "pDBS9bOaWzPxNL0lOnjtc0z61W03",
+  "descriptionMarkdown": "This is a simple early-game small electric pole producer.\n\nINPUTS:\n* Bottom-left: Raw wood\n* Bottom-right: Copper plate\n\nOUTPUTS:\n* Middle-right: Small electric pole\n\nOther properties:\n* Horizontally and vertically tileable\n\nChangelog:\n * Revision 2: Reduced small electric pole requirement by position adjustments\n * Revision 1: Initial Release\n\nWhen tiling vertically, you can align as follows for more compactness (image is based on an older version):\n\n![Recommended vertical alignment](https://i.imgur.com/9pzx54n.png)\n\nThis blueprint was designed with extreme simplicity in mind. You can even build just the bottom half to get basic production going, if you don't want to deal with underground belt production yet.",
+  "fileName": "2018-02-13 17_31_47-Factorio 0.16.23.png",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2018-02-13%2017_31_47-Factorio%200.16.23.png?alt=media&token=d8ab7423-d415-4e76-aa1e-61fda6566a40",
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/general/early game/",
+    "2": "/general/tileable/"
+  },
+  "blueprintString": "0eNqdmcGOmzAQhl8l8hkkMLaB3HuvtMdqVRFipZbAIONsG0V595pN0mS7szDjUxQiPn6PZ35mnDPbdUc9OmM9256ZaQc7se2PM5vMwTbdfM2fRs22zHjds4TZpp+/NdOk+11n7CHtm/aXsTrl7JIwY/f6D9vml2QV4V1jp3FwPt3pzj/dzC+vCdPWG2/0Vcz7l9NPe+x32gX6V4yEjcMUbhvs/NSASmXCTuGjvsyC/sPw5dV8gvErqwpKnW7N+5LaYRy1S9tm12kGPKNAS11SKsgLriCMJGNKCKP+YYydtPPh2ieAeMRqb0K0rj9xgFZSIwQuraJSwJXV5AApCJNnZI4EOY9En/qm61LdhUg606bjENLtM4wviaKm+50mnvP99zDsoTzPC5rURaUCkWD5EkDGVfaHlULLgJ6FqYZiSSy5AGAMuQLglKOXgAC9lV4CBcjJEeFNxWP/ntxGQTyO4GV3Qeu4Ao/DqBPUTYSDL6kYOPYKv4e3HcjX/Z6X5MzAUB/pfwxdhDu4IXyucAPo3poMRz8ePVTgvI4zYQ6FtCCURYFefEFoiDieytHUDA/FN0RpjqeKqLcPvEUS//aBAfiyIWwGvmoIYavw7y54qfi3Bd4gBL5G8CUicoI/UOxBcKrXYtQWdDfLHmqN/UoseZDIwXFERlliBrIw/dPNC7OPkRMQrozrcnlE6ycw5XNzMYz0Gt1LIFJIZjGWCG6RzKPaaU6ZkyUn1ycm4SV1/gbzXZLLBnRLSZ6/wbZMKnSecESelOhpHkOjTiFwoGoiBYyTIo8gYDOtyKdN4GCleJRnwpIKvGeKdeNRIs4zFeZgQEm8SWK0qhhbg6NIHbxhCjXj4eyo8WOuWp8jS3Lqg2cKJTn1wVO1ktoiwWKoVg5rIVs5eNxYxnVAMCsqpWEUNaUD5TW5nstvn/4JSFjXhNvCtRfTj53evMzCNt9uwjbfg7DN2+wMb9pN1zSsSp7VlchUKJO/ie0VWQ==",
+  "createdDate": 1518510567868,
+  "image": {
+    "id": "KASaZTy",
+    "type": "image/png",
+    "width": 364,
+    "height": 582
+  },
+  "lastUpdatedDate": 1518510802615,
+  "numberOfFavorites": 1,
+  "title": "Early Game Small Electric Pole"
+}

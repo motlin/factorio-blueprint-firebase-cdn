@@ -1,0 +1,30 @@
+{
+  "author": {
+    "userId": "1HxXHY4GquXO2Qv1gu9GZqsnrXS2"
+  },
+  "authorId": "1HxXHY4GquXO2Qv1gu9GZqsnrXS2",
+  "blueprintString": "0eNrVWMFymzAQ/ZWMjh1og8DGZnJqZ3JKTu3k0skwGMvOTkGiQiT1ZPiAfkh/rF9SCQgmWDgIx4f6YCOxvJX27b4VfkarpCAZBypQ8IwgZjRHwfdnlMOWRomaE7uMoACBICmyEI1SNRI8AmrngmWotBDQNfmFAqe8txChAgSQGqUa7EJapCvCpUH7vPIjIirsmKUroJFgXIJnLJfPMqrcSjzbcz7OLLRDgauupKM1cBLXFthSIIKzJFyRh+gRJIJ8bAOJIHzUHuKIb5n9FG0lXKnQChUEr7MdS4PxCFwUcqaFqS3srx2M2WULgo1AvnQXsgdxy/tqntJ697mCctQXJ+tuoEGOXGkJPC5AVMOKlC0nhPYN8YFhWarV9kjD7SIjDuIhJQLi47S5S0PS9sChvL2Gdo8b4LkIzTjIicIIzchnGeFRvUb0QVqxQmSFgedrpGKnpUgbe6diFA/ed8dx45pz47clhV9z452Xm+tj3Byth1O5uRvmRlM+o+sFv0HhfByF3nRNxO+hiUNRu+1IEe5KvEmaz8bFYNY6X5MY1oSP1Be3H4C5PgAN6mkJfDMlgZsoplnEq80E6GpCBt/UKNkurAgJN5ylIVCJgQLBC2IkPV6HgIqUy0OSjuX18rAMdJzOT5Em7yzS9LoDAGfUZpxMofWur0ufprFqRJxrpj86XnVE+aYC5O1pOqcA3XQEyHYu5ef1QRPyULncRElOTMK4GIjDQne41WzfbTY/TnpyIvNKsLDCbFZr1R5C5SEjBmn3rc5VUaPlYQIpNBLQYDZzZkloEDy/Jx46MZBLFC91gTSBXhorg+cMJdz8vIeW2444vFRH9Rpz6pnEtPb7xfxW8c/65taoGlBuJnVi7z/sxH9//5nA3O179uKD85F17AiJzTrzkOA7+9fwXInG9kHY8ic5JnZ+T+d1sHg8rGMA646GbbNxDKw3HtYfglVdSJ0pgs6/KBZKohWRmYQ+Jyz+AXR70cjhxZMUpYufBSmItHqUDbGGWTiev8S+P/ccHy/K8h9Xqvrb",
+  "createdDate": 1696109548688,
+  "descriptionMarkdown": "Usually we want specific train station to be enable only when a threshold has been reach. For example, when we have the right amount of items to fill a wagon.\n\nUsing this simple blueprint, you can set the parameters of the station (number if wagons, number of item slots in the wagon in case of modded ones with different capabilities...). \n\nYou can also specify the max number of trains you want in the station (M signal).\n\nRemember that, when you change parameters, it's better to \"disable\" the train station by enabling the last constant combinator. It will set the limit to -10k, so in case you have more than 10k trains in that station, just increase the value ;)\n\nEnjoy",
+  "fileName": "Station block with queue.png",
+  "image": {
+    "height": 1032,
+    "id": "WgIiiCE",
+    "type": "image/png",
+    "width": 2528
+  },
+  "lastUpdatedDate": 1696109548688,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/general/mid game/",
+    "1": "/general/late game (megabase)/",
+    "2": "/train/loading station/",
+    "3": "/train/unloading station/",
+    "4": "/version/1,1/",
+    "5": "/mods/vanilla/"
+  },
+  "title": "Vanilla train station enable/disable with queues",
+  "favorites": {
+    "OpxkcwfQQKXWYIk3Z28s6IYtPcH3": true
+  }
+}

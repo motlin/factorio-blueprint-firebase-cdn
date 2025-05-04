@@ -1,0 +1,27 @@
+{
+  "fileName": "ItemCounter.jpg",
+  "image": {
+    "height": 1018,
+    "id": "h8oJyHF",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/circuit/indicator/",
+    "1": "/mods/vanilla/"
+  },
+  "favorites": {
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
+    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true
+  },
+  "createdDate": 1547813300097,
+  "authorId": "b2oGGg75e8agyanmLMns2MUk9Sd2",
+  "blueprintString": "0eNrNmF2OmzAQx69S+Zm0mM8E9a2vvUG1QgRmN5bARrZJG604QA/Si/UktWGbD4ITh01oXxIZ8MzfP88MY17Rumyg5oRKlLwikjMqUPLtFQnyQrNSX5O7GlCCiIQKOYhmlR4VkJMC+CJn1ZrQTDKOWgcRWsAPlODWuWqAcEYX+QaEPJrotU8OAiqJJNDL6Aa7lDbVGriyvJ8vqqwsF2VW1cpmzYSawqj2pswsQgft1J+nLKsFSc7KdA2bbEuUTPVITnjeEJmqe8V+3jPhQqZXVJdMLZhJsgXU2xYy0+RcPajqjHckEvT75y/9QCNAOSkZV4uRvIF+DoVcOxXaC9Y/LxyAHi+XFJqFczL2nb3u/vZT2x498peQZ0comJsQvj8hPCAUGJD4l6L2HI3Xo3E/hkpMQXivRZkfR/Vm84BKvJtVPMLKQayRdTNic0u4bNSVw8Z3Tyx6Zp3heqfkNVSmz5xVKaHKDkqes1JAewvw+DQEseLtIM96f2K7CA7sItifO4K9x+d4aEAS2iHx5kbi3x9JMECyNCCJbkpq95/ndDBA9XlCRnMoHpvPp+ixe56wl/LdMr/j28ox/u/K8ZSt20FZsu933T3/8u5FtxXrs/biojXT3i7tChWeu1AF9y9U4YDQyoBkZYXEnZtIeH8iy2H9wAYkurC8ycs4kZsKJMkvVoGTIjAG6GBnkPkC9Dg9akRdV7lnNaiVdw7Qpwv5bIZ5U67i1ZX0i66UYlNngO1ORLMnXHT/8FoNmZiKELY7A83eLcUPOAKdBYrpEIR9Kyin50JLEYF1tNr19v4UEcM3FvZNIuy66XCKCN+ihRrVFI19GDF1+LdpMnXQOLby6U5y6ZyXv1ENS7t14wki4qGIyCRiZSViigb3SlmPO0lPTl9BkqOPcQ4qszWoIoO+kpeN/PBFd4ygX41b4KJTFS1jz1vilRt7bfsHmOPXbQ==",
+  "descriptionMarkdown": "This is used for using colored lights to keep track of items in storage, \nThis is setup for 1k input base but can be adjusted depending on the total amount of resources you have in storage\n\nUp the Amount in intervals of 10* For accurate indication, \nEg. 10/100/1000/10K/100k/1Mil\n\nThis setup has 11 lights in total, only the last 10 need to be noted for item count as the first light just means Empty.\nUse The Arithmetic Combinator to change the item you want to track storage amount, Input only. **Do not Change The output!** Change The Number Accordingly.\n\nAlso only change the green wire that is connected to the chests to what ever storage item you want it to connect to.\nThis does work with tanks and trains.\n\nAlso Note if there is 1.8k in a chest it will only display 1 light not 2. \n\nIf used correctly this is how it will display,\n\nBased off 1k input with 11 lights. L= Light 0 = on F = Off\n\nL L L L L L L L L L L\n\n0 0 0 0 0 0 F F F F F\n\nThis Setup totals 5k in storage\n",
+  "lastUpdatedDate": 1547813300097,
+  "title": "Item Counter With Lights",
+  "author": {
+    "userId": "b2oGGg75e8agyanmLMns2MUk9Sd2"
+  }
+}

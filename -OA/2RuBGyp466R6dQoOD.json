@@ -1,0 +1,37 @@
+{
+  "author": {
+    "userId": "ELjFNw0v7wRAE9JQ7cAXez6jucV2"
+  },
+  "authorId": "ELjFNw0v7wRAE9JQ7cAXez6jucV2",
+  "blueprintString": "0eNptkN1qg0AQRl9F5noFrcZUnyIXvWskrO5gh7izsj9prfju3USCLRQWhoH5zp6ZBbox4GSJPTQLKHS9pcmTYWjgZHE0UqFKPsl/JHmWTIS2Jx4SawIrd+Yzd3Oipb0Gp00BAqg37KB5X8DRwHK8U1lqjLghcOqDtehhjYOs8AuafG0FIHvyhFvu0cwXDrpDGwfEP3kBk3G0aS4QMWnxKmCONS+zO9yj3mikfhk89dNNP9VykN/ECHskJvhCfIsWxs4bYu+ijPOyv0KTCegjJF4tz9Z2ja/dGPGb/aQCRtnh+OeWb88VbmjdY4ND9VKXdX0os2NVHYt1/QEHX4nt",
+  "createdDate": 1729855988638,
+  "descriptionMarkdown": "Found a way to force a blueprint to contain automatic resupply of various items and having a turret or car with ammo preloaded is probably the most useful use for this.\n\n<b>HOW YOU CAN DO IT TOO INGAME</b>\n\nMake turret ghost. Configure ghost with ammo from remote view. Blueprint.\n\nFYI: Use left click in remote view to put in a whole stack and right click for individual items. \n\n<b>HOW YOU CAN DO IT TOO (the hacky way)</b>\n\n1. In your factorio copy a blueprint string of something you want to automatically resupply with\n2. Paste that blueprint in the following blueprint string decoder/encoder: https://factorio.tmin10.ru/. Yes it is for 0.15 but it still works somehow...\n3. You will see a JSON structure like this:\n<pre>\n{\n    \"blueprint\": {\n        \"icons\": [\n            {\n                \"signal\": {\n                    \"name\": \"gun-turret\"\n                },\n                \"index\": 1\n            }\n        ],\n        \"entities\": [\n            {\n                \"entity_number\": 1,\n                \"name\": \"gun-turret\",\n                \"position\": {\n                    \"x\": -48,\n                    \"y\": -133\n                }\n            }\n        ],\n        \"item\": \"blueprint\",\n        \"version\": 562949954076673\n    }\n}\n</pre>\n4. Each entity can contain \"items\", lets add them and look at the final JSON\n<pre>\n{\n    \"blueprint\": {\n        \"icons\": [\n            {\n                \"signal\": {\n                    \"name\": \"gun-turret\"\n                },\n                \"index\": 1\n            }\n        ],\n        \"entities\": [\n            {\n                \"entity_number\": 1,\n                \"name\": \"gun-turret\",\n                \"position\": {\n                    \"x\": -38,\n                    \"y\": -140\n                },\n                \"enable_logistics_while_moving\": true,\n                \"items\": [\n                    {\n                        \"id\": {\n                            \"name\": \"piercing-rounds-magazine\"\n                        },\n                        \"items\": {\n                            \"in_inventory\": [\n                                {\n                                    \"inventory\": 1,\n                                    \"stack\": 0,\n                                    \"count\": 10\n                                }\n                            ]\n                        }\n                    }\n                ]\n            }\n        ],\n        \"item\": \"blueprint\",\n        \"version\": 562949954076673\n    }\n}\n</pre>\nSidenote: Sometimes you have to play around with the \"inventory\" number to get it to work. e.g. in the case of a car that wants coal AND ammo you need two separate numbers, like this\n<pre>\n{\n    \"blueprint\": {\n        \"description\": \"Loaded with 20 coal and 50 piercing rounds\\n\\nby markusmo3\",\n        \"icons\": [\n            {\n                \"signal\": {\n                    \"name\": \"car\"\n                },\n                \"index\": 1\n            }\n        ],\n        \"entities\": [\n            {\n                \"entity_number\": 1,\n                \"name\": \"car\",\n                \"position\": {\n                    \"x\": -35.17578125,\n                    \"y\": -135.9296875\n                },\n                \"enable_logistics_while_moving\": true,\n                \"items\": [\n                    {\n                        \"id\": {\n                            \"name\": \"coal\"\n                        },\n                        \"items\": {\n                            \"in_inventory\": [\n                                {\n                                    \"inventory\": 1,\n                                    \"stack\": 0,\n                                    \"count\": 20\n                                }\n                            ]\n                        }\n                    },\n                    {\n                        \"id\": {\n                            \"name\": \"piercing-rounds-magazine\"\n                        },\n                        \"items\": {\n                            \"in_inventory\": [\n                                {\n                                    \"inventory\": 3,\n                                    \"stack\": 0,\n                                    \"count\": 50\n                                }\n                            ]\n                        }\n                    }\n                ]\n            }\n        ],\n        \"item\": \"blueprint\",\n        \"label\": \"Preloaded Car\",\n        \"version\": 562949954076673\n    }\n}\n</pre>\n\n5. Copy your modified blueprint string back into the website, hit encode\n6. Copy that blueprint string and import it into your factorio save",
+  "image": {
+    "id": "bcQKval",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/bcQKval",
+  "lastUpdatedDate": 1729858396764,
+  "numberOfFavorites": 8,
+  "tags": {
+    "0": "/version/2,0/",
+    "1": "/combat/offense/",
+    "2": "/general/mid game/"
+  },
+  "title": "Preloaded Turret for 2.0 (10 Piercing Rounds)",
+  "favorites": {
+    "w5wGyj4IsRThVuIW2ogn8EG5teN2": true,
+    "2F4ECano9mcksmpCfNjnA8uRFEq1": true,
+    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
+    "WdeM3Vco89MCAiOnBMLRrKgnsrt1": true,
+    "aWh1PZ1GjpPZiblSe35IJmJCDdT2": true,
+    "oq5pjOP0jQOjzGVxi2y9DPzXdYs1": true,
+    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
+    "EmLs4bLrUFVIx7oIA3CYPreKiwo1": true,
+    "owdfZyDY0SbblHznQikI9IZagJ02": true,
+    "asniM5Gx2ROkxEtUF2DWlY9JLUz1": true,
+    "k5ltx6S2MAZiBqQKTnUDWM606Lt2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "gH7hJZRCfccwrtZ9tmxBPY3z5Ax1": true
+  }
+}

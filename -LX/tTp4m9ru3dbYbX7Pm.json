@@ -1,0 +1,22 @@
+{
+  "tags": {
+    "0": "/circuit/counter/"
+  },
+  "author": {
+    "userId": "IauqB6lyz5RKBqaYYMUj3j88msk2"
+  },
+  "authorId": "IauqB6lyz5RKBqaYYMUj3j88msk2",
+  "descriptionMarkdown": "Allows inserter swing cycle to be controlled. Drop size is limited by the \"override stack size\" option, time between swings is controlled by modifying the time value in the circuit conditions (set to 150 in the BP). Once running the constant combinator can be removed, it is needed to jump start the timer by setting an initial condition.\n\nI am certain this is not the optimal solution, but it does work with some limitations. I threw it together when someone asked the question on reddit, put it in here to make it easy to share (i.e. I'm not proud of it :) ). ",
+  "image": {
+    "height": 2160,
+    "id": "2Mc1Gk4",
+    "type": "image/jpeg",
+    "width": 3840
+  },
+  "lastUpdatedDate": 1549300093418,
+  "numberOfFavorites": 0,
+  "title": "Inserter Throttle",
+  "blueprintString": "0eNq9lsFymzAQhl+lo2MLHUTjOOXQe++5dTyMgHW8U5AYafHU9fDuXYFNiA2x3WRysUdi99fq/8SKvcjKBmqLmkSyF5gb7UTyay8cPmlV+jna1SASgQSVCIRWlR85UvnvELUDS2BFGwjUBfwRiWyDieQtWmp45jm/iwgfR5lxuwoEaEJC6GvoBrtUN1XGayRyyC4gxwJsmJsqQ63IWFaujeNUo/2yLBdy+I7/oq8LXoP3RdaUaQYbtUWO56CDSsrPii7T+dk1WkfpbTvwrpHyFspF5IdVrWxXViJ+cIppqG5uF613XFujKV1bU6WoWUMka1U6aPtFNeRD3dL/PFkAPfYOCzaWY9HmDVI/9IRGj+9OH69YPJ5VOwmXHN6OFI+w4mFPyiJtKiDMX+cVX+L1LPQOyBx4jXREjjHVwNS6ksSX/8P2nmCWF0jEpyRepsvrQH0bvdMAZZhvwNE5nqinE09J3N3KOhqjLtD2bvVn68PBh907O2b/+QPYy9fZLy6wvxLuYq5hnyGRR74vgNxPAzkuPdB4e+M8b5s32TnVlRjiFqzlHp92u+fa/oK39tyn+6G6CgpsqhBKXtbyMa5NCXNuySnLl4PUcXPXtL14puetsWRcM1fyBWubQ1sbbubVG5pTf8L4hu6+A5LRZ0MgSpUB1yV+Hk7Xp8eNNUSdcUzA9UfpYRnHD/J7tOQe8g/iZOah",
+  "createdDate": 1549300093418,
+  "fileName": "Inserter Throttle.jpg"
+}

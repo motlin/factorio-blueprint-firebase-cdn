@@ -1,0 +1,28 @@
+{
+  "author": {
+    "userId": "qr6CF3pNnReIzMCasy5Bn8hmMmJ2"
+  },
+  "authorId": "qr6CF3pNnReIzMCasy5Bn8hmMmJ2",
+  "blueprintString": "0eNrtVsFu4jAQ/RXL5wQ1gcAWaf9gT6W3bYUce4CREjuyHVqE+PcdJ5SmbKBhu9rTXkB25j3PvPGMZ8/zoobKovZ8vucKnLRYeTSaz/njBhhDvTK2FGGL5eaV0Z+nfYvrjWdl7Txz4Jsth2stCse8YS/Cyw0T7f5W0BEsedJP+tGwNVmztTGKWXB14V30Adww5hA+kiExrNA6PyIoGS2Y0Io9MGm080J7BiV6b6xjUugWVRVCgmL5jkx3TKKVNXryaSNaa9d1KQQjioKFbSE9biEQBTdipo1/C8CJEpjHEiI6Q4raASHYCxJyHTDBRlkQig6utQIPtkQNbxGOeMQxuMznP/e8DTSI7XcVkMrooSQLTYfQSoFEBTaWpsxRCwqOHwhOrK98nhyiTwnetOlnSHsZtmh9TTsnktYiXnSQ45uQDx3k5PAccdAePUKrQbPYLXVd5mAprKvOR7wyDtsruefEF2fpKIv4joDZZJTRQQotyNZiEgUSb02xzGEjtkgMBFthQVm5kIGrQUhTh9q46yThudnWuj3TBaYk/FhQ3fCQVuTn8Q42y4A9BCHPFEhvVWD8bxRYfF2ByTAFxqejS1BYlzEURG5RxpUpoE+C5CRBRhL0UE6uFdVVTWeDFD2yLumbwpMOTb9aDlYYhNy0Ird5b6qB/KyEbfyc8++EMbWv6j9irXbLJn/LlTXlEjXR8PmKWhwchucw7ajbc6vTUOBrC6DPgdPmpqRfK47sxjym//M4rBbP05qcra9nb2BhT29tbe91PT1vbdO/2NrCXHOhu33+yLbNyWhqT0cNOlTJJ6/tRyokmpimFg+9FOMBFLUVOrTMdJz1ckwGcAi1FZomp6vxZLdPD0eO+J1kevsg8TvJ7GuP8IV21XulybiRat4ZlSNeiByK8FrRgIdxaZQo2OKB/QiDL33e0n1srmz6LZnM7tPZ+P5umsymh8Mv+sviQg==",
+  "createdDate": 1622679724050,
+  "descriptionMarkdown": "This SR latch can watch as many signals as needed.\n\n* To watch a signal, set it to 1 on the information  box -- on the exemple, green circuits, iron plate and uranium 235 are watched\n* The output is the green wire going out of comparator on the right side.\n* To get  good results, all watched signals must be reset at first.\n* The S and R constant emittors can be replaced by any circuits that emits the value 1 on all its active canals - not at the same time, because it will give the dreaded undetermined result.",
+  "fileName": "SR latch.png",
+  "image": {
+    "height": 386,
+    "id": "tXp1LKV",
+    "type": "image/png",
+    "width": 302
+  },
+  "lastUpdatedDate": 1622680226415,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/version/1,0/",
+    "1": "/circuit/indicator/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "Multiplex SR latch",
+  "favorites": {
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true
+  }
+}

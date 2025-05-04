@@ -1,0 +1,45 @@
+{
+  "blueprintString": "0eNrlWltu6zYQ3Uqhz8IKxIceNvrTj66iCARZoh3iypJAUcENAi+g+2g31pV0KDmyY1MSydwUuclPHL0OyZnDM5whn71t2bFG8Ep6m2eP53XVeps/n72W76usVPfkU8O8jcclO3grr8oO6qoTWcW7g49J6B1XHq8K9t3boOP9ymOV5JKzAaa/eEqr7rBlAl4YAXZZK/0OPhN7UcOvv2WlBPymbuHrulItA6JPV94T/CTQyKkjdSebTkKrN+h4RC9YzgHaz+vDlleZrMU0dHQXAjgMXIq6TLfsIXvk8D68dEJJ4VnRf9mquzsuWpna2UeZVWbKxoG6ODSZ6Du18f796x/4ahiTNWjzBH3rKpnuRH1IeaXsspGiY8ehzYrlY7eR+iNYcekWXvRGy7nIOy6Hywu7quvoeA9Y2Oxj8P/xqHEMee12CeNom1rIKaeTwTOxDouOWDk8EXzX7dktRPCCsIJu57w35rf6MRPsu88qwfOHA3ztN6LOWdvC98rSvZ3gVtGB2R6hUf8A/5fMJ8oumr6EY1/Kutr7DxnwufB51TIhmY5y+MzmgovBO8rGt9DRCA3Eyb8ZgMZXoHpOv7hr5PTbKU2vOf1b//zUkGBZkSrLqCYljLI9UdSVoeiKock1gfUcjM8G7bbQ837sN8bEd+HJmi+qYNJDGk40moyNZoJL4Jzk+awovdKkC29SvTfPqG8TqUR5rGUKIz071sfg2bphYjDWxvvVTaos1AiFs3oTTdh57aT89Gsr/3pe+TGedcV6flaiYMJVKDBXtlMcMJsL/4eyKZ+9xcITJkFu8THSgmGbAEnfN0AiYrvgm3T5i+eqicUfosa8wto2FgImjJSl9S690EPyI6Mcis3WUii0HWf0ocaZGA4zcmRONMWc6bwBxY5hmn7ZME3n04JJpUvclI5owdZuYFQHhgPX1JQcl8UJI8dMgSxnChhbpwr0s6YKS4uS2Cwg43PY2rIs1yUKJy7h40VkbBsGTl0IiZhar3/wz7r+wZGhvUO3mYy0YJFTMhB88TJQtJANJPOKH83PPEynXB+76i42Kgkm1uKIPm0dZcFHxDBdwWvHYIaXgxkJbLIX9L7ZC3HLywItllNxGn1tUSILxWk6vwwlC5VDQqbq1cQ2RqOfNUTfmnjCJDZ1d/zO89I2BQ4+VAZM1oa7Jo4pcGCfAZPY0qLoQ1mURoYWTdwsiqyrUWTtVlKYXoV+uhoCmS/19wtO7Qaga6ZukqhTt5BPjvMTgFXZtmRpwVv16212Wdmy5RmwuowY/f3hVTWfFCt1A8BOA8AfZwDEbXVpUCmh1DYZwJ81F1haGtGFdDA03PmnodW2K7bZdY0X+nTT53iqk5GbWOMvJNbxrFjTqfSe2qf3AxNuN2cWFzHUOrqfxG+yrekwYVt6pqeGdIdIAifFpse3i9EjF7KDO+c52r/hKw+fiWf82V4wVg069ioh+ftSu64jyeswoVO2q1ijjyTGTA4NE54QOblYu7kQWib/wUkOzer071EK0MSfaYkx4IO2GtA71kKEFtL9MLgOYlPHckLbA2lIqxM6ZPoauW1KLudWGDdbiNFo50aAgwEcsATfP2iFKLSsnKMZHTI/chbozIF1mGf5f+HWLPPxCKwj+o6X0J2J86kLWtazr+/5+azqDzjgFSam/iZ32sAGfBmGdTUb7ViwdstrqX2lIAqcZFF7VCVyS7Yig9OT2GmCaw+cRm5iYdJLaomMjZFDW0IEWmgTQkQuCqTnQ2wHhWeclrhAmVjWcuVnTNnYuqxB5112WrzeD0VWtZU9nvRfeWUGmHDv907Wh0yy4pc/xvIsPH4Eme3hYhKgdYQRicFj/wGZ1H7z",
+  "descriptionMarkdown": "**Setup**\n\n First build this entire blueprint (modules and beacon optional), then supply U-238 (dark green rocks) to the bottom right belt, and U-235 (bright green rocks) to the bottom left belt. Once the setup receives exactly 40 U-235, it will begin production, and not stop until all 4 machines are producing U-235. The setup will output U-235 on the left belt.\n\nDo not touch or place items in the centrifuge, let the inserters in the design do that. The blueprint uses red belts, but these can be replaced with any other belt.\n\n**Description**\n\nThis kovarex setup contains 4 centrifuges each wired to a few combinators. It is designed so that only exactly 40 U-235 are ever inserted into each centrifuge. The advantage to this is that while other designs require that up to 80 U-235 get produced before the next centrifuge in the belt line can receive U-235, this design immediately begins sending extra U-235 to the next centrifuge. This means this setup becomes completely full of U-235 an order of magnitude faster than a non-combinator based design.\n\nThe final production rate when this setup becomes full of U-235 is 50 U-235 per minute. This is well above the consumption rate of a hundred nuclear reactors. This design also allows for U-235 to be output before the setup becomes full of U-235, detailed below.\n\n**Controls**\n\nSometimes, kovarex doesn't reach maximum capacity fast enough, and you need U-235 earlier than it can provide. Unlike all other kovarex designs I've seen, this design allows excess U-235 to be output before the setup reaches maximum capacity.\n\nThe blueprint contains a single constant combinator. Set the red signal to 1 in order to tell the setup to begin outputting excess U-235. So long as the red signal remains 1, the setup will output all of its stored U-235 until only 40 remain, enough to keep production going. Set the red signal to 2 in order to tell the setup to completely drain all U-235 and shut down. These controls were designed to be used autonomously by a circuit network. Set up a combinator to output 1 red signal whenever your factory needs more U-235 (say when nuclear fuel runs out), then connect that combinator by a red wire to the constant combinator. With this done, the setup will now output U-235 whenever your factory needs it.\n\n**Technical Details**\n\nThis design works by having each input inserter count how many U-235 it is inserting, setting a maximum of 40 for it. The output inserter resets this counter whenever it empties the centrifuge, ensuring the centrifuge can start again. A third inserter is used to block U-235 from traveling past the input inserter to the next centrifuge, until that centrifuge has exactly 40 U-235. Careful design of the input and output of the setup was used to prevent jamming or unintended shut down.",
+  "fileName": "factorio_C6r9Dd8wxc (2).png",
+  "image": {
+    "height": 876,
+    "id": "tnPZmzF",
+    "type": "image/jpeg",
+    "width": 655
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_C6r9Dd8wxc%20(2).png?alt=media&token=ec690488-787a-4d1e-93d4-1821b0e2b493",
+  "favorites": {
+    "Y93RfjY76Ih3IhEWMkfbXBpo7lF3": true,
+    "YGqCItpBpUhT6KSAPc3asOIDQpQ2": true,
+    "iob00nSOSwMTweH8A9xYK3CvKSn2": true,
+    "iWqdF9AjJicQG0bjzLAtyW0xTSI3": true,
+    "3F92OPZlcSdO8Zx34xHE0y6Zmuj2": true,
+    "7AsyOQabcSh2W9GzQxaBulyG8i83": true,
+    "2FpmAJ8MsyfSgMM3TWicyMXzd113": true,
+    "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true,
+    "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true,
+    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
+    "PhS1ggQvnkZODooxr6ijo4Ca3Fb2": true,
+    "jr8BlPW3LzZ1e3g1boFEvX7gUED2": true,
+    "tvCznxaoIZOe6rTaMxkDg7oEp462": true
+  },
+  "author": {
+    "userId": "pT6TaG3U1kZVLzOYpPE5hQbREnl1"
+  },
+  "authorId": "pT6TaG3U1kZVLzOYpPE5hQbREnl1",
+  "createdDate": 1580416100138,
+  "lastUpdatedDate": 1580416298384,
+  "numberOfFavorites": 12,
+  "tags": {
+    "0": "/general/mid game/",
+    "1": "/general/compact/",
+    "2": "/power/kovarex enrichment/",
+    "3": "/production/belt based/",
+    "4": "/version/0,17/",
+    "5": "/version/0,16/",
+    "6": "/mods/vanilla/",
+    "7": "/version/0,15/"
+  },
+  "title": "Smart Belt-Based Kovarex Enrichment"
+}

@@ -1,0 +1,26 @@
+{
+  "blueprintString": "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",
+  "createdDate": 1532821678510,
+  "descriptionMarkdown": "My first blueprint and one that I have spent many hours staring in to space thinking about trying to optimize. My new design is, as far as I am aware, the smallest, tileable, perfect ratio red circuit factory, on the website. It is far from resource efficient, I ended up using underground belts weaved around the inserter's, down the middle, to save a space there; I was also able to save more room from front to black, (not including the current most favorited red circuit factory on the market by Nilaus, but then again his isn't tileable side-to-side) by pulling the copper in from the side of the tile rather than the back. \n\nDue to throughput issues with belt's, the max tiles from end to end is 2, the middle belt should be a split plastic/G-Circuit belt, and with all speed modules in yellow factories, you need a total of 15 of each item per second (with 2 tiles on end) (max 20/s per item on blue belts). The limit to tiles side-to-side is down solely to how much copper you can feed it, a saturated blue belt can only feed up to two tiles wide, needing 30 copper/s for two tiles. \n\nThere are extra items included in the blueprint itself that are included for the sake of tiling, that may be omitted for the first and last iteration in a set of tiles. \n\nI hope my factory is well-received, and I look forward to growing my personal blueprint library on and off-line as I continue to learn more about this game and it's mechanics. ",
+  "fileName": "Desktop Screenshot 2018.07.28 - 18.59.26.30.png",
+  "lastUpdatedDate": 1532822664720,
+  "title": "Compact and Tileable Mid-Game Red Circuits (belt based)",
+  "author": {
+    "userId": "2cc7xkYYiGQaEOtL8d49aPXVphD3"
+  },
+  "image": {
+    "type": "image/jpeg",
+    "width": 1131,
+    "height": 593,
+    "id": "n1rhFIn"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Desktop%20Screenshot%202018.07.28%20-%2018.59.26.30.png?alt=media&token=618624ae-bae8-4c58-b729-0778b8c2361e",
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/production/advanced circuit (red)/",
+    "1": "/general/compact/",
+    "2": "/general/tileable/",
+    "3": "/general/mid game/"
+  },
+  "authorId": "2cc7xkYYiGQaEOtL8d49aPXVphD3"
+}

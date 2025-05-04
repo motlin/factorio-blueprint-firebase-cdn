@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "O2PMgxtJZyVsUSLCOS7crhiQxIS2"
+  },
+  "authorId": "O2PMgxtJZyVsUSLCOS7crhiQxIS2",
+  "blueprintString": "0eNrtXFFvmzoU/iuRX+4mkSo2kITq7krTHqb7uG5vXYUccBqrYDJj2uZW+e/3GEhCUkggTRei8RQD5nzHnw/Hx19IXtAkSNhccqHQ9QvyWexJPlc8Euga/RvPQsqDgP0V937wgNFJwHrfQypV73OsmIy43/uW0ICrRe8GjEQei2Mu7q9+ip/iyywRDz21mLOeinqSeRxaXiQemYRbe5NF78cTC4Lk+QoZiMOFGF3fvqCY3wsaaF/0reBEdif0ETTUxyFTNAi416e5C31ZgIZ+vzKPoGvA7pnwqVygJUAInz2ja7w0aoB4VE4icTQIqQUSPXOfHYlgliI8cqngtg1E1qPPxTQq3Gwt7wzEhOKKs4z19GDhiiScMAkkrQ2oBIjoK0lFPI+k6k9YoMD8PIp5FiQvCAz2R1e2gcDX4ZUNMD6HoWaXLe3njnXS1Powtw4oyxJ75rH2anlrra1PYaqAyjgN4BKzVsFNA0FEKxkF7oTN6COPpO7lceklXLmSUd+dUeG7uhcAwiwomTBj3SO9mHYLI5+lYYumPADgbMJW0bxxDkZBZdgP6T39jwu2FUEikmEaFl4UzqmkSruDPiEdB5nVHAayAfUeAh5r2pKYuWtM7V4JO3ZT7q0m3A+bWrf3R8roWHu1vB03tU6aWHeaWjebWMeDY81XUI3xsWxUGWycNgaNCGicRXAj8/XTCP4D0wi2a9OzSt7OLu3j8jWzasDlfbdG9nc6slr+D49dg8YV0T7aJqR2Xh2X0PK2GFqd346jMp/HjZdK551i/B0CoWzAzrHrScWsk0FtBu02PgYEH7uKVBFCahNitpIQs7b/pJX+W8eu4lUTajdeBy87R5Bhw0SOz5/IyWbx8WQSz/YmIIx3qp9yN2OmXUw3wHmwVZDKFQtz+n19Y+5I3rkPbicB65t7dsiZAT19LhePMLYILmTzuT4CL2MFNQq6HmgCSq9gmNDyOR3X4If8wfxs1kWt6ygqVB+elQkX6bPyiqtVoY4HuzGvi/5yttIO8XZ765Etf5DfLipVFcH6RKJVNJwRlglBp0BMBECFQEc1JilgmqfAlFSyPXhmAc86BR6bc28PnlXAs42TSoPVoHYBFFfHTgOt8GDsDIuQ5BSQNYJnVAQ1TwF6IHrGRUDrFIAHwscpAtrGSVXfPYlgUMwE1QFUVwc+nHm2Ug95M2CN2MHFzEPMN0MeiBxcTDzEejPcgbjBxbxDbON0Sv4eTBvWVFhYy4TuQeMNNibpknriWvdT7Q2EudkR+kCaz+TeSqA/LHpdoxDIjera1ufrkqB4BGObchkrt/a3JYx6M5RtOdLaJWXl1XQVjbqCqadIPqTgkkFdNqVBDKX3vWRM5ORodnY9qVy4PP3tWeZEAfefg7hZxZ/Dpk6sbTA3HzfsEVCZM41pIWeipTRHtZwrswVcpcm15TxZLeApXRVazpPdAp62tpVtJmv4zmS9LhwvIn+PzkTLJebvcQu4uoT87bSAp0vI3/oL97MTdTEJHL93Bb6zg7uI9I3JOUi5xOSNzXMzdQmpG1vnZukiErd9bpZ+S9a+M1CUqHmiKl7LPUzYfOGmkpY7lVHocgG2VpB3MH40D+iCSXf7leMv2QvCPW/z9vCHm4+FN4g/fP2IynQm0kxnMjudqdOZOp2p05k6nanTmTqdqdOZOp2p05k6nanTmTqdqdOZOp2p05k6nanTmcp0JrPx7xd+7ytYcPKJy/Rn3bd4ZGDDxAa+M27xeNMmtm6TrD0stPP+pm6Ps/Np2zGIbhNow+W8fZe9Sp7+2m/1FwIGCuiEBdl/B+h/Dfj++dsNnAWu45Qae0gcy3Hgw3TMoblc/g+c01q7",
+  "createdDate": 1745221538709,
+  "descriptionMarkdown": "This is a blueprint for for repeatedly reprocessing asteroid chunks with quality modules until they become legendary. This is the basis for making a ship that harvests legendary Iron Ore, Carbon, Calcite, Sulfur, etc.\n\nThe top belt should contain only non-legendary chunks and optionally standard ammo magazines; if it contains anything else, you need to add it to the top inserter's blacklist. I designed this so that the top belt is the standard ammo and chunk belt that I think most people have running around the perimeter of their ship.\n\nYou only need one constant combinator for every column of crushers; it is placed off to the right in this design. Place it wherever you have room and connect it via green wires to the inputs of the decider combinators.\n\nThis design uses legendary crushers, quality modules, and fast inserters. You can reduce the quality of any component if you need to and it should still work.\n\nThe design pulls chunks off the belt and onto a 1x1 buffer belt. The crusher then sets its recipe based on the contents of that buffer. Unlike other designs I tried, the downtime of the crusher is minimized because it is less likely to change its recipe while a chunk is being inserted.\n\nThe brilliant use of a single constant combinator and a single decider combinator was made by Twellux on Reddit; their blueprint is called \"Chunk type to recipe converter\" and this blueprint wouldn't be possible without it.",
+  "image": {
+    "id": "GuM0zxA",
+    "type": "image/png"
+  },
+  "imageUrl": "https://i.imgur.com/GuM0zxA.png",
+  "lastUpdatedDate": 1745221538709,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/general/tileable/",
+    "1": "/mods/space-age/"
+  },
+  "title": "Ishmaille's Tileable Smart Asteroid Quality Reprocessing",
+  "favorites": {
+    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
+    "8ZSFoC1WwKVymSzWDF0syztAhA73": true,
+    "oU2aS9o7BgM4EH6KBhics9iYdKl2": true
+  }
+}

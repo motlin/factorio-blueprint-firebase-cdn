@@ -1,0 +1,36 @@
+{
+  "createdDate": 1494952888287,
+  "numberOfFavorites": 31,
+  "fileName": "clevernucleartileable.PNG",
+  "image": {
+    "type": "image/png",
+    "width": 458,
+    "height": 1068,
+    "id": "vxO5qFg"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/clevernucleartileable.PNG?alt=media&token=3b4e3612-73fb-4083-b64d-8d8598b434f6",
+  "lastUpdatedDate": 1498569954030,
+  "author": {
+    "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
+  },
+  "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
+  "blueprintString": "0eNq9WUuTokgQ/isddZYJ6gGiMXvZwx73tLeNDqOEVCsGgS3AnZ4O//smAsJqKVXqzKVtHvXl68vKrOSTrNMaCq2yiiw/iYrzrCTLvz9JqbaZTJt71UcBZElUBXsyI5ncN1drkPgqOc6IyhL4Tpb0OJtcFENWabWptzBayCwW1lpmqt57jAejldxh5aaG1IshTUfrxfF9RlAlVSlojT5dfKyyer8GjTYNmmuQlTqAt88TWDUivDKvdQwoqchLREBnoA6I6vEZ+cAfKlBSojTE7cNwRjYqrUC3onq3XWmaa/TOe2PahTbs/GqFr5ZFritvDWllUIGZVWAGVH5GTfOtKisVe/EOysrT8E+Nv/jONb7o8BGQdO+t7htXQuLVhXcdjhmJ87ohHzUaLc4QG4lKqawEbdapt5kfDTCBiYPXGLTDoCe7YlWMA1PoPIayVNkWVzYU6Gxt+LYkZQFoItKjTsHjg1nMaFZop0/Q6rMYq5PVcQpSty7UMNLKIGd+lnPHc+JstQEhOiPsIWncACnSSSNNijw16EzvgS1s1GG90QYA6tsgdBkYXSSgCW9EUeSs3mqMWjKRVhe46L5+68mKujKFgbLLjfNmrMPj0+SifFoae500MSmNvk5YMClMvE5YaB01/gJp8weoKG5RMa+rW1wcMrqsZPzt3p5KjVJMZYQOqf1vjjUya6vINabfQ5oq3JDdZb1G7U7rrun0pff6l8AIQ21J8oKwMYeyzAep46CZULlzsefTux0TzroyC10di+u4mH3LD1LDdw8yrCi7PS7vy+zzNZYN6dv2JneY7psjY9myMR7daNnm1rlGjf42pRqLLFON9ZAmkIXt3uY/nyPcd+YdneYdp66ovgUos44YM2va+AKzIE9Xa9jJg8p1836sdFyraoXPkjPIRmlsnN3OPs0BrZKnhrm52BdSy6qRQX4jx/Z51upSNpC0+bPVANn4gKMSVJRjrEzU4PzCBZPZQ03eDa2TJzAnDxdOPPedjB8n1ulGcMsbth3HK/IkdGkBWk4z52aUz13zxiYZI1fSdHWLXbHmZ6VP9P/0CS7S56tj+vgNYZ4tEHzh2oxZxEL4lonTQTIXu3l0I1EEfeikaDwnCtddmB5/2bYrntx3uWiJkx9Aa5XA6mQhqvMDuinapTO40z7oFk12K5ri1lxIxqdBGLZpB9Re39oOjV2HCGzHOfwXbw4XQfZ/Yoy5yTHWR03xfJkRc9v5wCuERZbjgVfIWljW6hfICnz3Wh26n9aDx3bV0DgEZY/PeiPbSa/SeeYVqaxgNNr1zS4cz56zrbeTCJZMtwwWc71A2E8a5xZwgWvLFE2X6SB0BZ1bgA65LcsS9utUoWf3Mt6pDDx26+QbmQbe428m14Kix8m0sP5sMNqfJz4UBIvHyLSYjn7o25OJ+hZ4zgdXanFyDZ0HUQsLUG5hut/raAJ4vI/oG14zbvBYt2kGGzJR5+u88ZwpwN3YkTLz2DGcP2xq50Hshd9nfTkavsvOSCoxkHjvd5nKLIbk7c/2I9DbH5iib38p/H+dwtsu1+oHNkgyTT9wFTYfZUtCIVhAQxH5/Hj8D9el+oM=",
+  "descriptionMarkdown": "Hard Maths\n\n- When you finally have 40 Uranium 235 for the Kovarex process, you've got about 5680 Uranium 238.\n- For every 10 fuel cells you want to make for nuclear reactors, you lose 19 Uranium 238 making the cell, 3 Uranium 238 in the Kovarex process to make the Uranium 235\n- then you get 6 back when you process the used up fuel cells.\n- So that's 16 (19+3-6) Uranium 238 lost for every 10 fuel cells.\n- 3550 fuel cells later (1 nuclear reactor powered for 197 hours) , and you've run out of Uranium 238.\n\nQuestions\n\n- Instead of ending up with thousands of Uranium 238 again, would you like to limit it to 'just enough'?\n- Would you like to make the fuel cells more quickly?\n\nIf you answered 'Yes' to both those questions, then you need this build.\n\nFeatures:\n\n- Produces 5 Uranium 235 per minute\n- Produces at least 1.9 fuel cells per minute, enough to continually power 6.3 nuclear reactors\n- No excess uranium 238 produced\n- Is self contained. Uranium Ore processing, Kovarex processing, fuel cell making and fuel cell reprocessing all in a very small footprint\n- Only needs 1 logistics bot to deliver the iron plate and Uranium 235 to the fuel cell maker\n\nInstructions for use\n\n- You need 40 Uranium 235 to start this up. When you've placed the blueprint, put 40 Uranium 235 into the Kovarex centrifuge\n- Ensure that there is iron plate and a least 1 logistics bot in the network covered by this blueprint\n- Feed the Ore Processing centrifuge with a supply of uranium ore. Half a yellow belt is enough\n\nNotes\n\n- The blueprint includes Creative Mode mod entities to allow you (and me) to test this. These entities are not required in vanilla factorio.\n- The screenshot has concrete to help with visibility. Concrete is not part of the blueprint.\n- You can tile this horizontally as you need more nuclear fuel cells.",
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/general/beaconized/",
+    "2": "/mods/creative/",
+    "3": "/version/0,15/"
+  },
+  "title": "Balanced Nuclear fuel generation",
+  "favorites": {
+    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
+    "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
+    "bmWAGbUxJiNpTEFGzrDrtSsGVQ93": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "mRTXFLzyDeaI6ieCDhI0IDzcKCD3": true,
+    "sJXXbMLBU2NZwoY119QC2xf9IQF3": true,
+    "CO51ChQbbkNYE7vfy0C869tUCbo1": true
+  }
+}

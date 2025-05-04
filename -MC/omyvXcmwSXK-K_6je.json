@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"
+  },
+  "authorId": "ub0iEtNIVqVuJDIIVHdezrooiVY2",
+  "blueprintString": "0eNq9mU1v4zYQhv8KwbNlmF+i5NsCPRRFDwW2PTWLQrYZmVuZEijJWzfwfy9lZRM7GTczl73YsEQ+npmXMxxKT3zTjK6LPgx8/cR3rt9G3w2+DXzNP7H+UDUNCy3bjI+PLjL1rTqxgX0dw3Yas2S//vzTkv3ROzbsHdvGtu/bYxrXBsf8Y7oY27Hed+PAfM8q1sV207gD++aHfbrp++VDeAif/b9uxx7byATb7sfw95J9DlXXpYtDy+qm3VQNq6PfXUb/doptPZ4ewi9j+hNpmFxJwRe8T1Oyoc2mgZMr//C1kgt+mr7OC15t+rYZB5dN4zofar4e4ugW3G/b0PP1n0+893WommnucOpc8t8P7pDIoTpMv2LlG55IPuxcgovzAphy9HEY05WXWfOI7PermZI0U17NVOcvC+7C4AfvZpsvP05/hfGwcTEZ9Tp7SPbW+yG7mL3gXdv7WdZLaIS6hCYT58mYNxT5Qtn4OnON2w7Rb7OubRxAyi+kVbIyRTK4y8Lop5ti+ohud23opI3Or/5zumDs5FcdnQuosclmHlzybtOOcYqDzhfGfgE8UTfqZc9Bf++DXpo5HqulSfCdj7MfyQCAql+jPOVH1lSHDoDaayiAMWixyv8RKydKDkIsMk7fXbrjUUH0CLSlfIFsx3h0u3uIObnzW7kMABQrYogUZJYQROdgisR5J1eQd9BiFIroHaic0ETvYIoh2mJBSk60BaZYXKTn8iXkbaQlREQv79ms8hapICR2sWvQSmg9yBWx5hWYkicF0tACNBRKSylvDd3uKx8+Lj0FXHokOg2kgtQBLdTIZIXXkIWQBqnO6tld8W5HAi3NcVgp7mJBay02qJmYserjNJL4XQLPLLFMhWYq9LZh8Ez0JmLxTEkrSygmflPBi6Q0tVXBQPFbDkEm/A5E0MlSuyMMFJ1MkiBUSaylGKhGp5PEC6XR+STxQml0Qkm8UBqdUQovlEZnlCIIZVDHm+xlh9LwjqxzyjFy7ndFjj9GyruHRgkcESV0PNTIc8+NqzcBzCFqQTrBiAKhSUnqlSTJXoPtGNV3rHmLFRBWUIsootExklruzcdduFGkQ9lbwaDOyWiSYMXdyIL2YpvIkrYOclTiK/FB4htLSfznh3Q/OPNNgQuhIqZSicO+Fk/7Fgulf47M0FdpcFhBbe9LBFQS23sMUxHbewxTE9t7DNMQ23sMMye29ximpbb3GGhBbe8x0JJa7xFQu6LuTBgo9fkgCiqp7T0GSn1UgoJqanuPgRpqe4+B5tT2HgO11PYeAy2o7f07aNooL2+x1lfv+Ra8qTauSdcur/NkUwX3/KbvqNLdo4v9PL0Q2pbSqtIKm44O5/8AiRtBKQ==",
+  "createdDate": 1624383418150,
+  "descriptionMarkdown": "A small no buffer 3way t junction. LHD. Use the crossover one if throughput is a problem with this.\n\nSized for 1 chunk. Snapped to global grid.\n\nv2 - fixed the signals.\n\nv3 - snapped to global grid.\n\nI'm going to stop updating this individually. See my rail book for the most up to date version - https://factorioprints.com/view/-M8N1tC3nVdjiOLH_X0z",
+  "fileName": "3wayv3.PNG",
+  "image": {
+    "height": 1263,
+    "id": "vmZKUML",
+    "type": "image/png",
+    "width": 1430
+  },
+  "lastUpdatedDate": 1624743537809,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/1,0/",
+    "2": "/train/track/",
+    "3": "/train/left-hand-drive/",
+    "4": "/train/junction/"
+  },
+  "title": "3 Way Small Junction v3",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/3wayv3.PNG?alt=media&token=0edc5303-365c-4653-b05e-5845faa4ec07",
+  "favorites": {
+    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "author": {
+    "userId": "75xJAJufg6N4DHY4yGfcd3Lb4P52"
+  },
+  "authorId": "75xJAJufg6N4DHY4yGfcd3Lb4P52",
+  "blueprintString": "0eNrVV0tu2zAQvQrLTYGWMmpZsi0tusm2i6IfdJEEBi1NbCIyqZJUXNfQAXqQXqwn6ZCyLSdR4dhJWhQBgtGQ8+bxcYak13RaVFBqIS1N1zQHk2lRWqEkTemZ0FklLMmUtFoVBeSk4DIXckZKnhMNXyswFnSPfBFFsf02RFhYGDJdETsHYizPrhm5Bihd4EpVmhRqJowVmSES7FLpa2JVWSJ8VfYu5EewaKQX8kxJCZklnGg1VaXSFud50FItQeP/AshS2Ln3zTSAxE8NjCBLx9pHu7F92n+AwCRIwIUjhc8G0obIXC3JgstVsw5D1BWC+xW6pZAll5YI6RExIU6STq/FVEhulWZE9KBHDDQ0XAaTCZAZ6iJmkheOTYhZW/nws021F9Ajn+bcvnTqvqCMCpeNpudr2gC53ZN8AbhtGdczFWyWHOCSaY3zZQ7faNqvLxkFaYUV0IT7j9VEVospaJzAtjALyEW1CKBAEbXIAicVJi6VEU19rCkCBuE47sWMrtCMenFds3uQ4Q4yh0zkoINWoE7A8Q4Qiee4I1kzPmZ0U4qTKcz5jcB4X7QedYJjuUcyzrv/hcu8EtrYSauVXZWO0Y3QtkLPjmIzIwCezZ1syLTk2jNN6Vvq1FOVLSt7V/sH4dWXdZdAg91srrEUF4CtcUij0XEatcB3ZDpRFwMO5vg4VQKq2Rwvr+hWzONx9mlPNoeIXw92DE2veGGAUX8i0NTqCu5Svh/jZu1CPEDduVlRS8m3hjpYzsPjtmpfIn8SBEZ8B9rFJd5x2Z49h7jsenWAvfoQNqYZN7dtLP32QOmUaXhCTe/6PvyXNb2VEnn0n6pgOyUaPabtw/+27V8/W9t3tPDBtu84Kjo3a3x624dP3fbJsRdqfByV57xQT62gWxfxrx8/6d8qhsfd+Oh9yEXjzlBM5F6fLs15n/VZwgaXDK3Q/aEVsogNvTXA0Zj1veW8kbcGbOR9EfpiP2+IYyNvjXA08aMj9I29b4xWghbmdc9ZZN7+FGC04FPAZdJ3m5fze3w5f9g++HH8BrTxNRQPwyRKkjhKsOSjN3X9GzT0PvE=",
+  "createdDate": 1733790055051,
+  "descriptionMarkdown": "Want an easy way to just request a stack or two of items to Nauvis but you don't want to take the time away from defending Gleba to set up something complex? How's about a simple 4x4 circuit that will let you select how many stacks of any item you want in one input? Well, that's what this achieves!\n\nI've set up a cargo requester circuit that allows you to hook up your bot network and landing pad, and request any items you want a certain number of stacks for if the network is low on them. Set up is super simple and making any changes is as simple as changing a signal value in a constant combinator.\n\n##### To setup:\nConnect your roboport to the power pole with a green wire, and connect your landing pad to the power pole with a red wire. That's it, you're ready to request items from space!\n\n##### To use:\nOpen the constant combinator and set the item signals as you desire. Just remember that the quantity number that you set is per stack. i.e. requesting 2 stack inserters will send 2 stacks of stack inserters to your landing pad. So, say if you want to export basic materials from Volcanus to Gleba, like 10 stacks of iron, copper and steel. Just set 10 iron, 10 copper, 10 steel in the combinator on Gleba and the pad will request up to 10 stacks for your network. Keep in mind though, the way the garbage cleanup works will make it so the cargo will request items up to the requested stack but will also let the storage drop by a stack before it'll top it off. So if you are requesting 1 stack of items, it'll request that 1 stack when the logistic storage is empty of that item. The example earlier of 10 stacks of stuff will fill to 10 stacks and wont request an extra stack until storage is below 9 stacks. \n\n##### Technical info:\nAs with the nature of roboports and how they send logistic storage signals now, you'll often get a ton of garbage signals of things requesting items from the network and causing a bunch of negative numbers to spam the cable. Not to mention all the small requests of items through the network making tons of requests that are less than a stack. This will clean that up by ensuring the signals going through want at least a stack of an item. This filter is set at the end of the line of logic, which cleans out any signals that are less than a stack, leaving a more stable set of requests. This is also why it will try to keep the storage level in between two stack values, the stack set and a stack less. Because if you have any of a requested item that is below the requested stack but above the requested stack, the part that checks your logistic network will subtract from the requested amount. Since that is less than the full stack, it wont send that partial stack though, just up to the full stack amount. An example of this would be if you're requesting 2 stacks of assemblers and you have 5 in your logistic network, it will only request 50. If there is 0 assemblers in your network, it will request the full 100.\n\nI hope that technical info is understandable, but it's not necessary to use this circuit network.",
+  "image": {
+    "id": "mxLXW6j",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/mxLXW6j",
+  "lastUpdatedDate": 1733796868467,
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/general/mid game/",
+    "1": "/mods/vanilla/",
+    "2": "/mods/space-age/",
+    "3": "/planets/nauvis/",
+    "4": "/planets/fulgora/",
+    "5": "/planets/aquilo/",
+    "6": "/planets/vulcanus/",
+    "7": "/planets/space-platform/",
+    "8": "/planets/gleba/",
+    "9": "/version/2,0/"
+  },
+  "title": "Cargo Landing Pad Requester v.1",
+  "favorites": {
+    "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,
+    "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,
+    "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
+    "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
+    "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
+    "M7syl4343PWRo3WcG8qxY9MylnR2": true,
+    "xsZ1ACrRRMU2J50EsFoXdBKuEy63": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "m5Kg9ALWDLbQteIB8ifgj3a40kV2": true,
+    "HtN0yGhoapbvEM7CMh5fnaU5c2e2": true,
+    "ZCdZvG7ntGbzG03U81dfaiGrInP2": true,
+    "r5dPxcCZl1aHlbVdPeMcQDWSIuw2": true,
+    "Xmx7GDXoyYfNGXGTBBPLUZTuSat2": true,
+    "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true,
+    "2S0paqEeWWfRZlYoDYsKUn9lf752": true,
+    "v68t9V9wyCWibJgROF9Y0O89OaF2": true,
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true
+  }
+}

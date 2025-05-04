@@ -1,0 +1,31 @@
+{
+  "favorites": {
+    "3Itc0snPXKhoQG8iAzN8qiBPTdl2": true,
+    "XapKJxfpaCOr004b6kXVsc5wZzd2": true,
+    "30zH8cZUM2ZbHn2mk2T8qLccDTs2": true
+  },
+  "author": {
+    "userId": "RNQKhmN5VtPYk5nmq6lhpXah09q2"
+  },
+  "createdDate": 1556705096687,
+  "fileName": "スクリーンショット 2019-05-02 16.04.28.png",
+  "image": {
+    "width": 772,
+    "height": 964,
+    "id": "NXJE9IB",
+    "type": "image/png"
+  },
+  "title": "solar_pattern_17_v2",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-05-02%2016.04.28.png?alt=media&token=138f6e23-de0f-4cb2-a4a6-6b9d2645a20c",
+  "authorId": "RNQKhmN5VtPYk5nmq6lhpXah09q2",
+  "blueprintString": "0eNqVl+2OoyAYhe+F3zpBAVFvZbOZWJdMSCwaPzbbNL338bOzSV/s4VdjU54eDkc43NmlmUzXWzey8s5s3bqBlb/ubLBfrmqW78ZbZ1jJ7GiuLGKuui5PQ9tUfdxVzjTsETHr/ph/rEwevyNm3GhHazbM+nD7dNP1Yvr5ByQgYl07zGNat/zfzInTiN3mj/zxiF4Y6ZNR1fV0nZpqbPtXBv9QO+RDURiBSREbpKAQElOiDiUFrURhmGX4xsloTgaaqzeKphga1CIPLZrWkmNakn1CFKLApIg3riQck5KduJKguS02iCQhYHCXiewYz4zA6MZyw9AQMLxxcqhRHjUKUyPPrMkwMW+d0aAz+2KnJCQHnXkmL/WoKUA1+1sgyN2OY2qeyyRoMSkYYX3iTIomOD/EJB4xaIK33ZeTjJ8AD9NlGKt13CvieQ5wjxYwv/uRlJAMML/ynS9ofvMVQ2tB43scSz5fwPTyFULmRYDZTXclHlcEGF3lN0WAydXnnggBentwPC+jkOA67xSSgdaGw13PLiWykCJEbt9ChxUhnytgachPTCmCOhDZOyQP7ECeg1GGlV2aEVh2PeeiFCEdiHblJ7IX+xWbxtRjb+u4axtDLNEba1RQgyGvATILLDCepip1SFUl66HMw6qqp6lKMLyF3xTFAzvmejmaL23r7a787zIYsb+mH9YRWvAky3SaqjkZ3/L7n/s=",
+  "descriptionMarkdown": "少し蓄電池の個数が多いが、繰り返しパターンに落とし込んだもの\n\nv2\n- 変電所どうしがつながってなかったので、大電柱挟んだ(どうせ蓄電池多いし)\n- パターン化するのに、ソーラーパネルひとつ分隙間ができてたので右下に追加した",
+  "lastUpdatedDate": 1620553160572,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/power/solar/",
+    "1": "/version/0,17/",
+    "2": "/mods/vanilla/",
+    "3": "/general/tileable/"
+  }
+}

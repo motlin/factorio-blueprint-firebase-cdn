@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "MMK6sG2qM9hSNbQv4BzuyPFBbuw2"
+  },
+  "authorId": "MMK6sG2qM9hSNbQv4BzuyPFBbuw2",
+  "blueprintString": "0eNrtmttuozAQhl8F+XJFo9icUXdfZFVFTnASawEjY6pGVd59B8jmCMFGaZtte9GoEDOe+POM/5nkFc3TihWS5wrFr4gvRF6i+PcrKvkqp2l9T20KhmLEFcuQjXKa1VcJW/CEyYeFyOY8p0pItLURzxP2gmK8fbIRyxVXnLXWmovNLK+yOZMw4JodGxWihEdFXs9em/PwxLPRpv4PJgEXlRTpbM7W9JnDAzBqZ2YG7yXNo2V9d8llqWYXn+SZS1XBnb0T7YgHRhdr1E5QKlovyLS+yAoqG8di9AueEZUqqlFWiw34V+VqtpQim/EczKBYyYpt20lztti7juuXlWQsP14/nqA4gLFcLiqumkuyfYKnSe9w93Q4oNnCdBdEyN5tKrlaZ0zxxQAU8g+KDw4kXLbetzN2IDrYvQ2lktVmZgdYD7CrRMGAVeMG+jEaVh8PyZLz5fUuaNjdHBwzbJEeNscwkNxdGE28U2b+G4ZVvWpXo+pxDKhnJjdqzfPVyNjqYIlDXZiuGUyiB9M1hOm0MN1zmOTL50hsxsfR4+OZ50jfLN4+QY7s5kF6gXTEoWa4+AfHMpqCXyn4IgFJIVLWAcON9gfWxDPxPtTzJxgraoJvUYMNMyrWQxKaZtRjJMOS5nMC6ojI6JyOfUrD7z0p/fOhHXq0PxPgS84982BPb0dEhjtiL3LDjw3SxzsIUqMkrpk08dQQiPc1s6ZGcFzngTVPVWxam7vfQLq3/ACPqSYPYsjDf1ceO4VpXgzeVyhNrx9wRP8cMmzPXBxb1ycmfbvEMRTDnoYY7lqoSNMfd6wYjr7FcNgrkXQagr2JxBsrhqP3E8M0P27q3BLSqeU3ATVYtOiSOlS2/9ZAV6VGk74O+ZKnisme3v5gtq6a5gHBbuCGju/6x63+0Qdk7+cPxkqQ/zB57Jf4RoW0Z7gnyfUDCIdmB1Qv09C8eeaZJaBbNc92RN6kd9bYNgMamKhKZ4BmpKtjtIWHaUEd7srp+2paP368BDWrHpzzOJzq8SLTcbyiL/0lQ1eT2qz61tTNBI+t9t5RpJ1+93aLCvDnvXwDSG5Q53Vtlqm2XTLQag27NhJYa36eER/9msNGKZ2ztF4wIeXGWovEUsKiSWKVImNWwlK6qe/8YaywuLLqdbOWUDzCklpgAcZaqRDw3tJSa2Zl9MVaCWVVRUIVSyYwAyAo22wQgjSMSOB78IeD7fYv/8XQnw==",
+  "createdDate": 1678569814469,
+  "descriptionMarkdown": "It is time! we have found an answer, a circuit build that can calculate MAX() can recalculate whenever a higher value is put in, can ignore updates from anything under max being updated, and will clear itself when input is turned off, best of all it fits inside a 5x5.\n\nVanilla logic, input on the green wire coming out of the top left combinator which is only a place holder, all inputs you want to calculate with should be positive, but you can add on logic to manage other ways you could use this system. the main 5x5 is the looping logic that filters and then converges onto the final output, you can change inputs mid processing or after the final output, the red wire on the right going to the pole is your output. output does include the red signal which is used as temp var for holding max value during calculation, it can be useful to you later on but filter it out yourself if you dont want it, you can change the red signal to any other you want to use but just know it must not be a signal that is part of your input set.\n\nThis circuit runs in O(n) time (big O notation) at worst case, which means it takes 1 cycle per input signal, but using the \"anything\" wild card in the circuit actually made it faster and closer to O(logN) time, due to \"anything\" being \"random\" (based on signal priority used in menu generation, ie: the order signals appear in menus.\n\nEDIT had to add delay and thus no longer 5x5",
+  "fileName": "factorio_CRcwMFeIvh.png",
+  "image": {
+    "height": 417,
+    "id": "bdK9gfn",
+    "type": "image/png",
+    "width": 530
+  },
+  "lastUpdatedDate": 1678598780387,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/version/0,15/"
+  },
+  "title": "MAX() function perfected, in a 5x5 space",
+  "favorites": {
+    "z7mV7lh4PLggQPzJvQ1q3VgSKFT2": true,
+    "5TAgnTL0EMT3plX0s9WaLESGdJj2": true,
+    "NZtjs8uG73gWW6jkkFVphdw39sy1": true
+  }
+}

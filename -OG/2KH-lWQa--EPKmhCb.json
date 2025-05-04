@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "l9MkSnGYrxWIag8WmohY8QVtCxa2"
+  },
+  "authorId": "l9MkSnGYrxWIag8WmohY8QVtCxa2",
+  "blueprintString": "0eNrNV0tu2zAQvUrAZUEF1jexgHZXdN90ZxgCJY0kohKpUlRSN/ABeo+erCfpiKrlT2RHdoKmMBCPyeHj8PHNcPJI4rKFWnGhSfhIeCJFQ8LFI2l4LljZjQlWAQlJAUxzkVtaPoAia0q4SOE7Ce01HfGOuUwKVsV7rs56SQkIzTWHfhfzYxWJ1niGNt2s7+LQTGgrkVXMBdNSEUpq2eBaKbqNEM+fX/uUrEho2TfetY8bpVxB0nvc0g5EK1lGMRTsniMCLmv6+WbfxlA2x6Ek46UGdTiqV3UX2D1XusWjDpH2R7e+4Mg3nMDj4KCQqjJOGH7NlAk/JO/NQNtRba+X+Fl33B1w4JzHQWCf4MD7rzkIZkdJcAdoprguKtA8mSwFd5IQtsARTqd8YCTjqtHRVtHPHhq3QxYRY/qiu26RrAFZMTGSd+giW1235+08Sp53uYLcN1bQ3aspyL+cBOeNScgVgDiznBwnIjg3lYLZW6USsKS4JJs2616aUFxk8khO3Qy+MsuaQiqw6raqR9hz97NpBOt2wMpYo3HXBhSqZATLfxZrPhkrOCFw2zkm1Q1BteQly2GSKrtXvm0gGhC1amEkdns24KeQ8BTU5BJvT9LlX9QDUe7+Wvybct8L64Co3z9/Gap6lR52XVMekETWq8hUgChTsoq4QCASZqxs4Eg1sHfutI2xLhoCR8rhlukxlG2TstPoPUXxdm7MaA5vjJtz1YjIaplakOdkMx490dbY3tveYL8lPVXIgtvx9LG9yfnj7INNeSASrpKW6wgEi0tI+0Sgw/AgxLFS+TeqPZ7MlfePmekT9+T0ASsXiukelELRR+iVfEW8H2Dy2CRwhH2+VD3BZgBSy+w7yvP2BW00QGklBaDnqYJ3lOVgMss7YPOJHf1LWJ6WZRvKZ09L3etSfjOZJ++UGsegL3l0zBWMgW1fnQpS3lYWlLi5wsailiWcDtdgYtl7wIC7orewqUNd6izpwqE29aiNlosWPg+uMbtpz1heN9h5okF944l/aWCsYDuNX2gHvW0859TvbA/BUNjOEgPgGqqugA3//1JSshhQF+RTCTG7sq4+5nlz9RkyjLTAabzoxhzKD5y5N5/7vuMHroMl8g86aRoq",
+  "createdDate": 1736296439943,
+  "descriptionMarkdown": "Allow to periodically refresh eggs and keep them fresh (using timer and cooldown)\n\nWarning and condition : always need Nutriment to run and avoid eggs eclosion\nDoes not include tower defense that I advice to have (maximum eclosion = 2)\n\nPrincipal : \n1. Counter increment until reach specific time X in minute, then trigger inserter to refresh eggs\n2. if eggs > x, trigger other inserter to burn \n\nConfiguration if wanted :   modify \"Green square\" value = number of minute before refresh (default = 10)",
+  "image": {
+    "id": "IQMHeG0",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/IQMHeG0",
+  "lastUpdatedDate": 1736296439943,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/planets/gleba/"
+  },
+  "title": "GlebaPermaEggsRetain - Gleba Eggs Refresh - cooldown - periodically",
+  "favorites": {
+    "VggjOSzhaDU7YY0frtN78lqA6xi2": true,
+    "xn9VsXbjq1ZG8ipiqdl4VXkcAV23": true,
+    "TxssEEX4FceznHOhiUxM5HORmEe2": true,
+    "WG8coAt6hLfPu0dCEOYC5lrDrJ73": true,
+    "lxP2ui7wyLgSxfvc25RdfFc720m1": true
+  }
+}

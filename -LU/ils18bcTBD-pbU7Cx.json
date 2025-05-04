@@ -1,0 +1,35 @@
+{
+  "author": {
+    "userId": "KHiVNgd8hhOuc9SwS2OqGYE00JA3"
+  },
+  "authorId": "KHiVNgd8hhOuc9SwS2OqGYE00JA3",
+  "blueprintString": "0eNqdmNmK20AQRX8l9LNs1KuWf8hzHsIQZE0TGrShJcQY/3vkMRkCc2vi6ycjoT7uunWrVOqLOnVbnOY0rKq+qNSOw6Lq7xe1pJ9D093urecpqlqlNfYqU0PT366WsWvmw9QMsVPXTKXhNf5Wtb6+ZCoOa1pTvGPeLs4/hq0/xXl/AAIyNY3LvmYcbv+3cw4uU+f9x+jrNfsAMY9BPmXYd0bTtlu/dc06zmAj+ujvGF0dPQK5x0D/5XhOGV0iSKCjKvBuCjYqgVO+c/r4mrb+ELvYrnNqD9PYxY/A/K9ICFZReccK6ZzUGYalH/Wx/pTCGVmAWDIgAymOdo7BGdeetY4ECpw6OK6CUwf6Tpe0OLkQU/VkPeSwD+as1MK2jKakhiIZw4pUCpuxZFQSx3GpDxDiuULHEM7JmEEa2UIIbWQraFuRORI4NqeUgUFZTVensBnDlpPA4ToyLG3L9mOhsi3ZjSVMeLJvQVjBJB3LU1ISY99UVGlDhqP8ixHcSAybg2N7rxdmWbL1ShjHqIIj4sZh+EZy7DQszLCOHIYlzHOzMJxiHTUKQ3V8TqojfbdoTh0JY6iE42nPW6qkBQjlXoHB2RdP9p71r3aCtqSBRU5JKYMZFRtUwJsJ5PArcrj+K3x3sw1YC0NrIDuwyHFPNRtdQJin8o4VCpTM+NAmFFR9CxDKxTfGS3Y//Kr/OSvLVNec9mW10kf35eu3/cavOC9vywub6yoYbYv93fYHSZhOSQ==",
+  "numberOfFavorites": 2,
+  "title": "Early solar array",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2019-11-28_0-26-13.png?alt=media&token=2665ec49-9489-4261-974b-3b0571f72d65",
+  "favorites": {
+    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "FD6RNKG7g9aEIIyr8VBZkivmRBC3": true,
+    "j9jH8t85vHcpeWE2tDPOYEkdlMr2": true
+  },
+  "createdDate": 1574890340625,
+  "descriptionMarkdown": "### Blueprint goal:\nI wanted to get an early game tileable solar array to replace other power sources. It must be reliable day and night. For power distribution I use **Medium electric pole**.\n### The math:\n#### How many accumulators do I need per solar panel? \n* **Good ratio:** from **0.8** to  **0.84**\n* **< 0.8** - have no time to recharge accums overnight\n* **> 0.84** - panels idle because of full charged accums. When using lots of lazer turrets can still be a good choise.\n\nSo my choise for early game singe tile is **0.8** or **4** accums per **5** panels.\n#### How many accums do I need to get **P** megawatts day and night?\nIt depends. The formula is: **number of accums** = **P * 20**\n\nFor example, for this particular blueprint I wanted **1.4 MW**: 1.4 * 20 = 28 accums\n\n28 / 0.8 = 35 panels.",
+  "fileName": "2019-11-28_0-26-13.png",
+  "image": {
+    "height": 883,
+    "id": "TpoYzSm",
+    "type": "image/png",
+    "width": 229
+  },
+  "lastUpdatedDate": 1574893552365,
+  "tags": {
+    "3": "/power/accumulator/",
+    "4": "/general/early game/",
+    "5": "/mods/vanilla/",
+    "6": "/version/0,15/",
+    "7": "/version/0,16/",
+    "0": "/version/0,17/",
+    "1": "/general/tileable/",
+    "2": "/power/solar/"
+  }
+}

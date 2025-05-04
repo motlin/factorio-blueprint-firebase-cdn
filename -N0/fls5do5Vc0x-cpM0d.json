@@ -1,0 +1,35 @@
+{
+  "author": {
+    "userId": "vyfSVhHbhrPPmmHXTei8ed68bIX2"
+  },
+  "authorId": "vyfSVhHbhrPPmmHXTei8ed68bIX2",
+  "blueprintString": "0eNqtWNtu4yAQ/RUvz3Zlbr7kdT9jVVWOjVJUB1uA22ar/vtiZ5WmCSSA+5TE8ZzDzHBmBj7Atp/YKLnQYPMBOqZayUfNBwE24HcjEt28sGQaEz0kdZ5wzfYqGZlMFGsH0aVJI7pkEP0hGeVgnpsv26ZvRMtU8sb1s83oF0iBEs2Y6SHbSd7NxO9gA1NwABv0mYJmq4Z+0iyb3xq52IGNlhNLATfmCmz+fADFd6LpZ0t9GJlZ60xicEWzn3+x91EypTItG6HGQepsy3oNDDYXHZvJPtO7IEo37UvGhWJSM3lmjDyM20buhuyt2ZlIflliq+Url3oyT76YlzcydGZJPh9TwITmmrNjCJYfhycx7bdmdXP4LpxXY8/1vPIUjIPix6Quoc4gfaBLuE0cQMcla4//Lp5dAKMgYOwPjK+AJ+Or3MnBfB4TZiEg/wnyB3pBkZ4yIcZpTvYVI7m3QW7wwSs+CwGNcgm6KMjJpWHSDp+KVZS5m9IZxTIiisiZNQtBFeUScibqvkv1iXHPOj7tM9Yba8nbbBx6ZmPLvzkkGN89b4dJztJE8NFCAfOzwsJYn7XPTNkcqc/8sOFAV4FyQ11n2QaM/IFP7l8Fu7AhRym9vC90tyog8XemvLFxhlcmTYtiTwvKk+J/2ZwCGyP1zG91J7+F/8qroPxG6JaGyBZW8QSuYNQxO6e4XwncOwflayhjuhKCodUHu4tPneLSVn4QinGLrKipCIdvBxKyoVGAxrGzXjk0XtsIfSWObu9qVHjiwDs4ZUDFDops5Q+MgoBj9JyvkTPO/V3JgxtBbmMMmcRRwLgco2C4ponimL5NVkyWmKwgjJqecczEjldURVwEV0Uc0oRxGdhM6K1BNiXWZoIrvwJW3K5fuPbWZhFSZYi/5mnIHEv8R+/qR2ZK4j+Sl0EBwn75K2/nj8TItV5TzQkNVs/FSe2OfEgRT+CKUqgiLw7L3yRpH+5IzInZfe3gc5NSh8cpaASh/hp2n/xDhjvqL26IgzxBfmKD+PY+op6i/XZjZcPxH5th0DxOqT8w/ZFRi8ZcfsGA4+FjerzW3Zxdk6egbwyyeYYSzXuWkGS55k36oekWZ8361RGwgqSsUUkJxDQ32fgH7Dq/HQ==",
+  "createdDate": 1651075678742,
+  "descriptionMarkdown": "Probably one of the train loaders ever, fills a train full of items that can stack up to 100 in roughly 175 seconds if empty and 72 seconds if the station has items. Half the time for ore.\n\nAlso has enough space for undergrounds under the station, so you can make an extremely compact train loader, just don't blame me if it ain't up to par with 48 chest loaders.\n\nCan easily be placed on both sides of a station, just dont flip it.\n\nJust make sure to constantly feed it 90 items a second. We don't want the balancing to fail now, do we?",
+  "fileName": "cool.png",
+  "image": {
+    "height": 396,
+    "id": "OvgAOye",
+    "type": "image/png",
+    "width": 771
+  },
+  "lastUpdatedDate": 1683064152832,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/train/loading station/",
+    "2": "/train/left-hand-drive/",
+    "3": "/train/right-hand-drive/",
+    "4": "/belt/express transport belt (blue)/",
+    "5": "/version/0,15/",
+    "6": "/version/0,16/",
+    "7": "/version/0,17/",
+    "8": "/version/0,18/",
+    "9": "/version/1,0/"
+  },
+  "title": "2 tile inline loader (90/s)",
+  "favorites": {
+    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true
+  }
+}

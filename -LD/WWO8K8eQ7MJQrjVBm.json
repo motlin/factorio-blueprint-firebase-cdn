@@ -1,0 +1,33 @@
+{
+  "title": "Single-Lane Belt Balancers",
+  "favorites": {
+    "HkSn5CQxO3MuXrPh5heCABgdT802": true,
+    "SKFETf26LTRYzpF18AfTGVsWj782": true,
+    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
+    "r1bYpceVwfdUnrbEPz71XljbyPl1": true,
+    "QU9yxeWscQWLb5JD5S39mUiXQf03": true,
+    "xQ09HoWjWRVs9CuesANu4Bthx5g1": true,
+    "UfI0eZikVUVkKmmB9fUww9voe5w2": true
+  },
+  "author": {
+    "userId": "f9xtoZ8wCBc0m5qFPkbS0YKgZSe2"
+  },
+  "descriptionMarkdown": "Yellow, Red, and Blue belt balancers. They prevent a row of inserters all drawing off one side of a belt from creating a backup upstream.\n\nRequires two splitters, one complete underground belt, and ten basic belts (same setup for each color).\nTakes up a 3x6 plot of land, feeds in and out on the center of the short sides.\n\nOn the output side, the corner belt can optionally be omitted. In that case the output will only fill up one side of the output lane. For this purpose, both \"left\" and \"right\" versions are present (without the corner belt, these will output to the respective side relative to the direction of the belts).",
+  "fileName": "Screen Shot 2019-04-27 at 7.17.27 PM.png",
+  "image": {
+    "type": "image/jpeg",
+    "width": 2540,
+    "height": 1430,
+    "id": "v21ErOH"
+  },
+  "tags": {
+    "1": "/version/0,15/",
+    "2": "/mods/vanilla/",
+    "0": "/belt/balancer/"
+  },
+  "authorId": "f9xtoZ8wCBc0m5qFPkbS0YKgZSe2",
+  "blueprintString": "0eNrVmc1uozAURl8l8hqPMPmBsOy6K7qqRqOIJG7GGmKQMZlGVd59DIgSddzYF0wzs4pi4o/rm5vDkfKGtllFC8G43Gzz/BeK3/qVEsXfr97W19gu5+1yyQ48zeo1eS4oitGJCVmpFQ/x9FgvtJ/AZ5pl+W908RDje/qKYnLxANsfr3YGlx8eolwyyWhbRfPmvOHVcUuFin7fLUXKyyIXEm9pJlVqkZdqW87rW6oo30NnFOP5pS7mQ0pgnUK6FA/tmaC79tJKkzl/z6zUWcRB5Or1dm2qT11z8koWlUSa3EXfryJjUqq1v/O+LdvEQHfapfVpMekLuzpuoAldQVtIdKWF4Kb5fc8Y/6RlEXBILI67hvbQ1x2X+NAYbdcIATZfXwz0V6CvZW4xn7gbUO18kgWwEJWiMMEkPaotPb08lKVqm1p7bog0e0izlO+omOHZI32pP3Ciomx/wVEYBBFZ+2HQ08evi7szDZNpaIj1IAtGwfEWYkFjoefWYgC3buLPLZgHEND4EAmdYCZyQpn1JGwGIFAL59X/w0PL5puYaH7s2/FQXPMwYYefZiASF0AUdP/VbviSlhK7EUSrqCGW2ARPpYpN+HhftDr8IGmEtNVgjqBGwvQRMEcgh4T0lRhEEpLlG2wS8K2YEAqIMnHUMMzWcgkoyUjUhO7Behncm6bJhDQdJJijOQ0fEpNqApFnxudU0gkjKMA8R8Mpcsem9XSUhyJ0iI3+wzx1JKeWogHlqZ2ezl0AdXdO+Vf7KX0tBC1LR4pqmzbEUrvsqUS1yx/vqrZdGKSrwBYbjBXaVJi0woYL5K3AHpvUFRhnslfYl2QCLizNxFzznFtrLKwwI3kf1BpYZRd3J28yLXkH6awLrM9HAG0kabFr1Nrb52riB07olDmRUyCu3ZB75Ya1U6CWWKLWqd4P/iHZ8teB9X5kr532LnWpuPlzv49+YvyQUayi+zuU6nqqxuVEN90/Xp/c6/IHp4TLVA==",
+  "createdDate": 1556414304856,
+  "lastUpdatedDate": 1556414304856,
+  "numberOfFavorites": 7
+}

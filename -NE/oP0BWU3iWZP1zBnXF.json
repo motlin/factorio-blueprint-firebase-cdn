@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "6IFsgG1yGWSitLdUNyDUei9rbtm1"
+  },
+  "authorId": "6IFsgG1yGWSitLdUNyDUei9rbtm1",
+  "blueprintString": "0eNrNVlGOmzAQvct8wyoQWCBqT1JFiMAksRZsNDZR0ogD9BY9W0/SMWyyaeLdhJWq9ifEeHhv5j3PwBFWdYctCWlgcQRRKqlh8e0IWmxkUdt75tAiLEAYbMADWTR2VaI0JNbdBqH3QMgK97AI+qUHvCGMwBFlWBxy2TUrJA5wPe9BqzQ/oqRlYxh/ns7Sp9iDA/8Psln0FDMHYSmGRF7UriDc+yhJlNuGgfyWVIlaM5TNUlsc3SJWfqOqrkZ/Douw772bfMJzPg1Womt8rLHkvEq/VfUDmYWcmQN2fobVpihffCE1kuEdJ2B2BehBJbjYMSryQO2QSFSYD2C5Ft8ZOQgdvNEk3uSGl803pOp8hdtiJxTZ4FJQ2QmT8151RlgL0ia/c0Q6KqTVNJzHMIJzVvaYBXbRtAUVxnLA12H7lYewqPJtISvLaLhAdtNQh28Rw+YQxu5aKfp3NIocEsWTJLr0Ori2Jvxngv368RP6KVU/X1SNWPvlFrW5fxqD06mQY81DYwX2h7C67G/Bq6Rf9q5mSM7ca1Gz0hO6Yebohr8lefqn5OHsSvMvg+IPavFstfBeCx4n4WlEuqmX77W5Q9D0cTOTz5qZvWNmNs3M5MbM/2HEuAbIg7qkk4yNpxkbzM4YuG+JX2i+YSzdKjL+Cmtzb0ilWXYzpFw8wQ1Px0XQhhRfP2DKPmTyTh6pzrSdARdz+Enm5DFmIQfi5fgdwDfePm48YBv0GJ8GUZKFSTJPsjiN+v43m7cCiA==",
+  "createdDate": 1695243834307,
+  "descriptionMarkdown": "(Rus)Модуль для обогащение U238 -->U235\n\nМожно ставить в ряд неограниченное количество модулей.\n\nТребования:\n1. На пакетных манипуляторах размер пачки должен быть таким, чтобы 40 на него делится без остатка (2, 4, 8, 10 ... 40 :) ) \n2. U238 подводим на верхнюю часть ленты (U235 будет выгружаться на нижнюю часть).\n3. В конце ставим фильтрующий манипулятор, который и будет забирать с ленты U235.\n4. Для начала работы необходимо в каждую центрифугу загрузить по 40 единиц U235.\n\nДальше процесс будет проходить в автоматическом режиме.\n\n\n(Eng)Module for enriching U238 -->U235\nYou can put an unlimited number of modules in a row.\nRequirements:\n1. On batch manipulators, the size of the bundle should be such that 40 is divided into it without remainder (2, 4, 8, 10 ... 40 :) )\n2. We bring U238 to the upper part of the tape (U235 will be unloaded to the lower part).\n3. At the end we put a filter manipulator, which will take U235 from the tape.\n4. To get started, it is necessary to load 40 units of U235 into each centrifuge.\n\nThen the process will take place automatically.",
+  "fileName": "Kovarex23_09_21.png",
+  "image": {
+    "height": 601,
+    "id": "KkI3zjE",
+    "type": "image/png",
+    "width": 776
+  },
+  "lastUpdatedDate": 1695243834307,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/"
+  },
+  "title": "Kovarex enrichment (Обогащение урана) 21/09/2023",
+  "favorites": {
+    "lSSA5B8lNRaIg5B9rZMfYaEoF5S2": true
+  }
+}

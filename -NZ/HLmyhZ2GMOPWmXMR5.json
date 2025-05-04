@@ -1,0 +1,20 @@
+{
+  "author": {
+    "userId": "LuU5pX0Ac1Yqh0x73p61evAZUns2"
+  },
+  "authorId": "LuU5pX0Ac1Yqh0x73p61evAZUns2",
+  "blueprintString": "0eNqNVMmuo0gQ/JUWV96MWWyWJ80BY8DGmB1sGI1aUBSLzb4ZePK/D3596cMc5lTKyqzIyEpFfCFhPsC6zcoe+fxCMlCVHfL59xfSZUkZ5O+7fq4h8olkPSyQD6QMincEqqIOHj3IWjBk/R91WwHYdVX7E59w5PWBZGUEJ+QTf/3zgcCyz/oM/sL9Duaf5VCEsF0L/h/iB1JX3QpSlW9GKzD25+4Dmb/PtdsYtFnwK7sC9kHSvct+mwzBoNq6Lo6PxcI5G4tFSfnZCDxn2L7W0FdBL2wjx3Cq4NNiawUzbwBfyGYFRSkqra8Png+kHm9xITlim+VOkqSa0kJniL58UsyrTz871dlJNgExdh5Tr8P7jaMkl/mET3sjS0xFFUf7eMYt5zCBvVVYgBMd6vGQLReYOn9cTrN1Gw3TAMn9oWHaop81IeXP5+cON/ubsqSRKFQHgT9hcX/ZeKPR7A7cMJhJIsqXEId+k0spyK9+cy9xu3LVAxkc5btDK4c9ozGdLRRV6hlUSuzIQqmOz9L03EwLiTsmnE1qMleK+5DDd12iBKaGMVYnuv0t7D3L0BNzoTXPs/nlaQepLHl7T7qdaB/GtWrh2kMux4SPPDt+3qUxsX36cMHbRIrslmMPho0XeyVwH5zDVjt6UxQSGzRS3U/wBIhuryut6fOEteyHyYX8ZQjo1LWrFM62TXBs9lScaOmP5Uyh6jzJ67KV+yW/baxB7AbXE+Ois5ujpSZbxyNDgw7uceCeqSBXhcCTnPTqYwKqtgcaRf0sv8ojq0U6O19yv4MNxsiDhRI92JwYJZxCnCX7awzWbkwLc8Krh4ylQ8psaq+S8SIt/KPOEamPi9R89E5Vqsu3y4Nk1m/d0FqG3g9FyVHX0FBAnMShu20Fqtc0pr0F13C+AsDpaRxGc9PkeBXeywImzWir2/BBbuhoacI4cqWJnBlC4HTy9gQjFzukgwXSbV3KEEbWM0GLaUc82BjDhAM2PuL9YDO+sEelx2Fkaky3dEBxDdmKetXseUrqlIiJ0Mmf0DkS3ZlsleEIdpt+WhoSpa8yO1clUMaFU6lgKPUdf9xtn2TGnEkH9OQGKO02LmlYy0ObLCK9Uo/Jri/3rs9bCsgYutRv3TmA2s2JwuXpX4nbTtxuWFJh/lqlW1QRXJ0EEXM4ZT9M64cS9CBdEy2MYQtL8LaGr9fr7RXfLvP5m3Q/kDwI//v5CNvuW/MEg29plqAZisVIbPt6/Qs375vP",
+  "createdDate": 1717221142716,
+  "descriptionMarkdown": "This is a \"Flexi RS Latch Processor\" based on the [\"single-decider RS Latch\"](https://wiki.factorio.com/Tutorial:Circuit_network_cookbook#RS_latch_-_single_decider_version) as given in the Tutorial, wrapped inside a \"processor\" (using the [\"Compact Circuits\" mod](https://mods.factorio.com/mod/compaktcircuit)), with additional circuits to enable flexibility.\n\nNamely:\n\n* Configuration using a single Constant Combinator\n\n  Now you only need to edit 1 item to edit to customize the Latch's behavior.\n\n* \"Genericized\" signals\n\n  No longer need to edit multiple devices to match the item being monitored. Just connect the container to the input (\"LVL\") interface of the processor and it will auto match. Also, the signal for activation is also more intuitive\n\nFor a complete \"HOWTO\", please open this Imgur album: https://imgur.com/a/3Pfgq4L\n\nShort version of the HOWTO:\n\n1. Plop a \"Flexi RS Latch\" processor somewhere near the vicinity of \"container to watch\" and \"devices to control\"\n2. Plop a \"Constant Combinator\" near the processor\n3. Connect \"Constant Combinator\" to PARM input of the processor\n4. Set the `H` (High Watermark), `L` (Low Watermark), and `D` (direction) signals in the Constant Combinator\n5. Connect the LVL input of the processor to the Container-to-watch\n6. Connect the ACT output of the processor to the Devices-to-control\n7. Configure the devices-to-control to be Enabled by the `✔` (checkmark) signal going `> 0`\n8. ...\n9. Profit!\n\n\n**IMPORTANT:** You NEED the \"Compact Circuits\" mod to import the string!",
+  "image": {
+    "id": "F7Ylr1I",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/HCnbZns",
+  "lastUpdatedDate": 1717221962297,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/other/"
+  },
+  "title": "Flexi RS Latch Processor"
+}

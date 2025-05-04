@@ -1,0 +1,26 @@
+{
+  "authorId": "ag3MkU4cmcOlczVswpX3Prsv0022",
+  "fileName": "servo.png",
+  "image": {
+    "width": 858,
+    "height": 618,
+    "id": "dxk8kX8",
+    "type": "image/png"
+  },
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/production/other/"
+  },
+  "title": "Servo controller for assembly",
+  "favorites": {
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true
+  },
+  "author": {
+    "userId": "ag3MkU4cmcOlczVswpX3Prsv0022"
+  },
+  "createdDate": 1557896331416,
+  "descriptionMarkdown": "This servo controller uses a negative feedback mechanism to dynamically adjust the number of assembly machines, furnaces, mining frames and refineries active at any time to ensure minimal buffering, quick reporting of bottle necks and optimal power consumption.\n\nIn the top right corner of the blueprint is a constant combinator. Please set the constants as follows:\nB should be set to the buffer size. This is user determinable, however smaller is better.\nS is the number of assembly machines the servo is controlling.\nC is the amount of time (seconds * 60) it takes an item produced to reach the next assembly machine from the servo controlled assemblers.\nThe amount of items in the buffer should be passed on the black virtual channel on a red wire to the medium power pole.\nThe servo control value is passed out on the M virtual channel on a green wire from the medium power pole.\n\nThe servo control value ranges from 0 to S, and changes as the rate of items being pulled from the buffer changes. Inserters extracting items from the controlled assembly machines should be set such that one activates when M >= 1, another activates when M >= 2 and so on.\n\nThe warning lights activate if a bottle neck has been detected.\n\nThe green light indicates servo lock and will activate if the system is stable.",
+  "lastUpdatedDate": 1557951448347,
+  "blueprintString": "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"
+}

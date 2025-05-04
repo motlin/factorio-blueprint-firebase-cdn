@@ -1,0 +1,25 @@
+{
+  "author": {
+    "userId": "Kte5ZhE52cfaQtQcVGVAFqYkB4m1"
+  },
+  "authorId": "Kte5ZhE52cfaQtQcVGVAFqYkB4m1",
+  "createdDate": 1609764104700,
+  "image": {
+    "height": 218,
+    "id": "TVZkpTh",
+    "type": "image/jpeg",
+    "width": 256
+  },
+  "lastUpdatedDate": 1609768479419,
+  "numberOfFavorites": 0,
+  "tags": {
+    "3": "/mods/vanilla/",
+    "0": "/general/mid game/",
+    "1": "/production/uranium/",
+    "2": "/power/nuclear/"
+  },
+  "title": "Uranium 235/238 buffer (fuel factory feed)",
+  "blueprintString": "0eNrtWM1u4zYQfhWCZysx9WPLbrFAA/TYU9FTuzBoaRQTK5ECSblJAz9A36LP1ifpUFrLf5IVxQl2Dz3EgSjODOf7Zj6SeqHrvIJSC2np8oWmYBItSiuUpEv6q1UaCCfsni2I5jhKVEYqzaWoCuIHEbnH35gIiZOSDRg7IXYDkpRabUUK7oFkFeQk4wn6er77Qz4ouyHwZDUnShO1BZ3l6s8jpzHhGFRVtqwsydwc9KJJZfgjGHTwc217vAhjVVmHEtLZrCG3OO8X/uTeaDQjS5w3J5UU1tQZOKsfSBhNpyeDMZ1QI3npWeU9apE6RJ7oMp7QZ7qc7SZUJEoauvz9hRrxKHnuJtjnEhArYaFAc8kL9/R1eR4Gos5OpoCO/N1khGV8ZBnsPk8oSCusgGYB9cPzSlbFGjRdstZBCglCr71EFWshOSKAzktlRENqnZEXzGZ3UZ0WCxiGSYWGpJkQTihmabXKV2vY8K1AB3Vl1G5X+C6tXRk3mglt7GocGA5Dy129ISnusSi5rte5pD+iVUP9pdOt0LbCkdZvMwOZApCN4/IZ11dJu8q0KlZ1OdBlxnMDuyawbLKs187cj4b0GE7HeYAzhU4qYetHtvuMtv7rJtcMH72eo/HuaGxPl98mwbWwmwKsSIYYC0cydvDcSdoZDQbcpJFUqhJqWXBi4b2Bup/o7hZiTrGOxvC26CEmGNtH0bfoo/i0j5yQfYeNxK7z5V9/zcKrBLLrjcf8HoLDNus9fkMM+weG76JTjmfdHGcit6B7Noo+9F2ONbaVo5S10t/U8WshD3rSjt4gOMFHCU5Tr2MVJ34PxXkYpTj+GElhUQ/2swP2xkCxzoV89AqebIQEz++EftpC79c1h9CL8hgOd6ryEshz2hFwfsi64Hnu5bwoBw4BTZguVvcAtJRe0atXKMu+Bs4F65N7XRnAOLlyvWN1BW/Wmr7uj9uVZdxYz5S5sNiqA+CEp+WPVdF0+NmG2FYjHqcV9gLa0hwy20XR4gCR5ckXT0gDum8l4RlNwwo0hrQbDmu7A+oG8M+lggH+goa+SZPcar/Ceh8Zdzp4a6v6XbtJV0WwaRu2gNRlDjmG0yiPpcphgA+UyE6n7LTO8MYiTam09dzlZOAcMdyKIPk6h1UqjPv/dWM+5K+Bp6sNR211TnBpZk/HUVnU483UQqXgxK0rEf+GRILvQlP6QDtFpAuzM1i7QJu++fR6UaB9VwUWjJEK/0OlYvDssmeCnTHx79//jGnm3mYNj7AAtwO6jw4Dh5e2n97hjrE4Z61vz2fRGNaCs54ZPmu9h8C/5hbxsQr/MKYoUMKvXvguOiru42Y24hRw0Pro4hTw+u2ezW/Q0fDuMvT/qjpwz2PxaMSDD0X8nbrwmwPeq3iLGwCPLmTPffCsIVsefaGe0JyjNxz77fD99959M15XWVZ38BYv3g1lMQvn4WI+m7PpLJrtdv8BkjTQDQ==",
+  "descriptionMarkdown": "## Desc\n\nStore a 1/19 ratio of uranium 235 / 238 in a chest, then provide the fuel factory.\n\n## Storage\n* 237 units of uranium 235\n* 4500 units of uranium 238\n\n## Working principle\n\n* Store uranium 238 until the storage reach 4500 units\n* Store uranium 235 until the storage reach 237 units\n* Both overflow and extra uranium 238 are output by the lower belt for other use (ammo factory ...)\n* Extra uranium 235 remains and will end up blocking the main belt which which prevents excessive production of the centrifuges.\n* Extraction of materials by the fuel factory make the loop.\n\n## Screenshots\n\n![Setup](https://i.imgur.com/AOle9IB.jpg)\n- https://i.imgur.com/vluMTr7.jpg\n- https://i.imgur.com/UH3jUoc.jpg\n\n## Calc\n\nFor a steel chest : 48 slots x 100 units per stack  = 4800 items\n\nFuel production require 1 uranium 235 and 19 uranium 238 = 20 items\n\nA perfect ratio : 240 uranium 235 / 4560 uranium 238\n\nBut 240 items require 3 slots, so final ratio is (48-3) x 100 = 4500 units of uranium 238 and (4500 x 1/19) 236.84... units of uranium 235\n",
+  "fileName": "factorio.uranium-buffer.jpg"
+}

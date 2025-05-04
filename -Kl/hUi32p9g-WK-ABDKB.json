@@ -1,0 +1,40 @@
+{
+  "numberOfFavorites": 53,
+  "tags": {
+    "3": "/version/0,15/",
+    "0": "/production/modules/",
+    "1": "/general/tileable/",
+    "2": "/mods/vanilla/"
+  },
+  "author": {
+    "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
+  },
+  "createdDate": 1496485650805,
+  "descriptionMarkdown": "Update 13-Jun-2017: Featured by XTerminator on Youtube https://www.youtube.com/watch?v=4vEoa_bzr5M\n\nThis is a blueprint to produce level 3 speed modules into passive provider chests.\n\n- The assemblers are fed by belts. The screenshot shows you what needs to be on each half belt\n- It is tileable vertically. However if you were to have 2 or 3 sets of these, one for each module type, you'd need to replace the yellow belt on the right hand side between the first 5 splitters, and the spillers) with their fast (red) equivalents.\n- It is perfect ratio. Now that in  v0.15, speed module ratios are the same as the productivity and efficiency modules, so you can use this blue print for all the module types by editing what the assemblers do.\n- You might like to limit the passive provider chests. They are unlimited in this build. Either hard limit the chests or put rules on the inserters based on how many modules you want in the network.\n\nPossible Enhancement\n\n- if you move the substations and lights one tile North, there are places that you could insert level 1 and level 2 modules into chests if you wish. This will though kill the perfect ratio and delay level 3 production.",
+  "fileName": "level 3 modules.PNG",
+  "image": {
+    "width": 684,
+    "height": 1020,
+    "id": "y9L7HQO",
+    "type": "image/jpeg"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/level%203%20modules.PNG?alt=media&token=679f5ebc-126b-498f-8d43-b2e801df7133",
+  "favorites": {
+    "IbpV4kn3HjMWyjZU8KMvIGLIPRH2": true,
+    "qAjgnz93SrP0jkW7kWJcIprw3pm1": true,
+    "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
+    "5X3k9gqXPOWYd26WoEW6Qb0lDti2": true,
+    "j4w3z5l80BXhZUFCF3ZdWMBUkpJ3": true,
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "cebGks9E7tfkXXedzSyYAJseVvE3": true,
+    "Sf4MDpLEyeMRuTRUMU8J9LpZKX22": true,
+    "f7bfRsB74adtYqgZ4lIZbOOQtf52": true,
+    "yh12RCBJKqTYvMWTg6fenRaDUoK2": true,
+    "EjSHhVgEQqXSW0Gzsop0tOowR153": true
+  },
+  "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
+  "blueprintString": "0eNqlW+1O40gQfJXIv+PVfH/kGe4NTquTQ3xgyXEs20GHUN79HFhIFiZx1ewvRMCVmp7unp7q9muxbY91PzTdVGxei+bh0I3F5u/XYmweu6o9fza99HWxKZqp3hfroqv259+qcaz327bpHst99fDUdHWpi9O6aLpd/V+xkaf1IsQ0VN3YH4ap3NbtdPWwAh4e+7relfvD7tj+/s06+fBzM0zH+ZPL82//8duT5vRzXdTd1ExN/W6Dt19e/umO+209zIu6RX1d9IdxfuzQnb9yhirDuniZf8h5KcWuGeqH9z+aM7kvqIpH1cuoGkc1aa4ugWpwVI2jWhxV4agOR5U4qodRBQ4aYFCCaYRBCaNKAaMSDiDxyCKcVeKRZQlUPLIcgWquMlvbTNP84Tc8/8PiCUDiUeUJnnhUESlQej4HCgA28LASgI33T8Hv4L+2Lc7YM3LTfz3AitSxcIm0phvrIekRn7lbnlIQkiWqcogqhKi+S1STRLN4GoDnfXtakmbWvjuA5n1rejpGgWBSgUYFYklFIO+Vn4kvAIWPoIM+AqiXUGoPj804NQ/lw1M9TmU/u0LzXJf9cHhudin64oN7ClexVkVMoFlQxAKGtqsHUC2N6gBUovZzSa4qhUqcUh5HDVeeNaeTp2q+jezK5Zzvk/4UkWRsPyyZKvEv8XOcmQyPw2H+eWudNr3O9eelreuPUyrNGckuW99ZtlEMabVA+nCcbrHWJGsB+6wx9H0F8C5j2fsKAoocUfKej3liu1S2i9HXKmTtkfSAe9FqBQl2LwasBHblXuRbJohsdgxZ+nQCzhFrWFAgJC1/OFkA1dGoBkC9hNR43I5T9faviePuo5QyP2zSCQJ7ZzAXjskit1RJL4AOKpVcf1LtESRvsURbp2g7JMjSrFPZxCmSdZ6xnYacY8k3HB1kgOM6y4ICMeYcda0A5BTHSxSA8OEu0Tbuq7Yt22rf3y5SdXJXIl3sqmXP9IIudhFUScvSCCohoVscVdOyNILKS+gIqmXqX5nGXa6oPFL4Cdj7PVMGLpG+XXD4wCrhiMUjK4QDBgkCSgf3skGQbDpFeNEqBZBRg2YzKqBSBV6lAFSqYPMUX8EIf8Hl3YgF0F/yWcWR4KqMEPDaSC5HWKAjDNjJKLIkXGojo8y61Yllk0Q2DoGIifR1DDEzorV7eNn0PQzIaZG+hiHr9mzNoFJJPAYWJtkIiBHvzAABKYXgq4yvPUXgvJZCwmVG0nxSKLqwuMnzZjEkhSbrCqi/bsisB4Fasr8OgTqyvQ6BerK7DoEGshUOgUYybyJ98KvxiuUxAKRVLemZJYOg0jNLyMCC1JyEpdMqhbyapaAkLFJUkVcTFosSlkGGYFxWlUYqWPJq2GKpTAMULClDloRFGztSEtYt31CCjFokHBR750KiQdExZhFUzQhjDkE0jIR1Y1cs3rWEOLmsNp1Lk0Pi5Ve1A5ELxCX/hr0i3OpBGGk2KCBQNigQ99V0UAQElVYiPIJqWAUVaD9KZmDC4aguT+CgJpuk9vxoAd/2lbkTFdCmRn7QIKNHKo3IG93jNiR3CAOxlFHk5AHip0azQxIQqvnT4a7kbJc0lh5zyHB348gxB8gkPmsik3S/kDVLAXlfzNL5OP6Z4xsI/6thDnQWIyfNWFZQRI5TesADMggt7EMT4vyIR0RQ2Sl5jCs71wtRpWfkoYF+G2lYRM5wgu0fYy81SHzWHuOp2C4vxpNuSWOwhtCJoeVb9pjGeDqypMBQPXl+Yqhs0xlDZXtiECox60EElZfw+xaQU3kFvxiB4WlSv8ZWbUgBG0NlX+bCUOljCnqXyzMa9red+rl+f9N3c/Vi8rpoq5nX/Nlf9XPdrvTqvSobV309/Ds/uxrOeuDqzH01Hvv5a+vdamrautrOtdu6eK6H8d0Oxiir3XzzkafT/26XLjY=",
+  "lastUpdatedDate": 1497349651356,
+  "title": "Level 3 Module Build perfect ratio tileable"
+}

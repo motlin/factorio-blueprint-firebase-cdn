@@ -1,0 +1,25 @@
+{
+  "numberOfFavorites": 7,
+  "authorId": "9nIGvsHzdOQRnvP7Rau6z25zRbk1",
+  "createdDate": 1494975733612,
+  "descriptionMarkdown": "Not sure, inefficient maybe?",
+  "image": {
+    "type": "image/png",
+    "width": 700,
+    "height": 350,
+    "id": "3SLD8Ak"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/GLGgpsj.png?alt=media&token=a57afc3d-16a8-4aba-b2d0-435e25ca5f19",
+  "title": "Train unloader",
+  "author": {
+    "userId": "9nIGvsHzdOQRnvP7Rau6z25zRbk1"
+  },
+  "blueprintString": "H4sIAAAAAAAA/61Y7WqkMBR9lWF+m8UkageKz1Kshm7YGCWJ0CK++zrDLNuaiebmzq9CuR/n5Jx7LO2GkxraRp3e6lloJ50Utp5n3fSiPveik1NPhBKtM7Il\n46DEORsHu5YNup4/a3LJvmrCliW7t1gnhCLtb2HdpvJlW9k3ShHV9OOjkfz7yKb9Q6S2wjhhHk3lMfvLaKSVV7kDoIKgLaPR8mi0BQRtAUHLN8URdqDRsFms\nHSgEMot94DwWqM8ovB4CNY9F6j1UqNC3THj7Vtq92ug3jb4wiGX9kwnXeu4OeGp7s8fGBkXCLZPo/2LxORphLZl0J8yHGdaf5F2oRwGZL1knzQrj+ssic1/j\n2j9MbpzcGZBHFJJHcKRlLNJ/85xptB0H4x5Nq7bTKkCWxTLlaUz5U5kWiUxZAPzuMpa2LAe8Kk3ARcOw4jTJn3Em2xc9zEogS883UJaeeiksIRcSioI9ll4O\nQFl6B4E6r2uA0u/TGKz/Sof9QAMPMobYX23xA/eXx/ztqKR7nI7sV4nAXiC5F0juHKk9RWpPkfhZqnYUK12OUy4/Jn6cdD/33zNAanAEcBwXz0QwEZM1vB0u\nRkPk9XnHB2tH5q4Xe377voNeQg5K+YpccE95ecI3iCNz9KD/4E9e5k1Iv8dbLCLo5Fg2PEQmxRpIbSKkOboyRHuFa7/47Usm20Ff/1to5YduVD3ffeJEf852\nR6+tq2zrx2tZllcj3GT06e1V6O4vBPtVPo8UAAA=",
+  "fileName": "GLGgpsj.png",
+  "lastUpdatedDate": 1498620332353,
+  "tags": {
+    "0": "/train/unloading station/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,14/"
+  }
+}

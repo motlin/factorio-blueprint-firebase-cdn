@@ -1,0 +1,31 @@
+{
+  "fileName": "oil-station-only.JPG",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/oil-station-only.JPG?alt=media&token=ef4607f1-19bf-49ff-9f5a-fd3cf3118512",
+  "lastUpdatedDate": 1564835004576,
+  "tags": {
+    "1": "/train/unloading station/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,15/",
+    "4": "/version/0,16/",
+    "5": "/version/0,17/",
+    "0": "/production/oil processing/"
+  },
+  "title": "Oil-station-only",
+  "author": {
+    "userId": "HUwFUow6Xtf73NeNmrxXJY5tdYJ3"
+  },
+  "blueprintString": "0eNrVlV2OmzAQx+8yz7CKCWQbLtGXvlUr5MCQWDU29Ue0UcQBepBerCfpGDZstDjS8rgvwNgzv/H8GdtXOEiPvRHKQXkFUWtlofx5BSuOissw5i49QgnCYQcJKN4Fy3AhYUhAqAZfoWTDSwKonHACp/jRuFTKdwc05DBHWkexx5NLR0QCvbYUpVVIRaQ0S+BCr90wJAtKNlMCRKXW6X6J2NwICVA5zmhZHfDEz0Kb4GFRNZXT1YiAsuXSYgIGeVO1Rne3cWc8DY9GFfL02FQLUc7COM/luy6TR/oDhim7wjqszIYYFh5Hg6juFRINlPvhZYjVu12rWh6j5GspWYxSrKRsYpDdDGm5dalQFo2jiSVk81RMi6EPkrIRZlKSmiDCfZ65Uh+FdaJO6xNSBoO/Pb1jKT5kePOsWiHJfWriW3e/t72uf6FLW4+h8Fr7sG3Yhn7fck3fVgoWVX0/Q3rfPex1ttAo3vq1MLUXrqK5Zqa0wlDZi9ZupafWnNPXxjeY6mnXh1PC8bH2YHQ9N9yFFPDvz991rX//N4PN2IO9wDYr9YzuBcY+Jej26wq6/yjo9pGg2UpBo0cy235K0OLrCvrWkXTBjVdgeXdjJiD5gY6CEr4LSbcRD7hUK3mhqTOdImMBuzzPdvlzUWRsGP4DJU6HXw==",
+  "descriptionMarkdown": "Read train contents->Pump(Value > or = 1)\n\nIf trains have ohter Liquid or gas is dont pickup.\n\nBlueprint compatibility 0,15/0,16/0,17 (tested)",
+  "favorites": {
+    "7WMLI7DEKrX9okn8lFsfxc2d3OZ2": true
+  },
+  "numberOfFavorites": 2,
+  "authorId": "HUwFUow6Xtf73NeNmrxXJY5tdYJ3",
+  "createdDate": 1500205065361,
+  "image": {
+    "id": "wkDy0Ey",
+    "type": "image/jpeg",
+    "width": 681,
+    "height": 568
+  }
+}

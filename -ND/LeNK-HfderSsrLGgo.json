@@ -1,0 +1,22 @@
+{
+  "author": {
+    "userId": "az3Rha1ImzYOcDPuQpcN1BRIKPc2"
+  },
+  "authorId": "az3Rha1ImzYOcDPuQpcN1BRIKPc2",
+  "blueprintString": "0eNqlWVlu2zAQvYrBbyvQkNTmqxRB4YV1CSiSoCVIEBhIW6BA0Y/+FOg13CVo0HS5An2jUpaywJZjDvklW356bxZqOB5ekVnaiKKUWU0mV2Qhqnkpi1rmGZkQ9VndbT6NNtdqrX6q3+pm80HdqD/qVt/Ul/VIfVN/1Q91M1K3+vNI3WnIm807MiZVNi28OveWpVy0xBdkAnxMLtvLakymsypPm1p4La6Q2ZJM6rIRY1LklWzVvVKk01qei10SuiVhmkPO86wikxdXpJLLbJq2iPqyENpwWYszbUQ2PWu/iYuiFFXlNdlClMsy11dvJtKatCT6Xku7Gh+lSafZ4pVM0yeP0dXpmIis1iaLzpTtl8uXWXM2E6XmfXi6kEXvS6tPHj29d+wk2Hrm+SeBFljIUsy7n8PWth1easzrH+SlA7zseND2FNhhhfFDJLOiaeO9J8gtBKmBYN7UBxQD49AFqJSExrwclZLIIkJJr9AJHMtBbKEA4JL1xEbRd0o7+A4rje4qchNFsFAMe0UwyhxQBwn6VOIZN5jDAgRDDZsyAOx4dg5HLnBRBKv1EDqsQGbjo03p4IcEQwNBm0oSHBd8JqaJS+2y8ZHa1BGgLk5ScFg4oY2P1KENCK1cfCwyVTOr6un20T2NqFPQ/JmQy9ezvCnbtovT0yFO7rLLWMUtcFmNdoEzbzu8e9diLTREFeGpor2yNEQcO+wgkdFGSBMHidhsk2K+eTPPng81AzyVUaiZzZt7n0ywaqyYTX8ABpIHk824Q9eTGK0nFrj0br7hggpdOiu7ZEUuNdEuW7FLp5XYdFoscWrufItei/v44tl2BUPVgYMFF5iUB/5YHmZy6YlUg0s594o8FQMR6a3c3W4pG9puOXPoUsCmh+cuwwOw6uF5gC/cB9McWnCZpTlCj4eAmcwieIyeZ+0TDw1PeIKenphZHPjocc+Qxad6bci0n/HtvoPdexKthiaFh9AxCg2Ag1MzuN/NUwCDBh+FxnGj7AZmhgaUl4DyEpceXHYA5SVFedmhKQaMsiPEgAFltGn4GCogDGM2R1FzTPg4KukBypAAY0iAMiTs0BgwxYADDDjEgBOUg4ZlIcIYHWGMTrq5PgYMGHCEAccoM0xLKm5X6uEhCm1sC3LvAMwb1qNNLUdVYWCY1PdoikJHKHSMQic4L30cHBeV4f1GN4Tb0+HJk/Pzsf5d/+loD86/qLX6p+7UevNW/WoPyr9vrtWt+ro9PH+/+aix56KsurY1Bh4lNIpYlAQxX63+A9jWbyo=",
+  "createdDate": 1693671065216,
+  "descriptionMarkdown": "Patch for [rhizome](https://factorioprints.com/view/-NdLYGqTmRBCCk8ujps2). It is needed when normal cells cannot be built, or their building is avoided. There are several situations:\n\n1. It is desired that water remains a blocker for beetles.\n2. It is desired that forest remains at least partially.\n3. Designing new factory.\n4. Oil extraction is like new factory design every time.\n\nPatch does not contain roundabouts, so ore is not routed, but at least water and forest do not block ore flow completely. Also, electricity is delivered.\n\nThis blueprint contains artificial ground. To build on water, place blueprint with Shift, wait for artificial ground to appear, then build the rest. Underground belts are distributed roughly evenly so if water is completely filled with patches, spidertrons cross the water easily by straight line routes.\n\nThere is a single 4x4 free area to add bot station on demand.\n\nWhen designing new factory, first patch cells are being built, then they are tweaked to make free space where required. As soon as ore and liquid can flow through in all directions, this is fine. Border underground pipes and belts have to be checked against [default cell](https://factorioprints.com/view/-NdLYGqTmRBCCk8ujps2), if they are still compatible, if distance did not became too long. Other cells are more tolerating than default one.",
+  "fileName": "Rhizome patch.jpg",
+  "image": {
+    "height": 520,
+    "id": "TMtBBcB",
+    "type": "image/jpeg",
+    "width": 578
+  },
+  "lastUpdatedDate": 1693683370106,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/vanilla/"
+  },
+  "title": "Rhizome patch cell"
+}

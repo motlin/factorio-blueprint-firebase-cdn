@@ -1,0 +1,30 @@
+{
+  "favorites": {
+    "Jl4maxbqAqZU4sBtdNMfT1ggq6P2": true,
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
+  },
+  "blueprintString": "0eNrFV9GOojAU/ZVNHzeyoSjqkMk87k9sJqTCVZtIy7bFLDH8+95SZRi1jjDuzoumtJzee+49p+VAVrsKSsWFIcmB8EwKTZJfB6L5RrCdfWbqEkhCuIGCTIhghR0puZKlVIY0E8JFDn9IQpvXCQFhuOHgMNpBnYqqWIHCBd3bOWQ8BxVkslhxwYxUiFxKja9KYfdEuACX1/gX/YhxD4zLKLlLV7Ble47rcdERJcW5vH1T26drrrRJL8Lfc2UqfNLF4FYElDh0bZilYB7aUVEy1UaVkGd8Q1amrAZgwh5UbbZcbBx4WWOMlTDpWski5QLBSGJUBY3bW0DWhU/tj4K8TyDH0QxXcpVV3LTDqJm8m47Pp18ROvJgTXG26QGcChR1iaxZhunXwREzcAxcKVLsikTvT2Tu2Xzq3dwRdrn39G3vnCu3tSPqSrOc2OmaZUSvMNGv6qllzjvmhQwoK72s2zVyZl0oTHGzLcDw7LZ6oiM5XvW8AX1OQMCyrSVEg4VJ33ixApYlIC1tWOT7GCW14AP4XAzRwRn51EN+PMq3wv/qW9PwEcZFH+dXNLTHwUYBiPOp+HM1ug/VV8x5l/NObrhudbQFbQIFvyv8B+V1ubC5bS2FzCGV67TX9AN80Sf9xbDuc7r/x8130rzfBJ9Hi/1RDbg8OyFpNKTtZvd107LL4UTF7eq4I4t6arPmO+y/u+5fa6btwahB2Y5t8arWdOOwfyEbbZy+hJ988imZ1nwPQank3jaYN/nwGiwNBxJJxxP5gfm1NNJxJN7pQZRe3qMvUsR7r8vRK+UbvhMOMOrozqCjgcfgMf7o/fVs/qW29PLltkTpTd+5KkM88lr1J72PtQnZsRVg/ORne13mKL9CfuufYvgVoh3ny0UULelTuIia5i/dHs36",
+  "image": {
+    "type": "image/jpeg",
+    "width": 1179,
+    "height": 751,
+    "id": "IrfR30K"
+  },
+  "numberOfFavorites": 6,
+  "descriptionMarkdown": "This is a small circuit setup use to request items from inside a factorissimo building, such as your Mall. Requires 2 i/o slots from the factory, but provides the ability to request multiple different items. \n\n1. Set the circuit (output) and requester chest on the inside of the mall, and the rest on the outside. The requester chest should output into the provider chest on the outside.\n2. Set a negative amount on the constant combinator for what you want to request from inside the factory.\n\nThe system will read the content of the logistic network and send an \"order\" for what is missing every 5 seconds, each lasting 1 second (can be changed with the deciders). \n\n",
+  "fileName": "Outside.png",
+  "lastUpdatedDate": 1544797470986,
+  "tags": {
+    "1": "/version/0,16/",
+    "0": "/mods/factorissimo/"
+  },
+  "title": "Factorissimo requester",
+  "author": {
+    "userId": "OpTC26lAd0hW5JRF2zWSMggDMQf2"
+  },
+  "authorId": "OpTC26lAd0hW5JRF2zWSMggDMQf2",
+  "createdDate": 1544796862640
+}

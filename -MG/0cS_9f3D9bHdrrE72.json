@@ -1,0 +1,39 @@
+{
+  "author": {
+    "userId": "JNhrZSWMbMRNQq4ORDwdtD39HAu1"
+  },
+  "authorId": "JNhrZSWMbMRNQq4ORDwdtD39HAu1",
+  "blueprintString": "0eNqtWsuO2zgQ/JVAlz2sFKj5kEif97h/sBgEsoexCciSIcmTHQz870vZQUaxSKmb2kOQTBJVk8UusrrJj2RfX82ls82Q7D4Se2ibPtn985H09thU9fh3w/vFJLvEDuacpElTncefhq5q+kvbDdne1ENySxPbvJp/kx3c0tWPr+6/dseudb8/f84Qn/eX2g6D6SafccRnVd+b8762zTE7V4eTbUwGEwhxe0kT0wx2sOZBwf2H92/N9bx3wXYQmnyaXNrefdY2Y2wHlUn1VabJu/sTY1+li/FqO3N4/A8xDvUJmhGgyzB04YHmBOiCBi0I0JIGLQnQggZdEKA5DbokQDMatCJAAw1aE6BzGjTkeGyhidgEPQpFxCYIUhAFCQRFCqIigSBJQdQNEDQpiHIHgigFUZRAUKUgqhIIshREWQJBl4KoS0bQJSdqhxF0yYmaZ5+6HI3KUDVDdmjPe9tUQ9v5AiyJMx1Bhq6tv+3NqXqzDsF99t3WzlugTJDt2ia71NVgRh9xcH5muNuEX1bo5eabBF+2JEtnPuj7LNwc7OXXCI6m6rIfJ2PqxBdOhH3XonOBmXNJf9HQXK6DN9jnJmGb3nSjS1v0MGMQH05B5khs4ahEDVusDvtzP+jPVV1npnbkdfaQXdraLPuiB92NscfTvr3eE5CzVIoXXxxNpgc20MNzFD2wRg8H6rBFMPNnBcg8GiMuxsSBeBbDrW0h0lL61oNzDEFiNe25QOGs5iGXZKKD8vEUa/N4ZLmKYD5Oqrt5nJK6pHxpSe/rmQIw75oq1FqsJ72OOmsBVYHlUWctYGpSEXeO5yjsDec4/P/n+COL2sbl0cF2h6sdKOe5wIlfPyX82tKKGPrn2F76ZRS2QmEXcXYDyrDdaK9DwG+IMqYpAwVqJormZe4z8OHomO7OfIzM1yfJY9o7SGygmaLQ/CWL6RMhx8hjGkVIbBFt5n4ms8c/KO07a6SMaUohp1HEdKWQ2CXNGAZTRM2bu0vdJygQY9MxLTPcvIv8KTXq6nxZHnFg5gXEdMhwG1jBUAeTWh3jp8h+tO2rabLDyfTLfbafI9xXXWBsItqc+8TlvL7zhk6xukwhVz6NFZLm0YNsFDG9QWRelZTDUyxt6Ou1eqFoxYbnhPahatIUBGYK4fO/RFWmQq4tagnoFJe+FAcfJiMxwTctZokzoWyVCIEmgqGJkNFVW1jrYaGXBYqKnJbXJU2asDGvVUzz9x7Lh6aj/D6KFxVVgs5Z8V56RV25gsRstYoR3b3wc6tQwpt4b4Filda0LRfmvr53KBlVRMgAIQWxbAgRSxLcxHvLGMEpRYomthGu4ysLMd8Q77bHtxNqXN+W03JTA4kqtm1hNIsqjQLJqTmxYAkkpxZRxYVE8SujSgLUrqeLmEtzJHYZb+mFtznrdDL2Zxlzv7x9d/2p2rptjtmpcgn5muGqndDSamKdEMCBPI8qFFBcQw4xrwiw4IxYGQQp4DFvBrCjjHrsgAWX5MyS63REPXPAjjjqnQMWXMVbeI+2naqdvAHYkrgh1+Q1YKtrADntWicMBDFvP5B8A/nuMn+K8Bvf4/pxr0WAyXMkLMn5OjdiwxMHRr6fBpAbngvExCs23L/HxCuJV0zIF3Rqw3380zS+V/2QrV/KA+gNV9O+mJj7aZg8eKJfUPuiLt1SAwNi4zUP6IjFP2GAfL4NhHsmwDixkRYcsiA2ooJAG7pGuX8L9FdJMHlshO5v6+X2NkxeFKEbinq5jQaT10Xo3txvmC/p4+J7N3n0nyZ15WTj/u6v6s380X/5uz3afrCH/gv8ydw/v5mufxxUCkSpWSlyXjKhbrf/ALYud3U=",
+  "createdDate": 1627819989573,
+  "descriptionMarkdown": "A simple tier 2 logistic blueprint for early game that builds yellow & red transport belts, underground belts and splitters.\n\nIt is obviously NOT a perfect ratio only a \"set-and-forget\" system to automate tier 1 logistics to grab as you need. There are limiters on the chests, check them if you wish to stack more items. Inputs lines are marked with combinators.\n\nYou should replace the wood chests with passive providers once you have a logistics network available. \n\nThis is compatible to upgrade directly with my other logistic blueprints and can be upgraded using the upgrade planner tool without any issues.\n",
+  "fileName": "davestier12.png",
+  "image": {
+    "height": 556,
+    "id": "UqqiiVk",
+    "type": "image/jpeg",
+    "width": 924
+  },
+  "lastUpdatedDate": 1627821513906,
+  "numberOfFavorites": 6,
+  "tags": {
+    "0": "/belt/fast transport belt (red)/",
+    "1": "/belt/transport belt (yellow)/",
+    "2": "/general/early game/",
+    "3": "/general/mid game/",
+    "4": "/general/compact/",
+    "5": "/version/1,0/",
+    "6": "/production/belts/"
+  },
+  "title": "[Belts] Dave's Logistics Tier 1+2",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/davestier12.png?alt=media&token=97a7b9a2-4d32-4627-ab42-e934b6e37985",
+  "favorites": {
+    "ijTFqoAMXJcqfqO4ccGPjExaLCE3": true,
+    "rT0sEouqMRf3QDsOB2Wy0E2EdRt2": true,
+    "8tGs26OaMYg7FE2hksvcqoOWe7o2": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "Fs7k0EioIDMjQnvSR6r9qRx4rHi1": true,
+    "tBP8lbPmTJcOiQKQSke6s4BWaK63": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "psMyzVlknDWObkXMF8LoyflUXYn1": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "createdDate": 1564483425555,
+  "descriptionMarkdown": "A setup using a circuit network to add robots to the logistic system when the number of robots used at once goes above 75 percent. It balances values for both types of robots separately. Can be feeded by the two steel chests (one for each type) or by a belt when the chests are removed.\n\nOrignial blueprint: https://factorioprints.com/view/-L0L-P5d1ViGcnG79cM8\n\nI just removed the passive provider boxes and storehouse from a mod",
+  "fileName": "Skærmbillede 2019-07-30 kl. 12.39.17.png",
+  "lastUpdatedDate": 1564483425555,
+  "title": "Robot Network Balancer Vanilla",
+  "favorites": {
+    "tksVXauR0rPMf6M1X8IqkmVWvWm2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+  },
+  "author": {
+    "userId": "EGQRNIDIvPfoXt15qjcMSu0kpmE2"
+  },
+  "authorId": "EGQRNIDIvPfoXt15qjcMSu0kpmE2",
+  "blueprintString": "0eNrdV8uOmzAU/ZXIa5iGR15I7aIzy5lN1cW01Qg5cDOxCjYyJmoU8QH9kP5Yv6TXkElSQhBQJiN1E8XY9/r4nIMvd0eWUQaJZFwRb0dYIHhKvG87krJnTiP9TG0TIB5hCmJiEE5jPZJiKRIhFckNwngIP4hn5U8GAa6YYlDmKAZbn2fxEiQuOESHELAQpBmIeMk4VUJi5kSkGCq43hPTmdbNxCBb/OPiHiGTEJSztkEQpZIi8pewphuG0Riyz+njXFjkSfXTFZOp8s8Os2FSZfjkgKhcYX7V59EcKKoJGetBnFBZQPTIewwQmUqyDilvy5TJFpFlXPkrKWKfccxBvBWNUsjLLXl5vgK1pX8khKcsMhzZ+RMuthtmMdkZ7/YBUgwhy2ITItxLssBMRATnzI+PtLfEhcoGTAYZU+XwBETNtF2ZdpqjneZotzl60jw9u8CZ08mrl6w6fUWrPv6PVnUPkKhkah2DQpe2uyXsVrfEMe2/sf9ZU5WCztHxdhEJoEYFRvKuh0h3JB9Mhmn15ahXZdJVlTcS5UsfUR6HEOVhQFHm7USZ9qym1vWuqLu/ryi3ckX9/vnrjS8pt1pamnS5VCpmvcrruD3KaXMBrI7nzcsX1eJ8yWDzfiXwiv56eA1/3Q/or8kQ/locESoafDdXLFIoBuMpSPxT867bhRJ2KyFe8B2E6KHDbfOnyAfSgbJZ1Z7Fp4JBylOXfcVLw3HAUewtsyK7qVsT7Eueaqi0xidcAkRmsIZU1TDo7Bmsy2GdN0Hn7/j+bbBvJnkz77EIwRcr/6QCWV3YqveMZfc0jXM109wPaJpFC49E4pml+sOlyR9OJ384uW55i8bYO+mjDRLRJSAH5JPeakQzJUYfaUR5AHKE0xsEWSSbOWNr7ljj6dTN8z/Rg1fL",
+  "image": {
+    "height": 547,
+    "id": "H2zyoGW",
+    "type": "image/png",
+    "width": 352
+  },
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/mods/vanilla/"
+  }
+}

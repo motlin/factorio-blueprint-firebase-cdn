@@ -1,0 +1,25 @@
+{
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Green%20Science.png?alt=media&token=96500e06-2c51-4540-8326-3c09c958a785",
+  "lastUpdatedDate": 1504701692087,
+  "title": "Green Science V2",
+  "author": {
+    "userId": "qIrL8cCDYKdxl3tMwzuTpyJrK2l1"
+  },
+  "blueprintString": "0eNqdW9tu6zYQ/JUDPVsAb6Ik/0A/oEBfioNC1mETobJsSErbIPC/V46bEyUZyjt8CqzAo9nL7JJL+iU79E/hPHbDnO1fsq49DVO2//0lm7qHoemvz+bnc8j2WTeHY7bLhuZ4/dRMUzge+m54yI9N+9gNITfZZZd1w4/wb7bXl91diHlshul8Guf8EPp59WVz+b7LwjB3cxduZF4/PP8xPB0PYVzQYxi77Hyalq+dhutbF6i83GXPyx9dXK6MPuEYOY7/H8ctNH90Y2hv//QA1fLsHGLn5DiFnF0hR3VyVC9HtXLUUo5q5KiVHFXLUWsxqpKDaiVGJahquX4It2q5mogU0HI1Eemq5doipKXftdUNUxjn5WG8kpiPgAYBer6UGFRKdMkDWQj0Lp7p2PR9HvrFgLFr8/OpDxvWYrR6u5/ES9LVeYvrute2MrVdGNqQn5v2r9cu9LXQK0lkjDwyRpN+MFt+MEZAT2F2KBGN5UsczBvjyACZxPhIlOMIB3guPG4zOiVdLDBORePgoNSccZuVwSq+MigIlLAo0xDIJBaFmss5myASbLnjgbDlRZraWMM9nYeYLq8L7L+KaJv1/dpsazoTK7j+5qVRQxxNNB+BfY7oFvX9Wul4HWB38TLA7iJ6gcS8tFaATaQzHltINwLMhs/zEuEUfJ57iKMJHfv7eV6YtLUmNtImdhXPFdfCEWKXOKFIW2hiJ3h55fCCUUJJKx4nDr8jx+aRCyO1geVVWi8m08VrebETRMQbtrJg4y0LA+PqHV1Y4JjOFzQOHKh5n1gDLBlUXheYL68L7L/Puuib4zkqBwhRJsqB9Fyp2cTDbGkZQP+X/CQXbvxKXgdwr1Yy8yV7v7eUnuhVErwyqf5iWyt5q7KCSXJNSwnSqhSNA1OiIuq+wLyKTnjMiq772El8vsMNZkXXfbi/rLxcNup+lldl4ggUcqvSWpLi6mpVy5UucEGtxOJUgpMTzWoKhrk2/BgG4tikKoax0uanZHRr+Y5ZEo7E2Sm0nx8RQRh2w4wThN4vQzJa0ftlfCajdFIhiYAlTk3JBZpW9LQowpeeFkWCUaSoNcLJJ6mVdmGZIrAIZVYZES/WJAxmo2ll4GNBTUySBOtSrY28/YnwrLj/WclxPK0Fh91WsDgR93txPxF5i20CEVbvqf5nM835RiRv9ws+zUscBK3ZiyuFwGKj2IsrIlRNXjEpJJc26FUT3HHr1ZHznehocXCMI2+/iAwmG8ZbLkGslVDG05C3j2GKZnXEb6VAa8UWh8QdRLXuWl+u4oH31GL5mZ8vuJfSq9NnZroNh5Z6dQJ9h6FCBPHtI1oeFeZmk5YWH4L00x74Aic13smjw55H+6+kbwE9DUtI225snzqcXasz6XvZdeOvlaCAWHarbt+wIRo9jo0B0cMoeIyonUpZ+0ZIObF6jDwAjjzC85sMxS2mIBi6tPL58YbTa/V/CM2Y//MYQg9TfHWuLSugWgs06jy71BBdPFyddItq6Weu+NJlRS5gJFe9tKPVFLkjWdCzXXwvRq8Owpliz6dUYZIK9McXtafzOYx52xwWRcK3WDZxnUB4haMTF+8LCrmuNEHP08kQoccqScSOVlKEXJ0yioiArY7MZfVZYun6gHxjif2WIniRvToW3wTRmyBWBKI2MRyxYbhifN/dfjSzX/1MZ5f1zRLr5dkvYwjDt19vI6dvv10F/3cYp1utdM54X5pl4X65/AeGMiDm",
+  "descriptionMarkdown": "This is a modified version of an older v14 design, found here.\n\nhttps://factorioprints.com/view/-KYhephJXo24D3Qq3Y5-\n\nThe older design was missing electronic circuits, which are required for the inserters. It also had a belt collision which mucked up when you filled up (when not using the potions fast enough)\n\n1) This version uses 5 iron chests, you can substitute them for whatever inventory/drone chest system you are using. See the screenshot to figure out where to put iron and copper plates (4 iron, 1 copper). Here is a closer screenshot of the lower area  http://imgur.com/KIDNPIg\n\n2) It has VERY messy power distribution, I was up at 3am making this. Just build the main part, then power it however you want, hopefully with medium poles.\n\n3) All the lower inserters MUST be fast inserters to keep up. The rest don't matter. If you don't have fast inserters or V2 factories when you build this, upgrade as soon as possible.",
+  "fileName": "Green Science.png",
+  "image": {
+    "width": 502,
+    "height": 909,
+    "id": "n0dS0dX",
+    "type": "image/png"
+  },
+  "numberOfFavorites": 4,
+  "tags": {
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/",
+    "0": "/production/science/"
+  },
+  "authorId": "qIrL8cCDYKdxl3tMwzuTpyJrK2l1",
+  "createdDate": 1503151663982
+}

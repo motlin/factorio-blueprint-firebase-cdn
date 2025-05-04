@@ -1,0 +1,29 @@
+{
+  "author": {
+    "userId": "75xJAJufg6N4DHY4yGfcd3Lb4P52"
+  },
+  "authorId": "75xJAJufg6N4DHY4yGfcd3Lb4P52",
+  "blueprintString": "0eNrtmF9v2jAQwL+K56dNCohAoSvSHqbtZQ/TKrXbSzVFJjnAq2NbtsPKJr77zk5CKLAK1qXigTd8f3znu99ZMb/pRBSgDZcumSh1T8e/G4ml47uNpdfxVMlSbPlMMuFlkuVAx1QbNTMsz9lEQMdqYPdg6CqiXGbwQMfxKtrjlCpcNkb91feIgnTccSjDhMUykUU+we3GcfRkuIhqZdFZSR/DR40vusOILum4M7rsDjESHsAZJZIJzNmCK+MNU27SgrsEddnae8qNdUmTsVtqH3fBjStQsk6ktOjAAszSzbmc0TKKdczXrOcXuWaGOR+MvgvqKqAX5+DAWB+h3ClZMKx4wm2iuUvndDxlwoIvkXWmyLEgCc/CvlI5KH+vcM/He2nBlhOW3icLJQqfJ9qvZbnKfOYzoSbhJEwI9TPRSiz1XMllFXLlFWB2spyjbVDQMSaEmQWJkknOdC3ynFS1CxnuNLzcOQdr2czLP6CcXDM8MPkIWmC07BVdeRy4gxwNGgwjKtgERO30PqQSUay/Da0bjvpXF1dXw2F/OBr044aunkewVZytUxLa5Xlw5vmUeF53fBvoG684mujS63Ck49aR5kbJjjItU90/U31KVG82fRvsT6g7muvgdDjW/daxTpXWYNoHOz6DfVqfH5tt3/0I8dp/+AwJbofjPWgd78IwyYu8fb57Z75Pie+tvm8D/rVUH0147Xc44hft3+BMpJjyS31tj854n8D13fR85+4uVcdf3pXf4WgP239GpgaL8UJ/i5zBPoVnZN3xnWekVxz/jAxehyM9ah1pV8iZdfCiT8kz2SdA9nbjtwG/rfRHM752PBzzyx3MM8DJ47pEgN7OuSXVNoTLVBSoJ4yEejCsB/8FGSp04YhTJFSRLFXhFxYcwTJnaIAntV3yxZAfhXUEj2ODkbdwcyD+TGTBWbPAHheET4OVNjAFY1DJHFGYDMEMlRDIWXBYp0/C//XR/5vUivepKLCBzdjVLHR6bc4tvh/WT4n4cvC8yd2f+nlE/zKiW3XantC9g7kZ/27NTgDH7/14z6cH+bo2DdN1+DS/3bdvp5qKevPPvP4/ldyEo1vy+lvcjd+gzePhvxYsBSLhoZxtkntPJrNysnFhvNwAy8Icet4N4NWAxek+cwzxHCx1fIHkVEd74vyrP3L1qM0=",
+  "createdDate": 1730614780687,
+  "descriptionMarkdown": "This is a book with speakers that are set to provide a global alert for any mines you have set up.\n\nTo use, shift+scroll through the book to find the ore you are mining and place it next to your mine. Use any signal wire to connect to a mine and set the mine to read the entire patch. Apply power and you're done! I've also included a parameterized blueprint of this speaker that allows you to have a custom selection of what the alert should be. Such as modded ores or if you want to use it to let you know of any item no longer in stock. This also benefits those who wish to use the item menu to select the item of choice rather than scrolling through the blueprint book.\n\nWhen the mine is empty, you'll get a notification down in your alerts that the mine is empty, allowing you to not only see what ran out but also giving you something to click and view the mine in question.\n\nThis also supports the Space Age ores.\n\n#### Changelog:\n##### V 1.1\n- Added parameterized speaker.\n\n##### V 1.0\n- Initial Release.",
+  "image": {
+    "id": "p6zlpn0",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/p6zlpn0",
+  "lastUpdatedDate": 1736446492846,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/circuit/indicator/",
+    "1": "/mods/vanilla/",
+    "2": "/production/mining/",
+    "3": "/version/2,0/",
+    "4": "/mods/space-age/"
+  },
+  "title": "Mine Alert Signals",
+  "favorites": {
+    "mW1ciOcur3OnUeP5KLaFvYBVhWG2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true
+  }
+}

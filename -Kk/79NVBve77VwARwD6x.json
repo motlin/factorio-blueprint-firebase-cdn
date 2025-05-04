@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"
+  },
+  "fileName": "AAI Simple Zone Cleaner.PNG",
+  "lastUpdatedDate": 1499429247653,
+  "numberOfFavorites": 13,
+  "favorites": {
+    "sZVcxoIEQ1hbFB38mhflxXrhWqv1": true,
+    "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,
+    "Wty3AIQg00Sw5rcZ7V1bm5uGfwS2": true,
+    "wpZhYbVULTd7oSWZR0zMCEkXwaM2": true,
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "7kVpDcAaLEPRs8eaffXS980Wmws2": true
+  },
+  "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
+  "blueprintString": "0eNrVmE+TmyAYxr/KDtfGjOCfRKc97LHn3trZcYySLDMKDuLupjv57n3FNDERE3G3h16SKPDjBZ73AfKONkVDK8m4QvE7YpngNYp/vaOa7XhatO/UvqIoRkzREi0QT8v2SbGCOnWWcnRYIMZz+oZifFjcbfdb8EE7cnhaIMoVU4x2neuHfcKbckMlgE/N6zItCocWNFOSZU4lCgrsStTQVvC2V+A56wXawxc5tAFdsYgly7vB8q5YRVpWQwS+QfDtoiE3UIEdanUDFZ5QOc1YTqWTiXLDeKqENExRsAw0zIUlzZmEbnUhUEBNSooi2dDn9IVBY2hxRCZQlmtM3b7dMlmrZCCeFyZVA28u9fPm7CSlWkI1bTkTGnY1YCANKP3QhlZWqdQjitFXqCcaVTVzQshEtU80N9lKUSaMAwfFSjb0oIs576ZEDxS3H13bntJZjuLo8ATVSVsuaX5dimGOMyazhqnuGWqb1m51HjFEkClnRzltZdCFNVw9f4mjiOD16riIS+J6mAQjkU+IjIxEtjaYwFi+uSZANDa0bukMMLxcRaF5ZANdblmhqBwxvwlyan/EHr7jhhPUpEEk6NnjwiKiN6duNn1QGAXuieVZsfZXLCfwcA/mWwbW7hmXkZ1QgWVcVygIjJxYoc6jqeJ1283HmI/htITDrm3G4Y9mXDQWCjbsz4P+3fEMw8TK+YnZ+MknGP/lqUGmr86rEHm35LxWabvq7pWLf7NxcYMqrW3cpCevN636hUFGR5c3qg77dwBj9oo9W3vER+H9M3e8mfL4wynvzbTIIuV5j4Rt3XHMsv07znhL05rg9/zQxsPIRKfyL4dwXOehMM5ZbZLC365KkdNEbBNRUchA3RrbnHeuwx4V9vlkm0qmnkuqQNSTTqR4kjGdqZ90KD1bFGirNz3oy/xzpoUHGQxj/Fy5Gpv1cNZWgP/frWD/2VsBsXT+qfmwmnUd9oys9azrsJkVzbnMGlHEnXOZBRSc5bRc4t7fGgtUpBsKCkCPj98ffrCyKujDT0iuh6ygKWyRUOMF9rbu0ur7JMChv3aB9gfxssJV",
+  "createdDate": 1494785558679,
+  "descriptionMarkdown": "Goes through every zone and checks if this has the relevant product in it (in this case Green X corresponds to Wood)  \nThis is set to run every tick, but for Ores I recommend setting it to ~30",
+  "image": {
+    "id": "ALkHSv0",
+    "type": "image/png",
+    "width": 882,
+    "height": 441
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/AAI%20Simple%20Zone%20Cleaner.PNG?alt=media&token=826ae41a-f572-48d5-bfc0-e045eb6b90d7",
+  "tags": {
+    "0": "/mods/other/",
+    "1": "/version/0,15/"
+  },
+  "title": "AAI Simple Zone cleaner"
+}

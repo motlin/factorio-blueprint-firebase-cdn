@@ -1,0 +1,27 @@
+{
+  "title": "Kovarex UPS Efficient v1.4 (Pebble)",
+  "author": {
+    "userId": "VdlW6mvTuyTILdb5Tv4wlmu6cPy2"
+  },
+  "authorId": "VdlW6mvTuyTILdb5Tv4wlmu6cPy2",
+  "blueprintString": "0eNrFWF1uozAQvkrlp10JKnAgIdFqL7Av+76qED+TxCoYZJuo2YoD9Bb7shfrSXYc0iQNhgCrqi+lYPsbz8z3zdh5JnFWQSkYV2T1TFhScElWv56JZBseZfqb2pdAVoQpyIlFeJTrtxginEpqizCewhNZufWDRYArphg0CIeXfcirPAaBE67XWqQsJE7Hf9EKQtieRfb4mGlUtCb1d1kCpHZepFUG9oysaF1bLWx6G9udij27iU2nQns3of2p0P4Jeh1JZVeYJLERBT7tGDLVHXwXTb1lnJeVIgbw+XtwxiUIhQNt0NkZNGUCkmYMA4beKlFkYQzbaMcKoRckTCQVUyGOpSeUNRNShTfYWImIsyq36czXlNQkVpFmtOfot7yMRKS0EfKd1M0E3mzmEFFX/9kIAH5JXJaSVVA/1KbwLk6m0VDy2BcC1xiCuQE0uAAFyOxkC9KUKXpGHOzIXDtikTjSSjTYXp5sJzgi2LraQNt044uDQOgIOyTisdhFAp5s4IIl2xwX26UoEpCSjOWs61xFdc0yjGlPcM30Qno2K5s69FagDGwJCIbFsBF3WCYuJNMZWJeOVeJ8uBDdc3FKMSGIbCPbY8YPbG8zpyknzr1fmxV4BDkrUP6/BK8V+PryB1cVlUKfRoOWe9xbxVW4FkUeNnFZKVFBl6oFpNdS0EF7KzX6nerOZRSN62t6EDoQ6DL9x+VXHxYd5cT1JpbrC5I0ETWyxB9Zr9t6+qxy/e0wfjQkIErDbcRTbVKhk/KY+49IfSu3h/pZ7EAIlEh4KFDo52/okP25R+aQamchww1ijbTLIoPO0DtGeizeJ1Bh/GRZCNVPDqf+vMS9vvy9TB3wKM4gTJnUzyZt/YldR5m8mPI20MzFRgIn/yYm3izEYGwLOvb39glnYAvyO1rQctRhoLcFUWf4aYWemHPhjWcCdQeDGosKNWHSkaLp0QydDS16fkcCP0o6wXvp+O2SN+ZgR70OKlNvzCFm1GGSzm6cJqk/mBxeTwrn045Og5oiHVlT5z37DIZebSfcbJdDr7YTbrbOwKvtBGh34NX2FvRDM6xxTr9TWCSLMEn47Udz+bjbuffe3ZefEGNz+Yrj2KVlc3QJFpQG7tJZINY/8f+xSA==",
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "id": "mD5FeAg",
+    "type": "image/jpeg"
+  },
+  "lastUpdatedDate": 1679669483950,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/general/beaconized/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,15/",
+    "4": "/general/ups friendly/"
+  },
+  "createdDate": 1544558043641,
+  "descriptionMarkdown": "**Features:**\n* Automatically keeps U-235 until it has enough, and then doesn't take any more.\n* A far more UPS efficient chest-passing system for U-235 and U-238.\n* Tileable.\n* Once it starts, kovarex can't accidentally dump its needed U-235 by power outages, bot behavior, or belts going off to do naughty things.\n* 8-beacon (+500%), but modules/beacons can easily be removed from the print for early game.\n* Doesn't use logistics network, so it won't create infinite amounts of U-235, only enough to fill the belt.\n\n**Instructions:**\n* Connect U-235 and U-238 belts.\n* To simplify and improve UPS at any point after kovarex is running, simply:\n     * delete U-235 belt to chest inserter\n     * THEN delete combinator\n",
+  "fileName": "kovarex_pebble.png",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/kovarex_pebble.png?alt=media&token=40221c8f-5c35-4ddf-babd-e170765dac47",
+  "numberOfFavorites": 2
+}

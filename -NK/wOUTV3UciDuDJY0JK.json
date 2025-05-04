@@ -1,0 +1,28 @@
+{
+  "author": {
+    "userId": "cj2SvnVaqhP2UBTCo9imSTEYIe73"
+  },
+  "authorId": "cj2SvnVaqhP2UBTCo9imSTEYIe73",
+  "blueprintString": "0eNrdWM1ymzAQfhVGZ5MCNmB72kOOnR566qnNMBiWWBOQqCTcpBk/QN+iz9Yn6Ur4L46MwW0nkx5sj5C0q/0+7X6LH8mibKAWlKlkwfkdmT/un0gy/3ww1HM5yEzQWlHOyJxcO5JWdQnOB75KBdw7ElRTO9+oWjqMO4umKEA4vHA+BePw6gu7znNn4pmRQ5mjluBkwJSgRXMLjuKOVKlQV2REaMZZ617SW5aW2rd6qAGdUgUVrmBppUf7/WSN21gO92Tur0dnN5b8lkpFM1fwBVcHm4P1zYigVaootEcwg4eENdUCBFrf2ShSqVzKJAiFEyNSc0lbaB6JPoY3uwpH5IHM3WlwFaKLnArI2hXBiGCMSvAyWcAyXVEu9LaMiqyhKsG5fGeroEKq5ExAjUgZbSoXwdXRaABVqlnzPT2q6lSkSjshv378JOt2CWuPI7VVX38JyA9jpjiarG/0ar4CIWgOCZrN7vA032GD9BE+wXOMsyUgUin6WoFbC75CO1bApk8Asxgf74xTwVlr2GLI984ZmuwMmXi6aPT9i2msOALGi4TXgOibHRjBdlZAmifLlOWabgUm45RoYL/CTJpl2pLBuy9th9TocdRFo2dBKLQlmQWd8Q4d36CD2FBzP+/aquACEzRbVmhEc5+BlMTiLjoipKAl0tHJi3fk+aUS6t0F6dSG1xaYbdmyu74ZQlp80bX2jq91ZDE9PZXXAr42+HuOI29zO8zipGf8U6KBbTTsIQKHWBiS5geyNCJlugDkkWxliHF3oz1Y2qXz/s1HXIQQyjZlp/4kngVxFOLHj/eV3+D5n8qdQkRlzYVyEapL5e5sRnrxlu14YqmUA+58p64cBWM5R3T6HFGnqvSXdGuEr0TSo4GSPumnunv5NuB0akpP+T5lKLqkzg2m7AXle3wk3344VL/jofodj3vrd1uGTQD4KG90Z4e+XQyzKcEd67rSKSFDUvh502UxPeufwvFpy9G/S+Hp0xQOjzL47ZD89cf6MlhQ0IVheCUL+tRIf5AQTI8uVW+5t5Z+PxhcgE60/f7gF4gNOj2ZmZ0i5qL3jZ7MhH/QOm/4eRWtc/QXW+ehnaRu8LCZ7NVI+jbrrvl/pcPFX+gD0W37kp1sW9qO465/A8zWBqQ=",
+  "createdDate": 1672829335573,
+  "descriptionMarkdown": "This Kovarex setup:\n\n* runs forever,\n* has absolutly no U235 buffer,\n* has a small footprint,\n* handles prod modules,\n* can be used in Space Exploration, and\n* is stupid simple with only 2 wires.\n\nIt's based on the following trick: when the centrifuge cycle is over, the stack inserter will empty it like so:\n\n    2 U238 > 10 U235 > 10 U235 > 10 U235 > 10 U235 > 1 U235\n\nWe want to keep 40 U235 for the next cycle and output the extra one. So if we setup the filter stack inserter to only run when the stack inserter is moving a stack of 10: it will take everything but 2 U238 and 1 U235. Add another inserter runing only when the stack is less than 10 and you are done!\n\n    SI :  2 U238 > 10 U235 > 10 U235 > 10 U235 > 10 U235 > 1 U235\n    FI :     -       take      take      take      take       -\n    FSI:   take        -         -         -         -      take\n    \n    SI: stack inserter (centrifuge)\n    FI: fast inserter (output)\n    FSI: filter stack inserter (recycle)\n\nYou can setup the stack inserter stack size to any value that is a divider of 40: 2, 4, 8 or 10. But if you change this value you have to change it everywhere (filter stack inserter stack size and circuits conditions + stack inserter circuits conditions).\n\nIf used in Space Exploration: use a stack that is a divier of 30 instead and remove the recycling of U238 in the no-bot version (as the centrifuge produces stones and no U238).\n\nLimitations: the centrifuge will not run for a short time while it is refilled.",
+  "fileName": "kovarex-no-buffer-overview.png",
+  "image": {
+    "height": 811,
+    "id": "ifawXSe",
+    "type": "image/jpeg",
+    "width": 805
+  },
+  "lastUpdatedDate": 1672932438438,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Kovarex no buffer (prod modules OK, no bots, no combinator, Space exploration OK)",
+  "favorites": {
+    "K60ijoEEvfMrzE0PpmPXEvb4TH92": true,
+    "pehRmNuQphSBCMpNKRwo4Sj2loA3": true,
+    "D1vqO3AiCkXaIH73b7oFWg82woo1": true
+  }
+}

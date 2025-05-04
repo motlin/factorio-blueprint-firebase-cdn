@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "VaZ1ea2pkxNvbJJlZDH0C6TBvnM2"
+  },
+  "authorId": "VaZ1ea2pkxNvbJJlZDH0C6TBvnM2",
+  "blueprintString": "0eNrtl02P2jAQhv9K5WMVurHJF7lXvVa9VhTlYxYsJXbkOKgI5b93nKg0gbBJYFmt2nJAOB6/npmH8cRHEmcVFIoLTcIj4YkUJQm/H0nJtyLKzDN9KICEhGvIiUVElJtRpLje5aB5skhkHnMRaalIbREuUvhJQlqvLQJCc82hFWwGh42o8hgUGoxIWaSQJa6WwviAip4bLD+5Fjng2qWHO6VcQdIaOBZBx7WS2SaGXbTnKICr/ihvcDpt1Eoz8cxVqTcXIe650hU+ObnWWiwgSnYmthKMjNEqdWQSxiwiC1BR6wX5gStlpYtqtnZdNxGINqDGR2q+FKTd5HEcLdGSq6Tiuhk2id4qAHFuyPqGrF7jJuyKqnehany6oMZuoOa+N2oL2sf28dWxDfK4AGf1pp2ruAbV6DRgyxuAOf/LbCC/fVru1LKjL5adP42icwNFr0fxkdy+dqDNht0F+/Q2heiesVyNlBqbBsk9uZZDyqt8ARm6o5BUITMYYYQ194AW4Ax4jl4C3+5iWSnTmKm9HojFu6s7B//KOT9+brDXKH//rq77Tmg4j6718UJhZ4XvzWFF7St0grtabPDXtdiBFK1Otr93nN69/OZk7KSIDafomWca1JXLy4utK5GVSQG18dO9wMzpKc60Sqb2PU0imNMk/Ms/9/nZ765N52gudmHnHmiRLIoB00e+QfrhM2J9+mJibn7i7B7T3JIIqOOvmO9SF98y7Lr+BfFE41g=",
+  "createdDate": 1644097889847,
+  "descriptionMarkdown": "Inputs on top pole: Red wire is current amount, Green wire is target, Each Top Red Wire/Each Top Green Wire= Each Bottom Red Wire. Targets may be set on internal P combinator, or sent in on top pole green wire from anywhere. Output on bottom pole is fraction of P: Each Bottom pole Red Wire/P = Percent full. Because Factorio cannot handle decimal numbers; you may set precision with P. \n\n1k/1200 = 1\n\n10k/1200= 8\n\n100k/1200=83\n\nResulting in one decimal more precision with each increasing power of 10 for P: P should be of the same magnitude (power of 10 for largest digit) as your largest green input, or larger. It is suggested to use a power of 10 to make conversion of output values into percent easier, as you need only shift the decimal point. Output value 4,000 with P=10,000 is equivalent to 0.4. ",
+  "fileName": "eacheach.png",
+  "image": {
+    "height": 967,
+    "id": "WqkvGRv",
+    "type": "image/jpeg",
+    "width": 841
+  },
+  "lastUpdatedDate": 1644097889847,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/circuit/indicator/"
+  },
+  "title": "Red Each/Green Each",
+  "favorites": {
+    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
+    "bsjBZTF3WlVn22pRYVVxozIftYv1": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "author": {
+    "userId": "H3QlaVpvadfVuTpGGxs7016oR2K3"
+  },
+  "authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
+  "blueprintString": "0eNrFV21r4zgQ/itCB8cuOK91+mLowe7B3RWWW2gL+6ENQZEnsYgtuZIcN5T895uRnTRp03Lt9jjSBlkazdvzzIzzwKd5BaVV2vPkgafgpFWlV0bzhF9nwC6vWC68zFiHOaXnObAUpErBsiVYh3IRm1lTMI+yfwjpjVWG/VAL1b3VtzrzvnRJr1fTxqw97kpT9K4rWos8+V1ZWSk/0eBrYxcTacxiiv+/fCOz4EjNdaYcw7/KwazK2cxY5iur0R9mNBM6ZWY2Y6Ww3uEq+NIYW7Fa+cxUnllRqpTNciUXgNHOu+zCMyk0mwKpTfeVojbnQRSsNDWGWmeAZqSsigqTgYIyE3YO5FKm5hkDbap5FjE8EaxQGqzI0R1KW7gqjfagyTkdnJtC7p9dBi/3c1bXjylzMjMm7y0V1L3O9y8n5V19dPHlq7ge/Fl9d/clj7hCK44nNw/cqbkWOeGpRQEIZIii4zAXMuNrFNUp3PNksB5HHP1SXkFzMzysJroqpmBRINpoaEHvIHRTpSkHaLE0TjVUeeCo7qg/jPgKb52ddEdoJVUWZHMeR5xyYE0+mUImlgrvB7oFrYi5ToMmR7u7T+jTTFnnJ89jEhYXHn3qU0gUvBfE4tM+PRV0Tm4m/DdOcSIJyso/TZBflaRsqayvcGcbbyPRsZA2yssVOllpPyGyT5RGVTyZidzBerxGiTIXKwxkv35uWrWdRtt5q/RyzAoQ2rFLcOBv9Q+iCNEihyXkROALDwW7Ufh9vhPmmMG9BEgd+0sRYTzdCzqa24FvVAxE46YiCHcM4Bmww3cCe/Z/AjvsvxvHuQXQH4/k1QbJq7fhiKWPLcDU7JupWxyvXkBRvwzi0TbKAlJVFR3IERarZKc0ORyEsTtqgTxFIA+ojN/Ii3hH3X/Gi3+LrQNSNHl7cX9Mr/hZjtG0lYgHzY7NjCUeBL1shoU/FXKBA82GwUNkwemAntCMDsMyzLS8GZvhnEjVeMdeZjD6qfIg3vSS1y9cBvYizqCWODU/kYdLJaFDrwPiM06wv78mO0yG+xI5gXxHEuE4Drlw7NPL7vz6iuWicp4Gdp8m7eAzvpP49s2gzlbBaGkBuVZh+LXZZNExgSmzcFdh6tJuW6hT47ONO3TubQWhFlFyJw1eLDCZ+IKEY9ivmsLcBhckXZcdqs5RdHD6Hiiik00RrQ8XjWzfkECLaY6cTYKr2+1t9ZDse2vnscsemJ5UW8H7Ccp42FD5eczHb+1IgycdCWuP+E2VdzOIhvQZR7g6iuJogKvhdnUUjeiDqxil4igOqxj36MYoOsbPaIz6to23Kec2ISp9zAV1aXp/Sp8Mn4jfYc4wvs5eittNFNbGFiGpewk756Gztoba1ESbRcJP+4+maZDzV6WHO9I4LXaFd2PASt+EsAfth8Swayj0iCemqJH+hCEEiUYkPj3+Fol4LnBEksG2ueFW+4sDa+t4eBafnY3iYf/kJD5er/8BFjps/A==",
+  "createdDate": 1729946414918,
+  "descriptionMarkdown": "## The RS latch - single decider version, from the Factorio Wiki.\n\nhttps://wiki.factorio.com/Tutorial:Circuit_network_cookbook#Latches\n\nThis is useful for turning on and off parts of the factory without rapid flickering. It can be used for turning off steam power when accumulator charge is high enough, or a mineral patch when contents on the belt is high enough, etc.\n\n## Parameters:\n\n![Parameter #0](https://factorioprints.com/icons/parameter-0.png) is Item. It can be a virtual signal, like an accumulator outputting A, or an item like iron ore.\n\n`High`, the value where the switch turns off. Defaults to `80`, which is appropriate for an accumulator's charge when turning off steam power. Or it could be some big number like 40000 if the item is iron ore at an outpost.\n\n`Low`, the value where the switch turns back on. Defaults to `20`.\n\n`Set`, the S in RS latch. This can be any value and is only useful for debugging. It defaults to ![green](https://factorioprints.com/icons/signal-green.png) green like go.\n\n`Reset`, the R in RS latch. This can be any value and is only useful for debugging. It defaults to ![red](https://factorioprints.com/icons/signal-red.png) red like stop.",
+  "image": {
+    "id": "LosjGIM",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/LosjGIM",
+  "lastUpdatedDate": 1731549129173,
+  "numberOfFavorites": 15,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/2,0/",
+    "2": "/circuit/indicator/"
+  },
+  "title": "RS Latch / Switch (Parameterized)",
+  "favorites": {
+    "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,
+    "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
+    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
+    "3DYaAhTTSFUGGvU92leC5MQkBq63": true,
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "gjPhLkg4LleDWPJ1WcWtSBxfTuD3": true,
+    "NibN6MMgtHeqeTQ3eCA1WqRlETq1": true,
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "TWOm1ShS8WSm7S4XOUOQhdAhGiM2": true,
+    "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,
+    "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
+    "tdrhIhnRgBbZf063LYzvr78RZPw1": true,
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
+    "zVVk7GVeblcAwWqO9OFmYlDiuh32": true,
+    "UB7yF4lmsxdFpSBH0uAWNUad7mP2": true,
+    "AhzNkdqg1bPe05cValFQwlJDXVG3": true,
+    "gunOWAzCrwTCywpfk0Z0x0KZSGO2": true,
+    "nUofLvmvD3Sz0uU3d9yjontmG9u1": true,
+    "xzCLjVGKRgUnG5Kldd8a39YZE9w2": true,
+    "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
+    "delc7xb4lJOnLWpjYOy3Jy9tpYl2": true,
+    "X62XRCzUveaEJfUtYOALUITXp953": true,
+    "5h7kuFgvmvdLXeCJk64LGXZZkFx1": true
+  }
+}

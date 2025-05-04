@@ -1,0 +1,36 @@
+{
+  "authorId": "cBljQ9df9GW7V9AliNfLOhPNBfL2",
+  "descriptionMarkdown": "This Particular Blueprint Auto Requests whatever AAI Programmable Vehicle you put in requester chest and Deploys it up to 5 of that unit Until the value of that particular unit is Greater then 4\nRequestor Chest = (UNIT)\nTop Right Combinator = (Quantity of type Signal < 4 OUTPUT 1 of whatever signal) this can be changed.\nsignal goes to inserter and configure inserter to activate until signal is cleared Reads Content of Vehicle Deployer chest\nThe Arithmetic combinator and Decider Combinator are looped thru unit scanner and you would configure what unit you want it to count there\nArithmetic Settings Unit ID signal + 1 OUTPUT Unit ID Input to Unit Scanner Outputs to Decider Combinator Unit ID < Quantity Of Type Signal Outputs UNIT ID to Arithmetic Combinator",
+  "fileName": "AutoVehicleDeployer.png",
+  "image": {
+    "height": 746,
+    "id": "Hnkb7wj",
+    "type": "image/png",
+    "width": 736
+  },
+  "lastUpdatedDate": 1550208158569,
+  "numberOfFavorites": 9,
+  "tags": {
+    "0": "/mods/aai/",
+    "1": "/version/0,15/",
+    "2": "/mods/other/"
+  },
+  "author": {
+    "userId": "cBljQ9df9GW7V9AliNfLOhPNBfL2"
+  },
+  "favorites": {
+    "ISlIx598w0Y2bI6M6NKKdUzHONw2": true,
+    "kOht14bSMCc1Lz86TALpXSERIdV2": true,
+    "j099BfaxjlgSY5LxT4SGByYDH7J2": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
+    "RSUniHYhthYrz4WmwrPF5cqg97C3": true,
+    "Wty3AIQg00Sw5rcZ7V1bm5uGfwS2": true,
+    "l54evwpJDXTXCGw3zbdZyuIHSTS2": true,
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "AalBfHS86GVH8n3X40S8Iqfu4Bh1": true
+  },
+  "title": "Additional BluePrints For AAI",
+  "createdDate": 1550208158569,
+  "blueprintString": "0eNq1l+2OoyAUhu+Fv6ubYu2X2d0b2UwM1dOWLIIL2GzTeO97pFU7tsxUm/nTBoXD48s5L3AmW1FBqbm0JDkTnilpSPL7TAzfSyaaZ/ZUAkkIt1CQgEhWNK0jHHgmIMyhFOoEmtQB4TKHfySh9VtAQFpuOVxiucYplVWxxZ4J7aKYggkRcq1kCAIyq3kWlkoAzlMqgwGUbAgwaEhnATnh/wYnQkiJvbljPRPa/GjIb+fi2Irq4F2bzuq3ur552AJFU4CWo3nogGfuwZlP0udleWIPTjwBJx5NMx/QLDw0iwk0m9E08YBmjSO5zipur9I9hlv2cFZXmQ33IKHhMhnDeXVowFou98ar2PJR2FUXtpLcumDjAqy7ADlkPEeQTBVbLplV+j7S6vuijRWQnOuLXq5MUD6rlUi3cGBHjoNxxDVkiu9y3im749rY9M5FjlzbCp/0QrkeyFOhA10WyFjWuFHcNIqSaUeZkB84SFW2rEaE3QqW/bmELU+pmyTdaVWkXGIckuyYMFDf50XkyYvFIC82nkTYDLJUsKL05uWifixsm3GdsBN0vRGg1XU20PVX87oygPMIpfHzMXXh+VJ5sjQa/57u+vF0l6U+m6X9PsQ0t4cCLIJ8VBhxWxjzpwqjjzqxNtpNNjswNI3KOUgaXschgoEmbtovLX6RKgEX1mGRb2Mq5uPJ6hELED2ZEdEoV+rEp+/FX36FKz2p/BR7m+ponyF5HM4V8/MG1xTF7eJR3+LNXyhnOiKZZsNy9h0MaOw/nN6TRA5kOQJkaP106QNZvCDNGKLhkYn6TnC0P5fsmLEhlwa0fajLqqP4vMS+aH+igyr5ScaYj1eD/hAl1J4b5/UHQDU0/K3w/6Ec606Oa690xwV2vdxr2gvPRzVKGvTKfReS4c3I3aOSm2tXQATbgmi2oQo1djFA3OTuEee7rMN6FUVrupmtorr+D3MnuTE="
+}

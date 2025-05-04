@@ -1,0 +1,28 @@
+{
+  "authorId": "Vx2hD7XW7CWFObNelY1dSabnXrO2",
+  "fileName": "TileableKovarexSetup.png",
+  "image": {
+    "height": 800,
+    "id": "B6cT7NV",
+    "type": "image/jpeg",
+    "width": 1504
+  },
+  "lastUpdatedDate": 1613741730737,
+  "numberOfFavorites": 4,
+  "author": {
+    "userId": "Vx2hD7XW7CWFObNelY1dSabnXrO2"
+  },
+  "blueprintString": "0eNrVV01v4yAQ/S+c7Sr4O9H+g73ubRVZxJ40qDZYgKt2I//3HeymcVM3MfH2sJdIGHjvMcw8Jkeyq1poFBeGbI6EF1Josvl9JJo/ClbZb+a1AbIh3EBNPCJYbUcFCKP4vn0E0nmEixJeyIZ23s2NrWKCt7UfhPFoZ+C0MxvtDLutR1AMNxwG5f3gNRdtvQOFot4B9kwb3yCKbqQy/g4qg+iN1LhXCstrzxCu6EPskVeETqOHGJlKrqAYliRW5wVBsIAgRoIJyNAZMvgAeVNztIDgU1CiCYLYmSB0O0GygGDWtabOBLEbQeZMELkRrJ0JEjcCupryg+vZk/XACMv7En+Sz0zBiw9C8eJQI4rfKFmA1mSK8FzMXGhQBj9ep0t6OnQ1o2SV7+DAnrlUdmXBVdFyk9eyhFzuc9mAYgMMlt9pVgEr8wMTZW4xUA56jFEtnFf0k/0yi9SboOUTQ+C0paL2R0E5tieOI5p2Wyx/Ip9BKY4ytGHFU675H3izxMvzn72mX+rveYUx8K8GI7wIxrhyPTIgDM55svFpy91OCQrvEHRO4/RTls0WhK/H9ovI0dWU0mhBPadzLI+ePa+G0qqECtdjXvuNrOBGKNbTLwFNFshez5KdLrrC7JIjuF5uOFe+g+250iZ3e/dth2KYbVeoHdQNw7K1HOQH6Rxqjw61913pli24t2zWva3v7zsyOquxWd3/xs5koPf3ITMZxo4JUPnFAfQt7avTozEnkYJwRNt/6F19SstFWzfvCXtT89G1v6vC4n9YYUHwVRwWWPHMW48XMKzmVF+Q3N+9zTxD6pAt0dfqg/89W7L729ipSKON9+fZjP75eqRiiIbffvEK2K6Cn0NfijNo+XoIZEajdB2kYUiTMA667i/hjQU1",
+  "createdDate": 1613741440556,
+  "descriptionMarkdown": "Setting the limits on the stackinserters to 10 will make the output after one production 10+10+10+10+1. Once the U236 inserter has picked up 40. The next production starts and the yellow inserter will pick up U238 and disable the U236 inserter, letting the last one pass. \n\nWill run without picking up more than 40* U235 into the Centrifuge.\n\n*When setting up a production line of this blueprint, the Centrifuge will pick up extra U235, until the first production cycle.\nAfter the first production cycle it will put one U235 inside the chest and stop the inserter picking up more from the main belt. \n\n-Low power will make the inserters move slower and can stop the production. \n-Production modules will put the extra productio back into the Centrifuge and sometimes stop the production.\n\nWorks on all three belts, have done nearly 3000 without fail on blue belts. \nAnd done some testing on red/yellow\n\n",
+  "tags": {
+    "0": "/power/kovarex enrichment/"
+  },
+  "title": "Tileable Kovarex, with simple automation",
+  "favorites": {
+    "s5KhWKIJu3QfhBoJpHqLzNFIWE63": true,
+    "NKUpnREpiBRHqaaUYvb9HWOqGmA3": true,
+    "kbIjGogiCYOsk86Vl5GJCTRBJ8r2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+  }
+}

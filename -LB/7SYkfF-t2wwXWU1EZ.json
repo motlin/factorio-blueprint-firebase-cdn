@@ -1,0 +1,27 @@
+{
+  "title": "Station Requester",
+  "favorites": {
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true
+  },
+  "blueprintString": "0eNrtW0tu20gQvcqglxNpwv7wJyA7LxwgC9kOkMUgECipHTcgkQpFGmMYOsDcYhZzsjnJNEXBovjrKoaibMAbGyLZxa569e0qPpP5KpWbWIUJmTwTtYjCLZn8+Uy26kcYrLJrydNGkgl5VHGS6isjEgbr7EL+xPiW7EZEhUv5F5nQ3Qix8qawkqFW3hVWctTKr4WVYvd9RGSYqETJnOn9j6dZmK7nMtbsvKzOxJIEYTJeROu5CoMkijXpTbTVa6Mwe6+mN6Z8RJ70f81MtiKJo9VsLh+CR6Uf18/cq1UiY6R8r8ieWpoBRAuS1ntX21n28vtgtZX5K0O5yDa0zejS7M+PWMqwyJtakomnn1XxIlXJ/qemtdtlUiyxz3DsszMwr9+avWF82FLvkhDsVBSsQRQcJwrn1elBLJdl3pmA8S5wvFPrhHkYDsyHqaT9spe1XKp0PZYrTT9Wi/EmWsk6kxT73Vh1xJyOxMa0jpr7Qm0pF2opY4OvOJiL9YfdoCUHMjN9b6leZHiv4m0yw3nKrcxowBdd56q23gTxfvcT8t/f/+qnojTZpNiXL6LN02yvt7P7OFrPVKhpkEkSp3IHV1a3rKujk9vcyewA4uwyLR8RBnsNbaSaaTlEYT2kVvBBtOLgS3Jr1tZRQvtTz1jnjgnjD+gRpdr7Lkz6PlL61uu1ya81NvnPkDjVWAutRk+wuYxaKZnwL9Mr+wNKYQqS0UFpCB1OQ472SV+dfRrcsY9D04clIpTiwPIugRXrAatpr1j5mABIRbMNiyZcjoVCEKvkYS0TnUO1QuOboDkS6s/XngS8aCPjIN8S+dABI+2PfwUF2ooCMBumHC14ZyjBX3cJcl+yRUVkxh2QuWpGpk7h3fbIxF1TKALmIlRgyw33ULrAeaHtbplZzcZtWEodIJd2Ny7rayrq4Dy+GMTjT7uo9k1PNdW0v5qqjGkFcxec3on2oOKAyyqo53PRns8eyvNddVGPz2XP97GDbtzgPB835OQ+GDWOSjGgrsRDY8xeNcaV6Pbh/NHN72p57Ri2RBLGgPD6aHj5UPBOezHh3y+evFAPDL/TCH/989AegoXMByx00iMMTFfOCqFbp522rjMZzME3M6RsBictgNbG8DUavYQzPTn0+FVjKnePcEeQHs4iWKPoOSqJFW/1hKmuV9dHmsrc5lhjOlliNtA8BNY8Biukq2I9h6lcIa2jTrDN6QJvEruNFbt92YOjcQ+ivkWF+Dbt54bYITAYMa8JJFwR7r33NTHwGmpwbmicCN4OKrDWYi4y10GfTZkSmapDKQnChjUJmNeJk8asrY4V24AZNCdDV0DmBiXW/alEro/6rWIdaKJYdjGub32cYOB8o2huVrQfSEER4rj2oP+WXN+nCzeP61xTC2LARI7jeoQDTeHcts9bXL6Tzxnm9AcMBsOBMUxzXQaLh3PgcaTbS2LglQOkj4s6DOkBS9SAAxScI8Nt20AeF92I1TePuI3TPv5WxwV6dQSGwRpOUcfEbpPaONjR6txR0z4naq8LE7XcsooztZ0HExvtxEUy7PTP75fiBDGjHaf2r0+o2B0n+D/XTjNzjOSr/asG0WNnMHPJD9BD7vf8bdpncma1Rw9gm5bjBjCtd8lXuhPtDlYAw7TAFTLsHYiKaA1AACtKgaxP3oGoOBsDEMDBfIGrTfgbBeJcTRlhQWeDzD2aJoSQH115580QqdUxYbqrTXUYJtWBHuOKbt9q9SqzbwV2PatrWl3/QVj2rVt2YDkpfLU6IqtgLvXOyF2u67/dyp+p3Oqd63uPev97fh3PZcyjvuWy3e5/ByEyYQ==",
+  "descriptionMarkdown": "# Mods Required\n[Smarter Train](https://mods.factorio.com/mod/SmartTrains)\n\n# Overview\nThis will pulse a train signal across the circuit network. At each station, if it receives its station number, then it will pulse back how many resources using its resource type. This circuit then receives that amount and calculates how many trains it needs. It then sends to the FILO Memory Cell as many times as is required, the station number. If there are station requests in the Memory Cell, then it will stop requesting.\n\n# Additional Recommendation\n* Use my FILO 8x Memory Cell to store up to 8 stations requesting a train and outputs the most recent.\n\n# Inputs\n* First Constant Combinator (CC) = Reads from FILO memory to determine if there are stored stations. This prevents the rest of the circuit from requesting additional stops.\n* Second CC = Used for the timer.\n* Third CC = Holds information about the trains stops. Set (L)ow to the lowest number train stop and (H)igh to the max. Set (I)ncrement to 1.\n* Sixth CC = Used for the timer\n* Seventh CC = The amount of resources at the station requested.\n* Eighth CC = Train wagon size. I run 2-4, so it is set to 8k.\n# Outputs\n* Fourth CC = Requests the station to send back how many resources.\n* Fifth CC = Outputs to FILO to hold a station request.\n\n# Other Items To Set\n* Between the seventh and eighth CC is an arithmetic. The resource needs to be set. This essentially filters out resources and allows you to run multiple depots on the same line.\n* The two timers work together. It shouldn't have mattered, but I was having some issues with having a low first timer. I think it was set to 100 and the second was set to 10.  I changed it to 300 and 10, and I don't have any more issues.\n\n# Notes\n* I know it is a bit messy at the moment. For example, the five decider combinators on the bottom are used as a delay. At some point, this needs to be changed into actual logic. The problem is, the second timer sends the station number using the old station number because the logic to request is more complicated than the other. So, it takes more ticks to change the station number.\n",
+  "fileName": "factorio_StationRequester.png",
+  "image": {
+    "height": 533,
+    "id": "liKajAr",
+    "type": "image/png",
+    "width": 764
+  },
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/train/loading station/",
+    "1": "/train/unloading station/",
+    "2": "/version/0,16/"
+  },
+  "author": {
+    "userId": "hpChOET0KqTpRCnTetn2oXJDIW73"
+  },
+  "authorId": "hpChOET0KqTpRCnTetn2oXJDIW73",
+  "createdDate": 1553846385881,
+  "lastUpdatedDate": 1553846385881
+}

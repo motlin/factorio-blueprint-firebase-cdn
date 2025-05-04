@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "LcemWP2xtSYh84hSDmCgzPglT9I2"
+  },
+  "authorId": "LcemWP2xtSYh84hSDmCgzPglT9I2",
+  "blueprintString": "0eNrtVdtuozAQ/ZXKz6ZaCITL4/5GVCEDkzBasJE9pI0i/n3HpKJpiqpNV9W+7NvgOXPmjOfInEXVjTBY1CSKs8DaaCeK3Vk4PGjV+TOtehCFcATQBXULjsQkBeoGXkQRTnIFu1eOAtQOLIG9Qkfv0XQaPPqIlkY+kUurGRHAEeyJWtSHK4rN31PE05MUoAkJ4TLs/HEq9dhXrLcI5drQUgzGcY3RvrGfPc8eEylOHEXJYzJ5ZTdM0cKkLFLbA2Ed1KavUCsydo0zXThTltyghfqSz6Tg7ZA1XVlBq47I9Vz0RlxyupnJnE/s0Toq//yqVN36S3Lgae6vMwNYdVEqAkaZkYbxC/2vZZca6NnYX/M8FhpR7FXnQIqDBeBGZEe4lfyxxqOWkplgmtaWtZHr/v108Vte/PpiarT1iDwKULnHjpnconh0cHv2QU58vwvTdRcm97sw/+/Cf+TC7SKphwbHPoCO797yxgbTwecvRra+//Qrxs6+zdjZ/cbO/WD8aj+zEf2TvQtlJBMZPcldJEOZyXCOIhm/nsUynaPNjIs5ihmXMI5ZkKDn7m9/Pik6VQH7Q/xUDusHN7oWHyrzwhn+g7hZVLKN8jjPkzj6kabxdpp+A6DIdEI=",
+  "createdDate": 1730245097790,
+  "descriptionMarkdown": "Minimal sushi box variant.\n\nA simple setup which spreads the content equally over a row of boxes. Which allows access to multiple ressources like a sushi belt without having to wait for the round trip. Can be chained as one pleases. Only downside is that the throughput of the operation is limited to one inserter.",
+  "image": {
+    "id": "crAPmP9",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/crAPmP9",
+  "lastUpdatedDate": 1730299761157,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/belt/balancer/"
+  },
+  "title": "Basic Sushi box chain",
+  "favorites": {
+    "MJoJjkxdHfeAgFCvMWO7vqinPSn2": true,
+    "9jtyR92DBAd13hltvZ6YoJcFf792": true
+  }
+}

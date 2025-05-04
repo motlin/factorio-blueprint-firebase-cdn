@@ -1,0 +1,20 @@
+{
+  "author": {
+    "userId": "wN6BFBBBUoW3OTtKB6kGpXpIXA82"
+  },
+  "authorId": "wN6BFBBBUoW3OTtKB6kGpXpIXA82",
+  "blueprintString": "0eNqlmF1r2zAUhv+K0bVSog93s2GDrjcbDAbb7koxin2yCmzZk+Wsofi/78hJ3TTN+nFGLmJLeo/ec54jE+eOreoBOm9dYPkds2XrepZf3bHe/nKmjmPONMByVkFpK/CLsm1W1pnQejZyZl0FtywXIz8lsX1Xm+2iMw7qg9VyvOYMXLDBwm636WZbuKFZgcdw/HQIzrq2R1Xr4i4YSb8/SznbslyJsxQ3CHCLebDL1jkoQ2JdN4QktAkm2Bi/TXpMIWnXSbiB5CARPiUeY4ZtF7fdWB8GEzfc+9jltvjCxpjpkV35WrupetZuBRtbQvTbA/qpDh1T3H476VbNyyLsYFxYPAp+XOLs3rOcPFfWo9dpXvMYIvi2LlZwYzYW9Sjqd/P942ukfN8snK1tHcAfj76QzgWO/MYJTAYHXeubaRGa74yfzOfswzQwxG4Wy+V4jZ9TNdD8mbZ+ik28rQD7mEVkaOdSHN5h2mvr+1A8nJkXkx/5DAxbbhmz+r8YGSXGp12Mg5J/nBlAsRcbV7F4xtsh4AE8fqC8boduW0wgi7Vvm2I6ySxfm7qHfzBNHwJhY9SL2jTdCZbycTuf4ldaXw42FODMqoaK5cEPwOfhGWRcSyvfPQLxpH0xNSzcH+yxWLYrxQXXXFzzKz1dqelK8RTHcF2w9f4Jenxq301JymycHXhYWwcVdrorPQRgsYZPnqc0WUaSpUuaTNBkkiZTNJmmyVIagB1utSThfrMsI8n2uN8sEzSZpMkUTaZpspQGYI9b0HALGm5Bwy1ouAUNt6DhFjTcgoZb0HBLGm5Jwy1puCUNt6ThljTckoZb0nBLGm5Fw61ouBUNt6LhVjTcioZb0XArGm5Fw61puDUNt6bh1jTcmoZb03BrGm5Nw/2sDH+j2wANzj38z8JZbVaAbwvsx/fk68XPy884tMHX4Sl2ei4znWX4pTJ1rsbxL3JIzmA=",
+  "createdDate": 1744448982001,
+  "descriptionMarkdown": "A simple SR latch. Simple connect the device measured (accumulator for power or tank for steam etc) to the primary side of the combinator. Connect the secondary device to the device being controlled. The inputs are set for 90/20 but can be changed. The light and constant combinator are just for display.",
+  "image": {
+    "id": "EbKu4CJ",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/EbKu4CJ",
+  "lastUpdatedDate": 1744448982001,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/power/accumulator/"
+  },
+  "title": "Simple SR Latch"
+}

@@ -1,0 +1,33 @@
+{
+  "fileName": "20190324151517_1.jpg",
+  "lastUpdatedDate": 1553571037946,
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/train/loading station/",
+    "1": "/version/0,17/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "Dynamic Train Loader",
+  "author": {
+    "userId": "swwDFHhqziTJnRpnKa5BPYd1GiC3"
+  },
+  "authorId": "swwDFHhqziTJnRpnKa5BPYd1GiC3",
+  "createdDate": 1553571000205,
+  "favorites": {
+    "045KdRXaUxRheTe5vlrxfvnZlC22": true,
+    "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
+    "Zg5d40zZDoM6GisgalPgFxZ8J6h1": true,
+    "0fGlHnZ5NJYZXl7YtKNGQGTjQAw2": true,
+    "4MKYdr8yg3b3PCxMyROOzx0gX8m1": true,
+    "knHtxh4wDXaumqgful47NygduO93": true,
+    "wW6vlc38hbfob2qooDERTZJnOD42": true
+  },
+  "blueprintString": "0eNq9Vl2OmzAQvspqHqtQxSQkFW+r9gh9q1bIgUkyWrCpbdJGEQfoLXq2nqRjyBK0CewmUfsCGM/PN/P5GzjAKq+wNKQcxAegVCsL8bcDWNoomft3bl8ixEAOC5iAkoVfrSl3aAJSFg0/QD0BUhn+hFjUkze9U2k2OvghN1r1PMP6aQKoHDnCFkSz2CeqKlacIxZdAGnIbQt0lAapLlakpNOG45fasjdH5cwcMWCPPd+mHyNOw7U5o/NkhVu5I7Zno1OghLezxtn6jTUZ65KzOnZkXMVvOiStRYAy3fpSLPow7/d79E66RCNb2PCBTXTlyurq5HVbosK0K0L4i8Gs30zi1ZwtyaQVuWYZesp629H49qJ+4lThQGxm0UM5Iy8cPDvntIUtbXyUICPTFtSivkDhC9RCZ5joddLrJtNvnUyfkxc/Ulc19jNc0VTxumuX+zDrkhSYUVUEmHNwwye51DmeN0OcenEbu2IAyPxaNU37Ynqbl38kLT+hnPTjyqv7v0tnNq4VMaoN8T5mog5lhillrJXRIceENMy8ksviMi3HkPdx8hXajh2ZmPpFUUrTIIzhz6/fN3Dx2AYt94ytUi5ZG120ioV4LXOL9V0auJuWxen7dax8nJdwmJUb5onwX8eNQVSvDZcDeJcd3lxvyDby3qJ1gcHvFd9HRu+0vn7WDpBzEfKigcwFNf8Fce8nZAK5XCEfF/iyZ/SUPjgjST3kWmYN4B0a2yRczqYiiqJPYr6o67+7IAbQ",
+  "descriptionMarkdown": "This blueprint will load a train with the items listed in a constant combinator. Connect the power pole to the station using a red wire and make sure 'Send to Train', 'Read Train Contents', and 'Read Stopped Train' are selected. The station must be serviced by a Logistics network. The number of requested items is limited to 12 by the size of the requester chest. Several units can be added to each car or multiple cars to expand the number of available items, simply connect the power poles with red wire.\n\nLimitations:\n- Stack sizes greater than 1 can cause slight overloading\n- To avoid stack overflows, subtract 2 from any value.\n- Setting a train in the station to 'Manual' mode will cause the inserter to insert one stack. ",
+  "image": {
+    "height": 1080,
+    "id": "rCshz5H",
+    "type": "image/jpeg",
+    "width": 1920
+  }
+}

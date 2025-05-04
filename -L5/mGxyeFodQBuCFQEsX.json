@@ -1,0 +1,24 @@
+{
+  "blueprintString": "0eNrVV8GOmzAQ/ZWVzyCBIQlBVQ+99dQPqFbIgcmuVTDINquNIv69duhuaXbYta1KTS+JbDPPb2aex+MzObQjDJILTcoz4XUvFCm/n4niD4K1dk6fBiAl4Ro6EhHBOjuC50GCUrGWTKihlzo+QKvJFBEuGngmZTpFH4IoDdDG9SOopSV1smT1j5gLBVKDXBhnDsZc9iLuJSzM8uk+IiA01xxm/y+DUyXG7mA2KNOPPI/I0Ctj3gu7r4FMInIiZbyZLKMrNIqG4A1ETGeMDMPIQhmhaPlaaN+SSl9gItJwCfW8to2I0Y6WfVsd4JE98V5ag5rLeuS6MmvNK8qRS6UrjyxZVWpmJZrbQTcwybTdgHwi07wuZiLK4qX250ECiGUqeWOClkz3E+b/JjSa+fS+4yDYoYWq4cr+k/LIWgXR67IE1lSPTDQ2QtqQMg5oOS6+eJmfP+36Bi6HC/VZQnPtMc0W3l4mipUQbJ0lgCuA/t8K2LmdyfeOZOF+iH7B0D9DmCOge79akWLE0iRU3hSFC66GOLvf5bCDho9dDK2JiOR1PPTmzKzpD+eWOSfBPQdp7iUO3MuNrzoSB2JbL3XgxHaB2Uz+TenDXCgCXcDR9p4SckgUTXwUhNKiqa+AHJRN/VoRtOzRzLd5uI2b4/PqzYHco5uVa4PmgdJDqxcN7UPwxGyDCivObOd5KFzEV3i2HLfRc/4d3ex9CgL+Agi91W+qZ0W7tPyqad2uRDEL7UTMs8y8+C7ZLxdP4Ii0zJiZua9GCnffJNx9GY/HiyKfQKpZdnlOd2mWFEUyTT8BTQw2Cg==",
+  "createdDate": 1519114510431,
+  "fileName": "ironbuffer.png",
+  "image": {
+    "height": 327,
+    "id": "UExYoYu",
+    "type": "image/png",
+    "width": 243
+  },
+  "numberOfFavorites": 2,
+  "tags": {
+    "1": "/train/unloading station/",
+    "2": "/production/smelting/",
+    "0": "/general/storage/"
+  },
+  "author": {
+    "userId": "duVWG6DfCxMHjqWcEQen4cnW4WA2"
+  },
+  "descriptionMarkdown": "A buffer system for ore-unloading station setups.  \n\nDesigned for a situation where I cannot smelt a full blue belt of ore, but I would very much like it to come off the train at that speed.\n\nLogic system: 2 green wires, 2 red wires\n\nThe stack inserters coming off the belt at the bottom with the red wires are watching the output end of the system.  If theres more than half a blue belt they start pulling ore off the incoming end and passing it up via the chests.\n\nThe stack inserters at the top with the green wires start feeding ore back onto the line when the input tile drops below half a blue belt.\n\nThe result is that trains can unload onto a higher speed belt setup than the smelters can handle at one time, thus getting them back out of the slot.\n\nCan be made longer for a bigger buffer if receiving infrequent but large shipments in that case run the logic cables down the electrical poles to reach the entry and exit tiles.  The example here is about right to hold the contents of an 8-car train.  \nCurrently set for Iron Ore.  To change this click the four wired inserters and select the appropriate item\n\nIn my experience so far you dont have to rebalance the ore belt provided it was even coming in, the inserters work in tandem.\n",
+  "lastUpdatedDate": 1519114999778,
+  "title": "Ore Belt Buffer",
+  "authorId": "duVWG6DfCxMHjqWcEQen4cnW4WA2"
+}

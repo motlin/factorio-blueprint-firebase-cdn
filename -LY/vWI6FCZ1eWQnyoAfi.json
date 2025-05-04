@@ -1,0 +1,43 @@
+{
+  "author": {
+    "userId": "oDVwxjgLdCWWtniTUBTWsL3AZiI3"
+  },
+  "authorId": "oDVwxjgLdCWWtniTUBTWsL3AZiI3",
+  "blueprintString": "0eNrFW11v6jgQ/SsrP67ClT12wodWK+0/2PdVhUJwL5ZCghKnd1HFf18Hegs1mOZ0fcNLq4Tx1/GZ8ZkxvLJV2eldYyrLFq/MFHXVssU/r6w136u87N/Z/U6zBTNWb1nCqnzbP7XbvCwnZb7dsUPCTLXW/7KFOCSfNmz0evLDNPqiGR2eEqYra6zRp8GPD/tl1W1XunH93ho2Ybu6dU3qqh/LdTORCdu7f8r17JZhm7pcrvQmfzF105sUpik6Y5fus/V7u2fTtHZ5NecX09jOvTkPfLSY5NXebkz1nZ3GaG3e4zab9U/bXd7kth+L/dl/3rXajVXWjVuTbTp9alLpoh+77QcT/R8HyOWazboHJPnwPD08HQ4X737iQsNwoRMu6ei4zCkuLsLDRQZwkcNwEQ/DJfu1fFEBXNQgXPijYFFxUZEeKpn3LNxCfy7mhOJt1NJBqNGjgo+I7GRXMIW8LBuEy8OcLHJMVh4saQCV6bDYo06wyPFhUb82Js8CuMyG4ZKecKHxceFxcZn6bhQizPx9fmtdmLVuJm4aK1MdpxE8zMW3kEe99XKGqP0CRjovNh/xkR48f7g2dWd3HdBrD9Ox093eTa+r7PK5qbdLU7le2OI5L1t9AJhHH+O3cAAnjELW/Nr61nb0dm+zzhtjN1ttTXF/S/i39OzNa6dti9OndHuDzt3G2aNW990sL04E7tZQ77TbquM82O9f2KtT78B2zK9P0/Bu+NFU+GHE39zQ4SwucoNu5QA4LvnOHr07ziCKDZQIgiAnFg/y4esQh/Oi2OfVHSc+Bskvk+aKBVPIp4PbMywhkI86k0XkfCD1YQwlBGJYRqAedShT5ENZ+DmBCMkVkUJ6RYwOzTQyZ2Y+MlkImQxBho8PTOyig+9NxEPInLV/XhTdtis/EQw8eACgUfkv9j+F0831zJDoML4LUOxU5kqVzEPIzAFkxncBipz7Cj84UOikJY4Eh/Epk8VGxq+WUMiZSCCFgfGP2iyyM7ko6SETEiFEgDONTxkZ+zyZ+8CECmyEyNbxGSNjV7H9MjaFxBkp5EJofD2fRZat5OdFFComUYpcCY1frE5jc8Y/sikkWylDLoUegEzkMENXsjV4izgFroXGB0bFvly9OrJDKo9mwM3P+FFGxY4ycjAwc+Dq5wGMiS1lprcPpqeEWVO+fWXBjyPZ+T7wbc5utKLRtv/mQ9BcYuaEmQvInEPWWN/YxIeikp7vGgFzhZlfTKa1daUnu9xu7jUgtIEAG3DQHu0fXQC2XUPhfyszZJh5ipmrwUtVKBsUygaFskGBbFAgGxTIBuWzYZA9xoeh+ysx9sgr9nwyd4nyR6L8kSh/JBb0JRT0JcgdCXJHgtyRPncG2Q9lD2HsIZQ9hLKHUPYQJhgI4w5B3CFIMBDIHAKZQyBzCGKOwJgjUOYIlDkCE5oC443AeCMg3giINwISmgJkjQBZIxDWcIg0HOQMBynDIcZwiDAc4gtH6MIRtnCELBzjCseowhGmYOEFjS5ocBHgqYQFFyy2QKEFiiwCO5DAyAIGFiiuYDIGVTGoiEE1DIECGNMwkIQhTP2CEgZUMKCAgfQLljZJKOdGUyY0Y0ITJgnm2xJLt8GMCUyYwHxJIqk2lCthdRcFleDQmgtackErLmDBBay3gOUWhdTeoFILVidNIbmYQhIghUJ6ioT0FJEAKSIX7xRFn5LTryMXF7/CTFiZr3Tp3v1d/9DNb1tn2X+J7EU37bHTbDYlmok5n9Lh8B+sBk1x",
+  "fileName": "powermeter.jpg",
+  "image": {
+    "width": 329,
+    "height": 324,
+    "id": "MDp4l3C",
+    "type": "image/jpeg"
+  },
+  "numberOfFavorites": 17,
+  "tags": {
+    "0": "/power/accumulator/",
+    "1": "/circuit/indicator/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "Circle power meter",
+  "createdDate": 1550408036965,
+  "descriptionMarkdown": "The lamps light up 1 by 1 as the monitored signal goes from 0 to 100. Blueprint comes with accumulator, but you can replace it and send in any other signal to monitor. Just make sure the input is max 100, so for example a fluid tank with petroleum signal would have a max of 25000. Send it first to arithmetic combinator and divide by 250. Then red wire the output to either one of the inputs of decider combinators.\n\nAs for tiles, it looks best when placed on refined concrete, but feel free to edit concrete blocks away if you want to use the blueprint in earlier game.",
+  "lastUpdatedDate": 1550408402780,
+  "favorites": {
+    "ojRAiJiCuXZpw1YiDOKX3of7wMf1": true,
+    "Bjse76JoUKeLOuLmWbhUKyWG7wJ2": true,
+    "9HF43r64i9gXzMd3pbhXZPxxKwn2": true,
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
+    "9pz4TMzGKNXdaIVUCbMQFf7Tob03": true,
+    "nD5KgJnP8mRmFp4nmzZnKWSIzmt2": true,
+    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
+    "XapKJxfpaCOr004b6kXVsc5wZzd2": true,
+    "I4YVWalmpBbK8ogdK2ou44l3C242": true,
+    "045KdRXaUxRheTe5vlrxfvnZlC22": true,
+    "3Itc0snPXKhoQG8iAzN8qiBPTdl2": true,
+    "tYQGObRXw9MQ8DeZti8NvIR46k93": true,
+    "kOht14bSMCc1Lz86TALpXSERIdV2": true,
+    "aGRZVaEL5kX199TBKlLfFOYVy0n2": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
+    "V515dCjEUngAzrK44nUMwDHWagn1": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true
+  }
+}

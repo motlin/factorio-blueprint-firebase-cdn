@@ -1,0 +1,20 @@
+{
+  "author": {
+    "userId": "wN6BFBBBUoW3OTtKB6kGpXpIXA82"
+  },
+  "authorId": "wN6BFBBBUoW3OTtKB6kGpXpIXA82",
+  "blueprintString": "0eNrFlk2PmzAQhv9KNaduBSu+jBrUPeylUg+Vql6rFSLgJNaCzdombRTx3zuGwBKwupvmkFPCZPyM3/kiR1iXDa0l4xqSI7BccAXJryMotuVZaWw8qygksBENL+QBWgcYL+gfSPzWsfjVmcQvmkrXm/gG7ZMDlGumGe0DdA+HlDfVmkqEOQNg3ZTPLuOKSoSAA7VQeEpwEwNJrh9+vicOHCAJ/XuCIQomad57+IG50wwdjGhJXxqqzN3yHX5a4atz+OlIumElnlPGT/XRehlDLhwYPc6si6z4GPWlyUq8Idq5kBWmz4FcVMZHC7wwPHSGxtSkS/KQRAsuuAwXTHChBRdehgsnuMiCiy7DRRMcseDIZTgywcUWXHwZLm6fTBdrmaldyoVOh3YqINGyoa2l96Y5VortqVtLsWfF+1owxBa0QKP/mZVwPiuRhfya9GHcbUwyMIOOiTtDS1Gma7rL9sxk7WhsHAOlWqSl2DKlWZ5yqn8L+dwny4HRjr7FGGHDJE7bW1vFrCmddfPhebOKfYG2m9uc1fOTgzldVN0UdvTsZ1gfuvOsgDEp3zSt8AlNc+4J6J5pebu3uupOA83Q/hVos3u3khYMa+yKzSKJY+BT8Z3hSwIm7Aa5TZnhU8X4x9pPlVN7qf4Ue3f4a0FrioNlKtC1/r9lBLeRESxlBNfICG8jI1zKCK+REd1GRrSUEV0jg9xGBlnKINfIiG8jI17KiN8rw7IwPO+MhxhlQeCSZWaFJpN/nfgiyNYUdz38ePz5+P3D1/HFs8dN3OWCxMEqWq1ITDyfeFHb/gVDVYzN",
+  "createdDate": 1746794981747,
+  "descriptionMarkdown": "Foundry device is parameterized and programmed to work logistically, meaning it will read the quantity of that particular item on the logistic network and craft if the amount is less than one stack.\n\nPlace blueprint, select item, and go.\n\nRequests are set to a reasonable level. Device is programmed to produce one stack and then stop. Output is into a passive provider chest.",
+  "image": {
+    "id": "eZennx7",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/eZennx7",
+  "lastUpdatedDate": 1746794981747,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/space-age/"
+  },
+  "title": "Parameterized Foundry"
+}

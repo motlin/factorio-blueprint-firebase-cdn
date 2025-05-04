@@ -1,0 +1,22 @@
+{
+  "author": {
+    "userId": "762p3Sc5sCTkqVz6qXUfUGYEZYY2"
+  },
+  "authorId": "762p3Sc5sCTkqVz6qXUfUGYEZYY2",
+  "blueprintString": "0eNrtWtuOmzAU/JXKjy1psbkjtT/Rx2oVEXA2VrnJMaumEf9em2STLJhg41V2q6wURSLBh8EznnN82YNV3uCakpKBeA9IWpVbEP/agy15LJNc/MZ2NQYxIAwXwAJlUoirhBK2KTAj6SKtihUpE1ZR0FqAlBn+A2LYPlgAl4wwgg8Bu4vdsmyKFab8hlOoAmekKRY4xymjPF5d5Zg/qK62vHFVCgg8IIq+ehbYgXgBEfK+evxRHGvJ25AO8h5A8UVxdvk0wq+c9qHld5eYPG5WVUMFHMeKLIgeWmuAC0284gCYA0+w3A5WRugBVReMg2S0ypcrvEmeCA/AW50jL/nfGTm9wprQLVsOuv6JUNbwX07QDncscJJuRJ9vsQgjYm1ZIoi0LVDVmCYHFOALb1k1rG60Y7fq3czZSQlNG8K6Sy4A3haNcmJda4wEZRJyHE3ROGiuaFAf0Eu8UKIpaPkW9GSacg00hd5WU8rtsoqJZpey+3wL2YUD5VjgkWJc9m+Ejo5AJWqWCdIzYNa5MbNHhgZmsYDmtHWx29nDC/aGlzu0g3GqkJp3+CYJxx71DqnWAgkk5QwUGGjKvucMBG1VL4iuCiocjP2RMP6I1MLTq2Q4JRmmqvRBRfqOYV+HuzNpUFwUdUI7oDH4Pps1EajecXxNyZZrWhVLUvIwIGa0wRqUBjpG4Kp5dmRSRJgZgaxs4EXDSNkg9DzXCWB0104AdXJ9cD0Z9YONJRgIDegK77gY6Pv2gABHxwUkWUBOFzIoCKCvM5mA7sQLeqO+YCFbag2OgdaC/3dK8e0m7uGq1hFTvEY6NiQzLalw3ZnlxVG0b1Ze2L3y4sfrlxfrJN/q1BdwwkucCYJ9Ra/xDGoOTa+RTTa410WWYyH+caV24hvYifdeKo1e6lrcxCu0KlSJs8j1YjAHhHe9Ctm33Ak+/InxHSryFRrwdc/rQJp0BYp0RAZ0fCy4Tizdwfkrri9HF9LaMoDhxFgN1MonZJvU/Zrzf4SmVwJ5ch5NzMhkTgnvJhHI+965rqdoQp2K68oIzS3H7Y9yvE+Zp7Xwr+xEyB4jz2RHUdsM4PRqIHcnMekPpGbgGjiXHWptf04URigYwy4FbrBNZkf3Uh7Jc+iUS/k6ORQhvWijnufP9Dw7fAvPm1lavbO9EOSO+5s3wWt4XRaKxy9QYOCWmgbkygzGkbrLefL1PFqvq9G+ABU8gxoocE1yhunIYahJ5TTCMpBtXx6I0soVvqya5fwzkh8PVA3M/rzA255wbZK/Cc14f5QpxQwvKO9OAfFKcztqLzu0awfEo7sTYPHFgTEL5MkK834BP1mS/v6U4TUpsejyJ95zh+EdQjeIUOBCP3R4Gm7/AcOwCks=",
+  "createdDate": 1630778064208,
+  "descriptionMarkdown": "This is array multiplier.\nIt has 3 inputs:\n1. Constant combinator - Dot signal with X as a search value\n1. Medium Electric Pole on a Hazard concrete block - Array of signals with search values on a red wire\n1. Medium Electric Pole on a Concrete block - Array of search signals on a red wire\n\nOutputs are on north poles.\n\nThis schema takes all signals from (3) and scans through (2) using (1). Per signal received in (3) it looks into (2) and if it finds that (2) contains this exact signal with value X from (1) then it outputs this signal with value X to the Output.\nThis schema is expandable West to East with mandatory ascending sort order in a same direction West to East for X and Medium Electric Poles overlapping.\n\nThis can be used as stack calculator, for example:\n* For (3) set Constant Combinator as input with Iron Ore = 50, Iron Plate = 100 and Green Circuit = 200.\n* For (2) set anything you want with signals.\n* Set 3 lines of this blueprint:\n * first with X=50\n * second with X=100\n * third with X=200.\n\nIf you'll have any Iron Ore, Iron Plate or Green Circuit as inputs in (2) - then in Output respectfully you'll see Iron Ore = 50 or/and Iron Plate = 100 or/and Green Circuit = 200.",
+  "fileName": "Image 5.png",
+  "image": {
+    "height": 723,
+    "id": "yjtaubH",
+    "type": "image/png",
+    "width": 671
+  },
+  "lastUpdatedDate": 1630778064208,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/circuit/counter/"
+  },
+  "title": "Stacks Definer"
+}

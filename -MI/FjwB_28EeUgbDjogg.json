@@ -1,0 +1,45 @@
+{
+  "lastUpdatedDate": 1609295980897,
+  "tags": {
+    "4": "/version/1,0/",
+    "0": "/train/loading station/",
+    "1": "/train/unloading station/",
+    "2": "/belt/express transport belt (blue)/",
+    "3": "/mods/vanilla/"
+  },
+  "title": "Two Full Blue Belts Per Side",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/vlcsnap-2020-12-29-21h33m33s136.png?alt=media&token=abe08e9b-d281-458e-b369-82bd7f8eab62",
+  "createdDate": 1601230062404,
+  "fileName": "vlcsnap-2020-12-29-21h33m33s136.png",
+  "image": {
+    "height": 444,
+    "id": "gvGjwtw",
+    "type": "image/png",
+    "width": 888
+  },
+  "descriptionMarkdown": "Load or unload two full blue belts per cargo wagon per side. If you put loaders or unloaders on both sides of a train, you can saturate four blue belts per cargo wagon. [Video clip.](https://imgur.com/b3IIixe)\n\nHowever, note that unloading 4-belts-per-wagon empties trains so quickly that pulling in and out of the station can become a bottleneck. For example, if you're unloading nuclear-fueled 1-4 copper ore trains, even bumper-to-bumper you won't continuously saturate the belts. (The gaps will be too small to see, but you can detect them with circuit wire and lights.) Saturating four belts in that case requires either cargo with a larger stack size (plates or circuits), shorter trains, more locomotives, or carefully tuned, circuit-controlled signaling.\n\nThe loader was originally inspired by [this comment](https://www.reddit.com/r/factorio/comments/j18f4k/13_blue_belt_inline_100_balanced_splitter/g6xt0jc/), and the unloader is from [this design](https://www.reddit.com/r/factorio/comments/km5rd2/i_thought_it_would_be_faster_but_damn/ghesxt3/). Version history: https://gist.github.com/oconnor663/5c5b419b12965d37fd9de7b0e1d39e7b",
+  "numberOfFavorites": 16,
+  "favorites": {
+    "YiW6N6IzcpQ9Iyt9mLwCA52wLip2": true,
+    "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true,
+    "mgzaB559GKQRL7QtiME6MluIubD2": true,
+    "ZorWneah7EaKSAsLrCLx2lsR4Ds2": true,
+    "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,
+    "NzinW3ImrSOidr50COVDjViOqUk2": true,
+    "2uw37Wd8hfSMCLzSgmcqoNNwsKz1": true,
+    "SRuynXKmokUf9x7YaaKuamMYjkr2": true,
+    "Pf7INfaCBQMghFih3GOMdwMaFbf2": true,
+    "Hf33mFexf0Np9KmFdaVd4jfG24Y2": true,
+    "zQJsQjeYMWTezrCpYnraGjfO2Nz2": true,
+    "gSn1R5vfZlUhxY9oqhLLyrZM5Fs1": true,
+    "P5W8WhoHKdUjtKu6LfHWF7WUzyx2": true,
+    "SuksnOSIGJWrv99JtTkzG3sOnVV2": true,
+    "nbSJYLtHCIdztlxRhY1ksVY6jZB3": true,
+    "cBOFWCrx8PWigBC7HCgF50DIdnp1": true
+  },
+  "author": {
+    "userId": "CHYY1B0z05hKMTyg6IIO1fjvFm53"
+  },
+  "authorId": "CHYY1B0z05hKMTyg6IIO1fjvFm53",
+  "blueprintString": "0eNrtV8tu4yAU/ZWItVMBJn4tu+5yZjUaRU6CLDQOWIDbRlX+vWC3bqZNbK69q7qyAHM4nPs49gva1S1vtJB2u1PqHypePmYMKv5cDP2a2CvZTxtRybL2c/bUcFQgYfkRRUiWRz/iz43mxqytLqVplLbrHa8tOkdIyAN/RgU5R8tBaADIvtSVWj+VlZIXO+Pz3whxaYUVvL9QNzhtZXvcce34TbGIUKOM2+5g3dH+RoTcbSJ0QkVyt3EnHYTm+36deZ6fDqBfDjBNLax1a9egO+A0BDiewZxCmDMQ8zic+QYEjDvgLAQ4GYAnpcD5mxT5Z+DkCnC6IEuCmGfhzAfgIOY5ABhDgH1cAFFk4VoQAuAcgzjTBTUTxj0GcKcg7gyAzG4ju37YNc7iouNHqC4dlJt7UOWhC+Aj16bbQTPCUpanSUpwskk+Wiv2JH9cYzr3MR5aY5A/TIU3z291cRpkE2NU6RhVBq8ejC+4BlnBNORN+01GLSHk+mzs+jNMAFNIqLIZB8Tj+uYzIBlEX5ANDJmbT4tBvtZY66pTV1q552S+9Z3vreZVa5vWt4YQRxjLDwLgHy+olux6NAmbpQkFagL6PhsyMESTZEEJ3dIknaUJA2qSLSikjvm47/6Wdbjzkmtg6+6/7n8nF7JalfKw6tH96NeTWt27Lat7x9m417+XZ5cu+R759v0LZUTM8yvFIgJz"
+}

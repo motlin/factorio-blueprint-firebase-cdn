@@ -1,0 +1,32 @@
+{
+  "authorId": "hpChOET0KqTpRCnTetn2oXJDIW73",
+  "createdDate": 1553611381486,
+  "title": "Circuit Building Blocks",
+  "author": {
+    "userId": "hpChOET0KqTpRCnTetn2oXJDIW73"
+  },
+  "blueprintString": "0eNrtWt1u2jAUfpXKV/sJW+LwN6TdrK1GJTrRFvVmQlEIBqzlBzkOG6p4gL3FLvZke5LZCYUACYldA+20m1ZJ7OPj7/M55ztuH8DAjdCUYJ9agyD4BloP6zchaH1NPfJv2An85HWIx77t8nd0PkWgBWaY0Ii90YBve/xFMqJyCxYawP4Q/QAtY6EJzPySmgmFZn5OzTSFZl6mZlYXfQ0gn2KKUbLp+GFu+ZE3QIRtZzWbw0Jtn1acwBtg36YBYaanQcjmBj5fl9mrmBqYs18MBT6BksC1BmhizzAbzYaMsEsREYT3DsTWIs6PIQl0N9MG5NvHocX9H9luiBK3feTwPYXcrsF/jAlCfhoePAStOhuLiRNhGj8ai/5iwX3aQhBKIairBLCT3ryuS0LYTlsxdclze7XhS+oI93OwJ2i4jXy1HPLmam2bYDrxEMXOfuyN5PTq72o58K8NWezzEK9cHWESUqs0ChcchRBxG5YYdMEUETvxGbxnQ4KITiOBlW8Ax0oaaW3jc22HCC07VrbswJhtmLNoycCqCtMLj0VvW4bezja9FQl6L4TohVt8mrvIL2nKZNUsR1RNlKijheGdkjB8I8HTvRBP5v4wbJYNw3puGGYOb5bjt77a3BA5eIjIXnL1InKXRk7A7E1Sm7ypTWLfW+DPz98S5C4Fy3RuxYXOGpHAs7DPbIAWJRGSZ347YHcJzWHeEMy4OWZq5U5EQ0zzbIrGcuqruXuUszxpiuaeo9WIeyU14u3Bc09N8mwUJZdGzBjX3xR5zLl1E6YB1x4gthNwa/tj9KoTfNfaeDzRrnyHII/ZeM3GzJgMjjGoNxsQNo0PegOuGxudn4Wn9nVd6b6uI93X3f3v6/oieQCKdmFlalSxUlRXpB7xjzHYKD4fFZeepMMVAddQqg9hYZ9Wihvj+QqIXoaA+HVMFovzd75EgKK93l7u4X7hUhXt8cocDeMUUQsVRG1XadSaYoW4rqpt00/Rtq2J0J+ujHr5yqhsA5wvsk3RbqpUZYYHKMxdFYW5mpX898u9bsSO+tln5COy3Ox+kWeoEHk9aZF3JS3yrqVF3u0hRZ7xXEWeeZirdkP9VXs796q9/4TrHhW66Rnfu7Rf3L2L7EWLWfrCvFAQlTrihsTNiimeuHvYQ8XpGqpI19fS6fryBOn6/F9J10r+1nr6lK8sHl5GNka2M9nsVnQl/ena7kFy7YFza5mMdo28gMzPzpHrFuY1M8tWJf5fk7XBT3aInbPzxMGQfbAZMDNkPdrIWWTxF/8e2Ms=",
+  "descriptionMarkdown": "I hope this will help others. I got tired of remembering how to make all these. I tried my best to make things uniform in how to use them. For example: green wire for inputs and outputs; red wire for programming inputs.\n\n# HOWTO\n**Inputs**\n- Top left Constant Combinator has what is required. P=pulse; S=signal. If just one is shown, then that is the type to use. If both are present, then use the first. If EACH is present, then it will accept everything.\n- Bottom left Constant Combinator has the programming inputs.\n**Outputs**\n- Top right Constant Combinator has the value the circuit will output. If EACH is present, then it will output everything from the input.\n\n# Circuits\n\n## Range(Low, High, Increment) ##\n\nThis is more a range loop than a range. It will start at the Low value. It will Increment it until it reaches the High value. After it reaches the High value, it will reset back to the Low value. Low <= Value <= High\n\n*Inputs*\n- (L)ow: The starting value\n- (H)igh: The maximum value\n- (I)ncrement: How much you want to increment the value by\n*Outputs*\n- (V)alue: The value starting with Low and Incrementing to High.\n\n## Pulse Generator ##\n\nThis will pulse P output on the second tick of the Signal.\n*Inputs*\n- (S)ignal\n*Outputs*\n- (P)ulse\n\n## Timer ##\n\n*Inputs*\n- (S)ignal\n- (H)igh: The maximum value. It will reset the output signal to 0.\n*Outputs\n- (S)ignal\n\n## Memory Cell ##\n\n*Inputs*\n- (EACH)\n*Outputs*\n- (EACH)",
+  "fileName": "factorio_basicCircuits.png",
+  "image": {
+    "height": 574,
+    "id": "RVXJeG8",
+    "type": "image/png",
+    "width": 808
+  },
+  "lastUpdatedDate": 1553611381486,
+  "numberOfFavorites": 6,
+  "tags": {
+    "0": "/circuit/counter/",
+    "1": "/version/0,16/",
+    "2": "/mods/vanilla/"
+  },
+  "favorites": {
+    "nszw3Ylw5ChXAr074ok7ie1KLgr1": true,
+    "kOht14bSMCc1Lz86TALpXSERIdV2": true,
+    "LuonmNlVcaeeaqLhrUyNK6Yld7B3": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
+  }
+}

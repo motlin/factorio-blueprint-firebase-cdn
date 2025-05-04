@@ -1,0 +1,31 @@
+{
+  "lastUpdatedDate": 1548343337983,
+  "numberOfFavorites": 8,
+  "favorites": {
+    "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,
+    "ZitjyEzMRLawAMlSQOUEVeNn6eH3": true,
+    "W25ff2P4fcRZOxuEjh0y4YNYuk12": true,
+    "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true,
+    "7UQDTpiF2Wd9JSV12aVGDNiCC5m1": true
+  },
+  "authorId": "1mWNpXvBKWel5dpejdaG7pdDQbs2",
+  "blueprintString": "0eNrtW0tu40YQvUrAtTjoH3/CIJsssk+yCwyBktpyAxQpNClPBEMHyC2yycVykjQpjUVL3WZVjcabZGNYJOux+r36dLXsl2hZ7fXOmrqL5i+RWTV1G81/f4las6nLqr/WHXY6mkem09toFtXltv+0KTsdHWeRqdf6j2jOj7NJE1uaKj4/c7EUXstnY7u9u/JqfHoi/nlkKVGWv40s1fFhFum6M53Rp9UOHw6Ler9dauuWc7HumlrHX8qqR9w1rTNp6v51DiYuPiWz6OB+UZ+SY+/NFYxAwkg/jHyF2eq12W9jXelVZ80q3jWV9gDmE4AK5lc2sbwEBpNPwKSvMGu9Mmtt41WzXZq67Brr8+qytFm0NtZRMdx1MC54O9tUi6V+Kp+Ns3YmZ8yFu7cecNr+6qOxbbcAB89BV1XzpY+gVvdAcEur172ZW9GutMOK5tE/f/7lnmv23W6P8GFjta5PWLuDW86+7haPttkuTO1wonln9/o43K7rEyfDSnn/o/diFOZmfaLL2NXedMNHMRJm+Mz7HDm988qS555n3YsF7E38ytrBPRx9cZHBwiudCK8cBpNM5EyBhAl4wxkIR054wzkOJuQNtkLxAI5E4ogAzqgybR1EXJXb3XslRQxVwJf3X0PuNe8JaX9OXmzOX6rFm7T/sb+yb7VzqWpse85Yf8L6Ey8JZApPYLRlH0MbvVqOatyIuM/fTJyC1hyeIntaKCEyZIsN4eQwZdOPUXakT912Zb9n5ILdtLe/EYJBWlOoE011lmC+FMjWElBHMGRTCJQ9wZE4fFLlZqfrxbBJH8i/EGV16RJS123//OkWfSfyUSHlSic5fK6jQhXUeJLCA+UNMCHeDkq3Usq3Uo72scKHJ6fwFA5PTeFxHF4yhSdweOkEHsPBZVPuIfHyCTzkaosJOJwYElaV1L2LyWNZtXp2z43XpSTAC4I3sV3m+hNVIvfRgQIuBQ4GRfkVrz7OsRX8l3tV7xuhuGfWRUklbqouu7qQhKquHE8htjSbpy7uD5185Y0NQjBANikwaA7GTMCYKRhzqmRedjMsEMQZFCEEkIOXpcDLKsCYAoqpGBQTHCWKQyHhXgooJJhMNbWNUO8LrBTQPhRiChz44LhXKRQSnJ4q855Zh6c3DjyLfK24VeOGo69F1tdS39xqbFlv9AJb5M+1eaiyaOPRGcb32eR/Y0dXoQle5bjZ7j+w+1EZdG5RyFPO/+fQd+bQd47QbzY5wXBOGHSSBM0GCYcOkjA4AZ37YHASOpbC4BRwioShJdAhEgaXAmdIGFoGHCFhaDlqggycjiUFaii620xEKyb3bXj3n4uCI2zKYLuV5C6bFS/x3o3Md++AfXXtTHX+Bv+mUvDzqH28isJd2T1FPY8BCwY3OI0HcXKxcB6vrB7+NCL8vEI+L5HPC+TzHLtiOEUFjqECR1CB46fA0VNg2SmQ5OQ4cnIcOTmOnBxHTo4lJyeRw4HuZDgqMxyVGY7KDEdlhqUyQ1KZoahMcVSmOCpTHJUpjsoUS2WKpDJFUZncUGn1o6n1OoaYKZqZpJkJmhknmTGSFe1d2IUpmmiKJpqiiaZooimaaIokmiKJpkiiSZpokiaapIkmaaJJmmiSJJokiSZJogmaaIImmqCJJmiiCZpogiSaIIkmSKJxmmicJhqnicZponGaaJwkGieJximiMZJmjCQZIynGSIIxkl6MIhejqMUoYtESjJZftPSiZRctuUi5RUotUmbRWhitg9EaGK1/0doXqXuRmhepd0nUZCtRg61EzbUSNdZK5FQrcUOtxMy0CuW5QnqucJ4rjOcJ0pcE50uC8QV7ToE8psCeKCEPlLBnf+8e/T3MTv8mOB/9I+Isqsqlrty1X8tH/cNPtmlbU2/c9Wdt29OXFnkmRM4Llonj8V8K4bls",
+  "createdDate": 1548343337983,
+  "fileName": "single-comb-crossing.png",
+  "title": "Safe Crossing (1 combinator, gate is up by default)",
+  "author": {
+    "userId": "1mWNpXvBKWel5dpejdaG7pdDQbs2"
+  },
+  "descriptionMarkdown": "# Safe crossing\n\n### The gate is up by default and takes 1 second to lower if there's nothing in sight. The countdown starts when the play approaches AND there's no train inside the gate.\n\n> If you don't mind having the gate lowered when not in use (and have it raise whenever a train passes by) check out [Rafael Mourão](https://factorioprints.com/view/-LRH4e5Gu0LkM8v4OACR)s work which is perfectly safe and well functioning and it's more compact (Doesn't use combinators). It's just I don't like having the gates constantly closing and opening, and also leaving it open.",
+  "image": {
+    "height": 1256,
+    "id": "yqqTaBk",
+    "type": "image/jpeg",
+    "width": 2659
+  },
+  "tags": {
+    "0": "/train/crossing/",
+    "1": "/version/0,16/",
+    "2": "/train/right-hand-drive/"
+  }
+}

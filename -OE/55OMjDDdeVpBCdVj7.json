@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "Ulwu6i0n5PciIbe9gJBZOahk1oF2"
+  },
+  "authorId": "Ulwu6i0n5PciIbe9gJBZOahk1oF2",
+  "blueprintString": "0eNrVWMuO2yAU/RWLtRMZ8DNSu+gXdN+ORk5CpkgEXIxnGkX59147j7EyOAUjjdRVYsw9B+7jXPARrUXHGs2lQasj2rJ2o3ljuJJohWBYaW4OkepM05lI7aLfXS1g5Kd840Jcxy+DEczf15oLMJCRUG9MR2smTBvxXdSotuVrwZYoRnyjZItWP46o5S+yFj2zOTQMKF+5NoAGk2S97wfOMxYEncBObtkftMKn2MOylofFZYEjDOKF8W1kSb0sv48s09NTjJg03HB23v7wcHiW3X7NNGzsZm06vVYLo2vZNkqbRe9GwAYn8nNsjggAFzjHyyxGB/ibl3SZAdeWa7Y5zyn7ld5RkDuKDpamX7SCXycS8oEkvrqAS8gFZOGk/ttKHmwLEwtHesfRNhBwA28s6Fk1QnfAzmb4LCvCfJZ7+2zM6JQKhT9F7huWMoijd5wFtPKIdU7f4bDDgnHin6xkROHkFYyDSBI3EuLjplHBkXvwGO246A1h9gVxy3oJN7obJi0aUUs5IF+VdoWk0vtBEDdq39S6NgoA0JdeD89t4/naXmBY85df/b6Hehi/EGxnrQ9MA4XM4sRbVZ7XZ6VNg7QscalLnAW1AccUzH0Es3yYHR/DORm1Yo6Ulm5Rm9RSXM5sDvhRJfwr07/aM33SNT6qNhZJyyKdq4gkQW3GTYgIDuyfeFapEh/9y7IHGW4Dpz7g6cNouecI8VefjHqHa9Zxh7qFa7JGST5Hz9+bYlHOS5IirI0U1fTZ7gFrGdJFLJw2Dq9TEp50Y/kJ3X/Idw/ZosmcFK3ckmX6GuN/ahu1LhunjcRLtYr/K2w0rBHMKzaahtxB3IqNZjN7TfKJJwyaz7s3FaVL3hYhV5qicCuOMuRk7EpSBZV5Yb+zpkEnLevSn6D0DNsD4vsnvBiJGvBgjERQ3uz2aW5dw+NmiPUr0+2AkeWkSqsqSytS5mlyOv0Fpz6Xsg==",
+  "createdDate": 1734195385977,
+  "descriptionMarkdown": "Balances output of quality stuff, i mainly use this for ore. \n\nLower two belts will contain all items with quality. If there is an excess of quality items, the upper output will also output the excess of quality items. If there is an excess of normal items, the lower belt will be filled up with those too.\n\nWhy? if you just split for quality and normal stuff, one system might get clogged preventing the other from working. this is a sorta splitter for every case scenario. \n\n![example image of my uranium ore processing](https://i.imgur.com/ZJnUjtB.png)\n the upper lane leads to the ore processing which has capability of all quality ores but mainly regular ore. the lower lanes lead to a recycler upcycling the ore to just legendary. \n",
+  "image": {
+    "id": "ut0lZLO",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/ut0lZLO",
+  "lastUpdatedDate": 1734195929450,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/version/2,0/",
+    "1": "/belt/balancer/"
+  },
+  "title": "Priority Quality balancer 2 lanes",
+  "favorites": {
+    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true
+  }
+}

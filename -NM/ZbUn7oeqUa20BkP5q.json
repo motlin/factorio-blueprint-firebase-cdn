@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "cdzpUPRfqzMIicttdBVhiR8kfgm2"
+  },
+  "authorId": "cdzpUPRfqzMIicttdBVhiR8kfgm2",
+  "blueprintString": "0eNrFl02PmzAQhv+LjxWpMCSBcKi0Vc+tlFOlaoUcmGwsgY1sEzWK+O+1IR+EQIJpu3tJZOx5PZ5nxh9HtMlKKARlCkVHRBPOJIp+HZGkb4xk5ps6FIAiRBXkyEGM5KalBGGy4ELNNpApVDmIshR+owhXzlNjIqja5aBoMkt4vqGMKC5aGl716iBgiioKjTd14xCzMt+A0JM8kXJQwaW25sz4oBVn2NM2BxQFweeFniilApKmf+kgvWgleBZvYEf2VNtro6twrLvTWkyaji0VUsV3K9xToUr95eJZM2L2YtYlwWgYIamIibR2hhcgSOMC+vljrQ15qYrSQvorqqqq9p41i6n9w+ZHQNqOG01NUJ2b9lxbUpGUVNVNXL1qLc8YvwkA1jXvGV61FM9kvIuT58U+4YI1kAEy834yW5opEANZ+hBDwstT8C/JqhONytjMtiWZhPHhxOPi4U/IVL+JR/jOmbruzdRZJ1U/TUjUtVWidjLNuyZmz+DlOAzz6RtG+IEbhs1WcIvp5fu3/w7qvgSc/r0D2xD1xxFdTC6sEHeJev+G6O0hl/BC85gVGVEwBem6i/RR5T2a2oLo0u5MWN5z7UO1nI7KfRdUVHD2IaDaE1tg8rtxvz3ZF12Kt93BYDX2Ql48niwYV67BZc0pJDTV2fkkAVy7BDip/t3WCyTZNfeE8+nnmkZeEFH7GaEvEzbVq2pxiOsrSLwVPI8p0zIoUqKEIfbjqm4s3lEFP7CFB49zCg9xD4deDH3MvdNVMPTvqPdIr2ykfStp7NpoYzttbKPtDmv3F8KZ0qUQJtRBkwFPCqG6ZgQwsskgTqk0/6er9LVbAEnjHWmulUqHQzZZ77Sdrb83Q3OeahHXpiaCcScR9ixij0M7rr6N9spOe26jHTzQNu8dcwRFrXe/g/b6PdUMCPE8WHlB6Pl4sfCq6g/okHwV",
+  "createdDate": 1703568866568,
+  "descriptionMarkdown": "Counts plates that pass on the belt, and can be manually reset by toggling the constant combinator. Can be adapted to count more/different item types by adding arithmetic combinators to the stack on the lower left.",
+  "fileName": "Screenshot 2023-12-25 213147.png",
+  "image": {
+    "height": 409,
+    "id": "UGnljsn",
+    "type": "image/png",
+    "width": 369
+  },
+  "lastUpdatedDate": 1703568866568,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/circuit/counter/"
+  },
+  "title": "Item counter with manual reset",
+  "favorites": {
+    "424jNGDhcmMUZYc5dYXtvzkJRw62": true,
+    "0N1Rcyg4GGdzUKSIMZZDbzhzuiH2": true
+  }
+}

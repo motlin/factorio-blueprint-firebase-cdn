@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "unWHWAerMhM8TEzDj0Ns3KuBrBj1"
+  },
+  "authorId": "unWHWAerMhM8TEzDj0Ns3KuBrBj1",
+  "blueprintString": "0eNrtWMuOmzAU/RVkqTuS8kwAVd101X13bYUcuElcgY1sM9Moygf0Q/pj/ZJeY2VmkkCGQVMpI3UTYXx97HuOfZzLnqyqFhrJuCbZnpSgCskazQQnGfkk+JptWgmlsxbSiRKn2ILSyrlneuswKbgjJMy/8W/8i8A+yjfg6C04TEPtUF52DVqLlmtHrI+jf7RKX0QzboMlQtegWeEUol4xDrIDalrt+O8MiIlSbW0eaVV1g9VxtJ1gPicuYYXgimRf90SxDaeVyU7vGsC0zBCM4LQ2rRIKVoKc2emoFpIccDgv4SfJ/MN3lwDXTDOwaF1jl/O2XoHEgGs4LmmEYpbMPUG4me+lLtmZhyiaxzhPySQUNmLhElyzlqLKV7CldwwROkk63Bz7yg5LmbdrJpXOL1K7Y1K3+OZhVTZiBncgd3rL+MYkZ6jR1Cjue55p1g2V3Yoz8ufXbxwtWo2Mj8ffSABuoZsdLhUFz9dS1DnjiEOyNa0UHOzU3CbcpeGbH9xfT6ll2IoxksmiZbprogw4NjDBdqaz8BD7Ef1CneBxnTVulllF66ZPFd+bx0ddgk6XPiWOK3pQYoIQlPfJcC7CR9PdKsCpKiGRKS1bGM9edMpeYDbxAG/uSXs5wGM4gcfw7fMYj+UxOOPRvxjYS2s02TyCWzCPZfwq3rGDqhL3/9I8TsVJB72lB2tIuniydOF/3x/tXP71c3VduqFLYTHBzLy3b2bJWDNbnpM+0s2WE3j13z6v6dRLYjHAYzLZWrxbsJbgRm+F9BlreZG3DGmXTtbOvwXtYu82tXvmWkheIt3Qf1zfe0jjsQgdK1+YjJTvEXqcgqe1qim5Z1hyG2oVGID8yZ3ux1jviAZQPFu/v7+i3RBwjypDTPYdmV5mJxfJYXqTjvZhwpkw/L3egUieMTPv8sq+Vj9bO8OLq9sV2ZNvQi6p6AowQfLZfqUpWWFYcLAH6VKdKEHiR8s0WC78MIo873D4C4DqVhs=",
+  "createdDate": 1662331168322,
+  "descriptionMarkdown": "Configured for 48 chests with iron ore.\n\nFull Red: 25% or less.\nYellow: 50% and 75%\nFull Green: 100%\n\nTo change the item and the amount of chests just change the item in the arithmetic combiner and put 1% of the sum of all items in the chests..",
+  "fileName": "item indicator.jpg",
+  "image": {
+    "height": 361,
+    "id": "ERIS4kq",
+    "type": "image/jpeg",
+    "width": 218
+  },
+  "lastUpdatedDate": 1662338361482,
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/circuit/indicator/"
+  },
+  "title": "Item Indicator",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/item%20indicator.jpg?alt=media&token=76cb294a-67d9-4f31-a3a4-ee276391f1c9",
+  "favorites": {
+    "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true,
+    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
+    "fgLllH7MuoZQVZ7Q6PVcSW38d9n1": true,
+    "YMO4RuPRs6VInVsWqFs6bB7CsOQ2": true,
+    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
+    "tS886QFMa5NJ6mttBMhUS6uVD0m1": true,
+    "lyPTlzDER9ei9oDJhzTCkoQHFY52": true
+  }
+}

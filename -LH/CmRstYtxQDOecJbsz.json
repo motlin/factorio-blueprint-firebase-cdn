@@ -1,0 +1,29 @@
+{
+  "lastUpdatedDate": 1531411879638,
+  "numberOfFavorites": 15,
+  "title": "2.3k/min Beaconed Green Circuit",
+  "favorites": {
+    "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,
+    "phSUDMDo2XOdHOwH9JLOPfBhKR43": true
+  },
+  "author": {
+    "userId": "8tsbAs4ngnRVkWduHpTKKj05Yjx2"
+  },
+  "authorId": "8tsbAs4ngnRVkWduHpTKKj05Yjx2",
+  "descriptionMarkdown": "To output a blue belt (40/s) of GC, this setup requires less than a blue belt of iron and copper respectively.\n\nThe extra fast inserters supplying iron and copper only serves the purpose of smoother production WHILE those placing GC are necessary because 3 fully upgraded stack inserter together cannot transfer 40 items/s onto the belts.\n\nTheoretically these 3 GC assemblers are capable of producing more than 40GC/s, the only limitation comes from the speed of 1 blue belt.\n\nThe gaps between beacons are intentional so as to support each assembler with 8 beacons.\n\nEdit: added missing electric poles and made minor adjustment.",
+  "image": {
+    "height": 581,
+    "id": "3Kz3Gpo",
+    "type": "image/png",
+    "width": 1625
+  },
+  "blueprintString": "0eNq1Wslu2zAQ/ZWCZ6kVd8rXHvoRRVDIMpsS1QYtQYIg/17Kdu0gocXhAD453t4sfG84nskr2TeLHUbXzWT3SlzddxPZ/Xwlk3vsqmZ9bX4ZLNkRN9uWZKSr2vXZ3lb+o+QtI6472Geyo29Z9Eu2sfU89p2r89qN9eLmdwDs7SEjtpvd7OzJheOTl1/d0u7t6C18NJ6RoZ/8x/2f3qKHyKnKyIt/FCusNz2tb0yDtYe87Q9LY3O+Glpd/QDOAOAcC84B4AUWXMTBNRZbxrHRSVFRbHRKdBQa7bWJQqOTXUah8SRZvxkDR+eExpWJFya9KrO1B7e0+amK+Boy9I0NMFKeTPEgGk9E2wS7Ss8+D6Odpnweq24a+nHO97aZQzo/08OXS3Jwo7d9fJOF4OUn+MWXyvFx7P1jzAD7YCC7lORuWNa6+9me+mRvGho3z/7N26W2+CoBoWhUKDKcK0AoV5lW02TbfeO6x7yt6j+uW6kWsMWOtgpvyhtyR/i6HwY75nW1PzLjwtth9JT1zjx5k+/oK4Icuap6mqv6b+66yY43UiqC8arQdVWkquIcYB6+/SjmfMoI0/plvnE+7Crq39U0byWl/J+TEAzHuK0jrNpwW2DsGawgmYRzx2ylSWHcRouP6ZQ6klJGmIEnJEFLZWqxuFOt4KmiLjYkzSlUYnSDOpwhqEPRdYFz8AGzLa8xOmVYmXLMPS3QRYinXNMyQV1cJ+rA3EkGcJUrsMh5magtuiUuUWBkgdeFgIt5S82CJTes9IYsQuhw8dIt9QpMWy0vXIx5KcGtx7kfK+LsEir1Cjlph77XTmA6glSQ0AlNZ3HxJBakSUaFpK4En4eCeiqLdAbJEHiIQJJiwQHslPDGGExOydMdFqFsiBC4SGQ+uyfxJbxjBtNeqkRMyJHABSrAfprkY4ZzHixSBU2BSteogpJSUfhNBOaBYolMp3eluuKpMUIOJf3qpWASKZnagv0vmyEwuCopWEJKp4cPJ6UB7y8Qw/QSvL9AjNOxw6YwGgVvQxCuMug2BIENV9y5VWFxymmBG28HB9JaYlsTQHuvUVMkHoSP/6jWGtu0QEIx0L0WgiUlcK+F2D3h5kNhLArckSHcBPewAqoSg1vbBEViMMMhuU3j27/cDWY4pJGiMQrZUwE0YzRw84kgjIFuPhHYyLlPeEML3qIitr80taEB6KZEjW/RZC85dBGMyA+iNdVQcpcS2/h9An84Bbam4PKPNRlpKo/iXxPFt+nLj+/+lSc7TqdzM5oxQ8tC+7j/AQo31Yc=",
+  "createdDate": 1531387170503,
+  "fileName": "Beaconed GC.png",
+  "tags": {
+    "0": "/general/beaconized/",
+    "1": "/production/electronic circuit (green)/",
+    "2": "/version/0,16/",
+    "3": "/mods/vanilla/"
+  }
+}

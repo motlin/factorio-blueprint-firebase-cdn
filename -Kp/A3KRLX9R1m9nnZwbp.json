@@ -1,0 +1,36 @@
+{
+  "tags": {
+    "2": "/circuit/indicator/",
+    "3": "/mods/vanilla/",
+    "4": "/version/0,15/",
+    "5": "/version/0,16/",
+    "6": "/version/0,17/",
+    "0": "/general/storage/",
+    "1": "/production/oil processing/"
+  },
+  "favorites": {
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
+    "ocnJv4073afHkcQb987PeW6FTbi2": true,
+    "sUJxDEQvaJUjQ5z1nT88FfcwBTA3": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "V515dCjEUngAzrK44nUMwDHWagn1": true
+  },
+  "authorId": "HUwFUow6Xtf73NeNmrxXJY5tdYJ3",
+  "blueprintString": "0eNrdnGtu4zYQgK+y4M9CLiQ+5MePvcIeoAgCWWZsonqBopIagQ/Qg/RiPUkpu7txJ561ZzdygfmzCzvW68s3wyGH8atYV4PtvGuCWL0KV7ZNL1a/vYrebZuiGt8L+86KlXDB1iIRTVGPrwrvwq62wZWzsq3XrilC68UhEa7Z2D/EKjskV8/R10VVzaqi7s4OlIeHRNgmuODs6U6OL/aPzVCvrY9nvnR8Irq2j4e0zXi1eJpZnoh9/E/HM8dnCr6tHtd2Vzy7eJvxI6Xz5eDCY/zZ5ttxT8734fHdXT87H4b4ztuFj5+YFc0+7FyzFadr9KEYIeY6TdPxjbor/JHKSvz951/jh4bexgtWrY8PFvxgT8c1thxvoB+vmI3/bL21zfmju82Ry+EwQgU4JAmHujsOJSfBkZ2hOL7OET7qNj6amS4awaFJONjooqAuC4SPuY2PZKYLFj05CQcbXQzQRWYIn/lNfFJmeBYQDzY4LSh42ATTHKGxvIkGt1jKUmgLNjZlKQUQG12WGI7bKl1uQ3UmoS9YPGWSAoiNLxk2GGW31brspgIaCoNGlKYA4iOMwngY0uQxuzuQxXsen3+aRg50UWg85SQ88u54snyipQYwWTIYoDlpNsnEH1j9KjS8FiQ8bPyB+ThDB/C3iri2GzfUM1vFK3hXzrq2shdQqa8mXVoJS0mTVR42SrgQprBglRkJDxsbYbqXKQZIUmarbPjMIR8snUlF4cMkvOBYqLBcJjVl8srGniW0B00/hsKHiT1wJFTYzETmlKksEzow82isEJdzCh02sZXBsV1iy/RyQSykvltHLSmzZD60YY9IYYWCSimAmAQrTPQaKxMUqUGf3p3ORGsssGWksJ6IInXs72/PRA1YmMs02rAndezZ+AMHQ4V1SRSphc/GH5idNdbBV6QWPhd/JOyyKTS+SD19Nv7A/GywYlNRevps9HlX/KDhRenps7EHZmeDVj+UJj8be2Bwaax01pQWPxt7YO1ssEUSTWn5s7EHrtBqrHTWlIY/F3s0rJwNlpo1pf/PxR4FCx+Nbn2ldP/Z2AMH9hxNzebK5n5siqp+NQist/O88eq/A+ypGuItfruNalh7V45w/rv+k4i2s5HR8U7EL/GAdgjdQPgNnFCNGAgkY1349bd/2oH+EA+X+OexAlyTthX8D+tr08Qp7KSMvp3zRJP+nOylntbLfqiehnFttSjj2x/tZuea36lqGqgmGDFSorroCEPa0cBGXdjGgakAVfcH9zeoi3+ZkJLjQE4bB50dz2jjY22L/sPjoNwXP5+iQRxIWhygawSGtJeCTRzkV/IKFgdGUtVNpzW39MPGzlpXfbi1LzsXLFHb9+kZYNZEbbHFCUPZwcHG2sWVLIBaq6nWTpxvK7fdhUms3duqal+o2sor2hILZnRVxFC2jnDRVqdXsgCqbf5DewEu1xzk2nvi0ntni+f9JCHg7Ybqv77i/5LoP/o3qQvCshcb/+WVdIL6v6Q6O/EyxksRrP9wX8evbaAKS0zI6FJRTtkAw0ZIfSW+T0I+JKdvuVidfbFGIqpibeMDiS/uBKv/9BKd+vTvvSTi2fr+iCDXWuZ6bozMDod/ALEMhy4=",
+  "descriptionMarkdown": "Connect wire Arithmetic combinator input<br>\nGet all values in lights different colors\n\nMax value = 64000<br>\nMin value  = 01000<br>\n\nBlueprint compatibility 0,15/0,16/0,17 (tested)",
+  "fileName": "oil-lamps.GIF",
+  "image": {
+    "width": 613,
+    "height": 478,
+    "id": "ieELfxj",
+    "type": "image/gif"
+  },
+  "lastUpdatedDate": 1564834929389,
+  "author": {
+    "userId": "HUwFUow6Xtf73NeNmrxXJY5tdYJ3"
+  },
+  "createdDate": 1500203014087,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/oil-lamps.GIF?alt=media&token=f214e33d-0076-49e9-86d9-9fff2cbc20e4",
+  "numberOfFavorites": 12,
+  "title": "Oil-lamps with colors"
+}

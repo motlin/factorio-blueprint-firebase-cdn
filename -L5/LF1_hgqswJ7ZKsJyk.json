@@ -1,0 +1,58 @@
+{
+  "blueprintString": "0eNqdlsGKgzAQhl+lzFnBjKm13suyh+4LLMti21ACMUqMZaX47hsr23ZLSp2cxNH5J//k08kZdqoTjZHaQnEGua91C8XnGVp51KUaY7ZvBBRwksZ2LhKBLqsxML0Rb2GIQOqD+IGCDREh8/0uE0mZH3eZKSlzc5fJh68IhLbSSjGZvtz037qrdsI4O7fsqlQqFkrsrZH7uKmVcNJN3brcWo91nV4SQQ9FzPgwLulBC69anatujqZ213gnlH0utHRrPUjjil6e8ejPndRNZ8FTJb1Wua61klrqY3wwUqnnpfChlEebU7VjnMTX/7XRo70M6E7yrDt1Z5+0J6Na8DvIPNIruoM1eXvzICBzH4/rQFKy16CwJJSU9DUpjNEbzemkMAxEJX2NCkvpFlIyK4wHwYI+WNgyjJZkBixZICxzWKF/lBiASh6GyhxS1mQDdFAwCQHFP+RYGCczfiqIgZzMmD5I/yBzOifIwziZMXyQPj/pwwezEE7cmPZprcJAmXNOwZzcDPZyQriTorSicpHbeTkCVTpVF9uURvWLN1d0sZV67MVJmHbaLs5xxdIkz10jfgEvFdA0",
+  "descriptionMarkdown": "A tileable array of miners using small power poles and yellow belt.\n\nIt is impossible to fit any more miners in the blueprint, as I use one square for a pole, and two undergrounds to send the ore away. The rest are miners.\n\nAs you get later in the game, you can upgrade the belts to blue, and put modules in the miners, and it will still work fine.\n\nIt’s easy to place as well, because Factorio refuses to place a miner where there isn’t an ore patch. This means you can tile it easily without placing miners where ore isn't.\n\nAn adaptation of this blueprint for early game:\nhttps://factorioprints.com/view/-L0AA-VH9GlXbgWAffhU",
+  "image": {
+    "width": 630,
+    "height": 609,
+    "id": "qpJuB9J",
+    "type": "image/png"
+  },
+  "numberOfFavorites": 65,
+  "authorId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2",
+  "createdDate": 1518644242847,
+  "fileName": "Compact Miners.PNG",
+  "lastUpdatedDate": 1518644466937,
+  "tags": {
+    "1": "/general/early game/",
+    "2": "/mods/vanilla/",
+    "3": "/general/compact/",
+    "4": "/general/tileable/",
+    "0": "/production/mining/"
+  },
+  "title": "Best Possible Early Game Miners",
+  "favorites": {
+    "ywlOvhX2mZS8RgA8Ly0UN2c99tu2": true,
+    "xoECkvPwaFQhfhBBqyybbVjaMBt2": true,
+    "6qMGOony8zUmpYDuOCSBqFxqhkm2": true,
+    "dyf7A72rvRQYRSSLvP2KVsC4zW52": true,
+    "cZkO9EJ9o7aCpou0mUfJLM8E3WE2": true,
+    "0d2o3kiCqQRcVIywBjeosipcVt02": true,
+    "CBdKM9nPBQeSu9ldrYwt1wpSbRI3": true,
+    "bmWAGbUxJiNpTEFGzrDrtSsGVQ93": true,
+    "w3ZbgmRovrO2Pa6V35lFGo71BCT2": true,
+    "hsQB9RIhfZQV4qK35FGucYdjUdN2": true,
+    "mk0JeaIu7netdQDmSYgHU5nVlws2": true,
+    "CzEh14YRmVcajlcn8nkwLkcNUnx1": true,
+    "bzzly50eNscivwW2TTJaJm5zo393": true,
+    "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
+    "zZzErqlvZZXdlNqMeLugoNIRaed2": true,
+    "UpWXNyFaTjRaRymSuUliEF4svuB2": true,
+    "QS2skONag6hP8YsgsqYDJsH32Y93": true,
+    "cjhiFdbiUIX4VtXXSDAfCsWxwKw2": true,
+    "udHlvZwtdRNAieUUoh09UDmXMqv1": true,
+    "BvLza7BU6gQQveW1IooDhS2VAXV2": true,
+    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
+    "rp5z1y6fEzMADmFGyay8V9aUJwJ2": true,
+    "LcvhMqqqPoWifE4vUd9nQwg10rE2": true,
+    "QulJVTFFRtbz1LmceOiT3wvKI843": true,
+    "dMSvS2gH1RYPXMozLeIzUQicEg52": true,
+    "hPfJTQYrkvZmVu4O0oN7GJeK6t22": true,
+    "yqolE5aiKxf69gIkixHG2SwzFTi1": true,
+    "9DZib4XJClMSm9scbaGoOLU0tLP2": true,
+    "FSYa5uAN3hbdEhjStQPMDA4oJIy2": true,
+    "rz6mEOGrAySCJEAphWrXmOOHvSu2": true
+  },
+  "author": {
+    "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"
+  }
+}

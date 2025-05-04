@@ -1,0 +1,24 @@
+{
+  "authorId": "xqoibO8O8OcKUHex2Q9CTI8vtD32",
+  "blueprintString": "H4sIAAAAAAAA/81YTY+bMBD9KxFnWOEPSNCWU49tL20v1apCBJystQRSY1YbRfz32pBsYnCCnW6k5hKyjMeeN2/ejDevZkWVpcUsifc0q8o63u9pmZO3GLg1\nXZdpEe/5bktih3Kycdwy3YjntK7JZlnQcu1t0uyZlsQLnbZtXVJyyimRXq5YutuqFmZVGe/fYg+6u9gLWpeRjMqNimpNa04zj1XLijuta+wKDDzJeDhrMvne\n3psXSHfw5G5ZLT31cB48OdyQnDYbjxQk40wYbKuCDBxi6RC3rjhXSbpTCaCeHOD8jveM5AK0Dr9dQvM4Eo5Pv2DYys9xL/K2ZaSuvZqn2YtHy5owTthgtw4N\n1O3GWVUkS/KcvtKKxfuMsqyhPBFv8oP9irKaJ2rGXynjTVock96/9H45nUuxdcljXzxutilLufDrfBIcMApuPgrOXTNCygkjYZazapuoYT6AxVymqn9o3S3N\nXhrVyJdQAEv84AG/nLI+nhhbOfDvg//PD8A/0AIe6BEWuEYA+yG8A8jgCsbTBYUs6gkrbEJIqadpMcAaLRjLy7keGHEM9ZidxR/eSPGu3H1LiqNDVKft4buD\nd6XLnknNPUb+NOJbXyXQLAegZ9jBVbKihfB33nH6nVfFTmaiR3TFxN8c4b4RdA98cbzeGB6MeyteVcW7Nh+tgX8yR4r5kqW0vGqP3QEKffsYnyO8eGhBhrH5\n/PKxT/bnB1lcObi64pR7SU5p32cODzLmP3SNTXy1lskGNrlGqnzDu6b+vBRN0z+15kgBzRRxDxoo2xhT4fIqOymAIyGCt3eCG6QIjpQotB3VwNVJDd2gzP6E\nMJvicbM2g3+WZmBWrRDqhi37ahUwT9XrQMLQdLmqKqldcKxV7YhuVa14sloHAeDpUlUD0C6ILgdwDuktim1IAdGcFQqA+1FgrHcGLNDo3SQVtBPaB9NhHIwB\nIzTBTNJCE4yeGqZ660/IvdHcOZA2s0kaTA7SlnINh2J56h6G93JkenMaFIl79Y5x6ZZl09tkbPhqb8OWvU3mTOm1WNfbIgDRHCGIozleEM+fdy1aMgFH0WIe\nRgiFF9rdg1iBgyAEojsG4WGt8Nh9FsLBQs6D1rdxyzX+/xWm2f+v8GRpWGYbqMCZ3aoNqwGGCuOjtud2v9PT19+z7/LEs88sXXER9+wHT6XD2bcvIohHRnjD\nylnySMr8L5xe4CqIFAAA",
+  "createdDate": 1488838858046,
+  "fileName": "Robot Crafting Station.png",
+  "image": {
+    "width": 1180,
+    "height": 400,
+    "id": "MxzN9Qc",
+    "type": "image/png"
+  },
+  "numberOfFavorites": 2,
+  "title": "Mobius1's Robot Crafting Station",
+  "author": {
+    "userId": "xqoibO8O8OcKUHex2Q9CTI8vtD32"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Robot%20Crafting%20Station.png?alt=media&token=a64e3b14-801d-46ba-90a3-ac875e0d4e6a",
+  "lastUpdatedDate": 1499430430219,
+  "tags": {
+    "0": "/mods/bobs/",
+    "1": "/version/0,14/"
+  },
+  "descriptionMarkdown": "Controls Production of Logistic and Construction Robots of all Bob's Robots. I recommend using Robot Recall mod to steal the lower tier robots from your logistic system so they can be upgraded on this crafting station. Also if hooked up with my control center blueprint, can control robot production to a precise ammount of robots, just run the green and red wires from the bottom-left pole in the picture up to the Substation on the control center.\n- Automatically upgrades newly crafted robots and tosses the new robots into the logistic system automatically.\n- Requires Bob's modpack to work properly.\n- Optionally can be used with my Control Center blueprint to better control the robot production to a fixed ammount of total robots."
+}

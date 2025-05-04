@@ -1,0 +1,29 @@
+{
+  "author": {
+    "userId": "cKWRPdZ488e0aAQFkCeaKZ1Q6933"
+  },
+  "authorId": "cKWRPdZ488e0aAQFkCeaKZ1Q6933",
+  "blueprintString": "0eNrFmEmP4zYQhf8KwbPdGFFrG0GAueUWIMspGRiyVG4TI5ECRXbHMPzfU5LaHo+Xjl/PBHMxQKteLd+j1p1cNYE6p42Xi52sqa+c7ry2Ri7kHxvdi+Nx8aKbRpTB27b0JLY2ONHZF3LCWxF6EqETZVWFNjSlt46VtLaOhA/OaPMkrBGVLZtJ8yD+7GkdOJ8XRj9tvPC6JfGyISN625SH1GTq/uFvM//F2s9DgSdHHFFpVwXth8JdaDvBAb+6sYdJ1b9oX22ENl+6lzOpK2t6ufhrJ3v9ZMpmGNhvO+JJtaeWI0zZDquTKeSedaamf+Qi2s/+UzmWn0/lT6TqDmlLtQ7tnBqqvNPVvLMNnaSI70hROu03LXlWV7ZdaXM2QbL/NJNkvPaaJhDjYrs0oV2R4xGvIpjxWL2e9sROcp65ymdyy2OlnJuhemeb5Yo25bPmcI6xwXfBLy/afdbOB/7nWGaKmH+U+ymT4eH16NJORsOPo/q0Uc2rmCMn/8dltP+03w9wzmZRxyI1VbpmW06YXBkpeUjfHuo1zZKP1frY5Vq7Hpt0zN77cjjjHj8Mq7Yr3djWQv7MCpTeb1PObsutBeOXa2fbpTacQy7WZdPTt8CdfXU4Zdgzqe4TqzNxcp9xMWhc+iOMi86N++kdxv3+HY07d0pdwr5tnDo37rozCeiMOnWm1m4aY9oI/5dPI9OehhzwGfSN5+H3tPPSkZkc733ngcmlda8+3xN+eX5/vc5u7IT07dvWlb0QH/fCQ/puDBGC4Vrf2fU79bV+p27zG9eUQ7HjXn3vVv1ySbm8FdzaL3cT4DNhHHDJJTwddiEz9Lp5fQI4Hzz+MA3OF+9ju94amnelHx5pbitiWJHAihRWZLAihxXF3Qr1iNI9KE7o8paoHHl6Mz4B41MwPgPjczAeYFrATAuQaQEyLUCmBci0AJkWMNMcZpqDTHOQaQ4yzUGmOcg0h5lmMNMMZJqBTDOQaQYyzUCmGcw0hZmmINMUZJqCTFOQaQoyTWGmCcw0AZkmINMEZJqATBOQaQIzjWGmMcg0BpnGINMYZBqDTGOYqYKZKpCpApkqkKkCmSqQqYKZRjDTCH36PygSWJHCigxW5LDiBl1+yxq/zi7k6TfoplwRvxvKj8Hb6XN4aerXL97Hl9Fncv1YSBVRkj+qPM+SKOdC+38B2T++Hg==",
+  "createdDate": 1698632819102,
+  "descriptionMarkdown": "This blueprint will automate your power to use up accumulators before turning on coal power. Useful at night time when solar power ends.\n\n-Hook up green circuit to water pump for coal power and enable when S>0\n\n-Turns off steam power when accumulators are at 90 percent.\n\n-Starts steam power when accumulators are at 10 percent",
+  "fileName": "Screenshot 2023-10-29 202333.png",
+  "image": {
+    "height": 452,
+    "id": "cRpyw8O",
+    "type": "image/png",
+    "width": 630
+  },
+  "lastUpdatedDate": 1698632819102,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/power/solar/",
+    "1": "/power/steam/",
+    "2": "/power/accumulator/",
+    "3": "/mods/space-exploration/"
+  },
+  "title": "Auto coal and solar switch",
+  "favorites": {
+    "jywAj0aJU8SCaLbtTanG6NCRrmi1": true,
+    "nR9jej5Z1VdCRYXkbrVbTSwtF7A2": true
+  }
+}

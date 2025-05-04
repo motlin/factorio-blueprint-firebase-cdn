@@ -1,0 +1,53 @@
+{
+  "author": {
+    "userId": "i1TO3Arpcra42iTxL1sX103ptQn2"
+  },
+  "authorId": "i1TO3Arpcra42iTxL1sX103ptQn2",
+  "blueprintString": "0eNrdWM1u4jAQfpWVz04V2wkQpN3jvkCPVYUMMWDJcVLb6S6qePcdJzRAa0riU7XigGPG38x84/kJb2itWtEYqR1aviG5qbVFy6c3ZOVOc+X3NK8EWiJnuLZNbVyyFsqhI0ZSl+IvWpIjDojbRknnhLkQpEHBhhtYgGSSXsiyMKirDd+JZLMX9tKE7PiMkdBOOil687uHw0q31RpsWBJ8ww2MmtrCsVp7NQCV0Hz2kGN0gCXL04cctJTSiE0vs/B2fQCnU8CzL8AJIEEAnKnVai32/FXWxp/cSLNppVsJzddKlGjpTCvwsA1HykHLVhrrVmfm3KHxlr1K41rYGUztJRKuD24v9c6T6WPvuL8ILE1T/1z54DhvBPrVSZw0GsHL1Z7r0ut2QAeQvuXKXhvV/dDLVnUJStNjgD02hb38S/YC6NkUdHaNHoDLB7gtty6R2grjL/nX1ygrwmizuIuTLT66ngXA53Ged+ABuAX+lNlBKy9dxqhuXdO6FdSX2gAanDZyt/ep+0lBMYHaCy5mYzKUpAN4CxXD7EwN36O4nnf4pyzq3QlZT84VBiw5bNStSzHgjrCaTqCETaWETaOETafknHu24kolilfNvUzJOuxvUQRpES6CrRWgTdXG9jaEsoXkcVXt5P+92M3icmUc+LlwXLfbO+D53cgNITrHsGsacMyIlxZ0rLZSgR/Wn7K9kX07fx81MBokrnYDswRGLxDrvujo2lRd3K+i+bPbaH2syfEZPiE2FnE5OI7qYgLV7H+nmqYR9YJ9n3rBSKheBD0lkdWBjRpHaSQ6HYXOolspu+wbUt9oGzSLbkwjFeQTRxkanojoLO6lIkvHjG90HhlFMgp9EYk+zvZiJMMXVn9Afa8+N14Ux1Sc4PipxNb72F2OUWMpSyPnaBK+NYxE4gWYh5feP/DsK/QTxRRD66bP+AkGr+s1VNZuPff7Bazh4MBmX9/fk6b05JS32E6uquaIEHgCTtAnAvD7Yon8WybyTkgnKng+/xOBkeLACez9btUOOuOPx9bu5Y/H+tR7X8Huzop8RousKPIsJYSw+fH4D0+2hTo=",
+  "createdDate": 1729771571239,
+  "descriptionMarkdown": "Lower input is for use with a sushi belt, and upper output is for the desired item to go wherever you need it. By default it attempts to hold 3k of whatever item is set as the parameter, then the rest is scrapped and sent back out onto the main line. Base products will be looped and voided, any other components get sent down the rest of the sushi line.\nThe two lamps are for warning indication, top lamp is at 2.9k items to show its full, lower lamp is at 3.1k to show a warning that it can't scrap fast enough to keep up with overflow.",
+  "image": {
+    "id": "OLfmHOD",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/95kVoh4",
+  "lastUpdatedDate": 1729771685162,
+  "numberOfFavorites": 19,
+  "tags": {
+    "0": "/general/tileable/",
+    "1": "/mods/space-age/",
+    "2": "/planets/fulgora/",
+    "3": "/general/compact/"
+  },
+  "title": "Fulgora Sushi Sorter",
+  "favorites": {
+    "7N5GYrAOSUZhrp6qTeuf8BzbDsD3": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,
+    "34okMiKwJ6ZkegRFvQsd6hTNQuZ2": true,
+    "JRB8vO6qY2hTgO2IzaYcSFRx4P62": true,
+    "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,
+    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
+    "xK7Fu2IT66W17FTSYpyXMPzTZzO2": true,
+    "zLcY31ks1sTvLNZI9FwwGBHT7o43": true,
+    "8Myo9tPkflfEpMHNSZ6YpJtaM8J3": true,
+    "eXxKxSFldIZwQtfsZ2Dk2JinepG2": true,
+    "KJESiot3pef1H5sAXjPETzS3FSB3": true,
+    "TWOm1ShS8WSm7S4XOUOQhdAhGiM2": true,
+    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,
+    "ClT3BIZ0blQtxU3RJm7m0JjwMW53": true,
+    "cBuI8VVjMHMDoe1qqeqVgSwAK8B3": true,
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
+    "hSFHSywOjCeNYhrMkGI84MSW1Cx1": true,
+    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
+    "3XL5NrAPK6VU94a7EBN8qNKxM6y1": true,
+    "gEfoLmp3CvNQuNl2ngWAwEDAINZ2": true,
+    "LDZ1bnJXPchuAupSMpVvCc8oKP53": true,
+    "cIX8xFUMhJNzcbBEYDkBp7v6Kp52": true,
+    "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true
+  }
+}

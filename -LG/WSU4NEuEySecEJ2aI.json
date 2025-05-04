@@ -1,0 +1,25 @@
+{
+  "numberOfFavorites": 7,
+  "author": {
+    "userId": "qTyT3Vejb2RERY9xPQ63p4HQ6M23"
+  },
+  "authorId": "qTyT3Vejb2RERY9xPQ63p4HQ6M23",
+  "descriptionMarkdown": "Automatic radar",
+  "fileName": "radar.png",
+  "image": {
+    "height": 1080,
+    "id": "fN8X0Be",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "favorites": {
+    "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true
+  },
+  "blueprintString": "0eNqV1NtqhDAUBdB/Oc9xMMbLjL8ylJLRQwnkRoylIvn3qgPTQqM1T6LE5XYbzwwPOaJ1QntoZxCd0QO09xkG8aG5XK/5ySK0IDwqIKC5Ws8GI7nLLNcoIRAQuscvaGl4I4DaCy/wyWwn07se1QPdsiAKELBmWO4xen3e4mQ1gWk5sBDIH6M4Z+QHBDtHHKUok94kjxHVi+BdN6pRcm9chCgu1TMIvVQxp345jvfc7VURzdCcy/BfhGtKodEgtx9BcSkzyZWNdFHuCzR/EQp7MaoMJXbeiS6zRuIuRqMYTfw4ebwYWqQVvMewU/UctVMmtnNUTpW0+aP/D61PGuzAaFJGQZw4uXOPUtxSNv9CLDNyG6btr9lL4BPdsC2ur01RNBWrWB3CN03x2S4=",
+  "createdDate": 1530643476980,
+  "lastUpdatedDate": 1530643476980,
+  "tags": {
+    "0": "/general/mid game/"
+  },
+  "title": "Radar Automatic"
+}

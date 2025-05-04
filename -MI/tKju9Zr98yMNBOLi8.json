@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "jvwIMOSXXpMc1NoA4Ht1nEg00R53"
+  },
+  "authorId": "jvwIMOSXXpMc1NoA4Ht1nEg00R53",
+  "descriptionMarkdown": "Pedestrian rail crossing, following the tutorial on https://www.factorio.school/view/-Lhrf9RWTlJzW6gwLPNN\nWhen the player enters the crossing, the gates close, preventing the train from making you go splat. The rail signal also turns red. Warning: The train may still smash into the gates if it can't stop in time, damaging the train.",
+  "image": {
+    "type": "image/png",
+    "width": 159,
+    "height": 351,
+    "id": "zSiMj4u"
+  },
+  "tags": {
+    "0": "/train/crossing/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/"
+  },
+  "blueprintString": "0eNrtl11unDAQx68S+RkizOeC1DvkoW9RhLwwIZZYG9lm09WKA/QWPVtPUgMthV0T1lGUh6ovKxl7fp75z3i8PqN93UIjKFMoO6MSZCFooyhnKEMPoMdKUMLuCsGlpKy685GDaMGZRNnjGUlaMVL3lurUgDahCg56BSOHfiQIrVGnDVgJ31CGO2fTpCIKZiZ+9+QgYIoqCuOWw+CUs/awB6GZk6VUnIH7Supa0xou6RjFGWlMFNxHDjqhzPU9fB91vSMXIN8a5JlBwTKWa0S49MVBJRVQjCt8AzDcAkaWwGgWqk5R9aLcIVMG8sQ1RRrfJll86Z4uHyV4ne/hhRwpF/3CgoqipSrnDbB8iDNTogVnmhBAylwCk/36Z1LL2ZwGltOWz1RIlV+V2ZEK1ZL6b6WNK9wHNHokFenPgNcPDg0RRPUboS+oG+fZqKjskbj/EVDOC5LqkR92T51JqcRaqZXi2m3VwlSfOE3NiNQCsTMjsGdbQdobIwhvORNvxoN9C8ZaQIGFKMkKI7RgxCuMyF7YxAiKLURZCyixYKwFtLNsqzgNV0ipNSn6oG4zTvFWNa11Y/mADvX1MzqU7918y4wp2rxlfHzzRXgr0bc/Hea7PrDsx38c/JdvLmf5IV4rlNBau//n8EpvnF7qHVx8WNX/HVdEYATFi//p7m8d3sxkcHlMw7fzWtRcwqSwKbWLKS1UbpveIStcEFbB+2w/4Sj+/P7D6jAGQ+71y2d4G2WzN5qDjiDk2CF3OEzCNIkT7MVR3HW/AAZOlCo=",
+  "createdDate": 1601911062306,
+  "fileName": "crossingsmall.png",
+  "lastUpdatedDate": 1601911062306,
+  "numberOfFavorites": 0,
+  "title": "Pedestrian train crossing v2"
+}

@@ -1,0 +1,26 @@
+{
+  "numberOfFavorites": 11,
+  "tags": {
+    "0": "/production/processing unit (blue)/",
+    "1": "/general/beaconized/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,14/"
+  },
+  "authorId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1",
+  "descriptionMarkdown": "10-tall production cell of processing units.\n\nInputs:\n- 1 full belt of green circuits\n- Either a full belt of reds if you are lazy, or a 50/50 red+green belt\n- 1 pipe of Sulfuric Acid\n\nOutputs:\n - Blue circuits\n\nI use 3 of these designs stacked to feed 1 blue belt of processing units for my main bus, but I think 2 of them is enough to saturate it. I haven't done the calculations, because I don't really care about such things.\n\nIt certainly can eat a full belt of greens if you let it.",
+  "image": {
+    "height": 999,
+    "id": "Pm7dPPO",
+    "type": "image/png",
+    "width": 519
+  },
+  "fileName": "bp-processing-fs8.png",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bp-processing-fs8.png?alt=media&token=c9411900-bc23-49ff-912d-80781bb93d10",
+  "lastUpdatedDate": 1498861915051,
+  "title": "Processing Units",
+  "author": {
+    "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"
+  },
+  "blueprintString": "H4sIAAAAAAAA/8VZ3W6jPBB9lYhrWIH5CVXFO+zNXlcUvP2sDwzCZtUq4t3XIXSbEDueMY1y1arxjMdzTs8ZO3W3a7qqbHYvxYFyySSjojgceNnSwnulZdVx\nz+87oT7oeHF4L4LU/yiCKJl8Jml7XHv8WXiip7QO2q4eGxrEnl91I5cFmabJv5HtW5MtpUX4bC2t2dgGtKGVHFgV9F1DV7njOTf5iulZr18T3VxD1mtKIWj7\n2jD+FrRl9R/jc43nMeEcEk5+zQZV4PGvma9+U8nVFkNXUSGO4SNn0ludXX1cjyrmD5MfVy1IzlogZFn9HzAu6CDpcFnAZ81nBRBE765aZ2aCA3b0vR9UA9Tp\nazq8DerzOniljdTVoNLLj2PXulH2o/QAdMrdK5JDyUXfDVJTz4krT+ctTS5oE8guOJ1GS7Lwa7vfpZAG4E5se9IDZyRniGCFIfdcEwSR8BMRxi8AgfRwaaGd\nVhswvH2GExj5BYr680AVZm8Xjz0C+lwPD1Bz9g+WHEP19l6u+wRmUz6hKbzHa0qK56OJDOmEUI3MLDe65al9+wztY8mDOZXpOWWNS/VxRs1xwBjhZKmJdIgc\nmUF6zbwl99XRWKej6wPaWZ7YaZsgJDR2JIwhzkiYDc21ylqMl7XEYswQQAnAGK39J8jpxWGqxw/jDxYxQ0+Axhg5MIjgGYQfth2mf4N32e9gEcI4Q7Bvknk1\nkk7ksWwK3QTOcB006dtdb3a2W4Q9A56sDo8WNq0zWIaVn8TJb8F2q6mUwOllOBRUefDWRRBzjSOQQGexD9ApnBzJ7T4CAE8AdgxTrPS+igXzsRTOQUPvgISy\nDts2Dp+Nm0Y52X+b99mfEDKE98HvjORybxiT8sd6n+NtcL/lf3Hp6kbDQj07OBLMPKiFbmy9ybT128sNLTS8OiK08GmD+eVwflkKtQkH4HHTBQqg7uUWkoq+\nYfIaoOjHXFekFw7w43hkmEtBCchVggRj3tEpHLUnuTo09mKG3TF2jYkg/+Lxnb74IEtyZ3LMCciGBNFVggyPdOzADsBXYFvaDrjlmGZjMHVihKBH6VaUE/cE\nSzz+hPP4wBQ4RwgEe+NlUxyWpilAPH85/WpCUTGq/e/zu8Jpxc9/K3a/5hXPA5XjwHcvz5TXfwGGd1TUeR8AAA==",
+  "createdDate": 1491305765552
+}

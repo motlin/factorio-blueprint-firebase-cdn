@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "dWDS6NEwpAdLurpeBt6knu7SZmh2"
+  },
+  "authorId": "dWDS6NEwpAdLurpeBt6knu7SZmh2",
+  "blueprintString": "0eJydlm1rgzAQgP/LfY4jiba2ftzfGGNoG0ZAoyTpmIj/fbGW0akjd/rNvDw57vKQG6Cqb6qz2ngoBtCX1jgo3gZw+tOU9TTm+05BAdqrBhiYspn+vC2N61rrk0rVHkYG2lzVNxRifGegjNdeq5m0vYNB17qwqDXTGWGjZNBDwQPpqq26zDPHB6v/MLemUnbiMyIyEX+ZcsWUBGaS3qEyFmdKYUocM6MwBY55IDA5DnkkIJFR5uSqR5EnetHjN+lMr/oSytdXnu+gyij12STX1dr7MPxPzRP+coiaSdJIIHUneSSwGd1h0jKj6+ILuksIKN2mJTRbQyk+bSd1I1KKUdjy7xAqCpUkn1IklPIwPaDxh4mklERCdygVh1KM4kgmxSdsnBSdsAnNp57n3h8VT+0Ugy9l3bznJLL8LHOZhk+EUOsynBhWv/6uHscfcfMsnQ==",
+  "createdDate": 1625542865375,
+  "descriptionMarkdown": "Outputs a full belt from a bidirectional bus lane while balancing with the belt from the opposite direction.",
+  "fileName": "full belt bidirectional lane output tee.png",
+  "image": {
+    "height": 256,
+    "id": "D0sLXQM",
+    "type": "image/png",
+    "width": 320
+  },
+  "lastUpdatedDate": 1625542865375,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/belt/balancer/",
+    "1": "/belt/transport belt (yellow)/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "Full belt bidirectional lane output tee"
+}

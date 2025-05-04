@@ -1,0 +1,27 @@
+{
+  "fileName": "bot-trap.PNG",
+  "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
+  "blueprintString": "0eNqdll2OmzAQx6+y8jOssIEk5bWvPUClKkJ8ONmRwKa2iRpFHKC36Nl6ko4XNps2ZmP3JcTE85sPz/zjC6m7kQ8KhCHFhUAjhSbFtwvRcBRVZ9+Z88BJQcDwnkREVL1ddfII2kATK1lLQ6aIgGj5D1LQKXpofIDOcBWD0Fzhlxtr5mFtPQ5S3TpNnWYnUGbEN1fLeUf8+cYym/YR4cKAAT4n/ro4l2LsawytoFdroyqhreO45p1B6iA1mklhXSIqziJyxgfmQFpQvJl/y2xs/0DZFTpiGOqoJD7XsKkTu4ne0pSjGUZbjTs36dVNDceYd2ir8MgG2XGHH/qcL56e88lBywKCTh7EDGIl5Ny73NTtwsHceDOZN3PrzUy9mbvQVksed9qn4Palj6E0uR/G9X5KsJ0igsJilOzKmr9UJ5DK7mpANSOYspctL+WhlANX1Yygs4mYw9B2N7Ufire3Uwq4onTaT66GpXRVcVa6Kbnr14/Cxt/aK+MASpvSW4O+kjlBbSqrvIld9EOF6Vsf5PfPX2QKKEFiSxAtac469qbHq5K9d5WM3W9vXrg28VBpDSceD0qeoHWVkC0ldGHT0HGhTkwWiHEHk4fOhIei000o1GfO3lWm5y2M/SMNpwvZxdqtnazi30d8rk+FTX/ZVH7YYfWoBE5ZDwLEMW4VdLbxG/yfwBbPE3fHvSvUocJo1keUuc7CpaMsCWwTZ8EYDaQwJ4WF9kX6d4LMBfUfp5h5Q/2Ha7mS+EBz39NNXEjn6QZMGvWOc/v/uvfmxN4kX2+qxc2dOiJdhcHhuy8LVz+h+j41lUG+pZ1wnOZkd1tGd+kmSbNp+gNZJ+ap",
+  "createdDate": 1522479729078,
+  "lastUpdatedDate": 1522479729078,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/version/0,16/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Logistics bot catcher",
+  "favorites": {
+    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
+    "jbvu7KqXNxZIaAIZjRNtOULyRVs2": true
+  },
+  "author": {
+    "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
+  },
+  "descriptionMarkdown": "For when your have (too many spare) logistics bot spread all over your network, you cannot make any more, but you need some for a distant outpost, here's a simple logistics bot 'trap'.\n\n**How to use**\n\n- Put down the blueprint\n- Put something that you don't use in your factory, into the provider chest at the bottom the screen. Burner miners are good.\n- Get the requester chest to request a large number of what you put in the provider chest\n- Don't have so many things in the provider chest so that it is never empty. It must be empty some of the time, so that the bots land\n- Watch, as logistics bots land, and fly into the trap\n\n** How it works **\n- Bots fly to the provider, then the very short distance to the requester. Then they land in the roboport\n- When they land, the purple inserter grabs them from the roboport, if the number of available logistics bots is not zero\n- Simples",
+  "image": {
+    "height": 1002,
+    "id": "biI3x7K",
+    "type": "image/jpeg",
+    "width": 877
+  }
+}

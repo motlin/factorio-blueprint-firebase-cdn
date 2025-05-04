@@ -1,0 +1,26 @@
+{
+  "tags": {
+    "0": "/production/belts/",
+    "1": "/general/beaconized/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,14/"
+  },
+  "createdDate": 1491304887754,
+  "fileName": "bp-belts-fs8.png",
+  "lastUpdatedDate": 1498822200426,
+  "numberOfFavorites": 6,
+  "image": {
+    "height": 951,
+    "id": "AzOUPmP",
+    "type": "image/png",
+    "width": 628
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bp-belts-fs8.png?alt=media&token=5f4be230-83a4-43fa-b9d1-eac7042bd99c",
+  "title": "Belt Stack",
+  "author": {
+    "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"
+  },
+  "authorId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1",
+  "blueprintString": "H4sIAAAAAAAA/81Y226jMBD9lYrnUHHLperysr+wj6sVIjBJrAWbtU22Fcq/73BpEwgE202k7UuU4rn4zDkzE1L2lLEkzp6isAIqiSQgwqqicQ6hxdmWFYxL\na1EwgY8YDau30Hafl4v30H55Xp4WCaOSsyzawiE+EsbDKiE8KYmMcpZCxHYRK4DHja3THKeQ1N8wyk/LtX6F1Z4DoOM2/HtE0tD1TvXfoktjCzHaDZJoUzgt\niIS8zrj+DC1RAKQ2hi4zsH0L45VUht6Ms3v6ahNb6TvLISVlbkOG+HCS2AXLYODaq12vzyYFKQZH3NkTzuDEfNgm6uaWz2FekxgbwJKxPRESE0sOIKRdxEKQ\nI9gFZ0eSAh8g5LdRPq13MdoQKoDLq7Nel1FKeEtJvMc0nfFJ2tnuCBcyEmRP4yys5HuBgerrWIs2KLwVHISwJY+pqPVjbyGTVsN+IeP6go7j4Le8iFEaGMX6\nZp2UxdHTBsIB+TYjdG/ncXIgtIHxquCoVLwkKW5l13nEDJPfE5h5na8LyD7tPvyWFMuy51jItPXc8+B3HlrUWCmL8iJ2TS1bMrs1H4m9UhGf/zjx+drIe2fk\nGzJOwa6ow4sEhATIWlmMYByo8snze4S6oRiv8ztW/RtmfleTs1lwH52N4/kpsqWxxDx3dv6YEm2StY6+r0kCtG3QU77uWpUBrWP3AbWcLmNgXsZV7163Glur\nbu/yYqupEcThT4mfozRXxtx3mtQ6X9GOZOiwKT62z3qOT1O8Y4LrOBqy7V/tf9ffS69wGpPF/ZgshPYGy+xQc8fb2pT0DdSqxqJGYcqLsr9UYtEXCdSIw3nA\novQI0fuBwX7knof01HyeW03ck/LRHpTBFc2H1RqS3LlWxpyJqzCADIaZSviG0J6Bja+9nfkavX6i1avRJTjThXBG7T3E3P57wGlsDTDEnylpiUGOyM4rKAOt\nBXRwQ9XSa0Lvq+N4BeN827znwmTwW1KZe0sDm0CDfctx9qkWSDO9q4iecn2DryUazC/RjyzjysBmrVHG1VeayPr+TUS1LJq4eGYma/3E1uOATvYAg3d2ykTY\nGNi8aM8sLYuBgSqqG/V+vlEvwKPxdx31jcodrFSYVtKsiZXBW7pud0Yn7cHv+O+nHzVw1umVgyw5fYpegab/AGGuEmc8FwAA",
+  "descriptionMarkdown": "7-tall production cell for blue belts.\n\nInputs:\n - 1 belt of Iron Plate\n - 1 pipe of Lubricant\n\nOutputs:\n - 1 passive provider of 2000 blue belts\n\nRequests yellow and red belts from the logistic network, and produces them if there are none."
+}

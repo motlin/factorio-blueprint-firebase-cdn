@@ -1,0 +1,30 @@
+{
+  "lastUpdatedDate": 1498861887335,
+  "numberOfFavorites": 18,
+  "authorId": "sRWBEefIHnZkEmVSU2KtWSLdfka2",
+  "createdDate": 1484794398624,
+  "descriptionMarkdown": "Smelting setup using Angel's smelting and Bob's ore mods. Ratios used to determine the number of factories are calculated in the smelting tab of the google sheet linked below. The ratios used are for iron and copper smelting as you get more of those ores than the others.\n\nhttps://docs.google.com/spreadsheets/d/133y9Drf8hEYUSuoy7R2wtwEXZUgBrQlWuXWqK3jsUSA/edit?usp=sharing\n\nDependencies:\n-AngelsMods: Refining, Petro Chemical Processing, Smelting, InfiniteOres\n-Angel's Addons - Ore Silos, Pressure Tanks\n-BobsMods: Full Suite\n-Belt Soter: https://mods.factorio.com/mods/judos/beltSorter\n-Recommended: RSO\n\nIt's a work in progress so please feel free to make suggestions.",
+  "fileName": "Smelting Pic.JPG",
+  "image": {
+    "type": "image/jpeg",
+    "width": 353,
+    "height": 1297,
+    "id": "PuGNC6w"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Smelting%20Pic.JPG?alt=media&token=d58c7642-480c-4674-a46e-cde93fc652f4",
+  "tags": {
+    "0": "/mods/bobs/",
+    "1": "/mods/angels/",
+    "2": "/version/0,14/"
+  },
+  "title": "Bob's/Angel's Mods Smelting Setup",
+  "author": {
+    "userId": "sRWBEefIHnZkEmVSU2KtWSLdfka2"
+  },
+  "blueprintString": "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",
+  "favorites": {
+    "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
+    "3nH3IavT18XfUtSJky8ZqAZcYZm2": true,
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "author": {
+    "userId": "K8fc5I3qS1RSsU4MYFOuyXQ9Fp63"
+  },
+  "authorId": "K8fc5I3qS1RSsU4MYFOuyXQ9Fp63",
+  "blueprintString": "0eNq9WG2O2jAQvUrl386KfLGQH5V6DoQiE5vFamKntkMXrXKAHqQX60k6DoEskNAEb/cPcpzxm/GbN+OYN7TJK1YqLgxK3hDPpNAoWb0hzV8Eye2cIAVDCTKKCF1KZbwNyw2qMeKCsleU+DXuMc9UpXdMvbML6jVGTBhuODv6aB4OqaiKDVgmPh7whVEpNSyTwjqwUP5TjNEBJV4wf4rBBeWKZUeDyIZzhRyMR55NQw7HI4fDyIse5Gg8cjAt5viMzIVmysDcPYajMdHOx2DOLjB7UJ4fyVPcj7V4RE3x9V59kA7UhFEyTzdsR/ZcKrss4yqruEmZIJucUZQYVTF8noYl9Oxiy5U2aVch5lDasPZcmQpmznEeLTwiDmbHxYstHVuOhtja9Gf2qSiJIsaGgL4271t/ihGa7oig1rMBJqDAtiTXlyE1L462haTgctZH3LILiOXAg1QeON5w0Tju0fWQToa4kyWDTTQmCFJDZQGox0FalZQYlkI7Ympv6QpnvUFaOqaXR096+7D9R4p6JHbXik4d8p4ew6tq7idUM6uAjFtZWR3CotMjkq+cMo9o4FNy6ino9TJjWluBnczSH6BDiBLMhVQF0N4XedfqKKyi7F+yuNhEX9gtTFcsuqmsd0+r2+I5kUfURgqedTvLdpX4bmtCMwtxu6RghuR575KLwvrz63ez/4/zfJWDYbenKZa2PQKKAtljU1amrMz1ydwatbnGwxFeZL1xXB6A9kqYdKug6rgA9LZj1Ou6t+Ciaen32+T7Y7uCixrupHYoJ3fSOEUND3j+ZDXcRvgRaognNoPPVMMQwf+5MUx1O0WBHyOFe2fBGB2Av5+QOuttNccBXuBgjVfwi+FwOA+jbhg3w+XRIDoNo24Yt8MIgxCCNTgwPG9vB0Md5bnuPlBKkjGvzInZwrnlbSF2evyysHm6+WR0BQhdAQJXgBMHsSsHzgBz1y3MXbMQu2bBGcB5C84khq5pDF0jiFwjiFxJDF0BIlcdhK4AziQGrmkMXEkMXDkYBwAnBDesAKPufyuMcgLXM5j7VhlZwP2Rfrm65+yZ0o3PeB4so+UyjsJwsfAXdf0Xt8x5PQ==",
+  "createdDate": 1730919001120,
+  "descriptionMarkdown": "This automated system checks the contents of the belt and compares asteroids to each other - setting a recipe to reprocess the asteroid which has the most inside the loop. The selector combinator mostly exists to add a delay to the recipe change, as otherwise it can get stuck changing recipes before completing a cycle. You should of course modify the shape of the loop and circuit values as fits your design. You can also apply this to more crushers simply by hooking the selector combinator's outputs to each individual crusher and ensuring \"set recipe\" is turned on. I set a default of only turning on the inserter when there are at least 10+ of any item in the belt - because you don't want a loop to reprocess asteroids until there's a surplus of them. \n\nSince the reprocessing recipe has a 20% chance to delete the asteroid entirely, this will also in time clear the main belt. \n\nAs with any loop - I recommend limiting throughput into it to much less than it can be saturated. You can do this by having entrance belts check the main loop's contents and only enabling the belt when it is below a certain item threshold. \n\nI hope this helps! I've found it very useful in my designs as a \"set it and forget it\" method of ensuring all three asteroid types are available for processing, regardless of location. ",
+  "image": {
+    "id": "rrNZWkE",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/rrNZWkE",
+  "lastUpdatedDate": 1731363364067,
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/mods/space-age/",
+    "2": "/planets/space-platform/",
+    "3": "/version/2,0/",
+    "4": "/belt/balancer/"
+  },
+  "title": "Automated Asteroid Reprocessing/Loop Balancer",
+  "favorites": {
+    "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,
+    "asniM5Gx2ROkxEtUF2DWlY9JLUz1": true,
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "VXKPmCDy9wSwBCReYyriFnYN5To2": true,
+    "JSIVJfnf0yPKLoaPzF6fKvhmc7u1": true,
+    "wJT2pPjryDNJSmrMXrUCx7eHfGw1": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true
+  }
+}

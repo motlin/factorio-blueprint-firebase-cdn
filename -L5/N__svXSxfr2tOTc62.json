@@ -1,0 +1,24 @@
+{
+  "tags": {
+    "1": "/version/0,16/",
+    "2": "/general/early game/",
+    "0": "/mods/vanilla/"
+  },
+  "blueprintString": "0eNrtWktu2zAQvUrAtVyQQ0mWBXTdTW9QBIJs0ykRfQx93BqBD9Bb9Gw9SUkp/kmmLSpU4DjeBBGpGXHmzXCGj35B06hky4wnRTBN02fkv+xHcuT/OHiUc3yWJvVwzp+SMJJjxXrJkI94wWJkoSSM5dNTWDC0sRBP5uw38snm0UIsKXjBWS1fPayDpIynLBMv7CTnbMbnLBvN0njKk7BIM6F1meZCNE3k94S6Ef3iWGgt/gHxjTnP2KyeBQuJFRZZGgVT9jNccSEtRF51BmJuXunJ5eiCZ3kRtAxZ8awoxchuRfUbI5D2SPuLUDqDyId4GWbVEn30789fIZKWxbLUUJqxea12uRarKwUMiyyNA54ILchfhFHONvVnk9rGauVE/pGiB57k83pNPJuVvKgeYfMoZKHby2RjHU1DW9fm4JUtcNATOHI1wH3tAdtTxlhiEDjQAQ7OA9cKguNp2g1X2g9X/H6wkmNYYWwAV+iLaR0QDaAcHRibOBGiQMbeL7pIEzb6FUbRCUTsCg9ySoOz07B133lwa1WwOQ3mgkcFyxRV4QJ45WtC7suEjn/p+USYKBzodnMgVTtw3E0DqDV4mhDAsBDYx5Wa54H8dB3xGoBMmjFMFRBMNM2nw5oPfSPQaRjsKewluFvEEHXEENJJBX7VcNpT23RJlywJqh7NL7KS7fMoY+E8yFmSy/cr/Pdzu916iBqsUSzphY1zrAIB9KIOD7ztuX2jTplWhGrmFRnWRK+vhV4TU1WbQuzjI0fLRNjlw2FbckqTc0ET6azpoMDEIklHURgv2/rOV1VjSZczqUI7U4+T00JlzsRaolSGg9wyNA4lynzsVkZt3R2tsW21tzSNtbeaa1dljHchfOjp8JHVVp6c/YODtoWicMoEWOibUPXwPZ09P1AQwyuRjZWc640BTzwbu/b+kI3lsgwd1y1dEdAXofoi9lA8Ar3zCB+TR4A7j3CLPMJ78kN3IqEDkYDNEQnk4xEJjS0Nm2AW8JuZBWyOWSCfm1kgn4RZwG9mFvCdWTDFLJDbZxbIzTML2BizgA0zC+TOLHRiFvBtMAtdwmfSq1+jg+1TGAy1B4CbLZrynImv6/KLghkPNPsF0mpabZVHSK+OcbCosPHENRQVzQIOqhwD6NU2DuYDwLZnxgftOFAdB4Fe150kAUMuEJHfcIGqmQb7uu4l3cG2R1WfB06fTna4CuFSz5QPlLnv9mptB7PZIxNDNQFaXKyj8sH4qq5GHWLKA8pM967rphQcUzWPNjGvm+Su90xVxl28aiKn9I2qX5CeUJqLwVAsfsWC7VWV4gOb/yq9few=",
+  "descriptionMarkdown": "Two Gate Locks to temporarily confuse your friends until they break down the gate with a pickaxe or tank, a simple, small variant, and a much more secure larger variant. The constant combinators are turned on and off to give different codes to the combinator on the other side of the wall. It works like binary, so turning on the first three combinators will output 11100, or 7. If that happens to be the right number, the door will open.\n\nThe default password will be 11011, or 27. To change the password, open the bottom combinator and change the 27 to anything between 0 - 31 for the small lock, and 0 - 16385 for the large lock.\n\nIf you still need help, leave a comment below and I'll try to explain better.",
+  "lastUpdatedDate": 1518683447114,
+  "numberOfFavorites": 2,
+  "image": {
+    "height": 362,
+    "id": "mAjc0bP",
+    "type": "image/png",
+    "width": 455
+  },
+  "title": "Gate Locks",
+  "author": {
+    "userId": "LGdMzML8OXXsWtC7uhwPjaV9crI2"
+  },
+  "authorId": "LGdMzML8OXXsWtC7uhwPjaV9crI2",
+  "createdDate": 1518683447114,
+  "fileName": "Gate Lock.png"
+}

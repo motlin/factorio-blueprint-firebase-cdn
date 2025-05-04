@@ -1,0 +1,37 @@
+{
+  "authorId": "e03tHkqC5ka0V6BMCrN4OcUcyuH3",
+  "blueprintString": "0eNrdWMuOmzAU/ZXIyxY6QF4EtbPJD4yq7qoRcuAmsQQ2MiZtFPHvtfEkkwdhbJLOSLOJhO37Ouf62M4OLbIKCk6oQNEOkYTREkW/d6gkK4ozNSa2BaAIbQgXlRxxEMW5GtAr3CdUO4jQFP6iyK8dC8tfR5ZB/ewgoIIIAjqB5mMb0ypfAJeuD9YqRYGpcBOWLwjFgnHpumCltGVUxVX+HLRFkTuUEVLCIdFTE0dZC86yeAFrvCHSVK5fkkwAt6y7yT5hlQLO944geG7GKdVBS+XKVz8c0uPCSNpkmRCeVEQ0n8q2VhCe1R4cYmNOxDoHQZLO6n1dvf9tfFr/qL3+V6+xnE7JIe8l4aWI7SApQfmI9yzJ7CU4rACOdQ7oi7RjlSgqO8+1Oayag0DNrjgAPZ+fmsE+PGSRQkJS4J2Yu7rlPEPMX1zeBjhsgG/FmtCVbsY95J76yAvMm1Qj9KMH5D+1y2IbN00eLznLY0KlDxQtcVaCBSHjV0JaZkMzOkZ2dPjvTwemJmQ89iBj/m5kTMzIGB8yzCElVe5CJkNzqUsFy+CSDu9FkczTHJ0n4pxMD83ynNhKp2fVNvdSTsDJulU8/VPt/Nqjd7TvujfyzdHcqqPhxcKOxroU3SteZ2bMTq3k4APUYH5EqO2t4kguvt9ZLgSvbNRiYtoMgU0zhHduhtB2mwcfss17tURzEN96gZpbKcDwnEunayt3Uz0zpdrw5JlZ7Xst58HnuAVo2O53Ewi7afb9ntS92S9vxum8vp+vv/DnXWkd9UzbI5rjLHMznBdXr45B3d4k+9CHJvmPF/dHNV2VIINlTL1QG/VuJ9hEP4NryPg9TtPgszx11Na4366a3XC2dbV9K5XSNxGQy1pe/8dxUIYXIAtHT5VMfYBlzhss4IFDCWLQVJiyP3QgSA6KXQlt2RA4HXr+OAy8IAzr+h/opjx9",
+  "descriptionMarkdown": "Countdown timer with pulse activation and pulse reset.  Has a light indicating status (green for countdown, red for off).  \n\nI use this to monitor the input/output of factories using beacons to shut off automatically when there is no movement of items; when belts are full or when there is no input resources.\n\n**How it works**\n\n* When it reads a pulse of any signal, it starts counting down\n* If it reads another pulse, timer is reset and countdown restarts\n* Light indicator is green when counting down and red when it is not\n* If signal is constant (i.e. belt on hold), timer will not start counting down until it reads nothing and output will remain green.\n\n**Setup**\n\n1.  Enter the number of seconds in the constant combinator (signal T).\n2. Attach a red wire to the power pole (also make sure it's powered) and attach that to a pulse signal such as a belt (on pulse) or an inserter (reading hand contents).  You can also attach it to a constant signal which will only cause the countdown to start when it reads nothing.\n3. Attach a red wire from either of the bottom two decider combinators to whatever you wish to use it for: \n * Left for green\n * Right for red\n * Or use a green wire on either to read both\n\n**Other Info**\n\n* Time (signal T) is based on *60 game ticks = 1 second*.  Signal rotates through three combinators so signal T is multiplied by 20 to account for the 3 tick cycle.\n*Because of the cyclical signal there is a 2 in 3 chance that, instead of resetting on pulse, it will start another timer trailing the current one.  This will not affect the functionality/purpose of this device.\n*If input signal is constant (i.e. belt on *Hold*), timer will always be on since it will constantly be resetting.\n\nIf anyone has a better version of this, or if you notice an issue, please let me know. I love feedback! ",
+  "fileName": "countdownTimer.PNG",
+  "lastUpdatedDate": 1553791109400,
+  "title": "Pulse activated/pulse reset countdown timer",
+  "favorites": {
+    "nszw3Ylw5ChXAr074ok7ie1KLgr1": true,
+    "9gqFDiAFACRKi2dh3ix7mU9I1xt2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "HIb8jOQ687ZRFMJnht6KOR5HSPl1": true,
+    "4ODcrBsRrbO6Cc2kylc3COcnHvP2": true,
+    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
+    "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
+    "LuonmNlVcaeeaqLhrUyNK6Yld7B3": true,
+    "esvNuxWxJlfpeJRdIUYJRq0Uiwa2": true,
+    "xxmQ43iOpiTDXq66cImmhIoL4Ok1": true,
+    "3spxSaJvgjPwje1KljwjOXqA20F3": true,
+    "2UcPEoBMGCY8nAl7VssPsMHB8nL2": true
+  },
+  "author": {
+    "userId": "e03tHkqC5ka0V6BMCrN4OcUcyuH3"
+  },
+  "image": {
+    "height": 519,
+    "id": "AnkLVtV",
+    "type": "image/png",
+    "width": 460
+  },
+  "numberOfFavorites": 11,
+  "tags": {
+    "1": "/circuit/counter/",
+    "0": "/version/0,17/"
+  },
+  "createdDate": 1553791109400
+}

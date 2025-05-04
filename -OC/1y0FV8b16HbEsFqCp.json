@@ -1,0 +1,31 @@
+{
+  "author": {
+    "userId": "4rdlL8ezowNz71NRkFkNrWM9gXC3"
+  },
+  "authorId": "4rdlL8ezowNz71NRkFkNrWM9gXC3",
+  "blueprintString": "0eNrtmt9u2jAUxl/FsjRpkwzLX0gibTftzZ5gFxVCJrhgLTiR7cAQ4t137NBBNVQlC5FQayoVJz7n+DufjX6tyAEvippVkguNswNeMpVLXmleCpzhCC35imv02R+l8PoCl6oq6B5VVLACPZcSUaS4WBUM5VzmNcQqvhK0GKOHUgiWv1wjXSK9Zkjy1VqjTak0opLr9YZpnqO83Cy4oBrqbTmFmivJmEA7LtkY/eRFgUpR7NGulL/soqeaeVkLrdCC6Z0Jb0SOMcE8L4XC2dMBN5GmM0E3DFo6rzo6r4qPkCOW7DfO/CO5knXqe2T7vogOXkfrfWWit1zqGu6Ql/QmYhRdZIadMh8vMqPjjGAmNNecNU3ai/1c1JsFk9ACebtZgqtS8WaLD9h0kUzGMcF7nI38GAyAdiVsnQ1ICAYztSyL+YKt6ZZDAcg6V57D9NJWU2bimUul560bYzRfm94UM2VMLaWpOYq+53kElxWT9HQYv0JyWeuq7lweXuQfl4LuLk3v0aVBTQq7m5TcoUmvPfp0W4+i7h6lH82juLNHqXf3Ht34szbp7pH/0c7RlFwn8ptIi+DjdrzuR0UllNNMNiD968l/WELFXq/hTyHcLHXywzMXG7OM2cIMf7cgz5sVWlc8ziCLFju6V3O1Lnc407JmV/xJ2vszvUt/vnXwx8P2iNxelN9DlD+UqKCHqGAoUWEPUeFQoqIeoqKhRMU9RMVDiZr0EDUZStS0h6jpUKKSHqKSoUSlPUSl/UWxLZO3Zp53gl378HZgTNuDMXFgdGB0YHRgdGB0YHz3YDT/sLclY+rI6MjoyOjI6MjoyPj+yei3JuPFlxWOjI6MjoyOjI6MjozvloxBezL67/9r2BnB5kk1o/3JJ4H5mRE7mp5GIUmIDyMzF9t7AdwL7T3zntpRRHyYDe0I5jx7E8LJxKbAb+IHpyHM+zAPS3PNNiD2/BQfwQVdwGZkOBo92sf3fkAIejAPy6HHZr8gCM6bshbHkyCN0jSOIi8K48nx+AcNSKsx",
+  "createdDate": 1731995374673,
+  "descriptionMarkdown": "4 digit (1-9999) display panel for a single circuit signal. Connect signal to the right most arithmetic combinator via a green wire. Will only work for signal counts between 1-9999. When a signal is \"active\" (1 or greater), the left and right most panels will display the signal being counted. Will not work with multiple input signals.",
+  "image": {
+    "id": "v2FsBHh",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/bpDQOAm",
+  "lastUpdatedDate": 1731995823238,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/circuit/indicator/",
+    "1": "/version/2,0/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "4-Digit Item Count Display",
+  "favorites": {
+    "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,
+    "XgTOK8fTzVbSIxG4sThzippYiz03": true,
+    "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
+    "K3Iv7WLrs8Q8UOfDLGnT0xmDdIN2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
+    "sMMES60xUTaduX3eCOXbEtM0gfr1": true
+  }
+}

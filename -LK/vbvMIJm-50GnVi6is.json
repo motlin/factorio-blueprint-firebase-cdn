@@ -1,0 +1,25 @@
+{
+  "title": "Beaconed green circuit",
+  "author": {
+    "userId": "4kRVaOxGFzgi2WyDdGp7v3m4Zpu2"
+  },
+  "blueprintString": "0eNrlW91uqzgQfpUV1+GIscHGudibvVjtM6yOIkLc1joEkIHqVFXffU3TNt3UhJnpqbTSXqUB8s3weX7t6WOybybbe9eOyfYxcXXXDsn278dkcLdt1czXxofeJtvEjfaYbJK2Os7f9rYKjyZPm8S1B/sz2cLT901i29GNzp4Qnr887NrpuLc+PHD5203Sd0N4PPwZpASIFMpN8hA+ixk2iBvmG0Nv7SE9doepsalMtuLpafMBXCDACy64RIALLni+Dm642MU6tuJiq3VsicAOVmFvbmw9uvuA/v5GTKheFZpx36dchZZcaLMKzV4FyFax2dYD6x7LN3tY91i+w8K6x/JDDZw91v7svR2GdPRVO/SdH9O9bcaIJ4gXs5RB2sH52dznm4GDoNzou2a3t3fVvev8/Iva+Xpy4y7cO7zB3Dg/jLsPUfne+XEKV950Oj2R/jWH5jmYj9Uc2bP5y7GvfDXOMpLfn2+/yLFttW/s7uCG+TPZjn6y57veVofdXdUeZn3GQMZw+cTr9dOjgT674L5QfKBuCtnD3/oufC6RB2aJvNfM1PbTmMTkIYIU6BO6oBvCORod7cFNx9Q2QTnv6rTvAo/LKUhG4UoWOZJNjmHJy1fkddO4IFCcY1WwyvpH6trB+jHcWhYTT/ZAAJLXgAQ6+dLNQ0gOv4pPb86RV3DNR5x9+aYaxvUYuGCoMWiFX195Xp53qHkMVf9bYYyxR8Ex5JREckSUnOhrGB60IKWey5RwUzXD1+QEuV7BANcFJTBcQrI9UAq03V6LSlKSC4wc7VsyR+t4LQTLgupMasWXrtCqqLI012+lxpbT4tc1NbKkvh8An0xDFia4bOYZ2ZABnyVyYKPHG3HBCBar5dAyOfIT4i7WQiEWPqe3LVDgF6NAh5VXVETKzhWHI7XC0fKSaDpFCk9RSUfX6LIgN2z0S6JiG0kZOWqU7BBVcLL2qzxG2i4EnTqDXphCstHFulEVdK9+3YvAoJ+9uhoGe9w3rr1Nj1V959o5ny32bVnADsjumfm663vr0/q5knyXNXsf8uLHHJlHdzIVvXh/SZJADs2FJvSX4u2F13yoJKNe6h6FNe9grW3S+s4OV/iYNd1Xc/8f29SltOgZ9s0VIFU0CA0F2RD0ih0sRwYl8XSUaDZyJBsawQbZQSP+edq16lpXpy/dG9dLFaFxV2gLV5qKilkFZocOT/+VxlkZPC3oIKUzIi2AXkYNLOgseg4kiHb/RWlJS2ZrSk9KGt+4411LF7hYhAhFWhH1w1ijxqmHyBsan33RkVwbbuPOyEVlhuMCk+ZL/AY6PsuXVJ+EL81FJT53E6qtMqeiYpgr2L0brBfxpWJ3tRh0ds8cDewlo0ku8coadi8WTcEmQ58v0jevDXBbHnpyMYLcmyCcxUjs8RqDnZzZBzBCr3mXJad9IOj5p5Hi89tpa0t8K6Iqk6tjDMeE4rh443plz8IQWtUcDWqQBz2Mk/gs49VhdE+BDIh1DmIRIRPIcwcON5JZpTA8BbIc5SoA110FsoKaZ1E04z3w5agAYdeQ4V0QcjxqSd1RX1h+g52FYtgWZNzsH58PAuDiLegn0EOnnPk4+YlxJsbAzicmz/7vg2dQoAeEOYagmJNg8UEw0OiBY46y5SfmvhjHK8AcNJNcNxEZtuzkjK0CdqaaAy74I1yclRESO8T9C2e4gTeolrPNoUAOjXMWTCGnxjnYGjk2zsHmxIBP2BknAijugkvsTDxnsBw9E88BZ02gSPaySImdwee8TM6fb+EsesEdb0GMboBU2CKawxR7Cy2UD99P4mbF3v6Pa5M0VfhduPant7b97Y9TuTSEG/fWD6f+qNRClGAyHZT6BzNpAbA=",
+  "image": {
+    "id": "FxK44B0",
+    "type": "image/jpeg",
+    "width": 1920,
+    "height": 1080
+  },
+  "lastUpdatedDate": 1535377513639,
+  "numberOfFavorites": 4,
+  "tags": {
+    "3": "/version/0,15/",
+    "0": "/production/electronic circuit (green)/",
+    "1": "/general/beaconized/",
+    "2": "/mods/vanilla/"
+  },
+  "authorId": "4kRVaOxGFzgi2WyDdGp7v3m4Zpu2",
+  "createdDate": 1535377389090,
+  "descriptionMarkdown": "A high beacon green circuit layout.\n\n~0.77 bb copper plates + ~0.72 bb Iron plates -> 1.0 bb green circuits\n(bb = blue belt)\n\n4 Input lines of copper and iron should thus be able to supply 5 lines (not tested).\n\nThe copper wire assembler run on 12 beacons, the left (right) green circuit assembler on 12 (11) with 2 (1) efficiency module(s) mixed in to reduce overproduction and stalls.\n\nEfficiency modules are only (just about) worth it when the beacon effects at least 2 assemblers - for a boundary line with no line neighboring on the top (bottom) or a standalone line, it would thus be more efficient to remove the top (bottom) beacon with the efficiency module and replace the efficiency module in the shared bottom (top) beacon with a speed module.\n\nPower poles are not optimized for tiling.\n\nInput is not lane balanced.\n",
+  "fileName": "20180827141912_1.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "userId": "pHz9fHYZQiOgpYr9ttbcFFvy0K42"
+  },
+  "authorId": "pHz9fHYZQiOgpYr9ttbcFFvy0K42",
+  "blueprintString": "0eNrtWNtu4zYQ/RWBjy0dRDffgC1QYF8M9KFI+xYEAiXRNhGJVEkqWWPhD+h/9Mv6JR2SlmRn5YucyxZFX5IROZzLmeHM0F9RWtS0koxrNP+KFCfVSIvRSrLcfH9B8xijDZpPthixTHCF5vfAxlacFIaBk5KiOcppxnIqR5koU8aJFhKZAzynIMHf4p4jRClapgXjq1FJsjXjdBTsHQq2DxhRrplm1Cm1H5uE12VKJUjFJ5RjVAkFRwXfeXF74/wAW1DOJM3c3hQjcEpLUSQpXZMnBmfhwE5iAnu5laLM6v4X2LNkUumk80tvKmPNE5O6hpXWPMcxujPOgYkVkdbEOfoJGR9Fratav8T1MmHVBkysuU6WUpQJ4yAIzZekUHT7sAWOqiAbcCOnKpOsci6jO6qo9pgShbEDe89rUVAvrZV399vvnhNiIvYC7wCfjNw3iAcN4jfxth9lMCOBSDDjqZY1xUhSku+WkiXjTK1pfrAHOiXNGZimuvUD9kEB2fb4GQ7Kq2gvrz4qkyiA/pbJ5OSdyJhfpchre2M8yJls7Tk1bQ71pUs0CMb4/+v5yusZd9dTMr0uqWbZRRUxvAjyTugL1K/MXUWNGCNLaWJ6D5RzUVHA3qHwA2qgHyr7KLALbnPWtBf4m0laAoQnc3jcakjr4nHEuKJS0x4s/QZLW+vOo5kxmdVMJ5STtOhKXLPcInwFwJ9d6jWw3n6b1H1Fb9KKOe5keODkKbdsqV4TF1+9X6wbDrtp2UqRU3Pve4yaXlWJw39BJcZvUH4+oWaBJrvDANprq/zVZellD+i7L7Oh9yUeeF/eKLH829bQEqaJuhzRAiyQUDErKLbHayXkWK+8bhYl4MgTHVVSPLmMXVOljwMQnb1LbYK+R7FYXFUs/G4UVMBIVvSYm+GBm5L+UQMbjGoFZIVyI2DWXb72ufDQq7UbzJQNlzhdD5r5M7oow/Z7jxOP8I5ISvKlAd2aOAjfXleGDUdh/10xYfiwQvdE5UbDqL/qqVNXl6TFK+rRwvbxH32PLaGbu2vXV5P8+KouEn//LoIP5CSc6mchH60+2ZUBeA9R3sB1ReM5jOxpjVZJq9Lo3/b3qP9g/1u0A3l1QSf0xwM7THymw0yu+rVj/IFZTPiRAvF9MvnAhL///OuNs+nzK1LpF0FyLxecers43PSmUDf+7hrn+XFifHacMFNRIpbJXr/z8ccMG2deJtBHBs0IGGlJ1DrhwsyFDqC9H4t2YkxY0nq5tLJsxeqDejb08RzuwX1BS3731/Po/Z/PJmtp7sHElz16qk4B/cy+myESzwCBic+9j30cYP8B35v/EQ4sFWHowoaELQx57VsywCGOdtTYbodATe1aCHtQQw1jbATe2v3YSIosgyXdqbER6lveiSHdsWkry1Cg35Egdmb3Z4bVkSC9PWY0YRg1A0fHZj02tPEMdIctvTtrLY0dHTlN9mzcaXX0xNGTDgKgAyPHrk8bGuBkmpbmEdX+Mo9RQVIKQUQ/11qUpDDRg3KnbGjicTCLZrM4CiZhMIUXzz/vwDIr",
+  "createdDate": 1730498764023,
+  "descriptionMarkdown": "Creating one of these will probably be a common rite of passage. This is what I came up with after a few days.\n\nThe crafting requests goes from left to right on the green wire on the power poles, along with a count of inactive machines. The item currently crafting goes out on the red power pole wire. A selector combinator picks out the machine's index to latch in a craft request for one item. This is then sent to the crafter and to the red output wire. The ingredients signal is sent to a requester chest.\n\nThe leftmost green wire should be hooked up to a roboport in logistics requests mode, which means that missing ingredients will be requested recursively. Due to latency in the return signal to inhibit repeat crafts, it should be clocked to only pulse the requests every 30 ticks or so. I have not tested sending negative signals. It doesn't handle when a recipe produces two items, like sticks or wires, so might leave leftovers in those cases.\n\nThe red output wire is supposed to be hooked up to inhibit crafting of already crafting items, or at least to limit the number of currently crafting items. The system here is left as an exercise for the reader. Multiplying it with -100M to only craft one kind at a time works, but is horribly slow. Multiplying with -1 fills up all the machines if you request, say, 500 of one item, leaving none for its prerequisites. Having directly requested items restricted to N crafts at a time, but having their requirements unrestricted, might work. You can always just build more automall crafters. Uncraftable items, like those requiring fluids or special machines, should have a constant combinator signal of -100M on the input wire. It of course functions best when hooked up to a belt bus with common prerequisites.\n\nPeculiarities and notes:\n* It waits for all the items to arrive before they are loaded, as minimizing waste was a design goal and I didn't attempt working with both crafter ingredient output and contents output at the same time. It's slow, though.\n* The combinators chained at the top function as a global reset. Pulse R=1 on the green wire to reset all machines.\n* Building in a zig-zag pattern with the next row going upside down works well. See image. Hook up the green wire on the reset combinators and the red and green wires on the power poles at the edge.\n* Probably pairs well with a normal bot mall, using this for the expensive one-offs and helping with peak load. Vanilla might not have enough expensive one-offs to justify it.\n\nIdeas for improvements:\n1. If crafting with a fluid, send a barrel empty recipe to the automall crafter in the row above or below.\n2. Crafting more than one item at a time on the crafter would greatly speed it up, amortizing bot fetch time and increasing dependency parallelization.\n\nI probably won't implement these because it will ruin the small footprint.",
+  "image": {
+    "id": "fKjAoek",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/fKjAoek",
+  "lastUpdatedDate": 1730501863700,
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/production/mall (make everything)/",
+    "1": "/version/2,0/",
+    "2": "/general/tileable/",
+    "3": "/mods/vanilla/"
+  },
+  "title": "5x7 tileable automall",
+  "favorites": {
+    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
+    "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,
+    "lP4jaXnTiiQGH1g8A29e8dh8Ml53": true,
+    "CDX0HSQEcPhkxC27wGKRYSrHgGx2": true,
+    "Vf7IkRSAp1fxYfGgZXlvXkLgZsE3": true,
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
+    "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,
+    "RBye92QXwsVlkF7strlExMXndDF2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "image": {
+    "width": 994,
+    "height": 593,
+    "id": "g2qwBWL",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1559013761729,
+  "numberOfFavorites": 0,
+  "authorId": "kdyz3MXXm0d1dY8R7LBC00KZb1m2",
+  "blueprintString": "0eNrNV1tvmzAU/iuVnyHC5pIUrZOmSn3cXvpWRYiAk1gCzIydrKr47zs2KSGErE7XTssDxOb4O9+52ccvaFUoWgtWSRS/IJbxqkHx0wtq2KZKCz0nn2uKYsQkLZGDqrTUo5rvqXCbPZPZFrUOYlVOf6EYt86bSwue8ZJLtqODhaRdOohWkklGOwJm8JxUqlxRAcj9+jTLVKmKVHIBoDVvYA2vtDrAcQMHPcPLB2iwRQpeJCu6TXcMpEGEK1krmZxR3DEhFcz0WjoJ9xtqO6SKZlpNo9dg/dgISqshU5aj2G+Xbat9MGJPelwpUla5jeT1BHnsdewJ6MyZ6FSiOJq2JWMiU0wm8C3vYdZMNNfZZ8AbmeoM8D09KutUGPfG6Iv+LmiaJ5pyTfPEGIBiKRR1Omv6T9ZaH9/hVQcBx85K9KQz6m6Yg8ubH9+Rhiw638ADTNmYvFmZZwozs+B24fm3BIfwwkHkR8T3gmgxD6eC5ve0V2zj0gK4Cpa5NS/oROzIMXTWhuGBVj0mo3EwGocX0iuYrsszkviE46ck1ONpQo3z6ev1kXfQvfLOPjhoDwVi/nt677hXeCwTnspMOS68JsTBOyLsjyN8aYeIjo7URbXZShdexeVNwjvdI8gE5twac2ELubCGjGwhb60hA1tI7aLz0+YM8OhILhhAHLYXbzYPP3grwdjaSGJtJLHFtE4Y7NtC2rMMrEIxvxQK8uGhCG1ttE836+K1LgpsXbvWpYuta9d+h8HH4i1pzlT55jHpzUIDjmeT0SHHyl2njXRZ1VAh6USnNwQ64RlMweJBFm5YI4FgtqWgQNCfCt5/0kCMhoNgsmYFSHc96mvX24PvOc9NG6L04Rd68NNsXpvcXi7j5ujs5fQxd06aXOlc/IZvfasu9BD9UQ9KpluGf9MAhlYN4MPD33WA0EU0kBS5Kg5XkOOGpcfgFxwMZLprkgWlfTrsqTrorimiycFP5ipz+H/owowtn9rYd0ln0VX/DwZgb2zBnbFgqcNmLpjx4CrroCJd0eKCUe5NN3uM7xJW7KCqDdW57+E5iYi38Nv2NzQpAhw=",
+  "createdDate": 1559013428685,
+  "descriptionMarkdown": "Setup:\n\nRemove all copper wires that automatically set when placing the blueprint. I couldn't fix the copper wires because they set after placement of the item. After all copper wire between things is removed, run these copper wire paths:\n\nMain grid - left large power pole - power switch\n\nBackup power - right large power pole - power switch\n\nLeft medium power pole - left large power pole\n\nRight medium power pole - right large power pole\n\n\nShort:\n\nAllows for auxiliary power to be automatically turned on for one condition, and off for another condition. Can be controlled via map mode.\n\nNot Short:\n\nI wanted to switch from nuclear to solar. As I'm building out and testing solar and accumulators, I needed to automatically switch to nuclear if solar just wasn't cutting it. Using a power switch with a single condition for true caused issues. No matter where it was set, in one tick, the accumulator would finally discharge enough to meet the condition and engage the connection to my old nuclear power. On the next tick, the nuclear power would charge the accumulators above the threshold causing the power switch to disconnect. This caused my auxiliary power to switch on and off 30 times/second. I needed one condition for off and another for on. This idea fixed the issue.\n\n\nTechnical:\n\nMain power grid is to the left and only hooked to the large power pole on the left. The auxiliary power source is to the right and connected only via the large power pole on the right. Both power poles connect to the switch, and to their closest medium power pole (powers the inserter to fuel the trains).\n\nGreen wire in the blueprint does not change when placed, but should run from each station to closest large power pole, from the accumulator to the large power pole on left, between both large power poles, and from left large power pole to power switch.\n\nStation on the left is [item=power-switch] ON. Right is [item=power-switch] OFF. Both stations should send to train. The ON station should also read stopped train and send signal out as the default T.\n\nThe train route is ON to OFF. The wait condition should both be set to circuit condition of \"A\". The operator and number are situation and personal preference specific. I personally like my nuke power to kick in if my accumulators drop below 30 (which is 30% charge), and not kick back off again until A = 100 (full charge). But it is up to you how you want to configure them. Also, using trains allows you to control all logic from the map.\n\nThe power switch should be set to enable only when T > 0.",
+  "fileName": "Auxiliary Power Switch.png",
+  "tags": {
+    "0": "/version/0,17/",
+    "1": "/power/accumulator/",
+    "2": "/power/solar/",
+    "3": "/power/nuclear/"
+  },
+  "title": "Auxiliary Power Switch",
+  "author": {
+    "userId": "kdyz3MXXm0d1dY8R7LBC00KZb1m2"
+  }
+}

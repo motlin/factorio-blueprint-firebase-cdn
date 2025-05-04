@@ -1,0 +1,30 @@
+{
+  "author": {
+    "userId": "dXT8HnkDtJhi8K1Dz9gIdnrudw93"
+  },
+  "authorId": "dXT8HnkDtJhi8K1Dz9gIdnrudw93",
+  "blueprintString": "0eNrtmV2OmzAUhbcS3cfKacOPSeC5u4iiyBA3sQQ2MiYdFLGALqQb60p6DVXSqqOOEo+l6ch54cbY534cfo4QFyjrnrdaSAPFBUSlZAfF9gKdOEpW2zHJGg4FMC3MqeFGVMtKNaWQzCgNIwEhD/wJimjcEeDSCCP4LDH9Gfayb0qucQL5txSBVnW4WknbFRWXcZ59pAQGLLM1djoIzat5woYAohqt6n3JT+wsUABX3ZT3uPswqXV2xxehO7O/HZQZWktyFtr0OHJFm2csOatO9tg6bmWsVmeYtSharQiolms2c8AnXKt60/Z3q+OP/GVS/IBJ6Zsz6U+LPryuRckDFtG3dx15vYzS69yD6NqaDcuWSV6/cI+hS+PzfrRMo5zher6zr548YAmTgzkJeYS51W9+4Dm0few5LODHt+/Tw6Wam7wguoLJhdfnyp2wcl9YGyesjS+stRPW2hdW5oSV+cKiTljUF1bqhJX6wkqcsBJfWLETVuwLK3LCinxhuT/ld8/FHb0j7uj7iDsChj+hEkgFIfpC9IXoC9EXou9dRx+5OAdldkdQpuG9MIRjCMcQjiEcQzj+D++FOwJfhZ4+PmwjEpGERDuytdt0quLrWIzbbKoSrChWuFYY3qDm7XsIgZqVGI4FJIvP4ijMYo7Rxa/sxAlnTL7JB5phYOY5TfKUZqtoHH8CuTPKUA==",
+  "createdDate": 1729631617824,
+  "descriptionMarkdown": "A 3-digit number display with the new display panels. The combinators are unnecessary since you can manually adjust each digit in the display panels, but they make adding new digits less tedious.",
+  "image": {
+    "id": "9iLHjL5",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/9iLHjL5",
+  "lastUpdatedDate": 1729632881108,
+  "numberOfFavorites": 5,
+  "tags": {
+    "0": "/version/2,0/",
+    "1": "/circuit/counter/",
+    "2": "/circuit/indicator/"
+  },
+  "title": "3-digit number display with display panels",
+  "favorites": {
+    "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,
+    "cuBIvHYkZOcO2dWkGoLVe024jEE3": true,
+    "EE6u5TpIC0V1eD3sAjMmmiMgLSM2": true,
+    "oIxcWQU47SVcWGeEuzh8PUjuEki2": true,
+    "ct8iBK0NO9WUrSsgBWjFDXRAUk52": true,
+    "5h7kuFgvmvdLXeCJk64LGXZZkFx1": true
+  }
+}

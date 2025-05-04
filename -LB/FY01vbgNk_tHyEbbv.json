@@ -1,0 +1,37 @@
+{
+  "numberOfFavorites": 9,
+  "title": "Mining Train Wait Station",
+  "author": {
+    "userId": "e03tHkqC5ka0V6BMCrN4OcUcyuH3"
+  },
+  "blueprintString": "0eJzNmtFuozgUhl9l5MtdqGxjkiZa7U0fYUeai1UVkcRtLRFAYKqtqrz7GkiTNiFpvs6OtL1oGzg+YP+fj4+P8yqWeWur2hVezF+FW5VFI+Z/v4rGPRZZ3l3zL5UVc/Hsat+GK5Eosk13YbCIf4htJFyxtv+IudpGoOVf71rq7X0kbOGdd3Z4gf7Dy6JoN0tbB9f71mu7cmtbx6tys3RF5ss6eK7KJjQti+6xwZ2MxIuYx8lNGh6xdrVdDTd1JEIPfV3mi6V9yp5daBxa7Fwuwr1176bprj64uvGLq7tz13WnsZ2P00bO282hxaqsqtCDsrZdm9CRKqv7jszFH8GqbH3Vgic/1tYWg6fqJXSiLfzioS43C1cEP2L+kOWN3fb3i2IYir6Dqvs1NH434m49jJOrV63z/Ue1vQ+t9bXmQczttkPhSEP9FQ3Nr9DwshxF47NuPsgjbf78X2ijjrWJPtxOP9FKHWv1sbk5o11y6JivM/f45OPwJz+VTe9kG3Ni9k46H0Xc+LI69WDePIwLXdssTDDfabZe9H7E3NetjQan+1tXS/RdnBv/2q6Ph296efSVPJk50fVzJsQPnw0jIX5kzn+Lv931bIru/fJd/wOYN1Ot0sntxBhpJtPbJAzZY3fZpHJ2K5NZKqe3k3QmJ5FYdte1HH50uKsTrYN91tv31sFX+KPMJJmMqZbuB2zpHmObh1Gq3Squytyeihfv1NM/FW4+DuqMjfm58DPZ92Nj167dfNoVdZMOnQn/jDmc7h1mtfNPG+uDrytCmjoOaZNx0g9ef25lstnq6d3idAhwcQgGZcDrjbnfvhDgBudgBpnPAtTpFBqV8xZGJD3mZEYl7Naj3p/8KKH5tRLejeonP8r3+xfkuzuv3ag6s8vLx2erz8lUHte2Y4CnCvLKefWfpHvfL+cKX8nj7r6aJ4zPsjMLz/Q0Wl5SLD0nkWLzT446OaSETZlndVxlhR1x0Unbe9HjkVjB9GQ0FqhDepKtVu2mzc+EgKT3Mf4iKexQeqZDeLHSO4fJGYdTNkKj+ZuCMTekE4FC7/Ldnu74nXfLazdrd27zrFg/uDwX3dPPmBtmnjBzzcwVMpfImvlmL85GhQ0503NypbVhsBgGi2GwGAaLYbAYBItBsBgEi0GwGASLQbAYBEvCYEkYLAmDJWGwJAyWBMGSIFgSBEuCYEkQLAmCJUGwaAaLZrBoBotmsGgGi0awaASLRrBoBItGsGgEi0awKAaLYrAoBotisCgGi0KwKASLQrAoBItCsCgEiyKwSMSKRKhIRIpEoEjEiSSYSEKJJJBIwogkiEhCiCSAsGDCYgkLJSySsECC4ggKIyiKoCCCYggKISiCsNSEZSYsMWF5CUtLUFaCkhKUk6CUBGUkKCFB+Qjb6LB9DtvmsF0O2+SgPQ7a4qAdDtrgoP0N2t6g3Q0rm7CqCSuasJoJK5mgigkqmKB6CSqXoGoJKpawWslQhpuiOsy11gmy1shaEWtJjJFn9NJoPNhQ7wrSsJwKC2qwpAI31WxbxXJslnCx1ZeF4iut2eEIOxthRyPsZIQdjKBzEYY4OkRBZyjoCAWdoKADFHR+ciHK30fDF+Lm774MGolnWzd98zDd8mxpc7H7UtLbd5S2238BcWaw2Q==",
+  "createdDate": 1553982033996,
+  "descriptionMarkdown": "This is meant to be used in conjunction with my mining station blueprint: https://factorioprints.com/view/-LbCF0kwpoby_k0_XHf1\n\nBlueprint is currently configured for a train that picks up copper with an 'en-route' signal of 'C'.  While there are no trains en-route to a mining station, it should not be outputting any en-route signal.  Because of this setup, multiple trains can be sent to mining stations at once, although only successively.\n\n**IMPORTANT**\n\nOnly use one of these for each resource type!  Regardless of how many trains you have picking up the resource type, it will not significantly slow throughput of trains.  It is possible to create a design where multiple wait stations of the same name can be used, however it is a significantly more complex design and will not really speed up train throughput.\n\n\n**HOW IT WORKS**\n1. Trains are stacked up behind the station before picking up resources at mining stations.\n\n2. When train arrives it waits for two conditions to be true (indicated by green signals):\n * That there are mining stations with it's resource type open.  This is indicated by a 1 value resource type signal for each available station.  So if there are 5 copper mining stations open, it will read a value of Copper(5)\n * That there are less trains en-route to open mining stations than available open mining stations.  In this blueprint configuration, signal 'C' is used as the en-route signal.  So, if there are 5 copper mining stations open and 3 trains en-route, it will be reading Copper(5) and C(3)\n\n\n3.  If conditions are met, train will depart with a signal of Green = 2.  When train leaves, it sends a 1-tick/+1 value of it's en-route signal, thus adding the current train to the total number of trains en-route.\n\n4. As train leaves next train enters the station.\n\n5. When trains arrive at their designated mining station, using the blueprint linked at top of page, a 1-tick/-1 value of it's en-route signal is sent, negating from the total number of trains en-route.\n\n**SETUP**\n1. Make sure no trains are moving for the resource type you're working with.\n1. Change the station name to a unique name (i.e. *Wait - Copper* or *Wait - Iron*).\n\n2. Change each of the resource signals in the combinators (set to Copper in the blueprint) to the type of resource the train will be picking up.\n\n3. Change each of the en-route signals in the combinators (set to signal 'C' in the blueprint) to a unique signal that won't be used elsewhere in your train circuit network, except at the corresponding mining stations.  I'd recommend using the following signals:\n * C - Copper\n * I - Iron\n * U - Uranium\n * S - Stone\n * L - Coal\n * O - Crude Oil\n * W - Water\n\n\n4. Connect a green wire from the big electric pole to the rest of the train circuit network. \n\n5. Make sure that there are no other copper cables connected to blueprint.  It is important that it be powered only by the solar/accumulator.  This is to ensure that the memory cell counter is working during a power outage of your main power network.\n6. Connect rail to a stacking train setup.\n7. Configure wait condition on trains to *Circuit condition: Green Signal  = 2*\n\n**ISSUES**\n\nIf the memory cell (arithmetic combinator located beneath the big electric pole) is a negative number or doesn't reflect the number of trains en-route to a mining station, simply cut (Ctrl + X) and undo (CTRL + Z) the combinator to reset.  ",
+  "fileName": "Wait station.png",
+  "authorId": "e03tHkqC5ka0V6BMCrN4OcUcyuH3",
+  "image": {
+    "height": 447,
+    "id": "gFjd6Zy",
+    "type": "image/png",
+    "width": 347
+  },
+  "lastUpdatedDate": 1553982812985,
+  "tags": {
+    "0": "/train/loading station/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,17/",
+    "3": "/circuit/indicator/",
+    "4": "/circuit/counter/"
+  },
+  "favorites": {
+    "MPEhhaCUe5OCHk0vGjeVH5FOQhr2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "Tth007EbJBNSWlITH00gVnEqSPR2": true,
+    "K8CrK0BsiOPJTwJTKjPJ6emX1ag2": true,
+    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
+    "mTiuvlps0JPVw3tHfnnB64K9LLf1": true
+  }
+}

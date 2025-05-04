@@ -1,0 +1,35 @@
+{
+  "author": {
+    "userId": "gQ0FAhEdGIeW1p0p55DTFhX792c2"
+  },
+  "authorId": "gQ0FAhEdGIeW1p0p55DTFhX792c2",
+  "title": "Multiple-Item Train Loader",
+  "favorites": {
+    "w8u5XX28eBhMjmdcJ3UaxNPB41i2": true,
+    "zMLCw8waWOXiMKy4JDN3QtC40iC2": true,
+    "esvNuxWxJlfpeJRdIUYJRq0Uiwa2": true,
+    "cHdqFmKKAVRA2IDr6qOGeedKVlB3": true,
+    "HkSn5CQxO3MuXrPh5heCABgdT802": true,
+    "YhTViJRXbOchQ0GNRDKj1pOuBJI2": true,
+    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true
+  },
+  "numberOfFavorites": 7,
+  "tags": {
+    "0": "/train/loading station/",
+    "1": "/version/0,15/",
+    "2": "/version/0,16/",
+    "3": "/version/0,17/",
+    "4": "/mods/vanilla/"
+  },
+  "blueprintString": "0eNrtWktu2zAQvUrAZSEFon6xhbRA992lWRWBQFu0TVSWVIoK6gY6QG/RTS/Wk5SkosjRxyLVWGmBLvwhKQ6H8zhvxkM/gFVc4IyShIWrNP0MgoemJwfBp6OmGCPrNKm6c7JNUCz62CHDIACE4T0wQIL2ooUoYbs9ZmRtrtP9iiSIpRSUBiBJhL+CAJbGqAxGEUnMnKXZ0US7vDMAThhhBFeayMYhTIr9ClMueUQHA2RpzmeniViYS7QMcACBaV16fJWIULyuBm0D8N0ymsbhCu/QPeGT+YxGasiHIykpFwMbQnMWdvZ0TygreM+TWtUT5kexqRwLGUJQzpAwscnVTzNMUaUDeMPnpQXLCj3JZSmVT6q9SPWgeKM4OrYZiaptErouCJNNWN7xubZ4eEsxTtqPO93HS4FlCwX7SakIr0mEqQIEqgg8SnwB8zd2t0RjnyEqFQzAr+8/Jlj+thKaHbhuBXepDU33IUm4DBBsUJxjDVxg29DGs2G3walncgslewAlR9dX7NfxFYzWu7O5SyVcAxlXUFCvc8Cu2YcxstUwcvv4sAOMWSFjP4fF74eFYhRVZ1OKBAGjBTaqbiE+w9HzEdl4GtIiouk8ZIzyDj8QrEYeiIXix/1Jf97K95VEBQl2cZcLy1na0OMf0PUd33Ys119ceaUAVMae4CjcGSBGK8z3CT6K7V/EKeKsc1EvaYB7THO5+JVjQc/xxasJVJbYwLTg2UOZepGT67j+bG5IzLgUkuSY8i/TgqgKfQsvFLTgSlo4G2VjbvAD25Fke5q7304ggfdTmbuXB+xzBMnayvaZrfzItY19od0Jjj8n8+yglQXTaBl5JEB6g3nNeLwckTUeTpWSnkuvAtSZL+t530L2BTyn7ZXa4KqFxmHsXN04qgWO/R+clr19HXA6iehzx1qqYedNIkrrdcLRC9HlmSOScQrT9vBCh0sV81p/wi/Ec0OKEiVAr18dTu80Xlc6eLlasobgvNKCcyYPHU9lrv+CRMbXQctXg2MxhTHhP02YN3N6GLT0ymZLtV8ES+3i5WOeAmetx9z0FmMEjn9ajLkZrsT02nXxR5niaUyHfEs8NyGVnDGTPGMce1kvW4x4mVZBbTkCrz+Ep/aVgVlj6szqdrdnq4HeahVAoadHfl2ybCGjmDJCzYJJjZI7n+d1U452derdvBmHAnz2GHxQEZ6m/lFvXyEJdDQUP1F599QCLGzKAHG6Jbn09B3OmUnxl4J/4kFF3YHcqF52n0Y4TDfhkS9Cjb05Qxp7k9npVS9p9Fht9ksc2CkfDh4t52TUgYrFXuiPlOcHjp034dg1GuWYv8Ry3JTfcH2fU/XUUiWL6KVo6mbuzanUr1tGr1lgnzBT/pehLfFDLRFxve9xWF/UDCxR/gZRDGuC",
+  "createdDate": 1552768611764,
+  "descriptionMarkdown": "When loading a cargo wagon with many different item types from a single requester chest, a problem can arise when the inserter tries to over-fill the reserved slots for an item, causing the inserter to become deadlocked, and not continuing to load the other items. There are a few solutions to this problem:\n\n* Use one requester chest for each item. This limits you to 12 items per cargo wagon with stack inserters, or 24 items with long handed inserters.\n* Set the inserter to a stack size of 1. This can be incredibly slow.\n* Use these blueprints.\n\nAs a bonus, these blueprints can signal when the items are fully-loaded, for use in a train condition. This is useful when you don't want to load a full stack of a given item, or if you want to leave empty slots available in your wagons.\n\nTo use these blueprints, use the screenshot as a guide:\n\n* Use the station blueprint when building the station.\n* Connect a red wire from its output to the shown corner of each loader. (If the inserter is in the upper-left, you want to connect the red wire to the upper-right.)\n* Configure the requested items from each constant combinator. Each loader is limited to 12 items (the maximum that a requester chest may request).\n* Connect a green wire from the other end of each loader, back to the train station.\n\nIf you wish to configure the train's schedule to only leave once all of the items have been loaded, set it to leave once the `A` signal equals the number of loaders. (This will be `A = 6` in the screenshot, for example.)",
+  "fileName": "train-loader.png",
+  "image": {
+    "height": 1440,
+    "id": "RPT1BVn",
+    "type": "image/jpeg",
+    "width": 2560
+  },
+  "lastUpdatedDate": 1552840553189
+}

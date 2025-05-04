@@ -1,0 +1,29 @@
+{
+  "fileName": "Screen Shot 2018-12-31 at 8.30.32 PM.png",
+  "numberOfFavorites": 13,
+  "author": {
+    "userId": "QJdPciVAF6azJoHXuPLjuyKGhdx1"
+  },
+  "authorId": "QJdPciVAF6azJoHXuPLjuyKGhdx1",
+  "createdDate": 1546241480737,
+  "lastUpdatedDate": 1546412202245,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/power/accumulator/"
+  },
+  "title": "Backup power plant failover switch",
+  "favorites": {
+    "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,
+    "XapKJxfpaCOr004b6kXVsc5wZzd2": true,
+    "mzBugZoJH3h4rzD0HSMvD9yKISr1": true,
+    "f7bfRsB74adtYqgZ4lIZbOOQtf52": true
+  },
+  "blueprintString": "0eNrFVktu2zAQvUrKtR1I1NdGm00uUKTLIhAombaJUKJAUnYFQwfoLXq2nqRDylFkWTaipIA3AoececN5b0TygFJe0VKyQqPlAbFMFAotfx6QYpuCcDOn65KiJWKa5miGCpIbK2WbOeU005Jl81JwipoZYsWK/kJLt5mNxO+Y1BXMdBCtx1zSVS8Wj8ae5lY54fxidm9S9o2ktOhF+83zDNFCM81oS4Q16qSo8pRKKK5DIFlW5RUnWkiALYWCGFGYnIAzx/fBDNUwcO8DgAdetRQ8SemW7BhEgJuodFnp5N17fURNi1RA5cwKdUCu+RgOe3tlYGHwZDKrmLam2zw3jWFmUA7ukqxoxlZUzjORp6wYr8rpl7Rist0HsDZe4BEygbUV63a8ZlJNq9qiK01MjwaOsfKSSLvFJfoKEVOZ/NFiljVsrSp0spYiT1gBGGi5JlzRCUS7PVaN7Q+JP10OQYgZwhfABsF4EBxdUNGbpCK+gYqWcUUNxvuDnlqZemI/3Fhs77o+/vlPd1lr73qjnLXCuPT+JOnd2//ArjP8g799QNSn/ygqvi6E9wlRhw2C3ydqcOWevXzVOKDqCFjYgZVSbCTJc5JyOlclJS907Op6bZIL19ZrAV1TfPQ4eOuJYUf8/f3HOhwzmYWcaiqtjC1EsiPwcEmYSkqms+1RdXOPKy2rHDiwDANyITS14+CT1ycwdbKRkpM6JdlLshO8MtU5974fx24cL6LQi6JFgKMojOPQdXzfwV4YuCFehHHoBUGwcGLseC4G6TqcDRcpPG3qrhgwxD4B2etyK4rX+cYsUHnGyxZ87QJaAgUQbmdEkeSkfJ0yD7yjTLawaU+sNm1OlSIb4/Zd7Km8WxPGxQ4GWtyZOqryCxprxOitEU3cXO2tcucN6PQa+mY9+PCJ1xa2Z8Rj5Qz9oK49nLpta5qn5mPlDn3iU58xJuMp54PbPx4gpVV62Xv3zxAnKeWdnqpW4PIma6cTGMrihnGEcewunAg3zT8pKTEH",
+  "descriptionMarkdown": "This switch can be used to switch on a backup power plant when power on the main network runs low.\nPower is metered by the accumulator and an SR latch holds the switch on while power returns to a normal level.\n\nThe 2 combinators closest to the accumulator set the thresholds of < 50% to failover and 100% to remove the backup.\n\nThe other combinator is an SR latch.\n\n### How to use:\nDisconnect the two Big Electric Poles, these will reconnect when the blueprint is placed.\n\nConnect the pole by the accumulator to the main power grid and the other to your backup plant\n\nYou could also use it in reverse by changing the condition on the Power Switch to `S = 1` to turn parts of your base off when power runs low. Connect the accumulator end to the grid still and the other pole to the part of your base to power off. You would need to power the combinators from the grid side too.",
+  "image": {
+    "height": 348,
+    "id": "HrknHjn",
+    "type": "image/png",
+    "width": 487
+  }
+}

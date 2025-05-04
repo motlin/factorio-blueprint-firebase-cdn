@@ -1,0 +1,35 @@
+{
+  "lastUpdatedDate": 1552102624115,
+  "authorId": "x3wC2LCmBOSicFs5bJepNzVFgdw1",
+  "fileName": "nuclear 1r 1.png",
+  "createdDate": 1552102624115,
+  "descriptionMarkdown": "**Story Time tl:dr ***\n\nYeah I could barely squeeze out enough coal to support the smelters and the 16-18MW of power production. Pressed on all sides by massive bitter bases and the closest large patch of coal is few miles out. Dangerously close to a massive hive, did I mention? I was power blocked and the fear of running out of coal and losing power to the coal miners started to settle in. When first signs of cascading throttle appeared in each and every machine I had to act fast and spearhead into nuclear power, how lovely that there was a huge patch of uranium nearby. Started to mine the green goodness soon as possible to get the fuel ready and by the time the tech was done. We had our self a freshly built nuclear reactor! All shiny and chrome, peeled that plastic screen protector real slow. Ploped down all the things! Insert all the green glowy cookies and say to my self: UNLIMITED NUCULAR PAWA! .. at least for the time being.\n\n**Features**\n- built for the early base where you need that extra energy but not all of it\n- steam tank buffer\n- does not waste fuel, starts up and shuts down when needed\n - checks steam fullness, uses single division to get %, will need tweaking if your tanks are moded\n - the sr-switch easily configurable, I just set it to turn on at 10% and turn off at 90%\n- another sr-switch controls the inserter from overfilling the reactor\n- just simple box for in and out, I only used up like 20 fuel in past 4 hours\n - an alarm to tell me when I am low on fuel in the box.\n- green/blue lights to tell me when its fueled\n- bottom purple/cyan lights tell me the steam capacity and colour based on the steam capacity switch\n\nAnd now with bare minimum tech to run a reactor, I have enough energy to research everything else and possibly get to kovarex enrichment later. But first got to get that laser turret research.\n\nDue to the native population not being happy with me I added few extra tanks and turbines to deal with laser turret energy consumption spikes. \n\n![expanded](https://i.imgur.com/OJmLpky.png)\n\nProper ration is 1 reactor, 7 turbines and 4 heat exchangers so this will not last forever at max output. The point is to not waste fuel rods (yes it burns fuel non-stop unlike regular engines) and have a nice buffer so access heat gets converted into steam. My nominal power consumption is 15-20MW (at the time of writing) and one reactor is good for 40MW continuous supply. [Reference sheet](https://factoriocheatsheet.com/#nuclear-power)\n\n",
+  "image": {
+    "type": "image/png",
+    "width": 614,
+    "height": 524,
+    "id": "g7JoXEa"
+  },
+  "numberOfFavorites": 10,
+  "tags": {
+    "1": "/power/nuclear/",
+    "2": "/mods/vanilla/",
+    "0": "/version/0,17/"
+  },
+  "title": "Smart Nuclear Reactor (entry level)",
+  "author": {
+    "userId": "x3wC2LCmBOSicFs5bJepNzVFgdw1"
+  },
+  "blueprintString": "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",
+  "favorites": {
+    "vu9x82xA5HaId4IpOEpJvnbOHDz2": true,
+    "BAj383r6WofomyLKM1DNR1zz8Nn1": true,
+    "eeK13ksO87hJ3NagYGjQSCk0owB2": true,
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
+    "PuElJsUlrbVfeRMLi3Qxa8sum7X2": true,
+    "HCHPmUGeZgNcpvrxwhmbHrCBz0h2": true,
+    "KdWythfZCccOs1nLw27KpRp44vU2": true,
+    "02jloZg435OVmR8Zz2e7DDD629O2": true,
+    "V0Q4SJK58phP2jEreBbaRbNCWi92": true
+  }
+}

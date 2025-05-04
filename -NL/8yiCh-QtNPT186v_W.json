@@ -1,0 +1,22 @@
+{
+  "author": {
+    "userId": "7gar487CDGPNiqqF9QUZzNGOaNj2"
+  },
+  "authorId": "7gar487CDGPNiqqF9QUZzNGOaNj2",
+  "blueprintString": "0eJzlWW1v2zYQ/isEv7Td5MyS34XtQxF4QIA1KGBjHbAUBi2dY6ISKVBUHCPQf+9RShzFlhVTMboN+2KY1N1D8h7ecxT1QJdRBoniQlP/gYaQBoonmktBfXoZyeBb592Gp/COxFmkecpvBYtIDLFUWxJAFF2QG/FZydS/EZ1LJshGqm9kw/WaMLElxp7IFSn90OQjdoosXoJ67k6x/1o+NQjTRGY6yTTZgAKiIAV1ByFZSUVS0L+YDu0QrglPSSgFEJZpGTPNAxZFW7LEiVUnnm5TDfGNuJSimGWWcnFLRiSQ8ZILpqVKCRdow0IzJykQo3cjbsSXNSvGqKL5j3BEm4cBLhgngw0gCSguC4QsCZkGcscZuZpPn9Zlhr4ycOie4P+5+Y+O6VpG4fuY3ZMwU8xEvoIRbIMIPqD11FjDPQRZYZFIJOz9SsmYuERLMn9y2PAoImuWJCA+mDX8jkGDexYnEfjkyncdMvfdgUOmfq9LOgTuAHnsXgxSCDCkolhJzMMwAupQHmDIqP/3Ay3XYHaI3iaAW4NjDNBCsNi0Qgh4CKrzHFKao7sI4Z76bu7UANxxpTPs2WGUFp1PFU/PynNW8ezlXx0KQnPNoVxB0dguyr2Hk2qau0MTmfIyCR4owg3dkUO31O93JxcDHCXkCoLy+dChGCWtZLRYwprdcfQvEqlAXeCzsEBKTa+Jp2Ym1brGLU6YKgb06a/UdCRbdMiEXhhmF1xgElBfqwzyvBhGlKMWWK75URBWV8ex5aElV0HGddnMv+a5ieNeALxdAJjCbI0B06c5Bl7XMgbPwHthWHGV6sXJxAIL1oZb3KMIs3gRRIlpxx7l6mf0LJXDFtsivIOX4XUxvA71jhi7+8ZOE9Yxqnp2e9XzzrJXLUm6qjB0stOc5jV5YMvhVYlyjuTp7TPykrCRDfm9Q+M6dvuW7D5moev+SHZnZYiPqddvbTLPlB69xlp8Pvr6zfQd5G4ju56pIbcKQOwPM7bZBv3mQcenacCgtVy73R8s17Nare64L8X6pxZbZmal1F5z4A94aSLxxKI6tGfJs0znc7E0baPX18bprSxOrVh0D2poE08HAu00gh3jcdSu4p6cav9cxZ0eVNw22j1rkOwVvuu8oeTuUzY8ZMxCa+vpHbcXU+/fcvY9h542H35rS98r1WzyBraOJeOkPVu9/w9bddLZPSqdpx5r6vgwsK3U8VQ2zqKO+8fLcx5dr88of5NXKlav+QWzpjrWcmZ537Hj7FS9Owtn1/+Nt4z9vNp/zRi+QmmzKtYUvFpGny9wniL2CqWYfpakrnikQR25AXzlbTwzDLotLwHnFQwj5q3uA6fViXSrV4NvO33WstGzZaO/Y+NUWWzFxvQMbPxVi2FHxsdajJ791fABRt8K43MtxsAK449ajGH7zbnDGNVivLxrV2zTWfF0XQGYTCY7iLG5teDpwmyksha96byQF3BmAn7lS5FDI7aEyHwi+vJp9umS/OlddLEXxTYttrA3dvujiTcaTYaTfnec598BJCUD7w==",
+  "createdDate": 1702048228360,
+  "descriptionMarkdown": "Clock-'wise' multisignal memory cell. \n\n​\n**Pros:** \n* Can work with any sign of signal \n* With any type of signal: pulse or constant\n* Any number of signals \n* No signals in an output were reserved for set/reset\n* set/reset signal is automatically generating by clock-'wise' system\n* simultaneously usage of red and green signals, at the output they will be merged(to use both wires, repeat the connection between 2 bottom combinators)\n​\n\n**Cons:**\n* using 11 combinators instead of only 3\n* have issues with high-speed updates\n​\nWhat is clock-'wise': system that can set the period of update via ITE signals: \n* I is step\n* T is theshold(max duration of update cycle) \n* E is execution point(where exactly from 1 to T update will happen)\n​\nFor example: \n1. I:1, T:15, E:30 - every 0.5 second, update will happen at 15th tick\n2. I:1, T:2, E:1 - every tick\n3. I:1, T:50, E:60 - every second, update will happen at 5/6 of second\n​\nIf you want max update rate, use example 2, otherwise all you have to change is T, and set E as T/2. For 1 tick update rate, the difference between the real and stored signal would be up to 6 if it was counted from the source.\n\nFell free to do other combinations of these signals if you need to, with one rule: E < T, otherwise update point will never be reached.\n\nScheme was teseted:\n* Zero values still correctly updates\n* Wrong values of ITE will not break memory content\n* Internal signal N as well as ITE are not affecting output\n* S signal cannot be input\n* S signal not included in the output\n* at a random point in time when E=I simultaneously happens with source signal removal, memory can be erased. The lower the T, the higher the chances to this to happen. For now this is the main flow and I don't know how to get rid of this(or too lazy)\n\nThere is an example that you can play with: [*link*](https://factorioprints.com/view/-Nl8yzNEPDBoluxKtgBD)\n\nThis was based on AlexAegis' multi-signal memory cell: [*link*](https://www.factorio.school/view/-LXNpyTm9_3pVRdhNcCk)\n\n[*More detailed explanation of parts of this scheme*](https://imgur.com/gallery/O7s7saL)",
+  "fileName": "image_2023-12-08_171004183.png",
+  "image": {
+    "height": 481,
+    "id": "j78xRFV",
+    "type": "image/png",
+    "width": 643
+  },
+  "lastUpdatedDate": 1702048348973,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/mods/vanilla/"
+  },
+  "title": "Clock-'wise' multisignal memory cell V2.0"
+}

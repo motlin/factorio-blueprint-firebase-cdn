@@ -1,0 +1,27 @@
+{
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "id": "3JVBRAh",
+    "type": "image/jpeg"
+  },
+  "tags": {
+    "1": "/power/nuclear/",
+    "0": "/version/0,16/"
+  },
+  "title": "Nuclear Reactor Control v2",
+  "fileName": "20180827204731_1.jpg",
+  "lastUpdatedDate": 1536339564677,
+  "numberOfFavorites": 7,
+  "author": {
+    "userId": "TaL8bgh0AHN78X6tDS10fsI0drj2"
+  },
+  "authorId": "TaL8bgh0AHN78X6tDS10fsI0drj2",
+  "blueprintString": "0eNrVWltvozgU/isjP65gBCbcot2VOqrmaWZn1OnbqkKEOKk13NZAtN2K/742zoUADjYJVeelFQEfzvnOdz4f27yCVVyhnOC0BMtXgKMsLcDy71dQ4G0axuy38iVHYAlwiRKggTRM2FVaRTEKiU5QGJUZAbUGcLpG/4KlWWujo9cowmtE9ChLVjgNzw3A+kkDKC1xiRH3pbl4CdIqWSFC33C0g9MCkZL+poE8K+iALGXvpEZ0SwMv9J8JqeE1JijiNxcaoCGWJIuDFXoOd5i+mo6IMIkqXAb03vpoZoNJUQa9UHaYlBX95egFf0L/zGJg+JUhA9NgF0kekia8JfgT1Px+yn0pmEmT/SFo3Q4T0yurfmJPZztECEUqoDajn9SV/9Ae4A4k8OhMnG1xUeJIj55RUeo0O3iH9JxkO4b4BaCsesCudbR7CKyds74xqIT6Bsc0eQK+beKKInECuURhwhGuGLymYRgtzj3JY9vGr7k2GNgDwS/UgjdbsStHKyLVliCUtsOWiJmP6UTtCYK01YKEcwTJJOgWMfqCGB1RdRD0T0X/X6wLShewfy5oR3dw8Wi7ImGKq0TfVCjWIxSzOA8RsTh6brnHoQlas5EopmES6l2exWjAJfPo0oA174RqEsaxHodJLiapWc8nhF9HhVADVYHoO+KMgVmSCsmXrz9QvtowHxYCPvhSUME3gOrLrFB5QmRsATKmcfRwhbdjhDQ+2hwj96Ot4pXWmes6CYUi5061VlQrClnjykCZ7N2yqVdDZuCUGG2VECknOzGxGXDPF3YNu/ed8/u9Ocrrjhdltm9JAOZpag8JLp8T1MjipcmdK6J3AKJXECc7p5ooJhTFPWN9gZiN4FQbNPlZjghP+hL8RodlVZlXatVWq8wn0OxjqQEoSvpIjqElSsVCORXwjVLxba5UfL0yFfByKqyRchNKjGI7ZPA8nHe78Iat0aNiXzQABjQkFcG5tD4TdBKcguOt/t6iHBtFrf+eiNLgfeLgnU2o6lR94Fbyl6DJQ7AhWRLglNoAy00YF0hhXWf2mOj2kiMS9vGh2jXq5fYLbJAlrhJL4PtnyV2PJb9PYMmPW7LEkSaFo5RjZ2SGgpJK4U2csExj9hnr+xQKNNNce0q7++t+Agc+iye1IV22ZXs6xclPWLq+ctq4yPuzZ+3HlKw9drM2pRF5VMsZlM6ZIcyZ1POi2oOGkv4arQTeWH9HWpZDs+g0G3VX6+vjBX1tVsUK8mqL9dRXqbRuBZvSdoXZNVVL1GwL63iG51ijqVX59TL7baaSHV2EWyMNlzdS491VvDmySyBkCZzQg0lT5CYiMEnQH27Sr9+0E3Ol9R4qKYc5wgRfVllkezZoSW167jd5hPv7739/eGztDx0xlqINY7iYdA7WPQaD7/FgSLgtBW0lldEPO6XNhnkraufteg3YodIfE+Tj+w3l40ITOMRcT7KUHaVStn7Z8wtGTVGpuiJw3Gmlas1Xqrc63mTKNRyzN2XXcs6Q71rx2ucn9ZqCmU+dA3+j/ZHIdTv5nUlBdHQM/Snn43NCez9IpQWrFFwE7G1cpVTQ4R8HMAvsM51l65sgDcThClG/wAP/0ufDl2yLow87SG/tqPNc4j0XQs/0DRfW9f/YE2Qv",
+  "createdDate": 1535396385666,
+  "descriptionMarkdown": "When running a nuclear reactor it is important to not waste fuel. Therefore you should use tanks to store steam and don't insert uranium fuel cells once the tanks are full.\n\nThis circuit logic controls the inserters of a reactor by monitoring the steam level in your tanks. It will start inserting fuel once steam is below a threshold (`A` in circuit) and stop once steam is above a threshold (`B` in circuit).\n\nThe circuit uses an RS latch to store the state, whether it's currently waiting for steam levels to rise or to drop, i.e. whether the reactor is being fueled or not. This is combined with a timer to only insert one fuel cell every 200 seconds (that's how long a fuel cell lasts).\n\nThe constant combinator with signals `A` and `B` is used to configure lower and upper steam limit. The constant combinator with `D` can be used to turn the reactor on and off. These inputs can also be attached to the green wire on the power pole.\n\nThe circuit pulses a `F` signal on the red wire to activate the inserters. **Set your inserters to stack size 1!** The `L` signal on the red wire can be used to control lights that indicate that the reactor was turned on (by the `D` switch). The `M` signal can be used to control lights that indicated that the reactor is currently actually running (i.e. fuel is being inserted).",
+  "favorites": {
+    "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,
+    "iWDU9CZoRTaJjo6G5YiT6ryL6gz1": true
+  }
+}

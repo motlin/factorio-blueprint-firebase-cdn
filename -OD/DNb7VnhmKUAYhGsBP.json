@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "rr3lbjGavtSU0n4xXrrJBOycZAE3"
+  },
+  "authorId": "rr3lbjGavtSU0n4xXrrJBOycZAE3",
+  "blueprintString": "0eNqlU+2OgjAQfJf9XcyB4AnxnsQQUkrVTaDlSsudMbz7bUHhNCYXc+mffs3sdGZ7gbJ2sjWoLGQXQKFVB9n+Ah0eFa/9nuKNhAwMr7iBgQGqSn5DFg45A6ksWpQTZFycC+WaUhq6wG5QT2q5soHQTYmKW22AQas7wmrlaxBfEMZxskoYnP18s10lVIuQ1ui6KOWJ90gwuttJ4WHd/Zzq34QxOGBtpXncvaqRNYGMVigCgUY4tCTm0/GaxNOx0qahh/vaTcvNKDaDj3HDeZfCgc2s0czKq54rIav/c65nztZoIbsO1TFw6nXKnMbgiR+C+SXaoD010nor/ogmvg+mQjNZD1n8PKaFu6DjCufMDmg6Wyz9Zc+t19KjsW580VXcdCOQXJx821HURFPcegmylIFuJb18VAG7HUG1s617mfypS0sMU+c/dSVcGvadfPFf4ouc8Z23D1nIIhbmbB+xNY0wp1O0siHK5dMx6KlTR9ZkE6VxmiZxGm038dsw/AAJ5jPy",
+  "createdDate": 1733260636849,
+  "descriptionMarkdown": "This sends all items requested by the outpost encoded as bitmask to the loading station, where it can be read based on the train that arrived.",
+  "image": {
+    "id": "2eZBa3R",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/2eZBa3R",
+  "lastUpdatedDate": 1733260636849,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/train/loading station/"
+  },
+  "title": "Dynamic Train Loading Requester",
+  "favorites": {
+    "4kRiQ8hochf7fd5LMBuh8bp7Cez1": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "4ETH3BlbAhZhUEWwhNB1Y1Lj8sU2": true,
+    "SS0ivWSelScggoritSCjMW2VOo32": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
+  }
+}

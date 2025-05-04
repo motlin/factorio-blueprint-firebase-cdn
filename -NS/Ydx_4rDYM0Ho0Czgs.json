@@ -1,0 +1,31 @@
+{
+  "author": {
+    "userId": "b1YwgfQmeQULzczvIttpWUHyZO62"
+  },
+  "authorId": "b1YwgfQmeQULzczvIttpWUHyZO62",
+  "blueprintString": "0eNrlWttu4zYQ/ZWCz1ZhkdTNaBfocz+hCAxZohNibUmgKCNp4H/vUFJkR6YupOJku/sS6zpnOHPmwlFe0e5QsULwTKLNK+JJnpVo888rKvljFh/UNflSMLRBXLIjWqEsPqqzhGVS8H31yNB5hXiWsme0cc+ryRcrEWe8OjqYeFdv4vPDCoFILjlr8OuTl21WHXdMgOhOwI7FoCQILPISHodDgAIRjuf/7q3QC9oQOFCiAbdUN8uCsdQ55ml1YA5RYErPHgDuANhzIVhZOhWoJh5FDr/Ojh2kDpK+QXo1ZLvivJJFJZEGhcxYBl6yDDoNQKMlAN4MgEWO8DuAlCUcXOAk+XHHs1jmYtQFAUCBQlLkh+2OPcUnDi/AU62YLdxL61drXfZclHJ7Q9YTF7KCK50SzRMOrPUJNQCljFWwrNXJsYhFrdgGfYN3GsfbSC1eQL8qk9u9yI9bnin+bKSo2LkBzVjSqe6qP4+Csew6Unha2y7hIqm4rE/xlXnVueueH0Acnvu+elznosAkGCMLDoTLgjG8DsbGlhqQaBlINC/i3XUHs+cHCXTmWckEHOikk/fSUy4av9f5SUfuN3d15B7h9mgiHib2n/XtFkewON0+xVmqECWstWxpasBSstbQbNWap8n+bwVFry3UivzEhICw3oLSyXdY67+srT99+7tW9g/79vc/zf5h3wF/fLQD/M+0P9b1DBrTu++pD4bntdW+56dYsGeHZYInT0eQ4RQiTyBekWlacS/lt1Z7jAqXKnlDBawTTW+yiQSTlUUu5FAuoeF7iDF+sSzeHdg25aX6RZt9fCjZNCtW1wStrzePgqEaf80nDaYD1cD1eladjrOLcSNNnM0kYohUNbtVx1/iieirPKFbSWDSa9nUWTc0bLb8Gou6M6vTL9R6KVOO9V6ETPRefQFDzZdr17cELU9ufefP6GLwpYspqx24oX5V1x61INotlmucKLrNUKv2F7VA3/4/LdBaZ3hsbvj1IF/oz+MGTD7VDcQs23ZVkuJZHjDKtjNdQG+b0eFcOyHzYxJt32f9RIv7F+jUrlfLAp3/Lj3ePi7laIPz1lDQ9SeGTzi5kTOqaLSJhtmtPvZsKtPFVCOVaXATj226vZFaqIMILCB8M4jQAsIzg4gMhjaUWDSTZG06uWuT28yt9q+R3vqdwU16c/tDvfVEetP2Gjr/uYsGYi1npgKWmM4DWrn3mAcQYjMbahX6ktkQvftsSLsNuddwiNhUVHzXncDH1lDqDQXbgqGJloDLhiZkydDkVh/6o4xQiMkIxa7qhSZ11eaDGInMfXPJynCg/U64XiLUGxBqNWuvVfxZv3Xcb4epsz82+LxsxUVKDL4v2yFQixm9hkI60d6SJEd/jCRn0koOTeypb5IVrbwYLEkv/kB6CZcIDZTQh2YhauHdv72s0CGGt+HaX+kpzhKW/vZ302PCLQi9siFU6NIgwoHve6Efhufzf+LQ41E=",
+  "createdDate": 1681004157531,
+  "descriptionMarkdown": "<h2>Setup</h2>\n\n- Feed U-235 on the belt from below\n- Feed U-238 on the belt from right\n- <b>Do not insert U-235 by hand!!!</b>\n\n<h3>Properties</h3>\n\n- Produces 1x U-235 every 5s by average which can feed 400 reactors.\n- Consumes 11-12MW of power\n- Autostart/Saturation mechanism\n  - Once the first 40x U-235 are consumed it will start saturating itself\n  - Needs 120x U-235 in total for saturation to finish\n- Zero production downtime\n- Tileable in both directions (remove the 3 belts from the side you are tiling it to, to reuse the beacons from the other tile)\n- Can automatically recover from being clogged up\n\nA thanks to Nilaus on Youtube for the inspiration.",
+  "fileName": "advanced-kovarex.jpg",
+  "image": {
+    "height": 947,
+    "id": "Ye6Th9g",
+    "type": "image/jpeg",
+    "width": 968
+  },
+  "lastUpdatedDate": 1681076118620,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/general/beaconized/",
+    "2": "/general/tileable/",
+    "3": "/mods/vanilla/",
+    "4": "/version/1,1/",
+    "5": "/general/compact/"
+  },
+  "title": "Compact Tileable Kovarex Enrichment - 1/5s - Advanced design",
+  "favorites": {
+    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
+    "TbOkLLzL19WbvBilPAXFoga7aQG2": true
+  }
+}

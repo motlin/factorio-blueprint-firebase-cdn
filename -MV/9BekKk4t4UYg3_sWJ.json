@@ -1,0 +1,46 @@
+{
+  "authorId": "rbWHB8UrYZf1YPo14F5Ng7ukNiE2",
+  "descriptionMarkdown": "# Oil Complex\nA self-contained oil processing complex that automatically connects to its neighbors for all fluids, vertically and horizontally. \n\nOnly one input or output connection per fluid is needed for the entire conglomerate. It's the easiest possible expansion of oil processing throughput. At only **[22×18] tiles**, You can expand in any direction you have space. I've ended up with weird polyomino configurations and it has worked fine.\n\nExcess non-gas outputs will automatically be cracked down to petroleum. Heavy and light oils are easily tapped if you want to make lubricant or rocket fuel.\n\n\n**Update 2021-04-25**: New design is two tiles shorter vertically [22×18] and uses only one substation.\n\n## Connecting\n\nMake input and output connections anywhere that's convenient. Since it tiles, every fluid is accessible from each side.\n\nInputs:\n * Crude Oil — top-most line.\n * Water — right below crude.\n\nOutputs:\n * Heavy Oil — top-left tank.\n * Light Oil — bottom-left tank.\n * Petroleum Gas — right tank.\n * … or feel free to tap any pipe you see with that fluid.\n\n## Benchmarks\n\n### Assumptions \n* No taps on heavy and light oils.\n* Full drain on gas.\n\n### Results\n* One instance produces **3.5k gas/minute**. \n* Scaling it to 16 instances in a 4×4 block showed 100% scaling efficiency, **56k gas/minute**.",
+  "fileName": "Oil Complex (2).png",
+  "image": {
+    "height": 704,
+    "id": "fkUnPhK",
+    "type": "image/png",
+    "width": 832
+  },
+  "lastUpdatedDate": 1619891022212,
+  "tags": {
+    "0": "/production/oil processing/",
+    "1": "/general/mid game/",
+    "2": "/general/compact/",
+    "3": "/general/tileable/",
+    "4": "/mods/vanilla/",
+    "5": "/general/late game (megabase)/"
+  },
+  "favorites": {
+    "O4X8BLj4LWPdLLlIdKczluk9Jy52": true,
+    "CSNM6eEPCBcPfGFkI9H2DDAzkDo1": true,
+    "189yZkTrakUxkuUIs1bFXgyrba62": true,
+    "B07QPYS9lVTbNhPVAoSlp8AUZjj2": true,
+    "mFr5kDlk4nNm9EmPpg02HX3ixX82": true,
+    "AMCmV5PYMJPGfhNVvqzkLklHRqe2": true,
+    "tlUzqVt8j4gbK2Euj7aGe8pypzl2": true,
+    "074jey9nB3bn2gyavqoBL2in5Sz2": true,
+    "RNQKhmN5VtPYk5nmq6lhpXah09q2": true,
+    "YI4Qs2SJ7XfyN9BNIFPSvWehYDz1": true,
+    "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true,
+    "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true,
+    "RZFo8Elp9UT4ZJfAk9rSgfKH0Bn2": true,
+    "WjCeL1XO1NgFIGVl0mRd8yqcaX22": true,
+    "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
+    "flEa6kWeEgQZWzwUmp4MHXnssOQ2": true
+  },
+  "author": {
+    "userId": "rbWHB8UrYZf1YPo14F5Ng7ukNiE2"
+  },
+  "blueprintString": "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",
+  "createdDate": 1615078796353,
+  "numberOfFavorites": 15,
+  "title": "Tileable Gas Production",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Oil%20Complex%20(2).png?alt=media&token=b597a0f9-6534-421f-8e6e-b5f4aa8a181a"
+}

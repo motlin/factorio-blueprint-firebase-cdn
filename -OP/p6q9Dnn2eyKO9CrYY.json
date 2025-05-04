@@ -1,0 +1,20 @@
+{
+  "author": {
+    "userId": "lF4imxn6kEXA7Rb7emlagDwYUdP2"
+  },
+  "authorId": "lF4imxn6kEXA7Rb7emlagDwYUdP2",
+  "blueprintString": "{\n  \"blueprint\": {\n    \"item\": \"blueprint\",\n    \"label\": \"Mini Smelter - Electric Furnace Setup\",\n    \"version\": 281479305392128,\n    \"entities\": [\n      {\n        \"entity_number\": 1,\n        \"name\": \"electric-furnace\",\n        \"position\": { \"x\": 0, \"y\": 0 }\n      },\n      {\n        \"entity_number\": 2,\n        \"name\": \"electric-furnace\",\n        \"position\": { \"x\": 2, \"y\": 0 }\n      },\n      {\n        \"entity_number\": 3,\n        \"name\": \"electric-furnace\",\n        \"position\": { \"x\": 4, \"y\": 0 }\n      },\n      {\n        \"entity_number\": 4,\n        \"name\": \"electric-furnace\",\n        \"position\": { \"x\": 6, \"y\": 0 }\n      },\n      {\n        \"entity_number\": 5,\n        \"name\": \"logistic-chest-requester\",\n        \"position\": { \"x\": -2, \"y\": 0 },\n        \"direction\": 2,\n        \"request_filters\": [\n          { \"index\": 1, \"name\": \"iron-ore\", \"count\": 50 },\n          { \"index\": 2, \"name\": \"copper-ore\", \"count\": 50 }\n        ]\n      },\n      {\n        \"entity_number\": 6,\n        \"name\": \"logistic-chest-passive-provider\",\n        \"position\": { \"x\": 8, \"y\": 0 },\n        \"direction\": 6\n      },\n      {\n        \"entity_number\": 7,\n        \"name\": \"solar-panel\",\n        \"position\": { \"x\": -2, \"y\": -2 }\n      },\n      {\n        \"entity_number\": 8,\n        \"name\": \"solar-panel\",\n        \"position\": { \"x\": 0, \"y\": -2 }\n      },\n      {\n        \"entity_number\": 9,\n        \"name\": \"solar-panel\",\n        \"position\": { \"x\": 2, \"y\": -2 }\n      },\n      {\n        \"entity_number\": 10,\n        \"name\": \"accumulator\",\n        \"position\": { \"x\": -1, \"y\": -2 }\n      },\n      {\n        \"entity_number\": 11,\n        \"name\": \"accumulator\",\n        \"position\": { \"x\": 1, \"y\": -2 }\n      },\n      {\n        \"entity_number\": 12,\n        \"name\": \"roboport\",\n        \"position\": { \"x\": 4, \"y\": -2 },\n        \"logistics_radius\": 33,\n        \"construction_radius\": 33\n      }\n    ],\n    \"tiles\": [],\n    \"icons\": [\n      {\n        \"signal\": { \"type\": \"item\", \"name\": \"electric-furnace\" }\n      }\n    ],\n    \"schedules\": []\n  }\n}",
+  "createdDate": 1746795455299,
+  "descriptionMarkdown": "Я могу сделать:\nСоздать полностью новую строку-принт , проверенную для:\nFactorio 1.1\nWarptorio 2 v1.1\nТолько Electric Furnaces\nПодключить питание (солнечные панели + аккумуляторы)\nДобавить логистическую систему (подача руды / вывод слитков)\nОткрыть схему в Blueprint Editor — в браузере, чтобы ты мог её посмотреть и скопировать",
+  "image": {
+    "id": "2ljw2Zf",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/2ljw2Zf",
+  "lastUpdatedDate": 1746795455299,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/belt/balancer/"
+  },
+  "title": "new Blueprint 0001"
+}

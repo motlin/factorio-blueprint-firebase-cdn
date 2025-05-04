@@ -1,0 +1,25 @@
+{
+  "authorId": "Dpao822gmUMHlnAiFtlAA14dovo1",
+  "blueprintString": "0eNrtWMtu2zAQ/JWAx0IqJPkRxyj6A731WhgCLa3jRSxSICnDbuB/71J0LLmRFcppUKD1JQFfs9yZXWrgZ7bcVFAqFCZdSvnE5s/NjGbzH62hXcNMCjet8VHwjZ0z+xLYnKGBggVM8MKOMhBG4ap6BHYIGIocdmweHxYBowU0CA6lHuxTURVLULThdH7FtQmN4kKXUplwCRtD4KXUdFYKG5bwwiRge/uPQuSoIHNrNHyFnJwjo9CgDC1cxIzPMccBo9SNkpt0CWu+RansgQxVVqFJC5lDKlepLEFxd2IUnFYV8Dxdc5GnFgNqZo2q4FCDChdDW7zY/lGQt8lBGsVRg1aPD4sDnZZbUAoptDY8e0o1/qQMRx3pj4YRG3nzOh6oWOyNPGmQcUNS9WkWN5r1qURr+encCpU26RtlXFE+WBVhMpoxB05M21aY2EFRclLbxmBf6uU/pvfU6esyd63y0kPdd1t0MDj1ZzD6eAIn5wSOo49lcNIixI5n5w2UDCKY7r4Y0G33w5rCvydmJ+AcMrqJConCJYqawku40efJBVmPII2sukfXLSpT0czpCm5HCDxbW+k0WBj/c99dPbQq4CvtkZUpqyuiZ7LcUx4VfcdWShYpCoI51ox/0bwqkqD3FbZFFLDEDyz+Daxu8Q6NH7q+oZeePNuwVDFYc/Qkt1zBLgShMFsXdDoslcxAa9YRxyZzDMQVGtpvMPOop/hiOTUwfhXV+9Qey6n14tJ9W59X9umKaqGaG1ANA+W1ctIrUWc1b9mmgG04NT7NfXMC3cV34d04yuwSPSm6zmc6u0+SWfwQ3SeNYYqsbn/HgMGuVFQ5H+PB6gf03zBhvWbLl8Rr/Ja3QNdYLifQzXi913h58nizX2/ar16b5dsLN6d1c1o3p/UfOa3E12nFXYBh/ZPYa9QjIqfEtpC+eLULIQ6/AFAqpZg=",
+  "createdDate": 1531367485003,
+  "fileName": "Kovarex40ct.png",
+  "numberOfFavorites": 5,
+  "tags": {
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/",
+    "3": "/version/0,16/",
+    "0": "/power/kovarex enrichment/"
+  },
+  "author": {
+    "userId": "Dpao822gmUMHlnAiFtlAA14dovo1"
+  },
+  "descriptionMarkdown": "No chests needed. The filter inserters pick up the materials needed, the combinators keep track of how much material has been placed into the centrifuge and only grabs the materials necessary.\n\nVideo: https://youtu.be/2hRcrum249A\n\nBlueprint is 4x4 tiles, not including the belt... but it's a very simple setup and easy to rearrange to suit your needs.\n\n---\n**Notice:** The U-238 must be on the side of the belt next to the centrifuge. Otherwise the output inserter will not be able to remove materials from the centrifuge once your U-238 is backed up.",
+  "image": {
+    "height": 628,
+    "id": "XrdSP6a",
+    "type": "image/png",
+    "width": 1234
+  },
+  "lastUpdatedDate": 1531698628342,
+  "title": "Kovarex - 40ct"
+}

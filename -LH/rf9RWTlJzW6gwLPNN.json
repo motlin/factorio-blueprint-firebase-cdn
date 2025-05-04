@@ -1,0 +1,30 @@
+{
+  "blueprintString": "0eNqtVMFOwzAM/ZXJ5xZt3QajEpz4AA7cEKqy1iuW0qRy0sE05d9JWhgd68aGuLRybb+8vOd6C0vZYM2kLKRboFwrA+nzFgyVSsjwzW5qhBTIYgURKFGFiAVJcBGQKvAd0omLfm0phcVeS3JGSzgl/qz57py6lwhQWbKEHdk22GSqqZbIns0OwFgPUb7auOUbQa2N79IqnOiR4iSCDaRjj10QY96lWmY/IJNzIcfnIk57iFph/CbkEMPJ1bxF9G+P6e2xrGW2xFexJs2hKifOG7KZrlFlrcip5QajXYJRFJlBZUJ9l9KNrRubHci/JraNkN8OdBXxY5D/C8+TKHYcV8TmAqAn6G5hrAgTNw5BVQsWNpCDO3BdXnXSmQA5CQ/Gom81+WjmXpwbUHY2OD8D5u9J27Pr+rTQudQGd1ce0nov5Zlnl+rdyqRZqBL/1lsy+mn4U+t/2Px42ub7S2yeHrF5vr9ZDv/EY/YO/Y3Xv4DFJ9D8NmrXVtrbpRFIsUQvFTz4iRgZqmqJIyNWOMpZG0Oq9DVrZNNN3OImSRaT2/FN4twHRYflHQ==",
+  "lastUpdatedDate": 1561080932159,
+  "numberOfFavorites": 4,
+  "tags": {
+    "1": "/mods/vanilla/",
+    "2": "/version/0,16/",
+    "0": "/train/crossing/"
+  },
+  "fileName": "P6e2xrGW2xFexJs2hKifOG7KZrlFlrcip5QajXYJRFJlBZUJ9l9KNrRubHci.PNG",
+  "image": {
+    "type": "image/png",
+    "width": 607,
+    "height": 296,
+    "id": "EQAHywT"
+  },
+  "title": "Dead simple infallible safe crossing",
+  "favorites": {
+    "nPYWG002QIY4xgU257MU4800Ezg1": true,
+    "997f3trXZPWP0beItjgxsKRRHeM2": true,
+    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
+    "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true
+  },
+  "author": {
+    "userId": "FiM92MvnQzeLdfYV0gYSbrglxPB2"
+  },
+  "authorId": "FiM92MvnQzeLdfYV0gYSbrglxPB2",
+  "createdDate": 1561080932159,
+  "descriptionMarkdown": "A dead simple \"safe crossing\". I'm pretty sure it's infallible.\n\nTrains can't enter while pedestrians are present. Pedestrians can't enter while trains are present. Only four components: a track, a signal, a wall, and a gate.\n\nWhenever there's any possibility that a train will enter, or is already in, the crossing, the signal will transmit a \"T\" message, thereby keeping the gate closed. The signal will not stop transmitting that message until the crossing has successfully been reserved for the player. So, the gate cannot open unless there is no possibility of a train.\n\nWhenever a pedestrian is near the crossing, the gate will transmit a \"P\" message, thereby asking the signal to go to red. The gate will not stop transmitting that message until the player has left the area. So, the train cannot enter while the player is still nearby.\n\nSome improvements that could be made:\n\n* Add a second gate on the opposite side of the track. The new gate should be configured exactly the same way as this gate.\n* Add gates which cross the tracks, in order to prevent the player from wandering onto the tracks, and to provide an additional visual indication that the train will stop. These gates should be set to close when T = 0 (meaning that the block is reserved for the player).\n* Add a second signal on the exit end of the crossing. This signal should be set to transmit \"P\" when it is red or yellow. This will prevent a train from entering the crossing if there's no room on the other side for it to leave."
+}

@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "DbVHbecFD1giGtQJX6IZdetrIgR2"
+  },
+  "authorId": "DbVHbecFD1giGtQJX6IZdetrIgR2",
+  "blueprintString": "0eNrVllFvmzAQx7+K5T10q2ADQihF2qR2e56mtW9bFRm4EGtgI/tI00V8954hTdMuUZVKe+hDohy++9/d7+yYNc/rDlojFfJszUuwhZEtSq14xq8QWhZmrNBKQYFMsELkNbC50Q3DBTCLwrky1IM5F4bVMEd2YSQuGkBZsK+6yaUSqA0TqmQWcDfqJ4iSoRFSuSQICu1vNaSNMiaVlSUMykZWCySXrZbTcQsURXIK2VJQH05SsM/s5FZUlMDKv3DCTtnJO6bnbHhmB1siNK6M4s/G5/2cNGElmpbaE5uKbqkJFm/i2ELXpVQVk4aUtQF2q7u6ZDkMGeOAdGP6TAOyUi8Igg/c49LVx7Nfa25lpUTtGONdCwTX1UAeSjTOElti/mOXvCcFVcKKZ2Hvvahx9f36m6/kSoKPXQ6+bURd72hE/Y3HCbFECWNRg3E3U12Tg6EkL5Tj8VZbOW6ONXdVpZOzj1OP39HP6SShVG6KRtezHBZiKSmGHB/FZrRcDgLWLcylsTj7p6ulNNjRk201o4d/4Xqx4DRmD3PnWeBx3YIRmz37icJ0h213hPAl7/uxdrfNH6oL3VdlANQuK1kSSPKVpugkjmZ/Q9HRQfeY1ns3v2e4o1fgTp7iLqUZK6Ys/xc+iGKxl38YPJvA6SsmcLF3AoeRhk8nEB4gPDl0NvayPX95Kz8k3aJ8BclLPoo/7l+aeSvMMPOMf+FH7cV4p21nJwdQxEehSN8iivD5sXxKZnKAzHRbFcIK21og+LUwFfj029LB2Ucojnb5LOmUbbZ/Eu5JkRwDPw7eIvyRLl0ww52U7bxWeLwWOVBF/Hq4Vn+AKShQVEAvBx1d+u6fbgnGDm1EaRifnUdnSTJNkzTt+3vN8O7/",
+  "createdDate": 1679029529162,
+  "descriptionMarkdown": "Step 1: connect a cable from the station to the far left Arithmetic Combinator and set station to **Read train contents**  \nStep 2: inside the right combinator set the constant value to **a = 'wagon size' * '# of wagons' * 'item stack size'** (for example a train with 4 wagons holding iron ore would be a = 40 * 4 * 50 = 8,000)  \n  \nCounter reads in digital display format, can work with other mods such as [Supersonic High Speed Train Mod](https://mods.factorio.com/mod/fast_trans).  \nMods: [SantasNixieTubeDisplay](https://mods.factorio.com/mod/SantasNixieTubeDisplay) & [Text Plates](https://mods.factorio.com/mod/textplates)  \n  \n```(Each*100)/(a)=x%, where 'a' = wagon size * # of wagons * item stack size```",
+  "fileName": "b6492f129b2c09dbc5b9b6da884744b1.png",
+  "image": {
+    "height": 95,
+    "id": "JTNpdZB",
+    "type": "image/png",
+    "width": 304
+  },
+  "lastUpdatedDate": 1679030033042,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/circuit/counter/",
+    "1": "/mods/other/"
+  },
+  "title": "Train Percentage Counter (Modded)",
+  "favorites": {
+    "DbVHbecFD1giGtQJX6IZdetrIgR2": true
+  }
+}

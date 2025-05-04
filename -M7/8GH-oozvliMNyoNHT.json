@@ -1,0 +1,30 @@
+{
+  "numberOfFavorites": 3,
+  "favorites": {
+    "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,
+    "mQLb7bpWqBhZj5sDRQC9qAEJw4f1": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  },
+  "author": {
+    "userId": "Y9pLrcdrVOV2v7nOPNsvZkfuC4k1"
+  },
+  "authorId": "Y9pLrcdrVOV2v7nOPNsvZkfuC4k1",
+  "fileName": "as1.png",
+  "image": {
+    "height": 289,
+    "id": "wqUoDti",
+    "type": "image/png",
+    "width": 441
+  },
+  "tags": {
+    "1": "/mods/vanilla/",
+    "2": "/version/0,18/",
+    "0": "/general/early game/"
+  },
+  "title": "Assembling Machine 1 - early game - 0.18",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/as1.png?alt=media&token=288321a2-a989-409c-8825-4cc9346eaf8b",
+  "blueprintString": "0eNqdlt+OoyAUxl9lwrUkgv863s0D7BNsJhu0bEuCQBB3tml89z1W1xlTamF6Y8TyO+d8HD64okYO3FihHKqvSLRa9aj+eUW9OCkmpzF3MRzVSDjeoQQp1k1vrO9510ihTrhj7VkojgkaEyTUkf9FNRnfE8SVE07wmXd7ufxSQ9dwC3/YJyXI6B4mazVlAECcJ+gCDwoxLG+F2UniLhhdgwnVc+tg7D4AnQNkEOAoIMT8rfTgshX3ofWRK9yeee88SPKJbNhUtAeWRwpBPTq02hhuccsayX31FxH1k2391IMrI3D0Oa5acc4y1RttHW643BGUjB7MYcUM0IP2ZDU8n4Cm7Jb21oMzg/Op97qC+45JibmEaqxosdEg9x073cmRpAHS5cELQUiwdIUX6utuQr+3NTcdKaxW+MSZxR9nzqVPVpLF6bqESb265iEtmS2AjQS5D1fEtqR/tctYjL+4KqC4dEnjec8cvmU4m9WdV0orWKtW2HYQ3n1DIjcOfSwBDdk3OxLSz43yW0iYjR9jCm+XJMvE+TD7f8qt1MWBjWQOHPjdl0LEIRRgmjSL7a3MK0we4ZrpwtlaSICD0iLem79Ys1CPuGXwzqDPjY9WEVnm+1o8TvkQadkB9xH6Gtvdkxq7/Xzz77Wb4S53u/3VXy6LCZIM8oaxt9VGXn7MNvIy2cgfgN/iVlVG4FfQMh/Hf8B0dxI=",
+  "createdDate": 1589293424814,
+  "descriptionMarkdown": "It's not optimal, it's not efficient, but it's compact and makes those machines you need. Just delete the filter inserters.",
+  "lastUpdatedDate": 1590237137791
+}

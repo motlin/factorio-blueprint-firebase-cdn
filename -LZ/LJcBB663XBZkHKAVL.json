@@ -1,0 +1,23 @@
+{
+  "numberOfFavorites": 0,
+  "title": "Three-way comparator (oil products)",
+  "author": {
+    "userId": "yXe8XqjwQBeUNo7oH00ELNm61rI3"
+  },
+  "authorId": "yXe8XqjwQBeUNo7oH00ELNm61rI3",
+  "blueprintString": "0eNrtmE2PmzAQhv/KymeogkM+FqmVql566KGHSj1UK+TAJBkJDLJNVBTx3zsm1SYhJAvsJm2kvewKPO9rxo9nTNiyRVJArlAaFmwZRpnULPi1ZRpXUiT2nilzYAFDAylzmBSpvdJZgrG7LCBhlcNQxvCbBV7ltAiXSYHxXrkGsSndDA+FvIswwdXaNITjLsIcjMoSKFJ3JfSB2K+eHAbSoEHYJV1flKEs0gUoyufZIoUYSQ8JREZh5ObkRxPkmSZxJu3cZOiSoKR/fmUfq2HGn81iiDAG5UZZukApTKZarPjOavxhQg8co6KJ61HfYcTIJhQuYC02SGqS/PUMaSyufbS9u0SlTdh7fTRYm7AXEEomF6pOJmCfKCgrTF60TL5BZQq6s99KdYT7eeeSl5RDIU24VFkaoiQPFixFoqGqx6XcrUSdn2f/KIgP4dETBmOKRBUVaOpLr3oiLT8T7I1Ooh22UgCyGTk5tW0jPe5FenQ70EfAOkI+Ktf/CjJv0nCOhv0+e2DedQtMu20Bv9cWuGGtH+HsuAVO+sP91vpjV86zbpwng5r66BqgX1hrqY2wZ/yoge/jLfG1LnWjjnnPQm3lMh3Sgt+xXKgr3rOuWrHMhrTFdywXjjXe99Wmlct8SBvj/5ALfwMu3653CPHGu8jkFbXEzzB7HNDi7h3Z1zdE5l9GNn3FqdT0apbhOaQ2rnd/vHem36/3k6DJYXaFMvQGfiTwK/vuWX9UCQ6+wTgsEQugdWM/1tT+H36K8uHLfokdtgGla7PpfMb53HsczXhV/QGt7RmS",
+  "image": {
+    "height": 408,
+    "id": "cv2lRco",
+    "type": "image/png",
+    "width": 504
+  },
+  "lastUpdatedDate": 1550857700234,
+  "createdDate": 1550857700234,
+  "descriptionMarkdown": "This logic array was devised to balance oil products in a playthrough with WhistleStop Factories mod, where one can't just build more or less production capacity (well, not easily).  \nUsage:  connect red wires to all your storage for oil products (heavy, light and petroleum) and on the same line link the top row of deciders.  The output on the bottom row will be H=1 eor L=1 eor P=1 depending on which product you have most of.  Link the bottom row, again on red wires to all the inserters which control output from chemical plants making solid fuel from each of the products.  For the Heavy -> Solid Fuel plant, the inserter works for the condition H=1, for Light, enable on L=1 and, of course for Petroleum, P=1.\n\nYou could make it more compact, but this way I can see where the wires go.\nMaking solid fuel from light oil is the most efficient, but you can't always be efficient...",
+  "fileName": "ThreeWayComparator.png",
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/general/mid game/"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "u6rjcGQIIqhhXNZvEgKe0WJzkl92"
+  },
+  "authorId": "u6rjcGQIIqhhXNZvEgKe0WJzkl92",
+  "blueprintString": "0eNrNV/9u2zYQfhWCf1OOf8lOBGxAsaJAUXQzlmAIkAQCLZ1rIhKlkpQzI/AD9EH6YnuS3VGyJTteXBdDUesfiuJ99913R/L8zOdZBaVR2vHomadgE6NKpwrNIz6TRubgwLD3uqycje51wN5VkF1YSAqd0utbsMpAyt4kTq0kGbJr9UnLjLmCzaq8tPf6Xl+DTi2T7Rpbr1kUhrklMJkXlXasWDCnkkfLQCZLVjthGiBFBwiXS4fTNQFWmiKtEg9mpIMe+63QGhIEqRySJaxMWsdSSFSKIaB9SXSYREwLjvzmNAtazjN08LQE7ck03JRlgx6R/8PrgTMflVZ5lbPrEimxlUTlWreKJGKfDCDKE0pyjAChL6u5p9DQtITVYx8AkFpNECOaQ1Y8sbzx59cQZ0/njbVVDhiHX+6DJ1+DYb9/YXtccIWyWR7dPfM6EkqsxkRiRm0pEwjKTDpUPg+skwbTG+DsI9+gpU7hbx4NNuKILXnrLBoeXeSWprII2Vk4OrpQGuWWWFwqCZIinystXdG1Gm8eBAftlFNQB+Nf1rGu8jniRwOxhaJwndSuCyR4WVhV1/EzR7xJ2AsFX/No2gvRC9o4U2TxHJZypdAAV2G9kYHdH6PnrSyCL1SGwR3OunVJPFbKuAqD3BGrgw5ucOYzfkD2OKlReL8I2Za4wYhtxH/xExXtQq/+VuST4LPzwKdhB30kXqTtLLDL/uYBH5QTK2oNJt4/Pm5UDr7UZ+1W/ROrlROFg2wOxeuF8TKfE5/Nic9mivstqT+Oj+e2RY3pUFG7RC+UsS5uy/Ok3OiuPpjibd0h+77gRQlGNpFfoF29v78d+Xe+wd9LZdokNQfJ67JMO0V+WpYG8kCT7tvd2RLd8Hp/NdpM+rSTazUOT6XTSFReR0QZn10ul/9nuXSj25XDOZneL5fgO8rl9j/KJTyvXK5+jnI5V8LbusY6x9I/X75ysec71uCeCvPoOWKLwiNnKhDcX9E8WsjMwqHrb7Ih1c8M8q+jQR65M18PwPvfsSFqPzSAPcF/5d/FtsaAuPGH1wM/eT5IUqdQaZAsK/3Yciu3/WnQr+mV69hfTfHCFHnsO7JtzHSOoB/qzMjL3UAMxEgMHgSOhvTgaCjG+NBo5L+O/GgkQr9u3IwQZee4JtzQVGlL7UU7TH1ZesB5d9kGuy1EUZ++gX0GG6/NxhfbQcQv+y2PvZaVv2o2DVsz6rHZDJvWa19cPkXKQY6f2v8LgmcSG1W66ZsKpmaYDo3MI69QHx9SOBleja+uwvFwOhpeDjabfwGyfEy4",
+  "createdDate": 1731045377956,
+  "descriptionMarkdown": "Parameter Inputs:\n- Fuel/second\n- Desired Activation Signal to Pumps\n- Minimum Speed\n\nSends activation signal for the amount of ticks each second needed to match Fuel/s production rate. Connect output of last decider to pumps and set them to enabled when the signal is 1.\n\nOptional Minimum Speed value. Connect input green wire of last decider to the hub and output speed from the hub (Signal V). Keeps pumps on below minimum speed set.\n\nAssumes a pump rate of 1200/s.",
+  "image": {
+    "id": "MRbM2R6",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/w4877Q4",
+  "lastUpdatedDate": 1731048901459,
+  "numberOfFavorites": 5,
+  "tags": {
+    "0": "/mods/space-age/",
+    "1": "/version/2,0/"
+  },
+  "title": "Thruster Controller",
+  "favorites": {
+    "xoJ2jDLezVZwdTMf6DVkVaLOOlW2": true,
+    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
+    "lWO1jwAhWxf3Dgb0vn5fUUpBpeI3": true,
+    "KzlPKaNhLOcP8xEvPY1Dfsy73KH2": true,
+    "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
+    "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "cSydlgEGPveuaSmsliTLlsBmC892": true
+  }
+}

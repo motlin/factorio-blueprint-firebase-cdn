@@ -1,0 +1,34 @@
+{
+  "author": {
+    "userId": "kcvzysi0veMA0xdswpJQEzo9mty2"
+  },
+  "authorId": "kcvzysi0veMA0xdswpJQEzo9mty2",
+  "blueprintString": "0eNrlWu2OoyoYvhd/40a+FJucK9lMGluZGbJWPaidM5n03g9IWzuttEC7m9lM+uctvjw+wPsF+BGtqoG3UtR9tPiIxLqpu2jx8yPqxEtdVLqtLjY8WkTPzVCX8j3agUjUJf8vWsDdE4h43YtecNNp/PO+rIfNikulAA6dNWxf1H28bjYrURd9IyMQtU2n+ja1fovCi2GCf1AQvUcLnP2g6kWlkHxtNBjQIL1squWKvxZboRBUt8487z7LisqBI4ieRdVzed7av7fjqKpBlNGR56ZRurVi2bZcM/x3KCo1IvWkbuRGzYdmsWkLOY5gEf0zNgx68tRsqN9uBy6mAXlPA/oa0yCkeuWDJgEfwVvR8rhv4hepLeq6GeRq/DNgJAiMXUzmDDT1gUZe0Okn6OuAloFnPuzgKdgndhDNYDN37JxZockMcu6BnPmRhokHNvZiDaEHNPKkjdyxWe5HG98yM8ZuWBkk7pZKoAWDemAkFozJY1ZD9SsWdcdlz+diZp6e8nFYgMmTSr4WJZfXY/KEnzgF5D3oUj0rxTE0n/5TYfhZyK5fXmRaHXbjF17I+O2V80pnXBXTVVcn1VPQZc37t0b+Gl8ueRktnouq4yB6kZwr8r0c+Dn6ZR+tdewyAux05m+Gvh3682phn1DU/JhVP2S+outF/RLPEFbJ9n055o/ls2w2S1Er2MOL5pMJZO6GQayGMes9uadd0D9nF6YqidfFquLXjOJc72tbxDnbAHNAieeikT/szGqk6183/fio9Re48JFryHKdJNai68SWx61stmbdXnnXX/Uz48Zzy7QWcj2IflqmJa+1VZXHIc9wQc7Z0pbpkHvCtSU65JBwD8ULwRYMGlIUE+RSuaI0pCoesefQMo/SwDbaKQMcNqYzRpNbR0ls+6h+ubf7g2eJnm/2u6byxGOVxZaDAtsqVvFGyRWPUTTp602Wcoat4t0ocmbXdfynXq82gsqDFoke3OwTaH2CrE+wdrmnufnKA0op7FRK4SQAGrlBw4A8j13yPEYByMgJGd8T3fBDoxsm93BBj+VCXTwWXjEQEG2ElJqBSWffyoGxRwie8o0lAuPMPWVZAjCeAnA3rBT7sfdcKCcGZx4l90gF1HIYlHhgEAsGDDlYGRndjmIEBZysXGLPBRsyBZsNL8WwiXml9KVYx21T8as50TadJOC0xnUmphiw4sV61mCm+GMwLe7btZyX/n4LrX4LT/zW4oMkDThsclzILOCwyXXWWcBhkyPt3D2QWOyNJu4QFu+l0C0WsexKKKLII4xkFiLYAyO1YJCAcipzMgRKA4qezMUOaHpPoZE9tNCgHsnNto7MHcK2jHnQlsntIsEn41nOeFPotYFiMxuob1yNpSjASd2uBlIcAM3coEmA/ztdOqQhkYU5Id8VWdhDI0ua3cMlfywX5rWdYnPbqe/lsnnIBsopHmceJYztYhe6h3RqOYjMPCoYajmJzHDIRoi6XbplJGAjRJ3ubTIaeJ9H4e7xh/5dz3kVt1XRX72oOVP72sf+I9nAE/8sDdhTuhpVFnhj91tWfn+bdXPpz/X+hju60MVngbdzv2WBxturm8vzWevr38eFLk0ecKDhFpBZEnCg4ejyzPfDwtyeqB79Qd1MaPf6gg4lyb4gGhGnlH5ikvcAYjAbgu6BJMD2Oco9qBTMfs9wD2QKZu7b7wG8OGnwhbJ9LclCvg9zdEz362pbocmIO8RYZ6rQ9qZYaV/5CTMAAcwBfAJGJvggI92OjIy1jA8yYkZHdQMoOchIy8jIWMtaXzcBBMd23QQwHfV1E8DEtCs4kMKxHeOpfZRpamSqdcx7MQNU86QHmcJR1tRBZvB1N5Cavhpat2s+6diemXY9RtU+ypqDyo1aR0MAVchAIyMtIyNjLY86mdGHRkZaRkbGRxyNyfS4nsw2TO/Hj993g2ir4tW4SjRFOclzSilkJCW73f+1iCu5",
+  "createdDate": 1738222743087,
+  "descriptionMarkdown": "This is a compact yet simple design for building your Vulcanus base. It assumes you just landed on vulcanus, built a few foundries and have a functioning robot network. It can supply your mall with all the foundry mats needed with the exception of pipes (since they break the productivity modules). \nTo start it you need to hook both molten copper and molten iron at the combinators to the top left.\nIt might be a bit power hungry but it will produce the basic foundry mats quickly with a decent productivity.\n\nFeel free to replace beacons/modules as you advance.\n\nThe constant combinator at the bottom right is to choose what materials you want your foundries to produce.",
+  "image": {
+    "id": "UAJ240m",
+    "type": "image/png"
+  },
+  "imageUrl": "https://i.imgur.com/UAJ240m.png",
+  "lastUpdatedDate": 1738222743087,
+  "numberOfFavorites": 6,
+  "tags": {
+    "0": "/planets/vulcanus/",
+    "1": "/production/smelting/",
+    "2": "/production/mall (make everything)/"
+  },
+  "title": "Vulcanus Magic Box",
+  "favorites": {
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "9dyl2G4vrpXFcZjhozx3idzIIx32": true,
+    "F1EZYAnF4ScMH4D74pFWUwt212G3": true,
+    "ZCdZvG7ntGbzG03U81dfaiGrInP2": true,
+    "Rl6CICs726S4403veEi3cEfgPoH2": true,
+    "l71M9Ok4CwQosRW1BuHBcIQ6Mco2": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
+    "x7rFcsfZydeaL7n39h7uxItkZpK2": true,
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "author": {
+    "userId": "4TvFrMSikYR1XvUElhdJavVTLVI3"
+  },
+  "authorId": "4TvFrMSikYR1XvUElhdJavVTLVI3",
+  "blueprintString": "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",
+  "createdDate": 1744484557975,
+  "descriptionMarkdown": "Compact recycler block which uses circuit logic to calculate which items are located in the chests.\n\nOutputs +/- 47 items per second, 2 normal stack inserters can handle 48 items/sec from chest to belt.",
+  "image": {
+    "id": "ZnefoH7",
+    "type": "image/png"
+  },
+  "imageUrl": "https://i.imgur.com/ZnefoH7.png",
+  "lastUpdatedDate": 1744484557975,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/production/scrap processing/"
+  },
+  "title": "Compact recycler block with smart stacked output",
+  "favorites": {
+    "trWv1wAzqteajsouFPXqsQIbXjZ2": true
+  }
+}

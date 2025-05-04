@@ -1,0 +1,34 @@
+{
+  "favorites": {
+    "lfrRNW2mcIZDTp4xqCUcaRGzNQ92": true,
+    "N382F0QaJFU620TkYGXjAHPQqeM2": true
+  },
+  "authorId": "RiNvmCE4FzPjV8H7y9ozfMmkG7E3",
+  "numberOfFavorites": 2,
+  "tags": {
+    "1": "/general/tileable/",
+    "6": "/version/0,18/",
+    "5": "/version/0,17/",
+    "7": "/version/0,16/",
+    "8": "/mods/vanilla/",
+    "0": "/production/advanced circuit (red)/",
+    "2": "/general/compact/",
+    "3": "/general/mid game/",
+    "4": "/version/0,15/"
+  },
+  "descriptionMarkdown": "<b>Tilable advanced circuit module</b><br>This module is tilable per 4 assemblers. each 8 assemblers you have to build one assembler for copper cable.<br><br>This blueprint can also be used for other recipes that require 3-4 items.\n",
+  "fileName": "Red circuit.PNG",
+  "image": {
+    "height": 754,
+    "id": "GrcTDTU",
+    "type": "image/jpeg",
+    "width": 1512
+  },
+  "lastUpdatedDate": 1586537957792,
+  "title": "Advanced Circuit Tilable Beaconable",
+  "author": {
+    "userId": "RiNvmCE4FzPjV8H7y9ozfMmkG7E3"
+  },
+  "blueprintString": "0eNqdlt1ugzAMhV9lyjWRcKDQcjftMaZpSsHrIkFASahWVX33uT/r1hVowhWChO8cB9t4z9Z1j51R2rFiz1TZasuK1z2zaqNlfXzmdh2ygimHDYuYls3xTlZbqUuseKlM2SvHDhFTusIvVsDhLWKonXIKz6zTze5d980aDW34pViLzbpWesMbWX4qjVyQRtdaernVR3UCchGxHV1S0jBYqm7EwJ2QCBSCmTrJVedDWseVtmgcLdxHkpwVBClUijTOa+kAM70y65Zcf0o63GoKDT/oAdgiEBZPsDLfYIV3rPkt0hmpbdcax9dYu9FTjG/BYgC8vAX3FLbZmJau02gO/9jRtQp01w/mwCowBuEbA8RXcoOV6huONe03quRdW+N4ucDQ1wMI9AnePsXMjIXHCQJJmOvY23Q6rzJ8PC/CPPsfdBYG9s+0PLRcxINqaXs3Ui6wDM2Wc2V6dBNYzUMP1ouIvXs7XAwOUSC4EcHFU/DJCuHrOJ4wnIQajqf9jvZNkQa2N5j4WKH/OeGbUyKbRR52mc+bf8LHn+Ws+eeBDg13p1Gw+DM5RqyWlBb07Pmy/+nlsj9iWzT2pJEnMawyAUmeHQ7feTeAjA==",
+  "createdDate": 1586536197165
+}

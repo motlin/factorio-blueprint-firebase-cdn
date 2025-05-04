@@ -1,0 +1,51 @@
+{
+  "createdDate": 1539098706081,
+  "descriptionMarkdown": "Never run out of power again!!!   This device helps you avoid out of power situations.\n\n- Monitors power levels.\n- Takes actions automatically to prevent power outages.\n- Alerts you of the need to add generation capacity before you are in trouble.\n- Alerts are not annoying.\n- Low tech.  You can get it with Red/Green research.\n\nHow it behaves when the power drops below your minimum power level for the factory line:\n\n- It disconnects your factory line from the power grid, so that *this* factory line no longer draws from it.   The disconnect helps prevent a cascade collapse of the power grid and buys you time to increase your power capacity or if necessary to remove whatever caused the power drain.\n- It rings an alarm - once.  No annoying alarm that keeps wailing until you fix the problem.\n- It displays a global message, so that you can be informed of which factory line just shut down.\n\nThe idea is that you hear the alarm, look at the message, and calmly go fix the issue... long before it becomes a serious problem.\n\nHow to use:\n-  The concrete is there purely as a visual aid.  If you don't like it place and re-blueprint without the flooring tiles.  Same for the radar and outside poles, they are there only for demonstration.\n- You may place this device either as an integral part of your factory line (I do it in all of my permanent factory blueprints) or keep it separate and just run the power from it to the factory line.\n- Connect your power grid to the center pole (like I did with the medium pole in the blueprint).\n- Connect a copper wire from the free end of the power switch to one of your factory line's poles.\n- Choose a minimum power level for your factory line and set it in the constant combinator.  You should choose your own, but here are some ideas for minimum power levels: 20% = Core facilities, like your low volume production mall (so that you can get the resources to add power capacity).  30% = Smelters.   40% = Oil (and derivatives), high volume green, red, blue circuit production.  50% = High volume mall.   60% = Science production and labs.  70% = Rocket production and silo.   80% = Other things.   The idea is for the least important things to shut down first and to buy you the most time possible to address the shortage.\n- Edit the message in the Programmable Speaker to something meaningful to you.\n- Do not connect anything in the factory line to the external power grid, all power must flow through the device.\n- At least at first, use the concrete to guide you when you build near the device.   Anything in the inner hazard concrete square will be powered by the external power grid.  You may place factory components inside outside that inner square but avoid placing any poles in the external concrete area (to prevent connections to that center pole or main power grid).\n\nFactorio forum discussion thread:  https://forums.factorio.com/viewtopic.php?f=193&t=62886",
+  "fileName": "screenshot_23926672.png",
+  "tags": {
+    "0": "/circuit/indicator/",
+    "1": "/general/early game/",
+    "2": "/general/mid game/",
+    "3": "/production/other/"
+  },
+  "blueprintString": "0eNqtWkuO4zYQvYpBIJvACkhR/rQxWfRkmwGyyiZoCLRE28ToB0rqjjPwAXKQXCwnCSnZbrctd+tVZtEfSVUlsuo9lljFb2ydtbqypmjY6hszSVnUbPXHN1abbaEyf6/ZV5qtmGl0zqasULm/WpttoDOdNNYkQVVmmh2mzBSp/pOtxGH6oX5Vvmgb1C+mSXYXquEI1VQnJnXKSZmvTaGa0l4YkCMMqLrW+TozxTbIVbIzhQ7CCxPR4WnKdNGYxujeF93FPi7afK2tm9/ZklWpss5wVdZOuiz8K/0spmzPVsHDwQ/mSjk8K9e5yrIrJ94zNR8yJV9nZE2zy3XjzFx45cZYIHpr/KeZm64LdWPLLF7rnXo2Tt4JvRqK3eO0U679g42xdRPfOPbZ2KZ1d14n1UkEWvVhrbU3423VjfIQ80MoK21VPyz2o1Mt26ZqYeOHfgqFc99pkML/2lqti8uwmdTF1Mkam7Sm6S7Dw5PTDr241em18Mw9HfJ39B4E7zlb3PX10cj/c/TjhZdHK/3KuiHllbLd2FfsEyEMn3sr1d7NoC2aeGPLPDaFs8FWG5XVGorQw0chmQ7rybeRFXdiN3tdeWy5tSrP1TrTQV1p9VUPRI/3wbsTutMbz6EjRO7ovhMxxFVEfu4eH9/jbztWats5sTcQPyu3csemjqtuEe197lexurFt7ubfOcRNpCgb3f9/LyIDHr9hzPQ9t3tCOdtvx1llar9Wydf4ucxaP3U3x/O9bVau3frnnOxG64bt/i9fYrcI7qtdWexPEPIPtL3xwM7Jdg9O6t2dsohzVZ1u+Vx2DEc3RiST9S/NdV2rrRf6zaeryaeJ5D9Mgsnv3XwmX9yYJ6mpPZJSNoS6+XC+u0GbWyQ6vN1fmL8H4r7TWvHv3/8wArV/afn1g8WUvRh7wuaTlxHXMuFbmSEvL7CU2lM7HLK0PFs6EfPdJb63JO+EbGOyHq9DX1MfuLv1S4LkF59UT6jHh+b38PrFkCRt3mbD8zrBMbwLRzRXPGKIWV6tNvOr62jcoi/4eRy5Tk2bj4OG+25zWGxMdvz8u07si56rh7PxnfpL2dRBpUisW6OCTG8a5sczrCnImiFZU5I1I4LmvP/ODOmqgqx6EZeTyjvSApIOIWkJSUeQ9IzsnzlBs18OAklXHeu52U34R4hzSBqzjQ1cQtIRJD2DpOeQ9IIQ2agPVURXHeutCMNQhGEogjAUQRiKIAxFEIYiCEMRhKEIwlB0jaER0ksCbCQdcRJDnMQQJzHESQhxEkKchBAnIcRJCHESQpyEECchxEky4o7ltxldday3QgygIQbQEANo+NEXrjXb3XvTFnTVkK4q6aoRXXUGOXUOSS8g6SUk/UAAtaDzQWB8EBgfBMYHgfFB0Pkg6HwQdD4IOh8EnQ8C4oOA+CAgPgiID4LKB06mA4fYwCEycIgLHKICJzOBk4nAyTzgZBpwMgs4QgKOcIAjFOAIAziVAPR8gKUDLBtgyQDLBfRUQM8E9ERAzwP0NABlASgJQDkASgHkDEDfIGD7A2x7gO0OsM0BfW9A3xrQdwb0jQF9XwBtC6BdAbQpgPYE5C0BvSaDlWSwigxWkIHqMVA5BqrGQMUYqBYDlWKgSgxUiCHXYeilZqzSjBWasTozVGaGqsxQkRmqMUMlZqjCDBWYofoyubxMb3JhPS6sxQV1uKAGF9TfgtpbUHcLam5BvS1ya4vevqZ3r6HmNdS7hlrXUOcaalyT+9bktjX5nAb5mAb5lAb5kMbIMxpP0/7U2+riuPeUZWqtM3fvc5tlabmdPLZNGfRH3b6oQm3d303pflTSlHY/yUyha6f2rG3djWC+XIThUjzwRXg4/AefVzlM",
+  "authorId": "RDhBatqCXUcqMPbhcr3WtbKBFBn2",
+  "image": {
+    "type": "image/jpeg",
+    "width": 608,
+    "height": 736,
+    "id": "F5QlPAw"
+  },
+  "lastUpdatedDate": 1539099312890,
+  "numberOfFavorites": 32,
+  "title": "Bulldog Automatic Power Manager for factory lines",
+  "favorites": {
+    "qZeMchEZzuXWhCGlg2v1wo4vcpz1": true,
+    "e9quzsWkqaTtNKW2e6nx2l5WVvl2": true,
+    "fSogiiSwkFS9rANVMlhtEAuE9772": true,
+    "f0ifD4hyuBajLMwXz4RJkmfvQOH2": true,
+    "wJTgxTSUSTW8pxP8gHJORPznqE52": true,
+    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
+    "SOvRIpJ9wRTBCNhLCYb6krqgn4U2": true,
+    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
+    "Rjt3W2N86eaJWs3PfdYoDqvt3tQ2": true,
+    "tWDfsnZh0ASGmzuglizJFuO4zgQ2": true,
+    "WTsGHvtFyuSyrx9NL9tKd6hRTqw2": true,
+    "ix52CIsBg8ejKGfVds9TyN1Zc4t1": true,
+    "CYCFZUse5fcF3jOyE364GK83GMl2": true,
+    "26i54FAUW4SeMyjvmHoPjGUBCnE2": true,
+    "W3SObEod8PVZM2Df2YH8ySJKtF02": true,
+    "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
+    "IXmgptQWkyN64E1z5S9Aw5qTQeS2": true,
+    "uYTWKQo7sYaedbAgG6nxRGTub5H3": true,
+    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
+    "YY7MjrW8UKewDHdc9kQ1McG9dq23": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
+    "LcvhMqqqPoWifE4vUd9nQwg10rE2": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
+  },
+  "author": {
+    "userId": "RDhBatqCXUcqMPbhcr3WtbKBFBn2"
+  }
+}

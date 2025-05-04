@@ -1,0 +1,32 @@
+{
+  "author": {
+    "userId": "Mu63dqvEiqPz1eWrhdpCPBRPxlI3"
+  },
+  "authorId": "Mu63dqvEiqPz1eWrhdpCPBRPxlI3",
+  "blueprintString": "0eNrVWktv4zgM/iuFz/YgsiRbKrDnOS2wlz0NisJx1FYYx/b60W1R5L+vnIeTTKSalLqHAQo0fn38SJEUKekjWlejajtdD9H9R6TLpu6j+x8fUa+f66Ka7tXFVkX3UdH3aruudP2cbIvyRdcqodEujnS9UW/RPdnFlo/arilV308fjbUeLt5Pr98f3tvp/b4tSpVUTVkMuqmj+ITzXKl1cfE13T3EkaoHPWh14Lu/eH+sx+1adYbO/Gk/rvvhBNc2vd7/NCLf9m+9T9QnLr8ApDOAems7o0MydEXdt003JGtVDbdg9Bs/wH3jhuhGd6o8PGUWeHoDPxrNuueuMf8dAlKngPhkv2Yc2nEy841AhtaHY/ThaHiGgc/Q8DkGPkfDZxh4gYaXGHiJhhcYeLJC4xOCEkDwAlYoAalHtBG6HG66dkQboXiVUpRKDJbgpDvDkXPMrsfqZ6LrXnWDeeJ0dsPQCpRBgeQCUO7vaRRkNQFlOuOme9wnXZnXDjPNacKbodqq6AddJutiAvpnLCoj09yvm25rZrc4KpttW3TF0BgK0R/RNHeNvXqcQYduVDa20t+JbswhbHPcObKts7vTEdge3WDrfRioykjpmtrYoNRdOeqJ2eHp4405bDwIkof8n3ik/v7HQQan/gIYSADzd5kbDUhqk8D9JcBUyHyS9VFC7pGr03PWWauitKVRegWvB7U9poLNRa3bt0ptkm2zGSsVnV+bEsajrl+N1KZ7P2aQ+cp4vkne5c/ofjVRsz4hu4ed+bMwFx6m4sumcleRqYQm0JOYDDLm9JyInkwuBRd3OajUJh5WygIciqZQI+UXRrIBndNFb1JWlVTFtnVzdaEwD/1liJdQfj2cy+JEiLnR5QfMJ3MorFiwv8Bag5Ag60v/cjqHWIatfDI0cRp/eYgZAQXCrIZjJBg4MAl1GcQ6KbKAch9m8oB5HeTtDNwMnMZRgGAz7HwBg82xIQ+DFf7lmQQJCAhNCVqGCQpN4Q5Nd7rhAd07aFT4OWqrxvQFL4XRaAMJXgkKXh4QvKBR5yxk+UHcKgEZlYAyHTYqGbJnI9cRPjdtxea1qEszoMst29eW3uyi9HYU2BycZ0juHi4bsE/lTgTAJZxzKJfIAZvXo1bXA1Y2bau6pCzWxtio/jrDrjfwr6eAXWoQX08hYJXhyGIhNjOKrnMIAfltFlCH3Iqwcue+2f7WNnYVsgAVYObPfVPj0US/RW7MPIqlk5qgxdpM+m/BgQTk+I2NFCeAQONwxk0hDpan/pt5MOLUfzsPJoBh+wKgZbj/RiGMeOa/VQgTkKPWfIhjKyUXAYs+FqbL9UUesA0JsoxYYRdkYD4jSMB8TEFzjkgDdjiBIihuicTlOILhawcgw4CWBCoiC9roTb1aLZEH6AXzUK9uIQdE8ydaSXTrY7Of7biCx3kCXKaQJKS7+tQNnOlPpuitZQLbcZPwan4ObmYPbukR3Bxk8XNst6bm1a8qabvmVW+mFulF9Z/GAHeQ9V5hIMyykDUX1b+eSUM1b/Ic7K35Jhma5OBVn1S7sDVkKTw3wUlmie8v0lbCtXWraz9UtLqC/gzQsZpPVgTOjuIGg6zSJXrpJaIVgi5B0EUNGZiFE4IvQfBFiGwJgi1CIMJGIB1JYI56Sjs9iTpNZUAe4uhfQ2zqt3+QmMeExfwhPvw0jPa/2f5CHi6mm8erh0MTPiXh+extHFWFmZfMvT+nTr3o7v6aA/fubxO4/d1T091935+DjaNX1fV7XjxLJZPS/KOSZnS3+w9mxHSV",
+  "createdDate": 1743892676022,
+  "descriptionMarkdown": "# Processing Units (Blue Circuits) for Gleba\n## Abstract\nThis blueprint produces 0.26/s. It is aimed to take care of rocket production for a few rocket parts. However, it is fully tileable, so you can enhance the production as much as you want (obviously limited by the belt size).\n\n## Perfect together with Nilaus Space Age Blueprint Book\nThe blueprint fits into the substation grid provided by Nilaus in his Space Age Blueprint Book.\nYou might run into issues with roboports on some corners, but in most cases you can just try and mirror the blueprint or change the length of the underground belts/ tunnels.\n\n## Notes for the setup\n* I would advise using a belt for the copper plate input\n* iron and plastic can be delivered via robots (they have to be put on the top belt)\n* you have to built a small production of sulfuric acid (one chemical plant is more than enough)\n* can also be upgraded to green (and blue) belts",
+  "image": {
+    "id": "OuiYFFy",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/Df4XjID",
+  "lastUpdatedDate": 1743892905987,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/general/beaconized/",
+    "1": "/general/tileable/",
+    "2": "/belt/express transport belt (blue)/",
+    "3": "/general/mid game/",
+    "4": "/general/compact/",
+    "5": "/mods/space-age/",
+    "6": "/planets/gleba/",
+    "7": "/production/processing unit (blue)/",
+    "8": "/version/2,0/"
+  },
+  "title": "Modular Processing Units for Gleba",
+  "favorites": {
+    "yAc1AieqpRUc7n5EtmX9WE3aH783": true,
+    "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "lastUpdatedDate": 1612548162078,
+  "tags": {
+    "0": "/circuit/indicator/"
+  },
+  "title": "Belt saturation indicator",
+  "author": {
+    "userId": "qL1BdS5UyvT3Fe8UjlxCpQpgQXW2"
+  },
+  "authorId": "qL1BdS5UyvT3Fe8UjlxCpQpgQXW2",
+  "createdDate": 1612548099378,
+  "image": {
+    "width": 281,
+    "height": 310,
+    "id": "XBdX5AI",
+    "type": "image/png"
+  },
+  "favorites": {
+    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
+    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
+    "9n3V2tSzmedTbViY99rgyBIreBD2": true
+  },
+  "blueprintString": "0eNrdVk1v4jAQ/SvIx1VSLTR8aruHHva0/6BCkZMMYCmxI3uCilD++47jFNLUQEpXe9gL4Hj8PPPmzQtHluQVlFpIZKsjy8CkWpQolGQrlhxGv9Trb7UHFjCRKmnY6uXIjNhKnttwPJRAcQKhoAjJC7viWuCuABRpmKoiEZKj0qwmBJnBK1uN6+AmRgapyED7ASb1OmAgUaAAl1GzOMSyKhLQdMMJxxQ8z8OcFyVhl8oIV9mREUw4XTxMA3agX4vpw5TwqULUKo8T2PG9oDspMBU6rQTGtJedTm+ENhh/qGEvNFb05Hx9ExFyecCdkFvm7jDILdvf7aIouW7KW7GfdrsyQFflSlNhqCtwJySk9mpj7xrbDw1Zt3BBq0lwytUuG5Y721NL2lYDyP7BWf/guq47h99InVxrjo/cltqooTYT2tXgEvUQ3aKeiTZ3MO0KvEFzwFSFZfUJWEt3A1oeKL9KYrzRqoiFJJS2T8MbNb7YiV4LSeeEOrEwQ8I9Hfc28vFU3RtJNzo5GzAmG5Ej6Av+cInWZ0dqZds07vjD+gKZXhaiYfKNbvjT1bqj9wqO/Bycgb8m4oYWAxYjPuuY5kmVQCp23vztDhm301F/ht7Hswg9Wp59UOzXTGY60Lnn/5Nz9wd3MKkev/CROrvTuR//pXN3mW61f4/rd7ry468b/YbnBj41Pf3WRv2Ovd+eXx22G4cv+f38VCS8lhqMCVFzaUqlMUwgR58Elqf5Gg8UwVtmIHmSQ5wJY79bzs6Ja+BZvOPO2ZAybacl6I5r89yFFiqDhsbhnHuthkao+Ye56vzfDVjOiQB69kw0jAzHytnrCMHQ22z0Yo88+Vlbv7QaCp10nrpaXI8IfE/vQ8fYYhzNl5P5ZLlYzOZRXf8BOHr1bg==",
+  "descriptionMarkdown": "A very simple contraption that checks for gaps in belt throughput.\nB - number of belts.\nOne of the lamps will turn red, if a gap occurred at all, another will be blinking during gaps.",
+  "fileName": "Asdasuuujtgs88234jkfhja.png",
+  "numberOfFavorites": 3
+}

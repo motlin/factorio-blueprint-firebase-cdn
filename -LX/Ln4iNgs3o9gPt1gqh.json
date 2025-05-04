@@ -1,0 +1,28 @@
+{
+  "lastUpdatedDate": 1548718307513,
+  "numberOfFavorites": 2,
+  "favorites": {
+    "ojRAiJiCuXZpw1YiDOKX3of7wMf1": true,
+    "e4ZOPvvVfgZTyTyS3PJN4m9I5263": true
+  },
+  "authorId": "VdeVQS6UOMZW42fY3twP6nv8PlJ3",
+  "createdDate": 1548718201893,
+  "fileName": "indicator.PNG",
+  "image": {
+    "height": 681,
+    "id": "31ZxhjC",
+    "type": "image/png",
+    "width": 648
+  },
+  "title": "5 x lamp strip value indicator",
+  "author": {
+    "userId": "VdeVQS6UOMZW42fY3twP6nv8PlJ3"
+  },
+  "blueprintString": "0eNq9ltGumkAQhl+lmWtoYSuiXPS+z9AYssComywLWXZtjdkH6IP0xfoknYWc6lHwHJrqjWYZZub/P8eBExTSYquFMpCdQJSN6iD7doJO7BSX/po5tggZCIM1BKB47U9cC7Ov0YgyLJu6EIqbRoMLQKgKf0AWu+DNGr6X4cqMV2BuEwAqI4zAQVJ/OObK1gVqavGGmADapqPsRnkFVDGkjKP/+phQm0poLIfoIvBajG5kXuCeHwRlU8q5bE7hqi/V+cBW6M7kN+620orqbO87N9gb6tCn5y92yVoSBdC0qPnQHz5RVmNNa0eqvmbW1VzKUPK6Bedcr1sNNnplzH/sNKK6JEaqsoXb+IQbimys9A26aCDH3DipUujSCnPGdIfStJ8AzojWkT/VLdf9b5nB75+//B22Q+oiG012jbZ4iyCejeDzXzU1VsLWIUqqp2ma2kbi5BxFY7UWc3DGT8OZJv8fJ7uw789E5UX4WDiZoJ/MIBY9DViSPGL+XhNZTRBZ3t2QU+MYv2unbYWkrTSx4g9CG0tXznT6O8LBTW/VejjxxZrfzCEw5Tj9J8fscY41VjP9+owrt+sJt6sZE/+8FcEesHGTq4lfXp2nCK1nEHreM+ka0JcZeEbGI/UvOHf+JhTtdWUXr2gBSF4gSYev5Kr0Qj5IsdubjkIHGvPe53KVMraK11HKnPsDvQJsAA==",
+  "descriptionMarkdown": "This indicator strip is meant to be a compact way of measuring a value. It doesn't tell complete matemathical truth - instead it's meant to give more of a \"gut feel\" of how your value is doing.\n\nWhat does this mean? It just doesn't follow a linear scale to convey the status of the value.\n\n### How to set up\n\nYou feed the input of the arithmetic combinator with the value you want to visualize.\nThen you configure the same combinator with the type of the input value, and a division of 100 of the maximum value.\n\n### Sample setup\n\nFor example, the default is set to visualize a liquid storage tank filled with water.\nSuch a tank has a max content of 25.000 water units.\n\n- Check that your max value is 25.000.\n- Set input type to water\n- Set input division to 250 (this is MAX VALUE divided by ONE HUNDRED).\n\n### What is displays\n\n- Value is totally empty: **No lamp is lit**\n- Value is 0 - 20%: **First (red) lamp is lit**\n- Value is 20 - 55%: **Second lamp is also lit**\n- Value is 55 - 75%: **Third lamp is also lit**\n- Value is 75 - 90%: **Fourth lamp is also lit**\n- Value is 90 - 100%: **Fifth and last lamp is also lit**\n\nAs you can see it's not linear. The \"jumps\" are:\n* 20%\n* 35%\n* 20%\n* 15%\n* 10%\n\nTo keep it compact I chose 5 lamps.\n\n### Consideration\nYou might need an extra arithmetic combinator between your measurement and this blueprint's combinator if the value you have is less than 1000. You can multiply your input value in that extra combinator, and take that into consideration of your dividing value in the blueprint's combinator.",
+  "tags": {
+    "2": "/mods/vanilla/",
+    "0": "/circuit/indicator/",
+    "1": "/version/0,15/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "author": {
+    "userId": "CFx7bRJGcNYJrdo4f63NmiZu92t2"
+  },
+  "authorId": "CFx7bRJGcNYJrdo4f63NmiZu92t2",
+  "blueprintString": "0eNrdVU1v2zAM/SsDz3YRKzHa+tDLsP6FHobCkG2mISBLnixl8wL/91F2kSbNlxMMO+xiQBL5+MinZ22gUB4bS9pBtgEqjW4h+76Blt60VGHPdQ1CBuSwhgi0rMNKWnKrGh2VcWnqgrR0xkIfAekKf0GW9NFFjApLqtAeBxD9awSoHTnCkdGw6HLt6wItV7jAJYLGtJxtdCDAiI8igo6BZ3cpl6nIYjme8j637axReYEruSbO5pQP2JyPqwGqDQdLsq3LD5pbKk/VR3c/pcOhoRZD+sX40voKY0Mq5JgGrRzZQcwxxrvGT67Z90NHemxw4JyEj8Vqd5KcmS04kmzpyQ3LpH/lXHEiWBwG90HnT8qIcwofypJeJ8s75jRN1mSd550tozEilrpzK9JvME6qdTLc/2Q2m4V13Ug7kM3g6czwT4G/jKhNxxy9dvnSmjonzRiQLaVq8Qp9kv2Ri7P6zE8IMt8yrLEiX8eouLRlvzRG4TFJ7t5FSQZRJnIVn7lGe8fpYSvHyC5u9bX4N77e8+lEb2//BTf6eqfm7XfnvLfTad5Ob/K2+G+8/fUventxvbf5TRze0Gzn2Y5AyQKZPDyHW/Pl2w8mTr8x6LFG244Df0gW94/i/kHMkzQVff8H3ZC6IA==",
+  "createdDate": 1704042290426,
+  "descriptionMarkdown": "Here is a blueprint for a fluid equalizer (you can use it for regular items too I guess). It works by subtracting one liquid from the other, and if there is more than the set amount (1k in the blueprint) of difference between the two liquids, the excess can be burned or voided until they are balanced.\nThis is more useful for modded runs where one recipe can be making 2 different liquids/gasses where the excess secondary can block the machines from running. In that case the excess can be just voided. If there is an equal amount of both liquids non will be burned.\nReplace the water and crude oil with whatever liquid you are inputting. W is for water and C is for crude oil, you can change it for easier identification. The 1k on the combinators if the max difference between the liquids, I found that 1k works the best.  On the pumps that lead to the voiders, set them to work on W/C > 0 and it will burns the set fluid. ",
+  "fileName": "equ1.png",
+  "image": {
+    "height": 517,
+    "id": "GSTY55N",
+    "type": "image/png",
+    "width": 769
+  },
+  "lastUpdatedDate": 1704042290426,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/belt/balancer/"
+  },
+  "title": "Fluid Equalizer",
+  "favorites": {
+    "6vcOE83nwZfUONZYZnuptrW5kbo2": true
+  }
+}

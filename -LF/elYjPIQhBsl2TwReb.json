@@ -1,0 +1,27 @@
+{
+  "createdDate": 1558717021259,
+  "image": {
+    "height": 1440,
+    "id": "rwghbHx",
+    "type": "image/jpeg",
+    "width": 2560
+  },
+  "lastUpdatedDate": 1558717021259,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/mods/vanilla/"
+  },
+  "title": "Robot insertion system",
+  "author": {
+    "userId": "Y8vIxXVjNpd88zYoaVIgrx6k0vf1"
+  },
+  "authorId": "Y8vIxXVjNpd88zYoaVIgrx6k0vf1",
+  "blueprintString": "0eNrVV9uOmzAQ/RdLfWlhiyG3IvUb+rB9q1aIwJAdFWxqTNRoxb/XhmwuYNN4tattX6I4Hh/PnHM8dp7ItmyhFsgkiZ8IZpw1JP7xRBrcsbTUv8lDDSQmKKEiHmFppUeCb3nNhSSdR5Dl8JvEtPP+uqzkO2wkZr5ef7k4vGGxzk2KNpPI2QQg6h48AkyiRBgq6AeHhLXVFoTaYZq7R2reoIbTeyoQn94tPXJQXxZ3y06nNAKJppVkj9BIf9sWhQqYIIYDXKQSFfCrVaFJgaUEMeT4TJ2NIE8V3WppomWg03lma46TqzUPhiIWp9VFqlJH1oCQpuTpOfkcBWTDVGiAXJ4gK8ixrXwoVbhQddS8BCtyaOJ4c8JKBcrHCnqWebVFlkpu5VhJ1+nSmRS8TLbwmO5RRauQM0yipvN+aaMnChRKD2fLNqBhkp769Ei0R3gNIh2yIh/Vct7KunVG74Ya2EB2nyXVHwLyS1OjGlFVd4Yia1H241CLTUJb9EJNm+j+YrN0nTYN7sGvBd9jbvLHoic+MKHS4ASrSMp+zrhsQKHXJluYpXyu96TjjIx7FLJVv5wT6SP8b2Tg+Cge1YOqTkVvrph8JUaaKHW1ZfSmtjQ3w9e0pmkHF3suX8We9Nzrcsi0D2/oBZGV9CPGbYzbHHR/7aBg4qCXnn4NVB+Svn8nheBVgkzBkLhIywZcyN+4kD8KpjYpohd1eWOTpwtb2zlek/ZOEXbzvaHiOSS8SC5cTx2Yo2PmvDmuNLGXd7vWbHgLqF3U6QFT7UsnS0f/laXNfeldbD2W0urrlWtr98PjO3E5ehq9Tqe3ifTd2OLpdYP/NCPVDLBNhZ0AYBNmV046rCc6eLfhWhVbOysW/EOKrUZ38ucXSHbvdhm7CXbrheD8VKfvosK9+dxsRjJ8eHsZ1k4yhGMZvNkX1iCTOlt9R44v/tl7ZK8upL7KdRTQdbgKg03UdX8AA3J9+A==",
+  "descriptionMarkdown": "Plop in a base with automated robot production available in passive provider chests.\n\nEquip each roboport that needs insertion with a buffer chest with a request for robots and an inserter that can insert the robots from the chest to the roboport.\n\nModify the arithmetic combinators settings to change the recall/redeploy cycle duration",
+  "fileName": "factorio_birthing_robots.jpg",
+  "favorites": {
+    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "WRNEnlQW8VdqZF4SHxsW9rNwsSI2": true
+  }
+}

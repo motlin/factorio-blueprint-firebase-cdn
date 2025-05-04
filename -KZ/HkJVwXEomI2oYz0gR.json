@@ -1,0 +1,41 @@
+{
+  "tags": {
+    "2": "/mods/vanilla/",
+    "3": "/version/0,14/",
+    "0": "/belt/balancer/",
+    "1": "/belt/express transport belt (blue)/"
+  },
+  "title": "4-to-4 Belt Balancer",
+  "author": {
+    "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"
+  },
+  "descriptionMarkdown": "Takes up to 4 inputs and outputs equally onto 4 belts. Original design by Madzuri: https://www.twitch.tv/madzuri",
+  "image": {
+    "id": "YZgDFc8",
+    "type": "image/png",
+    "width": 224,
+    "height": 318
+  },
+  "lastUpdatedDate": 1498393392410,
+  "numberOfFavorites": 42,
+  "authorId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2",
+  "blueprintString": "H4sIAAAAAAAA/6WUwYqDMBCGX0U8J4ux7l5KLn2RktWhBNKJJCNYxHffqN3LNmrjngSZf+bPNz/T2MzYWpnsKgdA0qTBy2FAdQeZQ9868J771mgicDlrrQ8l\nFuXQSy4+PtlD8moc2VuCYrWenELfWkf8Gwz9GVNOotMRUZkmKhYNa7SDev5Zvug7bMDdnA3ftQ6nkdGjDRrbUdtRnmZcvJj4SjSxtPiXC3EAuThAfF5TsU18\nb2NF4kgR16xk/JlZkc6i2N7hLpYjKCM29wMrfpOiMRqUTTIRl2+kc2/kHttENiKOZvOsRdK/ddVC+ch0bXG6nl7fUBk5PN9IcM/ZSqsgCrj62d5SUnGyvMou\n4RXZRRmF9VR2dkCdw+x6Bmx+ACnKUf61BQAA\n",
+  "createdDate": 1482078374193,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4-to-4%20Belt%20Balancer.png?alt=media&token=207f5b8d-d610-44c1-a0ea-ed8a2632044a",
+  "favorites": {
+    "ZozZ6r1GZSRQJc5UnVd8Ox25fS43": true,
+    "cTx5Fr0F2IT18BEq8QFo68fN7fs1": true,
+    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
+    "9gqFDiAFACRKi2dh3ix7mU9I1xt2": true,
+    "p9rwvXfc2kTITSl6ywb7Ddc42so2": true,
+    "8ZtQPFOKJjeZd37aNV8ClVfAnyc2": true,
+    "Ji6dfjHOedMNYoqtDih8UHYnaQx2": true,
+    "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,
+    "TGJj6qqVtQO9A9cZiRUykRLzLVA3": true,
+    "An9N49aYotSjW8lPtoKxoTnFy0Z2": true,
+    "ZCdZvG7ntGbzG03U81dfaiGrInP2": true,
+    "T7zZhZ5RjbaA2zoXHCmHLEciP2y1": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "IARUv6aKBmfDSUimjCRQ6bpJGvN2": true
+  }
+}

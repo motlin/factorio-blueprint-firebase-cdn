@@ -1,0 +1,25 @@
+{
+  "tags": {
+    "0": "/production/modules/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,14/"
+  },
+  "title": "Configurable Productivity Module Build",
+  "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
+  "createdDate": 1487157108639,
+  "descriptionMarkdown": "Note 13-Jun-2017: The ratios on this build are all wrong. It needs to be 10-5-2, like it is called, but not how it has been implemented!\n\nSet the '3', '2' and '1' variables in the constant combinator to the numbers of level 3, level 2 and level 1 productivity modules respectively that you require in your logistics network. The modules are placed in provider chests, ready for use by your bots.\n\nNotes:\n\n1. The blueprint string name is 10-5-2, but this build is a perfect 10-4-2 ratio for modules.\n2. The recommended MINIMUM value of the '1' and '2' variables are 8 and 10 respectively, to ensure that there are ingredients for the level 3 modules.\n3. If you want to halve this build, make sure that you include the half with the combinator :)\n4. You must connect the green wire to a roboport that sends the logistics network contents to the inserters.",
+  "numberOfFavorites": 2,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/10-4-2%20productivity.PNG?alt=media&token=f1a9daf5-45eb-4434-9df9-63fbf44b9d80",
+  "lastUpdatedDate": 1499466905983,
+  "author": {
+    "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
+  },
+  "blueprintString": "H4sIAAAAAAAA/91a626jOhB+lYjfQQIbCNEuT3J0FFFwWkvE5BgTbRXx7sdccrG52CZtN2H/dJMw9vjzzDcXJs1XWZ7E2WoXnRFhmGFUROcziQ8osuKiQIe3\nDJN3+xAnH5ggG1rrY17wx3ISnf9E9nb9GdlBtaYowUcucqR5WiYMnzD7tA/8/xmyqrX+eoHJepgUiDJEpTW8bo0U81Wab4N1khNG82z3hj7iE85pdE4wTUrM\ndvyXtJPdY1qwXYHfSZxFZ/ZZK4AZOljrdr9hZQpULyGJnTBlZZxdJNsfbZc/nuSHY0xjxnWwfltV/QUhrZ4c+X8s1/o3Or9ThLhC7ZV87nAaufxAdx+hU9X/\nLkhk+TsuGE7s5AMVzD5ypPEJ2VzhE057AMEWIAWOfRjB68MIoAjjZj6MMopq6zYybvVyRr63j/mBRhzGdeqVvPur9q6CB5Ti8mCjjP9COTTHnC8ryoetuMov\nt90ur29EoWA1U9A2TuQLTqSCyZfQ5DoVLCbM5tq+YVJrO7SJeH0DIO9xxjer2V0fnpKwyHecNSYp+hO5XCcdWXCVBVdZoCkLr7LuVRZWJjQ54dAU/Vfyv8OE\n6Nee1Py+u0HVHbzTMU5PMUlQancGa11V5Tt25+webf0lJ/XevYcrE++CN7fRAcATCU7XUvuGGhii+MwgQi2Gkj1Pva7MfBMAT5LssMhiCNMXbNLz5vhoix+c\nb1/AxL6Ao0nwrVpgbiq2bQ+liglhd/Yh75yKtkAVFF7MkFxXsKTAFSxJt74AkzlTE740Kgz4MxVGo44BumA+umJu7IsfN6HktRzlj5i7UzqZ+4Dh3GdGwQKN\nKQNcL3uaMYYsuuOBsMcZGuEL3tZNED8YR6okI7FrilvgNLWMHPsVTq22nr7xqBiv75TfV6/+oFOKsTOEDxasUMv0ZMvTrG0fJdZ+mAP6qZWxo/zFjGIi31ta\nyJY6LpsHGldysqTZn3Q0WySaUSW4LGlMr9wBxmudL2HYy5PeZdEMI2LHlOF9nNxM0awA3TQH1opYfovNEGlrXBZUXlbTHtDWvPFvd6axOeKpx9L/3oG/L+ZA\nM5+FDySCjpgJigXbCAnLSHxj9P05JKQkWAq/aps2M2k9BloWAU3QSY9NgAHyJsyvphIDDmzSCmDS52miFFhAnweEYqwP5pTn+kmkZg2qV4JOFZFPXk2pasgR\nY9QvJ1/3/JPH16lBR0pQvYLo0XpoKbzgiS8ltmINoKrsHjLflo6fs23szUxNm3ih1zQ27xkr3yO+mO0FYst46wu2p/l2W/1y2+uBvYTmk1QISOBNFIEj77nM\n277Q6K7gA14FdZyqd82L6DHCjVzv3X90HcfQZ9pr0H2nIy0/XgsYvTztsR8wOED4gB1J5GzQi3yyVuTSIsHGLO3wjCqXGrAvnoP8itGumq/Mxo+8dudFDU9u\nxOHJ3qtM06AUmLp3I/VXZmP0Z3eeQT11hNYaW13a1GooBuTQaKprZKhLr4L92mlV1WrVGicNEufxexjcqRqdUNRpJY9NKN7LDk1hVrf5xO4p17F9G6zeyv0e\nUZSu7ne0ql8UsZKS1e4XIun/uYJP2novAAA=\n",
+  "fileName": "10-4-2 productivity.PNG",
+  "image": {
+    "height": 707,
+    "id": "eUVnAMq",
+    "type": "image/jpeg",
+    "width": 989
+  }
+}

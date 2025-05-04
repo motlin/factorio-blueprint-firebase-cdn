@@ -1,0 +1,41 @@
+{
+  "author": {
+    "userId": "UrYFZcGR0xP69go3qBxWsTWbXdY2"
+  },
+  "authorId": "UrYFZcGR0xP69go3qBxWsTWbXdY2",
+  "blueprintString": "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",
+  "createdDate": 1674382911360,
+  "descriptionMarkdown": "Cannons with bit encoders - the ith cannon's inserter activates when an input signal has a 1 in the ith bit from the right (cannons indexed from 0 to 31, leftmost is 0). Works with every resource simultaneously, and can support up to 32 cannons. You only need one channel for the receivers/transmitters, and everything is done on the red wire, so you could actually double it up to 64 if you start using the green wire when you exceed 32 cannons on a resource type.\n\nTo setup the cannons, just replace the \"R\" signal in the left combinator with whatever resource type the cannon row is delivering. To add more cannons past the 6 in the blueprint, just copy the pattern, and increment the constant in the bitshift combinator (leftmost under its cannon). \n\nTo setup a delivery location, delete the \"R\" signal in the constant combinator and replace it with whatever resource you are requesting (value of 1). You can request as many different resource types as you want, just put them all in the constant combinators. Then, set the \"I\" signal in the constant combinator to the ID of an unused cannon (if requesting multiple resources, this sends a request to the cannon with that ID for each resource, so they all must be previously unused). Finally, turn on both constant combinators (they start off to prevent misfires when setting up a new requester). Requester stations can be easily turned off by toggling the constant combinator with the check signal in it.  \n\nBe careful with requesting too many resources to a single location, by default the requester combinators just send a request whenever a target resource has less than 400 in the receiver chest, so you could overflow if you aren't careful (or replace this logic with something more sophisticated). ",
+  "fileName": "cannons2.PNG",
+  "image": {
+    "height": 935,
+    "id": "EtZgOcS",
+    "type": "image/jpeg",
+    "width": 1371
+  },
+  "lastUpdatedDate": 1674382911360,
+  "numberOfFavorites": 12,
+  "tags": {
+    "0": "/mods/space-exploration/"
+  },
+  "title": "Space Exploration Smart Delivery Cannons",
+  "favorites": {
+    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
+    "NoRpVMjBKmYPmcF3Do1z9H37kcg1": true,
+    "1v6Ja7M59KORPB8z6APCENuYJ982": true,
+    "96scKksgGvSLlD12ApyoyA6CEFC3": true,
+    "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
+    "op9eFxcJACXdiTQ3W4KSOIz5tGB3": true,
+    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
+    "sKWZrd52Kfa8vCz5sBK7XU4I4c53": true,
+    "Xl5pFVYDKGRdmevlZa58LoHKpYd2": true,
+    "WHT6U6aD4lYQ2PxMDGKW6Zv8Fpj1": true,
+    "Ath6ZADDVsdKndju0r9orclHVGm2": true,
+    "aSy5BUuG4vUeyv7CefOWhXv6Zdx2": true,
+    "KfbDRv67nlVIqDg7mkq8W1wjpd03": true,
+    "cydyGE7YRqhdZ2ZJdY7acQ1Szo72": true,
+    "e66LaJ4r2lZGH5RfUmF1eEOLdIg2": true,
+    "pk2kLfsGumPnobFb8J36ZPFPM7u1": true,
+    "MeFA6P8RDlNDaBxSCEXWH36Sp2t2": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fileName": "TLS.PNG",
+  "image": {
+    "height": 337,
+    "id": "bwV8B7w",
+    "type": "image/png",
+    "width": 888
+  },
+  "numberOfFavorites": 0,
+  "authorId": "R9ZsyPz2WvYjoQPalzMCeHBn9Sg2",
+  "blueprintString": "0eNqlmOtu4jAQhd/FvxMU32NeZVWtgFrUWnCixKyKEO++CaAlbWM8nvzi6u94TjxHti9kezjZtnM+kPWFuF3je7L+dSG92/vNYfwunFtL1sQFeyQF8Zvj+KnbuAO5FsT5d/tJ1vRaJIfYz7azfV/27cGFYLvJcHZ9K4j1wQVn7/K3D+ff/nTcDv9c0x+U0zCy23fN8Fpu7SEMOm3TD4DGjzMYoKWsVrIg5+GdMCs5qD2m1ZxCewpknPI3GYaSobky/L9MHza7P6Xzve1GR17WUA/wGZjIgNEUTGIMGGF5BiiUjMmV0XBrJjVErKkzYCYFMygDVK4BtELp6GwdmmGOSplDWQZNJ2nPbnNd48vdh+0TbawjJAEkVUmSRCWAitAUKgJiNA2rcrLIY1XWQFKdJBlUJ0cqZBWqlWM0CqxSp6pkDEhSSRJH9WOsQoHqxxhtuvaHbcT+I5S33cTMYuUP1BhC766zu/uvbA6r4FiagdVgrDAZ2BqO1RlYA8dKOJZX2cHH5h8+p9lhHCMxVITy1bd6xRybowIVxhbZoRhzQGYHdYykUPEKq1ejwhbGrrMDM+aAyQ7xCElUqOgF1SsoKohhbLbwiFVNt4rOR3aKgi88YgFlBCodKMgpiUoHGFstPIAB7dELD2BAmRqVKzCnDCpXQGxZLTyeweyRdOHpDCjDUIkEc4qjEgnGFvGro1ddzOuvbDXHllnsx4aRm8ityc+uHXZfvm+bLqQjjcfuYnTOHMdee0mr8+f47Jso1WTN0bz2UVVZNJ2gUcRTea4itQLsjBVb9ORhGnyRhob0mhKI1VF/qWOOKhetuRhVodZc5Kis9KLK5Uh9K+5X3evJZXpB/tquvw3SmlNWcaZVfb3+A/qEl+o=",
+  "createdDate": 1596428878644,
+  "tags": {
+    "0": "/train/loading station/"
+  },
+  "title": "Train Loader",
+  "author": {
+    "userId": "R9ZsyPz2WvYjoQPalzMCeHBn9Sg2"
+  },
+  "descriptionMarkdown": "Simple extensible train loader.\n\nTo extend set up inserters and chests and then connect the blue inserters to existing inserters, and chests in series with green wires, and blue inserters to their chest with red wires.\n\nSet the combinator to have a condition of -N where n is the number of boxes in the loading bay.\n\nThis will guarantee that each box will recieve the same number of items. Works best when you have one belt per set of boxes",
+  "lastUpdatedDate": 1596428878644
+}

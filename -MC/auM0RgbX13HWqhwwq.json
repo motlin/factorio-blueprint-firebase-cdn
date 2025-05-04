@@ -1,0 +1,24 @@
+{
+  "authorId": "OlAZunwmTVQwcyxZ6NfRqqSUW2D2",
+  "descriptionMarkdown": "This is a tillable Kovarex Enrichment setup that uses only 40 U-235.\n\n***Pros:***\n* Works with productivity modules\n* Tileable & self growing - When a machine has enough U-235 (40) it'll start producing and let every new U-235 continue to the next machine in line\n* U-235 Backlog resilient - if there is a backlog, the centrifuges will start to aggregate U-235 this solves one of the cons of this setup that the centrifuges aren't working 100% of the time\n\n***Cons:***\n* 6 Decider Combinators per Centrifuge\n* Centrifuges aren't working 100% of the time - it's mostly impact if you add beacons around the centrifuges (This can be resolved by manually inserting additional 40 U-235 per machine)",
+  "fileName": "Annotation 2020-07-19 143709.png",
+  "lastUpdatedDate": 1595166438588,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/mods/vanilla/",
+    "2": "/general/tileable/"
+  },
+  "author": {
+    "userId": "OlAZunwmTVQwcyxZ6NfRqqSUW2D2"
+  },
+  "createdDate": 1595159441665,
+  "image": {
+    "height": 240,
+    "id": "xS9Xjp3",
+    "type": "image/png",
+    "width": 566
+  },
+  "title": "Tileable U-235 effiecent Kovarex enrichment",
+  "blueprintString": "0eNrNWUtynDAQvYvWkEJifpkqZxdvssgmu5SL0oDGVgUEJcRUHBcHyC2yycVykrRgfmYkRjDjz8Y2ID013a9fN+0ntEorVkguFFo+IR7nokTL70+o5PeCpvqeeiwYWiKuWIY8JGimrypJBa8yn4RTVHuIi4T9REtce2d3xkwoydfVPTvaSOo7D8EDrjhrz28uHiNRZSsmAXm/v1Q0/uGveaqY9LkomYQ/AL7IS9idC30wIPrEQ4/6FxzSLm5xd5Ya3mSB6jv9Ap2jyeCjw8PRCZcsbp9NLjUk3C9d01L5CtaXRS6Vv2KpspsRPjeDGJAnA5GJM/J0j5ywmCfgtzjPVlxQlZs8F3yYGn0HBwIzlczTaMUe6IbDbtiyxYzgWdLglPrumstSRcMIrHmvqE6CSaCvsoLKxsYl+vf7L2zLK1VUBtQNl6qCOweSNCv8ry1q8QjGVUJFa5lnEReAgZZrmpasbk8V7Ss2hmP9414yJo5TgCeNG2Mu44qr5pJofiDiuhwfBUZfL/of4ynA14ZgzobRJHBmyXwg/7Az8mIQ//Db06/Lvk9X5p6S1YXU6+XSOWaeo97CQr2PwxjiLlA4GIbsTj2MhyG7yzUmpmpqk+kAAAGON5T5kW+oZD99JiSPHzLY7Rcyj1lZwn5N0YYNcCupwIANnOpn8HfK/FDbYjLmUJYylmhOsxSMB3i/yFNmk4XAiDUZWmu3GoOfO23mXGqn5lKLp0eGMJb68QMr7WzAF2o5bF9R+Twd9qbMBkkY2UpY8G4U7GaEgn2+avUkk67q9ItUdz2xiBKed+hq5ymx8dQUld3Z+6j0BMXmwdtzZcXmQcmSE39YHbBwdgDes/Kl3vjr2Dd2KVTbLM03TErImKh5XbDtF9MlxOSaTsWqQIPkvQQ2J/36j0++Gnbp19Df9IESDGuydxLxAk3OmXzexQaftNh/RojE7TXbHO3Evj7HpAlbDbFkjOd2ULcFIvhUrEy5R/C4T6tXjPrt9VvbsTE3xQifRNRz5UZv7PGZANs+rwhxVtO27cFOoXxv1QTPuw4J3MotCYc0ZfjSDqGvKSOTUU0Zfj9TjZsrJ9/wrkw3tr15Ep5p07oA5AyvrEo6HdjFnA723ijvbtBFetdx16yvxzH57fBlUmY0Tf2UZoWt9SX1q3kJX9TrTjtuCa1yNB/X4RFbg9emo7HDW4wa/TqMEsjHUaNfB+QwGDXUc0HGY+aQLsBkzJQpfKsqbOD5IcOZoKuURQkv9e+2OTo8lYwm0QMVibZHgRvKrYJ7x4Y2D9q1WZ6w/eebUx7NLGkThmMGbi7Rm4yZt50A37VzMEA5/GfMQykFELj3jadMO9T/0g7SPu/naLAIhLNsUObzEOP5PJiRSV3/B14cV5Q="
+}

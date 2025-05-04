@@ -1,0 +1,30 @@
+{
+  "authorId": "98LiK71ZdAcTWXBuNscSgrKrbtj2",
+  "blueprintString": "0eNqV01FrgzAQB/Dvcs9ajJ3V+iX6sL6NMWJ6HQcxkRjHRPLdl+gog2aiTxIxP/+X3E3QyAE7Q8pCPQEJrXqo3ybo6VNxGd7ZsUOogSy2kIDibVhxIYZ2kNxqAy4BUjf8hpq59wRQWbKECzMvxg81tA0a/8ED6LXkJu24QunVTvd+j1bhf95JjwmM4eFc8mTk0RBPRnYofpFDEWOO26KsJXl5EC3eaGhTlCisIZF2WmKkLLZgLIYVO8ti8bJOe8rKYkK5LUg41wWJB6k2MmydOe87ln8Ulu1qvOhts43Nm60Q+Z7b8YQfp3nu6j9jmoDkjd9Vw5XUeLnfSRCXr8G70tx2X2j6GTtVZZ5X7JyVuXM/arJKYg==",
+  "descriptionMarkdown": "### Solar Official Electra Tiny Tile\nJust copy from wiki: https://wiki.factorio.com/Power_production\n\nFor optimal ratio to save space (0.84 accumulators per solar panel then there is no need for additional - no solar - energy loading of accumulators) should be used [my small solar tile](https://factorioprints.com/view/-LUzPsqJnTaJXW5CeVyQ)\n",
+  "fileName": "tinyaccusolartilesingle.png",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/tinyaccusolartilesingle.png?alt=media&token=e2a3e737-2107-42e6-9ccd-5390efe9c906",
+  "lastUpdatedDate": 1546491059873,
+  "numberOfFavorites": 1,
+  "author": {
+    "userId": "98LiK71ZdAcTWXBuNscSgrKrbtj2"
+  },
+  "image": {
+    "width": 288,
+    "height": 280,
+    "id": "xlLbMAr",
+    "type": "image/png"
+  },
+  "tags": {
+    "1": "/power/solar/",
+    "2": "/mods/vanilla/",
+    "3": "/power/accumulator/",
+    "4": "/version/0,15/",
+    "0": "/general/tileable/"
+  },
+  "title": "SolarOfficialElectraTinyTile",
+  "favorites": {
+    "al8OlOmMgJddK8YA0p1NyFirYuJ3": true
+  },
+  "createdDate": 1546177928779
+}

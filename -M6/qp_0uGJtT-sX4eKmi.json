@@ -1,0 +1,22 @@
+{
+  "descriptionMarkdown": "A lesser person is afraid of circuits.  Some people use them to make stupid things.  I'm apparently one of the latter.\n\nThe two arithmetic and two decider combinators immediately below the chest in a row are to send a set of 'pulse' signals.  The right set of combinators sends a 'count decreased' pulse of items in the chest.  The left set of combinators sends a 'count increased' pulse of items in the chest.\n\nThere are three decider combinators in an R-S latch below the 'pulse' combinators.  The R-S latch is 'set' on the 'count decreased' pulse, and 'reset' on the 'count increased' pulse.\n\nThe five remaining combinators are to 'set a rough timer'.  The first arithmetic combinator simply multiplies the R-S output signal to set our time in ticks (60 ticks = 1s).  The next decider combinator is to allow us to cancel out subsequent latched R-S signals.  The arithmetic combinator above the the cancel combinator is a decrement counter...this performs the actual timer countdown.  The arithmetic combinator in the lower right multiplies the counter by -1 and feeds the result to the cancel combinator (to try to prevent accrual of additional timer time after initially being set).  The last decider combinator is used to convert the timer signal into a color for use by the lamp (it could probably be removed if the appropriate signal was set farther upstream)\n\nThe inserter wired to the lamp is enabled when the timer reaches zero.  ",
+  "image": {
+    "type": "image/jpeg",
+    "width": 1014,
+    "height": 654,
+    "id": "a9vb3ek"
+  },
+  "lastUpdatedDate": 1588984172731,
+  "numberOfFavorites": 0,
+  "author": {
+    "userId": "APJUNeyjOqdmMfMFtsabw4lwpNu2"
+  },
+  "blueprintString": "0eNrtWduOmzAU/Bc/trDCBkKC2v2CPu1rVUUOcTZWwSDbRI1W/HsNpAnL1aYo2Up9iTAmY3Nm5hzbvIFdnJOMUyZB+AZolDIBwu9vQNBXhuPynjxnBISASpIACzCclK09ieiecDtKkx1lWKYcFBagbE9+gRAW1iQA5lQeEyJp1I+Bih8WIExSSUk9o6px3rI82RGuBrlCiXwnJJY0ZQo+SwWtLtXACsZ2nnwLnNWF9+QX5bxaMOgKc8BC2pJjJrKUS3tHYtmD59ZoSM10TzmJ6j6vB9mdh+xOI3uGyKgXedWD7BsiQ23k1Y0uiaOfNmWCcKl6BqeLpkGDBighsR0diRiZZomoBM5qSFH2wvKHk31TYVS1oGIjojzKqazbjdGrtt/uV3J95YSwDhKaQPI6SEWfUNdm1DjazGzMgPUph84sZNT39hBq68fpl09FveRpvN2RIz5RlW3U838ir/r2V5AD5UJuOwnsRLnM1Z3bTKon7FI+tbLU1Mo86pSNJMO8ymkh+AoKA+WtBgQA0Vj27Yo+qOKg8l8rofQH4gJ5C4SYEQmCo2MZCkFKGP3/favj1wjZs3omzWWWG4xe269Cys7qRXImtweeJlvKFA4IDzgWpJifA9CgxwNFmQXQEE6g53DoTlTHLseeEcc31EVpfif8NCO8rsUh+DyDRCUFA4omAo80A++ZOcv9l531ZQYp1wy3jK/8O/vKN/WV899WY3HXXLHAxpovwXFsxzjJusG+1KnigQX6uezOBVGjxClXoZE8JwaC7qzpNh2F90coMEs89coY3TPxNIrqcPTM9fiyZD7x2tG2RstAp3/d1fOI+tea3K7NuIX351bDFw+vFYERN8E408jRzFwb04rhXo4ZWrsO9KCKAd9XDHsGjzW2CVWbieCjrnFGqNxMbJtXbXhXj1vkzPGl9wBfmq71XhbZRS3s37XuWq/tzXF5IKh7/qLreQRNPQ8vnvc+huddp7VO/HQP1xvSprkjQ2ZnHa4RE4tuyJYtnjfUXvdVy1IDbuBERnb/LiMPcGd8jLH6WEay4QN81LdlMPWRSoHVR5aw8VHHAifCRfUiQeBCZ+27EMGi+A2Ba+SZ",
+  "createdDate": 1588984172731,
+  "title": "Some kind of messed up set of combinators",
+  "authorId": "APJUNeyjOqdmMfMFtsabw4lwpNu2",
+  "fileName": "some_kind_of_messed_up_circuit.jpg",
+  "tags": {
+    "0": "/circuit/indicator/"
+  }
+}

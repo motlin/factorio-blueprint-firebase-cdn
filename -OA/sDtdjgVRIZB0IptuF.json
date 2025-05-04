@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "AF5Erk9NFdYmzHCTjkgnRtjTYq32"
+  },
+  "authorId": "AF5Erk9NFdYmzHCTjkgnRtjTYq32",
+  "blueprintString": "0eNq1Vk1v2zAM/SuGznLRxM7WBNhh2GnHnYvAkGUmESZLrkS1KwL/91FynDhD03VrepMt8pHv8cPes1oH6JwyyFZ71oCXTnWorGEr9rVpMtxBphDaTJgmE60NBjOyUg7ozqbr2iLaNpPWeBR0LW1bKyPQOp68kk3YbMBlcgcesyeldebgIcSHeCutc+A7axplttG/tSa5OuGG8J5xpmIEtrrfM6+2RuiYsBEtUKYeNEgKmJ9is548TAO/2GrW8xd8hpTylBKhPwShFT7TRTBDBhOE+TkCPncR4VE5JC9yHtNIFvnWAZi/QRb/BBmrdIYYlZmglf2aMzCoUMGgUXp4rkxoa3CkAb/Au7NeDfXes6jV7e38ZsEZxcjL25sFhSDZ0Vld1bATj4qUJUupnAwKq9Y2UNlNZTtwYoChSOOtjBWNbyswotbQsNVGaA8Eeih/tVEawfmI6amEaizxsXTEC53wu8pYrA5eEQhdgD5q+AfROX+tKV7lWywvsJ2wG0uQU1LGk5CnqlTeBiehoilAJSedNtZqtKP5wZhPFObNHQBC7lj/EuPiHYw/fwzjab9/EOvyaDounrezXlzs61MPXuhHzo4de/b2kIsyHhxONaKXxro2caMEO+FSgiv2Jb0IcfFScpHhuGyOaNqabb6jRQhNfg3kU6dshMerQJaTvaJ/XgVycWoCFPI9mOtzVV+tXAuNCm2eJsgpmXdWw3WqWKvt9WAnwx7qNHfW/I8waxoqWq1P9CGPgtzP+IzPebHm6VSk05xOJZ/RqTicyCN+jSOp428DZ1rUQMPMfgxJZN/j/8I3q4dlRAaPpHoaxcWn+bJcLhdlUdzdze76/jcOkeRV",
+  "createdDate": 1730741508757,
+  "descriptionMarkdown": "Add the item and amount desired to the bottom constant combinator, and the buffer chest will request the corresponding common and rare items\n\nSave some clicks by only having to add the item once instead of for each quality",
+  "image": {
+    "id": "ndxbXOj",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/ndxbXOj",
+  "lastUpdatedDate": 1730741559064,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/mods/space-age/",
+    "1": "/version/2,0/",
+    "2": "/production/logistic (bot) based/",
+    "3": "/mods/quality/"
+  },
+  "title": "Quality Item Collector",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
+  }
+}

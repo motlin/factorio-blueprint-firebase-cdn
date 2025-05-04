@@ -1,0 +1,35 @@
+{
+  "author": {
+    "userId": "zMF0Oj4rHNgXEAi6Flso4YqCgqg2"
+  },
+  "authorId": "zMF0Oj4rHNgXEAi6Flso4YqCgqg2",
+  "blueprintString": "0eNqdVt2uojAQfhXS67IRBH/IngfYZO/O3hljCoyeJqVl2+JZY3j3nYKgx8BRucEyTueb+eaPM0lFBaXm0pLkTHimpCHJ5kwMP0gmnEyyAkhC2EHzrBK20kz4Vn2CJjUlXObwjyRBTW+v2FPprhy5thVKaGej1fC53Kuby2G9pQSk5ZZDC968nHayKlKESQL6jROUlMrgVSUdsvNlsZj/iCk5kcRfxXhEJAzLaiV2KXywI1faqWZcZxW3O5AsFZCTxOoKaC/GK3lvds+1sbunA/zlojPgTDx/6Z00jhYl08w6F8lPJ9HAcueMRVJM62Tt2L7jKOzN7ZmxSLEBbR/TEzT05FxD1uqsBmzPe9sF5LwqfBCojpnwSyVgECK8QswQYsBo1ButsAz0QSv89VMQ9pHPs8bnC5uqsmVlyQBA/AIj0T0jplRc7LAvlEabLklOALnfVMIQ3OK1eKL7eG5z0EfH5Uhwy6nsRdFz7K0mA8S3AKMBrKfSdQngNbqC2WS4eBxunL3gOrJyyDgi+tjZKZdNZ3/fMFE4MrAulq6TyTRj7OZtM21SuaFvmdsAwWzmhnEb2P0ieGyq3tZDrR5ch1MH9QIds9EJbtqUmK9n9LnbShTpENjz99KHkVDyF/9oO18qXTRKX2bzWyOoGtJcyN0uo4/H/EvGF5gQRyuSJNgJs5+DyTQvW7rIb2BH8DYXML/FeOvi2HrMeAH1DNgxnfetZ5VnP8ArQWeYOHYAT+29ChEK8BANKz8frPHrWkj54YmdEF0LfMjc5IUwXz81cYJ46gy4AHw7A7BrPvF/V2mbgIZ0TsMt3eCTBt0xdscYj4FTwEfUn8NGxYladbTGLRSO2v7zjBLB0FmU/fnQylrcRh47eN1X0BHLvPEtXoTraL2Oo+V6GS/ndf0fnGhCeA==",
+  "createdDate": 1732876484616,
+  "descriptionMarkdown": "A simple combinator powered ag tower, with speed controls that let you define how quickly you want it harvesting fruits. Change the [S] value in the constant combinator to define the percentage of uptime.\n\nSet the S value to a point where your machines are not starved of fruits, but also so fruits aren't sitting around for too long or need to be burned",
+  "image": {
+    "id": "niS3bSC",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/niS3bSC",
+  "lastUpdatedDate": 1732876484616,
+  "numberOfFavorites": 10,
+  "tags": {
+    "0": "/planets/gleba/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Throttled agricultural tower with user defined speed",
+  "favorites": {
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "VXKPmCDy9wSwBCReYyriFnYN5To2": true,
+    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
+    "oq5pjOP0jQOjzGVxi2y9DPzXdYs1": true,
+    "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "lNJGH0mK42Svx7L5nNvw3LnFnCv1": true,
+    "lMjN2iAhVDcrLOJMVGgP7yCyVcv1": true,
+    "23WCcSYBpuZ1XBIqplqsIZXdSso1": true,
+    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true
+  }
+}

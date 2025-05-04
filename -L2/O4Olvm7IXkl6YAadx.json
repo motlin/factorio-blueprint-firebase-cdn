@@ -1,0 +1,24 @@
+{
+  "descriptionMarkdown": "Book of Belt Filters based on [this](https://www.reddit.com/r/factorio/comments/7otbrh/blueprint_smart_belt_filter/dsc4m3w/) post by tzwaan\n\nIncludes:</br>\n<ul>\n<li>Yellow Belt Filter</li>\n<li>Red Belt Filter</li>\n<li>Blue Belt Filter</li>\n</ul>\n\nSet the constant combinator to the resource/item that you wish to pass through the filter. The filter inserter(s) will pick everything else off the belt.</br>\n</br>\n**Edit**: Version 2.\n</br><ul><li>Added 2 belt output, for balance.</li><li>Removed Concrete from blueprint</li></ul>",
+  "fileName": "bookoffilters.PNG",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bookoffilters.PNG?alt=media&token=e0bf19cc-ea1e-489e-a96c-abd5780a38cf",
+  "lastUpdatedDate": 1515495838123,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/0,15/"
+  },
+  "author": {
+    "userId": "XYxF6dLBPTR40dQ5jfEQJP9Vpbj1"
+  },
+  "authorId": "XYxF6dLBPTR40dQ5jfEQJP9Vpbj1",
+  "blueprintString": "0eNrtmd9v2jAQx/8V5OdEwoEQGu2p0raX7S+YpsgkR7Ga2JFjWFHF/z47GSWjSeMLqOvUvgD+9fWdfXf5AI9klW+hVFzoZCXlPYkfTz0ViX+0mnaMp1I03RW/Eyy3fXpfAokJ11AQjwhW2JZWTFSlVNpfQa7JwSNcZPBAYnrwxi8OHBavea5B+VxUoMyH1uqZw2rrn2ZC+6ksVlwwLdsK88NPj4DQXHNojqFu7BOxLVZmr5j2+eCRUlZmmRR2ayPlzzyyt29GPeMK0mZsbm08Ew3QosGw6AwrOh3WnKMNpcOi4Yt381w56Fb27HKtZJ6sYMN23Kw1C5pgcYporqTwy5xpsAGRyq3NCJ9OW5H9sx4Qotm0slLUvtwpANEOF56ReGGmHzr8XfRGcp+vZzez6HY15Srdcp0UMoNErhNZgmLNCoqxO2zZbNs06HEkenKkKlie+5AbfcVTv5Q5dDhDjxfXobV80voljf3CTzdQ6V6RaZfGzelgWaVfONZp56l2KNrLdwz4wDWHqHsJoV2aQZdmgI4p+qoxtTiPqVlPTFF02XKrA0dHzFj2JLLmqtLJs7Kw40pvTc8pvOsZPuxA7fWGi7umQDTFqg4nU7BKpuqCFZNP9fCfDUGwVQ5Jxiv7TmKttnAaVcCyZMNEZg3TUD+S/55x7G+m2ntAHn1v+lJ0NXd46tAQl4TUIQkXuNrQWV9ohMxk6pB1S2Qmu2jeYC/lGV8YgqkfbHGL7DySM6Ni+j4zle8nX80Wk1sjO/lS14vJLjBzTHxXzTUso2A6D2+iaHFio6k1dxws1qFwETG+rPAfYWOXI9dhR5QyCiAxyiiKRJn8gZLvASULyPi2uBJL1vfw1kjSKejH4KST8PtmSkzB+QDLy8ESc97/nC4dqsUQWyJyGweYiNzGUSbmhpCo+Z1no0CTjgdNeCgVVNVlrDko4oKbJoXTe/+NQGePR9fhTqw4Cj2R4ij6xBr+jgE0GgTQK3BbNJA8b5Rpw56zWbbcAcgv41DXWHXHu+nZaV8DcvEVx51zRxecD44b4LhwmJuRR+6CcnNUenSDVziyYrzuF5XI9Vtwi0Vx+e6CfBEy313YeTky33GIigw+JKV+Mw/JUZgadAn79Z/sJ/Vb05zIdVu7asSZsW8HyfHH1Z7dDr8BhBHOlQ==",
+  "title": "Book of Belt Filters",
+  "createdDate": 1515470560613,
+  "image": {
+    "height": 688,
+    "id": "3wBp0XQ",
+    "type": "image/png",
+    "width": 764
+  },
+  "numberOfFavorites": 5
+}

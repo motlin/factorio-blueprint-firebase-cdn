@@ -1,0 +1,34 @@
+{
+  "author": {
+    "userId": "IY4VWFTuFefI3tuYZ2682nUnRld2"
+  },
+  "image": {
+    "id": "wFRSVbC",
+    "type": "image/jpeg",
+    "width": 717,
+    "height": 1002
+  },
+  "favorites": {
+    "xC3z9fPCQNVAGoYquNMfKkeSVgT2": true,
+    "15kIx0oGGTaDL8hsyhiDi7WFR402": true,
+    "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
+    "uYTWKQo7sYaedbAgG6nxRGTub5H3": true,
+    "mNHFAiP6izStsOhbaEKjOewCujs2": true,
+    "fdq0xaZ52PQDfKGL2RQZdqFf2i53": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
+  },
+  "tags": {
+    "0": "/version/0,17/",
+    "1": "/version/0,16/",
+    "2": "/mods/vanilla/",
+    "3": "/power/kovarex enrichment/"
+  },
+  "authorId": "IY4VWFTuFefI3tuYZ2682nUnRld2",
+  "blueprintString": "0eNrFV9uOmzAQ/ZXKz1BhctkEqf2BvlTbx6pCDkwSa8GmvkSbRvx7x2bDZgNhSXa3fQkyjM+cmTkeTw5kVVioFBeGJAfCMyk0SX4eiOYbwQr3zuwrIAnhBkoSEMFKt8pAGMXXdgOkDggXOTyShNbBqxutYoLbMowns5Odcf0rIAjJDYfGv1/sU2HLFSiEbgFyyHgOKsxkueKCGakQvJIat0rh3CJcGAdk7x6fZ+gDYzJKFukKtmzH0R6NnlBS/Jb7ndq9XXOlTdqJYMeVsfim5dBYhD9cBBocxvhN98RTKiumPPmEfEUbaU1lr3WdyWqPEVhh0rWSZcoFYpDEKAt1E7eArA2Ouh8F+Wl6Oa4maMlVZrnxS1+KjQIQ54a0Y4hO4guolI7FQcO6dso5K3ncJ7ZOqaOnSiMVhTX1SXuQO6bgMQSheLYtcXdYKZmB1qTHz+QmaUXvI63Bw+EOo2HuZEZnkvlyg2TuBySzZoW+RjM0Gi7+eYWDF58XXSH1CWD6HIFh2UPIhQZloK8o1BclQko5Vw1/3N+DORuNeYTsAZlfpxiUiseKX9Kbf6B8FsPyee+OMyif/h5wIqB+g0tt4a4lVsgN14ZnYbYFbUIFvy0+B/RBfZPwVumaF2ja3DXH66s3kS4o65LYUO7wWdzSPuh/7R7/tPw97WE52Dwm47rDsmW4Zlj91w5yfCHfR1dtvt+e7mk33/VzTApYnm4ZjgyODgaln27s0elbdO7PYOCQIa7cgVKoqtT3PIzrD7xsyu2UFZ20R4CiOVmXUkpvnjEuU16eXRXzcbMCpaP7etRyP+nF8dvF8eFD4jXX89iRbt531tDYKz05+W8QkIKtAKmTb81w9el7M1FxscGPKDDt03M3ieh8ejebTxd1/Rd6cjt8",
+  "createdDate": 1555536557842,
+  "descriptionMarkdown": "A setup I use for my 235 production. An easily tilealbe 4x6 design.\n\nEach run the inserter's will re-circulate the 2 units of 238 and 40 units of 235.\nThe extra unit of 235 is removed from the system and can be placed on a belt or chest as required.\nA buffer of 238 is held by the requester chest to continue the process.\n\nThe decider combinator settings are shown on the image for your convenience.\nThis system runs without any intervention, I have not had any issues since 0.16.\nPotentially with low power, the system could lock due to inserter speed however; I am yet to see this happen. \n\n",
+  "fileName": "Kovarex Processing.jpg",
+  "lastUpdatedDate": 1555537250113,
+  "numberOfFavorites": 6,
+  "title": "Kovarex Processing"
+}

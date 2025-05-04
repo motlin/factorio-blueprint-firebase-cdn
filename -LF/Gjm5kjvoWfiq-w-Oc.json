@@ -1,0 +1,38 @@
+{
+  "descriptionMarkdown": "A way to maintain supplies at outposts.  Set the supply levels in the constant combinator, It will also ship “junk” items from the outpost to the main base.\nTo work the green wire at each unloading station needs to be connected to the green wire at the loading station.\n\nRequires Green wire from all the outposts to the sending/filling station.  The filling station will take all outpost requests together for loading onto the train.\n\nThe train schedule should be:\n“Outpost Auto Load” (the station in your main base near your mall that the train will load at)\n-\tCircuit R >= 1 \n-\tAND \n-\t5s of inactivity\n-\tOR \n-\tFull cargo inventory\n\n“Outpost Auto Unload” (the station(s) in your outpost(s) to receive supplies)\n-\tCircuit R = 0 \n-\tOR \n-\t5s of inactivity\nAll the outposts to be serviced should be named the same.\nOutpost stations that need no supplies will be disabled and bypassed by the train, so only one “Outpost Auto Unload” stop in the schedule is needed for as many Outposts as you have.\nIf you want to speed up service when multiple outposts need supplies at the same time add multiple “Outpost Auto Unload” stops in the schedule.  \n\nThe constant combinator next to “REQ” is the setting for what the receiver logistic networks will maintain, asking for anything that is missing.  The blueprint has 3 combinators providing input requests.\n\nTips\n-\tThere are two roboports on the receiving side.  One reports supply levels in the logistics network, the other reports bot levels.  \n-\tKeep the bot requests low on the constant combinator – this is for the # of bots in storage.  Set the # of active bots on the two inserters inserting into the roboport.\n-\t“Outpost Auto Unload” train stop can be repeated to have the train stop at more than one station per run.\n\nVersion\n-\t1.0 - used filter inserters - didn't work right with large number of required items.\n-\t2.0 - CURRENT - uses regular inserters and signals to enable/disable.  No know bugs.  Let me know if you find any.\n",
+  "lastUpdatedDate": 1566748101265,
+  "favorites": {
+    "zRZ569azMxcT2b0Fbw8qkJaBQyl1": true,
+    "qZeMchEZzuXWhCGlg2v1wo4vcpz1": true,
+    "Kc5le0UiDiUh2LxFgjxR6rEDyh83": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "mNHFAiP6izStsOhbaEKjOewCujs2": true,
+    "lh9Sb6mMHBOem0bKqprUB71aBjD2": true,
+    "Zn1IsnOO7YR4k6G4b1aMmM9vToQ2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "V515dCjEUngAzrK44nUMwDHWagn1": true,
+    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "awtIejV1kpQZI4G2V5T2efVQF4g2": true,
+    "0YkeZbxxNVdVQWAeREIj9vxrGWf1": true
+  },
+  "author": {
+    "userId": "kxFsItHQfkRQRwdKGhw50UGHc1h2"
+  },
+  "createdDate": 1558297125440,
+  "fileName": "Factorio supply via trains.png",
+  "image": {
+    "width": 1886,
+    "height": 931,
+    "id": "5GiTJ9b",
+    "type": "image/png"
+  },
+  "numberOfFavorites": 12,
+  "tags": {
+    "0": "/production/logistic (bot) based/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,17/"
+  },
+  "title": "Logistics Restocker for Outposts via Trains",
+  "authorId": "kxFsItHQfkRQRwdKGhw50UGHc1h2",
+  "blueprintString": "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"
+}

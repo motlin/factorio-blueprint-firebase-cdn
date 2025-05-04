@@ -1,0 +1,28 @@
+{
+  "blueprintString": "0eNqdmdtymzAQhl/Fo2vooAMS+AH6Ar3sZDqYqI6mWDCA22YyeffKdWySWIZ/uWKMzadltf8e5Be2a462650f2faFubr1A9t+f2GD2/uqOd0bnzvLtsyN9sAS5qvD6VM1DPawa5zfp4eqfnLeppy9Jsz5R/uXbflrsogY+8oPXduP6c4247uHxetDwqwf3ejs2Zj/H55/+ONhZ/tAv8dIWNcO4bHWn1YNqLRM2HO45IH+6Hpbn7/TJ/M+QQUOLWCoxKEGhiocqmFojkNzGKpxqIKhBocKGFrgUAlDyyt06Bo3juHeLS77EvenigB5BhAlBThJaThUTZPaJvy8d3XatY29ZV/JMRauoBI3UM6nnLuKF4EdyK6LpprbdSZROT/YPr5Xb2wVff2c5sqL4GUUphFz9Jw5huq4POI417c+3duqT/88WdtEPVcQ31vNWV0i7y1nCCIjp4c4h1P9J9b5TxAKD78YvFzN8MqTXeJwUYxCUaEKgOZER8f8XLddZ/u0rnYh5GKL4JVIRd0hYlBDhSLuKAAFzApgktDPahjT+5QcjiaJiyqHo0lSFWYmNEVgklyXEOMlFQrsvYSKkJnifyFAZU7VKweM1FSoAKBkKSGWFlQoYmlJK3f6Ym6skSfLSgDTAQeCKJ+zSgAAMwcgawPYTKWoUGAzVb6uu/xQe4baWV/btKvqX6mIZSCl8eYyi3p0kkfTBgufqjApP6aLrSFfzhGqmHOBuNu/fWxzLobEFiAK5q2Pivohz/D2MA7gVEcK1JE5uY8Doj6XVGgGQKltXAYcH1CVxG+j6BwYrQ+hUbu+PrropJZrWjzNhZMBwonPPI/3akgAlcRyBcSPzohMIHw0tW+bclE8Z/LYNmukChWobzW1JCG+pVYkxLfrDhFELDr1JJRjyHL9vm/Ddf6k8PPUk1yPbn13jMpRG7xnlcCJYUExWswb3R7He1ZD5wzimqMWwstkFKt5DKuWXW04fRX6hhpBTBnApGwkwXK11j2KsIhcGzkGn6k07B5NnAMQJj5RFTATH6gMzCyJWRQYzouMyARGhWKF+NS9GL4fXoUgK2XNKtRyeHN48ZCc/83bvvv/MGFNFSDh3tdqGDffzjV+wzehyd6cJonfth/Omb8wQhS8zEyoXP8AeEB3cg==",
+  "createdDate": 1534680529152,
+  "lastUpdatedDate": 1534681472096,
+  "tags": {
+    "0": "/production/science/"
+  },
+  "author": {
+    "userId": "ouIPy2sMCkePoi07epruwcSWAwC3"
+  },
+  "authorId": "ouIPy2sMCkePoi07epruwcSWAwC3",
+  "image": {
+    "height": 1323,
+    "id": "EiOSwtz",
+    "type": "image/jpeg",
+    "width": 1855
+  },
+  "numberOfFavorites": 10,
+  "title": "Fast start science 1 & 2 - Getting on track like a pro!",
+  "favorites": {
+    "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
+    "SS0ivWSelScggoritSCjMW2VOo32": true,
+    "sgqjAriQ6KdI1lzeVDfNr2GmGHn1": true,
+    "S2hnvtBzqOVoF76AKCI6Bs2nAbF2": true
+  },
+  "descriptionMarkdown": "A quick-to-set-up, extensible early-game system for red and green science packs. I used this to get the \"Getting on track like a pro!\" achievement on a normal default map. This will also help you if you only have a few resources close to base, or if you just really like trains.\n\n- Set it up and feed it with 2 belts: pure iron, and iron/copper\n- Each section feeds into the next\n- You can get started with the red science packs while you're gathering resources for the greens\n- Each tile supports close to 4 labs (and can be made faster by upgrading inserters etc.)\n\nI supplemented it with one more red science further up the belt as the greens started to come online.\n\nBecause it's reasonably minimal and extensible, this isn't just a temporary solution! Just leave enough room for your bus (across the top) and it will last you all game. And enjoy those early-game trains!",
+  "fileName": "RGbelt.png"
+}

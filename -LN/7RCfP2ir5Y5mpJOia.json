@@ -1,0 +1,25 @@
+{
+  "favorites": {
+    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true
+  },
+  "author": {
+    "userId": "g6h6eB8g2feq6SNv8QXSTs5iLpf1"
+  },
+  "blueprintString": "0eNq1We1uozAQfJXKv0OFPyF5hbs3OFUVJU5rlQAHJmpV5d3PFJU2Vwy7Jv2VhMTjYXZ3vGzeyEPR6boxpSW7N2LyqmzJ7s8bac1jmRX9Nftaa7Ijxuoj2ZAyO/afcl3axhy6R03OG2LKvX4hO3q+2xD3hbFGDyjvH17vy+74oBuy41PrN6SuWrekKvvdHEwU38oNeXVvxK106I3OzTuF5+qUNfol0mVj8qejg4jqpsp12zoS3zYToM34VfaS416mbHVj3bXvtzVu5d6cJ0DUCFJUj6a1Jo/yJ93aqNF/O/c6D/rB//2n9wdTuN8PQfiIzgjfNVlpumPEeOoQ86rrg0/j+Hw3wSoZlx31vl+lC507OfOoroqp6LGF20whWrHL29obF5jhezUBuUVylAsUaQzgKL0U2RQkBUCqJV4sIEXUT2cIBZb1mKp0TanRz7pubZY/RzNZRC93XMgiKsHIo0MxT6AUnOQF1gVJMYX8WY+HzAXeuki1ddXY6EEXdoYpBWVpikOPkPDYQqULOrMYrDNDycwoTgiG0oExHDrFoXOwKAJVIAxeenwpcBKnAPcSnYyeAjmSuoohsQRvSDEojqnP7eusbc1J96xOZj97gMYe/bcBLgpizeNAg4Kh0zB0jwycBfqdD4+H+qcPUKANzockAx0thlQcV4GOBot6EtD3XNYasu2Ry20PT/E2C7tb7Ckp5iMv4jCvBQVe0EAjh6EzXGvJVj0wcrwngs5NEdCyMkimiP9quq0LY6cb1i9shxL4lu5VZ+vO3teNqRq3SV9r+mAnhVJhJsxAYiWBFurpNIT3FM0ci9lDlH0J8hQy/Ayl80gyDnNPkKAysJWFgTO0CYIyW+J7WFApShFmVzAxAptaUE8rcT3tKieUCWaeJUD009A5kvDUzBY3TJRrBFEx/nmeQ2RRFD1z8E0PGbpThDHkgc/sPp64uey6sEn0A6uPtQocMXqyVyWIcSCowFS6Znwsf2g2qLaYaa+EuGyCGc5KyGGT0BVj1esod7cZ/mDZffk/ZkOKzB0c7tqvIetvfldVffPSLz65TQaF0oSxlG7jhJ3P/wAKeH3T",
+  "image": {
+    "height": 781,
+    "id": "4ocfzwr",
+    "type": "image/png",
+    "width": 801
+  },
+  "numberOfFavorites": 3,
+  "lastUpdatedDate": 1537740415992,
+  "tags": {
+    "0": "/power/kovarex enrichment/"
+  },
+  "title": "Kovarex Loop x8",
+  "authorId": "g6h6eB8g2feq6SNv8QXSTs5iLpf1",
+  "createdDate": 1537739905860,
+  "descriptionMarkdown": "I decided to make a simple Kovarex merry go round for refining Uranium-238 into Uranium-235. Produces about 7.5 U-325/m.\n\nIt requires bots to move Uranium between boxes, and pushes spare U-238 back out into the logistics network for consumption. Not meant to be efficient, purely aesthetic. Will eventually buffer and fill the provider chest with spare U-235, before then you probably want to make sure you have spare fuel cells set up for any nuclear power happening.\n\n### Updates\n\n- Moved the active provider chest off to the side of the filter splitter for faster throughput",
+  "fileName": "kovarex-enrichment.png"
+}

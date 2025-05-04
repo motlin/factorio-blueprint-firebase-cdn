@@ -1,0 +1,50 @@
+{
+  "author": {
+    "userId": "ybMz5KhJmaSk7kaLf3kc21E3B1i2"
+  },
+  "descriptionMarkdown": "Included is the blueprint for a single belt fed 2 GJ fusion plant with steam storage.  Fusion in Krastorio 2 is far simpler than nuclear, due to the lack of heat exchangers and adjacency bonuses.  The amount of steam produced is also much smaller.  A single huge storage tank is enough to store the steam from 20 fuel cells.  \n\nThe water input only needs a single offshore pump.  DT cells come in one one belt, and go out on the other.  \n\nBecause there is no need to sync multiple reactors, the circuitry can be far simpler.  Similarly, there isn't any need to use a loading latch because of the small amount of steam produced per cell (only 10k).  There is sufficient storage in the tank to store the steam from a full stack of cells being inserted into the plant.  This plant will never waste cells, no mater how much or little energy you are drawing. ",
+  "lastUpdatedDate": 1586206053075,
+  "authorId": "ybMz5KhJmaSk7kaLf3kc21E3B1i2",
+  "blueprintString": "0eNqlmk1v4jAQhv8K8mlXIlXsOE6M9ryXlfa6h1WFApiutZAgx1RbVfz3dcJHi5gkk0kPrUiaB8/HOzM2vLPV7mgOzpaeLd6ZXVdlzRa/31ltX8pi11zzbwfDFsx6s2dzVhb75tVfF22Pta3KyJli7SvHTnNmy435xxb89DxnpvTWW3OGtS/eluVxvzIu/MNnTLF5Lcq12US1N8U+8ke3sqUJ73So6kCoymYNgRrxdM7e2r+n0/yBKWjMuI+Z9Jj7wLqSeHDExjqzPt+TAFfeuAd7MJGvohdXHctNN1QPQ1OKA/rtVyRkb5iySaHPIWQ+KfIgUk/xJUhsbtJ9CSMnyghkTpQRyEwmZSaIlJMyE0R+6Kc+rmpftA8+mqqeLhTxBCY4/xDNtqh9ZMvaOG+AghFdQAmIye4x3hVlfaicj1Zm57thYrhQ8DvBbHdH23iucsWLiUR3CQrg0BzKM7lubvLmlzObzyXehlciPj2fQKP0OKNuNkH1Psb6+ebme8+05nhX7ZYr86d4taGmh/9fW7c+Wr8M9zY3yNa62i8fOmLruo+W2GYfO7sp5E/TUPM4/DQX9ofCFU3bWLBv7IR3Jc87XCk4Kl2HslUIUprFw1kmEloCI9qnuO+fACu5rBJ6OB14uO9ZRcpfsN6IjMKCl5WTXI0oFUKTyIgYJjF6BrpEE/RiwvEYfrEawgg0po+SoCl9JklKYsColIKCbVNThg0FIrMpswaMpClBIvKVpoQEsRmIKUEChwbJKSgJosSEoQ2MjUwmzGwwUZJiohAxSUnkFEEmtRCwd0tSB4E9SdNNjrCXppsMsd8l6SaDzE9JugE3ZamYUic5KOs0mVIoO5g07XDE5JfSxIM54iCJR4P2k8TDwfkrzSfUyo7w6AnFEkaqmBZxxJioOA2NmBOVIMUJHIdUQmKB85Ai6gcxaiiafjhi1lAkAXXkE01B4LShaP2HI1q5Im5hEL08G7+HQSw442N3ERgoTUbwES5NRuDgkQ1u5a81DWzcWYp9HGzWmRqxe5RX0J2zFYTNBlcV9xmV41elr5zhRelx55s8g0+McmIbQcyKObGNIIbFXOCOjOCI5PiNfSTBNQmIOpz7Pbmbp/g1CTAE4JrU2PMUlPeHBNFraD7ybAa1Io06BYTTQePrvkAXDY0v+xItek0r+7DVtLIPf74mR51ed9UijdeARstSq6Fk7SveejDVe/2SI5+G31vjlSLRJYHHxIqP2NDxmLTzDujmKwbtNxIWn77AMGe7IjwXrn354YrmMy1bzcTX2ff2o/vZz2r2K1xt3PpqXN1SsyzhcSpSKcPW7j/Y2vmk",
+  "createdDate": 1586205854277,
+  "fileName": "fusion.png",
+  "image": {
+    "width": 1195,
+    "height": 1147,
+    "id": "iN6ckUP",
+    "type": "image/jpeg"
+  },
+  "numberOfFavorites": 23,
+  "tags": {
+    "0": "/mods/krastorio/",
+    "1": "/power/steam/"
+  },
+  "title": "(Krastorio 2) Fusion Plant with Steam Storage",
+  "favorites": {
+    "SIune8tADRd1TGwhaXws0F3x1J32": true,
+    "VcF7eyz5lugtfIB696NNVjBhKbr2": true,
+    "V7CD5u5SRyd54czIx20eiB5QZh42": true,
+    "VFh1c0NEWmdA2t4uUPIXttfL8hF3": true,
+    "o1PzEsQ9xCZ1zQDrUGcuESxUdk22": true,
+    "7VEVLiS5PpeJukQMKBgxP1UBnUh2": true,
+    "rsD3RssFJhVX3AQ14FJKgvidUeT2": true,
+    "Uc5je0C7SKhJMdptwBwhkvmJGUK2": true,
+    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
+    "YCmdFXJWFJNogQjdMZAbrtzm9ml1": true,
+    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
+    "pDED5f33sYbvGUo95pcdFtfaFZB2": true,
+    "onkzZn8MnjfdbTxGDJOqs3XgD1Q2": true,
+    "o9aAuidLHnVsXoiwEBUXwTMwc3y2": true,
+    "6sePdt17UVO6DUD4zz27xe7Imtu1": true,
+    "mk0JeaIu7netdQDmSYgHU5nVlws2": true,
+    "e2Yptj7aQmOWhgPibyc9vZP4c972": true,
+    "zQBCHVj8mEQOgFHbnwUjkN05ybX2": true,
+    "jqjc4uQTple38mRw6za5f0KQU7J2": true,
+    "we7GMANN5SYFeddgkztRoERAX3n2": true,
+    "997f3trXZPWP0beItjgxsKRRHeM2": true,
+    "oe6XnJ42qlUD4dJQQZpJUBSxi5w2": true,
+    "1v6Ja7M59KORPB8z6APCENuYJ982": true,
+    "N6P0MWM3mfPF87ahiPeLJcKiJIt2": true,
+    "VvRsZCs69DXwoX9Axr0L17XYLGn1": true
+  }
+}

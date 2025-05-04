@@ -1,0 +1,33 @@
+{
+  "createdDate": 1581446566293,
+  "image": {
+    "height": 561,
+    "id": "Jntu6ul",
+    "type": "image/jpeg",
+    "width": 1538
+  },
+  "title": "Train Unload Balancer",
+  "fileName": "Factorio controlled unloading.png",
+  "lastUpdatedDate": 1581446605378,
+  "numberOfFavorites": 8,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/0,17/"
+  },
+  "author": {
+    "userId": "X6SSF6c5lafkFzWywraJ8Pmcczi1"
+  },
+  "authorId": "X6SSF6c5lafkFzWywraJ8Pmcczi1",
+  "blueprintString": "0eNrtl12OmzAQx+8yz9BiPsIuV6lWkQPTYDXYyJioUcQBeo+erCepjXeTiGS6ps95QYKxx7/5z3hszrA7jNhrIQ1UZxC1kgNU384wiL3kB/fNnHqECoTBDiKQvJvftJJx3eJgYIpAyAZ/QsWm6NOJXAvTdmhEHdeq2wnJjdI3PtLpLQKURhiBnmR+OW3l2O1Q20UeMUTQq8FOUdItbN3EWQQnqBLr2IYksXa2wRmZe2hsbn0L+8YSt/JeI8qlKbVOhK5HYfxIF+aNuZjepunm2wdp+knQ99C5h/5SWOxGaE8NVT4HYbQ6bHfY8qOwk+2Mq9etNTfiEuJ3oQezvUvEUWgz2i8XLD8iRl63LgMDOjfO12C4q4d4E4HqUXOPAV/tVDWaflztfCLy8FBuZvWMICXylJFpchl8mIjsAtVhI8YuxoMF0TYbvTogmYeYhVfPokTSRYm8EmR5WDGz1cWckioVC7SSQCvC0NLVaIxEyxdojEDbBKGtFy0nycoF2QtBVgaRJavJ6KLfLMhyguwliGx9Not/kD0meV25G7PVmzEjVmbJtTsZXv+IhRxQG9Tk+cGCGvHHzr904f9pwkfUJ9MKuQcf6HsPZq6zqK7nej4zKvjz6/c84n1NjbzZttz3bWMDtsoYPeJ1xGych3WqQR9TaHZDj8Rlv2PU1mUsPAXpMwXz5YI+7qK7pv9Y9DRcdPYUfW6ilOjLyx8jm00WLHry1Hy+h1Ca33UX6pBjebDmzzr3RzSlebbUnPrLYUWw5s+G7q+OlOa+rK15/mWubn7NI7ChDLMKZZklr5syy8tsmv4CC2V3Tg==",
+  "descriptionMarkdown": "When stations fill belts unevenly from chests, this circuit condition will limit how uneven the chests get when they are refilled from trains.\n\nEnable inserter if: ChestContent  - (Sum(ChestsContent) / -6) <= 12\n\n12 can be reduced as low as 0 narrowing the difference between chests but further slowing unload times.",
+  "favorites": {
+    "Eor7GcFlmuWdzuzjbFt19F93DM53": true,
+    "965RXUlzyhMhsM24DxmvaRmLYmQ2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
+    "w0Ce9dFrlnVxDADCb49BTBNSlN43": true,
+    "ESmSdqwV73ZpxHGMnKec6qGTz6G2": true,
+    "etTRmeQKKhRUQKTpD8JmWNnFQN32": true,
+    "zYt7ZiMLb5VGO2RDRdr6g2o2A772": true
+  }
+}

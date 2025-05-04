@@ -1,0 +1,35 @@
+{
+  "author": {
+    "userId": "75xJAJufg6N4DHY4yGfcd3Lb4P52"
+  },
+  "authorId": "75xJAJufg6N4DHY4yGfcd3Lb4P52",
+  "blueprintString": "0eNrtWFFu2zgQvQrBb8qwZMmWje4BFv1btP1pA4GWxjZhiVRJKo4b+AB7kL3YnmSHsqzIiZxV2mDjBQIYMEkNhzPvzQxHuqfLvIJSC2np4p5mYFItSiuUpAv6ZUSC0Tj6Jr/JTxthCP64JCCt0JDviRU5X+ZAlsqSJTeQka265RruSKlVCsYIuSaFyqocRuR3S3Yiz3G3qTQQu+GWiGbN8i0QJVHlrl42RAJkqM8qkinCW73pPsXzuMwI3JVKW1QDRIOxjJR5ZYjfSOC+ZbVagR6Rz2XGLaraCbupxdEjkgqdVnh6qmQmnLNmRBk1kpeeVd5ai8yBcUcXc0b3dBEdGBUoa+ji6z01Yi157gQkLwBhShERLVbVGqgTlBngTv/AekSXwFFPRyw43DDqELUCjurryT6RVbEEjXpYu7f2yEs36C9aWyojjjzVlo5HUW0r/qN2PMRqlSdL2PBbobQTapxOWqcTkI4/9HXFcwO4TcP3CrUnK5Fb0MbtMpDWANW2nXxjtJU4W20srTSXoiq8YBKjod8rnqNHuC6VLhAOZ15Rcs2tM4z+Vi9ULgDHjBb8LjnNHIQnnHqURy9THp5rD8cO+rVWVYlyH5sI++OIAHXPrOZmk0hlkwYXB5XVFRycYY94Cjo85VtPSAMaEXpKlH9GVIaplB6fhs/T1pLlLGBP2XSyK6GRvSdR14XsGBzG8hMkZ3B9oOjbUHKH4e+QrAw8xNTRfnULGvMMEjQl3aLNP1B53APspD15p1QG8lICBB1ce9SEQ/mZXOLHD66AoL///Asp6vEvav1bcWOf8S96U//ic/+iX4m/+NXjz+8BdjqwAIdnuL51JY3Oal30upX0cZm+eXG1nLVGFJA5GyBHdLRIvVLlcLlo+v3JHQ9N7nFHz5WU2x535kPdCc7c6eRyXyH1x+xRG3IxhoNan7BQNHGZddwzJTZn3rGv8wL6IOhCLBHyFs9Vet8EdDvDoK5Trb3Xe574GEr467H9ISU63dYT+2eX8Lhwt2rgmaPUos6mMtS5m4rSHdW0nR5IjMxNgUJe09nSk1TSkzavi1t4EbdwAG7BINxO6TV5x63BbTL0Oj21C+FbtHP/v9vUD194nYbv1+m/X6d+NPTGiN4yXH+6ufWnL+wXZp2C1qdvNhSv2SW8ruJt4Apf1/x44PvatINsn57BTdD0ea6D8cCKE59R/f4F5T//guIPZTy+1K7E19LTo+87NMux+9VnPguYf8PqUViPIhxhT+uGM4aTKYtwGLvVRrTedZRwSww7knrsdmJI1+PZaXxz7Ikccu3XXEZzvoS8w8xHkW7R6gZTTGhT+xxNg3k4n0dhMJsEsX84/AMmv3fh",
+  "createdDate": 1637301079086,
+  "descriptionMarkdown": "V. 2.05\n\n[SS] Self Sustained\n[B] Beaconed\n[T] Tilable\n\nSelf contained tile of 2 self-regulating centrifuges, both speed moduled with beacon.\n\nSelf-Regulating System: Wooden chest is used as a buffer for the output. From this the reinsert inserter brings over 40 U-235 to the input request chest (set to 10x U-238 and 40x U-235). This triggers the outflow inserters to take the remaining U-235 and U-238 from the buffer chest to the active provider chest where the finished product will be set to the logistic network.\n\nUpdate (11/03/2024): Updated to version 2.0 of Factorio. Includes the additional functionality of the 2.0 circuit conditions. This addition further ensures each module only has what it needs to start enriching, and will export the excess. Swapped out the requester and provider chests with buffer chests to make automation simpler. The central buffer chests are both the output of U-235 and the buffer for U-238. Requests made by the buffer chests are set to only request what is needed for a cycle. When running, each side will have enough to run a cycle and have enough ready for the next cycle.\n\nWill get an updated image once a functional blueprint renderer is found. The reddit bot and FBE are currently experiencing some difficulty.\n\nCredit for the original blueprint goes to: https://www.reddit.com/user/GoldenShadowGS/",
+  "fileName": "Kovarex x2 5x9 B TT SS blueprint.png",
+  "image": {
+    "id": "O5L3Ps6",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1730616860896,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/general/mid game/",
+    "1": "/general/beaconized/",
+    "2": "/general/tileable/",
+    "3": "/general/compact/",
+    "4": "/power/kovarex enrichment/",
+    "5": "/production/logistic (bot) based/",
+    "6": "/mods/vanilla/",
+    "7": "/version/2,0/",
+    "8": "/power/nuclear/"
+  },
+  "title": "2xKovarex [SS][B][T]",
+  "favorites": {
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "8aFgUX6S0LenU0tlu51T9yFEtcF2": true,
+    "GjWZS8bA52fvNdzyqxKfF1MaEtA3": true,
+    "M7syl4343PWRo3WcG8qxY9MylnR2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
+  }
+}

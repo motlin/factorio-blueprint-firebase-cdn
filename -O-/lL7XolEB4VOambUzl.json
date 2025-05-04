@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "LuU5pX0Ac1Yqh0x73p61evAZUns2"
+  },
+  "authorId": "LuU5pX0Ac1Yqh0x73p61evAZUns2",
+  "blueprintString": "0eNq9md9v2yAQx/8VxLMTGf92Xqv1ZXvsnrYpchKSoNrgYdw1q/K/72wvjdXiGmg3KVISAh++Prg7jjzhTdnSWjKu8OoJ72izlaxWTHC8wreU7tDXRRBmSAl41WhDS7X8zj89KllsVf9bjPZSVGgjlOrehg5fRNf52tSNryhVzxBUHArGoefdkaJaii1tGtSoQqoGbU7QwirGD0jBrzeUK8n27YGiX0wdUeQ/DqJg9K2QaCu4YrwVbXMBwUgPFbtd37USko4eAoCM161CP1vaUiT2r+Y4spL2jRdZrEGy5RyoS+xhBvM1ePXtCTfswIuyM5s61RTsxRStoAcvqu5bKwvO2qqbGZ9hHN/RR7wiZ89iZDwaGZx/eBh0MsXoIKD/clrzttpQCehnAKwOb2oh1aKzNYBr0bBhUZ8woBahHy1jD5/gI/GDZQyz7Jik26FP0Gl8AQ9s4IElPHyGN3XJlII2HTYcYeehkY1i31JxbAMnlvDEHB7kuSU8tYFnlvDMBp5YwnMbeGoJJ74NPbalX31zQwuIIG/7ZLeoZx3G1Qv9lyIjHf3qhi2EHHmQAt6N+OQV37uENtEqCLdYN19kYhR/1ijxPGa0HyYxiQlmfolSpyXqcfMrlLnBMyN4brdHE70BAt9NY2qiMSBu8MQIHjhljNfKEx18lONUsb1fMN5QOZXp/FkrR05h3FBr7JSADOGJuSHG8ClDpE4pZxLnlsEMH90tg5nBQ98ufk0YILTMVOEExi1TdfrmHTUM3eCxEfzqWfuiUW/7KZlma9fo6ljb54pjZt8PFgEs69PpvXgoJH1cUC7Z9lgBZfG3TtGl2PCls+1ZCc/yts+lbzyUhwfCUIBcahp95QLlinigUrIdXfezrxv2m3ZHLZ3S9F1Ko/+o1DFERBOekrvhYj0usgwDE/4bOSbawMTFIsfgEBrBQyf/DU2O8dEoNsxuz3EWH8zyARtSJyp28Jzs46XBxttJUa9fTOb385AlyfOAZKl+tyVuPhBMbN7ULc8alXKRo/tPOVr+rrgX/qO4p1/L6yr20/u6B4p9p2uonJgk0NjudJJNFGmxVQAKLTU6nk7M4EY1M5k1gNv9laHGxK2OMoOnJvktmzVAZnPXMT6PEY3HzV51xLlbuUaMrgt9t4hE9KZJiFv0nMIFdpaOTSzdX+HrDJ2EVsefYXtAGOwv4FejP0M8XBagEdo+DydutEB3Rzixq5OHbo4F48Wm7M7uED+bYWkyEqV5kGZJ7kMMOp//AMFgJXI=",
+  "createdDate": 1718814804416,
+  "descriptionMarkdown": "## Description\nThis Kovarex \"cell\" is chainable by simply pasting a new copy in a way so that the left/right column of beacons of the new copy overlaps perfectly with the right/left column of beacons on the previous copy.\n\nAlso, this is designed to be \"thrifty\": The number of U-235 \"trapped\" in the system won't ever increase beyond the number you have originally 'primed' the Centrifuge with (minimum of 40, recommended maximum of 80). All produced U-235 pieces -- even bonus pieces from Productivity Modules -- gets ejected into the \"harvesting\" belt.\n\nAll you need to do is to add a mechanism on the left to do the following:\n\n1. Extract the U-235 out of the belt. A simple \"priority splitter\" will do nicely.\n\n2. Loop back the U-238 exiting the bottom \"harvesting\" belt so that it re-enter the top \"feed\" belt.\n\n3. Inject fresh U-238 pieces to the \"inner lane\" (that is, bottom lane) of the \"feed\" belt.\n\n\n## Tips\n\nIf you inject the minimum number of U-235 pieces to 'prime' the Kovarex process, you'll see the Centrifuge pausing while the products of the process gets ejected and reconsumed. If you want \"continuous\" processing, inject 1 or 2 additional batches of U-235 (i.e., 40 or 80 pieces, respectively). This will cause the Centrifuge to immediatly process the next batch after the prior batch has completed processing, without having to wait for the ejected results of the prior batch to loop and get reinserted.\n\nTo prevent issues, inject the additional batches **while the previous batch is still processing**. Refrain injecting new batches when the Centrifuge is ejecting the results and/or imbibing ingredients.\n\n\n## Notes\n\n* Substations are not included\n* The beacons -- and the Centrifuge -- are module-less in the blueprint.\n",
+  "image": {
+    "id": "YSE3OGb",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/YSE3OGb",
+  "lastUpdatedDate": 1718819780604,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/general/beaconized/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,15/",
+    "4": "/general/tileable/"
+  },
+  "title": "Chainable \"Thrifty\" Beaconed Kovarex",
+  "favorites": {
+    "gunOWAzCrwTCywpfk0Z0x0KZSGO2": true
+  }
+}

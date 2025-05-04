@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "GKHy6bHjyGa9ZU2rV4wXZd3Ovr23"
+  },
+  "authorId": "GKHy6bHjyGa9ZU2rV4wXZd3Ovr23",
+  "blueprintString": "0eNrFWM1u4zYQfhWCpxaQUuvH2dhAe+thb0W7QA+bQKClsUVEorQk5dQN/AB9iz5bn6QzlGS7lpKVNt02OYSmht/MfPPNmMoz3xQN1Foqy9fPPAOTallbWSm+5j8JLUqwoOXvkDFhDJSbAjQzYJuabSvNNKSyBsNsLixTgFYbifYMdjtzc6/u1a85qIs9JjQwkWVoaCs8BYjwqQFDz9Mc/zKhsu8QmB6dHHpMMCtL8myFtp07iWgEzUxeaQLAXeUO4tM0l2rnDrFq6zZdSOx9+6FF040yrGos4deN3gFhWi13O9CU8JZQn3KZ5gz2oA/WgaKNBqTghv2SV02RsUKWGEWb5EaDeERIdHWvfoa6ECm0yaRW7oHVutrLjGClzdFtDsK6SKsn3CRKZVlCJq2wcK8yaerKiMJj+OCbQj4Ce8+y6lvWGERENiotMOqWOYeIWbKtLDo6LNtiTQzD6lajzkrkmPVebrjHZVopw9cfn7mROyUKEoVCEaAaunIggF8K4hf8iB/xiMrgN74Ojg8eB2WlldAiuA+HRDXlBjQaeD1SF7fv4kan6F22knvmiBS9W9wsPX7gaz+K45sl+uhUkrSpGTI0kNKZ1lUfg8dPFv/Y7RxnQOlZ3bijPlZHKQzN458aUWCsaKIqXWLaHk+rskb9Y6i4+73baKhJME/8PXqD/MKTm01TPPpSGSBZjuUXXOeXSd2mw9fxZ3Ko+6b0F5MCp0g7kIsISaw+imUaxEMfU1JWmTuPun4spKseavFcF+QWRriJvFdVNEJRdE0RVs7qqkg2kIu9pMhIAzZpR1DrmYQisoRMMYBTOLy3uSKv3U4GBIwkEF9qiBrYR442UjmOxircBx+O1HcslQ6WYs9kJ+xnfvkJxbCVGptg0Jnnah6vaveDqx3Oo7qx121tD46SvdS2cVXvu9NZ+B9asPqQOOEnW12ViVQIxNdbURhX5jlo1DUjzC4vlG0Mzki/n5GT5kPk+N0IGjAj6Ldf1JTRV2/Kh2l98256+OE5/IHm7kag76ZDx9fQr3Ixf7ZMYWL1pQ0YfM0GnNZD+JUj3FfHgn5e7sgRMX2uB8d7KlhML+7FoB1QFYTjXKVSp420CSiB97OsH7799ok0sn1hZg2S7ElaDCXy/yguODs4XVJfHknhNY2v8XYi6D9h8K8//nQc/kuXqLPfYObNKRi9i5zxwpl44QVeNIIXzcSLLvDiEbx4Jl58gbccwVvOxFvS1dPjVguTJ6qiu0+ry04/o6PgTHT7CjLh6zV+o5bb0UShPuEsIRl9jLzAi73gwcNV6K28GFcxruLTCtstdMsIH5PhClc4yE7LwC3JzMOkwgeEP1HZSrWbxjKjF5ls0CKvGpCW8VKK730SGfSr7bzj4duOR287Hr/t+HL68U5WXr9Y84CYw3fJsikEnVskknYyqAGVT7rt5+vLEOEAIpwLEQ0gorkQ8QAinguxHEAsRyBQufiNVbr3qP6fLx4vxAZwvvMf8RX+A/1/Avf2KG3XmcvbcBWvVst4Fd7dxovj8W97RPVj",
+  "createdDate": 1734185799974,
+  "descriptionMarkdown": "Parameterized assembler setup for recipes that need biter eggs.\n\nWhen biter eggs are added to the requester chest and/or the assembler, a timer starts that is a bit shorter than the hatching time of the eggs. If the timer runs out, a purge is triggered after which everything is reset. Should limit biter breakouts. \nReplace the active provider with a heating tower for immediate\ndisposal, or (like I do) use a storage chest with egg filter that feeds into a heating tower for mass disposal.\n\nSince the timer depends on using fresh biter eggs, make sure to pull them out of the captive spawners \"on demand\" by checking the requests on a roboport.",
+  "image": {
+    "id": "K9HDdRJ",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/K9HDdRJ",
+  "lastUpdatedDate": 1734191563079,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/version/2,0/",
+    "1": "/mods/space-age/"
+  },
+  "title": "Egg Timer Assembler (no reset)",
+  "favorites": {
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
+    "zmewZonnG4hn5NyHhdPVN8qLqBH2": true,
+    "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true
+  }
+}

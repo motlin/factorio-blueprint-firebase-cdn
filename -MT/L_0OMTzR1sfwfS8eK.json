@@ -1,0 +1,31 @@
+{
+  "author": {
+    "userId": "2o0b3tkAlNQnbeCqP0fzyW6bA5h2"
+  },
+  "authorId": "2o0b3tkAlNQnbeCqP0fzyW6bA5h2",
+  "blueprintString": "0eNrVmk2OozoQgK+CvIZWbH4TaVazfNuZ1WiEHKh0rAabZ0wmUSsHmIPMxd5Jng2ddERwJoRNWHQnGFwuf5RdP847WhcNVJJxhVbvKIc6k6xSTHC0Qt+2rHYy0XBVO2oLDm/KNUhHbJzvHvFDR/C2eQ2FcijPnV9baFskOFT/wZ5mqjg4wcJ1auB5JwT2GdT6q2ivKil2LNdCsy3U6sX5GJLXinLT9w2g6vplwJVkm+YVnELQHPJ2SAk0PxhhogJJFbwgFzHTH61+vKOavXJamImpQwV6RkxBqZ/gtDRXnyLRUXfjOezRCh/dv3ZsJOWsKQ2Ei55kVM/koqd//OkirQxTDDrN24tD2hHXSp0FwL6Smp+ntKC6ElJ5Br8eoBI1697bO9Ii4+VL6KKD/oJfQj1SziRk3f3ARZqQkqJI17ClOyak6ZQxmTVMpcDpuoA0Z7X5RKsNLWpwz7cN8XSr2adGiNZTK6xkc/HEqb17tBQ5tFTNoLzToTbjYfNPQn45X5Z/YLy4xprO8XjReIJCRkNJFlYo0XNDwX0okQWKPx4KnqulBH0osQVKMB4Kmaul+H0oiQVKOB6KP1dLifpQlhYo0XgowVwtJexBIcQCJR4PJZyrpSz7UGzeJzlDySEzIYyXiXLNOFV6QgNAOhyLPg4yjONDpplNzs5Kb5isVTouODkFU5r8wlyVFZWtjiv03+8/uptoVNUMSN0xqRrdchbcPeHhTmp1SNvQMN1IUaaMaxkfb+s4wtcbN+YiYtvLbPCX4y0ymusyjfsWGVig4MV4KvFc1ynuR0QktGEZHzwnyWzjxEUfi839YzIhp/Dv3MaeBstVVGS1Fn8CFjK3RXSVa9moBBPSitkZi9U2wgkZ5+woXGVXtvAQRxOwdEtmVvUIW5aJ4wmLhMzN0fRTKluohpMJyffzW0dwb2aJlxPy7dlZR9LDYttSyWfMqrOU7M1jvAapQN6yiqutNBqSjIfqvDfS96CVqmWyNv15EzsqYe8BlyzbllqEV0lhatdoaDQyoXDw/FYe3ZsVE39CrWBuVk76rsHmGUgwIV99futY3puKkXBChjo767hyDQsblmgClrnFlcmnpKGDDWLznyTueYoNK7SfuOUwIrvDcFHXvTttOx39DdfQfg5pk0woKjz/isb3v5blBBD+8wf//UCGWA/ePiOZQryyWrHMaw+1PQn/Nvpz0ERxP/poH00HjJMMniGbiTSmuIsXi0FD9fEDAVZwT4DlE9uEK1rXbAfe6XD/1vYVnEzg6m28SgB+d0XY9x/fHoKRnuVclL9Rk/9L9fxUk8e9kvwXc7udQHrSoC2tjyr6P7wZE/M7hGHubfI/ddf0g8dfUvj4Hp5YtAltBkz1EHfar1HLUGtfx+ri1zQuKqje/3Tb10NWsIwWzj9dSuF8vcxHdnoCnd9OcBAvSRwswyAO/ePxf1g+fDQ=",
+  "createdDate": 1642130052772,
+  "descriptionMarkdown": "This is a Kovarex centrifuge that takes all 40 of it's required U-235, belts it back in onto itself, counts the U-235 on the belt, and then puts the last one created into a passive provider chest for robotic distribution. If you prefer, you can replace the passive provider chest with a steel one for belting out however you like. I didn't include any modules in the centrifuge nor does the requester chest currently request any U-235. If you do not have the 40 required on hand, you may want to make that adjustment.",
+  "fileName": "Screen Shot 2022-01-13 at 7.20.03 PM.png",
+  "image": {
+    "height": 426,
+    "id": "DbhpjE6",
+    "type": "image/png",
+    "width": 662
+  },
+  "lastUpdatedDate": 1642130415526,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/"
+  },
+  "title": "Circuit-Based Kovarex Cyclical Centrifuge",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202022-01-13%20at%207.20.03%20PM.png?alt=media&token=29601f3f-2cd8-4ce5-abf1-9f6b08a125de",
+  "favorites": {
+    "UvgCBiXOAlg0Eql5GtdE8HqDTDa2": true,
+    "zCiE30GNFqTbwL4H1rnnZ0Kq6Ml2": true,
+    "sJXXbMLBU2NZwoY119QC2xf9IQF3": true,
+    "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true
+  }
+}

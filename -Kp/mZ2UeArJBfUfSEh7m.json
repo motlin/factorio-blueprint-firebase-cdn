@@ -1,0 +1,25 @@
+{
+  "authorId": "G0hS5cjMsoZCTJEeWXe3Y0XGVXJ3",
+  "fileName": "Flowmeter.png",
+  "lastUpdatedDate": 1500868940640,
+  "tags": {
+    "2": "/version/0,15/",
+    "0": "/production/oil processing/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "SireGhan's Flowmeter by barreling",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Flowmeter.png?alt=media&token=85cbdcaf-fe81-49d9-8954-d4ddc9b48ba3",
+  "numberOfFavorites": 1,
+  "author": {
+    "userId": "G0hS5cjMsoZCTJEeWXe3Y0XGVXJ3"
+  },
+  "blueprintString": "0eNrlWEuPmzAQ/i8+VmGLIQSC2tNK7X3bW1UhJ0wSS+ZRY3YbrfLfO4a8A8ROo+1KvSRx8Dy/b2ZsXslM1FBKnisSvxI+L/KKxD9eScWXORP6P7UugcSEK8jIiOQs06uyzkqyGRGep/CbxHTzc0QgV1xxaOWbxTrJ62wGEjfsJZnkapWB4nNnXmQznjNVSFRcFhVKF7k2iRrdEVmT2IkeArSCXilZiGQGK/bMcTvuOehJ8HHayFb6wYLLSiUX/i9EzdNDAC9MoV+ouwItfrn/mUtV4z97iXaH810LFSVI1npLPuKWolZlbWx004aUw3zvNNUfEtLj3KFk7ONOLuc1V83S03leSoD8fONk8xO1elpN53OU1HYvgPH2zmWQ8jpzQKBbEtEpCwGXuDhBC0zYE0OncXoexej0cZ9z/t65FOY8BTlIGcdrXZv0cmarxYwwfQR4Iq32SjFdNK5eZCWTjVMx+WxNB62gXKNTda6ShSyyhOcoTmIla7DgSnCaZdrLFX8YjuCCcztmdRilNxqlPZCPLflId3Ts0BXYNp0dg8bvrus8nXedD2/YdegZQSLTphT2MulvKDLZR7arwkFQ/W1XQNMpl230jZIufBdcYLJ6RuDgSGjKF61NXPd4LJonfWpaSdQsTeFNzdP7T5tnaMrp6MosozbdMzTFPDDDPLLC3H3YDvOxUW3chQCPpwSgFgS4wqlOFiyYqHpp0JnpqQ1+xiM3NMNvaoWf96/wu+nMfILzpxtwfrxftU+Hi3hyXtTuIAuMO3dkxgLq2k24sQ0Lbppwj0cTjt5rvHXHTm89tLl3O7T1ZQHYfHXWvgJXj/s3O5jR4MoRyrDP0Buvfa5NJ+271VH/pjO+26nrcF9gVQXZTPB86WQIFM/B8TsCaYsluKgV/M1bkLgQzgrY89opuHBmTErQXNAvQJqIqxIgdbIirYU2EY87HTtcPhasUg7PK5Aa7j7+mlXvDly0DkmxSI6Yd3R6lsDSZMWwRWsd6Fm17ZDmRKPDVwA66QN3Yhl38L7iDvriCi2J5l7jGWSlWt+BaJFxwtubUHjq0rhL59S2PXhb1V1vmFxLRpzd1LwundRYJx3w7NAFRbHkVTNpVoD6JPyq8Xsgi9FGQ9nsSo5H6m407jW3MO/B3V0TmxPFpUe+Za4ig1wdWiRGBKINsTdT0UYfX5q3vfHRy+EREWyGEcTkG5r7ikVWfRHFC07VxrtnjL9l+HjsTTzq+yGm/A/OXKNf",
+  "createdDate": 1500865640550,
+  "descriptionMarkdown": "You ever wanted to measure how much water your steam engines are eating? Thats the way in 0.15! The flowmeter works for all liquids.\n\nThe basic Idea is to barrel a liquid, count the barrel, and unbarrel it again.\n\nIf you just want to use and not to understand it, just put 30 empty barrels in the requester chest and throw this setup in between your pipe and read the throughput at the green wire. \n\nThings to consider:\n * This setup will work as a pump. So if you want to measure the throughput of  a really long pipe it could give you wrong numbers.\n * If you want to have a higher accuracy just increase the time per measurement by increasing T.\n * The ouput will be shown as water / game-second for every liquid.\n * The maximum throughput of this setup is something like 930 liquid / game-second. You can simply increase it up to 2.4k liquid / game-second by building 12 speed beacons around it.\n\nFurther explanations are in the picture.\n\nI am happy to hear some feedback. [Reddit](https://www.reddit.com/r/factorio/comments/6p5tdp/sireghans_flowmeter_for_015/)",
+  "image": {
+    "width": 901,
+    "height": 729,
+    "id": "IC7qtX5",
+    "type": "image/jpeg"
+  }
+}

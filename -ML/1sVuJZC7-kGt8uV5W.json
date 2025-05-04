@@ -1,0 +1,25 @@
+{
+  "tags": {
+    "0": "/circuit/counter/"
+  },
+  "favorites": {
+    "iBFAiVCmqFcZ1GKGl7YZBVjqH2F3": true
+  },
+  "author": {
+    "userId": "PXsPSPz8OiQhTsIDzADOVM3uKab2"
+  },
+  "createdDate": 1604218654478,
+  "fileName": "my_counter_fix.png",
+  "image": {
+    "id": "9h7mhxc",
+    "type": "image/png",
+    "width": 757,
+    "height": 449
+  },
+  "numberOfFavorites": 1,
+  "authorId": "PXsPSPz8OiQhTsIDzADOVM3uKab2",
+  "blueprintString": "0eNrNV99v2jAQ/lcsP1EtMBICtGh7mPayh4lJHW9rhUxygNXEjmyHjSL+950dCinlR8K6dS+RHN99vvu+u4uzopMkh0xxYehgRWPQkeKZ4VLQAR0RronI0wkoIqekMbri0YMmGS65iBSkIMydGFqrxvBqa7fd03fiToxImmtDYAEiWZKYL3gMaGIkGRJ8CGnIDAyZ8yjKM02YIWYOBETcst5fpOKPUhiWEKa4mafM8Ig0LIzGIK9IJNMJF8xIPDo3WW6eIoa4FEiLkG9u18b6CEqSCdMQe3hWrknb873A63ghARO5Y0eSKNBQxBJxFeXceCRKgCn3qjjKJmtXn1xkYCMrhdNgccyNCzJBJG6IygWZ4g5DszxLgBjHJ0IIgsbWZMKihxb1KI+k0HTwY0U1nwmWWHHMMgNUhRtI0UKw1K4wz+ZProCu0UnE8IsO/LV31i2GCHVQzV28JYDgIMCCK5Pjmy1GYdEclTw7tTyHJc9wfe9RlAoZgyJxt1iOCzUxq623pcYwYcrBezSTmhd1u6KI12t1Pbqkg2Y3aHXxmBg5ior90LMQRslkPIE5W3D0R6cpTwyoI6SfTB7VtO3jB+0zGpwkYoPSKclw714LUUSuLZJvHyh6mSIeO7dNnbqlb+mcKQCxbxi8MFyvbbB7dAfbGNm2uisS7leiewc7xu2iU3Shg9JmXE8BDRZjXI9wiYOMbUbdezQpmro6yC21zB0U6CDzvtMzOLofVlOmU1eZ/n+gzFPPusIqE9+8gPjRceIPdMY52nvVaA/r0r4hPbzZnz+9v0t7keQFTXH7Gk2xOb2GPt3n/AdVJ1dwRKjuxZMrvFn/W2mOdsW712e+Su0Hu1Y5INSL+eRd0ke9U3eQ47PLaXN+dm0w36iDNreBNGPKpTOgHy4X0iJly7G7FoynSqZjLhCHDozK4U/667ls/aoXh87RWjlo3j1dLf1qzdyvVS3Xb1otu25u71XBx79QBVOW6DplcKA9a3wVC32wNNxvxKD01+jRhE0AM6LfeWp/ar5KmXExI58TGT3g9gIv1U6E4NoP++FNv9f3271ub73+Dbju/IU=",
+  "descriptionMarkdown": "This is a simple looping clock.  It uses a constant combinator so you can select number of ticks and number of numbers (increments)\n\nT is number of (T)icks per increment\nN is (N)umber of increments\n\nExample: T = 60, N = 3.  Horizontal arithmetic combinator (division) will output 0,1,2 in 3 seconds (1 second per number)\n\nTo reset the circuit, clear the output of the Arithmetic combinator (addition) let it run for a couple ticks then add it back.\n\n\nBased on (basically a cleanup of) this self resetting circuit timer: https://www.factorio.school/view/-LAkVIHWaYGcAV2SybBv",
+  "lastUpdatedDate": 1604220872319,
+  "title": "Simple Looping Clock"
+}

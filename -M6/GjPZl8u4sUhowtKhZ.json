@@ -1,0 +1,27 @@
+{
+  "numberOfFavorites": 0,
+  "title": "Beaconed and space/material efficient green circuit production",
+  "blueprintString": "0eNq1WtuOm0AM/ZWI59Ayd8hjf6OqKkJm01G5CYaqq1X+vQObbKqNEzxu9ykXkmOPPT5njHlJ9vVk+8G1Ptm9JK7q2jHZfX1JRndsy3r+zj/3Ntklztsm2SZt2cyfbG0rP3Stq9LKDdXkfHLaJq492N/Jjp22qwD90B2myrtfzj+nTXhf21T8hcERGHtbBn//+pNA/GnsrT1AFuXp2zaxrXfe2dcYLB+ev7dTs7dDWNZ7w9uk78bw8/A2WAsQKcu2yXN4VTNsMDvOF95ZDEub3XwHztfBDRVbXNP2ux/sOKZjXzvvwzVgCZ/Uqx29hKaf/PewPbohAAaA2j7Nmb4xISNMZA8tDO74AzShViOkqQHSq9AFFdrcBMYPZTv23eDTva09lAF+NXZwQyi05aIE0HM6ulxHL65F48vqZ+ra0Q7wrpFo0LlELqhNWddpXTY9gKguQYAwrqXY2IObmvSVjwIb9V1t76NJEI3HR1GCKeIQuohHF3h0GY/OH0X2WmXjtA9pX/54i/FWw+ITjKNv/JoCzQ7HoQuvd/fmdd1n7u4mH/gBogNmCBayGAM5wQCD6wBjrojOJMwTGlKXLBqcPdglnKGZQaCJgceXocAHQEQyhnxAGFyiKEw+iqCKTwhDywLXZHRMogziIHRePI8/CP2DpnGE8wUdXqzDC6S6XcINn9ei5e0CJ0C4a2GV42ibfe3aY9qU1Q/Xznm4hSuu4QyrdQtzVV3f2yGtyv3iwVtS4YP8DiwcIWI9UYAnQO9B9Ueu7uSzYrD4Q/e1wp/K0T+gSHh3QSwmNF2SxD1JWk7gkCIJE5kt+bHJyiPdyT9qFxeoGr/0guDukFlkiV/QwAqXjMz3CMqUnIyOYEwpVmuQCaqYSImWqvgKl4osJRkiLpouVAwBb/DN3Tmb2TpByTwa9b2zIGxBUzD2v0tfZfj1GfTyFItFRaRCcZrWso9hbyWwcnjpftl696tkJGiGwFSUzvVO4SH6PqXp9rJoTVc0Tf+oTYGnC43fFEUkKGJT6Ix09vjv/KPxTMEydMQ0j0XFhAyt6/HKqyX5RIKQRk3uzRGyrumyjjiqafrtZkxgclxza87uQhAF/b4gP63zm8nIdwVR8IzcgBGkwXCyNR6tDEbE9auIc43B3SfT97eLIZciolgM+S4ZolYMvRIRTZPJ0bNIGT+yKrCzyHjsPGr6A2pgThz+gJ1zTp79yHUJzEXsAA32UVInSBgfFXWABCdHU2bNImbUnBvCrFlEjZrznDgugWNCnezIdYotMuLQBIPNIsYc4MoLHjknAvd/QZvdwFgS+RRBPLUVCvkUAQGarFQ3WvLt1fbs5NuDP9ukLgNK+O7L4rg9bMr2sBn7srKfmzLky5X1xj49ucoFzzbHwdp2c+79Npf+ZVnwLzuMiyVjBMtyJRhnp9MfBL8tPg==",
+  "createdDate": 1588361800052,
+  "fileName": "green_circuit.jpg",
+  "image": {
+    "type": "image/jpeg",
+    "width": 1366,
+    "height": 768,
+    "id": "8qJBf3I"
+  },
+  "lastUpdatedDate": 1588430829937,
+  "author": {
+    "userId": "Fb8iGMQquWg8I9hsZ3KsqfqajQr2"
+  },
+  "authorId": "Fb8iGMQquWg8I9hsZ3KsqfqajQr2",
+  "descriptionMarkdown": "We all know how much copper green circuits can soak up. That's what this design is meant for - saving your copper and iron (in the long run) and also getting more green circuits out of a small space.\n\nThis design also prioritizes the modules at the very front of the output, instead of the back. (This means that if only 1/2 of the machine's capacity is being used, then the front half of the machine will be active instead of the back half.) In most machines, the back half activates first but the materials get there last. With this design, that isn't the case.\n\nThis over-lapping tileable blueprint (you expand by over-lapping part of it) if not only space-efficient but it's also material efficient. Each of the crafters have +40% productivity. The green circuit crafters have +90% speed, and the copper wire crafters have +140% speed.\n\nTiling:\n\nThe first 2 spaces and last 2 spaces of the blueprint are identical. This is so you can overlap them when tiling, and save space.\n\nInput:\n+ 2 copper belts (sides)\n+ 2 iron belts (outer of middle)\n\nOutput:\n+ 2 green circuit belts (inner of middle)\n\n**After testing, I've concluded that you will need 3 of these modules to mostly fill up 2 blue belts with green circuits.**\n\n[r/factrio post](https://www.reddit.com/r/factorio/comments/gbou6m/beaconed_and_spacematerial_efficient_green/)",
+  "tags": {
+    "0": "/production/electronic circuit (green)/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,18/",
+    "3": "/version/0,15/",
+    "4": "/general/beaconized/",
+    "5": "/belt/prioritizer/"
+  }
+}

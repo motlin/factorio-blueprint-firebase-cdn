@@ -1,0 +1,28 @@
+{
+  "lastUpdatedDate": 1608107099675,
+  "numberOfFavorites": 4,
+  "tags": {
+    "0": "/train/loading station/"
+  },
+  "favorites": {
+    "i3tuKk4UukVWjIFlGXzeO8RTwmf1": true,
+    "MZ06ZK4feKUIg1K6KPD2DjrvE5n2": true,
+    "EgRgxlfTW4RS0aKNkHjJbjjUkNf1": true,
+    "H7qmT6ebR5NfOrAk4EtA5QLr3nw1": true
+  },
+  "authorId": "CyPuFjOI8LVZEG8ddORzN95swRl1",
+  "image": {
+    "height": 930,
+    "id": "xj8WTdy",
+    "type": "image/jpeg",
+    "width": 895
+  },
+  "createdDate": 1608107099675,
+  "descriptionMarkdown": "I created a logistic network of trains to deliver goods to the frontline to keep outposts running and defend from biters/spiters.\n\nBefore, I made a simpler version with just inserters reading train content and limiting the insert that way. It work at the beginning, but after a few trips it becomes unbalanced because the inserters are active when the train is not present. It easily ends with full cargo of the same material.\n\nI came up with the setup. It works perfectly. First cart loads freely because it's alone and the ammunition runs out pretty quick.\n\nSecond cart has the number of items limited by the condion on the decider combinators nearby.\n\nJust for fun, the light turns yellow when the train stops but it's not loading and red when it's loading.\n\nHope it helps anybody. Feel free to comment, make suggestions :)",
+  "fileName": "ih7awf7lmf561.png",
+  "title": "Logistic source for outposts",
+  "author": {
+    "userId": "CyPuFjOI8LVZEG8ddORzN95swRl1"
+  },
+  "blueprintString": "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"
+}

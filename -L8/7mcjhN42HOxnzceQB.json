@@ -1,0 +1,29 @@
+{
+  "tags": {
+    "0": "/train/roundabout/",
+    "1": "/train/junction/",
+    "2": "/version/0,15/",
+    "3": "/mods/vanilla/",
+    "4": "/version/0,16/"
+  },
+  "title": "Two track turnabout",
+  "authorId": "JQ4wEmh69wUwpn5bjQfrvv2R3K92",
+  "descriptionMarkdown": "Sometimes you just want to go backwards, you'll need this.\n\nUse this blueprint if you have 3-track gap between rails tracks like me.\n\nNote: roundabout is generally not recommended because it may create deadlock if a long train changes its destination during on the roundabout. But if you use short trains or don't want to count on the rarely happened event just feel free.",
+  "createdDate": 1521639656931,
+  "fileName": "snipaste20180321_214017.png",
+  "image": {
+    "height": 736,
+    "id": "yQSqoBq",
+    "type": "image/jpeg",
+    "width": 1171
+  },
+  "lastUpdatedDate": 1521691040022,
+  "numberOfFavorites": 10,
+  "favorites": {
+    "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true
+  },
+  "author": {
+    "userId": "JQ4wEmh69wUwpn5bjQfrvv2R3K92"
+  },
+  "blueprintString": "0eNqdmN2OokAQhV9l0tc4obvpavBVJpsNameGrIJBnF1jePfF3wzaxnO8UkA+i6o6fZraq9lyG9ZtVXdqulfVvKk3avqxV5vqsy6Xh3Pdbh3UVFVdWKlE1eXqcNSW1VL1iarqRfinprr/lahQd1VXhdP9x4Pd73q7moV2+MH1zvm2/Q6LyRGQqHWzGe5p6sMfDZyJS9Ru+NB6YC+qNsxPF6VP7pAGQ9o40UaIFgxS6xPTj5EmgsxGGZvMv8qqnpxzew8u3s/PP3wZs3WE7a7sTTfQP7+6RwHnJ2o+ZvoIU7AUFNEExIAeDVKiMcaeO2dy6h+mNNYBxRj9sFA6v2D9LTbWBTolOwuovtZUa3kuYMPAHce2VI+5PsagdKWFCxAXlj4rSwCq4FTBqR6nZjg1x6kGpxY4NYWpJmWXQQSqYSheK2NgKF4qY2EoXimToVCiTrCqiDhhTREJZR0LYcJ6IloUVhMhJguLidC9hcVELFEWFhOxmlpLeaq2F1/R71GbspxN6Z+4UbBZDO64TYUFkNT27wboYkDPWqkBqpSzTopACzSbNvbwsc1klrLeDMSZadaaEahhnRmBWtKYEWZG+jLCdKQtI0whXRlhes6UEWTOeTKCLDhLBpAu5RwZQYLziPjSGZtGOMNZPBKkJR0eYWakwSNMR/o7whTS3hGm59z98o5vb904Wv/8pUkPxqZfnOT5/EBSrmEFGB7pVyYzUArEYJOZ66s+RmUtSp5veSSjRp0FkFbHTDqL50IQ4RZUeb7XEUpbF2XJbZGiCX1NWXejHn+YUR+n2NMfQ+9ELctZWA7nur/N25CN+Z+3btvW5azZHq5+h3Zz6p/cG2219pn0/X8Js50m"
+}

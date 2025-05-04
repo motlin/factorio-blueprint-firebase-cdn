@@ -1,0 +1,30 @@
+{
+  "createdDate": 1567810955739,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/belt/balancer/",
+    "1": "/belt/transport belt (yellow)/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "4-Lane Perfect Balancer",
+  "favorites": {
+    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "1MUdyzIDGBRnnZMrMnH17bZq6Yk2": true
+  },
+  "author": {
+    "userId": "BHWq5o2WT4YzZp2LQoYpoC7Wosf1"
+  },
+  "blueprintString": "0eNqdW8tO20AU/RXkdajmztx5Zdl1F91XqArgVpaCEzlOVYTy73WIUxBM4nO8QtD6+M59nbkPv1T363297Zq2r5YvVfOwaXfV8sdLtWt+t6v18W/987aullXT10/VompXT8ff+m7V7rabrr+9r9d9dVhUTftY/62WclhMPrzbrpu+r7t3j1ngsf3wX7vf3Wb4+fGt7nC3qOq2b/qmPsn/+svzz3b/dD+8aCmXJF9U281ueGzTHt87QN3aRfU8/BAzwD82Xf1w+sdXCT+gWho1HwowDoYxZ5RJ0RQXTfADe1bSj6BaAA20qMD5IwxaxiwJmnBB9QQapwXNtA+lkg+JoXFiEYeIFFc8ZElzYlnHATQndNwkQFI+cBIgqr+cxS7iHlUwJsLNvt/ujwnvM3JgHR0Rl44exFzpMwF8gju75hcPAOKhg3uqJeIonFABUa3QqSOUotNaQIe3fpQLUaJ1tGQIqjL+bs8nBvzdUpHk3pDf2/3/e5r20msCnU4RtUQ6uSKoic2DAQDNiKcJ4WnOsGL66XB1wmaqAIBaFhQ5Ph5ouEM5ZVMgYHrnAdMrY/kAAI7yKQSIx1HAXSmxoIgr4RzlYQMpwVHphOoAVKGZT0scpURVFHHpHJP3wxvuJKMoxVXKIHuaWxXQRJjBrXqY5jyNNOe5ogMgF70zv1kk3jXPIP2PqpxWgDczbumIZr3MAIZczNOFlZtOWp4urBQAZcJMJkx4RSEerzIc4nueIC/ImT1NXojJaPJCTJZpnrGlhBAMkhCGmm/sGRUxBMEYzyaIHYJlgjKez0d7ZOArLAtIT/QpPI7qaVQBGnxhBsMKkFcDz1gCKCHRqIhq53CYXCpcL7tbpMssQCVR+HYygGppVDvtbZFmL8B6UdmSEDm/Z0ERSQNbZyKSRhYUkTThdSaU0WPGqdoggMmwrApkwyQsKOD0ybJ1JmCg5Fj+R46vLKgp3QcSwVR5hJk+cGBBgdhJka9chW5YJqjo8uMdC5jKpcyTttAlVzbshQPQeBZedINUW5ke+AJOlx0LWrwgZ2V7y4gmZ3TbDe27OfDlMXI9zJG8CSDWSuydBQFlYs1cD7Uro0JjyPsGILoYtgMPcIQYC1fxEJGLcfDVQDBAJVlcEFBPsjgEGkhJIatHQJ+RMRAeVwk/eiZBkaML3X0H+jciwvRILIJo2X6+Q07v+K6Jm5Gr3u1hXNHHibuhtpsI3duA9EEPiiFUelBsy8s8RCveYVrMLP+VJWP2LGTUWxFHSI4H6h6xbFcdsSmxaSG4pEoW5hAo25eAjs/2JSDQCLcQsCRhE3xPwOLFZpJ9y+FCLE/4azBs76EcdI5qnZ9IkB/HiXN4zx/aGxCnPHvNGEKJ83wF6g+ISgJLYsDmgxD7FCOqIspOvBLmeAm9QavIGqjhp+yernxFhS+wPT8UELX4Ohe00yPKttmLyyKiSsL4Moynp8tz4loDXJdiCUkjzDegWdhB8AWzsLRVNount2mRRWIv7IYRhGr5Pm2YEYqengdD0tPzYAiV3mAKZT+gaSsg0tHjX+jMia29IFSapRANBMPKCqHS015EA4EtqiBQloWg87PDXkhStqiCJGWLKgiUHfZCx8eHvQEiuoAPe7GvSSI77C2nOmJVAs90kR48ZQTV8XfcNIPxInvHgz5R8mySglDpjxFz2QvYGIKES2QK+QR6tzh9U7t899nvolqvBpDhb3r7bdXWN9/r7tfwyM3X1XrVPryG1Z+6271CRGckZWM0mcPhH3uE8OY=",
+  "descriptionMarkdown": "Perfectly balances 4 input lanes onto 4 output lanes, regardless of input or output backups or gaps. Can be made using only yellow-tier belts.\n\nNobody wants or needs this. I don't know why I bothered making it.\n\nIf anyone ever DOES put this in a factory, please let me know!\n\nWell derp. The first version I uploaded wasn't quite perfect. More intense testing revealed that under certain circumstances some belts would get just slightly more resources than others. I've fixed it now by adding one more splitter to the end... And testing the crap out of it...",
+  "fileName": "PerfectBalancer4lane.2.png",
+  "image": {
+    "height": 965,
+    "id": "83HU685",
+    "type": "image/jpeg",
+    "width": 861
+  },
+  "lastUpdatedDate": 1567821036271,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/PerfectBalancer4lane.2.png?alt=media&token=f159d4c7-44fb-4d49-b339-19cadaccad8c",
+  "authorId": "BHWq5o2WT4YzZp2LQoYpoC7Wosf1"
+}

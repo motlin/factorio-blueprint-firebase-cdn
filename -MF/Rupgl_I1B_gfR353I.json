@@ -1,0 +1,57 @@
+{
+  "author": {
+    "userId": "CHYY1B0z05hKMTyg6IIO1fjvFm53"
+  },
+  "descriptionMarkdown": "- Two-way, RHD, aligned to 32x32 chunks.\n- Straight and diagonal tracks, intersecting in any combination.\n- Only four prints. Make intersections by rotating and stamping roundabout entrances.\n- Roundabouts are signaled so that trains going in opposite directions don't block each other.\n- Poles and circuit wire included.\n- Landfill included.\n\nNote: While deadlocks in this sort of roundabout aren't possible under \"normal\" traffic, it is possible for two trains passing each other to deadlock if they both simultaneously reroute and decide to turn left. (It's also possible for a train with 11+ cars to reroute and collide with itself.) Rerouting can happen if you disable a destination station with a circuit condition, for example, or if you deconstruct tracks. This is rarely a problem on long-distance tracks, but it's more likely to be a problem inside a high-traffic base. However, you probably don't want roundabouts in the middle of your megabase anyway for throughput reasons.\n\nA detailed view of intersection signaling: https://imgur.com/0biArMx\n\nVersion history: https://gist.github.com/oconnor663/a0bee6f950b0240dbbf8836cd7741e9f\n\nLHD variant: https://gist.github.com/oconnor663/d33abfdd69432bf64b61cbccd5b53820",
+  "image": {
+    "height": 2921,
+    "id": "S219uqO",
+    "type": "image/jpeg",
+    "width": 2921
+  },
+  "favorites": {
+    "LTOlyVJmBBckQFDVZDbXQdQwmUn1": true,
+    "vei72HwB7eajv8MxWkYdHvu2sc03": true,
+    "mTiuvlps0JPVw3tHfnnB64K9LLf1": true,
+    "Yzo0bVToesPSe1yHfkoIGxgqGcA3": true,
+    "jHJZWGZv5Mcz2ewjSeLR5NkuC2d2": true,
+    "scaz28oi93TS1SZFKap8CxQi0FE2": true,
+    "7uECBwl7mGYh3KYxEpA3G0f8FwR2": true,
+    "0HZOJb1AGQgp7PcKG00Aluu0YBs1": true,
+    "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
+    "ZjYr99if5aVbZCW2C4IlMVrLv7S2": true,
+    "rvV8cLlEYrSdLoQ1RJivKipkfAa2": true,
+    "Y7JipAsSRAShT2mPn4ZxWr15MZG2": true,
+    "4MT7V13r61Pua3WS8GUBa13Qlo23": true,
+    "30zH8cZUM2ZbHn2mk2T8qLccDTs2": true,
+    "JT6zla7WvNhoa0jBLtScmMYBkUn2": true,
+    "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true,
+    "XJMOoG1yeJgTeuJd9E724ecxbxR2": true,
+    "4vmDVgzQw9O1oSSxBkmmPS9mzhr2": true,
+    "DPhr1SCXgtMtVZwZ1GWyvUkP6Rj2": true,
+    "uXdDMNM8THhhGHdiUwePmSn5GlE3": true,
+    "F5KCsRfPdVbT4176Wo4eOMqdCLt1": true,
+    "mSTM2FtTvdPYQPEZQkJA20eZAq72": true,
+    "Wa0I4bnpXZMAYgBTxnlOQbLHaUf1": true,
+    "K8CrK0BsiOPJTwJTKjPJ6emX1ag2": true,
+    "RMpS8VqCO3QCPWkDFzQSFflLOy63": true,
+    "qpbOUXSRhEZDX9Yxc0j6PnfmZX42": true
+  },
+  "authorId": "CHYY1B0z05hKMTyg6IIO1fjvFm53",
+  "blueprintString": "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\n",
+  "createdDate": 1598213020505,
+  "fileName": "snow rails.jpg",
+  "lastUpdatedDate": 1679206116953,
+  "numberOfFavorites": 26,
+  "tags": {
+    "0": "/train/junction/",
+    "1": "/train/roundabout/",
+    "2": "/train/right-hand-drive/",
+    "3": "/version/1,0/",
+    "4": "/mods/vanilla/",
+    "5": "/train/track/",
+    "6": "/version/1,1/"
+  },
+  "title": "Complete Tracks in Four Prints",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/snow%20rails.jpg?alt=media&token=f2ec4a68-5973-43da-951d-0d8c21360d37"
+}

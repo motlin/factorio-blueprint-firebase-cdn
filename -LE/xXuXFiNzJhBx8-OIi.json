@@ -1,0 +1,31 @@
+{
+  "title": "0.17 marathon science 25/m (red, green, blue, gray, yellow) earlygame pre-logistic",
+  "authorId": "TOFviEA0gMcQ9vgMvoM3oHRxTwj2",
+  "createdDate": 1557958207773,
+  "image": {
+    "height": 1596,
+    "id": "RfZI7S0",
+    "type": "image/jpeg",
+    "width": 2429
+  },
+  "lastUpdatedDate": 1557997749635,
+  "numberOfFavorites": 3,
+  "tags": {
+    "4": "/version/0,17/",
+    "0": "/general/marathon/",
+    "1": "/production/science/",
+    "2": "/general/early game/",
+    "3": "/general/compact/"
+  },
+  "favorites": {
+    "PumtYcK1XUXmMq4OqJVyMB7YMa03": true,
+    "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,
+    "EtByybUWN9SnmOLAFVAYTTHXxl62": true
+  },
+  "author": {
+    "userId": "TOFviEA0gMcQ9vgMvoM3oHRxTwj2"
+  },
+  "blueprintString": "0eNp1jtEKwjAMRf/lPlfYGCjrr4hIp0EKXVraTDZG/910vvhiHkJuyD03O6awUMqeBXaHf0QusNcdxb/YhbaTLREsvNAMA3ZzU5IdlxSznCYKgmrg+UkrbF9vBsTixdOXdIjtzss8UdaDfwyDFIvaIrdURXUGm/baiEe6/XnWIDi16W7V+U25HMbL0PXnUWsYa/0A6zJJpA==",
+  "descriptionMarkdown": "For questions contact Andromalis#1928 on Discord.\n\nhttps://pastebin.com/w5APzXtH\n\nBlueprint is way too large to paste here.\n\n25/m input limited Marathon science production facility. Up to 25/m red, green, blue, gray & yellow combined outputs. Pre-logistic setup, used to get to robots ASAP.\n\nFurnaces should be replaced with steel furnaces to achieve perfect output.\n\nNo research labs are included.\n\nInputs are highlighted by the inactive lamps.\n\nBottleneck is copper.\n\nThere are leftover iron plates and stone bricks.",
+  "fileName": "25mScienceMarathon.png"
+}

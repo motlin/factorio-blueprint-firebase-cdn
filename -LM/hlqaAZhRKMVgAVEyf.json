@@ -1,0 +1,27 @@
+{
+  "authorId": "pBKlKCqa0cSDTC8iiGtdut0sRsD2",
+  "blueprintString": "0eNrtW0tv2zgQ/isFz1bBh0jJBnZvPfWy90VgyDbdEJUlg6KMZgP/9yWlJnESyh4yVWsDusSRJX0cfvMih+NHtCpbudeqMmjxiNS6rhq0+PcRNepbVZTuO/Owl2iBlJE7NENVsXNXa1kZrbbtN4mOM6SqjfyBFuQ4u/hiq4tKtbuEMn7yJj3ezZCFVEbJfvzu4mFZtbuV1Bb6GaAxxfp7slWlkTpRVSO1/cfi7+vGvl1XbmSLmPAZerAfmR2kf7jHfRLVI1COjnduBm+GpidDS1km63vZmOEB86MHg71gtCs7g+69dxD485PQn7kPJX1G2RaNSYyVvNnX2iQrWZ6RSFgKNkrLdX+PepB5LL38NXYKJpv7yRaBU2T+Kc6QNWSj63K5kvfFQdXavbBWet0qs7T3Ns8oW6UbswyzWuclpnAug93Fbl/owrgx0F/d7Z/jyKpYlXK5UY37RAujW/lyV8tis7wvqo2Tx1geLGfbomxOHnm60T+7qzcWBPfjV/1cGycycX+03Jw6jrJXmaXYZ0dZIMnplZH89zmS31DoY/m1HnwkEzjJYoDk/I1LnfGl9MmXPDDzYM+k43gmwYFWQyarGbYawgfMhpBAmik4yBMKN0lyxiQJC7VJMpJJBiZEAqeKhyHjKQ2dsXU8ZOuB2X5K9udYHsr2JDDd0ylun2F5KN0TeL6n52LrPExZqT+y+rYxOApZAJCJb1s4uMxhFtHiqc4mvteHQssfiay0Wt/v7OvJXtdr2TQWwBlMpw253ToBDnbUxKqsdZqnPvoohYlCfoMoDCQK/Q2SpFGaZwDN8yjkFIAsYnekP515MFI5l1/W22W9l7rfh7u8cimAwCME7eJwUNFhhuqD1FpZwbrJ2tD5n/QvTOhJML/ISApj5COxO78YuwOYE0HM8WHmiI+5PIA5cmPMzUdlLnoP+sd9MR/TFxmO3Af9aVoYGZUWAnc0elt+xvCYfsZoVDYll7MpY1HIFID8srYAlqPxa1DhA+XBSY68Ky3chD2NmvFY+BqKRZA5erTio0arDG7ADGzAORw0BYPOgxcwt+kVKR3TK1IM1w2B6iYlcFAKBqWh/ouv0X3nY7pvysDEw5UJz2kYjMnBmOAok4rQhdaNxoNs1HiQhXrZNSbJVIzqZfB8Bo9uUZVOwGKXRxU6MQA4qM45ZkWPB5U5R5UkpMo5qiBRRU5AjZNH1TgBWycuQjsEAFV+nkWu+fnxo6exPA89XobMZx63Bvr4dASOywu/YGQSeJQE4FFE1RYgwFGlBcAJgIjrdntzXiWmw+GuSWno2FLwqIY7cTm/CxHVZXY1+ruuJrN0SH9ZVFfWxLKX5XyI5TyqKWuKRV6WhxpVxDyoS3qgSTrDMa1bgICWkZhus8kGvJ3JbKg1mca0hEG0x2K6oKY46dUeGdJe1Cbsnfbu+g2gRXn5ccoMlYUFsd997TeOn748bxw//aPVrlseH+yquwPJGCZ5JuYpzo/H/wGOtH6d",
+  "fileName": "20190820004410_1.jpg",
+  "image": {
+    "height": 1080,
+    "id": "t4VXTgh",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "numberOfFavorites": 1,
+  "title": "KISS Kovarex Enrichment",
+  "author": {
+    "userId": "pBKlKCqa0cSDTC8iiGtdut0sRsD2"
+  },
+  "createdDate": 1566283622797,
+  "descriptionMarkdown": "This blueprint serves as a template for a Kovarex Enrichment setup that doesn't hoard U235.  It is a simple setup that uses stack inserters and a few circuits, generally accomplishing the same as similar setups with as little complexity as possible.\n\nTo get this blueprint working once placed, a few things must be done.\n\n1) automate the feeding of U238 onto only the INNER side of the outer belt loop.  U238 will simply fill the belt and be grabbed as needed by each centrifuge.\n\n2) manually load 40 U235 into each centrifuge to start the process.  Each centrifuge will only use its own recycled U235.\n\n3) connect the center output belt to some line that will separate your U235 and U238 and send them wherever you want them to go.  I tend to just dump this belt onto the same belt that processes Uranium ore into U238 and U235, because that belt is already designed to separate the two and send them to various stockpiles or parts of the factory.\n\n4) Sleep easy knowing that no U235 is sitting around being idle.  Then wake up to a dozen steel boxes full of stockpiled U235 and realize that bothering with balancing the Kovarex Enrichment process is more about satisfying compulsive tendencies than combating any real bottleneck.\n\nAs you gain enough U235 to expand your setup, you can simply copy and paste additional centrifuge+conveyerbelt+inserters along the line to the left, or by removing and pushing out the wrap-around belt to the right.\n\nThe principle used to make this blueprint work is that you don't need any overly fancy circuitry or counting or buffer boxes or anything.  The 2 pieces of U238 that get output each cycle just serve as a trigger.  A stack filter inserter with stack size fixed at 2 extracts the U238 in a single go.  A filter inserter keyed to U235 and a stack sized fixed at 1 is linked by a circuit to the U238 stack inserter and enabled by the presence of U238.  When a cycle in the centrifuge is done, the U238 will be extracted automatically, which will trigger the withdrawal of a SINGLE U235 onto the center belt.  This accomplishes the extract-one-U235 process without counting.  The remaining 40 U235 are recycled back into the centrifuge by a filter inserter keyed to U235 which dumps all the U235 it can onto the outside lane of the outside belt.  A single circuit wire between the second and third belt square in front of each centrifuge is used, which disables the third conveyer belt tile if the 2nd contains any U235.  Thus making sure no U235 ever makes it down the river - it just gets scooped back up by the generic stack inserter that handles loading both U235 and U238 into the centrifuge.\n\nNote: Productivity modules screw with this setup because only surplus catalyst is produced - when a productivity cycle completes, you get an one U235 and no U238 to trigger its withdrawal, so it will end up accumulating in the centrifuge.  I have an idea of how to modify this setup to accommodate productivity modules, but it's yet untested.\n\nEnjoy, and feel free to mention any suggested improvements.  The goal here is tile-able and as simple as possible.",
+  "lastUpdatedDate": 1566283622797,
+  "tags": {
+    "1": "/version/0,15/",
+    "2": "/mods/vanilla/",
+    "0": "/power/kovarex enrichment/"
+  },
+  "favorites": {
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  }
+}

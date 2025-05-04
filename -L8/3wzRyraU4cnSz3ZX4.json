@@ -1,0 +1,52 @@
+{
+  "blueprintString": "0eNrll9luwjAQRX8l8nNSkTQsza9UFUpgoFaNbdmmLary7x2HnZraCQp96BPyMvfOjO2j8EUqtgapKDfTSog3UnwdZzQpnk+Gdo3OBN9Oa7rkJbNzZiOBFIQaWJGY8HJlR0aVXEuhTFIBM6SOCeVz+CRFWsfeYKoET4SCk7AsIGwmpAR1EfgYFIiLx5C8fokJcEMNhW2xzWAz5etVBQprOERqyagxOBcTKTQGCG5dUCTBTRv8GTwMUXlOFcy2q1lMFpTZmLOMYyLWRq7NFHstFLrhMoOFbd0P/yzEP2v8f7U/9Nllrujy1en+eO2Qf+Qw2LYgrR0qeUANIS3URvB23RsGOA/8zWsuTavGjYIbtzu7C3OH5LilpPssJsEqu1udnmeWOzSfgjWvSOIbbF5pcUKgmLASRXAOb22kURNUlEQbYEx84Oo7KN2EjybjLM3zbJKOj+96YNPshrNFqU3yT5jW1PrXYPMlcQe6uc68I+I81fTNOY99z7AL6mMH4rXQ9WEvSKoL+4KEbweggrmXfml3+sGnVKD1fwHgvty/ZmBAHnfA4JXD70hCf019w9CfQc88DG1oByS2k/ZRMVStCxhDtW9no93ghWPmUkyaf8QuWR0923SjqtQwf8EtJWb2DtP9h+YVu/obmO0uXg==",
+  "createdDate": 1521575262098,
+  "descriptionMarkdown": "# (ore) sorter  | beltbased | 16.17+\n\nJust a simple sorter that sorts each ore using the splitter filters\n\n## setup instructions\n- plonk down blueprint\n- input mixed belt\n- drain each used output accordingly\n\n## cons\n- throughput is limited to 1 belt\n- all outputs have to be constantly drained for it to keep flowing\n\n## maybe later\nMore sorters could be added to this book, therefor the parentheses on 'ore'\n\n## interesting thought\nThis feature lends itself to be used for a new 'main bus', where everything actually goes onto one belt and needed items get sorted out like this. A small problem here could be to keep up the flow.\n\n## tag requests\n- /belt/sorter/",
+  "numberOfFavorites": 33,
+  "favorites": {
+    "BfuETSntPtMtLm0KJnRMuwHQlu92": true,
+    "5p8g3ZKHjJh40KHdKoDOMK10Q6t1": true,
+    "vQwioLo1noXD5xTafJcPlqlXZF82": true,
+    "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
+    "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
+    "clUeoOLOp1Ufk7CUtQyQN17FCCP2": true,
+    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
+    "xhUH89CUqrbZwSWAcGUVISi2AY43": true,
+    "q0PJ2draUhR1cF2EoPSKLj53L0q2": true,
+    "wJTgxTSUSTW8pxP8gHJORPznqE52": true,
+    "UxzvgfID8xSPwgoewV2eVGeBeUJ3": true,
+    "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true,
+    "ctldZSfybscJqluGE7XhHOpapXi2": true,
+    "N4DYD8higBTOlCgZXMLjaLcrgSw2": true,
+    "WZ9yqVJDqINKPXgE48waiN9iZHr1": true,
+    "eKOE0LJ3C8WE1fZWcG5vXFavvYj2": true,
+    "fxqGTniqBUafeanJtVRBlM2EeI13": true,
+    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
+    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
+    "sJXXbMLBU2NZwoY119QC2xf9IQF3": true,
+    "vNEO2WnecNfbfmURCEVsg4JBCMA2": true,
+    "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
+    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true,
+    "5Vhq4t6WyNXDHCCnv3wYuoxNdDv1": true,
+    "uhDMpWhLnVSuzMkTmiLA0nz2kz52": true
+  },
+  "author": {
+    "userId": "knHtxh4wDXaumqgful47NygduO93"
+  },
+  "fileName": "ore sorter.png",
+  "image": {
+    "type": "image/png",
+    "width": 827,
+    "height": 529,
+    "id": "QKtIHg5"
+  },
+  "lastUpdatedDate": 1552584237599,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/0,16/",
+    "2": "/production/belt based/",
+    "3": "/version/0,17/"
+  },
+  "title": "(ore) sorter  | beltbased | 17.x | tag requested",
+  "authorId": "knHtxh4wDXaumqgful47NygduO93"
+}

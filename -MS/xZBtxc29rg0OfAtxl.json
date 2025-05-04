@@ -1,0 +1,27 @@
+{
+  "author": {
+    "userId": "Fg20VqAmzaMyvEAqaHD7okuA3Yw2"
+  },
+  "blueprintString": "0eNqll91u4jAUhN/lXIcq/ovtvEpVVdB6WUvgRI5TLUJ5901ghSphWGd6hULimZPJNwGfaXcYXR99SNSeyX90YaD29UyD34ftYfkunXpHLfnkjlRR2B6Xo7j1B5oq8uHT/aGWTdV/l4zzpXEfu/lzs3OH9G05n94qciH55N3V/nJweg/jcefirP9YpaK+G+aFXVicl1l4/aIqOlG7YfxFzS6fPrqP6xVNdRsu9OMyw50XX+XFSry6MT0wEzezIc2Z7n+nzSXajJP45yOmjI5cNbT8UUDq5jWPHIa+i+mhk3rilJFuwOxrJHsNQsWAzAzoVQNe9ub1azukjQ+Di2k+8TTBu5viGWVWr8eV5XBl6wqtfpQH4xCwSyI5NVEer3wyd05aItKsSFphAFok7wbzMoiXxt4YBnlhMAM0yxYVy64uls3ByWsEdZsnnYMlRZ4j5wD6poR8jvTVFilLjPMGyQfsr0a8GgBzXYI514ByU6RsVhdIZ5m3SIF0vkACauPd/cqcNAOobkqoFkgTdZGywBhWAMNCYr8LCvoTr1bDl+elQXiRD+DT2JYAStsgg987LdvAy6ax/bYtrejLxeHafMOktlyLWklem2n6C3fMxy0=",
+  "fileName": "Screenshot_20210207-123419~2.png",
+  "image": {
+    "height": 778,
+    "id": "mJSt4R2",
+    "type": "image/png",
+    "width": 652
+  },
+  "tags": {
+    "0": "/general/compact/",
+    "1": "/train/unloading station/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "Compact train to belt unloader v1",
+  "authorId": "Fg20VqAmzaMyvEAqaHD7okuA3Yw2",
+  "createdDate": 1612719378086,
+  "descriptionMarkdown": "Pulls 10 lanes off each cargo wagon, while only using 2 squares of width on either side of the track.\n\nNote that it's very important to demand-balance all 10 lanes, or throughput will suffer as not all 10 inserters will be able to run.",
+  "lastUpdatedDate": 1612719378086,
+  "numberOfFavorites": 1,
+  "favorites": {
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true
+  }
+}

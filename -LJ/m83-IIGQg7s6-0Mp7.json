@@ -1,0 +1,37 @@
+{
+  "createdDate": 1563135590587,
+  "descriptionMarkdown": "1.5 advanced (red) circuits per second factory.\n\nThis blueprint is intended for the mid game (early, mid, late, end). It features red belts.\n\nInput rates:\n- Electronic circuit: 3/s\n- Plastic bar: 3/s\n- Copper plates: 3/s\n\nOutput rate:\n- Advanced circuit: 1.5/s\n\nThis blueprint is 10x tillable. You can find a 10x expanded and optimized blueprint here: https://factorioprints.com/view/-Ljlz7xLwd6txXfNBKMS\n\nThis design works as intended only with Factorio version 0.17 and its improved belt speeds. 0.16 and lower will limit its output because of the lower belt speeds.\n\nInserter and belt types have been selected for optimal throughput. Choice of inserter type assumes NO inserter capacity bonus.",
+  "tags": {
+    "1": "/production/advanced circuit (red)/",
+    "2": "/general/tileable/",
+    "3": "/general/mid game/",
+    "0": "/version/0,17/"
+  },
+  "author": {
+    "userId": "PgXEkjZnmhZzM0t2DaoLHmB3wng1"
+  },
+  "blueprintString": "0eNqdm+tu4kgQhV8F+beZ7fslD7DSPsNqtDLgzVgCg4yJJop493WuZJPGnFO/IkjydVW7T3dVu+qpWm1P7WHo+rG6e6q69b4/Vnd/P1XH7r5vts/fjY+HtrqrurHdVXXVN7vnT83moenX7Wa57ob1qRurc111/ab9Xd3p88+6avuxG7v2lfXy4fGf/rRbtcP0Bx+Uf5vjuByHpj8e9sO4XLXbcRrisD9O/7vvnwefeEs9/cPj9DNOY2y6oV2//tKc629ow6IVjLYkOsNkR5ITTPYkOcLkQJIDTI4k2cPkRJIdTM4f5K4/tsM4fXcVF84FwPM6pGwzsG2alZvF0Qbx2875zaoK3wo0KSt8J9AXWe3aTXfaLdvt9PdDt14e9tv2utXlKSClRDx5UkrE3CbgwZs5pzNnGi5FQyoJX+1GA07PLXZDnk74nmlIGeF7pnHkWg9zE0CeR/hBZ0gR4QedicBTT3NOk8cOEZIYUkV4SGIV4HWe8dqSpw4R49mLjJrjsd2ttl1/v9w1619d3y7NTJTnJviE7l7i2fX+cGiH5bpZTcu4NIxFDrd0IX8yO5R4jjXbF6wuxN3fR7rIDI34vtjvStTA2m+k9kdyJC0dKJEDOelAmRwoCgdyip06JR0JOQ0/Ujdze305KJh8txcBfjkUb6vY3laxY8/D9zzQlHZJxyvVAo5flLrdT4//VzMl5ps5/wM+qZG2GKEmdlbt3Kxm0n98TXnFTi0uAK9JNv7UvCHRHkdb8tGlmSfnHWknsb/4L8HnaUIP98N++nnr4kl/CUrq9zux/Wk8nIrbow/CmygN3OpE2VUUgk70JKUbc9T116Yo01uJvv2YgxJufrq0IINmbVTA3ZnBoQGGWvrJOfHqDg73wMEeEIehh6GBnhYrXdCBOBst7EDCoQaGCk/Iokai9Ews03DFKdTdSAhOw1BacEast4jrDV4DEZcbPie02sRii7jY4B0o4lqD9RuzLKoriiMpWRxXhuFKg0+hhCsN3sITLbQkFlrChZZg+3GhwSFEooWWpUJLuNA0vCMnXGkZZmZh8lBUR1a42/D+mDV9VL6yyyYamqZmaBeZAUFSfgP9/8Lk9mrKjhklzY9yXcfZy65pillpDmwSUJ7gyLgepBOcZPlP2XM6RTPlt9uKDe317as4rTSbhUBU6B7Sv3l7Mx/VyrIBPGSlY3MNiOoR3w3ue5Dd611ZRZFMDSCXE5sbQFRZglX2WwsTrCs0TeYSiL/akMkEBEXewGl4MWpHZgyQjZ5MGSBoABx3uOORVOGcCHUiswbI4UymDQjUKFHmVXbbaFHmdQVmyCwDcteSaQYEdaLb/StuI6dLhJe1CWxiAnkcycwEgiL1UlrhrmcilNRaGkVrq2QpVfn5f6oJ4Qo3qLoNbQ353hd47auZahCH8BwbWdvynHpZVQn9vl9bOgtyZYujrI5EYHES1ZEIBsqiOhJ+ILq8I0oH0rI6EsFIBq+dDsDW6CxekwzxnKzYt1z26jxcOAsZF+CSVAgXRcWeV1xNcOEkZFuGKxIRnFeyJhSoPFzL3v1DbCN69w+hragPBUI7USMKhPaiThQIHUQNIxBa1uUCoZOolQRCZ1ErCYIOStKtAZG1qMUEQhtJ6wZEtpLWDYjsJJ0XENlLOi8gcpA0TkDkKGmcgMhJ0usAkbOk1wHqF1KiVgUIrSWtChDZiDoNvqF/1q8trnefOmLrattMlOk7/cP/cawX7yHt4i2krRdaLX4vxm67fc5H68XqcfHX7tCM3WRmvfjzQf3QccI8tMPxZZxolU56CuS9Pp//A35Lx80=",
+  "image": {
+    "type": "image/png",
+    "width": 690,
+    "height": 451,
+    "id": "Xpvo0xu"
+  },
+  "lastUpdatedDate": 1563136929061,
+  "numberOfFavorites": 10,
+  "title": "1.5/s Red (advanced) circuit",
+  "favorites": {
+    "En7kXfRyH7NZja9LJEwPCr95HvV2": true,
+    "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true,
+    "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true,
+    "2a4KnXKDTLPPcJtKSmXAmuwBM5E2": true,
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "cmVK0qxzUle25kRKDaLf9uOQt8w2": true,
+    "ExFWyyZlosc81thIiDdqtmp7nht2": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "wOIdQFIhWXfGlTV3wnF3mE4OAJH2": true,
+    "CsbFyOJIQWY7FCcgL5C5ZL9JcHe2": true
+  },
+  "authorId": "PgXEkjZnmhZzM0t2DaoLHmB3wng1",
+  "fileName": "factorio.advcircuit.1.5ps.byImpatient.Fv0.17.png"
+}

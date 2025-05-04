@@ -1,0 +1,25 @@
+{
+  "title": "Lamp timer (for 0.16) (pre 0.16.23)",
+  "authorId": "lCqEWerac5Sf5ADJyMQ1z9Y9Jec2",
+  "image": {
+    "type": "image/png",
+    "width": 387,
+    "height": 405,
+    "id": "VukmWD9"
+  },
+  "lastUpdatedDate": 1518478039742,
+  "descriptionMarkdown": "[edit] as of 0.16.23 lamps now stagger, turn on earlier, and stay on longer. you may not need this anymore [/edit]\n\nfor 0.16 lamps have changed some. they come on later, and turn off sooner. until the devs fix them i've come up with a timer.\n\nat the time of day you want the lamps to switch on, turn the constant combinator (upper left) to on which triggers the timer to start. it will activate any lamp wired (green wire on pole) set to \"enable condition' 'Black' > 0. i put a lamp in the blueprint so you can copy (shift+right click) the setting for other lamps. do not,  I REPEAT, DO NOT ENABLE 'use colors' or your lamps will be dim. run the green wire along your power poles and connect them to any lamps you want on the timer. shift+left click to paste the setting to lamps. if you use the solar panel and accumulator DISCONNECT THE COPPER WIRE from the pole. \n\nobserve the lights over night. if the lights stay on too long lower the number of the 'duration' decider combintor (the lower one that is set to 12,500). i have it set pretty high @ 12500 which is half a day/night cycle. if for some reason you want it longer of course increase the number.\n\n*note the solar panel and the accumulator are NOT needed. i included them so the timer mechanism would be on it's own power network to keep time even during a power failure.\n\nonce you set your start time of the lights, and the duration, they will turn on and off at the same time daily.\n'just set it, and forget it!\" lol",
+  "fileName": "set.forget_.png",
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/circuit/counter/",
+    "1": "/version/0,16/",
+    "2": "/mods/vanilla/",
+    "3": "/version/0,15/"
+  },
+  "author": {
+    "userId": "lCqEWerac5Sf5ADJyMQ1z9Y9Jec2"
+  },
+  "blueprintString": "0eNq9VduOmzAQ/ZVoniECNpAVqvoFeezbqkIGzHZUX5Cxo40i/r1jaLKUhKzYVn1BGuw5Pj5nxnOGUjjeGlQW8jNgpVUH+csZOnxVTPh/9tRyyAEtlxCAYtJHnRbMhC1TXEAfAKqav0Ee98GHmayqnHSCWW0mmUn/PQCuLFrkI4EhOBXKyZIbgr57dACt7ihHK38e4YRJACfIo94zmUEkVwh/S8uUDSstS1QDl1uoeIAKE2JZo+HVuJYFPt0aLYqS/2BHpFxKaFBYbha0O6KxjomJfMOO8OAVqLTz4scTFUkL7Ap/WsNEx4dNSo0MOo8b+8+r4VxNtcIa8pT2oqkc2iEkrP6eFk/vVCQTIuSC0A1WYasFv9UiGqWI1zDZ/ckkmbDwcbbAbHdlVvMKa24emhRv03dqH7v0G7KgtRqvd2jQdLZY69pYQkQhSaPI/5AtMwPLHL5Qkna2dStgS8GqnyN0eyqGqigao2WBinAupfAXtUA9RtnJ4vanBUfSzzky65vk/zniDfkXjhweuGGNW2fGvP5XmnPT18GjZltq+2zW9oLJdqnbo/6+Y5dzro59wrBJrV9Mmxv2FVbJu1S8+7uDZ7Fqo23aD8+vn1n5ZDgGIFhJEyeHA2m2+YaSm02jzSbaxhmtHunxH1+e530S7Z/3uzTr+1/m9ILy",
+  "createdDate": 1517357930701
+}

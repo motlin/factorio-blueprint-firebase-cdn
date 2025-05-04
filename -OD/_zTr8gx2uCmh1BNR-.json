@@ -1,0 +1,23 @@
+{
+  "author": {
+    "userId": "Ev0tX8ze1pRZI4peUMNF8B57fKs1"
+  },
+  "authorId": "Ev0tX8ze1pRZI4peUMNF8B57fKs1",
+  "blueprintString": "0eNrNV22PojAQ/i/9XDYWqILJ3R/ZGFJhXJuFwvaFW2P87zcFD09lz2XvkiPxg22nzzwzTp8Zj2RbOmi0VJasj0TmtTJk/XwkRr4oUfo9JSoga7IFgYfkRIlUBbyTNTttKAFlpZXQ3+kWh0y5agsaDejNXUqa2qA5fkVchOBPnJIDWQcsXjxxD22h6rFk8Ztv0wAUQVUXroQgIhdDtFOZVC16rvWhv3hZIQFjRf5K1osT/eAEozjhh96xDx+yT2bMPnrInrEZ048f049nTJ9PqPxoNTf2y4F9I4yRLQSNrltZgA7yPRh7H83qOpoRzNWAuRPGBlIZ0BYP/gS1HIdKPguV3Oa4kBry3iAeAU4H4BxPtNy5FxgpvMU1Q0oQVDb+2mvdCg3vASgt832FID5zORhDflllb06U6BStVa0rVNgPf3q8Wjik26L59AqIP6yA+HEFsMWU9ze/CmZTWk8Uz45++IXX0keBsVpdl9kW9qKVtfZ2udS5kzYDJbYlYHBWO6DDNl4pBsyd1MZmd83faaGkq4Iw4qT3gjH4kSHmflU1QgvrvZHvBN8swpTI95zO87hAx8AoGXkQV4DfiJ8znIFsAPX8x9J2aXoa3hwq1acUiz9M3JChSwp3ojTQvf3O0YUbTk69xtwG/09T4jdcl/9zeXV44QheMg2PY0FuxlSXxV+QXX4ruywcg+aT1GZ+z/WvGmY03uXYaoqEsdnlJJkwPs+Qfjplfp4f/3BaA//P/FHff6BGeN/P2PsYRSVnm03vyIcw/EWlpEUN7YLgyzCN05THaZgsUQZPPwHoxOcP",
+  "createdDate": 1733656702519,
+  "descriptionMarkdown": "I created this blueprint because I wanted to get rid of the huge amount of Uranium-238 I was producing, but I could only find overly complicated solutions. This one is simple and maybe not the most efficient, but so far, it's been working well.\nJust feed it with an initial amount of Uranium-235 (40 pieces), and then continuously supply it with Uranium-238.",
+  "image": {
+    "id": "0E4va2U",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/0E4va2U",
+  "lastUpdatedDate": 1733656702519,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/power/kovarex enrichment/"
+  },
+  "title": "Simple Kovarex Enrichment",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "author": {
+    "userId": "dWDS6NEwpAdLurpeBt6knu7SZmh2"
+  },
+  "authorId": "dWDS6NEwpAdLurpeBt6knu7SZmh2",
+  "blueprintString": "0eJyVl8tuwjAQRf9l1gH5xSvL/kZVVQEsZCk4keNURSj/XofQihIkz2WDCPaZydh3rn2lfd3bNjgfqbySOzS+o/L9Sp07+aoen8VLa6kkF+2ZCvLVefwVQ+W7tglxsbd1pKEg54/2m0o5fBRkfXTR2Yn0ekZBbdOlQY0fY6SJqqALlSKRji7Yw/TP+s66fPr+vLdh5Bds5ELfmCrHVAhT8ZgaYUoe0wBMwUOuACQzyzWAZBZzgxczu5G2+KJnmTt8c+Y3vMCh8j9UzaGQjBQTCulIMqGIkASTiQiJmyeiJG5BESndV2mRpz6qqWtrF2N6POeJ5WoiPslTzIlbHlHfM1yusjnuWMRpbcZMsy0eUZF4Wcn5eytIRZJLRWQkeE1EPaqoT04dTqFJ35m9pGbr9HsY8G0/znsOY6AwMhOl6ePrMLjWnoOYORT3rbzWFORchkuFvMvwmo2CzMswT0GQeRneZtaI7DSzphpRHdO6NeJdTOfWiHcxz78a0dO9OepcG9Pr8SZwuzWUD5eMgr5s6KaX20qz2amN0ukjUzOoqxQyjX77Gz0MP9rzMnI=",
+  "createdDate": 1625543258152,
+  "descriptionMarkdown": "Outputs a belt composed of half of the outgoing and incoming lanes.",
+  "fileName": "half and half belt bidirectional output tee.png",
+  "image": {
+    "height": 288,
+    "id": "fE84f0f",
+    "type": "image/png",
+    "width": 384
+  },
+  "lastUpdatedDate": 1625543258152,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/belt/balancer/",
+    "1": "/belt/transport belt (yellow)/",
+    "2": "/mods/vanilla/"
+  },
+  "title": "Half and half belt bidirectional output tee"
+}

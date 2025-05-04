@@ -1,0 +1,28 @@
+{
+  "tags": {
+    "0": "/belt/prioritizer/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Belt Capacitor",
+  "author": {
+    "userId": "FCvJDC38h7O1kXVDN9In23mZ4Yw2"
+  },
+  "authorId": "FCvJDC38h7O1kXVDN9In23mZ4Yw2",
+  "lastUpdatedDate": 1606511380788,
+  "numberOfFavorites": 3,
+  "image": {
+    "height": 162,
+    "id": "ESf8nDy",
+    "type": "image/png",
+    "width": 285
+  },
+  "favorites": {
+    "df4DK44IhNZxZ4r9kaizBVwhamD2": true,
+    "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
+    "9rbMdCBAiQhMA6dieaRskv5y89e2": true
+  },
+  "blueprintString": "0eNqllNFugyAUhl9lOdfYiIq2XG6PsSwNWtqSWTBwXNY0vvuwTRbr6CbZJQjff84nOReo2152VmkEfgHVGO2Av17AqYMW7biH504CB4XyBAS0OI2rvXCYoBXadcZiUssWYSCg9E5+AqcDWUZwXasQpZ3czRbcbc1BOVRN0hylp9T9fn/HyBcwHIrmPVHaSXtfQDG8EZAaFSp5c3FdnLe6P9X+JKe/WiDQGefvGj1GjzxW0hUjcAaesGqdrpjP2ikrm9uha8OziOyBphA8+0bTOboIoPNHBkLsfFI4XVJ4Ee0mj3XDoiOy2Ijyj5cWCilmqgLYKkY9i1W/jvbCYr1sIp7l1Ec6QxMwPXY9bv3gMdYneKJVh+NYptLBD4FqaBrdcTnrOESl/6L++FXlOE6uo4dPZi2BVnie33v21KcX0YlGoRlVfkjrbprWtKiKTVVWNC1ZOQxf1+naLw==",
+  "createdDate": 1606511380788,
+  "descriptionMarkdown": "Sometimes it's nice to allow upstream production to continue even when downstream is backed up, so that production overall is smoothed out regardless of temporary shortages in supply or demand.  And save those extra for when demand is greater than supply.\n\nThis belt capacitor will only remove items from the belt when it is backed up.  In which case it will start filling the chest.  When flow beings again, if the input is belt is full, then items stay in the chest.  It will only start taking items from the chest if the input flow drops below a full belt.\n\nI use a buffer chest because it allows me to set a request to pull in \"trash\" items from storage and put them back into the production chain, or if I need to make excess items available to the network.\n\nTo use just remove a single tile from your belt and then place this with the input/output prioritized splitter filling the slot.",
+  "fileName": "LqmgPE2.png"
+}

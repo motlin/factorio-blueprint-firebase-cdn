@@ -1,0 +1,29 @@
+{
+  "author": {
+    "userId": "kjFeZufGe5PT2m07tSKNWYsLzEI2"
+  },
+  "authorId": "kjFeZufGe5PT2m07tSKNWYsLzEI2",
+  "blueprintString": "0eNrtWUtu2zAQvUrAZSEHpv4W0AIFum037a4IBFqiY6ISJVBUUCPQAXqLnq0nKSnFjmLrQ9J2f+giAWiRw9F782aG4iNYZzUuGaEcRI+AJAWtQPT5EVTknqJM/sZ3JQYRIBznwAIU5XKU4oSkmC2SIl8TinjBQGMBQlP8FUSwsWYNIEb4NsecJMM27ObOAphywgnuPGoHu5jW+RozscnBlPSZI8r7hixQFpVYW1DpgbDnOPatZ4EdiDzbvfXERmIZZ0UWr/EWPRCxRkzckIxjNoLAA2G8Fr8cNu5mLJagtVZLCOFyBoUxI7BnxA6XfRw6XylO5OtU0haU/xhO+7gQMbLFTMKSmvB2CMXaRnpxBJ09ReMAci9xSwnrXOn2G0DxyWosnqXk4PSGsIrHyoBglGw7TDp2QbSUg7xErPUzAj++fReripqXtZHdche3gMcbVuQxocIMiDircaOOOOzBK8fhKQMWsEcW+2p0OTOiGWLsEOv+SKQ/mzqPJpk+JJwVlmbU15WEfpHrihILPlvfwdsP7wwIlcA2GpQdUdQmmnuGMT2eGJxM3HM5OF1K/3j+EJ2upvrcWS4vojdEd3xL6P205t4YENShNS65DcoqLc3BE92MMHg8U5fCMUV6z6+YoyxbZCgvh6jzFUrOfr8DeVfkTjyuKyy2ygpZ5NpcNwz7WRHua0Z4+L++KFb02QBW7AACTYaCPykHmfGyLzgXSkKhag5a6THoqBEYahLo//0E7juNCxEYHANtzbXS442cImkr/UYu/GWN3D5vPTVyz+wt4Msu7ZVxUmy0io2rJ5xAjQNZw/QOPwcGwmsqp9ckjcnmtQnwD5j1JakvnUGwT7ixZhuFcfVAR7mfW06L1pl2yxuLCagvTHc2LP4BYQ6Q5U4zAL0ZmbqKMrWNO5SryrQ9bP4Wkep+mHBmiHJVRefPaN3VqZTQ0bM2fjo3sDQcaY5xK/V7I83weHKNWLNnYm1pTupkMNmmdk88tBWDxT2nhbt2pXgKmasUCt2vbAMnUUv9zHoRzu3pBLFSrESe+UVDeNmLBkI3Rf+uoXfVcHfW5zPx4gLF9oIm6l0IWSBDayw8A5+2DKP05iPa4Jv3OC/YTjwUmaTqPtOE0A1WduB74g8GTfMTmKgPmA==",
+  "createdDate": 1672512831487,
+  "descriptionMarkdown": "It's developed for storing input signals during long time processes. For example, you have fast changing input and you need to do some intensive task.\nWhen input signals have changed combinators stores it immediately and the memory becomes completely locked (red lamp) until it receives a reset signal.\nIt's thread safe - no unexpected values from output during input updating or calling reset.",
+  "fileName": "asddasdas.PNG",
+  "image": {
+    "height": 824,
+    "id": "uUbNPE8",
+    "type": "image/png",
+    "width": 946
+  },
+  "lastUpdatedDate": 1672778048847,
+  "numberOfFavorites": 2,
+  "tags": {
+    "0": "/circuit/counter/",
+    "1": "/circuit/indicator/"
+  },
+  "title": "Multivalue thread safe memory-latch",
+  "favorites": {
+    "vuamgog1s6UjNSasMlc6iYYS9hZ2": true,
+    "0rdpwQPdhgc0RFaRpodeMug1JmO2": true,
+    "3JGJB5H5naMQ18RK5WtRT7hkAhs1": true
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/asddasdas.PNG?alt=media&token=6c31d797-0630-4aee-ab80-76e5e98137ce"
+}

@@ -1,0 +1,26 @@
+{
+  "author": {
+    "userId": "v0cxB13qYgUFJfvK8lnxOCSjsKv1"
+  },
+  "authorId": "v0cxB13qYgUFJfvK8lnxOCSjsKv1",
+  "blueprintString": "0eNrtmN1umzAUx18l8uUGXWwgJEi7WKtdTtr9VCEHTltrYJgx0aKKB9hb7Nn2JLNhScgHKU6kJml2g2QbH9u/c/z3sZ/RNCkhF4zLcJpl31HwvKopUPCtVdRtLMp4U12wR04TXSfnOaAAMQkpshCnqS5RweRTCpJFdpSlU8apzASqLMR4DD9RgKt7CwGXTDJoDNaFecjLdApC/bA0VaQ0SeyEprkyn2eF6pJxPbAyYxPnxrPQHAWef+Mp82p+UmRJOIUnOmNqSPVfxERUMhmqtnjZ+YGJQoZbq5gxIUtVsxq9/sP+hBrjhaSaBNaFNKeiXlaAPqKqaecQ6REKbRLrz6MA4O0FshgFrrWclC6S6r5S/bcYkJ4MyCUycPoxcF4IqX04Jh0wVpZWPIpDgRSgbYRrXLIcFJV6TshW3bJS5qWZ4WPjyUKk8/cu1q45a+eNsu6Gh1vgdsQxrtkqcav1MGjJp4USOgU1JfSFih8lwOBzAinULTMQRb0EMsauPyG+O3R84o5XgjnUw55ci/vGhTNsooLUghQz0aCtJe0qooRsRIm3K0oOV/zxYtuRC1J8bKr4PRk4F8TA78fAPWDHLXB456DE71/h1BubnXqjzS1o7bPWtUM9c8/gtmdaWuiewk/2hqPeHeCoW0NHYTNH9fTEyDxbmZx2j3jr6D+cX2bo90Pvm6Mfn5U8vUZSPjJD73SwHi/nEUPEYhAvqU2DedQz8/pn9Djmt+tn5HDjjPzz6/dhvLWdfK7mVnIZPogsDRlXNlAgRQlGzvA2nWEds01c85z/LhMcxOCucUEColfWjy8q68ekI/ZG/+/hJvfwnrcAvLx8j672FoDf8vuf+S0AX997jLMh5dhcmwdfaVGwGQwake6lzGSXTbt+Q9966FE1VC1lBuGi854Rqr9bVRMJ",
+  "createdDate": 1627511261530,
+  "descriptionMarkdown": "Intro\n------\nI wanted a light chase. A basic one is not too hard to do: make a counter, put a bunch of lights on the output, program each light to only light up when the counter is at a particular value. But then you have to configure each light individually. That's too much effort!\n\nThese blueprints let you place the lights and the circuit network that is built in the process will automatically adjust for the length of your light chase. There's an constant combinator that allows you to control how fast the lights move.\n\nUse\n---\n\nStart by placing the Corner controller, which includes the first and last light. The first light is the lower light.\nNext, place as many elements as you need/want, making sure to overlap the placement of your BP with the already existing ghosts or items. This ensures that the circuit connections are properly made. When you want to make a corner, use the passive corner BP. \nYour lights must form a closed loop for this circuit to work.\n\nBy changing the value of the S signal in the constant combinator, you can adjust the speed of the light chase. If S is 1, the lights move as fast as possible, which should be 30 lights per second. S=30 will give you 1 light per second. Personally, I like S=7, about 4 lights per second, and any faster flashes too much and gives me a headache.\n\nTroubleshooting\n-----\nSometimes when you first set the marquee up or when you change the S signal, the circuit loses track of where the end of the cycle is, and you end up with no lights coming on, ever. To fix this, open the decider combinator in the controller corner, set the condition to B *EQUAL* 0, then set it back to B *NOT EQUAL* 0. \n",
+  "fileName": "Factorio Marquee.png",
+  "image": {
+    "height": 567,
+    "id": "QLDFyak",
+    "type": "image/png",
+    "width": 707
+  },
+  "lastUpdatedDate": 1627511261530,
+  "numberOfFavorites": 0,
+  "tags": {
+    "0": "/version/0,15/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "Marquee lights",
+  "favorites": {
+    "e4ZOPvvVfgZTyTyS3PJN4m9I5263": true
+  }
+}

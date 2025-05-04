@@ -1,0 +1,30 @@
+{
+  "author": {
+    "userId": "LuU5pX0Ac1Yqh0x73p61evAZUns2"
+  },
+  "authorId": "LuU5pX0Ac1Yqh0x73p61evAZUns2",
+  "blueprintString": "0eNrNWdtu2zgQ/RWCT20huxIpy5KxL0VTFAW2aLFIFgssAoOWaJuoRAkUlWwQ+N87khPZdcREt437YogmeTgzZ+ZwBN3jVVzwTAmp8eIeRzwPlci0SCVe4E9Sc4W+fvgHfedapZ9ZjmJ+w2MkJPqYylwzqeEhWQnJdKosFAv5A7HDaljwA90KvUV/fbqAB8WRTpHecvTt6vL71SVK19VIp1mS5hq9QV+v/kRv0QcFexKuRXgEP0WXsDROb8GmN+jiy9/lwunHKWKhzhGclocs5haK+JoVMfwFRzm2baPbrQi3KOFM5gjMV3coL8KQ57m4ecTLiiRDWonNhivA0vuNMaypnZliC4sQvMaLf+9xLjaSxWXI9F3GIVZC8wRWSJaUo1TEE8XXQsJpeAcbZcT/wwtnZ724NeKhiLiahLXjRwBkd21hLrXQgu8NqQZ3S1kkK67ghBonfCDoGMjCWZqLPbv3uMQL/OnMwnew0aHTGRwUAUnhfgWxShDwPl6u+JbdCECAbWsRQ1oYwrCOCxEdnMnK4MW8SCYblpd+hGlRZhohEN+jsFxXU1Luj85LQKf82SjO5bGfAF7ZJVRYCF0Ny927MrAnoSC1FaxOp2eDQW2nYygOwEuYjkRt/FqoXC87RyfnJczykTq8mIBFacYVe6jId7A5LXRWdAbfdYnwnhBSzisenc567eJPm6uhIeyzOgdnDYGHZ1E5uGI5MFiCZSqt6lducMPB7iEGUNZNSe+ZjvOaeX50tyZ5AMcHcu1ykGRMVem4wH9gE0kvk0CO4lCRQgyszFqyQoKgZmXeEKbOrHj9y9H9XcrRqVTruCDfj16QDVyTU66fq073NBNsQybMD5YBkxOdTjYK1DlqYoKYK9RtgPZ7QZdp1gAW/AL2PITXDOHYL0gCtQNTrpPXlIRS7/8/TfANmeA43aWa2GNItUPaavXT815VqydkCDFPajIwMUG7yzMhY8iz47YvM+IYymzWp+6fMtskKY7XC5sYLJ33yPhRmhPHbytFT3l9XSmiQzIebp1fU564ppQPWkvAedu1iTsoIKdqTDzTe4vdQwNGadGI06vGWrUEhPTCNvQEhHZQK0NTQNzWlXjmpmA2KPH8k8SjplcDMusuinSUNoB4bTWAnrkN8AZREZxSQU1UzLtrAB2lDyB++8qihj6ABH1qnbbqA6jdI0lHublpL3Wkhg6EkrbqQ8/cB8yHpDw5bX2p6SWE0tYacOY+wB8UENO1T90eJT/KtU97te201bVPe7Xt1HDt03kHcTJc+7R1A07PfO0HQ/Ls4Za/tvafFxZH33ksHLMVB6PwN3nBEyaj+iMHzN1wle+d9R13HpC5Sz03IP5u9xNbJrpg\n",
+  "createdDate": 1634114587655,
+  "descriptionMarkdown": "This array is meant to **_respond_** to a low-Gas situation. That is why it is \"On-Demand\" instead of constant production (I assume you're using an Advanced Refinery to do the constant production)\n\n#### HOW TO USE\n\n  1. Set desired MAXIMUM PetroGas level in the Constant Combinator (C.C.)\n  2. Link ONE PetroGas tank to the **_OUTPUT_** of the upper (`MUL`) Arithmetic Combinator (A.C.) [in the image, a green arrow points to the location. Remember: OUTput, not input!]\n  3. (Optionally) Set the divisor in the lower (`DIV`) A.C. to your liking; this divisor represents the \"steps\" between successively lower pumps. Defaults to `1000`.\n  4. Feed Crude Oil to the piping between the 2 columns, and feed the outputs of the pumps to the PetroGas tank farm\n  5. Provide power to all refineries, pumps, and Combinators; using Substations is recommended, but you can also use poles if you prefer.\n\nDefault values are:\n  * MAX level set to `22k`\n  * Divisor set to `1k`\n\nThis results in:\n  * 1st pump (top left) activates when PetroGas level drops under `22k` <== \"MAX\" level set in the C.C.\n  * 2nd pump (top right) activates when PetroGas level drops under 21k\n  * 3rd pump (left, 2nd from top) activates when PetroGas level drops under 20k\n  * ... and so on ...\n\n-----\n\nPersonally, I lay out my petrochem setion like this:\n\n* Crude Oil ==> Advanced Refinery (AdvRef) ==> Tank Farms for PetroGas, LightOil, HeavyOil.\n\n* HeavyOil ==> Lubricant. If Lubricant tank farm is full, activate cracking ==> LightOil\n\n* LightOil ==> Solid Fuel. If Solid Fuel storage is full, this causes LightOil tank farm to be full, which activates cracking ==> PetroGas\n\n* PetroGas ==> the usual stuff (plastic, sulfur, etc.)\n\nWhen the Main Bus Factory is running full tilt, the demand will consume a _huge_ amount of PetroGas, beyond the capability of AdvRev + LigthOilCrack. The level drops, and that's when the On-Demand Array activates gradually.\n\n-----\n\n#### HOW IT WORKS\n\n> The C.C. generates a constant PetroGas value of MAX.\n\n> `MUL` multiplies this by `-1`, and adds the result to the reading from the PetroGas Tank.\n\n> `MUL_out = (MAX * -1) + PetroGas_level`\n\n> So if `PetroGas_level` is greater than MAX, `MUL_out` will be **negative**\n\n> `DIV` performs _integer division_ of `MUL_out` by the scale factor.\n\n> `DIV_out = MUL_out / ScaleFactor`\n\n> The pumps are configured to be enabled, from top to bottom, on `DIV_out < 0`, `DIV_out < -1`, `DIV_out < -2`, and so on.",
+  "fileName": "2021-10-13_152931.jpg",
+  "image": {
+    "height": 939,
+    "id": "hN6CYxn",
+    "type": "image/jpeg",
+    "width": 613
+  },
+  "lastUpdatedDate": 1634140096675,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/1,0/",
+    "2": "/production/oil processing/",
+    "3": "/general/mid game/"
+  },
+  "title": "On-Demand Petroleum Gas Refinery Array",
+  "favorites": {
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "mXqu9fdT2egnrkI1jItaTZVPQIV2": true,
+    "LuU5pX0Ac1Yqh0x73p61evAZUns2": true
+  }
+}

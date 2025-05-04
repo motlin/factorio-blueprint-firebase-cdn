@@ -1,0 +1,23 @@
+{
+  "tags": {
+    "0": "/power/nuclear/",
+    "1": "/power/kovarex enrichment/"
+  },
+  "author": {
+    "userId": "IfMLZK1RA0RtMl0y4pFbMyPlWRY2"
+  },
+  "authorId": "IfMLZK1RA0RtMl0y4pFbMyPlWRY2",
+  "blueprintString": "0eNrNWtuOozgQ/Rc/wwhsDCTaP1m1IgJOYo25rDFRt1r597GbXFDaCUXNjDZP6QRzOGVXnbrQn2SrBtFp2Riy/iSybJuerP/9JL3cN4Vyv5mPTpA1kUbUJCBNUbtv4r3Tou9Do4um71ptwq1QhpwCIptKvJN1fApmQUrRGC13w15MbqSnt4DYC9JIMVL5+vKxaYZ6K7RFniMRkK7t7e1t455sIUMakA/7sbJPqaQW5XgtcRTvwCkaPJ8HZ1fwXdGbUDa90MZe+IYZgSGTxXwj716kHmy+fC9iMHi6GJyCsbPF2HDe+RW7FpUc6lAou1zLMuxaJR4i5ycP1grqDwzsD3G02HYGtj2OoYQvQZH6zI7xQZYBdoD59OVRGFgziYWTX+rUDKUShQ53g1ChtqrYlpacbPb2dqdcvbu374SowrqtBiVC5vTKRyIBkWB/l8QtgFW7l72xTloehD04Lf4b7Oezk+NexHSpAyRemGyhECaAY0cGpp/g0sgEEKQR2usZAB2fFSkAnaJTAQSdYZMYm9csis6QFADOsZkGwhydIiHgtxDsh21viq+l39n+4COk/cMXKDTHphsIx1sUbuV+Lp75hSr1U2WI+Bu5RoDKDh9+MQAdnTCj+V1mDB3bEOoJFv2eekBsb2J0qzZbcSiOstVufSl1OUizEU2xVWJTyd59kvWuUL0Irpe1KKrNoWiqjQOxHG0WNXqYrLj8Pi61mVU4Cj6Lvsf8YDsXvdet/XwuKW7Dzp1QO5hucA3T9wekSMV62R3D1uMva1D+qLAqLNWjCG3RdpSVr15Izob5UFeIcu2mUOdFm51UduXYOV968Suw1G0TdqowTkBL67DGtQzR6c3XWkYLK6pwNM5biyY3DjbZlD/DkeZ8BXlfPwTkqYGDdSxHlTJO/FZRbBoAqF3CsOCAMilJsFkg9p4IX3oi0e8dSP7gQNI7Hk9cIgYfRIZpfeKrgaBgupjW6kk00UfRlKPTxiRryOZB0khWSI114K+hqjxCmkBfx4SbcxR9L+qtsn17WBflQTauT3+QDti0/7941Vf/XwqlfMfNKTho2GMJ4AyMkkAjj8MmH+dYS6aW/2yPhRbvoWhsjjnU9u7wPP1YPPrgHCvEgF6bp1hwwJiAZ0tlmfp4z9RK9lp1xdhJbaVuZlY/HUuRMeAsP6d4TtnKtu4KXRj3FPIPsUfym2ma50gxSF5HDLCSzF7GhDRCVm3pH67a0hgbcul8yKXokpADwNniLYz/zhYmYLGPwDuHnX+lr+PiKdIE/jomZLhGzftOKs0xlTM7Ay6snF1TMK2cH9TO6Wrha4cc8I4QPQ68ewdFfeDocSAEHD2M9x54NhGoulBqznmiJ1DoYR/EbI4ci0GwsSKQ/U8i8DYWxG4yfv33jYAcbcCNDp9nlObxKspsdfwLaFaeYQ==",
+  "descriptionMarkdown": "This is simple, the multiple input filters are to assure the centrifuge is filled, and the output at the top will be picked up before any other sources.\nIts important that the refill for uranium-238  starts with the output from the centrifuge, then the recycle of the spent fuel cells, then from mining.  Don't worry about the occasional uranium-235 the gets mined, it will be consumed in the system.  Uranium 235 will not circle the system until the centrifuge is satisfied, the excess is what you use for fuel cells, those will be picked up on the right side.\n\nTo start the system, just connect the inputs(mining), and add a minimum of 40 uranium 235.\n\nSet the input inserter stack size  to 10.",
+  "fileName": "simple kivares system.PNG",
+  "lastUpdatedDate": 1538502344854,
+  "numberOfFavorites": 3,
+  "title": "simple, fast, kovarex system",
+  "createdDate": 1537892771719,
+  "image": {
+    "height": 886,
+    "id": "qkg1EPx",
+    "type": "image/jpeg",
+    "width": 879
+  }
+}

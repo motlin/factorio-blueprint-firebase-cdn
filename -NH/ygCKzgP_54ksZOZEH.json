@@ -1,0 +1,35 @@
+{
+  "author": {
+    "userId": "NA2Zp0hRwPY2OBPmYcmB19HL8uA3"
+  },
+  "authorId": "NA2Zp0hRwPY2OBPmYcmB19HL8uA3",
+  "blueprintString": "0eNqtWdtuozAQ/ZWVn6HCHttAfmEf+7iqVgl1WqsEEJeqVcW/rwnakkZOmAHeGgTnzJy5HFO+2CHvTFXbomW7L2azsmjY7s8Xa+xLsc+Ha+1nZdiO2dacWMCK/Wn4lZmire2xezGsD5gtns0H2/E+mH3QfFS1aZqwrfdFU5V1Gx5M3l6AiP4pYA7dttaMoZx/fP4tutPB1I7FF0TAqrJxj5TFwDzEIvSDCtinA9TiQTn82mT2HNBb+b6vzUdoitpmrycHElZ1mbmo2JDAFZ1A0qXb0AGODtQ2dBJJl2xDp77pbF0WYfZqmtYnJnzTub96D5CegIrG1K275oGRP2AC9mxd3OMd2gMaY0CB3wYVHtAElzKIuZRTVHRAS5lHuPAknwuPc0x8MqKpxwWq0FPW8hpV+lCnKbvaQ3ex1Y3MpyE62txFGN4LVV2FOj4ybrr/e/Qbr3PR2e4UCkhY/+TjnibqZJ6HW03uMnezGFZlbu4PxRhAYezL66HszjEA97Jogl7yh17zHRgTsBURGzl8F15xq8bpnIN5UOPb0fq6Ukyz2LT77O1uG2laxwt+hY3o1HhZpyp/pwqxQMGEqCAg653O1VtIQi1SYi0UvRbJtrXQhI0F0aYbS8TUjXXhuOiNJRL8VrnAVxhPEikBO6JhQ4RyeUHrOOBkzeGe5q6Gznik9ikPgqAO0PY5EHz7QqMbMw4U3wa56RQA8iQMajYLjd9UoIh9Q/BmIPo+JHQ/AKKjwgLXBk3jkBF5m4PedJtLurfDtt4uBWWS0k0nSSI9H5K5SZIEz4eENklSESYppXmG1NTtLiO6o0rU27HkRF0IPi35bAUJziyJzqyWnc41RgXFF5yNJ47Yr4YSq95ZYswWV7CKA6fOsrM4DlstiD+dVV6veteJUf0Yr+LAqZMsOlvgsJd4s5pTXkerHB/V85qv4kCpo8Wq0xGqgzSs4sDlscxTcdgLZhd+TtnwreH8fWJ38R0kYPnePe6uPZr8+OuxOx5tZh35r9/jP7vdHe/uwDIKm3AZpyKOteSxSPr+H/48Nis=",
+  "createdDate": 1698637600219,
+  "descriptionMarkdown": "What is it?:\n\nA simple Kovarex Build.\n\nHow does it work?:\n\nInsert U-238 in side/middle box, U-235 in boxes touching blue belts. I can't make it any easier for you.\n\nWhy did you post this blueprint?:\n\nI've looked up Kovarex Process blueprints and they are all absolutely enormous and usually only feed 1 Kovarex Centrifuge. That's ridiculous.\n\nWhy is it designed this way?:\n\nI use boxes as mediums to capture excess U-235 and because Inserters grab from them faster than belt-to-inserter. It's mostly self-feeding. Once you fill up the side crates with maximum U-238 you pretty much never have to touch it again unless you're coming to grab U-235.\n\nIs it automated and does it feed into other blueprints? No. In spite of all my mega bases, I've never been in pain from not automating my Kovarex.\n\nDo I need to use blue belts? Why purple and yellow inserters? Why not max tech on everything?:\n\nWell, yellow belts for U-238 transportation is already massively overkill, so no need to waste resources there. Blue belts aren't necessary, I just use them to highlight the different resources on different belts. You could use yellow, red or blue. It doesn't matter.\n\nAll Inserters are chosen for maximum effectiveness at minimum power expenditure without sacrificing efficiency. Yes, the amount of wasted power from upgraded inserters is miniscule, but this build is optimized. Any upgrades are a waste of power and resources.",
+  "fileName": "Kovarex Simple.png",
+  "image": {
+    "height": 908,
+    "id": "U4zqbAp",
+    "type": "image/png",
+    "width": 1067
+  },
+  "lastUpdatedDate": 1699124531687,
+  "numberOfFavorites": 3,
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/mods/vanilla/",
+    "2": "/version/0,15/",
+    "3": "/general/mid game/",
+    "4": "/general/late game (megabase)/",
+    "5": "/general/tileable/",
+    "6": "/general/compact/",
+    "7": "/production/uranium/",
+    "8": "/power/nuclear/"
+  },
+  "title": "Simple Kovarex",
+  "favorites": {
+    "q6szEyQgjSPmtfqfO7xa86No1dE3": true,
+    "NA2Zp0hRwPY2OBPmYcmB19HL8uA3": true,
+    "bE8eZ41Zn2QrB8tlKiSJOseg9U73": true
+  }
+}

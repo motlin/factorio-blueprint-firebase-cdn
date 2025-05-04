@@ -1,0 +1,31 @@
+{
+  "image": {
+    "height": 1080,
+    "id": "lqmLKn9",
+    "type": "image/jpeg",
+    "width": 1920
+  },
+  "lastUpdatedDate": 1553572741908,
+  "numberOfFavorites": 5,
+  "tags": {
+    "0": "/train/loading station/",
+    "1": "/version/0,17/",
+    "2": "/mods/vanilla/"
+  },
+  "favorites": {
+    "kOht14bSMCc1Lz86TALpXSERIdV2": true,
+    "7fZJw6U2IuNkODcVttXvTOopf5G3": true,
+    "th9Wik5CEOdid6pTuddvUze7qAj1": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "knHtxh4wDXaumqgful47NygduO93": true
+  },
+  "authorId": "swwDFHhqziTJnRpnKa5BPYd1GiC3",
+  "descriptionMarkdown": "This will precisely load a train according to the items listed in a constant combinator by modulating the stack size of a filtered stack inserter. The box must be serviced by a Logistics network and is limited to 12 items by the capacity of the requester chest. The stack inserter can be replaced with a standard filter inserter if desired.\n\nTo add more capacity or cars, copy and paste the main circuit including the power pole. Just link a red wire between the attached power poles. \n\n**Limitations**:\n- Missing items cause the system to lock in somewhat unpredictable places until the items are available, ensure that your logistics network can service the requests.\n- Setting a train in the station to 'Manual' mode will cause the inserter to insert one stack. \n- The loop size is hard-coded into the logic to save space, modifying the logic may cause strange behavior.\n\n**How it works**\n\nThe circuit cycles through hand sizes starting at 12. It subtracts (Hand - 1) from the requested items in each cycle and compares it to (-1)*[Train Contents]. If anything is positive, the circuit waits until all items are loaded. Due to factorio circuit performance, the condition that increments the loop pulses for 8 ticks. Rather than adding a proper pulse generator, I compensated for the pulse duration by hard-coding (cycle/8) into several circuit conditions.",
+  "createdDate": 1553570284745,
+  "fileName": "20190325230333_1.jpg",
+  "title": "Magic train loader",
+  "author": {
+    "userId": "swwDFHhqziTJnRpnKa5BPYd1GiC3"
+  },
+  "blueprintString": "0eNrFWc1yqzYYfZU7Wt6ae0EG/03bmYw32XQmi+w6GY8Msq0pCCqEWzfDA/QtuumL9Un6CZKA+QkSsZ1FgkFw9OkcfUef4Bltw4wmgnGJVs+I+TFP0erXZ5SyPSehuiZPCUUrxCSN0ARxEqmzVBL/N2vHQkmFxXhKBfxA+QQxHtA/0crJJ4MYPhH72PqD7GNeexLnTxNEuWSS0TKU4uS04Vm0hT5WzhuAFIRxK5VxAqBJnMIjAAXdAYw1m6ATHFxADpigftkGV2GIUsThZksP5MhioR7wmfAzJjfQFryh7JhI5aY1iCMTMoMrFRfFHda9GoTiTxJFpq1OooQIIlUf6CfVLCgJNjsRR5sidrSSIqMvl9U4EhqctxQnb03asTyivAyGlwNP1TOO+idoUCeVwdkyf1J3Q9zlyBFS4jVYxzXpIab9QVpwCPuJx+fE4w7MqTamq43pamNibUxPF9PWhpzpQupHOdeF1CdzoQupr/nyDTKiAcsii4Zwu2C+lcQh7aD0m1diww/9Ke3Uei7OodvXHO9qx3azHVKiI3rHrtzrJdMtyPIt40WW90ZvFvy0FcwE7QWlvHVnb5yVSYbxnqUS+PUPNAX96O8ZHGlHsE4z2F6bjOKAbuLdJk6oeDENp2d83XHbfXFXNkMEk4eIFpG/w/C0PjuGjb5Crbw+HWH2lPgHZegpVTD6zz2oh2q0IQtuiTOZZMad5+NnFG6mh9dsfwJw3Ifm9qlXGXpAfRZAaTAsXUs53K3cC+LHZHt8f43+7+9/xshxpOIkD4zvS/TkBEFmXJYLPeMAVi7nJorZvUnf9KoBsbCms7kDtV2vXbRzzzV3jyrIlMKfigAE+Iu+1kHllVfUglOjysyAeTyQK8sW/X3uPG8L1Um9Z2p67qtT59d1ufuaxVVZ43zcwR7M7Gt+lRk/M6V9diPa1520L85p/z6C9rUR7dhsVZhr0j43pd2r0T7sMgMi1KYxNl++15dYvu/NJv/MSAVPu3bsXcUXhiX6vL4QdAEuTRV3CjysWRlcqaarZorVcLyvt6jZlkM1WGMH4+ilH7bHieHcWIzHTiXscyF+GCHE4wVVwK52tk015XFGlND4liU04fVat6+S/nmEMnfvlM87EqZG9fPSxDWxrjp4hDqO5tb0Iuqsz2VZeK0dzr+frEwzZy6kjNnW07t93tydK+M0hPlxXDl3OVkGtj3N9QWbGmO3bO4I2W6aUFd5Y7C+3IuC9tuAybsJ1L9dNUxMPPBGVbsQ1Z4r3tj9Gv6U/dr047WK4X7NSMDmvqKkHUQqPtKtat8FJygkWwrxol/Invlfim9SX8KYBMVroSMVaTHE+dR2PM9bOO4sz/8HRs63mA=="
+}

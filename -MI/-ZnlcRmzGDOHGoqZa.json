@@ -1,0 +1,29 @@
+{
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/1,0/",
+    "2": "/belt/balancer/",
+    "3": "/circuit/counter/"
+  },
+  "authorId": "0gMzicZ6LcOmpRbw335WlncftZr1",
+  "blueprintString": "0eNrtmE+O2yAUxq8SsXZGseM/qdVu2kVX3XRbVRYxJEG1wcI4mmjkA/QgvVhPUsCe1GObDKST0Sy6SYQxH4/vx3uQPIBt0eCKEypA+gBIzmgN0m8PoCZ7Cgv1TJwqDFJABC6BBygsVWsHa7Gsq4IIgTloPUAowvcg9VvPbqzgkNYV42K5xYUYKATtdw9gKogguAtFN04ZbcqtnCv1z0IqWAGpWOas3BIKBeNylorVciyjan6pF/t3kQdOII3uIjkLIhznXXfoKQXBWZFt8QEeiRwux+xIIddk5QJER0hzjJY54XlD9DJy1igvl4GTJ7iQUXFGST6rtRraozso7ZZRK0lffXCMhnYR2ZIx9Gq66cuxrQpm5GhwDgPhnCDMLxu67g2NrezsJTPZh8g54h3htciusrdjDtKVapQV5DrMFPz++UsOZY2omhnlI+GikU/O4t0bS+Walq1OmbY723FWZoRKFZDuYFHj1t5wf+CuakcTAB7Yc4zpeGD49MWOcmCYZT1WvThpYKC+dqMe3I76s2wekQcj5B+uAJ4fcP7jBZEHLuRCu4QM3dBEr49m4KIpH6+Bg4+Yn8SB0P0FQoI3LoDWE0DOOWjz+jgLA6ckHXf7pqyN3LZG+Fq12nSAveVq/QyizctU68CuHMcX70dTsklPNrS81jzGcGZ7M7TvdXc/HaZwW+AMkVp9d8n7t5djiLIDpEiFJaQjdU/RG8arO7p3S4akyMqesRliYgCRXAkiugEIUx5AOqyS5gp8AcTI5jkST1m5gJg1PLatcRtHAvENCfzLjfRNJcIzB05szBMjpndXYppWrBlxf2X4rTmTgFo1mYHfHy/y5y3jUlxqFXinQtMHxvA5J/uDojmNw7eOY9OdtFZxmOcLrnQ1/l9+LpefyaHtjY6Dyek/u+v9tSOgTQ8osdr2oeN22zhsN/O+l7mvC106+DvIAwWUS5LPPis7F18xWviLj3KRi0+dj4sv5F6HJm/ttZ482PhhEr5L4sRfxVHctn8ASwNeJA==",
+  "createdDate": 1600958709012,
+  "descriptionMarkdown": "My version of green and red circuit 2 to 20 mixing on one belt. I made it for general usage, not just for circuits. One can customize it by changing the outputs in the Decider Combinator (have to be negated, as in 20 -> -20) and the input item types on the blocking belts.\n\nThe design is not perfect. Even after the system stabilizes an item can still slip through every couple hours or so. Seems quite random, would be glad if someone pointed out some flaw in the design.\n\nNot power loss safe.",
+  "fileName": "mixer2.jpg",
+  "image": {
+    "width": 365,
+    "height": 260,
+    "id": "sH2x1oF",
+    "type": "image/jpeg"
+  },
+  "author": {
+    "userId": "0gMzicZ6LcOmpRbw335WlncftZr1"
+  },
+  "lastUpdatedDate": 1600958824648,
+  "title": "Green Red 1 Belt Circuit Mixer",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mixer2.jpg?alt=media&token=6a2a8685-f6fd-4016-a190-d37fca19d938",
+  "favorites": {
+    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true
+  }
+}

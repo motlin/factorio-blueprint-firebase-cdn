@@ -1,0 +1,28 @@
+{
+  "tags": {
+    "0": "/production/smelting/",
+    "1": "/general/beaconized/",
+    "2": "/general/tileable/",
+    "3": "/version/0,15/"
+  },
+  "authorId": "DmJw29K42MXcGRbXr7UhITZsSkP2",
+  "blueprintString": "0eNq9mNuO2jAQhl+l8nWywockwGu0dxVCOcyyVoOT2g4qQrx7x4Rlt2xCjFG5AXL6Zvz79zjDgRR1B62WypLlgciyUYYsfx6IkRuV1+6c3bdAlkRa2JKIqHzrjqCG0mpZxq+dVnkJ5BgRqSr4Q5b0GE0+XkCOkT49xI6riICy0kroEzgd7Neq2xagkXr9bETaxuDt+BOjICKmeM8ev4XDYjjjLpgWoIq3TdXVEHMXyKV3BWfT8Hkom0+zk1C2mGazUHYyyQ6WO51Ei1B0NonOQtHzaUFmoezFhW26wtj8BB0w4cvZKvQlwRiYhMJlKE9r9kCo+9hoAPV5AcnKJXZcHYfiuozPgetmI43FFV2+gbGxht8dfuNNX9M4S8j6FKxu6nUBb/lONtrdUkpddtKuccywbl7XTQu6H5GrDf5ZLz4l7I55OjaKj+KA2pW/YqkM6Ju500EOG1OjzY2RO4hb3exkNQhO30UZAnP/BNP3BCNSSd0LhQtiiCrGy/FXrvjgXryJw6k6jLBD7JRFaRJiFfocq6A1/vWKGHV86j8V9JZXsnCvzG5ZZe6d38zfKYs7nMIeNAoLqSniOT5h3NcnzL+miBs2YQ+UlOSGTRj32jHSwA2DjcoivGVJvO3JknsKWV/Bw+15RwFIzqGGMJk/RlwynhJifo8Q9EEhFt4joOM68Jk3hfnKwOkdMiSPqcCZd2MR8O7PfRuLALbwbSwC2MkDL0J90GFuGvIOIc7A/7s10ORqaxh9aeaZb9sVoPzcs+0KQC/CJ5WOz6kI2e7ZU6YUd7Hoeo6Hp1RQz5Y0oEdnni1pAJr7tqRT7FV/2YEufwdFpM4LqPHcD1lDXtTw7fsWaivVBq/tQJtTmFQIli64YBly/gJTICYc",
+  "createdDate": 1510676532934,
+  "numberOfFavorites": 4,
+  "lastUpdatedDate": 1510676532934,
+  "title": "Bot-Based Universal Tileable Smelter",
+  "author": {
+    "userId": "DmJw29K42MXcGRbXr7UhITZsSkP2"
+  },
+  "descriptionMarkdown": "You will need bots. \nTo add more just align the power stations.\n\nTo set whatever you want to smelt add a constant combinator and connect it via a greenwire to a powerstation. Set the combinator to for example 500 Iron ore and let the bots do their work.\n",
+  "fileName": "bot-based-smelter.png",
+  "image": {
+    "height": 633,
+    "id": "rBPBKn6",
+    "type": "image/jpeg",
+    "width": 1106
+  },
+  "favorites": {
+    "UpRVn2QviNeJ38KzNFHXl3lRBog1": true
+  }
+}

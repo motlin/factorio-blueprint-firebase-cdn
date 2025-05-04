@@ -1,0 +1,28 @@
+{
+  "blueprintString": "0eNq1Wt1uqzgQfpUV16GyDf6L9g327tyuqiglbmIdAhwDVasq774madPuiUlmJrtXEQG+GebP89nznj3Vo+uCb4Zs+Z75qm36bPn3e9b7bbOup/+Gt85ly8wPbp8tsma9n67caxdc3+dDWDd914Yhf3L1kB0WmW827jVb8sPiJkjlmiH453Hrvr0oDo+LLN7wg3cnVY4Xb6tm3D+5EJHP79ft1veDr/Jq5/ohD+7XGH/jM4usa/sI0DaT7Aiac7nI3uJvEQV9PLd69nV8+CTjU+sz9hg/zI/7XBQmwlXtOBmIM3Z4nD7sN5XELbskFCq+FNr44KrTzTKBXtDRxW308ozeD+vqZ+6b3oUZI5ZJnVUCVZKcxP9PJynEh4rkh4oEqr5wTt/Vfkjjmgf55Zd2HLpxWMXca0NEjAjBb3eTN32TvJGQbvChocGRYcngALtxhkc3cHR+gT7G4AnbEGNkM4ev0viLc/Wa/JJyAxd3iPvNE+os7hQgSXkFPJYlOGd5iUYVAFSZqveXiN8qVsTzRwv8bF/Wwb3mrgm+2u3j63kX2iraN2kVBZLE7hekCe4ubgTXFW8burjZ4JqPZQuOApGUkcpHwbCggCQXHFF75UM6ZEtUIa7dc9JoAt8BlOAMEvgGQIKbC1FSNYd4SKLBNbhcCYUGV3CzaDS4hWuOX7YNHBy/bH/2XeKQ6j4ZGQ+gbcHx6AyOTm/M2e3oLiiNeQlGL+ltPweQColpXD88yh7kxfI1Vz1TMhXhkwTYYF8pu3ebiRa4Oj4fF/S8a2t3pc3nybgn9Nb2Gp6l4rEUXEnonz8yB2DLkpN7f347LUtB7v2Tpi0LrOf1FcOW9F6eoZlDKbGqyyuqE/JLgStGqdH0gAMizcBRk7UzqSq8h80LKKhkiA0EMCiHgwowqACDMjAmnHLCP74kExuGp1ES34zCl1OpkHks5tNYaixZAtRcaagkAgJuieCApUgxKkFJrhWKE+Egqgoi3UmGgSqo5AlQdlWJaP/UbPN32p39106szFA9oZJELgTxh6LyLEDGK8zOr/0v2mdlEBI/WRJM5ty+hrIYkfz+OJlTRNNZaLIMaALvBBNDja8DcJqj8WWBg4utxpNOOKPVksxokzsTWpHx0jFBJZBpNEM5GYLsTh5zBLE5qcnME1AGDZ2HApYpQ+ahyYgxggoHaIJMQWW1EDPfwUoJB0xGUplkMheMwlJHwLa4QfNRSMAZzGnVHWdIxiIOq+6QYxmZY+HPjiwnUqxk1FiB5EGAgyhbIDH5hRGqNrqrrVdPbrd+icV3erzyoRr9sIr3NmeMZx/6YXUxA/PiwzDGf74UOT6RuxcX3oadb7bTNMw0iDOsp3kGNl3su3VYD5Ow7M/skLQW9SAHkGpWEk7a0jMOc4vXbNdrFZFbAkq21USbASq2NUT6BqhS1hKJTTLPOCM314ApEs44nrbw+5gSZ/SDnyJtou91w7n6NM00f1Iyg1KiZ5BAozSS2nmA0BW1aQKha3pjQxjUYQbbNEAGZ5glL7KUeRCOnaYATUxxYp1NhzqnTkSAdKVujUGcyUviXMGMISRxkgCkK3WHCwSuqWfzIHRDXXQu0B8Xp8Hi5bdh5kVWryNK/O+vU7/8xw937NLqYxu1yGK31R/f1wXjVgleaHU4/AOaDzaV",
+  "createdDate": 1576273983198,
+  "descriptionMarkdown": "A different take on Kovarex. Both Tileable and stackable. No circuit networks. \nJust add *Minimum* of 80 U-235 to the steal chest for one set of 4 centrifuges but that will have the slowest ramp up time to get all centrifuges working. I'd suggest 486 U-235 to get them all spun up initially.. \nThe centrifuge section (From underground belt to underground belt) can be stacked. I've tested it up to 16 sets and works great. Though the initial minimum U-235 will need to be increased. Tested at 240 and is ok but REALLY takes a while to get all of them spun up. About 4k should spin all 16 sets up initially.\nI've used requestor chests for the U-238 just for building and testing. Can supply it anyway you'd like.\nThe input/processing/output sections as a whole can be tiled. I'll add another blueprint for a large scale LTN tied version later.\nLet me know if you have questions.\n\n\n",
+  "fileName": "Kovarex_Recirculator.PNG",
+  "image": {
+    "height": 494,
+    "id": "ZMms0GI",
+    "type": "image/png",
+    "width": 1067
+  },
+  "tags": {
+    "0": "/power/kovarex enrichment/",
+    "1": "/mods/vanilla/"
+  },
+  "author": {
+    "userId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2"
+  },
+  "authorId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2",
+  "lastUpdatedDate": 1576273983198,
+  "numberOfFavorites": 3,
+  "title": "Kovarex Recirculator",
+  "favorites": {
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "Nyd6o7pm2oTX6Mvk3ntq2kxehOB3": true,
+    "37OYl37SGwP89oJfYqKrYXnFcqh2": true
+  }
+}

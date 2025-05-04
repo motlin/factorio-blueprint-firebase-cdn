@@ -1,0 +1,23 @@
+{
+  "author": {
+    "userId": "rqvtSCQOjfgikFvvSq4plO1wJ5y2"
+  },
+  "authorId": "rqvtSCQOjfgikFvvSq4plO1wJ5y2",
+  "createdDate": 1539979095841,
+  "fileName": "20181019225438_1.jpg",
+  "lastUpdatedDate": 1539979304740,
+  "numberOfFavorites": 1,
+  "tags": {
+    "0": "/version/0,15/",
+    "1": "/version/0,16/"
+  },
+  "title": "Limiter (Ограничитель)",
+  "blueprintString": "0eNrNVVGK2zAQvct8FrvYStJN/dGLlMXI9iQZsGUjy2lNMJT+lELP0K8eoFAKhdI7OFfoSTqyl2Q3Xu86u1vajyRII715M+9NtIMorbDQpAwEO6A4VyUEr3dQ0lrJ1O6ZukAIgAxm4ICSmV0lGFOC2o3zLCIlTa6hcYBUgm8h8JtLB1AZMoQ9WreoQ1VlEWo+cBeOA0Ve8tVc2ewM5/Lxmn+85wvOkZDGuI/OHWC+RudpGOFGbolv85UrzJBjSYdT2t0V6dKEg7JWaUXJsa430mBXim2EkbYrYuZ5nt3ICqk7hgG84ht5ZYrqFsQtaVPxzgGzP+GuNaLqoYuayVXKhCudZyEpxoFgJdMSmz616kvsiPv2S2NyvZFMORDNJR8WNtpDn8Rtd0jHFZluyaI0jD7QQhx4ZphQlbmYcnJNsVvkKQ7V8HoxxHSi/ikR50Z4NuDpTCpIjBQ0O8tc/9Zb/nLord8fv/xf7rolupjmrflZUnh/UYqxtuEWdW02pNY3hXmKgT/FfhJdBkPg3CWMGB0mfzhM43LPp47o2EwuDr2RmswmQ8P/L/d7wZ9ohSPo49xwGKISLU549IN9g/IC2Q4dD3j28BE9Q+zZ40TiVCxU93AH1955B1IZITOG9nP7bf+u/dr+an/sP/Dnffu9/bn/xEfYu2VX6ovlhRBL/6V3IZrmD37C2p8=",
+  "descriptionMarkdown": "Ограничитель - это схема, построенная на комбинаторах состоит из:\n— 3 сравнивающих комбинатора;\n— 1 арифметический комбинатор;\n2 сравнивающих комбинатора принимают значения, другой является ячейкой памяти, арифметический комбинатор является фильтром. Арифметический комбинатор нужен для сброса на заданное нижнее значение (мин), схема начнет работать снова, когда количество выбранное как верхнее (макс) будет вновь достигнуто.\nК схеме нужно подключить красный провод — значение, которое считывается, зеленый провод направлен на устройство, которое должно работать по заданному ограничению.",
+  "image": {
+    "height": 1080,
+    "id": "SDZbqF7",
+    "type": "image/jpeg",
+    "width": 1920
+  }
+}
