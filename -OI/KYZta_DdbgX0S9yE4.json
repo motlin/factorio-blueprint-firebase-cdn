@@ -4,14 +4,18 @@
   },
   "authorId": "DQPgUn3kDQbOiHNKFOjlpxAuDwq1",
   "blueprintString": "https://drive.google.com/drive/mobile/folders/0BwVHGs2mds_XRUVCekwxYnNldnc?resourcekey=0-lRt4YMP27QH9MjGkoRkOAg&usp=sharing&utm_source=google+drive",
-  "createdDate": 1738749660968,
+  "createdDate": "2025-02-05T10:01:00.968Z",
   "descriptionMarkdown": "This is a test",
+  "favorites": { },
   "image": {
+    "height": 0,
     "id": "buBuBb1",
-    "type": "image/png"
+    "type": "image/png",
+    "width": 0
   },
   "imageUrl": "https://imgur.com/buBuBb1",
-  "lastUpdatedDate": 1738749660968,
+  "lastUpdatedDate": "2025-02-05T10:01:00.968Z",
   "numberOfFavorites": 0,
+  "tags": [ ],
   "title": "This is a test dont load"
 }

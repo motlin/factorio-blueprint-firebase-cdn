@@ -1,7 +1,11 @@
 {
-  "createdDate": 1552770626997,
-  "fileName": "standalone-radar.png",
-  "lastUpdatedDate": 1552770626997,
+  "author": {
+    "userId": "gQ0FAhEdGIeW1p0p55DTFhX792c2"
+  },
+  "authorId": "gQ0FAhEdGIeW1p0p55DTFhX792c2",
+  "blueprintString": "0eNqV1NtqhDAQBuBXKXMdF+Ox9TG2l6WUqEMJ5CAxlor47o12kdKNrrkQiThfhl8nE9RiwM5wZaGagDda9VC9TdDzT8XE8syOHUIF3KIEAorJZWVYywzMBLhq8RsqOr8TQGW55fgLrIvxQw2yRuNe2Ep7LZiJOqZQOK/TvavRatnJOVFOYHS3bJ7JnZGcNJIDIz1n0AMiO0dkB0S+EaxpBjkIZrXxpXG55UEvuc8p/n2QOyFey2NfbXmuh+RBC8/nmOwB8xKYyA5D482R2PJBRiiwsYY3UacFesB0PyFKwyLa6ykJ7Ck5aCkNi3uvpSxoHL3/MM2DxtFvFCHj6CfKkHF0hDuo1rOs+nP0ERCsdlUVvFqmWia0wqfrbaS+0PSrU6YxzdNiueb5B6VztsY=",
+  "createdDate": "2019-03-16T21:10:26.997Z",
+  "descriptionMarkdown": "A radar with enough solar panels and accumulators to allow it to operate continuously.",
   "favorites": {
     "mTiuvlps0JPVw3tHfnnB64K9LLf1": true,
     "wJTgxTSUSTW8pxP8gHJORPznqE52": true,
@@ -18,24 +22,20 @@
     "5vIicesU8vPlTOBqxf6Zf5Z0H6a2": true,
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true
   },
-  "author": {
-    "userId": "gQ0FAhEdGIeW1p0p55DTFhX792c2"
-  },
-  "authorId": "gQ0FAhEdGIeW1p0p55DTFhX792c2",
+  "fileName": "standalone-radar.png",
   "image": {
     "height": 1440,
     "id": "KL5vp2q",
     "type": "image/jpeg",
     "width": 2560
   },
+  "lastUpdatedDate": "2019-03-16T21:10:26.997Z",
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/",
-    "3": "/version/0,17/"
-  },
-  "title": "Standalone Radar",
-  "blueprintString": "0eNqV1NtqhDAQBuBXKXMdF+Ox9TG2l6WUqEMJ5CAxlor47o12kdKNrrkQiThfhl8nE9RiwM5wZaGagDda9VC9TdDzT8XE8syOHUIF3KIEAorJZWVYywzMBLhq8RsqOr8TQGW55fgLrIvxQw2yRuNe2Ep7LZiJOqZQOK/TvavRatnJOVFOYHS3bJ7JnZGcNJIDIz1n0AMiO0dkB0S+EaxpBjkIZrXxpXG55UEvuc8p/n2QOyFey2NfbXmuh+RBC8/nmOwB8xKYyA5D482R2PJBRiiwsYY3UacFesB0PyFKwyLa6ykJ7Ck5aCkNi3uvpSxoHL3/MM2DxtFvFCHj6CfKkHF0hDuo1rOs+nP0ERCsdlUVvFqmWia0wqfrbaS+0PSrU6YxzdNiueb5B6VztsY=",
-  "descriptionMarkdown": "A radar with enough solar panels and accumulators to allow it to operate continuously."
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
+  "title": "Standalone Radar"
 }

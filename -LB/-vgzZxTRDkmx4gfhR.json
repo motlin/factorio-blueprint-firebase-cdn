@@ -1,26 +1,27 @@
 {
-  "numberOfFavorites": 2,
   "author": {
     "userId": "m7ckJsfIUKfJF86XFyRoAIWtalx2"
   },
-  "descriptionMarkdown": "Tileable oil refinery, takes in oil and water for advanced oil processing.",
-  "fileName": "Tileable oil refinery.png",
-  "lastUpdatedDate": 1524729041029,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/version/0,15/",
-    "4": "/production/oil processing/"
-  },
-  "title": "Tileable Oil Refinery",
   "authorId": "m7ckJsfIUKfJF86XFyRoAIWtalx2",
   "blueprintString": "0eNqVld1qg0AQhV8lzLWC+xNjfYlC6V0pReM0LKy7smqpBN+9G1PThgy6XsnqzufMOcPMGUrdY+OU6SA/gzpa00L+doZWnUyhL++6oUHIQXVYQwSmqC8nq3Ts8FMZdAOMEShT4TfkbHyPAE2nOoVXznQYPkxfl+j8hRuhrQutY13Ujac2tvUh1lz+5zGxjGDwDz6O0QOC3xCNajDubHxytjcVgdnPmAgq5fB4/SYJqLhBa6xUX8eo/XWnjnFjNRJocUULKkNJy/QIYRMkuU+PE8T9Xc2PJL6gV7oSu6T1IVhrOeuxKnW2ko9YyOdpq/cJRWFJOEZSFlFlMbZS19yNjEyJr0XLpWgR1B+0GHKrx3QK+2CMmDHrmqZBvULXddhqMtlxLAszhhYlvF/5L2VVE54EeU2PTrbRJLIqzjdW5YekXwvTAsn/7ZsIdFGi3zHwqjQWpcbds9K7l795+YWunWBpduAsE2ki5Dj+ALUXMi0=",
-  "createdDate": 1524729041029,
+  "createdDate": "2018-04-26T07:50:41.029Z",
+  "descriptionMarkdown": "Tileable oil refinery, takes in oil and water for advanced oil processing.",
+  "favorites": { },
+  "fileName": "Tileable oil refinery.png",
   "image": {
+    "height": 265,
     "id": "g7M1PfW",
     "type": "image/png",
-    "width": 329,
-    "height": 265
-  }
+    "width": 329
+  },
+  "lastUpdatedDate": "2018-04-26T07:50:41.029Z",
+  "numberOfFavorites": 2,
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/production/oil processing/"
+  ],
+  "title": "Tileable Oil Refinery"
 }

@@ -1,18 +1,11 @@
 {
+  "author": {
+    "userId": "yT9M7cqzKXdr1DGqQae2smGRalz1"
+  },
+  "authorId": "yT9M7cqzKXdr1DGqQae2smGRalz1",
+  "blueprintString": "0eNrdmV9u2yAYwK9S8TqnskkcJ9Feeo6psrBDE1QMFuB0VuUD7CC72E4ysNumIUEZSWxPfWkDNh/mx/ePj1eQ0QqXgjAFVq+A5JxJsPrxCiTZMERNn6pLDFaAKFyAADBUmBbK86qoKFJcgCYAhK3xT7CKmuD8SEHUtsCK5JOcFxlhlgzYPAYAM0UUwd2ntI06ZVWRYaEn+RAlC0TphKKi1OJLLvUQzszEWsxEv1brf7GWrBelBKdphrdoR/Rs+pWciLwiKtXP1h/jnoiQKj1awI4IVeme/cTtGxPEarUlbAO6OaRChuIyNq2iRKJd2Qr8+fXbvFFJrGejXOhVKVHhbhDDuZldmuki82cjMGaf103WBkpw0I6bx6b51PfOBv4bGzgam/D2bCIHi6kXi+ngLJIeWMwcLGZeNjMCix5sZnpkM4ftyDaqSGvM+xI7ozsNM/aCORsc5iLuw8gCS9EO23MHq7mXEY7AqgcjdDnnxGKBqRYndBwsOcXHUMJ3YzwhauGlgtHgWOPrVFDgtQ11aRurrZGRC/vSixUcnNX85qwWNprQgSYKvcxzBDbh7fXIgSLyQjGCSYW3VxMHin0WWQq+EagoUEbxRJYYPesXXJ5qePWANpPv7fO3+Uy3Pmhg0VLoBKU7pM87KZFpSVS+BasnRCU2hw+p4RWaRIvG2AVXuPvdeGdgmtDB3CVFdYby53THaWWWpZXto29DeaYVru62LwD6N39JdUyoyy1n9dsnNuYBFker2up32wcfS2m7OEsLVO5FmpEFlhJtDFRwctunZ85ox/t+H++tYU1EB6gN+qf0YC91rwryAl14MJsssZGR7nVBbxkvsVaE9hPANz2MV6qsPAR3G9p47Xe0OEwazWkkANA7Q4+8UvTh3c/05lEqOkrIE6sDOuOWVwoeDg5rdntYdsJ9FONdGXjklYKPwCrsQbEcKBIfFCPYWNiD2jhQLC519uHX8PU1NmHW19lPbWdvGeHSGQxObI7bvS0v3ZwvEogNrGvDsBVKZmfiMnRVe2DoE2tGyIH7jzU2XLtwBl0lWOh1qPoPzg9Xs3PaNIQ+ajR8BTbqo2i4PKM3dokWJi56XsX8Eej1UEZ0e6TZyWs4Z1CY3rsuenz98gNortl/p5uIL6mMwpOivLLd4evNfeiJ02gSH5czPIs+7knntkfpjOgx6G6hV5+uuwNAUYapqXLxFyzu2qLKHWLrO0SRMDfWOyxkl0ctEggX0TJMtNL9BWeO54U=",
+  "createdDate": "2018-06-30T04:45:48.179Z",
   "descriptionMarkdown": "inspired by <i>Factorio Blueprints</i> but with less extra parts and 5% increment\nfor manual setup: <br>\narithmetic combiners: A+0 = color <br>\nlights: color enabled, any >= power% <br>\nspeaker: any < power%",
-  "image": {
-    "height": 400,
-    "id": "jxoIQaL",
-    "type": "image/png",
-    "width": 236
-  },
-  "lastUpdatedDate": 1530334369630,
-  "numberOfFavorites": 105,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
   "favorites": {
     "4MKYdr8yg3b3PCxMyROOzx0gX8m1": true,
     "3Itc0snPXKhoQG8iAzN8qiBPTdl2": true,
@@ -82,14 +75,22 @@
     "uXdTf23kC6XJascjaZokfH2Tm192": true,
     "1DOaH6mFHqNPoxeW3L6nRSK916F3": true,
     "WvKqukTTOgOpB3L7ZkSGTl0dSDt2": true,
-    "d2HEvOXcbwPehK61u30msdXDnDr2": true
+    "d2HEvOXcbwPehK61u30msdXDnDr2": true,
+    "tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true
   },
-  "author": {
-    "userId": "yT9M7cqzKXdr1DGqQae2smGRalz1"
-  },
-  "blueprintString": "0eNrdmV9u2yAYwK9S8TqnskkcJ9Feeo6psrBDE1QMFuB0VuUD7CC72E4ysNumIUEZSWxPfWkDNh/mx/ePj1eQ0QqXgjAFVq+A5JxJsPrxCiTZMERNn6pLDFaAKFyAADBUmBbK86qoKFJcgCYAhK3xT7CKmuD8SEHUtsCK5JOcFxlhlgzYPAYAM0UUwd2ntI06ZVWRYaEn+RAlC0TphKKi1OJLLvUQzszEWsxEv1brf7GWrBelBKdphrdoR/Rs+pWciLwiKtXP1h/jnoiQKj1awI4IVeme/cTtGxPEarUlbAO6OaRChuIyNq2iRKJd2Qr8+fXbvFFJrGejXOhVKVHhbhDDuZldmuki82cjMGaf103WBkpw0I6bx6b51PfOBv4bGzgam/D2bCIHi6kXi+ngLJIeWMwcLGZeNjMCix5sZnpkM4ftyDaqSGvM+xI7ozsNM/aCORsc5iLuw8gCS9EO23MHq7mXEY7AqgcjdDnnxGKBqRYndBwsOcXHUMJ3YzwhauGlgtHgWOPrVFDgtQ11aRurrZGRC/vSixUcnNX85qwWNprQgSYKvcxzBDbh7fXIgSLyQjGCSYW3VxMHin0WWQq+EagoUEbxRJYYPesXXJ5qePWANpPv7fO3+Uy3Pmhg0VLoBKU7pM87KZFpSVS+BasnRCU2hw+p4RWaRIvG2AVXuPvdeGdgmtDB3CVFdYby53THaWWWpZXto29DeaYVru62LwD6N39JdUyoyy1n9dsnNuYBFker2up32wcfS2m7OEsLVO5FmpEFlhJtDFRwctunZ85ox/t+H++tYU1EB6gN+qf0YC91rwryAl14MJsssZGR7nVBbxkvsVaE9hPANz2MV6qsPAR3G9p47Xe0OEwazWkkANA7Q4+8UvTh3c/05lEqOkrIE6sDOuOWVwoeDg5rdntYdsJ9FONdGXjklYKPwCrsQbEcKBIfFCPYWNiD2jhQLC519uHX8PU1NmHW19lPbWdvGeHSGQxObI7bvS0v3ZwvEogNrGvDsBVKZmfiMnRVe2DoE2tGyIH7jzU2XLtwBl0lWOh1qPoPzg9Xs3PaNIQ+ajR8BTbqo2i4PKM3dokWJi56XsX8Eej1UEZ0e6TZyWs4Z1CY3rsuenz98gNortl/p5uIL6mMwpOivLLd4evNfeiJ02gSH5czPIs+7knntkfpjOgx6G6hV5+uuwNAUYapqXLxFyzu2qLKHWLrO0SRMDfWOyxkl0ctEggX0TJMtNL9BWeO54U=",
   "fileName": "power meter.png",
-  "title": "🔌 🔊 Power Indicator with Alarm (cleaner)",
-  "authorId": "yT9M7cqzKXdr1DGqQae2smGRalz1",
-  "createdDate": 1530333948179
+  "image": {
+    "height": 400,
+    "id": "jxoIQaL",
+    "type": "image/png",
+    "width": 236
+  },
+  "lastUpdatedDate": "2018-06-30T04:52:49.630Z",
+  "numberOfFavorites": 106,
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
+  "title": "🔌 🔊 Power Indicator with Alarm (cleaner)"
 }

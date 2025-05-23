@@ -1,21 +1,11 @@
 {
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/compact/"
-  },
-  "title": "Simple radar outpost",
   "author": {
     "userId": "oDVwxjgLdCWWtniTUBTWsL3AZiI3"
   },
-  "createdDate": 1550411416844,
-  "fileName": "radar.jpg",
-  "image": {
-    "height": 283,
-    "id": "KzdVESj",
-    "type": "image/jpeg",
-    "width": 308
-  },
-  "numberOfFavorites": 15,
+  "authorId": "oDVwxjgLdCWWtniTUBTWsL3AZiI3",
+  "blueprintString": "0eNqVlNFuhCAQRf9lnnEjqOuun7GvTdOgThoSQIPY1Bj/vaitaSpu5clguIc7w2VGKGWPrRHaQjGCqBrdQfEyQifeNZfzPzu0CAUIiwoIaK7mleE1NzARELrGTyjo9EoAtRVW4ApYFsOb7lWJxm3YpF0juYlarlE6Xtt0TtPo+STHiRiBwX2yaSI7BjvHeIZITtrIVgbzMdKNwauqV73ktjG+Ui4/lIvXS3aO8x/mumEU1qJXEUqsrBFV1DYS9zy60hIfKz/XnmfduYV2J/aXdf+TtR0hXuXUJ6ZxYG8PTFAalBe/FxbYEXrgJQmr6QiThtyxv6Is6DGnXkZobKM1t97M0TxkMjg/blgt86z4Nf4ISF46VQGP78B9oOkW8fWWM3aj9zh3x38BZdSzUg==",
+  "createdDate": "2019-02-17T13:50:16.844Z",
+  "descriptionMarkdown": "Simple and as cheap radar as it can be. It will keep running 100% day and night. Even in any low chance scenario where wandering aliens would find it, they only care about the radar itself leaving the solar panels and accumulators intact.",
   "favorites": {
     "vKPyVU3JrSZnKC3ire4DNms738J2": true,
     "MzULrpdZngY1YbMEmAIihXt4TLd2": true,
@@ -34,8 +24,18 @@
     "VPHmov95BDgeNTAtruq8HUqHP9H2": true,
     "Yt7g9n1xL4bSmPsU3oZaH1XCsIk2": true
   },
-  "authorId": "oDVwxjgLdCWWtniTUBTWsL3AZiI3",
-  "blueprintString": "0eNqVlNFuhCAQRf9lnnEjqOuun7GvTdOgThoSQIPY1Bj/vaitaSpu5clguIc7w2VGKGWPrRHaQjGCqBrdQfEyQifeNZfzPzu0CAUIiwoIaK7mleE1NzARELrGTyjo9EoAtRVW4ApYFsOb7lWJxm3YpF0juYlarlE6Xtt0TtPo+STHiRiBwX2yaSI7BjvHeIZITtrIVgbzMdKNwauqV73ktjG+Ui4/lIvXS3aO8x/mumEU1qJXEUqsrBFV1DYS9zy60hIfKz/XnmfduYV2J/aXdf+TtR0hXuXUJ6ZxYG8PTFAalBe/FxbYEXrgJQmr6QiThtyxv6Is6DGnXkZobKM1t97M0TxkMjg/blgt86z4Nf4ISF46VQGP78B9oOkW8fWWM3aj9zh3x38BZdSzUg==",
-  "descriptionMarkdown": "Simple and as cheap radar as it can be. It will keep running 100% day and night. Even in any low chance scenario where wandering aliens would find it, they only care about the radar itself leaving the solar panels and accumulators intact.",
-  "lastUpdatedDate": 1550411416844
+  "fileName": "radar.jpg",
+  "image": {
+    "height": 283,
+    "id": "KzdVESj",
+    "type": "image/jpeg",
+    "width": 308
+  },
+  "lastUpdatedDate": "2019-02-17T13:50:16.844Z",
+  "numberOfFavorites": 15,
+  "tags": [
+    "/power/solar/",
+    "/general/compact/"
+  ],
+  "title": "Simple radar outpost"
 }

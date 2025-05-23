@@ -4,20 +4,8 @@
   },
   "authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
   "blueprintString": "0eF7tnU2Po0YQhv8K4pRE4A+wPWsre0i0l42ySZTraoQaaOzW8LV027vekf/7VvFhY5u1YcbmMKqTTdO8L1QX1fVoNPKz7oZrnmYiVo6bJE/6ojYi9cXn2iGeE14SF8NSLGMW4ljMIq4v9JRl8EXxzBzpO0MXsc+/6YvxzmiYy6TkkRuKeGlGzFuJmJvj2kXW7tHQeayEErxwyw+2TryOXJ6BqnFRydDTRMLFSYyeIGjOptZgauhb+DoeTQZT8IInUVkSOi5fsY1IQPUZx2LuKUclTpgshVTCc2KuviYZREZla27o+3GY6+89ApFJ5VyLCQZPMYzkfD7HwwgnKPTWf9d3MCPjnkhPr6yGnS9rFkIY4HScZBE4YXBPQmPtQxMwqUwRS56BzLWYwFfwP1OzO6jZx2qG7gu472LOuwbtyV4741/WXOLDeiv4vKY+ztXLi5xAhHAlpAnkWWFXpEyVgAYsTjnjaPRsiTBvziJ8skrv84E1LiHcBz5UlbINglZXQasmeIj8QdDuKmjXBA/hPghOugpOaoKwHmeC066CsJJ7wVmD4Kyr4Gz3iNVDZUyunDhRTpVcfvUG7xMnSyLHXQdBnht4rukNODylBDe25BdytPY+3SlHsRh0CQcGY4fx2EsUFmqbVxnhw9zS5KPikaYSLWJPHEbh1E+MzaPKd/1u8qiWhmVUwbQMr45vXXkH/+RjWhJoUCW9JwlnNiwTzA2L8OdjF8VsvM1zNY53LDUo42qFA7BbZNwXsNKnHsXMukkeopNg1CpF52DgJle5m0lwtklcNK5VlH6Na5WnX+NaherXuFbJ+jXGitfy8oa3aYS5GcCNrUMGxxH79svY0NKRI8baED+V9lv1QvwKU32ecig3WCzyCnhZHPOvUdy6gTjmWKO4fQNxzKNG8ckNxDFXGsWnNxDHfGgUn71aHLrQI3FQk6hWVd9TLdhHBOwSMPMABdARM5dD06v/XXbG2icWhtpnnPm+lriPxUhTw/4IKhvYmvI3bDqz5pP5fDp5sK2RjbtouR+O8Fl6ohHrZjSCrwzRSBt+IBohGukmSDRCNNK5OSMauVWnSjTSmzHRCNFIW3GikVfRiNWORvJ2qycasW9GI5jVRCNt+IFohGikmyDRCNFI5+aMaORWnSrRSG/GRCNEI23FiUZeRSN2OxrJu6N70Ahs6JHwWGimITbnL+KQE43GDrbqDYg+iD6IPog+iD5gLtEH0cc1Y6KP3oyJPog+3jB9HLfp7bgjb2Puwh3wbJkI1kv+QuY4XE+8cZ0QiDeIN7oJEm8Qb3Ruv4g3btWLEm/0Zky8QbzRVpx4owNv7Fv0dqyRdxz3YA0ewk4MLQBbQocvvNf8qaNZqrFDIAIhAiECIQIhAiECIQLpYEwE0psxEQgRyBsmkMZuvR2M5L3CPWAkgN3Sz7Yvw4/q4ovAMSPgIOAg4CDgIOAg4CDguG5MwNGbMQEHAccbBo6yP2+HGNCn3wcxXJF4K5aH4UWUUbu+1X+T11thQg9CD0IPQg9CD0IPQo+rxoQevRkTehB6vGH0ODTt7ejjocnVzH8j5GB9bqb9Vx2I79zXju6teDTpZSItXurjW19oXsYCpT0XcdjhjtFgwGJfK/d32DPzVXku12G3X5DGPWegfYxlCs2xr7lbbaVUKhfDYcA8KCAiKX7yZAA1ZbgR/OvQ/PePufPp4a93IpR/Th4+/C8/yAHWiO4QBpEEE7HhTjk0urACux9+No2O",
-  "createdDate": 1731353288944,
+  "createdDate": "2024-11-11T19:28:08.944Z",
   "descriptionMarkdown": "Combines the best ideas from:\n\n- [Parameterised Bot Mall V2](https://www.factorio.school/view/-OA-H3adh7Q6zhzjbkvY)\n- [SIMPLEST MALL - no circuits! 1.3](https://factorioprints.com/view/-OA9_M7J8ilsB47DRsDs)\n\nParameters:\n\n- Item to make\n- Number of stacks (to make), defaults to 1\n- Number of seconds worth of ingredients (to request), defaults to 30\n\nImprovements over the others:\n\n- Parameterizes the amount of ingredients to buffer\n- Requests from buffer chests\n- Smaller default amounts (down from 6 stacks to make, 2 minutes of ingredients to buffer)",
-  "image": {
-    "id": "1fRG9LX",
-    "type": "image/png"
-  },
-  "imageUrl": "https://imgur.com/1fRG9LX",
-  "lastUpdatedDate": 1733891539544,
-  "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/version/2,0/"
-  },
-  "title": "Bot Mall w/ parameters w/o circuits",
   "favorites": {
     "PXo1PfREU0MDT37U7ncFPdmc1lv2": true,
     "RPPrcbzSmTN6S8XhOO0sZUgzfqP2": true,
@@ -67,5 +55,19 @@
     "oQ5vPX5uWYgdcYhZbfjgkQ3eFY92": true,
     "CSjv9HKKz5f2aMXGyV4KkENrali2": true,
     "KKwzXqUjMqYgpKMFFBmv1I9dopv2": true
-  }
+  },
+  "image": {
+    "height": 0,
+    "id": "1fRG9LX",
+    "type": "image/png",
+    "width": 0
+  },
+  "imageUrl": "https://imgur.com/1fRG9LX",
+  "lastUpdatedDate": "2024-12-11T04:32:19.544Z",
+  "numberOfFavorites": 20,
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/version/2,0/"
+  ],
+  "title": "Bot Mall w/ parameters w/o circuits"
 }

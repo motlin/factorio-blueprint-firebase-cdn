@@ -1,20 +1,11 @@
 {
-  "lastUpdatedDate": 1499861257515,
-  "tags": {
-    "0": "/production/electronic circuit (green)/"
-  },
   "author": {
     "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"
   },
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
   "blueprintString": "0eNqdm91uo0gQhV8l4tqMurqbBnw5e7EPsRpF2NObRYvBAjzaaJR3XxyPY2tS4HPITWJQPqqL+uuu8s9k15zisa/b8XnXdf8m25+3K0Oy/evu4/leve/ay+Whfmmr5nxtfD3GZJvUYzwkm6StDudP1TDEw66p25f0UO3/qduY2uRtk9Tt9/hfspW3zUNEbOJ+7Lu23qf7ut+f6vEOYN++bZLYjvVYx4tA7x9en9vTYRf76QkfnOHY1OM4Xdskx26Y/qFrz8+cIKnYL9kmeZ3+Cm9niX5j2BvjUDVN2lSHo0IJCwj3G+KyqGlJx66JCmtJHP/BGvuqHY5dP6a72IwKxl8xm+R73U+PfL9nFWiGQ60K9Qo04FAHS5rjUIElLWCogZklzMTlFAND9dcUNKhw1ukXjFMsLKDDBXSQBy45jXggEIgsxgEhnER+qT9TQYEHeRXEOINbAhU8SF/azer/roYxrdsh9jNRV66chwZgDU31AFWW89RneHljT+T6PVvtu+Mx9um+2k2+oj3FwrLnuOiOFf2XYbt70dXU+vlZHl6AV9+oFsjszZdOUyrvX/pu+v0g5ZwVc60R2uNJlzZAGf/q6IioOUI0V6IHiAVANIyIJaFNwZXpYL9zsKyO9Tq/2nId7HpBfXda+eFYzytWxAwHu5wYVfGq5BkLRdSBp7LFlOhymqMmMocnslum0DglzVHX5Q2f6p0KEh5kVZDlU70OcjxIX5qns7t9nCJ9Ru65rmxdxrCyVhDG733O1gqIIgoW6gBoSW8YVb1mhuaoxpgJvEinak7dFFt2W2gf57/MsVAHQD29K0aoGU1FFBDYjbFuOTmL0Q0H9g4Le1xWknUHYIvBkEwHMGVdLUPFtGDZsgPRBnmgJmbBkoKnaw+dk9Ec1SRDoGsPnZPTHH1dBV96iAoqaZDROLmhKw+dI3wFoy4st2wFYx5HkRw79fqoW3TJPJn8EcGydYcPwu/g8rDu4FzXRU7XGjqnYDm69ZVkyWIex8XCkMWFAc7GhS1YBIBaurRAqI6lIuv3bKGhWk2RkRjVaIrAlSuAOxf5quN/fZHFqsOdFZGhIGsswHlKAwVcMQsKKIWsdhC5LF1X6LI5lqOaYOnZskLHZHR1oq+Kb6bonJzmqFVXybdSdE5Jc9R1iaGbJ8AWR4ysO16ZkdGuO16xzE5EjCOLIUgRbIUlCJTux8/oNbAcq3NysgawSC+b7boLAi3ZEgChimGpiAJEyJJAf8lEz10W3rE4LqMC23QRzzEFYWarTi24UCGBzOOQNvJVpxYzb71gs/kMp2Q5uvlYw+bzGY6wHH1dlu9zOB3k6MJgBuSpYTR9UMNmbDYHTvPFBmbGbUaynJwTmNFSsWrLPyNTyQ7LAT1PuWuLw8ML7tZu707jTL9dnLD5Ghg3EGfZQTxIC2wjAxLVk1CHQOk+BkQNLBVSQE6PcoCmVZCjgx4ZzGOHHBEVeHLqRI8jftVUox5GPDvViOjOM1ONM3KxcyJAU0g83caYeQF0G2OGkzOjmzOKKviIHYABKbnrgwPjZsB4lNx1xB8Ph0FAYebXkCHku744GqM+K/Pb5jLov737asEmaaqJMl0LX57+7GNsn/64HAEO070fsR8u7uS9Dc5PP+XtqwBGI6bv32a4Yb9WQ5y8JK3Sr9ONJ+0p1bTyH/H5Sp157Nv/im9DVg==",
+  "createdDate": "2017-07-12T12:07:37.515Z",
   "descriptionMarkdown": "Scalable modular compact build for Green Circuits\n- Easy to build the first one\n- Scaled up to Blue belts\n- Easy to hook up to a Main Bus setup\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV",
-  "image": {
-    "type": "image/jpeg",
-    "width": 1401,
-    "height": 789,
-    "id": "AvpHtW7"
-  },
   "favorites": {
     "O7mLBHOsTZY6aHTWyEaKCx9Vt2b2": true,
     "ovJD6hAXo9hSba4l3bmn9goxzkK2": true,
@@ -348,9 +339,18 @@
     "Ot9hwFiWw6S9MkrRuw5GXKDvPBy1": true,
     "zUdH1z1m3mOf9EykZUMsTYMn7lm2": true
   },
-  "createdDate": 1499861257515,
   "fileName": "6 Green Circuits.PNG",
+  "image": {
+    "height": 789,
+    "id": "AvpHtW7",
+    "type": "image/jpeg",
+    "width": 1401
+  },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/6%20Green%20Circuits.PNG?alt=media&token=845d30e8-0c50-4655-9977-6ee7ea0d206e",
+  "lastUpdatedDate": "2017-07-12T12:07:37.515Z",
   "numberOfFavorites": 474,
+  "tags": [
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Modular Green Circuits"
 }

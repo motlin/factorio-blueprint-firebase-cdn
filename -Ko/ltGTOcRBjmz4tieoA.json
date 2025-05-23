@@ -1,25 +1,11 @@
 {
-  "createdDate": 1499780683862,
-  "image": {
-    "height": 928,
-    "id": "5Mk1rzo",
-    "type": "image/jpeg",
-    "width": 1447
-  },
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2.%20Steam%20Power.PNG?alt=media&token=73f4b508-802d-4195-ad30-af8b37d6d0fa",
-  "lastUpdatedDate": 1499858778520,
   "author": {
     "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"
   },
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
-  "fileName": "2. Steam Power.PNG",
-  "numberOfFavorites": 185,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
-  "title": "Steam Power",
+  "blueprintString": "0eNqdl02PmzAQhv8K8qlVYYU/QoBjpN4r9VhVkZO1VtYag8C7bbTiv9cQdUnTWTKTXCJszzNm/M4wfmMH92K63vqwP7TtM6vflpGB1T8uHqc5e2z9eXiwT167aSycOsNqZoNpWMq8bqanIRjdZMY/WW/YmDLrH81vVvMxvWl6aK0z/YWRGH+mzPhggzVn5/PDae9fmkNcWfPFbaOdy4wzx9DbY9a1zkRw1w7RtvWTy8jLeJ6yU/xX47SdK5i4gjnddABDrSAkcT9yhaXeWZ3tIGOxYrx5Nw699kPX9iE7GBf+x6xFpLixhbUdbFHRXAtmSQvmWiwrGmpVJtMkpHVAbfyMEVHRj7aPLudJAUE5FlrgmeI6swANPWxAXgHxFnVbP5g+gETCOyuqSCV4HmStCxBTIN6O44O1vRn8j2IPxqpE6oMgjwqJJMhYUHODI5jE1MAgCZnBb5+1kEQF5uDnh5wOHMRs0MLDRKog6Q5D3NJkh0GW+MKEwVXEgwDricyJFPA0JUdXJYRQpbivXwLrrpSUfglGqLv6JZi1wfVLsHFBPCyYskX1S7BtSeiXYEJ1T78EolR+V78UWbFfn3v6+uL2kDKnYyzjmHhIvk85n3xrf5k++aSS3Vyihi9l8nUuA8PnuPw1jpw1rJQopIq/arkU5JCTbL7DLJ52ejCZ9ZnOdnEi+ddxXKdjlrya/V/kBz7HP0QRUdQ=",
+  "createdDate": "2017-07-11T13:44:43.862Z",
+  "descriptionMarkdown": "Blueprint for setting up modular Steam Power for the Early to Mid game\n- 4 Boilers + 8 Steam Engines\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV",
   "favorites": {
     "5Z6HBRsQnqRKlRWr0HF4e0ECFd03": true,
     "QXtKK3MQwLdmXrhR9UXHOnFr1zJ3": true,
@@ -97,6 +83,20 @@
     "OL6LQsd3lgeGLF0BwspZkUc66wG2": true,
     "ZCdZvG7ntGbzG03U81dfaiGrInP2": true
   },
-  "blueprintString": "0eNqdl02PmzAQhv8K8qlVYYU/QoBjpN4r9VhVkZO1VtYag8C7bbTiv9cQdUnTWTKTXCJszzNm/M4wfmMH92K63vqwP7TtM6vflpGB1T8uHqc5e2z9eXiwT167aSycOsNqZoNpWMq8bqanIRjdZMY/WW/YmDLrH81vVvMxvWl6aK0z/YWRGH+mzPhggzVn5/PDae9fmkNcWfPFbaOdy4wzx9DbY9a1zkRw1w7RtvWTy8jLeJ6yU/xX47SdK5i4gjnddABDrSAkcT9yhaXeWZ3tIGOxYrx5Nw699kPX9iE7GBf+x6xFpLixhbUdbFHRXAtmSQvmWiwrGmpVJtMkpHVAbfyMEVHRj7aPLudJAUE5FlrgmeI6swANPWxAXgHxFnVbP5g+gETCOyuqSCV4HmStCxBTIN6O44O1vRn8j2IPxqpE6oMgjwqJJMhYUHODI5jE1MAgCZnBb5+1kEQF5uDnh5wOHMRs0MLDRKog6Q5D3NJkh0GW+MKEwVXEgwDricyJFPA0JUdXJYRQpbivXwLrrpSUfglGqLv6JZi1wfVLsHFBPCyYskX1S7BtSeiXYEJ1T78EolR+V78UWbFfn3v6+uL2kDKnYyzjmHhIvk85n3xrf5k++aSS3Vyihi9l8nUuA8PnuPw1jpw1rJQopIq/arkU5JCTbL7DLJ52ejCZ9ZnOdnEi+ddxXKdjlrya/V/kBz7HP0QRUdQ=",
-  "descriptionMarkdown": "Blueprint for setting up modular Steam Power for the Early to Mid game\n- 4 Boilers + 8 Steam Engines\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV"
+  "fileName": "2. Steam Power.PNG",
+  "image": {
+    "height": 928,
+    "id": "5Mk1rzo",
+    "type": "image/jpeg",
+    "width": 1447
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2.%20Steam%20Power.PNG?alt=media&token=73f4b508-802d-4195-ad30-af8b37d6d0fa",
+  "lastUpdatedDate": "2017-07-12T11:26:18.520Z",
+  "numberOfFavorites": 185,
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
+  "title": "Steam Power"
 }

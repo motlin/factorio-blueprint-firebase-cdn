@@ -1,15 +1,11 @@
 {
-  "descriptionMarkdown": "Outputs:\n- Battery\n\nInputs\n- Iron Plates\n- Copper Plates\n- Sulfuric Acid\n\n<a href=\"https://imgur.com/a/hMCPoDi\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/tQHQN7p.png\" referrerpolicy=\"no-referrer\" class=\"border-warning img-thumbnail\"></a>\n",
-  "fileName": "compactbatteryassembly-aa.png",
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/compactbatteryassembly-aa.png?alt=media&token=ced9a948-2c27-479c-b346-5d6063fccfc3",
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/moderation/screenshot missing alt info/",
-    "4": "/general/compact/"
+  "author": {
+    "userId": "1mWNpXvBKWel5dpejdaG7pdDQbs2"
   },
-  "title": "Tilable compact battery assembly",
+  "authorId": "1mWNpXvBKWel5dpejdaG7pdDQbs2",
+  "blueprintString": "0eNqlld1uozAQhV+lmmtbsl1CN9y1r1FVK0O8qSX/yTZVUcS7rwnbdFGHDZteATbznWHmDD5Ba3oVonYZmhPozrsEzfMJkj46aaa1PAQFDeisLBBw0k5PrcxZxQFGAtod1Ds0fCRXo7pXZXUnDQ1GFsHPYDG+EFAu66zVrH9+GH663rYqFvoag0DwqYR5N6kWFN0RGKBhBX7QUXXzliBQ7nVY5v5FRlxkfsmUaV+yi8foy5W2ymBq4qxG+VKuIh8F8H0Ofca07i9axrsjfZVF7EC1SyqW9BCpe1RKIOhq+RnrTIYiawS5WyJzlC4FH/NaXTheF4Rcb26t+EZnHy4qYXr3C7v6yBeJ/XEldveP2P0l1qqD7i1VpmQedUeDN2rVUCiLsxvtydbcqd2KOTnfaqE/tmTXLcTFoo40ezonvwrd4Ev+OUbJSmOokTasGR2vavWfg8hQG2Lk24Zmw8zw+iYy20B+2NykCssWrcO2AcK7s98Uy8bpBDmfNs1fRxoBI0tFytrT/Gu4e0xJ2dYMZetNxTT7qqpEtWei3tXj+Bt0KFgu",
+  "createdDate": "2017-05-03T17:30:20.873Z",
+  "descriptionMarkdown": "Outputs:\n- Battery\n\nInputs\n- Iron Plates\n- Copper Plates\n- Sulfuric Acid\n\n<a href=\"https://imgur.com/a/hMCPoDi\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/tQHQN7p.png\" referrerpolicy=\"no-referrer\" class=\"border-warning img-thumbnail\"></a>\n",
   "favorites": {
     "NJ2Rg6V5VteClFaADQE0pDqoll82": true,
     "dNdWZEzaW7S6Ii5nOoEwyfmbTvp1": true,
@@ -95,16 +91,22 @@
     "J1fLrjM5A2OakN5et032wO7cmcE3": true,
     "CSjv9HKKz5f2aMXGyV4KkENrali2": true
   },
-  "blueprintString": "0eNqlld1uozAQhV+lmmtbsl1CN9y1r1FVK0O8qSX/yTZVUcS7rwnbdFGHDZteATbznWHmDD5Ba3oVonYZmhPozrsEzfMJkj46aaa1PAQFDeisLBBw0k5PrcxZxQFGAtod1Ds0fCRXo7pXZXUnDQ1GFsHPYDG+EFAu66zVrH9+GH663rYqFvoag0DwqYR5N6kWFN0RGKBhBX7QUXXzliBQ7nVY5v5FRlxkfsmUaV+yi8foy5W2ymBq4qxG+VKuIh8F8H0Ofca07i9axrsjfZVF7EC1SyqW9BCpe1RKIOhq+RnrTIYiawS5WyJzlC4FH/NaXTheF4Rcb26t+EZnHy4qYXr3C7v6yBeJ/XEldveP2P0l1qqD7i1VpmQedUeDN2rVUCiLsxvtydbcqd2KOTnfaqE/tmTXLcTFoo40ezonvwrd4Ev+OUbJSmOokTasGR2vavWfg8hQG2Lk24Zmw8zw+iYy20B+2NykCssWrcO2AcK7s98Uy8bpBDmfNs1fRxoBI0tFytrT/Gu4e0xJ2dYMZetNxTT7qqpEtWei3tXj+Bt0KFgu",
-  "createdDate": 1493832620873,
+  "fileName": "compactbatteryassembly-aa.png",
   "image": {
+    "height": 0,
     "id": "fMYDftk",
-    "type": "image/png"
+    "type": "image/png",
+    "width": 0
   },
-  "lastUpdatedDate": 1731688186016,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/compactbatteryassembly-aa.png?alt=media&token=ced9a948-2c27-479c-b346-5d6063fccfc3",
+  "lastUpdatedDate": "2024-11-15T16:29:46.016Z",
   "numberOfFavorites": 180,
-  "author": {
-    "userId": "1mWNpXvBKWel5dpejdaG7pdDQbs2"
-  },
-  "authorId": "1mWNpXvBKWel5dpejdaG7pdDQbs2"
+  "tags": [
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/moderation/screenshot missing alt info/",
+    "/general/compact/"
+  ],
+  "title": "Tilable compact battery assembly"
 }

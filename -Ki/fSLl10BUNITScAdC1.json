@@ -1,11 +1,11 @@
 {
-  "image": {
-    "id": "hTVUBgm",
-    "type": "image/jpeg",
-    "width": 1486,
-    "height": 580
+  "author": {
+    "userId": "axi9Cz2Rg3Vr3vEMHQzcClxDaSq1"
   },
-  "numberOfFavorites": 34,
+  "authorId": "axi9Cz2Rg3Vr3vEMHQzcClxDaSq1",
+  "blueprintString": "0eNqdmN2OmzAQhd/F11DhHwjhVVbVihArtQoG2aa7UZR3rwmKNm2G7HiuIhL545zxnMHkwg79rCdnbGDNhZlutJ41bxfmzcm2/fJdOE+aNcwEPbCM2XZYrvTn5LT3eXCt9dPoQn7QfWDXjBl71J+s4dfsW4gPbfc7N9ZrF7R7WCwQi7vWncb8oz2N9mGlJK9U158Z0zaYYPRagtvF+d3OwyGqa/iT+TmudCc3xs/Vfsam0UdABMebR2guMnaOH1HWXcs4h2leKvV0A/FddTfx6grgZDpO3tUCOEXGqWj+aJzu1t8EAC+T4cULqVW6VP4Ct6OKQxivyVL/g1cAfE/oWJ7QsLxIVs9fNCznyTiBrgUXVDjYE/w5XX7qTVjmGLBlP8qVxUGWIgdfIIyX5ODCaisyT4A8crxgeTUVB6vbkwMK8kSR0Dev20aQ4wIrE9QwI5pQyK2H/laz8H+hCoIqPFSgoSX9MV98DU1jtx7y5PgU4K7t0DUo0CWo8XXlaOiemEvQtiyosYRxHO0Y3UhSoJnoIkpJjDzsWpHPB5hOl19JGvTRzEOu+2jOmS6fxl4DO6RubPB5K6uHamrd590v7beTuIykQ3s7okCwHRImMbA6dQpJxEbvU+clAqoKnO0C4VpxZAk5BiYShxjGrEwdYhiowrnGNKEqcSxUAavE+YXxukucXxhmnTgS7r29vJvfXuKbh/8rMvZHO7+eOZQSqlJFyePZ5i+u9KJM",
+  "createdDate": "2017-04-26T18:10:51.095Z",
+  "descriptionMarkdown": "Will almost fully compress two blue belts per train car.  \nIt comes out to about 19.15 items/second on each side where blue belts carry 20 items/second.  \nThe Blueprint is for a single train car",
   "favorites": {
     "URHfXKFThhZTzZqb2EGbGNJuZmP2": true,
     "fZcqlQRI7wbMDzewMJyIFmGc9iR2": true,
@@ -16,21 +16,21 @@
     "LfkhljyJxhZVgUkl5g3PwdHNbRf1": true,
     "SIDIibx8FkfQdaBUyhl4EYXDwHh2": true
   },
-  "descriptionMarkdown": "Will almost fully compress two blue belts per train car.  \nIt comes out to about 19.15 items/second on each side where blue belts carry 20 items/second.  \nThe Blueprint is for a single train car",
   "fileName": "Factorio Train Unloader.png",
-  "blueprintString": "0eNqdmN2OmzAQhd/F11DhHwjhVVbVihArtQoG2aa7UZR3rwmKNm2G7HiuIhL545zxnMHkwg79rCdnbGDNhZlutJ41bxfmzcm2/fJdOE+aNcwEPbCM2XZYrvTn5LT3eXCt9dPoQn7QfWDXjBl71J+s4dfsW4gPbfc7N9ZrF7R7WCwQi7vWncb8oz2N9mGlJK9U158Z0zaYYPRagtvF+d3OwyGqa/iT+TmudCc3xs/Vfsam0UdABMebR2guMnaOH1HWXcs4h2leKvV0A/FddTfx6grgZDpO3tUCOEXGqWj+aJzu1t8EAC+T4cULqVW6VP4Ct6OKQxivyVL/g1cAfE/oWJ7QsLxIVs9fNCznyTiBrgUXVDjYE/w5XX7qTVjmGLBlP8qVxUGWIgdfIIyX5ODCaisyT4A8crxgeTUVB6vbkwMK8kSR0Dev20aQ4wIrE9QwI5pQyK2H/laz8H+hCoIqPFSgoSX9MV98DU1jtx7y5PgU4K7t0DUo0CWo8XXlaOiemEvQtiyosYRxHO0Y3UhSoJnoIkpJjDzsWpHPB5hOl19JGvTRzEOu+2jOmS6fxl4DO6RubPB5K6uHamrd590v7beTuIykQ3s7okCwHRImMbA6dQpJxEbvU+clAqoKnO0C4VpxZAk5BiYShxjGrEwdYhiowrnGNKEqcSxUAavE+YXxukucXxhmnTgS7r29vJvfXuKbh/8rMvZHO7+eOZQSqlJFyePZ5i+u9KJM",
-  "createdDate": 1493230251095,
+  "image": {
+    "height": 580,
+    "id": "hTVUBgm",
+    "type": "image/jpeg",
+    "width": 1486
+  },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Train%20Unloader.png?alt=media&token=65d24be7-0074-4b7d-8f0a-975d3602dd1d",
-  "lastUpdatedDate": 1498605138521,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
-  "title": "Compact Blue Belt Train unloader",
-  "author": {
-    "userId": "axi9Cz2Rg3Vr3vEMHQzcClxDaSq1"
-  },
-  "authorId": "axi9Cz2Rg3Vr3vEMHQzcClxDaSq1"
+  "lastUpdatedDate": "2017-06-27T23:12:18.521Z",
+  "numberOfFavorites": 34,
+  "tags": [
+    "/train/unloading station/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
+  "title": "Compact Blue Belt Train unloader"
 }

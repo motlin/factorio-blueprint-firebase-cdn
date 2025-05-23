@@ -1,21 +1,11 @@
 {
-  "createdDate": 1604610919121,
-  "fileName": "CompactMiningDraggable.PNG",
-  "lastUpdatedDate": 1645203954762,
-  "numberOfFavorites": 24,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/belt/express transport belt (blue)/"
-  },
   "author": {
     "userId": "YXTfZOfNTFgckOUFC1KzEtgeZ462"
   },
   "authorId": "YXTfZOfNTFgckOUFC1KzEtgeZ462",
   "blueprintString": "0eNqllclugzAQhl+lmrOJwJgQuPbcJ6iiimVELRnbMqZKFPHuNWRpJEApcEKDx98/zMYFctGiNlxaSC/QyEx7VnmV4WVvnyANfAJnSPcdAV4o2UD66fx4JTPRe9izRkiBW6yBgMzq3kKBhTW88Gouuay80nAhoCfIEntmdySA0nLL8QocjPOXbOscjXN4gSKgVeNuK3mLku6iIcxgFzmZkht3azhlHRnR6VJ6NEenE/RwKT2Zo+8n6OxBr7Hkbe09RLQSOIbHN7g/wCXy6jtXremzHtDjhED0F/5JG2war3VFM5VR7unlKOy8yDj75N4gqrW6tTAhuN8gSOcFuZzRi5fWx7+Jsf9U/7Dia+7NG65JX7JBkK1IX78PluWPzalN9XewePTjJ/wUkC6cmHtyovHEsKmBCcINDRyvKXnANtQ8ea3olvOwz9OnnwMBkTmwe/euap0V9u1jqIo7+EHTXOfhELA4oTGlPqXM77pfsNsdow==",
-  "title": "Draggable Compact Mining",
+  "createdDate": "2020-11-05T21:15:19.121Z",
+  "descriptionMarkdown": "Grid size is set so you can simply drag it over ore patches. Not balanced.",
   "favorites": {
     "VY9fRvfbO8OfIFnVk6p8BUUSDuG3": true,
     "qsruVCsFsRRvO7Ztm77TbZPCiRz2": true,
@@ -44,11 +34,21 @@
     "ylmx5Ta7JyMMWcuyD6BEeTPko2W2": true,
     "K3XcjznpFzP1KsTxYXdQxrhuTvT2": true
   },
-  "descriptionMarkdown": "Grid size is set so you can simply drag it over ore patches. Not balanced.",
+  "fileName": "CompactMiningDraggable.PNG",
   "image": {
     "height": 644,
     "id": "gvZoDAZ",
     "type": "image/png",
     "width": 855
-  }
+  },
+  "lastUpdatedDate": "2022-02-18T17:05:54.762Z",
+  "numberOfFavorites": 24,
+  "tags": [
+    "/production/mining/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/"
+  ],
+  "title": "Draggable Compact Mining"
 }
