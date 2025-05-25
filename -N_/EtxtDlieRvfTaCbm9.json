@@ -4,13 +4,8 @@
   },
   "authorId": "MH4afIziKUYsJJkzKdzSEk7hZK42",
   "blueprintString": "0eNqlltluwyAQRf9lnkkUNmP7V6qqyoIiJAdbgKtEkf+9OKmqtMYN8Tx5Edwzc5kBrrBret05YwPUVzD71nqo367gzdFum/FfuHQaajBBn4CA3Z7GL33unPZ+FdzW+q51YbXTTYCBgLEHfYaaDiRbxHeNCUG7h+lseCegbTDB6HtAt4/Lh+1Puziyps9CIdC1Pk5v7ciPklLRtSRwieJcrWVkHYzT+/sIMYb7B8EWINhrCD5B9DF/d3RtfGbkUU0g5Mdq2/XjgkyYYt7/VELfpDInHbnAMf5PMglEgVqUCYIlEApTWmKTgyhRiPg2JEQrjDXTuFPu081LxcMfAn6uTTHVkxk/QxnP0sZTjlLlM6pi0ebAf0X76uZAJaqIWNYiFIuKiGdpK9yOKuS8aW0f5lzD9bOYKQBcQ8usM26DaroJo0gxcI0tsvJAHdZTRjIPXJvn3TkWnc6iyNLG9XZe/AVqrfMYCrkxFs97PN4+b3fV+uF+TOBTO38/00sqVMWU4qqSpRiGL5OquQw=",
-  "createdDate": "2023-07-13T15:39:03.283Z",
+  "createdDate": 1689262743283,
   "descriptionMarkdown": "Compact 2 to 3 balancer",
-  "favorites": {
-    "8GCiA8FuGJNknMWG9MK08gHkfMd2": true,
-    "TA1TuRCRI1PozZCSc38yJMVQWch2": true,
-    "6vcOE83nwZfUONZYZnuptrW5kbo2": true
-  },
   "fileName": "35468iuytrrdd.png",
   "image": {
     "height": 637,
@@ -18,13 +13,18 @@
     "type": "image/png",
     "width": 235
   },
-  "lastUpdatedDate": "2023-07-14T12:24:39.277Z",
+  "lastUpdatedDate": 1689337479277,
   "numberOfFavorites": 2,
-  "tags": [
-    "/belt/express transport belt (blue)/",
-    "/belt/balancer/",
-    "/general/compact/",
-    "/mods/vanilla/"
-  ],
-  "title": "Compact 2 to 3 balancer"
+  "tags": {
+    "0": "/belt/express transport belt (blue)/",
+    "1": "/belt/balancer/",
+    "2": "/general/compact/",
+    "3": "/mods/vanilla/"
+  },
+  "title": "Compact 2 to 3 balancer",
+  "favorites": {
+    "8GCiA8FuGJNknMWG9MK08gHkfMd2": true,
+    "TA1TuRCRI1PozZCSc38yJMVQWch2": true,
+    "6vcOE83nwZfUONZYZnuptrW5kbo2": true
+  }
 }

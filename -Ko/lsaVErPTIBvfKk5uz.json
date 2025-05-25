@@ -1,11 +1,5 @@
 {
-  "author": {
-    "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"
-  },
-  "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
-  "blueprintString": "0eNrFWN9vmzAQ/leQn+MKDEmXvDWTVvV1fZqmqTLk1lo1BhnSrqryv++Ik4YUB46s1fISYeLvvvv13bWvLNVrKK0y9V1aFI9s8Xo4qdjiZ+uxeaeywrjjSt0bqZuz+qUEtmCqhpxNmJF58ySrCvJUK3PPc5k9KAM8YpsJU2YFf9gi2kwGIbRMWzcE4QZoyGpbGJXxTNlsreoWQEwAqDIFJgNeyuzxiG+y+TVhYGpVK3D+bx9e7sw6T8GiQ/2eT1hZVHi5MI1tBOR44QW/ErRhIVOODHLn9yAtf34A0Kxh/M6OGGtn6uyIth1vnDqm4qNMdJATBxxvPFeTt6vKVGBrPOsyix0AlgJbKeTm3gkP3PQN7rkoVmB49gBV7YEUe0gPyIzCKfJymnngLilw4hD8FlzigftyqMFcas1dijBBZaGhixztgT1Q85El4rDCdoF0+qBb7yHB/7CHZRQRABJvOnzxiwS1RlxDeEskiilJne7i5QNIxrana4Kj7syKsgTLM5li5n1GphSWyVtWhyI3G1d6O8p+/0d0hR9gZB/EPcmcE7jEvij52l2E5HL1shERsT6T08ERgqLIKMg4q7ZzbdEa3pPmDs6UBYsugu+wCm5djwfSrIJrC2CCr24WVPjbJ7CVi0WSiFmc4Gd+mIZhQ+6/7QXdKTlmR6itNFVZ2JpjNI73g08a8UfN3THfM+H/eRJQ5Iw+8RJiBfcN4ekH6CNhS5qNkaFBhbwkOh6ebv8v5GlJ4DOnbzKE5ao1yWk5OS8lpHnvJT3rH/ekLgl3nPuHPiW98cDcH3Iufp+RQbG+xrhWW5n+AVoXz8ESlWNYpKPzRTpdW4MbSK5MUworq7QeqdFVXWDx/EYcmcFIhXZ3U0zm43ny7KPfbZDwYv+n0cV0uOfESHSxQw8p4PHIDgw9G/u7gPeoN8mBUfynJ/J+OixNzM/U7Z5WvjxndIp+vR7waMChEVIdE1Qv/ACpij5Rqm6bYAXfXLCcZrmjZdPNw5rlNcG3/5g62FnKCviN4Vd8iS8CNHtjkLzUwZXrHjSBP5dI+wnu9ivrCdObv7I+SOg=",
-  "createdDate": "2017-07-11T13:41:47.799Z",
-  "descriptionMarkdown": "3 simple blueprints to create the initial assemblers to build the base.\n\n1. Red Science and Green Circuits\n1. Gears and Yellow Belts\n1. Stone Furnaces and Stone Bricks\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV\n",
+  "numberOfFavorites": 157,
   "favorites": {
     "jE3dSFVrxUUv0uys0KdmtCrfG9D3": true,
     "8XFUM2ttHogFtNk09RIIZxReDHW2": true,
@@ -61,22 +55,28 @@
     "hBVvULy9JdNZA5WG9OhcpiqMbXl2": true,
     "LcN69kGAmgdqKLvqlx0hxcyuroY2": true
   },
+  "blueprintString": "0eNrFWN9vmzAQ/leQn+MKDEmXvDWTVvV1fZqmqTLk1lo1BhnSrqryv++Ik4YUB46s1fISYeLvvvv13bWvLNVrKK0y9V1aFI9s8Xo4qdjiZ+uxeaeywrjjSt0bqZuz+qUEtmCqhpxNmJF58ySrCvJUK3PPc5k9KAM8YpsJU2YFf9gi2kwGIbRMWzcE4QZoyGpbGJXxTNlsreoWQEwAqDIFJgNeyuzxiG+y+TVhYGpVK3D+bx9e7sw6T8GiQ/2eT1hZVHi5MI1tBOR44QW/ErRhIVOODHLn9yAtf34A0Kxh/M6OGGtn6uyIth1vnDqm4qNMdJATBxxvPFeTt6vKVGBrPOsyix0AlgJbKeTm3gkP3PQN7rkoVmB49gBV7YEUe0gPyIzCKfJymnngLilw4hD8FlzigftyqMFcas1dijBBZaGhixztgT1Q85El4rDCdoF0+qBb7yHB/7CHZRQRABJvOnzxiwS1RlxDeEskiilJne7i5QNIxrana4Kj7syKsgTLM5li5n1GphSWyVtWhyI3G1d6O8p+/0d0hR9gZB/EPcmcE7jEvij52l2E5HL1shERsT6T08ERgqLIKMg4q7ZzbdEa3pPmDs6UBYsugu+wCm5djwfSrIJrC2CCr24WVPjbJ7CVi0WSiFmc4Gd+mIZhQ+6/7QXdKTlmR6itNFVZ2JpjNI73g08a8UfN3THfM+H/eRJQ5Iw+8RJiBfcN4ekH6CNhS5qNkaFBhbwkOh6ebv8v5GlJ4DOnbzKE5ao1yWk5OS8lpHnvJT3rH/ekLgl3nPuHPiW98cDcH3Iufp+RQbG+xrhWW5n+AVoXz8ESlWNYpKPzRTpdW4MbSK5MUworq7QeqdFVXWDx/EYcmcFIhXZ3U0zm43ny7KPfbZDwYv+n0cV0uOfESHSxQw8p4PHIDgw9G/u7gPeoN8mBUfynJ/J+OixNzM/U7Z5WvjxndIp+vR7waMChEVIdE1Qv/ACpij5Rqm6bYAXfXLCcZrmjZdPNw5rlNcG3/5g62FnKCviN4Vd8iS8CNHtjkLzUwZXrHjSBP5dI+wnu9ivrCdObv7I+SOg=",
   "fileName": "1. Initial Assemblers.PNG",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1.%20Initial%20Assemblers.PNG?alt=media&token=c52bee59-d5e6-40f0-b6b9-d013a9228ca8",
+  "lastUpdatedDate": 1499858844782,
   "image": {
     "height": 813,
     "id": "xIxHBU7",
     "type": "image/jpeg",
     "width": 1148
   },
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1.%20Initial%20Assemblers.PNG?alt=media&token=c52bee59-d5e6-40f0-b6b9-d013a9228ca8",
-  "lastUpdatedDate": "2017-07-12T11:27:24.782Z",
-  "numberOfFavorites": 157,
-  "tags": [
-    "/production/research (labs)/",
-    "/general/early game/",
-    "/mods/vanilla/",
-    "/version/0,15/",
-    "/production/science/"
-  ],
-  "title": "Initial assemblers"
+  "tags": {
+    "1": "/production/research (labs)/",
+    "2": "/general/early game/",
+    "3": "/mods/vanilla/",
+    "4": "/version/0,15/",
+    "0": "/production/science/"
+  },
+  "title": "Initial assemblers",
+  "author": {
+    "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"
+  },
+  "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
+  "createdDate": 1499780507799,
+  "descriptionMarkdown": "3 simple blueprints to create the initial assemblers to build the base.\n\n1. Red Science and Green Circuits\n1. Gears and Yellow Belts\n1. Stone Furnaces and Stone Bricks\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV\n"
 }

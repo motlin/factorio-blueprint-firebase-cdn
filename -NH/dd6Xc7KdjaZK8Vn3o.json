@@ -4,11 +4,8 @@
   },
   "authorId": "fbSPTcH3o9d2sXroYFB3TXlVKZ82",
   "blueprintString": "0eNqd18tqg0AUBuBXKWdtgs7Fcdyl60KgtqtSypgORdBRvJSG4KqLPlherMZSGqgnerL0Mp8w/+84HiDNO1vVmWshPkC2K10D8dMBmuzNmfx0rt1XFmLIWluAB84Up6OmzE29qoyzOfQeZO7VfkAc9M8eWNdmbWZ/mPFg/+K6IrX1cMMk4EFVNsOY0p2eNzgrxdbSgz3EQvC17Hvvn8QWSqGek/hSKZyTxFKJz0lyqeTPSeFCSao5SdGzC6eliJ4dIml6dogU+PTwMCqgp4dRjB4fRnF6fhqhBD1AjPprutntuqLLTVvWU5T6hSaZcCkjLzJqKcMvMhG9ANj8aHoBEIr55AJIhlABuQAoxYgFkMEkc9buLm1aMw7F80cUQcwfYejLNzo99PUbpRR1pvkkExFfNYTR1KmeZPgVpZbIPuCKUmMUI3+XUIqTv0soJei1xChJryVGhfQEI4RS9AQxKqIniFGaniBCCZ+eIEYF9ARHatjhj78C8dmfgwe5SYfRMSSPt8nD5vh1/NzeJNu7zf1w7d3WzQiyKBBKMxVq5kec9f03M3D6rQ==",
-  "createdDate": "2023-10-26T01:41:08.699Z",
+  "createdDate": 1698284468699,
   "descriptionMarkdown": "# Production Info\n\n### ₢Powered By Luis Das Artimanhas",
-  "favorites": {
-    "lyPTlzDER9ei9oDJhzTCkoQHFY52": true
-  },
   "fileName": "Captura de tela 2023-10-25 224047.png",
   "image": {
     "height": 469,
@@ -16,11 +13,14 @@
     "type": "image/png",
     "width": 473
   },
-  "lastUpdatedDate": "2023-10-26T01:41:08.699Z",
+  "lastUpdatedDate": 1698284468699,
   "numberOfFavorites": 1,
-  "tags": [
-    "/power/solar/",
-    "/mods/vanilla/"
-  ],
-  "title": "SUBSTAÇÃO SOLAR"
+  "tags": {
+    "0": "/power/solar/",
+    "1": "/mods/vanilla/"
+  },
+  "title": "SUBSTAÇÃO SOLAR",
+  "favorites": {
+    "lyPTlzDER9ei9oDJhzTCkoQHFY52": true
+  }
 }

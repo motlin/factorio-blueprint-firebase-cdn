@@ -1,11 +1,25 @@
 {
+  "descriptionMarkdown": "This is for the start of the game before you have electric drills.\n\nThese assemblers make green circuits, copper cable, and inserters. Just drop iron and copper plates in the center chest.",
+  "fileName": "startcopperv4.PNG",
+  "image": {
+    "type": "image/png",
+    "width": 457,
+    "height": 409,
+    "id": "HvN5MKg"
+  },
+  "tags": {
+    "2": "/version/1,0/",
+    "3": "/production/inserters/",
+    "0": "/mods/vanilla/",
+    "1": "/general/early game/"
+  },
+  "title": "Start Copper v4",
   "author": {
     "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"
   },
-  "authorId": "ub0iEtNIVqVuJDIIVHdezrooiVY2",
   "blueprintString": "0eNqVll2PoyAUhv8K4VobsX7V272b29277WaDeqaSIBjAzpqm/32pTltrnSkmvSgBnnPel3OQEy54B61iwuD8hCvQpWKtYVLgHP+qmUb29y4VMjUgbagySL4PgwNtABVg5wD1skM1PQICDqVRrESVYpzrDRoQRcd4pdFBAQhUMlV2zGgPlbJtQaGSFhw8REWFmNCgDCi78a3TxlJki5iSYpj9XN9yasDmJYY0yhq02ezFXrS9koeu34s3KhDJUBiEBHuYlVJonP8+Yc0OgvKLTNO3YPUxA41dIawSO6JaQ1NwJg5+Q8uaCfAJPluAqOAfzsnZe4kY5UvBSv9T5gQQOgCuBky2bR22jc74g5OTrdH5j4dBGGYYjBYMg/6v6JrCBsnJ9+I93ErNxmI4YQv0d9Em9nBv/8VkE9tICkrWzjJ/ChM+61tAhzN0xSx8XJEsQLcrocEcGi5Ao9WGBNcA0e7RkMVaeAoY3wJ+SFmB8Id6XgpEZvYUVC1rSFZrSG4a0tmh2vz9A1Dlf9QAfElA6nQM8cylyTFEC9DMCXqrxShzOdvdDaobyrl/vav8Vtqu+ZZ/SXqBSIJ1Nfic51JhE+JE3a6zlITOlbZ9yHeJ5dR7WbZSd+SaYZbOyF/2AolXepl+oXh9U91PPX5sqtll/RzLraXuF0/i5K5bT5HZVfCqqlY3VfDK6tCpqbLdukRDstLU2MXU0LmpJvnG95Illw/08CnPJ+8wD3Na2Ns2xz+HB9eP8d1zjOzM0T6OxhsuI1Ea7dIkJUESJ+fzf0NAK78=",
-  "createdDate": "2020-03-20T11:31:51.417Z",
-  "descriptionMarkdown": "This is for the start of the game before you have electric drills.\n\nThese assemblers make green circuits, copper cable, and inserters. Just drop iron and copper plates in the center chest.",
+  "createdDate": 1584703911417,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/startcopperv4.PNG?alt=media&token=90a6b592-1e84-4bda-8987-c3a6d07b3d4c",
   "favorites": {
     "XRA7ZAydkXgzghVpJvpwogwP7Ok1": true,
     "XgNEIAsg12N2oP1gidODlTvAEDf2": true,
@@ -34,21 +48,7 @@
     "oIxcWQU47SVcWGeEuzh8PUjuEki2": true,
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true
   },
-  "fileName": "startcopperv4.PNG",
-  "image": {
-    "height": 409,
-    "id": "HvN5MKg",
-    "type": "image/png",
-    "width": 457
-  },
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/startcopperv4.PNG?alt=media&token=90a6b592-1e84-4bda-8987-c3a6d07b3d4c",
-  "lastUpdatedDate": "2021-06-05T15:54:55.297Z",
-  "numberOfFavorites": 26,
-  "tags": [
-    "/version/1,0/",
-    "/production/inserters/",
-    "/mods/vanilla/",
-    "/general/early game/"
-  ],
-  "title": "Start Copper v4"
+  "authorId": "ub0iEtNIVqVuJDIIVHdezrooiVY2",
+  "lastUpdatedDate": 1622908495297,
+  "numberOfFavorites": 26
 }

@@ -1,12 +1,7 @@
 {
-  "author": {
-    "userId": "rUkk44I3DkOBoaIdTrVzUUYv5WD3"
-  },
-  "authorId": "rUkk44I3DkOBoaIdTrVzUUYv5WD3",
-  "blueprintString": "0eNqdld1ugzAMhV+l8tUmBQnSHyhvsNvdTtMENOsiQYKCqYYQ7z5TUNWtdE1yFcWEz8fOsdJDXraiNlIhpD3IQqsG0rceGnlUWTnGsKsFpCBRVMBAZdW4+8waDNBkqqm1wSAXJcLAQKqD+IY0GtgC4SQNthS5QKYTwevVn3x4ZyAUSpRiEnLedB+qrXJhCP2vBAa1buhfrca8xAvofDculOIgjSimb3wU+IfMf5NbEmSORtN6hx0uo9mlY6pux67cZFq71TCXwB+XsHEt4ao7s2jd4h3VW1c4f9Cf+6l2bg3i1g2KHd0zkS3Mk7g2ZzZmaNP5vSfc3ZlR6OcgjzuOHCc5nBMtobjPQIWPbzVa+2i0AW98HG7hw2jrA7ZRvPMaHb54X7GnoflgYeHE586Wde79puFWJj1q5/czvXpuGZQZUSj2ok7CoDisCm2UMKsnI49f+EwnKN6c6bsk5jyJ9mFMSn8AdLaWvA==",
-  "createdDate": "2018-11-24T20:25:54.087Z",
+  "createdDate": 1543091154087,
   "descriptionMarkdown": "Reverses order of belts when making a corner",
-  "favorites": { },
+  "blueprintString": "0eNqdld1ugzAMhV+l8tUmBQnSHyhvsNvdTtMENOsiQYKCqYYQ7z5TUNWtdE1yFcWEz8fOsdJDXraiNlIhpD3IQqsG0rceGnlUWTnGsKsFpCBRVMBAZdW4+8waDNBkqqm1wSAXJcLAQKqD+IY0GtgC4SQNthS5QKYTwevVn3x4ZyAUSpRiEnLedB+qrXJhCP2vBAa1buhfrca8xAvofDculOIgjSimb3wU+IfMf5NbEmSORtN6hx0uo9mlY6pux67cZFq71TCXwB+XsHEt4ao7s2jd4h3VW1c4f9Cf+6l2bg3i1g2KHd0zkS3Mk7g2ZzZmaNP5vSfc3ZlR6OcgjzuOHCc5nBMtobjPQIWPbzVa+2i0AW98HG7hw2jrA7ZRvPMaHb54X7GnoflgYeHE586Wde79puFWJj1q5/czvXpuGZQZUSj2ok7CoDisCm2UMKsnI49f+EwnKN6c6bsk5jyJ9mFMSn8AdLaWvA==",
   "fileName": "2018-11-24_12-25-26_factorio.png",
   "image": {
     "height": 375,
@@ -14,11 +9,15 @@
     "type": "image/png",
     "width": 322
   },
-  "lastUpdatedDate": "2018-11-24T20:25:54.087Z",
+  "lastUpdatedDate": 1543091154087,
   "numberOfFavorites": 4,
-  "tags": [
-    "/mods/vanilla/",
-    "/version/0,15/"
-  ],
+  "tags": {
+    "0": "/mods/vanilla/",
+    "1": "/version/0,15/"
+  },
+  "author": {
+    "userId": "rUkk44I3DkOBoaIdTrVzUUYv5WD3"
+  },
+  "authorId": "rUkk44I3DkOBoaIdTrVzUUYv5WD3",
   "title": "4-lane belt corner inverter (right)"
 }

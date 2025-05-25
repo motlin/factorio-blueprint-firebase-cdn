@@ -1,11 +1,13 @@
 {
-  "author": {
-    "userId": "GwmJv7TDoBMIaLEwnIXVBiydD5x2"
-  },
   "authorId": "GwmJv7TDoBMIaLEwnIXVBiydD5x2",
-  "blueprintString": "0eNrtmj1vo0AQhv9KtDVE+8mC6yuuuCrtKYqwjRJ0DlgYRxdF/u8Hxk5ie5y8g+GKKFUEmMe7OzP78cQvYrpYZ8sqL+q7aVn+EZOXtzsrMfn97rJ9ls/Koru9yu+LdNHeq5+XmZiIvM4eRSCK9LG9qtJ8ITaByIt59ldM1OY2EFlR53Wede9vL57vivXjNKuaD7y+uaqbd+8f6nCLCMSyXDVvlUX7VQ0ptIF4bv6oaLMJTjAaxeiPKOaVMltXT9n8XFPMDqKajs7zKpt1Dy2BtNyGWaphjkvRFCU6iFI4e0jzItzF87ST8tp1sOTaHfbTEGzPYR+gCVjM7a6kKAkWTdUxjvroCKCSaLtkx4wBpmIyo0OmopjcaoiAdhom0wLttJykMfukcUg+KrhkmrmAbLGmqBE4Q6hdVhmgpR5jGpIYUUS4fizZczL+CZOpP4+/husphiOk4XpSEofCBaU0DoUrSlkcCq83YTemEgiTA5O+q08FtDKCW6nJbKLqSHveTHrUc08hY9aKqfczlD6eochhhSsqIseAqlIjsVAlVKSoETCKMwL+7ABQ05TRvdgKmf6NYUUu2cHlMZvKXmN7scMTODng+LoVUWlMZkXEZAJzt/GsvbIBiHGfLeTJoJIDkHA3A/rzNLASh1oYip+HdksNAtU4VMJQwzy5AdOXtUwmsMm0jrnMIn3nnaTcLlcNMgFYz1wbgc2bjZlM4JBhWcerhDzVSma4Y5LCWqLa5WPL8kgwnO61AThhU2bAcQuIPuU6bs3QbsA5LoYWFRHvmNhSboPOIU3eKadALNJptmju3ZTrYp5Oy3V9tV7eV+k8u/r180fzgaesWnV7i9hrHatEev0mnmTbuG+F9XUV1iVmyPfyDglS1T1PDNBs9C20vpTQ8meFlv4WWueEFjCu+xU+hPZbbLEF7LdwscWQZWoEWabHkGVmDFlmx5BljjVZn7cb5jLHhZs4P7iJi4eXZskIcs/IEWSZGlqW6RHcjRnB3djB3Q2rktw5d+Mvk1e4uzF+BHdj4hHcDUddyRHUFe5ueMfw/a4asrkMgYV7ITOCF+pnhg1iy3GPxfBC0QheyF/shWwvEwz9W/idteKYO0//TmFwgXWRCNLDiCAzjAiy/0EE3QAiSFHYcPubp4/YzcO0yaOn7G7POfNFm39bmz2t",
-  "createdDate": "2019-01-02T16:02:26.060Z",
+  "createdDate": 1546444946060,
   "descriptionMarkdown": "By simply adding the blueprinted rails and signals into existing standard roundabout you can increase throughput from 32 trains/min to 43 t/min - almost 90% of throughput of celtic knot intersection (48 t/min). There is also version for RHD roundabouts, but it increases throughput to only 39 t/min.\n\nUseful if you have roundabouts in you factory that begin to bottleneck the flow of resources but you don't want to be bothered with deconstruction, traffic blockage or fitting intersections with larger footprint into existing infrastructure. \n\nThroughput measurements were performed with the revised [testing framework](https://forums.factorio.com/download/file.php?id=40945)* from the intersection [forum thread](https://forums.factorio.com/viewtopic.php?f=194&t=46855).\n\n\\*According to my experience, the revised test framework produces different (higher) results than the original one, so it's impossible to compare its results to official throughput numbers in the thread OP. Or perhaps I've f****d something up when performing measurements.",
+  "lastUpdatedDate": 1557366300676,
+  "tags": {
+    "0": "/train/roundabout/",
+    "1": "/train/junction/",
+    "2": "/version/0,17/"
+  },
   "favorites": {
     "aHVRptBLMNMffDmAhEVHe1L4FPg1": true,
     "skcKKKFwPrY4FKCAWZKcPyHy2jS2": true,
@@ -75,6 +77,10 @@
     "MYtcPsoaM6Xa6waJ5TRhnsij7OR2": true,
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true
   },
+  "author": {
+    "userId": "GwmJv7TDoBMIaLEwnIXVBiydD5x2"
+  },
+  "blueprintString": "0eNrtmj1vo0AQhv9KtDVE+8mC6yuuuCrtKYqwjRJ0DlgYRxdF/u8Hxk5ie5y8g+GKKFUEmMe7OzP78cQvYrpYZ8sqL+q7aVn+EZOXtzsrMfn97rJ9ls/Koru9yu+LdNHeq5+XmZiIvM4eRSCK9LG9qtJ8ITaByIt59ldM1OY2EFlR53Wede9vL57vivXjNKuaD7y+uaqbd+8f6nCLCMSyXDVvlUX7VQ0ptIF4bv6oaLMJTjAaxeiPKOaVMltXT9n8XFPMDqKajs7zKpt1Dy2BtNyGWaphjkvRFCU6iFI4e0jzItzF87ST8tp1sOTaHfbTEGzPYR+gCVjM7a6kKAkWTdUxjvroCKCSaLtkx4wBpmIyo0OmopjcaoiAdhom0wLttJykMfukcUg+KrhkmrmAbLGmqBE4Q6hdVhmgpR5jGpIYUUS4fizZczL+CZOpP4+/husphiOk4XpSEofCBaU0DoUrSlkcCq83YTemEgiTA5O+q08FtDKCW6nJbKLqSHveTHrUc08hY9aKqfczlD6eochhhSsqIseAqlIjsVAlVKSoETCKMwL+7ABQ05TRvdgKmf6NYUUu2cHlMZvKXmN7scMTODng+LoVUWlMZkXEZAJzt/GsvbIBiHGfLeTJoJIDkHA3A/rzNLASh1oYip+HdksNAtU4VMJQwzy5AdOXtUwmsMm0jrnMIn3nnaTcLlcNMgFYz1wbgc2bjZlM4JBhWcerhDzVSma4Y5LCWqLa5WPL8kgwnO61AThhU2bAcQuIPuU6bs3QbsA5LoYWFRHvmNhSboPOIU3eKadALNJptmju3ZTrYp5Oy3V9tV7eV+k8u/r180fzgaesWnV7i9hrHatEev0mnmTbuG+F9XUV1iVmyPfyDglS1T1PDNBs9C20vpTQ8meFlv4WWueEFjCu+xU+hPZbbLEF7LdwscWQZWoEWabHkGVmDFlmx5BljjVZn7cb5jLHhZs4P7iJi4eXZskIcs/IEWSZGlqW6RHcjRnB3djB3Q2rktw5d+Mvk1e4uzF+BHdj4hHcDUddyRHUFe5ueMfw/a4asrkMgYV7ITOCF+pnhg1iy3GPxfBC0QheyF/shWwvEwz9W/idteKYO0//TmFwgXWRCNLDiCAzjAiy/0EE3QAiSFHYcPubp4/YzcO0yaOn7G7POfNFm39bmz2t",
   "fileName": "upgrade.png",
   "image": {
     "height": 649,
@@ -82,12 +88,6 @@
     "type": "image/jpeg",
     "width": 824
   },
-  "lastUpdatedDate": "2019-05-09T01:45:00.676Z",
   "numberOfFavorites": 82,
-  "tags": [
-    "/train/roundabout/",
-    "/train/junction/",
-    "/version/0,17/"
-  ],
   "title": "Upgrade kit for roundabouts: 33% throughput increase, no deconstruction required."
 }

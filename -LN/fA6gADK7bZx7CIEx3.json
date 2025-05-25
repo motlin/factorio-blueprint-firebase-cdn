@@ -4,8 +4,23 @@
   },
   "authorId": "QTKFcql360NLYRuZrwEf1zhAuLk1",
   "blueprintString": "0eNqdlt2OwiAQhV9lM9etYeif9hn2cu82m01VYkgqbQA3GtN3X6pe6C7GYa4aSvk4PXAGzrDuD2q02nhoz6A3g3HQfp7B6Z3p+vmdP40KWtBe7SED0+3nljqOVjmXe9sZNw7W52vVe5gy0GarjtDilJEhbuy198reDZfTVwbKeO21ugq6NE7f5rBfhy9bfCUlg3FwYfhg5vkDMg9DTuEhwyxbbdXm2lfOQv/AZTJckNlFuvDiCsdHuIzAy3R4SYZXXLiYIrT6+TZ45oBYVI8q6wi3SVcpoxbEFm+ZIhoX1e33X3JXKVxx41IEo0i2A+lwTJAt6G5gev7iSxjbH5gewIIOL5nwaESwSvBXxiMSCzLW3CRLArzhFjhC8cQlVzllO6846aYcJ4J7WBFUS+QWPMJ+lpKRcIojBfOEpRhSMkse4QiUFTPfkuB1zax6FL8bpu5/fodr2eUS195dHDPouwAJ72Rev33YTpu396HbarMLfT/KusvgphC4bOpVKZbT9AvkToh2",
-  "createdDate": "2019-09-01T04:54:16.650Z",
+  "image": {
+    "height": 205,
+    "id": "hbUIQPy",
+    "type": "image/png",
+    "width": 303
+  },
+  "lastUpdatedDate": 1567313656650,
+  "numberOfFavorites": 19,
+  "createdDate": 1567313656650,
   "descriptionMarkdown": "2-6 Train loading balancer.",
+  "fileName": "factorio_2019-08-31_23-53-41.png",
+  "tags": {
+    "0": "/belt/balancer/",
+    "1": "/train/loading station/",
+    "2": "/version/0,17/"
+  },
+  "title": "2-6 Train Loader",
   "favorites": {
     "IJQ0mWXucjMQDRDZGezolqYPf603": true,
     "yJOCC51rvlQL14z34Yyg5yhLPwk2": true,
@@ -27,20 +42,5 @@
     "63cO4TAoi9RsNcKaWUj6ljPbfQ93": true,
     "Xu8I3SwXbOZkRHjLMs3jr0oPr813": true,
     "vjob7Xdt5hT8ULtPs5PRmUYpRIo2": true
-  },
-  "fileName": "factorio_2019-08-31_23-53-41.png",
-  "image": {
-    "height": 205,
-    "id": "hbUIQPy",
-    "type": "image/png",
-    "width": 303
-  },
-  "lastUpdatedDate": "2019-09-01T04:54:16.650Z",
-  "numberOfFavorites": 19,
-  "tags": [
-    "/belt/balancer/",
-    "/train/loading station/",
-    "/version/0,17/"
-  ],
-  "title": "2-6 Train Loader"
+  }
 }

@@ -4,8 +4,22 @@
   },
   "authorId": "N0uyqunfSmUFYj3zEV08U81uxkH2",
   "blueprintString": "0eNqdVUtv3CAQ/iuISy44Wvzqrs89JkpuPURRhe2Jg4TBwjjpauX/3sFJNtsWotqnlRe+Bx/DzInWaoLBSu1odaItjI2Vg5NG04p+l6IzWihyr0QjdUdupQY7koTcQiunntwbBSNphCY1EAsDboOWvEr3TNwzkB/GtKDJncZNT8aSKxBWHa9IJ3qgjI5aDIkzSWdl68V/0YrvGD3SqpwZFfVo1OQg8dsGVKeVsxMwOphReoOJBSWcfIG/OIozhWyMHmn1cKKj7PAcfoP22hUFBY2zskl6qZE7aa1UinqMbsEbmVkANeGi7azB36QG5S4AaRAw9kKp5Cw2YF4XmCyI6Zdso6B8fmQUtMMM4O1wy8fxp576GixaZ1G7n+G9Z7W/fksrKa8LlHDHwePM5IbJH+4f7pR9HWBcIEeBAGG2wmz2wZUtZltp0cKyvD9blzriPGdf5hs3noaNF2uTOLvnYcJyLWF5SfhHHHmA/tuWquCXVRGNdr+FerfhDg9rI+K7aEY8DQj49rNS4V3gv+6A85VF+FEzu3DJ8HTD6+Hx4OPvnmdrgylicuHg862NJfKaeLEhmnRDTfJyayNYOiL28lfU8438IWcFwxIpHvFP6aBHys/hzKgS6P5yKi/TmNyII94brr/gaF5UijI95IdDkR3yotzxef4NzLKdmg==",
-  "createdDate": "2024-10-23T01:31:27.791Z",
+  "createdDate": 1729647087791,
   "descriptionMarkdown": "Diagonal Placing Miners - Medium Poles can be replaced with the Wooden Ones for 'early' game. \n\nGrid snapped for easy placement on your patches!",
+  "image": {
+    "id": "eLGjbjD",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/eLGjbjD",
+  "lastUpdatedDate": 1729647087791,
+  "numberOfFavorites": 14,
+  "tags": {
+    "0": "/production/mining/",
+    "1": "/mods/vanilla/",
+    "2": "/version/2,0/",
+    "3": "/version/1,1/"
+  },
+  "title": "Diagonal Placing Miners",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,
     "DDCOcFeqhpZAnIGkWDb0Tf3lS4V2": true,
@@ -25,21 +39,5 @@
     "kcRuexny20RE5gVWwzjns5PyZvH3": true,
     "8eoRZwmQe2WimzuzqrFW4ASqD4i1": true,
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true
-  },
-  "image": {
-    "height": 0,
-    "id": "eLGjbjD",
-    "type": "image/png",
-    "width": 0
-  },
-  "imageUrl": "https://imgur.com/eLGjbjD",
-  "lastUpdatedDate": "2024-10-23T01:31:27.791Z",
-  "numberOfFavorites": 14,
-  "tags": [
-    "/production/mining/",
-    "/mods/vanilla/",
-    "/version/2,0/",
-    "/version/1,1/"
-  ],
-  "title": "Diagonal Placing Miners"
+  }
 }
