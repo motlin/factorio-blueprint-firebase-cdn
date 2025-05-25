@@ -15,11 +15,11 @@
     "width": 960
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/production/research (labs)/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "Scients early zone"
 }

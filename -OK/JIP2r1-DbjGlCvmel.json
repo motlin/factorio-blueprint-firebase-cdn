@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/1onYUtV",
   "lastUpdatedDate": 1740876128551,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/production/scrap processing/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/production/scrap processing/"
+  ],
   "title": "Scrap recycling sorter",
   "favorites": {
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,

@@ -14,10 +14,10 @@
   "lastUpdatedDate": 1731546715434,
   "numberOfFavorites": 10,
   "title": "2.0 space age - basic space science produce",
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "favorites": {
     "GBNGmTTXmxZBrNmvnfUMNjT4kR52": true,
     "oVSViB5DtbdVkuOO1GkU4EkFrW63": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1662571095723,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/"
+  ],
   "title": "Straight rail"
 }

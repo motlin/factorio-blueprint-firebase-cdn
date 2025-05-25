@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/KPuDzN3",
   "lastUpdatedDate": 1736627502210,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/scrap processing/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/scrap processing/"
+  ],
   "title": "Fulgora Scrap Recycling",
   "favorites": {
     "9MTyUviWmcUL37oKLIEDJvvCxRx1": true,

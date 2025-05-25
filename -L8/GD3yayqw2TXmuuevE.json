@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1521781067819,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/late game (megabase)/"
+  ],
   "title": "16-16 input-output electric smelter"
 }

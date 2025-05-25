@@ -16,10 +16,10 @@
   "fileName": "NumericOutput.jpg",
   "lastUpdatedDate": 1600151484391,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/circuit/counter/"
+  ],
   "title": "Unloading Station Volume Monitor",
   "authorId": "dcmbpaewmkUOIOlo2CGa5hUxjH23",
   "createdDate": 1600151484391

@@ -52,11 +52,11 @@
   },
   "lastUpdatedDate": 1630380208437,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/production/science/"
+  ],
   "title": "Megabase-in-a-Book by Paranoid Shark (Inspired by Nilaus) UPDATED 30.8.2021"
 }

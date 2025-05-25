@@ -16,11 +16,11 @@
   "imageUrl": "https://imgur.com/MiVf0k4",
   "lastUpdatedDate": 1735915876178,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/steam/",
-    "2": "/version/2,0/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/steam/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "12.5 GW Power Plant"
 }

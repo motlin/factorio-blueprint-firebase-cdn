@@ -19,8 +19,8 @@
   "imageUrl": "https://i.imgur.com/sr63apV.png",
   "lastUpdatedDate": 1740023762645,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Foundation Ship"
 }

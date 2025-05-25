@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1678300439944,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Accurate High-Throughput Flowmeter",
   "favorites": {
     "rfUQEaJFKHZcZ6QWzblXHiwHb823": true,

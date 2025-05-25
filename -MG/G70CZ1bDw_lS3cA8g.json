@@ -1,13 +1,13 @@
 {
   "numberOfFavorites": 9,
-  "tags": {
-    "3": "/train/left-hand-drive/",
-    "4": "/train/track/",
-    "5": "/mods/vanilla/",
-    "0": "/version/1,0/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "author": {
     "userId": "RCbnXncYNuNe4pyzTbhAwiC90zG3"
   },

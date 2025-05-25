@@ -30,11 +30,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/anty_lv3module.png?alt=media&token=26a49163-0423-48d7-8316-c92853675330",
   "lastUpdatedDate": 1603385017974,
   "numberOfFavorites": 10,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "Raw to Lv3 Module 12.5/m"
 }

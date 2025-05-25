@@ -27,13 +27,13 @@
   },
   "lastUpdatedDate": 1543519186047,
   "numberOfFavorites": 14,
-  "tags": {
-    "5": "/train/roundabout/",
-    "0": "/train/left-hand-drive/",
-    "1": "/mods/vanilla/",
-    "2": "/train/track/",
-    "3": "/train/crossing/",
-    "4": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/train/track/",
+    "/train/crossing/",
+    "/train/junction/"
+  ],
   "title": "[LHD] Rail Snap on Grid"
 }

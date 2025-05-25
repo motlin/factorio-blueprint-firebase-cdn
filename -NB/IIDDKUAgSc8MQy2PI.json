@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1691467179064,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "3 Lane Advanced Smelting",
   "favorites": {
     "xHmTp7xZzFN8TqJK6kUY3hGA46l1": true,

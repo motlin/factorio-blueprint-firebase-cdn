@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1709252093603,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/general/compact/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/general/compact/",
+    "/production/rocket parts/"
+  ],
   "title": "[Space Exploration 0.6] Compact Rocket Fuel from Water and Copper",
   "favorites": {
     "GNbsWDnsFZXKep3FNDDr43QdULx2": true,

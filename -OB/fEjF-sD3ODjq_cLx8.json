@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Lvz6m15",
   "lastUpdatedDate": 1731597366441,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Vulcanus transfer space platform",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

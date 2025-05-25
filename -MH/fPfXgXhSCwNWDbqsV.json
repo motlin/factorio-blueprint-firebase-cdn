@@ -13,11 +13,11 @@
   "descriptionMarkdown": "Most compact Kovarex setup i came up with which doesn't waste many U-235 in a Centrifuge",
   "fileName": "2020-09-20-140403_910x490_scrot.png",
   "lastUpdatedDate": 1600603732312,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/"
+  ],
   "favorites": {
     "OIJHrM9nalegVOxIXYEViLYE3W32": true,
     "Tz5MoYnrXYNvi3xvEG4g1NIMzfB2": true,

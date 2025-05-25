@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/CQppOjp",
   "lastUpdatedDate": 1728817806744,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "The Best Kovarex Design ",
   "favorites": {
     "s090uTBdKCOcygUgu0EHSxdfNGr1": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1529498134680,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/"
+  ],
   "title": "Plastic 27k "
 }

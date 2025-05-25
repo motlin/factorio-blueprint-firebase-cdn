@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/1nzL3gK",
   "lastUpdatedDate": 1734465155867,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "1 tick pulse button in vanilla"
 }

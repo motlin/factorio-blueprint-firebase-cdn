@@ -10,9 +10,9 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Train Loader",
   "author": {
     "userId": "3mJyHusdgZTeLQZn17wkj3ZiOIb2"

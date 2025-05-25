@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1671659890564,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "1 Blue Belt Compact Tileable Furnace Block",
   "favorites": {
     "H0OVd48PdpR5tnvLJ9W33wNaN612": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/aoYdR5l",
   "lastUpdatedDate": 1736983035552,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/ltn/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/ltn/",
+    "/version/2,0/"
+  ],
   "title": "Interrupt-based train control. Optimized version. by: sonny_bonny ",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true

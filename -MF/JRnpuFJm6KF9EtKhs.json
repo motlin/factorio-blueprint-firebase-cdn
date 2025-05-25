@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627062717655,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "2x2 Chunk-Aligned Solar",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1627062660.png?alt=media&token=080e68ff-f89f-43de-a273-e4b5bd34e5b8"
 }

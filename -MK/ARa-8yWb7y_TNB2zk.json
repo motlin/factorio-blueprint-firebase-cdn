@@ -21,11 +21,11 @@
     "width": 2110
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/tileable/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/tileable/",
+    "/version/1,0/"
+  ],
   "title": "Basic steel smelting (tileable + buffer)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202020-10-21%20at%2015.57.49.png?alt=media&token=69032824-8130-4764-ab79-4a1d8ccccc50"
 }

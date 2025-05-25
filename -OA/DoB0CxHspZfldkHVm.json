@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/KCw7x3f",
   "lastUpdatedDate": 1730046640361,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/vanilla/"
+  ],
   "title": "Minimal Space Platform",
   "favorites": {
     "CxjbcexNZtOfTqPNjjHv5rTnDmy2": true,

@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1508055309511,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "4-Lane-Rail-System-with-Solar"
 }

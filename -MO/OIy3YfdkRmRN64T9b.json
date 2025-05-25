@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636807347860,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/late game (megabase)/",
+    "/general/mid game/"
+  ],
   "title": "All Module Production T3",
   "favorites": {
     "WIZ7xOVJE5UsJJerDKISGWTWhmr1": true,

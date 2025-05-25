@@ -28,9 +28,9 @@
   },
   "lastUpdatedDate": 1590378636583,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/version/0,17/"
+  ],
   "title": "Red Circuit Sub-factory (non-beacon) (360 i/s) for 2-4 RHD Train"
 }

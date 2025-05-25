@@ -12,10 +12,10 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1529712928760,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/smelting/"
+  ],
   "title": "Scratch: Smelt: Basic v05",
   "authorId": "Wq3hD250rZff59zIuGT692xi9L82",
   "createdDate": 1529712928760,

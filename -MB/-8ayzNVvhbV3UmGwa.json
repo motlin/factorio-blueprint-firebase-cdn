@@ -35,10 +35,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FactorioSolarArrays.png?alt=media&token=78453075-5afe-480a-a053-ce5fa1579203",
   "lastUpdatedDate": 1623707777736,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Solar Arrays Book"
 }

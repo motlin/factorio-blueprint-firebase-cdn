@@ -135,16 +135,16 @@
   },
   "lastUpdatedDate": 1541950650072,
   "numberOfFavorites": 205,
-  "tags": {
-    "0": "/train/crossing/",
-    "2": "/version/0,16/",
-    "3": "/train/track/",
-    "4": "/train/junction/",
-    "8": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "5": "/train/roundabout/",
-    "6": "/train/right-hand-drive/",
-    "7": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/0,16/",
+    "/train/track/",
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/general/chunk aligned/"
+  ],
   "title": "Chunk-Aligned Modular Rail System - 4 lane - Power and signal wires (LTK)"
 }

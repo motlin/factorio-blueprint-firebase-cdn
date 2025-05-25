@@ -6,9 +6,9 @@
   "createdDate": 1537566034498,
   "descriptionMarkdown": "### English\n\nThis is module for early game green circuit production. It's a full efficient module that produce 4 green circuits per second if it get resource constantly. It is also contains assembling machines that create copper wires that's needed to create green circuit. Just all in one. This blueprint can be repeatable.\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n### Polski\n\nJest to moduł do produkcji zielonych układów elektroniczny we wczesnym etapie gry. Moduł ten jest w pełni wydajny i produkuje 4układy elektroniczne na sekundę, pod warunkiem, że ma dostęp do potrzebnych materiałów. Posiada także dodatkowe automaty montażowe, które produkują miedziane przewody potrzebne do produkcji wyżej wymienionych układów elektronicznych. Także wszystko jest zawarte w tym jednym module. Dodatkowo moduł ten można powielać.",
   "lastUpdatedDate": 1537566034498,
-  "tags": {
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/general/early game/"
+  ],
   "title": "Red Circuit Production Module 1.0A - [Two Belts Output]",
   "favorites": {
     "Eor7GcFlmuWdzuzjbFt19F93DM53": true,

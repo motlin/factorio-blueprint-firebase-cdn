@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1672060362080,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "title": "Just loading station",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/-NK2fJ02vDxpAZwOR8zX.png?alt=media&token=3f875f54-21b7-4ecf-89a0-cbbef28a7be1"
 }

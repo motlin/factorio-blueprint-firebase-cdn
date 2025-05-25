@@ -7,9 +7,9 @@
     "type": "image/png",
     "width": 405
   },
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "9ystqVh0n5OL1SG2jwFyOpLv6lw2"
   },

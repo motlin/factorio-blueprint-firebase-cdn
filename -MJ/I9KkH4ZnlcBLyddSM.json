@@ -14,12 +14,12 @@
   "createdDate": 1602344279267,
   "descriptionMarkdown": "Optimized system",
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/version/1,0/",
-    "3": "/production/batteries/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "[WIP] Battery cluster Mk1",
   "favorites": {
     "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true,

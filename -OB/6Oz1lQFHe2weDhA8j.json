@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/KbC90NX",
   "lastUpdatedDate": 1731067012277,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Quality improver",
   "favorites": {
     "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,

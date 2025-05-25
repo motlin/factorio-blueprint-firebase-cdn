@@ -33,14 +33,14 @@
   "descriptionMarkdown": "Consumes about 97 MW",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20180606170156_1.jpg?alt=media&token=363dbf25-fb6c-4611-945c-0133df0d3611",
   "lastUpdatedDate": 1686886744783,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/guns and ammo/",
-    "3": "/production/belt based/",
-    "4": "/general/tileable/",
-    "5": "/version/1,0/",
-    "6": "/version/1,1/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/production/belt based/",
+    "/general/tileable/",
+    "/version/1,0/",
+    "/version/1,1/"
+  ],
   "title": "Artillery Shells - 140 / min"
 }

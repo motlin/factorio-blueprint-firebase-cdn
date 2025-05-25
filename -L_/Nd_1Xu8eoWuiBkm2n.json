@@ -7,13 +7,13 @@
     "width": 863
   },
   "lastUpdatedDate": 1551974573305,
-  "tags": {
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/",
-    "0": "/general/beaconized/",
-    "1": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Processing Units (~700/min)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ac5d96862bbd75bf2b9f5b02933e58d2.jpg?alt=media&token=2b5a2995-9987-48ef-ac80-158b316e7e27",
   "author": {

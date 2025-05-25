@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1670715081026,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "nguyenmanh smelting"
 }

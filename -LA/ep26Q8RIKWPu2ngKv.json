@@ -16,11 +16,11 @@
   "fileName": "factorio_modules.jpg",
   "lastUpdatedDate": 1560599684695,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/tileable/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/tileable/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "x7VTxtezbwaIM7QoQKPpDueMAYl1": true,
     "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true,

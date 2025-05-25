@@ -17,9 +17,9 @@
   "numberOfFavorites": 4,
   "title": "Solar Array Farm",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Solararrayfarm05.png?alt=media&token=ebb8f7ba-179f-4f23-8fda-cc15b624a6fd",
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "favorites": {
     "k7HRfs3hBBWTWSHzwYlucqOg5hT2": true,
     "BjlCmlp5osfJuoo7Tnkn7gap2o12": true,

@@ -3,10 +3,10 @@
   "descriptionMarkdown": "Dual-core reactor that only inserts one cell at a time, and only when steam is below a threshold, to maximize fuel efficiency.",
   "lastUpdatedDate": 1510617541249,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "aMhBTszETTP7L6BnMp7dlu78HhQ2"
   },

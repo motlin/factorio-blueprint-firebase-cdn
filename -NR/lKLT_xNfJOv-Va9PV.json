@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1709150922821,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/robots/",
-    "2": "/production/belt based/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/robots/",
+    "/production/belt based/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Makko's Mall (SwaggoFlamingo-Based)"
 }

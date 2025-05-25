@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1573490485134,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/general/tileable/"
+  ],
   "title": "Nuclear Reactor, Tileable"
 }

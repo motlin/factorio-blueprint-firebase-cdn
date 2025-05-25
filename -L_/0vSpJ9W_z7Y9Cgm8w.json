@@ -14,15 +14,15 @@
   "descriptionMarkdown": "0.75 Production science pack/s",
   "fileName": "017PurpleSci.png",
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/tileable/",
-    "6": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Production science pack",
   "lastUpdatedDate": 1551589460553,
   "author": {

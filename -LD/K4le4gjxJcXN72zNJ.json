@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1556228899551,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Plok's 2x2 apocalypse proof nuclear plant"
 }

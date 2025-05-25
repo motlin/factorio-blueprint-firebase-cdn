@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1632806438419,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Science City Block II (504 SPM)"
 }

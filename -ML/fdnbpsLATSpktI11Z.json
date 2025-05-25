@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1633893694149,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/chunk aligned/",
-    "2": "/mods/vanilla/",
-    "3": "/train/track/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/crossing/",
-    "6": "/train/junction/",
-    "7": "/version/1,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/version/1,0/"
+  ],
   "title": "Self-expanding city block component",
   "favorites": {
     "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,

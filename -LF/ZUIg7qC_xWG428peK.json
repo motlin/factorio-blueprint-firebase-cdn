@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/other/"
+  ],
   "author": {
     "userId": "dRIvhsh0l1hLnPyWV84c6CFSAX12"
   },

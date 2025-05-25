@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1616129541866,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/power/nuclear/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/power/nuclear/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "2.2 MW Nuclear Power Plant",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%20(34).png?alt=media&token=9a36fc20-b894-4812-abe3-f7d80c68a6af",
   "favorites": {

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1636473167850,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Turbine railroad intersection",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-2021-11-09-16%3A52%3A20.png?alt=media&token=9cf983eb-93e8-4e89-8136-040ad2ff6694",
   "favorites": {

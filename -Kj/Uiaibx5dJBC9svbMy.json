@@ -5,12 +5,12 @@
   "fileName": "3lwv0h205wvy.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/3lwv0h205wvy.jpg?alt=media&token=4ed2ce6e-4ab9-46cd-9aaa-66b9b97580a2",
   "lastUpdatedDate": 1733807890936,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/version/2,0/"
+  ],
   "title": "☢️ Compact 480MW 48x48 tile nuclear reactor.",
   "favorites": {
     "BMtunP9fyiW5JPqnWuydjfmQfei2": true,

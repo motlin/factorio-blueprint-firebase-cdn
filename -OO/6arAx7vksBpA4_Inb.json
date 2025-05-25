@@ -18,13 +18,13 @@
   "imageUrl": "https://imgur.com/UsRTOAU",
   "lastUpdatedDate": 1744958092218,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "1.92 GW 4x 2x2 Nuclear Powerstation (Tileable?)"
 }

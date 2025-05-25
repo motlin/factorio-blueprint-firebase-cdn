@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1631207190021,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/version/0,15/"
+  ],
   "title": "Rail junction horizontal to vertical",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

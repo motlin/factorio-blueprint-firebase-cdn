@@ -179,8 +179,8 @@
   "imageUrl": "https://imgur.com/MeapAiB",
   "lastUpdatedDate": 1732125377592,
   "numberOfFavorites": 63,
-  "tags": {
-    "0": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo full production, no mods, game version 2.0+"
 }

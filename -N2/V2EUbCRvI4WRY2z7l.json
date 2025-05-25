@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1653026388115,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/",
+    "/version/0,15/"
+  ],
   "title": "Синие схемы",
   "favorites": {
     "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true

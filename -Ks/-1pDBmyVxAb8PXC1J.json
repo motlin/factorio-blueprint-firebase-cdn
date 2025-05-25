@@ -7,12 +7,12 @@
   "descriptionMarkdown": "This is a stand-alone bot based refinery. Connect it to a logistic network containing oil and water barrels and you're good to go.\n\nThe requester chest in the middle defaults to requesting 100 crude oil and water barrels. The requester chests at the outer edge each request 100 steel barrels. Change these values to match your factory layout.\n\nThis refinery can process 312.5 crude oil per second, the steel barrels are reused when possible. Products will first be placed in a passive provider chest. When the passive provider chest is full, an active provider chest is filled.",
   "lastUpdatedDate": 1504651763291,
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/production/logistic (bot) based/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/oil processing/"
+  ],
   "title": "Circular bot based refinery",
   "author": {
     "userId": "vDuH801OX4NWor5oWG4j4mVHgcC3"

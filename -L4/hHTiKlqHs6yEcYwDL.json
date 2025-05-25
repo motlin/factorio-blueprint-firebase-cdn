@@ -5,10 +5,10 @@
   "fileName": "grey science.PNG",
   "lastUpdatedDate": 1517958623222,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"
   },

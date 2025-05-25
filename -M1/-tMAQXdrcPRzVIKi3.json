@@ -13,12 +13,12 @@
   },
   "lastUpdatedDate": 1582710485876,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/version/0,18/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/version/0,18/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "NgBzqG2VRIg1R5gVTmINfsmCtMQ2": true,
     "1uVokibak7NvL2SUavqLM8A6xka2": true,

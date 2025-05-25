@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/zlwHMuz",
   "lastUpdatedDate": 1723296231985,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/track/",
+    "/general/chunk aligned/"
+  ],
   "title": "Chunk aligned train tracks"
 }

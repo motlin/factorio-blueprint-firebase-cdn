@@ -46,17 +46,17 @@
   },
   "lastUpdatedDate": 1558369846994,
   "numberOfFavorites": 31,
-  "tags": {
-    "3": "/production/other/",
-    "6": "/version/0,15/",
-    "7": "/version/0,16/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/production/uranium/",
-    "4": "/production/belt based/",
-    "5": "/production/logistic (bot) based/",
-    "8": "/version/0,17/",
-    "9": "/mods/vanilla/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/production/other/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/production/belt based/",
+    "/production/logistic (bot) based/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "Kovarex solution (v5)."
 }

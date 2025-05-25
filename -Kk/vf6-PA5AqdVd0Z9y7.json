@@ -11,11 +11,11 @@
     "width": 322
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "eXNzR5r75RarQZ424UU57MhNYR33"
   },

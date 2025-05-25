@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1679511631333,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Nuclear Setup | 12 Reactors: 1.89GW (98.44% Efficiency)"
 }

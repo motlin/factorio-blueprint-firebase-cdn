@@ -7,11 +7,11 @@
   },
   "createdDate": 1558655072944,
   "descriptionMarkdown": "This is a self feeding artillery outpost using robot logistics to feed artillery shells to itself. Needs power.",
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Self feeding 4X Artillery Outpost using roboports",
   "favorites": {
     "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,

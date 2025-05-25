@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/l5gFkwh",
   "lastUpdatedDate": 1731179609886,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/planets/vulcanus/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/planets/vulcanus/",
+    "/general/compact/"
+  ],
   "title": "Post fulgora Vulcanus liquid fed green circuits. 90/s",
   "favorites": {
     "ei5Hlek0WCUhVz6XCPRQShDAoqq2": true,

@@ -87,9 +87,9 @@
     "height": 987,
     "id": "9iqWrC4"
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/circuit/indicator/",
-    "0": "/power/accumulator/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/power/accumulator/"
+  ]
 }

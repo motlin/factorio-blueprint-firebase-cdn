@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1665263785475,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "35GW Nuclear Reactor"
 }

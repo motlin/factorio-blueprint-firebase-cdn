@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1708643638015,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "40MW Single Core Reactor",
   "favorites": {
     "7L2cQZ16Ycbuy65CXZUAUXbLw1i1": true,

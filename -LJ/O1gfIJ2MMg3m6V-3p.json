@@ -24,12 +24,12 @@
     "type": "image/png",
     "width": 1207
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/inserters/",
-    "2": "/production/mall (make everything)/",
-    "3": "/general/early game/",
-    "4": "/production/belts/",
-    "5": "/production/mining/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/production/belts/",
+    "/production/mining/"
+  ]
 }

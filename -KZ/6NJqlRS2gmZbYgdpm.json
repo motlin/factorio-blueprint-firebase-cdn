@@ -22,10 +22,10 @@
     "type": "image/jpeg",
     "width": 978
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/general/late game (megabase)/"
+  ]
 }

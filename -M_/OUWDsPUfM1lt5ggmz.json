@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1620704518988,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Loading station"
 }

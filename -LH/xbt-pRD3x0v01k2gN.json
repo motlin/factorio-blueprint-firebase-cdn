@@ -15,13 +15,13 @@
     "width": 920
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Solid Fuel Tileable",
   "favorites": {
     "xkaxsPz0h5VAo6ka57I2nnkzN693": true,

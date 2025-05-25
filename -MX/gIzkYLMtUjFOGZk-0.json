@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1617798626514,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Ядерная электростанция (2 реактора)+логика",
   "favorites": {
     "RftY0icQgLUu6yfkIZ8W4aZeEGf1": true,

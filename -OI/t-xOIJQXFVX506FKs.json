@@ -37,10 +37,10 @@
   "imageUrl": "https://i.imgur.com/CIKkVSW.png",
   "lastUpdatedDate": 1739344566300,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/planets/nauvis/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/planets/nauvis/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Early-Game \"Everything\" Factory"
 }

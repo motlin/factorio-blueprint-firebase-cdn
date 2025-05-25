@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/HMV's%20Miscellaneous.png?alt=media&token=a1a24efc-1c3b-4cc4-9fba-70a2d07c8709",
   "lastUpdatedDate": 1509802840611,
   "numberOfFavorites": 0,
-  "tags": {
-    "2": "/mods/lighted-electric-poles/",
-    "3": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/production/research (labs)/"
+  ],
   "title": "HMV's Miscellaneous"
 }

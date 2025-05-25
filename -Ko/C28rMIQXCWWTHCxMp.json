@@ -122,10 +122,10 @@
   "descriptionMarkdown": "This is my modular nuclear power plant from my Vanilla lets play series on YouTube.\n\n* 4 Reactors / 48 Heat Exchangers / 84 Steam Turbines\n* 480 MW\n* Storage of excess steam (750k storage)\n* Circuit controlled insertion of fuel based on Steam storage\n* No Logistics robots needed\n* It does not look like a swastika...",
   "lastUpdatedDate": 1499198176219,
   "numberOfFavorites": 192,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "4 Reactor Nuclear power (belted) (steam capacitors)"
 }

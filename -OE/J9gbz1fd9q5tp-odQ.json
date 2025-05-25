@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/lSoQctm",
   "lastUpdatedDate": 1734431394446,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Logistic Science 60 SPM",
   "favorites": {
     "DlTkNkgof8gc3T6u2i1vT0MSI5U2": true

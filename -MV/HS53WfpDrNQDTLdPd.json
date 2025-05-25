@@ -4,11 +4,11 @@
   "numberOfFavorites": 4,
   "title": "power state alarm",
   "lastUpdatedDate": 1615217320412,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/version/1,0/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/circuit/indicator/"
+  ],
   "author": {
     "userId": "Sn3u6JRr2qVdrCLcqWEeRVasGhx1"
   },

@@ -1,13 +1,13 @@
 {
   "descriptionMarkdown": "This is a modular blueprint book measured by big power poles. All intersection buffers are carefully measured for 1-4 trains (5 train parts) or shorter. There are alternative simpler blueprints included also, for very low traffic sections of your map. Avoid roundabouts when you can, the buffered designs have highest throughput. Some designs are made and rescaled based on other player designs from forums. I kept the number of blueprints to minimum though, just essentials.",
   "lastUpdatedDate": 1550409494298,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/crossing/",
-    "4": "/train/track/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/train/track/",
+    "/train/junction/"
+  ],
   "author": {
     "userId": "oDVwxjgLdCWWtniTUBTWsL3AZiI3"
   },

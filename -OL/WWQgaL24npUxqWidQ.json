@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/aCMHq6L",
   "lastUpdatedDate": 1742271250199,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/power/solar/"
+  ],
   "title": "Tutorial map 5 power plant",
   "favorites": {
     "ZodxLC02hsdOAX8K1s0ahf13AAE3": true

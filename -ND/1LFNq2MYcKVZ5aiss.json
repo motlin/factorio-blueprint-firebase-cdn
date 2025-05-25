@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1664339550110,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/inserters/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/inserters/",
+    "/general/compact/"
+  ],
   "title": "Mini Mall V12",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mini%20mall%20V12.png?alt=media&token=8955cb17-6a39-4481-922d-30827ed4fe83",
   "favorites": {

@@ -7,11 +7,11 @@
   },
   "lastUpdatedDate": 1518313006102,
   "numberOfFavorites": 48,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Fast 4 wagon train stop loader",
   "favorites": {
     "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,

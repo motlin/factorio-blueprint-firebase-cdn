@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/b0zc61W",
   "lastUpdatedDate": 1731631534334,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Archon Frigate ",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

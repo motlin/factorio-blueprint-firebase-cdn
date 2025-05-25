@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1702594024225,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/general/tileable/",
-    "4": "/version/1,0/",
-    "5": "/version/1,1/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/version/1,0/",
+    "/version/1,1/"
+  ],
   "title": "Tilable, 8 beacon Labs"
 }

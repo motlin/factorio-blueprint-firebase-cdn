@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1680040749130,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/krastorio/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/krastorio/",
+    "/general/early game/"
+  ],
   "title": "Self Powered Enriching Smelter Array (K2/SpX)",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

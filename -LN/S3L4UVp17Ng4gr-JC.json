@@ -18,9 +18,9 @@
   "createdDate": 1538085970426,
   "descriptionMarkdown": "2 red belts of rare earth out \nand like 2.2 red belt of fe2o3 out too",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/creative/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/creative/",
+    "/version/0,15/"
+  ],
   "title": "py mods rare earth "
 }

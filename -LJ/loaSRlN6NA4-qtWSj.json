@@ -3,11 +3,11 @@
   "fileName": "20180812223841_1.jpg",
   "lastUpdatedDate": 1534139197333,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "8 Belt Ore Sorter (Blue)",
   "author": {
     "userId": "b1E2T6w2XSWHqUC3CrrEN8RT9I53"

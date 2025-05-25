@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1630501454705,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "10 rocket fuel per second from coal"
 }

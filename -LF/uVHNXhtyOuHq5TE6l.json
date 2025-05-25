@@ -2,11 +2,11 @@
   "descriptionMarkdown": "Compact 2x4 Nuclear design that only requires a short shoreline for water. No more landfilling entire lakes or filling over pumps to fit everything else in. Just place in range of the bot network with Fuel cells and it will do the rest. Circuit network only handles synchronizing the arms placing fuel cells in. Can be used for more complex applications if needed ",
   "fileName": "screenshot-tick-20919447.png",
   "lastUpdatedDate": 1558980929154,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/compact/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/compact/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "TEk11CoEWdWPuimlL7cPZAEhhd33"
   },

@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "2": "/production/processing unit (blue)/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "920 Processing Units per minute",
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
   "fileName": "920 Processing Units per minute.PNG",

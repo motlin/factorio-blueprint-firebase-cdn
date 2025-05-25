@@ -14,11 +14,11 @@
     "height": 550,
     "id": "gd8va6w"
   },
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/processing unit (blue)/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Processing Unit Production (Blue Circuits) v1",
   "author": {
     "userId": "IbpV4kn3HjMWyjZU8KMvIGLIPRH2"

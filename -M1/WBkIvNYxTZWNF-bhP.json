@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1583252440430,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/oil processing/"
+  ],
   "title": "Advanced Oil 2.0 (WIP)"
 }

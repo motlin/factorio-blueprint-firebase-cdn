@@ -3,13 +3,13 @@
   "createdDate": 1526162933720,
   "descriptionMarkdown": "Supplies the rocket silo with materials faster than it can use them to achieve the maximum potential from the full 20 beacons surrounding it.\n\n(Yes, it really does need two stack inserters per component.)\n\n---\nLaunches a rocket every 61.22 seconds.  \nReturns 980 Science Per Minute.",
   "fileName": "Quar's 980SPM Rocket Silo.png",
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/version/0,16/",
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "3W81lziJULPXcOPam3x4pANeE7g2": true,
     "Ceeucp8wN8OB5wE53dqhfH9A1QF3": true,

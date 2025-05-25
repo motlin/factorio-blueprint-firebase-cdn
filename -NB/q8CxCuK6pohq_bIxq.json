@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1675202936932,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "Mega Base Part 6"
 }

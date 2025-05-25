@@ -24,11 +24,11 @@
   "imageUrl": "https://imgur.com/gHdw9tt",
   "lastUpdatedDate": 1732601568696,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/nauvis/",
-    "1": "/version/2,0/",
-    "2": "/production/mining/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/nauvis/",
+    "/version/2,0/",
+    "/production/mining/",
+    "/mods/space-age/"
+  ],
   "title": "Nauvys, calcite farming"
 }

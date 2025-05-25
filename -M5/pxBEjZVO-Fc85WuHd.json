@@ -20,10 +20,10 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1587895650726,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/krastorio/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/krastorio/",
+    "/version/0,18/"
+  ],
   "title": "Refining ore"
 }

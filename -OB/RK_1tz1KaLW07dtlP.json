@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/DSUuAsO",
   "lastUpdatedDate": 1731347239135,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Fish Counter"
 }

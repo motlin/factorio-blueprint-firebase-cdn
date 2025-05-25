@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1642789244239,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "Electric Smelter Line (10)",
   "favorites": {
     "dKODuSYcovXizxj35jj50cbJWlz2": true,

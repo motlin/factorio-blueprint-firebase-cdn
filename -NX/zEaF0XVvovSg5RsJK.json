@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/hjfFZmE",
   "lastUpdatedDate": 1715826800344,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Cargo Rocketry Book",
   "favorites": {
     "G9TPfCeakZaPaLsZc67iU9VYz8G3": true,

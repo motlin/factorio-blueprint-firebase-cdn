@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Configurable Productivity Module Build",
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
   "createdDate": 1487157108639,

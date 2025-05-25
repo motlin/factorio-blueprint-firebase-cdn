@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/sM1CeA5",
   "lastUpdatedDate": 1734368563104,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/planets/vulcanus/",
-    "4": "/planets/nauvis/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/vulcanus/",
+    "/planets/nauvis/"
+  ],
   "title": "Na-delivery (Navius <-> Vulcanos)",
   "favorites": {
     "gunOWAzCrwTCywpfk0Z0x0KZSGO2": true

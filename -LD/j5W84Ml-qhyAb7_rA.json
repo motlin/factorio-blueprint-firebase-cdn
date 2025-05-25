@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "author": {
     "userId": "DrX0Xc86JPR4XGcTOa0ByavMsGX2"
   },

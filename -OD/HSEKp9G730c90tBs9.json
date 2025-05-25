@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/FnEq2c6",
   "lastUpdatedDate": 1733328959011,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Вулкан, красные и зеленые",
   "favorites": {
     "iOgDaOQCQWVOOMzxle9GjFP2xem1": true,

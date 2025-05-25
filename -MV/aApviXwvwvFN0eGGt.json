@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1645193734105,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "4.96GW 32 Cell Nuclear Reactor w/APU by 1x4x9"
 }

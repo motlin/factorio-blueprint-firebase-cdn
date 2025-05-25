@@ -22,11 +22,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d%E2%80%99%C3%A9cran%202021-09-09%20105005.png?alt=media&token=6af6d297-baa4-4886-8d85-d148d1688f86",
   "lastUpdatedDate": 1631177471211,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Modules factory"
 }

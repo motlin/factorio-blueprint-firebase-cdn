@@ -8,12 +8,12 @@
     "type": "image/jpeg",
     "width": 1668
   },
-  "tags": {
-    "1": "/production/science/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ],
   "title": "Red Science 200/minute",
   "author": {
     "userId": "vLdqK3LFRtQfUEPN3ypBtFwcRrR2"

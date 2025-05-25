@@ -36,12 +36,12 @@
   },
   "lastUpdatedDate": 1581062769906,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/production/belt based/"
+  ],
   "title": "6  Sciences 60spm from raw"
 }

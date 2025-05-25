@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "1": "/production/research (labs)/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/beaconized/",
-    "4": "/general/tileable/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/factorissimo/"
+  ],
   "author": {
     "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"
   },

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5JJlbLJ",
   "lastUpdatedDate": 1734963287384,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Оборона лазеры, турели и огнеметы",
   "favorites": {
     "VifiQQlz1jUvzgQwRb7HbeojfQ92": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/5cSgs0q",
   "lastUpdatedDate": 1731090870104,
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Automatic all quality crafter",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

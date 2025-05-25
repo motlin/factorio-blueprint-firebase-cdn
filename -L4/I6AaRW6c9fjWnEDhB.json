@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1517518047665,
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/creative/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/creative/"
+  ],
   "title": "Square Factory"
 }

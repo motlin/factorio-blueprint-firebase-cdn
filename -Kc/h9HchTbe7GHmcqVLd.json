@@ -5,11 +5,11 @@
   "descriptionMarkdown": "A Steel Smelter",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Steel%20Smelter.png?alt=media&token=63e7dce0-429e-4e93-9f96-335ccbf6259f",
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "favorites": {
     "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true
   },

@@ -13,11 +13,11 @@
   "authorId": "WF4Q2dttUPfbro02MJB1IiAiXh53",
   "createdDate": 1589254568830,
   "descriptionMarkdown": "Buffer of Belts the Main Bus. It is not the best, but it works well. Tip: Use at the output of each production line.",
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/general/storage/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/fast transport belt (red)/",
+    "/general/storage/"
+  ],
   "favorites": {
     "oUiGLHVg7lfyt4UHU9QAOynBHsv1": true,
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,

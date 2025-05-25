@@ -6,17 +6,17 @@
     "type": "image/png",
     "width": 592
   },
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "3": "/general/mid game/",
-    "6": "/version/0,17/",
-    "8": "/mods/vanilla/",
-    "2": "/belt/express transport belt (blue)/",
-    "4": "/general/compact/",
-    "5": "/general/tileable/",
-    "7": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/mid game/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/production/electronic circuit (green)/"
+  ],
   "favorites": {
     "QQdQnC4Lo8XoQI8SKzqbUjVdvYP2": true,
     "rg6aVBrY4RTCFH0AFK9ECHbVoK62": true,

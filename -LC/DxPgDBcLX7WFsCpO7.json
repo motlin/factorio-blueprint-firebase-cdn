@@ -47,19 +47,19 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_20190412093018_2.png?alt=media&token=2411855d-564d-4d05-84ad-0e85f1a4f4b6",
   "lastUpdatedDate": 1555818649090,
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "6": "/general/tileable/",
-    "11": "/version/0,17/",
-    "1": "/belt/transport belt (yellow)/",
-    "7": "/train/loading station/",
-    "8": "/train/unloading station/",
-    "9": "/train/left-hand-drive/",
-    "10": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/version/0,17/",
+    "/belt/transport belt (yellow)/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/left-hand-drive/",
+    "/train/right-hand-drive/"
+  ],
   "title": "NRC's Station & Train[Ver0.17]"
 }

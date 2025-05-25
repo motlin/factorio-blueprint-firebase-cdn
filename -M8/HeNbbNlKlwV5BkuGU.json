@@ -9,13 +9,13 @@
     "width": 2792
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/production/guns and ammo/",
-    "4": "/production/science/",
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/production/science/",
+    "/version/1,0/"
+  ],
   "title": "Start Military from ore v6",
   "favorites": {
     "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,

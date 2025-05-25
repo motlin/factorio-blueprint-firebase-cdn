@@ -16,16 +16,16 @@
   "lastUpdatedDate": 1672647030927,
   "numberOfFavorites": 2,
   "title": "Early-game steel smelting (upgradable)",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "5": "/version/0,18/",
-    "6": "/version/1,0/",
-    "7": "/version/1,1/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/version/1,1/"
+  ],
   "favorites": {
     "tPzfLNzaM5YMAastiZCTYlxUBqn1": true,
     "JYPEFUj1VoWuxyX0InfZ55PMZws1": true,

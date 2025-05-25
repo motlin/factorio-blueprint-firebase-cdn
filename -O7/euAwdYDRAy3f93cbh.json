@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GdbsAJO",
   "lastUpdatedDate": 1727304571779,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para refinaria de gás de petróleo e petróleo leve versão 2.0 (Exotics + S.E.)"
 }

@@ -1,11 +1,11 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot22.png?alt=media&token=dcc80fa1-3013-4318-9100-6814fede37e3",
   "numberOfFavorites": 21,
-  "tags": {
-    "2": "/mods/other/",
-    "0": "/power/steam/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/steam/",
+    "/power/nuclear/"
+  ],
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "8M1pXcneHbOzZDtOIqD23u9umgr1": true,

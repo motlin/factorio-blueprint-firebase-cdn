@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/9jyk8Ic",
   "lastUpdatedDate": 1733605957048,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/production/science/",
-    "3": "/general/tileable/",
-    "4": "/general/mid game/",
-    "5": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/production/science/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/version/2,0/"
+  ],
   "title": "Tileable Metallurgic Science - 108/PM",
   "favorites": {
     "1M8uN61MfTf0cvJlpQTHZUwJPTO2": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/PhNhd2C",
   "lastUpdatedDate": 1729975743941,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Small Base Expandable Iron/Copper Bus Smelter",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true

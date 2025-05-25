@@ -21,11 +21,11 @@
   "imageUrl": "https://imgur.com/kRua41d",
   "lastUpdatedDate": 1728832908514,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/space-exploration/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/mods/other/"
+  ],
   "title": "Krastorio+Space Exploration blueprints"
 }

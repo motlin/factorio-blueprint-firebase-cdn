@@ -26,11 +26,11 @@
   },
   "lastUpdatedDate": 1606484324356,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/train/junction/"
+  ],
   "title": "8x8 train track rail"
 }

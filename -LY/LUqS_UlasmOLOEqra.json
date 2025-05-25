@@ -41,10 +41,10 @@
   },
   "lastUpdatedDate": 1579387215904,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Factorissimo Base in a Building"
 }

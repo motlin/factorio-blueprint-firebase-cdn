@@ -19,12 +19,12 @@
     "type": "image/jpeg",
     "width": 644
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/",
-    "0": "/production/science/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/version/0,15/"
+  ],
   "title": "Beaconed Green Science 1k/min (Robo fed)"
 }

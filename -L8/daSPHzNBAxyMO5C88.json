@@ -14,12 +14,12 @@
     "type": "image/jpeg",
     "width": 1437
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/processing unit (blue)/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/processing unit (blue)/",
+    "/production/oil processing/"
+  ],
   "title": "Oil to Chip v 0.16",
   "favorites": {
     "rsD3RssFJhVX3AQ14FJKgvidUeT2": true

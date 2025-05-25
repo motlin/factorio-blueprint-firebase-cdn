@@ -20,10 +20,10 @@
   "imageUrl": "https://imgur.com/g8eZImn",
   "lastUpdatedDate": 1730350476535,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "145k Belt Buffer for Spaceships"
 }

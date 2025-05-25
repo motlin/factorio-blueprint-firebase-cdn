@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/tPf9eej",
   "lastUpdatedDate": 1730463877862,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Planet Express 5.0",
   "favorites": {
     "ndQqIRdx2kSPa686XO6QmCKyf2g1": true,

@@ -28,10 +28,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2022-10-18_211717183.png?alt=media&token=0ddf504f-5ce5-4709-af1d-c0bbf3fdcaa3",
   "lastUpdatedDate": 1729160250462,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Don's Fire Safety Handbook (2024-10-04)"
 }

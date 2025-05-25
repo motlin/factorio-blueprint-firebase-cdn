@@ -13,9 +13,9 @@
   },
   "lastUpdatedDate": 1731366526035,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/combat/offense/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/combat/offense/"
+  ],
   "title": "Turret creep / combat blueprints"
 }

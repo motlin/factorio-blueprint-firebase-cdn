@@ -26,9 +26,9 @@
   },
   "lastUpdatedDate": 1681063426157,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/power/steam/"
+  ],
   "title": "AWF Essentials 2.1"
 }

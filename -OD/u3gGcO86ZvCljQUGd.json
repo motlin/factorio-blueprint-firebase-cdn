@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Qe50uGX",
   "lastUpdatedDate": 1733993677679,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/planets/fulgora/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/logistic (bot) based/",
+    "/planets/fulgora/",
+    "/mods/space-age/"
+  ],
   "title": "LazyCraft v1",
   "favorites": {
     "G3nRjdjWPASkpkr5qbcqTwz0sS13": true,

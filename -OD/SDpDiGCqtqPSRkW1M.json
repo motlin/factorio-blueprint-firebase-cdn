@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/v2huy1K",
   "lastUpdatedDate": 1733587675532,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Sushi bus with automatic balancing"
 }

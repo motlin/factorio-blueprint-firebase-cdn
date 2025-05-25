@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1527583508796,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Early compact smelting",
   "author": {
     "userId": "UuwqhiB2VSdpg9exLsklxnhgwoG3"

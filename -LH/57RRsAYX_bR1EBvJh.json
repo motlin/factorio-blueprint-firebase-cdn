@@ -5,12 +5,12 @@
   },
   "createdDate": 1531258718142,
   "descriptionMarkdown": "Maximum division of the crossway for maximum traffic",
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/junction/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "lastUpdatedDate": 1647362731393,
   "numberOfFavorites": 10,
   "favorites": {

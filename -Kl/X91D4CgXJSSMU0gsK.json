@@ -6,13 +6,13 @@
     "width": 1248
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "A28U8H2IviQs9LuuEBzmW01c7KR2"
   },

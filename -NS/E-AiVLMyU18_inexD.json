@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1680657660903,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Solar City Block"
 }

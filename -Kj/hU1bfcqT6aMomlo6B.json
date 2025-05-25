@@ -10,11 +10,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 68,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/junction/"
+  ],
   "title": "Late-Game Single-line Railway Compendium",
   "authorId": "w3n6GKMYYETPaPpZ2PlScjOb7q43",
   "createdDate": 1494337989642,

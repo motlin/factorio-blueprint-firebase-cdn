@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5NynurH",
   "lastUpdatedDate": 1732139815143,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Animated RGB Fade Light Display",
   "favorites": {
     "2Uc97DTuH1TJ3mQREb3pJsVpxzJ2": true,

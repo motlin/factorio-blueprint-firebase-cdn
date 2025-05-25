@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1562271707152,
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/train/junction/",
-    "0": "/general/compact/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/general/compact/"
+  ],
   "title": "X junctions by Rebecca"
 }

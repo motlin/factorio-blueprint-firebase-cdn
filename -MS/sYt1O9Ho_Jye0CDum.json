@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1612635411265,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/train/junction/"
+  ],
   "title": "Train Base Design Diamond -> Octagon"
 }

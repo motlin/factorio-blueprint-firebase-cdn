@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1539442838820,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/power/solar/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/power/solar/",
+    "/general/beaconized/"
+  ],
   "title": "Mega Base refinary"
 }

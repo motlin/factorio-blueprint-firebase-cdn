@@ -4,12 +4,12 @@
   },
   "authorId": "p5Q11emMu1aKj7v5CAgsfu0IHhC3",
   "createdDate": 1546186393293,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/version/0,15/",
-    "2": "/production/science/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,15/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "45 yellow science per minute. Integrated production of blue chips, batteries and speed modules.",
   "favorites": {
     "CBdKM9nPBQeSu9ldrYwt1wpSbRI3": true,

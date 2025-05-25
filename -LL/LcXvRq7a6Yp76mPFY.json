@@ -38,12 +38,12 @@
     "ndv3MRh2f1gY4OrCBfmdydTK39M2": true,
     "Gkqn7lcP2KNC8t1ADBgjXdZrmmo2": true
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/power/solar/",
-    "0": "/version/0,16/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/version/0,16/",
+    "/general/tileable/"
+  ],
   "title": "Laser defense system, tileable and self sustaining",
   "lastUpdatedDate": 1535830535979
 }

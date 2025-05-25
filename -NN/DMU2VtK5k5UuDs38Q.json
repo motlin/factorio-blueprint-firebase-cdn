@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1675278283254,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ],
   "title": "Mine Monitor"
 }

@@ -7,11 +7,11 @@
   },
   "lastUpdatedDate": 1596704478258,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "v6XakptxuzOG2hQYFGWZA8XrlN62"
   },

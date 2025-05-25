@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/zRJkb5e",
   "lastUpdatedDate": 1732402103552,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/version/2,0/"
+  ],
   "title": "Tower Timer - Efficient Gleba Agricultural Management",
   "favorites": {
     "TvV8InW5ARaPlvWSgFL9rjiJbZt1": true,

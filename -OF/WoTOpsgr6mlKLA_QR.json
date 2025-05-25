@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/beerZLa",
   "lastUpdatedDate": 1735734192309,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "Low density structure / Конструкция малой плотности",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

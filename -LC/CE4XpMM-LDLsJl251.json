@@ -5,14 +5,14 @@
   "createdDate": 1526009190604,
   "descriptionMarkdown": "I use this as a sort of buffer for trains incoming to a single set of unload stations (2-4 usually) In my train stations, I name every wait station the same and the trains simply fill up the next available until full. Then on to their next destination.\n\nMy trains normally are only 2 wagons long, but you can use up to 4 wagons, I think, on this blueprint.",
   "lastUpdatedDate": 1526009190604,
-  "tags": {
-    "5": "/general/late game (megabase)/",
-    "0": "/mods/vanilla/",
-    "1": "/train/stacker/",
-    "2": "/train/track/",
-    "3": "/version/0,16/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/train/stacker/",
+    "/train/track/",
+    "/version/0,16/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
     "vHPJl9j4tAWc1BiarthYXsdhMLI2": true,

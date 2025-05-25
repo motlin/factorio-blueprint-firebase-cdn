@@ -12,10 +12,10 @@
   "createdDate": 1522126933330,
   "lastUpdatedDate": 1522127760480,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "bwj8XCBccPh7q9cZJ9LMogmSwsw1"
   },

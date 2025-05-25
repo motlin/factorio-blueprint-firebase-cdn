@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/rels7Kp.png",
   "lastUpdatedDate": 1743408178731,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Cruiser",
   "favorites": {
     "5yNeYGKo2IYroWOWKUG8g9pSirS2": true,

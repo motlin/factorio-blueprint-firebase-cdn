@@ -48,8 +48,8 @@
   "fileName": "AllItemsfilteredStorageChest.png",
   "lastUpdatedDate": 1554044326603,
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/general/storage/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/general/storage/"
+  ]
 }

@@ -7,11 +7,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Kovarex.gif?alt=media&token=4a0ca7ad-5077-43d3-9117-dcb0619322d6",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "LwASv8Mm0qeOmWYCBBW0MFbw39s2",
   "createdDate": 1495309481199,
   "descriptionMarkdown": "A simple Kovarex Enrichment array which usese the property of a fast inserter to grab U235 off a yellow belt before it moves out of range, thus refilling the centrifuge if it needs it.",

@@ -22,9 +22,9 @@
   "imageUrl": "https://imgur.com/Jy6Wz1J",
   "lastUpdatedDate": 1724083208316,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "All in One MALL"
 }

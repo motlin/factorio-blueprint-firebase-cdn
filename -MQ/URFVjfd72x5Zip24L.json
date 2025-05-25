@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1639057524942,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/production/belts/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Compact y->r belts",
   "favorites": {
     "IlzCZEvowbdj5nHe2ZQ5p0DHNj23": true

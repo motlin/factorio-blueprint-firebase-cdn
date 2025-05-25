@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1677770637063,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "Length6 RHD 1.0.0 (junctions, straights, robo, radar)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Curve.png?alt=media&token=0e41fcca-100a-4acd-805d-30fc620195a2",
   "favorites": {

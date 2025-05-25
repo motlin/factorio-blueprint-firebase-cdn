@@ -23,11 +23,11 @@
   "author": {
     "userId": "3Z5o4jaZEyctE5oFjJdkep9S2qT2"
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/right-hand-drive/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Vanilla Logistic Train Network v0.2",
   "numberOfFavorites": 6
 }

@@ -14,10 +14,10 @@
     "width": 1473
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/production/robots/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/robots/"
+  ],
   "title": "Robot-powered utility base",
   "authorId": "2IvZam0BeGakQNXTGqMvFYIysFS2",
   "createdDate": 1511149294663,

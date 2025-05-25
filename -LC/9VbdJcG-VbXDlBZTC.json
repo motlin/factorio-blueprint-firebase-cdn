@@ -16,12 +16,12 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1525963455262,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/mods/other/",
-    "2": "/version/0,16/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/mods/other/",
+    "/version/0,16/",
+    "/train/right-hand-drive/"
+  ],
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true
   }

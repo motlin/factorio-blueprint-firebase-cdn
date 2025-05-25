@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1678252506951,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Early Game Full Stack Smelter",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/EWyK5Fw",
   "lastUpdatedDate": 1736608947626,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Tank logistics Mall",
   "favorites": {
     "W8PRLHP70XfHLC6ssogMxzwVzNs1": true

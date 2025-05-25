@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1643565514393,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/1,0/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/1,0/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/mods/other/"
+  ],
   "title": "Cheat mall for /editor"
 }

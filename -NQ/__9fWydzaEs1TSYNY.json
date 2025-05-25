@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1680733342846,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/mid game/"
+  ],
   "title": "1-RedBelt Beacon Smelter",
   "favorites": {
     "YFlz4I9hxGRUcziA9zlcOeM6Sm72": true

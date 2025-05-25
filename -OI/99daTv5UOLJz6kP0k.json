@@ -20,8 +20,8 @@
   "imageUrl": "https://imgur.com/hKXc29Z",
   "lastUpdatedDate": 1738558578368,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Legendary iron station"
 }

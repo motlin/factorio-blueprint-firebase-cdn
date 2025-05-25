@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/cJSEWbW",
   "lastUpdatedDate": 1737926845168,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/version/2,0/"
+  ],
   "title": "Emergency nutrients from spoilage"
 }

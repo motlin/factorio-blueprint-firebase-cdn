@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621206336169,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta de silicone",
   "favorites": {
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,

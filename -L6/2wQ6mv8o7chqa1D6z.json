@@ -16,10 +16,10 @@
     "type": "image/png",
     "width": 344
   },
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "pLOICaq6gKOwhKjnQWY2er3YOD73": true
   }

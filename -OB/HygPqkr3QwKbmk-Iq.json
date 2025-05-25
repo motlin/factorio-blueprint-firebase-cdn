@@ -22,10 +22,10 @@
   "imageUrl": "https://imgur.com/7uVrFzZ",
   "lastUpdatedDate": 1731240068191,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/space-age/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "All science 40 biolabs tileable space age"
 }

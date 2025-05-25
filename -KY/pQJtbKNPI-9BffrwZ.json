@@ -23,12 +23,12 @@
     "width": 649
   },
   "lastUpdatedDate": 1498336318345,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "FUPNuTqREVUgdpLgGwKtyYv3iKH2"
   },

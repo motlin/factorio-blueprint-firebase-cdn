@@ -19,8 +19,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/n9lzrRW.png?alt=media&token=00d91894-d19c-4dc8-b091-377f51b9a6d4",
   "lastUpdatedDate": 1506078293252,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Smelting (4 fully compressed blue belts of plates)"
 }

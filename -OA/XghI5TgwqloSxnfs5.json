@@ -54,9 +54,9 @@
   "imageUrl": "https://imgur.com/6uMKC1d",
   "lastUpdatedDate": 1730565815585,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus recipes"
 }

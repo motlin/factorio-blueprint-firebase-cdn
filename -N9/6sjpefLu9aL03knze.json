@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1663061875829,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/production/other/"
+  ],
   "title": "マルチ持ち込み用ブループリント"
 }

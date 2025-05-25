@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1541743707552,
   "numberOfFavorites": 13,
-  "tags": {
-    "3": "/mods/creative/",
-    "0": "/production/research (labs)/",
-    "1": "/production/science/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/creative/",
+    "/production/research (labs)/",
+    "/production/science/",
+    "/production/rocket parts/"
+  ],
   "title": "WIP all 7 science 75/minute within 1 roboport"
 }

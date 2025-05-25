@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1665313157390,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Refinaria para acido sulfúrico e lubrificante"
 }

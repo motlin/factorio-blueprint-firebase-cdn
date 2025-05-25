@@ -16,9 +16,9 @@
   "createdDate": 1531659093559,
   "title": "Compact Smelter",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/compact/",
-    "2": "/version/0,16/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/general/compact/",
+    "/version/0,16/"
+  ]
 }

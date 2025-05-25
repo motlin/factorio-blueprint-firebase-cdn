@@ -22,10 +22,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/belts.PNG?alt=media&token=44898fbe-23cd-4fbc-be53-ad3c26f3f7c5",
   "lastUpdatedDate": 1508543800052,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/version/0,15/"
+  ],
   "title": "Modular 24 lane potion factory, Oil Processing, Kiln Farm and a complete nuclear site"
 }

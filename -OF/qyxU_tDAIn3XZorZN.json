@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/fyvfjix",
   "lastUpdatedDate": 1736089262351,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Nave para pesquisa de viagens interestelares"
 }

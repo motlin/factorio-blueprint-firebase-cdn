@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/PdmqaIM.png",
   "lastUpdatedDate": 1738466097953,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/power/nuclear/"
+  ],
   "title": "1.1 Gw nuclear power ",
   "favorites": {
     "aRQQsfOOkLRo69IbKazXPJMRSvG3": true,

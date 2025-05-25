@@ -25,12 +25,12 @@
   "imageUrl": "https://imgur.com/3kqGjkn",
   "lastUpdatedDate": 1746029948113,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/planets/nauvis/",
-    "2": "/production/robots/",
-    "3": "/production/science/",
-    "4": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/planets/nauvis/",
+    "/production/robots/",
+    "/production/science/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Starter Base, Bot Rush + Early Mall"
 }

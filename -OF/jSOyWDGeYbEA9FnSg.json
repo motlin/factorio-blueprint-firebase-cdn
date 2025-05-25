@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/iAxPteb",
   "lastUpdatedDate": 1735969562500,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/mods/space-age/"
+  ],
   "title": "(Not By Brian)'s Sky City Rail Blocks",
   "favorites": {
     "UO9vDAYuXjelUNfZkJSEIcL9erl1": true,

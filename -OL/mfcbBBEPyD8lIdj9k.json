@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ULQAHrB",
   "lastUpdatedDate": 1742571933031,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/planets/fulgora/"
+  ],
   "title": "End game 2 belts of scrap to 109 electromagnetic science per second",
   "favorites": {
     "7ho1v3TsRAUgTtBxR5rIIwO0I5g2": true,

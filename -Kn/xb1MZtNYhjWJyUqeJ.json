@@ -3,11 +3,11 @@
   "descriptionMarkdown": "Enter X,Y coordinates and distance in the constant combinators on the far left, then connect to first bank with green cable.  Calculates first X (X - distance) and goes line by line to big Y (Y + distance).  Perfect for AAI zone marking and clearing.  Skips X0 and Y0 for obvious reasons.",
   "lastUpdatedDate": 1498916062941,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "XY Distance iterator (Based on Steejo AAI tutorial)",
   "author": {
     "userId": "jlAdyBZdcddxQfbwC4WgwZMFUvp1"

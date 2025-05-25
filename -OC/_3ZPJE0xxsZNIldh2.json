@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/nukWASC",
   "lastUpdatedDate": 1732571156436,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/solar/"
+  ],
   "title": "Cargo fret spaceship",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true

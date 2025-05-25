@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1696689993198,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/train/loading station/"
+  ],
   "title": "Single Fluid, Multi Pipe (Cybersyn)",
   "favorites": {
     "ReVPGpPIwpggiIaTRDgIhFJrrLz2": true

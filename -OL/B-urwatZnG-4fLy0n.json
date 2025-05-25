@@ -23,10 +23,10 @@
   "imageUrl": "https://imgur.com/e81zERG",
   "lastUpdatedDate": 1741810806729,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Aquilo all in 1 Produktion City Block"
 }

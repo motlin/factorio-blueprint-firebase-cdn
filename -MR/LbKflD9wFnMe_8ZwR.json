@@ -1,12 +1,12 @@
 {
   "authorId": "RMade5OBvoRV9hjFymjSsMEdQr23",
   "descriptionMarkdown": "Copy, Paste, Link up the correct spots for items (Iron Plates and Uranium Ore) then link up multiples of the same Blueprint and watch it go!\n\n-When Linking Multiple Blueprints together -\n1. Connect the point where the iron Plates go to the other blue print where the iron plates should go. Both Parts are blue Belts to show where to connect to.\n2.Next to the Uranium Fuel Cell Assembling Machine - there is a blue Inverter next to a Blue belt, Connect that Blue Belt to the other Blue belt of the next blue print\n3. The more you put together, the more side entrances of Uranium Ore you will need.\n\nAnd that should be it! Hope you enjoy this! \n\n\n(Not the original Creator, borrowed and improved on original design)",
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "RMade5OBvoRV9hjFymjSsMEdQr23"
   },

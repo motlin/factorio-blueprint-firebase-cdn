@@ -18,11 +18,11 @@
   "imageUrl": "https://imgur.com/buFzQsa",
   "lastUpdatedDate": 1736829886347,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/nauvis/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/nauvis/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "Early Bus - Navius - Space Age"
 }

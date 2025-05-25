@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1700647062780,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "10 Belt -> 12 Belt Beacon Smelter"
 }

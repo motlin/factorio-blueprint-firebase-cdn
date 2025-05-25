@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/sV4yHVR",
   "lastUpdatedDate": 1736089930703,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Battleship (Exotics + S.E.)"
 }

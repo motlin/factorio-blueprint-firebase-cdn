@@ -17,8 +17,8 @@
   "imageUrl": "https://imgur.com/FCdBfSt",
   "lastUpdatedDate": 1745284099003,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Platform for leaving the Solar System"
 }

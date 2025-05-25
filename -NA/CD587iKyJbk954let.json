@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1661300571310,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "High-productivity mining layout",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

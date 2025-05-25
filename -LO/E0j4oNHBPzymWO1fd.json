@@ -24,11 +24,11 @@
     "userId": "oFqnuTnk6YNTjcCvbFz7c23IYKs2"
   },
   "lastUpdatedDate": 1567915176494,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/compact/"
-  }
+  "tags": [
+    "/production/batteries/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/"
+  ]
 }

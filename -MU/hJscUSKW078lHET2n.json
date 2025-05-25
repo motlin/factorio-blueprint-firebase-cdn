@@ -19,10 +19,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/PicsArt_03-01-12.50.34.png?alt=media&token=81fa62ea-239b-4d37-97ed-3d94ef20e7d9",
   "lastUpdatedDate": 1614635149989,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Stations by SPORKIO"
 }

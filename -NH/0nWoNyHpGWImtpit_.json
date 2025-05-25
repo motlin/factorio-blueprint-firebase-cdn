@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1697616108975,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconized Kovarex enrichment with cirquits",
   "favorites": {
     "ggzFpkYTSic1nAnrFRpNcbEWoIW2": true,

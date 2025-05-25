@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1664792074584,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "title": "Kovarex 5x5 small"
 }

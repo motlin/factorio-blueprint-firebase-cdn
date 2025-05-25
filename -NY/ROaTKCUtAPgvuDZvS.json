@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/XOygUnH",
   "lastUpdatedDate": 1716315908099,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "title": "Load Balancer"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/O7h4Y9j",
   "lastUpdatedDate": 1731493352735,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Trens automaticos / Automated Train",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

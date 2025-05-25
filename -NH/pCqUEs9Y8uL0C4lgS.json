@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1670586518240,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Fábrica de peças para naves espaciais"
 }

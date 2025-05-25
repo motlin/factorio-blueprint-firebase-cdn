@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ctshHJh",
   "lastUpdatedDate": 1734431227534,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/science/"
+  ],
   "title": "Automation Science 60 SPM",
   "favorites": {
     "bCxEQh44wyLIkLjImv2TN1mbBo73": true,

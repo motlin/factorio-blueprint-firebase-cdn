@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/0yNlQOg",
   "lastUpdatedDate": 1730170126498,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/planets/space-platform/"
+  ],
   "title": "Рокетка для старта нормас",
   "favorites": {
     "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,

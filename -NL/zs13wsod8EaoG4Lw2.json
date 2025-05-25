@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1673961415424,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/general/mid game/",
-    "2": "/mods/krastorio/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/general/mid game/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "starting core",
   "favorites": {
     "Sqtfs4ywXIdMUI2PBZiCgoew3qq2": true,

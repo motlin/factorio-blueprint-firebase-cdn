@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/4DbEehR",
   "lastUpdatedDate": 1730158164764,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/combat/offense/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/combat/offense/"
+  ],
   "title": "Antiworm turret array",
   "favorites": {
     "WOm2gdbh8YaqimN7c6EKf8PUSWh1": true,

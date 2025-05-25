@@ -7,10 +7,10 @@
     "4vmDVgzQw9O1oSSxBkmmPS9mzhr2": true,
     "mBceYG4ttWZiAWGaSGAnzTFQxe32": true
   },
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/1,0/"
+  ],
   "title": "Electric Engines [600/min]",
   "author": {
     "userId": "wDvx4SUmiOhoOmgGERzjHLacgPl2"

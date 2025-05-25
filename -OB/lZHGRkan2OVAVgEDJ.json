@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/1RQl7wf",
   "lastUpdatedDate": 1731752614237,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Quality producers: Bot based and configurable",
   "favorites": {
     "UFDk4yfHK3YDDAa018PnvPGlIVl2": true,

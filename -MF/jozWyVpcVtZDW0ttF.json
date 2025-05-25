@@ -8,12 +8,12 @@
     "width": 449
   },
   "lastUpdatedDate": 1598530256055,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/1,0/"
+  ],
   "title": "[WIP] Gray science Mk1",
   "favorites": {
     "GdAs1mYa1LYVelXje1TORJRCWdM2": true,

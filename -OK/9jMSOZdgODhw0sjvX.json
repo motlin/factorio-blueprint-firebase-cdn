@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/3JtqmNV.png",
   "lastUpdatedDate": 1740715685807,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/solar/"
+  ],
   "title": "T1 Ice Barge",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true

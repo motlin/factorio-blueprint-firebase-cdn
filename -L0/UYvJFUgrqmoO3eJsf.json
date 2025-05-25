@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/0,15/",
-    "2": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/0,15/",
+    "/production/processing unit (blue)/"
+  ],
   "author": {
     "userId": "Ws52SzFZEVU7X05S3GJaN3Y5JHx1"
   },

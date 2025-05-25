@@ -37,11 +37,11 @@
   },
   "lastUpdatedDate": 1605041029789,
   "numberOfFavorites": 15,
-  "tags": {
-    "3": "/mods/other/",
-    "0": "/mods/krastorio/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/inserters/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/krastorio/",
+    "/production/mall (make everything)/",
+    "/production/inserters/"
+  ],
   "title": "Krastorio2 Modular Mall V1.3"
 }

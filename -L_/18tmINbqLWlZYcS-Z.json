@@ -35,13 +35,13 @@
     "width": 608
   },
   "numberOfFavorites": 15,
-  "tags": {
-    "4": "/general/mid game/",
-    "5": "/general/tileable/",
-    "6": "/general/compact/",
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/version/0,17/",
-    "3": "/general/early game/"
-  }
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,17/",
+    "/general/early game/"
+  ]
 }

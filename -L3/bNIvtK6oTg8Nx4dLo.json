@@ -17,10 +17,10 @@
   "createdDate": 1516784140161,
   "descriptionMarkdown": "Hi, this is easy and compact  early game red+green science.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/red%20%2B%20green.png?alt=media&token=d50b0b45-2dfa-433f-9c46-0bc7e70f8e55",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "NIwJTDpKADRwfXshIMLVkAvqrfH3"
   },

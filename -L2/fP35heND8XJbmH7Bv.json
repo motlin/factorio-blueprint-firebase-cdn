@@ -69,10 +69,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture5.PNG?alt=media&token=03bbd047-ec01-4de6-af1c-4b60b22fed83",
   "lastUpdatedDate": 1598724752444,
   "numberOfFavorites": 92,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/storage/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/storage/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Organized Storage"
 }

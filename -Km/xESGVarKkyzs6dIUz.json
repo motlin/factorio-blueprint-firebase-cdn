@@ -1,12 +1,12 @@
 {
   "authorId": "NBm6K8lmOceps1rsuYhem0G7mpr1",
   "fileName": "green_schriazugul.PNG",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "descriptionMarkdown": "Green Circuits with blue Belts",
   "image": {
     "id": "fP9RnhQ",

@@ -24,7 +24,7 @@
     "width": 477
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/robots/"
-  }
+  "tags": [
+    "/production/robots/"
+  ]
 }

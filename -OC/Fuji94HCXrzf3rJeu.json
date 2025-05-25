@@ -24,8 +24,8 @@
   "imageUrl": "https://imgur.com/Qvts3m4",
   "lastUpdatedDate": 1732393545472,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "Mixed Elevation Cityblock"
 }

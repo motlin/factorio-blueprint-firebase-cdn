@@ -18,21 +18,21 @@
   "imageUrl": "https://imgur.com/LGgYKDg",
   "lastUpdatedDate": 1745264782882,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/compact/",
-    "6": "/general/storage/",
-    "7": "/mods/space-age/",
-    "8": "/planets/nauvis/",
-    "9": "/production/mall (make everything)/",
-    "10": "/production/guns and ammo/",
-    "11": "/production/other/",
-    "12": "/production/logistic (bot) based/",
-    "13": "/version/2,0/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/general/storage/",
+    "/mods/space-age/",
+    "/planets/nauvis/",
+    "/production/mall (make everything)/",
+    "/production/guns and ammo/",
+    "/production/other/",
+    "/production/logistic (bot) based/",
+    "/version/2,0/"
+  ],
   "title": "GSXR - MALL military Nauvis"
 }

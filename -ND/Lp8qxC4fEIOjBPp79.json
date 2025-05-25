@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1693684155477,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mining/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mining/"
+  ],
   "title": "Rhizome mining cell"
 }

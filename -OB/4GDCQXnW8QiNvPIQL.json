@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/i0im065",
   "lastUpdatedDate": 1730960369439,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/circuit/counter/"
+  ],
   "title": "UNTRA color components RGB strobe circuit",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

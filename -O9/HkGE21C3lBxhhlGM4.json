@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/NgzgQIC",
   "lastUpdatedDate": 1729039077089,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Mining Outpost 8-Train",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true

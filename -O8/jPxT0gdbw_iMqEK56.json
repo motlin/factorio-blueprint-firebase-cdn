@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/onRh7V5",
   "lastUpdatedDate": 1728446191636,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Touchgrass.EXE"
 }

@@ -14,8 +14,8 @@
   "lastUpdatedDate": 1724069827574,
   "numberOfFavorites": 0,
   "title": "DI Uranium Process ",
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/"
-  }
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/"
+  ]
 }

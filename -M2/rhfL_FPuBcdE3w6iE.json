@@ -7,12 +7,12 @@
     "height": 409,
     "id": "HvN5MKg"
   },
-  "tags": {
-    "2": "/version/1,0/",
-    "3": "/production/inserters/",
-    "0": "/mods/vanilla/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "Start Copper v4",
   "author": {
     "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"

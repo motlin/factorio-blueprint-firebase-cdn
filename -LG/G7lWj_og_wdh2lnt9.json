@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "m3qAWJv9MqQ7Y9s4FBbFhHmADPA3"
   },

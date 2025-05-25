@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1626165814722,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "VanilaReactor"
 }

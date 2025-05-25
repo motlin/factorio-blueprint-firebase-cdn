@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1654342573695,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/junction/"
+  ],
   "title": "Cityblock Rail Segment",
   "favorites": {
     "OhuJKsSKwkgzVEZuqI9BEJ0By8r2": true,

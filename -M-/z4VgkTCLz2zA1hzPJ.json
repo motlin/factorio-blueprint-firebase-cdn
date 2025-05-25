@@ -10,11 +10,11 @@
   "fileName": "PETRO;.JPG",
   "lastUpdatedDate": 1581606375071,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "3eC52ieelDPVh0Xq03nqebmh2PO2"
   },

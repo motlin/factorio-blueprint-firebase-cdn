@@ -10,10 +10,10 @@
     "width": 443
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/seablock/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/seablock/"
+  ],
   "title": "Sea Block 0.16 1 landfill/sec MK3 [seablock] [sea block]",
   "favorites": {
     "1JnuGI3XcYdMdQcvXLZGXuNqbDm1": true

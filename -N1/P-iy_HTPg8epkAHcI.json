@@ -24,8 +24,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/NoPower2.png?alt=media&token=70300441-4da1-4d5f-953b-93fc206b1b65",
   "lastUpdatedDate": 1651874488971,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "title": "Massive Power Siphon"
 }

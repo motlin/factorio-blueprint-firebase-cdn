@@ -7,11 +7,11 @@
     "height": 558
   },
   "numberOfFavorites": 28,
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/advanced circuit (red)/",
+    "/general/tileable/"
+  ],
   "title": "Red Circuit - Tileable",
   "favorites": {
     "TXSq8gdoyJcv5q9rWec3NJHKUlv1": true,

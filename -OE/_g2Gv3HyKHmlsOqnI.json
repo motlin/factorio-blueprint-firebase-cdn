@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/P40BLZi",
   "lastUpdatedDate": 1734725350688,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Usina de energia solar avançada",
   "favorites": {
     "GWoAiTyBMRO1qOsDZbNsFP228hy1": true

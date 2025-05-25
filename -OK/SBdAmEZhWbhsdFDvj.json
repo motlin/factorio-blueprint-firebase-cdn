@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ZskqEgr",
   "lastUpdatedDate": 1747038562755,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/mods/space-age/"
+  ],
   "title": "Compact and reliable ship",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1530112584146,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "All sciences 45 per minute from plates"
 }

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1614970900648,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/late game (megabase)/",
+    "/mods/ltn/"
+  ],
   "title": "Plastic production block / Kunststoffanlage"
 }

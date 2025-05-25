@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1627550670777,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "scalable electric furnace smelter",
   "favorites": {
     "rT0sEouqMRf3QDsOB2Wy0E2EdRt2": true

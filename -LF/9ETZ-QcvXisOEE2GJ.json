@@ -11,10 +11,10 @@
     "id": "YO8wjC0"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "authorId": "6QTgwf0KxES31Jfro8WANY4Erhv1",
   "createdDate": 1558171216313,
   "fileName": "20190518111734_1.jpg",

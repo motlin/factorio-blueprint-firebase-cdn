@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1619334894980,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Blue Science Cell for early game — 30 SPM",
   "favorites": {
     "MsvijdKJ6fWWBCx2JDxH6fVL4Kk2": true,

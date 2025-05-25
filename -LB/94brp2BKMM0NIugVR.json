@@ -60,12 +60,12 @@
   },
   "lastUpdatedDate": 1555445850524,
   "numberOfFavorites": 43,
-  "tags": {
-    "4": "/mods/ltn/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/train/right-hand-drive/"
+  ],
   "title": "LTN Ore to Copper furnace outpost"
 }

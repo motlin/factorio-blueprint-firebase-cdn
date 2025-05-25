@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/FmNXZaO",
   "lastUpdatedDate": 1743070994697,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Fast / Small / Cargo / Gleba ",
   "favorites": {
     "BMbr3u14ITaxo16fWERJChsrR3f1": true,

@@ -22,11 +22,11 @@
     "type": "image/jpeg",
     "width": 561
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "[WIP] Processing unit cluster Mk1"
 }

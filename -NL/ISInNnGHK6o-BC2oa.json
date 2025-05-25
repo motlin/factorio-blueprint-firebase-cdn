@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1702207312535,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "248K - Electronic Stage Mall",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d'%C3%A9cran%202023-12-10%20122126.png?alt=media&token=76c08b33-c1fc-48cb-b7b5-399ac217f8de"
 }

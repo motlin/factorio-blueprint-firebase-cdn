@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2lhaA2g",
   "lastUpdatedDate": 1735316855262,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Water/Steam Pressure Discord Reference Blueprint",
   "favorites": {
     "UnJlHkuhWpbRLB2Ppwl21PlKstj1": true,

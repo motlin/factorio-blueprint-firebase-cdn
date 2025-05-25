@@ -4,14 +4,14 @@
   "descriptionMarkdown": "It is an power indicator.",
   "lastUpdatedDate": 1551346832676,
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "5": "/version/0,15/",
-    "0": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,15/",
+    "/power/accumulator/"
+  ],
   "authorId": "79Z7LwsWe6aJj57pkUp3b17lMdm2",
   "fileName": "Factor1.png",
   "image": {

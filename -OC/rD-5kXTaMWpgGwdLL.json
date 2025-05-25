@@ -30,9 +30,9 @@
   "imageUrl": "https://imgur.com/QQJz4Yd",
   "lastUpdatedDate": 1732871979640,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/2,0/"
+  ],
   "title": "Nauvis 120 spm"
 }

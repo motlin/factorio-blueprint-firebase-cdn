@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
   "title": "Beaconable oil processing",
   "createdDate": 1552771287879,
   "descriptionMarkdown": "These have become my standard oil processing blueprints, for refineries and cracking plants. They leave enough room to insert beacons, once that becomes desirable.",

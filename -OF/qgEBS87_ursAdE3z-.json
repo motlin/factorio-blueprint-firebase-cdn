@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/MdtmUHG",
   "lastUpdatedDate": 1736084354603,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/other/"
+  ],
   "title": "9x5 bit storage bank"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1532138543307,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/train/left-hand-drive/",
-    "2": "/production/belt based/",
-    "3": "/production/smelting/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/left-hand-drive/",
+    "/production/belt based/",
+    "/production/smelting/"
+  ],
   "title": "8-16 Rail Iron Outpost 8x blue lanes"
 }

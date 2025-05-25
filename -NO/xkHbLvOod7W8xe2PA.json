@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1706138085952,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Throughput testing circuit."
 }

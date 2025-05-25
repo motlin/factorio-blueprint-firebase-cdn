@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1701198288298,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Circular 2x2 Reactor (480MW)",
   "favorites": {
     "FRCaETjyxeTtATHVVGP9r1KleMy2": true,

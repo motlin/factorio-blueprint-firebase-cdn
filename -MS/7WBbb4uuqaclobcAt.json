@@ -25,14 +25,14 @@
   },
   "lastUpdatedDate": 1717871686896,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/power/nuclear/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/",
-    "4": "/production/science/",
-    "5": "/production/rocket parts/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/power/nuclear/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/production/science/",
+    "/production/rocket parts/",
+    "/version/0,15/"
+  ],
   "title": "DragnMaws AIO Base"
 }

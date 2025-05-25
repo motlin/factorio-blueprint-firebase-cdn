@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9H5yYKh",
   "lastUpdatedDate": 1731614181053,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/planets/space-platform/"
+  ],
   "title": "ISV Unrefrigerated"
 }

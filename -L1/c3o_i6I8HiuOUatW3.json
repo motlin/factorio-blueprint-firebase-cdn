@@ -39,16 +39,16 @@
   },
   "lastUpdatedDate": 1515253064751,
   "numberOfFavorites": 55,
-  "tags": {
-    "6": "/production/science/",
-    "7": "/power/solar/",
-    "8": "/production/research (labs)/",
-    "1": "/version/0,15/",
-    "3": "/mods/bobs/",
-    "5": "/production/batteries/",
-    "0": "/production/electronic circuit (green)/",
-    "2": "/version/0,16/",
-    "4": "/mods/lighted-electric-poles/"
-  },
+  "tags": [
+    "/production/science/",
+    "/power/solar/",
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/mods/bobs/",
+    "/production/batteries/",
+    "/production/electronic circuit (green)/",
+    "/version/0,16/",
+    "/mods/lighted-electric-poles/"
+  ],
   "title": "Book: Bobs Mods - Blueprints"
 }

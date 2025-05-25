@@ -7,9 +7,9 @@
     "type": "image/jpeg",
     "width": 1360
   },
-  "tags": {
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "pFWW7uUk8ehNpNq9UQDsfPgWh1C2"
   },

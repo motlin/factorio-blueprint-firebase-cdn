@@ -7,13 +7,13 @@
     "type": "image/jpeg",
     "width": 915
   },
-  "tags": {
-    "3": "/mods/bobs/",
-    "4": "/mods/factorissimo/",
-    "0": "/mods/angels/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13"
   },

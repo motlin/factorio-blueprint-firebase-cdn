@@ -27,12 +27,12 @@
     "width": 1226
   },
   "lastUpdatedDate": 1581974809742,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/tileable/"
+  ],
   "title": "City Block",
   "author": {
     "userId": "AIcntTX1OZMNamKVOsQYxPr4Ocj1"

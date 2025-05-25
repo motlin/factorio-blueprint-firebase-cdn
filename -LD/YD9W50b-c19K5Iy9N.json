@@ -8,9 +8,9 @@
     "width": 208
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "title": "Factorio Auto Power Save Laser Turret Drone",
   "author": {
     "userId": "F3pe6BFZBgSjU5wq4uwNMoF54X43"

@@ -5,11 +5,11 @@
   "authorId": "v6XakptxuzOG2hQYFGWZA8XrlN62",
   "fileName": "1uikghkyu.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "[WIP] Red Science Mk1",
   "favorites": {
     "FV6Id9dw4ZOVcYtLPbJg0ITPASD2": true

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1634024947063,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/production/modules/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/production/modules/"
+  ],
   "title": "Late Game Smelting of Iron (Copper)",
   "favorites": {
     "TZLiDwJAi9ZAHyAyKN5AN8qblsz2": true,

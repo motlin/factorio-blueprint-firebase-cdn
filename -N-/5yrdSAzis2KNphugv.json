@@ -22,11 +22,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/train_book_thumb%20(Large).png?alt=media&token=26d5985e-c484-4ade-a7f8-fd4bec5d75ef",
   "lastUpdatedDate": 1670781534577,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/crossing/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "title": "1-2 Grid Aligned Block Train Book"
 }

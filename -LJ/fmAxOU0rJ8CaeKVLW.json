@@ -85,9 +85,9 @@
   },
   "lastUpdatedDate": 1534037901233,
   "numberOfFavorites": 109,
-  "tags": {
-    "1": "/belt/express transport belt (blue)/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/belt/balancer/"
+  ],
   "title": "Blue Belt Balancers"
 }

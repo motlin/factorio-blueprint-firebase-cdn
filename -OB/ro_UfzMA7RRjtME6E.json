@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/03kE6lV",
   "lastUpdatedDate": 1731808412853,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/factorissimo/"
+  ],
   "title": "MK1: Storage dynamic requested (recursive)"
 }

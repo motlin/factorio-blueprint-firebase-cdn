@@ -16,12 +16,12 @@
   },
   "numberOfFavorites": 2,
   "title": "Simple modular ore (iron plates) melting",
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "0": "/version/0,17/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/version/0,17/",
+    "/production/smelting/"
+  ],
   "authorId": "s9CSmS10dDfJ58wum6a8Y30Ksno1",
   "createdDate": 1584594038352,
   "descriptionMarkdown": "simple early game smelting\nin:\nore x 225 pcs/min\ncoal x 16,2 pcs/min\nout:\niron plate x 225 pcs/min\ncalculation:\nstone furnaces x 12 = 0,25 transport-belt load\nsteel furnaces x 12 = 0,5 transport-belt load",

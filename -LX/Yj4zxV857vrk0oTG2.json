@@ -21,12 +21,12 @@
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,
     "Q468f62FYhNojFWc4RbVSFPVnB92": true
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "createdDate": 1577926287470,
   "descriptionMarkdown": "A tileable sulphiric acid chemical plant.  \n\nIron plates are brought in via the horizontal belts or the logistic network."
 }

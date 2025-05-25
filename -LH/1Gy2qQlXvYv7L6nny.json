@@ -8,18 +8,18 @@
     "height": 456,
     "id": "8Neud8c"
   },
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/science/",
-    "2": "/production/electronic circuit (green)/",
-    "5": "/mods/vanilla/",
-    "8": "/version/0,17/",
-    "3": "/production/advanced circuit (red)/",
-    "4": "/general/tileable/",
-    "6": "/power/kovarex enrichment/",
-    "7": "/production/batteries/",
-    "9": "/production/smelting/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/science/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/advanced circuit (red)/",
+    "/general/tileable/",
+    "/power/kovarex enrichment/",
+    "/production/batteries/",
+    "/production/smelting/"
+  ],
   "title": "Book Of Dae 1.5",
   "favorites": {
     "AHk5NKO5riQVXIUrwOJQ3AoN76s2": true,

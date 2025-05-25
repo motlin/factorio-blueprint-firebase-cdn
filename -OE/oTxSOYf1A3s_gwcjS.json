@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/nBHzlGl",
   "lastUpdatedDate": 1734975082087,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/science/",
-    "2": "/general/beaconized/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "E/m Science Pack [240] SP/m",
   "favorites": {
     "pehRmNuQphSBCMpNKRwo4Sj2loA3": true

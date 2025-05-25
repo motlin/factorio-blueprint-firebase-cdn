@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/VakSuaP",
   "lastUpdatedDate": 1738967473122,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "T.R.A.C. (Tall Rectangles Are Cool)",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

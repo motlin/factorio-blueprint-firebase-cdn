@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1734886232034,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/power/nuclear/",
-    "3": "/production/uranium/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/version/2,0/"
+  ],
   "title": "Uranium Enrichment Process (2.0)",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

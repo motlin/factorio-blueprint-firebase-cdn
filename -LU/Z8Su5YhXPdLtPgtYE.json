@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/smelting/"
+  ],
   "title": "26_2/3 - Efficient Furnace",
   "descriptionMarkdown": "Converts a full red belt of iron or copper ore into a full belt of iron or copper plate.\n\n*Notes*\n- One red belt at the end because the belt if full right before but some ore makes it past the second last furnace. \nThis is the 1/3 item.\n- This was built with max inverter research. Your mileage may vary \n\nYou can read up on why it works out this way on the [wiki](https://wiki.factorio.com/Transport_belts/Physics#How_to_calculate_these_numbers_yourself)",
   "numberOfFavorites": 2,

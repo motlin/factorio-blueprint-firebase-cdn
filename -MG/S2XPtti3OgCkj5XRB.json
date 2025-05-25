@@ -33,11 +33,11 @@
   },
   "lastUpdatedDate": 1632649894142,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Belt balancers for factorio"
 }

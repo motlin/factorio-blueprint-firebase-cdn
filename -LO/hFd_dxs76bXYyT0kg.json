@@ -33,16 +33,16 @@
   },
   "lastUpdatedDate": 1730036329161,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/production/rocket parts/",
-    "5": "/version/0,16/",
-    "6": "/production/belt based/",
-    "7": "/general/late game (megabase)/",
-    "8": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/rocket parts/",
+    "/version/0,16/",
+    "/production/belt based/",
+    "/general/late game (megabase)/",
+    "/general/compact/"
+  ],
   "title": "120 Science/min (2 Science/sec) belt / bus ) version 0.16"
 }

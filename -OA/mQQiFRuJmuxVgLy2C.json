@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/KdS7CYy",
   "lastUpdatedDate": 1730644487049,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Midgame Aquilo Ship",
   "favorites": {
     "96VnmmSscIgjrpv28Qlcs4E2Vog1": true,

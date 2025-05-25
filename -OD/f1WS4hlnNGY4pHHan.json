@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/mSpH30N",
   "lastUpdatedDate": 1733741655428,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Factory",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

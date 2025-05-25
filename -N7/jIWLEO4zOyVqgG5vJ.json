@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1658651023101,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/"
+  ],
   "title": "25 Solar + 21 Accumulators + 1 Substation (square)",
   "favorites": {
     "fDsBSfzolPNlaTN0GBhbTlcxNOT2": true,

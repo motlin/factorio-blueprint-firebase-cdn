@@ -7,9 +7,9 @@
     "type": "image/png",
     "width": 1921
   },
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "title": "factorio 1.0 сталь",
   "numberOfFavorites": 0,
   "author": {

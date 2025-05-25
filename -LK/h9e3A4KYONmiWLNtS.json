@@ -19,8 +19,8 @@
   "descriptionMarkdown": "4 lane 4 way rail intersection ",
   "fileName": "4-way 4-lane.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  }
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ]
 }

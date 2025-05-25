@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/HUHJgmQ",
   "lastUpdatedDate": 1738868016465,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/power/solar/"
+  ],
   "title": "Solar panel vulcanos",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

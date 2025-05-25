@@ -5,12 +5,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202017-07-26%20at%2012.03.09%20AM.png?alt=media&token=f77930b8-c20d-4b52-a26e-9ff5e283a3d5",
   "lastUpdatedDate": 1501049115590,
   "numberOfFavorites": 18,
-  "tags": {
-    "1": "/production/logistic (bot) based/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/modules/"
+  ],
   "author": {
     "userId": "UjRU9MVCaGN783efjgTFuLtCAYi2"
   },

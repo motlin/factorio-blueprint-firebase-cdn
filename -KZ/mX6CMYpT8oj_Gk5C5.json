@@ -8,12 +8,12 @@
     "width": 613
   },
   "lastUpdatedDate": 1511603774857,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/inserters/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/inserters/",
+    "/general/compact/"
+  ],
   "title": "Compact ultimate constructor",
   "favorites": {
     "2qx4Rs4zxvcm2tmBEXvO5aCiuXC2": true,

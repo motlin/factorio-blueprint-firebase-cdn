@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/8IMxiOS",
   "lastUpdatedDate": 1734477618559,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/mid game/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/mid game/",
+    "/general/early game/"
+  ],
   "title": "85-90 processing units (blue circuits) per minute. early-mid",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

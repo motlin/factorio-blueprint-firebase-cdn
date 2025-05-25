@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1619614180429,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Double 2x3 Tileable Nuclear Reactor",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/025c3ab3-0397-4f55-9b77-d76a3e1b6c10.jfif?alt=media&token=d2c3553c-c29a-49a4-8bd7-33409496fdd4",
   "favorites": {

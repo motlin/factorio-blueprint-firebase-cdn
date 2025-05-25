@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/qPBbm3n",
   "lastUpdatedDate": 1732074520820,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Basic upgrade quality",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

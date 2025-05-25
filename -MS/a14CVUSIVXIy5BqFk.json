@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1641370558378,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/"
+  ],
   "title": "Infinity Rainbow"
 }

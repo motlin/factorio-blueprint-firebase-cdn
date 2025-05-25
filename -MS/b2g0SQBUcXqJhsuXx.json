@@ -16,8 +16,8 @@
     "width": 290
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/version/0,15/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/version/0,15/"
+  ]
 }

@@ -7,12 +7,12 @@
     "id": "sjzkbTo"
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "fileName": "Barreled Uranium.png",
   "lastUpdatedDate": 1529790504053,
   "title": "Uranium Outpost Trainstops Using Barreled Acid",

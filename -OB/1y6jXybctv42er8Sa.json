@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/b9sFTjw",
   "lastUpdatedDate": 1730922165668,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "electromagnetic science (4.68s)",
   "favorites": {
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,

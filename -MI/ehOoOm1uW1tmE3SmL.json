@@ -9,12 +9,12 @@
   },
   "lastUpdatedDate": 1601665605080,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/rocket parts/"
+  ],
   "authorId": "v6XakptxuzOG2hQYFGWZA8XrlN62",
   "createdDate": 1601665605080,
   "descriptionMarkdown": "The most optimized system",

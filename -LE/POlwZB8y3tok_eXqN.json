@@ -24,7 +24,7 @@
     "type": "image/png",
     "width": 226
   },
-  "tags": {
-    "0": "/belt/balancer/"
-  }
+  "tags": [
+    "/belt/balancer/"
+  ]
 }

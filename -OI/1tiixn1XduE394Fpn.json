@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/wqmY8fx",
   "lastUpdatedDate": 1738443542725,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/",
-    "2": "/power/nuclear/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/power/nuclear/",
+    "/belt/express transport belt (blue)/",
+    "/production/guns and ammo/"
+  ],
   "title": "Aquilo cargo ship",
   "favorites": {
     "ZCdZvG7ntGbzG03U81dfaiGrInP2": true,

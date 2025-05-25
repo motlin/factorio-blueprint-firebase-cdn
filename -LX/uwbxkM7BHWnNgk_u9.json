@@ -4,11 +4,11 @@
   "lastUpdatedDate": 1578315710558,
   "title": "100 Chemical (Blue) Science Per Minute",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/mid game/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/mid game/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
     "HCHPmUGeZgNcpvrxwhmbHrCBz0h2": true,

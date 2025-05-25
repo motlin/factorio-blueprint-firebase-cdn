@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1630266793972,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Beaconized Heavy oil cracking"
 }

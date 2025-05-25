@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1635016956702,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/general/beaconized/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/logistic (bot) based/",
+    "/general/beaconized/",
+    "/version/1,0/"
+  ],
   "title": "400spm all science using bots"
 }

@@ -16,13 +16,13 @@
     "userId": "rttBVFr4TcdZAV3hll3Cr22Hlqy1"
   },
   "fileName": "Blues.png",
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/compact/",
-    "4": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/",
+    "/belt/express transport belt (blue)/"
+  ],
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "yREsQF4mipWMSpSrv8g5OZ8G8T92": true

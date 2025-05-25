@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/AqyOi9k",
   "lastUpdatedDate": 1731877432027,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "random midgame stuff"
 }

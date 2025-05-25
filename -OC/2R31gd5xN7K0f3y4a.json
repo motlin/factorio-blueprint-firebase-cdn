@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/mkkQMM9",
   "lastUpdatedDate": 1732037067373,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "6 Digit Numeric Display",
   "favorites": {
     "XoxQvUYQxTgjjeBNmbca9KYabEi2": true,

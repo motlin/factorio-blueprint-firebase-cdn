@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/752_48_corev112.png?alt=media&token=97050404-0d07-480d-bf45-df2c61793413",
   "lastUpdatedDate": 1645258920602,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "7.52GW 48 Cell Nuclear Reactor by 1x4x9"
 }

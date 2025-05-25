@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1626351631779,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Mercado 8ª etapa",
   "favorites": {
     "EHq6ScQTiEQ5eA17OCvRtoZzC323": true,

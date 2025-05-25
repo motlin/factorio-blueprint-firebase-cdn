@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Ar5KcZH",
   "lastUpdatedDate": 1736908073215,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Little Sushi Book by GEEKA"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701146009218,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Very Earlygame Long hand Inserters/Inserters/Miners/Assembling Machines",
   "favorites": {
     "FRCaETjyxeTtATHVVGP9r1KleMy2": true,

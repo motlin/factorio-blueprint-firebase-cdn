@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1640037666544,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "Big Research With Transmission towers",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20211220170054_1.jpg?alt=media&token=3a0d8278-197a-4fb0-8844-a07585ce0562",
   "favorites": {

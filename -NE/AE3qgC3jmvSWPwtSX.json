@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1665562070993,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "Chunk alined rail set"
 }

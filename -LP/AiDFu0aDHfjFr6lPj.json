@@ -3,10 +3,10 @@
     "userId": "lq21OXMYllaYMEm2xypGLM9Z7AC2"
   },
   "createdDate": 1539942442184,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true
   },

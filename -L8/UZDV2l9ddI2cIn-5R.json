@@ -1,11 +1,11 @@
 {
   "authorId": "0hl206XAZDYNRafblxoYAZbgj9W2",
   "createdDate": 1522021755044,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "lastUpdatedDate": 1522021755044,
   "numberOfFavorites": 4,
   "title": "Small Speed Module 3 factory - 6/m",

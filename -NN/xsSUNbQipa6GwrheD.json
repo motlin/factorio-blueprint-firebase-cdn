@@ -50,13 +50,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202024-01-12%20191223.png?alt=media&token=bb89830a-6e67-46f1-865e-33f975d0878d",
   "lastUpdatedDate": 1709689664395,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/production/science/",
-    "4": "/production/mall (make everything)/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/production/science/",
+    "/production/mall (make everything)/",
+    "/general/mid game/"
+  ],
   "title": "Compact Base in a Box ElderAxe Railblock Version 2.0.1"
 }

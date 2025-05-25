@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "these 2 prints are my 90 Degree turn for splicing in new lines onto a bus OR existing conveyor.",
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "MF4LJqVrHwbHkWS2TAbyPAvlAkf2": true,
     "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,

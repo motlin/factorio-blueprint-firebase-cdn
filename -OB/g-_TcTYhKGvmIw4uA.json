@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/6mC9NJj",
   "lastUpdatedDate": 1731610171438,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "LazyWorldGrid"
 }

@@ -28,12 +28,12 @@
   },
   "lastUpdatedDate": 1613471943711,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Blocks 010: Smelting"
 }

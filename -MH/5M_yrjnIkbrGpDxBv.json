@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1628973195386,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/mid game/"
+  ],
   "title": "Astatide's Red Circuits",
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,

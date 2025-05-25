@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1656351974813,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/steam/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/steam/",
+    "/power/solar/"
+  ],
   "title": "Power plants"
 }

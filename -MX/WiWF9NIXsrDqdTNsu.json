@@ -25,11 +25,11 @@
   },
   "lastUpdatedDate": 1617621030207,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/"
+  ],
   "title": "Blocks 026: Oil Refining"
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/sxOgDgI",
   "lastUpdatedDate": 1745868584784,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/mods/space-age/"
+  ],
   "title": "Parameterized Electromagnetic assembler",
   "favorites": {
     "kLMtD5uc6OWFba41X69kgESA1Fn1": true,

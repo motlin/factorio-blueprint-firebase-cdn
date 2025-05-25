@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/KqdYTtz",
   "lastUpdatedDate": 1735002233663,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/elevated-rails/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/elevated-rails/"
+  ],
   "title": "Elevated Rail in ",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,

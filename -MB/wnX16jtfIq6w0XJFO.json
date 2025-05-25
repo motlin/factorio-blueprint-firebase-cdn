@@ -44,21 +44,21 @@
   },
   "lastUpdatedDate": 1594453008652,
   "numberOfFavorites": 20,
-  "tags": {
-    "1": "/production/belt based/",
-    "5": "/production/robots/",
-    "6": "/production/uranium/",
-    "8": "/production/rocket parts/",
-    "2": "/production/belts/",
-    "7": "/power/kovarex enrichment/",
-    "9": "/production/smelting/",
-    "10": "/production/mall (make everything)/",
-    "11": "/general/beaconized/",
-    "12": "/mods/vanilla/",
-    "3": "/production/guns and ammo/",
-    "4": "/production/inserters/",
-    "0": "/general/late game (megabase)/",
-    "13": "/version/0,15/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/robots/",
+    "/production/uranium/",
+    "/production/rocket parts/",
+    "/production/belts/",
+    "/power/kovarex enrichment/",
+    "/production/smelting/",
+    "/production/mall (make everything)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/production/inserters/",
+    "/general/late game (megabase)/",
+    "/version/0,15/"
+  ],
   "title": "Everything you need 3.0 (0.18 Mall, crafts over 120 different items from ores to endproducts) [ENDGAME] [#stoleandupgraded]"
 }

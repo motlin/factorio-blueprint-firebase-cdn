@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1632651155045,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear reactor 480MW",
   "favorites": {
     "hFbzQKbNcZaMmqGDU3nK80k4Uiq1": true,

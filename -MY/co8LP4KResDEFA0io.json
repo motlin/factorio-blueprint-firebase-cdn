@@ -25,20 +25,20 @@
   },
   "lastUpdatedDate": 1647804722635,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/1,0/",
-    "2": "/mods/other/",
-    "3": "/train/crossing/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/junction/",
-    "6": "/train/track/",
-    "7": "/train/loading station/",
-    "8": "/train/unloading station/",
-    "9": "/general/tileable/",
-    "10": "/general/chunk aligned/",
-    "11": "/general/late game (megabase)/",
-    "12": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/1,0/",
+    "/mods/other/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/tileable/",
+    "/general/chunk aligned/",
+    "/general/late game (megabase)/",
+    "/power/accumulator/"
+  ],
   "title": "Chunk Aligned Mega Factory Building \"Blocks\""
 }

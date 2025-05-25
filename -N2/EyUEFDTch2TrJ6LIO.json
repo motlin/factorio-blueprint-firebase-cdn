@@ -16,10 +16,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220517060856_1.jpg?alt=media&token=1001dce4-6c43-4afe-88cd-9d3e56845c9e",
   "lastUpdatedDate": 1652757019359,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "melting furnaces",
   "favorites": {
     "3kOljLXzQ4UiOGRyNojqbMn5CVy2": true,

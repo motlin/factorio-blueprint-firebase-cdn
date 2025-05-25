@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697732926146,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/version/1,1/"
+  ],
   "title": "Plastic 45/s"
 }

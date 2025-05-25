@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1641160221618,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Factorio Made to Measure Uranium",
   "favorites": {
     "hxT0z5l5qxTtC9LJiUj834Pogsy1": true,

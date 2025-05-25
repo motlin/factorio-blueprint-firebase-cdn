@@ -16,10 +16,10 @@
   },
   "lastUpdatedDate": 1511370794798,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/production/oil processing/"
-  }
+  "tags": [
+    "/power/steam/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ]
 }

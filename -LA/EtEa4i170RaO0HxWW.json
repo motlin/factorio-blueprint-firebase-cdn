@@ -16,9 +16,9 @@
   "lastUpdatedDate": 1523906312728,
   "createdDate": 1523906312728,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ]
 }

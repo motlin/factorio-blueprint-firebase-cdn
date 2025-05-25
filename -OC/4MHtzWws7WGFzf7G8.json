@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/raS2wcj",
   "lastUpdatedDate": 1732035554992,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/version/0,15/"
+  ],
   "title": "The Icebreaker",
   "favorites": {
     "nKnIo8pmZjVuf336C2oaYTD4ofq1": true,

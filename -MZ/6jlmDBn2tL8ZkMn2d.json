@@ -66,11 +66,11 @@
   },
   "lastUpdatedDate": 1680008651571,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/aai/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/aai/",
+    "/production/mall (make everything)/",
+    "/mods/space-exploration/"
+  ],
   "title": "Fully modular Mall Design v1.0 for Krastorio 2 AND Space Exploration/AAI - Rahbek/Valyrin/Revingbell/Troley"
 }

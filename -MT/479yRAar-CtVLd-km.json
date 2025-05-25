@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Rail%20Grid%202.png?alt=media&token=94979202-aaf5-48bc-9bf4-752f94641177",
   "lastUpdatedDate": 1694868913869,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/train/stacker/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/train/stacker/"
+  ],
   "title": "DEPRECATED Rail Grid for 1-1-1 trains"
 }

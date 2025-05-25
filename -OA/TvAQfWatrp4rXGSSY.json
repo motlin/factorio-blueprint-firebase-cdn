@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/11gxE5n",
   "lastUpdatedDate": 1730316992851,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Space platform - minimum waste",
   "favorites": {
     "gZZEIowIsaNS7q4xKKXu9KR4Zti2": true,

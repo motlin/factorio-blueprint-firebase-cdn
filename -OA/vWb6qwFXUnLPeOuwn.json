@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GW3SktW",
   "lastUpdatedDate": 1730796813216,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "4 Fusion reactor",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

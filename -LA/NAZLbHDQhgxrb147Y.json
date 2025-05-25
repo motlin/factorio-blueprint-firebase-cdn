@@ -31,10 +31,10 @@
   },
   "lastUpdatedDate": 1553036363576,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "authorId": "wHTFLzSuTrOthuCxBPxeTj1uiE23"
 }

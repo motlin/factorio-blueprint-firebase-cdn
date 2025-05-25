@@ -15,11 +15,11 @@
   "descriptionMarkdown": "It's a jumbo red circuit tileable blueprint. I left in the RoboPort even though it throws the balance of the tile off and makes my OCD go crazy. \n\n<a href=\"https://imgur.com/qaOkUau\"><img src=\"https://i.imgur.com/qaOkUau.jpg\" title=\"source: imgur.com\" /></a>",
   "fileName": "Annoying Mega Red Circuit.jpg",
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/",
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/advanced circuit (red)/"
+  ],
   "authorId": "Y4laicCYyCS2cegtnyYFmpamNhO2"
 }

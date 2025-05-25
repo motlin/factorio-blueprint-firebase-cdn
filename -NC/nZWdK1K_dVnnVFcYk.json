@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1693084046025,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "Smelter Array (w metered coal)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/managedsmelter2.PNG?alt=media&token=ec2cffc5-6d26-42d7-bb5f-b085a1f25576",
   "favorites": {

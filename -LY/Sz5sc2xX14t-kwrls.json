@@ -16,11 +16,11 @@
   },
   "createdDate": 1549912534827,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/chunk aligned/"
+  ],
   "favorites": {
     "CNCGWlyPd0cIJPC9fCN1JEFWczm2": true,
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,

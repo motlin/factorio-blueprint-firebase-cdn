@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1531194637235,
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/mods/angels/",
-    "0": "/mods/bobs/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,16/"
+  ],
   "title": "T.Bootstrap (Raw)"
 }

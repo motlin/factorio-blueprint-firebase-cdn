@@ -16,10 +16,10 @@
   "authorId": "yjMxBYJzUfNYpOqSR9xVCKKcASR2",
   "descriptionMarkdown": "No robots, all belts. Two belt types required. Blue and red for max output. Beacons/Modules.\n\nTakes the following inputs in blue belts (top to bottom)\n0.5 red circuits, 1 stone brick, 1 steel, a few green circuits, 2 iron. Turns them into 300 production science per minute.\n\nBasically produces all of the exotic ingredients not used in any other recipe in one place. >95% efficiency.",
   "lastUpdatedDate": 1509834554204,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

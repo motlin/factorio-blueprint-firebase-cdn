@@ -1,13 +1,13 @@
 {
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/version/0,15/",
-    "5": "/version/0,17/",
-    "6": "/general/compact/",
-    "0": "/general/mid game/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,15/",
+    "/version/0,17/",
+    "/general/compact/",
+    "/general/mid game/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2x2 Idiot-Proof Smart Reactor",
   "fileName": "factorio_CFuFCcnc1E.jpg",
   "image": {

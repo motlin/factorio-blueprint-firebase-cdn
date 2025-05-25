@@ -13,16 +13,16 @@
   "imageUrl": "https://imgur.com/tGOKJkV",
   "lastUpdatedDate": 1736048193904,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/solar/",
-    "2": "/mods/space-age/",
-    "3": "/general/mid game/",
-    "4": "/general/early game/",
-    "5": "/general/compact/",
-    "6": "/mods/vanilla/",
-    "7": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/solar/",
+    "/mods/space-age/",
+    "/general/mid game/",
+    "/general/early game/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "“The Skipper” Early planet exploration and cargo ship",
   "favorites": {
     "S23UPGTu0qdJzFJWAO6jPZopr6E2": true,

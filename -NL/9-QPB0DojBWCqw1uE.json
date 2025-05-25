@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1702122823852,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "title": "[WIP]Mining station control unit(front input)",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

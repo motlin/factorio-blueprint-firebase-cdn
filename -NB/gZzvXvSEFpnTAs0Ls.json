@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1662900240245,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Red Circuit Block",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

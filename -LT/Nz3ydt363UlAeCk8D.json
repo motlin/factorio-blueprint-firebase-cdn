@@ -6,11 +6,11 @@
   "fileName": "Screenshot 2018-12-10 at 17.33.36.png",
   "lastUpdatedDate": 1544460811739,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "hZIhC9XaFxZRKAmIyYPqTYRPd0X2"
   },

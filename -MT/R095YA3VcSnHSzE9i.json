@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1642221314519,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Sushi Mall",
   "favorites": {
     "dKODuSYcovXizxj35jj50cbJWlz2": true

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/1ZUHSHO",
   "lastUpdatedDate": 1731082458996,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Parametric Autocraft Module",
   "favorites": {
     "kjnQFEJKRdY8NO0XLpmnJzKljth2": true,

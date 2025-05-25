@@ -49,10 +49,10 @@
   "imageUrl": "https://imgur.com/EHQ2EDb",
   "lastUpdatedDate": 1731333931586,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/combat/offense/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/combat/offense/"
+  ],
   "title": "Promethium Mega-Hauler"
 }

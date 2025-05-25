@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1648904849098,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/1,0/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/1,0/",
+    "/mods/other/"
+  ],
   "title": "6x Cart Solid Provider Station"
 }

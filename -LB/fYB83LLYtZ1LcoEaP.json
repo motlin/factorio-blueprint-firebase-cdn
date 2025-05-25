@@ -13,13 +13,13 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/mods/other/",
-    "3": "/version/0,16/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/other/",
+    "/version/0,16/",
+    "/production/belt based/"
+  ],
   "title": "Mud & Sulfide Gas Production Plant for SeaBlock",
   "favorites": {
     "SUj2NShlk3bzYdDibJ24Ndmazdu2": true,

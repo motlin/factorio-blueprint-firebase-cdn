@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/creative/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/creative/",
+    "/version/0,15/"
+  ],
   "descriptionMarkdown": "hi filling space",
   "fileName": "yellow.PNG",
   "image": {

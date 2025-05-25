@@ -4,11 +4,11 @@
   "fileName": "1sfastbelts.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1sfastbelts.png?alt=media&token=f2b751fb-0cda-4e58-b0c7-f6d816b25c96",
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/belts/",
+    "/mods/vanilla/"
+  ],
   "title": "Late game Fast Belts 1/s",
   "author": {
     "userId": "iVKRUA0lMVMqTQYTj4EEoew060D3"

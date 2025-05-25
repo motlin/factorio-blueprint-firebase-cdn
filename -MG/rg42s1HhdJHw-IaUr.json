@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/CAMPEP.jpg?alt=media&token=6a6b4fc4-12b1-4c77-a97b-c8c5860a3ac3",
   "lastUpdatedDate": 1599759825449,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/production/inserters/",
-    "0": "/production/belts/",
-    "1": "/production/belt based/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/belts/",
+    "/production/belt based/"
+  ],
   "title": "Product-Production Systems Book v0.1"
 }

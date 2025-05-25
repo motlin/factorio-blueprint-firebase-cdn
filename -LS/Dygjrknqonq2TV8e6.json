@@ -8,12 +8,12 @@
   "createdDate": 1572209347767,
   "descriptionMarkdown": "This is a \"fixed\" version of Haphollas automated supply, request and depo stations. The stations must be connected with red wires for this to work. Attach the red wire to the big electric poles in each station.\n\nReplace all \"fishes\" in the circuit logic in the supply and request stations and the fish in the locomotive train schedule with the goods type you want to transport, eg iron or copper ore or oil or... \n\nAlso change the \"Fish\" word in the station name of both the supply and request stations to \"Iron\", \"Copper\", or something else. Do this after placing down the locomotive that is part of the request station blue print. This way its train schedule gets updated with the new names automatically.\n\nAdjust the train length to 4, 6 or 1 for the trains you have for this goods type in the stations' constant combinator.\n\nBoth the supply and request stations need chests to store outgoing and incoming ore in. All chests in the station must be connected with red wires to the nearest medium electric pole (see picture). Set the request station max storage capacity in one of the constant combinators. \n\nAlso oil and other fluids can be transported. Replace chests with tanks for this purpose.\n\nNilaus made an excellent demo video on Haphollas automated train network. Check out https://www.youtube.com/watch?v=v4VgZv35yUI&t=385s\n\nThis fixed version handles the case when you have 2 request stations for the same goods type better, since it closes the request station that do not request a load to come in.\n\nLater when you have 2 or more trains transporting the same goods, there will be another problem. Both trains may run for the same delivery job. The second may get stuck behind the train that gets there first.\n\nThis problem is partly handled by this version, by closing down both the supply and request station when a train stops there to load or unload (even in the case when there are several train loads available). If you give the second train an \"escape\" route back when it stands just outside the closed station, there will be no risk of trains piling up making them block the main train tracks in the train backbone.\n\nCheck out [Automated Stations, Version 3](https://factorioprints.com/view/-LtKV9Ogyp-RgMX2-MeJ) that makes sure that every cargo wagon can be unloaded at the request station.",
   "fileName": "Request_Supply_Depo.png",
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,17/"
+  ],
   "image": {
     "width": 1812,
     "height": 564,

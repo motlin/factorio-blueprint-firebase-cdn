@@ -12,12 +12,12 @@
   },
   "lastUpdatedDate": 1535377513639,
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "authorId": "4kRVaOxGFzgi2WyDdGp7v3m4Zpu2",
   "createdDate": 1535377389090,
   "descriptionMarkdown": "A high beacon green circuit layout.\n\n~0.77 bb copper plates + ~0.72 bb Iron plates -> 1.0 bb green circuits\n(bb = blue belt)\n\n4 Input lines of copper and iron should thus be able to supply 5 lines (not tested).\n\nThe copper wire assembler run on 12 beacons, the left (right) green circuit assembler on 12 (11) with 2 (1) efficiency module(s) mixed in to reduce overproduction and stalls.\n\nEfficiency modules are only (just about) worth it when the beacon effects at least 2 assemblers - for a boundary line with no line neighboring on the top (bottom) or a standalone line, it would thus be more efficient to remove the top (bottom) beacon with the efficiency module and replace the efficiency module in the shared bottom (top) beacon with a speed module.\n\nPower poles are not optimized for tiling.\n\nInput is not lane balanced.\n",

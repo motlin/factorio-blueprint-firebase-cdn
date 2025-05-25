@@ -5,9 +5,9 @@
   "createdDate": 1507592627267,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/25439000.png?alt=media&token=031090a6-2e00-4133-9466-264bf21bd5e2",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "title": "LTN Depot Example",
   "favorites": {
     "X6rrsw6FG5O4AbE4goX8fwWWoJJ3": true,

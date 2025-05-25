@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/7qhmhCM",
   "lastUpdatedDate": 1747335929476,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/fulgora/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Fulgora, Scrap to Mall",
   "favorites": {
     "jtSu6Om1Q3O6AAZyQYAmb4uQpyk2": true,

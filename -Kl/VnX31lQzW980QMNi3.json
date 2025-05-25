@@ -21,10 +21,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170518162909_1.jpg?alt=media&token=0a6e3dbb-1f4e-47f0-a500-ab247affd431",
   "lastUpdatedDate": 1499345587459,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "8railway + junction"
 }

@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "ptgjDR57hNcKEjZuyROyfcVj5EP2": true,
     "TkGb01GEBLQChOI8qEUGLLPjlng1": true,

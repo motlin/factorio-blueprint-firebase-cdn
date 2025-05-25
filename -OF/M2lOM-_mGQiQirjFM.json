@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/D5K47xe",
   "lastUpdatedDate": 1735591342258,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Autonomous radar",
   "favorites": {
     "5ZFkcXvKJiaIN3DBRLaCVH3b7Wg2": true,

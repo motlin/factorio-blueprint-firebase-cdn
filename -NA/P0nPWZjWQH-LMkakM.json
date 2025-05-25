@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1661515282556,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/general/early game/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/general/tileable/"
+  ],
   "title": "FULL BELT YELLOW (15/S)",
   "favorites": {
     "t17Xg52hPfZef4jy7Gp0R73wtdg1": true

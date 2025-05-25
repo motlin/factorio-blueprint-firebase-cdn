@@ -29,10 +29,10 @@
   },
   "lastUpdatedDate": 1535724375298,
   "numberOfFavorites": 30,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/version/0,16/"
+  ],
   "title": "Swamp's End Game Science"
 }

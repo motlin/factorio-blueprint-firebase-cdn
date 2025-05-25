@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1705797472775,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/belt/express transport belt (blue)/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Factorio 2.0 Belt Zip",
   "favorites": {
     "XovAECZBrKNzTGIK5XuvNx3erSF2": true

@@ -21,8 +21,8 @@
   },
   "lastUpdatedDate": 1552884269178,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Bot-based Mall (Makes Everything) 0.17"
 }

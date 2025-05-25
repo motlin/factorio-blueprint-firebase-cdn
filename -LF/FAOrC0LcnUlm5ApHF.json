@@ -15,12 +15,12 @@
     "width": 1920
   },
   "lastUpdatedDate": 1558270811749,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/ltn/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/ltn/",
+    "/version/0,17/"
+  ],
   "title": "LTN Solid Fuel outpost",
   "favorites": {
     "df5Qxi6zf4UqQeFdApyRhi3RvNY2": true,

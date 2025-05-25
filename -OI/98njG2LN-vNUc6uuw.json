@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/C4Mr1Ww",
   "lastUpdatedDate": 1738558356788,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "Yellow Belt balancers",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

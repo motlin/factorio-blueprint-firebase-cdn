@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GbXVn0J",
   "lastUpdatedDate": 1718856188041,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/other/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/other/",
+    "/general/tileable/"
+  ],
   "title": "Advanced Chainable Thrifty Kovarex"
 }

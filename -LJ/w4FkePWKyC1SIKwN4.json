@@ -19,8 +19,8 @@
   "createdDate": 1534311337256,
   "lastUpdatedDate": 1534311337256,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "0": "/version/0,16/"
-  }
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,16/"
+  ]
 }

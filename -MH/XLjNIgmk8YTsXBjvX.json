@@ -30,11 +30,11 @@
   },
   "lastUpdatedDate": 1610897259668,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/belt based/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/belt based/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "500 SPM Dense Belted"
 }

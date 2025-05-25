@@ -3,9 +3,9 @@
   "descriptionMarkdown": "A Compact Speed Module Factory (it can be easily coverted to other types)\n\nAs long as you keep it fed it will bang these out all day long at a nice rate.",
   "fileName": "Speed Module Factory.PNG",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Speed Module Factory",
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"

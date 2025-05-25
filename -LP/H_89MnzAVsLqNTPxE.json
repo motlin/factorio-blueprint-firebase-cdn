@@ -3,9 +3,9 @@
   "createdDate": 1540057502449,
   "descriptionMarkdown": "Radar and 4 laser guns powered by 25 solar panels and 30 accumulators",
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar Powered Outpost",
   "author": {
     "userId": "3COlQeee0sM0P1QK0t4RRUKWMIj2"

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/BTM0Bgy",
   "lastUpdatedDate": 1732815660418,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/train/loading station/"
+  ],
   "title": "Circuit to control delivery of rocket part components",
   "favorites": {
     "sfRnxFoxGjPvyPxLEoh754u6Dnk2": true,

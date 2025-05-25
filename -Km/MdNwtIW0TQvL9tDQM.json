@@ -15,11 +15,11 @@
     "userId": "aBNFlY6pz6XoIvi6rtOUOPQTy832"
   },
   "lastUpdatedDate": 1497356253871,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Labs setup (no daisy chain, with modules and beacons)",
   "numberOfFavorites": 5
 }

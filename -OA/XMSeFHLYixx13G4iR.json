@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zEqu7Ej",
   "lastUpdatedDate": 1730374654803,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Self-sufficient spaceship without circuits or high-quality parts",
   "favorites": {
     "ndQqIRdx2kSPa686XO6QmCKyf2g1": true,

@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/general/tileable/",
-    "5": "/production/belt based/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/general/tileable/",
+    "/production/belt based/"
+  ],
   "author": {
     "userId": "KHiVNgd8hhOuc9SwS2OqGYE00JA3"
   },

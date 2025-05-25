@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1632734163065,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Module panneaux solaire",
   "favorites": {
     "DFb3VsY6aAdGDUwAAzRjyBAWGf43": true

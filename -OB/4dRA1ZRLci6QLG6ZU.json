@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/jBqM8qf",
   "lastUpdatedDate": 1730967901156,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Self sufficient transport",
   "favorites": {
     "N9N2cY5oVqY0apy4LprpAxs5AQr2": true

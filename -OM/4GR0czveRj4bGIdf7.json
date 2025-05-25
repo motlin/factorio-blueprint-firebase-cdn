@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CzTVIbI",
   "lastUpdatedDate": 1743037742787,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/track/"
+  ],
   "title": "2.0 Celtic Knot"
 }

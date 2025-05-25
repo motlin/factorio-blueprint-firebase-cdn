@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1650842756548,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "2-lane 8-way Intersection based on Multicross"
 }

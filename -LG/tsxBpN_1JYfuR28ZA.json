@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1531054090340,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Red green science only copper and iron",
   "favorites": {
     "enWCaHke5FNS56MIccnBw47htAj1": true,

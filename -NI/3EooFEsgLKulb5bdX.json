@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1678296187810,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/crossing/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/",
+    "/train/track/"
+  ],
   "title": "trains by traincrisis",
   "favorites": {
     "1xgeKYRfHEfWDLNF1B7u3bsfcPG2": true,

@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1688001017642,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/version/1,1/",
-    "5": "/production/belt based/",
-    "6": "/general/tileable/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/production/belt based/",
+    "/general/tileable/"
+  ],
   "title": "Batteries - 700 / min"
 }

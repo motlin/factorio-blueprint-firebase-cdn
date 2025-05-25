@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1684680306442,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Late game 8 belt electronic/green circuits"
 }

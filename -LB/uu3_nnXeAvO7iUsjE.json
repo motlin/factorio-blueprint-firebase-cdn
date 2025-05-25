@@ -8,9 +8,9 @@
     "type": "image/png",
     "width": 559
   },
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "116MW Reactor",
   "favorites": {
     "lzrV0g9tutPbsc99g7t2PmWc1v43": true,

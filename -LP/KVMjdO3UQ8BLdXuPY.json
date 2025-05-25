@@ -17,10 +17,10 @@
     "type": "image/png",
     "width": 1920
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/advanced circuit (red)/"
+  ],
   "favorites": {
     "ZUsUX6xYrYMNmaFxQWwlprMIoyS2": true,
     "fDyCRDSy69g12Ok050FmGyYqY4u1": true,

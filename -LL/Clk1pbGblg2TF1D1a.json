@@ -16,10 +16,10 @@
   "authorId": "d2QqujKww5YNmOi1doebyWWgk3n1",
   "createdDate": 1535681954053,
   "descriptionMarkdown": "Inspired by this [tileable geode washing blueprint](https://factorioprints.com/view/-LHyjlKZ0kD1I7TdqfaN). After being too intimidated by the recipe for advanced circuits I instead spent way too much time creating a way to wash geodes that doesn't involve the advanced circuits or fancy alloys. \n\nThe robobox and robohub seem to need around 400 cargo robots mk 1 on average, I tossed in 400 and it seems to consistently use 350/400, peaking to around 380/400 in some cases. Ceramic filters are required, I gave 3 per filtration plant and it seems to work pretty well. \n\nDesigned for Seablock 0.2.13.",
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "favorites": {
     "PM5Go7TwvgbPIwaVQjdLByGS7qt1": true,
     "1JnuGI3XcYdMdQcvXLZGXuNqbDm1": true,

@@ -23,10 +23,10 @@
   "imageUrl": "https://imgur.com/UxYbzKF",
   "lastUpdatedDate": 1746259839160,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "1.8K spm science mega-block"
 }

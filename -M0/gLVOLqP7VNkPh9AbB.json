@@ -25,9 +25,9 @@
     "type": "image/jpeg",
     "width": 1641
   },
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/train/track/"
+  ],
   "title": "Straight, 4 lanes wide"
 }

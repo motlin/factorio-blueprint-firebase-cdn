@@ -15,10 +15,10 @@
   "createdDate": 1553104385395,
   "lastUpdatedDate": 1553113056123,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "4 Ore Sorting",
   "favorites": {
     "xCBpZdXAdZgfy555ezZv4gDjGy53": true,

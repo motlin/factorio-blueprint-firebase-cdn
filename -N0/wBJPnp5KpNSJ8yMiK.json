@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1651351046428,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "item counter",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true

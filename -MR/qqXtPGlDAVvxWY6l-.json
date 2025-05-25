@@ -11,9 +11,9 @@
     "type": "image/jpeg",
     "width": 798
   },
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "favorites": {
     "ub0iEtNIVqVuJDIIVHdezrooiVY2": true,
     "myKkEdt0hhOHWsNcLz8YB00q37B2": true,

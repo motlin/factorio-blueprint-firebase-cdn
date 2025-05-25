@@ -10,10 +10,10 @@
   },
   "descriptionMarkdown": "So the idea here is to bring in your coal from one side, mine being the right and then in this example have both copper and iron ore coming in from the left. This setup relies on only coal power and is great for early game. It can also be upgraded to electric as there is space for power poles to be inserted. ",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/"
+  ],
   "title": "Early on Smelting",
   "author": {
     "userId": "TjBxN3JBiZNEvVbzKkaKyGqJpBm2"

@@ -31,11 +31,11 @@
   },
   "lastUpdatedDate": 1673610792022,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/mods/vanilla/",
-    "2": "/general/storage/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/general/storage/",
+    "/version/1,1/"
+  ],
   "title": "Smart storage"
 }

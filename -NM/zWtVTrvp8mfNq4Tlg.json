@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1675029354594,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-exploration/"
+  ],
   "title": "Nuclear setup 20 Reactors Space Exploration"
 }

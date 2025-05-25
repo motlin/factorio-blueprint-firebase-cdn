@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/JQON69x",
   "lastUpdatedDate": 1730408810040,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "ChadWagon starting Space Platform/Ship",
   "favorites": {
     "gd5KKi1sLATT780GH57SWabfvgF3": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/BMNzoL1",
   "lastUpdatedDate": 1729711526604,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/science/"
+  ],
   "title": "Basic Space Science (White Science) Platform",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,

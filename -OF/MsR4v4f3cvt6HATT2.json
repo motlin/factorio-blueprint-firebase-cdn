@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/n3jm8h0",
   "lastUpdatedDate": 1735567461822,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "navius science 1/s"
 }

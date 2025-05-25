@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/B121k4n",
   "lastUpdatedDate": 1730653658578,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/unloading station/"
+  ],
   "title": "Train drop off station for generic schedules",
   "favorites": {
     "mFHJQ8DxUIetqW3WUmvdyqeWMz32": true,

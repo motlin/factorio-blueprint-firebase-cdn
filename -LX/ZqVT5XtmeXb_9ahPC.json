@@ -14,11 +14,11 @@
     "userId": "JTLMRNMtziOJRYr3SewFjwx9MU33"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/production/uranium/"
+  ],
   "title": "Uranium Manager v2",
   "favorites": {
     "to2knkQXfSe5jDpViSu6wjbhZJQ2": true,

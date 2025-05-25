@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621178825161,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/krastorio/",
+    "/mods/other/"
+  ],
   "title": "Planta de quarts e sílica",
   "favorites": {
     "apot99FcYSQNL8oLlSYQ4xpnj8n1": true

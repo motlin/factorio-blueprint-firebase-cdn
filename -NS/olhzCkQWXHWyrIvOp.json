@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1681291403450,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/train/loading station/"
+  ],
   "title": "Fuel changer"
 }

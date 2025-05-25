@@ -2,11 +2,11 @@
   "descriptionMarkdown": "T junction, 4 lanes wide",
   "fileName": "Screenshot from 2020-02-22 10-57-51.png",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "authorId": "iaOSq3Bxv6M0MPzTYnOUYpmUJQs1",
   "createdDate": 1582365508135,
   "image": {

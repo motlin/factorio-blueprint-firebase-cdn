@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/RbSe9eQ",
   "lastUpdatedDate": 1730283865050,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "USS Voyager"
 }

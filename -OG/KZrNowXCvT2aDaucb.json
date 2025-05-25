@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/kRua41d",
   "lastUpdatedDate": 1736602569930,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/",
+    "/general/early game/"
+  ],
   "title": "Green Science Mall"
 }

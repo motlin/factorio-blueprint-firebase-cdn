@@ -28,10 +28,10 @@
   },
   "lastUpdatedDate": 1560168017302,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/other/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/other/",
+    "/mods/ltn/"
+  ],
   "title": "City of trains"
 }

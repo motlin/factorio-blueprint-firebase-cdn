@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/yOoul9Y",
   "lastUpdatedDate": 1729936538631,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "2.0 4 Way Intersection",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

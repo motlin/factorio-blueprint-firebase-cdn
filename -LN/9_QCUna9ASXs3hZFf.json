@@ -8,16 +8,16 @@
     "width": 1728
   },
   "lastUpdatedDate": 1538274598238,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/compact/",
-    "4": "/general/storage/",
-    "5": "/train/stacker/",
-    "6": "/train/unloading station/",
-    "7": "/belt/balancer/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/general/storage/",
+    "/train/stacker/",
+    "/train/unloading station/",
+    "/belt/balancer/",
+    "/mods/vanilla/"
+  ],
   "numberOfFavorites": 4,
   "title": "YAMATO's Diagonal Station",
   "author": {

@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/bpokr1Z",
   "lastUpdatedDate": 1741262996348,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Mall basic test 0.1"
 }

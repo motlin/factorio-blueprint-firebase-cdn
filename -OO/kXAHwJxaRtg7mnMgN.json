@@ -23,12 +23,12 @@
   "imageUrl": "https://imgur.com/nvm7LvB",
   "lastUpdatedDate": 1747234325716,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/production/electronic circuit (green)/",
-    "4": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Cloudiboy’s Late Game Green/Red/Blue"
 }

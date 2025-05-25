@@ -81,13 +81,13 @@
   "imageUrl": "https://imgur.com/S0gPMM4",
   "lastUpdatedDate": 1737989130376,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/planets/vulcanus/",
-    "2": "/planets/gleba/",
-    "3": "/planets/aquilo/",
-    "4": "/planets/space-platform/",
-    "5": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/gleba/",
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Ship for all planets"
 }

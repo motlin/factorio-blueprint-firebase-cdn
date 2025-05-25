@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/rTkzwfS",
   "lastUpdatedDate": 1733707200679,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/power/nuclear/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Nuclear",
   "favorites": {
     "11o67rL7N1dLaULE2eBjzVXoldK2": true,

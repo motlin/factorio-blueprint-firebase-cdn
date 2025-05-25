@@ -21,8 +21,8 @@
   },
   "lastUpdatedDate": 1615821299815,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/pax/"
-  },
+  "tags": [
+    "/train/pax/"
+  ],
   "title": "Basic 4 lane train city block"
 }

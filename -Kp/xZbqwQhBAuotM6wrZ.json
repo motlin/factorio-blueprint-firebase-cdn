@@ -1,13 +1,13 @@
 {
   "createdDate": 1501050338855,
   "numberOfFavorites": 9,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/production/other/",
-    "4": "/version/0,15/",
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/compact/",
+    "/production/other/",
+    "/version/0,15/",
+    "/general/late game (megabase)/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/RoboAcid.png?alt=media&token=46d6263a-d2cd-4d40-850f-b6fdfa04bc0e",
   "lastUpdatedDate": 1501101494265,
   "author": {

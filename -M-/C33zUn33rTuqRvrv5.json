@@ -22,11 +22,11 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/roundabout/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/roundabout/",
+    "/train/junction/"
+  ],
   "author": {
     "userId": "4fOpmMaNOyfhNMKL7oJDE17Igag2"
   },

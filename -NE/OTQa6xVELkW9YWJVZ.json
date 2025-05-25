@@ -41,9 +41,9 @@
   },
   "lastUpdatedDate": 1694792019742,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/space-exploration/"
+  ],
   "title": "SPACEEX Blueprint for SE"
 }

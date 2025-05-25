@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1667846490049,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/unknown/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/unknown/",
+    "/version/0,15/"
+  ],
   "title": "Nonature.fact"
 }

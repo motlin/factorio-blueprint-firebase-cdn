@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/UQYBrVT",
   "lastUpdatedDate": 1730148596500,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/version/2,0/"
+  ],
   "title": "Robot-based simple factory ( Parametrised )",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

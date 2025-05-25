@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1643367291706,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Reator de antimatéria",
   "favorites": {
     "sJXXbMLBU2NZwoY119QC2xf9IQF3": true

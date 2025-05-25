@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/0v2VZ1T",
   "lastUpdatedDate": 1741679213748,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/general/beaconized/"
+  ],
   "title": "Vulcanus Coal Liquefaction (Beaconed) - 1000 Petroleum Gas/s",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true

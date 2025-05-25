@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/pbQEbDc",
   "lastUpdatedDate": 1730725679829,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/vulcanus/",
-    "2": "/production/science/",
-    "3": "/mods/vanilla/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/vulcanus/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Metallurgic science pack (tileable) 72/min - 720/min",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

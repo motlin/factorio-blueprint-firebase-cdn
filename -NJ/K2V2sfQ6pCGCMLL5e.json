@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1700086546888,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/general/chunk aligned/"
+  ],
   "title": "protocol's chunk aligned rails"
 }

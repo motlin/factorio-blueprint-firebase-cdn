@@ -16,10 +16,10 @@
   "createdDate": 1613762069902,
   "descriptionMarkdown": "Run a condition on a given signal.\nOutput value B if condition is true, otherwise, output value A.",
   "fileName": "Screen Shot 2021-02-19 at 14.13.20 .png",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true
   }

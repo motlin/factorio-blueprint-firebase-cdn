@@ -11,11 +11,11 @@
     "type": "image/jpeg",
     "width": 883
   },
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "City Block Stations",
   "createdDate": 1499458997513,
   "descriptionMarkdown": "Train stations from the Nilaus Summer Community Map\n",

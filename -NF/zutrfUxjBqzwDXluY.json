@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1696510832806,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/"
+  ],
   "title": "Belt merger",
   "favorites": {
     "X62XRCzUveaEJfUtYOALUITXp953": true,

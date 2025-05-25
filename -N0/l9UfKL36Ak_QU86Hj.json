@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1651166018409,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Smelting Workshop",
   "favorites": {
     "jr8BlPW3LzZ1e3g1boFEvX7gUED2": true

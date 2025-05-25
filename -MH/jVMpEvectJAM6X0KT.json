@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1629663362529,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/tileable/"
+  ],
   "title": "Laser Turret Defense ",
   "favorites": {
     "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,

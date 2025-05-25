@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/imagem_2022-12-20_154729780.png?alt=media&token=5e194895-d947-4f26-be02-114ff2d2b437",
   "lastUpdatedDate": 1671562055784,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Battleship e nave exploradora"
 }

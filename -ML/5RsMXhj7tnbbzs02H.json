@@ -497,10 +497,10 @@
   },
   "lastUpdatedDate": 1729523141941,
   "numberOfFavorites": 258,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Raynquist's Belt Balancers Fall 2024"
 }

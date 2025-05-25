@@ -16,13 +16,13 @@
     "height": 811
   },
   "lastUpdatedDate": 1601593951257,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/general/beaconized/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "title": "SUPER COMPACT tileable smelting blueprint",
   "author": {
     "userId": "5dslNdnI4ESNtTV0jJbSNuvElB42"

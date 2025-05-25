@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Four Cores - Nuclear Power",
   "authorId": "fOnMnENgbFffhqtGz0DzSzPW7Gw2",
   "fileName": "Nuclear.PNG",

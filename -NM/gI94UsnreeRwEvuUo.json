@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1674706723334,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "32 blue belt smelter city block"
 }

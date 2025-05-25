@@ -67,11 +67,11 @@
   },
   "lastUpdatedDate": 1739582499817,
   "numberOfFavorites": 41,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/circuit/indicator/",
-    "2": "/general/tileable/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/circuit/indicator/",
+    "/general/tileable/",
+    "/version/2,0/"
+  ],
   "title": "(Un)Necessary Complex Rocket Silo (Space Age)"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1708637095035,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/combat/offense/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/combat/offense/",
+    "/mods/vanilla/"
+  ],
   "title": "Spidertron botless Automation"
 }

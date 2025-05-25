@@ -5,11 +5,11 @@
     "type": "image/jpeg",
     "width": 985
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "compact gray science pack",
   "favorites": {
     "7OZBvEkw5sZttM2lJHDmkpvRTdE3": true,

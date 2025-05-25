@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/not-detailed.png?alt=media&token=ba1abe81-6dc9-4983-94a6-d457ab7337c9",
   "lastUpdatedDate": 1505296918546,
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/train/unloading station/",
-    "2": "/circuit/indicator/",
-    "3": "/version/0,15/",
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/circuit/indicator/",
+    "/version/0,15/",
+    "/train/loading station/"
+  ],
   "title": "General train-based smelter station"
 }

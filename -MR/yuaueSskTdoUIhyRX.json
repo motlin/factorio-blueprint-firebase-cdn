@@ -9,13 +9,13 @@
   },
   "lastUpdatedDate": 1624743584635,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/train/junction/",
-    "3": "/train/left-hand-drive/",
-    "4": "/train/track/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/junction/",
+    "/train/left-hand-drive/",
+    "/train/track/"
+  ],
   "author": {
     "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"
   },

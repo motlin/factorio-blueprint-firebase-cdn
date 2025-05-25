@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/rVdqRXY",
   "lastUpdatedDate": 1734285686168,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/production/belt based/"
+  ],
   "title": "Belt weaving storage",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

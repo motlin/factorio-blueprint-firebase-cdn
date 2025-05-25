@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/T3uJ7e8",
   "lastUpdatedDate": 1731788910133,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/space-age/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "A small on-site direct-to-molten miner",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

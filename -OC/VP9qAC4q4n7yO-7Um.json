@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/SqER3Tr",
   "lastUpdatedDate": 1732489562805,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/production/uranium/"
+  ],
   "title": "Uran235 Production",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

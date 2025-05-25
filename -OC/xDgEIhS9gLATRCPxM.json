@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/AP1vf9i",
   "lastUpdatedDate": 1732974102974,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "22.5G Fusion power",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

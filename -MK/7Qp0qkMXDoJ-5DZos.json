@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1632229085344,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/other/",
-    "3": "/version/1,0/",
-    "4": "/production/belt based/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/production/other/",
+    "/version/1,0/",
+    "/production/belt based/",
+    "/mods/vanilla/"
+  ],
   "title": "Engine 1k per minute"
 }

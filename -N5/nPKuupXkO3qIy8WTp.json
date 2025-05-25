@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1656572436310,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Red Science",
   "favorites": {
     "hnvRS8Z2WjTNjxtHx6aKleAKxPO2": true,

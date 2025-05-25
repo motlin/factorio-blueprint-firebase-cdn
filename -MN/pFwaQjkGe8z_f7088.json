@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1636202433060,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Defender drone production"
 }

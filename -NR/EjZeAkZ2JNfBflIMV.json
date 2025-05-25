@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1708662555439,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/train/roundabout/",
-    "2": "/train/junction/",
-    "3": "/version/0,15/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "MY SAVE BOT BOT",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/14124.png?alt=media&token=accc2bd5-23ae-4b97-b683-017e804045fc",
   "favorites": {

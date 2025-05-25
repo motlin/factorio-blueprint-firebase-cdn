@@ -1,13 +1,13 @@
 {
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/robots/",
-    "2": "/version/0,16/",
-    "3": "/version/0,17/",
-    "4": "/general/beaconized/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/robots/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "8piyQvdaCqMwXRElDA0BC1IrgzE2"
   },

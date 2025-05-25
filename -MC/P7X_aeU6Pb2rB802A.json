@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1623936084504,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/0,15/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/0,15/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Bob's higher tier of inserters",
   "favorites": {
     "iK2kVinIQQP3vx2H1Q2yKX62JEB2": true,

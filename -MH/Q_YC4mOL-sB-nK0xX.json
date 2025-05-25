@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1629329175674,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,0/"
+  ],
   "title": "2x8 Nuclear Power Plant"
 }

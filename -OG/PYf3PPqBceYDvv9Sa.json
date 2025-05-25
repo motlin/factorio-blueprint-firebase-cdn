@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/jsAmgBt",
   "lastUpdatedDate": 1737070584773,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/space-age/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/space-age/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Space Age MALL in an assembler",
   "favorites": {
     "3tSHhyxKIsSVjm2mSjZMIIouyvG3": true,

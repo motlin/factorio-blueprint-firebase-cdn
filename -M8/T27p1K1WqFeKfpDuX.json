@@ -23,12 +23,12 @@
     "width": 1573
   },
   "lastUpdatedDate": 1590715895080,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/version/0,18/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,18/",
+    "/mods/vanilla/"
+  ],
   "title": "Desliner's Build Train Load/Unload 0.2",
   "author": {
     "userId": "f8KHDmm1OagrsWn5QnseIUxK8Hl2"

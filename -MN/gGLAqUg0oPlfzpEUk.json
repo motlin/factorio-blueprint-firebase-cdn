@@ -27,8 +27,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/rocketttst.png?alt=media&token=6881fe01-414c-48cc-85e2-216713b363ef",
   "lastUpdatedDate": 1608190121186,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "1000 Science/Min \"THE BOX\" - logistics robot based"
 }

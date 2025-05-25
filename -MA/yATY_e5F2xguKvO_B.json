@@ -8,11 +8,11 @@
     "height": 528
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "IbpV4kn3HjMWyjZU8KMvIGLIPRH2": true
   },

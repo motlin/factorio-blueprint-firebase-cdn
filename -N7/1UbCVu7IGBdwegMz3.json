@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1657899221395,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/krastorio/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/krastorio/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/"
+  ],
   "title": "Green Circuits for 2-12-2 trains Krastorio 2"
 }

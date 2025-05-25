@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/90jzW0F",
   "lastUpdatedDate": 1731334794342,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Crusher extension",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true

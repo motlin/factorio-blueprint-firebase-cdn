@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/tPP2U6y",
   "lastUpdatedDate": 1731358875430,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Universal crusher",
   "favorites": {
     "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,

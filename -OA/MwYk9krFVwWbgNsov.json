@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ahQSDRC",
   "lastUpdatedDate": 1730199829697,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Fulgora Scrap Metal Auto-Sort",
   "favorites": {
     "dTfWfYu1KIVCKEfNP4wuladcWB63": true,

@@ -16,9 +16,9 @@
   "fileName": "2018-08-08_17-15-56.png",
   "lastUpdatedDate": 1533732023573,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/bobs/",
-    "2": "/mods/other/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/mods/bobs/",
+    "/mods/other/"
+  ]
 }

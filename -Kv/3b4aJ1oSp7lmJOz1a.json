@@ -10,12 +10,12 @@
     "width": 1783
   },
   "numberOfFavorites": 46,
-  "tags": {
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/guns and ammo/"
+  ],
   "favorites": {
     "ydC3Kt06eITe72r63yzNHzo5FPE3": true,
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,

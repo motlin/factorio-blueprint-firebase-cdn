@@ -16,8 +16,8 @@
   "imageUrl": "https://imgur.com/mRs5HUG",
   "lastUpdatedDate": 1714404865675,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "Rail block"
 }

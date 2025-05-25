@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/kKHCv8Q",
   "lastUpdatedDate": 1730545413940,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "The Jebediah, ",
   "favorites": {
     "CDX0HSQEcPhkxC27wGKRYSrHgGx2": true,

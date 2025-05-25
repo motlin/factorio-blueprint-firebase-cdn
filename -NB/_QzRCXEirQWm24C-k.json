@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1691771467727,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "cheater rocket",
   "favorites": {
     "M1H1eE2FpvP5bwBrcvIZPEPDNBG3": true

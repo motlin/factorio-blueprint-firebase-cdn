@@ -24,14 +24,14 @@
   },
   "lastUpdatedDate": 1564502097891,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/production/science/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/general/late game (megabase)/",
-    "6": "/general/tileable/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "20k/min Chemical Science Pack"
 }

@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1680797339461,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mining/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mining/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/version/0,15/"
+  ],
   "title": " In-line Mining NARROW STILE Series",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,

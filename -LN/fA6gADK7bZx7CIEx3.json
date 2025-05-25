@@ -15,11 +15,11 @@
   "createdDate": 1567313656650,
   "descriptionMarkdown": "2-6 Train loading balancer.",
   "fileName": "factorio_2019-08-31_23-53-41.png",
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/train/loading station/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/train/loading station/",
+    "/version/0,17/"
+  ],
   "title": "2-6 Train Loader",
   "favorites": {
     "IJQ0mWXucjMQDRDZGezolqYPf603": true,

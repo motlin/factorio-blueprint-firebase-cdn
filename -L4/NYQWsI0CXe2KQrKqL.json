@@ -35,10 +35,10 @@
   },
   "lastUpdatedDate": 1604656793478,
   "numberOfFavorites": 52,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "64 blue belt in/out furnace outpost including loading and unloading stations (LTN)"
 }

@@ -12,10 +12,10 @@
   "descriptionMarkdown": "sirve para visualizar uso de ciencias por medio de luces \n\nit serves to visualize the use of science by means of lights\n\n",
   "fileName": "apc.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
     "MEfdCvaPLcYMLkIEHjFvojXGDpq1": true,

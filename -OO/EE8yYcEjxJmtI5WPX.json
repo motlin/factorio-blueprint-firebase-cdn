@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/hMfpRJ1.png",
   "lastUpdatedDate": 1745087496858,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/",
+    "/general/compact/"
+  ],
   "title": "Compact Bot Mall",
   "favorites": {
     "FVj6g7wBsXOg0HlofTQeqAItW142": true,

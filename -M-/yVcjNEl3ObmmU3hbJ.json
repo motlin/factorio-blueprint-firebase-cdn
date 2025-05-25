@@ -26,12 +26,12 @@
   },
   "lastUpdatedDate": 1581596708870,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/train/unloading station/",
-    "4": "/train/stacker/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/train/unloading station/",
+    "/train/stacker/"
+  ],
   "title": "Trains stations setup for futur megabase"
 }

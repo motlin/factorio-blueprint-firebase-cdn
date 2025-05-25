@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1695138198202,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/1,1/"
+  ],
   "title": "Tileable Logistic and Radar Coverage",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

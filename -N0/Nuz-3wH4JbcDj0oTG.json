@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1650759299141,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/lighted-electric-poles/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/"
+  ],
   "title": "SE | K2 - Item Stack Size Encoder",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

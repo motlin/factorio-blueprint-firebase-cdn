@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1673381091592,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/mods/vanilla/",
-    "2": "/train/junction/",
-    "3": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "4 Lane LHD Rails (3s)",
   "favorites": {
     "v0iVqNiHSrd2IGQ7a2JNru0GEfy1": true,

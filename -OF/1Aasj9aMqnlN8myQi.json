@@ -18,11 +18,11 @@
   "imageUrl": "https://imgur.com/iMbLlxI",
   "lastUpdatedDate": 1735203386689,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/space-exploration/",
-    "2": "/planets/space-platform/",
-    "3": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Spaceship"
 }

@@ -25,10 +25,10 @@
   "descriptionMarkdown": "## Topics\n- **Not required logistic chest & robots**\n  - This BP is usable in blue science pack era\n- **yellow belts enough**\n\n## Features\n### Save Fuel\n<img src=\"https://i.gyazo.com/bbf24959c210bb7dcfea9ba09bf3b888.jpg\" width=\"100%\">\n\nWhile stored steam enough to keep power generation, inserters stop refueling.\nThese tanks are able to store 1M steam as 97GJ thermal energy.\n(If nuclear fuels were run out of your factory, the plant could keep running 200sec)\n\n<img src=\"https://i.gyazo.com/0d1e2405fef1d47d1591374af128f97b.jpg\" width=\"100%\">\n\nOf course, the inserter will refuel only one bottle at a time, when there is enough nuclear fuel and the remaining amount of stored steam is low.\nIn this case, the inserter will watch for 200 seconds and refill the fuel depending on the status of the storage.\n\n## User Interface\n\n<img src=\"https://i.gyazo.com/4c5e2fbedae4192f9431fdc2950e3daf.jpg\" width=\"100%\">\n\n- **Battery Bar**: Stored Steam Amount (0% 〜 100%)\n- **Progress Bar**: Progress burning fuel (200sec)\n- **Configuration Constants**: Settings circuit constants\n\n#### Settings defaults\n\n| Refuel Steam Rate (L) | Refuel Interval (W) | Tanks (Tank) |\n| ---: | ---: | ---: |\n|50 (%) |200 (sec) |40|\n\n## Specs\n\n| Power Generation | Battery Capacity (Steam) | Overral Heat Capacity | Max Water Consumption |\n| --- | --- | --- | --- |\n| 480MW | 97GJ | 86.4GJ | 5.95/s (4 offshore pump) |",
   "fileName": "スクリーンショット 2020-12-26 1.15.14.png",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

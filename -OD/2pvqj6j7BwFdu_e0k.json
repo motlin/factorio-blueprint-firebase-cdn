@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/wBcOBbm",
   "lastUpdatedDate": 1733083774523,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "[Space Age] Quad core fusion reactor",
   "favorites": {
     "XIixK4FJsGNW473Crm5GO3Wnx7A2": true,

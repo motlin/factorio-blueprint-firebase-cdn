@@ -10,11 +10,11 @@
   },
   "title": "1-2 LTN Provider Station",
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/angels/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/angels/",
+    "/train/loading station/"
+  ],
   "author": {
     "userId": "fT38Z6GbzAbsvBag4Dw8e6EESSw1"
   },

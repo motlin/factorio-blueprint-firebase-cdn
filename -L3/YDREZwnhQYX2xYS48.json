@@ -16,13 +16,13 @@
     "height": 847
   },
   "numberOfFavorites": 93,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/compact/"
+  ],
   "favorites": {
     "78H2kadyj0cdigv7rjQFxXPbdXx1": true,
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,

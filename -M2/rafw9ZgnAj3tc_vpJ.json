@@ -6,17 +6,17 @@
     "width": 1162
   },
   "lastUpdatedDate": 1602421531645,
-  "tags": {
-    "6": "/version/0,17/",
-    "3": "/production/inserters/",
-    "4": "/production/belt based/",
-    "5": "/production/belts/",
-    "7": "/version/0,18/",
-    "8": "/version/1,0/",
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/inserters/",
+    "/production/belt based/",
+    "/production/belts/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Early Mall v5",
   "favorites": {
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,

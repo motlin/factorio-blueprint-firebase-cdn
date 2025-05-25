@@ -39,11 +39,11 @@
   },
   "lastUpdatedDate": 1555445891081,
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "LTN outpost ore > green circuits"
 }

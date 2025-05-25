@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1638927516993,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "title": "Uranium Enrichment Beaconed",
   "favorites": {
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,

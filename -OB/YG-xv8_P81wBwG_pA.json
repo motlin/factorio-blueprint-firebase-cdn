@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/o41NjVx",
   "lastUpdatedDate": 1732503860283,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba - mini base",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

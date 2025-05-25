@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "4": "/general/late game (megabase)/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "2700spm advanced circuits",
   "favorites": {
     "8h4IJgxNSReiCyoWDH6XzBe1GcQ2": true,

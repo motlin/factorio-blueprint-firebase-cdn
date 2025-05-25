@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2UMoks4",
   "lastUpdatedDate": 1731182519096,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "multi-signal memory cell",
   "favorites": {
     "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,

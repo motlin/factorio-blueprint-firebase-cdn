@@ -54,12 +54,12 @@
   },
   "lastUpdatedDate": 1609909313713,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/early game/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "title": "Rescovedo's Base Book (There is no Spoon)"
 }

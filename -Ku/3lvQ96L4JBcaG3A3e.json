@@ -9,11 +9,11 @@
   "createdDate": 1505466234740,
   "descriptionMarkdown": "- symmetrical design\n- can be placed symmetrically on other side\n- red belts\n- Modular",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Modular%20green%20circuit%20production.png?alt=media&token=bdd6bf2d-aaf8-4c7c-a8c8-9dc75f9933da",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Modular green circuit production",
   "fileName": "Modular green circuit production.png",
   "image": {

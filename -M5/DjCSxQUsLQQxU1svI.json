@@ -7,10 +7,10 @@
   },
   "lastUpdatedDate": 1587237673241,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/science/"
+  ],
   "favorites": {
     "QAaFoQIZyLR6A1klwlMV2YDNviw1": true,
     "crI6zzSiYqUk4Wfe0jYmQa3mYc52": true,

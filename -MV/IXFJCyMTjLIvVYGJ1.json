@@ -15,12 +15,12 @@
   "createdDate": 1615235450175,
   "descriptionMarkdown": "My blueprint.",
   "fileName": "Sm_M-L_Duugrim.png",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Red Electro-smelter with modules",
   "favorites": {
     "MsvijdKJ6fWWBCx2JDxH6fVL4Kk2": true,

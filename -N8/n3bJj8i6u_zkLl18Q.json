@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1659787965970,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/power/nuclear/",
-    "2": "/mods/bobs/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/power/nuclear/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": "Power and support"
 }

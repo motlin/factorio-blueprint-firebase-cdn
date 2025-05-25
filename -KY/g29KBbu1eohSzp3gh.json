@@ -3,11 +3,11 @@
   "descriptionMarkdown": "Makes Level 3 modules.  Beacons optional.  Add artifacts to the chest on the right.  The two incoming belts on the left need to be half green circuits and half red circuits.  The split belt on the right needs to be half red circuits and half blue circuits.",
   "numberOfFavorites": 9,
   "title": "Module Flower",
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "RywQ5CvOsCVpBiNRQy658uqSBZ03"
   },

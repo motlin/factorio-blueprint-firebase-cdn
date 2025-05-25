@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/4aQtsZE",
   "lastUpdatedDate": 1733507238248,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/planets/aquilo/"
+  ],
   "title": "Battlecruiser",
   "favorites": {
     "NeMRPocSpRYzoFV8zkXACWf3A6e2": true,

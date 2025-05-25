@@ -24,9 +24,9 @@
   "imageUrl": "https://imgur.com/bfwPIig",
   "lastUpdatedDate": 1736915236741,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Platform"
 }

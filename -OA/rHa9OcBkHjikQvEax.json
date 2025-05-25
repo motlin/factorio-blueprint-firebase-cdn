@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/FWociJL",
   "lastUpdatedDate": 1730725700997,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Early game supply spaceships"
 }

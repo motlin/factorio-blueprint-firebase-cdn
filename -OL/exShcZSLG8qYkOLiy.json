@@ -56,11 +56,11 @@
   "imageUrl": "https://imgur.com/t4tIXhW",
   "lastUpdatedDate": 1747583910685,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/nauvis/",
-    "2": "/version/2,0/",
-    "3": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/nauvis/",
+    "/version/2,0/",
+    "/planets/vulcanus/"
+  ],
   "title": "Rail Blocks (SpaceAge) v2.12"
 }

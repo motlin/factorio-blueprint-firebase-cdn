@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/gpWNyxE",
   "lastUpdatedDate": 1745891380696,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Expandable Fish Farm",
   "favorites": {
     "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,

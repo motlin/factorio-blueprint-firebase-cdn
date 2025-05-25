@@ -9,10 +9,10 @@
     "type": "image/jpeg",
     "width": 2076
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,16/"
+  ],
   "title": "480MW 4-core Nuclear Plant",
   "favorites": {
     "bLSNBxaDOhgPGALrThBBVL7PoVK2": true,

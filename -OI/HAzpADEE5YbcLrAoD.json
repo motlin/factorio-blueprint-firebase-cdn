@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/d5RoAa9",
   "lastUpdatedDate": 1738693394520,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/science/"
+  ],
   "title": "Tiny gleba base 530spm 99% fresh",
   "favorites": {
     "ZCdZvG7ntGbzG03U81dfaiGrInP2": true,

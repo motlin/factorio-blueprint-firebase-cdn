@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/LvnqA52",
   "lastUpdatedDate": 1739913276553,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/other/"
+  ],
   "title": "10 biter eggs / second",
   "favorites": {
     "QUM9TtUvsnWwqJOc58IiQKxCYER2": true,

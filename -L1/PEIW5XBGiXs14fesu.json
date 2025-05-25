@@ -16,12 +16,12 @@
     "type": "image/png",
     "width": 672
   },
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "xY9rEKNEQMbXOOplxstm479GMBc2": true,
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,

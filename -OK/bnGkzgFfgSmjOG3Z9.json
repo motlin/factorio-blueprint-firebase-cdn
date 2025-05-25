@@ -13,13 +13,13 @@
   "imageUrl": "https://i.imgur.com/WUtT88c.jpeg",
   "lastUpdatedDate": 1741203250389,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/research (labs)/",
-    "2": "/version/2,0/",
-    "3": "/production/belt based/",
-    "4": "/production/science/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/research (labs)/",
+    "/version/2,0/",
+    "/production/belt based/",
+    "/production/science/"
+  ],
   "title": "BioLabs, 12 belts, 8 beacon, easy scalable, MAZE",
   "favorites": {
     "eroEvjGuHYN5ZZJfArjtqpAW57V2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Wff9WoV",
   "lastUpdatedDate": 1731672769886,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/"
+  ],
   "title": "All 12 Science Packs Lab Blueprint",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

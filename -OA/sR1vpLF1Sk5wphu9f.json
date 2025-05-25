@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dVTpD8V",
   "lastUpdatedDate": 1730744954706,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/roundabout/"
+  ],
   "title": "Elevated roundabout for train",
   "favorites": {
     "rjX1jyDqfuYBfhHV0XmmPo56SG73": true,

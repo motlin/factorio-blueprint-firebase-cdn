@@ -19,10 +19,10 @@
   "descriptionMarkdown": "Blue Arm, Steel Furnace, convoyer MK1 thats all!",
   "fileName": "farm_thanos.png",
   "lastUpdatedDate": 1612977981602,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Smelter MK1!"
 }

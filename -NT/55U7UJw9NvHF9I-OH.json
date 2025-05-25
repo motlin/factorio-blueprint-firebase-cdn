@@ -28,9 +28,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ska%CC%88rmavbild%202023-08-03%20kl.%2014.03.45.png?alt=media&token=38cc8d03-07a8-425c-84df-3bdb96082f2d",
   "lastUpdatedDate": 1691096756034,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Circuit book"
 }

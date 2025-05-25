@@ -9,9 +9,9 @@
     "type": "image/jpeg",
     "width": 2078
   },
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "favorites": {
     "cByatOhUAHUgaJD5RCWBqX0f5mm1": true,
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,

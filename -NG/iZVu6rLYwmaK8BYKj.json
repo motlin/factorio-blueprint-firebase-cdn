@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1668458303794,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/power/solar/",
-    "2": "/production/robots/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/power/solar/",
+    "/production/robots/"
+  ],
   "title": "Mon livre de plan"
 }

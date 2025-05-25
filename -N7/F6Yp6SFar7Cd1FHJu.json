@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1658127793531,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Speed modules",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true

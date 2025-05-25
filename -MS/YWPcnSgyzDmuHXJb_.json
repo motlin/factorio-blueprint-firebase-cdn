@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/production/mall (make everything)/",
-    "3": "/production/belt based/",
-    "4": "/production/inserters/",
-    "5": "/production/belts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/production/inserters/",
+    "/production/belts/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/longmallwip1.PNG?alt=media&token=0be06496-5fdc-4f8b-b7bb-afea7e1af2ea",
   "authorId": "ub0iEtNIVqVuJDIIVHdezrooiVY2",
   "createdDate": 1612282440286,

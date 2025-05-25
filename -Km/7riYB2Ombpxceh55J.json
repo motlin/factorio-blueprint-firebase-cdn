@@ -7,10 +7,10 @@
     "width": 363
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/cocrete%20plan.jpg?alt=media&token=cc1c9ad2-c72e-4931-9869-e00237bf5718",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Concrete production",
   "favorites": {
     "SikiwpSlUzZ6fvjsI83p0IPEZCo2": true,

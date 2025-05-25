@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1616856474191,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Mixed item train launcher"
 }

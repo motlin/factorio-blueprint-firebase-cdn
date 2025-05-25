@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/60jbBzu",
   "lastUpdatedDate": 1729206942535,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Compact Input Balanced 180SPM All Science",
   "favorites": {
     "HOSPsjyKxEgL0M8dQp4qYyTZwX12": true,

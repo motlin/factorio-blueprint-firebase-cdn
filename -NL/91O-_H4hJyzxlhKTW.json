@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1702049190120,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/left-hand-drive/"
+  ],
   "title": "[WIP]Wall Compendium"
 }

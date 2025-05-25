@@ -15,11 +15,11 @@
   "fileName": "alt.png",
   "lastUpdatedDate": 1586359168475,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/early game/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "favorites": {
     "Xm1fKyqX6Neb5GzNlMfdeVF9M0w2": true,
     "snzidC5rPQY7mnnz5wwPgoTAO5p2": true,

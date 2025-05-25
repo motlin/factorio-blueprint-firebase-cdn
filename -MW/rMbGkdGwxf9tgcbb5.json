@@ -21,9 +21,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Modular%20Rails.png?alt=media&token=764f283c-bcfa-4c72-9f53-745d271929a4",
   "lastUpdatedDate": 1637261742228,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/version/1,0/"
+  ],
   "title": "4 Lane Modular Rails"
 }

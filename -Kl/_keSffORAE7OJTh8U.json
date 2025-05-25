@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Railroad Automated Gate",
   "author": {
     "userId": "zMW3A9vSfOWksAE53Q4Oafnjz0L2"

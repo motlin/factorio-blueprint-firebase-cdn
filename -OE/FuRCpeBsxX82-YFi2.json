@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/FcmjXef",
   "lastUpdatedDate": 1734376801872,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "Nuclear City Block 36 reactors"
 }

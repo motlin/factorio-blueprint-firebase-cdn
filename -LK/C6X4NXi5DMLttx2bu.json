@@ -11,10 +11,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "rare earth concentrate+chrome",
   "createdDate": 1534597145232,
   "descriptionMarkdown": "212 concentrate out\n1060 solution in",

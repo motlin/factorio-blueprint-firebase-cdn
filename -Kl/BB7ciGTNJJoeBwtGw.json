@@ -14,11 +14,11 @@
     "width": 302,
     "height": 556
   },
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Blueprint%20screenshot.PNG?alt=media&token=32ba9f01-710c-47df-97ab-de3a971e9696",
   "numberOfFavorites": 6,
   "title": "Single Track (one way) train crossing with flashing lights and gates"

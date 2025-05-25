@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1659672104632,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/train/track/",
-    "4": "/train/left-hand-drive/",
-    "5": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Auto-Prioritizing Safe Railway Crossing",
   "favorites": {
     "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,

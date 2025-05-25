@@ -29,14 +29,14 @@
   },
   "lastUpdatedDate": 1580981206103,
   "numberOfFavorites": 12,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/compact/",
-    "4": "/version/0,15/",
-    "5": "/version/0,16/",
-    "6": "/version/0,17/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/power/nuclear/"
+  ],
   "title": "Big Mama: 2x5 Idiot-Proof Smart Reactor"
 }

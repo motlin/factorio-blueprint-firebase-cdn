@@ -20,8 +20,8 @@
   "imageUrl": "https://imgur.com/M3K84cD",
   "lastUpdatedDate": 1743443770553,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Science Center 240 science packs per second"
 }

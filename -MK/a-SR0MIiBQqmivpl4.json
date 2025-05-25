@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1632806424615,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Oil Refinery City Block",
   "favorites": {
     "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,

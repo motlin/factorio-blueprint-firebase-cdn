@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/RinO9iN",
   "lastUpdatedDate": 1738775510569,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/production/smelting/"
+  ],
   "title": "Vulcanus foundry production 14 per min",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

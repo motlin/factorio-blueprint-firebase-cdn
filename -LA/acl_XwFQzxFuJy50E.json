@@ -108,10 +108,10 @@
   },
   "lastUpdatedDate": 1553278901098,
   "numberOfFavorites": 86,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "[.17] Late Game Mall"
 }

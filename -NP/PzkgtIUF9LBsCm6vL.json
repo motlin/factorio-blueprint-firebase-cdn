@@ -19,9 +19,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Nuclear%20with%20Landfill.png?alt=media&token=fa6044a0-8f16-47e1-83c1-4ad94eae0398",
   "lastUpdatedDate": 1706797010105,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "nuclear station 10"
 }

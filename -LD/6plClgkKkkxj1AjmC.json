@@ -19,11 +19,11 @@
   "descriptionMarkdown": "Somewhat based on the Calculations found [r/factorio\n](https://www.reddit.com/r/factorio/comments/67xgge/nuclear_ratios/), plus some Storage Tank info and taking out Steam to far out bases just in case.\n\nIn this build, I was ultimately looking for something that could be easily modified to take Steam to an outpost or run the main base without much change.\n#### Stats (based .17.32)\n - 4 Reactors / 48 Heat Exchangers / 86 or 8 Steam Turbines\n - 86 Steam Turbines will run at 470MW normally \n   - 83 Steam Turbines is the max you can get out of 4/48, but just did not want much to change\n   - Have seen 480MW max\n   - Seems to have a dip for about 10 minutes every 50ish down to 410MW\n\t   - Average during the 10-minute downtime is above 430MW though\n \t     - Most likely caused by steam in tanks is not evenly distributed\n - 8 Steam Turbine will run at 46.4MW\n\t - More meant for outpost supply, but disliked the idea of it not making some power for the base while not supplying\n - Circuit controlled insertion of fuel based on Fuel Storage\n - Run through logistics bots and Train\n\t - Train for Uranium in out setup to be either 1x1x1 or 1x1x0\n\t - Train for Steam out is 2x4x2\n\t\t - The thought is it will take to a hub that goes to either a 2 x 1 Steam + 2 Heavy Oil + 1 maintenance x 2\n\t\t\t - Or something along those lines\n - Easy to change the number needed in the tanks for either if needed or wanted to build\n - Storage Tanks can hold 800k for Steam\n\t - For the base, min is set to 400k\n\t - For out of base min is set to 200k\n - Both fit inside a RoboPort build area\n\t - Steam Out fits inside the logistics area also\n\t\t - Which is what I was wanting on both but looking at the requirements do not think it would be possible, maybe without the Storage Tanks?\n - The numbers are still correct this is not a perfect ratio due to willing to take 8 water pumps and only 5 are needed, but 48/5 just does not make sense\n\nI am annoyed that the 86 Steam Turbines substation can not connect to the two near the RoboPort.",
   "lastUpdatedDate": 1555983438713,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,17/"
+  ],
   "authorId": "tBmLOszk82ZEaQO4oKZd2nRP4U63"
 }

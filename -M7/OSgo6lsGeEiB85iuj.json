@@ -15,9 +15,9 @@
     "width": 1168
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "fileName": "NuclearStation.png",
   "lastUpdatedDate": 1589565180322,
   "title": "1xReactor_NuclearStation_OptimizedUpload_by Fed1s",

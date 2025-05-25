@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/AtuxeqX",
   "lastUpdatedDate": 1735793110262,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "(Infer a Good Time) Outpost supply train enhancements",
   "favorites": {
     "qRJbA4lnZWfSAwCnPfNCiMRJ9U42": true,

@@ -16,12 +16,12 @@
   "createdDate": 1585499984393,
   "lastUpdatedDate": 1585500044189,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/production/processing unit (blue)/",
-    "3": "/production/oil processing/",
-    "0": "/production/modules/",
-    "1": "/version/0,18/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/oil processing/",
+    "/production/modules/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "V19tmhs15fZTlKjsLMzoKdAr8DG3": true,
     "NgBzqG2VRIg1R5gVTmINfsmCtMQ2": true,

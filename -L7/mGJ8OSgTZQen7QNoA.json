@@ -15,10 +15,10 @@
     "width": 617
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/oil processing/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/general/tileable/"
+  ],
   "title": "Sulf Factory Oil Processing refinery tile"
 }

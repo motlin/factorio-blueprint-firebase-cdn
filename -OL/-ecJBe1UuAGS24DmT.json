@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/hUtKP9p.png",
   "lastUpdatedDate": 1745467492773,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Grok Starter Base",
   "favorites": {
     "HShqmSxkwIW0bNaRy1eUj73AOLA3": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/JCtxCsF.png",
   "lastUpdatedDate": 1737574250639,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Automatic Upcycling Array",
   "favorites": {
     "nZu7w3k8RPVVQopjwGBZIJv0bRf1": true,

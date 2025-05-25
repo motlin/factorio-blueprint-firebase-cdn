@@ -9,11 +9,11 @@
     "width": 1920
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/general/mid game/",
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true
   },

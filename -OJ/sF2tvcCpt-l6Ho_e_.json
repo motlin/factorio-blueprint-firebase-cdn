@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/t0sLCqj",
   "lastUpdatedDate": 1740405489569,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Emboss Designs: Clock Circuits Mini tutorial",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

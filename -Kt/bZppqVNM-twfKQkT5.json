@@ -12,12 +12,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Untitled-1.jpg?alt=media&token=51449042-ee4b-4eb7-ac06-5cc4f81c9d23",
   "lastUpdatedDate": 1504999994955,
   "numberOfFavorites": 39,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "aUBt3mbDL5REo13FKQjfurX6vDk2"
   },

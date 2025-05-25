@@ -9,9 +9,9 @@
     "width": 2828
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "2.2GW Nuclear Reactor (2x8)",
   "author": {
     "userId": "E8bI9Rm4QzR750TrTZsIgSF97jz2"

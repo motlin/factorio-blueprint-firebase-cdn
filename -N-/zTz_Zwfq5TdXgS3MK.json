@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1650332532219,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/"
+  ],
   "title": "Rail City Blocks - 200x200"
 }

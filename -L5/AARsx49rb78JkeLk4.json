@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/compact/"
+  ],
   "title": "tiny solar and accumulator",
   "favorites": {
     "jn6hw84msxZzReQZU52ox8nmAyg1": true,

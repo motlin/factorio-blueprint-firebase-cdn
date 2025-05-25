@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697389548767,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Controlled 480MW Nuclear Reactor",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

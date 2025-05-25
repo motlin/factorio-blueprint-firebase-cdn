@@ -24,12 +24,12 @@
   },
   "lastUpdatedDate": 1605823192268,
   "numberOfFavorites": 7,
-  "tags": {
-    "4": "/mods/vanilla/",
-    "0": "/version/1,0/",
-    "1": "/production/belt based/",
-    "2": "/production/science/",
-    "3": "/production/research (labs)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/belt based/",
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "200 SPM (-Space)"
 }

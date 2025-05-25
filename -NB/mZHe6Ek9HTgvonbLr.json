@@ -18,8 +18,8 @@
   },
   "lastUpdatedDate": 1663000718055,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "CSL's Following Trains Prototype Demo"
 }

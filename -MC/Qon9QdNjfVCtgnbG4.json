@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1624743951585,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/early game/"
+  ],
   "title": "Upgradeable Nuke Reactor v1"
 }

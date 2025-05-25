@@ -47,8 +47,8 @@
   },
   "lastUpdatedDate": 1554086970575,
   "numberOfFavorites": 30,
-  "tags": {
-    "0": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/ltn/"
+  ],
   "title": "Rivers Grid Factories"
 }

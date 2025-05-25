@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/vED2OLy",
   "lastUpdatedDate": 1735327617227,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Steel Smelter",
   "favorites": {
     "xA4Wy94XDSfwlKmmFNrPH1XOA7v2": true

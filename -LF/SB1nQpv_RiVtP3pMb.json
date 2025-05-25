@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 22,
-  "tags": {
-    "2": "/train/track/",
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "author": {
     "userId": "Vpoqth2NDYhlGzaGkECIGi0pqep1"
   },

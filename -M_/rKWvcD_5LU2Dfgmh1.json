@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621206321895,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Refinamento de petróleo básico",
   "favorites": {
     "EHq6ScQTiEQ5eA17OCvRtoZzC323": true

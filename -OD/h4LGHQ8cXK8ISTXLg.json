@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/otNGLjt",
   "lastUpdatedDate": 1733780533882,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Stone furnace to beaconed electric smooth upgrade layout."
 }

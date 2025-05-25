@@ -49,8 +49,8 @@
   "imageUrl": "https://imgur.com/trGBsqq",
   "lastUpdatedDate": 1725397092046,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/general/early game/"
+  ],
   "title": "The book of Bases and Malls"
 }

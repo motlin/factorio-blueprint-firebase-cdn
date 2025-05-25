@@ -5,11 +5,11 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "KOS Starter Base Modified with Nanobots",
   "favorites": {
     "AiIOreDKt5SHgmRzUJOFTOMcYA22": true,

@@ -14,11 +14,11 @@
   "lastUpdatedDate": 1747234388385,
   "numberOfFavorites": 6,
   "title": "Starter Space Ship | Beginner Space Ship | Small Spaceship by Cloudiboy *reworked*",
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "favorites": {
     "sodIwvIQleT7ltCPsRXKnMerOTn1": true,
     "g0TQejsrayYYbMGu1zmh3EKbsql1": true,

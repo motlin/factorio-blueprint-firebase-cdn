@@ -25,8 +25,8 @@
   "imageUrl": "https://imgur.com/pd5bTMs",
   "lastUpdatedDate": 1744578112190,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Blueprint by Baldo"
 }

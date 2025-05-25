@@ -14,9 +14,9 @@
   "lastUpdatedDate": 1746450732183,
   "numberOfFavorites": 1,
   "title": "Simple Train System",
-  "tags": {
-    "0": "/train/crossing/"
-  },
+  "tags": [
+    "/train/crossing/"
+  ],
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true,
     "61c4iW1tz1ZTv7VumqllnHHhJR73": true

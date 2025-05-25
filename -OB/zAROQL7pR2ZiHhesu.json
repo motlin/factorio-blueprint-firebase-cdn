@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/LiPBvai",
   "lastUpdatedDate": 1732180064408,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/production/science/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/production/science/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space Science Station",
   "favorites": {
     "1lCcBHS2U1bOrK1p3MvvUtHgzrG2": true,

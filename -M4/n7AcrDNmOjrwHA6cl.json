@@ -15,10 +15,10 @@
     "userId": "q4Wic4uh2hSwwX7VD7NB5ezoWMA2"
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/production/advanced circuit (red)/",
-    "0": "/version/0,18/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/version/0,18/"
+  ],
   "title": "Advanced Circuits (expensive)",
   "favorites": {
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,

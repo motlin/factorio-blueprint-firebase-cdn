@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701253544527,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/smelting/"
+  ],
   "title": "Iridium 375/min",
   "favorites": {
     "RerN6urysuWhY47aSzrJPerRaQz1": true

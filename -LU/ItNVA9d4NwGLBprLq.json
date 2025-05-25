@@ -22,9 +22,9 @@
     "width": 496
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "0": "/power/nuclear/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/nuclear/"
+  ]
 }

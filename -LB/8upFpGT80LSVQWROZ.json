@@ -7,10 +7,10 @@
     "Id88qkUOQDfoq3hfMuheA1MPDZs1": true,
     "k9ZZttiswNVVdrVb3qRfps6oaQE3": true
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/tileable/"
+  ],
   "title": "Green Circuits - Balanced - EndGame Tileable",
   "author": {
     "userId": "ut7JzgD6w7WrjleZYliiIGNREvl1"

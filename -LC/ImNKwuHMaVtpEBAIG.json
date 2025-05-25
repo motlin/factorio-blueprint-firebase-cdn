@@ -32,10 +32,10 @@
   },
   "lastUpdatedDate": 1555110223852,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Late Red Circuit Factory (10k/min)"
 }

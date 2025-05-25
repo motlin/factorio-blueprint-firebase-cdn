@@ -15,12 +15,12 @@
   "descriptionMarkdown": "Sorts fluids - change the decider combinator on each tank to change which fluid is sorted out at each step.\n\nEspecially useful for LTN fluid station garbage handling or Crafting Combinator fluid chemistry.",
   "fileName": "fluid sorter.png",
   "createdDate": 1604518622491,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/other/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/other/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Fluid Sorter",
   "favorites": {
     "mgzaB559GKQRL7QtiME6MluIubD2": true,

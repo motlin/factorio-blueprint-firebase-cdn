@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1636104608482,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/belt/prioritizer/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/prioritizer/"
+  ],
   "title": "8:1 throttle"
 }

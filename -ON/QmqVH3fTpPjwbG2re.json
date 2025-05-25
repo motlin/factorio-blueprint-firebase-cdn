@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/LW1qy28",
   "lastUpdatedDate": 1744223037691,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "A good enough Aquilo cargo unloader (blueprint 2)",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

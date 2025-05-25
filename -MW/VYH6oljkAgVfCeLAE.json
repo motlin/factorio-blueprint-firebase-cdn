@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616594771453,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Universal modular loading\\unloading station",
   "favorites": {
     "ddEGs4a0W8PuSrEYSZJ35nkztvq2": true,

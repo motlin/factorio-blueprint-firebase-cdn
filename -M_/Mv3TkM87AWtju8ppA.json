@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621102491971,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "University Text Book"
 }

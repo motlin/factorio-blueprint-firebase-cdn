@@ -13,11 +13,11 @@
     "width": 1509
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/production/science/",
-    "0": "/production/robots/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/robots/",
+    "/version/0,17/"
+  ],
   "title": "Flying Robot Frame Array for 0.17 - 1ps and tileable",
   "favorites": {
     "Tth007EbJBNSWlITH00gVnEqSPR2": true,

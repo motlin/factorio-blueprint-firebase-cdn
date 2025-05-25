@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1707022791977,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/"
+  ],
   "title": "Nevelis' Quick Start"
 }

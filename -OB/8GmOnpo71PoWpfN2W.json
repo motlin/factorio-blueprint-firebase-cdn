@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/fLxp5of",
   "lastUpdatedDate": 1731027478526,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Spacship"
 }

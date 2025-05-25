@@ -59,10 +59,10 @@
   "createdDate": 1518364890423,
   "descriptionMarkdown": "This is a bot based logistics storage location to dump off any items you don't need and pickup any that you do.\n\n### Key features\n\n- Center: Active provider chests for you to dump any unwanted items\n- Middle: Buffer chests, grouped by similar purpose, request most consumable/placeable items\n- Outer: Storage chests as overflow for buffer chests and for any other items\n\n### FAQ\n- Does this blueprint produce any items in the pictures?\n - No. Its purpose is to gather all loose items, from production areas and random chests, into a single spot for easy consumption.\n- Why are all buffer chests set to request 20k of the item?\n - This is to ensure the central area of the shop aggregates items from storage and active/passive provider chests.\n- Why not use filtered storage chests for the central area?\n - This is an option if your base's production area only uses active provider chests or you have no other storage areas or random chests around your base.\n - Otherwise the central area wouldn't be replenished with items from other storage chests from around your base and passive provider chests from your production areas.\n- How can I prevent these 20k requests from using up all my resources to make items in excessive quantities which aren't needed ( ie nuclear reactors)?\n - I recommend setting an enable condition on inserters when moving an item from the assembler the logistics chests.\n   - This allows you to see total count of items in your whole network and prevent more from being made.\n   - Use [SK's Belt-Based Mall](https://factorioprints.com/view/-L2lxQ039BbBkcq7bdGD) which has assemblers setup this way\n - Alternatives\n   - Change the request amounts for items in buffer chests\n   - Use the red X in the chest UI to limit number of stacks\n\n### Change Log\n\n2018-02-17\n- removed creative mod items (railgun and its ammo)\n- added buffer chests for blueprints and deconstruction palnner\n- added storage filters for intermediate items to group those togehter\n- added a version number to the blueprint extra info\n ![BP Version](https://imgur.com/ClQB8re.png)\n\n2018-02-11 \n - initial version released\n\n### Close up of items\n![Closeup of items](https://imgur.com/T5UTaeY.png)\n### Closeup of filtered buffer chests\n![Closeup of filtered buffer chests](https://imgur.com/TVYAmEV.png)\n### Map\n![Map View](https://imgur.com/gnxLQqS.png)\n\n",
   "numberOfFavorites": 82,
-  "tags": {
-    "1": "/general/late game (megabase)/",
-    "2": "/production/mall (make everything)/",
-    "3": "/production/logistic (bot) based/",
-    "0": "/general/storage/"
-  }
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/",
+    "/general/storage/"
+  ]
 }

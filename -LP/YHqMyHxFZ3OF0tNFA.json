@@ -16,9 +16,9 @@
     "type": "image/png"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/factorissimo/"
+  ],
   "author": {
     "userId": "QhR08pUmXtPeNEl3E73Ha1hYvL32"
   }

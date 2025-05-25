@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1543965924348,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "NX_OILBUS_CHEMICAL_MODULAR"
 }

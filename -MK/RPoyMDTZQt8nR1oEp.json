@@ -4,10 +4,10 @@
   "descriptionMarkdown": "These chests are a substitute for provider chests but have one key feature: They request from the logistics network too.\n\nAre you tired of having all your stuff in storage chests instead of re-sourcing it to the original provider chests? This is for you.\n\nIt comes in two flavors: belt chests (used for materials on belt) and assembler chests (used for materials created from assemblers. For convenience, assembler chests are separated into novelty types (which stop creating at 10 items) and commodity types (which stop creating at 100 items) -- although this limit is adjustable by just setting one parameter on the combinator as well. Belt chests will also unload onto the belt once they have too much material in them.\n\nThe reason for not just having buffer chests is that buffer chests won't request items from the network after they reach their filtered limit and they also don't know when to unload themselves (if possible). These do.",
   "lastUpdatedDate": 1603579898320,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Smart Provider Chests 0.01",
   "favorites": {
     "VjQKBjnonCMhsYXKgQOSGm97xz62": true,

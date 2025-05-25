@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/TalEeK8",
   "lastUpdatedDate": 1729852787187,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Simple Starter Ship",
   "favorites": {
     "66HiMdKjgdgFoFSINPfRdmp1yXM2": true,

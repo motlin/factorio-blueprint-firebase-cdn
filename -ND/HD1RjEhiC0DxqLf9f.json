@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1693596682405,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Basic Necessities Mall / Bootstrap",
   "favorites": {
     "XImAzdjEv8bIddG24sFqc2O5Txc2": true,

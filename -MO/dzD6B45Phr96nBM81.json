@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1637189060772,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para produção de combustível de foguete"
 }

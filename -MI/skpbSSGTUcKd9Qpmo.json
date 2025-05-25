@@ -7,10 +7,10 @@
   "createdDate": 1601901386221,
   "descriptionMarkdown": "Bot-based Kovarex enrichment\n- uses only 40 units of Uranium-235;\n- works on any game version;\n- production speed 8 (+ 700%);\n- easily scalable;\n- to launch, put 40 units of Uranium-235 in requester chest or centrifuge.\n\nСхема обогащения урана Kovareks на дронах.\n- использует только 40 единиц урана-235;\n- работает на любой версии игры;\n- скорость производства 8 (+700%);\n- легко масштабируется;\n- для запуска положите 40 единиц урана-235 в сундук запроса или центрифугу.\n",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "fileName": "Bot-based Kovarex enrichment.jpg",
   "image": {
     "id": "8I5fe5v",

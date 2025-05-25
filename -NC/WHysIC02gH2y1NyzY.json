@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1692775738924,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "Large Diagonal Train Intersection/Roundabout",
   "favorites": {
     "maUFk3hqXPZlyEluOm8sTH1lyJ32": true,

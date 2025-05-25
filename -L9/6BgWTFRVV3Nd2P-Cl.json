@@ -13,12 +13,12 @@
     "width": 2525,
     "height": 847
   },
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/belt/prioritizer/",
-    "2": "/belt/tap/",
-    "3": "/production/belts/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/belt/prioritizer/",
+    "/belt/tap/",
+    "/production/belts/"
+  ],
   "title": "4-Belt Prioritize-T",
   "authorId": "Jfw5fgZ8AcO891GSakpfCC4QUl22",
   "createdDate": 1522686675112

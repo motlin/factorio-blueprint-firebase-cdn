@@ -11,11 +11,11 @@
     "id": "g7JoXEa"
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Smart Nuclear Reactor (entry level)",
   "author": {
     "userId": "x3wC2LCmBOSicFs5bJepNzVFgdw1"

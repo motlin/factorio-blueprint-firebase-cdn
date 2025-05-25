@@ -31,10 +31,10 @@
   },
   "lastUpdatedDate": 1517851608351,
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "LTN Station/Cell Toolbox"
 }

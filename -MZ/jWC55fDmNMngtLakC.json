@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1648990933528,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "16-Reactor TIleable Nuclear"
 }

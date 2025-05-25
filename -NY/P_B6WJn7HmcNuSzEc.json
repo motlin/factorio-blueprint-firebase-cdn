@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1687294490415,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/general/beaconized/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "City Block: 3x1, Artillery Manufacturing and Spidertron missile reload Station."
 }

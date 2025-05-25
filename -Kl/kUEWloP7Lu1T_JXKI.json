@@ -8,13 +8,13 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factoriol.PNG?alt=media&token=bce5a789-4be2-46f5-8a7b-6a5ee4a00b31",
   "lastUpdatedDate": 1497211023536,
-  "tags": {
-    "4": "/version/0,15/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "hhGYzrWREOaiOvaB8JuYoNFtVXv1"
   },

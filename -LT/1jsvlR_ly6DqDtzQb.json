@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1573078335816,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/steam/"
+  ],
   "title": "1.2 GW Backup Power Steam Power Plant"
 }

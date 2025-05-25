@@ -1,13 +1,13 @@
 {
   "createdDate": 1599243922190,
   "lastUpdatedDate": 1599243922190,
-  "tags": {
-    "2": "/production/science/",
-    "3": "/version/1,0/",
-    "4": "/version/0,17/",
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/1,0/",
+    "/version/0,17/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "numberOfFavorites": 0,
   "title": "[WIP] Blue science Mk1",
   "author": {

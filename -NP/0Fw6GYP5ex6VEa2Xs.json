@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1723448969444,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact modular nuclear reactor \"CUBUS\" (20,40,60.... reactors) for city blocks"
 }

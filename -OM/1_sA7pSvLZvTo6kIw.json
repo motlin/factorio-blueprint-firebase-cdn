@@ -23,9 +23,9 @@
   "imageUrl": "https://imgur.com/6dTBU7K",
   "lastUpdatedDate": 1742726465484,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Monster V2.4"
 }

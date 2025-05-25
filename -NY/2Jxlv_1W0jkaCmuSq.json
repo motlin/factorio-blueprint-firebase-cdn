@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1686904233297,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Mining-Grid-1",
   "favorites": {
     "xbDr1hnB5nbr77KJNZh357IIuex1": true

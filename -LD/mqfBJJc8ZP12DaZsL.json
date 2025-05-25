@@ -22,10 +22,10 @@
   "descriptionMarkdown": "少し蓄電池の個数が多いが、繰り返しパターンに落とし込んだもの\n\nv2\n- 変電所どうしがつながってなかったので、大電柱挟んだ(どうせ蓄電池多いし)\n- パターン化するのに、ソーラーパネルひとつ分隙間ができてたので右下に追加した",
   "lastUpdatedDate": 1620553160572,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  }
+  "tags": [
+    "/power/solar/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ]
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ccCvHIt",
   "lastUpdatedDate": 1731357715537,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/version/2,0/"
+  ],
   "title": "Train loading station 4 (8) to 24",
   "favorites": {
     "rTvsNPsxHMPKmMGd9TM2vsxR34J3": true,

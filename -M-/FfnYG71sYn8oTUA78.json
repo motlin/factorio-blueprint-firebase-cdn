@@ -2,10 +2,10 @@
   "descriptionMarkdown": "Basic Mall that crafts all the needed items.",
   "lastUpdatedDate": 1580827883882,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Start Mall",
   "favorites": {
     "j49Pn7VTRlWJs1bOjo6im2EEnpC3": true,

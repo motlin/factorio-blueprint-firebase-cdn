@@ -41,12 +41,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-4347944.png?alt=media&token=0d8d8c8c-259a-4ed0-956a-e948b8fa57d8",
   "lastUpdatedDate": 1566228415984,
   "numberOfFavorites": 21,
-  "tags": {
-    "3": "/production/other/",
-    "4": "/version/0,17/",
-    "0": "/mods/vanilla/",
-    "1": "/production/oil processing/",
-    "2": "/production/coal liquification/"
-  },
+  "tags": [
+    "/production/other/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/production/coal liquification/"
+  ],
   "title": "Oil Refinery with fuel depot"
 }

@@ -4,9 +4,9 @@
   "descriptionMarkdown": "smelting area in skewed format that is square tileable.",
   "fileName": "Skewed and not skewed.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Skewed%20and%20not%20skewed.png?alt=media&token=6795be67-89fb-4d59-a4a9-0441534c1541",
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Skewed and not skewed",
   "author": {
     "userId": "tzaz4ANQjHeInPL0ZehuZdwlH393"

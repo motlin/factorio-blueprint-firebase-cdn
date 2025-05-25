@@ -9,9 +9,9 @@
     "type": "image/jpeg",
     "width": 1511
   },
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "favorites": {
     "lhAe5wNSRKRso36A3dDWR5gtZxj1": true,
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true

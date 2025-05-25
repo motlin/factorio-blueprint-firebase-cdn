@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/1fRG9LX",
   "lastUpdatedDate": 1733891539544,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/version/2,0/"
+  ],
   "title": "Bot Mall w/ parameters w/o circuits",
   "favorites": {
     "PXo1PfREU0MDT37U7ncFPdmc1lv2": true,

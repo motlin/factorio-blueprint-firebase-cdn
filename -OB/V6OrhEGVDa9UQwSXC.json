@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2dMPUKZ",
   "lastUpdatedDate": 1731410911689,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/mall (make everything)/"
+  ],
   "title": "General Mall / HUB",
   "favorites": {
     "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/mWIAsoP",
   "lastUpdatedDate": 1744929330763,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "Космическая наука 90 в минуту"
 }

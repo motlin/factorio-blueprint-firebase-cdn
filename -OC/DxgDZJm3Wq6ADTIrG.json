@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/ujhcg0S",
   "lastUpdatedDate": 1732201971254,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/general/compact/",
-    "2": "/production/inserters/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/general/compact/",
+    "/production/inserters/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Gleba Carbon Fibre Production",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

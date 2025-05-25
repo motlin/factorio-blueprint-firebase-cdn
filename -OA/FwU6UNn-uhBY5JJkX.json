@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Ao9jgIi",
   "lastUpdatedDate": 1730156586415,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/quality/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/quality/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Parametrised Quality Blueprints",
   "favorites": {
     "EE6u5TpIC0V1eD3sAjMmmiMgLSM2": true,

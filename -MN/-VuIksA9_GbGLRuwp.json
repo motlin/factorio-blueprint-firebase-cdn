@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1635317425568,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/train/roundabout/"
+  ],
   "title": "Hybrid Train Depot",
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,

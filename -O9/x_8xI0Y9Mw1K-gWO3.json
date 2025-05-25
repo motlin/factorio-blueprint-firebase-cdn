@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/E2e2XIK",
   "lastUpdatedDate": 1747231558088,
   "numberOfFavorites": 43,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Simple first 3 planet ship",
   "favorites": {
     "tvCznxaoIZOe6rTaMxkDg7oEp462": true,

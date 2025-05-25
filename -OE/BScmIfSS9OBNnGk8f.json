@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ams0KQa",
   "lastUpdatedDate": 1734302219045,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Build Anything w/ Fluids",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

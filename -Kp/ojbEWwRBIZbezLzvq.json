@@ -10,13 +10,13 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/BenchmarkLiquidStorage.PNG?alt=media&token=e36f63d8-1db8-4398-af9a-f34d3773d10d",
   "numberOfFavorites": 3,
-  "tags": {
-    "4": "/version/0,15/",
-    "0": "/production/oil processing/",
-    "1": "/general/storage/",
-    "2": "/circuit/indicator/",
-    "3": "/mods/creative/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/general/storage/",
+    "/circuit/indicator/",
+    "/mods/creative/"
+  ],
   "title": "Benchmark for Liquid Storage",
   "author": {
     "userId": "G0hS5cjMsoZCTJEeWXe3Y0XGVXJ3"

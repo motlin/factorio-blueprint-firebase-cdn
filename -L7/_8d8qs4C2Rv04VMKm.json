@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "3": "/power/kovarex enrichment/",
-    "4": "/mods/vanilla/",
-    "0": "/general/tileable/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/belt/express transport belt (blue)/",
+    "/general/compact/"
+  ],
   "title": "Kovarex Enrichment | beltbased | tileable",
   "author": {
     "userId": "knHtxh4wDXaumqgful47NygduO93"

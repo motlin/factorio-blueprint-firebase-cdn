@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GN2alXa",
   "lastUpdatedDate": 1731595677971,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Uranium Enrichment",
   "favorites": {
     "1lCcBHS2U1bOrK1p3MvvUtHgzrG2": true

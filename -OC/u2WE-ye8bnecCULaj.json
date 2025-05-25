@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/ki3Dhbk",
   "lastUpdatedDate": 1732919838368,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/solar/"
+  ],
   "title": "Prong Freighter (Cargo Ship)"
 }

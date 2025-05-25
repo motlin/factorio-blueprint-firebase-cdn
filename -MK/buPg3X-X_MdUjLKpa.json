@@ -24,15 +24,15 @@
     "width": 1920
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/version/1,0/",
-    "3": "/general/mid game/",
-    "4": "/mods/factorissimo/",
-    "5": "/production/belt based/",
-    "6": "/mods/aai/",
-    "7": "/mods/other/",
-    "0": "/production/batteries/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/mid game/",
+    "/mods/factorissimo/",
+    "/production/belt based/",
+    "/mods/aai/",
+    "/mods/other/",
+    "/production/batteries/",
+    "/mods/bobs/"
+  ],
   "title": "Batteries @ 750/min with Requirerments "
 }

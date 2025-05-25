@@ -2,11 +2,11 @@
   "createdDate": 1566122656816,
   "descriptionMarkdown": "Ein kleines Kaufhaus - eine Mini-Mall - für Zahnrädern, Fließbänder (gelb, rot und blau), Greifer aller Sorten und Montagemaschinen und Erzförderer. \n\n- BP ist für Vesion 0.17. \n- Oberes gelbes Band = Stahl (für die AM2)\n- Inneren Roten Bänder= Eisen\n- unteres gelbes Band = grüne Schaltkreise\n- unteres rotes Band = rote Schaltkreise\n",
   "lastUpdatedDate": 1566122656816,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/version/0,17/"
+  ],
   "title": "Kaufhaus - Tiny Starter Mall",
   "author": {
     "userId": "blezjBlwqJUpJyVL7fT2W7Amu722"

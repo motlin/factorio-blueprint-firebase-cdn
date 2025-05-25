@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1694218679690,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "1.12GW Nuclear Power Plant"
 }

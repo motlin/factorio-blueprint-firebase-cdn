@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/LO3SE41",
   "lastUpdatedDate": 1731468135001,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/mods/space-exploration/"
+  ],
   "title": "Mid Game Space Platform",
   "favorites": {
     "aDCgn9vO5ZPHvwA4OlYRJ1SRjOx2": true,

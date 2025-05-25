@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/FSFirzh",
   "lastUpdatedDate": 1732568137693,
   "numberOfFavorites": 54,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Courier S - small, fast, lossless cargo runner",
   "favorites": {
     "sA7nYHNCs1bb6iwzz9cPtvgL4IH2": true,

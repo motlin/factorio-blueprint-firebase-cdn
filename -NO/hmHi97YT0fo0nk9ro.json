@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1676879146032,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/power/solar/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/power/solar/",
+    "/general/mid game/"
+  ],
   "title": "Big Book of Mid"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1668583849432,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Steel Smelter",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,

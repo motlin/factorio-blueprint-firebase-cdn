@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/SFDoctp",
   "lastUpdatedDate": 1738564184319,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "EV Pipsqueak",
   "favorites": {
     "t0LWTTQgqOh7PDkQY8IsGWC7MrG2": true,

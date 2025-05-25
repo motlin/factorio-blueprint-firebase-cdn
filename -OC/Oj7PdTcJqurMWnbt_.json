@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2GYPhbO",
   "lastUpdatedDate": 1732377347884,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/research (labs)/"
+  ],
   "title": "Biolab - Laboratoire Biologique",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true

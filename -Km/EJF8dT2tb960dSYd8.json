@@ -21,12 +21,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/composite_14970526972436.jpg?alt=media&token=cec00bd4-8c06-466e-a665-f04db8d45325",
   "lastUpdatedDate": 1498714764370,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Tileable mega smelter using Zuri's bot based design"
 }

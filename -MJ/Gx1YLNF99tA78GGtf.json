@@ -12,12 +12,12 @@
   },
   "lastUpdatedDate": 1602339154109,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/",
+    "/general/beaconized/"
+  ],
   "authorId": "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1",
   "createdDate": 1602324016329,
   "fileName": "screenshot-tick-10357443.png",

@@ -39,8 +39,8 @@
   "imageUrl": "https://imgur.com/80yaZ2a",
   "lastUpdatedDate": 1738920210359,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Melbourne W/o Coffee Legendary Module Farm"
 }

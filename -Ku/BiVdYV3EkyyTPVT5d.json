@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Basic Stone Smelter Tileable",
   "createdDate": 1505599556414,
   "fileName": "Basic Stone Smelter Tileable.png",

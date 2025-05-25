@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1639584156741,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Mining challenge-Minimum pollution while having decent output."
 }

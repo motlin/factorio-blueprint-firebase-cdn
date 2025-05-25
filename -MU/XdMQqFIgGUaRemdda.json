@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1663510610791,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "2.4GW 16 Cell Dual Rail Nuclear Reactor with Auxillary Power Unit by 1x4x9"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/RD4kcti",
   "lastUpdatedDate": 1731269753800,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "Modular Kovarex processing plant"
 }

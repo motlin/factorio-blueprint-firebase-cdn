@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1678551916341,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/mall (make everything)/",
+    "/general/early game/"
+  ],
   "title": "SE early Mall Book - planet outpost"
 }

@@ -4,11 +4,11 @@
   "descriptionMarkdown": "A basic city block, inspired by Nilaus.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/city-block.png?alt=media&token=3f193ae4-74d6-48ba-b21b-85e2117f94c1",
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/general/tileable/",
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/tileable/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "XD2XV7OzjwUJhawZdgGoE7MyGtC3"
   },

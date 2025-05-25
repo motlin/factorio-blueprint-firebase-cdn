@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1622156309763,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Efficient Nuclear Reactor Setup",
   "favorites": {
     "ZmLzckJlunfHPMARHFljhLtDTMj1": true

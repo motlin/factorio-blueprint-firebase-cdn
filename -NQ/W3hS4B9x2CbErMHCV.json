@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1707854645898,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ],
   "title": "Continuous Item Calculator with Memory"
 }

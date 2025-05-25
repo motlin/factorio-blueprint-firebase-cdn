@@ -15,13 +15,13 @@
     "id": "xlLbMAr",
     "type": "image/png"
   },
-  "tags": {
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/power/accumulator/",
-    "4": "/version/0,15/",
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/power/accumulator/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ],
   "title": "SolarOfficialElectraTinyTile",
   "favorites": {
     "al8OlOmMgJddK8YA0p1NyFirYuJ3": true

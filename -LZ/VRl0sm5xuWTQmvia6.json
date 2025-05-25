@@ -41,8 +41,8 @@
     "width": 968
   },
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/general/early game/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_starterBase.png?alt=media&token=e9c84445-f24c-4f3f-84d7-a3181fd170aa"
 }

@@ -7,14 +7,14 @@
     "type": "image/png",
     "width": 640
   },
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "numberOfFavorites": 2,
   "title": "Simple, Compact, Modular 3,700 Yellow Belts per minute",
   "author": {

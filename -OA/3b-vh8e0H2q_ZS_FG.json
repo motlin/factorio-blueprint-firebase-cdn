@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/HZXRKgP",
   "lastUpdatedDate": 1732210298157,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Robots Production v2.5",
   "favorites": {
     "YpL0v9nG8sTCHhD1gOv5FqaLs073": true,

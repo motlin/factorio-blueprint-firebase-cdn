@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/cdEPFnG",
   "lastUpdatedDate": 1737554222713,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/2,0/"
+  ],
   "title": "Lab Research, 10 Packs"
 }

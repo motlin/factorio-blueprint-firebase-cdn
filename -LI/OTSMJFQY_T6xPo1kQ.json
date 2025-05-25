@@ -23,8 +23,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2019-06-28_20h43_46.png?alt=media&token=c04df244-f2a5-427c-a926-37040dec413b",
   "lastUpdatedDate": 1561748799276,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "Giga_Unloading_Station"
 }

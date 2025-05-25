@@ -31,10 +31,10 @@
   "imageUrl": "https://imgur.com/2BkANRP",
   "lastUpdatedDate": 1725396418750,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "The Chemical Book"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623160348503,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/oil processing/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Adv. Oil Processing Plant",
   "favorites": {
     "KDHw6DkmnMMxSDAgk1qIyPTzcDO2": true,

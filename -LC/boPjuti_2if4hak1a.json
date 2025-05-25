@@ -36,11 +36,11 @@
   },
   "lastUpdatedDate": 1555458945740,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/junction/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/junction/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Loki's 12,000,000+ Resource Depot"
 }

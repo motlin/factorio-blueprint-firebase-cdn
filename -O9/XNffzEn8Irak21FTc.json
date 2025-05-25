@@ -26,9 +26,9 @@
   "imageUrl": "https://imgur.com/u9rme2Q",
   "lastUpdatedDate": 1729305999562,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar book for various needs"
 }

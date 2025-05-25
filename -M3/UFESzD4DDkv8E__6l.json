@@ -1,10 +1,10 @@
 {
   "fileName": "Inserter Mall.jpg",
   "lastUpdatedDate": 1585367283693,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/inserters/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/inserters/"
+  ],
   "author": {
     "userId": "OWLaHOszkjfz6XDnTNgdQeDKF9J2"
   },

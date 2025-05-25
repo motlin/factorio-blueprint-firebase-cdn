@@ -32,8 +32,8 @@
   },
   "lastUpdatedDate": 1559985995818,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "2/4 Rails + Intersections "
 }

@@ -6,12 +6,12 @@
     "myKkEdt0hhOHWsNcLz8YB00q37B2": true
   },
   "lastUpdatedDate": 1525289237787,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "vlbU1WiDEJXDtAaxefh4452JmkC2"
   },

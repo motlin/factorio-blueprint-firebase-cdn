@@ -8,11 +8,11 @@
     "id": "6BqTtdG"
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "descriptionMarkdown": "A simple train crossing with synchronised gates that, when open, stops oncoming trains.\n\n__Note:__\n* When a train is already passing it will not be halted.\n* Gates can still be opened when a train is already passing.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/train-cross-2-way.jpg?alt=media&token=59c41779-644d-460b-aa4e-2166226d0538",
   "lastUpdatedDate": 1496281857273,

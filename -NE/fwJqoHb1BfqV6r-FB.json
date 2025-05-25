@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1695101832756,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Rails stations"
 }

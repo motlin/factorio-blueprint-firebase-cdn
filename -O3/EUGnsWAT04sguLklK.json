@@ -17,8 +17,8 @@
   "imageUrl": "https://imgur.com/Q99Rxr7",
   "lastUpdatedDate": 1722885240737,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Everything"
 }

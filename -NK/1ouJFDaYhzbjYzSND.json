@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1700854474225,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration 2x4 Controlled Condenser Nuclear Reactor",
   "favorites": {
     "5PawYgXHnhZXsdmoQj79yW3qSBq2": true

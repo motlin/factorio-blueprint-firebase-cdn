@@ -8,12 +8,12 @@
     "width": 485
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4-Lane-Right-Hand-Turn.png?alt=media&token=8507a1e8-78c6-4505-b4ab-47b60685d368",
-  "tags": {
-    "0": "/train/track/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/track/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"
   },

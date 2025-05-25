@@ -11,13 +11,13 @@
     "width": 587
   },
   "lastUpdatedDate": 1515921887357,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/mid game/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "[Tileable] Mid Smelting (Extension)",
   "authorId": "RvXzoBDUjGSddTjYqEOG2ThOtT22",
   "createdDate": 1515921887357,

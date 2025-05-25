@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/"
+  ],
   "title": "Marathon Green Circuit - Double Wide stackable",
   "author": {
     "userId": "Tth007EbJBNSWlITH00gVnEqSPR2"

@@ -127,13 +127,13 @@
   },
   "lastUpdatedDate": 1577390950451,
   "numberOfFavorites": 106,
-  "tags": {
-    "5": "/general/storage/",
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/production/belt based/"
+  ],
   "title": "Big-ass Mall v0.17.60 v4"
 }

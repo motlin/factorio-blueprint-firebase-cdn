@@ -15,12 +15,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20181009211606_1.jpg?alt=media&token=ce5db255-30bf-4bee-ac71-2f73083159ef",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "createdDate": 1538901767289,
   "fileName": "20181009211606_1.jpg"
 }

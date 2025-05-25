@@ -37,12 +37,12 @@
   },
   "lastUpdatedDate": 1553719700062,
   "numberOfFavorites": 19,
-  "tags": {
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "0": "/version/0,17/",
-    "1": "/production/belt based/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/belt based/",
+    "/production/research (labs)/"
+  ],
   "title": "Extensible research station"
 }

@@ -9,11 +9,11 @@
     "id": "URcqsZ1"
   },
   "lastUpdatedDate": 1555984417838,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/production/science/"
+  ],
   "title": "Tileable Green Science v0.17",
   "author": {
     "userId": "GelT9Oi5cmhQmJeJz6um4DAD8Rm1"

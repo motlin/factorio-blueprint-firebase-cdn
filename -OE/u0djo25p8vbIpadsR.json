@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/DCQZhU6",
   "lastUpdatedDate": 1735066557491,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "The Needle",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true

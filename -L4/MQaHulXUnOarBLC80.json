@@ -19,9 +19,9 @@
   "descriptionMarkdown": "You can check all the plates input on the image. It's a modified version from a blueprint book called Expandable Science.\n",
   "fileName": "hfghghchfhfhc.png",
   "lastUpdatedDate": 1517590308208,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/",
-    "2": "/version/0,16/"
-  }
+  "tags": [
+    "/production/science/",
+    "/mods/other/",
+    "/version/0,16/"
+  ]
 }

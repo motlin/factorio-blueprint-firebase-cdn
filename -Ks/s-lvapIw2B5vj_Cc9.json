@@ -3,12 +3,12 @@
   "descriptionMarkdown": "This is a simple Coal Plant with the right ratios (40:20: steam/boiler/pump)\n\n**Connect it with an Offshore Pump on either side**\n\nFed with one belt that splits in two (Tested with all belts, yellow take some time to back up)\n\nProduces 35.6 MW\n",
   "fileName": "coalPlant.PNG",
   "lastUpdatedDate": 1504616433239,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Coal Plant 35.6MW [Blue/Red/Yellow]",
   "author": {
     "userId": "hWbOQOefVzT5bogh7Xlq98tALJS2"

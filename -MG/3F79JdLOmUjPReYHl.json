@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627863941875,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/solar/"
+  ],
   "title": "Test krastorio advanced solar",
   "favorites": {
     "cgkOnX3Nm3NrYWHmGnFVBRCU0Y13": true

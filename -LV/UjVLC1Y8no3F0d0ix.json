@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/circuit/counter/",
-    "2": "/general/tileable/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/circuit/counter/",
+    "/general/tileable/",
+    "/production/belt based/"
+  ],
   "authorId": "vb8MG6JLsjM1o4HlkEIk5XWzZBt2",
   "createdDate": 1546720773556,
   "descriptionMarkdown": "This is the control and input/output area of the Sushi Factory. This should probably be placed towards the middle of the factory so that ingredients are spread evenly. The end blocks should overlap with the end block of the Factory Slice blueprint.",

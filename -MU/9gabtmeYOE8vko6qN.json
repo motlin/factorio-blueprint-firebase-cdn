@@ -2,12 +2,12 @@
   "descriptionMarkdown": "Output: \n- 1016 automation science packs/minute ( 17/s)\n\nInput: \n- 77.5MW\n- 1740 iron plates/minute (29/s)\n- 726 copper plates / minute (13/s)",
   "fileName": "stackable_red.png",
   "lastUpdatedDate": 1614013426212,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "Stackable red science 1K/minute",
   "author": {
     "userId": "Hf33mFexf0Np9KmFdaVd4jfG24Y2"

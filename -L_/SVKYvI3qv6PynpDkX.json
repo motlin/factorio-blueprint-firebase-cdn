@@ -55,12 +55,12 @@
   },
   "lastUpdatedDate": 1552051951967,
   "numberOfFavorites": 33,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/production/science/",
-    "3": "/production/research (labs)/",
-    "4": "/version/0,17/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "All Science Packs Base 315/min"
 }

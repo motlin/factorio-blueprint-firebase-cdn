@@ -7,9 +7,9 @@
   "descriptionMarkdown": "Output is 591.5 SA/s. Input is 525 PG/s (can bring in from up to 400 pipes away), 2013 water/s, and 9.1 iron plate/s. Unfortunately, it's not tileable on the beacon string, but it can be mirrored to at least do that once. It can be made so that all pipes fit inside the beacons, but it will necessarily be longer and more beacons are used than this configuration, assuming you mirror it. The water must be pressurized using electric pumps when delivered to this else it will be starved. This might be bypassed by doubling up the top part of the 't' pipes which are outside the beacons then bringing in two pipes of water instead of one.\n\nhttps://kirkmcdonald.github.io/calc.html#data=0-17-60&rate=s&rp=4&cp=2&min=4&fuel=nuclear-fuel&belt=express-transport-belt&dm=p3&db=s3&dbc=16&items=sulfuric-acid:f:2",
   "fileName": "handofsulfuras.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "authorId": "q4Wic4uh2hSwwX7VD7NB5ezoWMA2",
   "image": {
     "width": 1056,

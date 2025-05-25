@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1661481792000,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/smelting/"
+  ],
   "title": "One Science Per Second from Raw Materials"
 }

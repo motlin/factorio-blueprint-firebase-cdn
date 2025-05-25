@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/general/beaconized/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Kovarex enrichment process sushi belt(use productivity module)",
   "favorites": {
     "T0AeDXH6bPZ3YoTkuSEKa5lMehh2": true,

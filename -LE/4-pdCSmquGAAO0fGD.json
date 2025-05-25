@@ -16,10 +16,10 @@
     "type": "image/png",
     "width": 416
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/balancer/",
-    "3": "/version/0,16/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/fast transport belt (red)/",
+    "/belt/balancer/",
+    "/version/0,16/"
+  ]
 }

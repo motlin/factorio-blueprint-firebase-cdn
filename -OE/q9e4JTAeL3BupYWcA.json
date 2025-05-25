@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Q0DuwHq",
   "lastUpdatedDate": 1735001809519,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/elevated-rails/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/elevated-rails/"
+  ],
   "title": "Elevated T-junction",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,

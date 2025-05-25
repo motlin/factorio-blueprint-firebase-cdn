@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/73PxDkX",
   "lastUpdatedDate": 1732634365023,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Universal Robot Mall",
   "favorites": {
     "SOS2S8idyUNh1dENwGScRoQXo952": true,

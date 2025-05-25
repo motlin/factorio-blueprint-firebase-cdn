@@ -8,11 +8,11 @@
     "id": "jwUata7"
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "2:1 ratio bus splicers from 1-8 for all your mainbus needs",
   "author": {
     "userId": "fsujXE8yS3bt8WsRddiMsA5HNm62"

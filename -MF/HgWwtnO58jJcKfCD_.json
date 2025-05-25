@@ -9,12 +9,12 @@
   },
   "lastUpdatedDate": 1598041497433,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/logistic (bot) based/"
+  ],
   "favorites": {
     "7i9Oh5qiAvMdiy0Z1bGl97dTzG43": true,
     "93dOjzoJRVSEkD8AT4q3yZHHLed2": true

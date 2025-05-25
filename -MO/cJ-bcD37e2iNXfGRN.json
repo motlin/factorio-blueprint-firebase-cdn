@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1637059394876,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "CoRNeRNoTe's Uranium Power Plant"
 }

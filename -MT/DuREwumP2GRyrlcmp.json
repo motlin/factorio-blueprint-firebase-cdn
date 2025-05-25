@@ -19,9 +19,9 @@
   "createdDate": 1613010421134,
   "descriptionMarkdown": "All tasty spaghetti belt + a simple system that lets you recycle excess of red and yellow belts, splitters and underground belts",
   "lastUpdatedDate": 1613010572524,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/general/tileable/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ]
 }

@@ -38,9 +38,9 @@
   "imageUrl": "https://imgur.com/m7fMwHD",
   "lastUpdatedDate": 1731318807961,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Outpost Ship v5"
 }

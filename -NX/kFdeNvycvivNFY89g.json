@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1686584335124,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Basic Dual Smelting System",
   "favorites": {
     "4KJPr9vF6ydm5e9tzralXAJB0CI2": true

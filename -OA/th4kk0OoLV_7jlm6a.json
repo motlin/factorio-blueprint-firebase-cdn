@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/h5OviCC",
   "lastUpdatedDate": 1730864337399,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "White science Space Platform",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

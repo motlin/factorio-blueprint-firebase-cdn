@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1650176068114,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/production/belts/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/early game/"
+  ],
   "title": "early game belt addon",
   "favorites": {
     "eDjHy8TY4zX2woD5koPOYSs7YPz2": true,

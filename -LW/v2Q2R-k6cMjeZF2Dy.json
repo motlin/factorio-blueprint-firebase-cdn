@@ -1,11 +1,11 @@
 {
   "descriptionMarkdown": "20-5-17 Advanced oil cracking",
   "fileName": "oilbp.png",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "image": {
     "height": 594,
     "id": "e1qCAQ2",

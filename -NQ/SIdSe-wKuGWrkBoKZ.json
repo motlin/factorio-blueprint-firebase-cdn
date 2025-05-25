@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1678750160922,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/space-exploration/",
-    "3": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "SpaceEx + K2 early game science build",
   "favorites": {
     "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,

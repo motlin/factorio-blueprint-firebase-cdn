@@ -238,13 +238,13 @@
   },
   "lastUpdatedDate": 1560112459844,
   "numberOfFavorites": 195,
-  "tags": {
-    "4": "/train/right-hand-drive/",
-    "5": "/train/loading station/",
-    "0": "/mods/vanilla/",
-    "1": "/train/unloading station/",
-    "2": "/general/mid game/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/train/unloading station/",
+    "/general/mid game/",
+    "/version/0,17/"
+  ],
   "title": "Modular Balanced Unloading/Loading Station RHD (2-4)"
 }

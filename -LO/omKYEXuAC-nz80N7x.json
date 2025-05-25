@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1539557644724,
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/general/late game (megabase)/",
-    "3": "/production/oil processing/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Compressed Fuel Cube Factory",
   "favorites": {
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true

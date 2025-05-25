@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/yeTYTJL",
   "lastUpdatedDate": 1732840028661,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "Simple Automated Promethium Science Spaceship",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

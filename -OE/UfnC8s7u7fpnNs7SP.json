@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/qn0m2OU",
   "lastUpdatedDate": 1734624621596,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/space-age/"
+  ],
   "title": "Green circuit factory 8 green belts",
   "favorites": {
     "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true

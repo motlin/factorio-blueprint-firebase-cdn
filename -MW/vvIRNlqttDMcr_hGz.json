@@ -25,10 +25,10 @@
   },
   "lastUpdatedDate": 1616986847392,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Nuclear Reactor Variety Book "
 }

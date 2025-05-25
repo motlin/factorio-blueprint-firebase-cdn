@@ -9,11 +9,11 @@
   "descriptionMarkdown": "Factorissimo Friendly - highest-tier + modules",
   "fileName": "induction.PNG",
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,14/",
-    "0": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,14/",
+    "/mods/angels/"
+  ],
   "author": {
     "userId": "UlXf1N8EXUfddHj3a5NChfy0ssN2"
   },

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701253490386,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/smelting/"
+  ],
   "title": "Enriched Iron 1500/min",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5A5Ox0W",
   "lastUpdatedDate": 1737734559202,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Robotports",
   "favorites": {
     "ZtJbII9IEtMmTiA8rRnlfM5laG42": true,

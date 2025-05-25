@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1694899257521,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/lighted-electric-poles/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/lighted-electric-poles/",
+    "/mods/space-exploration/"
+  ],
   "title": "Old Base Trains",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,

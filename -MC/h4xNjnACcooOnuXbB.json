@@ -14,14 +14,14 @@
   },
   "fileName": "Production Cell.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "5": "/version/0,17/",
-    "0": "/production/logistic (bot) based/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/tileable/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/logistic (bot) based/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Production Cell",
   "favorites": {
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,

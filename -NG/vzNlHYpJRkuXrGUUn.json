@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1668527525159,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Train outpost for mining",
   "favorites": {
     "AgmzeVw4tcONF43ACIbBMSZqi8g1": true

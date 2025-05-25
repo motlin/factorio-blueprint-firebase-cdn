@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/YUam6rU",
   "lastUpdatedDate": 1730388901636,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar brick",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true

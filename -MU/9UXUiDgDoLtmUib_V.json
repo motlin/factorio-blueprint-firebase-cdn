@@ -23,16 +23,16 @@
   },
   "lastUpdatedDate": 1614010011547,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/late game (megabase)/",
-    "3": "/general/chunk aligned/",
-    "7": "/train/crossing/",
-    "8": "/train/right-hand-drive/",
-    "2": "/general/tileable/",
-    "4": "/train/junction/",
-    "5": "/train/roundabout/",
-    "6": "/train/track/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/late game (megabase)/",
+    "/general/chunk aligned/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/general/tileable/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/track/"
+  ],
   "title": "Prothid's Patterns v2.2a"
 }

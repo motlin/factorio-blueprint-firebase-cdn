@@ -23,12 +23,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/startyellowv2.PNG?alt=media&token=0e41d52b-4b88-461a-93eb-e40377e2b4d5",
   "lastUpdatedDate": 1613753843791,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/production/science/",
-    "3": "/general/mid game/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/science/",
+    "/general/mid game/",
+    "/production/belt based/"
+  ],
   "title": "Start Yellow from train v2"
 }

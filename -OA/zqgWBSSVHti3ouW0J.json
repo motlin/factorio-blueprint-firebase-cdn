@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/UafE4vC",
   "lastUpdatedDate": 1730869381392,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/combat/defense/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/combat/defense/"
+  ],
   "title": "Automatic Laser sleep defense (Автоматическая лазерная защита)",
   "favorites": {
     "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,

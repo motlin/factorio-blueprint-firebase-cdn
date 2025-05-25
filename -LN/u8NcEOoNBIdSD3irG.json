@@ -8,12 +8,12 @@
   },
   "lastUpdatedDate": 1538573830820,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "lq21OXMYllaYMEm2xypGLM9Z7AC2"
   },

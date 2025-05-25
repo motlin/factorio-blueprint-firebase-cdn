@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1698665930500,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Roboport with construction bot delay after attack",
   "favorites": {
     "Q3pXMD608Jf5t7HlClC2NyMd0VL2": true

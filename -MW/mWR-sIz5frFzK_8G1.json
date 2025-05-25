@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1646956336733,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/1,0/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/1,0/",
+    "/circuit/indicator/"
+  ],
   "title": "Space Exploration (SE) ArchoSphere Balancer"
 }

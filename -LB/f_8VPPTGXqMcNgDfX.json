@@ -22,11 +22,11 @@
   },
   "authorId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2",
   "createdDate": 1525444548782,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/mods/other/",
-    "3": "/version/0,16/",
-    "4": "/production/belt based/"
-  }
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/other/",
+    "/version/0,16/",
+    "/production/belt based/"
+  ]
 }

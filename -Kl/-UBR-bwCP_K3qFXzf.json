@@ -16,11 +16,11 @@
     "id": "m0AL4xD"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Power%20Indicator.PNG?alt=media&token=94d9df56-6724-4a2c-8c22-a73eca55ac09",
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Vvqoe2bsVnbqccT9GVUUSmbmHw22": true,
     "kBWgPSxlQ0MVRWCG8xImDV2WmU63": true,

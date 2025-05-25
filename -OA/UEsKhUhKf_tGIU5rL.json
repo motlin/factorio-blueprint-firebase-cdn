@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/sJh1onN",
   "lastUpdatedDate": 1730322919799,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Advanced Thruster Fuel Space platform template",
   "favorites": {
     "gZZEIowIsaNS7q4xKKXu9KR4Zti2": true,

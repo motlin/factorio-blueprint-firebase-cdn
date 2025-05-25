@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/KH0IKRB",
   "lastUpdatedDate": 1732402478639,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora scrap sorter",
   "favorites": {
     "VsCYHzZzYJNMkDOzNaPKg0Df7qn1": true,

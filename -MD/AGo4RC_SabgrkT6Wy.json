@@ -26,11 +26,11 @@
     "id": "nj6Xh5L",
     "type": "image/jpeg"
   },
-  "tags": {
-    "4": "/general/compact/",
-    "0": "/general/mid game/",
-    "1": "/version/0,18/",
-    "2": "/production/other/",
-    "3": "/general/tileable/"
-  }
+  "tags": [
+    "/general/compact/",
+    "/general/mid game/",
+    "/version/0,18/",
+    "/production/other/",
+    "/general/tileable/"
+  ]
 }

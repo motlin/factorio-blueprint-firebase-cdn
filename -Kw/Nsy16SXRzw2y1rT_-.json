@@ -13,9 +13,9 @@
   "fileName": "T Balancers.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/T%20Balancers.png?alt=media&token=256a7561-df47-46b0-8df4-e9cd155f407b",
   "lastUpdatedDate": 1507951167661,
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "author": {
     "userId": "VafCYo5rcCfqFmgttkSwhSvsaXn1"
   },

@@ -3,11 +3,11 @@
   "descriptionMarkdown": "Red science 180 per min.",
   "fileName": "Red science.jpg",
   "lastUpdatedDate": 1557632707998,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "oFqnuTnk6YNTjcCvbFz7c23IYKs2"
   },

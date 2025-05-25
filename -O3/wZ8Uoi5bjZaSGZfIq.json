@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/nD04XiL",
   "lastUpdatedDate": 1723297994883,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Module production"
 }

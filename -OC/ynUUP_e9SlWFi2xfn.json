@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/noEsVeT",
   "lastUpdatedDate": 1732999985080,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Advanced Shuttle",
   "favorites": {
     "VPeEj14yG3XTxPeN7vg6GoFRPub2": true,

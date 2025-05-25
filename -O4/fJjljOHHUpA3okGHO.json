@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/At1MoRi",
   "lastUpdatedDate": 1724581868682,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "All in One (monoblock science)"
 }

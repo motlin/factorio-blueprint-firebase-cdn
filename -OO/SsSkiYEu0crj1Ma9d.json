@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/voSlE2U",
   "lastUpdatedDate": 1745339634688,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/planets/space-platform/"
+  ],
   "title": "Beginning Nuclear Interplanetary Ship"
 }

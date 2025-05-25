@@ -11,12 +11,12 @@
   "createdDate": 1519792366614,
   "fileName": "crossing.png",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/0,15/",
-    "2": "/mods/bobs/",
-    "3": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/0,15/",
+    "/mods/bobs/",
+    "/train/left-hand-drive/"
+  ],
   "author": {
     "userId": "8X4HTE2S7rbmdgmxRz10MxY9M8X2"
   },

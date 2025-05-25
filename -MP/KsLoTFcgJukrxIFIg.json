@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1637823376891,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Various smart loaders",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true

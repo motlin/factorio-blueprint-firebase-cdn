@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1690903910506,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Rocket Parts 30spm",
   "favorites": {
     "TN6ewrEhqUbGr70NzE4KpYoIzjB2": true,

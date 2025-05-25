@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1658694832209,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/train/unloading station/"
+  ],
   "title": "1 Unloading Wagon",
   "favorites": {
     "MDjqeFkDzeWhsoXhQLVsGbWOsre2": true,

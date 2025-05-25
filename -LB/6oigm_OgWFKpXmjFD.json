@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1524844653767,
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/production/robots/",
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Bot Rush Base"
 }

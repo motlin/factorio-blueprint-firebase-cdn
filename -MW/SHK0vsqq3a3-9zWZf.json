@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1645463818376,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "title": "Steam storage for solar",
   "favorites": {
     "oUiGLHVg7lfyt4UHU9QAOynBHsv1": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1692239576032,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/other/",
-    "2": "/mods/aai/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/other/",
+    "/mods/aai/"
+  ],
   "title": "Spaceship Scheduler",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%201.1.57%202022.04.11%2009_03_20.jpg?alt=media&token=b8723e6f-e15a-469c-b699-15e16b764ee5",
   "favorites": {

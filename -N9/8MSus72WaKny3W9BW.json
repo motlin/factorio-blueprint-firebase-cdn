@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1660173326658,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/storage/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/storage/",
+    "/version/0,15/"
+  ],
   "title": "Belt storage sorter, expandable"
 }

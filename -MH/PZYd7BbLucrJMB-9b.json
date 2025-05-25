@@ -14,12 +14,12 @@
     "type": "image/jpeg",
     "width": 3739
   },
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/tileable/"
+  ],
   "title": "Processing Units (Blue Circuits)",
   "createdDate": 1600321109862,
   "favorites": {

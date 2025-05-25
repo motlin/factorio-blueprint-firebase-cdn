@@ -3,13 +3,13 @@
   "descriptionMarkdown": "**The Solar Flare** \n\n* Provides 12,6MW of power.\n* uses 99,90% of the space\n* 3,277KW/tile\n* 62x62 - can be chunkaligned to 2x2 chunks with a 2-wide walkway between modules\n* roboports to automatically expand\n\n93,65% space usage if you align it with the chunks, that also reduces the space to power ratio to 3,07KW/tile.\n\nFor comparison, another popular BP, the 18:15 'Easy-tile Solar Array' by [Zach “Sierra” Sykes](https://factorioprints.com/view/-KYeNAYQVgk2DcbuORde)(Thank you, I've been using that alot!) has *3,256*KW/tile while crammed(Calculated via Accumulators as that is the limiting factor for his BP) \n\nI wanted a chunkaligned Solar BP so I started throwing something together and this happened to have the perfect ratio, as this is quite efficient, I thought I'd share it! Have been using community Blueprints for a long time, so im glad I can give something back :)\n\nHave fun!\n",
   "lastUpdatedDate": 1598781404624,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/general/chunk aligned/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/chunk aligned/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "c7L1GCeob8eTIooe2lskKggRthq2"
   },

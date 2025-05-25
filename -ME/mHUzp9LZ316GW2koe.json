@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1626491483783,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "Red Science 1K SPM",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/RedScience_mk3.png?alt=media&token=1d62a842-1545-464d-83c4-6220211b994f",
   "favorites": {

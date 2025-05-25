@@ -3,11 +3,11 @@
   "createdDate": 1500041390444,
   "descriptionMarkdown": "For those who like big robo bases: here it is, enough storage, alot of robo ports, and self defense capabilities.",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "F4CnYtdFZFSgzGU6v0a1gEEGFi23"
   },

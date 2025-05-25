@@ -257,10 +257,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-08-18%2018_43_27-Factorio%200.15.33.png?alt=media&token=5bb85719-cee8-486b-b763-ab9c2d8e3630",
   "lastUpdatedDate": 1504701816839,
   "numberOfFavorites": 371,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Unloading Station"
 }

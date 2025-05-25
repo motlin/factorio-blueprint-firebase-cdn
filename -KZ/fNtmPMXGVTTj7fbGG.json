@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1511624864817,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,15/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,15/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Angels Ingots end game blueprints"
 }

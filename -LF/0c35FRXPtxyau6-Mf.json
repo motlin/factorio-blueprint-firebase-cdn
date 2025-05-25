@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "EuA0qrMegObNUi83yFVJllIgCAO2"
   },

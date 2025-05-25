@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1679025855423,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,15/",
-    "2": "/power/accumulator/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,15/",
+    "/power/accumulator/"
+  ],
   "title": "Power + alarm + protection"
 }

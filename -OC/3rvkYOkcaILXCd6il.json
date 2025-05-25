@@ -24,10 +24,10 @@
   "imageUrl": "https://imgur.com/ovgGJpX",
   "lastUpdatedDate": 1732027362853,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Large Aquilo Miner"
 }

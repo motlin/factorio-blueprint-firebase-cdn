@@ -2,14 +2,14 @@
   "createdDate": 1598646573700,
   "descriptionMarkdown": "A compact blueprint to optimize the production of red and green sciences. Really nice base to start a new game.\nIt takes in entry iron and copper, and as output a belt of red/green science.\n\nEasily extendable. This print is a 30/minute version. But you can start smaller, with only a few machines and scale later.\n\nIn mid-game, when you have better input and need more production, you can upgrade any machine and inserters. With tier-3 machines, this small factory goes up to 150 sciences/min.",
   "lastUpdatedDate": 1598646573700,
-  "tags": {
-    "2": "/production/science/",
-    "3": "/version/1,0/",
-    "4": "/general/mid game/",
-    "5": "/general/compact/",
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/1,0/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Early red/green sciences",
   "favorites": {
     "GdAs1mYa1LYVelXje1TORJRCWdM2": true,

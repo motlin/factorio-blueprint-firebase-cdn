@@ -11,12 +11,12 @@
   "authorId": "zhUeoa6LsAfoXie3OaWgXEWgoIQ2",
   "fileName": "Copper Segments.png",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/other/",
-    "2": "/general/tileable/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/other/",
+    "/general/tileable/",
+    "/general/early game/"
+  ],
   "image": {
     "type": "image/png",
     "width": 811,

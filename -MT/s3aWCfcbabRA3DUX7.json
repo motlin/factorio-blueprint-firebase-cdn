@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1642717589694,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/power/accumulator/"
+  ],
   "title": "Radar outpost",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/23%EF%BC%9A26%EF%BC%9A15%20(2038).png?alt=media&token=e1ad7e16-34fc-4739-94e1-f1178685adad",
   "favorites": {

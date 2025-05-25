@@ -17,11 +17,11 @@
   "authorId": "YXRQB0a8BCRzi6inOA0c0uQPUvP2",
   "createdDate": 1485735909589,
   "descriptionMarkdown": "Inputs from left to right: plastic, iron plates, copper plates. Side outputs. Ratios are perfect. I use level 3 assemblers with speed and production modules because red circuits take forever, but all level 2 works as well.",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/",
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/production/advanced circuit (red)/"
+  ],
   "favorites": {
     "BDSknEGR8PSRBOMra2FJ5NST3o22": true,
     "EsPCzJ1v9UZ3TXCVymxJATrp1Cw2": true,

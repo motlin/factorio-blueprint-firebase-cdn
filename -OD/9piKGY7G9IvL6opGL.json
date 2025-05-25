@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/2EOec8V",
   "lastUpdatedDate": 1733237130910,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "LTN-Like Train System",
   "favorites": {
     "I8l6TkoRUxOGLp9WRBs7DqichRo2": true,

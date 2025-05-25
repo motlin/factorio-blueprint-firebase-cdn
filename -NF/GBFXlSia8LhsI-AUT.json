@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1695726766561,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/",
-    "3": "/general/mid game/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/1,1/",
+    "/general/mid game/",
+    "/general/compact/"
+  ],
   "title": "Robert's Microblock Base Book"
 }

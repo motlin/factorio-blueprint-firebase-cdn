@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/version/0,15/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/version/0,15/",
+    "/general/early game/"
+  ],
   "favorites": {
     "yKRaLadQqoeVAoQi8VZWpaNwUqv1": true,
     "hwNYCmPQ7vfFz59JFt5ncXfjtei1": true,

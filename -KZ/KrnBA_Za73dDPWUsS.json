@@ -9,10 +9,10 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Captura%20de%20ecra%CC%83%202017-11-19%2C%20a%CC%80s%2019.38.00.png?alt=media&token=99bcd332-fa66-4fb6-a68d-22598d4d5551",
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/"
+  ],
   "favorites": {
     "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
     "yZIIGymC7MdnplmIoNS3OnFPqWf2": true,

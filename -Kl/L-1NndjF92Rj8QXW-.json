@@ -2,12 +2,12 @@
   "fileName": "Grey science.png",
   "lastUpdatedDate": 1496153104803,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "descriptionMarkdown": "Need factory 3 but could be ok with factory 2 and speed up module...\nAll inputs could be dual lane.",
   "image": {
     "width": 691,

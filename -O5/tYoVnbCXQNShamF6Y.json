@@ -43,9 +43,9 @@
   "imageUrl": "https://imgur.com/Xtn5098",
   "lastUpdatedDate": 1725395063261,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "The Science Book"
 }

@@ -12,11 +12,11 @@
   },
   "descriptionMarkdown": "In factorio 0.15 it is possible to carry out military science based research before oil processing has been researched. This means that you have to produce military science packs without level 3 assemblers (which are made using modules which need red circuits which need plastics which are made from gas which is made from oil!)\n\nHere's a design that will produce 1 military science pack per second. It's designed to take the raw materials from a bus (because bots need batteries made from sulphuric acid made from sulphur made from gas made fom oil...)\n\nThe screenshot shows what you need on each half belt, that's iron plate, copper plate, steel and coal. The design exploits the new underground belt distances for red belt, and there's some underground belt right of the centre (by width) of the build, to reduce the overall width.\n\nThe build produces about 3 grenades per minute more than are required, and 3 gun turrets per minute too, if you need them!\n\nNote: You could replace the 9 Assembler 1 machines making grenades with 6 Assembler 2 machines, and the 6 Assembler 1 gear makers with 4 Assembler 2s. I wanted to use the cheapest machines and inserters that I could.",
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
   },

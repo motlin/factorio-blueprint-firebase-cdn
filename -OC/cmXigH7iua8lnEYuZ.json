@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/FVQwuH8",
   "lastUpdatedDate": 1732629932622,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/production/modules/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/production/modules/"
+  ],
   "title": "Module Assembler",
   "favorites": {
     "H3QlaVpvadfVuTpGGxs7016oR2K3": true,

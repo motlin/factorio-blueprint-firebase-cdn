@@ -123,9 +123,9 @@
   },
   "lastUpdatedDate": 1592937979995,
   "numberOfFavorites": 94,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Vanilla Malls - Early to End Game"
 }

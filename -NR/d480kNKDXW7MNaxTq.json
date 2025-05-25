@@ -25,10 +25,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/umbrella1.1.PNG?alt=media&token=f32dd23d-bbaa-4444-958b-58728d376c73",
   "lastUpdatedDate": 1680288791572,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/power/steam/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/power/steam/",
+    "/power/solar/"
+  ],
   "title": "Space Exploration 0.6.104 Nauvis CME Protection Umbrella"
 }

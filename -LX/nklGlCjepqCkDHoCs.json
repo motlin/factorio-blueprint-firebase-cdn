@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1549204408719,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/science/",
-    "2": "/power/steam/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/power/steam/",
+    "/mods/other/"
+  ],
   "title": "This For Own Game"
 }

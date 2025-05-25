@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1508686635674,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/train/track/",
+    "/version/0,15/"
+  ],
   "title": "4-track railway project"
 }

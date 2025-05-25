@@ -12,13 +12,13 @@
     "type": "image/jpeg",
     "width": 1630
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/version/0,15/",
-    "4": "/version/0,17/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/version/0,17/",
+    "/production/smelting/"
+  ],
   "favorites": {
     "p6R95GBcvPUte4biOoZslT6Fmyt2": true,
     "H99DxSEod5X7fPcc5DV4mypq9K13": true,

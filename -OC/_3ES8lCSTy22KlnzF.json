@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/e6XUGUm",
   "lastUpdatedDate": 1732567431318,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/prioritizer/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/belt/fast transport belt (red)/",
+    "/mods/space-age/"
+  ],
   "title": "Fulgora Sorter",
   "favorites": {
     "hvNdjEvEeLSSyd3IOMw8rhapJoN2": true,

@@ -3,10 +3,10 @@
   "fileName": "rail build.PNG",
   "lastUpdatedDate": 1518424767666,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/other/"
+  ],
   "title": "Rails and trains",
   "author": {
     "userId": "rpFlsmknFtYwmBUtI2HFZCkwXp92"

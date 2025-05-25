@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "createdDate": 1547677498381,
   "descriptionMarkdown": "1x2 cap for a GigaReactor",
   "image": {

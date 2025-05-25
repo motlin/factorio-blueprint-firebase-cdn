@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1616856307884,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/unloading station/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Unloading station with filtered inserters",
   "favorites": {
     "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true

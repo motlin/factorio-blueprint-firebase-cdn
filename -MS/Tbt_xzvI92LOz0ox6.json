@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1612200254263,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/beaconized/"
+  ],
   "title": "Sushi Factory"
 }

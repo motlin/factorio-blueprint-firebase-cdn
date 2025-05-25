@@ -11,11 +11,11 @@
     "type": "image/jpeg",
     "width": 1280
   },
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Trains - branch",
   "authorId": "6hzltI5ohhc1aFegbGXKwRMTVFl1",
   "fileName": "Snímek obrazovky 2017-08-13 v 19.20.32.png",

@@ -8,14 +8,14 @@
   },
   "lastUpdatedDate": 1513650396391,
   "numberOfFavorites": 103,
-  "tags": {
-    "2": "/general/compact/",
-    "3": "/general/early game/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "author": {
     "userId": "15kIx0oGGTaDL8hsyhiDi7WFR402"
   },

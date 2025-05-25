@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/q4BKyQF",
   "lastUpdatedDate": 1732355840658,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/science/",
-    "2": "/production/robots/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/science/",
+    "/production/robots/"
+  ],
   "title": "Fulgora only Robots no Trains and automated sorter system with 1 combinator",
   "favorites": {
     "F5qYhVYsMVMhg5R0ZG4HEznEnvv1": true,

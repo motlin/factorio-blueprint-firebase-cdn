@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/8a7BDqN",
   "lastUpdatedDate": 1731169109185,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/production/advanced circuit (red)/",
-    "3": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Atems Green Red and Blue Circuits (Post Vulcanus & Post Fulgora)",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

@@ -33,8 +33,8 @@
   },
   "lastUpdatedDate": 1617120536609,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "2L Rail Network"
 }

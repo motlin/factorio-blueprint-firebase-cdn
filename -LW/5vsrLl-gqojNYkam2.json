@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1547378333262,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/",
+    "/train/track/"
+  ],
   "title": "top end cap of a rail square for rail grid"
 }

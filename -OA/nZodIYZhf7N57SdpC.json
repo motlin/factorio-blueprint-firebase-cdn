@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dPi2O6T",
   "lastUpdatedDate": 1732224354573,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Fuel-optimised space hauler v3",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

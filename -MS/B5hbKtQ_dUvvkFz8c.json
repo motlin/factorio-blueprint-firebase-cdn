@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1640880593527,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Mini ( and fast ) auto miner ",
   "favorites": {
     "3kOljLXzQ4UiOGRyNojqbMn5CVy2": true,

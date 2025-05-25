@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Lcu9UZJ",
   "lastUpdatedDate": 1736052373992,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/power/solar/"
+  ],
   "title": "Space platform tiles AUTO miner",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

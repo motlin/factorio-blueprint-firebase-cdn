@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1689668349039,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/general/early game/"
+  ],
   "title": "Belt Balancers (Yellow, Red, Blue)",
   "favorites": {
     "FGwAOBd99eYasqHejVj72X9TPYG3": true,

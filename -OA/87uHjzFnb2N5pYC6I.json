@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/UXvPYmS",
   "lastUpdatedDate": 1729953047997,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/train/junction/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Cloverleaf intersection without intercepting merging traffic",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true

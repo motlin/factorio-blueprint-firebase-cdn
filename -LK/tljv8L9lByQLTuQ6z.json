@@ -17,10 +17,10 @@
   },
   "lastUpdatedDate": 1535346409363,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ],
   "authorId": "rzQJFqmsMzSg8PPL8pAewgZiLRG2",
   "createdDate": 1535346409363,
   "descriptionMarkdown": "Well, cause i can and i needed one."

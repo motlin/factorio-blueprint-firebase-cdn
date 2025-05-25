@@ -81,14 +81,14 @@
   "imageUrl": "https://imgur.com/zNGeLBV",
   "lastUpdatedDate": 1729959040762,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/",
-    "3": "/production/oil processing/",
-    "4": "/production/plastic/",
-    "5": "/production/belt based/",
-    "6": "/version/2,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/production/oil processing/",
+    "/production/plastic/",
+    "/production/belt based/",
+    "/version/2,0/"
+  ],
   "title": "All-In-One Oil Bus"
 }

@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1697308964757,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/ltn/",
-    "2": "/version/1,1/",
-    "3": "/general/late game (megabase)/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/ltn/",
+    "/version/1,1/",
+    "/general/late game (megabase)/",
+    "/mods/other/"
+  ],
   "title": "Tiny Grid Rail System"
 }

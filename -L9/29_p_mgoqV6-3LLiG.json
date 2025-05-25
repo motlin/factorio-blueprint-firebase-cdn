@@ -20,9 +20,9 @@
     "id": "uhHJ2dl"
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "Factorio Roads Book",
   "authorId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"
 }

@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1528351844513,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "Speed Module 3 / Blue chip & SM1"
 }

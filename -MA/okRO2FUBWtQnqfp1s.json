@@ -22,11 +22,11 @@
   },
   "authorId": "NakWn0HsWLMY3ZLlCsIhfO5d3Bk1",
   "descriptionMarkdown": "Fully consumes two blue belts of green circuits.\n\nGenerates nearly half a yellow belt of blue circuits.",
-  "tags": {
-    "3": "/version/0,17/",
-    "4": "/general/tileable/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/general/tileable/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ]
 }

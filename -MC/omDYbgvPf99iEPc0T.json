@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1624743558029,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/train/left-hand-drive/",
-    "4": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/left-hand-drive/",
+    "/train/track/"
+  ],
   "title": "4 Way Small Junction v3",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4wayv3.PNG?alt=media&token=ad6d992d-6780-482f-a38e-0e7ddadd30f4",
   "favorites": {

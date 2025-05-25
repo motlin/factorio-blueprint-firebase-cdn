@@ -3,13 +3,13 @@
   "createdDate": 1519161988331,
   "descriptionMarkdown": "Fully belt based blue circuits module.\n\nProduces and consumes on site 4 blue belts of green circuits.",
   "numberOfFavorites": 15,
-  "tags": {
-    "3": "/version/0,15/",
-    "4": "/production/belt based/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/belt based/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "6ER09KSmN6RVnJdujQzE4ZkCE5F3"
   },

@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "favorites": {
     "AWXVB0E6gfQeIrVuS5OWi4XSVXn1": true,
     "enWCaHke5FNS56MIccnBw47htAj1": true,

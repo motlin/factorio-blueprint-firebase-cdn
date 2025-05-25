@@ -15,13 +15,13 @@
     "type": "image/jpeg",
     "width": 1096
   },
-  "tags": {
-    "3": "/version/0,15/",
-    "4": "/general/late game (megabase)/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconed Blue Science 1k/min (Robo fed)",
   "favorites": {
     "NpGG8P3qIjQvxgDkJYYMgkukM1B2": true

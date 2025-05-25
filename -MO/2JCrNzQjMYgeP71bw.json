@@ -11,13 +11,13 @@
     "width": 1696
   },
   "lastUpdatedDate": 1607447141984,
-  "tags": {
-    "3": "/production/coal liquification/",
-    "4": "/general/compact/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/"
+  ],
   "title": "[WIP] Fully automatic сoal liquefaction Mk1",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

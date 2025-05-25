@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/T4UjRUX.png",
   "lastUpdatedDate": 1737692599139,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/mods/vanilla/"
+  ],
   "title": "Атомная станция на 489 МВт.",
   "favorites": {
     "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true

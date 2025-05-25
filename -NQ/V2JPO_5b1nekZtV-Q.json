@@ -35,11 +35,11 @@
   },
   "lastUpdatedDate": 1678796270591,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/production/research (labs)/",
-    "2": "/general/early game/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Jump Start Bootstrap v3.5"
 }

@@ -18,15 +18,15 @@
   "createdDate": 1531568334438,
   "fileName": "factorio_2018-07-14_13-24-52.png",
   "numberOfFavorites": 10,
-  "tags": {
-    "5": "/belt/transport belt (yellow)/",
-    "6": "/production/science/",
-    "7": "/version/0,15/",
-    "0": "/version/0,16/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/production/research (labs)/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/science/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/general/compact/"
+  ],
   "title": "Thin red + green science EARLY GAME THIN COMPACT"
 }

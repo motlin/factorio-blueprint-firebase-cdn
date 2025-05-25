@@ -26,12 +26,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/0.17base.2019.04.10.jpg?alt=media&token=7f423134-c84d-4012-82b4-4e6a16bab0bf",
   "lastUpdatedDate": 1554993298944,
   "numberOfFavorites": 11,
-  "tags": {
-    "2": "/train/junction/",
-    "3": "/train/track/",
-    "4": "/train/left-hand-drive/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Bulldog Rail Main Line"
 }

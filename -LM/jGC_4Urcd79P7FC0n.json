@@ -16,11 +16,11 @@
   "fileName": "20190820154234_1.jpg",
   "lastUpdatedDate": 1566308620732,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true
   }

@@ -164,8 +164,8 @@
   "imageUrl": "https://imgur.com/UBuPUoG",
   "lastUpdatedDate": 1732384712873,
   "numberOfFavorites": 64,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora all production, no mods, game version 2.0+"
 }

@@ -4,10 +4,10 @@
   "lastUpdatedDate": 1555420804695,
   "numberOfFavorites": 17,
   "title": "Extendable 4 nuclear to 8 with one blueprint",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "9siArDXbHBW05l4hlNQBPRO56JI3"
   },

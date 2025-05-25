@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1600269129558,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/mall (make everything)/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/mall (make everything)/",
+    "/general/early game/"
+  ],
   "favorites": {
     "FTxPtnIyicQR6EVLc8XZJNambtX2": true,
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true

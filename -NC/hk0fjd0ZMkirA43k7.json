@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1664346260534,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/production/inserters/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/production/inserters/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Bot-based Mall",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

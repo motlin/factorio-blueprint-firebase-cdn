@@ -23,9 +23,9 @@
     "type": "image/png",
     "width": 237
   },
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/general/ups friendly/"
-  }
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/general/ups friendly/"
+  ]
 }

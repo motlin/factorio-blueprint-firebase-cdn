@@ -7,13 +7,13 @@
   "createdDate": 1590659681078,
   "descriptionMarkdown": "My personal facility for the kovarex enrichment process. It's a diffcult cookie. I wanted to make a self-feeding facility with productivity modules in it. The 'problem' here is every now and then you get an extra U-235 from the productivity modules. If you don't take care of that extra U-235, eventually your centrifuge will get too full and will get stuck. I made a facility to solve that problem.\n\nTo start this machine you need put 40 U-235 in the machine yourself, from then on it's self regulating. Have fun! Feel free to give feedback or ask questions.",
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/version/0,18/",
-    "3": "/general/tileable/",
-    "4": "/power/nuclear/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/general/tileable/",
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Kovarex Enrichment - Beaconed & self feeding",
   "fileName": "kovamodu.png",
   "image": {

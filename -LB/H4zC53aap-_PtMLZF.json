@@ -4,10 +4,10 @@
   "createdDate": 1525016949906,
   "descriptionMarkdown": "A cheap, small radar layout that is compact.",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "f0507upfapWN5vIBMIWFvvg0oO93"
   },

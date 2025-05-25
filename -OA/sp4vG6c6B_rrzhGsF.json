@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/vkBC3wW",
   "lastUpdatedDate": 1730751520609,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/version/2,0/"
+  ],
   "title": "ASH Gleba Farm, Energy, Biochamber",
   "favorites": {
     "XpW4mF3DqhTkFR1oCcRy45KCDzb2": true,

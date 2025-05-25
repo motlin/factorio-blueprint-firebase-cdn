@@ -31,8 +31,8 @@
   "imageUrl": "https://imgur.com/MfH0suy",
   "lastUpdatedDate": 1725394005069,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "The Gathering Book"
 }

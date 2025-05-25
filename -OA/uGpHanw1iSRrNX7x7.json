@@ -20,15 +20,15 @@
   "imageUrl": "https://imgur.com/w8lC7g6",
   "lastUpdatedDate": 1730775832062,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/gleba/",
-    "5": "/planets/fulgora/",
-    "6": "/planets/vulcanus/",
-    "7": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/aquilo/"
+  ],
   "title": "Zyra MK1 all space exploration"
 }

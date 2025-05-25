@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1642589041077,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/"
+  ],
   "title": "60k/min Petroleum ",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

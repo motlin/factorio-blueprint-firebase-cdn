@@ -37,13 +37,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/test.png?alt=media&token=a78664c0-ea66-4fee-8fda-f75e62e9382e",
   "lastUpdatedDate": 1624905018779,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/version/1,0/"
+  ],
   "title": "Crusader's Lane Balancer Book"
 }

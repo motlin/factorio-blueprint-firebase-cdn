@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1674870713259,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,15/"
+  ],
   "title": "7-Segment Display with Drive Logic (tileable)"
 }

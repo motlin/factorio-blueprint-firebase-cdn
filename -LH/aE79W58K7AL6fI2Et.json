@@ -102,12 +102,12 @@
   },
   "lastUpdatedDate": 1560863965756,
   "numberOfFavorites": 81,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/rocket parts/",
-    "2": "/production/science/",
-    "3": "/general/mid game/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "title": "(Not so) Compact 60 SPM Factory Layout (Mark VIII)"
 }

@@ -8,10 +8,10 @@
   },
   "lastUpdatedDate": 1576187124250,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "8RR8Mz5Z8HRbYbXKOBOodtKxHOq2"
   },

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1669664858771,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/crossing/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/crossing/",
+    "/train/unloading station/"
+  ],
   "title": "Все поезда",
   "favorites": {
     "ISoPedemzbb4blqipRj8El9xLJv1": true,

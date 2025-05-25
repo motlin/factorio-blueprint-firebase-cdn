@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1653314895229,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/"
+  ],
   "title": "for cityblocks mega railwais",
   "favorites": {
     "lMPRklTqYjWsHuLAiXuT390ESuP2": true,

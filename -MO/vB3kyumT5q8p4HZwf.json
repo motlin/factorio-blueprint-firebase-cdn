@@ -7,11 +7,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "64 cell City Block Thermal Power Plant",
   "favorites": {
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,

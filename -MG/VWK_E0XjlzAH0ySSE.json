@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1628338346258,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/production/science/",
-    "2": "/general/early game/",
-    "3": "/version/1,0/",
-    "4": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/production/science/",
+    "/general/early game/",
+    "/version/1,0/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "120p/m green packs AAI",
   "favorites": {
     "nUPbr4QxmLetDqapHYP0bhGgVpf2": true,

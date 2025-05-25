@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1659125704421,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/junction/"
+  ],
   "title": "Train Shuttle"
 }

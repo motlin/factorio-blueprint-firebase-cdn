@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/0M11i4x",
   "lastUpdatedDate": 1731750836222,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Red Circuit (240 / sec)",
   "favorites": {
     "TzhqBW7fIDglhIrnqyTPGdmnluq1": true,

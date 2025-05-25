@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/sQU8G0k",
   "lastUpdatedDate": 1726523668330,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de plástico vers. 2.0"
 }

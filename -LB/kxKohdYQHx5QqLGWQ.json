@@ -10,11 +10,11 @@
     "width": 1435
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/version/0,16/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/version/0,16/",
+    "/train/loading station/"
+  ],
   "title": "Botless Outpost and Railway Train",
   "author": {
     "userId": "5J8VNrozFbabqBm0qUIqML4zsri1"

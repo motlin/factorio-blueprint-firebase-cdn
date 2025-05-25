@@ -29,12 +29,12 @@
   },
   "lastUpdatedDate": 1556124643811,
   "numberOfFavorites": 22,
-  "tags": {
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/version/0,16/",
-    "4": "/train/pax/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,16/",
+    "/train/pax/",
+    "/mods/vanilla/"
+  ],
   "title": "AID - Automatic Item Delivery (train network)"
 }

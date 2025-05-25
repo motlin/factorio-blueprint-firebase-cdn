@@ -19,9 +19,9 @@
     "type": "image/jpeg",
     "width": 1671
   },
-  "tags": {
-    "2": "/general/beaconized/",
-    "0": "/production/oil processing/",
-    "1": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/general/beaconized/",
+    "/production/oil processing/",
+    "/general/late game (megabase)/"
+  ]
 }

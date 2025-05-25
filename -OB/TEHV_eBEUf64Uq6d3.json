@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ac8rN9x",
   "lastUpdatedDate": 1731379144792,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Space Science!!!",
   "favorites": {
     "Y5LJYEi6pPTtzqY8AJlDhQ5lvkC2": true,

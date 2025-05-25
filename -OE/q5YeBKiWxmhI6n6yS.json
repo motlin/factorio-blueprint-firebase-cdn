@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/y6cUkyB",
   "lastUpdatedDate": 1735000734627,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/train/track/",
+    "/mods/space-age/"
+  ],
   "title": "Elevated Rail Snap",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,

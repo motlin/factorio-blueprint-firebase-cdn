@@ -19,9 +19,9 @@
     "zR082GLWBDUFFOPqlIYoxbN49Kz2": true
   },
   "authorId": "7RkdLzRhaFSxmrDyHTlbEygk9Fs2",
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/indicator/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ]
 }

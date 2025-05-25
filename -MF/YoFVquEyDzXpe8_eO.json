@@ -31,13 +31,13 @@
   },
   "lastUpdatedDate": 1598328808961,
   "numberOfFavorites": 12,
-  "tags": {
-    "3": "/production/belt based/",
-    "4": "/production/other/",
-    "5": "/power/steam/",
-    "0": "/production/smelting/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/other/",
+    "/power/steam/",
+    "/production/smelting/",
+    "/mods/factorissimo/",
+    "/version/1,0/"
+  ],
   "title": "Factorissimo Facilities"
 }

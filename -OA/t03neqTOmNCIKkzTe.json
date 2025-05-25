@@ -31,12 +31,12 @@
   "imageUrl": "https://imgur.com/04NP2lj",
   "lastUpdatedDate": 1730754979207,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/planets/nauvis/",
-    "2": "/production/belt based/",
-    "3": "/production/mall (make everything)/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/planets/nauvis/",
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/version/2,0/"
+  ],
   "title": "Make Everything Book"
 }

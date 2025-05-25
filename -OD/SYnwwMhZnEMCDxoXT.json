@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/3Ts1ZwA",
   "lastUpdatedDate": 1733515231382,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/roundabout/"
+  ],
   "title": "Mining outpost",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

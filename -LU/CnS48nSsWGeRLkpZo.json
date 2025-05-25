@@ -6,11 +6,11 @@
     "id": "uc1y909"
   },
   "lastUpdatedDate": 1545346077126,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true
   },

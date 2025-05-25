@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1686110653745,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/power/nuclear/"
+  ],
   "title": "Enrichy Rich - To Enrich Uranium"
 }

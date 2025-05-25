@@ -5,11 +5,11 @@
   "createdDate": 1571631633995,
   "descriptionMarkdown": "I saturated my ~60MW steam array after building up production (purple) science, and decided to go for nuclear this run. I've played the game for close to 400 hours while only using steam and solar, and I put off learning uranium processing because I thought it was too complicated. However, when I did the work and came up with some factory designs capable dealing with the various ratios and probabilities, it felt pretty great!\n\nThough there are some cabling remnants of circuit networks in this, I haven't implemented any kind of efficiency logic. At this scale I doubt it matters much; even when constantly running it uses barely any resources (my production stats say it is using about 10-20 uranium ore per minute).\n",
   "fileName": "tokumei-480mw.jpg",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
     "NjB2DwrYKsfrOhfH9xT6YQQY7Sg2": true,

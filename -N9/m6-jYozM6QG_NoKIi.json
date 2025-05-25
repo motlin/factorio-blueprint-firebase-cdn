@@ -31,11 +31,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%20factorio%204.png?alt=media&token=5e8111bf-aa4f-4b29-b18d-b76c6f5f1c84",
   "lastUpdatedDate": 1734465414497,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/mods/vanilla/",
-    "2": "/train/left-hand-drive/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/train/left-hand-drive/",
+    "/version/1,1/"
+  ],
   "title": "Alternative 1.1 City Block?"
 }

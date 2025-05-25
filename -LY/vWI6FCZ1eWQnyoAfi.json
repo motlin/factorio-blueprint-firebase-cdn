@@ -12,11 +12,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Circle power meter",
   "createdDate": 1550408036965,
   "descriptionMarkdown": "The lamps light up 1 by 1 as the monitored signal goes from 0 to 100. Blueprint comes with accumulator, but you can replace it and send in any other signal to monitor. Just make sure the input is max 100, so for example a fluid tank with petroleum signal would have a max of 25000. Send it first to arithmetic combinator and divide by 250. Then red wire the output to either one of the inputs of decider combinators.\n\nAs for tiles, it looks best when placed on refined concrete, but feel free to edit concrete blocks away if you want to use the blueprint in earlier game.",

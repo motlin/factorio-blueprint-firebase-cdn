@@ -12,11 +12,11 @@
   "fileName": "cn9rz0bm.bmp",
   "lastUpdatedDate": 1548877193301,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/bobs/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "jDKLAD5kzNWlBE5Dl51VQNXzmOW2"
   },

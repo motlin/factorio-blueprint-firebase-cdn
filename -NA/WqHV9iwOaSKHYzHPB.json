@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1662591678962,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Uranium 235 Processor",
   "favorites": {
     "NUmZd3tNEDg5i8sLwcvngWoJnpX2": true,

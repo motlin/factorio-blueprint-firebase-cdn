@@ -18,11 +18,11 @@
   "descriptionMarkdown": "Version 2 of my \"Katherine of Sky Logic Kovarex enrichment process\". Put 40 or 80 u-235 on each centrifuge to start the enrichment process\n\nThanks to  Aladrius from the factorio forums for his logic kovarex setup, its just perfec, It interrupts all the production until all the u-235 has left the centrifuge. No more over prodction or jams\n\nFor more info on the logic setup and how it works:  https://forums.factorio.com/viewtopic.php?p=276679#p276679\n\n",
   "lastUpdatedDate": 1525742251449,
   "numberOfFavorites": 42,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/"
+  ],
   "title": "KoS Logic Kovarex v2",
   "author": {
     "userId": "1aEyiWHxqoSrJx0PzT2TUtxgROY2"

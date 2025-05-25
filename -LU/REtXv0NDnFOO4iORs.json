@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,16/",
-    "3": "/mods/angels/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/factorissimo/",
+    "/version/0,16/",
+    "/mods/angels/"
+  ],
   "favorites": {
     "kOht14bSMCc1Lz86TALpXSERIdV2": true,
     "EtByybUWN9SnmOLAFVAYTTHXxl62": true,

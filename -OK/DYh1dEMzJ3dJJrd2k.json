@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/VVo6Noa",
   "lastUpdatedDate": 1740779737619,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/compact/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/compact/",
+    "/power/nuclear/"
+  ],
   "title": "\"Smart\" Aquilo Runner",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

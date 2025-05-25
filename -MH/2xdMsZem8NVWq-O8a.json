@@ -23,8 +23,8 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/solar/"
-  }
+  "tags": [
+    "/mods/krastorio/",
+    "/power/solar/"
+  ]
 }

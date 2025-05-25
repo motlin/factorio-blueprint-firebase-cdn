@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/YuwHHFR",
   "lastUpdatedDate": 1742678008711,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/other/"
+  ],
   "title": "Indústria química T1",
   "favorites": {
     "aFATOEHKH5Z2swMuCNFL9smXqEF3": true,

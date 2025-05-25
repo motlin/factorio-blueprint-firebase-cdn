@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/8lS1u7p",
   "lastUpdatedDate": 1745347236087,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/other/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/other/",
+    "/mods/space-age/"
+  ],
   "title": "Star Base Aquilo",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

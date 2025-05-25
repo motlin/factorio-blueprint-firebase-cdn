@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1593345583893,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "0": "/power/steam/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/power/steam/"
+  ]
 }

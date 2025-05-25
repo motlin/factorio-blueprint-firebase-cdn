@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701253405103,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/smelting/"
+  ],
   "title": "Coke Circle 900/min",
   "favorites": {
     "U7TjsSzH4Da75YLAsNtRAMsWYho2": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1682713801516,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Thankbob - simple space silo loading example",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

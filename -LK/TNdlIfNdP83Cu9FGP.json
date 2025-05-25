@@ -11,11 +11,11 @@
     "type": "image/jpeg",
     "width": 1067
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "8 Core Nuclear Reactor (865MW, Dumb)",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

@@ -166,16 +166,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Book%20Cover%202-min.jpg?alt=media&token=c68f82be-fb8d-4d64-b898-a9370fe4983a",
   "lastUpdatedDate": 1655170182759,
   "numberOfFavorites": 137,
-  "tags": {
-    "7": "/general/late game (megabase)/",
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/general/mid game/",
-    "5": "/version/1,0/",
-    "4": "/train/unloading station/",
-    "6": "/train/left-hand-drive/",
-    "8": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/version/1,0/",
+    "/train/unloading station/",
+    "/train/left-hand-drive/",
+    "/general/chunk aligned/"
+  ],
   "title": "NeoVortex's Train Stations Book - LHD [3-8] (v3.0)"
 }

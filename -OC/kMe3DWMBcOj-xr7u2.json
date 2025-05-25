@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/vLP1OCF",
   "lastUpdatedDate": 1732757070230,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "simple common to legendary",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

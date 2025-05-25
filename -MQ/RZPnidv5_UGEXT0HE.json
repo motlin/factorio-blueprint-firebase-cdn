@@ -12,10 +12,10 @@
   },
   "lastUpdatedDate": 1615879216518,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "MILE2M3BFfePUXRzz3JCd7tDfdU2"
   },

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1691945802165,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/",
+    "/mods/ltn/"
+  ],
   "title": "Rocket Supply Staging for Single Requester Chest Stage",
   "favorites": {
     "EHq6ScQTiEQ5eA17OCvRtoZzC323": true

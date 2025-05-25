@@ -4,12 +4,12 @@
   },
   "descriptionMarkdown": "Logistics based satellite production.",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/",
+    "/general/tileable/"
+  ],
   "lastUpdatedDate": 1541462923918,
   "title": "Satellite Maker",
   "authorId": "D9LTW7wxU5fmcd78tesBUMDa2343",

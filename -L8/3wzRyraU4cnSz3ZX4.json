@@ -41,12 +41,12 @@
     "id": "QKtIHg5"
   },
   "lastUpdatedDate": 1552584237599,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/production/belt based/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/belt based/",
+    "/version/0,17/"
+  ],
   "title": "(ore) sorter  | beltbased | 17.x | tag requested",
   "authorId": "knHtxh4wDXaumqgful47NygduO93"
 }

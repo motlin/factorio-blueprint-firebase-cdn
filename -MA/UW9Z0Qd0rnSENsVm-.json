@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1621878942210,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/train/crossing/",
-    "2": "/mods/other/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/train/crossing/",
+    "/mods/other/",
+    "/version/1,0/"
+  ],
   "title": "Orca's Defense Book"
 }

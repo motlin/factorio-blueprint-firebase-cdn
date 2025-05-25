@@ -7,15 +7,15 @@
     "width": 887
   },
   "numberOfFavorites": 18,
-  "tags": {
-    "5": "/general/compact/",
-    "6": "/general/late game (megabase)/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "W3SObEod8PVZM2Df2YH8ySJKtF02": true,
     "nZx1MKqnQyetZ7N9N3FuyfaCrPo1": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/DwBF41u",
   "lastUpdatedDate": 1741608927240,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "aquillo Rocket",
   "favorites": {
     "RVYYJVWBsmPZ0NuKOkDFhIK7dUS2": true

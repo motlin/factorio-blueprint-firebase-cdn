@@ -32,10 +32,10 @@
   },
   "lastUpdatedDate": 1694971789392,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/science/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/science/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 + Space Exploration early science "
 }

@@ -35,17 +35,17 @@
   "imageUrl": "https://imgur.com/EUHI2L2",
   "lastUpdatedDate": 1735817343165,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/scrap processing/",
-    "3": "/production/other/",
-    "4": "/production/modules/",
-    "5": "/production/electronic circuit (green)/",
-    "6": "/production/advanced circuit (red)/",
-    "7": "/production/inserters/",
-    "8": "/production/robots/",
-    "9": "/planets/fulgora/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/",
+    "/production/scrap processing/",
+    "/production/other/",
+    "/production/modules/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/inserters/",
+    "/production/robots/",
+    "/planets/fulgora/"
+  ],
   "title": "The Fulgorian MegaMind"
 }

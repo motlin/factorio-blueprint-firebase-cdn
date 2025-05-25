@@ -26,8 +26,8 @@
     "type": "image/png",
     "width": 757
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ]
 }

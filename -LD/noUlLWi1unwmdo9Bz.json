@@ -10,12 +10,12 @@
     "width": 1211
   },
   "lastUpdatedDate": 1556721731886,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/belt/balancer/",
-    "3": "/circuit/counter/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/balancer/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "ZgARpID1UwO7dwgUFB4dWn74SQO2": true
   },

@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/kGsi7V5",
   "lastUpdatedDate": 1727611478173,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/smelting/"
+  ],
   "title": "Industrial Revolution 3 - furnace stacks"
 }

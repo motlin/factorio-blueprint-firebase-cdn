@@ -6,13 +6,13 @@
   "descriptionMarkdown": "Check the picture to see how to attach inputs!",
   "title": "Marathon Green Circuits",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/general/marathon/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/mods/vanilla/",
-    "4": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/marathon/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "authorId": "eLTSsJzKGWQbKhhsBpz12vkXgOl1",
   "createdDate": 1539887281975,
   "fileName": "8Vj56zZ.jpg",

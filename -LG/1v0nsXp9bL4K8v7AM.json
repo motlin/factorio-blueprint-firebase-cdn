@@ -22,12 +22,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/12_Core_Nuclear_Fortress_-_Cores.jpg?alt=media&token=762864f2-e068-4a4f-80c5-66bb84214c43",
   "lastUpdatedDate": 1559448607282,
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/version/0,17/",
-    "4": "/power/steam/",
-    "0": "/power/accumulator/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/steam/",
+    "/power/accumulator/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "12 Core Nuclear Fortress with Accumulators 0.17"
 }

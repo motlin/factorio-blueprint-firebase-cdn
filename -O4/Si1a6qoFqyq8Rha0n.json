@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/a0vpWW6",
   "lastUpdatedDate": 1723854236261,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de cristal de energia (Mods S.E. + Exotics)"
 }

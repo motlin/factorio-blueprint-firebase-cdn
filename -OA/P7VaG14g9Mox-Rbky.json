@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/gM0EeaC",
   "lastUpdatedDate": 1730249838816,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/",
-    "4": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/general/chunk aligned/"
+  ],
   "title": "Snow's Centered Railway Blueprints",
   "favorites": {
     "5BB4LcqWg4f3FtsytbvO5fuO8s03": true,

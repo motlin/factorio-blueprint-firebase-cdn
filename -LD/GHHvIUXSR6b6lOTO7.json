@@ -12,13 +12,13 @@
   "createdDate": 1556141911866,
   "fileName": "Late Game Oil Processing by Pavke.png",
   "lastUpdatedDate": 1556141911866,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "8CtAVDo7d3Qk1U89wAOk3BXNVwK2"
   },

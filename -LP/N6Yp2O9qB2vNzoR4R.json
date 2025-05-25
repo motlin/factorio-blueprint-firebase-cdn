@@ -20,9 +20,9 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "title": "Filter splitter based Kovarex Enrichment",
   "authorId": "SxWrjbSzl5Wo2E3J4iJi8HMC9HX2"
 }

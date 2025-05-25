@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/alLj6oF",
   "lastUpdatedDate": 1731572112456,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "title": "QualitySplitter",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true

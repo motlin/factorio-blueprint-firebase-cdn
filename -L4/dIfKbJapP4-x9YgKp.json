@@ -16,12 +16,12 @@
   "descriptionMarkdown": "An aesthetically pleasing furnace layout for a Mk2 Factorissimo.\n\nPros\n<br />\nIt's pretty pretty\n<br />\nIt's full of productivity modules\n<br />\nIt has about 4 blue belts worth of throughput\n<br />\nYou can input whatever items you like\n\nCons\n<br />\nOnly takes a maximum of three different items\n<br />\nUses 110MW\n\nRemember to use SHIFT+R on the yellow arrow at the bottom of your Factorissmo to increase the powah.\n",
   "fileName": "furnace.PNG",
   "lastUpdatedDate": 1518007689144,
-  "tags": {
-    "1": "/production/smelting/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/factorissimo/"
+  ],
   "favorites": {
     "i3lsVQhsUQcId1KjN85jsMAA9LH2": true,
     "XvQ5aE6OgyawRBQ18TpUaUspx8r2": true,

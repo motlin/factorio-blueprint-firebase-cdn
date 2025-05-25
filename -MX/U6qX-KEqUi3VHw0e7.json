@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1646568392262,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/robots/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "title": "Small Robot Production 2022",
   "favorites": {
     "we7GMANN5SYFeddgkztRoERAX3n2": true,

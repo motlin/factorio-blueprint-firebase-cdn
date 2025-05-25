@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/OTG22og",
   "lastUpdatedDate": 1744230141849,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/version/2,0/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/version/2,0/",
+    "/production/science/"
+  ],
   "title": "Vulcanus - Metallurgic Science (120/m)",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/OR72sPF",
   "lastUpdatedDate": 1733020815715,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/"
+  ],
   "title": "Aquilo Blue Processing Unit Chip Module",
   "favorites": {
     "pAfKUDAS7qPVGbbyFD0xy7xRfN42": true,

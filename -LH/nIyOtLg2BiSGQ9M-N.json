@@ -11,14 +11,14 @@
   },
   "lastUpdatedDate": 1561007786849,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/tileable/"
+  ],
   "title": "Beaconed Electronic (Green) Circuits (81/s)",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

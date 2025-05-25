@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/bcQKval",
   "lastUpdatedDate": 1729858396764,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/combat/offense/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/combat/offense/",
+    "/general/mid game/"
+  ],
   "title": "Preloaded Turret for 2.0 (10 Piercing Rounds)",
   "favorites": {
     "w5wGyj4IsRThVuIW2ogn8EG5teN2": true,

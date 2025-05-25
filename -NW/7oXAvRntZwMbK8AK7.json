@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1684848911274,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/production/uranium/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Nuclear reactor"
 }

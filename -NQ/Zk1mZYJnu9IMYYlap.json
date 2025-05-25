@@ -25,10 +25,10 @@
   },
   "lastUpdatedDate": 1678872110087,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "9.6 GWatt powerplant without water oceans"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1662338361482,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Item Indicator",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/item%20indicator.jpg?alt=media&token=76cb294a-67d9-4f31-a3a4-ee276391f1c9",
   "favorites": {

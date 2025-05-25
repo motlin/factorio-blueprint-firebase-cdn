@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/J1uopHh",
   "lastUpdatedDate": 1721852238167,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Fabricação das ciências: vermelha, verde e azul",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,

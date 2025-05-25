@@ -2,10 +2,10 @@
   "title": "Smart train unloading",
   "descriptionMarkdown": "RED\nThe constant combinators are used to send the request signals which enables/deactivates the station.\n\nBLUE\nChecks if an train is in the station and what materials are carried.\nOnly the materials which are requestet and didn't reach the buffer target will be unloaded.\n\nGREEN\nIs to ensure that not all of the inserter run all time, otherwise they would unload to many materials.\n\nF = activates one additional inserter (threshold > 13)\nM = activates one additional inserter (threshold > 25)\nE = activates all inserter (threshold > 400)\nL = removes unwanted signals",
   "fileName": "Smart unloading.jpg",
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,16/"
+  ],
   "createdDate": 1547766741997,
   "image": {
     "id": "atn7w2B",

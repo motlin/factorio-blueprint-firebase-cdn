@@ -19,12 +19,12 @@
     "id": "6MoKJ8d",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/",
-    "2": "/production/research (labs)/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/tileable/",
-    "5": "/general/compact/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/research (labs)/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/compact/"
+  ]
 }

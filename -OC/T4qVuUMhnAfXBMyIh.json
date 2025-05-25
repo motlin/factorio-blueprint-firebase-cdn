@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/fQnoaVE",
   "lastUpdatedDate": 1732453103050,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/general/early game/",
-    "2": "/mods/space-age/",
-    "3": "/planets/vulcanus/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/general/early game/",
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/version/2,0/"
+  ],
   "title": "Simple Nauvis-Vulcanus shuttle"
 }

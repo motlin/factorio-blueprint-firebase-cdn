@@ -7,12 +7,12 @@
     "width": 517
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/kit%20start.png?alt=media&token=4b571a4b-3238-4974-8d8e-212586cb4895",
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "KIT START labs",
   "favorites": {
     "VWMdXrLRFQNhhF5410zRTYnonWJ3": true,

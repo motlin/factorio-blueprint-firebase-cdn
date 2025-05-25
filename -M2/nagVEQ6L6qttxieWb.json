@@ -11,10 +11,10 @@
     "type": "image/png",
     "width": 876
   },
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/krastorio/"
+  ],
   "createdDate": 1584634972239,
   "fileName": "20200319 - Krastorio 2 Red Belt Production.png",
   "lastUpdatedDate": 1584829174805,

@@ -42,14 +42,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-4344650.png?alt=media&token=13c1d4a7-0f66-49ad-bd9c-1f0b80232eca",
   "lastUpdatedDate": 1658727711884,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/science/",
-    "3": "/mods/krastorio/",
-    "4": "/mods/other/",
-    "5": "/production/smelting/",
-    "6": "/general/early game/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/production/smelting/",
+    "/general/early game/"
+  ],
   "title": "[K2+SE] Starter Base"
 }

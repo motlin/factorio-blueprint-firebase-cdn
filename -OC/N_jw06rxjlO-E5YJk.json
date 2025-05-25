@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/3W0niHG",
   "lastUpdatedDate": 1732358111191,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/art/"
-  },
+  "tags": [
+    "/general/art/"
+  ],
   "title": "RGB lights",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

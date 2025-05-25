@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/RSyZBAm",
   "lastUpdatedDate": 1730723121823,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/other/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/other/",
+    "/version/2,0/"
+  ],
   "title": "Gleba Nutrient Heart",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

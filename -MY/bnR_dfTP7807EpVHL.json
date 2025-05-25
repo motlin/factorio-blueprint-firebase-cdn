@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1618796726678,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Circuit Graph Display",
   "favorites": {
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,

@@ -9,12 +9,12 @@
     "height": 300
   },
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "CrsljQ0phXfAtxxtw2d9gOOmaqs2"
   },

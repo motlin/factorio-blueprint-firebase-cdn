@@ -15,11 +15,11 @@
     "id": "LHrPqst",
     "type": "image/jpeg"
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "High Traffic Rail Crossing + Roundabout"
 }

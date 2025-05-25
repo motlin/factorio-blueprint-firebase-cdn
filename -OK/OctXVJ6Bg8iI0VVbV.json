@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/51kxm1z",
   "lastUpdatedDate": 1740977396874,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/",
-    "3": "/version/2,0/",
-    "4": "/mods/space-age/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Compact/Smart Personnel Ship"
 }

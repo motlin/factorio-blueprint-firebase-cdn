@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1656010761926,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/"
+  ],
   "title": "both way rail system prototype"
 }

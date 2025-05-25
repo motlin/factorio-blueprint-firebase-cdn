@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "favorites": {
     "j099BfaxjlgSY5LxT4SGByYDH7J2": true,
     "wPESWJA53LaqiB9hek8o4OBVPZT2": true,

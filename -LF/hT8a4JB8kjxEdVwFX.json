@@ -9,10 +9,10 @@
     "type": "image/jpeg",
     "width": 2417
   },
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "9lGw3mDaMEbBVMvCkoo70rc1xgm2"
   },

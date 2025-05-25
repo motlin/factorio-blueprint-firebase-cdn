@@ -29,8 +29,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20200210120026_1.jpg?alt=media&token=b5cce522-0dfd-4913-9525-3038dd8769a2",
   "lastUpdatedDate": 1581435352884,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Rail 4x2 Way"
 }

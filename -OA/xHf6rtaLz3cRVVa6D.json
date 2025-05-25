@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/RN6ipRY",
   "lastUpdatedDate": 1738868180428,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/gleba/",
-    "3": "/planets/fulgora/",
-    "4": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/"
+  ],
   "title": "SmallSpaceCruiser 290km/s",
   "favorites": {
     "ldBO0UulpgM3NFwO0V9hD7aWcOE2": true,

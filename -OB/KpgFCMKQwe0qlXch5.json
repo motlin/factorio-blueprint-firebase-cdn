@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/sxVOZYu",
   "lastUpdatedDate": 1731334675321,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space foundation extension",
   "favorites": {
     "5W0NjYZ121gLB3gCH0l12MLfIUm2": true,

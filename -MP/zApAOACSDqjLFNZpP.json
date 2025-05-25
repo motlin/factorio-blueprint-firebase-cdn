@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1638516347790,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/production/belts/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/production/belts/"
+  ],
   "title": "All Belts 1, 2, 3 (AAI Industry) (Space Exploration)",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,

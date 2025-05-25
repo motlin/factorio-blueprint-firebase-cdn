@@ -39,11 +39,11 @@
   },
   "lastUpdatedDate": 1554195339137,
   "numberOfFavorites": 23,
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/production/robots/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/robots/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "5 GW Nuclear Power Plant"
 }

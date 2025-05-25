@@ -71,8 +71,8 @@
   "imageUrl": "https://imgur.com/Nn1v0Ml",
   "lastUpdatedDate": 1732633657961,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Fulgora 900spm with rocket silo from scrap"
 }

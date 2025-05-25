@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1632361987712,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Smelter Book"
 }

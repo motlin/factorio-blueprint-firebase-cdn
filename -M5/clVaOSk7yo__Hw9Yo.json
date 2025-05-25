@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1675277462964,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "1 Belt of Steel Plate"
 }

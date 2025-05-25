@@ -51,10 +51,10 @@
   },
   "lastUpdatedDate": 1680012488566,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/general/mid game/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/general/mid game/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Base"
 }

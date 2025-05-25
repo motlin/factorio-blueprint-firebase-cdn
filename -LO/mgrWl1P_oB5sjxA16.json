@@ -1,10 +1,10 @@
 {
   "fileName": "schem1.png",
   "lastUpdatedDate": 1539522823626,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "title": "Ore Sorter MK1",
   "author": {
     "userId": "GaNlZl9UPqgoGKrzbjhAiBxN4tP2"

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1617655051244,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/train/unloading station/",
-    "3": "/train/loading station/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/train/unloading station/",
+    "/train/loading station/"
+  ],
   "title": "Train-to-train green circuit 5700spm  Stackable",
   "favorites": {
     "3Dnulhg7YzM68eaqqDQicars9DA3": true,

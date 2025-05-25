@@ -68,15 +68,15 @@
   },
   "lastUpdatedDate": 1608434299269,
   "numberOfFavorites": 39,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/train/junction/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/train/track/",
-    "6": "/general/chunk aligned/",
-    "7": "/general/tileable/",
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/track/",
+    "/general/chunk aligned/",
+    "/general/tileable/",
+    "/power/solar/"
+  ],
   "title": "Updated 100x100 City Blocks - Snapped to Grid"
 }

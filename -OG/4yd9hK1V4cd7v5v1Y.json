@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Chwt27X",
   "lastUpdatedDate": 1736915108865,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/unloading station/",
-    "3": "/mods/quality/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/train/unloading station/",
+    "/mods/quality/"
+  ],
   "title": "Priority unload / Приоритетная выгрузка",
   "favorites": {
     "5ZLs84NU6icyLFxLVkCgjV3iBCN2": true

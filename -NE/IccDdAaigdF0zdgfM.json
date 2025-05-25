@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1665702986962,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Sistema de lançamento ",
   "favorites": {
     "mZ3glrZ3M9bPYY5mCKKsbKYPNTm1": true

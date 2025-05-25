@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/o80YX1c",
   "lastUpdatedDate": 1736679696232,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/production/mining/",
-    "3": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/production/mining/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Vulcanus big mining drill 31 per min",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

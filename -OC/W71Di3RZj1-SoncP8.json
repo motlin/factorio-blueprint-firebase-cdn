@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/oVz0Bdb",
   "lastUpdatedDate": 1732504988495,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "Lossless Nuclear Power in 2.0",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

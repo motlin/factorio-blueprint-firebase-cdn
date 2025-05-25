@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "3-x8 Manufactory",
   "author": {
     "userId": "hWnXZCOHJIbHnEJNlp3jTkccBS43"

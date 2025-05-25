@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 53,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/modules/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/modules/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
   },

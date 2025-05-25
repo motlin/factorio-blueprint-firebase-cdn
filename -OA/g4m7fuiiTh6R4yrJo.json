@@ -38,10 +38,10 @@
   "imageUrl": "https://imgur.com/ArgJVMY",
   "lastUpdatedDate": 1730542624141,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/solar/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/solar/",
+    "/general/beaconized/"
+  ],
   "title": "Shattered Planet - Promethium Science Ship"
 }

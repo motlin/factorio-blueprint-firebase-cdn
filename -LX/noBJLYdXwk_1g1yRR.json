@@ -11,13 +11,13 @@
   },
   "lastUpdatedDate": 1578196135690,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/smelting/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Smelter Late Game",
   "author": {
     "userId": "g9hE5Toln9Rgow0DLnlvDXm3Yv63"

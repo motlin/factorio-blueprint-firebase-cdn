@@ -16,11 +16,11 @@
   "createdDate": 1602407914889,
   "descriptionMarkdown": "Every box is sorted by filter in a same way as it positioned in character interface grid.",
   "lastUpdatedDate": 1602407914889,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/storage/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/storage/",
+    "/production/logistic (bot) based/"
+  ],
   "favorites": {
     "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
     "mgzaB559GKQRL7QtiME6MluIubD2": true,

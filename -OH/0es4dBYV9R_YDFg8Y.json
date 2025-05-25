@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/wDW8rxf",
   "lastUpdatedDate": 1737342288520,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/research (labs)/"
+  ],
   "title": "12-Item Sushi Belt for Space Age Science (Circuitless)",
   "favorites": {
     "3ZKyNmdCaTgfEuxtN6RVfaSKoyf2": true,

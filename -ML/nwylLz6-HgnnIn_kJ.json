@@ -30,8 +30,8 @@
   },
   "lastUpdatedDate": 1622618099677,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "title": "42x42 Chunk defenses"
 }

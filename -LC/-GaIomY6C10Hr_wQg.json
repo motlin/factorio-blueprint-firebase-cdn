@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/rocket parts/"
+  ],
   "title": "Automatic rocket space packs",
   "createdDate": 1525791745479,
   "image": {

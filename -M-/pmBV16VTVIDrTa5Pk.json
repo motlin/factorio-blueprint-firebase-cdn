@@ -3,11 +3,11 @@
     "userId": "c8wnNnU9vUV1Z6gOT0fYvtFgAv33"
   },
   "authorId": "c8wnNnU9vUV1Z6gOT0fYvtFgAv33",
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "YGqCItpBpUhT6KSAPc3asOIDQpQ2": true,
     "uHp5J8W0dLQwouSzfbK8u0RqvZf2": true,

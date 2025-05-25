@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/production/uranium/"
+  ],
   "author": {
     "userId": "HQSpYqKLIsMAYCkARrMahsEDFVz1"
   },

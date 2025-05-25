@@ -17,11 +17,11 @@
     "width": 1134
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/bobs/",
+    "/version/0,16/"
+  ],
   "title": "[bob's mod] Automated tier 1-4 drones construction site",
   "author": {
     "userId": "VHjF76KJurQo2kya3L0kvUhKL9n1"

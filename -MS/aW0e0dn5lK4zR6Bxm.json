@@ -15,10 +15,10 @@
   "authorId": "keYIxn8RRaPWjRhlirsGmRiMrol2",
   "createdDate": 1612332669718,
   "descriptionMarkdown": "Efficient roundabout",
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/junction/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "title": "roundabout"
 }

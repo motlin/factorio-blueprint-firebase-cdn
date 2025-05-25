@@ -28,9 +28,9 @@
   "imageUrl": "https://imgur.com/yHBeSbU",
   "lastUpdatedDate": 1732977400527,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "factorio 2.0 vanilla blueprint book"
 }

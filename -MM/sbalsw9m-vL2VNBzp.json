@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1635184962742,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "title": "Small, Efficient & Tileable Beaconed GC Subfactories - 45/s",
   "favorites": {
     "tSW38thseyOUr6RfVl9yMfeXcH62": true,

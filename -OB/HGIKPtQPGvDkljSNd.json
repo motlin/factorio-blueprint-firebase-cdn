@@ -29,9 +29,9 @@
   "imageUrl": "https://imgur.com/E65vEVY",
   "lastUpdatedDate": 1731207292096,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Late Game Cargo ship"
 }

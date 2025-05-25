@@ -15,10 +15,10 @@
   "descriptionMarkdown": "Steel Furnaces are almost always my first upgrade. I don't see the point of using stone furnaces for much when steel furnaces are available so early in the game. I created a simple and inexpensive factory that turns stone and iron ore into steel furnaces and collects excess stone bricks. ",
   "lastUpdatedDate": 1537677157921,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/other/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/other/",
+    "/version/0,16/"
+  ],
   "title": "Simple Steel Furnace/Stone Brick Factory"
 }

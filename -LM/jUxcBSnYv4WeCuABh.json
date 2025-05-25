@@ -2,11 +2,11 @@
   "descriptionMarkdown": "Schwefelproduktion.\n\nFür Schwefel wird Alkangas und Wasser benötigt. ",
   "fileName": "20190820164159_1.jpg",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/other/"
+  ],
   "author": {
     "userId": "blezjBlwqJUpJyVL7fT2W7Amu722"
   },

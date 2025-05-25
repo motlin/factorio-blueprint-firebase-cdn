@@ -21,8 +21,8 @@
   },
   "lastUpdatedDate": 1652742539944,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/crossing/"
-  },
+  "tags": [
+    "/train/crossing/"
+  ],
   "title": "Simple city blocks"
 }

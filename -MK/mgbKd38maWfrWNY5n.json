@@ -3,10 +3,10 @@
     "userId": "KNUH0gIqI9cYtDvdQfIQWda7ORm1"
   },
   "descriptionMarkdown": "https://www.youtube.com/watch?v=aMwv1lC7qX8&ab_channel=AlexKolyada",
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/1,0/"
+  ],
   "numberOfFavorites": 1,
   "title": "Railroad crossing",
   "authorId": "KNUH0gIqI9cYtDvdQfIQWda7ORm1",

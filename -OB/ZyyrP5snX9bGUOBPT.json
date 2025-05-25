@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/Y4UsyeR",
   "lastUpdatedDate": 1733270740625,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/version/2,0/",
-    "2": "/planets/space-platform/",
-    "3": "/mods/space-exploration/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/version/2,0/",
+    "/planets/space-platform/",
+    "/mods/space-exploration/",
+    "/mods/vanilla/"
+  ],
   "title": "Belt storage 81k, 52x52",
   "favorites": {
     "wdSusraLSWMRsvXCgJejDgzsvA93": true,

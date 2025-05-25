@@ -16,11 +16,11 @@
   "descriptionMarkdown": "These are the rails as I use them with my combinator controlled train systems (https://factorioprints.com/view/-LyQYTUtwlwi2iLuk_u-)\n\nAll I did was add a couple more blueprints, with signal wires and signals.",
   "lastUpdatedDate": 1578862881779,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "jZfO91FEJKZnuGcM5AXPMScQshW2": true,

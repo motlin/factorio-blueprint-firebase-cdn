@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1635666286220,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "Super Simplified Safe Train Crossing (Mark II)",
   "favorites": {
     "cM5Vcyt9sRX2vBFnbJhQYi96ecK2": true

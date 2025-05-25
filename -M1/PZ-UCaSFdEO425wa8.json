@@ -20,9 +20,9 @@
     "width": 464
   },
   "descriptionMarkdown": "Multiple resource TSM requester station using direct wire",
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "Multi-resource, requesterless TSM station",
   "author": {
     "userId": "wavzxQni1sZGhbyTS266PA4uKRr1"

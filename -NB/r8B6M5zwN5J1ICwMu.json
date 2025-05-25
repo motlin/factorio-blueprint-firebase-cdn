@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1692068528630,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/version/1,1/",
-    "2": "/general/tileable/",
-    "3": "/general/art/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/version/1,1/",
+    "/general/tileable/",
+    "/general/art/"
+  ],
   "title": "Vita Flower",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true

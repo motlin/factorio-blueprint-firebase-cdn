@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/AMnhthl",
   "lastUpdatedDate": 1729791715000,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Simple Kovarex",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

@@ -16,12 +16,12 @@
   "descriptionMarkdown": "Factorio Blueprint\nBuild on 1.17 must work on 1.15 version\n\nSteam Link :  https://steamcommunity.com/id/AQuarkG/\n\nPlay Smart Channel: https://www.youtube.com/channel/UCPiXrRXaR7_KAcWFt9IHvfA \n\nPlayList : https://www.youtube.com/watch?v=moewZ83sTe4&list=PLh7sc8-eY9kUsSF7-ooKhYDIIX5maAE-Z&index=6\n\nVideo:  https://youtu.be/S52eOYprnlY",
   "lastUpdatedDate": 1559236043083,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/"
+  ],
   "favorites": {
     "dlmsscxJN8d3PN8uzDsdBxZzebg1": true,
     "JCDu19n05zTsCABLNroLXCi7gtv2": true,

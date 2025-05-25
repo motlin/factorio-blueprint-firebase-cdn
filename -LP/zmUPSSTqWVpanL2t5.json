@@ -1,11 +1,11 @@
 {
   "authorId": "R4amZe6swuPqcKwC9daDIs3RZh93",
   "lastUpdatedDate": 1569807005472,
-  "tags": {
-    "1": "/power/steam/",
-    "2": "/mods/vanilla/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "The economic steam energy",
   "favorites": {
     "GgM5tMnuXIf4Deig8GIxhfoWWns2": true,

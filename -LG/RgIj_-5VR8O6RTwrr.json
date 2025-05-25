@@ -13,11 +13,11 @@
     "width": 2688
   },
   "title": "Belt Saturation Check",
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,17/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,17/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "KkhfB9jEeQfSmTDWgHLDSQlFmT22"
   },

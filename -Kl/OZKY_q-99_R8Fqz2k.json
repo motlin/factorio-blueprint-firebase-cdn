@@ -14,12 +14,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170530151801_1.jpg?alt=media&token=0aceb109-1d82-4970-a6f8-b9fef6082b35",
   "lastUpdatedDate": 1496152889898,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "createdDate": 1496151325800,
   "fileName": "20170530151801_1.jpg",
   "title": "Fast Kovarex Enrichment (Quad-Setup)"

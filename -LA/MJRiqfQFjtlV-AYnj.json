@@ -43,10 +43,10 @@
   },
   "lastUpdatedDate": 1553044935313,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/advanced circuit (red)/",
+    "/version/0,17/"
+  ],
   "title": "Red Circuit Factory 8.4k/min"
 }

@@ -17,11 +17,11 @@
   "createdDate": 1590322489809,
   "fileName": "Kupferplatten.png",
   "lastUpdatedDate": 1590322489809,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/oil processing/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/mods/other/"
+  ],
   "title": "Krastorio 2 - Kupferplatten 5400/min",
   "author": {
     "userId": "aUuzs7hH4oQIXU70yCEGkPrGH262"

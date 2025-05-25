@@ -10,11 +10,11 @@
   "createdDate": 1600273357294,
   "fileName": "Screen Shot 2020-09-16 at 18.22.12.png",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "2-lane-rails: 4-way intersection",
   "favorites": {
     "0HZOJb1AGQgp7PcKG00Aluu0YBs1": true,

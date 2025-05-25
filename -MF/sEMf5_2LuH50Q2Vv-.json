@@ -6,12 +6,12 @@
     "type": "image/jpeg",
     "width": 2105
   },
-  "tags": {
-    "3": "/production/smelting/",
-    "0": "/version/1,0/",
-    "1": "/general/beaconized/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/1,0/",
+    "/general/beaconized/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 Advanced Furnaces purple belt (90 item/s). Tileable",
   "author": {
     "userId": "y6lMCzsMKueeyNIU4dZlF8WI5N73"

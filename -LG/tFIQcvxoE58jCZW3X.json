@@ -12,11 +12,11 @@
   "fileName": "loadersnstackers.png",
   "lastUpdatedDate": 1531071206572,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/production/mall (make everything)/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "YgYNzKgKwjgzUroGD7r91srE4U72"
   },

@@ -48,16 +48,16 @@
   },
   "lastUpdatedDate": 1563183161828,
   "numberOfFavorites": 31,
-  "tags": {
-    "1": "/production/advanced circuit (red)/",
-    "6": "/version/0,17/",
-    "8": "/general/mid game/",
-    "0": "/production/electronic circuit (green)/",
-    "2": "/production/processing unit (blue)/",
-    "3": "/general/early game/",
-    "4": "/general/tileable/",
-    "5": "/general/compact/",
-    "7": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/version/0,17/",
+    "/general/mid game/",
+    "/production/electronic circuit (green)/",
+    "/production/processing unit (blue)/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact tileable early and mid game circuit setups"
 }

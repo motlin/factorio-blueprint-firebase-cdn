@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/5kwgA2F",
   "lastUpdatedDate": 1731863932356,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/power/nuclear/",
-    "3": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/power/nuclear/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo 477MW 2x2 Nuclear reactor (With Ice Melting)",
   "favorites": {
     "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,

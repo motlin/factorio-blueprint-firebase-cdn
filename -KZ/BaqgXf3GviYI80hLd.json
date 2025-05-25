@@ -10,13 +10,13 @@
     "height": 817,
     "id": "yDlt8oi"
   },
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/late game (megabase)/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "Qel6aRHwOWV46VFg7Ow5CprnbNH2"
   },

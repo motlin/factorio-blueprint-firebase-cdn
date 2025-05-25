@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1706959344919,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/train/track/",
-    "3": "/version/1,1/",
-    "4": "/power/steam/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/electronic circuit (green)/",
+    "/train/track/",
+    "/version/1,1/",
+    "/power/steam/"
+  ],
   "title": "B's base in a book™ Green chips outpost"
 }

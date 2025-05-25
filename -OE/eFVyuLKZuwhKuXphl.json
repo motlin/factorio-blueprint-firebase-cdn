@@ -16,12 +16,12 @@
   "imageUrl": "https://imgur.com/MmtkVWU",
   "lastUpdatedDate": 1734836931306,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/power/steam/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Молл первый"
 }

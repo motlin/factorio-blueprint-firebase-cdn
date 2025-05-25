@@ -8,12 +8,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/BA_fact_bio_ind_20180809.PNG?alt=media&token=9b56131b-5b7f-49db-92cb-a486864b2532",
   "lastUpdatedDate": 1533846506127,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,16/",
-    "2": "/mods/bobs/",
-    "3": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Factorio Bio-Farm",
   "authorId": "M7qst3rRVrZZDZznSlpGtgYeNFD3",
   "fileName": "BA_fact_bio_ind_20180809.PNG",

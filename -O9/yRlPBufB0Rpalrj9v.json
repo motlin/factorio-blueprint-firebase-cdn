@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/YHj6cyt",
   "lastUpdatedDate": 1729772066609,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/belts/",
-    "2": "/production/belt based/",
-    "3": "/production/inserters/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/belts/",
+    "/production/belt based/",
+    "/production/inserters/"
+  ],
   "title": "S3-Mall Small Simple Smart",
   "favorites": {
     "kG0lYCs78teCUDbXZyu4jiQK6Nn1": true,

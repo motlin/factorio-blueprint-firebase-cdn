@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Hswtb01",
   "lastUpdatedDate": 1732081494133,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/logistic (bot) based/",
+    "/planets/fulgora/"
+  ],
   "title": "Parametrised Electromagnetic Plant Bot Based Crafter",
   "favorites": {
     "Nk5ePJ4obOaV6Gmv13SVBesEjbo2": true,

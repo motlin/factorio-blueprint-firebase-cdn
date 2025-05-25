@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1650670958673,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Processamento de urânio",
   "favorites": {
     "nsVTAwYm1ebdLXzSXBiX5ooQoT03": true,

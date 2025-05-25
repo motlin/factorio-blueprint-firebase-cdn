@@ -56,13 +56,13 @@
   "lastUpdatedDate": 1573878786650,
   "createdDate": 1541484023406,
   "fileName": "Capture984.PNG",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/version/0,15/",
-    "4": "/mods/lighted-electric-poles/",
-    "5": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,15/",
+    "/mods/lighted-electric-poles/",
+    "/mods/ltn/"
+  ],
   "title": "Train Stops - Loading and Unloading"
 }

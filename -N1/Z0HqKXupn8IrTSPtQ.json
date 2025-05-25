@@ -31,10 +31,10 @@
   },
   "lastUpdatedDate": 1652019244863,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/oil processing/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/oil processing/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Oil Production \"Modular\" - Space Exploration "
 }

@@ -17,11 +17,11 @@
     "width": 885
   },
   "lastUpdatedDate": 1565426660587,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,17/"
+  ],
   "authorId": "enttXX2S0QZdOxDaSFapPDtsk343",
   "fileName": "Factorio Prints (Support Station).PNG"
 }

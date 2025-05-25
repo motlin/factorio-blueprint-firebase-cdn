@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Vrn™ Modular Research - Production (0.16)",
   "author": {
     "userId": "hGpy2kvdaVPCfljmIAGZun3JrrN2"

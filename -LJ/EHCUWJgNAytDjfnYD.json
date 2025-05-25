@@ -21,12 +21,12 @@
   },
   "lastUpdatedDate": 1694868888876,
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/train/stacker/",
-    "4": "/version/0,17/",
-    "0": "/train/junction/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/version/0,17/",
+    "/train/junction/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "DEPRECATED The Fong's Rail Grid System"
 }

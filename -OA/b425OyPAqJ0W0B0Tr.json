@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ZZ5Zyum",
   "lastUpdatedDate": 1730453713497,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/train/junction/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Full Diamond Interchange",
   "favorites": {
     "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,

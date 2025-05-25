@@ -20,10 +20,10 @@
   "title": "Asthetic safe rail crossing player priority [LHD] version 1",
   "lastUpdatedDate": 1526071470046,
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/train/left-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "0": "/train/crossing/"
-  }
+  "tags": [
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/crossing/"
+  ]
 }

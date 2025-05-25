@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1580420830136,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "BotBelt Furnace (work in progress)"
 }

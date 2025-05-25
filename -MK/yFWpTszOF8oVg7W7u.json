@@ -2,10 +2,10 @@
   "author": {
     "userId": "xDs25X4GaCTeYJDlAoZOP8JZvy52"
   },
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Number lock without combinators",
   "lastUpdatedDate": 1604141063648,
   "numberOfFavorites": 0,

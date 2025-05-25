@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/pahBpVM",
   "lastUpdatedDate": 1741615399710,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/tileable/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/tileable/",
+    "/train/left-hand-drive/"
+  ],
   "title": "H28Q-Apex - Blocks - 100x100 (WIP)"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1675985069809,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/power/nuclear/"
+  ],
   "title": "Inf. Scalable Nuclear Power Plant",
   "favorites": {
     "rKXwycxs3APymiQr644tYwfnKPG3": true,

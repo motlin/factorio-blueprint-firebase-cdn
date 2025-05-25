@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1661347957333,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/belts/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/belts/"
+  ],
   "title": "Yellow-Red Belts Krastorio 2-Space Exploration",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

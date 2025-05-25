@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1707787377194,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/belt based/",
-    "3": "/production/inserters/",
-    "4": "/production/other/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/production/inserters/",
+    "/production/other/"
+  ],
   "title": "Mall with smart inserters"
 }

@@ -22,7 +22,7 @@
     "5ZrNXkWKMGTfXu12Wz7BJUTIIdI2": true
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/"
-  }
+  "tags": [
+    "/production/science/"
+  ]
 }

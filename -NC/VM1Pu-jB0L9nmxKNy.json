@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1663768996066,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/",
-    "3": "/production/research (labs)/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/version/1,0/"
+  ],
   "title": "2k Science Pr Min"
 }

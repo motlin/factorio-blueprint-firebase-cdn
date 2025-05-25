@@ -27,11 +27,11 @@
   },
   "lastUpdatedDate": 1591696693189,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/science/",
-    "2": "/general/beaconized/",
-    "3": "/production/research (labs)/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/production/research (labs)/"
+  ],
   "title": "1k (1000) science per minute beaconed bot based train fed rail grid"
 }

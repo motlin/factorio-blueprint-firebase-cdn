@@ -15,11 +15,11 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1509154270988,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/",
-    "2": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/mods/angels/"
+  ],
   "title": "[SeaBlock] Compact, tileable, perfect ratio washing setup for nodule production.",
   "favorites": {
     "iNI5sXqemjXUb2j2XkVAj7RDeHV2": true

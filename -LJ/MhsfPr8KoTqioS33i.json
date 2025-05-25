@@ -3,11 +3,11 @@
   "descriptionMarkdown": "Vanilla+Pyanodon (No Bob/Angel)\n\nThis is a near-ratio perfect balanced build for 1SP2/s. Waste products are minimal.  I set it up to export those wastes, but they are so small you could easily store or void them. The print was made with Red belts, can be run with yellow versions of everything with maybe one place an underground goes farther than a yellow UG\n\nInput/s: 1 full pipe of water, a little bit (<1/2 Yellow belt) of Iron Plate, Copper Plate, Stone, and 1/3 belt of coal\n\nOutput/s: 1 Science Pack 2, 11 Tailings, 2 Flue Gas, 8 CO2, 8 Aromatics, 11 Tar, 2.5 Coke",
   "lastUpdatedDate": 1533701229275,
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/production/science/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/mods/other/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true
   },

@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/smelting/"
+  ],
   "favorites": {
     "dpfShkjHiGVEwwjOdR1byUGvAMq1": true
   },

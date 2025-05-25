@@ -16,7 +16,7 @@
   "createdDate": 1539372811958,
   "descriptionMarkdown": "This will evenly load all chests to make loading more reliable.",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/vanilla/"
-  }
+  "tags": [
+    "/mods/vanilla/"
+  ]
 }

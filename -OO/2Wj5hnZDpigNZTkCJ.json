@@ -19,8 +19,8 @@
   "imageUrl": "https://imgur.com/rpskwCg",
   "lastUpdatedDate": 1744889639507,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/crossing/"
-  },
+  "tags": [
+    "/train/crossing/"
+  ],
   "title": "Seperate layer hexagon blueprint WIP Experimental"
 }

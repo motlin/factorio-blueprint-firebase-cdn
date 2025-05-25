@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/5iEJ4xT",
   "lastUpdatedDate": 1740169493963,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/nauvis/",
-    "3": "/planets/vulcanus/",
-    "4": "/planets/gleba/",
-    "5": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/planets/vulcanus/",
+    "/planets/gleba/",
+    "/planets/fulgora/"
+  ],
   "title": "Space Ship",
   "favorites": {
     "xRt3aHqZp9QL4o4meuiKwUsoRbx2": true,

@@ -7,11 +7,11 @@
     "width": 2560
   },
   "lastUpdatedDate": 1540439059063,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,16/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,16/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "5nD12KAH3mWwh6Jw9rr7OtATv3C3"
   },

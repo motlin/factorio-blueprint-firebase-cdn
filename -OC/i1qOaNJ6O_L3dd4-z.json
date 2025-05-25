@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/sFmpFWN",
   "lastUpdatedDate": 1732718183240,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/power/solar/",
-    "4": "/power/nuclear/",
-    "5": "/version/2,0/",
-    "6": "/power/accumulator/",
-    "7": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/solar/",
+    "/power/nuclear/",
+    "/version/2,0/",
+    "/power/accumulator/",
+    "/mods/quality/"
+  ],
   "title": "RCU Space Platform"
 }

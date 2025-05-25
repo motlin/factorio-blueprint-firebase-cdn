@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/KQECaOl",
   "lastUpdatedDate": 1735421352605,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Bot Loader",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

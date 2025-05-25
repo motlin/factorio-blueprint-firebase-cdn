@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1601677122002,
   "numberOfFavorites": 5,
-  "tags": {
-    "2": "/general/chunk aligned/",
-    "3": "/version/1,0/",
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Roboport Landfill Grid (tileable)"
 }

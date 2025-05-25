@@ -1,11 +1,11 @@
 {
   "createdDate": 1567810955739,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/"
+  ],
   "title": "4-Lane Perfect Balancer",
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

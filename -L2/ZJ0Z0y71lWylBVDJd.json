@@ -2,10 +2,10 @@
   "descriptionMarkdown": "Remember what types of items were in the last train at a station. If train was empty, output 'E'",
   "lastUpdatedDate": 1515658942796,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "S0WS6s4rxpTn4kw8jIakM72lPKt1"
   },

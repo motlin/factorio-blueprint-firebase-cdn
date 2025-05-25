@@ -4,12 +4,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20160812191749_1.jpg?alt=media&token=8d23cda9-4df9-4e7c-89a2-0fda86600b96",
   "title": "Train Roundabout",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "vD3BS94FIATJaUWLbhYId5PjdGv1"
   },

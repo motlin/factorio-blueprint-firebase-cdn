@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1620355692478,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/prioritizer/",
-    "2": "/belt/tap/",
-    "3": "/belt/transport belt (yellow)/",
-    "4": "/belt/fast transport belt (red)/",
-    "5": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/belt/tap/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "THE MACHINE",
   "favorites": {
     "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,

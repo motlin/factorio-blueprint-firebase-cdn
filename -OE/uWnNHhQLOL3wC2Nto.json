@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/2c6araf",
   "lastUpdatedDate": 1735075104033,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Train Unloader - Stack Inserters",
   "favorites": {
     "xsZ1ACrRRMU2J50EsFoXdBKuEy63": true,

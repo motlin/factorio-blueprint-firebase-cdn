@@ -14,11 +14,11 @@
     "height": 416
   },
   "lastUpdatedDate": 1563010059795,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/production/plastic/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/production/plastic/",
+    "/version/0,17/"
+  ],
   "title": "Compact Coal Liquification (coal to plastic)",
   "favorites": {
     "cSYB9xVe8oc8r8AswBRnpWRuCBp2": true,

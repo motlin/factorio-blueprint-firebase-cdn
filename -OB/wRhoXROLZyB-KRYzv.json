@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/LubBVWS",
   "lastUpdatedDate": 1731885981078,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/0,15/"
+  ],
   "title": "Optimized Kovarex enrichment",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

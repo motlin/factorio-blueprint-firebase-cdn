@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1691164939177,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/mods/seablock/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/mods/seablock/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "[Seablock] compact tileable Power Production in earlygame",
   "favorites": {
     "ItpfwZnxmWTyGXT9pQorNFgTMPI2": true

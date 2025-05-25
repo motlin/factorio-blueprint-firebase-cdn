@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/jTmkKlJ",
   "lastUpdatedDate": 1734036839696,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/early game/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/early game/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Green Circuits Design 2.0",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1701253394704,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/power/nuclear/"
+  ],
   "title": "2x4 Reactor 3.2GW"
 }

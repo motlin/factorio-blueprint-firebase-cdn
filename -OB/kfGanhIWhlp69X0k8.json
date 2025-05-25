@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/uKO7Yys",
   "lastUpdatedDate": 1731688533288,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/batteries/"
-  },
+  "tags": [
+    "/production/batteries/"
+  ],
   "title": "Tilable compact battery assembly",
   "favorites": {
     "wo3ds2MI4PajySXJ4uUq6GXqJ1n2": true,

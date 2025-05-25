@@ -16,11 +16,11 @@
     "userId": "LaXDTIKD0Ib90tbC4w0n38WqBCi2"
   },
   "authorId": "LaXDTIKD0Ib90tbC4w0n38WqBCi2",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/electronic circuit (green)/",
+    "/mods/other/"
+  ],
   "favorites": {
     "zvvA0mvuf3XSrxZxNgIai4FGpIk1": true,
     "DMcA8AeeETRkpTjW5pNqqsiiHGd2": true

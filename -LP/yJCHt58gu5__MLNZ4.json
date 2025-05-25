@@ -14,14 +14,14 @@
     "type": "image/png",
     "width": 879
   },
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/train/stacker/",
-    "5": "/version/0,18/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/stacker/",
+    "/version/0,18/"
+  ],
   "title": "Intangir's Vanilla Train Network (IVTN) v1.1.8.0 (updated 6/28/2023)",
   "favorites": {
     "WlRD2U8oJvRviPMmJJjVo93NppA2": true,

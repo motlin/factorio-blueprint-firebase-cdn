@@ -3,12 +3,12 @@
   "authorId": "9PnUqQyrWzMUfspiopFWpzKBncd2",
   "createdDate": 1481400957226,
   "lastUpdatedDate": 1733801267797,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20161210145325_1.jpg?alt=media&token=6210093a-fc07-4b7f-b785-a6aaf7c7b60e",
   "numberOfFavorites": 974,
   "favorites": {

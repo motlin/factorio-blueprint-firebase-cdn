@@ -22,8 +22,8 @@
   },
   "lastUpdatedDate": 1628559457104,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "1 module/min tier 3 module factory for early game using ore as input"
 }

@@ -1,12 +1,12 @@
 {
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/belt based/",
-    "4": "/general/beaconized/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/production/belt based/",
+    "/general/beaconized/",
+    "/production/modules/"
+  ],
   "favorites": {
     "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true
   },

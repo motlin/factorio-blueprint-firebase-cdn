@@ -54,9 +54,9 @@
   "imageUrl": "https://imgur.com/65A5snI",
   "lastUpdatedDate": 1730908314715,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/version/2,0/"
+  ],
   "title": "Aquilo hauler rocket, self regulating"
 }

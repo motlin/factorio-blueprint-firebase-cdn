@@ -38,8 +38,8 @@
   "imageUrl": "https://imgur.com/jjuAs8T",
   "lastUpdatedDate": 1737275306483,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Death Star v1"
 }

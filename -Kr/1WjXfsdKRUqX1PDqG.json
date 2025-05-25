@@ -16,10 +16,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/trig.png?alt=media&token=43dd7642-529f-4137-bb84-841127ec6aab",
   "lastUpdatedDate": 1502207211941,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/circuit/indicator/",
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Trigonometric functions (sin,cos,tan,inverses)"
 }

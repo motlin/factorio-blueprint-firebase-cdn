@@ -25,10 +25,10 @@
   "createdDate": 1576021701758,
   "lastUpdatedDate": 1684875526678,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Nuclear Reactor 765MW "
 }

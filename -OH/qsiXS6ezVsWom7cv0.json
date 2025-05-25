@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/Bx1Cmcj.png",
   "lastUpdatedDate": 1738235111806,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "crossroad 2.0",
   "favorites": {
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,

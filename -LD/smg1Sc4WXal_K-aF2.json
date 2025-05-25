@@ -9,12 +9,12 @@
     "width": 1178
   },
   "lastUpdatedDate": 1556806949244,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/version/0,17/",
-    "2": "/production/oil processing/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "RMkztfMVzKbhhTsJKFCsYKraGDX2"
   },

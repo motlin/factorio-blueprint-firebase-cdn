@@ -10,10 +10,10 @@
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "j49Pn7VTRlWJs1bOjo6im2EEnpC3": true
   },
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "ptx0's buffered city block (6-car)",
   "authorId": "WRJ0Tk2hQ2V20YoTp4IzH4HEYxv2",
   "descriptionMarkdown": "Using one of the buffered intersections from the Factorio famous forum post that was designed for 6-car train and made it into a grid signalled for 6-car trains with big power poles.\n\nCan be used in vanilla, though I'm using it in Krastorio2.\n\nRecommended to run in .18.x experimental release or newer due to rail pathfinder performance improvements with large rail grids.\n\nInfinizoom helps with placement of this rather-large bluey.",

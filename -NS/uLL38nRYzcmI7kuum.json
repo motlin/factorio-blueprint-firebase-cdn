@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1681384890745,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Tilable Solar 196 panels 171 accumulators",
   "favorites": {
     "T2BXlIoYQ9RzGajJrzfAZypJOKs1": true,

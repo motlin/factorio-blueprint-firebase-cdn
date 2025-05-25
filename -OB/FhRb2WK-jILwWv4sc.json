@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/noIPeaP",
   "lastUpdatedDate": 1731750809585,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/plastic/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/plastic/",
+    "/mods/space-age/"
+  ],
   "title": "Plastic (960 / sec)",
   "favorites": {
     "16SHlunI3Ag190N2cWpQLqH50VS2": true,

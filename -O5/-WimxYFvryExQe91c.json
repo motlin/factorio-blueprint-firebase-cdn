@@ -17,8 +17,8 @@
   "imageUrl": "https://imgur.com/85owrmQ",
   "lastUpdatedDate": 1724438211879,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "2x4 1.12GW Nuclear Reactor"
 }

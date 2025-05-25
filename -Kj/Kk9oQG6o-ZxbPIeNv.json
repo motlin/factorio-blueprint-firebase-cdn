@@ -6,12 +6,12 @@
     "type": "image/jpeg",
     "width": 1429
   },
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/power/steam/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/steam/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,
     "zMh6e9K5NSd8jiz817qdWkYZwPM2": true,

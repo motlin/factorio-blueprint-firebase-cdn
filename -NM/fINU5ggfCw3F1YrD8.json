@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1703681034371,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "Power Armor MK3 Blueprints",
   "favorites": {
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,

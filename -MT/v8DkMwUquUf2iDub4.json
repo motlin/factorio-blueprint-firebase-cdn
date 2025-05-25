@@ -19,12 +19,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/earlymodsv1.1.PNG?alt=media&token=71cd9285-4e01-4030-ace4-3aa3db1f947b",
   "lastUpdatedDate": 1613759652980,
   "numberOfFavorites": 1,
-  "tags": {
-    "4": "/production/modules/",
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/general/early game/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/production/belt based/"
+  ],
   "title": "Early Modules from train v1"
 }

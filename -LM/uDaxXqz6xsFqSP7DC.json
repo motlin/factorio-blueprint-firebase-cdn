@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1566492488420,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/production/plastic/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/production/plastic/"
+  ],
   "title": "Plastic/ Battery / Solid fuel processing [1k SPM \"Chessboard\" Megabase]"
 }

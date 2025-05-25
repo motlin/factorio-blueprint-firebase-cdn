@@ -16,12 +16,12 @@
   "createdDate": 1500913059489,
   "descriptionMarkdown": "Output:\n                                \n-1 compressed blue belt of processing units.\n\nInputs:\n\n-12 belts of green circuits\n\n-12 belts of green/red mixed circuits",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1%20compressed%20blue%20belt%20of%20processing%20units.png?alt=media&token=aeb1b2e9-eab6-4d88-ba4f-a48a3a6949b2",
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "1 compressed blue belt of processing units"
 }

@@ -246,21 +246,21 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FactorioPrintsImage001.png?alt=media&token=a0f18ea9-ac61-4c1e-9fab-f22b7ce9609c",
   "lastUpdatedDate": 1694901952843,
   "numberOfFavorites": 197,
-  "tags": {
-    "5": "/general/compact/",
-    "7": "/train/roundabout/",
-    "8": "/train/crossing/",
-    "11": "/power/solar/",
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "9": "/train/track/",
-    "12": "/power/accumulator/",
-    "10": "/train/left-hand-drive/",
-    "13": "/version/1,0/",
-    "4": "/general/late game (megabase)/",
-    "6": "/train/junction/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/train/track/",
+    "/power/accumulator/",
+    "/train/left-hand-drive/",
+    "/version/1,0/",
+    "/general/late game (megabase)/",
+    "/train/junction/"
+  ],
   "title": "NRC's Tilable Railway [Ver 2023.07.15]"
 }

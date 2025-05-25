@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/OCcgtBl",
   "lastUpdatedDate": 1743882881320,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Стартовый корабль",
   "favorites": {
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,

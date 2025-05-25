@@ -1,11 +1,11 @@
 {
   "authorId": "GhQ0teFwKjeKTgm59og7zWdAudt1",
   "descriptionMarkdown": "The yellow conveyor is important, when using red or blue it will not work",
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "image": {
     "height": 928,
     "id": "xB7Ev5Z",

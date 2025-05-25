@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1662216354316,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Late game mall from raw ressources"
 }

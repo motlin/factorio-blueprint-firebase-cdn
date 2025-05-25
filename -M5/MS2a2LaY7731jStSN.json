@@ -39,20 +39,20 @@
   },
   "lastUpdatedDate": 1587406226473,
   "numberOfFavorites": 22,
-  "tags": {
-    "6": "/production/batteries/",
-    "7": "/production/rocket parts/",
-    "8": "/production/science/",
-    "9": "/production/research (labs)/",
-    "0": "/general/late game (megabase)/",
-    "2": "/production/oil processing/",
-    "3": "/production/electronic circuit (green)/",
-    "4": "/production/advanced circuit (red)/",
-    "12": "/version/0,18/",
-    "1": "/general/beaconized/",
-    "5": "/production/processing unit (blue)/",
-    "10": "/production/plastic/",
-    "11": "/version/0,17/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/late game (megabase)/",
+    "/production/oil processing/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/version/0,18/",
+    "/general/beaconized/",
+    "/production/processing unit (blue)/",
+    "/production/plastic/",
+    "/version/0,17/"
+  ],
   "title": "2700 SPM \"Xeno-Factory\""
 }

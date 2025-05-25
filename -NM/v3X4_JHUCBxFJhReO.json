@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1675034591630,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "IRON SMELTER!!!",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%5Bitem%3Diron_ore%5D%20_%20IRON%20SMELTING!!!.png?alt=media&token=0ae63b9c-b01f-42a5-ab28-651f9335ed59",
   "favorites": {

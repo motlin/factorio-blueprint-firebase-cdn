@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660250396946,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/version/1,0/"
+  ],
   "title": "Tileable Krastorio (K2) 2k/m Matter from Wood",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

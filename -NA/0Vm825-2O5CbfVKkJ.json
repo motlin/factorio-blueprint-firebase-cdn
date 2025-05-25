@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1690096012353,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Seablock Geode Slurry",
   "favorites": {
     "ItpfwZnxmWTyGXT9pQorNFgTMPI2": true,

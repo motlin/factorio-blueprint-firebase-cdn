@@ -13,15 +13,15 @@
   "descriptionMarkdown": "Factorio 0.18 - Vanilla\n\nTile for train-to-train smelting complex. Currently configured for 2-8 Nuclear-fueled trains but not terribly hard to reconfigure. The blueprint has two lanes to show how it tiles. [Click for 90k/m + 60k/m examples (<b><i>Outdated</i></b>)](https://factorioprints.com/view/-Ly430HtH9an5AJF-oUO). <b><i>Update</i></b>: [Pastebin for 189k/m Mondo Copper example](https://pastebin.com/pdves0NE).\n\nRed Wires run locally with each lane, keeping counts for station enable/disable and talking to rail signal. Please do not mix the red wires!\nGreen Wires run globally, gathering the number of stations available and signalling this to the Staging stacker for arrivals. Staging area included in larger examples above.\n\n\nCombinator values keep production at 3.3k/m/lane with sufficient train traffic. [Kirk McDonald calculation for 16 Electric furnaces @ 8 Beacons each](https://kirkmcdonald.github.io/calc.html#data=0-17-60&min=4&belt=express-transport-belt&dm=p3&db=s3&dbc=16&items=iron-plate:f:16).\n\n<b>Cargo wagons delivering ore must have inventory filters!!</b> Key = click mouse wheel on inventory slot. The train provided has filters and its schedule from my planning file base.\n\n=============================================================\n\n<b>Update 2.0</b>: -One more Beacon per Furnace! (7 to 8; production from 3024/m to 3384/m) -Iron Chests replace Steel Chests. -Trains are no longer required to stop at Staging Stations (circuit signal wait condition removed from schedules), resulting in ~10s shorter commute times and more fun watching trains fly by. -Improved outgoing train signalling in example facility by replacing some chain signals with rail signals.",
   "fileName": "smelt_t2t6kpm.jpg",
   "lastUpdatedDate": 1587060525770,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/train/right-hand-drive/",
-    "5": "/general/late game (megabase)/",
-    "6": "/version/0,18/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/general/late game (megabase)/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "g9hE5Toln9Rgow0DLnlvDXm3Yv63": true,
     "kmo8Yyi5ICNRrUQflqr3SFrKyQN2": true,

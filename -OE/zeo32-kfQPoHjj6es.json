@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/srBUNAE",
   "lastUpdatedDate": 1735161233901,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para construção de drones avançados e usina de energia solar (Exotics + S.E.)"
 }

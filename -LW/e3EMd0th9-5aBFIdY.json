@@ -2,10 +2,10 @@
   "createdDate": 1576958752432,
   "descriptionMarkdown": "Inputs single feed with Copper Ingots on the left and Tin Ingots on the right. \n\n",
   "lastUpdatedDate": 1582172162995,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/industrial revolution/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/industrial revolution/"
+  ],
   "title": "Industrial Revolutions - Red Science",
   "author": {
     "userId": "ePLW3HMWAOWQjIF0iDtaRc85wk82"

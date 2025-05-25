@@ -45,13 +45,13 @@
     "userId": "0apmh8b3idZ2O4EGhONbBARPkH52"
   },
   "createdDate": 1548803357849,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/track/",
-    "3": "/version/0,16/",
-    "4": "/mods/vanilla/",
-    "5": "/general/tileable/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Modular Rails, power aligned"
 }

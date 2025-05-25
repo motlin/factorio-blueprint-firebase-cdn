@@ -15,10 +15,10 @@
     "width": 767
   },
   "numberOfFavorites": 34,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,17/"
+  ],
   "title": "Controlled  Robot (Logistic and Construction) Production for 0.17",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

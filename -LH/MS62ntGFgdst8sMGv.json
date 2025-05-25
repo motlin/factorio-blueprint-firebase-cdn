@@ -8,11 +8,11 @@
   },
   "lastUpdatedDate": 1560544940006,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/other/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/other/",
+    "/mods/vanilla/"
+  ],
   "title": "Fluid Transport Testing with Pipes and Pumps Showing the Difference Between Certain Designs",
   "authorId": "KUhD01lo2pctrfTnVN7wQXw8lmD2",
   "createdDate": 1560540377399,

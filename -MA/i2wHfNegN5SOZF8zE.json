@@ -19,11 +19,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-3915092.png?alt=media&token=c59b968e-3d5f-48ec-be18-42a976b2adb7",
   "lastUpdatedDate": 1622123002561,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/train/right-hand-drive/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "2-8 RHD Modular Train smelting"
 }

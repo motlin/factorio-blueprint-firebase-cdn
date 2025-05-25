@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1529251043311,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/version/0,16/",
-    "3": "/mods/vanilla/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "26 Reactor Nuclear Power Plant 3.9GW"
 }

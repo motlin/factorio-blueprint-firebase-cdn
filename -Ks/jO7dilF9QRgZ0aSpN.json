@@ -14,11 +14,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/nxdb.png?alt=media&token=36f6268b-93b5-45d4-a0d1-a72d5ee2d311",
   "lastUpdatedDate": 1504616533973,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Nuclear Power Plant Test",
   "descriptionMarkdown": "Can it work ? \nHi,\nI am new in this game and i got an idea of nuclear plant ... i just want to ask if am i doing some mistakes and/or your tips .\nIf am i right there are 20 reactor power 80 heat exchangers and 136 steam turbines",
   "numberOfFavorites": 0

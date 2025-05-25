@@ -11,10 +11,10 @@
   },
   "lastUpdatedDate": 1555835806779,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,17/"
+  ],
   "title": "Mall long v0.17 L01",
   "author": {
     "userId": "28b6LT3lmETpZtZbLOfUgstnOF42"

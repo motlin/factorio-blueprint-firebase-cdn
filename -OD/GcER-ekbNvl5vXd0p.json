@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/zzaIJZm",
   "lastUpdatedDate": 1733315066295,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Ciências de materiais 3, ciências biológicas 2, ciências de energia 3 ciências de materiais 3 e neural gel."
 }

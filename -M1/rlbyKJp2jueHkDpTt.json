@@ -16,9 +16,9 @@
   "fileName": "n2.PNG",
   "numberOfFavorites": 7,
   "title": "Nuclear Power Components Facility",
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "favorites": {
     "9y7yzBowfBZdf4Q7Vlkp34re2Hg1": true,
     "K08QDWPCfkeG6i7DX3r44i8Zof82": true,

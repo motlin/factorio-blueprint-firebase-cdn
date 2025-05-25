@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1673139298287,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "5": "/train/loading station/",
-    "6": "/train/unloading station/",
-    "7": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Nilaus auto trains in a book",
   "favorites": {
     "kvJZURi1TcU1e34TaMupVk0CIWh2": true,

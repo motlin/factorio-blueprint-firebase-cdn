@@ -9,10 +9,10 @@
   },
   "lastUpdatedDate": 1586736045107,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "PWBsM8evP5RqCv798JwkWwmExP73": true,
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true

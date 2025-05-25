@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1656276116433,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Blue Science Factory",
   "favorites": {
     "hnvRS8Z2WjTNjxtHx6aKleAKxPO2": true,

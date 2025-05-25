@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/RVrovzZ",
   "lastUpdatedDate": 1734962543341,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Raptor Space Platform",
   "favorites": {
     "Zry9pdeWiebsdLV7QzA3TXcBJ0B3": true

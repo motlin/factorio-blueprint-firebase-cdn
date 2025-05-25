@@ -8,11 +8,11 @@
   },
   "lastUpdatedDate": 1500071578373,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Nuclear fuel limiter",
   "authorId": "fT38Z6GbzAbsvBag4Dw8e6EESSw1",
   "createdDate": 1500036096289,

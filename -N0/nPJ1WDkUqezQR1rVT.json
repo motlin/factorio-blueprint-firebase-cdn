@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1651203719367,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "title": "All Circuit (Basic and Advanced)"
 }

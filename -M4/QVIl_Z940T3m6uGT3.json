@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1586379519080,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/version/0,18/",
-    "3": "/production/science/",
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "2.5kpm Blue Chemical Science"
 }

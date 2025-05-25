@@ -8,12 +8,12 @@
   },
   "numberOfFavorites": 13,
   "title": "Modular Oil",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/batteries/",
-    "2": "/production/plastic/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/batteries/",
+    "/production/plastic/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "NzinW3ImrSOidr50COVDjViOqUk2": true,
     "mcyMzwlINoP5fNNMnM3ckAl5kr52": true,

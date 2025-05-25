@@ -14,11 +14,11 @@
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
   "fileName": "2. Steam Power.PNG",
   "numberOfFavorites": 185,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Steam Power",
   "favorites": {
     "5Z6HBRsQnqRKlRWr0HF4e0ECFd03": true,

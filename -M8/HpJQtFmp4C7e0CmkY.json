@@ -16,9 +16,9 @@
   },
   "descriptionMarkdown": "An unloader for a 1-8 build on a curve.",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "favorites": {
     "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
     "ub0iEtNIVqVuJDIIVHdezrooiVY2": true,

@@ -16,10 +16,10 @@
   "createdDate": 1602953753462,
   "descriptionMarkdown": "Tried to design the cheapest and most compact tileable, perfect ratio (25:21) solar array. Perfect for the early/mid game.",
   "fileName": "Easy Ideal ratio 25-21 Solar tile.png",
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "c3PH46Jv81WZ7JaHUZH1LKq9d293": true,
     "mHzqWo6ylxbuPOwbqJOv3FTdXZc2": true

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1553111941299,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/",
-    "2": "/production/smelting/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/smelting/",
+    "/version/0,17/"
+  ],
   "title": "Smeling cell highly optimized. 2.7k/min",
   "author": {
     "userId": "bSWYbp71MqbdSspZoVcGK8AXBlq1"

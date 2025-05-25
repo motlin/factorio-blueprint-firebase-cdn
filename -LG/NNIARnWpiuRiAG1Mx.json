@@ -7,11 +7,11 @@
     "width": 848
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "OcBvLHMi5QRbuSul7nFtRgG5uZG2"
   },

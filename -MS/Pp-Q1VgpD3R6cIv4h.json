@@ -2,10 +2,10 @@
   "descriptionMarkdown": "Kind of symmetrical with almost a perfect ratio of 0.8405",
   "fileName": "solar bp.png",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "LO2J57gdnKQcdmdkujPhYb5wP273"
   },

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/wIoQPwQ",
   "lastUpdatedDate": 1732503560959,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora - Mini Base",
   "favorites": {
     "8CiRU5xanCVCp6uc7Wl9CUkp0S02": true,

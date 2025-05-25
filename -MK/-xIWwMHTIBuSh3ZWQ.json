@@ -753,18 +753,18 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-08-23%20022455.jpg?alt=media&token=6bd5d960-3b40-46b9-9a0f-eeaf71b4092a",
   "lastUpdatedDate": 1742152319782,
   "numberOfFavorites": 467,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/science/",
-    "2": "/production/smelting/",
-    "3": "/production/mall (make everything)/",
-    "4": "/mods/vanilla/",
-    "5": "/general/compact/",
-    "6": "/production/oil processing/",
-    "7": "/production/belt based/",
-    "8": "/production/research (labs)/",
-    "9": "/version/1,1/",
-    "10": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/",
+    "/production/smelting/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/production/oil processing/",
+    "/production/belt based/",
+    "/production/research (labs)/",
+    "/version/1,1/",
+    "/general/chunk aligned/"
+  ],
   "title": "ElderAxe's Quick Start Base (v11.2.5)"
 }

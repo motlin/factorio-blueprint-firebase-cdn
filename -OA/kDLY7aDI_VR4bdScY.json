@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/sdMEoIY",
   "lastUpdatedDate": 1730609870789,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/version/2,0/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/version/2,0/",
+    "/belt/transport belt (yellow)/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Kio's Perimeter Defense Walls",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

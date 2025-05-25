@@ -36,10 +36,10 @@
   "fileName": "64x64.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/64x64.png?alt=media&token=1b385543-09af-40b5-bbde-1ad9fcc1103c",
   "numberOfFavorites": 32,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/"
+  ]
 }

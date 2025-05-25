@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1628849564530,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Huge Nuclear Reactor (2.2 GW)",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

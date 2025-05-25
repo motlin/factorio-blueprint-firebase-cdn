@@ -8,12 +8,12 @@
     "id": "9hCLpas"
   },
   "lastUpdatedDate": 1537528635667,
-  "tags": {
-    "2": "/production/logistic (bot) based/",
-    "3": "/circuit/counter/",
-    "0": "/production/robots/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/circuit/counter/",
+    "/production/robots/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "C5aiRQzuT2el5d3MAKWqZs1PZDj1"
   },

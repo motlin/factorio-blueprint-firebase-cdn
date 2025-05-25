@@ -19,13 +19,13 @@
   },
   "lastUpdatedDate": 1653318688526,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/tileable/",
-    "4": "/general/beaconized/",
-    "5": "/production/science/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/production/science/"
+  ],
   "title": "4 Complete Rocket Launchers"
 }

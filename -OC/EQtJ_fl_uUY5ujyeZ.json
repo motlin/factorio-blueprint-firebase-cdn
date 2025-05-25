@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/iR1pEiP",
   "lastUpdatedDate": 1732204533156,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/production/inserters/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/belt/express transport belt (blue)/",
+    "/production/inserters/"
+  ],
   "title": "Gleba Biosulfur Production",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

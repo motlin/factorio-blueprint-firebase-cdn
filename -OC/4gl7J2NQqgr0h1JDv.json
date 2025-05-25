@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/OodkmSB",
   "lastUpdatedDate": 1732041183837,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "title": "4 Lane T-Junction",
   "favorites": {
     "VHX5k5pKzaf2Jh6VqLhGA8K9gxm2": true,

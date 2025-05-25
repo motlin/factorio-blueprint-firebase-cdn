@@ -20,7 +20,7 @@
   "descriptionMarkdown": "2x8 nuclear reactor block that feeds reactors only as necessary. To start reactors, you must place a single fuel in each reactor. The inserter logic will handle automation from then on, provided you do not run out of fuel, without using a timer.",
   "lastUpdatedDate": 1563607765513,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  }
+  "tags": [
+    "/power/nuclear/"
+  ]
 }

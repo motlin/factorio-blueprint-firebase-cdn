@@ -28,14 +28,14 @@
   },
   "lastUpdatedDate": 1602082699886,
   "numberOfFavorites": 9,
-  "tags": {
-    "4": "/production/rocket parts/",
-    "5": "/production/research (labs)/",
-    "6": "/version/1,0/",
-    "0": "/production/belt based/",
-    "1": "/general/compact/",
-    "2": "/general/beaconized/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/version/1,0/",
+    "/production/belt based/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/production/science/"
+  ],
   "title": "Mini 45 SPM base"
 }

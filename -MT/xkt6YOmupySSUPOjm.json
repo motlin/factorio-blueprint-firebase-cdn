@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1642787475994,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar - Stage 1",
   "favorites": {
     "iFEWQUrR3OQRCyvkoLYLde8hblT2": true

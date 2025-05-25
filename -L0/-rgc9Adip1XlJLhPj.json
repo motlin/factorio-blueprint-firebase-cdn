@@ -50,13 +50,13 @@
   },
   "createdDate": 1512916831282,
   "fileName": "Modular Robots V2.png",
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/general/mid game/",
-    "5": "/general/tileable/",
-    "6": "/general/early game/",
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/belt/fast transport belt (red)/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/early game/",
+    "/production/robots/",
+    "/mods/vanilla/"
+  ]
 }

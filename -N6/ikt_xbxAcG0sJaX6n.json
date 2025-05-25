@@ -26,13 +26,13 @@
   },
   "lastUpdatedDate": 1657568207036,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/power/solar/",
-    "2": "/general/beaconized/",
-    "3": "/production/science/",
-    "4": "/version/0,15/",
-    "5": "/mods/other/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/power/solar/",
+    "/general/beaconized/",
+    "/production/science/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "The Holy book 1.0"
 }

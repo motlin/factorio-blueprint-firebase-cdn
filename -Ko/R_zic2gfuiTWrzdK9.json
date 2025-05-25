@@ -18,12 +18,12 @@
     "type": "image/jpeg",
     "width": 943
   },
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/batteries/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "SireGhans AOP Mk2 with Bus",
   "createdDate": 1499423309019,
   "descriptionMarkdown": "See Sire Ghans AOP mk2",

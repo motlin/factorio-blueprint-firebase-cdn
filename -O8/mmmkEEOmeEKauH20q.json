@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/iibE1vn",
   "lastUpdatedDate": 1729374987185,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para Substrato de armazenamento de dados brutos - S.A.D.B. vers. 2.0- (Exotics + S.E.)"
 }

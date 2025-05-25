@@ -3,10 +3,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202018-12-31%20at%202.55.38%20AM.png?alt=media&token=bf6bc5dd-4e53-4618-afa7-e91be3533e29",
   "lastUpdatedDate": 1546345112873,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "QJdPciVAF6azJoHXuPLjuyKGhdx1"
   },

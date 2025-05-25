@@ -238,12 +238,12 @@
   },
   "lastUpdatedDate": 1530215768072,
   "numberOfFavorites": 272,
-  "tags": {
-    "1": "/production/robots/",
-    "2": "/production/belt based/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/belt based/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "title": "Bot Production"
 }

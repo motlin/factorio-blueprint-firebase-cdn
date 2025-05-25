@@ -56,12 +56,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Kickstarter%20base.PNG?alt=media&token=37ce3ca3-4356-481f-b2b9-ae3d87cfcb4f",
   "numberOfFavorites": 94,
-  "tags": {
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/",
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/general/early game/"
+  ],
   "title": "Jump start base (including Nanobots)"
 }

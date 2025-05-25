@@ -9,18 +9,18 @@
     "width": 1024,
     "height": 936
   },
-  "tags": {
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "5": "/train/unloading station/",
-    "9": "/version/0,15/",
-    "0": "/belt/transport belt (yellow)/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "6": "/version/0,16/",
-    "7": "/belt/balancer/",
-    "8": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/train/unloading station/",
+    "/version/0,15/",
+    "/belt/transport belt (yellow)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/0,16/",
+    "/belt/balancer/",
+    "/mods/vanilla/"
+  ],
   "numberOfFavorites": 4,
   "title": "4 Cargo to 12 Belts",
   "authorId": "QIE2KWG9txYWeZcZtcboDUSME8G2",

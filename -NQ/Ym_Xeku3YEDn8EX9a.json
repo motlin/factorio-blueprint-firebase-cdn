@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1707850812857,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Fundamentals of Digital Circuitry",
   "favorites": {
     "1v6Ja7M59KORPB8z6APCENuYJ982": true,

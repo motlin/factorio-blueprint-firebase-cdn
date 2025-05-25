@@ -19,13 +19,13 @@
   },
   "lastUpdatedDate": 1637534377379,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Fastest Standalone Rockets by Paige"
 }

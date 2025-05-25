@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1645812041595,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/production/belt based/"
+  ],
   "title": "Simple Kovarex Centrefuge",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/kk.bmp?alt=media&token=9f30f708-a3cf-417d-b127-1f71c373d1c3",
   "favorites": {

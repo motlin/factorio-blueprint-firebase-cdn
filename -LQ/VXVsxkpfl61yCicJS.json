@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1541365436029,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Early Robots",
   "favorites": {
     "CBdKM9nPBQeSu9ldrYwt1wpSbRI3": true,

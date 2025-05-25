@@ -10,13 +10,13 @@
   "descriptionMarkdown": "A basic upgrade planner to take you from early game to late game. \n\nI made this for myself. If I lose my game, I have this. But everyone else can use it or critique it too. ",
   "fileName": "Upgrade Planner.PNG",
   "lastUpdatedDate": 1551302599430,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/",
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Upgrade Planner",
   "author": {
     "userId": "lEPYdC58rvhWCgVGvgeoUBREKXf2"

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/tZ3pFwI",
   "lastUpdatedDate": 1743037728363,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/production/robots/"
-  },
+  "tags": [
+    "/production/other/",
+    "/production/robots/"
+  ],
   "title": "a convenient start",
   "favorites": {
     "if0KvlQHynfuU1gZJTTBndH58b93": true,

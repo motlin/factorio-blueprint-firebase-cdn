@@ -15,18 +15,18 @@
   },
   "lastUpdatedDate": 1683064152832,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/left-hand-drive/",
-    "3": "/train/right-hand-drive/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/version/0,15/",
-    "6": "/version/0,16/",
-    "7": "/version/0,17/",
-    "8": "/version/0,18/",
-    "9": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/left-hand-drive/",
+    "/train/right-hand-drive/",
+    "/belt/express transport belt (blue)/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/"
+  ],
   "title": "2 tile inline loader (90/s)",
   "favorites": {
     "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,

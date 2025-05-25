@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1641473733595,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "title": "Processing units (blue circuit) 50/s"
 }

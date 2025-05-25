@@ -26,8 +26,8 @@
   "imageUrl": "https://imgur.com/I3Eqqmn",
   "lastUpdatedDate": 1725396714724,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "The Module Book"
 }

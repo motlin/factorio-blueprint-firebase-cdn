@@ -28,9 +28,9 @@
   "imageUrl": "https://imgur.com/sdGkLaE",
   "lastUpdatedDate": 1735077058554,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Fast Cargo Ship 676"
 }

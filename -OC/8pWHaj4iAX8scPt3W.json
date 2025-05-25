@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/ejKEaji",
   "lastUpdatedDate": 1732132561950,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/",
-    "3": "/planets/gleba/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/production/inserters/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/belt/express transport belt (blue)/",
+    "/production/inserters/",
+    "/version/0,15/"
+  ],
   "title": "Jellynut Processing (Blue/Red Belt & Bulk Inserter)",
   "favorites": {
     "t5DQeUThtHb8wwBu7ul2erlBNDw2": true,

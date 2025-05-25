@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/v5ktGK7",
   "lastUpdatedDate": 1735247441372,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de Ciências biológicas 4 ver 2.0",
   "favorites": {
     "F7ggoG355bVy1nr66SBbq3WwsDi1": true

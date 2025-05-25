@@ -15,10 +15,10 @@
     "id": "m5iAU2z"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/production/modules/"
+  ],
   "title": "Tier 3 Module factory 12-beacon"
 }

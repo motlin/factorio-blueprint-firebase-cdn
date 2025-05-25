@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1691142347606,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/power/solar/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/power/solar/",
+    "/production/guns and ammo/"
+  ],
   "title": "Smart and easy wall defense"
 }

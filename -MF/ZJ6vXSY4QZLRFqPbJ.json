@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1627328119170,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/power/accumulator/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/accumulator/"
+  ],
   "title": "Monitor accumulator",
   "favorites": {
     "nzv7UR1jaWYQKLqTd5rmWMjL4AE2": true,

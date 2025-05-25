@@ -40,10 +40,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220921132508_1.jpg?alt=media&token=e124ac29-bdf9-45a5-bd3a-13487f77aa8a",
   "lastUpdatedDate": 1663781369168,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Multi Mall of utility"
 }

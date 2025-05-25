@@ -12,10 +12,10 @@
     "width": 362
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "WQl3kVGX5AcTDIThs5isZDCROTC2": true,
     "IbpV4kn3HjMWyjZU8KMvIGLIPRH2": true,

@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1625798976678,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/mining/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/mining/"
+  ],
   "title": "Defensed Mining Outpost"
 }

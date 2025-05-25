@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1737133365049,
   "numberOfFavorites": 54,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/balancer/",
-    "3": "/belt/tap/",
-    "4": "/general/late game (megabase)/",
-    "5": "/mods/creative/",
-    "6": "/mods/industrial revolution/",
-    "7": "/production/belts/",
-    "8": "/production/belt based/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/belt/tap/",
+    "/general/late game (megabase)/",
+    "/mods/creative/",
+    "/mods/industrial revolution/",
+    "/production/belts/",
+    "/production/belt based/"
+  ],
   "title": "Logistic science pack- Logistyczny pakiet naukowy. Automatyzacja, schemat budowy.",
   "favorites": {
     "B1NUTIsbOIRfCBXxJKQ36acpTix1": true,

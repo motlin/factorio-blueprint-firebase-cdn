@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Zdj8Oio",
   "lastUpdatedDate": 1742120449400,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/scrap processing/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/scrap processing/",
+    "/mods/space-age/"
+  ],
   "title": "Fulgora scrap metal processor mk1",
   "favorites": {
     "r14ziXVdSINBLObQU1tcwxhWCYw2": true,

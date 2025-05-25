@@ -17,11 +17,11 @@
   "title": "Glass and Concrete Production Plant in a Box (Factorissimo).",
   "fileName": "Cristal & Concrete.jpg",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/factorissimo/",
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/",
-    "4": "/production/other/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/other/"
+  ]
 }

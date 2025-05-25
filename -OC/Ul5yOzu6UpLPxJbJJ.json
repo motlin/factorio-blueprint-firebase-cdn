@@ -13,16 +13,16 @@
   "imageUrl": "https://imgur.com/BDmrHNm",
   "lastUpdatedDate": 1732478529620,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/chunk aligned/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/crossing/",
-    "5": "/train/junction/",
-    "6": "/train/stacker/",
-    "7": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/chunk aligned/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/train/stacker/",
+    "/mods/space-age/"
+  ],
   "title": "Chunk-Aligned Railway System with Wires - updated for 2.0",
   "favorites": {
     "jRMMiYTQxGgJ3m7VtIR5Un4pxxj1": true,

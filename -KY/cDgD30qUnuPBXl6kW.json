@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1499474756227,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "First of all sciences!",
   "authorId": "XURuGZ1uGHWt4Ltoi7K4P5l0UEq1",
   "descriptionMarkdown": "Just for lazy people.",

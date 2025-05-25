@@ -10,13 +10,13 @@
     "height": 630
   },
   "numberOfFavorites": 21,
-  "tags": {
-    "2": "/train/unloading station/",
-    "3": "/general/mid game/",
-    "4": "/mods/vanilla/",
-    "0": "/version/0,16/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/compact/"
+  ],
   "title": "Fire Support Base v0.2 (artillery, flamethrowers, automated resupply)",
   "favorites": {
     "pHEiCz6leCXCh4x3kvGYvItulTH2": true,

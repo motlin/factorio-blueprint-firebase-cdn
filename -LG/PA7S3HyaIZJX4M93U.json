@@ -14,11 +14,11 @@
   "author": {
     "userId": "KASYIXAXD4SlsMSJ8HgWcDSF9yh2"
   },
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "RS-Latch with Hysteresis",
   "numberOfFavorites": 4
 }

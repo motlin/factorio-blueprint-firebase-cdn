@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/q1SQPTL",
   "lastUpdatedDate": 1743458931326,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Snowglider V1",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true

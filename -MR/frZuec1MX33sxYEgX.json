@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1640339754727,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belts/",
-    "4": "/version/1,0/",
-    "5": "/general/early game/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/production/belts/",
+    "/version/1,0/",
+    "/general/early game/"
+  ],
   "title": "Furnace Mall v3"
 }

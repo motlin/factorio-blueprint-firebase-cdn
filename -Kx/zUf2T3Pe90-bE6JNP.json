@@ -16,10 +16,10 @@
   "fileName": "Solar Array 1x3.png",
   "lastUpdatedDate": 1509714028902,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/power/solar/"
-  }
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/solar/"
+  ]
 }

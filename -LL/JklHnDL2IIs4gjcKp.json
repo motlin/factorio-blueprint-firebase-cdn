@@ -9,11 +9,11 @@
   },
   "title": "Satellite Factory",
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/general/beaconized/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/beaconized/",
+    "/production/rocket parts/"
+  ],
   "favorites": {
     "2xE8qjsXfccb5KV8yEPgeYcj0EH2": true,
     "gA6dgaeVCZgOfodUnInydcKC1lb2": true,

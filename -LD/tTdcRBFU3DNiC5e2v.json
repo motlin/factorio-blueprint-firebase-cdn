@@ -2,11 +2,11 @@
   "fileName": "Screenshot from 2019-05-02 12-56-09.png",
   "lastUpdatedDate": 1556816239195,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Military Science 2k/min",
   "favorites": {
     "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,

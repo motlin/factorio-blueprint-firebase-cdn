@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1689831625017,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,18/",
-    "2": "/production/belt based/",
-    "3": "/production/smelting/",
-    "4": "/production/mining/",
-    "5": "/power/steam/",
-    "6": "/general/early game/",
-    "7": "/belt/transport belt (yellow)/",
-    "8": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/production/belt based/",
+    "/production/smelting/",
+    "/production/mining/",
+    "/power/steam/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Scrupy's prints.",
   "favorites": {
     "ncPy1rLuMjcyEHvcdImFi7ql4M43": true,

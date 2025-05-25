@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/YbY8yLt",
   "lastUpdatedDate": 1724338604235,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Fornalhas elétricas 2.0"
 }

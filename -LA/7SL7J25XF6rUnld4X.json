@@ -31,11 +31,11 @@
     "width": 538
   },
   "lastUpdatedDate": 1552773120217,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/production/robots/",
-    "4": "/version/0,17/"
-  }
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/robots/",
+    "/version/0,17/"
+  ]
 }

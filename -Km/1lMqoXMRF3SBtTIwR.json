@@ -36,11 +36,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/817withammoandlube.png?alt=media&token=5af8ae3f-0422-4d3e-8a29-aaa9a57f8ded",
   "lastUpdatedDate": 1498570110306,
   "numberOfFavorites": 57,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/creative/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/creative/",
+    "/version/0,15/"
+  ],
   "title": "Refinery Collection"
 }

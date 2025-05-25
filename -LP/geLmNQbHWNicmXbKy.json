@@ -15,11 +15,11 @@
     "width": 1186
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/power/steam/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/power/steam/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Early Power Mall"
 }

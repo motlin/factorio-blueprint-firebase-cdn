@@ -16,8 +16,8 @@
     "type": "image/png",
     "width": 1170
   },
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/mods/angels/",
+    "/version/0,17/"
+  ]
 }

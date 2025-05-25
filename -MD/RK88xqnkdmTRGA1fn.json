@@ -25,10 +25,10 @@
   },
   "lastUpdatedDate": 1596420089585,
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/indicator/"
+  ],
   "title": "Juuzou Suzuya"
 }

@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1666138305397,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "SE Cryonite Rod City Block"
 }

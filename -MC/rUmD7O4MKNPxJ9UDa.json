@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1595437763593,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Slightly Off Solar field",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/UncomfortableSolarBlueprintPreview.PNG?alt=media&token=c54c4a9a-7b79-4d04-833f-f522f54015f6",
   "image": {

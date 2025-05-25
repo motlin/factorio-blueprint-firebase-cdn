@@ -23,13 +23,13 @@
   },
   "lastUpdatedDate": 1583110322897,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/right-hand-drive/",
-    "2": "/general/chunk aligned/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/mods/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/general/chunk aligned/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/mods/other/"
+  ],
   "title": "6x6 Internal Chunk Aligned City Block 1-8 RHD"
 }

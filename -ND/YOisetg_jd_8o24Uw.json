@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1665765705464,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "640MW 2xN Tileable Nuclear Reactor - FlipReactor V4"
 }

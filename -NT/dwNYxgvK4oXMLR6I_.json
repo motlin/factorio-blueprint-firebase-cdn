@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1682183391620,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Factorio Space Exploration Core Mining Processing (Scalable)",
   "favorites": {
     "1vKFO4FV7DcWicQenktIb6rfSgG3": true,

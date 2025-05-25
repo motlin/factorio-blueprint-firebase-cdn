@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/33CVzWd",
   "lastUpdatedDate": 1736897739259,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Red bottels"
 }

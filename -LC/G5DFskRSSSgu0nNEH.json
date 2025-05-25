@@ -7,14 +7,14 @@
     "id": "6Od83iF",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/creative/",
-    "2": "/circuit/indicator/",
-    "3": "/circuit/counter/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/creative/",
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "If, Then, Else Statements",
   "author": {
     "userId": "lEPYdC58rvhWCgVGvgeoUBREKXf2"

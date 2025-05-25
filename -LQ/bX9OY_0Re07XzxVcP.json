@@ -13,12 +13,12 @@
     "userId": "aTTReojq1gNJW72qypfB9aKLhLk1"
   },
   "authorId": "aTTReojq1gNJW72qypfB9aKLhLk1",
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Beaconized Extendable Kovarex Enrichment Process",
   "descriptionMarkdown": "Simple  + Beaconized + Extendable Koravex Enrichment Process.",
   "lastUpdatedDate": 1541482784594

@@ -11,9 +11,9 @@
   "descriptionMarkdown": "Collects Coins from the defensive wall, for use in scenarios that generate coins at the turret for kills, like Fish Defense, Mountain Fortress etc.  Will work for any scenario that drops loot at the turret on a kill.  Uses inner and outer walls, with dragon's teeth and landmines .  Outer wall is placed based on vanilla turret ranges and gun turrets only engage if outer wall is breached to conserve ammo.  ",
   "fileName": "Coin Collector Defensive Wall.png",
   "lastUpdatedDate": 1579387782925,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Coin Collector Defensive Wall",
   "author": {
     "userId": "G4BmNu3vonVRx5aKJSZVuDDhw4o1"

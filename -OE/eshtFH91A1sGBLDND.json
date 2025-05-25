@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/QZelx2P",
   "lastUpdatedDate": 1734812651857,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/rocket parts/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Vulcanus rocket fuel T2 modules/blue belts.",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

@@ -20,12 +20,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-06-01%20082516.png?alt=media&token=3f7add1a-6e10-4514-b8fc-97e085aaea9b",
   "lastUpdatedDate": 1685732399759,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/krastorio/",
-    "4": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "Basic City Block"
 }

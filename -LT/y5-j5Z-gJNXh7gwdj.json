@@ -9,9 +9,9 @@
   },
   "title": "Kovarex Enrichment Self Primed",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "author": {
     "userId": "G93S2vpjFSeUvhzD22RdNFhxJ1Z2"
   },

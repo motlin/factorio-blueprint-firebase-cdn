@@ -1,14 +1,14 @@
 {
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/track/",
-    "4": "/version/0,17/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Chunk-aligned junctions and tracks for right-hand driving",
   "descriptionMarkdown": "A collection of non-blocking junctions for right-hand drive for both 2- and 4-tracked ways.\n\nAll tracks are chunk-aligned, and come with power poles, lights, roboports and circuit network connections.\n\nMake sure to add enough track after each junction so that a whole of your longest trains can fit between junction exit and the next signal on the track.\n\nThe 2-tracked 4-way junction (celtic knot) is adopted from gyro2death",
   "fileName": "rail_blueprints_v1.png",

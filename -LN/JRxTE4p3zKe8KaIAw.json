@@ -16,10 +16,10 @@
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
   "createdDate": 1537941428236,
   "lastUpdatedDate": 1537997849617,
-  "tags": {
-    "3": "/version/0,16/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/production/electronic circuit (green)/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ]
 }

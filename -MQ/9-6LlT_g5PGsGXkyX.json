@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "JEDQZnOPG3eGq1lZN8xXMHD1kA03": true,
     "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true,

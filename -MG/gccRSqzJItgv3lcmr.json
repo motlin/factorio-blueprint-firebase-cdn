@@ -5,12 +5,12 @@
     "type": "image/jpeg",
     "width": 800
   },
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/production/batteries/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/batteries/"
+  ],
   "title": "Robot Frame 1/sec",
   "author": {
     "userId": "RITZxKmoKFbe9G1hYgi0MZFd0ap1"

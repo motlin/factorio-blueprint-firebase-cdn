@@ -9,13 +9,13 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1554755701284,
-  "tags": {
-    "4": "/version/0,17/",
-    "0": "/mods/vanilla/",
-    "1": "/production/other/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/other/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "ddEGs4a0W8PuSrEYSZJ35nkztvq2": true,
     "6xpJkBb1CcahGsWJ9s65vzViYms2": true,

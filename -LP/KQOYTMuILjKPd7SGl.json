@@ -6,10 +6,10 @@
     "width": 4576
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Power - Turbines",
   "favorites": {
     "TKt9f0W6c9XuH552MEmZVFtc0Xu1": true,

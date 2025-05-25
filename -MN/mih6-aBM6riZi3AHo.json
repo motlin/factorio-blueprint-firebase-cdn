@@ -9,10 +9,10 @@
   "numberOfFavorites": 7,
   "fileName": "Screenshot 2020-12-05 114619.png",
   "lastUpdatedDate": 1607168873886,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/"
+  ],
   "title": "Oil processing",
   "author": {
     "userId": "phab8ULyiyRUdKt59Z4TKw4XKwF3"

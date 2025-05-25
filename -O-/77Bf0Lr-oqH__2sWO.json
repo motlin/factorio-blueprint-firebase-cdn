@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/3TWsq4p",
   "lastUpdatedDate": 1718123285364,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Electric mining drill "
 }

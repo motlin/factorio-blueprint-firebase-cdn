@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/GhVydYx.png",
   "lastUpdatedDate": 1742070617724,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Factorio 4 way",
   "favorites": {
     "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true

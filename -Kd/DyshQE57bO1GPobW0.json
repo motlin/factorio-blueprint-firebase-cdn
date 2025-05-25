@@ -27,11 +27,11 @@
   "fileName": "beltbalancersred.PNG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/beltbalancersred.PNG?alt=media&token=838ca392-1587-48e1-9cdd-d3880efe9c1f",
   "numberOfFavorites": 53,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/fast transport belt (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Belt Balancers (red)"
 }

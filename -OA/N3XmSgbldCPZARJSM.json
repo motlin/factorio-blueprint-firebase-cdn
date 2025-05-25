@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/pazcyjN",
   "lastUpdatedDate": 1730201922899,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "train junctions blueprint book",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

@@ -74,16 +74,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FactorioPrintsImage003.png?alt=media&token=00f980ce-5990-46ec-a11c-cb3c97e45005",
   "lastUpdatedDate": 1702882403433,
   "numberOfFavorites": 55,
-  "tags": {
-    "6": "/production/belt based/",
-    "7": "/production/research (labs)/",
-    "8": "/version/0,17/",
-    "0": "/mods/vanilla/",
-    "2": "/production/science/",
-    "5": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "3": "/production/rocket parts/",
-    "4": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/research (labs)/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/production/rocket parts/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "NRC's Science[Ver 1.2]"
 }

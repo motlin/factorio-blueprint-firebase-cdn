@@ -5,11 +5,11 @@
   "authorId": "KG53vmQQOMY7CJKjH0ZgeT5QbzH2",
   "createdDate": 1558383054066,
   "fileName": "Anmerkung 2019-05-20 220901 dual mixer.png",
-  "tags": {
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/mods/vanilla/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ],
   "title": "Red Belt Intersection",
   "favorites": {
     "PFSltFZfeSUyighFCrcKp703tsr1": true,

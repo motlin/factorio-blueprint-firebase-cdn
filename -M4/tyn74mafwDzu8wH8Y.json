@@ -31,13 +31,13 @@
   },
   "lastUpdatedDate": 1587229578693,
   "numberOfFavorites": 14,
-  "tags": {
-    "3": "/train/track/",
-    "4": "/train/left-hand-drive/",
-    "5": "/train/unloading station/",
-    "0": "/train/loading station/",
-    "1": "/train/crossing/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/train/crossing/",
+    "/train/roundabout/"
+  ],
   "title": "trains for everyone 2*2"
 }

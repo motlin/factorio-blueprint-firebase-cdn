@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651930500549,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Производство дронов",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true

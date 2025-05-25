@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/version/1,0/",
-    "0": "/production/research (labs)/",
-    "1": "/mods/other/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/research (labs)/",
+    "/mods/other/",
+    "/mods/krastorio/"
+  ],
   "title": "krastorio 2 endgame lab chain",
   "author": {
     "userId": "S9oxKdSi4xVFdPxbSTSeuYzC4Az1"

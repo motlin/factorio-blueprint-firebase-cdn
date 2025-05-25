@@ -17,11 +17,11 @@
   },
   "lastUpdatedDate": 1529499019883,
   "numberOfFavorites": 17,
-  "tags": {
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "author": {
     "userId": "Vpoqth2NDYhlGzaGkECIGi0pqep1"
   },

@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/xEisDPy",
   "lastUpdatedDate": 1731985444399,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/",
-    "2": "/planets/vulcanus/",
-    "3": "/planets/gleba/",
-    "4": "/planets/fulgora/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/planets/vulcanus/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/general/compact/"
+  ],
   "title": "Trident Hopper [Cheap platform. All Planets]",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

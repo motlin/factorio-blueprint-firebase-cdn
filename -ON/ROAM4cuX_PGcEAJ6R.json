@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/SU1GHVB",
   "lastUpdatedDate": 1744252931053,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Vulcanus - Explosives (600/m)",
   "favorites": {
     "oQHhOd2rmBNqHpDMD9jIDTjwIXM2": true,

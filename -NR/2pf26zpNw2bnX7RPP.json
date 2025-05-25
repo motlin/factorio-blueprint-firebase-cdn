@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1679397215465,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Rocket Science Pack \"Orange Science\" ( Read Description ) *Space Exploration*",
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,

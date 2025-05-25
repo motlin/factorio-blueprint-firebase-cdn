@@ -10,12 +10,12 @@
     "id": "nqpJVa7"
   },
   "lastUpdatedDate": 1548861252117,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "5s6kRqxxZmU8iIenrOFjXwutiev1"
   },

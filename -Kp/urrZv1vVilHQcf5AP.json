@@ -13,13 +13,13 @@
   "descriptionMarkdown": "This smelting build produces more than enough copper and iron plate to build the 720 Rocket Control Units (including the green red and blue circuits, speed modules and copper cable), 1 Satellite and 820 Low Density Structures per minute.\n\n**Features**\n\n- Bot-based\n- Ore delivered in 4-wagon trains\n- Includes tracks for taking away the plate if you wish\n- Designed for 1 Rocket per Minute capacity, but can be configured by changing constant combinators\n- Includes some extra smelters (unused) if you want to use the build for something different. You could (for example) use the left side for copper plate and the right side for iron plate. Just change constant combinators to decide what each 'row' of the smelter will be used for.\n- Could also be configured to make stone bricks and/or steel plate if you change the constant combinators\n\n**Usage**\n\n- For 1 Rocket per minute, unloaders are (left to right) Copper Ore, Iron Ore, Copper Ore, Iron Ore\n- Add your own train stops depending on the size of your trains. It was designed for 1-4-1 trains. You may  need to change the unloaders if you have a different train size\n- Add 800 logistics bots\n- (Optional) Add loaders and stations on the 2 central rails to take request and take away the plate. Otherwise add more bots to take the plate to where it's needed for rocket control units and low density structure assembly.\n- Connect all the rails to your train network. It's recommended that you have a stacker for the ore and plate trains",
   "fileName": "1RPM Iron and Copper Plate Smelting.PNG",
   "numberOfFavorites": 4,
-  "tags": {
-    "4": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
   "createdDate": 1501005052438,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1RPM%20Iron%20and%20Copper%20Plate%20Smelting.PNG?alt=media&token=cbbab4d8-3a2d-41cf-9534-62cb8ce22266",

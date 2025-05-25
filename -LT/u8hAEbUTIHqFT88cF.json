@@ -2,9 +2,9 @@
   "createdDate": 1574007395054,
   "descriptionMarkdown": "Some neat useful circuit designs",
   "fileName": "factorio circuits_pic.png",
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "title": "Circuits - Useful",
   "favorites": {
     "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,

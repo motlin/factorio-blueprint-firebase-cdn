@@ -18,10 +18,10 @@
     "type": "image/jpeg",
     "width": 983
   },
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/solar/"
+  ],
   "title": "Compact Krastorio 2 Solar",
   "author": {
     "userId": "YCmdFXJWFJNogQjdMZAbrtzm9ml1"

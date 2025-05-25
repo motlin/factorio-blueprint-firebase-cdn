@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/bHRgrtf",
   "lastUpdatedDate": 1742275498656,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/research (labs)/",
-    "2": "/production/inserters/",
-    "3": "/power/accumulator/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/research (labs)/",
+    "/production/inserters/",
+    "/power/accumulator/"
+  ],
   "title": "Abandoned Rail Base (Tutorial map 5)",
   "favorites": {
     "mdoAhfAtrBaFQqki9XdhgBIrFiY2": true

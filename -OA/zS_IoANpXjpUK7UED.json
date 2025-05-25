@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2tf3bcd",
   "lastUpdatedDate": 1730862798362,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/elevated-rails/"
-  },
+  "tags": [
+    "/mods/elevated-rails/"
+  ],
   "title": "Elevated rails book",
   "favorites": {
     "uP1j45vEStdHweLbIuZN0jfWdGy2": true,

@@ -51,13 +51,13 @@
   },
   "lastUpdatedDate": 1568084220597,
   "numberOfFavorites": 33,
-  "tags": {
-    "1": "/production/smelting/",
-    "2": "/general/late game (megabase)/",
-    "3": "/train/left-hand-drive/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,17/",
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/late game (megabase)/",
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/beaconized/"
+  ],
   "title": "1K SPM Smeltery (Copper Plate, Iron Plate, Steel Plate, Brick)"
 }

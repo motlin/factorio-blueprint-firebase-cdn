@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2ajACky",
   "lastUpdatedDate": 1732037085375,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "9 Digit Numeric Display",
   "favorites": {
     "q6szEyQgjSPmtfqfO7xa86No1dE3": true,

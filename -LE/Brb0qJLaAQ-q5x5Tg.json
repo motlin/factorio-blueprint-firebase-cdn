@@ -7,10 +7,10 @@
   "descriptionMarkdown": "Beacon Large Oil Processing factorissimo2 but could be used anywhere.",
   "lastUpdatedDate": 1557141549430,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "48QML8uDVQMVEj6Ltz9531os5573": true,
     "crI6zzSiYqUk4Wfe0jYmQa3mYc52": true,

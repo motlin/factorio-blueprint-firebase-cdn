@@ -19,8 +19,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Map%20Plagueis.png?alt=media&token=9e8d138a-8dec-4513-a07f-642435c5d2c8",
   "lastUpdatedDate": 1502563614621,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/"
+  ],
   "title": "The Tragedy of Darth Plagueis \"The Wise\""
 }

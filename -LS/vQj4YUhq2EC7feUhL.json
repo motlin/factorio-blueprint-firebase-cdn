@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1543964520809,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "N1_INIT___"
 }

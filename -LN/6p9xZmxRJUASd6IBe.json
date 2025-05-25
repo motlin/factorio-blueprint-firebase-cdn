@@ -14,11 +14,11 @@
   "authorId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2",
   "descriptionMarkdown": "This refinary is a litte different from most.\nIt has indicators on it which tell you if the ore drops below a throughput of 5 per second, Red for <5, Green for 5 and above.\nIt has storage indicators which reads the contents of 8 containers, Red for all containers not full up and Green for full.\n\nI encorporated a small amount of Solar Panels and accumulators in the spare spaces to help negate the power requirements to run this.\n\nAlso the colour schemes for the lights can be changed easily by changing the colours on the decider combinators.\n\nMk.II Modifications,additions and fixes:-\n\nAccumulator position changes and extra's added.\nExtra Beacons added.\nLight positions changed.\nDecider combinator updated to measure all refined products.\n\nMajor addition :-\n\nColour coded capacity meter for storage containers.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/sf2.PNG?alt=media&token=fd384516-2115-419a-99d9-0be9a693483d",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/power/solar/"
+  ],
   "title": "Smart Refinary Mk.II",
   "favorites": {
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true

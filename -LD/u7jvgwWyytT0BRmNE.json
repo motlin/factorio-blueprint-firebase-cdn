@@ -16,11 +16,11 @@
   "createdDate": 1556827269768,
   "fileName": "20190502150438_1.jpg",
   "lastUpdatedDate": 1556827269768,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,17/",
-    "2": "/general/marathon/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,17/",
+    "/general/marathon/"
+  ],
   "favorites": {
     "Kt8Zip6OwhOYkL7EOR1t3GZ80Cv1": true,
     "nLqjRrfpSkaUNu07P5YgmgJSuK22": true,

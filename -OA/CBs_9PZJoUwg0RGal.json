@@ -25,14 +25,14 @@
   "imageUrl": "https://imgur.com/2xL17Fd",
   "lastUpdatedDate": 1730683137578,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/nauvis/",
-    "2": "/planets/fulgora/",
-    "3": "/planets/vulcanus/",
-    "4": "/planets/aquilo/",
-    "5": "/planets/space-platform/",
-    "6": "/mods/other/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/nauvis/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/mods/other/"
+  ],
   "title": "Spacecraft - Μορφεύς "
 }

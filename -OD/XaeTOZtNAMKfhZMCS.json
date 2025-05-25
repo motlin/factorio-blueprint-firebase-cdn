@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/VQhuKHa",
   "lastUpdatedDate": 1733599864949,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Post-Aquilo ship",
   "favorites": {
     "BHnArxZfy0T3yYhe18prLsfiuKf2": true,

@@ -16,15 +16,15 @@
   "imageUrl": "https://imgur.com/IVwCVIO",
   "lastUpdatedDate": 1731668567311,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/quality/",
-    "2": "/mods/other/",
-    "3": "/version/2,0/",
-    "4": "/power/solar/",
-    "5": "/power/accumulator/",
-    "6": "/planets/space-platform/",
-    "7": "/general/early game/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/mods/other/",
+    "/version/2,0/",
+    "/power/solar/",
+    "/power/accumulator/",
+    "/planets/space-platform/",
+    "/general/early game/"
+  ],
   "title": "[Space Age] Space Platform"
 }

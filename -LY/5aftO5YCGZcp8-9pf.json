@@ -30,14 +30,14 @@
   },
   "lastUpdatedDate": 1549520318655,
   "numberOfFavorites": 13,
-  "tags": {
-    "5": "/mods/vanilla/",
-    "6": "/version/0,16/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/general/chunk aligned/",
-    "3": "/production/belt based/",
-    "4": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/chunk aligned/",
+    "/production/belt based/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Gigabus v1.0"
 }

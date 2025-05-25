@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "favorites": {
     "cmVK0qxzUle25kRKDaLf9uOQt8w2": true
   },

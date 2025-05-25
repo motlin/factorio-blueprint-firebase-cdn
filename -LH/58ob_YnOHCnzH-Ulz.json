@@ -4,12 +4,12 @@
   },
   "fileName": "2018-07-11_00-43-13.jpg",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,16/",
-    "2": "/version/0,15/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/production/other/"
+  ],
   "image": {
     "height": 661,
     "id": "AYsi8eH",

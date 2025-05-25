@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1543862530669,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/stacker/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/stacker/"
+  ],
   "author": {
     "userId": "VdlW6mvTuyTILdb5Tv4wlmu6cPy2"
   },

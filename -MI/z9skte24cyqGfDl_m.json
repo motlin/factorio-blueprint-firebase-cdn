@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1631087126316,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Tilable solar array - 3x3 roboports wide",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d%E2%80%99%C3%A9cran%202021-09-08%20094410.png?alt=media&token=64a59d3d-64bf-4e61-9bcc-505656861f23",
   "favorites": {

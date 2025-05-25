@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Train 1-4 unload right",
   "authorId": "EB8WBvnJykbdfYUSWX4aFBO9BVJ2",
   "createdDate": 1506677164948,

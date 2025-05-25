@@ -4,11 +4,11 @@
   },
   "fileName": "Factorio 0.17.69 10_14_2019 10_22_04 PM.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "0": "/production/inserters/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/inserters/"
+  ],
   "favorites": {
     "RMxlxGorzyNXSP9CBkzCdiHZNjD3": true,
     "NjB2DwrYKsfrOhfH9xT6YQQY7Sg2": true,

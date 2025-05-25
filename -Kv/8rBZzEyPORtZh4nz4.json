@@ -22,11 +22,11 @@
     "0LplOO9VaTMPC1YfBNuvBlxF1Rw2": true
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%20from%202017-09-28%2020-59-59.png?alt=media&token=926f957c-4684-4a46-bdb6-83f0cd59e1c2",
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/version/0,15/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/"
+  ],
   "author": {
     "userId": "J6AhUQmEm4gyQiIm3NytOdfSLrr2"
   },

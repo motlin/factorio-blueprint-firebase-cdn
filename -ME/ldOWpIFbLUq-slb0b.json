@@ -16,8 +16,8 @@
   "descriptionMarkdown": "smelter pałny belt, smelter kamienia pełny belt, smelter stali modularny i kopalnia modularna",
   "fileName": "Screenshot (576456456).png",
   "lastUpdatedDate": 1597487028487,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/smelting/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/production/smelting/"
+  ]
 }

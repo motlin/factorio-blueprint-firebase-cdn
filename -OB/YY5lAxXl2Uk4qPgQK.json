@@ -53,10 +53,10 @@
   "imageUrl": "https://imgur.com/fXkTB13",
   "lastUpdatedDate": 1735690764456,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/version/2,0/"
+  ],
   "title": "UNTRA 2.0 tileable megabase parameterized blueprint"
 }

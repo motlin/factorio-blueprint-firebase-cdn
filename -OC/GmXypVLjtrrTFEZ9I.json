@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/7em7P3l",
   "lastUpdatedDate": 1732244025317,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/early game/",
-    "2": "/general/compact/",
-    "3": "/production/mall (make everything)/",
-    "4": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/early game/",
+    "/general/compact/",
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Logistics Auto Assemblers",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

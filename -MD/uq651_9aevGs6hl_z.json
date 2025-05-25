@@ -3,13 +3,13 @@
   "descriptionMarkdown": "This module converts heavier oils into lighter oils.\n\n* Oils are converted only if there is more of the heavy oil than the light oil.\n* An alert fires if any of the tanks if close to empty (suggesting overall production is insufficient).\n* More chemical plants can be added with a simple copy-paste.\n\n[This blueprint is on github](https://gist.github.com/Froussios/da94626b1d719544de9e4dc318700e66)",
   "fileName": "Modular fluid balancing.png",
   "lastUpdatedDate": 1596567614122,
-  "tags": {
-    "4": "/general/beaconized/",
-    "0": "/mods/vanilla/",
-    "1": "/production/oil processing/",
-    "2": "/version/0,17/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/version/0,17/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "ydBL8elU1gMxyEYUcpMRl8zgT0F3": true,

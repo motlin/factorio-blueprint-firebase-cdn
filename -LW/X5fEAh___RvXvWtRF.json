@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1547834251503,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,16/"
+  ],
   "title": "Green Circuits Direct Train"
 }

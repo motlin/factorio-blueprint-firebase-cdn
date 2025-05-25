@@ -20,15 +20,15 @@
   },
   "lastUpdatedDate": 1698090027635,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/compact/",
-    "6": "/general/storage/",
-    "7": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/general/storage/",
+    "/production/guns and ammo/"
+  ],
   "title": "Centro de armamento o HUB para el mod Space Exploration"
 }

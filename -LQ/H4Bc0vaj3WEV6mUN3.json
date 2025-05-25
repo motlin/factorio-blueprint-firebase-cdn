@@ -16,10 +16,10 @@
   "fileName": "111wbbb.png",
   "lastUpdatedDate": 1541247909043,
   "numberOfFavorites": 36,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/tileable/"
+  ],
   "title": "Tileable mining drills (miner, miners)",
   "favorites": {
     "mrc2AeDExTQtRXSRqzqmYSzRsxB2": true,

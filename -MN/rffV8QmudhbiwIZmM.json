@@ -8,9 +8,9 @@
     "type": "image/jpeg",
     "width": 1317
   },
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Item Distributor Unload",
   "author": {
     "userId": "ebt5O1A26uc3jpEilY0NOZqRge03"

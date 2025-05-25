@@ -35,12 +35,12 @@
   },
   "lastUpdatedDate": 1709689562295,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/compact/",
-    "3": "/general/beaconized/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/general/mid game/"
+  ],
   "title": "Compact Base in a Box ElderAxe Standalone Version"
 }

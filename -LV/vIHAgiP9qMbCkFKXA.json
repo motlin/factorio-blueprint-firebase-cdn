@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1547183357582,
   "numberOfFavorites": 12,
-  "tags": {
-    "3": "/production/smelting/",
-    "4": "/version/0,16/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,16/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "TraIn-Based 12 Blue Belt Smelter"
 }

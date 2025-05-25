@@ -7,10 +7,10 @@
   "createdDate": 1613748993617,
   "lastUpdatedDate": 1613748993617,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/"
+  ],
   "title": "Advanced Circuit factory w/beacons and modules",
   "favorites": {
     "KElMYCRd1xfMNKz7xY9GDjqFrnJ3": true,

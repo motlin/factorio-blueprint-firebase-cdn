@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/VWCBz1n",
   "lastUpdatedDate": 1731948450238,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/power/nuclear/"
+  ],
   "title": "Lady Lexx (space ship for starter planets). Updated."
 }

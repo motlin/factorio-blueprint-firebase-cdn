@@ -10,11 +10,11 @@
     "type": "image/jpeg",
     "width": 739
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": " Kovarex, Uranium enriched 8 rows- krastrio2, ver. 0.18.32",
   "author": {
     "userId": "CLfYLkvaHtRDh7QPaL1DbUCCdsB2"

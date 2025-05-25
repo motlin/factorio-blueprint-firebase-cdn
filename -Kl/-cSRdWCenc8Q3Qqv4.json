@@ -12,12 +12,12 @@
     "width": 1421
   },
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/belt/fast transport belt (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
   "createdDate": 1495732967262,
   "fileName": "Green Circuit Red Belt.PNG",

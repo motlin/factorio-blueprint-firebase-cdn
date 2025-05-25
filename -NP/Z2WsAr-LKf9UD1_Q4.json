@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1677789634175,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Train Book for 64x64 City Blocks 200SPM",
   "favorites": {
     "ISoPedemzbb4blqipRj8El9xLJv1": true,

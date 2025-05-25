@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/WLEmH9m",
   "lastUpdatedDate": 1731955700904,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Molten Iron From Lava",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1642170022758,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/train/crossing/",
-    "6": "/train/track/",
-    "7": "/train/junction/",
-    "8": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/",
+    "/train/track/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "Hakurei Express ==3",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true

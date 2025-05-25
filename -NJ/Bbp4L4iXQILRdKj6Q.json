@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1670954047261,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Snapshot memory cell"
 }

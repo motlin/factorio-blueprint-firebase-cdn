@@ -16,8 +16,8 @@
   "imageUrl": "https://i.imgur.com/U8loMSh.png",
   "lastUpdatedDate": 1742574364674,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/crossing/"
-  },
+  "tags": [
+    "/train/crossing/"
+  ],
   "title": "Option 1.0 "
 }

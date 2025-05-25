@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1587957651178,
   "numberOfFavorites": 5,
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Auto-Shutoff Nuclear Reactors"
 }

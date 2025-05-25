@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616339811987,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Red belt smelting without modules",
   "favorites": {
     "e0wj6yYAN3OqmNTPxWX3MgTSlpk2": true

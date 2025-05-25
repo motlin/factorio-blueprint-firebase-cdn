@@ -18,12 +18,12 @@
     "userId": "DmyCAi1AQdXQHvBFyiJqntMBbKO2"
   },
   "numberOfFavorites": 12,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/early game/",
-    "0": "/production/plastic/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/early game/",
+    "/production/plastic/"
+  ],
   "title": "Early game Plastics",
   "fileName": "plastics.jpg"
 }

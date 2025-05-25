@@ -5,12 +5,12 @@
   "authorId": "aQUv89N22vezowRkgHfI3VNOGhJ2",
   "lastUpdatedDate": 1590443416570,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/power/accumulator/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,18/",
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/power/solar/"
+  ],
   "favorites": {
     "cWjI29AjZpV6UIeHNVtFtHgNGAn2": true,
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,

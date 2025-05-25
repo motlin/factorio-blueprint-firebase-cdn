@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1684787361072,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/power/steam/",
-    "2": "/general/mid game/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/power/steam/",
+    "/general/mid game/",
+    "/general/early game/"
+  ],
   "title": "Seablock Beans/Binafran Power Plant 21,6 MW",
   "favorites": {
     "1JnuGI3XcYdMdQcvXLZGXuNqbDm1": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/DV0U9TZ",
   "lastUpdatedDate": 1730482589390,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "Basic wall line",
   "favorites": {
     "CQFYdfbcfraeuEcSvjt7ZLxmq2T2": true,

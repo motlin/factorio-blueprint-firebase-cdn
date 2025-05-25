@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1530374348920,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "Mega v1 -Book -Modular"
 }

@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1622079739462,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/track/",
-    "2": "/train/unloading station/",
-    "3": "/train/junction/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/track/",
+    "/train/unloading station/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Train and rail BPs",
   "favorites": {
     "zBGdKMoDn5MGICqHhGkmXMvq7Av1": true,

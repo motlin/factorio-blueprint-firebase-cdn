@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678253182878,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Super Smelter",
   "favorites": {
     "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,

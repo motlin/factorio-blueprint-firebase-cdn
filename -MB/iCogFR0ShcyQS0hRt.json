@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623199602531,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/production/oil processing/"
+  ],
   "title": "Planta para Refinaria (pequena)"
 }

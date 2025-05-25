@@ -20,9 +20,9 @@
   "imageUrl": "https://imgur.com/Wadacjg",
   "lastUpdatedDate": 1731529019714,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/2,0/"
+  ],
   "title": "Buildings + Upgrade Plans + Deconstruction plans"
 }

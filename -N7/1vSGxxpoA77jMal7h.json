@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1657906517331,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/accumulator/"
+  ],
   "title": "Among Us battery indicator",
   "favorites": {
     "n49OsUi6BZVUbLaiQubPLHcKhx42": true

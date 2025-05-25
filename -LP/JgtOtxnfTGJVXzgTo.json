@@ -16,11 +16,11 @@
     "height": 648,
     "id": "hncya17"
   },
-  "tags": {
-    "2": "/general/early game/",
-    "0": "/production/guns and ammo/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/guns and ammo/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true
   }

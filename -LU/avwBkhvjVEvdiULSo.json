@@ -21,8 +21,8 @@
     "width": 704
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/industrial revolution/",
-    "0": "/production/mining/"
-  }
+  "tags": [
+    "/mods/industrial revolution/",
+    "/production/mining/"
+  ]
 }

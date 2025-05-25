@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1541542055197,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/general/late game (megabase)/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/general/beaconized/",
-    "4": "/mods/other/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/logistic (bot) based/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/production/smelting/"
+  ],
   "title": "32 belt smelter "
 }

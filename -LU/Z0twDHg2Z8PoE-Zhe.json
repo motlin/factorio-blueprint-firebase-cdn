@@ -18,16 +18,16 @@
   },
   "lastUpdatedDate": 1545718964132,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/unloading station/",
-    "2": "/belt/fast transport belt (red)/",
-    "7": "/version/0,16/",
-    "1": "/belt/balancer/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "6": "/general/compact/",
-    "8": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/belt/fast transport belt (red)/",
+    "/version/0,16/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Smart Unloader"
 }

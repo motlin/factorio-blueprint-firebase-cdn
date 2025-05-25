@@ -7,11 +7,11 @@
     "id": "KeLbH0c"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Atomic power/Nuclear power",
   "author": {
     "userId": "qOel1fOnlxPQhPTlgsdoYgcV2pk2"

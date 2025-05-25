@@ -13,11 +13,11 @@
     "width": 569
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/RedSci.PNG?alt=media&token=14a802c1-fa55-4b1d-b072-eebe99546ce0",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "XYxF6dLBPTR40dQ5jfEQJP9Vpbj1"
   },

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ovj4YBm",
   "lastUpdatedDate": 1732004072212,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Starskipper Microship",
   "favorites": {
     "uFldsPTP5ZR4kj6QzsCmVRFUJXF2": true,

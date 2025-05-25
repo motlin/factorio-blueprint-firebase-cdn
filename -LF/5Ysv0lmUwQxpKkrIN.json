@@ -16,10 +16,10 @@
   "numberOfFavorites": 5,
   "createdDate": 1558109458187,
   "descriptionMarkdown": "LTN based (can be converted to dedicated trains). Scaleable and Tileable.",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/ltn/"
+  ],
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "XoCxLqSLEkOOcsnzT6izq3XWptr2": true,

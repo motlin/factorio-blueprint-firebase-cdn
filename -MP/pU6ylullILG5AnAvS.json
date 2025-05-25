@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1638353656176,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Transport Belt Factory beaconed",
   "favorites": {
     "nDbXSZ0ZBEOYUsryUakZHolRS7g1": true,

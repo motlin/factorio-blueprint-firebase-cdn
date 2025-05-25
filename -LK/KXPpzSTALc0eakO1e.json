@@ -8,12 +8,12 @@
     "type": "image/png"
   },
   "numberOfFavorites": 26,
-  "tags": {
-    "3": "/production/belt based/",
-    "0": "/production/other/",
-    "1": "/general/tileable/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/other/",
+    "/general/tileable/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "W3atpS5vPoVNP1naowoijLDr3Sb2"
   },

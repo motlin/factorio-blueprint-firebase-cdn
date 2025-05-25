@@ -6,9 +6,9 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/rocket parts/"
+  ],
   "author": {
     "userId": "W1fh4NNLBXSFpsCgSNfdIGSjk682"
   },

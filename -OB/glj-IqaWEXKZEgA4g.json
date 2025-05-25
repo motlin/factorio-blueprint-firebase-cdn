@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/qCIJtqO",
   "lastUpdatedDate": 1733860404510,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/production/logistic (bot) based/",
+    "/version/2,0/"
+  ],
   "title": "Parameterized Crafters",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

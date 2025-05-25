@@ -6,10 +6,10 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170908191719_1.jpg?alt=media&token=484e1c38-b4fd-470f-b051-43e2b56f8f11",
   "lastUpdatedDate": 1504916350237,
   "numberOfFavorites": 8,

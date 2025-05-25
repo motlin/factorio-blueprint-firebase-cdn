@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/OtgDHX9",
   "lastUpdatedDate": 1742297645637,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/scrap processing/",
-    "2": "/mods/quality/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/scrap processing/",
+    "/mods/quality/",
+    "/mods/space-age/"
+  ],
   "title": "Quality scrap recycling. Quality filter, 11k scrap per min. V1",
   "favorites": {
     "G9t2Hdlp1KZ9P9Mt8t7q07r9x4q2": true,

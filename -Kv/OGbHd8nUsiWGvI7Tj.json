@@ -11,10 +11,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/full%20blue%20circuit%20factory.png?alt=media&token=5c45ac41-0688-410e-8e07-93547c78a207",
   "lastUpdatedDate": 1506884940580,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/production/processing unit (blue)/",
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "WcNp5rFJTmN7zp9f6lJnXZTLoRA2"
   },

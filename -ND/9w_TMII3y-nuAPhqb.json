@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1693474699995,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "2x2 Double headed train book",
   "favorites": {
     "JE47OxK2v5YDWIeRxkh2iNwqkbI2": true,

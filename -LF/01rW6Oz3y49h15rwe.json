@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1529025887611,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Smelting area for 16 full belts fully upgradable (Vanilla)"
 }

@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "OQNPMJST1qdTGfZsukE39OX4Sxp1": true

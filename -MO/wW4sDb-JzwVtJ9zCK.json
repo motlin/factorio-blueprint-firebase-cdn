@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1637397847721,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2x3 800MW Nuclear Reactor",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

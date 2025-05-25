@@ -10,10 +10,10 @@
   },
   "lastUpdatedDate": 1560648192394,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/version/0,17/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "I9GirenZGPaLXo4tW2vV1YHLRf62"
   },

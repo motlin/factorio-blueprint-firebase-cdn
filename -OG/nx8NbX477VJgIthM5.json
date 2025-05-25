@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/T68xeZc",
   "lastUpdatedDate": 1737229885941,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/space-age/"
+  ],
   "title": "36x36 turbo belt balancer"
 }

@@ -22,9 +22,9 @@
     "type": "image/png",
     "width": 1243
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/general/early game/",
-    "1": "/production/advanced circuit (red)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/advanced circuit (red)/"
+  ]
 }

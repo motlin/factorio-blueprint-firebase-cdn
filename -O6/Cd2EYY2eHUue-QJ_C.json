@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/jMhkJAz",
   "lastUpdatedDate": 1725731976391,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de lubrificante e derivados de urânio (S.E. + Exotics)"
 }

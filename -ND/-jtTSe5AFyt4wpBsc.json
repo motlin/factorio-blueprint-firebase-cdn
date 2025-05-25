@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1664376915831,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "title": "Kovarex production and Fuel Cells",
   "favorites": {
     "ZK8iZwyAGEWT4Yz2oUBpskDlHsc2": true,

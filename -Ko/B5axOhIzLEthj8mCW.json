@@ -1,13 +1,13 @@
 {
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/production/smelting/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Mega Smelter (3-10-3)",
   "author": {
     "userId": "GCewDvdXRbOCW1bPiNfyPBfUk1i2"

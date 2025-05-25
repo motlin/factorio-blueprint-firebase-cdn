@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Ar8URAf",
   "lastUpdatedDate": 1730646484427,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/mods/space-age/"
+  ],
   "title": "Vulcanus Lava to Molten Metal Foundry",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/pzEA0uo",
   "lastUpdatedDate": 1731014478889,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Valet platform"
 }

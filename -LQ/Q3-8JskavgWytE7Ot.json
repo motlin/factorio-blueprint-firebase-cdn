@@ -16,9 +16,9 @@
   "descriptionMarkdown": "Just connect the steal and copper",
   "fileName": "20181103203146_1.jpg",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ]
 }

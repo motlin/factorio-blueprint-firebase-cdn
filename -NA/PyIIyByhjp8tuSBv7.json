@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1690522170854,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "1200 SPM Black (military) science",
   "favorites": {
     "TA1TuRCRI1PozZCSc38yJMVQWch2": true,

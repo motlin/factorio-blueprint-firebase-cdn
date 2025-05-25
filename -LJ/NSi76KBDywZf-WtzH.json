@@ -55,14 +55,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ultimo%20III.jpg?alt=media&token=f0798e20-b39d-4592-9744-68d6bad495ab",
   "lastUpdatedDate": 1564613006455,
   "numberOfFavorites": 36,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/smelting/",
-    "2": "/production/belts/",
-    "3": "/production/inserters/",
-    "4": "/production/robots/",
-    "5": "/production/mall (make everything)/",
-    "6": "/version/0,17/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/smelting/",
+    "/production/belts/",
+    "/production/inserters/",
+    "/production/robots/",
+    "/production/mall (make everything)/",
+    "/version/0,17/"
+  ],
   "title": "Everything you need except for science packs (crafts 112 different items)"
 }

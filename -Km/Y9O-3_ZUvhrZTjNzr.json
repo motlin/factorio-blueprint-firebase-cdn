@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/QFjh1Ry%5B1%5D.jpg?alt=media&token=4e3971f0-fa65-4745-9ffb-85ec1a2155db",
   "lastUpdatedDate": 1497404382817,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "16x16 Full Throughput Balancer"
 }

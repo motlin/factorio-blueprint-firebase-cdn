@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1121212.png?alt=media&token=d7ef4e41-5618-4ab5-9c02-d3be037edb81",
   "lastUpdatedDate": 1536157474415,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/bobs/"
+  ],
   "title": "Science Area "
 }

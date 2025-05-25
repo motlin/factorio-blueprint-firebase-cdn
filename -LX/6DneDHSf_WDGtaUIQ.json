@@ -4,16 +4,16 @@
   "fileName": "The War Room 2 Factorio.jpg",
   "lastUpdatedDate": 1577452112849,
   "numberOfFavorites": 6,
-  "tags": {
-    "6": "/general/mid game/",
-    "7": "/general/late game (megabase)/",
-    "0": "/version/0,17/",
-    "1": "/production/guns and ammo/",
-    "2": "/production/belt based/",
-    "3": "/mods/vanilla/",
-    "4": "/general/storage/",
-    "5": "/general/early game/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/0,17/",
+    "/production/guns and ammo/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/general/storage/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "KUhD01lo2pctrfTnVN7wQXw8lmD2"
   },

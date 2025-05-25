@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1622754432007,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Módulos de velocidade, produtividade e eficiência",
   "favorites": {
     "EHq6ScQTiEQ5eA17OCvRtoZzC323": true

@@ -3,9 +3,9 @@
   "createdDate": 1580650206338,
   "lastUpdatedDate": 1580650206338,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "title": "Sea block Гидропереработка",
   "favorites": {
     "zvvA0mvuf3XSrxZxNgIai4FGpIk1": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616798691355,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/"
+  ],
   "title": "Advanced Circuit Array",
   "favorites": {
     "B07QPYS9lVTbNhPVAoSlp8AUZjj2": true,

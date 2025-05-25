@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1543966963871,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/left-hand-drive/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Stents_BuilderStations_Loops_Traindepot"
 }

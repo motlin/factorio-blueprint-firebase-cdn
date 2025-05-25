@@ -7,11 +7,11 @@
   },
   "lastUpdatedDate": 1516456622912,
   "numberOfFavorites": 32,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/version/0,15/"
+  ],
   "title": "Scalable Green Circuit",
   "author": {
     "userId": "Oqbb4xrlzTfs1PkZsg7xGifcouX2"

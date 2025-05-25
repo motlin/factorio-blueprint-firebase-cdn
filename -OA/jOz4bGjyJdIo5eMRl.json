@@ -164,10 +164,10 @@
   "imageUrl": "https://imgur.com/yd1VZsl",
   "lastUpdatedDate": 1745936150748,
   "numberOfFavorites": 148,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Vulcanus Production"
 }

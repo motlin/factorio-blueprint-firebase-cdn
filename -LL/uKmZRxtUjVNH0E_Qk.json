@@ -8,11 +8,11 @@
   },
   "authorId": "1eQdgkZ502YV2B6bqTXQ9xR7a1u2",
   "createdDate": 1565420628504,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "h0AzzeskQxbUzDFHygRqKOTLnuc2": true,
     "vFgcIKpUQPM11Je4WdPC0elvs6T2": true,

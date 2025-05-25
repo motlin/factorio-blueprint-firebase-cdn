@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Z9RTJrq",
   "lastUpdatedDate": 1730604565787,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/power/solar/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/solar/"
+  ],
   "title": "Space Platform ",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true

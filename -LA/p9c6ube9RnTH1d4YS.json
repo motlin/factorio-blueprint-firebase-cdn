@@ -26,13 +26,13 @@
   },
   "lastUpdatedDate": 1553522656071,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/production/mall (make everything)/",
-    "3": "/version/0,17/",
-    "4": "/general/early game/",
-    "5": "/production/inserters/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/production/inserters/"
+  ],
   "title": "BobAngels Early Game Full Items Mall v0.17"
 }

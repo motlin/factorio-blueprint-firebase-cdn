@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1658087453404,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/power/steam/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/power/steam/",
+    "/mods/other/"
+  ],
   "title": "Pollution Pelican"
 }

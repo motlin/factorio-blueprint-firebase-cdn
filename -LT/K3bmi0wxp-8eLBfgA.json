@@ -10,10 +10,10 @@
   "favorites": {
     "sW4HdUp0kyWqshPmsrqdsvOhfWr1": true
   },
-  "tags": {
-    "1": "/production/science/",
-    "0": "/belt/prioritizer/"
-  },
+  "tags": [
+    "/production/science/",
+    "/belt/prioritizer/"
+  ],
   "title": "Basic sushi belt w/ counter",
   "author": {
     "userId": "dEQ0W2sV5tfL4F0Owid8ErQ38LR2"

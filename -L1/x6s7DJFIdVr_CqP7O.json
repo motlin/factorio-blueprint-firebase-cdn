@@ -33,10 +33,10 @@
   },
   "lastUpdatedDate": 1515865265641,
   "numberOfFavorites": 58,
-  "tags": {
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/",
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/train/unloading station/"
+  ],
   "title": "Central Station for 1x4 trains"
 }

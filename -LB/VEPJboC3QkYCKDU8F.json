@@ -43,11 +43,11 @@
   },
   "lastUpdatedDate": 1572167094075,
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/0,16/"
+  ],
   "title": "Now all Stations in same Pack - New Post Link Inside (Deprecated)"
 }

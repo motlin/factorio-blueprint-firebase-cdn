@@ -27,9 +27,9 @@
   },
   "lastUpdatedDate": 1575027869556,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Smelter Copper + Iron LTN, 38k each"
 }

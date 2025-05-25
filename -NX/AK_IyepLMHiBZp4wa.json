@@ -16,8 +16,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E7%87%83%E6%96%991.6K.png?alt=media&token=e8cdc553-75cf-47eb-bf85-1fc61d9791d0",
   "lastUpdatedDate": 1685973371518,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/rocket parts/"
+  ],
   "title": "毎分1.6Kのロケット燃料を生産する工場"
 }

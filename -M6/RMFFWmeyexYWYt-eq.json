@@ -10,11 +10,11 @@
     "type": "image/jpeg",
     "width": 698
   },
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/crossing/"
+  ],
   "createdDate": 1588540015979,
   "descriptionMarkdown": "Inspired by a post on FB about the XKCD Highway Engineer Pranks....",
   "fileName": "Highway Engineer Pranks v0.1 (XKCD-253 ).jpg",

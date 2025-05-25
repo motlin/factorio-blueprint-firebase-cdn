@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1645650003558,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/train/junction/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "The Brick Base"
 }

@@ -27,10 +27,10 @@
   "createdDate": 1587743115081,
   "descriptionMarkdown": "Simple battery-shaped display of accumulator power. Changes color according to the power level. Takes input of signal A hooked to any combinator on the left using green wire. The display can be easily replaced with any shape.\n\n[Version with speaker](https://pastebin.com/tZp4wtEL)",
   "fileName": "Factorio 0.18.21 27.04.2020 08_03_11.png",
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/accumulator/"
+  ],
   "title": "Battery power display",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%200.18.21%2027.04.2020%2008_03_11.png?alt=media&token=b5f3abb7-2a9d-4175-a971-42ac260a14f4"
 }

@@ -16,12 +16,12 @@
     "type": "image/jpeg",
     "width": 302
   },
-  "tags": {
-    "2": "/version/1,0/",
-    "3": "/power/kovarex enrichment/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true,
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,

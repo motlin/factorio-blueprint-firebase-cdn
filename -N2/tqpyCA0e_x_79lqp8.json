@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1653459345340,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Lube from Coal 2x",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,

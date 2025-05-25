@@ -35,12 +35,12 @@
   },
   "lastUpdatedDate": 1628618838086,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/0,15/",
-    "3": "/production/belts/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/version/0,15/",
+    "/production/belts/",
+    "/production/belt based/"
+  ],
   "title": " Nilaus' Not a Mall"
 }

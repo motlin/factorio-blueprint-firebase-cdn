@@ -17,12 +17,12 @@
   "createdDate": 1497130052842,
   "descriptionMarkdown": "Repost of HegemonBean's work. I take no credit. Insert 50 items into the top containers. https://www.reddit.com/r/factorio/comments/614ubj/a_graph_to_track_accumulator_levels_throughout/",
   "fileName": "Line.PNG",
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "oDs7ZPRTUob2eeaRdBX2qXN9LGI2": true
   }

@@ -51,10 +51,10 @@
   },
   "lastUpdatedDate": 1633129853204,
   "numberOfFavorites": 31,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/science/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/science/",
+    "/production/belt based/"
+  ],
   "title": "Compact base"
 }

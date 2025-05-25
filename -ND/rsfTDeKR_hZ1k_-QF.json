@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698169218321,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Explosives hub",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20221009012256_1.jpg?alt=media&token=24bb28a2-4b0f-4cd6-bef4-ce4c421f8f6c",
   "favorites": {

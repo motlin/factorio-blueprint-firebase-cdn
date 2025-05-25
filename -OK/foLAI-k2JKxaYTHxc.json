@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/6SiiDWH",
   "lastUpdatedDate": 1741354352287,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/belt/transport belt (yellow)/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Nilaus Master Class HUB 2: Assemblers, Power Poles & Logistics #1 for v2.0",
   "favorites": {
     "eroEvjGuHYN5ZZJfArjtqpAW57V2": true,

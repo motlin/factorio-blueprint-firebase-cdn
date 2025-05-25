@@ -12,10 +12,10 @@
     "type": "image/png",
     "width": 625
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/factorissimo/"
+  ],
   "descriptionMarkdown": "Passt in ein Factorissimo MK1.\nMaterialbedarf: 67.5 Kupferplatten/s und 45 Eisenplatten/s\nDie Kupferplatten kommen hälftig über die beiden inneren blauen Bänder rein, die Eisenplatten hälftig über die äußeren roten Bänder.\n\n\nDie mittleren Kabelfabriken versorgen hälftig die beiden Schaltkreisfabriken drüber und drunter. Dafür reicht je ein Long Inserter. Für die äußeren Kabelfabriken ist kein Platz für zwei Long Inserter, daher der Umweg über eine Kiste und die schnellen Insterter.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/alindsliansdliansilfkhxskmefhxksuhefxkesf234.png?alt=media&token=207311f3-2496-42e4-8c66-e882113213f2",
   "lastUpdatedDate": 1523988659637,

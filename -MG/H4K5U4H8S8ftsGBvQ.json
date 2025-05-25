@@ -21,10 +21,10 @@
   "descriptionMarkdown": "I am using this book on the AssemblyStorm server. It's a set of direct-to-wagon beaconed mines for 3-8 ore trains. Includes an auto-building station, power switches for each row of miners, alarms for low ore conditions, and a 5 deep stacker.\n\nThis version has a \"waypoint\" station after the stacker. This makes trains queue up a lot smoother, and you can select the limit for the entire stacker (2 or 3 for close in mines, more for further out mines).\n\nThis is still a work in progress but it's more or less functional now.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/directwagonmine.PNG?alt=media&token=a26afb37-704d-4c05-9c37-301d63e8b0a5",
   "lastUpdatedDate": 1611608387666,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/mining/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ]
 }

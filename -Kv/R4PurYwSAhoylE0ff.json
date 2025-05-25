@@ -3,13 +3,13 @@
   "descriptionMarkdown": "Very basic and simple refinery system.\n\nProduce plastic, batteries, lubricant, etc.",
   "fileName": "22243762_10215037225030257_1406717357_o.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/22243762_10215037225030257_1406717357_o.png?alt=media&token=90c59fb7-01ba-43d0-a8ce-19c53366e01b",
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/production/plastic/",
-    "4": "/production/modules/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/plastic/",
+    "/production/modules/"
+  ],
   "title": "Simple Refinery Setup",
   "author": {
     "userId": "TpUVEIxos5TQl8Hru8isYmOPIgP2"

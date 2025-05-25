@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1650445668952,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Amala's City Block's Bace"
 }

@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1660856568933,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Simple Chunk Aligned"
 }

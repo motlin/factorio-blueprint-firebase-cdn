@@ -1,13 +1,13 @@
 {
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/general/early game/",
-    "3": "/version/0,16/",
-    "4": "/production/research (labs)/",
-    "5": "/production/science/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/general/early game/",
+    "/version/0,16/",
+    "/production/research (labs)/",
+    "/production/science/"
+  ],
   "title": "Bobs/Angels early starting base book",
   "author": {
     "userId": "0w0TVEWSKxfcp8nV1tOGFimK3Of2"

@@ -13,10 +13,10 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/AAI%20Depot%20to%20Depot%20loop.PNG?alt=media&token=95fc1b69-3d2e-4dda-8650-d65be0af73d0",
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Wty3AIQg00Sw5rcZ7V1bm5uGfwS2": true,
     "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/cHD05Cu",
   "lastUpdatedDate": 1730059650098,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Oops, All *!",
   "favorites": {
     "H3QlaVpvadfVuTpGGxs7016oR2K3": true,

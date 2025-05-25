@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/gYMb5Dw",
   "lastUpdatedDate": 1738961457303,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Oil Processing",
   "favorites": {
     "mY8l6pue2TeFtLoBkktvVb6eayj2": true,

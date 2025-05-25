@@ -15,10 +15,10 @@
     "id": "5Wms9vy",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "title": "High mining productivity mining",
   "favorites": {
     "Hf33mFexf0Np9KmFdaVd4jfG24Y2": true,

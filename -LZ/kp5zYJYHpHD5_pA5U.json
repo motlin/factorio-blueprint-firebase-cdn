@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "D2BCNajaGQXp1HJkNb0EJ0ioRdT2"
   },

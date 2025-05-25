@@ -348,10 +348,10 @@
   },
   "lastUpdatedDate": 1578562017052,
   "numberOfFavorites": 402,
-  "tags": {
-    "1": "/general/compact/",
-    "2": "/production/modules/",
-    "3": "/mods/vanilla/",
-    "0": "/general/beaconized/"
-  }
+  "tags": [
+    "/general/compact/",
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ]
 }

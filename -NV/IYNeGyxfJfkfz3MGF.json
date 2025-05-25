@@ -252,16 +252,16 @@
   },
   "lastUpdatedDate": 1746807780003,
   "numberOfFavorites": 87,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/late game (megabase)/",
-    "2": "/train/track/",
-    "3": "/production/science/",
-    "4": "/general/beaconized/",
-    "5": "/general/tileable/",
-    "6": "/production/other/",
-    "7": "/train/left-hand-drive/",
-    "8": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/train/track/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/production/other/",
+    "/train/left-hand-drive/",
+    "/version/2,0/"
+  ],
   "title": "Megabase Modular Train Grid Framework (2.0)"
 }

@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1613469626282,
   "numberOfFavorites": 9,
-  "tags": {
-    "2": "/mods/other/",
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "Blocks 007: Beaconed Science"
 }

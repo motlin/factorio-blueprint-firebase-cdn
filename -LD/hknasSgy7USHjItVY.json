@@ -7,13 +7,13 @@
     "width": 747,
     "height": 747
   },
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/",
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/general/compact/"
+  ],
   "title": "Tymr (aka: a timer)",
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,

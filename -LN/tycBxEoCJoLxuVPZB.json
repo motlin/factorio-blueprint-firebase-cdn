@@ -31,9 +31,9 @@
   },
   "lastUpdatedDate": 1567562040773,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,17/"
+  ],
   "title": "1GW Solar (Perfect Ratio)"
 }

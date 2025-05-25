@@ -14,12 +14,12 @@
     "id": "iAud2Me"
   },
   "lastUpdatedDate": 1565278289108,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/general/beaconized/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Lab - 12 Beaconed/Fully Tileable",
   "authorId": "YbVo5uIVqTeyHiAB6SZ7cZnpgMz2",
   "favorites": {

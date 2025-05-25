@@ -52,15 +52,15 @@
   "imageUrl": "https://imgur.com/CYbtIAh",
   "lastUpdatedDate": 1731659436208,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/production/other/",
-    "4": "/power/nuclear/",
-    "5": "/production/mining/",
-    "6": "/mods/other/",
-    "7": "/power/solar/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/other/",
+    "/power/nuclear/",
+    "/production/mining/",
+    "/mods/other/",
+    "/power/solar/"
+  ],
   "title": " Space Platform Orbital Production on any type of Planet"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1658075604735,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Green Science",
   "favorites": {
     "30uVQqdTcMXlRixDI20F6cwA7rM2": true

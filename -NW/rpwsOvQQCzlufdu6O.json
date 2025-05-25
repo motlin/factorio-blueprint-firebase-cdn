@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1685637811906,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Grenade 17/ s",
   "favorites": {
     "AqJb1V8y4zYKgvtoECNSBOjbU4Q2": true

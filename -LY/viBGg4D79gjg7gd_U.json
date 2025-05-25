@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/compact/"
+  ],
   "title": "Simple radar outpost",
   "author": {
     "userId": "oDVwxjgLdCWWtniTUBTWsL3AZiI3"

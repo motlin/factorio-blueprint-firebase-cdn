@@ -10,9 +10,9 @@
     "width": 1934
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/production/guns and ammo/"
+  ],
   "favorites": {
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true
   },

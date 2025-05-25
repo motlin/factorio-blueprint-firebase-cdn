@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/EneEuto.png",
   "lastUpdatedDate": 1740846963027,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Aquilo Fusion Power Plant 2GW",
   "favorites": {
     "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,

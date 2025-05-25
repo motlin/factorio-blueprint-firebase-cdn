@@ -24,12 +24,12 @@
   },
   "lastUpdatedDate": 1697865201127,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/space-exploration/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "K2SE Early Game Mall Book"
 }

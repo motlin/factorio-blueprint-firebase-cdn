@@ -10,16 +10,16 @@
     "type": "image/jpeg",
     "width": 1070
   },
-  "tags": {
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/power/solar/",
-    "5": "/train/stacker/",
-    "6": "/mods/vanilla/",
-    "7": "/version/0,15/",
-    "0": "/version/0,16/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/power/solar/",
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/circuit/indicator/"
+  ],
   "favorites": {
     "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
     "rdZVyQMtbIaahqpU93I1fFqKQdF3": true,

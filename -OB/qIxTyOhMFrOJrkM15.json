@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/uaDkH0C",
   "lastUpdatedDate": 1733430741556,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/production/other/"
+  ],
   "title": "Quality upscaler",
   "favorites": {
     "teeMkYcONMNUuWvaIIN4eHt3WNy2": true,

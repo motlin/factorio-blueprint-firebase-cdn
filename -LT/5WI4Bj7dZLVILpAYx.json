@@ -11,12 +11,12 @@
   "descriptionMarkdown": "Tileable Miners featuring pipes for uranium mining with sulphuric acid, auto-shut off when acclimator is less then %10 charged, and will signal ore depletion with red lights and an alarm visible form map view. Also it's fully prodded.\n\nAdditionally, case pass in a negative blue signal to manually shut down all attached miners.\n\nIncluded is a belt based blueprint and a robo based blueprint.",
   "lastUpdatedDate": 1544150135297,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "YYKfFeMBCAeKcZhFL4L65sw0NMz2"
   },

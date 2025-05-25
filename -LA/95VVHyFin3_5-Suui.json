@@ -7,12 +7,12 @@
   "descriptionMarkdown": "Optimal Setups for Fully compressed belts:\n1. Stone Furnace on Yellow Belts,\n2. Steel Furnace on Red Belts,\n3. Electric Furnace on Red Belts,\n4. Beacons + Electric Furnace on Blue Belts",
   "fileName": "iron and copper smelting.png",
   "lastUpdatedDate": 1552833725691,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Iron/Copper Smelting (Full Belts)",
   "favorites": {
     "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,

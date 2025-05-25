@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2uDAF5S",
   "lastUpdatedDate": 1721327342679,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/space-exploration/"
+  ],
   "title": "Fornalhas de pedra",
   "favorites": {
     "8tqjbtli6vUwJNUjBoQPNWMPJRx1": true

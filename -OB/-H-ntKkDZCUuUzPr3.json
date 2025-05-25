@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/ITi785E",
   "lastUpdatedDate": 1730960411029,
   "numberOfFavorites": 33,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/power/nuclear/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/power/nuclear/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Aquilo Kickstart Blueprint",
   "favorites": {
     "whRZSEdzupMC2x8usCsLtM1VLXz2": true,

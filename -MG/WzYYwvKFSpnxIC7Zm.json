@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1628362914165,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "tiling bot mining",
   "favorites": {
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,

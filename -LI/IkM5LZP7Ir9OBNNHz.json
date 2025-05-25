@@ -16,9 +16,9 @@
     "type": "image/png",
     "width": 655
   },
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ]
 }

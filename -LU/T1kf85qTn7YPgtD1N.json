@@ -12,11 +12,11 @@
     "type": "image/jpeg",
     "width": 936
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "1pkbpEuIJoY6uM9nQWCDtRVazpD2": true,
     "pehRmNuQphSBCMpNKRwo4Sj2loA3": true,

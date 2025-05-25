@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/REqiuhV",
   "lastUpdatedDate": 1739290365531,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Smelter with Upgrades"
 }

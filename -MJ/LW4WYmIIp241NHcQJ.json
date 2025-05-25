@@ -16,8 +16,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mall%203.jpg?alt=media&token=118ff1e7-bcb6-4e2c-b5f7-d5ced5f37da6",
   "lastUpdatedDate": 1631392354633,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/tileable/"
+  ],
   "title": "Modular, scalable, tileable, grid-aligned production hub. "
 }

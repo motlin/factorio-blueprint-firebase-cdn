@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636569474686,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Mini mercado",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/imagem_2021-11-03_055906.png?alt=media&token=c5fb8b7a-b4bb-4914-8330-4089a7f1b258"
 }

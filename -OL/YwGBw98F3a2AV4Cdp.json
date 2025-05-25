@@ -16,8 +16,8 @@
   "imageUrl": "https://imgur.com/XTkF4J0",
   "lastUpdatedDate": 1742217965811,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Astroid Upcycling using speedmodules"
 }

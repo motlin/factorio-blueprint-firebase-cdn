@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/x2MIpmV.png",
   "lastUpdatedDate": 1743605341725,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Holmium Satellite",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

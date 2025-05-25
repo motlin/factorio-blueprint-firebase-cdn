@@ -21,8 +21,8 @@
     "height": 673
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/production/science/",
+    "/version/0,17/"
+  ]
 }

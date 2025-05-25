@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1581039068964,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "MODULES TRAIN FED"
 }

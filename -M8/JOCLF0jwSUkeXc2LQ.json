@@ -41,11 +41,11 @@
   },
   "lastUpdatedDate": 1590555817984,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/general/compact/"
+  ],
   "title": "1.1 GW Compact Smart Reactor"
 }

@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1586595848881,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/mods/krastorio/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/krastorio/",
+    "/general/mid game/"
+  ],
   "createdDate": 1586595848881,
   "descriptionMarkdown": "Simple array that builds a full yellow belt of **Electronic Components** 15/s",
   "fileName": "ElectronicComponentsArray.jpg",

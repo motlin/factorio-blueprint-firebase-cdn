@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ymnKmWW",
   "lastUpdatedDate": 1732006543588,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/fulgora/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/mods/quality/"
+  ],
   "title": "Qualitynator Pod Bottom",
   "favorites": {
     "uXPvKC4aKuRWUvSvoIdzW4pRnR02": true

@@ -16,8 +16,8 @@
   "descriptionMarkdown": "I wanted to make a green circuit build that outputs a blue belt of circuits but doesn't use any blue belts in the construction. The fast splitter needs input priority on one of the lanes so that the other lane acts as a buffer, then it will have full compression.",
   "fileName": "20180629093845_1.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belt based/"
-  },
+  "tags": [
+    "/production/belt based/"
+  ],
   "title": "Green Circuit Build"
 }

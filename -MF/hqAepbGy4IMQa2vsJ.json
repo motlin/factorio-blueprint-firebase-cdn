@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627488041881,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "All Parts for a Powerplant",
   "favorites": {
     "03KDvkLOU0XSjy5wjuj2tE3ibil1": true,

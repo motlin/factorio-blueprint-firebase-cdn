@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698822498042,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Seablock Fusion Power 5.76 GW"
 }

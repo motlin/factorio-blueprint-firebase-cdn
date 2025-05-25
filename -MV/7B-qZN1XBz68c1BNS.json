@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1615045070335,
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/version/1,0/",
-    "0": "/mods/krastorio/",
-    "1": "/power/nuclear/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/krastorio/",
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "favorites": {
     "j8vLizCP0rhLBVoUj1ZSjd18khi2": true,
     "GXGsziPDIFSKVR2cd7YLJFXFiqN2": true,

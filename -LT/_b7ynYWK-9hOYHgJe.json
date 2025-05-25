@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1544671760480,
   "numberOfFavorites": 32,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Science Factories (90/minute)"
 }

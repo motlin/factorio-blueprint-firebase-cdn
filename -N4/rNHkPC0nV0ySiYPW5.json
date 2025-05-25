@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1655565266022,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/general/tileable/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/general/tileable/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Tileable blue belt production",
   "favorites": {
     "qxn7795e6Sbh2vEnXlWIj7u3Adh2": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/QqFhLIQ",
   "lastUpdatedDate": 1741103433836,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/train/roundabout/",
-    "2": "/mods/elevated-rails/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/train/roundabout/",
+    "/mods/elevated-rails/"
+  ],
   "title": "Large Train Intersection",
   "favorites": {
     "72kVnNcW3jXnjKQwnbn7kBNQNvJ2": true,

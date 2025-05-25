@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1682517767549,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "Vulcano in earth 800-600-400",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true

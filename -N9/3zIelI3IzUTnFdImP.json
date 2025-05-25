@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1660096481958,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Smelteries",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factoriosmelteries2.png?alt=media&token=e64d4499-d14b-45b3-acf9-a8fe4d8415da",
   "favorites": {

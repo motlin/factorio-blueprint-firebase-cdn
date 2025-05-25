@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623199630445,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "Posto avançado para mineração de Holmium"
 }

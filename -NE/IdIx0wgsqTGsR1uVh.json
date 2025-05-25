@@ -18,13 +18,13 @@
   },
   "lastUpdatedDate": 1665703166012,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/train/junction/",
-    "3": "/train/roundabout/",
-    "4": "/mods/other/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Bloco LTN para fabricação de pacotes científicos"
 }

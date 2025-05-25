@@ -46,14 +46,14 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2017-06-18_11-26-54.png?alt=media&token=5972e4ea-b8a3-4495-aa9d-cb61a150fc29",
   "lastUpdatedDate": 1498654176367,
-  "tags": {
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/mining/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/mining/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/left-hand-drive/"
+  ],
   "author": {
     "userId": "gnO6LpZglTahFUtcEex0V6MhY942"
   },

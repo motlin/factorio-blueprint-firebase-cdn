@@ -9,19 +9,19 @@
     "width": 738
   },
   "numberOfFavorites": 42,
-  "tags": {
-    "10": "/production/belt based/",
-    "1": "/version/0,17/",
-    "3": "/power/nuclear/",
-    "4": "/production/uranium/",
-    "6": "/general/compact/",
-    "8": "/power/kovarex enrichment/",
-    "9": "/production/other/",
-    "0": "/mods/vanilla/",
-    "2": "/version/unknown/",
-    "5": "/general/mid game/",
-    "7": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/version/0,17/",
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/general/compact/",
+    "/power/kovarex enrichment/",
+    "/production/other/",
+    "/mods/vanilla/",
+    "/version/unknown/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "KUhD01lo2pctrfTnVN7wQXw8lmD2"
   },

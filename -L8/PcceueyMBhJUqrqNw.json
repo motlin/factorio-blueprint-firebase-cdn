@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1521939024702,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "title": "Full nuclear power station and refinery, with steam storage and automated fuel dispenser",
   "createdDate": 1521939024702,
   "fileName": "Nuclear power station  factorio.png",

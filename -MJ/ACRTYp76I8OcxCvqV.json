@@ -7,12 +7,12 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1602716477788,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "CHYY1B0z05hKMTyg6IIO1fjvFm53"
   },

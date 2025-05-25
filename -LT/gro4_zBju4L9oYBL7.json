@@ -15,10 +15,10 @@
     "width": 1839
   },
   "lastUpdatedDate": 1544793571839,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Basic beaconed smelter"
 }

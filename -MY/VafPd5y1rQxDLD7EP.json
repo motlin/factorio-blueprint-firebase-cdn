@@ -17,10 +17,10 @@
   "numberOfFavorites": 6,
   "title": "Arcosphere balancer",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Arcosphere2.png?alt=media&token=8a28ff6e-c4c7-4b0c-a973-093b0fbad8e6",
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/other/"
+  ],
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
     "THLPFEC5KMXGBojVsr1a2mNaMpU2": true,

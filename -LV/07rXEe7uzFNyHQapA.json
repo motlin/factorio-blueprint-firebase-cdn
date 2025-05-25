@@ -23,8 +23,8 @@
   },
   "lastUpdatedDate": 1546208248525,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "0.17 Modular Science Book"
 }

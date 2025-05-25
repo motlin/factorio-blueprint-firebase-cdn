@@ -13,16 +13,16 @@
   "imageUrl": "https://imgur.com/LHa1ABC",
   "lastUpdatedDate": 1745768187342,
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/general/late game (megabase)/",
-    "3": "/power/solar/",
-    "4": "/train/track/",
-    "5": "/planets/nauvis/",
-    "6": "/planets/gleba/",
-    "7": "/planets/fulgora/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/general/late game (megabase)/",
+    "/power/solar/",
+    "/train/track/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/"
+  ],
   "title": "2.0/Space Age Deconstruction Planners V.4",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,

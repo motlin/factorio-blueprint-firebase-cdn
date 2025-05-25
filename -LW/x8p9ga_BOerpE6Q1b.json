@@ -24,9 +24,9 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4way%20classic2.png?alt=media&token=e6c2d1a6-0a35-4be3-af03-bcc8436f8705",
   "lastUpdatedDate": 1548380580251,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/version/0,16/",
-    "2": "/train/right-hand-drive/"
-  }
+  "tags": [
+    "/train/junction/",
+    "/version/0,16/",
+    "/train/right-hand-drive/"
+  ]
 }

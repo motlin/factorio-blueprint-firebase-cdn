@@ -16,12 +16,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170913210109_1.jpg?alt=media&token=ec78cf7e-53ab-4daa-9e7f-f78f74821cf5",
   "lastUpdatedDate": 1505330167285,
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/beaconized/",
-    "4": "/train/left-hand-drive/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/beaconized/",
+    "/train/left-hand-drive/",
+    "/production/smelting/"
+  ],
   "title": "Train operated Smeltery"
 }

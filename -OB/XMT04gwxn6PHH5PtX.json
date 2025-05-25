@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/FQ9iyxm",
   "lastUpdatedDate": 1731448396298,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "ALL schemes",
   "favorites": {
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,

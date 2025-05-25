@@ -13,10 +13,10 @@
     "type": "image/png",
     "width": 736
   },
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/belt/fast transport belt (red)/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ammo%20factory.png?alt=media&token=2df048ce-9a95-4211-8261-c46c299d3e00",
   "lastUpdatedDate": 1610826583366,
   "numberOfFavorites": 2,

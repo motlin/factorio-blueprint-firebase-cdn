@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1617625971204,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/1,0/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/production/rocket parts/"
+  ],
   "title": "Low density structure v2 (+steel )",
   "favorites": {
     "mgzaB559GKQRL7QtiME6MluIubD2": true,

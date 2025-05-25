@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/5t83gip",
   "lastUpdatedDate": 1733350692626,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/2,0/"
+  ],
   "title": "1/s. Yellow + Purple science",
   "favorites": {
     "r1NoxSYNSSYWYWVJ9fTl7kDauI22": true,

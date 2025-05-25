@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1631763224445,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "The Fractal 12.8 GW Nuclear Reactor Setup"
 }

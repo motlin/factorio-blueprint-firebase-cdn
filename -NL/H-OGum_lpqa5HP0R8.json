@@ -15,19 +15,19 @@
   },
   "lastUpdatedDate": 1737133379751,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/warehousing/",
-    "2": "/mods/lighted-electric-poles/",
-    "3": "/power/nuclear/",
-    "4": "/power/accumulator/",
-    "5": "/production/batteries/",
-    "6": "/production/science/",
-    "7": "/production/uranium/",
-    "8": "/production/logistic (bot) based/",
-    "9": "/mods/other/",
-    "10": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/warehousing/",
+    "/mods/lighted-electric-poles/",
+    "/power/nuclear/",
+    "/power/accumulator/",
+    "/production/batteries/",
+    "/production/science/",
+    "/production/uranium/",
+    "/production/logistic (bot) based/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": " Nuclear reactor- Budowa elektrowni jądrowej modułowej. Jak działa, schemat.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Bez%20nazwy%20jj.png?alt=media&token=f971c0ae-7eb3-4c84-8a70-d723abe9d9ea",
   "favorites": {

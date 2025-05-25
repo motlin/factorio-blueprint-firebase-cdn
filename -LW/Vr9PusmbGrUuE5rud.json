@@ -7,10 +7,10 @@
     "width": 1920
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,
     "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true

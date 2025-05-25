@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ewPTCGa",
   "lastUpdatedDate": 1742172207131,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/mid game/"
+  ],
   "title": "Tutorial map 5 east copper ore mine"
 }

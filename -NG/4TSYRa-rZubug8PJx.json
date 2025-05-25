@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1696603953439,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/general/beaconized/",
-    "2": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/factorissimo/"
+  ],
   "title": "Uranium Array ",
   "favorites": {
     "ndQqIRdx2kSPa686XO6QmCKyf2g1": true

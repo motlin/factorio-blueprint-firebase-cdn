@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/BYBhwyQ",
   "lastUpdatedDate": 1733859506753,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "The Deliverator 2.0",
   "favorites": {
     "IxOPoS1DkuMx2YzTaKIcTmZrSQ02": true,

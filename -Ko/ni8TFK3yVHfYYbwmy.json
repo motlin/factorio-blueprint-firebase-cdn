@@ -17,12 +17,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio_Blueprint.png?alt=media&token=42367723-b7ea-4746-acbb-7483c6e33771",
   "lastUpdatedDate": 1499823021124,
-  "tags": {
-    "1": "/general/marathon/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/general/marathon/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Mirror Green Circuit Extensible",
   "authorId": "s26SjqWxyefBj27gd3aaeztrkvy1",
   "createdDate": 1499811322149

@@ -44,10 +44,10 @@
   },
   "lastUpdatedDate": 1589938582613,
   "numberOfFavorites": 21,
-  "tags": {
-    "1": "/mods/krastorio/",
-    "2": "/version/0,18/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/version/0,18/",
+    "/power/nuclear/"
+  ],
   "title": "Krastorio Upgradeable Reactor Book for 2-10 Reactors"
 }

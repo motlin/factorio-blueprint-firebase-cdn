@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1652291500313,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Early game 900/m smelting setup",
   "favorites": {
     "59quzvg7y3gXsUZajZpQUgjJk413": true,

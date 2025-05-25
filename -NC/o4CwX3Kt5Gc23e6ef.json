@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1664100746686,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/bobs/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/bobs/",
+    "/general/compact/"
+  ],
   "title": "Expandable Nuclear Power Plant Pro 2.0",
   "favorites": {
     "5p0E6xfD8NMBxe6XfURuge4g9oq1": true,

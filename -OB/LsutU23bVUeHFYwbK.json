@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/KXTMR7e",
   "lastUpdatedDate": 1731255840466,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "uranium enrichment",
   "favorites": {
     "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true

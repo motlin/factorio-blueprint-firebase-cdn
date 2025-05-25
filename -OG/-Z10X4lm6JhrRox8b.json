@@ -23,9 +23,9 @@
   "imageUrl": "https://imgur.com/q3T1GkL",
   "lastUpdatedDate": 1736249993693,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "The Bishop: Supply and Transport Ship/Platform (First 4 Planets)"
 }

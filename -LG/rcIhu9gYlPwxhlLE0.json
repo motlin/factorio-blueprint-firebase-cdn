@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1531015412901,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/version/0,16/"
+  ],
   "title": "Production Artillery Shells T3 (Output/s=2.933)"
 }

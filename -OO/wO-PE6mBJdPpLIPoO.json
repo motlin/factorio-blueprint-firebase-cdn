@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/X6nyScR",
   "lastUpdatedDate": 1745843695611,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/space-age/"
+  ],
   "title": "Sushi Science Loader",
   "favorites": {
     "Fj3qco0TDke58QZPOOCOhPMXRea2": true,

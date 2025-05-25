@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1667986441798,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear 1.2 gigawatt",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1638401929342,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/mining/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/mining/"
+  ],
   "title": "Mine + Furnace "
 }

@@ -22,9 +22,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2021-11-14_064828.png?alt=media&token=23535e7b-34d1-477b-9f12-b070138ec2c3",
   "lastUpdatedDate": 1637532400812,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/science/"
+  ],
   "title": "Don's Universal Sushi"
 }

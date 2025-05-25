@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1695918200207,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/"
+  ],
   "title": "Main Bus City Block"
 }

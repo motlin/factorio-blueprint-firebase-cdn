@@ -25,12 +25,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220817210002_1.jpg?alt=media&token=204f71f7-251c-44ea-93f5-7b59aee9d488",
   "lastUpdatedDate": 1660762876186,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/general/early game/",
-    "3": "/production/oil processing/",
-    "4": "/production/plastic/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/general/early game/",
+    "/production/oil processing/",
+    "/production/plastic/"
+  ],
   "title": "Oil processing builds for early-lategame"
 }

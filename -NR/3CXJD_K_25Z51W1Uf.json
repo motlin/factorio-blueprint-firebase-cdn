@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1679402870245,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/power/steam/",
-    "4": "/power/solar/",
-    "5": "/power/nuclear/",
-    "6": "/circuit/indicator/",
-    "7": "/version/1,1/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/power/steam/",
+    "/power/solar/",
+    "/power/nuclear/",
+    "/circuit/indicator/",
+    "/version/1,1/"
+  ],
   "title": "Bulldog Power Hub",
   "favorites": {
     "3r5P10Vd7Ect0mD3rIoJ2JUTvfR2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1617224517403,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Sushi Belt Science Facility",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

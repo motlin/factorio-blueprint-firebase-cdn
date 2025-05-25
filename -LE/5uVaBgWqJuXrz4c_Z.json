@@ -21,15 +21,15 @@
   "title": "Blue Science 0.75/s (YAMATO) /w Steel,Sulfur&Red.C",
   "lastUpdatedDate": 1564777466135,
   "numberOfFavorites": 11,
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/compact/",
-    "6": "/general/tileable/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "QIE2KWG9txYWeZcZtcboDUSME8G2"
   },

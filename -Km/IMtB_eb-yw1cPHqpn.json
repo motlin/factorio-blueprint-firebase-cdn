@@ -45,10 +45,10 @@
   "author": {
     "userId": "XMdabdf3hxcsQMNZShpESAUIdx33"
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/inserters/",
-    "1": "/general/early game/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/inserters/",
+    "/general/early game/"
+  ]
 }

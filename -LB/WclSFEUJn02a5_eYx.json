@@ -1,13 +1,13 @@
 {
   "fileName": "20190402221610_1.jpg",
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/mods/bobs/",
-    "3": "/mods/warehousing/",
-    "4": "/mods/lighted-electric-poles/",
-    "5": "/mods/angels/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/bobs/",
+    "/mods/warehousing/",
+    "/mods/lighted-electric-poles/",
+    "/mods/angels/",
+    "/mods/factorissimo/"
+  ],
   "favorites": {
     "AHrPB4ug2iQ0f1kWmdQ5BmJtUPy1": true,
     "EtByybUWN9SnmOLAFVAYTTHXxl62": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ojgcJfn",
   "lastUpdatedDate": 1729982483253,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/mid game/"
+  ],
   "title": "medidor de fluidos para tanques "
 }

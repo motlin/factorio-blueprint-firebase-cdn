@@ -6,12 +6,12 @@
   "lastUpdatedDate": 1582172353465,
   "numberOfFavorites": 8,
   "title": "Sulfur Dioxide Gas production in seablock",
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,16/",
-    "2": "/mods/bobs/",
-    "3": "/mods/seablock/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/seablock/"
+  ],
   "favorites": {
     "SUj2NShlk3bzYdDibJ24Ndmazdu2": true,
     "0c8wXa7FvhbMGKxcG1qVgwZ30jq2": true,

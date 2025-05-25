@@ -24,19 +24,19 @@
   "imageUrl": "https://imgur.com/aEGEurX",
   "lastUpdatedDate": 1735587064865,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/mid game/",
-    "5": "/mods/space-age/",
-    "6": "/train/crossing/",
-    "7": "/train/junction/",
-    "8": "/train/right-hand-drive/",
-    "9": "/train/roundabout/",
-    "10": "/train/track/",
-    "11": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/late game (megabase)/",
+    "/general/mid game/",
+    "/mods/space-age/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/version/2,0/"
+  ],
   "title": "Judas Brennan's Rail Block Book v1.01"
 }

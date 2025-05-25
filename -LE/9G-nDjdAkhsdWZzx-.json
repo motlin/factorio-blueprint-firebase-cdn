@@ -16,11 +16,11 @@
   },
   "lastUpdatedDate": 1557097876755,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/cLSNhWY",
   "lastUpdatedDate": 1735845170507,
   "numberOfFavorites": -1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/2,0/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/2,0/",
+    "/mods/quality/"
+  ],
   "title": "Cheap rare green circuits 30/min"
 }

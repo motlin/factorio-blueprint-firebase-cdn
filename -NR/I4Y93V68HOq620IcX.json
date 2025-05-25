@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1708643463844,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/krastorio/"
+  ],
   "title": "250MW Krastorio2 Single Core Reactor",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

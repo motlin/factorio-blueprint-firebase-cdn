@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701515888387,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Sine wave generator and display"
 }

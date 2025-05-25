@@ -1,14 +1,14 @@
 {
   "lastUpdatedDate": 1580866788908,
   "numberOfFavorites": 1,
-  "tags": {
-    "4": "/general/early game/",
-    "5": "/general/mid game/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/compact/"
+  ],
   "favorites": {
     "aXJ3Z7FAjHhjupIaDTpK7ytEJZy2": true
   },

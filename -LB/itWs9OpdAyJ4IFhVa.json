@@ -16,11 +16,11 @@
   "authorId": "WCNCC2ZqEcWZw0O2r9zVvfVo3Ff1",
   "fileName": "gears1.png",
   "lastUpdatedDate": 1554491252289,
-  "tags": {
-    "1": "/production/belt based/",
-    "2": "/general/early game/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "nRkXWDUfALOT8vv9D3Z66m88aGs1": true,
     "6xpJkBb1CcahGsWJ9s65vzViYms2": true,

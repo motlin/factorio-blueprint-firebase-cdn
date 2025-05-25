@@ -28,9 +28,9 @@
   "imageUrl": "https://imgur.com/tUdnFp8",
   "lastUpdatedDate": 1741432274067,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "Legendary Foundry Factory"
 }

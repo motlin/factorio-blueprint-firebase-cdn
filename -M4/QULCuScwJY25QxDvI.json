@@ -19,11 +19,11 @@
     "type": "image/png",
     "width": 1369
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/production/science/",
-    "0": "/version/0,18/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,18/",
+    "/general/beaconized/"
+  ],
   "title": "2.5kpm Red Automation Science"
 }

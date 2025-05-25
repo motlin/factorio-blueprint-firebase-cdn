@@ -47,10 +47,10 @@
   },
   "lastUpdatedDate": 1551121235710,
   "numberOfFavorites": 26,
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/general/early game/",
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/general/early game/",
+    "/mods/bobs/"
+  ],
   "title": "[Modded] Bob's/Angel's Mods - Early Game Blueprint Strings"
 }

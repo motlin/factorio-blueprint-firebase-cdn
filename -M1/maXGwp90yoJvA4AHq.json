@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1583544411606,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/late game (megabase)/",
+    "/version/0,17/"
+  ],
   "title": "MALL from ore, bots based, late game"
 }

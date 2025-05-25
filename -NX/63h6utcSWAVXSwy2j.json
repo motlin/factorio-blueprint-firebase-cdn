@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/yXUj19W",
   "lastUpdatedDate": 1714884705898,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/combat/defense/",
-    "2": "/combat/offense/"
-  },
+  "tags": [
+    "/production/science/",
+    "/combat/defense/",
+    "/combat/offense/"
+  ],
   "title": "Military Science/Factory",
   "favorites": {
     "7cbaZC0zCFOhWYCpU5ephyALu6E2": true

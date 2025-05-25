@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1705779993056,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Uranium enrichment process",
   "favorites": {
     "GNbsWDnsFZXKep3FNDDr43QdULx2": true

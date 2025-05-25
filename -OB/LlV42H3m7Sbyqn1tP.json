@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/qhOXPoT",
   "lastUpdatedDate": 1731254436959,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/power/nuclear/"
+  ],
   "title": "Smallish Aquilo ship",
   "favorites": {
     "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,

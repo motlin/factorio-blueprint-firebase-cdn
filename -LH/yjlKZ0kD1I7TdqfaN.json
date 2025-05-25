@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1532208551814,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/other/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/other/",
+    "/general/tileable/"
+  ],
   "title": "[Seablock] selfsufficient tileable geode wasing based ore production"
 }

@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/version/0,14/"
+  ],
   "title": "1/10th of a rocket/minute",
   "createdDate": 1493796517892,
   "descriptionMarkdown": "It launches rockets from raw plates",

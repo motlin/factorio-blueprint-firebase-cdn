@@ -28,10 +28,10 @@
     "id": "FDq8eIi"
   },
   "lastUpdatedDate": 1548511038295,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/production/belts/",
-    "2": "/version/0,16/",
-    "3": "/mods/other/"
-  }
+  "tags": [
+    "/mods/bobs/",
+    "/production/belts/",
+    "/version/0,16/",
+    "/mods/other/"
+  ]
 }

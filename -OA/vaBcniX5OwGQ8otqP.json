@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/oYDJFYI",
   "lastUpdatedDate": 1730797947711,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/space-age/",
-    "2": "/mods/quality/",
-    "3": "/production/robots/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/production/robots/"
+  ],
   "title": "Quality_Recycles",
   "favorites": {
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,

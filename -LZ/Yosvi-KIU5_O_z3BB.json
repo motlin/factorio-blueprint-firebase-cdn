@@ -19,8 +19,8 @@
   "createdDate": 1580075290402,
   "lastUpdatedDate": 1580075290402,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Advanced Oil Refining Dense"
 }

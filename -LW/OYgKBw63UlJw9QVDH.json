@@ -8,9 +8,9 @@
     "height": 355
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Flaga Polski",
   "author": {
     "userId": "I0bFJ0rtbERomSs3M3VHQSbM2EF3"

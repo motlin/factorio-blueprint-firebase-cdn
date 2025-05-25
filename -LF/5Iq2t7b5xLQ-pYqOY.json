@@ -16,15 +16,15 @@
     "width": 987
   },
   "lastUpdatedDate": 1602941308998,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/version/1,0/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/compact/",
-    "5": "/general/mid game/",
-    "6": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/version/1,0/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/general/mid game/",
+    "/production/uranium/"
+  ],
   "favorites": {
     "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true,
     "11IVe12kTpQ7FST2PFp92awdZl13": true,

@@ -63,14 +63,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/dd.jpg?alt=media&token=93fc787b-f086-40e6-9b64-5877227e4a4e",
   "lastUpdatedDate": 1638215342784,
   "numberOfFavorites": 45,
-  "tags": {
-    "4": "/version/0,18/",
-    "5": "/mods/vanilla/",
-    "6": "/power/solar/",
-    "0": "/train/loading station/",
-    "1": "/train/crossing/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/train/loading station/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/"
+  ],
   "title": "8 wagons : Train Station - Train Utility"
 }

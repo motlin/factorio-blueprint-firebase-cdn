@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/circuit/indicator/",
-    "3": "/circuit/counter/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true,
     "v0Ects3LexekV88yeJabf7i1hJF2": true,

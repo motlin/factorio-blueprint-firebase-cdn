@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1676921431789,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/production/smelting/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/version/0,15/"
+  ],
   "title": "Basic Furnace mk1",
   "favorites": {
     "oMQdWpiZ2Kbq2ApwCVIBpEpbm9y1": true,

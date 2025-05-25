@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1622564461521,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/other/",
-    "2": "/mods/krastorio/",
-    "3": "/general/beaconized/",
-    "4": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/other/",
+    "/mods/krastorio/",
+    "/general/beaconized/",
+    "/production/rocket parts/"
+  ],
   "title": "Rocket part 1/s (SE + K2 + Factorisimo)",
   "favorites": {
     "Y3bxY60AnQNwJ3jcTnoepdkD9mv2": true

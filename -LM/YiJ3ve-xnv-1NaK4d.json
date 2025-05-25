@@ -11,10 +11,10 @@
     "width": 1286
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/modules/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/modules/"
+  ],
   "author": {
     "userId": "Ojh0Lmt8dPMoyeQpyF1qE5VblFI3"
   },

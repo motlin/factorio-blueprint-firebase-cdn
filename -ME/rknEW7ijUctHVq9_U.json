@@ -37,9 +37,9 @@
   },
   "createdDate": 1597589632266,
   "fileName": "Bildschirmfoto von 2020-08-16 16-52-12.png",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/version/unknown/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/unknown/"
+  ],
   "authorId": "uFnHYiFsRuUQRxgk8gtdJ6KANN12"
 }

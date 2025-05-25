@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/gPuq81u",
   "lastUpdatedDate": 1731086905775,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/production/inserters/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/production/inserters/"
+  ],
   "title": "Blue Belts + Bulk Inserter",
   "favorites": {
     "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true

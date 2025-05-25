@@ -66,10 +66,10 @@
   "imageUrl": "https://imgur.com/BXwL74p",
   "lastUpdatedDate": 1730423019768,
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Green Belt/Splitter/Underground"
 }

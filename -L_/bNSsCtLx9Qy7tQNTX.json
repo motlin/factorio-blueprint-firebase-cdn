@@ -21,11 +21,11 @@
     "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mining/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "title": "[0.17] Zazuno's smart Mining",
   "authorId": "W4zS6A4J9FMzcMKqpmcazGMExSu2",
   "createdDate": 1552217661120,

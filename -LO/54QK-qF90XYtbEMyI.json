@@ -6,11 +6,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/version/0,17/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/version/0,17/",
+    "/general/mid game/"
+  ],
   "authorId": "kxF7mTm8VCXqkAcaZ8vX3GDAguj1",
   "descriptionMarkdown": "Delivers Red, Green, Blue, Purple, Yellow and White science packs.",
   "fileName": "20190906201649_1.jpg",

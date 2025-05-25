@@ -15,12 +15,12 @@
     "height": 1400
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/other/"
+  ],
   "author": {
     "userId": "9VCkwfQ6CnNxqVWXwjgMeMs16uD2"
   },

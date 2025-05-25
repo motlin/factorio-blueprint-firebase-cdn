@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1704476332990,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Wall Defence",
   "favorites": {
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,

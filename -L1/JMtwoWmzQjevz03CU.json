@@ -7,10 +7,10 @@
   },
   "lastUpdatedDate": 1514317783000,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "5Nu5Wa9FYzOs9YApV7N9pMbElBD2"
   },

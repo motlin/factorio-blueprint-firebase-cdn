@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/U7Y1XBN",
   "lastUpdatedDate": 1732934437018,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/beaconized/",
-    "2": "/mods/space-age/",
-    "3": "/production/rocket parts/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/beaconized/",
+    "/mods/space-age/",
+    "/production/rocket parts/"
+  ],
   "title": "Rocket Launch Silo logistics",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

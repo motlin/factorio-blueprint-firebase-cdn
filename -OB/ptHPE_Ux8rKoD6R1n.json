@@ -32,10 +32,10 @@
   "imageUrl": "https://imgur.com/Htl3I9z",
   "lastUpdatedDate": 1731776030794,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Javelin MK II"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1672778097435,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Signal Sorter",
   "favorites": {
     "0rdpwQPdhgc0RFaRpodeMug1JmO2": true

@@ -20,8 +20,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/jellyfish-docked.jpg?alt=media&token=8dcf3a86-09b5-4852-ac34-a6ffe481e862",
   "lastUpdatedDate": 1678197234792,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Jellyfish Spaceship"
 }

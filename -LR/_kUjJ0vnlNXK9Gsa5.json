@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1572504936219,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/smelting/"
+  ],
   "title": "Long Smelters"
 }

@@ -23,13 +23,13 @@
     "width": 783
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/power/steam/",
-    "1": "/general/tileable/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/steam/",
+    "/general/tileable/",
+    "/general/early game/"
+  ],
   "title": "Beginning Game Power",
   "authorId": "lRRWaBIWk5Ulwl8JrydoDFnEKIo2"
 }

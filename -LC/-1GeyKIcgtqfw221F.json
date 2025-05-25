@@ -29,10 +29,10 @@
     "width": 4000
   },
   "lastUpdatedDate": 1555373748281,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Liquefaction Solid fuel (Usernm)"
 }

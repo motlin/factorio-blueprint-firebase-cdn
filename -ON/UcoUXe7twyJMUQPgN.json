@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/y5pIQd3",
   "lastUpdatedDate": 1744287574039,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "Scrap Processing with Silo Test",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

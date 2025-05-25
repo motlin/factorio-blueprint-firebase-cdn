@@ -8,15 +8,15 @@
   },
   "lastUpdatedDate": 1558538273305,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/0,17/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/",
-    "6": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,17/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/ltn/"
+  ],
   "title": "Early game LTN stations",
   "author": {
     "userId": "3sHg3vyVPyRDqLvidj1J1I6mGLa2"

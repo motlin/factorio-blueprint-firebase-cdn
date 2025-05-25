@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/jFLnWUz",
   "lastUpdatedDate": 1732212167363,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/version/2,0/"
+  ],
   "title": "Parameterized Legendary Quality Crafter",
   "favorites": {
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1638235828363,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Number Displays",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/NumberDisplayUpdateMini.png?alt=media&token=da1f1b32-e502-424f-958a-ec2053b2c181",
   "favorites": {

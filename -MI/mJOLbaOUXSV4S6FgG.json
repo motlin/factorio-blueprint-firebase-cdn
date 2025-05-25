@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1630784296522,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/krastorio/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/krastorio/",
+    "/version/1,0/"
+  ],
   "title": "Krastorio2 3.2 GW Nuclear Plant",
   "favorites": {
     "DFb3VsY6aAdGDUwAAzRjyBAWGf43": true,

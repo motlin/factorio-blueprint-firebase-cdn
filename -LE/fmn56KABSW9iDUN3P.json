@@ -20,13 +20,13 @@
   "createdDate": 1557660381656,
   "descriptionMarkdown": "Self contained radar installation, no external power required.",
   "blueprintString": "0eNqVlG9rwyAQxr/KuNe2RGOS1S9R2NsxhkllCMYE/4yFkO8+zcZWWtPWdyo8v7t77rwZWuXFaKR2wGaQ3aAtsNcZrPzQXMU3N40CGEgnekCgeR9vdlDc7EauhYIFgdQn8QUML+iu0vATN2casrwhENpJJ8VP6PUyvWvft8IE6J+Ud53vveJuMIE3DjZoBh0jBc6O7isEUzhU+2qJiVxwSDL5aw75paQY5WMMfANBH0PQG4gq15Ey7Uid5whJMZqLxm4VkhQ/5xaC04Uc/gvxrXV81V535Q4FF5npFBscnOUrTjJIzqSlEWXOpKURNNMRsuFIleUITTLqHEfSiCbHkTQid2RpdCRsuHUJsrNti0DxNkRn8BI/ztPRu8CI75/C2JXUlAWuDyWlRejON3ek2aQ=",
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/version/0,17/",
-    "2": "/power/solar/",
-    "3": "/version/0,15/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/power/solar/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar Radar",
   "author": {
     "userId": "wuV2ggjAt6MLzbk8cSRJdrUO8no2"

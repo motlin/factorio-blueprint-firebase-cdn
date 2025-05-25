@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1662456275117,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Single & Double Railway System v1.0"
 }

@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/Ae147YJ",
   "lastUpdatedDate": 1732064538324,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/scrap processing/",
-    "2": "/belt/balancer/",
-    "3": "/belt/prioritizer/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/general/mid game/",
-    "6": "/general/compact/",
-    "7": "/production/belt based/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/scrap processing/",
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/belt/express transport belt (blue)/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/production/belt based/"
+  ],
   "title": "Compact Fulgora Recycler Sorting System"
 }

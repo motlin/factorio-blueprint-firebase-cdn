@@ -20,8 +20,8 @@
     "type": "image/jpeg",
     "width": 1448
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/version/0,17/"
+  ]
 }

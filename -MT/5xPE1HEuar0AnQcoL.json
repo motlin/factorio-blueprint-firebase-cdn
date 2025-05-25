@@ -29,10 +29,10 @@
   },
   "lastUpdatedDate": 1621277524248,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/production/inserters/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/inserters/"
+  ],
   "title": "600 PACK ALL /m"
 }

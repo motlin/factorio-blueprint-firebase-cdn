@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1737133356520,
   "numberOfFavorites": 49,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/belt/balancer/",
-    "2": "/belt/prioritizer/",
-    "3": "/mods/angels/",
-    "4": "/mods/creative/",
-    "5": "/mods/industrial revolution/",
-    "6": "/production/belts/",
-    "7": "/production/inserters/"
-  },
+  "tags": [
+    "/production/science/",
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/mods/angels/",
+    "/mods/creative/",
+    "/mods/industrial revolution/",
+    "/production/belts/",
+    "/production/inserters/"
+  ],
   "title": " Military science pack- Wojskowy pakiet naukowy. Automatyzacja, Jak działa, schemat budowy.",
   "favorites": {
     "SoEUMOa5ChhM0hXyXFkAgQQ3Ilj2": true,

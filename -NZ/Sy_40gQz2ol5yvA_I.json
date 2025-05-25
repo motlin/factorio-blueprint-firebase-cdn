@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zWqfsPf",
   "lastUpdatedDate": 1717416649518,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "Vulcanite Full setup K2+SE",
   "favorites": {
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true

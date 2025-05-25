@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1622129141659,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "4\" Nuclear Reactor Automatic",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bbq4xnuclear%203.3.png?alt=media&token=0c5ce7c0-fea8-4416-92c9-4a38e3cf949e",
   "favorites": {

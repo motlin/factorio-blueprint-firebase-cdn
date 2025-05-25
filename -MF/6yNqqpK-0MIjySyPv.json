@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1626853357042,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "20-X Kovarex enrichment",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/u238.jpg?alt=media&token=4701b894-6a47-4d38-a6aa-e3ba320d12be",
   "favorites": {

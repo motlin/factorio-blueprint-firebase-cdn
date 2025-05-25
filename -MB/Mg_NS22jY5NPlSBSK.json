@@ -5,10 +5,10 @@
     "type": "image/png",
     "width": 320
   },
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "0.17+ Labs Tileable.",
   "author": {
     "userId": "Z9Zd5pAlKZUJTypY6HEvOPRejWZ2"

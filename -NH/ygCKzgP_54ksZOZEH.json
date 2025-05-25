@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1699124531687,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/tileable/",
-    "6": "/general/compact/",
-    "7": "/production/uranium/",
-    "8": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/uranium/",
+    "/power/nuclear/"
+  ],
   "title": "Simple Kovarex",
   "favorites": {
     "q6szEyQgjSPmtfqfO7xa86No1dE3": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/rpKw3ur",
   "lastUpdatedDate": 1735242215808,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para Pacote de ciências espaciais 2 -blueprint 2/2-"
 }

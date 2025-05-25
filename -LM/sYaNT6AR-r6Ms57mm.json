@@ -23,10 +23,10 @@
     "width": 589
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,17/"
+  ],
   "title": "Compact LED display, decimal/binary/hex (color configurable)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/display2.png?alt=media&token=468af849-b467-4840-aa85-4fad8c4e681f"
 }

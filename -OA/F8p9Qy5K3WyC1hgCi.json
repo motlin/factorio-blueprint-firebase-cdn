@@ -34,10 +34,10 @@
   "imageUrl": "https://imgur.com/17NksKA",
   "lastUpdatedDate": 1731250877935,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "NoxRails - Train Rail Book for Factorio 2.0"
 }

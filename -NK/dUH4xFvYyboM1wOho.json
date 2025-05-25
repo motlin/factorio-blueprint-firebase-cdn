@@ -29,12 +29,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Krastorio%202%20screenshot.png?alt=media&token=fc743bd5-f6f7-4f1c-8f11-57e0c23ae604",
   "lastUpdatedDate": 1691162977187,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/tileable/",
-    "2": "/train/right-hand-drive/",
-    "3": "/mods/other/",
-    "4": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/tileable/",
+    "/train/right-hand-drive/",
+    "/mods/other/",
+    "/mods/aai/"
+  ],
   "title": "Krastorio 2+AAI 32x32 Tile Base v0.2.2 By Dawnseeker"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1658417136066,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/production/other/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/production/other/",
+    "/version/1,0/"
+  ],
   "title": "Factory for the creation of assembly machines"
 }

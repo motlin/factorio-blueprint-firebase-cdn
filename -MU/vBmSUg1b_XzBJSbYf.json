@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1643824720826,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Robotics",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Robot%20Blueprint.png?alt=media&token=69e70747-9580-4910-a82a-c859590c5ede",
   "favorites": {

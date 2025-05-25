@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651095064983,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/roundabout/"
+  ],
   "title": "Brian's Invasion",
   "favorites": {
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,

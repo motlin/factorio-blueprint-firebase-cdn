@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/cgW9pwQ",
   "lastUpdatedDate": 1747606939785,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/space-age/"
+  ],
   "title": "Compact Foundry Green Chips",
   "favorites": {
     "fH7cXql7XheCtqDsgg6aThK3sIF3": true

@@ -23,11 +23,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/render-EXPIRES-ddd9f1c3be0be4aa.jpg?alt=media&token=7445d57d-5afa-405e-b5e5-cd407cbc9d55",
   "lastUpdatedDate": 1661724681081,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/transport drones/",
-    "2": "/train/right-hand-drive/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/transport drones/",
+    "/train/right-hand-drive/",
+    "/general/tileable/"
+  ],
   "title": "Hex City Book"
 }

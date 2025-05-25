@@ -3,10 +3,10 @@
   "descriptionMarkdown": "Solar panel based radar, with the right ratio to work day and night, already placed at the right distance of 224 tiles on a 3x3 grid, so just the central one can be seen on the map while placing it over a previusly placed radar!",
   "lastUpdatedDate": 1543542698431,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "a4m0naHLYSRTnnowBQQ37H72jX23"
   },

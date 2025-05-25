@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1654000965856,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Factorio - laser, turrets, flamethrowers defense red belts",
   "favorites": {
     "OhuJKsSKwkgzVEZuqI9BEJ0By8r2": true,

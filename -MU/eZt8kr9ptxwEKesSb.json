@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1661838348380,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "Blue Science 30 spm (Chemical Science)",
   "favorites": {
     "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,

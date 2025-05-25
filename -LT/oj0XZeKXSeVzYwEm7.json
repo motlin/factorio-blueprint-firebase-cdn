@@ -3,10 +3,10 @@
   "descriptionMarkdown": "A centralized train fueling system. Have your trains drive to one central fuel station once they run low on fuel.\n\nDescription: https://www.reddit.com/r/factorio/comments/dx85lr/smart_centralized_fueling_with_acceleration/\n\nBig Thanks to reddit user PM_ME_UR_OBSIDIAN for an improved version of the Detector!",
   "fileName": "FuelLoader.jpg",
   "lastUpdatedDate": 1670500656786,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "HW9dSlTeuMbCnaEmzJodbb9hDM33": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

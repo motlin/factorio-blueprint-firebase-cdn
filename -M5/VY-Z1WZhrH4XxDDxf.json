@@ -6,10 +6,10 @@
     "width": 1365
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/krastorio/"
+  ],
   "favorites": {
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
     "1v6Ja7M59KORPB8z6APCENuYJ982": true

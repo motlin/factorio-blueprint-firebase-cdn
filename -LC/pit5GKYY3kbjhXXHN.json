@@ -16,10 +16,10 @@
   "descriptionMarkdown": "Simple Late Game Belt Based Electronic Circuit Build",
   "lastUpdatedDate": 1555679646313,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/general/beaconized/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/electronic circuit (green)/"
+  ],
   "author": {
     "userId": "XYxF6dLBPTR40dQ5jfEQJP9Vpbj1"
   },

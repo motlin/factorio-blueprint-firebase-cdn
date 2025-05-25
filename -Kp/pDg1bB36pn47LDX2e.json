@@ -5,15 +5,15 @@
     "type": "image/png",
     "width": 515
   },
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/production/smelting/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/compact/",
-    "4": "/general/beaconized/",
-    "5": "/mods/factorissimo/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/production/smelting/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,
     "HkSn5CQxO3MuXrPh5heCABgdT802": true,

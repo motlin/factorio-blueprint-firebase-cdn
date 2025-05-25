@@ -9,12 +9,12 @@
   "fileName": "34pykj;.jpg",
   "numberOfFavorites": 3,
   "title": "[WIP] Piercing rounds magazine cluster Mk1",
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/guns and ammo/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/guns and ammo/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "v6XakptxuzOG2hQYFGWZA8XrlN62"
   },

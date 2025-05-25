@@ -7,10 +7,10 @@
     "oiB654AgmkcBuVSeai1TBT20v0j1": true
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/plastic/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/plastic/"
+  ],
   "author": {
     "userId": "b42oWhtuPmSaYmIONil4FiGtmn12"
   },

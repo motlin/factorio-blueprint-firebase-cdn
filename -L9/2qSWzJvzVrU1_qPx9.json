@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1522630515007,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Mother Of All Smelters"
 }

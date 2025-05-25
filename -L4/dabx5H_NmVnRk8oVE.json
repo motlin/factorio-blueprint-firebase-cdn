@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1546560949915,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "title": "Bad solar array"
 }

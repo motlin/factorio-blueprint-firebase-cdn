@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1684125185353,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/other/"
+  ],
   "title": "Expandable Matter Farm (Krastorio 2)"
 }

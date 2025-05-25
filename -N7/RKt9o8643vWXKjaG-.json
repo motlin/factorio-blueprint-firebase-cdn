@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1658334488486,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "UPS \"friendly\" 10.7 GW reactor"
 }

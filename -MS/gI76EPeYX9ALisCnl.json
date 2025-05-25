@@ -16,12 +16,12 @@
   "descriptionMarkdown": "special track parts for frog's train system",
   "lastUpdatedDate": 1612429689408,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/other/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/train/track/"
+  ],
   "favorites": {
     "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
     "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true

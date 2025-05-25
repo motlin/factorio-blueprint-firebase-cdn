@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/HKIIC6w",
   "lastUpdatedDate": 1733694743417,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/general/tileable/",
-    "2": "/production/science/",
-    "3": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/general/tileable/",
+    "/production/science/",
+    "/planets/aquilo/"
+  ],
   "title": "Tileable Cryogenic Science",
   "favorites": {
     "BMbr3u14ITaxo16fWERJChsrR3f1": true,

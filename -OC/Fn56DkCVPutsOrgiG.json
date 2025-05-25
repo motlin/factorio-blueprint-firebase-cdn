@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/RHXIovW",
   "lastUpdatedDate": 1732227391921,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Cursed: Low Density Frame Production",
   "favorites": {
     "bF9qbyoXLeT2v5GSAFkRwGPGFop1": true

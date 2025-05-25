@@ -13,9 +13,9 @@
     "width": 642
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "science pack 1 & 2 auto",
   "descriptionMarkdown": "just put it in your game and get iron and copper",
   "fileName": "Screenshot_90.png"

@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"
   },

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/1SEGZmx",
   "lastUpdatedDate": 1735766693052,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/plastic/",
-    "3": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/advanced circuit (red)/",
+    "/production/plastic/",
+    "/mods/factorissimo/"
+  ],
   "title": "Micromanagement: Crude Oil"
 }

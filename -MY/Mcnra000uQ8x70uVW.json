@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1618525503062,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/chunk aligned/"
+  ],
   "title": "Two chunks mini mall",
   "favorites": {
     "vMckMR1wTLVWL5pupsJqdqunKO32": true,

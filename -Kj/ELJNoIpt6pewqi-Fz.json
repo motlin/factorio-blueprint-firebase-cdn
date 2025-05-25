@@ -156,11 +156,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio%20station.png?alt=media&token=bc12933c-99ce-44d6-a412-50e209d74ec6",
   "lastUpdatedDate": 1499901437010,
   "numberOfFavorites": 329,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/general/storage/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Station with balanced unloader"
 }

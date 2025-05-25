@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1550512076850,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "factory supply by train"
 }

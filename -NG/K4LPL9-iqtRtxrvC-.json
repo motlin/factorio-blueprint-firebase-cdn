@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1667874776584,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Kovarex Enrichment Facility",
   "favorites": {
     "bZ7hZaqCMsZtpL9oTyWje2WpoTh1": true,

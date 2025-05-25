@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1698871672904,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/other/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "CliffBOOM -Early Cliff Explosives",
   "favorites": {
     "b8r4MBDeWCOfgBTBl2HgJZs5s3H2": true,

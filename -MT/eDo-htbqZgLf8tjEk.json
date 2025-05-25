@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1613468745963,
-  "tags": {
-    "1": "/train/crossing/",
-    "2": "/train/roundabout/",
-    "3": "/train/right-hand-drive/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "Blocks 001: City Block 5x5",
   "favorites": {
     "M1WxVkVoNuP3AFASuh14knMkFmS2": true,

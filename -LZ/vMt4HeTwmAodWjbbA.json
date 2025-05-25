@@ -8,15 +8,15 @@
   },
   "authorId": "TfpBi7gHtShtZB0NHQaUcZiWA2T2",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,17/",
-    "2": "/train/roundabout/",
-    "3": "/production/robots/",
-    "4": "/train/right-hand-drive/",
-    "5": "/power/accumulator/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,17/",
+    "/train/roundabout/",
+    "/production/robots/",
+    "/train/right-hand-drive/",
+    "/power/accumulator/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar Farm with Radar, Roboports, and... roundabouts...?",
   "createdDate": 1551479312809,
   "image": {

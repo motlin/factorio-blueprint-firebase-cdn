@@ -15,13 +15,13 @@
     "type": "image/jpeg",
     "width": 2467
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/production/belt based/"
+  ],
   "title": "12 beacon 40/s iron, copper, brick, & steel smelting",
   "author": {
     "userId": "IDdOLSLgBGhu23DLfwjcsTBU8IQ2"

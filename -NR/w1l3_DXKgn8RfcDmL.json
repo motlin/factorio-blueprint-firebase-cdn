@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1709330600581,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear reactor 2 GW",
   "favorites": {
     "a5UXS0uHCwZqffqHUZLUeaHMGgp2": true,

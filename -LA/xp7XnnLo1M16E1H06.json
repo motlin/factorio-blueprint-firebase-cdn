@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "My first attempt at tileable production science for 0.17",
   "lastUpdatedDate": 1553668016527,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "authorId": "Zg5d40zZDoM6GisgalPgFxZ8J6h1",
   "createdDate": 1553668016527,
   "fileName": "prodscience.png",

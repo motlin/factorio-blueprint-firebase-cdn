@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/BF8rJFw",
   "lastUpdatedDate": 1735773288933,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Green Belt Mall",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

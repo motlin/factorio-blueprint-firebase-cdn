@@ -20,10 +20,10 @@
     "id": "hWPY8TX"
   },
   "lastUpdatedDate": 1583535168014,
-  "tags": {
-    "1": "/production/logistic (bot) based/",
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/train/loading station/"
+  ],
   "title": "Smart Train Station",
   "author": {
     "userId": "s8gFem2fUzf8i2hr9N1MySptJKh1"

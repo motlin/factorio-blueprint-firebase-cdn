@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ypwbvB8",
   "lastUpdatedDate": 1740567850554,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/art/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/art/"
+  ],
   "title": "36х16 dot point LCD"
 }

@@ -16,11 +16,11 @@
   "createdDate": 1563830047861,
   "descriptionMarkdown": "Smelts stone to glass, with beacons and t3 modules. ",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/aai/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/aai/"
+  ],
   "favorites": {
     "zRZ569azMxcT2b0Fbw8qkJaBQyl1": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

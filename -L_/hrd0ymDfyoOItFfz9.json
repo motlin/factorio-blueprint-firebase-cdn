@@ -5,10 +5,10 @@
   "favorites": {
     "Z92YSMKQKTWRItZD2mSZ8KeeTIs1": true
   },
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/smelting/"
+  ],
   "title": "Coalfired Ironmine",
   "author": {
     "userId": "pqCAZG3Ef0N6uPk41YnNl6RCNUx2"

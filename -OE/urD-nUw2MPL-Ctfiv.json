@@ -18,12 +18,12 @@
   "imageUrl": "https://imgur.com/FeeKjzr",
   "lastUpdatedDate": 1747742478270,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/science/",
-    "2": "/production/mall (make everything)/",
-    "3": "/combat/defense/",
-    "4": "/train/track/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/science/",
+    "/production/mall (make everything)/",
+    "/combat/defense/",
+    "/train/track/"
+  ],
   "title": "Space Age Nikko's Everything"
 }

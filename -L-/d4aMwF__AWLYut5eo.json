@@ -8,12 +8,12 @@
   },
   "authorId": "N8lIi0dTEWdpR3t3YgM2mWcScCD2",
   "numberOfFavorites": 1,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/tileable/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/",
+    "/general/tileable/",
+    "/version/0,15/"
+  ],
   "title": "Purple Circuit Tileable",
   "descriptionMarkdown": "Tileable factory for production circuits.",
   "image": {

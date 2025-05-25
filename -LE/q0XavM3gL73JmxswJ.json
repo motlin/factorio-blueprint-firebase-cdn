@@ -17,11 +17,11 @@
     "width": 638
   },
   "lastUpdatedDate": 1528840989286,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "All modules - Bots - Perfect ratio 0.16",
   "author": {
     "userId": "yw1U4BmI5XcgUkH1FMMlBxwvCbn2"

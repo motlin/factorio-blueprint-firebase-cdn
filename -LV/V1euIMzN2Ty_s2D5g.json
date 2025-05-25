@@ -1,9 +1,9 @@
 {
   "descriptionMarkdown": "A factory to produce Engine Units",
   "lastUpdatedDate": 1546725797644,
-  "tags": {
-    "0": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/"
+  ],
   "createdDate": 1546725797644,
   "fileName": "engine unit.PNG",
   "image": {

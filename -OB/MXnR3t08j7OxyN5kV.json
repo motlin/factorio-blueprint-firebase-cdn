@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/4xmP2fw",
   "lastUpdatedDate": 1731366565162,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Modular Rocket Builder Book",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

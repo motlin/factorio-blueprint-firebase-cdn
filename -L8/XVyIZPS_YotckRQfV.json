@@ -20,16 +20,16 @@
   },
   "lastUpdatedDate": 1522071233924,
   "numberOfFavorites": 18,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/",
-    "0": "/production/science/",
-    "6": "/general/compact/",
-    "7": "/production/belts/",
-    "8": "/production/belt based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/fast transport belt (red)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/science/",
+    "/general/compact/",
+    "/production/belts/",
+    "/production/belt based/"
+  ],
   "title": "Optimized and compact factory for military science (from raw materials)"
 }

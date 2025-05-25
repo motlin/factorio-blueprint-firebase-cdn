@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/L553czw",
   "lastUpdatedDate": 1731088971322,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Millenium Falcon",
   "favorites": {
     "8aFgUX6S0LenU0tlu51T9yFEtcF2": true,

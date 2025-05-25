@@ -8,11 +8,11 @@
     "width": 1057,
     "height": 1017
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/rocket parts/",
-    "2": "/production/coal liquification/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/rocket parts/",
+    "/production/coal liquification/"
+  ],
   "author": {
     "userId": "Kte5ZhE52cfaQtQcVGVAFqYkB4m1"
   },

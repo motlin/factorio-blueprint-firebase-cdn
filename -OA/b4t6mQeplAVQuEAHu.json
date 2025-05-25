@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Yfcb9Ag",
   "lastUpdatedDate": 1730453934779,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/elevated-rails/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/elevated-rails/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Cloverleaf Interchange",
   "favorites": {
     "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,

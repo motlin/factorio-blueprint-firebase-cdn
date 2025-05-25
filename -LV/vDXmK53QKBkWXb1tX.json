@@ -15,10 +15,10 @@
     "width": 2811
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "4 Reactor 480MW low UPS",
   "favorites": {
     "XshVHMbpurVf2g1y6HPlCOQO9Xa2": true,

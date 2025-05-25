@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1558832217417,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "Train RHD collection with landfill by LLopes"
 }

@@ -22,12 +22,12 @@
   "imageUrl": "https://imgur.com/3gjxuTU",
   "lastUpdatedDate": 1734442377362,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/nuclear/",
-    "3": "/version/0,15/",
-    "4": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/nuclear/",
+    "/version/0,15/",
+    "/production/guns and ammo/"
+  ],
   "title": "XT8000 Neptune-Deep Space Battleship"
 }

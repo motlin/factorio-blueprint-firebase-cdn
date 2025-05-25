@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/2DyP2Lm",
   "lastUpdatedDate": 1730791749674,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/general/compact/",
-    "2": "/planets/fulgora/",
-    "3": "/mods/vanilla/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/compact/",
+    "/planets/fulgora/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "Electrolyte Plant - Tileable ",
   "favorites": {
     "KTGk9F4NRXaPJWgC6HjvLVR6uuQ2": true,

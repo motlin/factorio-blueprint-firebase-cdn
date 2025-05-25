@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/6sgaUTi",
   "lastUpdatedDate": 1732806370810,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "Micro space science pack",
   "favorites": {
     "0OQbM9EAc5fArzCkYpzqZnOjW0L2": true,

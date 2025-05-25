@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/oiL0ZBa",
   "lastUpdatedDate": 1740755027984,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/2,0/"
+  ],
   "title": "Tileable circuit v1.2",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

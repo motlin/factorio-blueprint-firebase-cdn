@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1621680872758,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/production/smelting/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/production/smelting/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Train Smelting and Storage"
 }

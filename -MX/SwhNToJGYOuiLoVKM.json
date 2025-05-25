@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1617557640426,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/production/oil processing/",
-    "3": "/production/rocket parts/",
-    "4": "/general/tileable/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/production/oil processing/",
+    "/production/rocket parts/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Rocket Fuel Tile, Beacon",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

@@ -13,14 +13,14 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/version/0,16/",
-    "2": "/production/coal liquification/",
-    "3": "/production/oil processing/",
-    "4": "/mods/vanilla/",
-    "5": "/production/plastic/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/production/coal liquification/",
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/production/plastic/"
+  ],
   "title": "All Oil and plastic but everything from coal (Smart Coal liquefaction)",
   "favorites": {
     "nQfAZHqfdedgCdivt9okfzA4XZB2": true,

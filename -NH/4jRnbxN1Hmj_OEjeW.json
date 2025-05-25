@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1697682148642,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Production Setups as of end oct 18 2023"
 }

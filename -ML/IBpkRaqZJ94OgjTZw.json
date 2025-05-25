@@ -19,11 +19,11 @@
     "width": 562
   },
   "lastUpdatedDate": 1604492418236,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/other/"
+  ],
   "title": "[WIP] Repair pack cluster Mk1"
 }

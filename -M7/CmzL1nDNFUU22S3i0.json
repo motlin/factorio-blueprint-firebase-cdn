@@ -2,10 +2,10 @@
   "authorId": "MnXPwQyxObb3RkL9MHZa06MlOVv2",
   "descriptionMarkdown": "Ein simples Blueprint für Early-Game Strom mit Dampfmaschinen ",
   "title": "Dampf-Strom",
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "MnXPwQyxObb3RkL9MHZa06MlOVv2"
   },

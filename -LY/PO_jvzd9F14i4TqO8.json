@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1549913740393,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "5eRY2pAmFgc5HqKaXq12Pyic0lI3"
   },

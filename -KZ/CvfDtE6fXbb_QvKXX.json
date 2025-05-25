@@ -11,11 +11,11 @@
     "width": 1920
   },
   "fileName": "20171118015044_1.jpg",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/circuit/counter/"
+  ],
   "author": {
     "userId": "Xn26eZ6cUfTnz9UoCSFKO3O1rYW2"
   },

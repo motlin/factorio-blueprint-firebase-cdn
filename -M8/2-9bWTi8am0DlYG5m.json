@@ -22,9 +22,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/rail_96548961561894.png?alt=media&token=2d82f038-bd3a-4a85-b957-8aa1f4e43935",
   "lastUpdatedDate": 1602407245776,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/"
+  ],
   "title": "Simple Rail System"
 }

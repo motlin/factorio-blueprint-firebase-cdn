@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1517047884811,
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,16/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,16/",
+    "/mods/other/"
+  ],
   "title": "JonnyNof's Green Circuit City Block"
 }

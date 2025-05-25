@@ -26,11 +26,11 @@
     "width": 768
   },
   "numberOfFavorites": 41,
-  "tags": {
-    "4": "/general/compact/",
-    "0": "/production/belts/",
-    "1": "/version/0,16/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/general/compact/",
+    "/production/belts/",
+    "/version/0,16/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ]
 }

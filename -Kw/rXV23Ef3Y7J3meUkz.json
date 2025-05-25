@@ -6,10 +6,10 @@
     "width": 617,
     "height": 446
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,15/"
+  ],
   "title": "Green Circuits Production",
   "author": {
     "userId": "jVmdPiYaEUS9ij3F3HcouCjFIkm1"

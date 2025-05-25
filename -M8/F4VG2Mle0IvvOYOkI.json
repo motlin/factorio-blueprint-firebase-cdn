@@ -40,16 +40,16 @@
   },
   "lastUpdatedDate": 1683317058142,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/train/right-hand-drive/",
-    "2": "/production/belt based/",
-    "3": "/production/science/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/general/late game (megabase)/",
-    "6": "/version/0,17/",
-    "7": "/version/0,15/",
-    "8": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/train/right-hand-drive/",
+    "/production/belt based/",
+    "/production/science/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/version/0,17/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "340 SPM Science Outpost from raw materials"
 }

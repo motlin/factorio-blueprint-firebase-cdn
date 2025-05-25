@@ -11,10 +11,10 @@
   "descriptionMarkdown": "So, this one's not perfect. It's as close as I could get it to sound like the game (with a lot of fiddling). That being said, it's still a familiar tone to hear that will alert you of something you wish in game (with a negative connotation).\n\n**INSTRUCTIONS**\nHook a green wire to the \"R E S E T\" combinator and have whatever your trigger is emit a red signal of 1\n\n*Blueprint creator program*: http://miditorio.com/ (Rearranged speakers to make more compact)\n\n*Example trigger setup*: https://imgur.com/a/m1lrc49\n\n**[LazyBlueprints]** Not the most efficient or the most elegant, but they get the job done and make the game easier for those of us who are too lazy to make the most efficient factories possible **[/LazyBlueprints]**",
   "lastUpdatedDate": 1547465715498,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "aOO2FL3VxbONK58zCniQ1Susrpu1"
   },

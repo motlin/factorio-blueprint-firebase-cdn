@@ -16,16 +16,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot_railbook.png?alt=media&token=6b85bdc5-26da-45c0-88ff-a8ffa8ac6977",
   "lastUpdatedDate": 1541950698453,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/loading station/",
-    "3": "/train/junction/",
-    "4": "/train/track/",
-    "7": "/mods/vanilla/",
-    "8": "/version/0,15/",
-    "1": "/train/crossing/",
-    "2": "/train/unloading station/",
-    "5": "/train/left-hand-drive/",
-    "6": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/junction/",
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/crossing/",
+    "/train/unloading station/",
+    "/train/left-hand-drive/",
+    "/general/chunk aligned/"
+  ],
   "title": "Chunk based Rail book"
 }

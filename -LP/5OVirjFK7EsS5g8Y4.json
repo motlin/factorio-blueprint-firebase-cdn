@@ -16,7 +16,7 @@
     "type": "image/jpeg",
     "width": 3456
   },
-  "tags": {
-    "0": "/mods/creative/"
-  }
+  "tags": [
+    "/mods/creative/"
+  ]
 }

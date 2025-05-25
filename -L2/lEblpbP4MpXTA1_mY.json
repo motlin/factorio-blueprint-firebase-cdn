@@ -8,14 +8,14 @@
   "fileName": "Max's 4 way LHD.png",
   "lastUpdatedDate": 1515875892362,
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/train/junction/",
-    "4": "/version/0,16/",
-    "5": "/train/track/",
-    "0": "/version/0,15/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/version/0,16/",
+    "/train/track/",
+    "/version/0,15/",
+    "/train/left-hand-drive/",
+    "/train/crossing/"
+  ],
   "favorites": {
     "SDW2Dt2M0iTTjOKRguBooWEdMkx2": true
   },

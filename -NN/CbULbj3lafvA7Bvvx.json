@@ -27,9 +27,9 @@
   },
   "lastUpdatedDate": 1704259360570,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/space-exploration/"
+  ],
   "title": "SE Starter"
 }

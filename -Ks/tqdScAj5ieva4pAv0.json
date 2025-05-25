@@ -16,11 +16,11 @@
   "fileName": "green maker.png",
   "descriptionMarkdown": "sorry for this pic i can´t find my screenshot",
   "lastUpdatedDate": 1504616375517,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "green maker"
 }

@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "0": "/belt/balancer/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/belt/balancer/",
+    "/train/unloading station/"
+  ],
   "title": "Unloading station + 12x12 very good balanced",
   "author": {
     "userId": "XnJHa4enBAV9bwfRbC1JVFLUlM73"

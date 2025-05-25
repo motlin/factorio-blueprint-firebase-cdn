@@ -2,9 +2,9 @@
   "createdDate": 1523106311002,
   "descriptionMarkdown": "Double furnaces",
   "fileName": "factchild60.png",
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Iron ore to Steel ",
   "author": {
     "userId": "0hl206XAZDYNRafblxoYAZbgj9W2"

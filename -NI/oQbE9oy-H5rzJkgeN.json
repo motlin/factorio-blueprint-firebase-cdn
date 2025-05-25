@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1699539219545,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/train/left-hand-drive/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/train/left-hand-drive/",
+    "/version/1,1/"
+  ],
   "title": "Mobile Artillery Perimeter?",
   "favorites": {
     "DRs4fFesokedFZG3er6wTvyYFhg2": true

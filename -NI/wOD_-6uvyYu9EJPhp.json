@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1670681782858,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Nave logística para componentes de fabricação do Naquium"
 }

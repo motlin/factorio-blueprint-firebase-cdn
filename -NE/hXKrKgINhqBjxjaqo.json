@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1666137600784,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "SE Iron and Steel Ingot Prodction"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/kRua41d",
   "lastUpdatedDate": 1736090839867,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Salamis MK2"
 }

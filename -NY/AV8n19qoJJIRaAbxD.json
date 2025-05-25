@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1687041383675,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ],
   "title": "80% Power Switch",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,

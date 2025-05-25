@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/6JuZTOl",
   "lastUpdatedDate": 1747877958887,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/unloading station/"
+  ],
   "title": "Train Station",
   "favorites": {
     "G8a1gDMx5dRj7rOJ1MMa9EYvIz33": true,

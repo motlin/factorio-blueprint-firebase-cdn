@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/89bL5g4",
   "lastUpdatedDate": 1730380988588,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/2,0/"
+  ],
   "title": "Circuit Kovarex"
 }

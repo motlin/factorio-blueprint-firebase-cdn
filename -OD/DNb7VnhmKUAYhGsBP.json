@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2eZBa3R",
   "lastUpdatedDate": 1733260636849,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Dynamic Train Loading Requester",
   "favorites": {
     "4kRiQ8hochf7fd5LMBuh8bp7Cez1": true,

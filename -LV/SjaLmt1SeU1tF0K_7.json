@@ -2,14 +2,14 @@
   "createdDate": 1546687243805,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%20from%202019-01-05%2013-36-10.png?alt=media&token=9c53668a-9a96-4047-91ec-8400ae44ec1d",
   "lastUpdatedDate": 1546696030899,
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,16/",
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/other/"
+  ],
   "title": "Tileable Sulfuric Acid Outpost 0.16 (Early/Mid Game)",
   "favorites": {
     "PuElJsUlrbVfeRMLi3Qxa8sum7X2": true

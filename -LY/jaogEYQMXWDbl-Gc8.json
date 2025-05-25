@@ -10,11 +10,11 @@
   },
   "lastUpdatedDate": 1550208158569,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/version/0,15/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "author": {
     "userId": "cBljQ9df9GW7V9AliNfLOhPNBfL2"
   },

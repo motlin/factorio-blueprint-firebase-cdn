@@ -20,12 +20,12 @@
     "3L5ycMPaPGf8sv44CnEluEwk9gf2": true,
     "Ot9hwFiWw6S9MkrRuw5GXKDvPBy1": true
   },
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "7c8aYVJ9EQhfqIsFiyNGbytKF5B2"
   },

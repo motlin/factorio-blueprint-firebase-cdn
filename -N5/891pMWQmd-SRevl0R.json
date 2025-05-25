@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1655863520808,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "City block 4x4",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

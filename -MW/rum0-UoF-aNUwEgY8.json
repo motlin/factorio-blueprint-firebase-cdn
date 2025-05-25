@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616919712669,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Willsches Schlangensystem v0.1.0"
 }

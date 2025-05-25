@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1652802902313,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/"
+  ],
   "title": "Красные и зеленые колбы",
   "favorites": {
     "YnHQQcleRlZhe3wBfVDFjnBId7O2": true,

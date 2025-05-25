@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/pINQISz",
   "lastUpdatedDate": 1732293809981,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/compact/",
-    "4": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/compact/",
+    "/mods/space-age/"
+  ],
   "title": "Quality improver - productivity friendly",
   "favorites": {
     "esQzC0asR0V97voptvuP0MMwyIP2": true,

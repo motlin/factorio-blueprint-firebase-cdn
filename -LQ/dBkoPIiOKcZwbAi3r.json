@@ -5,11 +5,11 @@
     "height": 1512,
     "id": "37eZCZH"
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "W2G7cgDqhvV3FiwCKucGTlWOmDB2"
   },

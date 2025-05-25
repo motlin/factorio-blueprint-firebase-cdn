@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/1iun0lD",
   "lastUpdatedDate": 1730475976276,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/guns and ammo/"
+  ],
   "title": "Transport Ship factorio space age",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,

@@ -15,12 +15,12 @@
   "createdDate": 1598468983040,
   "descriptionMarkdown": "Optimized green science, nothing extra.",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/1,0/"
+  ],
   "title": "[WIP] Green Science Mk1",
   "favorites": {
     "QdUFwZAwjDf20uc8NmR3zT7dzRW2": true

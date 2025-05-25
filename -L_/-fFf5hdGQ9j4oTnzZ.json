@@ -8,11 +8,11 @@
   },
   "lastUpdatedDate": 1551568276237,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Quar's Smelting",
   "author": {
     "userId": "Dpao822gmUMHlnAiFtlAA14dovo1"

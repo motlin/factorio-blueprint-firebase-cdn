@@ -52,17 +52,17 @@
   },
   "lastUpdatedDate": 1524113808719,
   "numberOfFavorites": 62,
-  "tags": {
-    "5": "/train/right-hand-drive/",
-    "6": "/train/track/",
-    "7": "/general/mid game/",
-    "8": "/general/late game (megabase)/",
-    "1": "/version/0,15/",
-    "3": "/train/junction/",
-    "4": "/train/roundabout/",
-    "9": "/general/tileable/",
-    "0": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Kitch's Defense Book - 1.0"
 }

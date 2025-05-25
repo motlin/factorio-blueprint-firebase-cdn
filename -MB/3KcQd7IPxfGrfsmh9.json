@@ -39,14 +39,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/BTS%20Train%20Stations%20v0.4.png?alt=media&token=a7214ae4-24de-427c-8f07-1a5ca3d62017",
   "lastUpdatedDate": 1674440916904,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/mods/ltn/",
-    "6": "/mods/other/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/ltn/",
+    "/mods/other/"
+  ],
   "title": "[BTS] Modular train stations"
 }

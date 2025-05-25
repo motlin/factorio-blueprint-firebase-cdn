@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1662707493179,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/krastorio/",
-    "2": "/version/0,15/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/krastorio/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "Nuclear reactor 1.6 GW Krastorio 2"
 }

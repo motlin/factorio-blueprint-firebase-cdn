@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1634208773734,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/mods/angels/"
+  ],
   "title": "Seablock 181.5 MW fuel oil farm setup",
   "favorites": {
     "1JnuGI3XcYdMdQcvXLZGXuNqbDm1": true,

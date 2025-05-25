@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/YTs064L",
   "lastUpdatedDate": 1741146410158,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/transport drones/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/vanilla/",
+    "/mods/transport drones/"
+  ],
   "title": "Grab most quality item",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

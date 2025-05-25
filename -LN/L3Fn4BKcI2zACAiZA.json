@@ -19,10 +19,10 @@
     "id": "VdDGXDB",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/",
-    "3": "/general/ups friendly/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/ups friendly/"
+  ]
 }

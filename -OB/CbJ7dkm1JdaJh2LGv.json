@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/vv2G81d",
   "lastUpdatedDate": 1731101016438,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Early game platform, basic asteroid processing",
   "favorites": {
     "nnACLV1dMrYGtikghNF5sQNF6cH2": true,

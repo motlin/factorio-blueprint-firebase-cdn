@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1669932073028,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/version/1,0/",
-    "2": "/version/0,18/",
-    "3": "/mods/other/",
-    "4": "/production/modules/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/version/1,0/",
+    "/version/0,18/",
+    "/mods/other/",
+    "/production/modules/"
+  ],
   "title": "Advanced Modules production",
   "favorites": {
     "BHOFzpIGfiSVi8Atyhw1wYe1Lqo2": true

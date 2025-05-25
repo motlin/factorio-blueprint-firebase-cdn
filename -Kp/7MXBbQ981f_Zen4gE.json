@@ -3,12 +3,12 @@
   "authorId": "N4pcgAN70MOnKspYgS6w3xrZy8h2",
   "createdDate": 1500157715367,
   "fileName": "blue taible.png",
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blue%20taible.png?alt=media&token=9648045c-913f-4832-85a2-e3a8375b45c1",
   "lastUpdatedDate": 1500167896405,
   "numberOfFavorites": 4,

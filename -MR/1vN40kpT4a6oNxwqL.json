@@ -28,10 +28,10 @@
   },
   "lastUpdatedDate": 1639748023081,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/mall (make everything)/",
+    "/general/early game/"
+  ],
   "title": "Krastorio 2 first mall v0.1"
 }

@@ -12,12 +12,12 @@
   "descriptionMarkdown": "Originally shared [on YouTube here](https://www.youtube.com/watch?v=Van_JPkkJeo).\n\n> In this Factorio Workshop, Xterminator and Madzuri cover a new Solar Layout / Design made by Zuri with the new Factorio 0.15 Substation coverage. Each stamp generates about 4.3MW of power and is the perfect Solar Ratio of 0.84 Accumulators per panel.\n\nThis blueprint is just one \"tile\" but since it's a smaller blueprint than previous versions of the solar array, it may be more convenient to create your own 4-tile version of the blueprint.\n\n![4 tiles](https://imgur.com/vv9lxQLl.png)",
   "fileName": "☀️ MadZuri's Mk4 Solar Build.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E2%98%80%EF%B8%8F%20MadZuri's%20Mk4%20Solar%20Build.png?alt=media&token=b129870d-e1e2-4d62-b81f-37013537817b",
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "LpxV1Ie5hgWPX3rlum1aZEYXDy63": true,
     "1rjjfj5x2PRHrcLBWZcjpCq1Thq2": true,

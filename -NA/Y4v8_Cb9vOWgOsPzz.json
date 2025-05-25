@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1690658729648,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "3GW Power Plant"
 }

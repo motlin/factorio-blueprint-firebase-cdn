@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/wXVxKb6",
   "lastUpdatedDate": 1739237176671,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "PI controller to change the speed of space platforms based off the fuel reserves."
 }

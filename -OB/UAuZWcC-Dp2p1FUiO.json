@@ -13,16 +13,16 @@
   "imageUrl": "https://imgur.com/9GmJiB6",
   "lastUpdatedDate": 1731726628341,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/vanilla/",
-    "3": "/production/mining/",
-    "4": "/general/early game/",
-    "5": "/production/smelting/",
-    "6": "/power/accumulator/",
-    "7": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/vanilla/",
+    "/production/mining/",
+    "/general/early game/",
+    "/production/smelting/",
+    "/power/accumulator/",
+    "/power/solar/"
+  ],
   "title": "Nauvis Space Iron Mining",
   "favorites": {
     "a25GobB4QAeVyCccuBrllkfCSxG2": true,

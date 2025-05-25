@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1606637227926,
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/general/storage/",
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/chunk aligned/"
+  ],
   "title": "4 KiB RAM with 2-tick reads and 3-tick writes"
 }

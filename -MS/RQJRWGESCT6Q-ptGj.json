@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1641159248204,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Factorio Made to Measure Supply Trains",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

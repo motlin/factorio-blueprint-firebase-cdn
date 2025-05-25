@@ -13,17 +13,17 @@
   "imageUrl": "https://imgur.com/EVqj3xS",
   "lastUpdatedDate": 1729769872427,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/crossing/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/roundabout/",
-    "5": "/train/junction/",
-    "6": "/train/unloading station/",
-    "7": "/version/2,0/",
-    "8": "/mods/space-age/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/crossing/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/unloading station/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Goose's Basic Rails (2.0)",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

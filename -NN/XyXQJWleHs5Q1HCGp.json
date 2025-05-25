@@ -31,12 +31,12 @@
   },
   "lastUpdatedDate": 1676382166430,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/production/science/",
-    "2": "/power/nuclear/",
-    "3": "/mods/vanilla/",
-    "4": "/train/track/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/production/science/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "title": "64x64 City Blocks 200SPM"
 }

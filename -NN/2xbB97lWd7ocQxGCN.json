@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1704094757704,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/compact/",
-    "2": "/production/mall (make everything)/",
-    "3": "/version/1,1/",
-    "4": "/mods/vanilla/",
-    "5": "/production/other/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/compact/",
+    "/production/mall (make everything)/",
+    "/version/1,1/",
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "title": "Personal Equipment Mall",
   "favorites": {
     "dlmsscxJN8d3PN8uzDsdBxZzebg1": true,

@@ -19,11 +19,11 @@
     "width": 1290
   },
   "lastUpdatedDate": 1510956216113,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/version/0,15/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/version/0,15/",
+    "/general/late game (megabase)/"
+  ],
   "createdDate": 1510877452186,
   "descriptionMarkdown": "As the title says, a late-game setup for Advanced Circuits. It produces steady 2.4k/min and is entirely fed with bots.\n\nIt needs to be provided with:\n\n~ 5.8k Copper Plates\n\n~ 3.5k Plastic Bars\n\n~ 3.5k Green Circuits\n\nper minute, and needs about 300 bots to operate (@ worker robot speed 12)."
 }

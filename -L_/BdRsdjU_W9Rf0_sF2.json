@@ -16,7 +16,7 @@
   "authorId": "CzvFe3LZVYgMmz2tPrWK8jcOBOa2",
   "createdDate": 1551769128604,
   "descriptionMarkdown": "A gear factory, which can be controlled by logic network.\n\nRed wire : Asked gears <br>\nGreen wire : Iron required by factory",
-  "tags": {
-    "0": "/production/other/"
-  }
+  "tags": [
+    "/production/other/"
+  ]
 }

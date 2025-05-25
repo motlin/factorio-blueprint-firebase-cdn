@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/b947EoV",
   "lastUpdatedDate": 1732127643578,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Starter sorting system for scrap recycling results",
   "favorites": {
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,

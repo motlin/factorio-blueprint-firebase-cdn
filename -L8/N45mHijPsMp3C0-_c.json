@@ -16,9 +16,9 @@
   "authorId": "Eqca2g7kaAbHgjyyhGX6JncCC3F3",
   "descriptionMarkdown": "All you need to do is replace the combinators with the associated inputs. This should supply all the labs with every type of science.",
   "lastUpdatedDate": 1521897628793,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

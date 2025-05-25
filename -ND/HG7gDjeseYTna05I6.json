@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1694683240895,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/other/",
-    "2": "/general/beaconized/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/other/",
+    "/general/beaconized/",
+    "/version/1,1/"
+  ],
   "title": "[SE] Holmium Ingot Production (0.9/s, tileable)",
   "favorites": {
     "89VDiczuK0N3yQ3NTV1Sl0SjNtF3": true,

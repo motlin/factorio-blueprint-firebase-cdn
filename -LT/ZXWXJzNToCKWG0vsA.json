@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2019-11-14_13-04-05.png?alt=media&token=1d7780c9-cd77-448e-82b8-f33b36ed468f",
   "lastUpdatedDate": 1573742346414,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/version/0,17/"
+  ],
   "title": "Circuit 5600 Red"
 }

@@ -319,13 +319,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/NuE3V7d%5B1%5D.png?alt=media&token=132f35e9-786c-4ea0-8b4b-1e6275800f64",
   "lastUpdatedDate": 1680294534980,
   "numberOfFavorites": 537,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/train/right-hand-drive/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "5": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/chunk aligned/"
+  ],
   "title": "🛤️ Modular Rail Network"
 }

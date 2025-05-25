@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/wLKuu7j",
   "lastUpdatedDate": 1729910920398,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/"
+  ],
   "title": "Space Age Market vers. 2.0",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,

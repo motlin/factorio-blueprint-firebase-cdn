@@ -24,8 +24,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factory4.jpeg?alt=media&token=3e52fc00-64e2-4f68-8f24-3f6e2285e9fd",
   "lastUpdatedDate": 1576681711964,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Red Circuit Factory 4 belt output"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1647027892017,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Rocket Fuel Production",
   "favorites": {
     "YY7MjrW8UKewDHdc9kQ1McG9dq23": true

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/MMCNg5l",
   "lastUpdatedDate": 1740144301636,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/inserters/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/inserters/"
+  ],
   "title": "Mall 2.0 remake (by Pose)",
   "favorites": {
     "qA0NSFkNSqQx29wPlnlbaeu1yx73": true,

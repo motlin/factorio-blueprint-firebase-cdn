@@ -10,12 +10,12 @@
     "width": 1920
   },
   "numberOfFavorites": 36,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Smelting array 21k/min",
   "favorites": {
     "xCBpZdXAdZgfy555ezZv4gDjGy53": true,

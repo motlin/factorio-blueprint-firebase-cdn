@@ -1,12 +1,12 @@
 {
   "fileName": "Screenshot 2018-05-01 18.28.43.png",
   "lastUpdatedDate": 1525192439741,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/crossing/",
-    "2": "/train/junction/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "M5RBeMpEQoZI4bcAfCqJ3zu1kpn1"
   },

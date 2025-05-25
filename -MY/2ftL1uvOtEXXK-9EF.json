@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1647181796904,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "Double Nuclear Reactor by Dmetrey",
   "favorites": {
     "ZcUISxdrMqexa8r8KTUzpHGIZ7k1": true,

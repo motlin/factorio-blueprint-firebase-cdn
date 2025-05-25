@@ -7,12 +7,12 @@
     "width": 684
   },
   "lastUpdatedDate": 1528979228340,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "0": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/production/processing unit (blue)/"
+  ],
   "authorId": "BwuJdSVodFbqLTPILF7Pwg4bjWp2",
   "createdDate": 1528724266850,
   "descriptionMarkdown": ">### Version 1.01\n* ###### Tweaked an underground belt or two to correctly connect to further expansions.\n\nAs the title say's this production line can be scaled with ease to allow for easy production of processing units. The build relies upon in-house production of green circuits in the amounts required. This is good because it will relieve the use (and/or impending shortage) of green circuits on any main bus. I tried making the blueprint as ratio accurate as I could but some build up is inevitable.",

@@ -17,10 +17,10 @@
     "width": 583
   },
   "lastUpdatedDate": 1569433118337,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "O Junctions",
   "author": {
     "userId": "5nD12KAH3mWwh6Jw9rr7OtATv3C3"

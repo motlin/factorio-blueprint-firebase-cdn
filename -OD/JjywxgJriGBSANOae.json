@@ -32,8 +32,8 @@
   "imageUrl": "https://imgur.com/9uAPttr",
   "lastUpdatedDate": 1733367426957,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Legendary Iron Space Platform"
 }

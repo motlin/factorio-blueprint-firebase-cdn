@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1666005594350,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "title": "Blue circuit with input consume 4 belts of green circuits",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

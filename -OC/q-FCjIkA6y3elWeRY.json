@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/M05y9Cf",
   "lastUpdatedDate": 1732897553600,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/train/track/",
+    "/mods/space-age/"
+  ],
   "title": "SA Prints."
 }

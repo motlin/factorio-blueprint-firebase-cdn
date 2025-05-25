@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Power - Landfill",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Nuclear%20Landfill2.png?alt=media&token=ed4afa48-75da-4fdc-bdda-73a8e27788fa",
   "authorId": "q4Wic4uh2hSwwX7VD7NB5ezoWMA2",

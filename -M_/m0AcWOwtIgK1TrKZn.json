@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1680010483293,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Starter Base",
   "favorites": {
     "wIKhSDtasDWCGfZcGd5x9I5SGCk1": true,

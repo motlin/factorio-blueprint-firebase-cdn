@@ -21,9 +21,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2022-10-18_211420681.png?alt=media&token=6f45eeff-8c50-40fa-ad49-e0a8aad8da2a",
   "lastUpdatedDate": 1729160790553,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "Don's OnlyScience Zip (2024-08-08)"
 }

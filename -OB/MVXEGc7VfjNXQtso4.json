@@ -23,11 +23,11 @@
   "imageUrl": "https://imgur.com/i06U10T",
   "lastUpdatedDate": 1731269298331,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/version/2,0/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Elevated rails train city system"
 }

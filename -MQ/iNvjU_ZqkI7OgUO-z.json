@@ -23,11 +23,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202021-01-18%20205659.jpg?alt=media&token=020d99af-54f3-42b2-b083-2f3e99f40e21",
   "lastUpdatedDate": 1611076997513,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/power/nuclear/"
+  ],
   "title": "Tileable nuclear plant \"paladin\""
 }

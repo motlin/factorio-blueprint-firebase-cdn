@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1633972323478,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/train/loading station/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/loading station/",
+    "/version/1,0/"
+  ],
   "title": "loading trains on ID",
   "favorites": {
     "nXz8kWup0DX27Pt38nMMPLa42SC2": true

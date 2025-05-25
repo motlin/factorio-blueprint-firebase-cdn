@@ -60,10 +60,10 @@
   },
   "lastUpdatedDate": 1596990072459,
   "numberOfFavorites": 18,
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "All Smelters"
 }

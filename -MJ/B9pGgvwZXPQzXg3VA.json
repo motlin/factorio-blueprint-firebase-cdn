@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1639283795129,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Compact Beaconized Green Circuits",
   "favorites": {
     "Fw8NDPYrPQgsDxrAoTzdVCIEBSj1": true,

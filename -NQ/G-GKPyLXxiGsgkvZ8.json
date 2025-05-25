@@ -27,10 +27,10 @@
   },
   "lastUpdatedDate": 1690819071307,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/coal liquification/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/coal liquification/",
+    "/mods/vanilla/"
+  ],
   "title": "Oil Refining - No Mods"
 }

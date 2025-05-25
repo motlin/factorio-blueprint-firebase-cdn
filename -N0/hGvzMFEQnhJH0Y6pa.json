@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1651100860434,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Two minute timer",
   "favorites": {
     "4DV89kwrl8cSTMXPCzlwNXbIKiZ2": true,

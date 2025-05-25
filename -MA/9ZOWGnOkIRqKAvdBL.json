@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621527468302,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/general/tileable/"
+  ],
   "title": "Solar power - various tileable 0,84 ratio designs with up to 98,66% useful area.",
   "favorites": {
     "vY40YiYeHmcEpc60SAPB8106LWi2": true,

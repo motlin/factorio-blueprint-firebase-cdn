@@ -1,9 +1,9 @@
 {
   "createdDate": 1599708170770,
   "descriptionMarkdown": "Pretty good solar array, 50x100, .8409 ratio",
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar .8409",
   "favorites": {
     "eneIzgwqpqY1n6AGevPcf1vG6Nc2": true

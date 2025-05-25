@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1686472775430,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/angels/",
-    "2": "/mods/seablock/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/angels/",
+    "/mods/seablock/",
+    "/version/1,1/"
+  ],
   "title": "12.6 MW Power station. Seablock - Green Algae to Charcoal",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true

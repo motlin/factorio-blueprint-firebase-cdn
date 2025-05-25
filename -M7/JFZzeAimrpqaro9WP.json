@@ -43,13 +43,13 @@
   },
   "lastUpdatedDate": 1589477789751,
   "numberOfFavorites": 27,
-  "tags": {
-    "2": "/production/robots/",
-    "3": "/general/compact/",
-    "4": "/general/early game/",
-    "5": "/version/0,18/",
-    "0": "/production/science/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/compact/",
+    "/general/early game/",
+    "/version/0,18/",
+    "/production/science/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Bot Rush Base"
 }

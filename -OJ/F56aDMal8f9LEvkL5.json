@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/nkrhmVS",
   "lastUpdatedDate": 1741146517012,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/solar/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/solar/",
+    "/version/2,0/"
+  ],
   "title": "Starter spaceship",
   "favorites": {
     "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,

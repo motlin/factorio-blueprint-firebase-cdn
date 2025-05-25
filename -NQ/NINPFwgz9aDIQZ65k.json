@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1678667850015,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/factorissimo/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/factorissimo/",
+    "/mods/vanilla/"
+  ],
   "title": "Electric Smelting (Factorissimo & Vanilla) ",
   "favorites": {
     "wc2im6vcElVVfYGMgN1AFpygFi22": true,

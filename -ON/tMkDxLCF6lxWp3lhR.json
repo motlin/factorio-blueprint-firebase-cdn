@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/xyohqZc",
   "lastUpdatedDate": 1744719250715,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "Pacote científico de eletromagnetismo"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/It2V9ZA",
   "lastUpdatedDate": 1738282392864,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Item Counters Up to 999 999",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

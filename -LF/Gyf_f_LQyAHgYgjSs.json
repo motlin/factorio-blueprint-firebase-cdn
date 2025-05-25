@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1558301031086,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Blanced Ore Smelter Outpost"
 }

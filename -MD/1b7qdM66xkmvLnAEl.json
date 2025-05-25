@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1624615194192,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/junction/",
-    "2": "/train/track/",
-    "3": "/train/left-hand-drive/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/train/unloading station/"
+  ],
   "title": "Simple and effective rail network",
   "favorites": {
     "fgaHK7RyfjeV2HxJDa30FlAYpsk1": true,

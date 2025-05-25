@@ -31,8 +31,8 @@
   },
   "lastUpdatedDate": 1543965529716,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,16/"
+  ],
   "title": "N2_EARLYGAME"
 }

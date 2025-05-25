@@ -15,14 +15,14 @@
     "height": 1073
   },
   "lastUpdatedDate": 1523511436483,
-  "tags": {
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/version/0,16/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Kitch's Red Station Book - 1.0",
   "favorites": {
     "3W81lziJULPXcOPam3x4pANeE7g2": true,

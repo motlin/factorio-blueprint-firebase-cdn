@@ -14,10 +14,10 @@
   "lastUpdatedDate": 1722909751343,
   "numberOfFavorites": 0,
   "title": "Добыча бурами",
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "mW1ciOcur3OnUeP5KLaFvYBVhWG2": true,
     "w19f4hQVG8QHsslXp9mU8TrYSYY2": true

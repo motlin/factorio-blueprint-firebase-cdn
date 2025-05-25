@@ -22,13 +22,13 @@
   },
   "lastUpdatedDate": 1652929315411,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/general/tileable/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/version/0,15/"
+  ],
   "title": "Tileable 22.5 modules / min"
 }

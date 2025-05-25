@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1700899671772,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "Rocket Launch Site and Labs (1.3k SPM) Design / Blueprint",
   "favorites": {
     "FR7TRBC56QYPr1fgfSwEc3k0w3l2": true,

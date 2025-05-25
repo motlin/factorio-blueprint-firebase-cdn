@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1704202738272,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/train/crossing/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "title": "City Block with Rails",
   "favorites": {
     "AFls7kjUtpUGB1rknk2UJy3zgic2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/V7gu6XQ",
   "lastUpdatedDate": 1731260791604,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Tiny Player Transport",
   "favorites": {
     "G5UIO0pYDmddua4PvAuh7xG6m7A3": true,

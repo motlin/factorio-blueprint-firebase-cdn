@@ -14,10 +14,10 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1545945490935,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "favorites": {
     "SIune8tADRd1TGwhaXws0F3x1J32": true,
     "zGLww5gYBHa9ghv1rb4hx9EHbqF2": true,

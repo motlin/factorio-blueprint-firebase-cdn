@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/KxnMaxS",
   "lastUpdatedDate": 1742859125850,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "Train unloader",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

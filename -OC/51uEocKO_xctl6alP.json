@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/JyNdwA8",
   "lastUpdatedDate": 1732128982460,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/general/late game (megabase)/",
+    "/production/science/"
+  ],
   "title": "Promethium belt storage",
   "favorites": {
     "qcZbE9CbDlT9kVhDHAwNg0t3nbH3": true,

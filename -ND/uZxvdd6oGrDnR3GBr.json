@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698169208300,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/compact/"
+  ],
   "title": "Compact mining print",
   "favorites": {
     "GBZ2ove6fCZIdwnZFn0cxIEniBh2": true,

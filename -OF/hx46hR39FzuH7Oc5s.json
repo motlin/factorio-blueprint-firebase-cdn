@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/2L54uVe",
   "lastUpdatedDate": 1736089971799,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/",
-    "2": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Продвинутые схемы / Advanced Circuits",
   "favorites": {
     "BdsGh7evCEhWcyqedntT9Ya4rag2": true,

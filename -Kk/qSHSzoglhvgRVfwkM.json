@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_16.png?alt=media&token=2fab458d-3706-42ad-b8d0-a87842c7e8a8",
   "lastUpdatedDate": 1495942798229,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Scaleable Reactor Layout (current 3.04GW output)"
 }

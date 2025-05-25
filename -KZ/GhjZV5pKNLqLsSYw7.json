@@ -6,12 +6,12 @@
   "authorId": "WwanSHz6MaTe8mhQdh7CXogM8092",
   "createdDate": 1482060921392,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/GreenBeaconed.JPG?alt=media&token=5403065f-ce2e-4238-8142-7559524dc617",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Green Circuits, Beaconed",
   "favorites": {
     "3zF5GoMNnvfQzz4njSwohNnEBCI3": true

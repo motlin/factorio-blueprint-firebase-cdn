@@ -10,16 +10,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/buildEverything.PNG?alt=media&token=e68ac5e3-d6d2-4799-a3cd-aef64c3a7bf8",
   "lastUpdatedDate": 1504616410891,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/production/mall (make everything)/",
-    "3": "/production/other/",
-    "4": "/general/beaconized/",
-    "5": "/general/compact/",
-    "6": "/mods/vanilla/",
-    "7": "/version/0,15/",
-    "0": "/general/tileable/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/other/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/",
+    "/production/logistic (bot) based/"
+  ],
   "author": {
     "userId": "hWbOQOefVzT5bogh7Xlq98tALJS2"
   },

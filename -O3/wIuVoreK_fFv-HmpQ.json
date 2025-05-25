@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/IpGN32H",
   "lastUpdatedDate": 1723294590634,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/chunk aligned/"
+  ],
   "title": "Basic Smelter for Steel",
   "favorites": {
     "HeHa5MPVcrc74ANPJ8McHkQHKGE3": true,

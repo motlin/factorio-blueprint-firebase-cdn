@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/bVTYGda",
   "lastUpdatedDate": 1736674420176,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/planets/fulgora/"
+  ],
   "title": "Normal -> Epic Quality with EM",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

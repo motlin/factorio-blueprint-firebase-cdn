@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/kwmhZ7u",
   "lastUpdatedDate": 1733087550644,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-exploration/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-exploration/",
+    "/mods/space-age/"
+  ],
   "title": "Transport Ship",
   "favorites": {
     "yQD3k9GNwWRoZEA2Kh2Z2R1BDjH3": true,

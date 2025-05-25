@@ -22,9 +22,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/6x6_chunk_solar_field_v5_full.png?alt=media&token=3fcc9270-6a9e-4dbb-89c0-64060c413949",
   "lastUpdatedDate": 1578921359348,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "6x6 Chunks Solar/Acc field with near 23.8/20 ratio"
 }

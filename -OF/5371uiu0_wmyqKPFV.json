@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/3Deov4T",
   "lastUpdatedDate": 1735268612931,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Fusion Powered Cargo Aquilo Capable(400km/s)"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1650721007446,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/warehousing/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/warehousing/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "a big single row of steel smelteries that should be fed using processed fuel",
   "favorites": {
     "QdRYQzOrABV0fRWezdMxH9Ebdti2": true

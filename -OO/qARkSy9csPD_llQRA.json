@@ -17,11 +17,11 @@
   "imageUrl": "https://i.imgur.com/igcy287.png",
   "lastUpdatedDate": 1745739436042,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/power/steam/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/power/steam/"
+  ],
   "title": "19GW Nuclear Reactor Power"
 }

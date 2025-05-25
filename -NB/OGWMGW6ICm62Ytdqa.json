@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1662576367288,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "1-4 collar Trains",
   "favorites": {
     "j49Pn7VTRlWJs1bOjo6im2EEnpC3": true,

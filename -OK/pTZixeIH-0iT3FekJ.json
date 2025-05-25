@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/1UW3hNS",
   "lastUpdatedDate": 1741432703972,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/power/solar/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/power/solar/",
+    "/version/2,0/"
+  ],
   "title": "Basic Cargo Hauler",
   "favorites": {
     "nchtaBrTEoc0le9TM1Z6FU7v6Lk2": true,

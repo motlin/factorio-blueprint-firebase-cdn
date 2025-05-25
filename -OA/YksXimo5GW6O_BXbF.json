@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/aYhWSuf",
   "lastUpdatedDate": 1730398096212,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Gleba Base"
 }

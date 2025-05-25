@@ -65,14 +65,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_20170621220645_1.jpg?alt=media&token=c05b122a-3a79-4204-9b9d-c8eb8917c235",
   "lastUpdatedDate": 1498619882936,
   "numberOfFavorites": 71,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/",
-    "4": "/general/mid game/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Modular Nuclear Plant [160 MW to 1.4 GW]"
 }

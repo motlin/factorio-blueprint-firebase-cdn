@@ -9,11 +9,11 @@
     "width": 1144
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Supply for building outpost (auto)",
   "author": {
     "userId": "oFqnuTnk6YNTjcCvbFz7c23IYKs2"

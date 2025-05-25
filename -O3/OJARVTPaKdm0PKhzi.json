@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/cFu1lMl",
   "lastUpdatedDate": 1722706606125,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para robôs logísticos e de construção"
 }

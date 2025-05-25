@@ -23,10 +23,10 @@
     "type": "image/jpeg",
     "width": 1905
   },
-  "tags": {
-    "1": "/mods/krastorio/",
-    "2": "/mods/other/",
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/version/1,0/"
+  ],
   "title": "Greenhouse 90 60tree / sec"
 }

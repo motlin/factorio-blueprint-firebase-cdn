@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1617982023968,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/production/science/",
-    "3": "/production/mall (make everything)/",
-    "4": "/mods/krastorio/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/production/science/",
+    "/production/mall (make everything)/",
+    "/mods/krastorio/",
+    "/version/1,0/"
+  ],
   "title": "Krastorio 2 Mini Base",
   "favorites": {
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,

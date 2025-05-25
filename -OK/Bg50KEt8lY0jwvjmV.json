@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/7hOeygo",
   "lastUpdatedDate": 1741146502269,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/2,0/"
+  ],
   "title": "Iron throne 3"
 }

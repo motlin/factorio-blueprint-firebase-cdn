@@ -11,10 +11,10 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1582172034540,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/industrial revolution/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/industrial revolution/"
+  ],
   "title": "Industrial Revolution Integrating Smelting MK1 v1.0 (Copper)",
   "authorId": "34ahvkkFCedJb2c5pCo0UH0GLYu1",
   "createdDate": 1578756453264,

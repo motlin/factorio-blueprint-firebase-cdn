@@ -15,10 +15,10 @@
     "userId": "wNV0sR0FMJSn5PxJaYA3VcSqAUB2"
   },
   "title": "Panneau joyeux Noël",
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "createdDate": 1609079736093
 }

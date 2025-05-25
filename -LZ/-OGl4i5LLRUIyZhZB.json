@@ -9,10 +9,10 @@
   },
   "lastUpdatedDate": 1550489820488,
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "0.17 Science Designs",
   "author": {
     "userId": "yN2JQdYnmUWgcDh2b6s8pl7bJoJ2"

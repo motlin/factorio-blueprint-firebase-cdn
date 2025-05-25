@@ -26,11 +26,11 @@
     "width": 801
   },
   "lastUpdatedDate": 1673052202999,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,18/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,18/",
+    "/mods/space-exploration/"
+  ],
   "author": {
     "userId": "IKdRLqYHo0YUlYQ6P3mJEOFne7p2"
   },

@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "2": "/power/steam/",
-    "3": "/version/0,18/",
-    "0": "/mods/seablock/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/version/0,18/",
+    "/mods/seablock/",
+    "/mods/angels/"
+  ],
   "title": "Seablock [Early Game] Power Setup",
   "author": {
     "userId": "eflYMBUWK3Yu2yL26GM4BPKzX3n1"

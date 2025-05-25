@@ -37,13 +37,13 @@
     "width": 1208
   },
   "numberOfFavorites": 19,
-  "tags": {
-    "2": "/general/mid game/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/",
-    "5": "/production/belt based/",
-    "0": "/mods/vanilla/",
-    "1": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Compact and scalable refined concrete production"
 }

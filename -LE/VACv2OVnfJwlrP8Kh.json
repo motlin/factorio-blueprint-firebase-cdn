@@ -47,19 +47,19 @@
     "width": 956
   },
   "numberOfFavorites": 49,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/production/mall (make everything)/",
-    "4": "/mods/vanilla/",
-    "5": "/version/1,0/",
-    "6": "/version/0,18/",
-    "7": "/production/electronic circuit (green)/",
-    "8": "/production/belts/",
-    "9": "/production/smelting/",
-    "10": "/production/inserters/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/0,18/",
+    "/production/electronic circuit (green)/",
+    "/production/belts/",
+    "/production/smelting/",
+    "/production/inserters/"
+  ],
   "title": "Starter Base with Mini Mall",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202022-08-18%20134955.png?alt=media&token=39716218-b050-4b61-81d9-d55cf38bbdc7",
   "author": {

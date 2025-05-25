@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/J6e9pfy",
   "lastUpdatedDate": 1747234395321,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/coal liquification/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/coal liquification/",
+    "/general/beaconized/"
+  ],
   "title": "Cloudiboy’s Advanced Oil + Coal Liquefaction Combo",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

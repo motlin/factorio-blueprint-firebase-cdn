@@ -57,11 +57,11 @@
     "id": "CG5tB3Q",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "0.17.x Robot Smart Assembler",
   "author": {
     "userId": "0qW21pDfVkZXqxaoLod11jeCF5B2"

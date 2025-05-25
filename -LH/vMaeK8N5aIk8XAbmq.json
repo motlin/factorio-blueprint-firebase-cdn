@@ -12,11 +12,11 @@
   },
   "authorId": "008WLlTO6iRsbpzz5u1kypBlS7n2",
   "createdDate": 1532151884615,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Tilable SolarPanel with Roboport",
   "favorites": {
     "6Xpgd1GuF0MYRcGoG4IQ8KZc72l2": true

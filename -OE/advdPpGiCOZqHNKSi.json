@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/hLnmtsq",
   "lastUpdatedDate": 1734741599271,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "VanilLTN Paired Train Request System",
   "favorites": {
     "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,

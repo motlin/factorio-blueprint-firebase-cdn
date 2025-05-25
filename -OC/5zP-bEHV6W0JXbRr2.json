@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/eDt3ADm",
   "lastUpdatedDate": 1732378038831,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Nostalgia for Infinity"
 }

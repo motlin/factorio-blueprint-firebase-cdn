@@ -12,11 +12,11 @@
     "id": "VGZRPwS"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/tileable/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/production/other/"
+  ],
   "favorites": {
     "3W81lziJULPXcOPam3x4pANeE7g2": true,
     "iZLgeauJDGUVkJzmeG84taoTDVc2": true

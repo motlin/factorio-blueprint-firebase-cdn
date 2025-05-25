@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1666563827388,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "title": "slow item transport"
 }

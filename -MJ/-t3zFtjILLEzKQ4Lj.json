@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1631028793389,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "4-Lane, 4-Way Intersection",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true

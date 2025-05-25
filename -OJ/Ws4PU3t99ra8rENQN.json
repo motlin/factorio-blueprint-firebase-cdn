@@ -28,14 +28,14 @@
   "imageUrl": "https://imgur.com/DOCxFkX",
   "lastUpdatedDate": 1740030121686,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/space-age/",
-    "2": "/production/science/",
-    "3": "/planets/fulgora/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/compact/",
-    "6": "/version/2,0/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/space-age/",
+    "/production/science/",
+    "/planets/fulgora/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/version/2,0/"
+  ],
   "title": "Electromagnetic Science 17.5Kspm All in one."
 }

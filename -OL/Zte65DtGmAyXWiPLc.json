@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/bboZyKD",
   "lastUpdatedDate": 1742228333011,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Auto Recipe - Builds Own Supply from Recipe",
   "favorites": {
     "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,

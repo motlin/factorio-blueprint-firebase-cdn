@@ -2,9 +2,9 @@
   "descriptionMarkdown": "It's an automatic zone manager that can manage up to six zones.\nIt cycles through each of the zones, removing zoning that no longer contains resources, then automatically jumps to the next zone.\nConfigure your resources per zone in each of the six decider combinators to the right.",
   "lastUpdatedDate": 1573140569331,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/aai/"
+  ],
   "title": "This is an automatic zone manager that can manage up to six zones",
   "favorites": {
     "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,

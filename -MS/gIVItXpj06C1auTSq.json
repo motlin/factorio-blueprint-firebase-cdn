@@ -1,10 +1,10 @@
 {
   "fileName": "science frog.PNG",
   "lastUpdatedDate": 1612429789240,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "favorites": {
     "TBS8QZIU1yRWjUBRgYKtMty1wOA3": true
   },

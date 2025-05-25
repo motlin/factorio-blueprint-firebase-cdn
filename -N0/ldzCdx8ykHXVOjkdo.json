@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1651174273971,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Logistics Rocket Provider"
 }

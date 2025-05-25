@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1695488272698,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/transport drones/",
-    "1": "/mods/lighted-electric-poles/"
-  },
+  "tags": [
+    "/mods/transport drones/",
+    "/mods/lighted-electric-poles/"
+  ],
   "title": "Avenida Transport Drones",
   "favorites": {
     "lyPTlzDER9ei9oDJhzTCkoQHFY52": true,

@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1660755837248,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "title": "Red circuits"
 }

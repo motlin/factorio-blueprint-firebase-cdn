@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/soy1Qbu",
   "lastUpdatedDate": 1735870092776,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/version/0,15/"
+  ],
   "title": "Upgrade Planner",
   "favorites": {
     "UO9vDAYuXjelUNfZkJSEIcL9erl1": true,

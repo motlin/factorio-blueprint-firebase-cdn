@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1605398109347,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/version/1,0/"
+  ],
   "title": "5x2 Nuclear Reactor"
 }

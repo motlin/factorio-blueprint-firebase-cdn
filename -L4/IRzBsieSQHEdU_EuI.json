@@ -15,11 +15,11 @@
     "type": "image/jpeg",
     "width": 908
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/modules/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/modules/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Advanced smelting with speed modules 3 by Metames"
 }

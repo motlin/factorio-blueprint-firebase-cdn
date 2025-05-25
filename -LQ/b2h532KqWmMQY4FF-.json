@@ -55,15 +55,15 @@
   },
   "lastUpdatedDate": 1571366717260,
   "numberOfFavorites": 38,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/production/mall (make everything)/",
-    "3": "/production/rocket parts/",
-    "4": "/version/0,17/",
-    "5": "/mods/vanilla/",
-    "6": "/production/research (labs)/",
-    "7": "/power/nuclear/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/mall (make everything)/",
+    "/production/rocket parts/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/power/nuclear/",
+    "/production/science/"
+  ],
   "title": "Base, Mall, Science."
 }

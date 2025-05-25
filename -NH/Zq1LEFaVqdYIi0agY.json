@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1669384693626,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/belts/",
-    "2": "/production/plastic/",
-    "3": "/power/solar/",
-    "4": "/production/robots/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/belts/",
+    "/production/plastic/",
+    "/power/solar/",
+    "/production/robots/"
+  ],
   "title": "Late Game Gadgets"
 }

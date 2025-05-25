@@ -3,13 +3,13 @@
   "createdDate": 1527360796764,
   "descriptionMarkdown": "A linear, compact Assembling Machine 3 factory.\n\n- Input (Left to Right):\n  - Iron\n  - Green Circuits\n  - Iron\n  - Red Circuits\n\n\n- Output:\n  - As-is: ~5 / minute\n  - With improvements: ~12.6 / minute\n    - 4 Efficiency Mods/Assembler & 2 more Module Assemblers\n\n\n- Sub-optimal ratios\n  - Optimal:\n    - 5 Gears : 1 Tier 1/2 Assembler\n    - 15 Efficiency Modules : 1 Tier 3 Assembler\n  - Can be corrected for by:\n    - Adding Efficiency Modules to Gear and Module Assemblers\n    - Adding more Efficiency Module Assemblers (I didn't because of space limitations) \n\n\n- Based loosely on: https://factorioprints.com/view/-LAcRUBE5ATKdUv5_Q5P\n  - Considerably smaller\n  - Substations for less spaghetti wiring\n  - Onsite production of efficiency modules",
   "lastUpdatedDate": 1527360899437,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/belt based/",
-    "2": "/production/other/",
-    "3": "/version/0,15/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/production/other/",
+    "/version/0,15/",
+    "/general/compact/"
+  ],
   "favorites": {
     "WdN53sWf3adXPyDurm0oO5EfZ8G2": true,
     "25gyRctFMNW4I5ywiTd6zCrarVg2": true,

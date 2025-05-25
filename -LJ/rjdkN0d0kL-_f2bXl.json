@@ -7,14 +7,14 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "3": "/belt/transport belt (yellow)/",
-    "4": "/belt/fast transport belt (red)/",
-    "5": "/belt/express transport belt (blue)/",
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Plastic Tiered yellow, red, blue, beacon",
   "authorId": "CtE371ME1EdeqxYqI8CmBcuCBAs2",
   "createdDate": 1534238563444,

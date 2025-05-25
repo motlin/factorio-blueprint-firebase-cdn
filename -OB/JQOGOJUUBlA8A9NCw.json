@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/fZ5ETOe",
   "lastUpdatedDate": 1731214546205,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Pump out of platform engine prototype",
   "favorites": {
     "5aQNGj6xgTVQylmuwympV5zED6j1": true

@@ -42,15 +42,15 @@
   },
   "lastUpdatedDate": 1572735941576,
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/",
-    "2": "/general/compact/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/production/research (labs)/",
-    "6": "/general/mid game/",
-    "7": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Compact Science from Ore (Raw) (Almost 1/s)"
 }

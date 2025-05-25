@@ -10,12 +10,12 @@
   "lastUpdatedDate": 1554748957159,
   "numberOfFavorites": 1,
   "fileName": "Factorio Přejezd2.png",
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/crossing/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "wJTgxTSUSTW8pxP8gHJORPznqE52": true
   },

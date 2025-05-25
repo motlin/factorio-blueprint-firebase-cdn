@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/OujPsgM",
   "lastUpdatedDate": 1728503037991,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para pacote de teste de material (Exotics + S.E.)"
 }

@@ -17,14 +17,14 @@
     "height": 1968,
     "id": "YDVqoY8"
   },
-  "tags": {
-    "5": "/general/tileable/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/smelting/",
-    "3": "/version/0,17/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/version/0,17/",
+    "/general/compact/"
+  ],
   "createdDate": 1595193466617,
   "fileName": "steelfromore.png",
   "lastUpdatedDate": 1595193466617,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1694995541650,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/"
+  ],
   "title": "Green and Red Circuit Factory Book",
   "favorites": {
     "7ncA0VRG4ah5f9TnsL140z7pXVI2": true,

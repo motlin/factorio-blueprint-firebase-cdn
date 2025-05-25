@@ -1,14 +1,14 @@
 {
   "lastUpdatedDate": 1549058293195,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/robots/",
-    "4": "/version/0,15/",
-    "5": "/version/0,16/",
-    "6": "/general/compact/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/robots/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/general/compact/",
+    "/production/smelting/"
+  ],
   "title": "[AtomPB] Smelting Compact Robot 10k/ips - v1",
   "favorites": {
     "bLSNBxaDOhgPGALrThBBVL7PoVK2": true

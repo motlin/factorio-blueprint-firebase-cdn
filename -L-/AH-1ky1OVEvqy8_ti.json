@@ -6,11 +6,11 @@
     "width": 503
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/High%20Tech%20Blueprint.PNG?alt=media&token=158f7a54-a217-4739-bb51-ec0827e11670",
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/version/0,15/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,15/",
+    "/production/science/"
+  ],
   "title": "Science Megabook - All Tileable",
   "author": {
     "userId": "lYPwS1Xg7ZcRmOLTyHHtHceqzxf1"

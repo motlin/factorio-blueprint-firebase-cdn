@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/2l0nWTL",
   "lastUpdatedDate": 1736166360488,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "OS1-C Orbital Ore Station"
 }

@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Kovarex. U238 - U-235 На стальных сундуках и манипуляторах",
   "descriptionMarkdown": "Русский язык.\nПродвинутый быстрый старт обогащения U-238  в U-235 на сундуках и манипуляторах.\nПри накоплении 40 штук U-238, сразу запускает процесс \"Kovarex\".\nКопится автоматически.\nПри наработке следующих 40 штук U-238, сразу запускает следующий модуль.\n Допускается каскадное подключение модулей.\nНакопление наработанного материала в работающем модуле не происходит.\n Допускается и приветствуется пополнение системы новыми порциями U-235.\n==============\nEnglish language\nAdvanced quick U-238 enrichment start in U-235 chests and manipulators.\nWith the accumulation of 40 pieces of U-238, immediately starts the process of \"Kovarex\".\nAccumulated automatically.\nWhen the operating time of the next 40 pieces of U-238 immediately starts the next module.\n Cascadable modules.\nThe accumulation of the accumulated material in the module running occurs.\n Allowed and encouraged the completion of the new system of U-235 portions.\n",
   "fileName": "Kovarex-1.png",

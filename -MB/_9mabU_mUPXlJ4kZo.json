@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/mods/other/",
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/mall (make everything)/"
+  ],
   "createdDate": 1594056452697,
   "image": {
     "height": 1080,

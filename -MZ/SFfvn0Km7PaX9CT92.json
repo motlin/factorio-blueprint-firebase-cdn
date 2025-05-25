@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1619693584562,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/roundabout/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/left-hand-drive/",
+    "/train/roundabout/",
+    "/train/junction/"
+  ],
   "title": "Intersection Hub"
 }

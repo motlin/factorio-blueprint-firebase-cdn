@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1558387383155,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "HoozyX - LoneBook LinkWall & Simple Rail Network"
 }

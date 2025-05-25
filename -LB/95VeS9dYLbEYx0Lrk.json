@@ -127,12 +127,12 @@
   },
   "lastUpdatedDate": 1561133025665,
   "numberOfFavorites": 107,
-  "tags": {
-    "3": "/train/right-hand-drive/",
-    "4": "/mods/ltn/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/ltn/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/0,17/"
+  ],
   "title": "LTN Ore to Iron furnace outpost"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1663011919190,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/belts/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/belts/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Factorissimo Hub 1 belts & Inserters"
 }

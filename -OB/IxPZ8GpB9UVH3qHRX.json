@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/gBBVb0J",
   "lastUpdatedDate": 1731267063484,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/power/nuclear/",
-    "2": "/version/2,0/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/power/nuclear/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "1.3 GW Aquilo Fusion Reactor",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

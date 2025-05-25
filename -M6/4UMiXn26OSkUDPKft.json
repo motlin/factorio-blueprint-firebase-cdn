@@ -18,15 +18,15 @@
   },
   "lastUpdatedDate": 1588164255416,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/advanced circuit (red)/",
-    "4": "/production/modules/",
-    "5": "/train/right-hand-drive/",
-    "6": "/general/late game (megabase)/",
-    "7": "/general/beaconized/",
-    "0": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/modules/",
+    "/train/right-hand-drive/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/version/0,18/"
+  ],
   "title": "EC+AC+S1+P1 by Train"
 }

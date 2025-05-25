@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/I7hZi4F",
   "lastUpdatedDate": 1736579385391,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Rocket Engine + Speed Controller",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

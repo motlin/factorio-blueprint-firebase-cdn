@@ -19,11 +19,11 @@
     "width": 693
   },
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/power/solar/",
-    "2": "/general/mid game/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "0AEf6ulOUnTn2dzt5aTRv86mRk13"
   },

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1704757404837,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Uranium Bullets"
 }

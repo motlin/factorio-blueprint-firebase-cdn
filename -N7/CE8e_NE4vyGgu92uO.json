@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1658079452032,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Resource Buffer"
 }

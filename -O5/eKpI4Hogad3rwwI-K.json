@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/9Ymb7m9",
   "lastUpdatedDate": 1725139735950,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de resina e flores aliem (S.E. + Exotics)",
   "favorites": {
     "LmoxOLPkldWC0NMwnT2kpCcLdsn2": true

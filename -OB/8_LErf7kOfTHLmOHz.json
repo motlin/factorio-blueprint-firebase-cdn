@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/p5FEQ8J",
   "lastUpdatedDate": 1731032605847,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/oil processing/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/oil processing/",
+    "/version/2,0/"
+  ],
   "title": "Factorissimo T1: Advanced Oil Processing",
   "favorites": {
     "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,

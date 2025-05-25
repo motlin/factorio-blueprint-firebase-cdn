@@ -7,13 +7,13 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202019-02-04%20at%203.54.36%20PM.png?alt=media&token=b3fabf7b-b0d5-42e9-968c-8141733bf5cf",
   "lastUpdatedDate": 1549410826936,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/stacker/",
-    "3": "/version/0,16/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/stacker/",
+    "/version/0,16/",
+    "/train/right-hand-drive/"
+  ],
   "author": {
     "userId": "7pD8YiR4U8X8Mp2gZ2cjGwzfUPf2"
   },

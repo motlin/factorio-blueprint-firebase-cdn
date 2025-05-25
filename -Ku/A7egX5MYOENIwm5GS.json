@@ -3,11 +3,11 @@
   "fileName": "427520_screenshots_20170916163729_1.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_screenshots_20170916163729_1.jpg?alt=media&token=14e59d70-fd99-4941-ac16-a9a4bec518b9",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/general/late game (megabase)/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/general/late game (megabase)/",
+    "/version/0,15/"
+  ],
   "title": "Roboport & base expansion",
   "favorites": {
     "qZeMchEZzuXWhCGlg2v1wo4vcpz1": true

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1695240332056,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "title": "Centrifuge Kovarex Recycler"
 }

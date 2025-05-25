@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1706109601437,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Artistic Chemical Science",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot_2557607_1376x2816.png?alt=media&token=09970e13-5694-46f7-a671-04ff8480c3e5",
   "favorites": {

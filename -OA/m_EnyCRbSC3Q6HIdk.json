@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CMTjgPW",
   "lastUpdatedDate": 1730646703404,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Space Science Platform",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

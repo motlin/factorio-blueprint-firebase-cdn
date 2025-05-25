@@ -1,10 +1,10 @@
 {
   "fileName": "SW-amazon.png",
-  "tags": {
-    "1": "/train/unloading station/",
-    "2": "/production/logistic (bot) based/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
   "title": "Amazon delivery station",
   "author": {
     "userId": "mIcdQkAHfjU1Lj68yt8PozMUOBw1"

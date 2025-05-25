@@ -10,11 +10,11 @@
   },
   "lastUpdatedDate": 1513393378576,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "ObKEZ46NoncSigp6smXIiOAfY7s1"
   },

@@ -136,21 +136,21 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ska%CC%88rmavbild%202023-05-21%20kl.%2000.25.11.png?alt=media&token=b6df24c8-1f02-4f70-98e0-b971c1846dfa",
   "lastUpdatedDate": 1700331414115,
   "numberOfFavorites": 56,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/plastic/",
-    "2": "/production/guns and ammo/",
-    "3": "/production/inserters/",
-    "4": "/production/other/",
-    "5": "/production/coal liquification/",
-    "6": "/production/modules/",
-    "7": "/production/electronic circuit (green)/",
-    "8": "/production/advanced circuit (red)/",
-    "9": "/production/processing unit (blue)/",
-    "10": "/production/batteries/",
-    "11": "/production/rocket parts/",
-    "12": "/production/uranium/",
-    "13": "/production/belts/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/plastic/",
+    "/production/guns and ammo/",
+    "/production/inserters/",
+    "/production/other/",
+    "/production/coal liquification/",
+    "/production/modules/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/production/batteries/",
+    "/production/rocket parts/",
+    "/production/uranium/",
+    "/production/belts/"
+  ],
   "title": "Production Book"
 }

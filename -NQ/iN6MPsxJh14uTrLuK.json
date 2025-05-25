@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1679036544594,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "impoz modules "
 }

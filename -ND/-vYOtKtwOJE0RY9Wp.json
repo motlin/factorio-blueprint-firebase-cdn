@@ -20,13 +20,13 @@
   },
   "lastUpdatedDate": 1693306468202,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/crossing/",
-    "3": "/mods/space-exploration/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/tileable/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/mods/space-exploration/",
+    "/general/late game (megabase)/",
+    "/general/tileable/"
+  ],
   "title": "Cityblock for lategame SE + K2 Megabase"
 }

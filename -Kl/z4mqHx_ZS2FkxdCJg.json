@@ -3,10 +3,10 @@
   "descriptionMarkdown": "Logistic Train Network Station with Supply & Request in 1 Station with madzuri load balancer",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/LTN%20Station.png?alt=media&token=75aae9e3-e473-4b1a-8eba-8d39412421b0",
   "lastUpdatedDate": 1499429212253,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
     "zYt7ZiMLb5VGO2RDRdr6g2o2A772": true

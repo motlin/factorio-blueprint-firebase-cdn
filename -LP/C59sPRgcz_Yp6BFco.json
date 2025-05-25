@@ -20,9 +20,9 @@
   },
   "title": "Nanobots module for Modular Mall (0.17)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Nanobots.PNG?alt=media&token=9f2c4095-1b12-4a1b-8786-de88baf0ecf5",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/0,17/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/version/0,17/"
+  ]
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1633806778330,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "A blue belt of Rocket Control Units (2700/min).",
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true

@@ -13,10 +13,10 @@
     "id": "A0dWnnb",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "JCDu19n05zTsCABLNroLXCi7gtv2": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

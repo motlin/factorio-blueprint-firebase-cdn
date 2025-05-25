@@ -21,8 +21,8 @@
   "createdDate": 1600005624928,
   "lastUpdatedDate": 1600005624928,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "defence book"
 }

@@ -15,10 +15,10 @@
   "createdDate": 1594842216806,
   "fileName": "BeaconedKovarex.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "8eAJSB4bVWNdU9pSRF1Ha89m0eM2"
   },

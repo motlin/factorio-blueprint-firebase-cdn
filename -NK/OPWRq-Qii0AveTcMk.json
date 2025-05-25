@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1672242403339,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/krastorio/",
+    "/mods/other/"
+  ],
   "title": "Perfect ratio solar power 136MW/95.2MJ, 128x128 Grid",
   "favorites": {
     "rKXwycxs3APymiQr644tYwfnKPG3": true,

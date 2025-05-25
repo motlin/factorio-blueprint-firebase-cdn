@@ -23,10 +23,10 @@
   "imageUrl": "https://imgur.com/rBkqzLu",
   "lastUpdatedDate": 1735137338892,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/",
-    "2": "/general/art/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/",
+    "/general/art/"
+  ],
   "title": "Christmas Tree"
 }

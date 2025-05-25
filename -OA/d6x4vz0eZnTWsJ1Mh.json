@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/IZayBF6",
   "lastUpdatedDate": 1730488029668,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/",
-    "3": "/production/guns and ammo/",
-    "4": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/production/guns and ammo/",
+    "/power/nuclear/"
+  ],
   "title": "Aquilo Self Sustain Space Platform / Spaceship",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

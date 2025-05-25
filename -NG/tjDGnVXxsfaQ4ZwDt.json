@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697480808713,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/nuclear/"
+  ],
   "title": "Обогащение Урана",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%201.1.91%2016.10.2023%2021_09_51.png?alt=media&token=25aa1f14-56bc-48f9-8367-e7efa0e7caff",
   "favorites": {

@@ -12,11 +12,11 @@
     "width": 688
   },
   "lastUpdatedDate": 1504616093519,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Roundabout",
   "descriptionMarkdown": "Roundabout",
   "fileName": "Screenshot_2.png",

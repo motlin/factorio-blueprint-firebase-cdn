@@ -22,8 +22,8 @@
   },
   "lastUpdatedDate": 1655499640295,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/tileable/"
+  ],
   "title": "Modular wall (book)"
 }

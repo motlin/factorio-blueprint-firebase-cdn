@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1698072215981,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Plano inicial",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true

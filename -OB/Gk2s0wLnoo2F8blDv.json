@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Kw5E1DF",
   "lastUpdatedDate": 1731456357315,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/beaconized/"
+  ],
   "title": "lazy port grid beacon support crafter",
   "favorites": {
     "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,

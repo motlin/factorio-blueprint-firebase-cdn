@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/DimLqig",
   "lastUpdatedDate": 1731016876482,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/mods/space-age/",
-    "2": "/production/oil processing/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/mods/space-age/",
+    "/production/oil processing/"
+  ],
   "title": "Aquilo Rocket Fuel",
   "favorites": {
     "zLcY31ks1sTvLNZI9FwwGBHT7o43": true,

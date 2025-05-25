@@ -41,12 +41,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2021-11-08_195316.png?alt=media&token=e1c4378a-27e2-4ef5-b95c-005d74aced76",
   "lastUpdatedDate": 1680010679972,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/tileable/",
-    "2": "/mods/other/",
-    "3": "/production/rocket parts/",
-    "4": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/other/",
+    "/production/rocket parts/",
+    "/mods/space-exploration/"
+  ],
   "title": "[SE] Don's Tilable's for Space Exploration "
 }

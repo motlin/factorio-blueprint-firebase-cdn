@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623774111631,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/balancer/",
-    "3": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "鉄鉱石to鋼鉄版 精錬ライン"
 }

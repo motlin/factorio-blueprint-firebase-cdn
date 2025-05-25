@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1702404662384,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/compact/",
-    "6": "/general/storage/",
-    "7": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/general/storage/",
+    "/production/guns and ammo/"
+  ],
   "title": "Centro de armamento modular para la versión vainilla",
   "favorites": {
     "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,

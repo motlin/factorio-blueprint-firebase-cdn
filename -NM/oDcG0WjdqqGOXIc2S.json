@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1703830858449,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Smart train station book",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

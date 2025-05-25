@@ -13,13 +13,13 @@
   },
   "lastUpdatedDate": 1534795598480,
   "numberOfFavorites": 16,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/production/oil processing/",
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/production/oil processing/",
+    "/production/plastic/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "Aj68ub3p5Eg3XFJ7ZLIVF9vftnS2": true,
     "UQiHAZCXXOcm5pHZSLFr8S6eb9i2": true,

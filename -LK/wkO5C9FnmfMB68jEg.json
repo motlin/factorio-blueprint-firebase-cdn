@@ -5,10 +5,10 @@
     "id": "3JVBRAh",
     "type": "image/jpeg"
   },
-  "tags": {
-    "1": "/power/nuclear/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,16/"
+  ],
   "title": "Nuclear Reactor Control v2",
   "fileName": "20180827204731_1.jpg",
   "lastUpdatedDate": 1536339564677,

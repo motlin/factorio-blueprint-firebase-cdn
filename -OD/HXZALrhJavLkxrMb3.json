@@ -22,8 +22,8 @@
   "imageUrl": "https://imgur.com/vaoSryl",
   "lastUpdatedDate": 1734439291501,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Моя книжка, для себя"
 }

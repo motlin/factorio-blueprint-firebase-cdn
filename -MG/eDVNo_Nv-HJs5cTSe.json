@@ -20,10 +20,10 @@
     "id": "OAGVvK7",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/1,0/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/1,0/",
+    "/mods/other/"
+  ],
   "title": "Bio Industries - Bio-sulfuric acid Weave (tileable)"
 }

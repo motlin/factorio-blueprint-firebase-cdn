@@ -1,13 +1,13 @@
 {
   "lastUpdatedDate": 1609750273775,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/smelting/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/general/late game (megabase)/"
+  ],
   "authorId": "bNNt1uynEdX9V6tTMtKuKurnyZZ2",
   "createdDate": 1609750273775,
   "fileName": "Mega Smelter.png",

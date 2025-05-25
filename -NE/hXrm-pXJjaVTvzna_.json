@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1666137685250,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/other/",
-    "2": "/mods/aai/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/other/",
+    "/mods/aai/"
+  ],
   "title": "SE Copper Ingot Production",
   "favorites": {
     "rYseOJtdblXP7w2OxLLlAYfBwRg1": true

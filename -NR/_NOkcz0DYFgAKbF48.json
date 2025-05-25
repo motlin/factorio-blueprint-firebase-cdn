@@ -19,17 +19,17 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Minibuses.jpg?alt=media&token=19e0459d-eb71-4aea-8dbc-96a61a92e1b5",
   "lastUpdatedDate": 1679959450097,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/production/electronic circuit (green)/",
-    "4": "/production/processing unit (blue)/",
-    "5": "/production/belt based/",
-    "6": "/production/oil processing/",
-    "7": "/production/rocket parts/",
-    "8": "/production/plastic/",
-    "9": "/production/modules/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/electronic circuit (green)/",
+    "/production/processing unit (blue)/",
+    "/production/belt based/",
+    "/production/oil processing/",
+    "/production/rocket parts/",
+    "/production/plastic/",
+    "/production/modules/"
+  ],
   "title": "Minibus Lasagna"
 }

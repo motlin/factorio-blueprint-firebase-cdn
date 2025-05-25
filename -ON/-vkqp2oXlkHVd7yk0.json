@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/XAqjXOI.png",
   "lastUpdatedDate": 1743772389044,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/space-age/"
+  ],
   "title": "ALL THE GAMBLING",
   "favorites": {
     "Rl6CICs726S4403veEi3cEfgPoH2": true,

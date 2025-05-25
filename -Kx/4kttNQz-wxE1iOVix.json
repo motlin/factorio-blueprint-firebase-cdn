@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1508703969244,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/plastic/",
-    "2": "/general/late game (megabase)/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/plastic/",
+    "/general/late game (megabase)/",
+    "/version/0,15/"
+  ],
   "title": "Refinery train based"
 }

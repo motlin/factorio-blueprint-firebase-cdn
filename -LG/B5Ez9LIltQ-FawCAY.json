@@ -34,16 +34,16 @@
   },
   "lastUpdatedDate": 1559368145618,
   "numberOfFavorites": 17,
-  "tags": {
-    "1": "/train/unloading station/",
-    "2": "/version/0,17/",
-    "6": "/train/junction/",
-    "7": "/mods/other/",
-    "0": "/mods/ltn/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/production/electronic circuit (green)/",
-    "5": "/production/advanced circuit (red)/",
-    "8": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,17/",
+    "/train/junction/",
+    "/mods/other/",
+    "/mods/ltn/",
+    "/belt/express transport belt (blue)/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/train/roundabout/"
+  ],
   "title": "6 Station LTN Bus Unloader"
 }

@@ -9,9 +9,9 @@
   "createdDate": 1597690928623,
   "descriptionMarkdown": "Steel smelting with electric furnace (convertible from stone/steel furnaces)",
   "lastUpdatedDate": 1597690928623,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "author": {
     "userId": "LR0iHzVIkVb9bIxx9DLDY8LNTt62"
   },

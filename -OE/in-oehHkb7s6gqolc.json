@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/htG05pE",
   "lastUpdatedDate": 1735535527121,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Compact Quality Sorter/Buffer",
   "favorites": {
     "I6YX1Ar1cWUwhbQgMcW4nyZkDs52": true,

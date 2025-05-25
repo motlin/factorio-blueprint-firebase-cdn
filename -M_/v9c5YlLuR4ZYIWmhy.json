@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1621269054114,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/smelting/",
-    "2": "/version/1,0/",
-    "3": "/mods/krastorio/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/smelting/",
+    "/version/1,0/",
+    "/mods/krastorio/"
+  ],
   "title": "Basic Smelting",
   "favorites": {
     "K8o6xlCL8RMM1DcXfuNDYl1hVTF3": true,

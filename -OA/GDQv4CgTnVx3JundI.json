@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/xYcmgV4",
   "lastUpdatedDate": 1730249250305,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Early/Midgame Spaceship",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dZrded9",
   "lastUpdatedDate": 1717416623039,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "80MW Gas power w filters K2+SE",
   "favorites": {
     "RMpS8VqCO3QCPWkDFzQSFflLOy63": true,

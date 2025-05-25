@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/raD0F8q",
   "lastUpdatedDate": 1730059571378,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "2.0 Fuel Saving Nuclear Reactor (1.4GW)",
   "favorites": {
     "K8fF7roqYVbZadZT4UsrxnnYkkY2": true,

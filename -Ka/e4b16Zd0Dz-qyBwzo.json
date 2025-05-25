@@ -13,12 +13,12 @@
     "width": 381
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Beaconed%20Blue%20Circuit.png?alt=media&token=08edd6f5-01e5-4921-befe-88cb2305230a",
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "3BNc6O52hROTajo7h3JEhcK14GN2"
   },

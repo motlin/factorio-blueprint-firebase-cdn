@@ -19,8 +19,8 @@
   "imageUrl": "https://imgur.com/uhNWYYT",
   "lastUpdatedDate": 1745443166717,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Kbol Smelter book"
 }

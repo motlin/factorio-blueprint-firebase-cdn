@@ -17,9 +17,9 @@
   "numberOfFavorites": 0,
   "title": "Biasi's Furnace",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/chrome_bKpGJNNo38.jpg?alt=media&token=5d1759c8-9bb9-47aa-a72a-5ae543d504c2",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ]
 }

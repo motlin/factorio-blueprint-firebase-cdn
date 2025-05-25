@@ -1,10 +1,10 @@
 {
   "fileName": "screenshot-tick-20973280.png",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "IaoRzzH5QUOuCLKFn5b2uqCaSuz2"
   },

@@ -19,10 +19,10 @@
   "imageUrl": "https://imgur.com/3XkPY7G",
   "lastUpdatedDate": 1731267120694,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Deep space space platform"
 }

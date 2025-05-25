@@ -30,11 +30,11 @@
   },
   "lastUpdatedDate": 1613469373027,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/power/nuclear/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "title": "Blocks 006: Nuclear reactor 2x8"
 }

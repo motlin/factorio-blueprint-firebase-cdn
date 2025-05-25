@@ -25,11 +25,11 @@
   "fileName": "red-and-green-science.png",
   "authorId": "McXh16YfVRR77eBC91sdjwGXXSt2",
   "lastUpdatedDate": 1513551493225,
-  "tags": {
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/",
-    "0": "/production/research (labs)/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/production/science/"
+  ],
   "title": "Research – Science Pack 1 and 2"
 }

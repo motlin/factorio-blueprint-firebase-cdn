@@ -16,11 +16,11 @@
   "createdDate": 1523308255835,
   "fileName": "depot.png",
   "numberOfFavorites": 22,
-  "tags": {
-    "2": "/train/pax/",
-    "0": "/train/stacker/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/train/stacker/",
+    "/train/roundabout/"
+  ],
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,

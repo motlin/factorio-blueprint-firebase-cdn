@@ -7,13 +7,13 @@
     "type": "image/png",
     "width": 1632
   },
-  "tags": {
-    "1": "/train/junction/",
-    "2": "/general/chunk aligned/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/right-hand-drive/"
+  ],
   "author": {
     "userId": "Van39hhfMBewyp3OnNyYmLCzKGx2"
   },

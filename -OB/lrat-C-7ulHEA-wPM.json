@@ -186,15 +186,15 @@
   "imageUrl": "https://imgur.com/lqsr9V6",
   "lastUpdatedDate": 1744800380050,
   "numberOfFavorites": 94,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/rocket parts/",
-    "2": "/general/mid game/",
-    "3": "/production/other/",
-    "4": "/mods/space-age/",
-    "5": "/mods/vanilla/",
-    "6": "/production/plastic/",
-    "7": "/production/science/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/rocket parts/",
+    "/general/mid game/",
+    "/production/other/",
+    "/mods/space-age/",
+    "/mods/vanilla/",
+    "/production/plastic/",
+    "/production/science/"
+  ],
   "title": "GLEBA - Modular Spoil Based Factory "
 }

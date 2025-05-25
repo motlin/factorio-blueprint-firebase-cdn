@@ -10,12 +10,12 @@
   "authorId": "mkAaYdf2ayVkypb3jA6aAI0wwC53",
   "createdDate": 1511601064975,
   "descriptionMarkdown": "###EN###<br>\nThe most miniature factory for the production of Scientific Packages (yellow). Also, all assembly machines are timed to ensure there are no delays.\n<br><br>\n###RU###<br>\nСамая миниатюрная фабрика по производству Научных Пакетов (желтых). Также все сборочные автоматы рассчитаны по времени, чтобы не было задержек.",
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "MICRO NP YELLOW 6",
   "author": {
     "userId": "mkAaYdf2ayVkypb3jA6aAI0wwC53"

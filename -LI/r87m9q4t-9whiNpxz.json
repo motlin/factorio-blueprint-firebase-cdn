@@ -3,9 +3,9 @@
     "userId": "5NawvlznLyTpuRxH7eBuLuAHCm42"
   },
   "descriptionMarkdown": "My first go at laying out a 2x2 nuclear setup with fractally arranged heat exchangers",
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "2x2 Fractal Nuclear",
   "image": {
     "type": "image/jpeg",

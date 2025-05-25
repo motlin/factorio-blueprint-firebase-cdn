@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1617047045842,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/crossing/",
-    "2": "/train/unloading station/",
-    "3": "/train/roundabout/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/crossing/",
+    "/train/unloading station/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Railway book",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2refd.PNG?alt=media&token=20ced39b-2163-431c-9752-d10d494e3887",
   "favorites": {

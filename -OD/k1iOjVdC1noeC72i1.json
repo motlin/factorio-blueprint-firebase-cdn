@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Pdz9uT1",
   "lastUpdatedDate": 1733825324824,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/space-age/",
-    "2": "/mods/elevated-rails/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/space-age/",
+    "/mods/elevated-rails/"
+  ],
   "title": "Space Age Simple Train Junctions",
   "favorites": {
     "BVYeVGmbA4Yhtuq4xbvYGIOc5dU2": true,

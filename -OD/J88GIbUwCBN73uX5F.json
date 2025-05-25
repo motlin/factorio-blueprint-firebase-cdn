@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/arN53dL",
   "lastUpdatedDate": 1733357245706,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-exploration/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-exploration/",
+    "/mods/quality/"
+  ],
   "title": "Chunk Miner"
 }

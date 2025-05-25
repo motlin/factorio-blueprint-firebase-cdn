@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ygMr43d",
   "lastUpdatedDate": 1733801801704,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/general/tileable/"
+  ],
   "title": "Equidistance Roboports",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

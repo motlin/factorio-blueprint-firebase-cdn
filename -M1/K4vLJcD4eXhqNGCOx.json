@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Science 1 & 2 [1.5 per second]",
   "author": {
     "userId": "ty1ynaUnQZWpn6ZZ5RZ0hnkMRq43"

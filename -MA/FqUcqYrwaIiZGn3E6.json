@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1592641846356,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Railworld Blueprints #10"
 }

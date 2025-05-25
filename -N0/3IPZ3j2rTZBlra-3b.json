@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1650413382097,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Wood Disposal",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true

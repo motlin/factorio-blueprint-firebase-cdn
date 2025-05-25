@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1640856304722,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/train/crossing/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "title": "3 Lane roundabout",
   "favorites": {
     "0UEG3qrxRjcH1XvP6cOZgV3CQYJ2": true

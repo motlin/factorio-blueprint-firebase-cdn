@@ -21,13 +21,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_screenshots_20170916170625_1.jpg?alt=media&token=37ee4f40-da2c-4647-b0b0-a34270106d2f",
   "lastUpdatedDate": 1553354882822,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/logistic (bot) based/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Iron Stacker "
 }

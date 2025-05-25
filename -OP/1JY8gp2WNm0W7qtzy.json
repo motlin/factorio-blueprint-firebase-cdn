@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3lkpGOw",
   "lastUpdatedDate": 1745943144010,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Centros de fabricación (HUB) iniciales"
 }

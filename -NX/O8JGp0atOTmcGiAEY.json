@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1686196619817,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/production/rocket parts/",
-    "2": "/production/science/",
-    "3": "/train/junction/",
-    "4": "/train/roundabout/",
-    "5": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/general/beaconized/"
+  ],
   "title": "Bob's Mods (Grand Science Station)"
 }

@@ -27,9 +27,9 @@
   },
   "lastUpdatedDate": 1573056923577,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/roundabout/"
+  ],
   "author": {
     "userId": "iBPqNDNjuVSc5p5HOllsm4C8TZc2"
   }

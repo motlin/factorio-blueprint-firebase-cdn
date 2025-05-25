@@ -2,11 +2,11 @@
   "descriptionMarkdown": "Power system for one reactor. Manual refill",
   "fileName": "Single Reactor Power System.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "N8lIi0dTEWdpR3t3YgM2mWcScCD2"
   },

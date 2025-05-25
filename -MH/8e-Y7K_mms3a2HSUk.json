@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1600037325900,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "All Circuits from RAW w/ Trains"
 }

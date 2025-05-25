@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1655976474715,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/ltn/"
+  ],
   "authorId": "eLc1BEw4qwUHSlq3nkofOEz9Xx02",
   "title": "Modular LTN station",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/chrome_8Tsb0DJ7Ud.png?alt=media&token=36647da1-9d79-492b-a43a-c1165a30c3e5"

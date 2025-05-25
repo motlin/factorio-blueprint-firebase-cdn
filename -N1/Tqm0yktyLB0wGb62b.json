@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651932605018,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Дроны и КМП",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1513713483983,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ],
   "title": "Villfuk02's Computer"
 }

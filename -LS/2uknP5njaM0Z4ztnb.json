@@ -15,9 +15,9 @@
     "width": 1920
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "title": "Kovarex Enrichment",
   "author": {
     "userId": "Z5q1ALtsH3e1m0FmmwwnGmdng0C3"

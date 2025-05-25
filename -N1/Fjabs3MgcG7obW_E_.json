@@ -30,15 +30,15 @@
   },
   "lastUpdatedDate": 1651696383749,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/version/0,18/",
-    "2": "/version/0,17/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/train/loading station/",
-    "6": "/train/unloading station/",
-    "7": "/train/pax/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/version/0,18/",
+    "/version/0,17/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/pax/"
+  ],
   "title": "Supply / fuel / trash train system v8.0 (2022)"
 }

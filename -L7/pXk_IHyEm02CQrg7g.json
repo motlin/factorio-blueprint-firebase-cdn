@@ -14,11 +14,11 @@
     "userId": "v1SeQRdbZbVIHdqTD9XgXVpK98S2"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/smelting/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Semiperfect Belt Smelting Array",
   "createdDate": 1521316727349
 }

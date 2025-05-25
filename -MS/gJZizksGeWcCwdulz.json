@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1612430068806,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "title": "Train track crossings"
 }

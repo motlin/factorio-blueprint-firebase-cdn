@@ -29,13 +29,13 @@
   },
   "lastUpdatedDate": 1671259142745,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/version/0,15/",
-    "5": "/train/track/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/version/0,15/",
+    "/train/track/"
+  ],
   "title": "All of the Worlds Logistics"
 }

@@ -1,9 +1,9 @@
 {
   "descriptionMarkdown": "Belt Busses\nIcon1: Yellow/Red/Blue\nIcon2: 2/4/8 Lanes\nIcon3: L(eft)/R(ight)/White=Short/Grey=Long",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Bus_124____",
   "favorites": {
     "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,

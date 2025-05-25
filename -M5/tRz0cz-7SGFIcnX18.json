@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1589245912689,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Easy Outposts"
 }

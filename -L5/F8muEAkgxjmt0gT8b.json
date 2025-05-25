@@ -16,10 +16,10 @@
   },
   "fileName": "kovarex.JPG",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1652274130235,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/general/early game/",
-    "2": "/mods/krastorio/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/general/early game/",
+    "/mods/krastorio/",
+    "/general/tileable/"
+  ],
   "title": "Krastorio 2 Greenhouse Power Early Game no pollution (exactly 2x2 chunks)",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

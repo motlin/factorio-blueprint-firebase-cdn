@@ -17,7 +17,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/170915-factorio-reddit-connect_steam_network_circuit-XrdyoUx.png?alt=media&token=78ddfd83-dd9e-49d9-8c6a-c28a88421b9b",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  }
+  "tags": [
+    "/mods/vanilla/"
+  ]
 }

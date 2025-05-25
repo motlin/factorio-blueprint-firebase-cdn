@@ -17,11 +17,11 @@
   },
   "authorId": "jfpD6csp9QQzEcyHpAS7LuhyEaQ2",
   "fileName": "Annotation 2020-04-26 191440.png",
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/rocket parts/"
+  ],
   "createdDate": 1587953770937,
   "descriptionMarkdown": "Production of the chemical intermediates in either full of half belts"
 }

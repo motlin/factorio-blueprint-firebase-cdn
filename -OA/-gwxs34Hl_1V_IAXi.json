@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/6r4o2iY",
   "lastUpdatedDate": 1730026061277,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de enxofre T2 vers. 2.0 (Exotics + S.E.)"
 }

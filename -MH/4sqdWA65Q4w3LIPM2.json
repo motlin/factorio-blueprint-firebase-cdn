@@ -34,10 +34,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Circuit-City-Block-s.jpg?alt=media&token=3bf1fd40-cd5c-470d-8822-eeccea0ae935",
   "lastUpdatedDate": 1632724995049,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/advanced circuit (red)/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Circuit City Block"
 }

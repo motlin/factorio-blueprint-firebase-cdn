@@ -1,11 +1,11 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017.05.07-01.33.png?alt=media&token=77c8524f-c52b-4241-bad7-53528b42705c",
   "lastUpdatedDate": 1498620265615,
-  "tags": {
-    "2": "/version/0,14/",
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,14/",
+    "/production/guns and ammo/",
+    "/mods/vanilla/"
+  ],
   "title": "Battlebots",
   "author": {
     "userId": "ddEGs4a0W8PuSrEYSZJ35nkztvq2"

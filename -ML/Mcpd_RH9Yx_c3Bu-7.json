@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1633557895856,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "2x5 1.44 GW symmetrical reactor. \"Gemini\""
 }

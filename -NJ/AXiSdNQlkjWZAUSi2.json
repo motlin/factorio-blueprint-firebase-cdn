@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1699927060787,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/ups friendly/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/ups friendly/"
+  ],
   "title": "Zisteau's nuclear reactor heatpipe blueprints."
 }

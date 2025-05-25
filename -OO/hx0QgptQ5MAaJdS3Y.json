@@ -27,9 +27,9 @@
   "imageUrl": "https://imgur.com/7T7YMjB",
   "lastUpdatedDate": 1747234351112,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/"
+  ],
   "title": "9k science / min"
 }

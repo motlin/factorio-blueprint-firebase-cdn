@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1554827942860,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/uranium/"
+  ],
   "title": "Paks 2 atomreactor"
 }

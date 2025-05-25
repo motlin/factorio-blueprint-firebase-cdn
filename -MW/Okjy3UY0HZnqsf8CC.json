@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1645404684358,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Conway's Game of Life by DaviAMSilva",
   "favorites": {
     "IAJ9hnewZYRKgcaDUg8KYIKvU333": true

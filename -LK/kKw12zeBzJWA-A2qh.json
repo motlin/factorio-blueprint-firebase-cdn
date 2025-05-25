@@ -27,12 +27,12 @@
   },
   "lastUpdatedDate": 1535188975837,
   "numberOfFavorites": 41,
-  "tags": {
-    "1": "/production/rocket parts/",
-    "2": "/general/beaconized/",
-    "3": "/general/compact/",
-    "4": "/production/research (labs)/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/production/research (labs)/",
+    "/production/science/"
+  ],
   "title": "250 Science per minute compact base"
 }

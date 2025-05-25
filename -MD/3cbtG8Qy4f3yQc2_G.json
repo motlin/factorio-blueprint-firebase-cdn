@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1624649736548,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/",
+    "/train/junction/"
+  ],
   "title": "Robo Network Bridges v1",
   "favorites": {
     "myKkEdt0hhOHWsNcLz8YB00q37B2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1635780126070,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/1,0/",
-    "2": "/mods/aai/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/1,0/",
+    "/mods/aai/"
+  ],
   "title": "Space Exploration Mall ",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/SE%20MALL.png?alt=media&token=994164bb-53e0-45a9-8afa-131636719000",
   "favorites": {

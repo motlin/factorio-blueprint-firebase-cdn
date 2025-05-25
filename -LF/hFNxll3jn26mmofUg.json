@@ -16,12 +16,12 @@
   "author": {
     "userId": "ZQF3vJFTkJXk07PZbZ1UJyy2oGt1"
   },
-  "tags": {
-    "3": "/general/compact/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/smelting/"
+  ],
   "favorites": {
     "GcUPJTGN8gR3Tc9XxxS9zDpdAZB3": true,
     "93fbpaEiA4SJilO4kmvpeLka2z83": true,

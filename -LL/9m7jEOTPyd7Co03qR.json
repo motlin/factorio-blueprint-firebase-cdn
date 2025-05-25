@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1535631723783,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/production/coal liquification/",
-    "2": "/general/beaconized/",
-    "0": "/general/mid game/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/general/beaconized/",
+    "/general/mid game/"
+  ],
   "title": "4 belt coal liquefaction setup"
 }

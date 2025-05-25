@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/kZfoAKN",
   "lastUpdatedDate": 1734726046905,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": " Estação de carregamento de Ácido Sulfúrico (Exotics + S.E.)"
 }

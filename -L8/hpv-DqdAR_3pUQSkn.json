@@ -16,9 +16,9 @@
   },
   "descriptionMarkdown": "This is a simple to make, by hand run which I'm using for my \"speedruns\" *(that aren't particularly fast)* <br>\nIt uses only yellow belts, and makes all sciences with limited inputs. Most things have adequate buffering through chests whose limits could be changed as needed.\n\nInput Requirements\n \n* 4 Iron lanes\n* 2 Copper lanes\n* 1 Steel lane\n* 1 Coal lane\n* 1 Battery lane\n* 1 Brick lane\n* Green, Red & Blue circuits *(for yellow only)*\n\nIt's a flexible run in that the amount of engines produced can be extended and overall production improved with red belts.\nThe first miner can be changed to either blue or red inserters for construction robots, and assemblers can be changed to miners if necessary.\n\n",
   "fileName": "run.png",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/production/mall (make everything)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/mall (make everything)/"
+  ]
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/en34PBI",
   "lastUpdatedDate": 1734253958399,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/version/2,0/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/version/2,0/",
+    "/general/mid game/"
+  ],
   "title": "red 120/s fulgora sience",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

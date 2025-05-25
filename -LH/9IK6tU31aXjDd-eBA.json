@@ -22,12 +22,12 @@
   },
   "descriptionMarkdown": "There are 2 type layout in blueprint and both type have same consumption and production.\n<br><br>\nThis blueprint contains ten level-1 module factory, five level-2 module factory and two level-3 module factory, which is the exact ratio.\n<br><br>\nAs a result, level-3 module is produced in one every 8 seconds. (7.5 level-3 module per minute)\n<br><br>\n<img src=\"https://i.imgur.com/HQNm2wP.jpg\" width=\"100%\" height=\"100%\">\n",
   "fileName": "20190612022553_1.jpg",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/production/modules/",
-    "3": "/production/belt based/",
-    "4": "/version/0,17/",
-    "0": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/modules/",
+    "/production/belt based/",
+    "/version/0,17/",
+    "/general/mid game/"
+  ],
   "title": "Module Factory"
 }

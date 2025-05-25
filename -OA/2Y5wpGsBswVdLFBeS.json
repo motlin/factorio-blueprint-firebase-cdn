@@ -148,12 +148,12 @@
   "imageUrl": "https://imgur.com/STGYQeP",
   "lastUpdatedDate": 1731322976855,
   "numberOfFavorites": 75,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/crossing/",
-    "3": "/train/stacker/",
-    "4": "/train/track/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/crossing/",
+    "/train/stacker/",
+    "/train/track/"
+  ],
   "title": "2.0 Space Age Rails Blueprint Book"
 }

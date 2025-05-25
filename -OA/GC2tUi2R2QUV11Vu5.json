@@ -20,8 +20,8 @@
   "imageUrl": "https://imgur.com/cErzOip",
   "lastUpdatedDate": 1730086764871,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/tileable/"
+  ],
   "title": "Cairo Tiling City Blocks"
 }

@@ -1,14 +1,14 @@
 {
   "descriptionMarkdown": "Bot based Artillery Shell, Compact and Titeable\nYou may need pump anywhere (https://mods.factorio.com/mod/PumpAnywhere) mod. If you don't like modding, replace 1 roboport with underground pipe.",
   "lastUpdatedDate": 1600663478452,
-  "tags": {
-    "4": "/production/logistic (bot) based/",
-    "5": "/production/guns and ammo/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/production/guns and ammo/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "aWll9Y9cTyWZx7KCVkFcCsJr0442"
   },

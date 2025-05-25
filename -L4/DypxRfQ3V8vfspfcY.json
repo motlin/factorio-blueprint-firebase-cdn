@@ -9,12 +9,12 @@
     "userId": "LIjw7dH8ZucFu7DQOKV8W1NfJO93"
   },
   "authorId": "LIjw7dH8ZucFu7DQOKV8W1NfJO93",
-  "tags": {
-    "3": "/production/belt based/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/belt/prioritizer/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/belt/prioritizer/"
+  ],
   "fileName": "RED2.png",
   "image": {
     "height": 842,

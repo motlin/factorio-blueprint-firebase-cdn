@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1648163932013,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear_Power_basic",
   "favorites": {
     "udHlvZwtdRNAieUUoh09UDmXMqv1": true,

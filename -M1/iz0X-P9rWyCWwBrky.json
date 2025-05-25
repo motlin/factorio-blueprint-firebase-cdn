@@ -35,19 +35,19 @@
   },
   "lastUpdatedDate": 1583485496489,
   "numberOfFavorites": 16,
-  "tags": {
-    "9": "/production/belt based/",
-    "1": "/belt/fast transport belt (red)/",
-    "3": "/general/mid game/",
-    "7": "/production/electronic circuit (green)/",
-    "5": "/production/oil processing/",
-    "6": "/production/advanced circuit (red)/",
-    "8": "/production/plastic/",
-    "10": "/version/0,18/",
-    "11": "/mods/vanilla/",
-    "0": "/belt/transport belt (yellow)/",
-    "2": "/general/early game/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/belt/fast transport belt (red)/",
+    "/general/mid game/",
+    "/production/electronic circuit (green)/",
+    "/production/oil processing/",
+    "/production/advanced circuit (red)/",
+    "/production/plastic/",
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "title": "Compact Advanced Circuit from Raw Materials - (900/min or 1 Full Yellow Transport Belt) - BobAAAces"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616526091163,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/version/1,0/"
+  ],
   "title": "1 train 1 car x-road",
   "favorites": {
     "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true

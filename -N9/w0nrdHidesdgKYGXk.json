@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1661011967534,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Signal Multiplexer",
   "favorites": {
     "5h7kuFgvmvdLXeCJk64LGXZZkFx1": true

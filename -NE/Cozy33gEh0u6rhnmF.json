@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1668390695247,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para canhão de entrega"
 }

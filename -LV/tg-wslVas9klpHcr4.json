@@ -15,12 +15,12 @@
     "type": "image/jpeg",
     "width": 525
   },
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/general/early game/",
-    "2": "/general/compact/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/general/compact/",
+    "/production/other/"
+  ],
   "title": "Ratio Engine Early Game",
   "favorites": {
     "wuZeMgSW6IfHHGfdWFwhqEP0Bhj2": true,

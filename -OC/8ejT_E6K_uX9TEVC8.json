@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/vCqIXoq",
   "lastUpdatedDate": 1732109510707,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Minimal Launch SeedShip",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

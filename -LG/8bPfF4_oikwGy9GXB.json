@@ -27,10 +27,10 @@
   },
   "lastUpdatedDate": 1559333882320,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Unload Station (8 wagon) + Beaconed Electric Smelting + Buffering+ Auto Power Off + Balancing + logic options for Iron / Copper / Stone"
 }

@@ -2,9 +2,9 @@
   "descriptionMarkdown": "A Simple music player to Play Jingle Bells. \n\nTo use, simply put an item in the left chest (only one item).\n\nThis doesn't repeat but it can be combined with the \"Take On Me Music Player\" Blueprint to repeat in the same way (Click on my name to find that blueprint).",
   "lastUpdatedDate": 1612740789572,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Jingle Bells Music Player",
   "favorites": {
     "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true

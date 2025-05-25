@@ -43,10 +43,10 @@
   },
   "lastUpdatedDate": 1612685828082,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Early/Mid-Game Smelter Blueprints"
 }

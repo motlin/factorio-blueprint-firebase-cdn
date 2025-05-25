@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Z8Yc4kd",
   "lastUpdatedDate": 1728821503205,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/nuclear/"
+  ],
   "title": "Realistic Reactors 465 MW 4-Core Nuclear Power Plant",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

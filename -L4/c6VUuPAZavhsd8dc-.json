@@ -16,9 +16,9 @@
   },
   "createdDate": 1517870254233,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

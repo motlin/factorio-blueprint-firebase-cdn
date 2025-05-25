@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/xqzhTFy",
   "lastUpdatedDate": 1745582060491,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/solar/",
-    "3": "/power/accumulator/",
-    "4": "/planets/gleba/",
-    "5": "/planets/fulgora/",
-    "6": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/solar/",
+    "/power/accumulator/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/"
+  ],
   "title": "Start ship",
   "favorites": {
     "zrk2cHyEg8ZWMP9GXe8k1qnpzLJ2": true,

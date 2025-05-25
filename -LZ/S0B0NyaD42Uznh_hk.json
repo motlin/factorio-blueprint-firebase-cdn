@@ -4,12 +4,12 @@
   "lastUpdatedDate": 1579961073760,
   "numberOfFavorites": 5,
   "title": "Loadin/Unload stations by Mifczu",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "rdIWUhfTxGQ3h8NUGlLButkJfjB2": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

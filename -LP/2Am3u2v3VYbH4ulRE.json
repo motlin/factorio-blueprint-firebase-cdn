@@ -16,8 +16,8 @@
     "userId": "lq21OXMYllaYMEm2xypGLM9Z7AC2"
   },
   "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
-  "tags": {
-    "0": "/mods/creative/",
-    "1": "/version/0,15/"
-  }
+  "tags": [
+    "/mods/creative/",
+    "/version/0,15/"
+  ]
 }

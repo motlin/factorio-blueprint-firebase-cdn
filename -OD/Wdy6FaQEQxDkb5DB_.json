@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/OlSIyVg",
   "lastUpdatedDate": 1747201351226,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Inner planet spaceship",
   "favorites": {
     "7rgghWl8WfaghHgtPVADXqCQeVi2": true

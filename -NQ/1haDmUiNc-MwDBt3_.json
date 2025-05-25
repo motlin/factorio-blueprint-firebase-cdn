@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678303978607,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Concrete factory from raw ores",
   "favorites": {
     "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,

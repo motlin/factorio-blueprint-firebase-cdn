@@ -15,14 +15,14 @@
     "width": 705
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "4": "/production/robots/",
-    "5": "/production/logistic (bot) based/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/power/accumulator/",
-    "3": "/power/solar/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/accumulator/",
+    "/power/solar/"
+  ],
   "favorites": {
     "DLJWQMTIJzVKLIhvvGGGVEMLEk93": true,
     "EI18ukBCwARYCRYbxcloVpkq9Zd2": true,

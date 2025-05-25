@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/3Ybwn6l",
   "lastUpdatedDate": 1730144561766,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Early Space Science",
   "favorites": {
     "jOvpvuo4rDf5zBCGDu2eMJDBSY22": true,

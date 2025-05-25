@@ -26,11 +26,11 @@
   },
   "lastUpdatedDate": 1605296295903,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "[T1 - T6] Smelting for Iron, Copper, Stone, Steel"
 }

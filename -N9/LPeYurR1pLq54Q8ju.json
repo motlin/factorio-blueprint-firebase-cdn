@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1660380948985,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Defender Capsule 7.5/minute",
   "favorites": {
     "HSvMBY9qFMTEdOJyRB2w7xJzgGi2": true,

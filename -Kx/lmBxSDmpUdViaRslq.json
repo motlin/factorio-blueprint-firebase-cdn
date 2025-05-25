@@ -8,12 +8,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/40_Logics.png?alt=media&token=82e536e7-8f0c-4292-af75-8a18b01ff838",
   "lastUpdatedDate": 1512835054725,
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/version/0,15/",
-    "2": "/circuit/indicator/",
-    "3": "/mods/creative/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/",
+    "/circuit/indicator/",
+    "/mods/creative/"
+  ],
   "author": {
     "userId": "KnocxlV949WWjUK2OZFxXuLWaKp2"
   },

@@ -19,10 +19,10 @@
   "createdDate": 1532220165550,
   "descriptionMarkdown": "It's the example reactor in the Realistic Reactors mod forum. I was searching for the blueprint so far and i can't find it there, so , i decided to put it here by myself. It's a great mod, I recomend it of course. All credits to the creator GotLag for making it and Ingo for adapting it to 0.16. I added a Wind generator to substitute the solar ones. You can modify this blueprint as well you want.",
   "fileName": "R.N.R..png",
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/mods/other/",
-    "2": "/power/nuclear/",
-    "3": "/version/0,16/"
-  }
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/mods/other/",
+    "/power/nuclear/",
+    "/version/0,16/"
+  ]
 }

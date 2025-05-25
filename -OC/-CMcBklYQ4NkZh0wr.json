@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/UpQUlUv",
   "lastUpdatedDate": 1731949067072,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "Outpost Stop",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

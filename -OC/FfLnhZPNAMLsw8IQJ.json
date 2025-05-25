@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/4RaseUJ",
   "lastUpdatedDate": 1732225363264,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/2,0/"
+  ],
   "title": "Cursed: Circular Purple Science"
 }

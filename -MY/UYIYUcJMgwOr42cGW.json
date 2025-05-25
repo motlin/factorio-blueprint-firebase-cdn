@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1618658278003,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/"
+  ],
   "title": "Plastic for late game"
 }

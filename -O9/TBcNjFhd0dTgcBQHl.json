@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/9auZ9Px",
   "lastUpdatedDate": 1729230964332,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/belt based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belt based/"
+  ],
   "title": "Cactus's Mega Mall",
   "favorites": {
     "1ecl6UjRM8eFmwm1sLeAGeRa5zK2": true,

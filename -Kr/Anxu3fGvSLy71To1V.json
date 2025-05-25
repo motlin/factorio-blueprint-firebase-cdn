@@ -1,12 +1,12 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Explosives.PNG?alt=media&token=1f0bcd2d-c556-4bac-bac0-cbfa3b3ed78b",
-  "tags": {
-    "1": "/production/coal liquification/",
-    "2": "/mods/creative/",
-    "3": "/mods/vanilla/",
-    "4": "/general/marathon/",
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/creative/",
+    "/mods/vanilla/",
+    "/general/marathon/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "I1LUI5Fo2JTsDa2hzf8IccQz5BC2": true,
     "n0Nh3dOsWKZ6Jermv1Q6MhL68nH2": true

@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1673714062415,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Save production using priority lane balancers."
 }

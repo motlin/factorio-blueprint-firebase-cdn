@@ -12,9 +12,9 @@
     "type": "image/jpeg",
     "width": 1344
   },
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "favorites": {
     "1KViRH57uehROoSMv4fUxWWiZJx1": true,
     "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,

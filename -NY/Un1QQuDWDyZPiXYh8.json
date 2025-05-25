@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1687382965609,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/general/tileable/",
-    "2": "/production/guns and ammo/",
-    "3": "/general/beaconized/",
-    "4": "/version/1,0/",
-    "5": "/version/1,1/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/general/tileable/",
+    "/production/guns and ammo/",
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/mods/vanilla/"
+  ],
   "title": "Explosive Rocket - 650 / min",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

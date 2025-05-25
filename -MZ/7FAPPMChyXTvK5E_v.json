@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1619538597920,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Kovarex Enrichment Lab - Mark_uk98",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

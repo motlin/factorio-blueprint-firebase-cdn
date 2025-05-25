@@ -34,12 +34,12 @@
   },
   "lastUpdatedDate": 1538751632133,
   "numberOfFavorites": 35,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/other/",
-    "4": "/production/processing unit (blue)/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/other/",
+    "/production/processing unit (blue)/",
+    "/production/modules/"
+  ],
   "title": "Gigantic Module Factory/Two Blue Belts of Blue Circuits"
 }

@@ -81,8 +81,8 @@
   "imageUrl": "https://imgur.com/BN4y28h",
   "lastUpdatedDate": 1732724695689,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "BENTO Spaceship Series"
 }

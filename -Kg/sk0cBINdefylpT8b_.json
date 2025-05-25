@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "authorId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1",
   "descriptionMarkdown": "10-tall production cell of processing units.\n\nInputs:\n- 1 full belt of green circuits\n- Either a full belt of reds if you are lazy, or a 50/50 red+green belt\n- 1 pipe of Sulfuric Acid\n\nOutputs:\n - Blue circuits\n\nI use 3 of these designs stacked to feed 1 blue belt of processing units for my main bus, but I think 2 of them is enough to saturate it. I haven't done the calculations, because I don't really care about such things.\n\nIt certainly can eat a full belt of greens if you let it.",
   "image": {

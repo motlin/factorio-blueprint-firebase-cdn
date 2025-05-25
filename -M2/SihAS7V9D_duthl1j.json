@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1626108134576,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/train/unloading station/",
-    "2": "/power/nuclear/",
-    "3": "/power/solar/",
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/power/nuclear/",
+    "/power/solar/",
+    "/train/loading station/"
+  ],
   "title": "Must update Train shop - Train nuclear - Train solar V0.1"
 }

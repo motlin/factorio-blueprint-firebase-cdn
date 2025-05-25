@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/d7pOxvG",
   "lastUpdatedDate": 1744064450149,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Early game red and green science with circuit logic ~500-500 spm",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

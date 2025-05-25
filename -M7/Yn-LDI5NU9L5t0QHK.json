@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1589738473312,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "Advanced 6-car Buffered City Block (Concrete, Roboports)"
 }

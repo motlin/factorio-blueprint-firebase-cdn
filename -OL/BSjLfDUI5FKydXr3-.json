@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/s1mZzNE",
   "lastUpdatedDate": 1741818361883,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/scrap processing/"
-  },
+  "tags": [
+    "/production/scrap processing/"
+  ],
   "title": "Modular Scrap Recycler "
 }

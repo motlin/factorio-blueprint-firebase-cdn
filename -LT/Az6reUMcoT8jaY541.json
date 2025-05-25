@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1544242202886,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/compact/"
+  ],
   "title": "All 7 science, 45/min, within 1 roboport."
 }

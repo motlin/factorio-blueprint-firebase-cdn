@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/DYROFa5",
   "lastUpdatedDate": 1732460231024,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Tilable science for all 12 of em with spoilage disposal",
   "favorites": {
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,

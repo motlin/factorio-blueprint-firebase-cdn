@@ -12,11 +12,11 @@
   "descriptionMarkdown": "Beaconed petroleum production with the correct ratios of cracking. 10 speed effects on each refinery and 8 speed effects on each chemical plant",
   "fileName": "Screen Shot 2018-09-19 at 2.44.57 AM.png",
   "lastUpdatedDate": 1537351270714,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconed Petroleum Production",
   "author": {
     "userId": "OXk9egUBDlT45pfiyINkvRI91Xn2"

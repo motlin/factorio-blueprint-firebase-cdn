@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1708251287577,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Storage and energy"
 }

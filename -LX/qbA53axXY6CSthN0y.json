@@ -32,10 +32,10 @@
   },
   "lastUpdatedDate": 1578760266503,
   "numberOfFavorites": 15,
-  "tags": {
-    "2": "/general/storage/",
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/version/0,17/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Mall + Storage 0.17.78 +tiles"
 }

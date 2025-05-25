@@ -8,14 +8,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Stiritite%20with%20Bots.jpg?alt=media&token=655cc6c3-9821-404f-ba45-77ce4ffe3a02",
   "lastUpdatedDate": 1502917236824,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/factorissimo/",
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/",
-    "4": "/mods/other/",
-    "5": "/production/robots/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/other/",
+    "/production/robots/"
+  ],
   "createdDate": 1502917201157,
   "descriptionMarkdown": "Bot-bassed Factory to mass production of Stiritite from Omnite. Designed specially to work with Angel's Bob's Omnimatter + AAI Industries mods active.",
   "image": {

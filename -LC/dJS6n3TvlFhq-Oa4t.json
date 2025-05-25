@@ -15,10 +15,10 @@
   "createdDate": 1555471389345,
   "lastUpdatedDate": 1555471736047,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "eeh9YYI0YmZsT6OyzRHmKdTSqhm2": true,
     "Vf7IkRSAp1fxYfGgZXlvXkLgZsE3": true,

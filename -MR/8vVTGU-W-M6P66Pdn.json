@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1639770359850,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/production/science/"
+  ],
   "title": "Krastorio Chemical Tech 1k spm",
   "favorites": {
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true

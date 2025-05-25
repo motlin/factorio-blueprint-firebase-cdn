@@ -15,12 +15,12 @@
   "descriptionMarkdown": "This is a self fueling setup for use at the beginning of the game. You can tile it as long as you like. ",
   "lastUpdatedDate": 1504616103087,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/power/steam/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "lRRWaBIWk5Ulwl8JrydoDFnEKIo2",
   "createdDate": 1504405170697,
   "favorites": {

@@ -25,9 +25,9 @@
   "imageUrl": "https://i.imgur.com/1cqvpnA.png",
   "lastUpdatedDate": 1737883400043,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Battlestar Galactica"
 }

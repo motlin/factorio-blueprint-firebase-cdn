@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/plastic/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/plastic/",
+    "/mods/vanilla/"
+  ],
   "title": "40 plastic / second, compressed bluebelt",
   "authorId": "RSKwP3oyTKQpAPegHpXOWOfTSmo1",
   "descriptionMarkdown": "Input coal and petroleum to produce exactly one saturated blue belt of plastic. Belt is compressed, even with 0.16 belt mechanics.",

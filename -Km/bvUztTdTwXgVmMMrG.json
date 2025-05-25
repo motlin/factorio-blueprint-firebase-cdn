@@ -17,10 +17,10 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1production.PNG?alt=media&token=a01efa83-9923-4bc4-94d0-62f2ef450762",
   "numberOfFavorites": 21,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ]
 }

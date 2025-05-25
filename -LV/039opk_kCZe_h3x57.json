@@ -16,15 +16,15 @@
     "id": "K0ennOf"
   },
   "lastUpdatedDate": 1575197163909,
-  "tags": {
-    "4": "/circuit/indicator/",
-    "5": "/version/0,15/",
-    "6": "/version/0,16/",
-    "0": "/version/0,17/",
-    "1": "/train/crossing/",
-    "2": "/mods/vanilla/",
-    "3": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/train/left-hand-drive/"
+  ],
   "favorites": {
     "KKnQAfTxQEUFoWIlLFzWF88yhZu2": true,
     "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,

@@ -21,8 +21,8 @@
   "imageUrl": "https://i.imgur.com/K9AB9nf.jpeg",
   "lastUpdatedDate": 1746541439879,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/nauvis/"
-  },
+  "tags": [
+    "/planets/nauvis/"
+  ],
   "title": "Mini City Block v1"
 }

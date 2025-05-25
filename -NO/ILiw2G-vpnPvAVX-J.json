@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1705426743082,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "12 Beacon, 90 Plate/s Output Smelter",
   "favorites": {
     "IRU7QeROU9TotND7H5KRe9na4gs2": true,

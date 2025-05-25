@@ -39,17 +39,17 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ddsfs.png?alt=media&token=2d330d37-2ac7-458d-87b7-28b518ff8499",
   "lastUpdatedDate": 1708086334570,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/robots/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/",
-    "5": "/power/steam/",
-    "6": "/version/1,1/",
-    "7": "/production/oil processing/",
-    "8": "/belt/fast transport belt (red)/",
-    "9": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/mall (make everything)/",
+    "/production/robots/",
+    "/production/belt based/",
+    "/general/compact/",
+    "/power/steam/",
+    "/version/1,1/",
+    "/production/oil processing/",
+    "/belt/fast transport belt (red)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "VANILLA - Starter base to rocket 45 SPM"
 }

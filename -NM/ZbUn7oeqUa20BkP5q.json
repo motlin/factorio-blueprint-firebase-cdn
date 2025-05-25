@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1703568866568,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/counter/"
+  ],
   "title": "Item counter with manual reset",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

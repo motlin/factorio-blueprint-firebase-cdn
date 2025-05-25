@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/u4kD2q7",
   "lastUpdatedDate": 1736171210170,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "Automatic Quality Rollers",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

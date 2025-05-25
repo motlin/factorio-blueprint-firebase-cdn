@@ -15,11 +15,11 @@
     "height": 983
   },
   "lastUpdatedDate": 1673052266845,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Rocket Science Pack",
   "favorites": {
     "VY9fRvfbO8OfIFnVk6p8BUUSDuG3": true,

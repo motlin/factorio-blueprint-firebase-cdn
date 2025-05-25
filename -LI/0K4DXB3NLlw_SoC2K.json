@@ -12,11 +12,11 @@
     "id": "BFKcyAq",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/creative/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/creative/",
+    "/version/0,16/"
+  ],
   "title": "Early Game Nanobot Construction Bot Ammo",
   "createdDate": 1532251886593,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Nanobot%20BP%20In%20Action%20Factorio.PNG?alt=media&token=52682d91-587b-4899-831d-15f158d7b778",

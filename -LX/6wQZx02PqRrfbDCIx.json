@@ -52,11 +52,11 @@
   },
   "lastUpdatedDate": 1578342391546,
   "numberOfFavorites": 31,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/steam/",
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/steam/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "5.6 GW Nuclear Power Station ICARUS"
 }

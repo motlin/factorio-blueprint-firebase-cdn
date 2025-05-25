@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1649232978809,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/warehousing/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/mods/ltn/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/warehousing/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/ltn/",
+    "/version/1,0/"
+  ],
   "title": "Scalable Science with LTN"
 }

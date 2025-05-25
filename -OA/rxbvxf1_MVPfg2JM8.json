@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/642F3uT",
   "lastUpdatedDate": 1730736979767,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/circuit/counter/"
+  ],
   "title": "5-Digit Micro Counter with Display Panels"
 }

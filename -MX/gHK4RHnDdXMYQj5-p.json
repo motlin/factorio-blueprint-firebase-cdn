@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1617798189584,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Процесс обогащения Коварекса (с логикой)",
   "favorites": {
     "s5KhWKIJu3QfhBoJpHqLzNFIWE63": true,

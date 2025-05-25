@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1616950360986,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/version/0,18/",
-    "2": "/version/0,17/",
-    "3": "/version/0,16/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/version/0,18/",
+    "/version/0,17/",
+    "/version/0,16/",
+    "/version/0,15/"
+  ],
   "title": "Blue circuits/Processing units (beaconed) (1.5k/min)"
 }

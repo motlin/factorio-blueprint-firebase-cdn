@@ -19,15 +19,15 @@
   },
   "lastUpdatedDate": 1581486597402,
   "numberOfFavorites": 1,
-  "tags": {
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/belt/fast transport belt (red)/",
-    "8": "/train/unloading station/",
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/transport belt (yellow)/",
-    "5": "/general/early game/",
-    "6": "/general/mid game/",
-    "7": "/train/loading station/"
-  }
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/belt/fast transport belt (red)/",
+    "/train/unloading station/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/train/loading station/"
+  ]
 }

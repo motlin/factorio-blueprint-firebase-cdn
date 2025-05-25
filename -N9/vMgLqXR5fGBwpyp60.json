@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1661000926801,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/krastorio/"
+  ],
   "title": "(Krastorio 2) Belt/Logistics - 5 Stages (Belt, Underground, Splitter, Loader)",
   "favorites": {
     "iMoqlEyJJOQg7F33WGGGoLv6Lko2": true

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/P04cT2C",
   "lastUpdatedDate": 1745096139865,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/nuclear/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "title": "Nave Aqulio",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true

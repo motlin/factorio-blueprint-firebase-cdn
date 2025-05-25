@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/GVNloEA",
   "lastUpdatedDate": 1731341885839,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/general/tileable/"
+  ],
   "title": "Substation grid book",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

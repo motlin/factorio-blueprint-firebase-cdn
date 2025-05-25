@@ -57,14 +57,14 @@
   },
   "lastUpdatedDate": 1597290633525,
   "numberOfFavorites": 38,
-  "tags": {
-    "4": "/production/science/",
-    "5": "/production/research (labs)/",
-    "6": "/production/belt based/",
-    "0": "/version/0,17/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/production/belt based/",
+    "/version/0,17/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/compact/"
+  ],
   "title": "Mega-base-in-a-box 0.17"
 }

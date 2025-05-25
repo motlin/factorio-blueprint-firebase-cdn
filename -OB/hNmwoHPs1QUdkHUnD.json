@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/uA00Fho",
   "lastUpdatedDate": 1734294657832,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Automatic request factory",
   "favorites": {
     "pKPs0wKjioZJmux2tGk4hYYz6Cn1": true,

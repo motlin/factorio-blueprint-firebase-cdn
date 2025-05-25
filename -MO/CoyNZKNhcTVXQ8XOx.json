@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1607623502616,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "easy science for starters"
 }

@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1598964611200,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Advanced Circuits 15k/m"
 }

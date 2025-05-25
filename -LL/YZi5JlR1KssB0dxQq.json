@@ -9,9 +9,9 @@
     "id": "8azyzWH"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/fabrica-cable-de-cobre3.png?alt=media&token=f55b50cc-a197-46c1-aaf0-9a931ec5f66e",
   "author": {
     "userId": "hceS52Pa1DaVzpJ6fLJuCDQlEAF2"

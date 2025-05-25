@@ -20,13 +20,13 @@
   },
   "lastUpdatedDate": 1695050130652,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/production/plastic/",
-    "4": "/general/late game (megabase)/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/plastic/",
+    "/general/late game (megabase)/",
+    "/version/0,15/"
+  ],
   "title": "Megabase Coal To Plastic"
 }

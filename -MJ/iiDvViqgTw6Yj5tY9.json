@@ -14,15 +14,15 @@
     "type": "image/jpeg",
     "width": 1661
   },
-  "tags": {
-    "2": "/general/late game (megabase)/",
-    "3": "/production/processing unit (blue)/",
-    "4": "/version/1,0/",
-    "5": "/production/belt based/",
-    "6": "/mods/vanilla/",
-    "0": "/general/beaconized/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/processing unit (blue)/",
+    "/version/1,0/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "descriptionMarkdown": "Input:\n* 2700/min (1 blue belt) red circuits \n* 27000/min (10 blue belts) green circuits \n* 6750/min sulfuric acid\n\nOutput:\n* ~1900/min (0.7 blue belts) blue circuits\n\n",
   "title": "~1.9k/min Tileable Beaconed Blue Circuits",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_sLXwShWuhx.jpg?alt=media&token=c09e5698-a330-4e5c-be28-6158122fa6aa",

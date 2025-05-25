@@ -16,11 +16,11 @@
     "id": "AzanJUB",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/production/research (labs)/",
-    "3": "/general/early game/",
-    "4": "/general/compact/"
-  }
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/general/compact/"
+  ]
 }

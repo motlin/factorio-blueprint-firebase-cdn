@@ -25,15 +25,15 @@
   },
   "lastUpdatedDate": 1601200122549,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "5": "/production/science/",
-    "6": "/production/rocket parts/",
-    "7": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/rocket parts/",
+    "/production/research (labs)/"
+  ],
   "title": "308 SPM 3-8 Trains Factory v1.3 - BobAAAces"
 }

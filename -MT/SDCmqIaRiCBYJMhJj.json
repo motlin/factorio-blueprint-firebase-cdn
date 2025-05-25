@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1642247162555,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/stacker/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/stacker/"
+  ],
   "title": "Railblock Tests"
 }

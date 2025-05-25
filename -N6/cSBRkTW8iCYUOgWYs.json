@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1657462376410,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/research (labs)/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Starting base for space exploration",
   "favorites": {
     "TXTY9VAU7HMfiaEHPzfQxdUDxab2": true,

@@ -15,10 +15,10 @@
     "type": "image/png",
     "width": 1184
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/general/storage/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/storage/"
+  ],
   "title": "Logistic zone gap - robot border crossing"
 }

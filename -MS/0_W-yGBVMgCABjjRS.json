@@ -19,10 +19,10 @@
   "createdDate": 1611713089640,
   "fileName": "loadernobufferv1.PNG",
   "lastUpdatedDate": 1611713089640,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/loading station/"
+  ],
   "title": "Loader No Buffer"
 }

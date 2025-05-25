@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1645121086756,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "7 Segment Display with Train Signals"
 }

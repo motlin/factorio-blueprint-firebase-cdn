@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/HLe8e4q",
   "lastUpdatedDate": 1738872074477,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Yellow Science",
   "favorites": {
     "W8PRLHP70XfHLC6ssogMxzwVzNs1": true,

@@ -83,17 +83,17 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mega%20mall%20v2.jpg?alt=media&token=1927b4f2-83ac-41a6-a58f-c0c78cd60987",
   "lastUpdatedDate": 1577598224976,
   "numberOfFavorites": 63,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/logistic (bot) based/",
-    "5": "/general/mid game/",
-    "9": "/production/rocket parts/",
-    "3": "/production/robots/",
-    "4": "/general/late game (megabase)/",
-    "6": "/general/early game/",
-    "7": "/general/compact/",
-    "8": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/",
+    "/general/mid game/",
+    "/production/rocket parts/",
+    "/production/robots/",
+    "/general/late game (megabase)/",
+    "/general/early game/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Mega Mall for Mid to Late Game - Logistics Based Mall - BobAAAces - v0.17.79"
 }

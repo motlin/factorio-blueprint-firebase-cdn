@@ -21,9 +21,9 @@
     "width": 543
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/belts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/belts/"
+  ],
   "title": "Base-in-a-Book 8. Build Everything"
 }

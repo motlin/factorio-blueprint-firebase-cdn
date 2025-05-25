@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/8vi59j8",
   "lastUpdatedDate": 1735741304357,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Plastic production at Cryogenic plant / Производство пластика в Криогенном заводе"
 }

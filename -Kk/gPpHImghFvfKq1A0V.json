@@ -16,10 +16,10 @@
     "width": 1920
   },
   "lastUpdatedDate": 1497704000762,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact meter"
 }

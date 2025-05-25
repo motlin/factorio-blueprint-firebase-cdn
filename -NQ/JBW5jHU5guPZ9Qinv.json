@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1707763535207,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Military Science 1K",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-2273016.png?alt=media&token=3f9b6415-fb89-4b0e-84cd-90130ac1d788"
 }

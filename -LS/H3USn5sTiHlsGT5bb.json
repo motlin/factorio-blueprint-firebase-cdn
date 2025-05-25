@@ -16,11 +16,11 @@
     "width": 1387
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "NjB2DwrYKsfrOhfH9xT6YQQY7Sg2": true,
     "1MUdyzIDGBRnnZMrMnH17bZq6Yk2": true

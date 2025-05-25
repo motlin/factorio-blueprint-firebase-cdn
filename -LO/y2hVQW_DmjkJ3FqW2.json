@@ -8,10 +8,10 @@
     "width": 1396
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Balanced 8-Reactor Nuclear Power - 1.1 GW power",
   "author": {
     "userId": "HCkOojEzCcQs1VyLQasUG2gDUkY2"

@@ -1,13 +1,13 @@
 {
   "createdDate": 1568150152584,
-  "tags": {
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/",
-    "4": "/general/mid game/",
-    "5": "/train/track/",
-    "0": "/version/0,17/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/train/track/",
+    "/version/0,17/",
+    "/production/other/"
+  ],
   "author": {
     "userId": "4TKv9KTYeUTaD6OYVQNVNr0QOAy1"
   },

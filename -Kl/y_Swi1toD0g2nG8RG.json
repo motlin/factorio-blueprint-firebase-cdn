@@ -15,17 +15,17 @@
   "descriptionMarkdown": "**Deprecated**\n\nPlease use [this link to my newer version](https://www.factorio.school/view/-L8nniomf8L3-yDtSlk4)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Bot%20Production%20Control%20Centre.PNG?alt=media&token=d1fba4a4-099d-4f28-87c9-2261da351476",
   "numberOfFavorites": 57,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/production/robots/",
-    "4": "/version/1,1/",
-    "5": "/version/1,0/",
-    "6": "/version/0,18/",
-    "7": "/version/0,17/",
-    "8": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/",
+    "/production/robots/",
+    "/version/1,1/",
+    "/version/1,0/",
+    "/version/0,18/",
+    "/version/0,17/",
+    "/version/0,16/"
+  ],
   "title": "'Skynet on Steroids' - Bot Production Control Centre (deprecated)",
   "favorites": {
     "qZeMchEZzuXWhCGlg2v1wo4vcpz1": true,

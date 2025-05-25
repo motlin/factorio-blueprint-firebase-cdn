@@ -16,9 +16,9 @@
   },
   "title": "Belt throughput gauge",
   "authorId": "Hf33mFexf0Np9KmFdaVd4jfG24Y2",
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "favorites": {
     "VjQKBjnonCMhsYXKgQOSGm97xz62": true,
     "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,

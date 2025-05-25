@@ -7,11 +7,11 @@
     "height": 435
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "Linear  Green & Red Science",
   "author": {
     "userId": "kEqZIaG4mdUju7YNCVEWA2JV4ny2"

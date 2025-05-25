@@ -1,15 +1,15 @@
 {
   "authorId": "ZiXqKeqxQBb5zoR7igME0VQRLZJ3",
   "lastUpdatedDate": 1553457316953,
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/",
-    "6": "/mods/ltn/",
-    "0": "/version/0,17/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/ltn/",
+    "/version/0,17/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "ZiXqKeqxQBb5zoR7igME0VQRLZJ3"
   },

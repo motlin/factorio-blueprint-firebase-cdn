@@ -23,9 +23,9 @@
     "type": "image/jpeg",
     "width": 352
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/version/1,0/",
-    "1": "/production/smelting/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/smelting/"
+  ]
 }

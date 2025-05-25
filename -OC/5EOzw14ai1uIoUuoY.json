@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/EdnSYPM",
   "lastUpdatedDate": 1732050264245,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "AutoBalanced White Station",
   "favorites": {
     "q7yzsIql1AUjR8lNODNAPbj2Jl12": true,

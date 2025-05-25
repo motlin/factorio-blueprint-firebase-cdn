@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674418216755,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/tileable/"
+  ],
   "title": "Efficient mining setup",
   "favorites": {
     "9nvdryuEErZqkMrg005E3Nake7Z2": true,

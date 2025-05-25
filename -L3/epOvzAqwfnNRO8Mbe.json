@@ -11,11 +11,11 @@
   "createdDate": 1516842098723,
   "descriptionMarkdown": "**4 lane right hand drive railsystem**\n\nThis is my railsystem blueprint book. The intersections are deadlock free (as far as I know). \n\nThere are no loops anywhere.\n\nThere are no diagonal lines/crossings.\n\nThe length of the straight pieces is made for 2-8-2 trains, but on long enough tracks it doesn't really matter.",
   "numberOfFavorites": 17,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/train/junction/",
-    "0": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "4 Lane RHD Railsystem Blueprint Book",
   "authorId": "8v5jNga2IwXEYrpj4NrlVMrA51A2",
   "fileName": "Factorio_RHD_4Lane_4Way_Intersection.png",

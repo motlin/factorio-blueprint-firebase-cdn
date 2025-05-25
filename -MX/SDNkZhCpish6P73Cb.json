@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1646536527025,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Self balanced, tilable coal liquefaction",
   "favorites": {
     "9nvdryuEErZqkMrg005E3Nake7Z2": true,

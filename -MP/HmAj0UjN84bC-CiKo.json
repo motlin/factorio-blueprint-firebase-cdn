@@ -13,12 +13,12 @@
     "width": 1440
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "0": "/production/guns and ammo/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/guns and ammo/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
     "s5KhWKIJu3QfhBoJpHqLzNFIWE63": true,

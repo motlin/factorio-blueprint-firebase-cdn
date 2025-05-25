@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1626922389522,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/version/1,0/"
+  ],
   "title": "City Block - Red/Purple Chip Production for 3KSPM"
 }

@@ -22,9 +22,9 @@
   "imageUrl": "https://imgur.com/2ocqWxg",
   "lastUpdatedDate": 1744225393585,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/aquilo/"
+  ],
   "title": "A good enough Aquilo 29 core fusion reactor"
 }

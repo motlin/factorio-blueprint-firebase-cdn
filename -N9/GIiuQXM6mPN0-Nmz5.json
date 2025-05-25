@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660508469009,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/"
+  ],
   "title": "Early game smelting",
   "favorites": {
     "odjwmNpfeXNcvyAF5XUW9a05Fu93": true,

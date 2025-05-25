@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/n05cPGn",
   "lastUpdatedDate": 1722885398190,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Test-Solar",
   "favorites": {
     "w0Ce9dFrlnVxDADCb49BTBNSlN43": true

@@ -8,12 +8,12 @@
     "width": 929
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "2 Blue Belts Plastic: Speed Modules",
   "favorites": {
     "wwITNfNOPOMTL62zpsJ20Ht3MDF3": true

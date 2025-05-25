@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/hKQ9X4F",
   "lastUpdatedDate": 1729548723029,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/version/2,0/"
+  ],
   "title": "RHD Pinavia Interchange",
   "favorites": {
     "Fuujtfj0GOfbjQYN7auclml8ruA2": true,

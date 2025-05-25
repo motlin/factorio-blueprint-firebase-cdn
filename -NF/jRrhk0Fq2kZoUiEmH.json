@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1667563689948,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/smelting/"
+  ],
   "title": "Steel plates and stone bricks from stone and iron ore"
 }

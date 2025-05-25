@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1690903205565,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Rocket and Satellite for 30spm",
   "favorites": {
     "5Q98cef213SViXKkgWsAtiC8htj2": true,

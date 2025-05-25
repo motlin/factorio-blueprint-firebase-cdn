@@ -24,11 +24,11 @@
     "height": 545
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/lighted-electric-poles/",
-    "2": "/version/0,18/",
-    "3": "/general/ups friendly/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/lighted-electric-poles/",
+    "/version/0,18/",
+    "/general/ups friendly/"
+  ],
   "title": "Expandable AAI Zone Cleaner and UPS Saver"
 }

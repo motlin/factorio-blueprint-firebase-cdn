@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1555458105405,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Text Display Book 0.17"
 }

@@ -15,11 +15,11 @@
   "descriptionMarkdown": "This setup will get rid of 1 yellow belt of copper plates.",
   "lastUpdatedDate": 1534620960774,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/power/steam/"
+  ],
   "title": "Angles/Bobs copper plates void",
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,

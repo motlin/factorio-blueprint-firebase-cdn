@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Jjp225X",
   "lastUpdatedDate": 1733329140269,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Вулкан. Конструкции",
   "favorites": {
     "bF9qbyoXLeT2v5GSAFkRwGPGFop1": true

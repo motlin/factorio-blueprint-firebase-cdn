@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/EOsEL4P",
   "lastUpdatedDate": 1734107522092,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Pentapod Purgatory",
   "favorites": {
     "IxOPoS1DkuMx2YzTaKIcTmZrSQ02": true,

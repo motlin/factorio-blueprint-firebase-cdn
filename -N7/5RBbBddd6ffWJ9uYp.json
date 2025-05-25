@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1657965431387,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Solar Grid ",
   "favorites": {
     "seEu6snZN5dlDdYOXjo2VKiSJRE2": true,

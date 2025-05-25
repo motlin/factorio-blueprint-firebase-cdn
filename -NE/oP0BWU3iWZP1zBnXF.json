@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1695243834307,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Kovarex enrichment (Обогащение урана) 21/09/2023",
   "favorites": {
     "lSSA5B8lNRaIg5B9rZMfYaEoF5S2": true

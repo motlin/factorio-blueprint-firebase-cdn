@@ -90,20 +90,20 @@
   "imageUrl": "https://imgur.com/ss2s7RV",
   "lastUpdatedDate": 1746051856679,
   "numberOfFavorites": 38,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/crossing/",
-    "2": "/train/stacker/",
-    "3": "/train/junction/",
-    "4": "/mods/elevated-rails/",
-    "5": "/mods/space-exploration/",
-    "6": "/planets/fulgora/",
-    "7": "/planets/vulcanus/",
-    "8": "/planets/aquilo/",
-    "9": "/train/track/",
-    "10": "/power/solar/",
-    "11": "/power/accumulator/",
-    "12": "/version/2,0/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/train/stacker/",
+    "/train/junction/",
+    "/mods/elevated-rails/",
+    "/mods/space-exploration/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/aquilo/",
+    "/train/track/",
+    "/power/solar/",
+    "/power/accumulator/",
+    "/version/2,0/"
+  ],
   "title": "QGrids V.12 - Chunk Aligned Space Age Blueprints"
 }

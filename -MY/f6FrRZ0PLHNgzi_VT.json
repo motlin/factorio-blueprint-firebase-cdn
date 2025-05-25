@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1618852253254,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/production/oil processing/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/version/1,0/"
+  ],
   "title": "Truly Tileable Beaconed Advanced Oil Processing",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

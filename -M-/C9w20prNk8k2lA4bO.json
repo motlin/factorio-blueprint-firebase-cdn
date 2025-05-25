@@ -32,12 +32,12 @@
   },
   "lastUpdatedDate": 1581322702867,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/production/rocket parts/",
-    "4": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/rocket parts/",
+    "/production/research (labs)/"
+  ],
   "title": "450 science per minute (beaconed)"
 }

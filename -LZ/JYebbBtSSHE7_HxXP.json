@@ -22,13 +22,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/purpleSci1.jpg?alt=media&token=986c7683-4957-4e49-afea-141b9f1cab35",
   "lastUpdatedDate": 1582414435739,
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/version/0,17/",
-    "4": "/train/right-hand-drive/",
-    "5": "/general/late game (megabase)/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/train/right-hand-drive/",
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Production (Purple) Science - 3k/m - Trains + Belts"
 }

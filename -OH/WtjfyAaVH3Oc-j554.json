@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/2F9KbDo.png",
   "lastUpdatedDate": 1737883059481,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/general/tileable/"
+  ],
   "title": "Tileable quality sorting, parameterized",
   "favorites": {
     "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,

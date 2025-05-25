@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/bIsTk5O",
   "lastUpdatedDate": 1733779765730,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/rocket parts/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Module processing units complexe",
   "favorites": {
     "KWFnXi2w8MYFiYDXo1Dnry6LYZ43": true,

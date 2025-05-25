@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1704987135502,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Reactor start+expansion (up to 1350 fuelcells per minute) "
 }

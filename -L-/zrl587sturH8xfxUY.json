@@ -19,10 +19,10 @@
   "descriptionMarkdown": "4 way bare bone ",
   "fileName": "factorio_2017-12-10_13-00-26.png",
   "lastUpdatedDate": 1512900071969,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "4 way simple book"
 }

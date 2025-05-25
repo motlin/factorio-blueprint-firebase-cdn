@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1643730600961,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Pre-bot solar block for building on the run",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/solar_by_hand_edit.png?alt=media&token=092fbef8-e94b-46b4-9cdb-c95643e00d1b",
   "favorites": {

@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1661904116653,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "16 blue belt ore smelting (no robot unloading)"
 }

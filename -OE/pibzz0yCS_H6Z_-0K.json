@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/tKhAW4N",
   "lastUpdatedDate": 1734994460789,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Bistable clock signal generator",
   "favorites": {
     "IxOPoS1DkuMx2YzTaKIcTmZrSQ02": true,

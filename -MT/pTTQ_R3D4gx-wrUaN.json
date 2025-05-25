@@ -23,8 +23,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Nuclear%202x5-compactperfectratio-tiles.jpg?alt=media&token=ce238a84-56ac-4e46-9272-ede8d36dcd23",
   "lastUpdatedDate": 1613677818110,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear plant 10 (2x5) 1.44GW with perfect ratio"
 }

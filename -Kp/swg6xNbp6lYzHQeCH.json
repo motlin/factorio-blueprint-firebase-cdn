@@ -15,11 +15,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Rocket%20Launcher.PNG?alt=media&token=6f30c618-2704-482e-a37a-caa64e0ca844",
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/beaconized/"
+  ],
   "title": "Rocket Launcher controlled by space science",
   "createdDate": 1500972761714,
   "favorites": {

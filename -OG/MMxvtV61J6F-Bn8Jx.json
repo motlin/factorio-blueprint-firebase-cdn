@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/NIWsglU",
   "lastUpdatedDate": 1737330891469,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/general/beaconized/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/other/",
+    "/general/beaconized/",
+    "/mods/space-age/"
+  ],
   "title": "550/m Legendary Tungsten Plates scheme! (rate 0,59%) v2.0",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

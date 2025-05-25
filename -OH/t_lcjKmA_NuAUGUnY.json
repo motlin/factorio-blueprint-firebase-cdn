@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/49hMfR2",
   "lastUpdatedDate": 1739299112524,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/combat/offense/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/mods/space-age/",
-    "4": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/combat/offense/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/vulcanus/"
+  ],
   "title": "Small Demolisher Trap",
   "favorites": {
     "L4IW2u6yXBTd1GrU3oMKO3gRsTq2": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/jklun6N",
   "lastUpdatedDate": 1732820854931,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Livro de plantas para fabricação de de todas as tecnologias espaciais de nível 1 (Exotics + S.E.)"
 }

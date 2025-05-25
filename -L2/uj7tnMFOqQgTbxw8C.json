@@ -21,7 +21,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2213455.png?alt=media&token=882353f7-9636-451a-8434-c005753fc520",
   "lastUpdatedDate": 1516040770632,
-  "tags": {
-    "0": "/train/track/"
-  }
+  "tags": [
+    "/train/track/"
+  ]
 }

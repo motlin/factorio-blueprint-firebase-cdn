@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ficsRSa",
   "lastUpdatedDate": 1731663082685,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "TrainGen - Demand based generic train logistic",
   "favorites": {
     "8CiRU5xanCVCp6uc7Wl9CUkp0S02": true,

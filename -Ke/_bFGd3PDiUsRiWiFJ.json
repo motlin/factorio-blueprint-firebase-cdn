@@ -9,10 +9,10 @@
     "width": 551
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Omnismelter.png?alt=media&token=8c6b2340-fa9b-43c8-8e74-5885563bea01",
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/0,14/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/0,14/"
+  ],
   "title": "Mobius1's Omnismelter",
   "author": {
     "userId": "xqoibO8O8OcKUHex2Q9CTI8vtD32"

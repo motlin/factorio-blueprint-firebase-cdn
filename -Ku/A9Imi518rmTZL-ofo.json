@@ -19,10 +19,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_screenshots_20170916164705_1.jpg?alt=media&token=7684637d-3775-4226-8b9c-64c7b524ee84",
   "lastUpdatedDate": 1505573289366,
   "numberOfFavorites": 9,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/general/tileable/"
+  ],
   "title": "Tower defense"
 }

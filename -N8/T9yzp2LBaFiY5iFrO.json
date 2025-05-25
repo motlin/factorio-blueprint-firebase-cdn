@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1659443813136,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/production/science/"
+  ],
   "title": "Quickstart red/green science and mall",
   "favorites": {
     "FOkeJ5l45uPJGFwA7revwCBouVP2": true,

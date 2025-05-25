@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/wm2rGmo",
   "lastUpdatedDate": 1731747751479,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Oil Refinery with output balancer",
   "favorites": {
     "2Eb2ni7isjddYgvNYotqO7BYQA72": true

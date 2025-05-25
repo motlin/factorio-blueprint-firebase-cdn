@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1629149721910,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Lança solar"
 }

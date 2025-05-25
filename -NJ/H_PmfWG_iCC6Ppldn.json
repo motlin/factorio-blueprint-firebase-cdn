@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1671054077179,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear Reactor",
   "favorites": {
     "ifzRFXOCRIYdFLaaUb89zHHFbjl2": true,

@@ -8,12 +8,12 @@
     "width": 336,
     "height": 307
   },
-  "tags": {
-    "0": "/belt/prioritizer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Belt Mergers",
   "favorites": {
     "9aBhrKqwPMOwKnCZrAEDD2xX4Tz1": true,

@@ -16,11 +16,11 @@
   "lastUpdatedDate": 1702681419862,
   "numberOfFavorites": 3,
   "title": "Starter mini mall",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/general/early game/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Captura%20de%20pantalla%202023-12-16%20000309.png?alt=media&token=c8d64f13-abe3-4d2f-bd21-197a7eacdb8d",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

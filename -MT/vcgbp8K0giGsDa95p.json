@@ -6,9 +6,9 @@
     "width": 1431
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/left-hand-drive/"
+  ],
   "author": {
     "userId": "50cWiSa70dRKoI2q2m2DYPg6YoY2"
   },

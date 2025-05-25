@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1667832019409,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Green circuits",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

@@ -16,12 +16,12 @@
   "imageUrl": "https://imgur.com/Kmkutd2",
   "lastUpdatedDate": 1735151895096,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/guns and ammo/",
-    "3": "/power/nuclear/",
-    "4": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/guns and ammo/",
+    "/power/nuclear/",
+    "/general/beaconized/"
+  ],
   "title": "Lifeline and Icestarter"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1683766103470,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-exploration/"
+  ],
   "title": "SE 58.2 MW Condenser Turbine Reactor",
   "favorites": {
     "u0t8Ux9JI5WUDfvdiVGFvmdQ7qu2": true,

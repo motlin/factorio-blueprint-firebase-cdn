@@ -7,10 +7,10 @@
     "type": "image/png",
     "width": 773
   },
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true,
     "67G9TmALSfazXmtaxYMDd9ez8OB3": true

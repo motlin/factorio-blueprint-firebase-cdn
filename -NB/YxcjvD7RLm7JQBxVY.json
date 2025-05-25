@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1662755703878,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Engine City Block ",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

@@ -13,9 +13,9 @@
   "fileName": "factchild6.png",
   "createdDate": 1523489913559,
   "descriptionMarkdown": "Dont let some different item mess with all your factory",
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "0hl206XAZDYNRafblxoYAZbgj9W2"
   },

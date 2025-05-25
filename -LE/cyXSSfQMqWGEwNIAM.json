@@ -9,10 +9,10 @@
   },
   "lastUpdatedDate": 1557668672392,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/other/"
+  ],
   "title": "Self Expanding Solar Farm Mark 2",
   "authorId": "7xGd41HzE4XpbKzOi7QVft5fMt72",
   "favorites": {

@@ -23,10 +23,10 @@
     "JAESnwnvqrW3gKFi658xxjhyK8r2": true,
     "mgzaB559GKQRL7QtiME6MluIubD2": true
   },
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/modules/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/modules/",
+    "/mods/vanilla/"
+  ],
   "title": "Module 3 Production (2:5:10) 2.5 items/minute"
 }

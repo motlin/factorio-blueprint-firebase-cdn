@@ -7,11 +7,11 @@
   "fileName": "DB489CDE-3AD7-4F7A-9E8B-5863DF2647B4.jpeg",
   "lastUpdatedDate": 1552395708972,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "mfUaOi3cQ7gRPUL5raCfdewGzMe2": true,
     "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,

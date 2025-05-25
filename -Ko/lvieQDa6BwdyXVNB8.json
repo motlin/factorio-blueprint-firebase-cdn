@@ -2,12 +2,12 @@
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
   "descriptionMarkdown": "Sample Blueprints of how to split of the Main Bus and how to balance it\n- Full line split\n- Half line split\n- Middle half line split\n- Half line One sided split\n- 4x4 balancer\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4.%20Main%20Bus.PNG?alt=media&token=22d4e85e-864c-40a4-81bb-42cde148fbfc",
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Main Bus splitting",
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,

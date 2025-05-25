@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1691216572331,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/ltn/",
-    "2": "/mods/space-exploration/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/ltn/",
+    "/mods/space-exploration/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Space Ex Orbit Astrometric Sciences"
 }

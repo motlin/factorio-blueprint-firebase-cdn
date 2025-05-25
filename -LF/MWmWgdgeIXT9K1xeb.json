@@ -12,13 +12,13 @@
   "descriptionMarkdown": "The upper belt gives out Blue Circuits.\n\nThe middle Red Belt feeds in Green Circuits.\n\nAnd the bottom one feeds in Red Circuits.\n\nThe max production is limited by rate of Green Circuits supplied, \nw/ red Belt it is more than enough to support 12 assembler (assume crafting speed=1).\n\nThis blueprint gives you a 2x2 assembler as a module.",
   "fileName": "Compact BC.png",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/general/compact/",
-    "2": "/general/early game/",
-    "3": "/general/tileable/",
-    "4": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/compact/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Compact Blue Circuit Production",
   "author": {
     "userId": "8tsbAs4ngnRVkWduHpTKKj05Yjx2"

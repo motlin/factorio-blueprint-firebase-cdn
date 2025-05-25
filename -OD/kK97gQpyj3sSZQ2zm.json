@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/q0krV90",
   "lastUpdatedDate": 1733830156888,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/nauvis/"
-  },
+  "tags": [
+    "/planets/nauvis/"
+  ],
   "title": "Space Science Ship",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,

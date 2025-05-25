@@ -16,10 +16,10 @@
   "createdDate": 1536097866550,
   "fileName": "Production Module T3 Mk1.PNG",
   "numberOfFavorites": 13,
-  "tags": {
-    "3": "/production/belt based/",
-    "0": "/production/modules/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/"
-  }
+  "tags": [
+    "/production/belt based/",
+    "/production/modules/",
+    "/general/compact/",
+    "/general/tileable/"
+  ]
 }

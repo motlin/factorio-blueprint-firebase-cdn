@@ -30,10 +30,10 @@
     "width": 1237
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,18/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/general/tileable/"
+  ],
   "title": "Electric Engine Unit"
 }

@@ -56,9 +56,9 @@
   "imageUrl": "https://imgur.com/4v1ilhp",
   "lastUpdatedDate": 1734677129589,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba, beltbased, modular, scalable"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/RbawLKv",
   "lastUpdatedDate": 1730083030243,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/version/2,0/"
+  ],
   "title": "Module Helpers",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

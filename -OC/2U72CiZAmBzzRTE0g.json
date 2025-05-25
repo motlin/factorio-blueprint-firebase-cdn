@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Htv2FaH",
   "lastUpdatedDate": 1732004053294,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Percentage Display",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

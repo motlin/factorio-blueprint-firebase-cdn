@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1694705653430,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Some BASE blueprints"
 }

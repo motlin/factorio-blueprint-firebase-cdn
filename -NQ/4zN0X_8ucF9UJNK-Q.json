@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1678645735548,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear powerplant"
 }

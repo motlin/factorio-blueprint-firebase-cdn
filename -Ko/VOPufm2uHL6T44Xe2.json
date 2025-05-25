@@ -18,14 +18,14 @@
     "width": 1049
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/SteelSmelting.png?alt=media&token=1912b46b-bfe0-4c84-8366-6af76f546d3d",
-  "tags": {
-    "3": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/production/belt based/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/production/belt based/",
+    "/general/beaconized/"
+  ],
   "authorId": "kHrGgSDUAeZmtssi6nBi1mTGXkA2",
   "createdDate": 1499487121127,
   "descriptionMarkdown": "A very small footprint that is a bit more efficient on modules/beacons than Most of the other long ones I see. Its not perfect, the iron plates at the top sometimes stall out bewcause they have difficulty loading the belts. You can decide to swap half of the steel furnaces to speed 3 modules and it almost fixes it, but it only increases the steel output from about 44 a second to 46-48. At the cost of more iron input. Just paste another one down, tileable",

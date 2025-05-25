@@ -7,11 +7,11 @@
     "height": 1686,
     "id": "20aReTS"
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "0.17 Big Mall by SwaggoFlamingo",
   "author": {
     "userId": "mJlqRsBh0EO94qJXwCWCxrml5ZH2"

@@ -1,12 +1,12 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/123.png?alt=media&token=63263251-e203-4149-9f40-738652286573",
   "lastUpdatedDate": 1499475177229,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Smelter beacon lategame",
   "author": {
     "userId": "NAj8cJWELCfWjSko10JL98HUfeA3"

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1689429506515,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Satellite for 30spm",
   "favorites": {
     "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true

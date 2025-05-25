@@ -13,10 +13,10 @@
   "lastUpdatedDate": 1499428979542,
   "title": "16-16 balancer",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/version/0,14/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "9nIGvsHzdOQRnvP7Rau6z25zRbk1"
   },

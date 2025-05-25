@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1700999618977,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/"
+  ],
   "title": "Red+Green science 1/s",
   "favorites": {
     "FRCaETjyxeTtATHVVGP9r1KleMy2": true,

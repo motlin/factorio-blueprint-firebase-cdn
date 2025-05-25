@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/YSzhA03",
   "lastUpdatedDate": 1730501328547,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/smelting/"
+  ],
   "title": "Foundry item casting with automatic stone eraser",
   "favorites": {
     "q4O7HqsaMTTYRSEdtZUd8kN4gIo1": true,

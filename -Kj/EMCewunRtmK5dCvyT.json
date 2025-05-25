@@ -2,13 +2,13 @@
   "descriptionMarkdown": "Outputs:\n- Battery\n\nInputs\n- Iron Plates\n- Copper Plates\n- Sulfuric Acid\n\n<a href=\"https://imgur.com/a/hMCPoDi\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/tQHQN7p.png\" referrerpolicy=\"no-referrer\" class=\"border-warning img-thumbnail\"></a>\n",
   "fileName": "compactbatteryassembly-aa.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/compactbatteryassembly-aa.png?alt=media&token=ced9a948-2c27-479c-b346-5d6063fccfc3",
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/moderation/screenshot missing alt info/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/moderation/screenshot missing alt info/",
+    "/general/compact/"
+  ],
   "title": "Tilable compact battery assembly",
   "favorites": {
     "NJ2Rg6V5VteClFaADQE0pDqoll82": true,

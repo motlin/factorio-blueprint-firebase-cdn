@@ -7,13 +7,13 @@
   "createdDate": 1514280767357,
   "fileName": "steel_smelting.png",
   "lastUpdatedDate": 1514637215242,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/compact/",
+    "/production/smelting/"
+  ],
   "title": "Blue belt steel smelting",
   "descriptionMarkdown": "This setups fully consumes a compressed belt of iron plates (40 plates per second) and produces 9.6 steel plates per second, that all easily fit onto the right lane of the output belt.",
   "image": {

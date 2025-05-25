@@ -34,11 +34,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/F_001.jpg?alt=media&token=a152e492-21b2-43cb-8c0d-013a85e7e2ee",
   "lastUpdatedDate": 1564232624831,
   "numberOfFavorites": 16,
-  "tags": {
-    "2": "/production/rocket parts/",
-    "3": "/power/solar/",
-    "0": "/production/science/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/power/solar/",
+    "/production/science/",
+    "/train/unloading station/"
+  ],
   "title": "500SPM All in one V3"
 }

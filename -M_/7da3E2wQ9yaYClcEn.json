@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1620421534130,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "title": "45 Boilers in a line, no Pumps!"
 }

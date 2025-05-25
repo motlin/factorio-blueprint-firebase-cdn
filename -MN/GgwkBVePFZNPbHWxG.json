@@ -11,10 +11,10 @@
   },
   "lastUpdatedDate": 1606614764777,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/smelting/"
+  ],
   "author": {
     "userId": "zrNE4eZzL2SD8qRgjoovW4XFNry2"
   },

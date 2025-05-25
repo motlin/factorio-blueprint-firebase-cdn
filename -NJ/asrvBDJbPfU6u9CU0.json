@@ -16,9 +16,9 @@
   "lastUpdatedDate": 1700386301524,
   "numberOfFavorites": 2,
   "title": "Kovarex chain blocks",
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "favorites": {
     "VPHmov95BDgeNTAtruq8HUqHP9H2": true,
     "FRCaETjyxeTtATHVVGP9r1KleMy2": true,

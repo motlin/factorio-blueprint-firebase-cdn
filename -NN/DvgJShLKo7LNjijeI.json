@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1675287774537,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/train/junction/"
+  ],
   "title": "3x3 City Block w/ Roboports, Power, Red & Green Wires",
   "favorites": {
     "et1LclYF9EWXwKTZ7pmEH66tzXv2": true,

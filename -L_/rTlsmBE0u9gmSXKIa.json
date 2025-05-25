@@ -22,9 +22,9 @@
     "width": 1632
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/version/0,17/",
-    "0": "/version/0,15/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,15/"
+  ]
 }

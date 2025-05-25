@@ -16,8 +16,8 @@
     "userId": "NMi14jaWEfYbWPzO9ZFFNgp9qqw2"
   },
   "descriptionMarkdown": "basic rail turns and straight for 2 tracks",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/track/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/train/track/"
+  ]
 }

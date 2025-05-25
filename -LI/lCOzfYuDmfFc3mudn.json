@@ -3,11 +3,11 @@
   "descriptionMarkdown": "10 Refineries, 6 chemical plants for light to petroleum , 1 chemical plant for heavy to light, and 1 more for this last light to petroleum. 9 chemical plants for plastic. The oil comes from the top left corner, the water comes from the top center-ish, and the coal comes from the bottom right corner, but you can easily change all this.",
   "lastUpdatedDate": 1562046960810,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/production/plastic/",
-    "2": "/version/0,17/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "gikbOCGvWwY7hiFgsIoZrxMh4x93": true
   },

@@ -16,10 +16,10 @@
   "createdDate": 1564473256017,
   "fileName": "Ore cleaning.png",
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/krastorio/"
+  ],
   "favorites": {
     "fx9cNKikeZYiS526CpYrEm1Ku2M2": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

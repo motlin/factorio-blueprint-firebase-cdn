@@ -8,14 +8,14 @@
     "type": "image/png",
     "width": 518
   },
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/production/smelting/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Tileable Beaconed Stone Brick Furnace 'Block'",
   "author": {
     "userId": "AKDxMT0MZeUyKuxaUBR85eplqa42"

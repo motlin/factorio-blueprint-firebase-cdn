@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/0ixOT7L.png",
   "lastUpdatedDate": 1743295119571,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/power/steam/"
+  ],
   "title": "Sulfuric Acid Blueprint - 661MW"
 }

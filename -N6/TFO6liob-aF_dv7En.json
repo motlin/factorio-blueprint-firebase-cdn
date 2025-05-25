@@ -20,11 +20,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-9728862.png?alt=media&token=038b7e5e-2378-4920-970b-1e6e0f5bf89d",
   "lastUpdatedDate": 1661791258033,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/late game (megabase)/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "Ore Trains to Science v0.2"
 }

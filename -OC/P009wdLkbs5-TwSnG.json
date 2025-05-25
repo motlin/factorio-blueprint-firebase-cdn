@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/BZgmdJ0",
   "lastUpdatedDate": 1732382036853,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Quadro de observação em branco e lodo de crionita"
 }

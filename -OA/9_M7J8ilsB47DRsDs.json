@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/59U58f2",
   "lastUpdatedDate": 1731564966013,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "SIMPLEST MALL - no circuits! 1.3",
   "favorites": {
     "bCAKLZ0IzAhYLgwmMN7Bsfe36Qw2": true,

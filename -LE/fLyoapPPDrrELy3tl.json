@@ -13,9 +13,9 @@
   "descriptionMarkdown": "My take on purple science. Not tileable and thus limited. For early- to early mid-game.",
   "fileName": "pscience.png",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "author": {
     "userId": "ZG8g6v5Oe8ckCxD9XcUaZ3FNMIs2"
   },

@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1707360890864,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/other/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/other/",
+    "/general/beaconized/"
+  ],
   "title": "Holmium Processing"
 }

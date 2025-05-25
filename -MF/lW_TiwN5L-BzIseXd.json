@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1627549751422,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "scalable smelter before electric furnace",
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,

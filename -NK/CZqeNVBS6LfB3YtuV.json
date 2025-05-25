@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701034814262,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/version/0,15/"
+  ],
   "title": "AdvanceAmmo (Tier 1, Tier 2, Tier 3)",
   "favorites": {
     "FRCaETjyxeTtATHVVGP9r1KleMy2": true,

@@ -19,16 +19,16 @@
   },
   "lastUpdatedDate": 1578609447527,
   "numberOfFavorites": 2,
-  "tags": {
-    "5": "/train/right-hand-drive/",
-    "6": "/mods/vanilla/",
-    "8": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/production/oil processing/",
-    "4": "/train/stacker/",
-    "0": "/production/plastic/",
-    "7": "/version/0,17/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/production/oil processing/",
+    "/train/stacker/",
+    "/production/plastic/",
+    "/version/0,17/"
+  ],
   "title": "Plastic 50k + Sulfur 9.9k+ Lube 19k/m - Train-to-Train"
 }

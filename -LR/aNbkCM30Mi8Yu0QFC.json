@@ -16,9 +16,9 @@
   "descriptionMarkdown": "Set request - stack inserter bonus for what should be on the train in combinators, would advise locking slots in wagon too.\nSet decider closest to the train stop to whatever the train ID that your building train is assigned.",
   "numberOfFavorites": 3,
   "title": "Building Train (vanilla version)",
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "favorites": {
     "g7TJnzthuybZoJk84sCoULcZuGV2": true,
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true,

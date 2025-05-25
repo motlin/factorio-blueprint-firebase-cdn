@@ -16,7 +16,7 @@
   "title": "Some kind of messed up set of combinators",
   "authorId": "APJUNeyjOqdmMfMFtsabw4lwpNu2",
   "fileName": "some_kind_of_messed_up_circuit.jpg",
-  "tags": {
-    "0": "/circuit/indicator/"
-  }
+  "tags": [
+    "/circuit/indicator/"
+  ]
 }

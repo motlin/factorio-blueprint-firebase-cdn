@@ -162,10 +162,10 @@
   },
   "lastUpdatedDate": 1567034376251,
   "numberOfFavorites": 142,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Rocket Assembly v04 for v0.17 (1 rocket per minute, +40 seconds to launch)"
 }

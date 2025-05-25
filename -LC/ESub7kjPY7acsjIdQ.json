@@ -15,9 +15,9 @@
     "userId": "8P4p1t6E05cVTvNsfVmfX71A6cv2"
   },
   "authorId": "8P4p1t6E05cVTvNsfVmfX71A6cv2",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/"
+  ],
   "title": "2 Green science-packs per second"
 }

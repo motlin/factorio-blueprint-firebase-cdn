@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/eoOZko7",
   "lastUpdatedDate": 1737875542895,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Starplatform",
   "favorites": {
     "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,

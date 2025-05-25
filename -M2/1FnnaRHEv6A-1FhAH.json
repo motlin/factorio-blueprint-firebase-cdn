@@ -47,20 +47,20 @@
   },
   "lastUpdatedDate": 1589506031694,
   "numberOfFavorites": 25,
-  "tags": {
-    "4": "/general/early game/",
-    "6": "/general/compact/",
-    "7": "/power/solar/",
-    "9": "/production/other/",
-    "11": "/production/logistic (bot) based/",
-    "0": "/mods/vanilla/",
-    "1": "/production/robots/",
-    "2": "/power/accumulator/",
-    "12": "/version/0,18/",
-    "10": "/production/belt based/",
-    "3": "/belt/transport belt (yellow)/",
-    "5": "/general/mid game/",
-    "8": "/production/batteries/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/power/solar/",
+    "/production/other/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/production/robots/",
+    "/power/accumulator/",
+    "/version/0,18/",
+    "/production/belt based/",
+    "/belt/transport belt (yellow)/",
+    "/general/mid game/",
+    "/production/batteries/"
+  ],
   "title": "Batteries, Robots (90/min), Laser Turrets, and Accumulators + Second Blueprint for Robot Only Factory - BobAAAces"
 }

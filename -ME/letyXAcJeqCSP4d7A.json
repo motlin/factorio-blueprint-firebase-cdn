@@ -7,9 +7,9 @@
     "width": 694
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "CYknKFJQ3LMbmyhtrDevvGQuALz2"
   },

@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1682775871950,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Smart supply system"
 }

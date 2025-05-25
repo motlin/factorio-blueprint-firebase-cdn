@@ -36,12 +36,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/gawrgaraehtaeth.png?alt=media&token=8f9cfb25-95dd-4b5a-aa74-97d71fe4eafa",
   "lastUpdatedDate": 1589591628594,
   "numberOfFavorites": 16,
-  "tags": {
-    "4": "/production/advanced circuit (red)/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Beaconed Circuits"
 }

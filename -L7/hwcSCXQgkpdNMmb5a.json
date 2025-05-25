@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/mods/bobs/",
-    "3": "/mods/angels/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,16/"
+  ],
   "title": "[Bob Angels] Enrichment facility v.1.1",
   "author": {
     "userId": "BMbr3u14ITaxo16fWERJChsrR3f1"

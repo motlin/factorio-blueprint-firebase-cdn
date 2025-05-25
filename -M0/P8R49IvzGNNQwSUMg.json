@@ -9,9 +9,9 @@
     "width": 1924
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "303 Turbine / 12 Reactor Nuclear Power Hub",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true

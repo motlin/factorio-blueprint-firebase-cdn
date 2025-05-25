@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/IBUfh7T",
   "lastUpdatedDate": 1730172720553,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/other/",
-    "2": "/version/2,0/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/other/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Gleba Iron Ore/Bacteria Production",
   "favorites": {
     "D7373G2SW8PCd55iGUQmmY6oPZF3": true,

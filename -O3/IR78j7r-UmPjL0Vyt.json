@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/mdo5kwQ",
   "lastUpdatedDate": 1722608026342,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "U Turn Double line Railway + Pylons",
   "favorites": {
     "kMOfOYECb5goBD0wTNzjOomdO3G2": true,

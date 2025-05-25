@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1585530003988,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "All Science, All Belt"
 }

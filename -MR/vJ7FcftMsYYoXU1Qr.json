@@ -8,14 +8,14 @@
     "width": 1920
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/version/1,0/",
-    "4": "/version/0,18/",
-    "5": "/version/0,17/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/1,0/",
+    "/version/0,18/",
+    "/version/0,17/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "wNV0sR0FMJSn5PxJaYA3VcSqAUB2"
   },

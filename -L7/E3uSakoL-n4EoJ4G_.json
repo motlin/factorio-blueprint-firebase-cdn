@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Compact Concrete",
   "favorites": {
     "q4O7HqsaMTTYRSEdtZUd8kN4gIo1": true,

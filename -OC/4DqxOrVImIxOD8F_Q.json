@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/vYk6ONA",
   "lastUpdatedDate": 1732033343485,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/research (labs)/",
-    "2": "/power/nuclear/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Almost all build items"
 }

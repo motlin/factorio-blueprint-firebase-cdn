@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1661327258152,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/roundabout/",
-    "3": "/train/junction/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/train/left-hand-drive/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "title": "100x100 railed city block reactor (12x per city block)"
 }

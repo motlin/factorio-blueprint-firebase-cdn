@@ -12,14 +12,14 @@
   },
   "lastUpdatedDate": 1608042352313,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/fast transport belt (red)/",
+    "/general/late game (megabase)/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "D6ovwZEsuKaT2UuP5VBAg0blNAx2"
   },

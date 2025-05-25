@@ -18,12 +18,12 @@
   "authorId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13",
   "createdDate": 1532476790969,
   "descriptionMarkdown": "Angels Ore in box",
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/bobs/",
-    "2": "/mods/factorissimo/",
-    "3": "/mods/angels/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/factorissimo/",
+    "/mods/angels/"
+  ],
   "author": {
     "userId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13"
   },

@@ -16,10 +16,10 @@
   "numberOfFavorites": 5,
   "createdDate": 1577856253354,
   "lastUpdatedDate": 1577856253354,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/other/"
+  ],
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

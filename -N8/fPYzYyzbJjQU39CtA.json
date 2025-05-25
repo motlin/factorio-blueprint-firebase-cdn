@@ -27,12 +27,12 @@
   },
   "lastUpdatedDate": 1673608731808,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Tileable Kovarex Enrichment"
 }

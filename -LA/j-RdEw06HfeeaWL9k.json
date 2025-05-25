@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear power generator 483 MW",
   "createdDate": 1524428294932,
   "descriptionMarkdown": "Self adjustable, titleable 4-Reactors power generator with 483 MW output.\n",

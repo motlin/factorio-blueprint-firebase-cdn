@@ -19,9 +19,9 @@
     "width": 1440
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/production/research (labs)/"
-  }
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/production/research (labs)/"
+  ]
 }

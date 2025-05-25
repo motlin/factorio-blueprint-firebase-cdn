@@ -20,9 +20,9 @@
     "height": 456
   },
   "lastUpdatedDate": 1536648982383,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Radar Outpost"
 }

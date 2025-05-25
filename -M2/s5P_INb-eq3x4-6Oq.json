@@ -16,13 +16,13 @@
   },
   "lastUpdatedDate": 1624677472543,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/version/0,18/",
-    "3": "/version/1,0/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/general/early game/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "JXiGzEarp2bKcIUZsjYMbFGpOHP2": true,

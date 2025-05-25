@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1681657155347,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/storage/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/storage/"
+  ],
   "title": "Storage Display",
   "favorites": {
     "CCeilOffxwfpFvuqYCkabVjg91Y2": true,

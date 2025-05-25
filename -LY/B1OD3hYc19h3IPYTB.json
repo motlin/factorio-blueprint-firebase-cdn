@@ -26,10 +26,10 @@
     "height": 888
   },
   "lastUpdatedDate": 1549611406554,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ]
 }

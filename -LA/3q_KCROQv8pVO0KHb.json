@@ -12,12 +12,12 @@
     "width": 538
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/version/0,15/",
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/0,15/",
+    "/production/belts/"
+  ],
   "favorites": {
     "epojwMBG8OhB8wkGkGtluqMtBez1": true,
     "6nvml2YP2adY24rxfR3q4McsDti2": true,

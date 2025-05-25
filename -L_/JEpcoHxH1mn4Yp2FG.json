@@ -9,10 +9,10 @@
   },
   "lastUpdatedDate": 1551896632074,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/train/loading station/"
+  ],
   "author": {
     "userId": "uA3O8nH0D7dkCI6cXFpbhEnpMAV2"
   },

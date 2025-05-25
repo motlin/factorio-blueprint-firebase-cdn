@@ -26,8 +26,8 @@
   "imageUrl": "https://imgur.com/PaVuUxA",
   "lastUpdatedDate": 1732302844076,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Legendary foundry/Tungstene Carbide grinder (~1% efficiency)"
 }

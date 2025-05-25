@@ -16,9 +16,9 @@
     "type": "image/jpeg",
     "width": 1893
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,15/",
-    "2": "/mods/creative/"
-  }
+  "tags": [
+    "/production/science/",
+    "/version/0,15/",
+    "/mods/creative/"
+  ]
 }

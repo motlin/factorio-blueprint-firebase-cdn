@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698286531064,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "PROCESSAMENTO DE MINERIOS NV3",
   "favorites": {
     "lyPTlzDER9ei9oDJhzTCkoQHFY52": true,

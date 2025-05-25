@@ -12,13 +12,13 @@
     "width": 1744,
     "height": 533
   },
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/oil processing/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/rocket parts/"
+  ],
   "favorites": {
     "mBceYG4ttWZiAWGaSGAnzTFQxe32": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

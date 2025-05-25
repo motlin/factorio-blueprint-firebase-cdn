@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1693174713223,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/power/steam/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/power/steam/",
+    "/power/solar/"
+  ],
   "title": "Power Connector if Battery low (accumulator low)"
 }

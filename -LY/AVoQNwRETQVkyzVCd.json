@@ -20,14 +20,14 @@
   },
   "lastUpdatedDate": 1578685265800,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/production/rocket parts/",
-    "3": "/general/beaconized/",
-    "4": "/train/right-hand-drive/",
-    "5": "/production/oil processing/",
-    "6": "/general/late game (megabase)/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/train/right-hand-drive/",
+    "/production/oil processing/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "Rocket Fuel - 2280/m - Trains and Belts"
 }

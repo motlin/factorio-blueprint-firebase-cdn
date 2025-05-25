@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/I4BQDNk",
   "lastUpdatedDate": 1736267757573,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/gleba/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/gleba/",
+    "/version/2,0/"
+  ],
   "title": "Calcite on Gleba with transport",
   "favorites": {
     "B13g775iW3Xr3BUc3kLg2juZFxD3": true,

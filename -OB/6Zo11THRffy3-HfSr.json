@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2vv4wkj",
   "lastUpdatedDate": 1730998957206,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Solar ship",
   "favorites": {
     "eZjWgSYe8jb2clfs37dOFnsrB6u2": true

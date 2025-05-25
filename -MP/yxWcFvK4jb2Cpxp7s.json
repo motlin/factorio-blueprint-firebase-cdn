@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1609863611979,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Hub Extender"
 }

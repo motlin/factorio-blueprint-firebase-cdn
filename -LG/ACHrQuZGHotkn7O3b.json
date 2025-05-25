@@ -8,11 +8,11 @@
     "type": "image/jpeg",
     "width": 1601
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/tileable/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "favorites": {
     "NmbjS7gcobgXRpRxmTwnahhW5Jh1": true
   },

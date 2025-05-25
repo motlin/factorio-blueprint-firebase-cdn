@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1692028342368,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/guns and ammo/"
+  ],
   "title": "Ammo Factory",
   "favorites": {
     "oPp0wVqswhY6nq2tupAreJt2bhe2": true,

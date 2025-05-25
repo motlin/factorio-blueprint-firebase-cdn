@@ -26,12 +26,12 @@
   },
   "lastUpdatedDate": 1604799512473,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/production/oil processing/",
-    "3": "/general/mid game/",
-    "4": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/production/oil processing/",
+    "/general/mid game/",
+    "/production/uranium/"
+  ],
   "title": "Uranium Processing Plant Mk.2"
 }

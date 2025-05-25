@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1696393365935,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/space-exploration/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/space-exploration/",
+    "/production/science/"
+  ],
   "title": "[SE] 576 SPM Red Science (with built-in power indicator and low material indicator system) "
 }

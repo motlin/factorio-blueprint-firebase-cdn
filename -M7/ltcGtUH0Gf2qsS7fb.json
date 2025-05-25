@@ -4,9 +4,9 @@
   "descriptionMarkdown": "Ok, so there are easier ways to create a display but I didn't want to use set display modules for each character and simply give each module the 'map'. As more of a challenge I created this version of a display to decode each character and then use math to add each section of the character to the next one.\n\nIt was a good exercise and I planned on it being more general use than specific BUT calculating all those values got me right up into overflow territory so the number of characters are limited to 8.",
   "fileName": "8_character_Display.png",
   "lastUpdatedDate": 1590017419213,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "author": {
     "userId": "69ujt33ELVWSerPRlBIlhqvFotI2"
   },

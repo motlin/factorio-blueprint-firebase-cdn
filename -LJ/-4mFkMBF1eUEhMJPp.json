@@ -14,10 +14,10 @@
   "createdDate": 1533304841477,
   "descriptionMarkdown": "How to use:\n1. Plant blueprint, connect chests to dron station, 1 water pump and electic wires\n2. After reactor builded, turn constant combinator with fuel icon ON\n3. Wait\n\nnote: can be trouble it energy consumption overloaded\n\nFeatures:\n+ compact design (try to find more compact ;)\n+ smart nuclear fuel consumption without losses\n+ up to 40 MW energy\n+ indication of steam and fuel in reactor\n+ calculation of total used fuel\n+ can be turned ON/OFF any time (constant combinator with fuel icon)\n+ warnings about available fuel and used fuel overflow",
   "fileName": "2018-08-03_155016.jpg",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/compact/"
+  ],
   "title": "Compact Reactor x1 (smart, 40 MW)",
   "favorites": {
     "vZW5cydrWuVX555rv60LXlT3xSl1": true,

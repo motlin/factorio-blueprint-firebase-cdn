@@ -16,12 +16,12 @@
   },
   "authorId": "Fb8iGMQquWg8I9hsZ3KsqfqajQr2",
   "descriptionMarkdown": "We all know how much copper green circuits can soak up. That's what this design is meant for - saving your copper and iron (in the long run) and also getting more green circuits out of a small space.\n\nThis design also prioritizes the modules at the very front of the output, instead of the back. (This means that if only 1/2 of the machine's capacity is being used, then the front half of the machine will be active instead of the back half.) In most machines, the back half activates first but the materials get there last. With this design, that isn't the case.\n\nThis over-lapping tileable blueprint (you expand by over-lapping part of it) if not only space-efficient but it's also material efficient. Each of the crafters have +40% productivity. The green circuit crafters have +90% speed, and the copper wire crafters have +140% speed.\n\nTiling:\n\nThe first 2 spaces and last 2 spaces of the blueprint are identical. This is so you can overlap them when tiling, and save space.\n\nInput:\n+ 2 copper belts (sides)\n+ 2 iron belts (outer of middle)\n\nOutput:\n+ 2 green circuit belts (inner of middle)\n\n**After testing, I've concluded that you will need 3 of these modules to mostly fill up 2 blue belts with green circuits.**\n\n[r/factrio post](https://www.reddit.com/r/factorio/comments/gbou6m/beaconed_and_spacematerial_efficient_green/)",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "3": "/version/0,15/",
-    "4": "/general/beaconized/",
-    "5": "/belt/prioritizer/"
-  }
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/version/0,15/",
+    "/general/beaconized/",
+    "/belt/prioritizer/"
+  ]
 }

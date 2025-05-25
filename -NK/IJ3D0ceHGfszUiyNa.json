@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1701131885769,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Everything Holmium ",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Holm.png?alt=media&token=ffd4033c-9bcd-4212-aae1-1ec5930239e2"
 }

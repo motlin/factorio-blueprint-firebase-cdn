@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ZAv0l4z",
   "lastUpdatedDate": 1731831665511,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/unloading station/"
+  ],
   "title": "Unloading station with 5 items",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

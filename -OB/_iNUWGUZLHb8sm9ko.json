@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/Cp0L00X",
   "lastUpdatedDate": 1732242910788,
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/rocket parts/",
-    "2": "/production/science/",
-    "3": "/general/beaconized/",
-    "4": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/space-age/"
+  ],
   "title": "Gleba Science + Rocket",
   "favorites": {
     "iIaZpwmmapUZtoYCyjEzldpsnjr2": true,

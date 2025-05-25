@@ -13,13 +13,13 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/general/late game (megabase)/",
-    "4": "/circuit/counter/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/late game (megabase)/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "6Ec1Uoz375UfPKgUKYtfoKzX0XP2": true,
     "UpEdkEsscHZcY7k8hynHOeczmdH2": true,

@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1702785288424,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/version/unknown/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/unknown/"
+  ],
   "title": "Late Game Beaconed Green Chip Setup"
 }

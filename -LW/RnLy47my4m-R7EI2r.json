@@ -20,7 +20,7 @@
     "6MGWC2v8imePCNkKPnZehgDGG113": true
   },
   "descriptionMarkdown": "Its just beautiful,\nUse pump to Steam Turbines to get power",
-  "tags": {
-    "0": "/power/nuclear/"
-  }
+  "tags": [
+    "/power/nuclear/"
+  ]
 }

@@ -27,16 +27,16 @@
   },
   "lastUpdatedDate": 1578726639661,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/electronic circuit (green)/",
-    "3": "/general/mid game/",
-    "4": "/general/early game/",
-    "5": "/general/compact/",
-    "2": "/belt/fast transport belt (red)/",
-    "6": "/production/belt based/",
-    "7": "/production/other/",
-    "8": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/general/mid game/",
+    "/general/early game/",
+    "/general/compact/",
+    "/belt/fast transport belt (red)/",
+    "/production/belt based/",
+    "/production/other/",
+    "/version/0,17/"
+  ],
   "title": "Electronic Circuit BUS Block - 2 Red Belts of Green Cards from 2 Red Belts of Iron Ore, 3 Red Belts of Copper Ore, and Coal"
 }

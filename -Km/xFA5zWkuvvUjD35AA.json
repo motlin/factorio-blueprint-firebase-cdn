@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 83,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Blue Circuits - Endgame",
   "favorites": {
     "2QicHzlu6zWAh4eGlEp6mxOkSRR2": true,

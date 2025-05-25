@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/jctpwo1.png",
   "lastUpdatedDate": 1737673678971,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/other/"
+  ],
   "title": "Space Turtle"
 }

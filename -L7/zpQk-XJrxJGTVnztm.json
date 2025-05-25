@@ -15,10 +15,10 @@
   "authorId": "v1SeQRdbZbVIHdqTD9XgXVpK98S2",
   "descriptionMarkdown": "About as close to perfect, as I could get",
   "lastUpdatedDate": 1521489394938,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Belt Smelting Array One Way"
 }

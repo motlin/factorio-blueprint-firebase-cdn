@@ -4,10 +4,10 @@
   "descriptionMarkdown": "All this blueprint book has is two iterations of number made with lamps and Reg and green Wire\nnumbers 1-8 Both Non Colored and Colored i did not do a #9 Because all you have to do is rotate #6 180 Degees",
   "lastUpdatedDate": 1552609690911,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "cBljQ9df9GW7V9AliNfLOhPNBfL2"
   },

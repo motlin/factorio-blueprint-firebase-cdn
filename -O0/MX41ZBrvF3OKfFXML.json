@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/uEWx2vh",
   "lastUpdatedDate": 1719456189256,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/early game/"
+  ],
   "title": "This is the best book ever for starter base and megabase"
 }

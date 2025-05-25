@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/1unVGrH",
   "lastUpdatedDate": 1716406681580,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/modules/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/",
-    "5": "/general/tileable/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/modules/",
+    "/production/belt based/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "7,5/m Speedmodule 3",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

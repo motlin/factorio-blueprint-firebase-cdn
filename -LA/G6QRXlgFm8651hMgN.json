@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "2xE8qjsXfccb5KV8yEPgeYcj0EH2": true,
     "wwITNfNOPOMTL62zpsJ20Ht3MDF3": true,

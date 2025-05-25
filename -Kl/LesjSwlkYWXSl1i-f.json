@@ -17,11 +17,11 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "SAdyANb3RLeFsiThWPK611ZH1Ke2": true
   }

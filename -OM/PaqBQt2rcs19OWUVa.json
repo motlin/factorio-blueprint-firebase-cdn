@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/IYjhGON",
   "lastUpdatedDate": 1743129371627,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Grid de fornalhas elétricas: aço"
 }

@@ -10,10 +10,10 @@
   "fileName": "Безымянный.jpg",
   "lastUpdatedDate": 1527665304423,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/version/0,16/"
+  ],
   "title": "Fluid storage",
   "author": {
     "userId": "GhQ0teFwKjeKTgm59og7zWdAudt1"

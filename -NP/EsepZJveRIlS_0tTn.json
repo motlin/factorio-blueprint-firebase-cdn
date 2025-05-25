@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1677451243066,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/version/0,15/",
-    "2": "/mods/other/",
-    "3": "/mods/lighted-electric-poles/",
-    "4": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/version/0,15/",
+    "/mods/other/",
+    "/mods/lighted-electric-poles/",
+    "/mods/aai/"
+  ],
   "title": "Vitamelange Extract Production ( 1/2 Blue Belt )",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,

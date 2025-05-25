@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1687936407072,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/",
-    "3": "/version/1,0/",
-    "4": "/production/belt based/",
-    "5": "/general/tileable/",
-    "6": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,1/",
+    "/version/1,0/",
+    "/production/belt based/",
+    "/general/tileable/",
+    "/production/science/"
+  ],
   "title": "Blue Science - 2700 / min",
   "favorites": {
     "ywlOvhX2mZS8RgA8Ly0UN2c99tu2": true

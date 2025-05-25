@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/xHj4eQh",
   "lastUpdatedDate": 1732363497770,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "title": "Asteroid Balancer",
   "favorites": {
     "NkxM1USI7Qf9VRCPPGV5ATu24ir1": true,

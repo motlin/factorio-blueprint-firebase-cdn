@@ -28,9 +28,9 @@
   },
   "lastUpdatedDate": 1653474625632,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "All science with or without module and beacon"
 }

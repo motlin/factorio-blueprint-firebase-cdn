@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1631094809053,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Endgame solar panels + accu production",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d%E2%80%99%C3%A9cran%202021-09-08%20115211.png?alt=media&token=5369d370-49da-48e8-8ce3-10290eda4008",
   "favorites": {

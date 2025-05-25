@@ -14,12 +14,12 @@
     "5wSu2wrBTdanqyClOZmGGNyoEeq1": true
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/general/early game/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/train/unloading station/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/startunloadv1.3.PNG?alt=media&token=d4186e71-fc96-4a3f-9a4f-ad3ea5e527ba",
   "image": {
     "height": 1256,

@@ -25,12 +25,12 @@
   },
   "title": "Beaconed Advanced Circuits (44/s)",
   "descriptionMarkdown": "Outputs a blue belt of advanced circuits in a 23x72 area.\n\n<b>Change Log:</b>\n<ul>20th June 2019 -  Made 1 tile shorter</ul>\n<ul>20th June 2019 - Initial Upload</ul>",
-  "tags": {
-    "3": "/general/tileable/",
-    "4": "/version/0,17/",
-    "5": "/mods/vanilla/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/general/tileable/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ]
 }

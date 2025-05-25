@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1655229106962,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/",
-    "2": "/general/tileable/",
-    "3": "/train/crossing/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/general/tileable/",
+    "/train/crossing/"
+  ],
   "title": "Defence Wall - Grid Locked - Space Exploration"
 }

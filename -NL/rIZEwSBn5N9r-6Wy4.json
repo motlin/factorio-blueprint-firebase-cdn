@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1702910360491,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Self regulating 4-core nucelar reactor",
   "favorites": {
     "tHmMdZr98kMW0nUBFVNJhrOhmKd2": true,

@@ -9,11 +9,11 @@
   },
   "lastUpdatedDate": 1673052086325,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/mall (make everything)/",
+    "/mods/space-exploration/"
+  ],
   "favorites": {
     "zC5MyQdIwueOWJM5obOWpBTTEW83": true,
     "H5lymY5ep2bcFjb6fHU8E5RcURK2": true,

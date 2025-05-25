@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1656120388941,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "robo-smelter-pickup",
   "favorites": {
     "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,

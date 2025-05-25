@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/RyjHmGh",
   "lastUpdatedDate": 1734729437926,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "N First Step - Space Lab",
   "favorites": {
     "UnJlHkuhWpbRLB2Ppwl21PlKstj1": true

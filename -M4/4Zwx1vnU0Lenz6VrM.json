@@ -24,8 +24,8 @@
   "descriptionMarkdown": "Very compact, almost ideal ratio Krastorio 2 Solar Layout. (Has 20 \"extra\" accumulators) Due to substation cable length, no spacing at all is available between blueprint \"tiles\" when pasting lots of these. Can sustain ~36.4 MW.",
   "lastUpdatedDate": 1586010247009,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/krastorio/"
-  }
+  "tags": [
+    "/power/solar/",
+    "/mods/krastorio/"
+  ]
 }

@@ -16,11 +16,11 @@
     "type": "image/jpeg",
     "width": 765
   },
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/version/0,16/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "0": "/production/science/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ]
 }

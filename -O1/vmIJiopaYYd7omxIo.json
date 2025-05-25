@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/WBIoSzB",
   "lastUpdatedDate": 1721137444192,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "Factory-Mall",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

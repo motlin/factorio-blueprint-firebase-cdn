@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697453988725,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/ltn/"
+  ],
   "title": "LTN用グリッドとデポット",
   "favorites": {
     "rOWXx6EqJGcQh0aOa4wH7I4WBRD2": true

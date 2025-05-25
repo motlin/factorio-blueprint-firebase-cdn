@@ -13,8 +13,8 @@
   "imageUrl": "https://i.imgur.com/MoKnlYU.png",
   "lastUpdatedDate": 1740724694639,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Simple Arcosphere Balancer"
 }

@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-05-31_14-07-44.png?alt=media&token=872aefb8-7ab2-4cd0-9a36-6d029509d3da",
   "lastUpdatedDate": 1504818766680,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "base book with beacons"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1627811449854,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/prioritizer/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/belt/balancer/"
+  ],
   "title": "Чертёж на равномерную погрузку в сундуки с конвеера. Масштабируемый. Для Factorio Paranoidal beta 7 "
 }

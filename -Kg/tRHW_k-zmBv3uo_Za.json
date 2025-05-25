@@ -1,11 +1,11 @@
 {
   "fileName": "bp-red-circuits-fs8.png",
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/",
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/production/advanced circuit (red)/"
+  ],
   "author": {
     "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"
   },

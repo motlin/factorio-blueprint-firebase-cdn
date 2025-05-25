@@ -15,10 +15,10 @@
   "numberOfFavorites": 1,
   "descriptionMarkdown": "<b>input</b>: middle lanes<br />\n<b>output</b>: top and bottom lanes",
   "fileName": "plates.PNG",
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Furnace Plates"
 }

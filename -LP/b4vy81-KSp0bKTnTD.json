@@ -16,10 +16,10 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "1": "/version/0,15/",
-    "0": "/mods/creative/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/creative/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true
   }

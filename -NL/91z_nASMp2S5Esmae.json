@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1702049348156,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Mall Compendium"
 }

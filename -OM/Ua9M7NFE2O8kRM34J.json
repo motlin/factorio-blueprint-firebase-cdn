@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/wAk9qpW.png",
   "lastUpdatedDate": 1743263433692,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/general/early game/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/general/early game/",
+    "/version/2,0/"
+  ],
   "title": "Compact first 4 sciences 1.5/s",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

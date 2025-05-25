@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 19,
-  "tags": {
-    "3": "/general/compact/",
-    "0": "/production/robots/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/robots/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "etTRmeQKKhRUQKTpD8JmWNnFQN32": true,
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,

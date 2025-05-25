@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/mGgaV5k",
   "lastUpdatedDate": 1721326874196,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Ciências vermelha e verde",
   "favorites": {
     "8tqjbtli6vUwJNUjBoQPNWMPJRx1": true

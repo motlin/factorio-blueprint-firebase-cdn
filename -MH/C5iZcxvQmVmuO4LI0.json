@@ -13,10 +13,10 @@
     "width": 1920
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/circuit/counter/"
+  ],
   "author": {
     "userId": "4UwDSRJL5xgKZLH2w5nTR2UhkdT2"
   },

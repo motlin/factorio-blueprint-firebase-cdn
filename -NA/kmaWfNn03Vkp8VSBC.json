@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1662760043997,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/belt based/",
-    "2": "/version/1,0/",
-    "3": "/power/nuclear/",
-    "4": "/mods/vanilla/",
-    "5": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/belt based/",
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Maximum Uranium - Kovarex U235 Without Waste",
   "favorites": {
     "Y3bxY60AnQNwJ3jcTnoepdkD9mv2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1632260996680,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/aai/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/aai/",
+    "/mods/other/"
+  ],
   "title": "Krastorio Space Exploration 135MW Biomethanol Power",
   "favorites": {
     "GXGsziPDIFSKVR2cd7YLJFXFiqN2": true,

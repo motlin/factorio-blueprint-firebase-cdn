@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/HsaCwQ8",
   "lastUpdatedDate": 1715626126324,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Simple Bot Counter"
 }

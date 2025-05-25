@@ -19,12 +19,12 @@
   "fileName": "LateOil.PNG",
   "lastUpdatedDate": 1535894292652,
   "numberOfFavorites": 16,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "author": {
     "userId": "CtE371ME1EdeqxYqI8CmBcuCBAs2"
   },

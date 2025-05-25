@@ -12,11 +12,11 @@
   },
   "lastUpdatedDate": 1528553886465,
   "numberOfFavorites": 0,
-  "tags": {
-    "2": "/power/nuclear/",
-    "0": "/mods/factorissimo/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/factorissimo/",
+    "/power/kovarex enrichment/"
+  ],
   "author": {
     "userId": "MWzpGZWGajfkWrMR2jl85rAitaE3"
   },

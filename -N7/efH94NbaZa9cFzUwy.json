@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1658573569205,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/mods/other/"
+  ],
   "title": "TSM Outpost builder sample ME station",
   "favorites": {
     "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true

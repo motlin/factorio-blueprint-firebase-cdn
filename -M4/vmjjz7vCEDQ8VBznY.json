@@ -13,11 +13,11 @@
     "id": "w4FPc04"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/early game/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Handfed Starter Base",
   "lastUpdatedDate": 1586919832632,
   "author": {

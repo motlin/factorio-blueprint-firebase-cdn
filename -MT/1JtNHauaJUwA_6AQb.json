@@ -16,13 +16,13 @@
   "createdDate": 1612799252105,
   "descriptionMarkdown": "Blueprint for a train station on 2 rails.\n\nThere is just enough space for a train stop with 1 locomotive and 4 wagon.\n\nComplete with 4 roboports in the middle to allow for charging or unloading train content.",
   "lastUpdatedDate": 1612799252105,
-  "tags": {
-    "4": "/train/roundabout/",
-    "5": "/version/0,15/",
-    "6": "/train/junction/",
-    "0": "/train/right-hand-drive/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/vanilla/"
-  }
+  "tags": [
+    "/train/roundabout/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ]
 }

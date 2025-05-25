@@ -3,11 +3,11 @@
   "createdDate": 1495058929014,
   "lastUpdatedDate": 1498740176974,
   "numberOfFavorites": 21,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/train/pax/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/pax/"
+  ],
   "title": "PAX train home",
   "author": {
     "userId": "cMexP6bEEeaBZkfwqpD1ZAEa1mH3"

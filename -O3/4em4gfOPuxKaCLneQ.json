@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/N0CmxJz",
   "lastUpdatedDate": 1722381171406,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "[Ultracube] Deep-core Train Mining",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true

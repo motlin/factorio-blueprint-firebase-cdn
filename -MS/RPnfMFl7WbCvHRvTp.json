@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1641159252628,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Factorio Made to Measure Outposts",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

@@ -11,10 +11,10 @@
   "fileName": "Purple.jpg",
   "lastUpdatedDate": 1552769103003,
   "title": "0.17 Version Purple Science",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "authorId": "6EuJrc54N9TDOFQgDK7WC9Y90R23",
   "createdDate": 1552566938828,
   "descriptionMarkdown": "0.17 Version Purple Science",

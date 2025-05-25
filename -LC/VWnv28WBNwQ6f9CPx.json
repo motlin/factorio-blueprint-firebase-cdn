@@ -8,11 +8,11 @@
     "type": "image/jpeg",
     "width": 1697
   },
-  "tags": {
-    "0": "/train/track/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Hex grid tile",
   "favorites": {
     "KHYeyqAvq0aTJLImH1gW3sG4atB3": true,

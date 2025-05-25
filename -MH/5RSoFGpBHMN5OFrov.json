@@ -20,17 +20,17 @@
   },
   "lastUpdatedDate": 1628974916052,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/early game/",
-    "2": "/general/tileable/",
-    "3": "/production/smelting/",
-    "4": "/production/belt based/",
-    "5": "/version/0,15/",
-    "6": "/version/0,16/",
-    "7": "/version/0,17/",
-    "8": "/version/0,18/",
-    "9": "/version/0,14/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/production/smelting/",
+    "/production/belt based/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/0,14/"
+  ],
   "title": "Furnace [item=electric-furnace]  - [item=transport-belt][item=fast-transport-belt][item=express-transport-belt] - No Module - Lamp / No Lamp"
 }

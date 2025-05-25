@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1640286042377,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mass Beacon Production(Expandable)",
   "favorites": {
     "we7GMANN5SYFeddgkztRoERAX3n2": true

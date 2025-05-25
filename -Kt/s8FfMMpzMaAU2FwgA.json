@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Cerbion's Nuclear Reactor Mk3",
   "authorId": "SVoQBmC7dlYhvuiGUKag2UNLYiZ2",
   "createdDate": 1505254247390,

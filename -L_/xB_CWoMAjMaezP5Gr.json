@@ -15,10 +15,10 @@
   "descriptionMarkdown": "NRC's BP\n\nNRCの伝達用青図。",
   "lastUpdatedDate": 1692534709571,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "author": {
     "userId": "tB1r0dpBKtazEOLdlQL8fPwk12G3"
   },

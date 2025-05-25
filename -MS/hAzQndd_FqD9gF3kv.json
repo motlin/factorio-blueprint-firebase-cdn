@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1641435685172,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/production/rocket parts/"
+  ],
   "title": "Space Exploration Cargo Rocket Parts",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

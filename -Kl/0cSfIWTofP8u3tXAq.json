@@ -9,11 +9,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170525023430_1.jpg?alt=media&token=0a31cb8d-4d8e-4882-9670-696498652d9a",
   "lastUpdatedDate": 1495941145663,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "xFaXIkVbwFbOrv2XkFuihIbBFnS2"
   },

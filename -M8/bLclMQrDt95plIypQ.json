@@ -2,12 +2,12 @@
   "authorId": "AWl9koeZrvUxUeKX7fXtfrOC6Bf1",
   "descriptionMarkdown": "Basic beaconed green circuits, loaders output to a compacted blue belt. Sorry it's not super pretty, but I haven't seen one on here yet so I figured I'd post what I have.\n\nIt's technically tileable if you upgrade the blue belts to the next tier, but I haven't tested this",
   "fileName": "screenshot-tick-3367351.png",
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/general/beaconized/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "title": "Krastorio 2 - Blue Belt Compacted Green Circuits (Tileable)",
   "author": {
     "userId": "AWl9koeZrvUxUeKX7fXtfrOC6Bf1"

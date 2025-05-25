@@ -14,13 +14,13 @@
   },
   "authorId": "taiR3iCKpMN6L3V4k7C1i5NC0in2",
   "numberOfFavorites": 0,
-  "tags": {
-    "3": "/general/beaconized/",
-    "4": "/general/marathon/",
-    "0": "/version/0,17/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/marathon/",
+    "/version/0,17/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/"
+  ],
   "descriptionMarkdown": "Form left to right:\n\n1/2 iron plates - 1/2 copper plates - 1 copper plates - 1 copper plates - 1/2 copper plates - 1/2 iron plates",
   "fileName": "GreenCircuit.png"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/0I9saio",
   "lastUpdatedDate": 1731005390515,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/version/0,15/"
+  ],
   "title": "Simple late game smelter",
   "favorites": {
     "1lCcBHS2U1bOrK1p3MvvUtHgzrG2": true,

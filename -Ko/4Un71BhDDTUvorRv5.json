@@ -1,13 +1,13 @@
 {
   "lastUpdatedDate": 1541950711130,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/train/right-hand-drive/",
-    "3": "/general/chunk aligned/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "jJtF1BO66wYXPvljopKnvum5Ujp1"
   },

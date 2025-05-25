@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698013043838,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "title": "Kovarex enrichment process, simple and expandable.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Covarex.by.Cherepidze.v2.png?alt=media&token=222e5e01-60be-438b-a4e4-1a947598e036",
   "favorites": {

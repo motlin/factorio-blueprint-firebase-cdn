@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1694531946406,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "Dumb K2+SE Mall",
   "favorites": {
     "LqMgKMbfidZGwoYmWaohPqM5r2o1": true,

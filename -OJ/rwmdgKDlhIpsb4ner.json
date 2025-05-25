@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/RXPpdAD",
   "lastUpdatedDate": 1740400438113,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Emboss Designs: Max Playtime Alarm",
   "favorites": {
     "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true

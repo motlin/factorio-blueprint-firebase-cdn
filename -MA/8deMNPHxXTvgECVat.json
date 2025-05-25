@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1592521042022,
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/version/0,18/"
+  ],
   "title": "1000spm (belt)"
 }

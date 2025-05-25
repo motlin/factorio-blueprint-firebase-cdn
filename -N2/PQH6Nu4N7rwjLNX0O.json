@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1652944944704,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/production/plastic/",
-    "4": "/production/belt based/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/plastic/",
+    "/production/belt based/",
+    "/general/compact/"
+  ],
   "title": "Beaconed Compact Sulfuric Acid w/ Sulfur",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

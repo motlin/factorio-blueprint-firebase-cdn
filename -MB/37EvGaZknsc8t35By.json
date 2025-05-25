@@ -21,14 +21,14 @@
   },
   "lastUpdatedDate": 1622493167603,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/circuit/indicator/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/",
-    "5": "/version/0,18/",
-    "6": "/version/1,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/circuit/indicator/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,18/",
+    "/version/1,0/"
+  ],
   "title": "Fusée + Chronomètre"
 }

@@ -14,10 +14,10 @@
     "height": 581,
     "id": "LPiT6qq"
   },
-  "tags": {
-    "1": "/version/0,16/",
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/advanced circuit (red)/"
+  ],
   "lastUpdatedDate": 1543809511268,
   "title": "Red Circuit Production - 12/s",
   "favorites": {

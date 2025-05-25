@@ -26,9 +26,9 @@
   "imageUrl": "https://imgur.com/YRDzRxU",
   "lastUpdatedDate": 1736611619076,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "OS1-E Orbital Ore Station"
 }

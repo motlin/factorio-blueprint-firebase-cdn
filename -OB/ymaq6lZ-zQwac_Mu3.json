@@ -20,11 +20,11 @@
   "imageUrl": "https://imgur.com/DLTreBI",
   "lastUpdatedDate": 1731925460125,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/solar/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/solar/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Heavy Cargo Ship"
 }

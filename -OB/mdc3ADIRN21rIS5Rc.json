@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/M47Ytuq",
   "lastUpdatedDate": 1731721994916,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/science/"
+  ],
   "title": "Gleba efficient science production ",
   "favorites": {
     "NpLAScMy2ihG6nokQKcs4apPrgk1": true,

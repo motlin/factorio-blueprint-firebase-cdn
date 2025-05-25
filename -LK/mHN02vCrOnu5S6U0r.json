@@ -11,10 +11,10 @@
   },
   "fileName": "20180825201120_1.jpg",
   "lastUpdatedDate": 1535220744399,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "TaL8bgh0AHN78X6tDS10fsI0drj2"
   },

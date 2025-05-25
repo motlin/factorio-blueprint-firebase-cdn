@@ -15,11 +15,11 @@
     "type": "image/jpeg",
     "width": 3057
   },
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/smelting/"
+  ],
   "title": "[Seablock] molten copper from water",
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

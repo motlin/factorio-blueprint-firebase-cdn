@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1697757801961,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "title": "1300 U 235 P/Min"
 }

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1705086755764,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/compact/"
+  ],
   "title": "AiO Production Science",
   "favorites": {
     "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true,

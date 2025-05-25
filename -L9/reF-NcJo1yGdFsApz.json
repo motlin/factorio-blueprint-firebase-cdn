@@ -16,7 +16,7 @@
     "type": "image/jpeg",
     "width": 780
   },
-  "tags": {
-    "0": "/version/0,16/"
-  }
+  "tags": [
+    "/version/0,16/"
+  ]
 }

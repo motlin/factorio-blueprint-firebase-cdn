@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1628389773810,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Fast Expandable Blue Circuit (Processing Unit) Assembler",
   "favorites": {
     "UpEdkEsscHZcY7k8hynHOeczmdH2": true,

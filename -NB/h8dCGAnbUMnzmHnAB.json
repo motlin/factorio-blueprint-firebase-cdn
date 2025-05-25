@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1662909846569,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/"
+  ],
   "title": "Red Circuits without modules, 20/s out",
   "favorites": {
     "GF9TuIBPvjSERDMZqufGed2rmcv2": true,

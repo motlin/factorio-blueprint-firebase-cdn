@@ -52,8 +52,8 @@
   },
   "descriptionMarkdown": "Produces all belts, very compact. Takes in only iron plates and lube. It's balanced, more or less. The speed modules are optional but improve the resource balance. \n\nFun facts:\n - Tiles:              119 (17*7)\n - Vacant tiles:   4",
   "numberOfFavorites": 31,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/belts/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/belts/"
+  ]
 }

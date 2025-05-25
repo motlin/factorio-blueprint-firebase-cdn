@@ -22,13 +22,13 @@
   },
   "lastUpdatedDate": 1716732187683,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/production/science/",
-    "2": "/power/nuclear/",
-    "3": "/general/beaconized/",
-    "4": "/version/0,15/",
-    "5": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/production/science/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/production/rocket parts/"
+  ],
   "title": "Mark BB - bob mod"
 }

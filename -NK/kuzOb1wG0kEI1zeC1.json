@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1701666616798,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "Compact, tileable, beaconed coal liquefaction to plastic (20 coal to 18 plastic)",
   "favorites": {
     "Gfz4FiDxPEN6FJ93njTAAwy8Q7Y2": true,

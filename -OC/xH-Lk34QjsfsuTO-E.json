@@ -33,9 +33,9 @@
   "imageUrl": "https://imgur.com/bkwoW84",
   "lastUpdatedDate": 1733442836926,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/train/track/",
+    "/general/early game/"
+  ],
   "title": "Starter Base Book - Get Achievements"
 }

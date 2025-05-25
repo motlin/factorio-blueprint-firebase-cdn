@@ -9,10 +9,10 @@
     "type": "image/png",
     "width": 1067
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2"
   },

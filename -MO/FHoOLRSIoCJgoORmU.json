@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1607664879439,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "title": "Space Efficient Tileable Solar Power"
 }

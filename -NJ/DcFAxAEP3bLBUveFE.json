@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1670987711312,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/unloading station/"
+  ],
   "title": "Resupply Station",
   "favorites": {
     "1QnI3FxqTFX33pPsWbghmrQjrCd2": true

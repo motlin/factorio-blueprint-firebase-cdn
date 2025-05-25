@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "2": "/circuit/counter/",
-    "3": "/power/nuclear/",
-    "4": "/power/steam/",
-    "0": "/version/0,17/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/power/nuclear/",
+    "/power/steam/",
+    "/version/0,17/",
+    "/circuit/indicator/"
+  ],
   "title": "Minireactor 150MW con modulo \"anticristo\".",
   "favorites": {
     "u0t8Ux9JI5WUDfvdiVGFvmdQ7qu2": true,

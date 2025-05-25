@@ -112,13 +112,13 @@
   },
   "lastUpdatedDate": 1600157124018,
   "numberOfFavorites": 83,
-  "tags": {
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/production/mall (make everything)/",
-    "4": "/power/steam/",
-    "5": "/belt/tap/",
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/power/steam/",
+    "/belt/tap/",
+    "/general/early game/"
+  ],
   "title": "Nilaus' Base-in-a-Book complete for 1.0"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/bql9eTK",
   "lastUpdatedDate": 1726172887536,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de rocket parts e escudo térmico (S.E. + Exotics)"
 }

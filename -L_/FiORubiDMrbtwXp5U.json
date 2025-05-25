@@ -61,16 +61,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FactorioP_ES.png?alt=media&token=17a2c591-b524-4b2f-9b0d-ce6d31f2daf3",
   "lastUpdatedDate": 1731293608237,
   "numberOfFavorites": 31,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/production/belt based/",
-    "3": "/general/compact/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/general/tileable/",
-    "6": "/general/early game/",
-    "7": "/general/mid game/",
-    "8": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/compact/",
+    "/belt/express transport belt (blue)/",
+    "/general/tileable/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/version/1,0/"
+  ],
   "title": "NRC's Smelting / Early [Ver 1.1.30]"
 }

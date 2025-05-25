@@ -8,11 +8,11 @@
     "width": 1715
   },
   "lastUpdatedDate": 1611075466518,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/roundabout/"
+  ],
   "fileName": "screenshot 2 M.png",
   "numberOfFavorites": 1,
   "favorites": {

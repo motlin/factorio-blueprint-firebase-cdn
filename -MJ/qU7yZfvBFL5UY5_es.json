@@ -19,10 +19,10 @@
   "descriptionMarkdown": "Makes 75 SPM red and green. Does not include smelting. See the other Red & Green science prints for more suitable early game progressions that include smelting.\n\nNote: doesn't make 75 SPM until later in the game when you upgrade factories to yellow, but works fine (but slower) with lower tier factories.\nPart of the 75 SPM starter base blueprint book.",
   "lastUpdatedDate": 1602937545172,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "authorId": "wsdlY32MbNbMXLN6Rf4wIN3VbyM2"
 }

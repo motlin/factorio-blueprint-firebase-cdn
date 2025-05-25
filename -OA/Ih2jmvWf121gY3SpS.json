@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/HugC0wK",
   "lastUpdatedDate": 1730128657690,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/rocket parts/"
+  ],
   "title": "Spage Age scientific utility package"
 }

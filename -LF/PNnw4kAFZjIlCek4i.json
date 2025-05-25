@@ -4,10 +4,10 @@
   },
   "fileName": "jg-beaconed-purple.png",
   "lastUpdatedDate": 1558442098795,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "createdDate": 1558442098795,
   "descriptionMarkdown": "Horizontally tileable beaconed purple science.\n\nBring train tracks in on the train, the furnace+module inputs come from the red belts at the bottom. Each wagon brings in enough tracks for 276 science. ~800/m total with 6 wagon length trains, looks like it needs a train every 2 min to feed the beast.\n\n(long handed inserters on the right side of the train allows the BP to be tileable)",
   "image": {

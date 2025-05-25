@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1624040316922,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/belt/fast transport belt (red)/",
-    "5": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Vanilla Train System",
   "favorites": {
     "T1br9qfZmrbZ6VqSaUIvvUbXG3m2": true,

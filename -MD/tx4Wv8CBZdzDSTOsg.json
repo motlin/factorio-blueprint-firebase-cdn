@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1625543694756,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/"
+  ],
   "title": "Bidirectional Input Tee"
 }

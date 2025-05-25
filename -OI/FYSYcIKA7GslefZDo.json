@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/q8VvXzC.png",
   "lastUpdatedDate": 1738665744791,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Basic Plate Smelter",
   "favorites": {
     "VOLlRYBMv2PYEJwdePFqCkq6E6o1": true

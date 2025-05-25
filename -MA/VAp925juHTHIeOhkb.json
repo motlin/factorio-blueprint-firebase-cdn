@@ -3,12 +3,12 @@
   "createdDate": 1592899097483,
   "fileName": "screenshot-tick-20597923.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "3": "/version/0,18/",
-    "0": "/power/steam/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/power/steam/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Steam Power Station 480 Engines",
   "author": {
     "userId": "8MormUvFJtMUgzLovhiODmdrnjU2"

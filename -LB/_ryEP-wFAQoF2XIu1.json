@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/"
+  ],
   "createdDate": 1554339849318,
   "descriptionMarkdown": "Grid Cell. Can be duplicated.",
   "fileName": "TheGrid_TrainCell.PNG",

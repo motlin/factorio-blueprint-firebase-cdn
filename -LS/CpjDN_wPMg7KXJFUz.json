@@ -16,10 +16,10 @@
     "jmac45bPeUdkdgwGYtDCQCO81Yj2": true
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/seablock/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/seablock/"
+  ],
   "authorId": "PWSZRMjhQnOEXASWdWZlGA0fUml2",
   "createdDate": 1543199192003,
   "descriptionMarkdown": "A seablock setup to produce a single ore at the equivalent rate of about 6 mining drills",

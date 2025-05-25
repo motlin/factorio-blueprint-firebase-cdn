@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1643651495184,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Modulable 7 segment display",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

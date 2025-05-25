@@ -21,16 +21,16 @@
   },
   "lastUpdatedDate": 1583320879409,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "3": "/general/mid game/",
-    "6": "/power/accumulator/",
-    "7": "/production/logistic (bot) based/",
-    "8": "/version/0,18/",
-    "0": "/power/nuclear/",
-    "2": "/general/late game (megabase)/",
-    "4": "/power/solar/",
-    "5": "/power/steam/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/power/accumulator/",
+    "/production/logistic (bot) based/",
+    "/version/0,18/",
+    "/power/nuclear/",
+    "/general/late game (megabase)/",
+    "/power/solar/",
+    "/power/steam/"
+  ],
   "title": "12 Core Nuclear Reactor updated for v0.18.10 – Landfill and Land Versions - BobAAAces"
 }

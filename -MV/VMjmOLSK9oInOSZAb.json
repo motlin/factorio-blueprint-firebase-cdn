@@ -26,9 +26,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220428233051_1.jpg?alt=media&token=b7a2324a-432d-47e6-bb40-102e7c49e9db",
   "lastUpdatedDate": 1651203161313,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/"
+  ],
   "title": "Level up your Wall"
 }

@@ -11,11 +11,11 @@
   "createdDate": 1502923735047,
   "lastUpdatedDate": 1504702237066,
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/research (labs)/"
+  ],
   "title": "High Performance Lab",
   "author": {
     "userId": "zRU07FA12aXrtp5NYsg2aaLjvao2"

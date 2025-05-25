@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1606618061290,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "title": "Large Solar Array (86MW)"
 }

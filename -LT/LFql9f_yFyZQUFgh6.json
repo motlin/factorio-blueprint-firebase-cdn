@@ -12,10 +12,10 @@
     "type": "image/png",
     "width": 669
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "descriptionMarkdown": "Blueprint book I use for placing rails.",
   "lastUpdatedDate": 1573405289612,
   "numberOfFavorites": 4,

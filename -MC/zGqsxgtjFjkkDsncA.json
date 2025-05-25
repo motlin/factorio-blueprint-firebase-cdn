@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1624592567006,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Sushi wagon labs for mid to late game.",
   "favorites": {
     "TbOkLLzL19WbvBilPAXFoga7aQG2": true,

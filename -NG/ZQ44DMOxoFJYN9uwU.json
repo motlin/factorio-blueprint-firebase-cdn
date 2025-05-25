@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1668132131289,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Uranium enrichment"
 }

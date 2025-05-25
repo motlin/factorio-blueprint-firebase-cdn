@@ -16,10 +16,10 @@
   "createdDate": 1532179372600,
   "descriptionMarkdown": "Today, I present you my template for energy production by nuclear\n\nThere product 480MW of energy, and there is 2 versions of this template.\n\n- One with vanilla game.\n- One who needs a mod for water : [Stone Water Well](https://mods.factorio.com/mod/StoneWaterWell)\n\nMore screens at [imgur](https://imgur.com/a/Fns248S)\n\nEnjoy :)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/nuclear_480mw_vanilla.png?alt=media&token=1fd3d100-adc4-45a9-9902-bc216f8822ea",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "title": "Nuclear 480MW (Perfect Ratio)",
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

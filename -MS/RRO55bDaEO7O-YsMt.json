@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1641159248825,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Factorio Made to Measure Misc"
 }

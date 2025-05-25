@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/train/track/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/track/",
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Train Railway Traffic Volume Counter Turnstile and Display with Expansion Digits",
   "fileName": "Train Counter Splash Screen.jpg",
   "image": {

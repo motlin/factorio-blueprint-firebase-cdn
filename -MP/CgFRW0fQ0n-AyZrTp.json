@@ -18,11 +18,11 @@
     "VjQKBjnonCMhsYXKgQOSGm97xz62": true
   },
   "createdDate": 1608694958058,
-  "tags": {
-    "2": "/version/1,0/",
-    "3": "/production/other/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/other/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "[WIP] Assembling machine 3 cluster Mk1"
 }

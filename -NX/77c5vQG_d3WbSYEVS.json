@@ -16,9 +16,9 @@
   "lastUpdatedDate": 1685911162410,
   "numberOfFavorites": 2,
   "title": "6 Lane Cross Junction",
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
     "MxUBiOdmCrRbkiZUAauMEgdfF6t2": true

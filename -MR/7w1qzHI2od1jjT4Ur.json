@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1639753723488,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/ltn/"
+  ],
   "title": "LTN items for Krastorio 2 - rails and circuits v0.2",
   "favorites": {
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true

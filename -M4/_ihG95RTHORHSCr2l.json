@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1586550725356,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "title": "Pax, Fuel and Trash Train"
 }

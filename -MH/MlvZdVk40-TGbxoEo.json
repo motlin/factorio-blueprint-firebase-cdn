@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "EZzuXBc9DqeGYraggmwhloVCSP12": true,
     "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true,

@@ -38,13 +38,13 @@
   },
   "lastUpdatedDate": 1560014630156,
   "numberOfFavorites": 20,
-  "tags": {
-    "2": "/production/science/",
-    "3": "/mods/vanilla/",
-    "4": "/production/mall (make everything)/",
-    "5": "/production/research (labs)/",
-    "0": "/version/0,17/",
-    "1": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/production/research (labs)/",
+    "/version/0,17/",
+    "/production/rocket parts/"
+  ],
   "title": "No Spoon Challenge"
 }

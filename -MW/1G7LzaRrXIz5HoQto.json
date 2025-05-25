@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1645010520368,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/production/research (labs)/"
+  ],
   "title": "60SPM base"
 }

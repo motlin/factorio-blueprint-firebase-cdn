@@ -4,11 +4,11 @@
   "fileName": "Annotation 2020-07-19 143709.png",
   "lastUpdatedDate": 1595166438588,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "OlAZunwmTVQwcyxZ6NfRqqSUW2D2"
   },

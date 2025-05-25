@@ -3,12 +3,12 @@
   "createdDate": 1529676387070,
   "descriptionMarkdown": "### Features\n* 42 accumulators, 50 solar panels (perfect .84 ratio)\n* 97% space efficiency\n* charge control\n\nSignals |  Description\n--- | -- \n ![GitHub Logo](/icons/accumulator.png) |array charge percentage  \n ![GitHub Logo](/icons/solar-panel.png) |number of arrays in the network\n>To control the charge, combine the arrays with the green signal wire and divide the signals \n\n",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "t3ff8byEC2Ocq7DsunND6acVXHw1"
   },

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660100371535,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Sushi Science Input w/slow belts",
   "favorites": {
     "fDsBSfzolPNlaTN0GBhbTlcxNOT2": true,

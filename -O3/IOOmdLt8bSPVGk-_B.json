@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/mnCRyaY",
   "lastUpdatedDate": 1722607312163,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Double line Railway + Pylons",
   "favorites": {
     "3K52cmQW58M3G4RchACZcLLfG5D2": true

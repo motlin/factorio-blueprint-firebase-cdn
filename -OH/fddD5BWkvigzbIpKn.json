@@ -22,9 +22,9 @@
   "imageUrl": "https://imgur.com/lnFWMkU",
   "lastUpdatedDate": 1738046608374,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "180 SPM Full Build BP"
 }

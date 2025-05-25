@@ -17,12 +17,12 @@
   "authorId": "YfpxRgbByqecYqnSqBfe3qFNvnh2",
   "lastUpdatedDate": 1526944444047,
   "numberOfFavorites": 18,
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/version/0,16/",
-    "3": "/production/plastic/",
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,16/",
+    "/production/plastic/",
+    "/mods/bobs/"
+  ],
   "favorites": {
     "h9gFfExrdRQFDgeIz3bfj41zKR93": true,
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,

@@ -14,12 +14,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Oil%20Processing.png?alt=media&token=8f0f05e0-b15e-41ff-b858-0e535eac38fe",
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/",
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/production/oil processing/"
+  ],
   "createdDate": 1481430026134,
   "descriptionMarkdown": "A block of refineries, demonstrating how to leave gaps for beacons and manage the output.  ",
   "favorites": {

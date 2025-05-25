@@ -6,10 +6,10 @@
   "descriptionMarkdown": "Small but effective, producing 1 MW, expandable.",
   "fileName": "Sem título.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/version/0,17/"
+  ],
   "title": "Expandable Thermoelectric",
   "favorites": {
     "lh9Sb6mMHBOem0bKqprUB71aBjD2": true

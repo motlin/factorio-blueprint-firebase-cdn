@@ -19,12 +19,12 @@
   "imageUrl": "https://imgur.com/fCstgWC",
   "lastUpdatedDate": 1731947627127,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Infinite Expansion 4-Belt Buffer for Spaceships (Factorio 2.0 Vanilla)"
 }

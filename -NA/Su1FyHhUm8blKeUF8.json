@@ -29,10 +29,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220828054535_1.jpg?alt=media&token=7b1b36d4-6322-40b0-8545-333c76f89c31",
   "lastUpdatedDate": 1662174077273,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/power/solar/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/power/solar/",
+    "/mods/ltn/"
+  ],
   "title": "Modular City Block 2.0"
 }

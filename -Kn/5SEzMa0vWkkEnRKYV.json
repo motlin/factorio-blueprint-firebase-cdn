@@ -4,11 +4,11 @@
   "descriptionMarkdown": "### English\n\nThis is battery display that shows the accumulators percentage power level, and it's change the color of battery every 25%.\n\nFor example:\n\n1%   - 25% Red \n\n26% - 50% Yellow\n\n51% - 75% Green\n\n76% - 100% Blue\n\nIn addition it has a digital display that shows the percentage power level of accumulators in digital numbers and also change the color as the same way as battery, \n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n### Polski\nOto wyświetlana bateria, która pokazuje procentowy stan naszych akumulatorów. Zmienia ona kolor co każde 25% naładowania.\n\nDla przykładu:\n\n1%   - 25% Czerwony\n\n26% - 50% Żółty\n\n51% - 75% Zielony\n\n76% - 100% Niebieski\n\nW dodatku posiada wyświetlacz cyfrowy, który pokazuje za pomocą liczb stan procentowy akumulatorów i tak jak wyświetlana bateria zmienia kolory.",
   "fileName": "battery.png",
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Battery display with digital percentage display",
   "author": {
     "userId": "FkgcMKxcksWfacCqltdV3VlTfJm1"

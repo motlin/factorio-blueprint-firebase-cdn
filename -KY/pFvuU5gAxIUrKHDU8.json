@@ -16,11 +16,11 @@
   "descriptionMarkdown": "The maximum electric furnaces in a factorissimo (to the right)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Sin%20t%C3%ADtalksjflaulo.png?alt=media&token=d67f3320-df9b-4896-9a5d-a9820e93a60d",
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/factorissimo/",
+    "/version/0,14/"
+  ],
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true
   }

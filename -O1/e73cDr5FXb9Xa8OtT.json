@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/uu0OJXs",
   "lastUpdatedDate": 1720842367231,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/compact/",
-    "2": "/general/early game/",
-    "3": "/general/tileable/",
-    "4": "/general/mid game/",
-    "5": "/version/1,1/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/compact/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/version/1,1/"
+  ],
   "title": "Compact early Robot production",
   "favorites": {
     "jHhUlPYe5SWCO84pRUitjloPMSl2": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/i9bmQS7",
   "lastUpdatedDate": 1740285847150,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/aai/"
+  ],
   "title": "AAI Hauler loop",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true

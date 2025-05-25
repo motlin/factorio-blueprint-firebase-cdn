@@ -25,8 +25,8 @@
   "imageUrl": "https://imgur.com/25dcTsh",
   "lastUpdatedDate": 1732780409675,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "title": "Biolab Array"
 }

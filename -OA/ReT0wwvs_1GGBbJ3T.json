@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/TGKklfv",
   "lastUpdatedDate": 1730278973716,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/space-age/",
-    "2": "/general/beaconized/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/space-age/",
+    "/general/beaconized/",
+    "/general/mid game/"
+  ],
   "title": "Nauvis Foundry",
   "favorites": {
     "mIpA6HQwHDTK5aM9CKqwz9tpAwI3": true,

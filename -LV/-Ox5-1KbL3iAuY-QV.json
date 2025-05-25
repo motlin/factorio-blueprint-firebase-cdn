@@ -22,8 +22,8 @@
   "descriptionMarkdown": "Just another advanced oil processing. It should be balanced (using pumps) and has tank lights for each fluid. Also put some main shutoff switches and lights on the input fluids and power.\n\nIt takes a lot of space because I wanted to keep it clean and I am not restricted to space. \n\nThere are a couple of unnecessary boxes and blue arms on the battery and plastic production that can be removed. I had an excess of those items and wanted to dump them back into the system.\n\nAs is it does not make a ton of plastic. I was just trying to balance fluids for the first time.",
   "lastUpdatedDate": 1575186059745,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Balanced Advanced Oil Processing .17 "
 }

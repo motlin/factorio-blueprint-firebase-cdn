@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/rx7Xjvp",
   "lastUpdatedDate": 1723296781616,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/combat/defense/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/combat/defense/"
+  ],
   "title": "tileable defense",
   "favorites": {
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true

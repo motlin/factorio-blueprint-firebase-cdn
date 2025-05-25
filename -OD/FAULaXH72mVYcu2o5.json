@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5FwU0Os",
   "lastUpdatedDate": 1733358653143,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/production/belts/"
+  ],
   "title": "Late-game belt mart",
   "favorites": {
     "G7AVZTGORqhmzYxCvvkPZNWxZ303": true,

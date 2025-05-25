@@ -16,11 +16,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Production%20-%20Starter%20Base.jpg?alt=media&token=add8966b-9782-4186-a0cb-edaadc5a36aa",
   "lastUpdatedDate": 1498604806542,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Starter Base"
 }

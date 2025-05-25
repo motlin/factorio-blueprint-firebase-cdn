@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/DKzHgxw",
   "lastUpdatedDate": 1731287306896,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Space ship "
 }

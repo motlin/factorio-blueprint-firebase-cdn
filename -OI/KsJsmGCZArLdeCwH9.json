@@ -41,11 +41,11 @@
   "imageUrl": "https://imgur.com/VXXCKEf",
   "lastUpdatedDate": 1738755100693,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/mods/space-age/",
-    "2": "/production/rocket parts/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/mods/space-age/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Vulcanus Rocket factory. 2 Rockets per min from ore resources"
 }

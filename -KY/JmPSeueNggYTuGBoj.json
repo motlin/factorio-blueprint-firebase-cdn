@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "AAI Miner + Hauler Controller for Vanilla Ores (Including uranium)",
   "favorites": {
     "V515dCjEUngAzrK44nUMwDHWagn1": true,

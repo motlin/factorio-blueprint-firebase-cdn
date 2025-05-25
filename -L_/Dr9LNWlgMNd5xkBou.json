@@ -15,13 +15,13 @@
   "createdDate": 1551806277154,
   "descriptionMarkdown": "This Setup will produce all robot related objects.\nIt automaticly places a definable number of them into the system (you can change that in the constant combinator)",
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/compact/",
-    "2": "/version/0,17/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/compact/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Compact Robot (40.5/min) + Port + Chest Production",
   "favorites": {
     "FFHjB6pZjVTSOPHG5DyuKyDFGyB3": true,

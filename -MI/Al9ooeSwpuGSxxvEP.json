@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1630137527829,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Stack Size based Balanced Unloader",
   "favorites": {
     "T9OIZU22ThV3GTn5spVvSht4dSJ3": true,

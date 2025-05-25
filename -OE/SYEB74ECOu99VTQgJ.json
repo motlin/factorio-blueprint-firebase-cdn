@@ -39,8 +39,8 @@
   "imageUrl": "https://imgur.com/vSWmIDq",
   "lastUpdatedDate": 1734633895250,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Gleba Blueprint Book"
 }

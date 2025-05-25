@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/gLbD0L3",
   "lastUpdatedDate": 1730261234726,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/",
-    "3": "/mods/quality/",
-    "4": "/production/robots/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/production/robots/"
+  ],
   "title": "Requester Assembler machine",
   "favorites": {
     "Yh6YRPeypLeqyqsW90SSUf6zBe12": true,

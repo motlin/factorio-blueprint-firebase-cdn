@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1530290679610,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/train/pax/",
-    "3": "/train/stacker/",
-    "4": "/train/right-hand-drive/",
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/pax/",
+    "/train/stacker/",
+    "/train/right-hand-drive/",
+    "/mods/other/"
+  ],
   "title": "LTN depot for 1-2 that is compatible also with  1-3 1-1 and 1-2-1"
 }

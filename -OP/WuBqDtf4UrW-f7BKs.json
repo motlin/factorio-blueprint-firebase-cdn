@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/DS7cayA",
   "lastUpdatedDate": 1746584271932,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "RGB Strip (For Reddit)",
   "favorites": {
     "SAHHoUNJQXTpBX7fTG0Rh0MoYvH2": true,

@@ -11,11 +11,11 @@
   "createdDate": 1615312002033,
   "fileName": "summary.jpg",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/unloading station/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/unloading station/",
+    "/train/loading station/"
+  ],
   "title": "Angels bobs LTN station blueprints",
   "author": {
     "userId": "fAx4NflVBiYV5eF2ud0b2XwhVkp2"

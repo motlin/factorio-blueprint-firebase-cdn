@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1619659740959,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/late game (megabase)/"
+  ],
   "title": "163 MW Nuclear power station",
   "favorites": {
     "N59uu6x3QmVbgjZLdhAOMfsVvxv2": true,

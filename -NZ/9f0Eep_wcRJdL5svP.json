@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/FMp0pTU",
   "lastUpdatedDate": 1717092226175,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "engineFabric",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

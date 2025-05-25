@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1708709796077,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable nuclear",
   "favorites": {
     "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true

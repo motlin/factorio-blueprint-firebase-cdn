@@ -22,9 +22,9 @@
     "id": "FEAnqjx",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/mods/warehousing/",
-    "1": "/general/compact/",
-    "2": "/general/storage/"
-  }
+  "tags": [
+    "/mods/warehousing/",
+    "/general/compact/",
+    "/general/storage/"
+  ]
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1678642690894,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/general/tileable/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/general/tileable/",
+    "/train/junction/"
+  ],
   "title": "LHD tileable rails",
   "favorites": {
     "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,

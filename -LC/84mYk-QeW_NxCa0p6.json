@@ -91,14 +91,14 @@
   },
   "lastUpdatedDate": 1554930675018,
   "numberOfFavorites": 30,
-  "tags": {
-    "1": "/production/inserters/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/",
-    "4": "/production/belt based/",
-    "5": "/general/early game/",
-    "6": "/general/tileable/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/version/0,17/"
+  ],
   "title": "MALL - Early Game, Modular, Make Everything"
 }

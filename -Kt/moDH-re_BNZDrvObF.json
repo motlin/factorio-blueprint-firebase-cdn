@@ -16,11 +16,11 @@
   },
   "title": "Fort - Step 1 - Gun Turrets",
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "createdDate": 1505164846273,
   "favorites": {
     "W8PRLHP70XfHLC6ssogMxzwVzNs1": true

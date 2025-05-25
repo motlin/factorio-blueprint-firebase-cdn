@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621193720570,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Geração de energia a vapor",
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true

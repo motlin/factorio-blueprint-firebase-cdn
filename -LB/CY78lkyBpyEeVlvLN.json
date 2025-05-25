@@ -16,15 +16,15 @@
     "width": 1851,
     "height": 1237
   },
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/production/plastic/",
-    "4": "/production/batteries/",
-    "5": "/production/oil processing/",
-    "6": "/production/logistic (bot) based/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/plastic/",
+    "/production/batteries/",
+    "/production/oil processing/",
+    "/production/logistic (bot) based/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "to2knkQXfSe5jDpViSu6wjbhZJQ2": true,
     "GZVqqDGvZsU9kRD0dUG2rPboUZh2": true,

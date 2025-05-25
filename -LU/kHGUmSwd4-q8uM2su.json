@@ -15,10 +15,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/version/0,15/",
-    "0": "/mods/creative/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/creative/"
+  ],
   "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
   "createdDate": 1545924581769,
   "fileName": "factorio_2018-12-27_17-28-43.jpg",

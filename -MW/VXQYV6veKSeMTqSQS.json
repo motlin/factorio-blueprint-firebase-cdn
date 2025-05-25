@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1616534956412,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/production/coal liquification/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/production/coal liquification/"
+  ],
   "title": "Midgame Oil Processing Facility"
 }

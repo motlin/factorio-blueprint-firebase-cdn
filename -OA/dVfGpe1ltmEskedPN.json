@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/XPG3o5X",
   "lastUpdatedDate": 1730494510413,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/version/2,0/"
+  ],
   "title": "2.0 Tileable Nuclear Reactor",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

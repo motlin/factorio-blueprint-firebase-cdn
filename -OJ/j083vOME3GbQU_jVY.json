@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/gQ7qGcd.jpeg",
   "lastUpdatedDate": 1740250659619,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Kovarex, mostly direct insertion",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

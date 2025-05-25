@@ -9,11 +9,11 @@
     "type": "image/png"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Simple Solar Array",
   "author": {
     "userId": "0mFMFSQyeXYRWvv676YNegV08Kz2"

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1618846928722,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/1,0/"
+  ],
   "title": "Pyanodons Early game Furnace",
   "favorites": {
     "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true,

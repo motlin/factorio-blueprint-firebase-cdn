@@ -16,17 +16,17 @@
   },
   "lastUpdatedDate": 1609841323855,
   "numberOfFavorites": 5,
-  "tags": {
-    "5": "/version/1,0/",
-    "6": "/version/0,15/",
-    "7": "/production/inserters/",
-    "8": "/production/belts/",
-    "0": "/general/compact/",
-    "1": "/general/early game/",
-    "4": "/production/belt based/",
-    "2": "/production/science/",
-    "3": "/production/research (labs)/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/version/0,15/",
+    "/production/inserters/",
+    "/production/belts/",
+    "/general/compact/",
+    "/general/early game/",
+    "/production/belt based/",
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "Early Game Red + Green Science Pack Farm EXTREMLY COMPACT",
   "author": {
     "userId": "U0NFmaqArPOQhLkAYBsDAiaiLn92"

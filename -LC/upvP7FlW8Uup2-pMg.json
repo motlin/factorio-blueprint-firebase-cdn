@@ -10,9 +10,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screen5.jpg?alt=media&token=28bb4ea7-105f-4d27-858b-5fadba743a45",
   "lastUpdatedDate": 1527464587694,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "authorId": "VXp1Jvw1V5SGuEh8KVq6nxrJjVB2",
   "image": {
     "height": 892,

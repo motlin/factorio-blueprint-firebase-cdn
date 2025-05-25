@@ -98,16 +98,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot_23897489327423014.png?alt=media&token=56231985-7b09-4c01-92c1-fb8302041f9c",
   "lastUpdatedDate": 1528680612949,
   "numberOfFavorites": 110,
-  "tags": {
-    "6": "/train/junction/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/crossing/",
-    "5": "/train/unloading station/",
-    "7": "/train/track/",
-    "8": "/train/stacker/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "4": "/train/loading station/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/train/unloading station/",
+    "/train/track/",
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/loading station/"
+  ],
   "title": "4-Lane RHD City Block Train Designs"
 }

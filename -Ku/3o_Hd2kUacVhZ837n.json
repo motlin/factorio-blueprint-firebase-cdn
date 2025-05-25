@@ -5,11 +5,11 @@
     "type": "image/png",
     "width": 1184
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/belts/"
+  ],
   "title": "symmetrical Yellow, Red and Blue BELT production",
   "author": {
     "userId": "5Nu5Wa9FYzOs9YApV7N9pMbElBD2"

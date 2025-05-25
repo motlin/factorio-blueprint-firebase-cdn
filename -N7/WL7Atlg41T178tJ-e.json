@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1658416825474,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/other/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/other/",
+    "/version/1,0/"
+  ],
   "title": "Rail Construction Plant",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

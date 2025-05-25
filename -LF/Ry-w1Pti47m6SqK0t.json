@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Beaconed crude oil to petrolleum gas ",
   "authorId": "ddEGs4a0W8PuSrEYSZJ35nkztvq2",
   "image": {

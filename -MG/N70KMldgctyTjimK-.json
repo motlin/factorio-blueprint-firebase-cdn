@@ -1,14 +1,14 @@
 {
   "fileName": "Starter mall 1.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "5": "/production/other/",
-    "0": "/version/1,0/",
-    "1": "/version/0,15/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/production/electronic circuit (green)/",
-    "4": "/production/science/"
-  },
+  "tags": [
+    "/production/other/",
+    "/version/1,0/",
+    "/version/0,15/",
+    "/belt/transport belt (yellow)/",
+    "/production/electronic circuit (green)/",
+    "/production/science/"
+  ],
   "favorites": {
     "feWxZg3HDtaODY26QtniSAZSakY2": true,
     "AceFxmBDkjZrGAUkXpwxMkkuvgc2": true,

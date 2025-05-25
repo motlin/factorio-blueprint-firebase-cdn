@@ -16,11 +16,11 @@
     "id": "PdvLYvX",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "VLLlc9GR2Ph3ehKLFI0qdBa0AY82": true,
     "3W81lziJULPXcOPam3x4pANeE7g2": true,

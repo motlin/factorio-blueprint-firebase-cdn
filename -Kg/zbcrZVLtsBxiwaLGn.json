@@ -12,12 +12,12 @@
   "createdDate": 1491421007502,
   "descriptionMarkdown": "4 way right handed rail crossway",
   "fileName": "4waycrowwsay.png",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "4 way right handed rail crossway",
   "author": {
     "userId": "6lhx3MnvOwUw5cdEcsyFwk3Hsd72"

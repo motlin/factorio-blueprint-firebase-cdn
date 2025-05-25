@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/production/advanced circuit (red)/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "e7sMfIqIovgjcun74Pj1hDGSUJy1"
   },

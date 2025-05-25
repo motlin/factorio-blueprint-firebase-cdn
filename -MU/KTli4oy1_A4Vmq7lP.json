@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1614194351399,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar 8x8 Grid with Radar"
 }

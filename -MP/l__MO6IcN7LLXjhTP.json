@@ -16,11 +16,11 @@
     "type": "image/jpeg",
     "width": 1882
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/power/solar/"
+  ],
   "favorites": {
     "vjAa4xMgJNTHLUo8PKxe8WRldDU2": true
   }

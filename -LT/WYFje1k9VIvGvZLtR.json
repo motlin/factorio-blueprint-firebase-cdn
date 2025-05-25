@@ -14,10 +14,10 @@
     "height": 716
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/compact/"
+  ],
   "authorId": "tFKPdeXmoPaHi6uBa2TXpr0Ytkr2",
   "favorites": {
     "d7SFFhHCZ5WD4XMIOkxRHgoruEu1": true,

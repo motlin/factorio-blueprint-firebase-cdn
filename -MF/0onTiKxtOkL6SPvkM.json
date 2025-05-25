@@ -15,9 +15,9 @@
     "width": 1920
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "Beacon power saver for labs"
 }

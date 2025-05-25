@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zdZvomX",
   "lastUpdatedDate": 1730068970167,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Simple and early green circuit "
 }

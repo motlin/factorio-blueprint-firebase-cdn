@@ -9,14 +9,14 @@
   },
   "lastUpdatedDate": 1521468305823,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/belt/balancer/",
-    "5": "/belt/prioritizer/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/belt/prioritizer/"
+  ],
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"
   },

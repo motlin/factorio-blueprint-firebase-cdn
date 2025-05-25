@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "title": "solar test array",
   "author": {
     "userId": "w8kJNdt4TZSV1R48sYnb2O6ddgv1"

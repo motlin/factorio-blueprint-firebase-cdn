@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1625002965485,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/production/batteries/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/production/batteries/"
+  ],
   "title": "Posto avançado para vulcanite",
   "favorites": {
     "DMcA8AeeETRkpTjW5pNqqsiiHGd2": true

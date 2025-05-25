@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/khXpNuZ",
   "lastUpdatedDate": 1731187857350,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/mining/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/mining/"
+  ],
   "title": "Big Mining Drill Automation (0.2/sec)",
   "favorites": {
     "dIyWn3GbZEY7bLB6xGDIKmO2M9x1": true,

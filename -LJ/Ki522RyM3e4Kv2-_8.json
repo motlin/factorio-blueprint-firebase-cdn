@@ -6,11 +6,11 @@
     "id": "xnULpg1",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/version/0,17/",
-    "2": "/production/robots/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/0,17/",
+    "/production/robots/"
+  ],
   "title": "Roboter Produktion",
   "author": {
     "userId": "Zr3IVO1FiRVkQ2kmf0zM21QEE323"

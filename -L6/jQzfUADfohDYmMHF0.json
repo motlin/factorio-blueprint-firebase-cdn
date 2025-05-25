@@ -19,11 +19,11 @@
   "createdDate": 1520140549092,
   "descriptionMarkdown": "A smelting station that smelts 4800 ores to 4800 plates per minute. \n\nThis blueprint requires 2 full blue belts input to create the full 2 belts output.\n\nIf you like this blueprint please give it a favourite!\n",
   "lastUpdatedDate": 1520212082484,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/version/0,15/",
-    "4": "/production/belt based/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/version/0,15/",
+    "/production/belt based/"
+  ]
 }

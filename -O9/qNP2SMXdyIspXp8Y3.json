@@ -28,9 +28,9 @@
   "imageUrl": "https://imgur.com/NBqvt06",
   "lastUpdatedDate": 1729732315643,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/loading station/"
+  ],
   "title": "LTN for 2.0 Space Age"
 }

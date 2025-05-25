@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Ast8t2V",
   "lastUpdatedDate": 1739993309679,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/nauvis/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/production/science/"
+  ],
   "title": "Beginning Platform",
   "favorites": {
     "TTkIMZhtcaUVAmnDwila2vEYBkv1": true,

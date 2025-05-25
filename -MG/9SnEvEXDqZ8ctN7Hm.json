@@ -10,11 +10,11 @@
   },
   "lastUpdatedDate": 1598977160389,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/tileable/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/tileable/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "GVdO8QZUuAYEVkj6ARX0OJlX3GM2"
   },

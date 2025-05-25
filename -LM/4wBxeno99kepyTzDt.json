@@ -214,14 +214,14 @@
   },
   "lastUpdatedDate": 1552573279997,
   "numberOfFavorites": 230,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/general/early game/",
-    "3": "/general/compact/",
-    "4": "/production/mall (make everything)/",
-    "5": "/production/science/",
-    "6": "/production/robots/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/early game/",
+    "/general/compact/",
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/production/robots/"
+  ],
   "title": "Starter Base (to robots) - QuickStart"
 }

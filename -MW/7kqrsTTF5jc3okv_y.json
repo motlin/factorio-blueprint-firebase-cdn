@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1645166020119,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2x2 Nuclear single side water loading 480 MW"
 }

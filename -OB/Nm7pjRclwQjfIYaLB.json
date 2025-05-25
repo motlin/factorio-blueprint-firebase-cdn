@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CzPX35q",
   "lastUpdatedDate": 1731346106575,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Count Occupied Slots in Container",
   "favorites": {
     "75M4yrnMgqfrb7Qd1Ueh2jb0lcd2": true,

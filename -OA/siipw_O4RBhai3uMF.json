@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/MbRf2Nd",
   "lastUpdatedDate": 1730750010659,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/mods/space-exploration/",
-    "3": "/power/solar/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Decent Large Space Platform Design"
 }

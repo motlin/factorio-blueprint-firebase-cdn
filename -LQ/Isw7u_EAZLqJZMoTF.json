@@ -22,14 +22,14 @@
   "descriptionMarkdown": "This stacker is capable 20 trains (max length is 6). \n\nInclude 144 lights for Indicator, 203 solar panels, 171 accumulators(perfect ratio), and 2 roboports.",
   "fileName": "stcr4_補正.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/stcr4_%E8%A3%9C%E6%AD%A3.png?alt=media&token=d8bd27b3-f4cd-403f-8708-d17d9e4a26d3",
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "4": "/power/solar/",
-    "5": "/train/stacker/",
-    "6": "/mods/vanilla/",
-    "7": "/version/0,15/",
-    "0": "/version/0,16/",
-    "1": "/circuit/indicator/",
-    "2": "/general/mid game/"
-  }
+  "tags": [
+    "/general/late game (megabase)/",
+    "/power/solar/",
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/circuit/indicator/",
+    "/general/mid game/"
+  ]
 }

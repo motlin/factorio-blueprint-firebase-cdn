@@ -8,13 +8,13 @@
     "width": 1412
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/research (labs)/"
+  ],
   "favorites": {
     "Tlmqm5NibCbBCErj3rquZDzRTHr2": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,

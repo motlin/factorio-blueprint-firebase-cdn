@@ -13,17 +13,17 @@
   "imageUrl": "https://imgur.com/HNQ9vgN",
   "lastUpdatedDate": 1731019742452,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/nauvis/",
-    "3": "/planets/gleba/",
-    "4": "/planets/fulgora/",
-    "5": "/planets/vulcanus/",
-    "6": "/planets/aquilo/",
-    "7": "/general/mid game/",
-    "8": "/general/late game (megabase)/",
-    "9": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/aquilo/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/mods/space-age/"
+  ],
   "title": "Spaceball 5"
 }

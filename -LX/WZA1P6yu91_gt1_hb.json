@@ -9,9 +9,9 @@
   },
   "numberOfFavorites": 1,
   "title": "Refined concrete full in one",
-  "tags": {
-    "0": "/belt/tap/"
-  },
+  "tags": [
+    "/belt/tap/"
+  ],
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
   },

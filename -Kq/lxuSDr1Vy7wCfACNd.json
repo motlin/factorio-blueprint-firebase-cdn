@@ -4,12 +4,12 @@
   "descriptionMarkdown": "Laser turrets surrounded by walls, partially powered by solar panels.\n\nWill power itself during day, lasts about 50 seconds at midnight",
   "fileName": "laser fort.PNG",
   "title": "Laser fort",
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "dRdFwaGOGYbyNtQdJI1puym7Cgy1"
   },

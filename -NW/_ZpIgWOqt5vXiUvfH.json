@@ -21,15 +21,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/JoJo's%20Bizarre%20Adventure%20_%20il%20Vento%20D'Oro%20(Giorno's%20Theme)%20(4_43)%20(1).png?alt=media&token=d82e5d33-6fd4-4068-8308-20dd6b4ee6b9",
   "lastUpdatedDate": 1686147792083,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,14/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "5": "/version/0,18/",
-    "6": "/version/1,0/",
-    "7": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/version/1,1/"
+  ],
   "title": "Normie Music 🗿"
 }

@@ -11,13 +11,13 @@
   },
   "lastUpdatedDate": 1551249004584,
   "numberOfFavorites": 30,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/production/mall (make everything)/",
-    "0": "/version/0,17/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "YYKfFeMBCAeKcZhFL4L65sw0NMz2"
   },

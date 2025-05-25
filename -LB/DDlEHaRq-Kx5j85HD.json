@@ -12,9 +12,9 @@
   "createdDate": 1524952143227,
   "lastUpdatedDate": 1524952143227,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "x7VTxtezbwaIM7QoQKPpDueMAYl1"
   },

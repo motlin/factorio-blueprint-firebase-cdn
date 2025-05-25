@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1674427990481,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/roundabout/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "2 by 2 train tracks (full version)",
   "favorites": {
     "IU70TmR7MzeyPUOBwAqJSQ0hKpN2": true,

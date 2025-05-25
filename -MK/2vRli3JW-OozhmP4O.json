@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1632153488791,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/circuit/indicator/"
+  ],
   "title": "14-segment message displays (tileable)",
   "favorites": {
     "B13g775iW3Xr3BUc3kLg2juZFxD3": true,

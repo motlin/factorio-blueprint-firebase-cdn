@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/a6exJYI",
   "lastUpdatedDate": 1732938972869,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Multiple Recipes Assembling machine",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

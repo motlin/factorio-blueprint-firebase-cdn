@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/x6-.PNG?alt=media&token=4b333e1b-ad6e-4902-9cf6-f70330ed6722",
   "lastUpdatedDate": 1559306842388,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/"
+  ],
   "title": "6x Nuclear Reactor"
 }

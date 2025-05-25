@@ -12,10 +12,10 @@
     "width": 1920
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/"
+  ],
   "authorId": "jfwSztqqyGYWHvpOuRsH4Ev3Aw83",
   "fileName": "20190926121327_1.jpg",
   "lastUpdatedDate": 1569489525875,

@@ -158,10 +158,10 @@
   "imageUrl": "https://imgur.com/LbzNKFP",
   "lastUpdatedDate": 1747694872064,
   "numberOfFavorites": 78,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/space-age/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/space-age/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Gleba Base (Mall + All)"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/lhphPJx",
   "lastUpdatedDate": 1733680308654,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/power/nuclear/"
+  ],
   "title": "2 GW Nuclear Powerplant",
   "favorites": {
     "kYvAjsaiG2aMCZOiqFDnQluPUEc2": true

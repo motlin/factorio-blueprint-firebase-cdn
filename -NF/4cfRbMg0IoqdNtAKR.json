@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1695532891377,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "title": "All in one",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true

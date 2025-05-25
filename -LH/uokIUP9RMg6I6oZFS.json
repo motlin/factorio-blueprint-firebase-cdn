@@ -19,10 +19,10 @@
   },
   "descriptionMarkdown": "Red Science (Tier 2) 90/m for 0.17.x\n--\n",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/"
+  ],
   "title": "Red Science (Tier 2)  90/m"
 }

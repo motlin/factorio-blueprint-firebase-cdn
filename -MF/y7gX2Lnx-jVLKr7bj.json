@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1627761330482,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/crossing/"
-  },
+  "tags": [
+    "/train/crossing/"
+  ],
   "title": "Автоматически регулируемый ж/д переход/переезд",
   "favorites": {
     "fjiDOvTIwuZynsDOq75Kf3qcG2n2": true,

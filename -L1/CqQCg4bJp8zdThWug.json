@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/version/0,16/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/version/0,16/",
+    "/general/compact/"
+  ],
   "title": "Blue belt ore smelting",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

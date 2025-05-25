@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 9,
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "Green science.",
   "favorites": {
     "xJC3GUUBDvehSarD9UQc8DVneDt2": true,

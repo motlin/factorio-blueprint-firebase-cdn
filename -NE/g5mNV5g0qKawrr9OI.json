@@ -22,14 +22,14 @@
   },
   "lastUpdatedDate": 1666113546353,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/train/stacker/",
-    "5": "/train/track/",
-    "6": "/mods/ltn/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/train/track/",
+    "/mods/ltn/"
+  ],
   "title": "Big LTN Depot Hubs"
 }

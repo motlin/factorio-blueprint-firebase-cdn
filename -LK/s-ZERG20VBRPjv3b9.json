@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "2": "/mods/angels/",
-    "3": "/mods/factorissimo/",
-    "0": "/version/0,15/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/factorissimo/",
+    "/version/0,15/",
+    "/mods/bobs/"
+  ],
   "title": "Ores Processing",
   "authorId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13",
   "descriptionMarkdown": "Ores Processing",

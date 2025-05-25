@@ -22,11 +22,11 @@
   "descriptionMarkdown": "This module allows you to setup power generation on site that only activates when there's a power outage.  \nUnlike most modules which enable power generation and dump back into the grid, this isolates each site to only power local things allowing each location to be self sufficient.   \nThis prevents your backup system from overwhelmed. \n\nInstructions: \n\n1) Place Blueprint  \n2) Remove copper wiring between the small electric poles and the large electric pole  \n3) Connect the large electric pole to both switches  \n4) Connect main power to switch that the combinators are pointing towards  \n5) Connect backup power to the other switch  \n\nClick on the picture for a larger example",
   "fileName": "Backup Power.png",
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Backup Power Module",
   "authorId": "S3xeVDkCTTe67t8ow1xdJTSk2C82"
 }

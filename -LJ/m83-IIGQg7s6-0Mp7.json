@@ -1,12 +1,12 @@
 {
   "createdDate": 1563135590587,
   "descriptionMarkdown": "1.5 advanced (red) circuits per second factory.\n\nThis blueprint is intended for the mid game (early, mid, late, end). It features red belts.\n\nInput rates:\n- Electronic circuit: 3/s\n- Plastic bar: 3/s\n- Copper plates: 3/s\n\nOutput rate:\n- Advanced circuit: 1.5/s\n\nThis blueprint is 10x tillable. You can find a 10x expanded and optimized blueprint here: https://factorioprints.com/view/-Ljlz7xLwd6txXfNBKMS\n\nThis design works as intended only with Factorio version 0.17 and its improved belt speeds. 0.16 and lower will limit its output because of the lower belt speeds.\n\nInserter and belt types have been selected for optimal throughput. Choice of inserter type assumes NO inserter capacity bonus.",
-  "tags": {
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/tileable/",
-    "3": "/general/mid game/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "PgXEkjZnmhZzM0t2DaoLHmB3wng1"
   },

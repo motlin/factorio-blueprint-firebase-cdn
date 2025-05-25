@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/K9HDdRJ",
   "lastUpdatedDate": 1734191563079,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Egg Timer Assembler (no reset)",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,

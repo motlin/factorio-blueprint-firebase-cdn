@@ -3,11 +3,11 @@
   "fileName": "2017-05-17-222706.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-05-17-222706.png?alt=media&token=b3a44577-2f43-49aa-82c0-b2fee67f89af",
   "lastUpdatedDate": 1499475184556,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Beacon Smeltery 16 Steel Furnaces 15x15",
   "author": {
     "userId": "9865f1QNStULQQdqx7N88tOrdAy1"

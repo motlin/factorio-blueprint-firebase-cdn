@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/KL9dGar",
   "lastUpdatedDate": 1741635017232,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "City block Aquilo"
 }

@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1621019380595,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/tileable/",
-    "2": "/general/compact/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/mid game/",
-    "5": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/general/late game (megabase)/",
+    "/general/mid game/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Minning Drills Large Hexagon Honeycomb Pattern ",
   "favorites": {
     "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,

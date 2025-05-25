@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1694572709600,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Laser guarded artillery",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Laser%20guarded%20artillery%203.jpg?alt=media&token=a33190e8-0705-49db-8323-a03576f7e8e7",
   "favorites": {

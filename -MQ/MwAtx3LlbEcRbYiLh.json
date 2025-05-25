@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1638976790059,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/circuit/indicator/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ],
   "title": "Reactor 2*2 Eco 500MW",
   "favorites": {
     "BdetD9bNa1aeHCSM1BPEpLyQBaZ2": true,

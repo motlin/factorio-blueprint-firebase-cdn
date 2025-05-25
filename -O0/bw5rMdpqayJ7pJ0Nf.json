@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/lXBZx5A",
   "lastUpdatedDate": 1719731116216,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Cliff Explosive Addon for Brian's Self-Building Rocket"
 }

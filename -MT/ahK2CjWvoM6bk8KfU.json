@@ -51,10 +51,10 @@
   },
   "lastUpdatedDate": 1613409637801,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "All in ONe"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9Eduwq0",
   "lastUpdatedDate": 1732360402368,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Nauvis Advanced Oil Refining for Factorio 2.0 (20 Refineries Cracking All To Petrol)",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

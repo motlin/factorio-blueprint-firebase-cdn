@@ -2,10 +2,10 @@
   "createdDate": 1535739934907,
   "fileName": "68696.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/"
+  ],
   "title": "green circuits on bots",
   "author": {
     "userId": "TVzv2GEuk6Qbjr7LgM0KcvpaxDX2"

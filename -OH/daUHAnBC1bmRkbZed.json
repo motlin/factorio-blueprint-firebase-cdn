@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/80Z2Y3z",
   "lastUpdatedDate": 1738012244720,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "title": "Tileable, beaconed BlueCircuits with onsite green and red",
   "favorites": {
     "DRcmN0qoHSeSguXig4udJvjJn552": true

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1617668394883,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/stacker/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/stacker/",
+    "/mods/vanilla/"
+  ],
   "title": "Mini City Block 1.0"
 }

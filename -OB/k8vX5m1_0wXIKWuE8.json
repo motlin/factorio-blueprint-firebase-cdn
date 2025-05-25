@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/wSEbZCi",
   "lastUpdatedDate": 1731679730230,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Wonderful book of Latches",
   "favorites": {
     "gjPhLkg4LleDWPJ1WcWtSBxfTuD3": true,

@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/w8gAOsZ",
   "lastUpdatedDate": 1732363479067,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/",
-    "4": "/version/2,0/",
-    "5": "/mods/space-age/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/mods/vanilla/"
+  ],
   "title": "TRAINS (GRID) - 2 ways 2 lanes per way Cross Junction with elevated straight and left turn",
   "favorites": {
     "yehzpASIvFUJtKwWUefYRuiJFfo2": true,

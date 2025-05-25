@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/s8Ys6Mf",
   "lastUpdatedDate": 1742633539875,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "2x2 Compact Nuclear Reactor 512MW",
   "favorites": {
     "ZKGIHc5w3IbAeDUCPQ9yKEPTUwX2": true,

@@ -15,10 +15,10 @@
   },
   "authorId": "cmYqhN4K7bUoOrcQKxyRIPfsqlJ3",
   "createdDate": 1609377695251,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/bobs/"
+  ],
   "title": "LTN Stations Pro",
   "favorites": {
     "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,

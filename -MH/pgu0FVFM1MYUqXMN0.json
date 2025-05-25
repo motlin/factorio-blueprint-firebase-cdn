@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1631723869932,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/"
+  ],
   "title": "Blue Circuits Sushi Belt (45/min)",
   "favorites": {
     "63OAeeRxLDd88TSBlG92NT5XX6x1": true,

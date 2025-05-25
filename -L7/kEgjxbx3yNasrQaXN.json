@@ -20,8 +20,8 @@
     "type": "image/jpeg",
     "width": 1103
   },
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/train/track/"
-  }
+  "tags": [
+    "/circuit/counter/",
+    "/train/track/"
+  ]
 }

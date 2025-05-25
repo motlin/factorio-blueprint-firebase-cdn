@@ -24,14 +24,14 @@
   },
   "lastUpdatedDate": 1584836283011,
   "numberOfFavorites": 7,
-  "tags": {
-    "3": "/train/unloading station/",
-    "4": "/belt/fast transport belt (red)/",
-    "5": "/general/mid game/",
-    "6": "/mods/krastorio/",
-    "0": "/mods/ltn/",
-    "1": "/train/track/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/belt/fast transport belt (red)/",
+    "/general/mid game/",
+    "/mods/krastorio/",
+    "/mods/ltn/",
+    "/train/track/",
+    "/version/0,17/"
+  ],
   "title": "Krastorio & LTN Train Assisted Main Bus"
 }

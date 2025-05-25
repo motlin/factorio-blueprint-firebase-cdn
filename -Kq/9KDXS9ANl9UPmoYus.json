@@ -19,11 +19,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Bez%C2%A0tytu%C5%82u.png?alt=media&token=6700228b-a4cc-4ac2-89b8-208ba7b950a3",
   "lastUpdatedDate": 1501298432259,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/other/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Train Production"
 }

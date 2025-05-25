@@ -17,8 +17,8 @@
   "imageUrl": "https://imgur.com/402Xed8",
   "lastUpdatedDate": 1736636506897,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/aquilo/"
+  ],
   "title": "Aquillo Lithium cityblock"
 }

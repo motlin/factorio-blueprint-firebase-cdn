@@ -13,9 +13,9 @@
     "width": 488
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,14/"
-  },
+  "tags": [
+    "/version/0,14/"
+  ],
   "title": "pulse+latch",
   "authorId": "TgnhKAhHVpguhtNdVRZM0gpWG1K2",
   "createdDate": 1522964450180

@@ -15,12 +15,12 @@
   "descriptionMarkdown": "Titel says it all. i created an safe rail crossing based on this BP (https://factorioprints.com/view/-KZHVa0Q3mD4Ga_8njAN)",
   "lastUpdatedDate": 1507871489770,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/power/accumulator/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/train/crossing/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/crossing/"
+  ],
   "title": "Safe Rail crossing Player priority pass Based on Jan Streffing`s 4-Lane concept.",
   "createdDate": 1507871489770
 }

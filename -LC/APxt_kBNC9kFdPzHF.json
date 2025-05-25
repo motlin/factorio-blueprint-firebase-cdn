@@ -19,11 +19,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2018-05-10%2023_13_17-Factorio%200.16.36.png?alt=media&token=d229a7c4-7839-4034-8a06-ee6b3637d64b",
   "lastUpdatedDate": 1525986846299,
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "End game Beaconized Iron and Copper"
 }

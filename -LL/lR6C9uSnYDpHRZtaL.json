@@ -128,14 +128,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Science%20II.png?alt=media&token=b8e441a0-fa6b-4740-8762-a96cc2893366",
   "lastUpdatedDate": 1576689251603,
   "numberOfFavorites": 104,
-  "tags": {
-    "6": "/production/belt based/",
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/production/oil processing/",
-    "5": "/production/smelting/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/science/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/oil processing/",
+    "/production/smelting/"
+  ],
   "title": "0.17 Science book  (90 SPM from ore to packs)"
 }

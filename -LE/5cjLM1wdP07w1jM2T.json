@@ -1,15 +1,15 @@
 {
   "descriptionMarkdown": "0.75 Military science pack/s \n/w Steel&Brick\n\nhttps://kirkmcdonald.github.io/calc.html#tab=graph&data=0-17-1&rate=s&min=2&items=military-science-pack:r:3/4",
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/general/compact/",
-    "4": "/general/tileable/",
-    "5": "/general/mid game/",
-    "6": "/general/early game/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/general/early game/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Military science pack /w Steel&Brick",
   "author": {
     "userId": "QIE2KWG9txYWeZcZtcboDUSME8G2"

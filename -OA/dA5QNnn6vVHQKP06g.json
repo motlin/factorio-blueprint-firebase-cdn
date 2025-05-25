@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/urwG8Lp",
   "lastUpdatedDate": 1730489695426,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "2.0 Memory cell",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

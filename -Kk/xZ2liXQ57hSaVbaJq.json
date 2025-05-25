@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "Kovarex Enrichment Center",
   "descriptionMarkdown": "Provide the system with 238 in the requester chest to the top left. Provide 40 235 to the requester chest on the bottom left. It will slowly build up. You may need to shift the 235 from the centrifuges down the line and bring it back to the first one a few times if the stack inserters miss some or turn off all centrifuges except the first one until it is full. As the system builds up 235, you can turn on more centrifuges. Once the system is fully buffed up, I have not had to mine anymore uranium and I have 4.8k Uranium 235.  Once the reactor has starting making used uranium, create another centifuge somewhere to recycle the used uranium and put uranium 238 back on the circle belt up top. In the screenshot to the left and top right you will see the recycle used uranium centrifuges. Those are not included as some people would rather do off-site recycling. \n\nIf anyone has any other good suggestions please let me know. Again you will need 40 Uranium 235 to get the first centrifuge running. Don't skip that part :)",
   "fileName": "Processing.jpg",

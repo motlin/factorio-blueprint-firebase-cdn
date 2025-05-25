@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1589629884257,
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/production/batteries/",
-    "4": "/production/plastic/",
-    "0": "/version/0,17/",
-    "1": "/production/oil processing/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/production/plastic/",
+    "/version/0,17/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Oil Refinery 0.17.79 Bazinga Blueprint"
 }

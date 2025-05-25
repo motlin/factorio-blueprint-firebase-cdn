@@ -15,9 +15,9 @@
     "type": "image/jpeg",
     "width": 579
   },
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/balancer/"
+  ],
   "title": "4 to 4 all lane balancer"
 }

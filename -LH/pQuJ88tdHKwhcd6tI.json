@@ -35,11 +35,11 @@
   },
   "lastUpdatedDate": 1561043379566,
   "numberOfFavorites": 15,
-  "tags": {
-    "2": "/power/solar/",
-    "3": "/mods/vanilla/",
-    "0": "/version/0,17/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/nuclear/"
+  ],
   "title": "Power Book"
 }

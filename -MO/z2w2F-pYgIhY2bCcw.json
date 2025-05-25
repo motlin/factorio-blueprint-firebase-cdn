@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1637440536993,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para fabricação de pacotes científicos"
 }

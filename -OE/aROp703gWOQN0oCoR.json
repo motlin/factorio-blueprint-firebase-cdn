@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/9oxI2SH",
   "lastUpdatedDate": 1734857541700,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/version/2,0/",
-    "2": "/power/solar/",
-    "3": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/2,0/",
+    "/power/solar/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus Most Inserters and All Power Distribution, and Now Assemblers and Pipe.",
   "favorites": {
     "Bi5w15GtUEdDeZQ1J8eK9dj0zGC3": true,

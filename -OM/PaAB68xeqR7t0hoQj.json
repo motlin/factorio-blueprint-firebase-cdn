@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/2fojjL8",
   "lastUpdatedDate": 1743129434603,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Grid de fornalhas elétricas: placas",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

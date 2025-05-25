@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/aikz5pK",
   "lastUpdatedDate": 1740180874812,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/gleba/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/fulgora/",
-    "5": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/gleba/",
+    "/planets/nauvis/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/"
+  ],
   "title": "Cheap Spaceship",
   "favorites": {
     "fNdd8qE2wecgn6If2ooiunqwtsC3": true,

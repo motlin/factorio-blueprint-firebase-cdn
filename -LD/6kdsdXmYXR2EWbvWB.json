@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/tileable/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/tileable/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "GelT9Oi5cmhQmJeJz6um4DAD8Rm1"
   },

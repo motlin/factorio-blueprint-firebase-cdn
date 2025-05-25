@@ -14,9 +14,9 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/green%20electrical%20circuit.jpg?alt=media&token=e526a605-d3fa-4a9d-a095-edea0cf55b17",
   "lastUpdatedDate": 1544620122055,
-  "tags": {
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/"
+  ],
   "author": {
     "userId": "xzpFbvqX3Dh9tNPNTEB0EUzhvM13"
   }

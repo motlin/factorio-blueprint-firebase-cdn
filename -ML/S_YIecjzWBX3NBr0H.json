@@ -13,10 +13,10 @@
   "createdDate": 1604666668500,
   "descriptionMarkdown": "Stacker extension for a modular train station",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true
   },

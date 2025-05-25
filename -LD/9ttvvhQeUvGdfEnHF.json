@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/version/0,17/"
+  ],
   "title": "Electronic circuit_45 per sec_belt base(more efficient)",
   "authorId": "Hsee32dK8rYHPEN1Is8jy8lVoZI3",
   "descriptionMarkdown": "### Previous version\n[Here](https://factorioprints.com/view/-Lc_PdcOcMHWAqB-ohjN)\n\n### Change point\nreduse num of beacon 22 to 20",

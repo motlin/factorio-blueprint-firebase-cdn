@@ -175,9 +175,9 @@
   },
   "lastUpdatedDate": 1580402305450,
   "numberOfFavorites": 152,
-  "tags": {
-    "1": "/version/0,17/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/smelting/"
+  ],
   "title": "Smelting Book"
 }

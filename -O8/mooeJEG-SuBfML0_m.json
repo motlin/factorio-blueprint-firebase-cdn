@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/iiXlykU",
   "lastUpdatedDate": 1728503303089,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Star Base Space (Exotics + S.E.)"
 }

@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/c51SQkm",
   "lastUpdatedDate": 1722467694024,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Serie de livros de blueprints para balanceamento de esteiras. v1.3"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/rjDusaW",
   "lastUpdatedDate": 1731188126291,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/space-age/"
+  ],
   "title": "Gleba book",
   "favorites": {
     "0Uclv2UJZAWCeVXVBndSdkXiNqG3": true,

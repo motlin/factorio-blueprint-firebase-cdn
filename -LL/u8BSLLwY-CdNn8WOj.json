@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1536426297748,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "Factorio Cyclotron"
 }

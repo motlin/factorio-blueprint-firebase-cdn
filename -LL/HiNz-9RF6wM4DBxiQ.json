@@ -7,11 +7,11 @@
     "height": 770
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio Basic Nuclear Power",
   "author": {
     "userId": "oBvNrnieszOORAcfIiJi92gLLOv1"

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2uO8XTH",
   "lastUpdatedDate": 1731620548025,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Carbon Fiber production v3",
   "favorites": {
     "a25GobB4QAeVyCccuBrllkfCSxG2": true,

@@ -8,13 +8,13 @@
   },
   "lastUpdatedDate": 1573246077029,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/bobs/",
-    "2": "/production/mall (make everything)/",
-    "3": "/production/inserters/",
-    "4": "/production/belts/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/bobs/",
+    "/production/mall (make everything)/",
+    "/production/inserters/",
+    "/production/belts/"
+  ],
   "title": "Bob's Belt + Inserter + Miniloader Mall",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

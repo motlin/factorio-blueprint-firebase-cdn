@@ -32,10 +32,10 @@
   },
   "lastUpdatedDate": 1693488406833,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Фабрика всего."
 }

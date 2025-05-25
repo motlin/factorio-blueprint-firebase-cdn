@@ -8,11 +8,11 @@
     "type": "image/jpeg",
     "width": 2560
   },
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/factorissimo/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/factorissimo/",
+    "/production/smelting/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,

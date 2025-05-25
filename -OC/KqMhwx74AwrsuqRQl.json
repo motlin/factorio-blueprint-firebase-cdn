@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/x5Fx4tP",
   "lastUpdatedDate": 1732731126858,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/circuit/indicator/"
+  ],
   "title": "Signal Multiplexer on Green Wire",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

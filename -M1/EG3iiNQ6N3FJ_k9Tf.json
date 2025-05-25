@@ -4,16 +4,16 @@
   },
   "createdDate": 1582951582686,
   "lastUpdatedDate": 1582951582686,
-  "tags": {
-    "5": "/production/mining/",
-    "6": "/production/inserters/",
-    "7": "/version/0,17/",
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/production/electronic circuit (green)/",
-    "4": "/production/science/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/inserters/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/compact/",
+    "/belt/transport belt (yellow)/",
+    "/production/electronic circuit (green)/",
+    "/production/science/"
+  ],
   "favorites": {
     "2FpmAJ8MsyfSgMM3TWicyMXzd113": true,
     "Q8TTuHjuYHbOo12XvzMmQMJiLl22": true,

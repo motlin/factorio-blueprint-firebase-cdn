@@ -2,15 +2,15 @@
   "descriptionMarkdown": "Consumes 44 MW solo, 155 MW for four",
   "lastUpdatedDate": 1687215765237,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/production/belt based/",
-    "5": "/version/1,0/",
-    "6": "/version/1,1/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/production/belt based/",
+    "/version/1,0/",
+    "/version/1,1/"
+  ],
   "title": "Processing Units - 370 / min",
   "author": {
     "userId": "HbQl7zEmPyRh8mfr7DhJe31yP6R2"

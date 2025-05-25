@@ -2,10 +2,10 @@
   "createdDate": 1525302498520,
   "descriptionMarkdown": "Just put in water and crude oil and you get nothing but 26k/min petroleum out.",
   "lastUpdatedDate": 1525302498520,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "iSUOZbPSKGgYxZZzpjAcToJjmtn2"
   },

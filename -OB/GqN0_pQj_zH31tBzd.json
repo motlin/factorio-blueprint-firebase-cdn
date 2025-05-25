@@ -20,9 +20,9 @@
   "imageUrl": "https://imgur.com/25kgWFH",
   "lastUpdatedDate": 1731171805970,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Blueprint Book for Vanilla Logistics Train Network (LTN) - Translated Version"
 }

@@ -20,12 +20,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Annotation%202020-04-26%20185151.png?alt=media&token=45523731-6b9d-44b7-bd65-0c05512b4284",
   "lastUpdatedDate": 1587952357905,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/production/belt based/",
-    "4": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/belt based/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Beaconed Circuits"
 }

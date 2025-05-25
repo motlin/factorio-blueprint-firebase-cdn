@@ -11,12 +11,12 @@
     "id": "xxASJRU"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/version/0,17/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "authorId": "85AlXKa2qVeP0mc2Vv7yeDAVcNm2",
   "descriptionMarkdown": "16 labs, 8 beacons per lab, one ring belt to rule them all.\n\nThe design is very basic and sturdy, it runs smoothly and can deal with most situations. It is theoretically possible that it get stuck but this only happens once in a thousand years. The wiring prevent one type of potion from taking up all available space. If the belt saturates the green inserter activates to make room.\n\nThe  blueprint is very compact and can be extended or duplicated to increase its capacity. \n\n\n\n",
   "fileName": "lab 2.png",

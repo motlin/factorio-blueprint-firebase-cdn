@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/phCx8nt",
   "lastUpdatedDate": 1732036642906,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de fluxo de plasma"
 }

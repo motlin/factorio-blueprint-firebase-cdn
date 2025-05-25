@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1536560180648,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Book: Updated Trainstations"
 }

@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "1": "/production/inserters/",
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/belts/"
+  ],
   "author": {
     "userId": "pFZ1bMRUikTLU72RLWH1w6Tkldz2"
   },

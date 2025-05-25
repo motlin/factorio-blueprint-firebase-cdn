@@ -25,8 +25,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2021-05-26_19-36-45.png?alt=media&token=3a9091bb-6e49-4dfb-8e37-1a403f9efc88",
   "lastUpdatedDate": 1622079421122,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/mid game/"
-  },
+  "tags": [
+    "/general/mid game/"
+  ],
   "title": "Miscellaneous"
 }

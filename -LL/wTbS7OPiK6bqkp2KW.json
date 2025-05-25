@@ -68,11 +68,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Unload%20station.jpg?alt=media&token=281ec2f4-da92-4429-a61f-f65fdc70ac19",
   "lastUpdatedDate": 1596645613530,
   "numberOfFavorites": 50,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/train/loading station/",
-    "2": "/mods/ltn/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/mods/ltn/",
+    "/version/0,17/"
+  ],
   "title": "Improved dedicated LTN Train stations "
 }

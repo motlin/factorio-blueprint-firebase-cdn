@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/phxpxHz",
   "lastUpdatedDate": 1732114768317,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/quality/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/quality/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Gambling Machine v2.0 by .AJIADb9",
   "favorites": {
     "bCAKLZ0IzAhYLgwmMN7Bsfe36Qw2": true,

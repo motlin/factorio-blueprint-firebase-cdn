@@ -1,13 +1,13 @@
 {
   "authorId": "LwASv8Mm0qeOmWYCBBW0MFbw39s2",
   "numberOfFavorites": 4,
-  "tags": {
-    "4": "/belt/fast transport belt (red)/",
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/mods/other/",
-    "2": "/production/other/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/mods/lighted-electric-poles/",
+    "/mods/other/",
+    "/production/other/",
+    "/version/0,16/"
+  ],
   "title": "Pyanodon Syngas Plant",
   "favorites": {
     "NbuM8y7IWzN1x5nGiZd5gZ6Y3cx2": true,

@@ -8,12 +8,12 @@
     "width": 465
   },
   "lastUpdatedDate": 1525018871169,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "processing unit tileable balanced compact",
   "author": {
     "userId": "DhCKMJFf7UfYbBiBTEGTdB9qYdR2"

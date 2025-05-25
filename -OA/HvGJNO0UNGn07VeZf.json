@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/3ViteXu",
   "lastUpdatedDate": 1730115605988,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Book",
   "favorites": {
     "aWh1PZ1GjpPZiblSe35IJmJCDdT2": true,

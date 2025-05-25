@@ -14,11 +14,11 @@
     "userId": "FXq812AWqIf1Px8pwNdmJ7yRgjG2"
   },
   "authorId": "FXq812AWqIf1Px8pwNdmJ7yRgjG2",
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Smart Unloading Station",
   "favorites": {
     "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true

@@ -16,13 +16,13 @@
   "createdDate": 1517555832674,
   "fileName": "supply-station.jpg",
   "numberOfFavorites": 69,
-  "tags": {
-    "3": "/train/unloading station/",
-    "4": "/version/0,15/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/loading station/"
+  ],
   "favorites": {
     "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,

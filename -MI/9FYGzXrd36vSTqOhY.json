@@ -23,14 +23,14 @@
   },
   "lastUpdatedDate": 1601121171326,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/general/beaconized/",
-    "4": "/mods/angels/",
-    "5": "/version/0,15/",
-    "6": "/mods/krastorio/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/general/beaconized/",
+    "/mods/angels/",
+    "/version/0,15/",
+    "/mods/krastorio/",
+    "/production/smelting/"
+  ],
   "title": "GigaSchmelzFabrik"
 }

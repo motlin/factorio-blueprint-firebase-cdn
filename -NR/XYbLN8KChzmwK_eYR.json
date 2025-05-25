@@ -20,13 +20,13 @@
   },
   "lastUpdatedDate": 1679913988521,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/stacker/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/mods/ltn/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/stacker/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/ltn/"
+  ],
   "title": "LTN City Blocks - Nested Depots and Refuelling Station"
 }

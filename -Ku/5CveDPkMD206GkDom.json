@@ -3,10 +3,10 @@
   "fileName": "poste elec MK3.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/poste%20elec%20MK3.png?alt=media&token=8e9a15e2-2fd1-4a88-9c17-8f6fb1d4f921",
   "lastUpdatedDate": 1505490352933,
-  "tags": {
-    "1": "/production/other/",
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/bobs/"
+  ],
   "author": {
     "userId": "NE2gW3cV9CdGFUnoqoACUMv5egK2"
   },

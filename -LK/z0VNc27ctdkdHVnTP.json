@@ -11,14 +11,14 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "4": "/production/logistic (bot) based/",
-    "5": "/version/0,17/",
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/version/0,17/",
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "kYvYXMZmXQQG1scxDlefmmBrx5h1"
   },

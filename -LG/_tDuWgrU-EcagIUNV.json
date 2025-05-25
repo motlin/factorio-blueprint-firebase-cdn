@@ -37,8 +37,8 @@
     "height": 331
   },
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ]
 }

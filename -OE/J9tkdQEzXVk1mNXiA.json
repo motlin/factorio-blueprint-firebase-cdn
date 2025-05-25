@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/lSoQctm",
   "lastUpdatedDate": 1734431610735,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Military Science 60 SPM",
   "favorites": {
     "bCxEQh44wyLIkLjImv2TN1mbBo73": true,

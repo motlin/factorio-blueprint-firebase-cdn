@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/cDmHznS",
   "lastUpdatedDate": 1732204125574,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/general/compact/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/production/inserters/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/general/compact/",
+    "/belt/express transport belt (blue)/",
+    "/production/inserters/"
+  ],
   "title": "Gleba Bioplastic Production",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

@@ -16,9 +16,9 @@
     "width": 591
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Plant Factory",
   "authorId": "WwRcUgQ7XpXDlKhcHnNh3acCXXS2",
   "descriptionMarkdown": "Creates all the necessary parts to build a Nuclear Power Station.\n\nInputs:\n* Iron Plates\n* Steel Plates\n* Copper Plates\n* Red Chips\n* Concrete\n\nOutputs (Logistics Container)\n* Nuclear Reactor\n* Heat Exchanger\n* Heat Pipes\n* Steam Turbines\n"

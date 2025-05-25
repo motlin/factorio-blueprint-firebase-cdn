@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1632796153171,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "RiSo 2700/min Green",
   "favorites": {
     "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,

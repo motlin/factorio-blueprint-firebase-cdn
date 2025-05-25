@@ -29,18 +29,18 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-38905652.png?alt=media&token=c2373d1c-09fd-4779-ad6c-9662f1904a39",
   "lastUpdatedDate": 1710305096190,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/power/nuclear/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "5": "/version/0,18/",
-    "6": "/production/logistic (bot) based/",
-    "7": "/power/kovarex enrichment/",
-    "8": "/production/uranium/",
-    "9": "/general/beaconized/",
-    "10": "/general/ups friendly/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,18/",
+    "/production/logistic (bot) based/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/general/ups friendly/"
+  ],
   "title": "12.76 GW , UPS EFFICIENT , SMART , TILEABLE , 40 REACTOR : GHIDORAH V1.3"
 }

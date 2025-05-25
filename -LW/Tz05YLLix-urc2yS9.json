@@ -13,14 +13,14 @@
     "id": "DHGPCmz",
     "type": "image/jpeg"
   },
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/general/mid game/",
-    "4": "/general/early game/",
-    "5": "/general/compact/",
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/mid game/",
+    "/general/early game/",
+    "/general/compact/",
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "title": "Bots 1.5/s",
   "author": {
     "userId": "QIE2KWG9txYWeZcZtcboDUSME8G2"

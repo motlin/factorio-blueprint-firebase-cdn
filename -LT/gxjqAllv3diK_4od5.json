@@ -7,12 +7,12 @@
   },
   "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
   "lastUpdatedDate": 1546032578407,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/general/compact/"
+  ],
   "image": {
     "height": 1080,
     "id": "AdtW2ZK",

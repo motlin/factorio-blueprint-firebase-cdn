@@ -15,14 +15,14 @@
     "type": "image/jpeg",
     "width": 820
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/smelting/",
-    "2": "/general/beaconized/",
-    "3": "/general/mid game/",
-    "4": "/general/tileable/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "12* elec.Furnaces + Beacon: express belt exit [LazyBlueprints] "
 }

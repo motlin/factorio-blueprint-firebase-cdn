@@ -22,9 +22,9 @@
   "imageUrl": "https://imgur.com/o7O8EEF",
   "lastUpdatedDate": 1732040377807,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/mods/elevated-rails/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/elevated-rails/"
+  ],
   "title": "Hexway Modular Elevated Citygrid"
 }

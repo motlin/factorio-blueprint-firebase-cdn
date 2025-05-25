@@ -8,10 +8,10 @@
     "type": "image/png"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "title": "Servo controller for assembly",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true

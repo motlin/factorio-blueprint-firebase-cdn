@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1695092096607,
   "numberOfFavorites": -1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/mods/other/"
+  ],
   "title": "Spiral Generator - for self expanding factories",
   "favorites": {
     "esvNuxWxJlfpeJRdIUYJRq0Uiwa2": true

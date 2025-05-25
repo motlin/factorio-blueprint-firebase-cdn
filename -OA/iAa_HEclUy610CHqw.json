@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/7LnLTBo",
   "lastUpdatedDate": 1730572872069,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Inner Plannet Hauler Mk.2",
   "favorites": {
     "ulUoR4z6mlf5n1zP6y4lCSsFGNi1": true,

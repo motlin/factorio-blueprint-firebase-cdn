@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1658116105151,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Speed Modules",
   "favorites": {
     "13gr1Or3HlYx7Nezd9Y8LDJojmh1": true,

@@ -18,13 +18,13 @@
   "createdDate": 1602619309146,
   "descriptionMarkdown": "landfill blueprint for expansions over those pesky lakes :D\n### Version 2:\n* changed the position of the power next to roboports to be correct with Nilaus setup - realized that pretty late :D\n* made a few variations\n",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/tileable/",
-    "3": "/version/0,15/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "author": {
     "userId": "geyEr6USRbfpItcpN5xb201l0dq1"
   },

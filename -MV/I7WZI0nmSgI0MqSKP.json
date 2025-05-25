@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1615230213755,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/production/electronic circuit (green)/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/general/late game (megabase)/"
+  ],
   "descriptionMarkdown": "IN: 4 iron, 6 copper\nOUT: 4 red circuits\nNot meant for public, but its easyer to store blueprints here.",
   "image": {
     "width": 572,

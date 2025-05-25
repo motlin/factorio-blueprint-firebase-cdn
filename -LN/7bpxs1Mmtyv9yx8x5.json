@@ -621,15 +621,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Ultimo%20VI.jpg?alt=media&token=b7b8e03e-7c8d-4efa-bc7c-88cab9559c15",
   "lastUpdatedDate": 1727781836502,
   "numberOfFavorites": 502,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/belts/",
-    "2": "/production/inserters/",
-    "3": "/production/guns and ammo/",
-    "4": "/production/robots/",
-    "5": "/production/belt based/",
-    "6": "/production/mall (make everything)/",
-    "7": "/version/1,1/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/belts/",
+    "/production/inserters/",
+    "/production/guns and ammo/",
+    "/production/robots/",
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/version/1,1/"
+  ],
   "title": "Everything you need (1.0 Mall, crafts over 120 different items from ores to endproducts)"
 }

@@ -15,14 +15,14 @@
   "authorId": "v1SeQRdbZbVIHdqTD9XgXVpK98S2",
   "lastUpdatedDate": 1518818011013,
   "numberOfFavorites": 15,
-  "tags": {
-    "3": "/general/compact/",
-    "4": "/version/0,16/",
-    "5": "/general/mid game/",
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/version/0,16/",
+    "/general/mid game/",
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Compact Self-contained Oil Build (No modules)",
   "favorites": {
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true

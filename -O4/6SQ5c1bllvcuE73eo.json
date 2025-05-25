@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/MpdfbZR",
   "lastUpdatedDate": 1723550517238,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/",
-    "2": "/train/junction/",
-    "3": "/power/solar/",
-    "4": "/mods/other/",
-    "5": "/version/0,15/",
-    "6": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/",
+    "/train/junction/",
+    "/power/solar/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/train/roundabout/"
+  ],
   "title": "New Solar City Railblock SE-K2"
 }

@@ -3,12 +3,12 @@
   "fileName": "31iopjyoptypytkj.jpg",
   "lastUpdatedDate": 1602363921983,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/uranium/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/uranium/"
+  ],
   "favorites": {
     "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true,
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,

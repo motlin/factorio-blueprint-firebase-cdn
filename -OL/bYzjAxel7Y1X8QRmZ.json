@@ -43,8 +43,8 @@
   "imageUrl": "https://imgur.com/rb1RAH5",
   "lastUpdatedDate": 1742274310044,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Colossus 4.5m promethium"
 }

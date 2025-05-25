@@ -21,15 +21,15 @@
   },
   "lastUpdatedDate": 1546782656828,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "6": "/general/storage/",
-    "7": "/version/0,16/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/storage/",
+    "/version/0,16/"
+  ],
   "title": "Yuitest's Separate Collection System, multiple versions"
 }

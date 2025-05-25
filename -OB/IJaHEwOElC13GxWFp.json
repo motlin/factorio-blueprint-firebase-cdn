@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ugmDkny",
   "lastUpdatedDate": 1734714702566,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/production/science/"
+  ],
   "title": "WoodPig's GLEBA",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

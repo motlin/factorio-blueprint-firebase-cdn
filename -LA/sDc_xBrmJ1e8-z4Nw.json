@@ -2,10 +2,10 @@
   "descriptionMarkdown": "Part 2 of my early game mall",
   "lastUpdatedDate": 1553574037916,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/general/early game/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "6nvml2YP2adY24rxfR3q4McsDti2": true
   },

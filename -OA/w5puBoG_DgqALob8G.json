@@ -17,11 +17,11 @@
   "imageUrl": "https://imgur.com/I3MTbrf",
   "lastUpdatedDate": 1730806505507,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,15/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,15/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Beconised Smelting"
 }

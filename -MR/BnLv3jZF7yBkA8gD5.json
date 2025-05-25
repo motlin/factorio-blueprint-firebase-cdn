@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1639818674969,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Book with blueprints with rails protected by rails"
 }

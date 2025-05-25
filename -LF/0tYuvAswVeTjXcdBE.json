@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Purple science.",
   "favorites": {
     "RNWu1DSA3abT2VdQVU0kFucssDw2": true,

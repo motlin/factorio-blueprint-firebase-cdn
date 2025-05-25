@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1705157786423,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/other/",
-    "3": "/production/belt based/",
-    "4": "/production/belts/",
-    "5": "/production/inserters/",
-    "6": "/production/other/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/mall (make everything)/",
+    "/mods/other/",
+    "/production/belt based/",
+    "/production/belts/",
+    "/production/inserters/",
+    "/production/other/"
+  ],
   "title": "Space Exploration belt-based mall (no KS2)",
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,

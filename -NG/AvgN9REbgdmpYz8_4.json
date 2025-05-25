@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1667721250645,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Module tier1 6/minute",
   "favorites": {
     "9PiewDGxAIahnwVaLrU20MgokAh1": true

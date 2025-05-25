@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1646838429714,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/tileable/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/tileable/",
+    "/production/science/"
+  ],
   "title": "Tileable Science"
 }

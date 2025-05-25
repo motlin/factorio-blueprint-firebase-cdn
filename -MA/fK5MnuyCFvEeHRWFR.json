@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1622077105742,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/advanced circuit (red)/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Beaconed Circuits",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

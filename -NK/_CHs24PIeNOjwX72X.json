@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1673012179516,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Arcosphere balancer (space exploration 0.6)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/arcosphere%20balance.png?alt=media&token=e89ca0cf-b294-402c-8731-4ac86c4ef869",
   "favorites": {

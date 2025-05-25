@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1640339514419,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/train/track/",
-    "4": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/track/",
+    "/train/left-hand-drive/"
+  ],
   "title": "192^2 Grid Rails"
 }

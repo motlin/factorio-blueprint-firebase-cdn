@@ -36,12 +36,12 @@
   },
   "lastUpdatedDate": 1519242101273,
   "numberOfFavorites": 76,
-  "tags": {
-    "1": "/production/belt based/",
-    "2": "/production/mall (make everything)/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/version/0,16/"
+  ],
   "title": "Modular Mall"
 }

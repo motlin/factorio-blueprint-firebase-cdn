@@ -9,12 +9,12 @@
     "width": 513
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bp-splitter-fs8.png?alt=media&token=d66649dc-5f4d-40e4-95e5-8f7cf82f0c71",
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"
   },

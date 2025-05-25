@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1688323490795,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/ltn/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/ltn/",
+    "/train/loading station/"
+  ],
   "title": "LTN junk provider"
 }

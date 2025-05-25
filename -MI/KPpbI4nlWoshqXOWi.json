@@ -15,11 +15,11 @@
   "authorId": "5JhQvriaM5M5VV4futhR9spEbNo1",
   "createdDate": 1601308416623,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Apple Logo 42x42",
   "favorites": {
     "3Dnulhg7YzM68eaqqDQicars9DA3": true

@@ -25,9 +25,9 @@
     "type": "image/jpeg",
     "width": 1539
   },
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/belts/",
-    "2": "/production/mall (make everything)/"
-  }
+  "tags": [
+    "/mods/krastorio/",
+    "/production/belts/",
+    "/production/mall (make everything)/"
+  ]
 }

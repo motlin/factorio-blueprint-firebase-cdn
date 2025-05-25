@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/w4877Q4",
   "lastUpdatedDate": 1731048901459,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Thruster Controller",
   "favorites": {
     "xoJ2jDLezVZwdTMf6DVkVaLOOlW2": true,

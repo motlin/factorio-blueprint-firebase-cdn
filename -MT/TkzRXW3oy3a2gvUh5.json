@@ -9,9 +9,9 @@
     "width": 211
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "author": {
     "userId": "yl53ZXEVQcWSsmcZ3oyed5EhuCW2"
   },

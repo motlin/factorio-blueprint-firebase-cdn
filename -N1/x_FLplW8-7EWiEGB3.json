@@ -23,13 +23,13 @@
   },
   "lastUpdatedDate": 1652448108209,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/train/stacker/",
-    "5": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Modular station builder. 1-4-1 LHT with 1-1 fuel supply"
 }

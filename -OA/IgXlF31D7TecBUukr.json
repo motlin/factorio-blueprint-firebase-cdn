@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/pazcyjN",
   "lastUpdatedDate": 1730128522546,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Cloverleaf crossing",
   "favorites": {
     "RMpS8VqCO3QCPWkDFzQSFflLOy63": true

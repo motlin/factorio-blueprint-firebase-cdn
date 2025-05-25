@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/7RqZuuw",
   "lastUpdatedDate": 1727599841865,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "Industrial Revolution 3 - assembler framework",
   "favorites": {
     "crI6zzSiYqUk4Wfe0jYmQa3mYc52": true

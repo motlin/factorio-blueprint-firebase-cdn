@@ -34,18 +34,18 @@
   },
   "lastUpdatedDate": 1605379403149,
   "numberOfFavorites": 15,
-  "tags": {
-    "8": "/general/compact/",
-    "10": "/version/1,0/",
-    "0": "/production/research (labs)/",
-    "1": "/production/science/",
-    "2": "/mods/factorissimo/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "6": "/general/beaconized/",
-    "7": "/general/tileable/",
-    "9": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/version/1,0/",
+    "/production/research (labs)/",
+    "/production/science/",
+    "/mods/factorissimo/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/chunk aligned/"
+  ],
   "title": "Grays' Ultracompact Factorissimo Science (with Deadlock's)"
 }

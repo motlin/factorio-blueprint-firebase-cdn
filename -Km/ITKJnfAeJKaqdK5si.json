@@ -4,12 +4,12 @@
   "fileName": "Ammo2.PNG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ammo2.PNG?alt=media&token=8e9cc877-8cf1-4067-98c5-0af71e0b850d",
   "lastUpdatedDate": 1499258653306,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Early Ammo",
   "author": {
     "userId": "XMdabdf3hxcsQMNZShpESAUIdx33"

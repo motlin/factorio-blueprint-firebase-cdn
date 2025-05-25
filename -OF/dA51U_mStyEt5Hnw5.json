@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/dzXx0ew",
   "lastUpdatedDate": 1735857716904,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Smart supply depot",
   "favorites": {
     "UO9vDAYuXjelUNfZkJSEIcL9erl1": true

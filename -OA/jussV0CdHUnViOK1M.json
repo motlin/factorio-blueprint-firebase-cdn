@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/mxBo7kR",
   "lastUpdatedDate": 1730602044997,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/gleba/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/gleba/",
+    "/production/other/"
+  ],
   "title": "Gleba Bioflux Production Repeatable",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

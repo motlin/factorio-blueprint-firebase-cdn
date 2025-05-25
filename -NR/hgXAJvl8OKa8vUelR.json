@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1680098861906,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Factorio vanilla nuclear",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1689396276683,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "Oil Processing - Crude In (+extras) - 6 outputs"
 }

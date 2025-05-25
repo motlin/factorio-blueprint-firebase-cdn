@@ -6,13 +6,13 @@
     "height": 222,
     "id": "wI6hv8e"
   },
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/other/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/production/mall (make everything)/",
+    "/production/other/",
+    "/production/logistic (bot) based/",
+    "/general/compact/"
+  ],
   "title": "Factories for military",
   "author": {
     "userId": "9GgJ0Zw7C4Rw4OLVszyGkmpQ39b2"

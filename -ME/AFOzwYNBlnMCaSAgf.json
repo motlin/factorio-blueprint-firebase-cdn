@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1625833971962,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Modular lab",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

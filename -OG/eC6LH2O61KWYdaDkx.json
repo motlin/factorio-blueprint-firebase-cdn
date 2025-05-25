@@ -20,10 +20,10 @@
   "imageUrl": "https://imgur.com/Cm642fs",
   "lastUpdatedDate": 1736948611220,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/space-exploration/",
-    "2": "/production/mining/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/production/mining/"
+  ],
   "title": "Mine a Diamond(the legendary miner)"
 }

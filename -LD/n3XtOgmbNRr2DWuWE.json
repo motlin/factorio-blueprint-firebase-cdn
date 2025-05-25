@@ -21,9 +21,9 @@
   "fileName": "Red Science 1k Per Minute.PNG",
   "descriptionMarkdown": "This blueprint produces around 1.1-1.2k red science each minute with ore inputs.  ",
   "lastUpdatedDate": 1556708732642,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "Beaconed 1k Red Science Per Minute from Ore"
 }

@@ -16,10 +16,10 @@
   "lastUpdatedDate": 1682878597702,
   "numberOfFavorites": 1,
   "title": "Insertless Green Circuits ",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/other/"
+  ],
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true
   }

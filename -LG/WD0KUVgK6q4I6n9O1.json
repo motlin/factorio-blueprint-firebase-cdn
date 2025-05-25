@@ -172,17 +172,17 @@
   },
   "lastUpdatedDate": 1551802878867,
   "numberOfFavorites": 161,
-  "tags": {
-    "8": "/belt/express transport belt (blue)/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/general/early game/",
-    "6": "/belt/transport belt (yellow)/",
-    "7": "/belt/fast transport belt (red)/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "9": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/0,17/"
+  ],
   "title": "Smelting in a Box - Iron Copper Steel"
 }

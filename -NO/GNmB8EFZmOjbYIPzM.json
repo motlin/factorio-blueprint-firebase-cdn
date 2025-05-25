@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1676402697790,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Rocket Factory [Updated]"
 }

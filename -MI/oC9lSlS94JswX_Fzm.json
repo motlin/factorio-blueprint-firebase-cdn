@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1630815956274,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Prioritise Empty Stations Prototype",
   "favorites": {
     "GpBOo1BaSUMilqHPnQ7ZE7WKwVC2": true,

@@ -9,13 +9,13 @@
     "type": "image/jpeg",
     "width": 830
   },
-  "tags": {
-    "1": "/production/rocket parts/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/production/coal liquification/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/coal liquification/"
+  ],
   "author": {
     "userId": "qpcg5f8fTTSKleFdNW7lLO5NYs03"
   },

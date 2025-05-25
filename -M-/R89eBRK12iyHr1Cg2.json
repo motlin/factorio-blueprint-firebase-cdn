@@ -16,12 +16,12 @@
   "fileName": "screenshot-tick-63352883.png",
   "lastUpdatedDate": 1581022540004,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "favorites": {
     "bDJMmaOFWifCciP1nFzKHWhjDIb2": true,
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,

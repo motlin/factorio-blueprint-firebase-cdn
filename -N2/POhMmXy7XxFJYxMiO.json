@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1652931614261,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/production/belt based/"
+  ],
   "title": "Wall 1x Express (saturated)"
 }

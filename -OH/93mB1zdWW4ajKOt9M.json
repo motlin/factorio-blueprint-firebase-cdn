@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/kxa5jbd",
   "lastUpdatedDate": 1737483349090,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "nuclear power station RGB",
   "favorites": {
     "hLCKQXdvbWaSeKmXE3qBXZBDmaj1": true,

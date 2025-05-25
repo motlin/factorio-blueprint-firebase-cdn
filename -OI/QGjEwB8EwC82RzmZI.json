@@ -17,12 +17,12 @@
   "imageUrl": "https://i.imgur.com/DxQTZ0c.jpeg",
   "lastUpdatedDate": 1738845648186,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/other/",
-    "2": "/mods/space-age/",
-    "3": "/mods/quality/",
-    "4": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/other/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/planets/space-platform/"
+  ],
   "title": "Asteroids legends create"
 }

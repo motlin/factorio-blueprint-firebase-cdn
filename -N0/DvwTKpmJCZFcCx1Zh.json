@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1650591968077,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/version/1,0/"
+  ],
   "title": "Automatic PAX System by u/DaviAMSilva",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

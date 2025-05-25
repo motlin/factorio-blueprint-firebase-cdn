@@ -25,10 +25,10 @@
   "imageUrl": "https://imgur.com/WkRr7Gn",
   "lastUpdatedDate": 1732103059402,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/solar/"
+  ],
   "title": "The Hermes"
 }

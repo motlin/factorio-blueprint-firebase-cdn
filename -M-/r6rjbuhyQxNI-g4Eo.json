@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1581472775231,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "LUBRICANT PLANT"
 }

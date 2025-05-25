@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/version/0,15/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Factorio logo of lamps",
   "author": {
     "userId": "QJa1akm9r5epgvT7RMjyvvZFRXw2"

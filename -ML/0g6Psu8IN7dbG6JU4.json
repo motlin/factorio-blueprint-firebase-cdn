@@ -28,13 +28,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-7939066.png?alt=media&token=0c1e228e-3867-418a-af18-438d18aa02b3",
   "lastUpdatedDate": 1604216787154,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "3": "/production/coal liquification/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/coal liquification/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "L3 Speed Modules and L3 Productivity Modules from Raw, 2.5/m each"
 }

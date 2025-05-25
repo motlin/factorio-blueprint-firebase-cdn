@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/bZU4yCA",
   "lastUpdatedDate": 1730632888875,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Atem Nauvis Import",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

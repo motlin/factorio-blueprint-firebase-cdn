@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/OT5F6An",
   "lastUpdatedDate": 1738960044671,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/tileable/"
+  ],
   "title": "Green Circuits (Start)",
   "favorites": {
     "HpPICOnswRODtQqjHO2JQk6WjDJ2": true,

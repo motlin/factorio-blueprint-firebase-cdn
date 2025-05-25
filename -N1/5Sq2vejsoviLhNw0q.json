@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651523486829,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/version/unknown/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/production/advanced circuit (red)/",
+    "/version/unknown/"
+  ],
   "title": "Advanced (red) circuit production | Bobs mods"
 }

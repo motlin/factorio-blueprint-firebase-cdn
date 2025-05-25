@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1634217231889,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/production/coal liquification/",
-    "3": "/mods/vanilla/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/production/coal liquification/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "1.1kpm Rocket Fuel from Coal Liquefaction",
   "favorites": {
     "caEjroAq7lNcLo8eIxqW3Z7zVIs2": true,

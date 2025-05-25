@@ -35,12 +35,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/s-20190328_2053.png?alt=media&token=8209020d-a5df-4b15-b419-bd916207a609",
   "lastUpdatedDate": 1553774240465,
   "numberOfFavorites": 17,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/late game (megabase)/",
-    "0": "/general/beaconized/",
-    "1": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "YAMATO's Blue"
 }

@@ -10,11 +10,11 @@
     "width": 365
   },
   "lastUpdatedDate": 1599372106128,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "aD4NCCU9fZaDbZhypXn8DzdhE0y1"
   },

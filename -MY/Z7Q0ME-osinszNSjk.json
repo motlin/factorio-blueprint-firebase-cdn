@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1647726145662,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/roundabout/"
+  ],
   "title": "Train Roundabout",
   "favorites": {
     "LrSmUOdq4CRLx8IOV4lSWqCxR0z1": true,

@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1530242350431,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/production/logistic (bot) based/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/",
+    "/production/smelting/"
+  ],
   "title": "16k/m Steel Plate From Ore"
 }

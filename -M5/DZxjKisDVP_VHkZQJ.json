@@ -10,11 +10,11 @@
     "type": "image/jpeg",
     "width": 1222
   },
-  "tags": {
-    "1": "/production/science/",
-    "2": "/belt/fast transport belt (red)/",
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/science/",
+    "/belt/fast transport belt (red)/",
+    "/mods/krastorio/"
+  ],
   "title": "Research Server Sciences 60/s",
   "favorites": {
     "fAGGh0hYZFaLXwKpPoGD9K9ZPCf1": true,

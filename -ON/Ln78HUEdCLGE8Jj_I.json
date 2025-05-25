@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/k9j6fgL",
   "lastUpdatedDate": 1744139223829,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "A smelter for a large amount of iron with a small amount of steel",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

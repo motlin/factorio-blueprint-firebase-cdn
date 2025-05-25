@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1688013602790,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Meteor Defense",
   "favorites": {
     "AvgfLfpEHASioDLs7N95kY0V12i1": true,

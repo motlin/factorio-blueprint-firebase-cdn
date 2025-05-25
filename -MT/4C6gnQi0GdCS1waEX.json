@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1641838574517,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/production/uranium/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "5": "/production/belt based/",
-    "6": "/version/1,0/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/uranium/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/version/1,0/"
+  ],
   "title": "Kagutschi's easy tilable mining",
   "favorites": {
     "qbYR8V3oaYfPdx1ApABQ6kkqjZH3": true,

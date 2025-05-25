@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1676598023940,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/space-exploration/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/general/early game/"
+  ],
   "title": "[SE+K2] Early-game Black & White Reinforced Plates",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,

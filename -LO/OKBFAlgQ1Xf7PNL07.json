@@ -21,8 +21,8 @@
   },
   "lastUpdatedDate": 1568088048882,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/mining/"
-  }
+  "tags": [
+    "/mods/other/",
+    "/production/mining/"
+  ]
 }

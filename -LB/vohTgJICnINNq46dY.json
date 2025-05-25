@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1554708093249,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/belt/balancer/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "LTN Ore sorter (Copper, Iron and Coal)"
 }

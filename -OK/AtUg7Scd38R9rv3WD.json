@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/0GXBVKk",
   "lastUpdatedDate": 1740736078349,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Running line"
 }

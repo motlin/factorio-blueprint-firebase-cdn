@@ -50,11 +50,11 @@
   },
   "lastUpdatedDate": 1590555838235,
   "numberOfFavorites": 30,
-  "tags": {
-    "2": "/version/0,18/",
-    "3": "/general/compact/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/general/compact/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2.4 GW Compact Smart Reactor"
 }

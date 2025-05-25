@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,

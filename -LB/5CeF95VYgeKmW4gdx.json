@@ -6,14 +6,14 @@
     "type": "image/jpeg",
     "width": 2304
   },
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/general/chunk aligned/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/track/",
-    "5": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/general/chunk aligned/",
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/train/crossing/"
+  ],
   "author": {
     "userId": "2nvqMkzU86WLqQuYJ3MVui9Z9IA3"
   },

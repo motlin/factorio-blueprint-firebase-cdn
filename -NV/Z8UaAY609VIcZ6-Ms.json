@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1684233648712,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 Solar",
   "favorites": {
     "AvgfLfpEHASioDLs7N95kY0V12i1": true

@@ -18,8 +18,8 @@
   "lastUpdatedDate": 1533332503247,
   "authorId": "V3FrObjTIrf8RVOvUj6cGiiVpEA2",
   "descriptionMarkdown": "**instructions:**    \nIgnore the pump values. [1] is the number on top/on the lest, and [2] is the number on the right.  \n*to the right of the abbreviations for each operator, there is a color. Set that color to one to \"select\" that operation*   \nthe basis for a color addition, if you want that, is already setup.   \n100% vanilla compatable",
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "5-digit Calculator (with negatives)"
 }

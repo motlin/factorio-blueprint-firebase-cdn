@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1681351956672,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Train Intersections - 3-ways only - 10 car length"
 }

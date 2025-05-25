@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/XYKFe0R",
   "lastUpdatedDate": 1741151402499,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "SMELTER BOOK",
   "favorites": {
     "SiuSs4glhzVPuj7iFioZeVtahVV2": true,

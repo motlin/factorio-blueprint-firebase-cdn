@@ -14,12 +14,12 @@
   },
   "lastUpdatedDate": 1540976183544,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/belt based/",
-    "2": "/mods/vanilla/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "title": "Vehicles and Rails Production Mk5",
   "createdDate": 1540976183544
 }

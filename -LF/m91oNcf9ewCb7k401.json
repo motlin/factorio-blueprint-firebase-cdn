@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1529850243546,
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/late game (megabase)/",
+    "/general/mid game/"
+  ],
   "title": "Vrn™ Research Complex"
 }

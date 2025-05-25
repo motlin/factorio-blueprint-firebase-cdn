@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1668724776350,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "title": "Flying robot frame (v2)",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,

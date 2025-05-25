@@ -26,8 +26,8 @@
   },
   "lastUpdatedDate": 1634386960468,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "LTN blueprint book"
 }

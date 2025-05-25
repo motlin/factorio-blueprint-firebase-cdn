@@ -19,11 +19,11 @@
   "imageUrl": "https://imgur.com/YkbZuSQ",
   "lastUpdatedDate": 1731681321878,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/power/nuclear/",
-    "2": "/planets/space-platform/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/power/nuclear/",
+    "/planets/space-platform/",
+    "/mods/other/"
+  ],
   "title": "Aquilo Hauler"
 }

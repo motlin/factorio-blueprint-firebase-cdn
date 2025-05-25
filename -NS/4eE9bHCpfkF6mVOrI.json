@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1680847200478,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/other/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/version/1,1/"
+  ],
   "title": "Cargo Rocket Silo with fCPU",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2023-04-07_00-13.png?alt=media&token=25c9fdb0-beff-4527-b22e-f1323b4a9488",
   "favorites": {

@@ -8,13 +8,13 @@
     "width": 1013
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/production/belts/",
-    "4": "/production/inserters/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/belts/",
+    "/production/inserters/"
+  ],
   "author": {
     "userId": "blezjBlwqJUpJyVL7fT2W7Amu722"
   },

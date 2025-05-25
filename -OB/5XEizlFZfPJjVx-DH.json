@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/sUDOLln",
   "lastUpdatedDate": 1747540919406,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/general/mid game/"
+  ],
   "title": "Gleba protection",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

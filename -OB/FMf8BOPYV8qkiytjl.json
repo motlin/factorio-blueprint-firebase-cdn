@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/QTTCwcn",
   "lastUpdatedDate": 1732565421518,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus coal liquification and fluid processing plant",
   "favorites": {
     "kjnQFEJKRdY8NO0XLpmnJzKljth2": true,

@@ -3,11 +3,11 @@
   "fileName": "Green_c_all.png",
   "title": "Green Circuits Book",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "aQGtceSI1TcdVJsP5aHorGvuuNe2"
   },

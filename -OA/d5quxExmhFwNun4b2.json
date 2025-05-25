@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/9nk7cES",
   "lastUpdatedDate": 1730487742203,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/general/storage/"
+  ],
   "title": "Nauvis Automall"
 }

@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1707246084468,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/rocket parts/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/rocket parts/",
+    "/mods/krastorio/"
+  ],
   "title": "DrLeh's space exploration + k2 prints"
 }

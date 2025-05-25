@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1709143279052,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "134.4/s LTN City Block"
 }

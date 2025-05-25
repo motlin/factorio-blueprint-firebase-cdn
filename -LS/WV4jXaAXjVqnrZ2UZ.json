@@ -30,14 +30,14 @@
   },
   "lastUpdatedDate": 1543630984287,
   "numberOfFavorites": 26,
-  "tags": {
-    "1": "/train/roundabout/",
-    "2": "/train/junction/",
-    "3": "/train/crossing/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/loading station/",
-    "6": "/train/unloading station/",
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/track/"
+  ],
   "title": "2 Lane Rail Book - Snap On"
 }

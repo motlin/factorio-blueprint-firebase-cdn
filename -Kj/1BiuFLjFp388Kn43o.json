@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Smart Uranium Storage with Storage Indicators",
   "author": {
     "userId": "GCewDvdXRbOCW1bPiNfyPBfUk1i2"

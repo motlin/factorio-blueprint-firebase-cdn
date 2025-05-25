@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/dSKIIPE",
   "lastUpdatedDate": 1731972930102,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Pulse Clock for Timed Automation"
 }

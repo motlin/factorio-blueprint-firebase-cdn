@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/2lXPybo",
   "lastUpdatedDate": 1732980711528,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/power/solar/",
-    "2": "/general/compact/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/power/solar/",
+    "/general/compact/",
+    "/version/2,0/"
+  ],
   "title": "Inner Planetary Freighter Compact ship",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

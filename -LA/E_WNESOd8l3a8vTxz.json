@@ -8,12 +8,12 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1552892830304,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "knHtxh4wDXaumqgful47NygduO93"
   },

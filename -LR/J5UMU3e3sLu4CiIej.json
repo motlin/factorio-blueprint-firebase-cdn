@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1542230948878,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/production/research (labs)/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/research (labs)/"
+  ],
   "title": "300 SPM Pasta factory on belts"
 }

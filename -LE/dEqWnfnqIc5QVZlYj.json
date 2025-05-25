@@ -9,11 +9,11 @@
     "XoCxLqSLEkOOcsnzT6izq3XWptr2": true,
     "bsyU7B8X3rNaLdEVu5r3qBIXdpQ2": true
   },
-  "tags": {
-    "1": "/mods/ltn/",
-    "2": "/general/tileable/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/general/tileable/",
+    "/production/smelting/"
+  ],
   "title": "LTN - Iron Plate",
   "author": {
     "userId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2"

@@ -1,9 +1,9 @@
 {
   "authorId": "zR082GLWBDUFFOPqlIYoxbN49Kz2",
   "descriptionMarkdown": "This array contains all the stack sizes of the base game.\nYou read in the signal (any value except 0) of any item you want at the top left (the constant combinator says \"ITEM TO GET\" - connect either green or red or both wires here) and the signal will be returned with the stack size of that item at the bottom. You can grab it off the pole or the constant combinator that says \"STACKSIZE HERE\".\n\nThe group of constant combinators on the right is ordered by the position of the item tabs in the character window, and the combinators in each column represent their row in the GUI for selecting their signals. The items within the combinators are then first ordered according to their position in their row, and secondly split thematically. It should be fairly intuitive to find each item.\n\n---\nHeads-up, this array only provides the stacksize, not the stacks! For the stacks, use my other blueprint instead: https://factorioprints.com/view/-LwNUKulPX0qx-HORanl",
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "lastUpdatedDate": 1576663959925,
   "numberOfFavorites": 5,
   "title": "StackSize Provider (Vanilla) v1.0 ~by PaterFrog",

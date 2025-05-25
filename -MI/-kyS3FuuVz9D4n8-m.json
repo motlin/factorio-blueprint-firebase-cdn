@@ -15,9 +15,9 @@
     "width": 1417
   },
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Number Display Using Gates",
   "favorites": {
     "SS0ivWSelScggoritSCjMW2VOo32": true,

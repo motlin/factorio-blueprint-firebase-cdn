@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/1dlT290",
   "lastUpdatedDate": 1734119144778,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "Simple uranium processing for midgame",
   "favorites": {
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true,

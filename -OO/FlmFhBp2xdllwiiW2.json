@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/4NwQR04",
   "lastUpdatedDate": 1745111950462,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/5dim/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/5dim/",
+    "/mods/quality/"
+  ],
   "title": "Quality Gamba",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true

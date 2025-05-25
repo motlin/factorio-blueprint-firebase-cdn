@@ -19,13 +19,13 @@
   },
   "lastUpdatedDate": 1536162124970,
   "numberOfFavorites": 28,
-  "tags": {
-    "3": "/production/belt based/",
-    "4": "/general/late game (megabase)/",
-    "5": "/version/0,16/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/general/late game (megabase)/",
+    "/version/0,16/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/production/rocket parts/"
+  ],
   "title": "All Science Pack Production with Labs T3 Mk1 {Output/s=0.25/s}"
 }

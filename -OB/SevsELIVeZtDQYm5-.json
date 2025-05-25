@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/o8XgTnF",
   "lastUpdatedDate": 1731379205326,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/prioritizer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/tileable/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable belt Filterer and Distributor",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1689550129829,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/mall (make everything)/",
+    "/version/1,1/"
+  ],
   "title": "MK1 Start Game Mall",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/fc0hVLr%5B1%5D.jpeg?alt=media&token=f78608bc-aa67-45d2-8d4c-d885724098ec",
   "favorites": {

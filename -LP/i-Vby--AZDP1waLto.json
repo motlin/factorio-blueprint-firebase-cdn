@@ -25,13 +25,13 @@
   },
   "lastUpdatedDate": 1570829647219,
   "numberOfFavorites": 8,
-  "tags": {
-    "4": "/general/late game (megabase)/",
-    "5": "/general/tileable/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/train/right-hand-drive/"
+  ],
   "title": "NUCLEAR HEX 1.7 GW Mickey Mouse"
 }

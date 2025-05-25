@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/CTtzJIS",
   "lastUpdatedDate": 1722543008739,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/power/nuclear/"
+  ],
   "title": "Usina nuclear vanila"
 }

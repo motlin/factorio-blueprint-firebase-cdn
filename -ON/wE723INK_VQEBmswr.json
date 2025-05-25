@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/OsCAvT9",
   "lastUpdatedDate": 1744767320292,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/space-age/",
-    "2": "/production/science/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/space-age/",
+    "/production/science/",
+    "/planets/space-platform/"
+  ],
   "title": "Compact space science",
   "favorites": {
     "rDUnG9Igf2TvdK8q3v5FmzY7ogy1": true,

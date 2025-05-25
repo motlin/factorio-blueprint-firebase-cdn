@@ -30,12 +30,12 @@
   },
   "descriptionMarkdown": "This is a compact, tileable blueprint to manufacture Flamethrower Turrets using perfect ratios. I like to keep my production units as vertically compact as possible. I prefer building directly from base materials rather than intermediate products whenever feasible. This keeps the overall base less complicated, and the ratios correct no matter what else your factory produces.\n\nAdvantages:\n1. Self contained: Only base materials are input. Does not place a load on existing gear, pipe, or engine supply, or require bus lanes for them.\n2. Compact: Constrained to 10 tall, by 19 wide. Placing more tiles overlaps by 2, saving even more space.\n3. Tiles easily: Pre-configured to connect to the blueprint next to it.\n4. Perfect ratios: According to Factorio Calculator: https://kirkmcdonald.github.io/calc.html#data=0-17-60&min=2&items=flamethrower-turret:f:2&ignore=iron-plate,steel-plate\n5. Capable infrastructure: All throughput taken into account. As built, inputs can sustain 6 tiles, yielding 27 items per minute.\n6. Upgradeable: Use upgrade planner to upgrade infrastructure and assemblers, yielding 45/min@6 tiles.\n7. Moduleable: Up to two speed modules per tier 2 assembler (27/min@3 tiles), 2 speed modules in tier 3 assemblers (45/min@3 tiles), or 4 speed modules in tier 3 assemblers (45/min@2 tiles)\n\nINPUT:\n1. Red belt of Iron Plates (15% use per tile)\n2. Yellow belt of Steel (~9% u.p.t.)\n\nOUTPUT:\n1. Flamethrower turrets at 4.5 per minute, per tile.\n\nNotes:\n1. Iron demand is highest. If you need more than 45/min production, add another parallel row of tiles.\n\n\nThis is my second in a line of optomized blueprint releases. I welcome any and all feedback. Thank you, and enjoy!",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/general/mid game/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,17/"
-  }
+  "tags": [
+    "/production/guns and ammo/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ]
 }

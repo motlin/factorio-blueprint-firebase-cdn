@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1681596347445,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Early to Midgame expendable Mall",
   "favorites": {
     "vMroT2GQt6NBNs8kIgEhZmegmoF3": true,

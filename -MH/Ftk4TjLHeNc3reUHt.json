@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1629149921799,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Defesa de meteoro V2",
   "favorites": {
     "yuOBtFcr0KXhOuQnIjjOzWsL6eP2": true

@@ -28,14 +28,14 @@
   "createdDate": 1587218668158,
   "fileName": "factorio_8sm8lK3Ir6.png",
   "lastUpdatedDate": 1593157182767,
-  "tags": {
-    "4": "/version/0,18/",
-    "5": "/mods/other/",
-    "0": "/general/early game/",
-    "1": "/mods/krastorio/",
-    "2": "/production/other/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/other/",
+    "/general/early game/",
+    "/mods/krastorio/",
+    "/production/other/",
+    "/production/belt based/"
+  ],
   "author": {
     "userId": "42ByMqdogaYhkBy3BvRMOftZDxW2"
   },

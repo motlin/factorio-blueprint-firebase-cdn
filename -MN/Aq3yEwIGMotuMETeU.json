@@ -16,10 +16,10 @@
     "id": "Wm4iXK9",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "SiXnaVdwJyZBsKIRathtqoWYFTQ2": true
   }

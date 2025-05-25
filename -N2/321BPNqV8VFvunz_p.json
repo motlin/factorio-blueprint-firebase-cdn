@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1652556587368,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/other/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/other/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Space Exploration - Logistic Cargo Rocket",
   "favorites": {
     "nQfAZHqfdedgCdivt9okfzA4XZB2": true,

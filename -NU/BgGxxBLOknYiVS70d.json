@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1682769225426,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "Unload any number of items from a wagon with just one inserter",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

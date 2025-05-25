@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1617742405959,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/track/",
-    "3": "/mods/ltn/",
-    "4": "/version/1,0/",
-    "5": "/general/chunk aligned/",
-    "6": "/general/tileable/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/",
+    "/train/track/",
+    "/mods/ltn/",
+    "/version/1,0/",
+    "/general/chunk aligned/",
+    "/general/tileable/"
+  ],
   "title": "Chunk aligned rail system",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2021-04-06_22%3A41%3A21_Capture.png?alt=media&token=04369a93-46e6-42d8-b624-40cdb5be4020",
   "favorites": {

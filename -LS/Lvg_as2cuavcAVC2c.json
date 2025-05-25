@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1543351749309,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear reactor 800MW - Belted - Steam recycle"
 }

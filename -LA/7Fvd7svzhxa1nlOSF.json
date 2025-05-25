@@ -16,10 +16,10 @@
   },
   "lastUpdatedDate": 1552769333979,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "favorites": {
     "LuonmNlVcaeeaqLhrUyNK6Yld7B3": true,
     "LDIEhCGmYYSiXqRGCPT4CrfazNj2": true,

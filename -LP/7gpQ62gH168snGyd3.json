@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1606060202212,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Late game perfect ratio module 3 build - 80/min - updated for 1.0"
 }

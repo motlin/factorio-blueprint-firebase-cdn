@@ -9,12 +9,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Productivity%20module.png?alt=media&token=dcb626f8-53a9-4562-bc93-4fe082924de0",
   "lastUpdatedDate": 1679766210834,
   "numberOfFavorites": 185,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "H3QlaVpvadfVuTpGGxs7016oR2K3"
   },

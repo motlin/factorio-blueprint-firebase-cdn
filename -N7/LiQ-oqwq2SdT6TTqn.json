@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1658238644480,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/track/"
+  ],
   "title": "LTN TRAIN BASE"
 }

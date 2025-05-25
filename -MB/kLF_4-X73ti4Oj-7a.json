@@ -29,10 +29,10 @@
   },
   "lastUpdatedDate": 1623235038840,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/train/track/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/train/track/",
+    "/mods/ltn/"
+  ],
   "title": "Mega Parking for LTN Logistics 3-8-3"
 }

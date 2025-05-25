@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/xjUh7OC",
   "lastUpdatedDate": 1734847779719,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Carousell Kovarex Enrichment ",
   "favorites": {
     "D2d3iqiRRmc4dk4YvdOQPIjhPS32": true

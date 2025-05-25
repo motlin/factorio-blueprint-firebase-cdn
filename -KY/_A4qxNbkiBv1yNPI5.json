@@ -1,11 +1,11 @@
 {
   "imageUrl": "http://factorio-screenshots.xyz/Steel%20Furnace%20Smelting%20with%20Express%20Transport%20Belts.jpg",
   "numberOfFavorites": 28,
-  "tags": {
-    "2": "/version/0,14/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,14/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "H3QlaVpvadfVuTpGGxs7016oR2K3"
   },

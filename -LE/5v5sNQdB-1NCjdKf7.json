@@ -5,12 +5,12 @@
   "fileName": "Снимок экрана (15).png",
   "numberOfFavorites": 0,
   "title": "перевлавка",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/moderation/add english translation/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/moderation/add english translation/"
+  ],
   "author": {
     "userId": "xUJsaDuoKZQX1cy1p4n03JyX6nI3"
   },

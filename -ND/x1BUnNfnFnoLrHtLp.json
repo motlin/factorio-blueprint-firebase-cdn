@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1665349174183,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Fábrica de bloco de pedra, aço e vidro."
 }

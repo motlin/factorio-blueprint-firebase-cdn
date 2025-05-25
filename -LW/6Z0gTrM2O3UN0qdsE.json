@@ -12,11 +12,11 @@
   "createdDate": 1576379882437,
   "descriptionMarkdown": "I for some reason couldn't find any scalable robot frame blueprints that I liked, so I made this.\n\nThis is a tileable robot frame assembler in order to supply robots to outposts in the mid game. ",
   "lastUpdatedDate": 1576441380142,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/0,17/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,17/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "xzCLjVGKRgUnG5Kldd8a39YZE9w2"
   },

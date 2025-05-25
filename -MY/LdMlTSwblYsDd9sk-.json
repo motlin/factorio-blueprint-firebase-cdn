@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1647499902253,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/compact/"
+  ],
   "title": "Compact Oil processing",
   "favorites": {
     "1SRfWpST82Net1gW6jNX7pOFAVY2": true,

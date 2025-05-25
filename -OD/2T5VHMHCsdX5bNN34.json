@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/JZbhdug",
   "lastUpdatedDate": 1733077526669,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/",
-    "2": "/general/art/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/general/art/"
+  ],
   "title": "Final Fantasy VI - Ramuh in Lamps",
   "favorites": {
     "ocV9ibG8mVVnvwjTVLYZf6Rq0jD3": true

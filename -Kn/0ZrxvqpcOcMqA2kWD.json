@@ -13,12 +13,12 @@
     "width": 606
   },
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Safe Rail Crossing - Player Priority",
   "favorites": {
     "mFKRUUzLf7d7knaDTQnrlYVWT7T2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1625417828339,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Reator nuclear pequeno espacial",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

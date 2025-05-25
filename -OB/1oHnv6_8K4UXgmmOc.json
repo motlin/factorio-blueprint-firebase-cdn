@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/AxPjkE2",
   "lastUpdatedDate": 1730957036795,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/nuclear/"
+  ],
   "title": "S.S. Wisconsin"
 }

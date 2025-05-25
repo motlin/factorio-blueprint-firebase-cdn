@@ -8,12 +8,12 @@
     "width": 1591
   },
   "numberOfFavorites": 46,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/"
+  ],
   "title": "Belt Balancers (yellow)",
   "favorites": {
     "BfuETSntPtMtLm0KJnRMuwHQlu92": true,

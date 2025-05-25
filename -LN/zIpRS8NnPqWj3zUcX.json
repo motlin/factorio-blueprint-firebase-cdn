@@ -4,12 +4,12 @@
   "descriptionMarkdown": "750/s gas.    \n613/s l oil out.   \n136,5/s h oil    \n1050 /s crude oil in ( max throughput for this pipe length)\n\nthis bp was inspired by a more complex one that was just gas output",
   "fileName": "factorio 2018-10-04 16-37-52-36.jpg",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "beaconed refinery",
   "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
   "image": {

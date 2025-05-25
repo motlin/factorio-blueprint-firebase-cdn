@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1528464296498,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "lq21OXMYllaYMEm2xypGLM9Z7AC2"
   },

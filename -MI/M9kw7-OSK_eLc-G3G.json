@@ -28,11 +28,11 @@
   },
   "lastUpdatedDate": 1630328786866,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/unloading station/",
-    "2": "/train/left-hand-drive/",
-    "3": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/unloading station/",
+    "/train/left-hand-drive/",
+    "/train/loading station/"
+  ],
   "title": "Mixed Cargo Sorter (w/LTN)"
 }

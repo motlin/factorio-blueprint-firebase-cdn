@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1621544417141,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Refinamento do urânio Kovarex"
 }

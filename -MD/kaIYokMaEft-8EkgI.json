@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1625386727960,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "200/s Plastic"
 }

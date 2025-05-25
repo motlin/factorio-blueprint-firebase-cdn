@@ -17,9 +17,9 @@
   "fileName": "Military_science.PNG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Military_science.PNG?alt=media&token=3d36eb1e-b457-4467-b733-57adad3180b8",
   "lastUpdatedDate": 1498655160688,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/lighted-electric-poles/",
-    "2": "/version/0,14/"
-  }
+  "tags": [
+    "/production/science/",
+    "/mods/lighted-electric-poles/",
+    "/version/0,14/"
+  ]
 }

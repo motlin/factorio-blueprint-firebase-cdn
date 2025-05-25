@@ -2,12 +2,12 @@
   "authorId": "CfWzsqF1yhMkvq8cT66uvndEA7v2",
   "descriptionMarkdown": "A better layout of Nilaus Master Class Initial Assemblers.  Compact, and Easy to adapt to a single belt of half iron, half copper for early game.",
   "title": "Initial Assemblers",
-  "tags": {
-    "3": "/production/electronic circuit (green)/",
-    "0": "/general/early game/",
-    "1": "/production/belts/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/early game/",
+    "/production/belts/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "CfWzsqF1yhMkvq8cT66uvndEA7v2"
   },

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1667862026778,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/vanilla/"
+  ],
   "title": "Armor, Equipment, and Spidertron Hub",
   "favorites": {
     "LcvhMqqqPoWifE4vUd9nQwg10rE2": true,

@@ -10,13 +10,13 @@
   },
   "lastUpdatedDate": 1524047128764,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "aQGtceSI1TcdVJsP5aHorGvuuNe2"
   },

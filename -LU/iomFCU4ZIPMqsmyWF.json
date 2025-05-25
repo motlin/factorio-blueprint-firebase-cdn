@@ -3,10 +3,10 @@
   "fileName": "4-way roundabout turnoff.jpg",
   "lastUpdatedDate": 1574891553141,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "(RHD) 4-way intersection with roundabout and dedicated lefts off of the main line.",
   "author": {
     "userId": "bd8ydG9sKoP4NcM2cgEaK6P9pXt2"

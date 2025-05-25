@@ -1,14 +1,14 @@
 {
   "fileName": "steelsmelting2.png",
   "lastUpdatedDate": 1595193815907,
-  "tags": {
-    "3": "/version/0,17/",
-    "4": "/general/tileable/",
-    "5": "/general/compact/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Steel Smelting (from ore) (tiled)",
   "author": {
     "userId": "NakWn0HsWLMY3ZLlCsIhfO5d3Bk1"

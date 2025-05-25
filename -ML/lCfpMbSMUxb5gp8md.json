@@ -3,10 +3,10 @@
   "descriptionMarkdown": "Tilable red science factory with dual lane pass-through inputs. Copper on the left and inner right lanes, iron on the far right two lanes. Output is right middle lane and left middle lane is gear bus.",
   "fileName": "tilableRedScience.png",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "funRpctfjWd3ssoOM4J8Vo98Jz83"
   },

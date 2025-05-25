@@ -24,8 +24,8 @@
   "createdDate": 1582052025569,
   "descriptionMarkdown": "Just Defensive wall. Looks good and helps keeping biters at bay.",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ]
 }

@@ -22,8 +22,8 @@
   },
   "lastUpdatedDate": 1537508456518,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Logic Analyzer Blueprint book"
 }

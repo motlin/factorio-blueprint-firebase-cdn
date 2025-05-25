@@ -4,12 +4,12 @@
   },
   "descriptionMarkdown": "Update : Full set of wall patterns in a book : https://factorioprints.com/view/-MRoH3Ym0GLAgOFJsa46\n\n## Desc\n*Lasers turrets* are turn on 5 sec (300 ticks) as soon a *Gun turret* load ammo or if the *Logistic chest requester* (blue chest) is empty.\n\nThe rest of the time your *Laser turrets* will be disconnected from the electrical network and therefore dont consume energy.\n\n## Setup\nYou will need a *Copper cable* to edit electric connexions.\n- Connect *Big electric pole* to your power network.\n- Connect both *Small electric poles* to *Big electric pole*.\n- Unconnect *Substation*. It must be only contected to the *Power switch*.\n\n## Params\n- Duration is defined by the *Constant combinator*, the green signal as a number of ticks (must be active)\n- Ammo, define type an quantity inside the blue chest between *Gun turrets*\n\n## Tips\nYou should plan to have a *Logistic chest buffer* (green chest) with *Repair packs*, as *Gun turrets* will be damaged before the lasers take out all the spitters.\n\nYou can define different types of ammo at the same time (inside the blue chest).\n\nYou can add extra rows of *Laser turrets* in the *Substation* area (up to 10)\n\nOnly one *Small electric pole* is needed, their redundancy is just a safety reason.\n\n*Uranium rounds magazine* are a good way to manage your nuclear waste for a sustainable ecosystem and made our planet great again (and green).",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/",
-    "2": "/circuit/counter/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/circuit/counter/",
+    "/version/0,15/"
+  ],
   "title": "Laser defense (Low energy cost)",
   "favorites": {
     "vZW5cydrWuVX555rv60LXlT3xSl1": true,

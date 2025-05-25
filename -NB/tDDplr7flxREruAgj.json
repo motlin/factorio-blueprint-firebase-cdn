@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1692103575552,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "factory of wires for logic city"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1652948043360,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/guns and ammo/"
+  ],
   "title": "Artillery shell 6/m",
   "favorites": {
     "we7GMANN5SYFeddgkztRoERAX3n2": true,

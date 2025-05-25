@@ -22,8 +22,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Bild_2022-05-22_132411945.png?alt=media&token=9af74f18-0708-46b1-9f25-39961c01d47f",
   "lastUpdatedDate": 1653218678924,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Sience Blueprint"
 }

@@ -33,11 +33,11 @@
   },
   "lastUpdatedDate": 1566593926761,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/ltn/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/ltn/",
+    "/version/0,17/"
+  ],
   "title": "LTN - Rocket Fuel outpost"
 }

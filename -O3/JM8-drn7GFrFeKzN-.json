@@ -19,11 +19,11 @@
   "imageUrl": "https://imgur.com/odTrEi4",
   "lastUpdatedDate": 1722623496608,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/general/beaconized/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/general/beaconized/",
+    "/version/1,1/"
+  ],
   "title": "Bob Angels 7x7 Beacon Blocks"
 }

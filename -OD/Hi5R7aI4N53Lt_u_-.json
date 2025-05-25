@@ -69,8 +69,8 @@
   "imageUrl": "https://imgur.com/jySOrrY",
   "lastUpdatedDate": 1733337683588,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Razorback Cargoship"
 }

@@ -8,9 +8,9 @@
     "width": 850
   },
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "author": {
     "userId": "zXGLG6L8gXUVDSB86sh6KvESRlA2"
   },

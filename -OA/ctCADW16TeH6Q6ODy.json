@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/7JkJbPW",
   "lastUpdatedDate": 1730484456338,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/mods/space-age/"
+  ],
   "title": "Vulcanos rocket and silo builder",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

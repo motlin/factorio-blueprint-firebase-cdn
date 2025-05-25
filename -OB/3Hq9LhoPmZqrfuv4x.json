@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/vtM6aVl",
   "lastUpdatedDate": 1730943869686,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Train based recycling",
   "favorites": {
     "3SWNspUwAeZOeBX84GwcBxInAl12": true

@@ -13,13 +13,13 @@
   "createdDate": 1514315651423,
   "descriptionMarkdown": "self sustained uranium processing for mid to end game... needs maintenance every cca few hours \n\nPS: screen shot is half of the build, other half is mirrored version on other side + beacons",
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/general/mid game/",
-    "4": "/mods/vanilla/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "5Nu5Wa9FYzOs9YApV7N9pMbElBD2"
   }

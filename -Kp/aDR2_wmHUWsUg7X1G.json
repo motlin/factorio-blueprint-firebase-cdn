@@ -6,12 +6,12 @@
   "favorites": {
     "ISoPedemzbb4blqipRj8El9xLJv1": true
   },
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/train/crossing/",
-    "1": "/train/junction/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/train/track/"
+  ],
   "title": "Railway book maker",
   "author": {
     "userId": "0iMzAYKfFSdUlKzRE1M3nd8MOkd2"

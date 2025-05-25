@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/t4ydK9h.png",
   "lastUpdatedDate": 1738664317155,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/planets/vulcanus/"
+  ],
   "title": "Turbo Belts Automation Blueprint",
   "favorites": {
     "8ZSFoC1WwKVymSzWDF0syztAhA73": true,

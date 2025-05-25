@@ -15,11 +15,11 @@
     "width": 945
   },
   "lastUpdatedDate": 1560692167333,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/version/0,17/"
+  ],
   "title": "Tileable square 480 MW reactor 2.0",
   "favorites": {
     "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,

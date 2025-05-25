@@ -17,11 +17,11 @@
     "height": 677
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/production/plastic/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/plastic/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "N6P0MWM3mfPF87ahiPeLJcKiJIt2": true
   }

@@ -35,9 +35,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/img0.PNG?alt=media&token=65294e81-1fd3-4192-8bf7-1b6aeaa6cc28",
   "lastUpdatedDate": 1582450913726,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,18/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,18/"
+  ],
   "title": "Oil Processing"
 }

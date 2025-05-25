@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/erBCQ5F",
   "lastUpdatedDate": 1735370461454,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/space-age/"
+  ],
   "title": "Bootstrap Vulcanus",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

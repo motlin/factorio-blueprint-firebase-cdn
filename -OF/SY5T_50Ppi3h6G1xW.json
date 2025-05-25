@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9plqtgZ",
   "lastUpdatedDate": 1735675034091,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "HMS-TransportShip",
   "favorites": {
     "8UEHa678eXgMr2VnScyu5AdEP1s1": true,

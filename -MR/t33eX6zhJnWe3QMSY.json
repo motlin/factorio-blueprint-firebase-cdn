@@ -33,11 +33,11 @@
   },
   "lastUpdatedDate": 1647221878534,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/",
-    "2": "/general/chunk aligned/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/general/chunk aligned/",
+    "/version/0,15/"
+  ],
   "title": "DaviAMSilva's Rail City Block"
 }

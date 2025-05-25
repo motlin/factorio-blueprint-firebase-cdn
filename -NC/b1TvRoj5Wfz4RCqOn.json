@@ -93,14 +93,14 @@
   },
   "lastUpdatedDate": 1692872077508,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/balancer/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/production/mall (make everything)/",
-    "6": "/version/1,1/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/mall (make everything)/",
+    "/version/1,1/"
+  ],
   "title": "Nilaus' Base-in-a-Book Updated"
 }

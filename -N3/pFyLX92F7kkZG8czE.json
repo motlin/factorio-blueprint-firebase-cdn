@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1654457145764,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/rocket parts/",
-    "2": "/general/beaconized/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/production/logistic (bot) based/",
+    "/mods/other/"
+  ],
   "title": "Botbased Rocketfuel 2400/m"
 }

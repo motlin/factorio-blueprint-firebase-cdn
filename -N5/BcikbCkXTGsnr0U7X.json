@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1655921896664,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "Paige's Megablock Modules"
 }

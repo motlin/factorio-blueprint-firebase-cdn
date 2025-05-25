@@ -28,11 +28,11 @@
   },
   "lastUpdatedDate": 1612461743291,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/production/robots/",
-    "3": "/train/roundabout/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/robots/",
+    "/train/roundabout/"
+  ],
   "title": "Big Bertha 1k Artillery Wagons Reloading System with logistic robots"
 }

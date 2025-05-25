@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/bICqr8G",
   "lastUpdatedDate": 1736527381609,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/general/early game/"
+  ],
   "title": "[SA] STAR TREK Constitution class (early game)",
   "favorites": {
     "e7OqWlkF3qUcgIosPI10FZIBxut2": true,

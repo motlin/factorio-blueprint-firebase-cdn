@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/04WFyC0",
   "lastUpdatedDate": 1731228889055,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/power/steam/"
+  ],
   "title": "Vulcanus 370 MW tiltable power plant",
   "favorites": {
     "4yzTDlJPQkTLsx1kT8BHPsEcLmK2": true,

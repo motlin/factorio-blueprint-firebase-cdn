@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/fZjfx7J",
   "lastUpdatedDate": 1717601495323,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/train/track/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/train/track/",
+    "/mods/vanilla/"
+  ],
   "title": "Chunk aligned rail segment"
 }

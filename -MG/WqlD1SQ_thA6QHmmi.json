@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1628360610808,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "title": "Bot Mining Array",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true

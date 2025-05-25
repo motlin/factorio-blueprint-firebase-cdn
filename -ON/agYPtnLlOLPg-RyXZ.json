@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/76HoreG",
   "lastUpdatedDate": 1746470831611,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Space Science Square 500pm",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

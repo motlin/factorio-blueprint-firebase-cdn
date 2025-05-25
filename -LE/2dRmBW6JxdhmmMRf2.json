@@ -18,11 +18,11 @@
   },
   "descriptionMarkdown": "A robot-integrated Accumulator array... for those times when you need more power storage, but still need bot coverage!",
   "lastUpdatedDate": 1527995813139,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Accumulator Array (with roboport integration)",
   "authorId": "tYGjEcSQzYRg7fG7j7lHU1ZtheK2"
 }

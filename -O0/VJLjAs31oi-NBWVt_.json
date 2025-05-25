@@ -24,11 +24,11 @@
   "imageUrl": "https://imgur.com/s7IE0rv",
   "lastUpdatedDate": 1719685467400,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/1,1/"
+  ],
   "title": "1k SPM compact belt based"
 }

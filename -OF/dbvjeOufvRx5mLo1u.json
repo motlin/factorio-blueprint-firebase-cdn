@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/aawcEJO",
   "lastUpdatedDate": 1735865121881,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/research (labs)/"
+  ],
   "title": "12 Science Belted, Beaconed With Spoilage Handling",
   "favorites": {
     "qvWI1rR1kBOPoBkcfChQHQaJEW13": true,

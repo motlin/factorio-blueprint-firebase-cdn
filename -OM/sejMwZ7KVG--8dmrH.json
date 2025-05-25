@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/qIHHhuf",
   "lastUpdatedDate": 1743633708683,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Steel plate production №2"
 }

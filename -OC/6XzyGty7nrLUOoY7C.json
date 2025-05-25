@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/w3pdmi9",
   "lastUpdatedDate": 1732072177592,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "450/M Steel",
   "favorites": {
     "vnMibAlJ4Yf26PY2ak6VPs1VHoJ2": true,

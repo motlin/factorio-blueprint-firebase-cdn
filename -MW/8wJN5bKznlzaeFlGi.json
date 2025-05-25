@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1645139281703,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Green Circuits x4 bluebelt",
   "favorites": {
     "LiZqhIsTH4UkeNHBTfntjyIAXn32": true,

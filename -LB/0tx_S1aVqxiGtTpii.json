@@ -5,10 +5,10 @@
     "type": "image/png",
     "width": 589
   },
-  "tags": {
-    "1": "/version/0,17/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "title": "0.17 Utility Science 65/min",
   "favorites": {
     "7OZBvEkw5sZttM2lJHDmkpvRTdE3": true,

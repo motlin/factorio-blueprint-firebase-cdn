@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/crossing/"
-  },
+  "tags": [
+    "/train/crossing/"
+  ],
   "author": {
     "userId": "Yh5mOVnDppTJf7cd2gdebYTDR4A3"
   },

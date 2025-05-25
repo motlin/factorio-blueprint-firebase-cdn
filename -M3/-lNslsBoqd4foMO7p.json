@@ -11,9 +11,9 @@
   "createdDate": 1584855879299,
   "descriptionMarkdown": "**Forging Column**\n\nDesigned to provide a good ratio for red belts and to fill in as beacons and speed modules become available, as well as providing a cache that doesn't limit throughput. With no modules it will smelt 10 item/s, increasing to 15 item/s with speed beacons. Two such columns will perfectly fill a 30 item/sec red belt.",
   "lastUpdatedDate": 1584855879299,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "favorites": {
     "vMdd9uhEVzMDCmpM5Gdta01H3ar1": true,
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true

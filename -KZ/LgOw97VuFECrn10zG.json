@@ -16,11 +16,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_Tankh_66h55m21s.jpg?alt=media&token=4bcbea69-54a1-4034-a58c-4568b728e68b",
   "numberOfFavorites": 41,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true

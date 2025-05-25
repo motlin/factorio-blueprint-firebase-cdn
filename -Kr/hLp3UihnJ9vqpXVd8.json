@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "Low density structure",
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Low density structure",
   "author": {
     "userId": "zRU07FA12aXrtp5NYsg2aaLjvao2"

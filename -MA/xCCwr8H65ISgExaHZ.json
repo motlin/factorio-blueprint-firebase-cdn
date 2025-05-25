@@ -26,10 +26,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202021-05-30%20092920.jpg?alt=media&token=8624a3b7-ac45-4361-ab24-45df41ff0737",
   "lastUpdatedDate": 1622381393735,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/guns and ammo/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/guns and ammo/",
+    "/version/0,18/"
+  ],
   "title": "The Mall (Starter Factory) (UPDATED)"
 }

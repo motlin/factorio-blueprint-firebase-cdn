@@ -20,16 +20,16 @@
     "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/",
-    "4": "/production/belts/",
-    "5": "/production/modules/",
-    "6": "/general/tileable/",
-    "7": "/version/0,18/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/production/belts/",
+    "/production/modules/",
+    "/general/tileable/",
+    "/version/0,18/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/"
+  ],
   "title": "Electronic Circuits from Raw Ore - 12 Beaconed - Tileable - BobAAAces",
   "authorId": "KUhD01lo2pctrfTnVN7wQXw8lmD2",
   "image": {

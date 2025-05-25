@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/oEnC2H0",
   "lastUpdatedDate": 1732473457511,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "Spiral Impact Unloader (Error Testing)"
 }

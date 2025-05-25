@@ -15,9 +15,9 @@
     "id": "lJjdCxn"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "44tmcFrt8qag4fUL8AGN6jwt0yU2"
 }

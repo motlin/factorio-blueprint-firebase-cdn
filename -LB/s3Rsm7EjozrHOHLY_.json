@@ -4,17 +4,17 @@
   "fileName": "FactorioP_B&B.png",
   "lastUpdatedDate": 1619411773657,
   "numberOfFavorites": 71,
-  "tags": {
-    "6": "/general/late game (megabase)/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/",
-    "7": "/general/compact/",
-    "8": "/version/1,0/",
-    "0": "/mods/vanilla/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/belt/transport belt (yellow)/",
+    "/belt/express transport belt (blue)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ],
   "favorites": {
     "vjNrGp1mobS0ALvvPWzMxEnsOtD3": true,
     "zuzzQ4UJUleX2sWuorCTBET66Tq1": true,

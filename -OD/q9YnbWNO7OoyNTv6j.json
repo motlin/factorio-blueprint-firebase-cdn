@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/xK0OLxl",
   "lastUpdatedDate": 1733946498255,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/fulgora/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/fulgora/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Iron Quality balancer",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

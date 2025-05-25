@@ -34,9 +34,9 @@
   "imageUrl": "https://imgur.com/Icx47CV",
   "lastUpdatedDate": 1745069488104,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/general/early game/"
+  ],
   "title": "Fulgora Starter Factory"
 }

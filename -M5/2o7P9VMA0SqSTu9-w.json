@@ -14,11 +14,11 @@
   "createdDate": 1587054413489,
   "descriptionMarkdown": "This Kovarec enrichment plant (uranium) is producing at least 24 U235/min. You only have to feed it power (around 14MW) and uranium ore (1 Yellow belt). This plant is very efficient because it doesn't store loads of usefull U235 in the centrifuges, it has circuit network controling the in and output. This means that you would have to manually fill every centrifuge with 40 U235 before it would work. Obviously this needs to be automated (It's Factorio ofcourse!). Thats why we have added a circuit network enabled filler that puts in the first 40 U235 for you! When it's done you can remove everything that is placed on top off the refined hazard concrete. It will even inform you about it with a notification!\n\nThanks to SvPateyl for the origional idea for the circuit network enabled U235 safer.(https://www.reddit.com/r/factorio/comments/69tj6q/super_simple_kovarex_enrichment_setup/)\n\nThis was made by:\nOADINC\nIHaveKnowEyeDeer (https://www.twitch.tv/IHaveKnowEyeDeer/)",
   "fileName": "Factorio Kovarex Enrichment Plant - OADINC.png",
-  "tags": {
-    "1": "/production/uranium/",
-    "2": "/mods/vanilla/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/"
+  ],
   "favorites": {
     "wwITNfNOPOMTL62zpsJ20Ht3MDF3": true,
     "TuhaYuoc57YAPEaOVnWbTte2AOm2": true,

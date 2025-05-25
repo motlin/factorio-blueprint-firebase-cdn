@@ -35,9 +35,9 @@
   "imageUrl": "https://imgur.com/qwXVvRK",
   "lastUpdatedDate": 1733230277246,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/planets/space-platform/"
+  ],
   "title": "Legendary Coal generator."
 }

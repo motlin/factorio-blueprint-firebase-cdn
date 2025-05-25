@@ -18,8 +18,8 @@
   "imageUrl": "https://i.imgur.com/ULQOY1e.png",
   "lastUpdatedDate": 1737389181910,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Promethium Mining Ship"
 }

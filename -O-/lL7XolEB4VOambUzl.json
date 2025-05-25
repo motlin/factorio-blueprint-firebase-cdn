@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/YSE3OGb",
   "lastUpdatedDate": 1718819780604,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ],
   "title": "Chainable \"Thrifty\" Beaconed Kovarex",
   "favorites": {
     "gunOWAzCrwTCywpfk0Z0x0KZSGO2": true

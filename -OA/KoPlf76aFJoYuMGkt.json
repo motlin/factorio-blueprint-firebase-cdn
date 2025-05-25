@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/QRwgaH3",
   "lastUpdatedDate": 1730164202886,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "Space Science Station - 450 SPM",
   "favorites": {
     "Z9Jy91LdiJbW6gnk297Xtdzju092": true,

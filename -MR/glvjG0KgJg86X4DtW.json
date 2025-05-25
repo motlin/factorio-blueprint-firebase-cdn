@@ -31,11 +31,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/OnlyScience.JPG?alt=media&token=6d0f33dc-c95b-44d3-8a1e-16924c57e77f",
   "lastUpdatedDate": 1652625128973,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Don's OnlyScience 2.6.5"
 }

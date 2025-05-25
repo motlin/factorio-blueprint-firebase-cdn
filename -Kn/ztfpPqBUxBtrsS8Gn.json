@@ -3,12 +3,12 @@
   "descriptionMarkdown": "This book contains :\n* Round around 2 and 4 way\n* Train stacker for 3 to 12 length (wagon + locomotive)",
   "fileName": "train.png",
   "numberOfFavorites": 16,
-  "tags": {
-    "1": "/train/stacker/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/roundabout/"
+  ],
   "lastUpdatedDate": 1498949633158,
   "title": "Train Round around & train stacker",
   "favorites": {

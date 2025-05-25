@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/YbqaAja",
   "lastUpdatedDate": 1740086210955,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/circuit/counter/",
-    "2": "/general/compact/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/circuit/counter/",
+    "/general/compact/",
+    "/production/other/"
+  ],
   "title": "Any Quality Ice Melter",
   "favorites": {
     "5ZLs84NU6icyLFxLVkCgjV3iBCN2": true,

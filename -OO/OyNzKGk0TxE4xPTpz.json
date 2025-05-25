@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/OiV7uiR",
   "lastUpdatedDate": 1745266249871,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/power/solar/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/",
-    "4": "/planets/aquilo/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/power/solar/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/version/0,15/"
+  ],
   "title": "Solar Ship 800+ slots. No Planets needed",
   "favorites": {
     "yJwn8dWhEQUT6p4LKKQtjOmCCeH3": true

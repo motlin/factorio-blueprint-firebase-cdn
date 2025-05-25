@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/DrFgGKx.png",
   "lastUpdatedDate": 1737847695515,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/gleba/"
+  ],
   "title": "Bioflux bootstrap",
   "favorites": {
     "0F22M3YOrXQKMl3vgpUA8HpXGly1": true,

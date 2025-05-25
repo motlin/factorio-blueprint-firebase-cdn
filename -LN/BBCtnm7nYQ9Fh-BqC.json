@@ -11,10 +11,10 @@
   },
   "fileName": "factorio 2018-09-24 11-59-06-61.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/version/0,15/",
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true
   },

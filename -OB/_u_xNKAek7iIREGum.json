@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/0QuRKny",
   "lastUpdatedDate": 1731507937863,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar tile 1"
 }

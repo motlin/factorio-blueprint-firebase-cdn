@@ -43,11 +43,11 @@
   },
   "lastUpdatedDate": 1673052207322,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,18/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,18/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Nuclear Power Plant 972MW"
 }

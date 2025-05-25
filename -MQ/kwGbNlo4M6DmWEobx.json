@@ -9,11 +9,11 @@
   "numberOfFavorites": 4,
   "title": "Emergency generator",
   "lastUpdatedDate": 1610361444039,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio.generator.graph.jpg?alt=media&token=7313b797-68a7-46fb-a61a-4c383b503820",
   "author": {
     "userId": "Kte5ZhE52cfaQtQcVGVAFqYkB4m1"

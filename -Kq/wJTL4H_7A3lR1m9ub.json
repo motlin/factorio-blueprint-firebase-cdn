@@ -17,10 +17,10 @@
   "fileName": "Algae Farm Plant.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Algae%20Farm%20Plant.jpg?alt=media&token=cc7b9924-ea57-4ba3-a9b8-478fdee5c90a",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/mods/factorissimo/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ]
 }

@@ -35,17 +35,17 @@
   },
   "lastUpdatedDate": 1551147502728,
   "numberOfFavorites": 17,
-  "tags": {
-    "4": "/general/late game (megabase)/",
-    "7": "/production/coal liquification/",
-    "9": "/production/smelting/",
-    "0": "/mods/vanilla/",
-    "2": "/general/chunk aligned/",
-    "5": "/general/tileable/",
-    "6": "/belt/express transport belt (blue)/",
-    "8": "/production/electronic circuit (green)/",
-    "1": "/version/0,16/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/coal liquification/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/chunk aligned/",
+    "/general/tileable/",
+    "/belt/express transport belt (blue)/",
+    "/production/electronic circuit (green)/",
+    "/version/0,16/",
+    "/production/belt based/"
+  ],
   "title": "Gigassembly v1.0"
 }

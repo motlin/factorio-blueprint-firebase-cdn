@@ -17,8 +17,8 @@
   "authorId": "QOFNDs0EWmWceEhceh4VEqupAEq1",
   "fileName": "gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg.png",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  }
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ]
 }

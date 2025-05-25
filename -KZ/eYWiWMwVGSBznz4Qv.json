@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1511562843177,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/track/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/track/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Blueprint book for 4-lane RHD trains"
 }

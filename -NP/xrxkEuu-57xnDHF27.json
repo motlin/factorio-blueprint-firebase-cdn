@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1678222810189,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/mods/vanilla/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Bulk Storage",
   "favorites": {
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,

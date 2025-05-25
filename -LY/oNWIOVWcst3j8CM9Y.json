@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "oNrVJGqOHLh14J4jlcpRr1exra02"
   },

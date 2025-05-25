@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/uAFgRVx",
   "lastUpdatedDate": 1731243604128,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/quality/",
-    "2": "/planets/nauvis/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/planets/nauvis/",
+    "/production/other/"
+  ],
   "title": "Legendary fish farm",
   "favorites": {
     "lWO1jwAhWxf3Dgb0vn5fUUpBpeI3": true,

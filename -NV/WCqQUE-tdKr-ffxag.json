@@ -44,10 +44,10 @@
   },
   "lastUpdatedDate": 1684184459191,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Nilaus New Jumpstart Base"
 }

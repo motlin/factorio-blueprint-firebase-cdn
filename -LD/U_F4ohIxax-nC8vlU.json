@@ -8,11 +8,11 @@
     "type": "image/jpeg",
     "width": 748
   },
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "XvQ5aE6OgyawRBQ18TpUaUspx8r2": true,
     "VSi7wP6IPFZPWSUgjb4G2dNqnFu2": true,

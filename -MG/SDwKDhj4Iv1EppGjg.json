@@ -15,11 +15,11 @@
   },
   "descriptionMarkdown": "Small Uranium Processing System.  \n\nUses combinators and a blue inserter set to a stack size of 2 to filter out the 41st U-235 for further processing.",
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/",
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/production/uranium/"
+  ],
   "title": "Uranium Processing",
   "favorites": {
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,

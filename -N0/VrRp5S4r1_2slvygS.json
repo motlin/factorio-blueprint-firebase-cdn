@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1650892674010,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 train intersections"
 }

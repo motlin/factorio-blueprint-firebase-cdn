@@ -141,9 +141,9 @@
   },
   "lastUpdatedDate": 1712950277350,
   "numberOfFavorites": 111,
-  "tags": {
-    "1": "/version/1,0/",
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/rocket parts/"
+  ],
   "title": "Self-Building Rocket"
 }

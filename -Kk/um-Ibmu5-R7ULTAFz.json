@@ -32,11 +32,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/MJMEOxd%5B1%5D.jpg?alt=media&token=24c5ae3c-f18d-4896-8329-11d19708ff16",
   "lastUpdatedDate": 1516366822184,
   "numberOfFavorites": 71,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "S0hZld8SAXVnQzM0jT6OcRAiX6o1"
 }

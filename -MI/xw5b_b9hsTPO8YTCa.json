@@ -9,11 +9,11 @@
     "id": "D3RrNVk",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "zJIOJbQpCAeHQEQvn6Mrqn8CJVH3": true
   },

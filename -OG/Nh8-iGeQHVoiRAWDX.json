@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/Z7ck9P6",
   "lastUpdatedDate": 1736655016817,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/vulcanus/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/gleba/",
-    "5": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/planets/space-platform/",
+    "/planets/vulcanus/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/power/nuclear/"
+  ],
   "title": "Platform.Basebuilder."
 }

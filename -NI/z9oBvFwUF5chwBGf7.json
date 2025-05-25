@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1670728336274,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/1,1/"
+  ],
   "title": "LTN Brians Trains City blocks with radars in corners."
 }

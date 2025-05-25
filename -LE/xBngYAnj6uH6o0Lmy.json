@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/modules/"
+  ],
   "title": "Ratio perfect bot produced modules",
   "favorites": {
     "y5nsNfcrH9PGu3T4DfsavnwUvDr2": true,

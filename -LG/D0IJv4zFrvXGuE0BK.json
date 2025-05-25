@@ -23,8 +23,8 @@
   "descriptionMarkdown": "Labs for all Sciences",
   "lastUpdatedDate": 1559308351019,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/production/research (labs)/",
+    "/version/0,17/"
+  ]
 }

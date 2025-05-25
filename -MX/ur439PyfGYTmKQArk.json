@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1618042960147,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/mods/vanilla/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "title": "Rails LHD 2 Lane Usernm v1.0",
   "favorites": {
     "Vd71RWpoeXcKTUYtybjbQNpfKWS2": true

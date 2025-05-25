@@ -11,11 +11,11 @@
   "createdDate": 1552366559010,
   "descriptionMarkdown": "30 per minute utility science pack factory, made and tested for version 0.17.10.\n\nI tried to keep it somewhat compact while making it cheap. There is some free space in the middle where you can fit a roboport.\n\nThe assemblers can be upgraded, but belts and inserters will need to be upgraded as well.\n\nRequires only resources that can't be produced in assemblers:\n- Copper plate: 1495/min (40 steel furnaces)\n- Iron plate: 1000/min (27 steel furnaces) (including the resources for the steel plates)\n- Plastic bar: 230/min (2 chemical plants)\n- Steel plate: 80/min (11 steel furnaces)\n- Battery: 20/min (2 chemical plants)\n- Sulfuric acid: 500/min (1 chemical plant)\n- Lubricant: 150/min (1 chemical plant)",
   "lastUpdatedDate": 1552367155688,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "favorites": {
     "Iy7pEahJaUOg661Fbw1sovWKptk1": true,
     "0toDbbJcWXSAxOc7ldflT9zCCA13": true,

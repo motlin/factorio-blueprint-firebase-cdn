@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1562528244957,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "1.12 GW Reactor Autofueling Zero Waste for 0.17 Vanilla"
 }

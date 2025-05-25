@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "Easy Basic Robots<br>\n<br>\nQuick and Easy layout for Robots, Roboports and Logistics Chests.<br>\n<br>\nUploaded v1, 2020-09-08",
   "lastUpdatedDate": 1599592068769,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/1,0/"
+  ],
   "title": "Bot Factory by rarrmonkey",
   "favorites": {
     "YdTlnCVfX2Qrj37yavtbSYm32Wy2": true,

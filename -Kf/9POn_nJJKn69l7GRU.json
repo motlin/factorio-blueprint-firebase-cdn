@@ -16,10 +16,10 @@
     "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Basic%20Circuits.jpg?alt=media&token=090e7b78-8331-446b-a21b-c4e4c425d776",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Basic Electronic Circuits"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1705087809988,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Core miner with ingots",
   "favorites": {
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/N8pakIY",
   "lastUpdatedDate": 1730154068630,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Zac's Spaceship Parts Mall (Tileable)",
   "favorites": {
     "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,

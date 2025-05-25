@@ -1,17 +1,17 @@
 {
-  "tags": {
-    "8": "/production/belts/",
-    "9": "/production/belt based/",
-    "1": "/production/mall (make everything)/",
-    "7": "/production/inserters/",
-    "3": "/production/robots/",
-    "4": "/mods/vanilla/",
-    "5": "/mods/other/",
-    "6": "/production/electronic circuit (green)/",
-    "10": "/belt/fast transport belt (red)/",
-    "0": "/belt/balancer/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/production/inserters/",
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/mods/other/",
+    "/production/electronic circuit (green)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/balancer/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

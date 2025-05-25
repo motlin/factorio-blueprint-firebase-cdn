@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1663847977058,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "電子基板が回る寿司ベルト",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E5%AF%BF%E5%8F%B82.png?alt=media&token=b0902252-1cc6-43c9-a476-c05f812f6fb5",
   "favorites": {

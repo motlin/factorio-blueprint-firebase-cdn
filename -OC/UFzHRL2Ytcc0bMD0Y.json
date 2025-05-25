@@ -43,10 +43,10 @@
   "imageUrl": "https://imgur.com/BwO53oF",
   "lastUpdatedDate": 1739907515869,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/space-age/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/space-age/",
+    "/production/guns and ammo/"
+  ],
   "title": "Moonscar - Promethium Research Vessel"
 }

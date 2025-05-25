@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1620503685641,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/production/guns and ammo/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "75 Uranium rounds /min",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true

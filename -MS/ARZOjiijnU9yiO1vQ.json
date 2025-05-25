@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1611960968527,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/version/0,15/"
+  ],
   "title": "city station blacknotes"
 }

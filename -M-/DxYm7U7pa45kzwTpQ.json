@@ -9,10 +9,10 @@
   "createdDate": 1580798983378,
   "fileName": "KrasBlueScience.PNG",
   "title": "Krastorio Blue Science",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/krastorio/"
+  ],
   "author": {
     "userId": "h0AWB3HKmqQJiqG3eXTq9eBlyub2"
   },

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1709265258156,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Adv Oil Processing",
   "favorites": {
     "oEiqOA6YvQVngyjKEJQ40jleaEz1": true

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/YEMbHap",
   "lastUpdatedDate": 1734466262971,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Nano material e suporte a base"
 }

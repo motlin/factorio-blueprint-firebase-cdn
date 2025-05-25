@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1675819305076,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Raw to Rocket Control Unit",
   "favorites": {
     "wc2im6vcElVVfYGMgN1AFpygFi22": true,

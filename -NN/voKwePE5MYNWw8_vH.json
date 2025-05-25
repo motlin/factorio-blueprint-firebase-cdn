@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1705086997690,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/early game/",
-    "2": "/general/compact/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/compact/",
+    "/production/science/"
+  ],
   "title": "AiO Logistic Science",
   "favorites": {
     "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true,

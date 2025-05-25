@@ -8,11 +8,11 @@
   },
   "lastUpdatedDate": 1539967711081,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "mining line",
   "author": {
     "userId": "vdGhnVzUO2ZmGxkBtGrUhIMp7t83"

@@ -62,14 +62,14 @@
   },
   "lastUpdatedDate": 1571366782827,
   "numberOfFavorites": 34,
-  "tags": {
-    "3": "/production/electronic circuit (green)/",
-    "4": "/production/advanced circuit (red)/",
-    "5": "/production/plastic/",
-    "6": "/production/processing unit (blue)/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/plastic/",
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/beaconized/"
+  ],
   "title": "City block."
 }

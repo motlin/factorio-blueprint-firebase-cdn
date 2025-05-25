@@ -16,9 +16,9 @@
   "numberOfFavorites": 0,
   "descriptionMarkdown": "I made a small counter with a logical network.\nIn the book you have the complete blue print as well as each part.\nEach quadrant is independent, it allows to increase the quadrant number easily, it will be necessary to modify the separation of the different numbers (hundreds, tens, units ...).\nTo change the color you just have to change the output of the 2 comparators above the lamps. \nPut objects in the trunk or connect the computer down left to a logical network and change the variable to enter.\nIf you have any remarks or suggestions (about the book or this post) please do not hesitate.\nfactorio version: 0.15.34 (build 30875 mac,steam)",
   "lastUpdatedDate": 1508279953129,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/version/0,15/",
-    "1": "/circuit/counter/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/counter/"
+  ]
 }

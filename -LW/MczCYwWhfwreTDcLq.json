@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/"
+  ],
   "title": "Not sure what to call this.",
   "fileName": "MergerThing.PNG",
   "authorId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2",

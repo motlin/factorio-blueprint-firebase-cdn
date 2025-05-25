@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1622052596721,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/",
-    "2": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/belt/balancer/"
+  ],
   "title": "balancers full"
 }

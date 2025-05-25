@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1664816869379,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/version/1,0/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/other/",
+    "/version/1,0/",
+    "/mods/krastorio/"
+  ],
   "title": "Naquium Plate Factory"
 }

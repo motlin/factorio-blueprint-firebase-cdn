@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1670791745730,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/"
+  ],
   "title": "SE Updated mixed rocket",
   "favorites": {
     "96scKksgGvSLlD12ApyoyA6CEFC3": true,

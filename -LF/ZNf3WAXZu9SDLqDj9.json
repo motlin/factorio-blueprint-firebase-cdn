@@ -3,10 +3,10 @@
   "descriptionMarkdown": "* Mod: Krastorio\n* Stackable smelting 1 stack = 15 i/s\n* Please do keep red marked splitters on the pic as they are otherwise it will screw up your ratio\n",
   "lastUpdatedDate": 1584836421709,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio - Stackable melting",
   "author": {
     "userId": "dRIvhsh0l1hLnPyWV84c6CFSAX12"

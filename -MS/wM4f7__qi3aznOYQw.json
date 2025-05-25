@@ -25,11 +25,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/8-32%20Turbine.png?alt=media&token=8d89fcfc-547f-407b-84be-74e89fda334d",
   "lastUpdatedDate": 1641812499779,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Necrancy's Modified Turbine"
 }

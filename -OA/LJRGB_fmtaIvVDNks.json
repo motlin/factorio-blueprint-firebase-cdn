@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/aNMy1iO",
   "lastUpdatedDate": 1730172536008,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/plastic/",
-    "2": "/planets/gleba/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/plastic/",
+    "/planets/gleba/",
+    "/version/2,0/"
+  ],
   "title": "Gleba Plastic Production",
   "favorites": {
     "8KxnOemithR6yOG1iW1Ltk4jHoh2": true,

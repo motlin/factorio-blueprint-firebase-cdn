@@ -3,11 +3,11 @@
   "fileName": "high yield munitions.JPG",
   "lastUpdatedDate": 1590576034094,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

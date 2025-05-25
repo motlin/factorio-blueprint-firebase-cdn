@@ -7,13 +7,13 @@
     "id": "LsSxOoJ"
   },
   "lastUpdatedDate": 1502731758106,
-  "tags": {
-    "3": "/production/belt based/",
-    "4": "/version/0,15/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/version/0,15/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/production/smelting/"
+  ],
   "title": "Expensive Recipes Steel Smelter",
   "numberOfFavorites": 2,
   "author": {

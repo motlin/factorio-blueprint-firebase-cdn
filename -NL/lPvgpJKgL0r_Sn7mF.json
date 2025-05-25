@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1737133371000,
   "numberOfFavorites": 62,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/general/beaconized/",
-    "3": "/belt/balancer/",
-    "4": "/mods/angels/",
-    "5": "/mods/creative/",
-    "6": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/beaconized/",
+    "/belt/balancer/",
+    "/mods/angels/",
+    "/mods/creative/",
+    "/production/science/"
+  ],
   "title": " Automation science pack- Automatyzujący pakiet naukowy. Jak działa, schemat budowy.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Bez%20nazwy%20vvv.png?alt=media&token=eb6089cd-6576-4e4e-97eb-624a90472764",
   "favorites": {

@@ -20,13 +20,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E6%9C%AA%E5%91%BD%E5%90%8D.png?alt=media&token=ac3d06f6-b1ba-48ac-98ef-4f9adb81b6da",
   "lastUpdatedDate": 1499944068355,
   "numberOfFavorites": 24,
-  "tags": {
-    "3": "/train/crossing/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/train/loading station/",
-    "1": "/train/track/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/track/",
+    "/train/junction/"
+  ],
   "title": "2-Lane Wall Trains"
 }

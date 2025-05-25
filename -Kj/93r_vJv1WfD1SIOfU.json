@@ -21,12 +21,12 @@
   "descriptionMarkdown": "The new ratio for SMG ammo is **1 firearm magazine : 3 piercing rounds : 10 uranium rounds**, but in this tileable design I had to build more than one firearm magazine assembler because otherwise the last piercing round assembler would stop.\n\nThis factory can output 0.75 uranium magazines per second (45 per minute) and it has a maximum consecutive tileability of 3 with yellow belts, 7 with red belts and 10 with blue belts",
   "fileName": "ammo.jpg",
   "numberOfFavorites": 26,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/guns and ammo/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/guns and ammo/",
+    "/general/tileable/"
+  ],
   "title": "0.15 tileable uranium rounds factory",
   "authorId": "SwconDvNRLbDs227pUglG1G4ZVU2"
 }

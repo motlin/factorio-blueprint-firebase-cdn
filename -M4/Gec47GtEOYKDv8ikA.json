@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/tileable/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/tileable/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "crI6zzSiYqUk4Wfe0jYmQa3mYc52": true,
     "AIrz4D1Yhbedxpqzezve1Gz95v13": true,

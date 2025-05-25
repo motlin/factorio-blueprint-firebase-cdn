@@ -1,12 +1,12 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/InrtelligentSmelter.PNG?alt=media&token=92037f27-3d44-4004-af0e-176f4b6e7b17",
   "lastUpdatedDate": 1498393309395,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Intelligent Smelters (after Xeteth)",
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"

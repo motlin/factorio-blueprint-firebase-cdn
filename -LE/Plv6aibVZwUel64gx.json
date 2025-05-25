@@ -23,14 +23,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mall%20-%20Twin%20Track%201.04.png?alt=media&token=002956d3-3cc0-4e0b-8fa3-bb1d99b869e7",
   "lastUpdatedDate": 1529098414445,
   "numberOfFavorites": 25,
-  "tags": {
-    "5": "/production/inserters/",
-    "6": "/version/0,15/",
-    "0": "/production/mall (make everything)/",
-    "1": "/general/mid game/",
-    "2": "/production/other/",
-    "3": "/version/0,16/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/0,15/",
+    "/production/mall (make everything)/",
+    "/general/mid game/",
+    "/production/other/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "Mall : Twin Track Stationed 1.04"
 }

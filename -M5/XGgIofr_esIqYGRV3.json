@@ -29,8 +29,8 @@
   "descriptionMarkdown": "Well, blue circuit factory.",
   "lastUpdatedDate": 1587565479409,
   "numberOfFavorites": 10,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/processing unit (blue)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/"
+  ]
 }

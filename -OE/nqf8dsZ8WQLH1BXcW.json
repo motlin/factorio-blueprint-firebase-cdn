@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Ip2Ap2J",
   "lastUpdatedDate": 1734963016478,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Оборона лазерные автотурели",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,

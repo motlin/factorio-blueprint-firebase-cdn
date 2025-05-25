@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/mods/vanilla/",
-    "3": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "Simple nuclear fuel processing",
   "descriptionMarkdown": "Nuclear fuel processing does not have to be complex. This is sufficient to power 32 nuclear reactors.\n\nAlarms will sound if there is an overflow of depleted cells or an underflow of active cells. You can silence the alarm by adding a constant combinator until enough fuel has been accumulated.\n\n[Calculator](https://kirkmcdonald.github.io/calc.html#zip=TY7RCsMgDEX/xqcG2vnm8GOCTbswjRJ1bH+/0rVlcB+Se27CnbGhn2CE0SQWbw03StVLD5FQQQlDywrhs+1ucfZmeJWs5LuicE+wzQNrFigRG5mU5x6pXnjpFCFQjK7YS8Mzv1DpDSTK4ZFIGhTNgWo9Auf54bKsP3Cv1k3D2W5/rvQX2vkX)",
   "fileName": "simple_nuclear_fuel.png",

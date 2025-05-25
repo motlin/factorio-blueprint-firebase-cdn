@@ -16,11 +16,11 @@
   "descriptionMarkdown": "Steam Power Station.  ",
   "fileName": "20181108184630_1.jpg",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "NZ4OHFwRnWRLM5zdHT2F7mjLtLT2": true
   }

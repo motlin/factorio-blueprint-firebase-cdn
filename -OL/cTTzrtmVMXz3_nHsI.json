@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/g1hRtII.png",
   "lastUpdatedDate": 1742288318672,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Чертежи ЖД FF2021",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,

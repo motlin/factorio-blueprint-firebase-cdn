@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1665952357943,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Robots Production",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

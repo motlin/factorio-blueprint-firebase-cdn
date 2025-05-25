@@ -11,11 +11,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Beaconed%20Sulfur.png?alt=media&token=5accbf7a-1107-486a-a3ec-9116020ce10c",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Beaconed Sulfur",
   "author": {
     "userId": "3BNc6O52hROTajo7h3JEhcK14GN2"

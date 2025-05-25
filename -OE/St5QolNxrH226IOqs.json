@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/yc5kjEV",
   "lastUpdatedDate": 1734596174194,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/planets/vulcanus/",
-    "2": "/planets/space-platform/",
-    "3": "/production/mining/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/planets/vulcanus/",
+    "/planets/space-platform/",
+    "/production/mining/"
+  ],
   "title": "Space mining 120/min",
   "favorites": {
     "UcMapEyMDacEh0QGLlIrMpcBxI72": true,

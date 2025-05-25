@@ -9,10 +9,10 @@
     "width": 1409
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/train/junction/"
+  ],
   "favorites": {
     "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true
   },

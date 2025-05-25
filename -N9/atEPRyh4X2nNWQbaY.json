@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660657399491,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Circuit-driven exact count fast train loader",
   "favorites": {
     "u9otYPfN9OY0XUVkvgwiZxTUNsg1": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/JlqED0l",
   "lastUpdatedDate": 1731439832389,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Militar Book - Lisitsa",
   "favorites": {
     "ZIZPa9bR4TNEHALAk8u2JNH1fFv1": true,

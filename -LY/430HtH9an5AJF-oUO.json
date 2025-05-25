@@ -22,15 +22,15 @@
   },
   "lastUpdatedDate": 1578593863705,
   "numberOfFavorites": 5,
-  "tags": {
-    "5": "/mods/vanilla/",
-    "6": "/general/tileable/",
-    "7": "/general/late game (megabase)/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/train/stacker/",
-    "3": "/version/0,17/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/train/stacker/",
+    "/version/0,17/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Smelting - Train-to-Train - 90k/m and 60k/m Complexes"
 }

@@ -29,10 +29,10 @@
   "imageUrl": "https://imgur.com/zaSCG2Y",
   "lastUpdatedDate": 1734682697117,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Black bottle 10k+"
 }

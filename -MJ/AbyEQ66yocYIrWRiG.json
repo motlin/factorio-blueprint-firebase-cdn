@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1631208859704,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Offload Station 4x",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true

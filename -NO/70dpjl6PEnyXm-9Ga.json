@@ -21,8 +21,8 @@
   },
   "lastUpdatedDate": 1705236668206,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/right-hand-drive/"
+  ],
   "title": "4 Lane RHD rail system based on ElderAxe"
 }

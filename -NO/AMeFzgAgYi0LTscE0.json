@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1705296367146,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/inserters/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Starting Items Mall"
 }

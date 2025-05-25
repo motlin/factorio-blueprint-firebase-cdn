@@ -18,15 +18,15 @@
   },
   "lastUpdatedDate": 1541683234508,
   "numberOfFavorites": 19,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/production/modules/",
-    "3": "/production/oil processing/",
-    "4": "/production/uranium/",
-    "5": "/version/0,16/",
-    "6": "/general/compact/",
-    "7": "/production/robots/",
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/modules/",
+    "/production/oil processing/",
+    "/production/uranium/",
+    "/version/0,16/",
+    "/general/compact/",
+    "/production/robots/",
+    "/production/mall (make everything)/"
+  ],
   "title": "bbq's Mall incl. oil production + enriched uranium"
 }

@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1591434494890,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Railworld Blueprints #8"
 }

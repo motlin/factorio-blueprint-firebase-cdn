@@ -7,10 +7,10 @@
     "width": 1145,
     "height": 930
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "9bcKFNfdRvRbvruMWzwvKVgYIzs1"
   },

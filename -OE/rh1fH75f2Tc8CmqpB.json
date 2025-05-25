@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/6xsA6vE",
   "lastUpdatedDate": 1735027600217,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "Станция с приоритетом с привязкой на количество поездов"
 }

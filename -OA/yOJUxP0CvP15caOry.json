@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/PYmPqqX",
   "lastUpdatedDate": 1730845002438,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora alarm",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

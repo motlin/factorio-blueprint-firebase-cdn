@@ -16,11 +16,11 @@
   "createdDate": 1543808859721,
   "descriptionMarkdown": "Out - 2300/s Petroleum Gas;\nIn - 1750/s crude oil\n\nWell suited to start the game, in the future we install the modules.\n\nUpd: adaptation for version 0.17",
   "numberOfFavorites": 36,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "xY9rEKNEQMbXOOplxstm479GMBc2": true,
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,

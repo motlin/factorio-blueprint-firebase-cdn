@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "GCewDvdXRbOCW1bPiNfyPBfUk1i2"
   },

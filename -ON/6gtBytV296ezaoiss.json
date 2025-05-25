@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Tipmdbg",
   "lastUpdatedDate": 1743885931503,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/mods/space-age/"
+  ],
   "title": "Produção de pacote de metalurgia",
   "favorites": {
     "RmD3iK6gVxOQfQYp0Pz4ejpz8L82": true,

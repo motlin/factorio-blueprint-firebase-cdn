@@ -11,12 +11,12 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/general/early game/",
-    "3": "/version/0,16/",
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/early game/",
+    "/version/0,16/",
+    "/production/other/"
+  ],
   "favorites": {
     "VyNC6WcdWXV5UGf4e8MNadRLR7l1": true,
     "W3SObEod8PVZM2Df2YH8ySJKtF02": true,

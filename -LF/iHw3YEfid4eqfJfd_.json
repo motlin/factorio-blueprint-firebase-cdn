@@ -4,11 +4,11 @@
   "createdDate": 1529785074001,
   "descriptionMarkdown": "Almost 100% up time on processing unit assemblers",
   "lastUpdatedDate": 1529785074001,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "jsd3BpOegAhtTweHWbVTwZbSRcC3"
   },

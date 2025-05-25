@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/oSiboj4",
   "lastUpdatedDate": 1733945515776,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "Robot-based holminum mining with recycling everything else",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

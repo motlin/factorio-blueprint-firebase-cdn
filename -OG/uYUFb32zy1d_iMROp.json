@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/k8ygbmG",
   "lastUpdatedDate": 1737222911152,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Safe Egg Requests for Productivity Module Production By Bayfuss",
   "favorites": {
     "tCN0oTbIYGM18hBsTBjn8Y1w3Ra2": true,

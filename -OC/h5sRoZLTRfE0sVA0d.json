@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/J9rqNoC",
   "lastUpdatedDate": 1732743985131,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/space-age/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/space-age/",
+    "/mods/vanilla/"
+  ],
   "title": "Simple Artillery Shells (Space Age) 45/m",
   "favorites": {
     "hznvOV8e2MUTLnzB1ZTL8BfXND22": true,

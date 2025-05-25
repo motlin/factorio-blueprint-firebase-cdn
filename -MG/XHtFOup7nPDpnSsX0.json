@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1628368156304,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/roundabout/"
+  ],
   "title": "REALLY basic gridded Rail system.",
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true

@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1563042983371,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Turkleton's Blue Circuit Factory "
 }

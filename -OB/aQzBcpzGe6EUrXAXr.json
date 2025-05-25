@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/E3k5WM9",
   "lastUpdatedDate": 1731516856717,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/space-age/"
+  ],
   "title": "12 Input Biolabs (Research)",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

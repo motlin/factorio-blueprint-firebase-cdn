@@ -21,13 +21,13 @@
     "id": "AzAPoqH"
   },
   "lastUpdatedDate": 1554912053342,
-  "tags": {
-    "4": "/production/logistic (bot) based/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/belt based/"
+  ],
   "title": "4 Reactor Nuclear power (belted and/or botted) (steam capacitors)",
   "author": {
     "userId": "tBmLOszk82ZEaQO4oKZd2nRP4U63"

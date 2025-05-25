@@ -3,9 +3,9 @@
   "fileName": "jon8rfc_whitelist1.jpg",
   "lastUpdatedDate": 1562425789000,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "favorites": {
     "0toDbbJcWXSAxOc7ldflT9zCCA13": true
   },

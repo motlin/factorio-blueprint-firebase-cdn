@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/wQTALC6.png",
   "lastUpdatedDate": 1743741970390,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/production/science/",
-    "2": "/mods/space-age/",
-    "3": "/mods/quality/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/production/science/",
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "Cryogenic Science, 7,200/m, tiles vertically",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

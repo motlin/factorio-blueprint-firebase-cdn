@@ -1,11 +1,11 @@
 {
   "createdDate": 1601141566557,
   "descriptionMarkdown": "Green Circuits factory",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "Yrtmzz4qzsfnweAxWYQ6B8VJFPd2"
   },

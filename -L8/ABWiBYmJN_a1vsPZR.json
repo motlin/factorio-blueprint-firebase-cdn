@@ -13,13 +13,13 @@
     "width": 1920
   },
   "lastUpdatedDate": 1522727233437,
-  "tags": {
-    "3": "/belt/transport belt (yellow)/",
-    "4": "/belt/fast transport belt (red)/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "KlK5AQkwsrf4MSWh5gHuhKeg3jl2": true,
     "386gxXV4phTpHFelfSnjqO2DY993": true,

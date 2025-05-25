@@ -26,9 +26,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/modules_14s.jpg?alt=media&token=9a7ec1ab-bc0d-4647-b1f7-c98e15ea781f",
   "lastUpdatedDate": 1575028244876,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "Modules P+S 14/s"
 }

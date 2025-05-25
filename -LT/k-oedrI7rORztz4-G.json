@@ -11,15 +11,15 @@
     "width": 2848
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/tileable/",
-    "5": "/general/compact/",
-    "6": "/version/0,17/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/version/0,17/"
+  ],
   "title": "YAMATO's Module Production",
   "favorites": {
     "bLSNBxaDOhgPGALrThBBVL7PoVK2": true,

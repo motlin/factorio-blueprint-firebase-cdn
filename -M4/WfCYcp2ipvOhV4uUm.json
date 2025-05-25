@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1586481650398,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Krastorio 2 Independent Antimatter power"
 }

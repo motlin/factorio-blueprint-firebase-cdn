@@ -30,10 +30,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/CityBlock001.jpg?alt=media&token=5b450b3a-77b4-4977-a257-5a5102e83f1f",
   "lastUpdatedDate": 1601835264380,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/general/tileable/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/general/tileable/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Help Me Fix This City Block"
 }

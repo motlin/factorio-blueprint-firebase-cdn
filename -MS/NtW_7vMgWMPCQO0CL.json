@@ -20,14 +20,14 @@
   },
   "lastUpdatedDate": 1612171302795,
   "numberOfFavorites": 3,
-  "tags": {
-    "4": "/general/late game (megabase)/",
-    "5": "/train/loading station/",
-    "6": "/version/1,0/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/train/loading station/",
+    "/version/1,0/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Advanced Circuit Factory with Train station"
 }

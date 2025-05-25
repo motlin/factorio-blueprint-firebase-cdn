@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mk%20Vi.PNG?alt=media&token=dda997fe-7477-49c3-b133-cd6837a73c49",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

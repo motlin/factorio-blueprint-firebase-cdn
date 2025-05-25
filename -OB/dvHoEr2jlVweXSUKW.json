@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/HCGKUn8",
   "lastUpdatedDate": 1731646337093,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/compact/",
-    "2": "/production/scrap processing/",
-    "3": "/planets/fulgora/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/compact/",
+    "/production/scrap processing/",
+    "/planets/fulgora/"
+  ],
   "title": "Compact Fulgora Scrap Recycling",
   "favorites": {
     "5r1nG6ojQ3PasdYPKcRewphvhqy2": true,

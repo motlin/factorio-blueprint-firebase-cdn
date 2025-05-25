@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1555560199751,
   "descriptionMarkdown": "Takes in raw copper plates, iron plates, steel, coal, petro, and light oil -> produces blue science. 90 blue science per minute.",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/science/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/advanced circuit (red)/",
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "title": "Blue Science (Embedded Chips)",
   "favorites": {
     "vNI80FwpQeWj5b4PwRMSvj8SCPM2": true,

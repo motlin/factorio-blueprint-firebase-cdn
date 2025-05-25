@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/pAeFNHX",
   "lastUpdatedDate": 1741385654375,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Legendary quality",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

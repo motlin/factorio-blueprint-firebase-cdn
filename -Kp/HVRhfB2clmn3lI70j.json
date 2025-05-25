@@ -23,12 +23,12 @@
     "width": 1882
   },
   "numberOfFavorites": 20,
-  "tags": {
-    "4": "/mods/creative/",
-    "5": "/version/0,15/",
-    "0": "/production/logistic (bot) based/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/production/advanced circuit (red)/",
-    "3": "/general/beaconized/"
-  }
+  "tags": [
+    "/mods/creative/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/",
+    "/production/processing unit (blue)/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ]
 }

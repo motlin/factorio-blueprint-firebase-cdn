@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3spSO1o",
   "lastUpdatedDate": 1729945851090,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/space-age/"
+  ],
   "title": "Kovarex proccessing",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1555053635637,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/production/oil processing/",
-    "2": "/production/science/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "title": "Train Based Chemical Science"
 }

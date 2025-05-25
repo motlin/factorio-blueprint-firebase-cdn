@@ -64,12 +64,12 @@
   },
   "lastUpdatedDate": 1612762516097,
   "numberOfFavorites": 44,
-  "tags": {
-    "4": "/version/1,0/",
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/science/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "title": "1.0 science book"
 }

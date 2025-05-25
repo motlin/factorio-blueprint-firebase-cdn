@@ -1,12 +1,12 @@
 {
   "fileName": "2019-09-11 11_15_23-Factorio Blueprint Editor.jpg",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/",
+    "/production/oil processing/"
+  ],
   "title": "Multioptional OIL Prozessing Unit BP",
   "author": {
     "userId": "bNNt1uynEdX9V6tTMtKuKurnyZZ2"

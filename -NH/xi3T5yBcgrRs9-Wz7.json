@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1698621323113,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/smelting/",
-    "2": "/general/mid game/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/smelting/",
+    "/general/mid game/",
+    "/general/tileable/"
+  ],
   "title": "【SE】Iron ingot to plate from ore 45/s",
   "favorites": {
     "q6szEyQgjSPmtfqfO7xa86No1dE3": true,

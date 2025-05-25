@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/UHBsqsV",
   "lastUpdatedDate": 1729981989251,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Cargo Ship 5",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,

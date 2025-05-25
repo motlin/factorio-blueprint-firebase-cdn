@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1570468981709,
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/general/beaconized/",
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "Rocket Factory"
 }

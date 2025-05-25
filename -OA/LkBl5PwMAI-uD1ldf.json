@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/B35kIEQ",
   "lastUpdatedDate": 1730179948740,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/planets/space-platform/"
+  ],
   "title": "Simple space science 2.0",
   "favorites": {
     "Dr3ICXCqXcaOQCkopOB1XrwwMTY2": true,

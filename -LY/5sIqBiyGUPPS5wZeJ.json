@@ -18,15 +18,15 @@
   },
   "lastUpdatedDate": 1578654395101,
   "numberOfFavorites": 1,
-  "tags": {
-    "5": "/train/loading station/",
-    "6": "/train/unloading station/",
-    "7": "/general/tileable/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/tileable/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Electronic Circuits - Train-to-Train - 11.4k/m/tile"
 }

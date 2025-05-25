@@ -8,9 +8,9 @@
     "id": "pLOcOf7"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,16/"
+  ],
   "title": "Tank Refilling Station",
   "favorites": {
     "YhTViJRXbOchQ0GNRDKj1pOuBJI2": true,

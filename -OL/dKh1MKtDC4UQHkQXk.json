@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/MvjuY4g.png",
   "lastUpdatedDate": 1742302794041,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba scalable botbase",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true

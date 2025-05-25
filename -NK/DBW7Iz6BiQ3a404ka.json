@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701247815607,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration 2x2 Controlled Condenser Nuclear Reactor",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2023-11-29%2009_44_05-Factorio%201.1.99.png?alt=media&token=e5877710-8f75-4814-a9c6-bceb7ae2bc3e",
   "favorites": {

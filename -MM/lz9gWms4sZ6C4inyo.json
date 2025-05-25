@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1678549116946,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Automatically Building/Unbuilding Artillery Outpost"
 }

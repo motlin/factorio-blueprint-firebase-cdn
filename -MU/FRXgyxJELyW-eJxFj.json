@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1643115464968,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Fake depot counter example",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-244851.png?alt=media&token=8ef867eb-32ef-4f76-aa01-9c09f6b7f18d"
 }

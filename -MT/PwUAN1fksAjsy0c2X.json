@@ -36,16 +36,16 @@
   },
   "lastUpdatedDate": 1680010725100,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/power/nuclear/",
-    "2": "/general/beaconized/",
-    "3": "/mods/bobs/",
-    "4": "/version/0,15/",
-    "5": "/production/science/",
-    "6": "/production/research (labs)/",
-    "7": "/mods/space-exploration/",
-    "8": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/mods/bobs/",
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "Space exploration and Krastorio 2 Ground base (Part one of SE+K2 in a Book)"
 }

@@ -1,11 +1,11 @@
 {
   "fileName": "full_underground_belts_production_line.jpg",
   "lastUpdatedDate": 1692423052070,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/production/belt based/"
+  ],
   "title": "All Underground Belt Production Line",
   "author": {
     "userId": "hCUriC4117Mpb3gTwy7KR2X8FFa2"

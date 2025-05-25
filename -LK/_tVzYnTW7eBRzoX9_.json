@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "createdDate": 1535012901130,
   "descriptionMarkdown": "In all cases there is no energy wastage and power shortage.(Within my test)\n\n\nHow to use?\n\n- Keep the power section near the reactor independent.\n- Accumulator fullcharge plz before commissioning\n- All ready done and get enough fuel cell Signal [C] constant combinator for a moment(0.5sec) turn on and off            or       just wait\n- plz use under 800MW",
   "fileName": "6X3 Reactor.jpg",

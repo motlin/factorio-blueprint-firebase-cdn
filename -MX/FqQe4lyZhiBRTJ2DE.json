@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1646333785706,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/power/steam/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/power/steam/",
+    "/version/1,0/"
+  ],
   "title": "Simple Nuclear Power - 480 MW",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Nuclear%20Power%20480%20MW%20(2).png?alt=media&token=cbfaacd4-0ff8-41ef-a6d0-aaacb9a086a4",
   "favorites": {

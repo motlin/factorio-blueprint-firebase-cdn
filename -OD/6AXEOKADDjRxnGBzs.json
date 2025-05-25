@@ -16,8 +16,8 @@
   "imageUrl": "https://imgur.com/38HpXO3",
   "lastUpdatedDate": 1733139768877,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "battlecruiser operational"
 }

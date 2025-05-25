@@ -16,11 +16,11 @@
   "authorId": "eo83LpZ5NdMngVgJ4eeEaXxhLTg1",
   "fileName": "Sushi Rainbow Belts.png",
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/research (labs)/"
+  ],
   "favorites": {
     "3W81lziJULPXcOPam3x4pANeE7g2": true
   }

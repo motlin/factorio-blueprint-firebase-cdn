@@ -8,11 +8,11 @@
     "id": "qX3NeEv"
   },
   "lastUpdatedDate": 1515331075881,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Starter - Electricity",
   "author": {
     "userId": "YBGDOjZyLyc3MkV0BmmNqO9Brp52"

@@ -16,10 +16,10 @@
     "height": 416,
     "id": "RHe2kjl"
   },
-  "tags": {
-    "3": "/belt/transport belt (yellow)/",
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

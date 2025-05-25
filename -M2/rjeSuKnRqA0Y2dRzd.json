@@ -36,12 +36,12 @@
     "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"
   },
   "authorId": "ub0iEtNIVqVuJDIIVHdezrooiVY2",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/version/1,0/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/version/1,0/",
+    "/production/belt based/"
+  ],
   "title": "Steel Smelt v5"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1699792857620,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Sulfur Factory",
   "favorites": {
     "mXqu9fdT2egnrkI1jItaTZVPQIV2": true,

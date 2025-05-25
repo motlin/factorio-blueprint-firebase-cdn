@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/uFHOQkf",
   "lastUpdatedDate": 1733942657951,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/nuclear/",
-    "2": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Battlecruiser starcraft",
   "favorites": {
     "Nt8C6FZpW5UmIVi7EjJpg2q7aq82": true,

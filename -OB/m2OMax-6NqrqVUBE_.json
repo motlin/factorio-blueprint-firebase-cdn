@@ -89,8 +89,8 @@
   "imageUrl": "https://imgur.com/6ERhtwe",
   "lastUpdatedDate": 1731783830438,
   "numberOfFavorites": 39,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "1kspm Nauvis and Vulcanus Sciences"
 }

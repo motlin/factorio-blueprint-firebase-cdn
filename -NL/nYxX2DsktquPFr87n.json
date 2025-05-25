@@ -24,9 +24,9 @@
   },
   "lastUpdatedDate": 1702745856446,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/space-exploration/"
+  ],
   "title": "K2SE Early Game Production Hub"
 }

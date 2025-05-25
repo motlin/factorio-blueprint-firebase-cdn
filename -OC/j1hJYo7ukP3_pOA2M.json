@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/BOinqCg",
   "lastUpdatedDate": 1732734801355,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "HMS Shoplifter MK II (Cargo Ship)",
   "favorites": {
     "xsZ1ACrRRMU2J50EsFoXdBKuEy63": true,

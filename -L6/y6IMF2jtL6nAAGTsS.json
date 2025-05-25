@@ -15,8 +15,8 @@
     "type": "image/png",
     "width": 645
   },
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "title": "4 lane balancer"
 }

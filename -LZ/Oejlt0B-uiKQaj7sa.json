@@ -9,9 +9,9 @@
     "height": 1080,
     "id": "FbYLkNx"
   },
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "buffered T-intersection",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

@@ -4,11 +4,11 @@
   "createdDate": 1554880870443,
   "descriptionMarkdown": "### approved 1770 solid fuel/min \nBased on: https://factorioprints.com/view/-Lc-1GeyKIcgtqfw221F \\\nMore compact, less readable, same effective. \\\n*space is important, you know* ",
   "title": "Coal liquefaction to solid fuel_",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "0": "/production/coal liquification/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/coal liquification/"
+  ],
   "favorites": {
     "DjYNvGesC5N1c9aGVkw7uZSZIcn1": true,
     "iknVlssYY1bmK75g45YQCCQvjjE3": true,

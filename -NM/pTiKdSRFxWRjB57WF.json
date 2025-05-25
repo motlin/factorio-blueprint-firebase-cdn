@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1674860750306,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/power/nuclear/",
-    "2": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/production/uranium/"
+  ],
   "title": "Kovarex (128 Reactors) by chknsausage",
   "favorites": {
     "gDgX4de49wbL7ASlahMaidkarNG3": true

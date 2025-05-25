@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1651009404637,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/other/"
+  ],
   "title": "Tilable Deep-Core Mining Refineries"
 }

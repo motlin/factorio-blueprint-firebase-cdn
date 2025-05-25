@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/tphOLRl",
   "lastUpdatedDate": 1743173780531,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/version/2,0/"
+  ],
   "title": "Мегаплатформа"
 }

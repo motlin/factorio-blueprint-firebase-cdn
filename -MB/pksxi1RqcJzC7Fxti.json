@@ -27,14 +27,14 @@
   },
   "lastUpdatedDate": 1623325905447,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/train/roundabout/",
-    "3": "/train/junction/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/loading station/",
-    "6": "/train/unloading station/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Rail Solar System RHD 2 Lane by Dawidio (Prototype)"
 }

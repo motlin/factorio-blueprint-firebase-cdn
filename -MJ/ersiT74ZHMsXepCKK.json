@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1631733359832,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "\"STONE\" Location Title",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio-STONE%20Location.png?alt=media&token=70fd12e2-16a9-4c4f-ae8f-49e7c1788874"
 }

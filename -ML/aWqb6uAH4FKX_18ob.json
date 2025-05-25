@@ -9,9 +9,9 @@
   "numberOfFavorites": 6,
   "title": "City Block Compatible 4 Lane 4 Way High Throughput Intersection",
   "lastUpdatedDate": 1604846870341,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202020-11-08%20064739.jpg?alt=media&token=98ed63cd-7f31-432b-ac6d-6b2977595524",
   "author": {
     "userId": "85zF1Ti5qXXGfujD9V2oTTB7hTm1"

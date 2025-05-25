@@ -21,12 +21,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Base-in-a-Box.jpg?alt=media&token=1e33413e-9b75-4312-937f-5b90d95c7c06",
   "lastUpdatedDate": 1504702259666,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Base-in-a-Box BP Book"
 }

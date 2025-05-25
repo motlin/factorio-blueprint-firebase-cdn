@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/bwuAgDt",
   "lastUpdatedDate": 1735002822596,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/train/junction/"
+  ],
   "title": "Elevated Rail Out",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,

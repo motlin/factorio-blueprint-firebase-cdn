@@ -20,9 +20,9 @@
   "authorId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2",
   "createdDate": 1558191809538,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/general/tileable/"
+  ],
   "title": "LTN - Engine Units"
 }

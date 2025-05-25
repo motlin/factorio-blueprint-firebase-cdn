@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3EYg2j4",
   "lastUpdatedDate": 1736897718421,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space Platform - Asteroid Collector Caching Demo",
   "favorites": {
     "9MTyUviWmcUL37oKLIEDJvvCxRx1": true

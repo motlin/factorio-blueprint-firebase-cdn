@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1657490237130,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "3 Boilers To 6 Steam Engines",
   "favorites": {
     "qhOVcAGNCPZFy236LiFCxOVPksg2": true,

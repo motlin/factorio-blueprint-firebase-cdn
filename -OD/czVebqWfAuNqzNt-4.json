@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/TinTqsP",
   "lastUpdatedDate": 1733707041468,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/2,0/"
+  ],
   "title": "Simple RGB Circuit",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

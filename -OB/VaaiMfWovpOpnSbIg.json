@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ybN0ATe",
   "lastUpdatedDate": 1731418856167,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "28.2GW stackable fusion power station",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

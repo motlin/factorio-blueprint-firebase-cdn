@@ -9,14 +9,14 @@
     "width": 1280
   },
   "lastUpdatedDate": 1544619545127,
-  "tags": {
-    "4": "/version/0,16/",
-    "5": "/general/tileable/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/tileable/",
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "WPuKQqpHoxg8TfsFqdX2XAr0Y553"
   },

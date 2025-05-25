@@ -37,14 +37,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-03-07%20121932.png?alt=media&token=cdc0cef6-293d-47a2-9da7-d2de173ef2cc",
   "lastUpdatedDate": 1678213244342,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/mods/vanilla/",
-    "2": "/train/junction/",
-    "3": "/train/crossing/",
-    "4": "/train/roundabout/",
-    "5": "/train/track/",
-    "6": "/general/tileable/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/general/tileable/"
+  ],
   "title": "1-4 LHD Rail System"
 }

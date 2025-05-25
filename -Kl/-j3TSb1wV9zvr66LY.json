@@ -26,12 +26,12 @@
     "type": "image/jpeg",
     "width": 1570
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/logistic (bot) based/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Zuri's Bot-based Smelter Design/Setup"
 }

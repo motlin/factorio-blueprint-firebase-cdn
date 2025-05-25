@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "6qMGOony8zUmpYDuOCSBqFxqhkm2": true,
     "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,

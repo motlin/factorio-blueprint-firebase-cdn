@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Bq7mH3j",
   "lastUpdatedDate": 1731670352944,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Basic Iron/Copper/Calcite Plattform",
   "favorites": {
     "oJxIfphttcYBmPTonZs5qcno84s1": true,

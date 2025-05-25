@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/dMpLS6o",
   "lastUpdatedDate": 1734112132726,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Recipe Cycling Solar Ship",
   "favorites": {
     "wrkUgOzWQOV8omETFYxPx8zaqvi2": true

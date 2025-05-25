@@ -19,10 +19,10 @@
     "type": "image/png",
     "width": 905
   },
-  "tags": {
-    "0": "/train/track/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  }
+  "tags": [
+    "/train/track/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ]
 }

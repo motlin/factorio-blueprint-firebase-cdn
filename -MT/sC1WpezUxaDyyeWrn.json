@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1642710993756,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/version/0,15/",
-    "3": "/power/accumulator/",
-    "4": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/0,15/",
+    "/power/accumulator/",
+    "/power/solar/"
+  ],
   "title": "Energy chunk",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/21%EF%BC%9A34%EF%BC%9A37%20(2037).png?alt=media&token=8645d006-8056-403e-85fa-868b81e31183",
   "favorites": {

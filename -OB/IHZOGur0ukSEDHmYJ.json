@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/g5P0YJU",
   "lastUpdatedDate": 1731195455123,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/space-age/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/space-age/",
+    "/planets/fulgora/"
+  ],
   "title": "Parameterized Legendary Upcyclers",
   "favorites": {
     "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,

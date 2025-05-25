@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1702246745712,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Positive Edge Detector and SR Counter"
 }

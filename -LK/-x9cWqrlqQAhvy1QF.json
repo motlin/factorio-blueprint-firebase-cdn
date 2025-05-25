@@ -20,9 +20,9 @@
     "width": 1920
   },
   "lastUpdatedDate": 1563384226593,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/train/stacker/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/stacker/"
+  ],
   "title": "Cyclic Stacker"
 }

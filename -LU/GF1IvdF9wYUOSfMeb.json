@@ -20,13 +20,13 @@
   },
   "lastUpdatedDate": 1545615458186,
   "numberOfFavorites": 12,
-  "tags": {
-    "3": "/general/marathon/",
-    "4": "/mods/vanilla/",
-    "5": "/production/logistic (bot) based/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/marathon/",
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/production/research (labs)/"
+  ],
   "title": "Ore2Science Integrated Research Facility"
 }

@@ -13,12 +13,12 @@
   "authorId": "Y4laicCYyCS2cegtnyYFmpamNhO2",
   "descriptionMarkdown": "The final version... balanced and tileable. It even looks nice. \n\n<a href=\"https://imgur.com/kwHH9cv\"><img src=\"https://i.imgur.com/kwHH9cv.jpg\" title=\"source: imgur.com\" /></a>",
   "lastUpdatedDate": 1555999546052,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/version/0,17/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/version/0,17/",
+    "/production/electronic circuit (green)/"
+  ],
   "favorites": {
     "6xpJkBb1CcahGsWJ9s65vzViYms2": true,
     "IRSe3pbdzSbPlVPbfpinfW4J3gl1": true,

@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/XIG9DgK",
   "lastUpdatedDate": 1733964590962,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "First Crack at automated ships for transportation"
 }

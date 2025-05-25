@@ -23,12 +23,12 @@
   },
   "lastUpdatedDate": 1563474653243,
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/general/mid game/",
-    "3": "/mods/vanilla/",
-    "4": "/train/right-hand-drive/",
-    "0": "/version/0,17/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/version/0,17/",
+    "/production/smelting/"
+  ],
   "title": "Mid-game Train smelting (8*2 red belt)"
 }

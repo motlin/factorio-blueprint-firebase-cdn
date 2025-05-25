@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1628464043510,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para monitoramento de naves espaciais"
 }

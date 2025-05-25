@@ -18,8 +18,8 @@
   "imageUrl": "https://imgur.com/rVril0j",
   "lastUpdatedDate": 1731087441562,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "Main Perimeter Wall"
 }

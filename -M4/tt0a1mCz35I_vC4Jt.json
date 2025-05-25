@@ -25,9 +25,9 @@
   "createdDate": 1586887924339,
   "descriptionMarkdown": "24 beacons,\n20 inserters (17 stack, 3 fast)",
   "lastUpdatedDate": 1617148683029,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/"
-  }
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ]
 }

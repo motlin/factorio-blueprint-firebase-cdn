@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1663135810632,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/tileable/",
-    "2": "/version/unknown/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/tileable/",
+    "/version/unknown/"
+  ],
   "title": "ALPHABET TILES",
   "favorites": {
     "fAXtgHvl4BfwaI5F40ywcZNSYz53": true,

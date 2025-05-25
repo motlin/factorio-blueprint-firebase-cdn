@@ -1,9 +1,9 @@
 {
   "createdDate": 1554212598068,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "lastUpdatedDate": 1554212805283,
   "title": "Compact 2x3 reactor",
   "author": {

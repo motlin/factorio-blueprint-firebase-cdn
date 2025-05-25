@@ -56,11 +56,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/epax%20header.jpg?alt=media&token=cc6201bb-92ba-4479-ac00-86fcd4b163e0",
   "lastUpdatedDate": 1733756857824,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "3": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/chunk aligned/"
+  ],
   "title": "ElderAxe's Passenger Shuttle Service / E-PAX (v6.2.0)"
 }

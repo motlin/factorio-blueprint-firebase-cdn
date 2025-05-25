@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/GcOUiGD.jpeg",
   "lastUpdatedDate": 1740262344778,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "The Effervescent"
 }

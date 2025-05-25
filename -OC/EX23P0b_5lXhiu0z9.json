@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/7Un7gfu",
   "lastUpdatedDate": 1732208269016,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/version/2,0/"
+  ],
   "title": "Mr. Mangerives - Multi-Signal Radar Stations",
   "favorites": {
     "rdPjGwSrYQZGRSwyL5KBWyIlQRu2": true,

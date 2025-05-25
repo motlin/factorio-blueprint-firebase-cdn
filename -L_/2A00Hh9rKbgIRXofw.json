@@ -96,11 +96,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/aaaa.jpg?alt=media&token=4bfc7808-8866-4110-b636-8e5e91bbc919",
   "lastUpdatedDate": 1551970731991,
   "numberOfFavorites": 75,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Lazy bastard quick start"
 }

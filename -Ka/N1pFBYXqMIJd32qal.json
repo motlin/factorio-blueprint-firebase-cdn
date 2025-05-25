@@ -17,8 +17,8 @@
   "createdDate": 1484314596477,
   "descriptionMarkdown": "Update: 06-Jun-2017. This build was for factorio v0.14 and has been superceded by my v0.15 build 'Skynet on Steroids' https://factorioprints.com/view/-Kly_Swi1toD0g2nG8RG\n\nA simple combinator, inserter and requester chest that only adds bots to the network when none are available, but limits the network to a maximum number of bots (set in a constant combinator).\n\nThe blueprint is for logistics bots. It's simple to edit the combinators so that it works for construction bots.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/limited%20bot%20loader.PNG?alt=media&token=817d1142-3422-4c41-9601-9d27f9b941ac",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,14/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ]
 }

@@ -8,9 +8,9 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "authorId": "K2ZTs8776se7cpxel8Oi6AGcCKp1",
   "createdDate": 1546017655915,
   "lastUpdatedDate": 1546017685787,

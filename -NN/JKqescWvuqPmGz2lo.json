@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1704370620220,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/industrial revolution/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/industrial revolution/",
+    "/version/1,1/"
+  ],
   "title": "Field effect nano-mesh"
 }

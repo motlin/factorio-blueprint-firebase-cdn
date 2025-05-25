@@ -15,12 +15,12 @@
   "descriptionMarkdown": "Mall for early game expansion.",
   "fileName": "Selection_048.png",
   "lastUpdatedDate": 1609308205561,
-  "tags": {
-    "1": "/production/inserters/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/",
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Yellow/Red belt/inserter mall",
   "favorites": {
     "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,

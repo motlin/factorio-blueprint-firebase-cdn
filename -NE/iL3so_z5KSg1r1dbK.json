@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1695157089612,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "title": "rocket fuel production",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/updated.jpeg?alt=media&token=2b1c7558-b2be-40e2-b9f9-606d49e4d22d",
   "favorites": {

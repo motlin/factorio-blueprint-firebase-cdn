@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616675910013,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Animated Pixel Art (Link from Legend of Zelda)",
   "favorites": {
     "i2ukrR7eu5d1Z3KbCNNYx1UGfgl2": true,

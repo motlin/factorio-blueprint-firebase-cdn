@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/OB1J6HN",
   "lastUpdatedDate": 1734983902420,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Automatic Upcycling",
   "favorites": {
     "hBVvULy9JdNZA5WG9OhcpiqMbXl2": true,

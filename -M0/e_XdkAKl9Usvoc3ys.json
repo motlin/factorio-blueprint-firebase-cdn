@@ -28,14 +28,14 @@
   },
   "authorId": "cCXWjky3yKOpYJQuKiFv0mpZCXd2",
   "numberOfFavorites": 12,
-  "tags": {
-    "5": "/version/0,18/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
   "title": "Ore2Science - Fully Integrated 40 SPM (0.18 Default)",
   "descriptionMarkdown": "Ore2Science blueprints are fully integrated research facilities. They receive ore trains, and provide completed research, with no outbound logistics. This blueprints is intended to be used in clusters to provide higher research rates, and is designed for compactness, modularity.\n\nThis blueprint is tuned for 0.18 default recipes. Trains should be LCCCC - single locomotive, quad cargo. Coal liquefaction is exclusively used.\n\nProduction: 7 science packs (Automation, Logistics, Chemical, Military, Production, Utility, Space), and consumed into research\n\nProduction Rate: 40 science pack/minute (~48 research/minute due to +20% prod bonus)\n\nTotal Power Consumption: ~180 MW (inc miners)\n\nTotal Resource Consumption: 2520 ire ore/min, 1949 copper ore/min, 1116coal/min, 539 stone/min, ~15k water/min.\n\nUsage Instructions:\n\n1. Add routes to iron ore train, copper ore train, coal train, stone train, and water train.\n\n2. Prime Heavy Oil via 'Empty Heavy Oil Barrel' Assembler\n\n3. Add logistics bots.\n\n4. (Optional) Leave U-235 in Active Provider Chest.\n\nNuclear Fuel will be automatically produced and supply incoming trains.\nAlarm triggers when U-235 supply is low.",
   "lastUpdatedDate": 1582336191170

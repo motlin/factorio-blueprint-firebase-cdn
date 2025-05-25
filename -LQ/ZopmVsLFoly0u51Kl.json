@@ -14,11 +14,11 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/tileable/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/tileable/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Tillable Advanced (Red) Circuits - 1.5/s - v1",
   "favorites": {
     "H5lymY5ep2bcFjb6fHU8E5RcURK2": true

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1623096605058,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/factorissimo/"
+  ],
   "title": "Bobs/Angels Factorissimo2 1GW Atomic Reactor",
   "favorites": {
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,

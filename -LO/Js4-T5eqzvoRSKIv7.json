@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1539027659605,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Big Map-placeable Blueprint!"
 }

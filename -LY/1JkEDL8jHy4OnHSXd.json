@@ -25,19 +25,19 @@
   },
   "lastUpdatedDate": 1578506581658,
   "numberOfFavorites": 8,
-  "tags": {
-    "11": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "4": "/production/plastic/",
-    "6": "/production/oil processing/",
-    "8": "/general/early game/",
-    "10": "/belt/transport belt (yellow)/",
-    "0": "/production/advanced circuit (red)/",
-    "3": "/production/belt based/",
-    "5": "/production/smelting/",
-    "7": "/general/compact/",
-    "9": "/general/mid game/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/plastic/",
+    "/production/oil processing/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/",
+    "/production/advanced circuit (red)/",
+    "/production/belt based/",
+    "/production/smelting/",
+    "/general/compact/",
+    "/general/mid game/"
+  ],
   "title": "Advanced Circuits 0.5 Yellow Belt from Raw Ore, Crude Oil, and Water"
 }

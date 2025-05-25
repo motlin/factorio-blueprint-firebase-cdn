@@ -32,10 +32,10 @@
   "imageUrl": "https://imgur.com/H7fTbAb",
   "lastUpdatedDate": 1736963925948,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Vanilla LTN System"
 }

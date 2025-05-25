@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1697504104917,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/right-hand-drive/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/general/late game (megabase)/"
+  ],
   "title": "96x96 CB with basic 1-in/out train stations w/ custom train limit logic for pickups"
 }

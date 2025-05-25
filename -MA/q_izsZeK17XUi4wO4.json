@@ -25,10 +25,10 @@
   },
   "lastUpdatedDate": 1622552973479,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Compact Solar Array (131.49 MW)"
 }

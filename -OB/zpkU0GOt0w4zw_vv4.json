@@ -143,21 +143,21 @@
   "imageUrl": "https://imgur.com/i1zBh4c",
   "lastUpdatedDate": 1741735662471,
   "numberOfFavorites": 60,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/mods/vanilla/",
-    "5": "/mods/space-age/",
-    "6": "/version/2,0/",
-    "7": "/train/right-hand-drive/",
-    "8": "/train/roundabout/",
-    "9": "/train/junction/",
-    "10": "/train/crossing/",
-    "11": "/train/track/",
-    "12": "/train/unloading station/",
-    "13": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/track/",
+    "/train/unloading station/",
+    "/train/loading station/"
+  ],
   "title": "Cedric's All you can Rail Book 2&4 Lane Space Age V2.9"
 }

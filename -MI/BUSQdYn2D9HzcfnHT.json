@@ -16,10 +16,10 @@
     "type": "image/png",
     "width": 1856
   },
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/batteries/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ]
 }

@@ -9,11 +9,11 @@
     "id": "772zxKt",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/research (labs)/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 Singularity Lab (36 Lab) ",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20200510161204_1.jpg?alt=media&token=dee47dd6-8898-4861-a490-55dd112b321f",
   "favorites": {

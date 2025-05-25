@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1530763064289,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/junction/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/crossing/"
+  ],
   "title": "grid based rails system ",
   "fileName": "Udklip.PNG",
   "authorId": "ap6n1vUxa6ZYmE6fkT6v4ixb4gl1",

@@ -11,10 +11,10 @@
   "fileName": "ElEngine14pm.png",
   "lastUpdatedDate": 1529078789457,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "49nRAGLz1TQihj0s9YGehYgpR0Q2"
   },

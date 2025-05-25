@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/gCx1Iwz",
   "lastUpdatedDate": 1722471233276,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/1,1/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/version/1,1/"
+  ],
   "title": "Tileable Reactor v7",
   "favorites": {
     "Vt2E3FIJiYMrCIOPpjPPUHTwCjj1": true,

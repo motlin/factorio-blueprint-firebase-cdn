@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1642559775276,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/train/unloading station/"
+  ],
   "title": "Fast Single Wagon Unloaders"
 }

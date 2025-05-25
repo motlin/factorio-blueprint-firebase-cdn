@@ -21,12 +21,12 @@
   },
   "lastUpdatedDate": 1666730650456,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/uranium/",
-    "3": "/production/mining/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/",
+    "/production/uranium/",
+    "/production/mining/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Self Replicating Spidertron Factory"
 }

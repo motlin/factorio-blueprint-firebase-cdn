@@ -20,12 +20,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4%20Lane%20T-Junction.PNG?alt=media&token=8bb8eb86-1b9f-4af0-bb59-9e896cb4491d",
   "lastUpdatedDate": 1496077103778,
   "numberOfFavorites": 22,
-  "tags": {
-    "2": "/train/left-hand-drive/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/train/crossing/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/crossing/",
+    "/train/junction/"
+  ],
   "title": "Track compendium"
 }

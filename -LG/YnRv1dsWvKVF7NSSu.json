@@ -43,13 +43,13 @@
   },
   "lastUpdatedDate": 1614291822136,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Smelting Blueprint Book"
 }

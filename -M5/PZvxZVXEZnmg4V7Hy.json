@@ -165,13 +165,13 @@
   },
   "lastUpdatedDate": 1668203771390,
   "numberOfFavorites": 134,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/version/0,18/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/mods/ltn/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/train/track/",
+    "/version/0,18/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/ltn/",
+    "/version/1,0/"
+  ],
   "title": "Brian's Trains (Auxiliary)"
 }

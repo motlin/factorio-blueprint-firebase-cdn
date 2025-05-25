@@ -3,10 +3,10 @@
   "blueprintString": "0eNqVkt0KgzAMhd8l1wq6//kqY4wOoxS0LWk2FOm7r2UKg6nrrpqEk36c9gzwMDWJEm+mEUohQTGARWapahvqVhiD5MvLABXpNsy4NwgFoGLJPSSgRBt6JqGs0cTpHRsGlwDrFXklLKffO1KV2EGRueQncOGGVSp2htDaZXAeAbamkcz+saI8fqpHyC7WXTRp8jUD20fAHl5KNWl//vF7c1sj9BTr8G/y5HQFfnbX0DC2wdo74OkU8ASePtBSKyiO2yw/ZKfNbrtx7gXsCQrI",
   "descriptionMarkdown": "Upgrades only belts, undeground belts and splitters one tier up.",
   "fileName": "Upgrade belts planner.png",
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/version/0,17/"
+  ],
   "lastUpdatedDate": 1554753372105,
   "numberOfFavorites": 0,
   "author": {

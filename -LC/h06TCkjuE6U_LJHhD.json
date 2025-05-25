@@ -11,10 +11,10 @@
     "width": 2327
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/general/early game/",
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/belts/"
+  ],
   "authorId": "KG53vmQQOMY7CJKjH0ZgeT5QbzH2",
   "descriptionMarkdown": "This is a small belt production, currently for red and yellow belts. It is quite during the early game phase. \nJust add iron and copper, \nthe production will start and finally you will find in the yellow box an exact amount of belts. The number can be adjusted through the constant combiner.\nThrough a single belt design the footprint is quite small, the production is therefore a little bit slow.",
   "fileName": "RedYellowBelt.PNG",

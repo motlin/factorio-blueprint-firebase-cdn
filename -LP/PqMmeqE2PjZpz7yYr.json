@@ -15,9 +15,9 @@
     "type": "image/png",
     "width": 1088
   },
-  "tags": {
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/tileable/"
+  ],
   "title": "Modular, tileable defense wall",
   "favorites": {
     "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,

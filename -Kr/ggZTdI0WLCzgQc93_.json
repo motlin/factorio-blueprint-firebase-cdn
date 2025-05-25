@@ -17,13 +17,13 @@
     "width": 1402
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Charlemagne's%20TrainBotSmelter.PNG?alt=media&token=f5ee6106-069b-415f-89f8-14869c1f2be0",
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/production/logistic (bot) based/",
-    "1": "/production/smelting/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "PggW5XEILMNmeAoNMVIB7slcHyl2": true,
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true

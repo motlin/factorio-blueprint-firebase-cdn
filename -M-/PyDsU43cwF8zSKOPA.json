@@ -14,13 +14,13 @@
     "userId": "YoKyEyYV12VwWZZB4UQx6csnKIR2"
   },
   "descriptionMarkdown": "Big Mama: 2x5 Idiot-Proof Smart Reactor con modulo de control anticristo\n\nhttps://factorioprints.com/view/-M-0y84NxWQrxY5F7Tpp\n\n",
-  "tags": {
-    "2": "/circuit/counter/",
-    "3": "/circuit/indicator/",
-    "4": "/mods/vanilla/",
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/version/0,17/"
+  ],
   "title": " Big Mama: 2x5 Smart Reactor con modulo de control anticristo",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

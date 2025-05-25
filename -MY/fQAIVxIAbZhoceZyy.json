@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1618857473388,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/version/0,15/"
+  ],
   "title": "Item Counter / Clock with Display (compact version)",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

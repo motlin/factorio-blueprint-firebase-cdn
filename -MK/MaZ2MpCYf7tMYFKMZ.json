@@ -374,9 +374,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20mall-1.18.2.png?alt=media&token=37db176f-42de-4ecd-bddf-58d406928ff1",
   "lastUpdatedDate": 1714156204720,
   "numberOfFavorites": 230,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Modular mall"
 }

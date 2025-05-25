@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/XgoZ6Ge",
   "lastUpdatedDate": 1738933874853,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/other/",
-    "2": "/mods/vanilla/",
-    "3": "/circuit/indicator/",
-    "4": "/circuit/counter/",
-    "5": "/general/storage/",
-    "6": "/version/2,0/",
-    "7": "/version/0,15/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/other/",
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/general/storage/",
+    "/version/2,0/",
+    "/version/0,15/"
+  ],
   "title": "Digital 7-segment vanilla display"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/LH1XlBF",
   "lastUpdatedDate": 1735574005109,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Planner Book (Upgrade and Deconstruction)",
   "favorites": {
     "5ZLs84NU6icyLFxLVkCgjV3iBCN2": true,

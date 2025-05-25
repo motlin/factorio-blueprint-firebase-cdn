@@ -75,9 +75,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ska%CC%88rmavbild%202023-12-05%20kl.%2010.56.42.png?alt=media&token=84552f8d-90a5-49ce-95ef-ad47d7bc82db",
   "lastUpdatedDate": 1701771551264,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Miner and smelter book"
 }

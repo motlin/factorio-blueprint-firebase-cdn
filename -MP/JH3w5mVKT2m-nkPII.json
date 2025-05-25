@@ -14,10 +14,10 @@
     "userId": "u4pPkwk8n1T1XPSygNGS5tpkLTr1"
   },
   "descriptionMarkdown": "System powiadomień oparty o ciąg geometryczny 2^n",
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Bitowy system alarmów",
   "authorId": "u4pPkwk8n1T1XPSygNGS5tpkLTr1"
 }

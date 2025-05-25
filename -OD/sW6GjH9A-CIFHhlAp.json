@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/fqS4IJ7",
   "lastUpdatedDate": 1733967678435,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "2,8 GW Reactor with automation for solar and offline time",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

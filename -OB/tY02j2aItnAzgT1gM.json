@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/6yOw2R9",
   "lastUpdatedDate": 1731837301098,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Request Single"
 }

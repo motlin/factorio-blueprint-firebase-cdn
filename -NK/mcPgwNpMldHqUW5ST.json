@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701666113897,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "160MW 2-Core Nuclear Reactor",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/163MW.png?alt=media&token=876467b8-f015-479b-a50d-2ca68ba941d8",
   "favorites": {

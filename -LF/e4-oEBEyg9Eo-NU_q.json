@@ -16,10 +16,10 @@
   "descriptionMarkdown": "Startup factory bee-lining to building more train based factories. and outpost mines.\nAlso has early construction bots but they can cleanly be ripped out (assembler line on the far left).\n\n0.17",
   "fileName": "rail start draft 1.PNG",
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "cfcjNxozIlYgv1RF6fTDKQsA6dE3": true,

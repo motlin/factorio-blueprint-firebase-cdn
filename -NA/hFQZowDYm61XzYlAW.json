@@ -25,13 +25,13 @@
   },
   "lastUpdatedDate": 1690829019085,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/train/junction/",
-    "2": "/mods/ltn/",
-    "3": "/power/nuclear/",
-    "4": "/production/uranium/",
-    "5": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/train/junction/",
+    "/mods/ltn/",
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/production/oil processing/"
+  ],
   "title": "City Block"
 }

@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/eWlSStU",
   "lastUpdatedDate": 1734663834080,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/belt based/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/belt based/",
+    "/general/compact/"
+  ],
   "title": "Cactus's Space Age Starter"
 }

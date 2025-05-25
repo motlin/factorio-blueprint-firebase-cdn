@@ -47,16 +47,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_20210209234542_1.jpg?alt=media&token=bd4b8cec-4069-487e-9005-01ada1033983",
   "lastUpdatedDate": 1667836100629,
   "numberOfFavorites": 29,
-  "tags": {
-    "2": "/general/mid game/",
-    "3": "/version/1,0/",
-    "4": "/production/smelting/",
-    "5": "/production/science/",
-    "7": "/production/oil processing/",
-    "0": "/mods/vanilla/",
-    "1": "/general/early game/",
-    "6": "/belt/transport belt (yellow)/",
-    "8": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/version/1,0/",
+    "/production/smelting/",
+    "/production/science/",
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/",
+    "/production/research (labs)/"
+  ],
   "title": "NRC's Handy science [Ver 1.1.21]"
 }

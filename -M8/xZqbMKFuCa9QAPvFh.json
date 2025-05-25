@@ -7,11 +7,11 @@
     "width": 616
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "D-flip flop (with ~0.4 Hertz clock)",
   "author": {
     "userId": "Q8f67CGYXVSaMJ8TPKBmyy9mvXP2"

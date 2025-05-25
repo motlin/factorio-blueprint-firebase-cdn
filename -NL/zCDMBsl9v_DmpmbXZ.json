@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674808113108,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "Tileable Kovarex Enrichment Process",
   "favorites": {
     "gH7hJZRCfccwrtZ9tmxBPY3z5Ax1": true

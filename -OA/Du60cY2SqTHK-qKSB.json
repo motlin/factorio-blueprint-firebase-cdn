@@ -33,10 +33,10 @@
   "imageUrl": "https://imgur.com/rBk8brI",
   "lastUpdatedDate": 1730048193100,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "SPACE AGE Platform for aquilo"
 }

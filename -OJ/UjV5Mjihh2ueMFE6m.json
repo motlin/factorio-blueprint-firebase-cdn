@@ -28,13 +28,13 @@
   "imageUrl": "https://imgur.com/3ynoWed",
   "lastUpdatedDate": 1742151224981,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/tileable/",
-    "4": "/general/beaconized/",
-    "5": "/mods/space-age/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/mods/space-age/"
+  ],
   "title": "Cedric Space Age YT Allerlei 1.3"
 }

@@ -40,10 +40,10 @@
   },
   "lastUpdatedDate": 1651428288387,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "No Spoon in a Box"
 }

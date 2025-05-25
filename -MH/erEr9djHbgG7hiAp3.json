@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1629585823102,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/version/1,0/"
+  ],
   "title": "Self resetting 1 minute timer / 1 Minute Clock!",
   "favorites": {
     "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true,

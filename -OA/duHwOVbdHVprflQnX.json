@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/QocGrl1",
   "lastUpdatedDate": 1730501226322,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Circuits",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

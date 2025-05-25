@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/HExZMOL",
   "lastUpdatedDate": 1746302779665,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Small Science Ship",
   "favorites": {
     "ilwo3yiqoweNQCMHzk3CQqMpuzh1": true,

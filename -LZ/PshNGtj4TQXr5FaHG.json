@@ -12,12 +12,12 @@
   },
   "lastUpdatedDate": 1551961828599,
   "numberOfFavorites": 3,
-  "tags": {
-    "3": "/production/rocket parts/",
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Balanced Rocket Launcher",
   "createdDate": 1550934267508,
   "descriptionMarkdown": "**INCOMPATIBLE WITH FACTORIO 0.17**\n\nThis gets over the problem of having to wait 40 seconds for the launch animation to complete before the silo is ready to start building the next rocket. It does this by 'flip-flopping' which silo will receive a satellite and rocket parts, with only 1 silo active at once.\n\n**HOW IT WORKS**\n\nThe satellite maker creates a satellite which is taken alternately to the left silo then the right silo. The requester chests for the parts switch on for the same side as the satellite is.\n\nThere is only ever 1 satellite waiting. As soon as 1 rocket launches, the satellite is released from the maker and sent to the other silo which then starts requesting rocket parts.\n\nIn a creative mode 'laboratory' with all rocket parts infinitely available, you can achieve a rocket launch every 33ish seconds.\n\nI thought I'd release this just before 0.17 when the rocket silo is changing size to be a perfect square.\n\n**BEWARE**\n\nThis will completely break if you accidentally remove any power pole or substation. Apart from the outer substations, every electricity carrier has at least one coloured wire connected to it carrying instructions to the requester and buffer chests from the combinators.",

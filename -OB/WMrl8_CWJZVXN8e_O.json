@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/JvQbQgu",
   "lastUpdatedDate": 1731431726312,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/power/accumulator/"
+  ],
   "title": "Fulgora Accumulator block, no mods, game version 2.0",
   "favorites": {
     "xMUFINAX04XiVyHcTOFAdyrDlUt1": true,

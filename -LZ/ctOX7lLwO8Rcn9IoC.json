@@ -5,15 +5,15 @@
   "createdDate": 1551169329329,
   "descriptionMarkdown": "Consumes 45 MW solo, 160 MW for four",
   "lastUpdatedDate": 1687216317638,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/version/1,1/",
-    "5": "/general/tileable/",
-    "6": "/production/belt based/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/general/tileable/",
+    "/production/belt based/"
+  ],
   "title": "Advanced Circuits - 600 / min",
   "favorites": {
     "49IFuM9cmjPgN9PNHtlfO3wr3NQ2": true,

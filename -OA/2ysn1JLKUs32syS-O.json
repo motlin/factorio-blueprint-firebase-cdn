@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/IeOAWRR",
   "lastUpdatedDate": 1730452752299,
   "numberOfFavorites": 33,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/",
-    "3": "/production/robots/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/production/robots/"
+  ],
   "title": "Cactus's Mega Mall (Edited by DragonTom factorio v2.0 for Space Age)",
   "favorites": {
     "N9N2cY5oVqY0apy4LprpAxs5AQr2": true,

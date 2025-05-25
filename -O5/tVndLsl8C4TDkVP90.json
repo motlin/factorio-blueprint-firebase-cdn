@@ -53,10 +53,10 @@
   "imageUrl": "https://imgur.com/hFanAIo",
   "lastUpdatedDate": 1725394270992,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/production/oil processing/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/production/oil processing/",
+    "/production/smelting/"
+  ],
   "title": "The Smelting & Refining Book"
 }

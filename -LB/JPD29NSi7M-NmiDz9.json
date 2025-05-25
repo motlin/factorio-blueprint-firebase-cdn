@@ -12,13 +12,13 @@
   "descriptionMarkdown": "#### Shows the percentage of how many start items you have in your logistics network.\n\n* 10 lamps for every 10 percent\n\n#### 100% show when one chest is full (Stack size counted). for example:\n* 4800 iron = 100%.\n* 2400 manipulators = 100%.\n\nThis is my first blueprint, thanks for watching\n\n",
   "fileName": "sadfhiawebfj.png",
   "lastUpdatedDate": 1554046837189,
-  "tags": {
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/version/0,16/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "TU9BviyRL8gojhothrvdE1eHfyo1"
   },

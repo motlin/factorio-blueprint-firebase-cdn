@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1704576402312,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "Automatic Outpost Train Station",
   "favorites": {
     "yRe0lTpK3JgK0zY39Rb5Ox1HWqB2": true,

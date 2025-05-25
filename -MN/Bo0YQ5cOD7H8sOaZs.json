@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1606532733782,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/version/1,0/",
-    "2": "/power/nuclear/",
-    "3": "/production/uranium/",
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/mods/bobs/"
+  ],
   "title": "14.5GW Nuclear Reactor Bob's Power"
 }

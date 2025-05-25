@@ -14,11 +14,11 @@
   "createdDate": 1551639325442,
   "fileName": "20190709165747_1.jpg",
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/early game/"
+  ],
   "title": "Masaci's Start Base",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20190709165747_1.jpg?alt=media&token=e110ef32-367b-447b-8fda-e49ef496ab58",
   "author": {

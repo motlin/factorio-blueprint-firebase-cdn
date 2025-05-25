@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/qOjHAwC",
   "lastUpdatedDate": 1737944144141,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Simple Gelba Farm ",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

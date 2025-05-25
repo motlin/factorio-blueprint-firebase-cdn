@@ -3,15 +3,15 @@
   "descriptionMarkdown": "The top will output **24 full, blue belts** to one side (with the help of bots). To see how, watch https://wiki.factorio.com/images/RoboTrainStation.gif\n\nThe bottom will output **12 full, blue belts**, one for each splitter (if you prefer to not use bots).\n\nThe requester chests in the top blueprint will automatically request whatever item is dumped in the provider chests (because of the red wire).\n\nI think the minimum number of bots for the top blueprint is 300 for each station.\n\nI modified this https://wiki.factorio.com/index.php?title=File:RoboTrainStation.gif",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/cwacwq.PNG?alt=media&token=742cdc52-117e-4888-92e8-4bbdde91467f",
   "numberOfFavorites": 57,
-  "tags": {
-    "2": "/train/unloading station/",
-    "3": "/train/loading station/",
-    "4": "/train/track/",
-    "5": "/version/0,16/",
-    "6": "/mods/vanilla/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/train/track/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/"
+  ],
   "author": {
     "userId": "lEPYdC58rvhWCgVGvgeoUBREKXf2"
   },

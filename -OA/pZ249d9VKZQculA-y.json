@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/qCjGozm",
   "lastUpdatedDate": 1730696721134,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/planets/fulgora/"
+  ],
   "title": "max throughput scrap recyling",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

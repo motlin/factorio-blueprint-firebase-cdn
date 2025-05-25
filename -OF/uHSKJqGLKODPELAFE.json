@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/CNzPVkG",
   "lastUpdatedDate": 1736623940681,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Supply/Personal Logistics Train",
   "favorites": {
     "ZNkQtueHLZW8a72pFLP0xL1XpTh2": true,

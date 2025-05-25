@@ -1,13 +1,13 @@
 {
   "descriptionMarkdown": "Tilleable auto-replacing and repairing Spiked wall with 4-spaced Laser turrets and Flamethrowers with double Dragon-teeth layout, 3-layer minefield and roboports.",
-  "tags": {
-    "1": "/general/mid game/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/version/1,0/",
-    "4": "/production/guns and ammo/",
-    "5": "/mods/other/",
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/logistic (bot) based/",
+    "/version/1,0/",
+    "/production/guns and ammo/",
+    "/mods/other/",
+    "/mods/krastorio/"
+  ],
   "title": "K2 Tilleable Laser+Flame+Mines+Dragon Teeth Defense",
   "image": {
     "id": "Uax8gJZ",

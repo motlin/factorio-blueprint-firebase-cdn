@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1655068077440,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/angels/",
-    "2": "/production/other/",
-    "3": "/production/mining/",
-    "4": "/mods/seablock/",
-    "5": "/general/tileable/",
-    "6": "/mods/bobs/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/angels/",
+    "/production/other/",
+    "/production/mining/",
+    "/mods/seablock/",
+    "/general/tileable/",
+    "/mods/bobs/"
+  ],
   "title": "[Seablock] Tileable 3/s Ore Early Game",
   "favorites": {
     "3uXmhXaifFTr6LiEUsahOoO0EEa2": true,

@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1559350530310,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "fdk9BIT9M9V5BTFzaoMIlKtTtmE2": true,
     "vq5lrurWz4c8hjlny9QynrfTXmr1": true

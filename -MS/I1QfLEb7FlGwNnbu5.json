@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1612005882810,
   "numberOfFavorites": 1,
-  "tags": {
-    "4": "/power/steam/",
-    "0": "/production/science/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/production/research (labs)/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/production/science/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/production/research (labs)/"
+  ],
   "title": "19 SPM early mid science"
 }

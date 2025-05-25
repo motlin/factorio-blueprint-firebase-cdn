@@ -7,11 +7,11 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/production/research (labs)/"
+  ],
   "title": "inline Science setup",
   "favorites": {
     "4r6s5gcg0ySAAGBwQZXwSwvP6oR2": true,

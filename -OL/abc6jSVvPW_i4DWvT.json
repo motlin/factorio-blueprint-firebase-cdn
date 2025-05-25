@@ -13,13 +13,13 @@
   "imageUrl": "https://i.imgur.com/w55BqJm.jpeg",
   "lastUpdatedDate": 1742261059261,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/space-age/",
-    "2": "/general/tileable/",
-    "3": "/planets/vulcanus/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/space-age/",
+    "/general/tileable/",
+    "/planets/vulcanus/",
+    "/version/2,0/"
+  ],
   "title": "Tileable rocket part supply setup.",
   "favorites": {
     "vtDxxoaYllMTGsFeZY4eALDMmDB2": true,

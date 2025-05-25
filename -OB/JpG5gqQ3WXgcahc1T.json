@@ -38,12 +38,12 @@
   "imageUrl": "https://imgur.com/dlSpOpG",
   "lastUpdatedDate": 1731506808370,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/crossing/",
-    "4": "/mods/elevated-rails/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/",
+    "/mods/elevated-rails/"
+  ],
   "title": "Factorio Logistic Train System by Kotbuz"
 }

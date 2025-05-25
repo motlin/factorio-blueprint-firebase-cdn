@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1670596654824,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para processamento de naquium"
 }

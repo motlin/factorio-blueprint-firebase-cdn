@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1638762133121,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/seablock/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/seablock/",
+    "/general/early game/"
+  ],
   "title": "seablock early-mall"
 }

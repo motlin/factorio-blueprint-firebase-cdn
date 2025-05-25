@@ -1,13 +1,13 @@
 {
   "descriptionMarkdown": "Modular factory for Science Pack 3 production. (planned for survival)\n\nCan produce 45/min per module.\n\nInput:\n\n- Iron Plate\n- Cooper Plate\n- Steel Plate\n- Coal\n- Petroleum\n",
   "numberOfFavorites": 24,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/science/"
+  ],
   "authorId": "hGpy2kvdaVPCfljmIAGZun3JrrN2",
   "createdDate": 1527114035732,
   "fileName": "SP3.jpg",

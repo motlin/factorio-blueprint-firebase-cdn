@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/gv3ptaI.png",
   "lastUpdatedDate": 1737504684254,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/science/"
+  ],
   "title": "Gleba Science",
   "favorites": {
     "lgxwQedwX6fXnAOiIwUKTVTyYYB2": true,

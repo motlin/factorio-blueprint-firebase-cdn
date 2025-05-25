@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/vr4xrfy",
   "lastUpdatedDate": 1730598037317,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/steam/"
+  ],
   "title": "Steam Turbine Creator"
 }

@@ -6,12 +6,12 @@
     "width": 1920
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/circuit/indicator/",
-    "2": "/version/0,17/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/circuit/indicator/",
+    "/version/0,17/",
+    "/belt/express transport belt (blue)/"
+  ],
   "author": {
     "userId": "cpU5IbRZcIXLjizTof662wuNixJ3"
   },

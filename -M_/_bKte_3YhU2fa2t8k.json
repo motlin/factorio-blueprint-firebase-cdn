@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1620907482933,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/crossing/",
-    "2": "/train/roundabout/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/junction/"
+  ],
   "title": "Train Blueprints",
   "favorites": {
     "VM0vXNCq5RXsU14YfU1TXZCQGPK2": true,

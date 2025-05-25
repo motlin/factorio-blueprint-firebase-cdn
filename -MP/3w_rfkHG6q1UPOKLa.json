@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1637584142430,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/crossing/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Fast Train Intersection",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/intersection2.jpg?alt=media&token=e28ba823-9739-4b5d-9483-b63194699c36",
   "favorites": {

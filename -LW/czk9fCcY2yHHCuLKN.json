@@ -28,15 +28,15 @@
     "height": 979
   },
   "lastUpdatedDate": 1549044387354,
-  "tags": {
-    "4": "/version/0,15/",
-    "5": "/version/0,16/",
-    "6": "/production/belt based/",
-    "0": "/production/research (labs)/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/production/belt based/",
+    "/production/research (labs)/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "authorId": "KHiVNgd8hhOuc9SwS2OqGYE00JA3",
   "descriptionMarkdown": "Can potentially utilize full belt of each science pack type (**800** science pack per minute with ~115 labs).\n\n**Links:**\n\n* [Less compact version of this blueprint](https://factorioprints.com/view/-LWdWVbzh5dpbR9ds8VX)",
   "fileName": "2019-01-20_4-43-42.jpg",

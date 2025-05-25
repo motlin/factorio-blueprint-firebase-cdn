@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1656583120415,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/mid game/"
+  ],
   "title": "Self-assembled outpost and walls"
 }

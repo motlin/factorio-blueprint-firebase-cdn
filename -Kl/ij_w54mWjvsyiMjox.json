@@ -3,11 +3,11 @@
   "createdDate": 1496506589038,
   "descriptionMarkdown": "Large interchange/balancer for 10-lane highway with 5 input and 5 output belts on all 4 sides. Each input belt is split between each of the 4 corresponding output belts equally. Also includes interchange of 4 fluid lines. My first real infrastructure design for highway system with input or output/usage at any point in the network.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/HighwayInterchange.PNG?alt=media&token=ab806b46-0633-49f3-b112-1c5093358f68",
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "10 Belt, 4 pipe Highway Interchange",
   "author": {
     "userId": "eLoiQYDf5pPwzUQBxj1uGLwGgJU2"

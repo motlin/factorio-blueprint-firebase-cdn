@@ -16,10 +16,10 @@
   "lastUpdatedDate": 1679139927598,
   "numberOfFavorites": 1,
   "title": "T junction 4-lane RHD",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "favorites": {
     "mgraluTq2MX15wqUKCpG1qJLq6v1": true,
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

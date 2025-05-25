@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1699554323060,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Simple kovarex enrichment (no bots, no circuits, no dedicated lanes)",
   "favorites": {
     "VPHmov95BDgeNTAtruq8HUqHP9H2": true

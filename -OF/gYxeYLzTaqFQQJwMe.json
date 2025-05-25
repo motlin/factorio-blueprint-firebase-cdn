@@ -31,10 +31,10 @@
   "imageUrl": "https://imgur.com/hUxVyBF",
   "lastUpdatedDate": 1735914413492,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/quality/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/quality/",
+    "/version/2,0/"
+  ],
   "title": "Space Platform, Legendary iron plates, copper plates, coal, sulfur"
 }

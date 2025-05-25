@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/MM8LhIp",
   "lastUpdatedDate": 1730032273384,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "AutoRail Availability Encoders"
 }

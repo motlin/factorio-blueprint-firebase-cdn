@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/JjjTolw",
   "lastUpdatedDate": 1730845892780,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "SMLT System 2x30",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

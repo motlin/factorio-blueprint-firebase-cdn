@@ -7,13 +7,13 @@
     "height": 1080
   },
   "lastUpdatedDate": 1554329329067,
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "TU9BviyRL8gojhothrvdE1eHfyo1"
   },

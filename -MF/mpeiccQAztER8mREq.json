@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627571794303,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Fabrica espacial de cartões avançados de K2"
 }

@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1673012196697,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/krastorio/",
-    "2": "/general/mid game/",
-    "3": "/mods/other/",
-    "4": "/version/1,1/",
-    "5": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/krastorio/",
+    "/general/mid game/",
+    "/mods/other/",
+    "/version/1,1/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration (+K2) Automated Cargo Rocket silo",
   "favorites": {
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,

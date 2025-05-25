@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/mP9dQwE",
   "lastUpdatedDate": 1742678277892,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/"
+  ],
   "title": "Pacotes de ciências: verde cinza e azul",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

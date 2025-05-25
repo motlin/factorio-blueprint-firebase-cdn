@@ -2,11 +2,11 @@
   "descriptionMarkdown": "Please, offer any improvements upon space efficiency which can be made. Thanks.",
   "fileName": "99_57.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/mining/",
-    "2": "/production/robots/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/mining/",
+    "/production/robots/"
+  ],
   "title": "99.57% Space-Efficient (83.52% by rectangular area) Tileable Mining Setup",
   "author": {
     "userId": "EFdZ7eoV9AaLa3BpErrOVuxNgFV2"

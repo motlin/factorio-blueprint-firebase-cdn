@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Intersections and track elements geared for 1-4 left-hand drive",
   "favorites": {
     "saXOXylMguO0bjd6tsIM4i6kAtY2": true,

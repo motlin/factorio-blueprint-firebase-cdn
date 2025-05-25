@@ -89,14 +89,14 @@
   },
   "lastUpdatedDate": 1619079132956,
   "numberOfFavorites": 49,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/power/nuclear/",
-    "4": "/general/beaconized/",
-    "5": "/mods/other/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Blocks by Dwiz 2.0"
 }

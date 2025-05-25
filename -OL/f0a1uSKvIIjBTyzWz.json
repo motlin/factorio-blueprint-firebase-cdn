@@ -17,11 +17,11 @@
   "imageUrl": "https://imgur.com/JMZGahk",
   "lastUpdatedDate": 1742391321527,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/nauvis/",
-    "1": "/planets/gleba/",
-    "2": "/planets/fulgora/",
-    "3": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/"
+  ],
   "title": "First 4 planet cruiser"
 }

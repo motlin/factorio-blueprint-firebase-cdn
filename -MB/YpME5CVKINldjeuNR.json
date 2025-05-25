@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1623025545780,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para refinaria (média)"
 }

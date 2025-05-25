@@ -22,9 +22,9 @@
     "bDJMmaOFWifCciP1nFzKHWhjDIb2": true,
     "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/0,17/",
-    "2": "/version/1,0/"
-  }
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/0,17/",
+    "/version/1,0/"
+  ]
 }

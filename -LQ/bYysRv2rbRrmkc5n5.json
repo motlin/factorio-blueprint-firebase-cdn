@@ -4,11 +4,11 @@
   "createdDate": 1541483261684,
   "title": "1-Lane Balancer Compact",
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/balancer/"
+  ],
   "author": {
     "userId": "aTTReojq1gNJW72qypfB9aKLhLk1"
   },

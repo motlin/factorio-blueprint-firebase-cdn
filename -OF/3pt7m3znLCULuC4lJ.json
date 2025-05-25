@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5KXpNce",
   "lastUpdatedDate": 1735248024188,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Smelter that ignores Quality",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true

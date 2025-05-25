@@ -17,11 +17,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Koverex%20x%2010.png?alt=media&token=8e765b8e-5799-4b67-95cc-33f55d40886f",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true
   }

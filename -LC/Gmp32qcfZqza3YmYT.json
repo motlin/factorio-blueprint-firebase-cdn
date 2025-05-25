@@ -21,8 +21,8 @@
   "authorId": "gwKhsvFLfEf6mRjDQWa2B2eyD7q1",
   "descriptionMarkdown": "big factory artillery shells",
   "fileName": "factorio-0.png",
-  "tags": {
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/"
+  ],
   "title": "Mega Base artillery shells factory"
 }

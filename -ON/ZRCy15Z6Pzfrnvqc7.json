@@ -37,10 +37,10 @@
   "imageUrl": "https://imgur.com/MLWbljo",
   "lastUpdatedDate": 1744368100563,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/mods/space-age/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/mods/space-age/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Worph Modular Space Age Base V2025"
 }

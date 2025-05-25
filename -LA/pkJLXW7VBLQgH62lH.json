@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1524541507074,
   "numberOfFavorites": 10,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/circuit/indicator/"
+  ],
   "title": "Text Display Book"
 }

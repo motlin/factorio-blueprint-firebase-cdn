@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1642799193917,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "Combinator Help - Even Distribution of Trains and Priority Levels on Stations"
 }

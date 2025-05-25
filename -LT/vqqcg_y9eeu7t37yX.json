@@ -12,9 +12,9 @@
   "createdDate": 1574036007604,
   "descriptionMarkdown": "No changes needed. Just works out of the box. \nHaven't set it up a clock speed adjuster. Not too hard to impliment, just not too bothered to make one.\n\nMerry Christmas :)",
   "fileName": "santa.png",
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "title": "Santa and Riendeer Christmas decoration",
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

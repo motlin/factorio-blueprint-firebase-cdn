@@ -150,9 +150,9 @@
   },
   "lastUpdatedDate": 1673052117838,
   "numberOfFavorites": 97,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Early BP Book"
 }

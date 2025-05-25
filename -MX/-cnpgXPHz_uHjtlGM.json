@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1617065885217,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Beaconized Express Belt Furnace"
 }

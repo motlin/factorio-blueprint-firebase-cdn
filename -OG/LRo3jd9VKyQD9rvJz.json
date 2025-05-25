@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/VEuTtBh",
   "lastUpdatedDate": 1736826107134,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/2,0/"
+  ],
   "title": "Monitor from the map (by: sonny_bonny)",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

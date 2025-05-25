@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "2": "/production/oil processing/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true
   },

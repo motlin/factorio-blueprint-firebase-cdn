@@ -19,11 +19,11 @@
     "width": 954,
     "height": 951
   },
-  "tags": {
-    "4": "/power/accumulator/",
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/power/accumulator/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,15/"
+  ]
 }

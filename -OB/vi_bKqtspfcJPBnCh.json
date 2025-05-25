@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/kFZL35V",
   "lastUpdatedDate": 1732182892936,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/production/guns and ammo/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/production/guns and ammo/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Trash Can Starter Ship",
   "favorites": {
     "S1iveJ05zhTb6I8vly0Ow9OJWdw1": true,

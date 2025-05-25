@@ -4,13 +4,13 @@
   "fileName": "Screenshot from 2019-03-18 15-31-47.png",
   "lastUpdatedDate": 1552937635597,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "bSWYbp71MqbdSspZoVcGK8AXBlq1"
   },

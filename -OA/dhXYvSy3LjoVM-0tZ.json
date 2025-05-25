@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/v889sFJ",
   "lastUpdatedDate": 1730497882572,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Neat blue science space platform",
   "favorites": {
     "EmLs4bLrUFVIx7oIA3CYPreKiwo1": true,

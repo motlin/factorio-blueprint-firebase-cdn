@@ -23,10 +23,10 @@
   "authorId": "FUPNuTqREVUgdpLgGwKtyYv3iKH2",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Unbenannt.PNG?alt=media&token=0d89b416-7d30-4abb-bbe5-fa11fbd21162",
   "numberOfFavorites": 28,
-  "tags": {
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/",
-    "0": "/train/roundabout/"
-  }
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/train/roundabout/"
+  ]
 }

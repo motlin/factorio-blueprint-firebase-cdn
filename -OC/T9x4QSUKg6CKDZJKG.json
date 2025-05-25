@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Xq9kMjJ",
   "lastUpdatedDate": 1732451750319,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "simple landmine-based aquilo-capable cruiser",
   "favorites": {
     "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true

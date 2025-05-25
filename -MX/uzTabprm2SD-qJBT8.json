@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1618044906476,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Mining Outpost (Laser Defense)",
   "favorites": {
     "N59uu6x3QmVbgjZLdhAOMfsVvxv2": true,

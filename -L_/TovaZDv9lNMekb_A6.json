@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1552075526023,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/angels/",
+    "/mods/bobs/"
+  ],
   "title": "MALL v.1.5"
 }

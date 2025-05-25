@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1568174443973,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "XkrfubvUJthHYkHiJaUaW20tiu33"
   },

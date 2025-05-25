@@ -10,9 +10,9 @@
     "id": "AJnFmDs"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "author": {
     "userId": "yWlItYvw8bUlsLnSLX2e4wDfh313"
   },

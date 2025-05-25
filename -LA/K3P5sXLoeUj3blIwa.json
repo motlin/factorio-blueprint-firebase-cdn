@@ -16,10 +16,10 @@
     "Bn5aFYjBH5U9RU5kGHbTgddEwWt1": true
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "1": "/version/0,17/",
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "ck8PAy4fxCNbwp5s4oHBlyOxGFH3"
   },

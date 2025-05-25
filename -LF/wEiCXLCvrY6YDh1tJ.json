@@ -11,11 +11,11 @@
   },
   "lastUpdatedDate": 1530019111906,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Landing lights for an helicopter pad",
   "favorites": {
     "mRTXFLzyDeaI6ieCDhI0IDzcKCD3": true

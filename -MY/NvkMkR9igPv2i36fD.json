@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1618547246641,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/production/guns and ammo/"
+  ],
   "title": "Chunk-sized Tileable Artillery Shells",
   "favorites": {
     "vZNkkiR0STQimU64tWO1t2Om7No2": true,

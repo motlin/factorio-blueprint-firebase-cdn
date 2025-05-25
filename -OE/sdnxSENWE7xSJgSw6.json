@@ -54,8 +54,8 @@
   "imageUrl": "https://imgur.com/NY1z9a0",
   "lastUpdatedDate": 1736108855348,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Legendary ships"
 }

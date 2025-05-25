@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1534454683933,
   "numberOfFavorites": 10,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Noob Super Refinary"
 }

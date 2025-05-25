@@ -13,8 +13,8 @@
   "imageUrl": "https://i.imgur.com/8rlpH1v.png",
   "lastUpdatedDate": 1745234960112,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Needler Starter Ship"
 }

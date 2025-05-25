@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/8QVuOXZ",
   "lastUpdatedDate": 1717525668510,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/train/track/",
+    "/mods/other/"
+  ],
   "title": "Many things"
 }

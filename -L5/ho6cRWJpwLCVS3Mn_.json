@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1519039577086,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "NASA Rocket Facility"
 }

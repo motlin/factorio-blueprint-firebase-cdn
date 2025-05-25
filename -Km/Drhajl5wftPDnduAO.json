@@ -8,12 +8,12 @@
     "width": 907
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/level-crossing.jpg?alt=media&token=37a67494-e59a-4a1b-a203-213a31f7830b",
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/left-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Grid rails level crossing",
   "favorites": {
     "BCP7b96FkpgnwIwMM0yXyGckcYZ2": true,

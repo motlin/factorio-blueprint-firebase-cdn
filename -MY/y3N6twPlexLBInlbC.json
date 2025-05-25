@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1648161438772,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/train/track/"
+  ],
   "title": "hexagon with solar",
   "favorites": {
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,

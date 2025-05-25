@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1623084536417,
   "numberOfFavorites": -1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "Example Sushi Logic"
 }

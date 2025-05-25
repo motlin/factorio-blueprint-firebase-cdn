@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1628618701393,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/seablock/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/seablock/"
+  ],
   "title": "Alien Plant Life Sample Farm [Seablock]",
   "favorites": {
     "ukhnjD4Ms9RKJheRaJ8zi6Y9jQG3": true,

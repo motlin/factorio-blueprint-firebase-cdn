@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1706543859177,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,1/",
-    "4": "/production/coal liquification/",
-    "5": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,1/",
+    "/production/coal liquification/",
+    "/production/oil processing/"
+  ],
   "title": "Rocket Fuel from Coal",
   "favorites": {
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,

@@ -27,9 +27,9 @@
   },
   "lastUpdatedDate": 1573496730876,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/mining/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/mining/"
+  ],
   "title": "Mining/Smelting Outpost - Copper"
 }

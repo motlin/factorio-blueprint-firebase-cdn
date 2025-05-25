@@ -44,11 +44,11 @@
   },
   "lastUpdatedDate": 1554262086367,
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "Late game green circuit factory"
 }

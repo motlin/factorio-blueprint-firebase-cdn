@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/bai863F.png",
   "lastUpdatedDate": 1737511341305,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Rocket space delivery",
   "favorites": {
     "LgX6QNBJxxRlGzov5f7nShSE6ir2": true,

@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1589246089183,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Modular mall"
 }

@@ -42,11 +42,11 @@
   },
   "lastUpdatedDate": 1555446190128,
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/ltn/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/ltn/",
+    "/version/0,17/"
+  ],
   "title": "LTN - Advanced Circuit outpost"
 }

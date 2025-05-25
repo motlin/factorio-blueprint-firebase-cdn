@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/eguqTzg.png",
   "lastUpdatedDate": 1738860405732,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "1.4 GW Effective Fusion Power Plant",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

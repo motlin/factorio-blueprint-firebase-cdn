@@ -10,11 +10,11 @@
     "id": "0gtEfW4"
   },
   "numberOfFavorites": 25,
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Large Concrete Factory",
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"

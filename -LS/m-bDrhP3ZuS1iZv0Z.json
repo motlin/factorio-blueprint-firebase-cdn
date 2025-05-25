@@ -67,12 +67,12 @@
   },
   "lastUpdatedDate": 1572797052303,
   "numberOfFavorites": 46,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/mid game/",
-    "3": "/general/tileable/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/late game (megabase)/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/other/"
+  ],
   "title": "Modular perimeter defense wall"
 }

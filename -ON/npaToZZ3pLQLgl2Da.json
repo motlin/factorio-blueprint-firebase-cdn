@@ -13,15 +13,15 @@
   "imageUrl": "https://i.imgur.com/5ubzLkt.png",
   "lastUpdatedDate": 1744627698050,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/compact/",
-    "4": "/mods/space-exploration/",
-    "5": "/production/belt based/",
-    "6": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/mods/space-exploration/",
+    "/production/belt based/",
+    "/version/2,0/"
+  ],
   "title": "Bacteria from bioflux by Fenteles",
   "favorites": {
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,

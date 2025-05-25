@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1659059042665,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/version/1,0/"
+  ],
   "title": "3-8 train railway "
 }

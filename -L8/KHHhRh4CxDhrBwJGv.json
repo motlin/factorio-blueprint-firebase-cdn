@@ -4,11 +4,11 @@
   "createdDate": 1521849281585,
   "fileName": "1kRedScience.png",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "518vGMCd1QWXPpwUy1texLuud2n1"
   },

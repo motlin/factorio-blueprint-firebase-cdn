@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1616601217584,
   "numberOfFavorites": 3,
-  "tags": {
-    "3": "/version/1,0/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "2x4 nuclear power plant (1.12 GW) / City Block"
 }

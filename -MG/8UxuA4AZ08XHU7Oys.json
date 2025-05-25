@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1627951980251,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable, self-contained factory for making Module 3's",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

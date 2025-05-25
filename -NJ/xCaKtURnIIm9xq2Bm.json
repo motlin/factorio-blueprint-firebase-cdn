@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1671769253411,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/1,1/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/version/1,1/"
+  ],
   "title": "beaconed labs consuming exactly a full blue belt of each science"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1588221354613,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/research (labs)/",
-    "2": "/power/steam/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/research (labs)/",
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "title": "Railworld Blueprints #1"
 }

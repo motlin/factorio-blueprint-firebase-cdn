@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "NQ0ptS902JTqio7KtkgqitlERgh2"
   },

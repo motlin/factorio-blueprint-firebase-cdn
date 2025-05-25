@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1582673672403,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/production/science/",
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/",
-    "5": "/train/right-hand-drive/",
-    "0": "/version/0,18/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/train/right-hand-drive/",
+    "/version/0,18/",
+    "/mods/vanilla/"
+  ],
   "title": "Chemical (Blue) Science - 2.8k/m - Trains + Belts"
 }

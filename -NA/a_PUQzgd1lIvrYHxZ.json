@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1690719626598,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/ltn/",
-    "2": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/ltn/",
+    "/mods/aai/"
+  ],
   "title": "Depot Book"
 }

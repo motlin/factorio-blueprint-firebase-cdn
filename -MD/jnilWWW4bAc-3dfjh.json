@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1625373470373,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/processing unit (blue)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Mega Blue Circuits, 2 input, 1 output"
 }

@@ -11,11 +11,11 @@
     "type": "image/jpeg",
     "width": 1322
   },
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/circuit/counter/"
+  ],
   "author": {
     "userId": "rv1Cfd6nHDRpsRF0OfJWAO9T4hM2"
   },

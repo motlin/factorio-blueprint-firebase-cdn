@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1654222976750,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 Jumpstart Base",
   "favorites": {
     "RNfSAsDCbShWqzBFj3J4jCm0Wa62": true,

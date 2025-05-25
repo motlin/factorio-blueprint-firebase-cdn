@@ -11,12 +11,12 @@
     "width": 555
   },
   "lastUpdatedDate": 1524328764877,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "120 Processing-Units per Minute (Blue circuits, Beacon)",
   "author": {
     "userId": "uQLLRBYmRIh381ynEkTHCDysnLu2"

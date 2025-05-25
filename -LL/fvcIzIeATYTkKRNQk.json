@@ -22,14 +22,14 @@
   },
   "lastUpdatedDate": 1565178946580,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/",
-    "5": "/production/science/",
-    "6": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "Sciences .17"
 }

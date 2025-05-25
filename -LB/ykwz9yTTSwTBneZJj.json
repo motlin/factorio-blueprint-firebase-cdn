@@ -1,13 +1,13 @@
 {
   "lastUpdatedDate": 1554757439596,
   "numberOfFavorites": 7,
-  "tags": {
-    "3": "/production/belt based/",
-    "4": "/version/0,17/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Ore-to-steel (1 blue belt of ore, 13 steel/s)",
   "favorites": {
     "hd2q4QDHOoOmMuc7Sr9iHsPfrD02": true,

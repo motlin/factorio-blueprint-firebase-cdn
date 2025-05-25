@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ZSAJqAj",
   "lastUpdatedDate": 1729955520478,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Factorio 2.0 Pre-bot auto-mall",
   "favorites": {
     "5uS9uacTm0h4TfXJRhXms4rut6S2": true,

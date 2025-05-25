@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1686170467611,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/general/beaconized/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/general/beaconized/",
+    "/mods/space-exploration/"
+  ],
   "title": "SE Vitamelange 45/s "
 }

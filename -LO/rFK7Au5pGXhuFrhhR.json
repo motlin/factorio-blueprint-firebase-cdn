@@ -21,21 +21,21 @@
   },
   "lastUpdatedDate": 1540656535873,
   "numberOfFavorites": 31,
-  "tags": {
-    "11": "/production/plastic/",
-    "0": "/general/early game/",
-    "3": "/power/steam/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "6": "/version/0,16/",
-    "2": "/production/research (labs)/",
-    "7": "/general/compact/",
-    "13": "/power/solar/",
-    "1": "/production/science/",
-    "8": "/production/electronic circuit (green)/",
-    "9": "/production/smelting/",
-    "10": "/production/oil processing/",
-    "12": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/early game/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/production/research (labs)/",
+    "/general/compact/",
+    "/power/solar/",
+    "/production/science/",
+    "/production/electronic circuit (green)/",
+    "/production/smelting/",
+    "/production/oil processing/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Starter Base(Death World)"
 }

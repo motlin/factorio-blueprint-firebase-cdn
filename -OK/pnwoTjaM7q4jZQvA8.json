@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/UxlvGxU",
   "lastUpdatedDate": 1741442782003,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/general/mid game/"
+  ],
   "title": "Space Log Mk.2",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

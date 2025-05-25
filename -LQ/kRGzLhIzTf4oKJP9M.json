@@ -7,12 +7,12 @@
     "width": 910
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "2": "/version/0,16/",
-    "3": "/mods/vanilla/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "author": {
     "userId": "5qrjkEEArcWk81gQ3X9gZbwZb2j1"
   },

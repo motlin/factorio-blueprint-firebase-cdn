@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1677090134526,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "2x2 Nuclear Setup",
   "favorites": {
     "zhFPyvJ9BmWIbdAUXE3zD7ONvCp1": true,

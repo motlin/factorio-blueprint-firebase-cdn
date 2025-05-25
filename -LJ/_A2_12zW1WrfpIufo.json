@@ -15,10 +15,10 @@
   "fileName": "bots fully beaconed, tilable_slide6.png",
   "lastUpdatedDate": 1533926979981,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "authorId": "dRRGpSkUtCZtaIgJ4szthreqEhp2"
 }

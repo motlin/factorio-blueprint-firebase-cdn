@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1557619565966,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/mods/ltn/",
-    "2": "/general/tileable/",
-    "0": "/production/electronic circuit (green)/"
-  }
+  "tags": [
+    "/mods/ltn/",
+    "/general/tileable/",
+    "/production/electronic circuit (green)/"
+  ]
 }

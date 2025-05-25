@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1537847797285,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/general/beaconized/",
-    "3": "/production/modules/",
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/modules/",
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/"
+  ],
   "title": "T3Modules12/Min All 3Types"
 }

@@ -11,11 +11,11 @@
     "type": "image/jpeg",
     "width": 1366
   },
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "plastic bar compact",
   "favorites": {
     "PFSltFZfeSUyighFCrcKp703tsr1": true,

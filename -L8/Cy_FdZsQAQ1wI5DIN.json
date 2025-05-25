@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1521726814680,
   "numberOfFavorites": 2,
-  "tags": {
-    "5": "/version/0,15/",
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/0,16/"
+  ],
   "title": "Factrain v0.4 - Transport tycoon scenario"
 }

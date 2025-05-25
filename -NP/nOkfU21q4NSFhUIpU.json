@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678047120302,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-exploration/"
+  ],
   "title": "Diagonal reactor blueprint",
   "favorites": {
     "clPIPUDST6bu0tk7op5YNCPvIdT2": true

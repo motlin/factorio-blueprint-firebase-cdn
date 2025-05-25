@@ -10,13 +10,13 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1609909830142,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/compact/",
-    "3": "/production/other/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/production/other/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "vZW5cydrWuVX555rv60LXlT3xSl1": true,
     "U8RmUvDmPPS1Dv4RgQ05UmCWnZm1": true,

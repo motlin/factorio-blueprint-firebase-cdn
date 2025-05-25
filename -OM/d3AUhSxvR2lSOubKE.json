@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/AW6AFBA",
   "lastUpdatedDate": 1743383946611,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/gleba/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/planets/space-platform/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba orbital inserter production"
 }

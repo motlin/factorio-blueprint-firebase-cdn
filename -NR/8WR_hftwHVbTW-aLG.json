@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1679493002573,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Safe Train Crossing"
 }

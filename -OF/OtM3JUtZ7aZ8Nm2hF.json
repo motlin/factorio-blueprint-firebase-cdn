@@ -35,17 +35,17 @@
   "imageUrl": "https://imgur.com/oOUWRd5",
   "lastUpdatedDate": 1744715584884,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/general/mid game/",
-    "2": "/general/compact/",
-    "3": "/mods/space-age/",
-    "4": "/mods/quality/",
-    "5": "/planets/fulgora/",
-    "6": "/production/mall (make everything)/",
-    "7": "/production/other/",
-    "8": "/production/scrap processing/",
-    "9": "/version/2,0/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/planets/fulgora/",
+    "/production/mall (make everything)/",
+    "/production/other/",
+    "/production/scrap processing/",
+    "/version/2,0/"
+  ],
   "title": "GSXR - ( EN ) Sorting - Processing - Quality (\"Compact\") / (RU) Сортировка - Обработка - Качество (\"Компкактный\")"
 }

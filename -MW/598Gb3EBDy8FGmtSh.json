@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1616085428959,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "5/m productivity and speed module 3 spilled over a 100x100 box"
 }

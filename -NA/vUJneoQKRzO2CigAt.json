@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1691067761934,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/power/nuclear/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/power/nuclear/",
+    "/power/steam/"
+  ],
   "title": "4.7 GW 32 Reactor"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1660591069428,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Advanced circuit 153/min",
   "favorites": {
     "JUQFEaXh0JYGOUJz4fhu1EDfhn32": true

@@ -8,10 +8,10 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/other/"
+  ],
   "title": "Lumber Mill (Bio Industries )",
   "author": {
     "userId": "gFtyt0JKovbsazTdiRjOeTVslC63"

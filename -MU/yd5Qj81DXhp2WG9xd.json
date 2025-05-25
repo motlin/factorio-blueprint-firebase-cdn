@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1643877069078,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Monster energy",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

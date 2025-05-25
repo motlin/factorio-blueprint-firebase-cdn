@@ -13,9 +13,9 @@
   "createdDate": 1597488323279,
   "descriptionMarkdown": "Concrete factory",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,18/"
-  },
+  "tags": [
+    "/version/0,18/"
+  ],
   "favorites": {
     "yRRWYmFTu1RB25NWs12qdVhw9Gx1": true
   },

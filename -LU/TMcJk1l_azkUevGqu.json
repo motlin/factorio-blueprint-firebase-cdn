@@ -23,10 +23,10 @@
     "width": 810
   },
   "lastUpdatedDate": 1574616651848,
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/train/loading station/",
-    "3": "/production/other/",
-    "0": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/train/loading station/",
+    "/production/other/",
+    "/mods/vanilla/"
+  ]
 }

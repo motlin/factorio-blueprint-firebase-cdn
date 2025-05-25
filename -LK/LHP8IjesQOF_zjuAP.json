@@ -12,9 +12,9 @@
     "PMtka9hzl8cxjPJjZrJc6OLMBK73": true
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/left-hand-drive/"
+  ],
   "author": {
     "userId": "dJOoiF3VtvanagKSFBqEiu1FRKP2"
   },

@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1641160297773,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/belt based/"
+  ],
   "title": "Factorio Made to Measure Late Tier"
 }

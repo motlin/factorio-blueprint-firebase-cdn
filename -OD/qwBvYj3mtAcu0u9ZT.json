@@ -19,10 +19,10 @@
   "imageUrl": "https://imgur.com/MdoOyBk",
   "lastUpdatedDate": 1733941055465,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/aquilo/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/aquilo/",
+    "/planets/space-platform/"
+  ],
   "title": "Aquilo Spaceship"
 }

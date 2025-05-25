@@ -14,12 +14,12 @@
     "cRfFGcGDxwRYZxZIUwufKYzeHIg1": true,
     "q0PJ2draUhR1cF2EoPSKLj53L0q2": true
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/coal liquification/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/coal liquification/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "q0PJ2draUhR1cF2EoPSKLj53L0q2"
   },

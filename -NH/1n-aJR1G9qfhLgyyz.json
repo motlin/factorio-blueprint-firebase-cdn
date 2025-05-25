@@ -89,10 +89,10 @@
   },
   "lastUpdatedDate": 1680277395394,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/aai/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/aai/",
+    "/mods/space-exploration/"
+  ],
   "title": "Modular Space Exploration (SE) Colony Outpost starter base with Mall"
 }

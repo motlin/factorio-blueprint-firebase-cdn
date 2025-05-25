@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1704651985310,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/belt based/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/version/1,1/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/production/logistic (bot) based/",
+    "/version/1,1/"
+  ],
   "title": "Starter base to robots",
   "favorites": {
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,

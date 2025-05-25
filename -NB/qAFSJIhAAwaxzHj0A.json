@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1700589399249,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "Mega Base Part 9"
 }

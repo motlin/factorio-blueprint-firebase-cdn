@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1688591833944,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/science/"
+  ],
   "title": "100/m Basic Tech Card Krastorio 2",
   "favorites": {
     "PWXHgBrZFLhId4QTtDO4twOPKNr2": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1642480794784,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Station with Limit",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,

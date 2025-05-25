@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1705381531538,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/general/early game/",
-    "2": "/mods/space-exploration/",
-    "3": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/general/early game/",
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "K2SE 0.6.121 Early Steam Power 90MW",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,

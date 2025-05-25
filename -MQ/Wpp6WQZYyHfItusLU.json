@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "4": "/train/unloading station/",
-    "0": "/general/late game (megabase)/",
-    "1": "/production/smelting/",
-    "2": "/production/robots/",
-    "3": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/production/robots/",
+    "/train/loading station/"
+  ],
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "VEsb1OEDgxPcq158Mm0fgPuBuPG2": true,

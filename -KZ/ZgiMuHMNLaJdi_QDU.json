@@ -4,12 +4,12 @@
   "createdDate": 1511370450479,
   "lastUpdatedDate": 1511370782643,
   "numberOfFavorites": 5,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/oil processing/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/power/steam/"
+  ],
   "title": "Power from Oil (blocks)",
   "author": {
     "userId": "SmfXw9y5CpM2YR0I4f0Q1CMJGcT2"

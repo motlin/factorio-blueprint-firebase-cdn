@@ -2,10 +2,10 @@
   "descriptionMarkdown": "Produces Processing Units (ratioed)\n\n- Solid inputs (top plastic and bottom copper/iron)\n- Liquid inputs sulfuric acid\n\nThe yellow conveyor loader is in the bottom left is there on purpose to give the long handed inserter priority.",
   "fileName": "Blue Cirquit Block (ratioed) (1).png",
   "lastUpdatedDate": 1603839898688,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/mid game/"
+  ],
   "title": "Processing Unit Assembly (ratioed)",
   "createdDate": 1603839287481,
   "authorId": "xB3csq8rHdgV39t0Z77S9wbuG5c2",

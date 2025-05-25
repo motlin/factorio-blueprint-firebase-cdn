@@ -29,9 +29,9 @@
   "imageUrl": "https://imgur.com/h4K0OLZ",
   "lastUpdatedDate": 1730898212523,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "1200Km/s Ship."
 }

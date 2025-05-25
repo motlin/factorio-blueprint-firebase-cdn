@@ -24,12 +24,12 @@
   },
   "lastUpdatedDate": 1704652501039,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/robots/",
-    "2": "/production/belt based/",
-    "3": "/production/research (labs)/",
-    "4": "/version/1,1/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/robots/",
+    "/production/belt based/",
+    "/production/research (labs)/",
+    "/version/1,1/"
+  ],
   "title": "Starter base"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1690312002794,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/factorissimo/"
+  ],
   "title": "2 Blue Science per min",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-07-25%20210609.png?alt=media&token=6a8b0575-cebf-47eb-ae72-d5d62d4dad85"
 }

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1699659710341,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Tileable Plastic Factory (1.4k/m)",
   "favorites": {
     "w5wGyj4IsRThVuIW2ogn8EG5teN2": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/FwZMQ9V",
   "lastUpdatedDate": 1732636908426,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Ice planet bottle",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

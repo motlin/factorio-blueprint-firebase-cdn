@@ -16,12 +16,12 @@
     "width": 889
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/power/steam/",
-    "2": "/production/research (labs)/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/production/science/",
+    "/power/steam/",
+    "/production/research (labs)/",
+    "/production/other/"
+  ],
   "favorites": {
     "sIEJNDOKVPVClCJp5C5lT5oRFlr1": true
   }

@@ -28,16 +28,16 @@
   "imageUrl": "https://imgur.com/WtrBR4q",
   "lastUpdatedDate": 1730692569282,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/version/2,0/",
-    "2": "/train/crossing/",
-    "3": "/train/roundabout/",
-    "4": "/train/junction/",
-    "5": "/train/track/",
-    "6": "/train/unloading station/",
-    "7": "/train/right-hand-drive/",
-    "8": "/mods/space-age/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/version/2,0/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/mods/space-age/"
+  ],
   "title": "AutoRail Modification"
 }

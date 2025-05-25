@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1679785736514,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/production/rocket parts/"
+  ],
   "title": "Coal Liquification Rocket Factory"
 }

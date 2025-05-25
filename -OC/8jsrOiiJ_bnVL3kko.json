@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/vWdDio9",
   "lastUpdatedDate": 1732109111022,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/vulcanus/",
-    "3": "/planets/fulgora/",
-    "4": "/planets/gleba/",
-    "5": "/mods/space-age/",
-    "6": "/general/mid game/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/",
+    "/planets/vulcanus/",
+    "/planets/fulgora/",
+    "/planets/gleba/",
+    "/mods/space-age/",
+    "/general/mid game/"
+  ],
   "title": "Small hauler spaceship"
 }

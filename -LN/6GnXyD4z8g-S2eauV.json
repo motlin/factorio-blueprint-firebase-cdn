@@ -15,11 +15,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Beaconized Kovarex enrichment line",
   "favorites": {
     "rsD3RssFJhVX3AQ14FJKgvidUeT2": true

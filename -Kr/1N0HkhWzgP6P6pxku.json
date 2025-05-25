@@ -22,12 +22,12 @@
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
   "createdDate": 1502204663078,
   "fileName": "Beaconed Liquefaction.PNG",
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/coal liquification/",
-    "1": "/general/beaconized/",
-    "2": "/mods/creative/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/coal liquification/",
+    "/general/beaconized/",
+    "/mods/creative/"
+  ],
   "title": "Gas from Beaconed Coal Liquefaction",
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"

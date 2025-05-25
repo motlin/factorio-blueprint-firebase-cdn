@@ -33,10 +33,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-12-19%2023.39.28.png?alt=media&token=4d8ce3bc-c47e-4071-8ab4-27f608267bb1",
   "lastUpdatedDate": 1608445493930,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/tileable/"
+  ],
   "title": "64 cell City Block"
 }

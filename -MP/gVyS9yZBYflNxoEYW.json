@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1638203123829,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/coal liquification/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/coal liquification/"
+  ],
   "title": "Rocket fuel made by coal liquefaction."
 }

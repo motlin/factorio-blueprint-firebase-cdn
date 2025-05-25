@@ -8,14 +8,14 @@
     "id": "jpoc20X"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "4": "/production/science/",
-    "5": "/production/research (labs)/",
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/0,16/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,16/",
+    "/mods/other/"
+  ],
   "fileName": "fsxJK11[1].png",
   "lastUpdatedDate": 1531284228019,
   "author": {

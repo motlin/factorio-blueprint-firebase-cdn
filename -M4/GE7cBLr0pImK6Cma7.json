@@ -15,10 +15,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/steam/"
+  ],
   "title": "(Krastorio 2) Fusion Plant with Steam Storage",
   "favorites": {
     "SIune8tADRd1TGwhaXws0F3x1J32": true,

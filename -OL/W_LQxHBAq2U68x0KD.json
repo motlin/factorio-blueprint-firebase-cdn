@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/SLYJtYN",
   "lastUpdatedDate": 1742172678189,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Tutorial map 5 south iron ore mine"
 }

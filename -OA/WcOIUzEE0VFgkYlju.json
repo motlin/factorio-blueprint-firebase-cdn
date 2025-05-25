@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/qzDN6IL",
   "lastUpdatedDate": 1730382193259,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar Array"
 }

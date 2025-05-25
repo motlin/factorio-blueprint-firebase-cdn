@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/29WBbFO",
   "lastUpdatedDate": 1743879504502,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/general/early game/",
-    "3": "/planets/gleba/",
-    "4": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/early game/",
+    "/planets/gleba/",
+    "/production/science/"
+  ],
   "title": "Early Gleba Blueprint Book",
   "favorites": {
     "if0KvlQHynfuU1gZJTTBndH58b93": true

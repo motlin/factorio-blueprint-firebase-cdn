@@ -106,11 +106,11 @@
   },
   "lastUpdatedDate": 1569703682182,
   "numberOfFavorites": 84,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/version/0,17/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/version/0,17/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Starter Base In A Box 0.17"
 }

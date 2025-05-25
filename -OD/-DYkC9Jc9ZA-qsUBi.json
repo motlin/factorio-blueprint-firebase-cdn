@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/eOWWBTq",
   "lastUpdatedDate": 1733023120699,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "The End (Space Platform to Shattered Plant)"
 }

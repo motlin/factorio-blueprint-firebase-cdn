@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1666988299899,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Fábrica para vidro, aço e estrutura de baixa densidade."
 }

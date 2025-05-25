@@ -21,12 +21,12 @@
     "type": "image/jpeg",
     "width": 877
   },
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/production/coal liquification/",
-    "5": "/version/0,17/"
-  }
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/production/coal liquification/",
+    "/version/0,17/"
+  ]
 }

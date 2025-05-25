@@ -238,8 +238,8 @@
   "imageUrl": "https://imgur.com/Sk85rB2",
   "lastUpdatedDate": 1732384874601,
   "numberOfFavorites": 81,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba all production, no mods, game version 2.0+"
 }

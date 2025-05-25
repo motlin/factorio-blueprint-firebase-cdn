@@ -15,11 +15,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/belt/balancer/"
+  ],
   "favorites": {
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
     "lz0TQ3Crl8SrqDayUrygr0ygubn1": true,

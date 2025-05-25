@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/bGFJ1Ma",
   "lastUpdatedDate": 1730801072600,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Counter with displays",
   "favorites": {
     "XgTOK8fTzVbSIxG4sThzippYiz03": true

@@ -24,8 +24,8 @@
   },
   "lastUpdatedDate": 1692449336235,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/stacker/"
-  },
+  "tags": [
+    "/train/stacker/"
+  ],
   "title": "City block depot for 240 trains"
 }

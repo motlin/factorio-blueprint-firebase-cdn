@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/W11EjnQ",
   "lastUpdatedDate": 1731158011515,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Musholic's mall v1.1",
   "favorites": {
     "dTfWfYu1KIVCKEfNP4wuladcWB63": true,

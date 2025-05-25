@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5YRQDq5",
   "lastUpdatedDate": 1730713181957,
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo all in 1ish production",
   "favorites": {
     "oIxcWQU47SVcWGeEuzh8PUjuEki2": true,

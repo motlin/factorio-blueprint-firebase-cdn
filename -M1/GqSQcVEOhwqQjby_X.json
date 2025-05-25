@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1582995185901,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/belt/express transport belt (blue)/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Insance Big Factories Endgame Mall"
 }

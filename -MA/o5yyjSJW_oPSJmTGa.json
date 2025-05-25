@@ -1,12 +1,12 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "4": "/general/tileable/",
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Refinery (Adaptable Output)",
   "favorites": {
     "TO9F2VuZSpNbC7CdnrdbGPm0d0r2": true,

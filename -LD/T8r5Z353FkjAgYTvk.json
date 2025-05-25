@@ -6,10 +6,10 @@
     "width": 515
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/version/0,16/"
+  ],
   "title": "Module Factories",
   "authorId": "8DGNbeQDlRcOLh3aQVRadmHeIVz1",
   "createdDate": 1527366775331,

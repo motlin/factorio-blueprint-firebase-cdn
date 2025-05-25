@@ -32,9 +32,9 @@
   },
   "lastUpdatedDate": 1656306668760,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/1,0/"
+  ],
   "title": "Jolene's Pyanodon"
 }

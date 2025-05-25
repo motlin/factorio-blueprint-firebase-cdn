@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1705086791615,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/general/early game/"
+  ],
   "title": "AiO Military Science",
   "favorites": {
     "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true,

@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/3aSqDUV",
   "lastUpdatedDate": 1715367413321,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/mods/other/"
+  ],
   "title": "248k Mod blueprints"
 }

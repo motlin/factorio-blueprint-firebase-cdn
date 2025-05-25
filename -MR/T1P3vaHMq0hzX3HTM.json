@@ -3,10 +3,10 @@
   "createdDate": 1611116683660,
   "descriptionMarkdown": "Factory to support approx 30/second production using blue assemblers. Inputs = copper cables and iron plates\n\n[iron plates | copper cables]\n\nRequired\n- 20 assemblers\n- 40 blue inserters\n\n",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/"
+  ],
   "title": "factory_green_circuit_v2",
   "author": {
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"

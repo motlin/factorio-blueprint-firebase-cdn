@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1539379366428,
   "numberOfFavorites": 5,
-  "tags": {
-    "4": "/train/right-hand-drive/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "4 Lane 14-Car Multicross Intersection (RHD) with poles"
 }

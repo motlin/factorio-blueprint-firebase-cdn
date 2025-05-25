@@ -18,11 +18,11 @@
   "imageUrl": "https://imgur.com/455l2Nz",
   "lastUpdatedDate": 1745347635652,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/power/nuclear/",
-    "2": "/mods/other/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/power/nuclear/",
+    "/mods/other/",
+    "/mods/space-age/"
+  ],
   "title": "Modulo de produção de pacote  científicos de criogenia"
 }

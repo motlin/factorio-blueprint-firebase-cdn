@@ -14,11 +14,11 @@
     "width": 1378
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "O0Rw8NKzbQZBZ6eSzER8hLDRbjR2"
   },

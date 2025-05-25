@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/D8t8Eol",
   "lastUpdatedDate": 1736127852902,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Automated Recyling",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,

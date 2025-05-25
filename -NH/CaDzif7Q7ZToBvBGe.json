@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1701673720211,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/train/unloading station/"
+  ],
   "title": "Circuit Experiments"
 }

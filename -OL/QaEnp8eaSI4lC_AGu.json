@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ycHbWIR",
   "lastUpdatedDate": 1742072289697,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Grid de fornalhas",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

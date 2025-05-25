@@ -8,11 +8,11 @@
   },
   "authorId": "oyjvFGT5pqhZPCw0HMYvmW1NMH12",
   "createdDate": 1551823883950,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "qhXKMXbZFSXCqKHMYcfGXvIKYLY2": true,
     "F5KCsRfPdVbT4176Wo4eOMqdCLt1": true

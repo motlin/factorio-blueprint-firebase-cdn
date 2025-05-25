@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GLnZItV",
   "lastUpdatedDate": 1732261950679,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/production/other/"
+  ],
   "title": "Solar and Acc production line",
   "favorites": {
     "pt16c0CJfSW14qFQokt1l59YjSr2": true

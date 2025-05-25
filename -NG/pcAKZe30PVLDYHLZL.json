@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697411806626,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/production/coal liquification/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/production/coal liquification/"
+  ],
   "title": "Self-contained Lubricant and Rocket Fuel"
 }

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1663358326060,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "11x3 Kovarex chain",
   "favorites": {
     "edD3c21p5USPtTIgIdqW659UNPs1": true,

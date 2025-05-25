@@ -9,14 +9,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/pipecleaner.jpg?alt=media&token=d08085d4-89d9-4f95-b2ad-17536e47d7ba",
   "lastUpdatedDate": 1564834914641,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/storage/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/version/0,16/",
-    "5": "/version/0,17/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
   "title": "Pipe-Cleaner",
   "descriptionMarkdown": "Input tank any oils\n\nSorting:<br>\n-Gas go left side with pump<br>\n-Light oil go center with pump<br>\n-Heavy oil go right side with pump<br>\n\nPump Condition = (value =>1)\n\nUPDATE(0.16 ver) some times  pump can stuck if there too low pressure in pipes. When tank has 0.9 there can pump ohter liquid/gas for it. Updates values for 0.16. is (Value=> 1)\n\nBlueprint compatibility 0,15/0,16/0,17 (tested)",
   "image": {

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1685622220446,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Trilhos para trens Vers.2",
   "favorites": {
     "TKxxZdEY1xM0uPHKKbtgnfGBRs32": true,

@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1622412121088,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/production/science/",
-    "4": "/general/beaconized/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/general/compact/"
+  ],
   "title": "Thrall's 1 Chunk 500 SPM Tileable Book",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true

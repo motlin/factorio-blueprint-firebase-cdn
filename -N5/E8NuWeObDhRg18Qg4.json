@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1656030992841,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "grid-empty",
   "favorites": {
     "i0XGzXECKUT9DmDownpmY6TOhZK2": true

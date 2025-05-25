@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651031861598,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/version/1,0/"
+  ],
   "title": "Modular 7-segment numerical LED/LAMP display with no leading zeros and in color",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio-7-led-2.png?alt=media&token=e0a94e44-2735-4008-b75e-40924dd5de5f",
   "favorites": {

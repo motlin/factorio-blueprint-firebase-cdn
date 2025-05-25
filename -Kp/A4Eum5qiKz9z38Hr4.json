@@ -1,13 +1,13 @@
 {
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "5": "/version/0,16/",
-    "6": "/version/0,17/",
-    "0": "/general/storage/",
-    "1": "/circuit/counter/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/general/storage/",
+    "/circuit/counter/",
+    "/circuit/indicator/"
+  ],
   "title": "Tech-pack-infos",
   "author": {
     "userId": "HUwFUow6Xtf73NeNmrxXJY5tdYJ3"

@@ -2,10 +2,10 @@
   "createdDate": 1550130059873,
   "descriptionMarkdown": "It's a construction bot factory (or robot frames if you so choose) made using train cargo wagons to to transport materials. There are constant combinators in the BP to show where the inputs are and also on the left what the inventory limits/filters of the wagons should look like.",
   "fileName": "pic2.png",
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/robots/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/robots/"
+  ],
   "lastUpdatedDate": 1550130059873,
   "numberOfFavorites": 1,
   "title": "Trainsplain Spaghet",

@@ -13,12 +13,12 @@
     "width": 1104
   },
   "lastUpdatedDate": 1537821498648,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "R.R.R. (Rails/Radars&Roboports)",
   "author": {
     "userId": "K31B1C5PEMg28Nsh6kUZJLb9Ogf2"

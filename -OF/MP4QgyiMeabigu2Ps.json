@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/uHs5j8g",
   "lastUpdatedDate": 1735750449153,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/space-age/"
+  ],
   "title": "Space-age auto-mall",
   "favorites": {
     "UO9vDAYuXjelUNfZkJSEIcL9erl1": true

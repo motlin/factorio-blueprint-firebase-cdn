@@ -28,12 +28,12 @@
   },
   "lastUpdatedDate": 1701519799447,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Diamond block mega base"
 }

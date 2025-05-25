@@ -2,10 +2,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Check%20oil%20level.JPG?alt=media&token=e7397fd5-f492-4e03-b166-63e4084f6fed",
   "lastUpdatedDate": 1504616550540,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Check oil level",
   "author": {
     "userId": "YqLl7IBUy4TxPtAOSr60NHEabQG3"

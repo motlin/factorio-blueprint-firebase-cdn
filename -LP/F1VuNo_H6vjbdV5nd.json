@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1552102281716,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/production/research (labs)/",
-    "2": "/power/nuclear/",
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/early game/",
-    "6": "/version/0,16/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/early game/",
+    "/version/0,16/",
+    "/production/science/"
+  ],
   "title": "Malteser & Jardon base Blueprints "
 }

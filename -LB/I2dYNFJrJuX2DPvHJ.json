@@ -11,11 +11,11 @@
   },
   "lastUpdatedDate": 1525033113993,
   "title": "Robots factory 1 per second",
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "cmVK0qxzUle25kRKDaLf9uOQt8w2": true
   },

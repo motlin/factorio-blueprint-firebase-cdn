@@ -14,10 +14,10 @@
   "createdDate": 1524666228854,
   "descriptionMarkdown": "pra produzir uranio 235",
   "fileName": "235.png",
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/vanilla/"
+  ],
   "numberOfFavorites": 3,
   "title": "uranio 235 produção"
 }

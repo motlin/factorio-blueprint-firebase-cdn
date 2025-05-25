@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1692197730120,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "City Blocks for K2 + SE"
 }

@@ -25,10 +25,10 @@
   },
   "lastUpdatedDate": 1695677783877,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "title": "No Spoon in a Box 2.0"
 }

@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/I6U5Yfz",
   "lastUpdatedDate": 1735857658539,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/vulcanus/",
-    "2": "/planets/fulgora/",
-    "3": "/planets/gleba/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/vulcanus/",
+    "/planets/fulgora/",
+    "/planets/gleba/",
+    "/general/compact/"
+  ],
   "title": "super tiny inner planets cruiser",
   "favorites": {
     "2U0s4QZbFSgXChymNL3LG493ywO2": true,

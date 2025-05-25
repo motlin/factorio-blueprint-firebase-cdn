@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1662572247634,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/roundabout/"
+  ],
   "title": "roundabout ",
   "favorites": {
     "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,

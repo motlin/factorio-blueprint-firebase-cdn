@@ -8,9 +8,9 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/5%20red-green.PNG?alt=media&token=5f7e2266-8ac7-4fd7-bfb2-9c610f493603",
   "lastUpdatedDate": 1499861127593,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Red and Green Science",
   "author": {
     "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"

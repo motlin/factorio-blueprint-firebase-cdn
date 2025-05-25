@@ -7,11 +7,11 @@
   },
   "lastUpdatedDate": 1558129186688,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/mods/ltn/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/ltn/",
+    "/general/tileable/"
+  ],
   "title": "LTN - Uranium Ore Processing",
   "author": {
     "userId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2"

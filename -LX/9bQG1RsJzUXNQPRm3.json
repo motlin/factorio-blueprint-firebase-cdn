@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/train/unloading station/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/unloading station/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "7fZJw6U2IuNkODcVttXvTOopf5G3"
   },

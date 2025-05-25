@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/tV24DLM",
   "lastUpdatedDate": 1742166157188,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/other/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/other/",
+    "/mods/vanilla/"
+  ],
   "title": "One-at-a-time Logistic Crafter",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/DOXRhia",
   "lastUpdatedDate": 1731734952060,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/"
+  ],
   "title": "To Kill Big Demolisher",
   "favorites": {
     "tCN0oTbIYGM18hBsTBjn8Y1w3Ra2": true

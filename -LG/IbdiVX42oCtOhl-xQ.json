@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1530418963318,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/belt based/"
+  ],
   "title": "productivity wire factories 1-8"
 }

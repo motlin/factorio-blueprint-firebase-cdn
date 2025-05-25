@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1539283446332,
   "numberOfFavorites": 17,
-  "tags": {
-    "2": "/power/nuclear/",
-    "0": "/mods/vanilla/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "Cwizard's Book of Stuff and Things"
 }

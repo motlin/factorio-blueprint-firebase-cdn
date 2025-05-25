@@ -57,12 +57,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202018-01-30%20at%2021.10.48.png?alt=media&token=65d302fb-cf3f-467c-9707-6f34c431c578",
   "lastUpdatedDate": 1517368555625,
   "numberOfFavorites": 80,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/0,16/",
-    "2": "/train/junction/",
-    "3": "/production/robots/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/0,16/",
+    "/train/junction/",
+    "/production/robots/",
+    "/train/right-hand-drive/"
+  ],
   "title": "JonnyNof's Gated City Block Blocks w/ Xantaxia 4way Junctions"
 }

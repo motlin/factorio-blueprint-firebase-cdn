@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/uhbQLOM.png",
   "lastUpdatedDate": 1738638048929,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Blue Belt Nilaus Inner Freighter",
   "favorites": {
     "nchtaBrTEoc0le9TM1Z6FU7v6Lk2": true,

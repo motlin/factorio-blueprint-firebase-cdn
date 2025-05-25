@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/ObaNVzw",
   "lastUpdatedDate": 1730553573651,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/quality/",
-    "2": "/mods/space-age/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/quality/",
+    "/mods/space-age/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Speed + Quality abuse",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

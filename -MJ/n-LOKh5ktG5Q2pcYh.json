@@ -34,13 +34,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202020-10-16%20at%204.09.11%20PM.png?alt=media&token=4ab36e5b-dd48-4422-955a-677d1660b855",
   "lastUpdatedDate": 1602948925328,
   "numberOfFavorites": 15,
-  "tags": {
-    "5": "/mods/vanilla/",
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/production/science/",
-    "3": "/production/guns and ammo/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/science/",
+    "/production/guns and ammo/",
+    "/version/1,0/"
+  ],
   "title": "75 SPM Starter Pack"
 }

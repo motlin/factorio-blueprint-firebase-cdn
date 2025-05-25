@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1543966414473,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/version/0,16/"
+  ],
   "title": "R_RHD_4___"
 }

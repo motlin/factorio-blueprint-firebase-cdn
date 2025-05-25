@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/4LQxalS",
   "lastUpdatedDate": 1740843436077,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Arrow - Endgame 750 km/s hauler",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true

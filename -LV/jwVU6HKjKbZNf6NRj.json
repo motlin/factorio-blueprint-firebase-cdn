@@ -24,12 +24,12 @@
   },
   "lastUpdatedDate": 1576052546662,
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/robots/",
-    "4": "/version/0,17/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/production/robots/",
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "title": "Bot Base Complete Science - 2.9k/m"
 }

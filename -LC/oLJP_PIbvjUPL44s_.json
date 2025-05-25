@@ -22,11 +22,11 @@
   "fileName": "Circuit.png",
   "lastUpdatedDate": 1555656427368,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/indicator/"
+  ],
   "title": "EtU RAM: Robust Memory cell and array",
   "authorId": "4jFkbCWaq2PQwM0XWLaH1sAOkrq1"
 }

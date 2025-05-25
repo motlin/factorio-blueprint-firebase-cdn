@@ -19,11 +19,11 @@
   "imageUrl": "https://imgur.com/v92kq6s",
   "lastUpdatedDate": 1732846671576,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "''Nion'' Your little starter ship Improved"
 }

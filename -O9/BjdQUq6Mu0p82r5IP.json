@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/UsposIW",
   "lastUpdatedDate": 1729897805831,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/art/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/art/",
+    "/train/track/"
+  ],
   "title": "Random Planet Picker",
   "favorites": {
     "tdrhIhnRgBbZf063LYzvr78RZPw1": true

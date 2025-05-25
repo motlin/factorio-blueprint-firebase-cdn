@@ -12,12 +12,12 @@
     "width": 1366
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/general/compact/",
-    "3": "/version/0,15/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/version/0,15/",
+    "/production/advanced circuit (red)/",
+    "/mods/other/"
+  ],
   "title": " Red Circuit compact",
   "favorites": {
     "d1eirclhnvebxnyo3ZftXnrtkJR2": true,

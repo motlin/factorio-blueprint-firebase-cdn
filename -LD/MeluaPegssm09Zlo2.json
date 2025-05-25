@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2x2 Minimal Nuclear Plant",
   "favorites": {
     "eIyj5ZIPw1e437TbNXf2m56kwLr2": true,

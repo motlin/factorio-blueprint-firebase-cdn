@@ -65,13 +65,13 @@
     "type": "image/jpeg",
     "width": 1148
   },
-  "tags": {
-    "1": "/production/research (labs)/",
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/"
+  ],
   "title": "Initial assemblers",
   "author": {
     "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"

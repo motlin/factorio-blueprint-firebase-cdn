@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "First Factory",
   "descriptionMarkdown": "Simple setup that can make the initial things you need. Handy for the LB achievement. The constant combinator has a list of what you can make. Feed in copper and iron plates from the right. Set production in the factory to the left.\n\nPart of the 75 SPM starter base blueprint book.",
   "authorId": "wsdlY32MbNbMXLN6Rf4wIN3VbyM2",

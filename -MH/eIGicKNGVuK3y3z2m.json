@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1629578277196,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Building train",
   "favorites": {
     "SS0ivWSelScggoritSCjMW2VOo32": true,

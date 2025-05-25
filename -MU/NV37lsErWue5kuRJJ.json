@@ -25,9 +25,9 @@
   },
   "numberOfFavorites": 7,
   "title": "Universal support train",
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/SupportTrain3.png?alt=media&token=b50c1e38-3515-4bf0-bc7d-c73cdad18268"
 }

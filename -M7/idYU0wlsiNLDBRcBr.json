@@ -10,16 +10,16 @@
     "width": 1326
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/production/plastic/",
-    "5": "/general/early game/",
-    "6": "/general/mid game/",
-    "7": "/production/oil processing/",
-    "0": "/production/batteries/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/production/plastic/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/oil processing/",
+    "/production/batteries/"
+  ],
   "title": "Oil processing Early/Mid game",
   "favorites": {
     "i7a6eIOX6NViNJPVrtlXVrv1KEX2": true,

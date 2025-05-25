@@ -4,14 +4,14 @@
   "createdDate": 1496221434583,
   "descriptionMarkdown": "This is my take on an on-demand furnace which keeps a stockpile of resources ready at hand if needed. It automatically figures out the amount of iron to smelt before creating steel.\n\nJust set the desired quantity levels in the right most constant combinator.\n\nWord of caution: don't connect the red wire to any roboport, otherwise all requesters start requesting the contents of the logistics network.",
   "lastUpdatedDate": 1496232867676,
-  "tags": {
-    "5": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
   "title": "On demand furnace",
   "author": {
     "userId": "t5DWWS7U8TVLm9C5nTH3II4ekCz1"

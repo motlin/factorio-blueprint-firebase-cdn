@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/JqGA4zz",
   "lastUpdatedDate": 1730543021218,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/version/2,0/"
+  ],
   "title": "Atems Fulgora Scrap Recycler Compact",
   "favorites": {
     "JRB8vO6qY2hTgO2IzaYcSFRx4P62": true,

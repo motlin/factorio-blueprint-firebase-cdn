@@ -2,9 +2,9 @@
   "descriptionMarkdown": "Messing around with a idea i got from looking at another persons setup. This blueprint hooks it up to a chest but you can easy remove the chest and hook it to the steam storage but you have to change the other machines from landfill to steam.\n\nWhat this blueprint does is change lamp color based on if landfill is in the chest or not, it will trigger a alarm when 10 landfill is in the chest and tell you that a brownout has been detect along with red flashing lamps but once the landfill is removed it will go back to normal state ( All green lamps ) and play the win game sound. It might not be perfect but it gets the job done.",
   "fileName": "20171204103224_1.jpg",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/power/steam/"
+  ],
   "title": "Alert when power is low. ",
   "authorId": "2waOKo7ZeRSew7DVncRdqBIXJY63",
   "createdDate": 1512405861301,

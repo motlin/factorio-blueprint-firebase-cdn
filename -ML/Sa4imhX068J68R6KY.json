@@ -7,10 +7,10 @@
   "createdDate": 1604666809488,
   "lastUpdatedDate": 1604666809488,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "lTfcOfoA9KYeh0eD4m7cl2VWsLB3",
   "descriptionMarkdown": "Platform extension for a modular train station",
   "fileName": "New Project (2).png",

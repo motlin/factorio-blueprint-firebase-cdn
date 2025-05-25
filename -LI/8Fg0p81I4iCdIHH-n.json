@@ -30,15 +30,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/s_blueprint%20(42).png?alt=media&token=7ae0e8fb-bae3-4573-b9ce-d6caf5116d93",
   "lastUpdatedDate": 1565974784452,
   "numberOfFavorites": 13,
-  "tags": {
-    "2": "/production/plastic/",
-    "3": "/production/oil processing/",
-    "4": "/mods/vanilla/",
-    "5": "/production/other/",
-    "6": "/general/late game (megabase)/",
-    "7": "/production/rocket parts/",
-    "0": "/version/0,17/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/production/other/",
+    "/general/late game (megabase)/",
+    "/production/rocket parts/",
+    "/version/0,17/",
+    "/general/beaconized/"
+  ],
   "title": "YAMATO's Oil process"
 }

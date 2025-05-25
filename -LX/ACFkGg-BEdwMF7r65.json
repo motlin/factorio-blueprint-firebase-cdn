@@ -16,14 +16,14 @@
     "width": 825
   },
   "lastUpdatedDate": 1548542125678,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/general/tileable/",
-    "5": "/production/belt based/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/general/tileable/",
+    "/production/belt based/",
+    "/production/science/"
+  ],
   "favorites": {
     "Qa5GcHTn3ZPfmddjLhmJmbIinwK2": true
   }

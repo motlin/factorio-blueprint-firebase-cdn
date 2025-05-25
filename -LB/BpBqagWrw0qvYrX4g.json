@@ -1,11 +1,11 @@
 {
   "descriptionMarkdown": "All balanced and ready to go, tilleable",
   "fileName": "Screenshot from 2019-03-30 00-19-15.png",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/"
+  ],
   "authorId": "bSWYbp71MqbdSspZoVcGK8AXBlq1",
   "createdDate": 1553919692284,
   "image": {

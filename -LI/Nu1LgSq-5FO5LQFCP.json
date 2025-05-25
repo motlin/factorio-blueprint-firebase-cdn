@@ -16,10 +16,10 @@
     "userId": "8bME971ErIdWroLbCKxuLW2qzk32"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "Z0wznCV262f4l76PteXbBfZGvIN2": true
   }

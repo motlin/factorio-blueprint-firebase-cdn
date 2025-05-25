@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1638109360503,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/aai/",
-    "2": "/mods/other/",
-    "3": "/version/1,0/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/aai/",
+    "/mods/other/",
+    "/version/1,0/",
+    "/train/right-hand-drive/",
+    "/train/loading station/"
+  ],
   "title": "SMART LTN Provider Station",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/58fe611f8e3759dfcb7152890704b73c.png?alt=media&token=a173f5ce-f330-4920-a8de-0db9a3dd126f",
   "favorites": {

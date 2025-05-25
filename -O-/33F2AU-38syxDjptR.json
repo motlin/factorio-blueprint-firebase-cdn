@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/d0gI8E3",
   "lastUpdatedDate": 1718055614697,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Steel Furnace Array",
   "favorites": {
     "oZAfq5GkXpYL65kP4aoMQPIFENE3": true,

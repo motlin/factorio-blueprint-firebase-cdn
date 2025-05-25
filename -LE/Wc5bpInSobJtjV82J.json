@@ -18,10 +18,10 @@
     "width": 843
   },
   "lastUpdatedDate": 1557490027150,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/smelting/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/smelting/",
+    "/version/0,17/"
+  ],
   "title": "Frank & Peppe Steel 2k per minute Smelter (Yuoki)"
 }

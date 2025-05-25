@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1648781123587,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Circuitless & Tileable Kovarex Enrichment Processing",
   "favorites": {
     "lTGBGm4oeqd3DmDDKoN2WTFba0f2": true,

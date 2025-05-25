@@ -6,9 +6,9 @@
   "createdDate": 1611117027951,
   "descriptionMarkdown": "Factory to support approx 112/second production using blue assemblers. Inputs = copper plates\n\n[copper plates | copper plates]\n\nRequired\n- 40 assemblers\n- 40 yellow assemblers\n- 40 blue assemblers\n\n",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "factory_copper_wire_v2",
   "author": {
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"

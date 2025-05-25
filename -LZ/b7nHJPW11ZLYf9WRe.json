@@ -6,10 +6,10 @@
     "type": "image/jpeg",
     "width": 1290
   },
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/0,17/"
+  ],
   "title": "Sea Block выращивание древесины",
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

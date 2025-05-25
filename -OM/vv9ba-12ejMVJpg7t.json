@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/07wLySE",
   "lastUpdatedDate": 1743688346152,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "The Shredder",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true

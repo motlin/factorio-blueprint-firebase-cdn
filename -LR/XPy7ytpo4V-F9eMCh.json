@@ -1,10 +1,10 @@
 {
   "authorId": "q4Wic4uh2hSwwX7VD7NB5ezoWMA2",
   "descriptionMarkdown": "My Cargo Wagon unloader.",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/train/unloading station/"
+  ],
   "title": "Cargo Wagon Unloader",
   "favorites": {
     "En7kXfRyH7NZja9LJEwPCr95HvV2": true,

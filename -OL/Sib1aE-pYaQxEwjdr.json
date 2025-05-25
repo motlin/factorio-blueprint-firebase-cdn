@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/8ANCo45",
   "lastUpdatedDate": 1742107996396,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Sassy's Sushi Mall"
 }

@@ -20,12 +20,12 @@
   "imageUrl": "https://imgur.com/WFBJu3n",
   "lastUpdatedDate": 1732642686440,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/",
-    "3": "/planets/space-platform/",
-    "4": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Khalysto the ship/platform with good firepower"
 }

@@ -23,10 +23,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2021-05-25_17-54-15.png?alt=media&token=595104ee-5297-42e5-a49c-64b253ba5036",
   "lastUpdatedDate": 1621986973899,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Late Game Smelting"
 }

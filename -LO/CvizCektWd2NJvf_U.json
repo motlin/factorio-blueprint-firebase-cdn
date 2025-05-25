@@ -47,15 +47,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ModularBaseBox1.1.png?alt=media&token=7346fbe2-502b-4c0b-a96f-d2c7fc9c9606",
   "lastUpdatedDate": 1567949006020,
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "4": "/general/compact/",
-    "5": "/general/chunk aligned/",
-    "6": "/production/mall (make everything)/",
-    "7": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/compact/",
+    "/general/chunk aligned/",
+    "/production/mall (make everything)/",
+    "/version/0,17/"
+  ],
   "title": "Starter Base-In-A-Box - Modular!"
 }

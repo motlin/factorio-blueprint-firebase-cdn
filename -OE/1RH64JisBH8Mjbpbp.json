@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/yVaQ4Ek",
   "lastUpdatedDate": 1734134014548,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Belt Flow Indicator",
   "favorites": {
     "khmswhCNWaR5MeI2KcZQWQ2Yf3E3": true,

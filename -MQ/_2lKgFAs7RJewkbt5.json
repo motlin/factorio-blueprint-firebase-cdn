@@ -10,11 +10,11 @@
   },
   "lastUpdatedDate": 1610160865840,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/general/chunk aligned/",
-    "2": "/general/mid game/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true
   },

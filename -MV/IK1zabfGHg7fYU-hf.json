@@ -6,14 +6,14 @@
   "descriptionMarkdown": "My blueprint.",
   "fileName": "RS_M-L_Duugrim.png",
   "lastUpdatedDate": 1615231987801,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/general/beaconized/",
-    "5": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Red Circuits mid-late",
   "favorites": {
     "YbSKRbCDM3T7JI8Z6i9b8qAWZnR2": true,

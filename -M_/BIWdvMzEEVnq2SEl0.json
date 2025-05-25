@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1620497873810,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Factorio - Display \"Battery\" - Fluid status Blueprint",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Zrzut%20ekranu%202021-05-08%20201600.png?alt=media&token=90f6ca68-8ca0-492c-9264-464117f74e99",
   "favorites": {

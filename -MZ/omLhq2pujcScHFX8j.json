@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1620088286223,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/nuclear/"
+  ],
   "title": "Outpost Rx",
   "favorites": {
     "jbQ4TOhNJ7Qgrd8x7Z5tey3soTB2": true

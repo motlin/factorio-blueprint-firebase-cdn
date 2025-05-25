@@ -31,8 +31,8 @@
   },
   "lastUpdatedDate": 1642371779151,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/beaconized/"
+  ],
   "title": "Modular train based Refinery"
 }

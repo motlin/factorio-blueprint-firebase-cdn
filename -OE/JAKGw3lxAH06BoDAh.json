@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/op1RUIy",
   "lastUpdatedDate": 1734431560978,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Chemical Science 60 SPM",
   "favorites": {
     "DlTkNkgof8gc3T6u2i1vT0MSI5U2": true

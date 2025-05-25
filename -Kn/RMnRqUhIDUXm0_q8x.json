@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/belt based/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "3N6mohBWKmhcxksIvBLsFnCLrZ32"
   },

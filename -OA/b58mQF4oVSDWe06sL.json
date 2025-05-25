@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ZHlrL8n",
   "lastUpdatedDate": 1730454003004,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Aneris Cruiser MKsmth",
   "favorites": {
     "49kNG3zPf9O5uyPsl8ByPfvZmKl2": true,

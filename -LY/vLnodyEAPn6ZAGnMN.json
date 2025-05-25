@@ -32,14 +32,14 @@
   },
   "lastUpdatedDate": 1579396318938,
   "numberOfFavorites": 13,
-  "tags": {
-    "5": "/general/early game/",
-    "6": "/general/mid game/",
-    "0": "/general/tileable/",
-    "1": "/mods/other/",
-    "2": "/mods/ltn/",
-    "3": "/version/0,17/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/other/",
+    "/mods/ltn/",
+    "/version/0,17/",
+    "/train/right-hand-drive/"
+  ],
   "title": "WIP LTN Hexagon Train Cells"
 }

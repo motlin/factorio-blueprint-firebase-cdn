@@ -18,10 +18,10 @@
     "width": 1234
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Railed laser wall: diagonal"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/52rU5i1",
   "lastUpdatedDate": 1736904267493,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora Scrap Balancer Book",
   "favorites": {
     "9dyl2G4vrpXFcZjhozx3idzIIx32": true,

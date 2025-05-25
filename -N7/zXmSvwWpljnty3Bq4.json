@@ -22,8 +22,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%201.1.76%201_27_2024%208_09_02%20PM.png?alt=media&token=da9060db-f356-4dc3-b19f-4048a740fba6",
   "lastUpdatedDate": 1706375875794,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "KOS mall advanced version "
 }

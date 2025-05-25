@@ -26,13 +26,13 @@
   },
   "lastUpdatedDate": 1553688833126,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/bobs/",
-    "2": "/production/mall (make everything)/",
-    "3": "/version/0,17/",
-    "4": "/mods/angels/",
-    "5": "/mods/other/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/bobs/",
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/mods/angels/",
+    "/mods/other/"
+  ],
   "title": "BA_Mall_17 v2.0"
 }

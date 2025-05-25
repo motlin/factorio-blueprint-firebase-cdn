@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/6GEB1AT",
   "lastUpdatedDate": 1730484470229,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/2,0/"
+  ],
   "title": "Harash's AutoRail",
   "favorites": {
     "aVNlcoE4DEaiS5a7dr79YSiEoe22": true,

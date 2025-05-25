@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/VOX1ZQg",
   "lastUpdatedDate": 1739349565205,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Star Wars Tie Fighter ",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/XuLdInO",
   "lastUpdatedDate": 1737028280449,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/mods/space-age/",
-    "2": "/power/accumulator/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/mods/space-age/",
+    "/power/accumulator/"
+  ],
   "title": "Fulgora accumulator",
   "favorites": {
     "lNJGH0mK42Svx7L5nNvw3LnFnCv1": true,

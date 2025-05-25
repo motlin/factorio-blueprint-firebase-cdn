@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Am7Dbdx",
   "lastUpdatedDate": 1730516002105,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Basic Ship (Space Age)",
   "favorites": {
     "x9f9uBjBhvRcibJueokhxJGHEjw2": true,

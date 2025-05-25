@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/cAdYXKd",
   "lastUpdatedDate": 1735976731275,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "60 green circuits / second",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

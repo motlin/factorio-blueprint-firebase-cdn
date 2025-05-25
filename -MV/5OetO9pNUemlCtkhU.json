@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1644006125283,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/early game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Oliver's Early to Late Game Bus"
 }

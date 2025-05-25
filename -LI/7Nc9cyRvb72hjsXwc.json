@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "GSMu5t5LmfZZhIDSVuNjN91r6pl2"
   },

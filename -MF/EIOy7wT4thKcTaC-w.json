@@ -9,11 +9,11 @@
   },
   "lastUpdatedDate": 1597984579536,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/other/"
+  ],
   "title": "Simple Lubricant Production",
   "author": {
     "userId": "0mFMFSQyeXYRWvv676YNegV08Kz2"

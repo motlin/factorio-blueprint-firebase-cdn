@@ -3,14 +3,14 @@
   "descriptionMarkdown": "### Balanced Industrial Furnace from AAI using Vulcanite from Space Exploration!\nUses two decider combinators to control the single belt of input to have just enough vulcanite mixed in with your iron ore(or other) to keep everything running smoothly. Self regulates via a feedback loop. Decides everything based on the vulcanite, mixes in one vulcanite per every eight items of the other smelting material that passes on the belt. No need to mess with the combinators when changing the ore. It will work with iridium, glass and vitamelange just fine how it is, but with much more vulcanite mixed in than is needed. Just place it down, set what ore you want to smelt in the furnaces and go!\n\nInputs:\n- 1 yellow belt of vulcanite (doesn't really need a full belt though)\n- 1 red belt of ore (can be iron, copper, other)\n\nOutput:\n- (almost)1 blue belt of plates (or other)\n\nMods:\n- AAI Industry\n- Space Exploration\n- Miniloader\n- Warehousing\n\n![pic](https://i.imgur.com/NtVacra.png)",
   "fileName": "AAIfurnace.png",
   "lastUpdatedDate": 1593553379161,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/production/smelting/",
-    "2": "/mods/aai/",
-    "3": "/mods/warehousing/",
-    "4": "/version/0,18/",
-    "5": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/smelting/",
+    "/mods/aai/",
+    "/mods/warehousing/",
+    "/version/0,18/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "Ly06q37RBNhWD10e9Hf7Zeawkq73": true,
     "l54evwpJDXTXCGw3zbdZyuIHSTS2": true,

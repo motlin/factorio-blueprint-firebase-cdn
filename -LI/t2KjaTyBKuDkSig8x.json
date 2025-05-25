@@ -39,9 +39,9 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Simple ore indicator",
   "authorId": "uup7PnZ6aUS0cnq5FRVwQvUaXBp1",
   "createdDate": 1562177789160

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/59K8LWq",
   "lastUpdatedDate": 1732138505586,
   "numberOfFavorites": 64,
-  "tags": {
-    "0": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo starter",
   "favorites": {
     "qeST7wsECohOnSkFIoAHjtNB4Wv2": true,

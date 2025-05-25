@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/1Kjk2Cj",
   "lastUpdatedDate": 1731881909073,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Science Sushi Belt Logical",
   "favorites": {
     "3xgAYHehkrStlOSXS13hgJ2ksy62": true,

@@ -18,11 +18,11 @@
     "id": "95pQsW5",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/version/0,17/"
+  ],
   "authorId": "tDcu2675GWYwhozmFE4fHokh0nD3",
   "createdDate": 1553719297069,
   "lastUpdatedDate": 1553719297069,

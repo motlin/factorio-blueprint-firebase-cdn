@@ -58,17 +58,17 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/belt-based%20science%20title.png?alt=media&token=a0e5d97c-1a1d-4520-997a-2314ffca6cc2",
   "lastUpdatedDate": 1603384988313,
   "numberOfFavorites": 36,
-  "tags": {
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "5": "/version/1,0/",
-    "6": "/general/late game (megabase)/",
-    "8": "/production/rocket parts/",
-    "0": "/production/science/",
-    "9": "/production/modules/",
-    "7": "/production/smelting/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/late game (megabase)/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/modules/",
+    "/production/smelting/"
+  ],
   "title": "Raw to Science 500spm v1.35 Compact and Belt-based "
 }

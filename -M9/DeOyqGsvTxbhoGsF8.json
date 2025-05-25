@@ -26,8 +26,8 @@
   "descriptionMarkdown": "Based on https://factorioprints.com/view/-Km1lkj01tpm3xAupmp_ that based on: https://factorioprints.com/view/-KjCCUIABnQ6DypRg-4H. This factory builds rockets from Iron and copper plates (not ore), coal, water and oil. This may not be as optimized as the original, but it works well. Daniel Vestøl gets the credit for building this amazing machine: https://factorioprints.com/user/ESFvPPTWo2ZAnNtKUVNQOZFVIPM2.\n\nIron plates go in the four right belts, copper plates go in the two belts left of iron, coal goes in the far left belt.. Water connects to the right pipe closest to the coal, and oil connects to the pipe left of water.",
   "fileName": "rocket factory0.17 grav.jpg",
   "lastUpdatedDate": 1591536115724,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/production/rocket parts/",
+    "/version/0,17/"
+  ]
 }

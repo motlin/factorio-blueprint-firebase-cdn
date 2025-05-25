@@ -5,15 +5,15 @@
     "width": 640,
     "height": 480
   },
-  "tags": {
-    "5": "/version/0,15/",
-    "6": "/general/late game (megabase)/",
-    "0": "/production/smelting/",
-    "1": "/power/accumulator/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/power/accumulator/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "3vYT0t6ACxYBjlO4R1OZbeIlZ312"
   },

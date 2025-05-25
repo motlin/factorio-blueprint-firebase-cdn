@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1696119802678,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Dawnseeker Modular Sushi"
 }

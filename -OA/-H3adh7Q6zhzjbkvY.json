@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/Felb83p",
   "lastUpdatedDate": 1729940105840,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Parameterised Bot Mall V2",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

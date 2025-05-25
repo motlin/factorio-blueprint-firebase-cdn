@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/6EfIz0G",
   "lastUpdatedDate": 1730201421320,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/power/nuclear/",
-    "2": "/mods/space-age/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/power/nuclear/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "430 MW Nuclear Power for Aquilo",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

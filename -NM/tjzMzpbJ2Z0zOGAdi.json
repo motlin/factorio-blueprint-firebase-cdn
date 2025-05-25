@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1674932385353,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/1,1/"
+  ],
   "title": "Factory Seed"
 }

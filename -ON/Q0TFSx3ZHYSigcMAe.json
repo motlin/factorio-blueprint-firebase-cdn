@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/mVtar6d.png",
   "lastUpdatedDate": 1744220964760,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Kovarex Uranium Processing with Automatic Logic // Обработка урана им. Коварекса с автоматической логикой",
   "favorites": {
     "f0CbsucnXkSRrEcovqofNyHXRzl1": true,

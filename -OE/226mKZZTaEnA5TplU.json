@@ -20,13 +20,13 @@
   "imageUrl": "https://imgur.com/LmPkFfF",
   "lastUpdatedDate": 1738644415885,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/unloading station/",
-    "5": "/train/junction/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/",
+    "/train/junction/"
+  ],
   "title": "DragonTrain - Automatic Train Dispatching"
 }

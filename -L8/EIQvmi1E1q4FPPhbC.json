@@ -8,10 +8,10 @@
     "type": "image/jpeg",
     "width": 796
   },
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,16/"
+  ],
   "title": "SeaBlock geode to dust",
   "author": {
     "userId": "m3BdZz9vk2WT89sHFUMRkVis1wi1"

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1673362435589,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/science/",
-    "2": "/general/early game/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/general/early game/",
+    "/version/1,1/"
+  ],
   "title": "Startup Base V1",
   "favorites": {
     "rKXwycxs3APymiQr644tYwfnKPG3": true,

@@ -22,13 +22,13 @@
   },
   "lastUpdatedDate": 1551788470849,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/0,15/",
-    "3": "/production/rocket parts/",
-    "4": "/production/plastic/",
-    "5": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,15/",
+    "/production/rocket parts/",
+    "/production/plastic/",
+    "/production/smelting/"
+  ],
   "title": "KaOs Prints collection"
 }

@@ -30,13 +30,13 @@
   },
   "lastUpdatedDate": 1711310477520,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/train/loading station/",
-    "2": "/train/right-hand-drive/",
-    "3": "/circuit/indicator/",
-    "4": "/mods/other/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/train/loading station/",
+    "/train/right-hand-drive/",
+    "/circuit/indicator/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Outpost Station v1.9"
 }

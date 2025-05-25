@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/w6GCbka",
   "lastUpdatedDate": 1745347860005,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/mods/space-age/"
+  ],
   "title": "Reator Nuclear para Aquilo",
   "favorites": {
     "NirFvQUqLhX2el0gSUm05IXdso02": true,

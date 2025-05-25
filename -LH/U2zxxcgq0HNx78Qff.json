@@ -34,16 +34,16 @@
     "userId": "9GgJ0Zw7C4Rw4OLVszyGkmpQ39b2"
   },
   "authorId": "9GgJ0Zw7C4Rw4OLVszyGkmpQ39b2",
-  "tags": {
-    "0": "/production/modules/",
-    "3": "/production/robots/",
-    "6": "/production/belt based/",
-    "7": "/production/inserters/",
-    "8": "/general/compact/",
-    "1": "/production/belts/",
-    "2": "/production/mall (make everything)/",
-    "4": "/production/logistic (bot) based/",
-    "5": "/production/other/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/production/robots/",
+    "/production/belt based/",
+    "/production/inserters/",
+    "/general/compact/",
+    "/production/belts/",
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/",
+    "/production/other/"
+  ],
   "title": "Factories for logistics"
 }

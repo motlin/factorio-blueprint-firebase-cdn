@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1666222259834,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/mining/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/mining/",
+    "/general/mid game/"
+  ],
   "title": "Core Mining (Space Exploration x Krastorio 2) ",
   "favorites": {
     "M1WxVkVoNuP3AFASuh14knMkFmS2": true,

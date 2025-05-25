@@ -26,10 +26,10 @@
   },
   "authorId": "pf6efNZ5IsZGKvYYJih5mx8hfck1",
   "descriptionMarkdown": "Added this simple station because I couldn't find something else here....\n* Each pump load/unloads from a dedicated tank\n* A train can dump/pick-up it's load (375K) exactly once so you could add some extra buffer with pumps in between!\n* loading (and theoretically unloading) takes 16 seconds\n\n\n/edit: seems like only 3 pumps connect so I got rid of extra stuff, that's what you get for not seeing animations because you always have icons enabled :)",
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ]
 }

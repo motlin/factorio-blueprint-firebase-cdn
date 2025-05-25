@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1652046187574,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Fabrica principal da serie",
   "favorites": {
     "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,

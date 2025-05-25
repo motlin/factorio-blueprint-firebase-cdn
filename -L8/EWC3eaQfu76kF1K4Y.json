@@ -298,10 +298,10 @@
   },
   "lastUpdatedDate": 1521752528671,
   "numberOfFavorites": 356,
-  "tags": {
-    "2": "/production/science/",
-    "0": "/production/belt based/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/belt based/",
+    "/production/research (labs)/"
+  ],
   "title": "Base in a box"
 }

@@ -11,10 +11,10 @@
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
     "oEiqOA6YvQVngyjKEJQ40jleaEz1": true
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "title": "0.17 Version Yellow Science",
   "author": {
     "userId": "6EuJrc54N9TDOFQgDK7WC9Y90R23"

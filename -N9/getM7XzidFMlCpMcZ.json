@@ -33,9 +33,9 @@
   },
   "lastUpdatedDate": 1660754915024,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "Yet Another Infinitely-tileable Nuclear Reactor"
 }

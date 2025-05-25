@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ZTisiyH",
   "lastUpdatedDate": 1736196550714,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-exploration/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-exploration/",
+    "/mods/space-age/"
+  ],
   "title": "Light Transporter"
 }

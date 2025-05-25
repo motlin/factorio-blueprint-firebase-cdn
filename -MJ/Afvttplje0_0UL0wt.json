@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1631214399880,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/early game/"
+  ],
   "title": "Early game lubricant processing"
 }

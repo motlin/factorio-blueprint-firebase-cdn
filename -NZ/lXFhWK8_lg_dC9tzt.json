@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1688753212403,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "4 way intersection",
   "favorites": {
     "TjhsU8JBfJOCYwnDPIRfZANInuJ2": true,

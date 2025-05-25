@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/5P1aw3L",
   "lastUpdatedDate": 1731084876925,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "[Space Age] PI Throttle Control WIP",
   "favorites": {
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true

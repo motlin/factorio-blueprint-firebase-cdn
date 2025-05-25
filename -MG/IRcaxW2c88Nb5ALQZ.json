@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1628327269604,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/general/chunk aligned/",
-    "2": "/train/junction/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/chunk aligned/",
+    "/train/junction/",
+    "/train/track/"
+  ],
   "title": "Book of Blocks"
 }

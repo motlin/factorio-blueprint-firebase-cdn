@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1612474793207,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/smelting/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/smelting/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "mega factory"
 }

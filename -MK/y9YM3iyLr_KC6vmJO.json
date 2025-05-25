@@ -8,14 +8,14 @@
     "id": "cdSYjCM",
     "type": "image/jpeg"
   },
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "mUyT2467SZaK2J5KctU2mJcDSuA3": true
   },

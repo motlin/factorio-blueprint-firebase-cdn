@@ -92,9 +92,9 @@
   "imageUrl": "https://imgur.com/OjlOKWi",
   "lastUpdatedDate": 1744992345935,
   "numberOfFavorites": 38,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/train/track/"
+  ],
   "title": "MegaCity to Space"
 }

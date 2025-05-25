@@ -8,11 +8,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Cropped%20Annotated%20Combined%20Sides.png?alt=media&token=64268d76-2c4d-47c2-b518-e7de24914c1c",
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "khLPe6WmLRMQMcimI8nXXVibBe63": true,
     "lRfv53SkelVufhuORlCICvwesZi2": true

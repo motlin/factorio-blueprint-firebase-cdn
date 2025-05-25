@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1619547388805,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Uriel - Reloj completo - Diccionario.",
   "favorites": {
     "9itvTQ8HJJXy4LgqQ5FIyxPifm02": true,

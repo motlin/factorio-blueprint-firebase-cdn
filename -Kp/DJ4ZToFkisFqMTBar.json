@@ -12,14 +12,14 @@
     "id": "NmyzSIH",
     "type": "image/png"
   },
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/general/compact/",
-    "3": "/production/science/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/general/compact/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/mods/bobs/"
+  ],
   "author": {
     "userId": "Mz5BMfN2qSaNSjvPZoqeVI9OxcS2"
   },

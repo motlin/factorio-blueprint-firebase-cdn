@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/fLzwnfL",
   "lastUpdatedDate": 1728441331733,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "clean modular mall ",
   "favorites": {
     "HusEaZosA2gerZwgxPsGJs6x5Ni2": true

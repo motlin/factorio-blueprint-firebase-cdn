@@ -10,12 +10,12 @@
     "id": "Nzj3GGp",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "If7P9u6Tf6exvndWcCBASfehWHA2": true,
     "KOM4a88DAdQ8H8tvH51R7FGXUcP2": true,

@@ -16,11 +16,11 @@
   },
   "createdDate": 1573898210160,
   "fileName": "GreenCircuitsEarlyGame.jpg",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/electronic circuit (green)/",
+    "/general/early game/"
+  ],
   "favorites": {
     "NE2gW3cV9CdGFUnoqoACUMv5egK2": true,
     "vog6i9NBWLcl2WjT2UgD8FpwfBs1": true,

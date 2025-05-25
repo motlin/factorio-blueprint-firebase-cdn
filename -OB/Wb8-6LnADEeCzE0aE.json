@@ -31,12 +31,12 @@
   "imageUrl": "https://imgur.com/Ux4XFIZ",
   "lastUpdatedDate": 1731437468921,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/beaconized/",
-    "4": "/moderation/duplicate/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/beaconized/",
+    "/moderation/duplicate/"
+  ],
   "title": "Colections Lebowski"
 }

@@ -27,10 +27,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20GW_core.jpg?alt=media&token=8a3f6aef-2326-4d23-b435-fe63efe4e682",
   "lastUpdatedDate": 1498647321574,
   "numberOfFavorites": 37,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Infinitely Scaling Nuclear Reactor Design (Tested to 20GW)"
 }

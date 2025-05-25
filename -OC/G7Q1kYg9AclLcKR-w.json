@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/IppQokw",
   "lastUpdatedDate": 1732232983753,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Timed Bot Inserter",
   "favorites": {
     "SOS2S8idyUNh1dENwGScRoQXo952": true,

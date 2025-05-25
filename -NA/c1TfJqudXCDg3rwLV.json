@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1690741369697,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "94x94 city block",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,

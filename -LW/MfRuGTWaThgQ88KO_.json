@@ -20,8 +20,8 @@
   },
   "lastUpdatedDate": 1576650265194,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Sushi Mine Controller for Diggy Scenario"
 }

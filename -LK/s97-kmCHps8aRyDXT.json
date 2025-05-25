@@ -3,12 +3,12 @@
   "descriptionMarkdown": "i created this book because i needed it for myself and i thought it could help others.\n\nit contains a track with 2 rails, 2 rails and 1 station ( left and right seperate) and a track with 2 rails and 2 stations on both sides.\n\ni created it so that the straight and double station would be the same if flipped.\n\n(colors may be different. bad quality screenshot so i messed with it for better viewing)",
   "fileName": "rails.jpg",
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/track/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Book of Rails",
   "favorites": {
     "mfUaOi3cQ7gRPUL5raCfdewGzMe2": true

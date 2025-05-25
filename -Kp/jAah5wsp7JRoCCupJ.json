@@ -8,12 +8,12 @@
   },
   "lastUpdatedDate": 1500815283035,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Flowmeter by counting Barrels",
   "author": {
     "userId": "G0hS5cjMsoZCTJEeWXe3Y0XGVXJ3"

@@ -6,9 +6,9 @@
     "height": 763
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/batteries/"
-  },
+  "tags": [
+    "/production/batteries/"
+  ],
   "title": "Old Oak's sulfuric acid and battery",
   "descriptionMarkdown": "This setup produces 2.2k batteries per minute.",
   "fileName": "batterie.PNG",

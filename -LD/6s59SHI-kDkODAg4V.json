@@ -16,11 +16,11 @@
   "createdDate": 1555984048861,
   "lastUpdatedDate": 1555984048861,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/mods/other/"
+  ],
   "favorites": {
     "UJdpKFeJ66bz11iHHUGjMVcZ8It2": true,
     "XYxF6dLBPTR40dQ5jfEQJP9Vpbj1": true,

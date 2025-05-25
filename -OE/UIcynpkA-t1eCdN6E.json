@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/eP1JdCe",
   "lastUpdatedDate": 1736170016013,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo - Nuclear Plant - Medium size",
   "favorites": {
     "TjesX2JYqJTkx7Dqp8hOnZLGX0J2": true,

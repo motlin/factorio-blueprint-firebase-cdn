@@ -10,13 +10,13 @@
     "width": 1920
   },
   "lastUpdatedDate": 1536457791790,
-  "tags": {
-    "1": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/circuit/indicator/"
+  ],
   "fileName": "Display Number.PNG",
   "numberOfFavorites": 5,
   "authorId": "YYKfFeMBCAeKcZhFL4L65sw0NMz2",

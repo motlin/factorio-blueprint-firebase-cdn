@@ -47,12 +47,12 @@
   },
   "lastUpdatedDate": 1511328115865,
   "numberOfFavorites": 80,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "KoS Late Game Mall Version 2.3"
 }

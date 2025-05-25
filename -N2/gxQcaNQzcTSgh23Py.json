@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1653242970000,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Все модули",
   "favorites": {
     "YnHQQcleRlZhe3wBfVDFjnBId7O2": true,

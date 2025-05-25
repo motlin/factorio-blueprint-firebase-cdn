@@ -18,13 +18,13 @@
     "width": 1920
   },
   "lastUpdatedDate": 1545623156676,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/general/beaconized/",
-    "3": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "5": "/production/robots/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/production/robots/"
+  ],
   "title": "Bot Production"
 }

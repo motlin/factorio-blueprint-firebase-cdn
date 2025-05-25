@@ -13,10 +13,10 @@
   },
   "createdDate": 1522093261775,
   "descriptionMarkdown": "Simple Nanobot setup",
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/production/robots/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/robots/"
+  ],
   "title": "Nanobots setup",
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,

@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/kAr4uQM.png",
   "lastUpdatedDate": 1739160460647,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Antares: a small Aquilo capable auto-assembler space platform",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

@@ -28,13 +28,13 @@
   },
   "lastUpdatedDate": 1567293235591,
   "numberOfFavorites": 11,
-  "tags": {
-    "5": "/mods/vanilla/",
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/general/beaconized/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "20k/min Production Science Factory (Purple Science)"
 }

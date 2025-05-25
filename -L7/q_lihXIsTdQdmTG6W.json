@@ -7,13 +7,13 @@
     "width": 1588
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/train/track/",
-    "4": "/version/0,16/",
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/track/",
+    "/version/0,16/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "lastUpdatedDate": 1521334296558,
   "title": "Petroleum products",
   "author": {

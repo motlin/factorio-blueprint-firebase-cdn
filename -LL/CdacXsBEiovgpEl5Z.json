@@ -10,11 +10,11 @@
   "descriptionMarkdown": "My first eight-core reactor.",
   "fileName": "Screenshot (16).png",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Eight-core reactor",
   "author": {
     "userId": "LnSCvJAxIFTwyC6ij4qa3h1gTyD3"

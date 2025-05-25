@@ -29,12 +29,12 @@
   },
   "lastUpdatedDate": 1622242152310,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,15/",
-    "3": "/production/smelting/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/early game/"
+  ],
   "title": "Angel Bob Early Game Book"
 }

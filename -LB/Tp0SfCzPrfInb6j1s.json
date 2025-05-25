@@ -15,10 +15,10 @@
     "width": 1325
   },
   "lastUpdatedDate": 1554221635551,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Turbins"
 }

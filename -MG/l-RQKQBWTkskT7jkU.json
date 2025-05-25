@@ -26,13 +26,13 @@
   },
   "lastUpdatedDate": 1674973130342,
   "numberOfFavorites": 7,
-  "tags": {
-    "4": "/power/solar/",
-    "5": "/version/1,0/",
-    "0": "/production/science/",
-    "1": "/power/nuclear/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/1,0/",
+    "/production/science/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "TroZ's Megabase Blueprints"
 }

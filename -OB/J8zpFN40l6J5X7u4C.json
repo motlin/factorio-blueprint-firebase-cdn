@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/z2t25Su",
   "lastUpdatedDate": 1732721160251,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-age/"
+  ],
   "title": "1.4GW Aquilo Fusion Power Station ",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

@@ -54,15 +54,15 @@
     "width": 1586
   },
   "lastUpdatedDate": 1594950843039,
-  "tags": {
-    "4": "/train/junction/",
-    "5": "/train/roundabout/",
-    "6": "/mods/vanilla/",
-    "0": "/version/0,18/",
-    "1": "/train/track/",
-    "2": "/train/crossing/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/train/track/",
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "author": {
     "userId": "QBq0TJtdR5VAiTdh5DKdPLMWgyo1"
   },

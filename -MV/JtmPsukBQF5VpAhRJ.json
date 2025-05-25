@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1644249425753,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/1,0/",
-    "2": "/mods/industrial revolution/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/1,0/",
+    "/mods/industrial revolution/"
+  ],
   "title": " Industrial Revolution 2 Basic Ciruit Boards",
   "favorites": {
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,

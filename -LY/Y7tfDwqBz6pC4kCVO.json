@@ -2,9 +2,9 @@
   "authorId": "x7VTxtezbwaIM7QoQKPpDueMAYl1",
   "fileName": "Nexus969-8Reactor.jpg",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "1.12GW 8 Reactor ",
   "favorites": {
     "9FacMA0jo8R6l3BDRbSNjUlbxmQ2": true,

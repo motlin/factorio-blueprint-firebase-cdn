@@ -33,12 +33,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2021-04-11%2018_11_06-Factorio%201.1.30%202.png?alt=media&token=4b899355-0d11-4e26-b1ac-72a3aeb9d27a",
   "lastUpdatedDate": 1670646675066,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/train/right-hand-drive/",
-    "3": "/mods/vanilla/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "kiSS - k's Train Smelter (RHD) 0.1e"
 }

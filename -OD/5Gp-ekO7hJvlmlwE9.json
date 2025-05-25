@@ -20,8 +20,8 @@
   "imageUrl": "https://imgur.com/q3q6AjJ",
   "lastUpdatedDate": 1733152285969,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Galaga Ship"
 }

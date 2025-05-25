@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1648030560392,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/1,0/"
+  ],
   "title": "Research Labs Chain",
   "favorites": {
     "RftY0icQgLUu6yfkIZ8W4aZeEGf1": true,

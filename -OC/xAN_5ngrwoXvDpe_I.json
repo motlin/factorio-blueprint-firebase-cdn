@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/XCGTFAe",
   "lastUpdatedDate": 1732985423066,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "9G Fusion power setup",
   "favorites": {
     "WYhE5I5cu1eKAARMw4JuzsdzIfq1": true,

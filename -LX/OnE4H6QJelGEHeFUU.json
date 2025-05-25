@@ -3,9 +3,9 @@
   "createdDate": 1577759601154,
   "descriptionMarkdown": "Farm para metais e pedra basicamente ...",
   "title": "Farm de metais",
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "author": {
     "userId": "hGaTS4XqcOgnSsp7BWzCa0uxQXu2"
   },

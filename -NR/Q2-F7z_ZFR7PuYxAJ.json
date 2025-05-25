@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1708780252523,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/power/solar/"
+  ],
   "title": "Power Indicator",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/mVG3qw7",
   "lastUpdatedDate": 1745249448384,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/power/solar/"
+  ],
   "title": "Khan Class İnner Planet Transport Ship",
   "favorites": {
     "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true,

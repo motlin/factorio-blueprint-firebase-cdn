@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1598769746548,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Science packs: I-VI tiers",
   "favorites": {
     "GdAs1mYa1LYVelXje1TORJRCWdM2": true,

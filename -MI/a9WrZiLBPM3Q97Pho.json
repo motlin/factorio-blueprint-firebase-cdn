@@ -11,9 +11,9 @@
   "createdDate": 1601589354010,
   "descriptionMarkdown": "Just add nuclear rocket fuel and enjoy the Infinityloop!= as it was meant to be enjoyed.\n\n",
   "fileName": "Infinitylop.png",
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "Train Loop for fun and profit",
   "author": {
     "userId": "EgJwfvnUBnSaUM9rKAMxrSjkVFp1"

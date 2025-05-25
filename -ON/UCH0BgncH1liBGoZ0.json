@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/W2tHO9R",
   "lastUpdatedDate": 1744281278303,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/vulcanus/"
+  ],
   "title": "Automation science pack on vulcanus 700+ per min",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

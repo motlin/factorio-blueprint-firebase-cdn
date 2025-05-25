@@ -11,11 +11,11 @@
   "descriptionMarkdown": "The counterpart to the Train Loader, this blueprint is designed for use shortly after rail technologies have been researched. It uses Tier 1 components throughout apart from the steel chests. Only really suitable for yellow belts and inserters, but can be upgraded to higher tier components, in which case circuit control such as that developed by MadZuri should be introduced. Produced in version 0.16.22 so may not work in version 0.15",
   "lastUpdatedDate": 1518257540799,
   "numberOfFavorites": 11,
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/train/unloading station/"
+  ],
   "title": "Early Game 1-4-1 Train Unloader",
   "author": {
     "userId": "LwASv8Mm0qeOmWYCBBW0MFbw39s2"

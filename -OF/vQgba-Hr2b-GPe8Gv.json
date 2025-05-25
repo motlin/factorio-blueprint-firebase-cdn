@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/itaUu6v",
   "lastUpdatedDate": 1736164018591,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Upload Station",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

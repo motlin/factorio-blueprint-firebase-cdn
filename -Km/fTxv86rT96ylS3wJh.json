@@ -17,11 +17,11 @@
   "descriptionMarkdown": "A blueprint for making fast (blue) inserters.",
   "lastUpdatedDate": 1499430413782,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "1mjnvrCQoHcHZywHY1koDnJGFKm2"
   },

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1699400708403,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/train/right-hand-drive/"
+  ],
   "title": "City-Block 0.2",
   "favorites": {
     "9ZE3tGIaUQh1jb7yxrtZNeMXTMa2": true,

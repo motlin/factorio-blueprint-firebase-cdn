@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ukotpzM",
   "lastUpdatedDate": 1730247130585,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "The Everything Maschine",
   "favorites": {
     "q3ShVg8zqVhjVnssQRRznAWZCSo1": true,

@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/jYqR9d4",
   "lastUpdatedDate": 1733436323694,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/mods/space-age/",
-    "2": "/production/scrap processing/",
-    "3": "/planets/fulgora/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/space-age/",
+    "/production/scrap processing/",
+    "/planets/fulgora/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "scrap metal separator for Fulgora",
   "favorites": {
     "NJ6vW4CGKwYxUplcSnLTgAt04tn1": true

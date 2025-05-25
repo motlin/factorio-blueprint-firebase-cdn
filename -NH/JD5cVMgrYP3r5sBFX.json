@@ -21,8 +21,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Blop-Blop.png?alt=media&token=35184b3d-55ad-4fff-b2a3-848b5ff8782c",
   "lastUpdatedDate": 1697925364418,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,1/"
-  },
+  "tags": [
+    "/version/1,1/"
+  ],
   "title": "My Blueprint Layout"
 }

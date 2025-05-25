@@ -16,10 +16,10 @@
     "width": 944,
     "height": 935
   },
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/train/junction/"
+  ],
   "favorites": {
     "YbSKRbCDM3T7JI8Z6i9b8qAWZnR2": true,
     "nYTigzLf2ac9FF5Ny2fIHGnVMj12": true,

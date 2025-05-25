@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/J71SlFJ",
   "lastUpdatedDate": 1735250122736,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de Ciências de materiais 4vers. 1.1 (Exotics + S.E.)",
   "favorites": {
     "F7ggoG355bVy1nr66SBbq3WwsDi1": true

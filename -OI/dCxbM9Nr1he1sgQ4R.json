@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/PfqVKAx",
   "lastUpdatedDate": 1739079618564,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/train/junction/",
-    "3": "/train/crossing/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/train/junction/",
+    "/train/crossing/"
+  ],
   "title": "Railway junction",
   "favorites": {
     "yehzpASIvFUJtKwWUefYRuiJFfo2": true,

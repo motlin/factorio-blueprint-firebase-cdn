@@ -34,12 +34,12 @@
   },
   "lastUpdatedDate": 1554182963043,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/bobs/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/advanced circuit (red)/",
-    "4": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/bobs/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Bobs Circuits 0.17"
 }

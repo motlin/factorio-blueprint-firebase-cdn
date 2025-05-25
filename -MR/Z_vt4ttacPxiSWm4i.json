@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1640217690037,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/roundabout/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "Hex Grid Rails"
 }

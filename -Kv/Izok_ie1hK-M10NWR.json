@@ -24,10 +24,10 @@
   "descriptionMarkdown": "Stackable beacon blueprint for making plastic. Found from [this thread](https://forums.factorio.com/viewtopic.php?f=8&t=38390#) and converted to 0.15.\n- Inputs: 1 blue belt of coal, and some petroleum\n- Outputs: 2 blue belts of plastic",
   "lastUpdatedDate": 1506809436055,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

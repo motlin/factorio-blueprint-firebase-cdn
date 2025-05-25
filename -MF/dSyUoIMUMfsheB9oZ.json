@@ -20,9 +20,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Reactor%202.png?alt=media&token=f54f7558-6c4a-48a2-a335-8e3b2c382573",
   "lastUpdatedDate": 1598434477310,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "3.68 GW 12 x 2 Belt Fed Nuclear Reactor v1.1"
 }

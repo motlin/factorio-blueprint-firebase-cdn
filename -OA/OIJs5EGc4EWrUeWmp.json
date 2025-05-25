@@ -91,11 +91,11 @@
   "imageUrl": "https://imgur.com/nmsMmOp",
   "lastUpdatedDate": 1731236768271,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/",
-    "2": "/power/nuclear/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "Aquilo Ship"
 }

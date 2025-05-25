@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "S9kDskV9WgTq0C929MA1jCnBATu1"
   },

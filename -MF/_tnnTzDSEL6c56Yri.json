@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1598363745681,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/mods/vanilla/",
-    "2": "/production/mall (make everything)/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/version/1,0/"
+  ],
   "title": "Sushi Hub™"
 }

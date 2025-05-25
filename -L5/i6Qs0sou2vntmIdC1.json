@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1519044640334,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Red/Green Science Labs +Grenades",
   "author": {
     "userId": "45h8wc5yUWXIsHYF4iEJ48YcyQ02"

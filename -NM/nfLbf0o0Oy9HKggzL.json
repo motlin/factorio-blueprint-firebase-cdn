@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674830506868,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "City Block",
   "favorites": {
     "ZRqyYlCb84Vo1mYHME3Ip6VfGy33": true,

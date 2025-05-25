@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/NwEQhmk",
   "lastUpdatedDate": 1730144904879,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Keats Navigator (version 1)"
 }

@@ -16,12 +16,12 @@
     "width": 1179
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/train/stacker/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/train/stacker/",
+    "/train/unloading station/"
+  ],
   "title": "Tentacle Splitter v1.1 (Pebble)",
   "author": {
     "userId": "VdlW6mvTuyTILdb5Tv4wlmu6cPy2"

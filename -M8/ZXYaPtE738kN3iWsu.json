@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1590824679960,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/production/uranium/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Kovarex Processing"
 }

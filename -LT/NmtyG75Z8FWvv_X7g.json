@@ -20,8 +20,8 @@
   },
   "lastUpdatedDate": 1544461977797,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/general/compact/"
-  }
+  "tags": [
+    "/train/unloading station/",
+    "/general/compact/"
+  ]
 }

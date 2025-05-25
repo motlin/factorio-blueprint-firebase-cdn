@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/AW6AFBA",
   "lastUpdatedDate": 1743383932422,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/planets/space-platform/",
-    "2": "/production/inserters/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/planets/space-platform/",
+    "/production/inserters/"
+  ],
   "title": "Gleba bulk inserter orbital assembler"
 }

@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1666473748819,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/train/roundabout/",
-    "2": "/train/junction/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Bloco com mercado 03"
 }

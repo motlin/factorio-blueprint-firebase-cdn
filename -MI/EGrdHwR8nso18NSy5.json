@@ -4,12 +4,12 @@
   "descriptionMarkdown": "The most optimized system",
   "lastUpdatedDate": 1601205402370,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/other/"
+  ],
   "author": {
     "userId": "v6XakptxuzOG2hQYFGWZA8XrlN62"
   },

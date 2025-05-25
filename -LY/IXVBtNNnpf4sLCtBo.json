@@ -22,9 +22,9 @@
     "ElEDzxOE6DPoHOrIfkizhzftvEh2": true
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "0": "/production/plastic/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/plastic/"
+  ]
 }

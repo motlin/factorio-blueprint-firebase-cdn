@@ -15,19 +15,19 @@
   },
   "lastUpdatedDate": 1670693175332,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/version/1,1/",
-    "4": "/version/0,14/",
-    "5": "/version/0,15/",
-    "6": "/version/0,16/",
-    "7": "/version/0,17/",
-    "8": "/version/0,18/",
-    "9": "/version/1,0/",
-    "10": "/version/unknown/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/version/1,1/",
+    "/version/0,14/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/version/unknown/"
+  ],
   "title": "Early Game Green Circuits 2x 15/s",
   "favorites": {
     "XPrHyuSD83dkg96B62pObqJmlnk1": true,

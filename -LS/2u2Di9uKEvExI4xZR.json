@@ -16,16 +16,16 @@
   "descriptionMarkdown": "Got heavily inspired by u/Anrond 's Drive-in Mall (https://www.reddit.com/r/factorio/comments/883o6n/i_present_my_drivein_mall/) and designed my own version. After ~15h of engineering this is what i came up with:\n\n* Easy to connect inputs \n* Circuit controlled buffers\n* Smart product sorting with bots\n * A lot of stuff could be dumped into logistic network and be recycled by the Mall, instead of staying forever in some storage chest.\n* Expandable logistic network storage\n* Easier to place due to less-squareish shape - blueprint better fits with-in 16:9 monitor\n* Literally every single item you will ever need, except probably cliffs explosives (cause who d fuck plays with cliffs 'on' anyways)\n* Spool-up time around 2-3h until most of the products will fill their buffers (if you dont want to wait, it is better to dump all you have in the system right away, for bots to sort them)\n\nInputs:\n * Electricity\n* up to 40MWt while operating\n* around 2.6MWt idle\n * Resources  (in blue belts)\n* x3 Iron\n* x0.5 Copper\n* x1 Coal\n* x0.5 Steel\n* x1 Green chips\n* x0.5 Red chips\n* x0.5 Stone\n* x0.5 Stone blocks\n* x1 Concrete\n* x0.5 Explosives\n* x0.5 Plastic\n* x1 Batteries \n *Lubricant pipe\n\n\nEarly-game downgrade compatible:\n* Can work without logic network\n* Can work without bots\n* Can work without modules\n* Expensive blue belts can be changed to red ones\n* Expensive stack inserters can can be changed to cheap ones\n* Expensive logistic chests can be changed to cheap ones\n* Expensive LVL3 assemblers can be changed to cheap ones",
   "fileName": "Снимок экрана (2104).png",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,17/",
-    "2": "/production/belt based/",
-    "3": "/mods/vanilla/",
-    "4": "/general/late game (megabase)/",
-    "5": "/belt/express transport belt (blue)/",
-    "6": "/belt/fast transport belt (red)/",
-    "7": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/belt/express transport belt (blue)/",
+    "/belt/fast transport belt (red)/",
+    "/production/logistic (bot) based/"
+  ],
   "favorites": {
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

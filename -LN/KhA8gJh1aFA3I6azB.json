@@ -11,10 +11,10 @@
     "width": 684
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "[EXPENSIVE] 1 Electric Miner per second",
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"

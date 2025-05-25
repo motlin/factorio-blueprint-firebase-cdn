@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1691168695548,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/track/"
+  ],
   "title": "Chunk-Aligned Railway System with Wires (Snaps to 32x32 grid)"
 }

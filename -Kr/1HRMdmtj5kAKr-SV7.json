@@ -12,12 +12,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Advanced%20circuit.png?alt=media&token=1d016416-76c6-48be-aac7-a2cbcf664387",
   "lastUpdatedDate": 1502235846422,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "PE92MmUJmCVzXGnW5dO6dxClp3W2"
   },

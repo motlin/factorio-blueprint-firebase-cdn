@@ -8,12 +8,12 @@
     "id": "yJI6zIe"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/general/early game/",
-    "3": "/general/compact/",
-    "0": "/production/mining/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/production/mining/",
+    "/production/other/"
+  ],
   "title": "Assortment production",
   "author": {
     "userId": "aQGtceSI1TcdVJsP5aHorGvuuNe2"

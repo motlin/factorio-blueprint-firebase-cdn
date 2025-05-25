@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/1adVmSC",
   "lastUpdatedDate": 1730299178205,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Transportation Platform",
   "favorites": {
     "HblkQpxPU6NHDb54wuuRutEd0UU2": true,

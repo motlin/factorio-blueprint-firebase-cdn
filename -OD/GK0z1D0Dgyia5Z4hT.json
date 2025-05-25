@@ -16,8 +16,8 @@
   "imageUrl": "https://imgur.com/VNS7S2m",
   "lastUpdatedDate": 1733310766514,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Science 5/sec from raw ore"
 }

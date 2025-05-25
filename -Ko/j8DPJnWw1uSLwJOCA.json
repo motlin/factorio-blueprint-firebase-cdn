@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/"
+  ],
   "title": "Early Game Smelter Setup",
   "author": {
     "userId": "sTiNo1UH4fOrNtvP84fueeylbVm1"

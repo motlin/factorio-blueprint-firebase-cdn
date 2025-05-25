@@ -11,10 +11,10 @@
     "RSIYMRR27Ph6QnxnG8V70mJAl8f1": true,
     "MsvijdKJ6fWWBCx2JDxH6fVL4Kk2": true
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/compact/"
+  ],
   "title": "Compact Reactor x2 (smart, max 160 MW)",
   "author": {
     "userId": "bvBzzXXCp5c3fZA7nUQZ57kJ5893"

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1694766866401,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/mods/vanilla/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "Single-core 40MW fuel-saving reactor",
   "favorites": {
     "WtHOWeFT5vTtLILTMAgIl6sFJjq2": true,

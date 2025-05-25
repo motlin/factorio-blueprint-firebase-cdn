@@ -2,9 +2,9 @@
   "createdDate": 1612983002796,
   "descriptionMarkdown": "Paste-able steel furnace line assuming one line of half resource/half fuel on the outside",
   "lastUpdatedDate": 1612983002796,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Scalable Steel Furnaces (single belt feed)",
   "author": {
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"

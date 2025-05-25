@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blueprints.png?alt=media&token=594b99b1-4b72-4e55-8fbc-dbc3eeee4896",
   "lastUpdatedDate": 1523636532768,
   "numberOfFavorites": 15,
-  "tags": {
-    "3": "/production/research (labs)/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Grid Science"
 }

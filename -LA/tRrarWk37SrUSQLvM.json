@@ -15,11 +15,11 @@
     "userId": "kVQTSNSajtRFQLrEZr4kMxTim8X2"
   },
   "authorId": "kVQTSNSajtRFQLrEZr4kMxTim8X2",
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Simple safe rail crossing player priority (no combinators) version 1",
   "favorites": {
     "Sf3vDqTONZPv6IjAGOue3LjFA0F3": true

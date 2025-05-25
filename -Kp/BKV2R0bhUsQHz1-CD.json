@@ -16,10 +16,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Smelter%20Set%20Up.jpg?alt=media&token=bde0a6a3-ac66-483a-bc47-4428e1e662c4",
   "lastUpdatedDate": 1500224719970,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "10-12k plates/min steel furnace set up"
 }

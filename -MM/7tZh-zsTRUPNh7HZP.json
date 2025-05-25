@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1605393436919,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/tileable/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/version/1,0/"
+  ],
   "title": "Vanilla 1.0 Tileable megabase including blueprints"
 }

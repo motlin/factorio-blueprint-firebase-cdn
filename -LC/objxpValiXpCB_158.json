@@ -6,10 +6,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "dhHcedJU7vZP5MJdw3dIJBzqAVq2"
   },

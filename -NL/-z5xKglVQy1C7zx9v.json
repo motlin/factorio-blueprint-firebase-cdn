@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1672906305609,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/general/late game (megabase)/"
+  ],
   "title": "966MW Solar Array"
 }

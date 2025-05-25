@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1680714627451,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "2x2 reactor symmetric",
   "favorites": {
     "4kKW3vkrtzelzR7pLDPpJ8MSRfU2": true

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/teITamB",
   "lastUpdatedDate": 1732899106577,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Compact 480 red circuit per second (somewhat symmetrical) lategame setup",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1661381038244,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/belt/balancer/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/compact/"
+  ],
   "title": "2Nx8 Corner Balancer",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1675013109408,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/prioritizer/",
-    "1": "/production/science/",
-    "2": "/mods/transport drones/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/production/science/",
+    "/mods/transport drones/"
+  ],
   "title": "Science Sushi",
   "favorites": {
     "h0nhDkkNR9Nmk3dsi4J5D1JAihh1": true

@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1565476051124,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/",
-    "2": "/version/0,17/",
-    "3": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/",
+    "/version/0,17/",
+    "/train/crossing/"
+  ],
   "title": "4 Track, 4-Way Intersection with Crosswalks"
 }

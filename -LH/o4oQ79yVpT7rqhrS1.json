@@ -17,13 +17,13 @@
   "fileName": "bot_smelting.png",
   "lastUpdatedDate": 1561020811069,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/production/logistic (bot) based/",
+    "/mods/other/"
+  ],
   "title": "Bot based smelting for diggy",
   "author": {
     "userId": "SKNnCubWWwhnc0lgAgcZivrzGd93"

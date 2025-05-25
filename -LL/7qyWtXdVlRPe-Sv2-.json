@@ -14,13 +14,13 @@
   "createdDate": 1535599438031,
   "fileName": "8 lane bus taps 2.jpg",
   "numberOfFavorites": 9,
-  "tags": {
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/belt/balancer/",
-    "0": "/belt/tap/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/balancer/",
+    "/belt/tap/"
+  ],
   "authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
   "descriptionMarkdown": "Set up an 8-lane bus with taps at fixed intervals. Start with 8-lanes to a tap, then put down n copies of one of the tap with gap blueprints, then finish with tap to 8-lanes.",
   "image": {

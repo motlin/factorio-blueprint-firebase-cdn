@@ -8,12 +8,12 @@
   },
   "lastUpdatedDate": 1518753592446,
   "numberOfFavorites": 53,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Compact Solid/Liquid Train Station",
   "favorites": {
     "bjvZMJGH43cxmYlDUnj44AvFhBj2": true,

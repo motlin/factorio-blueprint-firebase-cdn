@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1692029305972,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Electric Circuit Plant",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ScreenShot_20230814190801.jpeg?alt=media&token=a349b5ae-779d-48b5-9b99-bcfa5259bcc0",
   "favorites": {

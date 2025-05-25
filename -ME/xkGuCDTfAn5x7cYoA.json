@@ -15,9 +15,9 @@
     "width": 800
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Steel smelting with stone furnace (convertible into electric furnace)",
   "favorites": {
     "r03tIibySrc7sEH7FHbWD8IoIRy1": true

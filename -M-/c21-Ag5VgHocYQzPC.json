@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1581219848310,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/nuclear/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/general/compact/"
+  ],
   "title": "16 core compact reactor"
 }

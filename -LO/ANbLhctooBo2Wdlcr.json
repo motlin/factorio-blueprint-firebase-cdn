@@ -25,8 +25,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Nuclear%20plant%202x20.png?alt=media&token=5459052a-10a1-4f6d-9842-1a45f0149564",
   "lastUpdatedDate": 1570016430698,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "40 Nuclear power plant"
 }

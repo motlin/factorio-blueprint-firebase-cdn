@@ -70,12 +70,12 @@
   "imageUrl": "https://imgur.com/Kq1fkwX",
   "lastUpdatedDate": 1737810426098,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "BEE's Space Science"
 }

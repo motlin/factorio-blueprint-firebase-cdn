@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1681146795726,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Auto build solar energy producer",
   "favorites": {
     "4kKW3vkrtzelzR7pLDPpJ8MSRfU2": true

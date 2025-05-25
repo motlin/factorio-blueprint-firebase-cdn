@@ -9,12 +9,12 @@
     "width": 988
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/power/accumulator/",
+    "/version/0,18/"
+  ],
   "title": "Medium Solar / Accumulator [repeatable]",
   "author": {
     "userId": "aQUv89N22vezowRkgHfI3VNOGhJ2"

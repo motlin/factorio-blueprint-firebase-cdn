@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1626353012111,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Kovarex loop, 8 centrifuges (Beaconed, /w combinators)",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

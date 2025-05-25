@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1621290056635,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/version/1,0/",
-    "4": "/mods/vanilla/",
-    "5": "/general/late game (megabase)/",
-    "6": "/production/science/",
-    "7": "/production/belt based/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/production/belt based/"
+  ],
   "title": "12 Beacon Science Lab Tileable w/Concrete",
   "favorites": {
     "93dOjzoJRVSEkD8AT4q3yZHHLed2": true,

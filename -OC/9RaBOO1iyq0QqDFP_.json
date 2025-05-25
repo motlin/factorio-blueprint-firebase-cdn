@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/1pfuxOg",
   "lastUpdatedDate": 1732120830904,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Speed and Prouctivity 1 Modules"
 }

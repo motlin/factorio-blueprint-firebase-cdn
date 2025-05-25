@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/p9YwAKu",
   "lastUpdatedDate": 1740909772955,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/nauvis/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/planets/nauvis/",
+    "/production/research (labs)/"
+  ],
   "title": "City block science lab"
 }

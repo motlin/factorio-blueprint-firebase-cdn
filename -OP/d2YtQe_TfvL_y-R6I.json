@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/2okL4g2",
   "lastUpdatedDate": 1746593005181,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Early Game Space Platform, Narrow",
   "favorites": {
     "x116iHju47YnnxylWFqbyoWR5GA2": true,

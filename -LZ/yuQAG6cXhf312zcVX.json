@@ -1,12 +1,12 @@
 {
   "descriptionMarkdown": "Simple cargo wagon unloader, fills 1 full red belt, put one on each side of the wagon.",
-  "tags": {
-    "4": "/general/mid game/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/belt/fast transport belt (red)/",
+    "/train/unloading station/"
+  ],
   "title": "Balanced Cargo Unloader (Red Belt/Stack Inserter/Steel Chest)",
   "favorites": {
     "TMLWJ05n1kUuMjemLD4gIUwLF9f1": true,

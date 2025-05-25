@@ -9,13 +9,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Smallest%20Green%20Curcuits%20EVER.png?alt=media&token=4ad0616d-c32e-4d5d-b797-f2cdd2ef7481",
   "numberOfFavorites": 14,
   "title": "Very Compact Green Circuits Belt Build",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "MzULrpdZngY1YbMEmAIihXt4TLd2": true,
     "klPXoHJuz8hsnAw9VPhxfXVYLn72": true,

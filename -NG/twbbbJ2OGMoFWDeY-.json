@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697484274324,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "Krstorio2 + SE core pulverazition",
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true

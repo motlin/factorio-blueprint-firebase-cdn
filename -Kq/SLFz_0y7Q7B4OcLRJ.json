@@ -11,11 +11,11 @@
   },
   "lastUpdatedDate": 1501583504078,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/sulphur%20acid.png?alt=media&token=0d674918-d315-46c6-b85e-28db36ad6ab8",
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "PMuYMg2F8Dh6sRyvJI7nspwQRc12"
   },

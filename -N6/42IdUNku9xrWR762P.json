@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1656868387496,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Smelters"
 }

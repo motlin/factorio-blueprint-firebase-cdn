@@ -5,12 +5,12 @@
     "type": "image/jpeg",
     "width": 1417
   },
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/train/loading station/",
-    "2": "/train/junction/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/train/junction/",
+    "/version/1,0/"
+  ],
   "title": "Train blueprints for train system",
   "favorites": {
     "TzRYrxZaAJRkAKcsERdcAOVLqtE3": true,

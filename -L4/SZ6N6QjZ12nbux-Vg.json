@@ -36,10 +36,10 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/MK3%20Nuclear%20Reactor%20Room.png?alt=media&token=9beb6c5c-3aa6-44c9-af9f-e130f4dce744",
   "numberOfFavorites": 44,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"
   }

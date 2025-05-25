@@ -15,8 +15,8 @@
     "width": 1920
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "authorId": "SKIwViqVTvb88DCebeIGTeH4Rkc2"
 }

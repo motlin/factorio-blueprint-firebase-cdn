@@ -26,8 +26,8 @@
   },
   "lastUpdatedDate": 1602951338301,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Speed Module 3 jumpstart outpost"
 }

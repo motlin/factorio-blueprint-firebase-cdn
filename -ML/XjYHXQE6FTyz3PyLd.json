@@ -16,10 +16,10 @@
     "type": "image/png",
     "width": 829
   },
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/electronic circuit (green)/"
+  ],
   "favorites": {
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
     "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,

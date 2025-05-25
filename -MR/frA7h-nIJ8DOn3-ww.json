@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1640339649153,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/train/track/",
-    "4": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/track/",
+    "/train/left-hand-drive/"
+  ],
   "title": "224^2 Grid Crossover Rails v0.0.1"
 }

@@ -15,13 +15,13 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "3": "/production/logistic (bot) based/",
-    "4": "/version/0,16/",
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/mods/warehousing/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/version/0,16/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/warehousing/"
+  ],
   "title": "Gold Plates and Gilded Wire with Bobs & Angels Mod",
   "author": {
     "userId": "VnDhxwRI6IUeCEKiX67NCrrV7z73"

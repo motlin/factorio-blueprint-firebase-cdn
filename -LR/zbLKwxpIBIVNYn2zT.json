@@ -8,10 +8,10 @@
     "height": 1028,
     "id": "GrnFKAb"
   },
-  "tags": {
-    "0": "/mods/creative/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/creative/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "V515dCjEUngAzrK44nUMwDHWagn1": true
   },

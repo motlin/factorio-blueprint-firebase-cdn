@@ -16,7 +16,7 @@
   "title": "my second reactor",
   "createdDate": 1529334552145,
   "fileName": "Capturee.PNG",
-  "tags": {
-    "0": "/power/nuclear/"
-  }
+  "tags": [
+    "/power/nuclear/"
+  ]
 }

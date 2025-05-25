@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1695408046487,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/rocket parts/"
+  ],
   "title": "Liquefaction to Rocket Fuel",
   "favorites": {
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,

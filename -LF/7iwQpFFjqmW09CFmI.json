@@ -9,10 +9,10 @@
     "width": 843
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/general/tileable/"
+  ],
   "title": "LTN - Refined Concrete",
   "author": {
     "userId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2"

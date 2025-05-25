@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1641953000623,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Base de arranque de Dinglebarry"
 }

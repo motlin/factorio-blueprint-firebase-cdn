@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/QiJxFV3",
   "lastUpdatedDate": 1734899542046,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/general/storage/"
+  ],
   "title": "Belt storage",
   "favorites": {
     "n8GLb3q69LdQgr2KIc1B9MS9V2w1": true,

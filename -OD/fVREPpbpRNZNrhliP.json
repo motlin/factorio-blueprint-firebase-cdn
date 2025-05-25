@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/i1JjvYQ",
   "lastUpdatedDate": 1733749228670,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Nauvis Orbit Calcite Production",
   "favorites": {
     "bUQ90kerSBcKSzFxDGFXu6gNuil1": true

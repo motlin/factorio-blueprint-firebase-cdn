@@ -26,14 +26,14 @@
     "width": 642
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "7": "/train/right-hand-drive/",
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "3": "/general/chunk aligned/",
-    "4": "/train/stacker/",
-    "5": "/train/junction/",
-    "6": "/train/roundabout/"
-  }
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/general/chunk aligned/",
+    "/train/stacker/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ]
 }

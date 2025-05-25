@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1638109211178,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/ltn/",
-    "2": "/mods/aai/",
-    "3": "/train/unloading station/",
-    "4": "/train/right-hand-drive/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/ltn/",
+    "/mods/aai/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/version/1,0/"
+  ],
   "title": "SMART LTN Requester Station",
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/VcOvIrF",
   "lastUpdatedDate": 1736992897495,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Rocket silo factory (space age)",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

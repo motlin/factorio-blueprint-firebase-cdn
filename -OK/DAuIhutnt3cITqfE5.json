@@ -44,10 +44,10 @@
   "imageUrl": "https://i.imgur.com/nw89YH6.png",
   "lastUpdatedDate": 1745762759911,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "AutoMall v2.0 (Авто сборка предметов и blueprint) [F2.0 SA]"
 }

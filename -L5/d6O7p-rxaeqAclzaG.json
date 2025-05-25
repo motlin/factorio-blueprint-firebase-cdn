@@ -9,13 +9,13 @@
     "width": 1450
   },
   "numberOfFavorites": 64,
-  "tags": {
-    "4": "/version/0,16/",
-    "0": "/general/compact/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/compact/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "1fMgbzVwu3gA9blTSLiTPAwMmkD2"
   },

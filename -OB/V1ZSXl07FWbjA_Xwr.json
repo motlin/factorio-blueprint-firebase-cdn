@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ClCScEa",
   "lastUpdatedDate": 1731409365013,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/mods/space-age/"
+  ],
   "title": "Grey Science 100 SPM. Military science pack",
   "favorites": {
     "ua9CBomtmkYtCK0iPzvUse89xEl2": true,

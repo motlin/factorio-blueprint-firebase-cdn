@@ -37,12 +37,12 @@
   },
   "lastUpdatedDate": 1551026564536,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/production/rocket parts/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "[0.17] Zazuno's 100 SPM 100x100 Minibase"
 }

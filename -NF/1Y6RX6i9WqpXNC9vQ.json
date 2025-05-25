@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1695481100254,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/right-hand-drive/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/general/compact/"
+  ],
   "title": "Smol trains",
   "favorites": {
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true

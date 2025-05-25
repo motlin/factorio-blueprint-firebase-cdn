@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1695170682116,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Revised Megabase - Circuit Production"
 }

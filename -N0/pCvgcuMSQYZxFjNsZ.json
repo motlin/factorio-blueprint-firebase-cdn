@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651234754512,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "title": "Xerol's Grid System - Solar Power",
   "favorites": {
     "voX1hxLNkIaAwrgjhESB96guG1u2": true

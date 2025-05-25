@@ -6,9 +6,9 @@
     "height": 875
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/accumulator/"
+  ],
   "favorites": {
     "XapKJxfpaCOr004b6kXVsc5wZzd2": true
   },

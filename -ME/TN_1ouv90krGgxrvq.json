@@ -19,12 +19,12 @@
     "O4f0CQyHwCZejCU2VuWfeJTtV5A3": true,
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true
   },
-  "tags": {
-    "2": "/general/beaconized/",
-    "3": "/version/0,18/",
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,18/",
+    "/production/coal liquification/",
+    "/mods/vanilla/"
+  ],
   "fileName": "coal_liquefication.png",
   "lastUpdatedDate": 1597207762970
 }

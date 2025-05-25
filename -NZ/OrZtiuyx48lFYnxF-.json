@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/vuv7TmX",
   "lastUpdatedDate": 1717347339927,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Perfect ratio oil refinery",
   "favorites": {
     "nUMtfYWvJyVXDCQYe6Z479a9qlg1": true,

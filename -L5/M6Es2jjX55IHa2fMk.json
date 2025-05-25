@@ -12,11 +12,11 @@
   "createdDate": 1518658715190,
   "descriptionMarkdown": "If you don’t use a loaders mod, you can use this blueprint instead.\n\nIt takes four chests of input on one side, and outputs four fully compressed blue belts on the other side.\n\nYou're meant to rotate the blueprint inside the building to rotate the direction of the loader.\n\nIt functions just like the vanilla express loader, except a lot bigger.\n\nPros:\n<br>\nOutputs four fully compressed blue belts just like a vanilla express loader.\n<br>\nChests balance outputs with each other.\n<br>\nTaking outputs from three or fewer sides is supported.\n\nCons:\n<br>\nRequires the logistic system. Why? Because inside the Factorissimo, only one side of the chest is exposed, and that would only allow one inserter per chest.\n<br>\nThere is a gap between the chest, this means that loading from six chests in a row is impossible.\n<br>\nUses a more-than-decent amount of power\n",
   "fileName": "Compact Dabs in a red barrel can you digest muslims when phcjank.PNG",
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/belt/express transport belt (blue)/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Mk1 Express Loader",
   "author": {
     "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"

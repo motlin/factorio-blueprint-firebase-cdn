@@ -15,14 +15,14 @@
     "width": 1408
   },
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/version/1,0/",
-    "2": "/production/belt based/",
-    "3": "/general/mid game/",
-    "4": "/general/beaconized/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/version/1,0/",
+    "/production/belt based/",
+    "/general/mid game/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Artillery shells",
   "favorites": {
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,

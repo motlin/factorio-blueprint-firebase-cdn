@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/5Ya0V0i",
   "lastUpdatedDate": 1746598768236,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/",
-    "2": "/power/nuclear/",
-    "3": "/mods/quality/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/power/nuclear/",
+    "/mods/quality/"
+  ],
   "title": "Aquilo Spear",
   "favorites": {
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true

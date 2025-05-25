@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1655997851337,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/",
-    "2": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "title": "Oil Refinery Module - 128 refineries, Uses Coal Liquefaction"
 }

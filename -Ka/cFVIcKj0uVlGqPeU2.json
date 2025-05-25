@@ -2,11 +2,11 @@
   "fileName": "RattlemBones_TrainCounter.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/RattlemBones_TrainCounter.png?alt=media&token=d35033aa-d27a-4f8f-bc0c-9f31f31c2103",
   "lastUpdatedDate": 1497702878496,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Vanilla Train Counter",
   "author": {
     "userId": "aS5uA2ajpWe8IWrncWItABSy3fC3"

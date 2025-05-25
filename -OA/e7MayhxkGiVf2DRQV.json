@@ -18,8 +18,8 @@
   "imageUrl": "https://imgur.com/SuG1hZ2",
   "lastUpdatedDate": 1730511871682,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Blocky Behemoth"
 }

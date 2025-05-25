@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1626807167754,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/belt/balancer/",
-    "5": "/train/loading station/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/belt/balancer/",
+    "/train/loading station/"
+  ],
   "title": "Ice's Smelter per request"
 }

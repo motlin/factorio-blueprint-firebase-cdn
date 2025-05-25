@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1631116391098,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/track/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/version/1,0/"
+  ],
   "title": " hexagon railway"
 }

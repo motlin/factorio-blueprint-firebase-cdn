@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/FY0DBAy",
   "lastUpdatedDate": 1736514043694,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/vulcanus/",
-    "2": "/planets/nauvis/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/vulcanus/",
+    "/planets/nauvis/"
+  ],
   "title": "N-V SeedStar"
 }

@@ -13,19 +13,19 @@
   "imageUrl": "https://imgur.com/gzCADWx",
   "lastUpdatedDate": 1744714853039,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/compact/",
-    "2": "/mods/space-age/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/gleba/",
-    "5": "/planets/fulgora/",
-    "6": "/planets/vulcanus/",
-    "7": "/planets/aquilo/",
-    "8": "/planets/space-platform/",
-    "9": "/power/nuclear/",
-    "10": "/version/2,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/mods/space-age/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "GSXR - Medium ship (642t - 264km/s)",
   "favorites": {
     "4eDZ8qdjczcQMJBaB1ydjsKAdn43": true,

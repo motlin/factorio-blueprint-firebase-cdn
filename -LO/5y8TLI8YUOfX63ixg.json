@@ -16,10 +16,10 @@
     "type": "image/png"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
     "JFUJeO0PJ2Ph9rNGa9rUlDtyfzc2": true,

@@ -34,11 +34,11 @@
     "type": "image/jpeg",
     "width": 2376
   },
-  "tags": {
-    "1": "/production/robots/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Aspidia's Mall 0.17"
 }

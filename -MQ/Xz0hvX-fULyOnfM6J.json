@@ -24,13 +24,13 @@
   },
   "lastUpdatedDate": 1610125941700,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/junction/",
-    "2": "/version/1,0/",
-    "3": "/train/roundabout/",
-    "4": "/train/stacker/",
-    "5": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/junction/",
+    "/version/1,0/",
+    "/train/roundabout/",
+    "/train/stacker/",
+    "/train/unloading station/"
+  ],
   "title": "Rail Segments (100x100 blocks) "
 }

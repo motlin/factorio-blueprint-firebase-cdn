@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1689045475527,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/mods/krastorio/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/version/0,15/",
-    "5": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/mods/krastorio/",
+    "/belt/fast transport belt (red)/",
+    "/version/0,15/",
+    "/mods/space-exploration/"
+  ],
   "title": "K2SE Cargo Rocket Assembly Line",
   "favorites": {
     "sBdlWpGoeJTaaBrklNzvfHxupih1": true,

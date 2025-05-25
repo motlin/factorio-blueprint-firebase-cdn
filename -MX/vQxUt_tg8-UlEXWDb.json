@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1647048053644,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/crossing/",
-    "2": "/train/stacker/",
-    "3": "/train/junction/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/crossing/",
+    "/train/stacker/",
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "title": "Train Module"
 }

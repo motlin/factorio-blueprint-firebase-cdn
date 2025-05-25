@@ -24,10 +24,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2022-07-20_15-18-32.png?alt=media&token=a9e91c88-e1e0-4356-b121-ac658aea9b0a",
   "lastUpdatedDate": 1658335419405,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "8 reactor 100x100 +buffer +logic +balance"
 }

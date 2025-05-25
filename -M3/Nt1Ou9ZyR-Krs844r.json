@@ -10,9 +10,9 @@
     "width": 1349
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

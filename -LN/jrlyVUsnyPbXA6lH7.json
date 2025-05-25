@@ -14,11 +14,11 @@
     "height": 1080,
     "id": "XuiWrac"
   },
-  "tags": {
-    "0": "/mods/creative/",
-    "1": "/version/0,15/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/creative/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "py mods limestone",
   "descriptionMarkdown": "6 red belts of limestone out \ndrills in the middle \nuses 24/ s drills\n800 lube and coal gas"
 }

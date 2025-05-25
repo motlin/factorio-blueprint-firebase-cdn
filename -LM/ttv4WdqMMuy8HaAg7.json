@@ -9,11 +9,11 @@
     "width": 762
   },
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "1-4 into 12 compressed belts train unloading",
   "author": {
     "userId": "RSKwP3oyTKQpAPegHpXOWOfTSmo1"

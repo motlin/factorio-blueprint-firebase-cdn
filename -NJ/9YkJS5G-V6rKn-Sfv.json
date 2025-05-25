@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1699910452960,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/krastorio/",
-    "2": "/general/beaconized/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/krastorio/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "K2 Bot hub entirely fueled by matter. v0.5"
 }

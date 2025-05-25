@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1664983758258,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/junction/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "title": "Book for creating rail  heaven"
 }

@@ -14,9 +14,9 @@
     "type": "image/jpeg",
     "width": 3840
   },
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Compact 1GW nuclear setup",
   "authorId": "H4pL5wP5DtMohYgb1su6zIPiri72"
 }

@@ -15,11 +15,11 @@
   "createdDate": 1517690393439,
   "descriptionMarkdown": "Basic setup, provides 54MW.",
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/power/steam/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/steam/",
+    "/version/0,15/"
+  ],
   "title": "Steam Engines",
   "author": {
     "userId": "RH7RoeOheFOdEtadnZRDFOCLnOR2"

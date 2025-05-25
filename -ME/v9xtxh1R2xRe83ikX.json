@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1626637852475,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/aai/"
+  ],
   "title": "Signal receiver with memory",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

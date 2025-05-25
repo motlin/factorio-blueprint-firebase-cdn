@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1627821513906,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/general/compact/",
-    "5": "/version/1,0/",
-    "6": "/production/belts/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/version/1,0/",
+    "/production/belts/"
+  ],
   "title": "[Belts] Dave's Logistics Tier 1+2",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/davestier12.png?alt=media&token=97a7b9a2-4d32-4627-ab42-e934b6e37985",
   "favorites": {

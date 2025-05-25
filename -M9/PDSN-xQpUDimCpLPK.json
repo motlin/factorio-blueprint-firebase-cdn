@@ -6,13 +6,13 @@
     "width": 1346,
     "height": 588
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "3": "/general/beaconized/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/general/beaconized/",
+    "/general/compact/"
+  ],
   "numberOfFavorites": 1,
   "title": "Purple (Production) Sci, ~500/m",
   "author": {

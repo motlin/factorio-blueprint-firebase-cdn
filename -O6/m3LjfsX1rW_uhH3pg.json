@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/tHWr456",
   "lastUpdatedDate": 1726343113925,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta fabricação da Tec. Quantum  (S.E. + Exotics)"
 }

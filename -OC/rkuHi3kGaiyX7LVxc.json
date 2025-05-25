@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Ox0C3XY",
   "lastUpdatedDate": 1732881130812,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/combat/defense/",
-    "2": "/mods/vanilla/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/combat/defense/",
+    "/mods/vanilla/",
+    "/mods/space-age/"
+  ],
   "title": "Basic Gleba defense ",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

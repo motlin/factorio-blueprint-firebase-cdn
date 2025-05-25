@@ -28,16 +28,16 @@
     "Trl32J15yHd3bT8CxGeKASCIRcA2": true,
     "4bS3YvZNwEf6tx5u2tCbhLaRbM72": true
   },
-  "tags": {
-    "7": "/version/unknown/",
-    "0": "/production/robots/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/storage/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,16/",
-    "6": "/version/0,17/"
-  },
+  "tags": [
+    "/version/unknown/",
+    "/production/robots/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
   "fileName": "PRINT AUTOMATIC ROBOTS HAIER66.png",
   "numberOfFavorites": 17
 }

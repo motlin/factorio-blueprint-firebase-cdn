@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1678252748243,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/power/steam/"
+  ],
   "title": "Steam Engine Stack",
   "favorites": {
     "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,

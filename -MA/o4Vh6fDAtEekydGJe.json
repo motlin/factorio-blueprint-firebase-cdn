@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1622480053872,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/general/tileable/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/general/tileable/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Layerable / upgradeable city block & trains w/ up to 4 train lanes (LHD) and a stampable solar"
 }

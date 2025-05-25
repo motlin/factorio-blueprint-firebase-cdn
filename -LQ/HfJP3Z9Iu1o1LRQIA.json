@@ -28,13 +28,13 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/train/right-hand-drive/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/version/0,17/"
+  ],
   "title": "Grid block track layout",
   "author": {
     "userId": "aBKWofpQC8M9611L2LgNH1yOobD3"

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/EX8HOmA",
   "lastUpdatedDate": 1732537264432,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/planets/fulgora/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/planets/fulgora/",
+    "/version/2,0/"
+  ],
   "title": "Auto-sorting system",
   "favorites": {
     "BMbr3u14ITaxo16fWERJChsrR3f1": true,

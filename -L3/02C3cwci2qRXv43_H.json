@@ -14,13 +14,13 @@
     "width": 547
   },
   "lastUpdatedDate": 1516141072784,
-  "tags": {
-    "4": "/version/0,16/",
-    "0": "/production/belts/",
-    "1": "/general/early game/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/belts/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Kryptiq's Early Tileable Yellow Belts - 0.16.16",
   "authorId": "JKmJqbqIjFPg4PxjELfnIKwt7wN2"
 }

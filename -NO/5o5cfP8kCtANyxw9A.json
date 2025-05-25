@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1676225910986,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,15/",
-    "2": "/general/mid game/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,15/",
+    "/general/mid game/",
+    "/general/compact/"
+  ],
   "title": "Green circuits. Full red belt",
   "favorites": {
     "rge3bEzmjnRCsFEuMGlu1DX7QmZ2": true

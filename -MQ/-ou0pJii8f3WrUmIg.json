@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/other/",
-    "2": "/production/robots/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/production/robots/"
+  ],
   "author": {
     "userId": "OFDOAAMr3wPGulJVy21Wnyz8CwJ2"
   },

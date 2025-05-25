@@ -16,10 +16,10 @@
   "authorId": "EB8WBvnJykbdfYUSWX4aFBO9BVJ2",
   "descriptionMarkdown": "This thing will merge 4 express belts into another 4-row with the priority of the left right lane.",
   "fileName": "dfasdfas.jpg",
-  "tags": {
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/version/0,15/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "4 in 4 belt merger"
 }

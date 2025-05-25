@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1666549824753,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Space exploration, train stations"
 }

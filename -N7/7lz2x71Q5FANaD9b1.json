@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1658004697504,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Suelo Estilizado 50x50",
   "favorites": {
     "thlbXSd5B1bqHuXZrgaoGBhQoMz1": true

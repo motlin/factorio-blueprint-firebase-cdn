@@ -20,8 +20,8 @@
   "descriptionMarkdown": "A rail based refinery that has train slots for water crude oil, gas, light oil and heavy oil.  it also includes a refueling station which accepts a forms of fuel wood, coal, solid fuel rocket fuel and nuclear fuel.\n\nThe trains are 1-4 and are included (except the refueler).  I suggest piping water in, otherwise it can take several water trains to keep it supplied, but I included it as an option.  It does not crack but there is space to add cracking if you wish.  It also includes a stacker with 9 slots.  ",
   "fileName": "Refinery.png",
   "lastUpdatedDate": 1564535802588,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Rail Based Refinery "
 }

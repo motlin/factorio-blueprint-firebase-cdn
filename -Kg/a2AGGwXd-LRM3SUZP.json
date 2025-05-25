@@ -11,12 +11,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/green.png?alt=media&token=5af02d41-bc61-4127-9315-d471cf79ec71",
   "lastUpdatedDate": 1498569983689,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Green circuits, 1 blue belt output",
   "author": {
     "userId": "q4O7HqsaMTTYRSEdtZUd8kN4gIo1"

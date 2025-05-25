@@ -16,8 +16,8 @@
   "imageUrl": "https://i.imgur.com/w00S5b0.png",
   "lastUpdatedDate": 1743445296379,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "The Herald V1 - Shattered Planet Asteroid Upcycler"
 }

@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1519892626009,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "Dpao822gmUMHlnAiFtlAA14dovo1"
   },

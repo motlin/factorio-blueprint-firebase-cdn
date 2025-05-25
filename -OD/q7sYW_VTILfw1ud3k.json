@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/SSqK5J6",
   "lastUpdatedDate": 1733946684640,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/fulgora/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/fulgora/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Copper Quality balancer",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

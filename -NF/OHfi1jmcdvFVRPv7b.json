@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1695862754651,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "solar tile v1",
   "favorites": {
     "vNxmhmWkjGTkLBMIcRlQ5CeVb272": true

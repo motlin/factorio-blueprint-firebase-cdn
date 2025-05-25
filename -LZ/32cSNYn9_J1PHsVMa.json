@@ -290,10 +290,10 @@
   },
   "lastUpdatedDate": 1730335919638,
   "numberOfFavorites": 211,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "Make It all Factory"
 }

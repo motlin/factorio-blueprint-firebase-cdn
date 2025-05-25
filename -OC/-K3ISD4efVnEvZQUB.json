@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/BNeN096",
   "lastUpdatedDate": 1731951084924,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Vaisseau pour Fulgora, Gleba, Vulcanus",
   "favorites": {
     "Zry9pdeWiebsdLV7QzA3TXcBJ0B3": true

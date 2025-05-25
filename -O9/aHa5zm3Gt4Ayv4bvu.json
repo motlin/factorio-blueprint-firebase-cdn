@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/PFFuuGn",
   "lastUpdatedDate": 1729372024284,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
   "title": "Automated rocket silo printer 2.0a",
   "favorites": {
     "iIaZpwmmapUZtoYCyjEzldpsnjr2": true,

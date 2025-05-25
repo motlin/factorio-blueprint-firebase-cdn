@@ -22,15 +22,15 @@
   },
   "lastUpdatedDate": 1564771155309,
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/late game (megabase)/",
-    "5": "/production/science/",
-    "6": "/production/belt based/",
-    "7": "/production/research (labs)/",
-    "0": "/version/0,17/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/production/belt based/",
+    "/production/research (labs)/",
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "20k/min Logistics Science"
 }

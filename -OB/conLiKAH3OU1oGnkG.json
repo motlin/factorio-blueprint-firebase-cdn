@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/aiqYFeN",
   "lastUpdatedDate": 1731556750821,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Slope Function-based Space Platform Speed-Limiter",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

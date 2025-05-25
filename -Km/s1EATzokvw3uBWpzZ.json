@@ -17,10 +17,10 @@
   "authorId": "zOZhVlkwklUX2h1JWgqqjirVwP83",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/t-intersection.png?alt=media&token=f7ab1c23-7ea0-4daf-8211-b6e927044e9e",
   "lastUpdatedDate": 1497737394142,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

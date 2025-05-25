@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/ZFn4Yod",
   "lastUpdatedDate": 1736602965617,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "A ship for transporting passengers."
 }

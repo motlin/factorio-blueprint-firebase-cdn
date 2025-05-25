@@ -24,11 +24,11 @@
     "height": 520
   },
   "lastUpdatedDate": 1613419407255,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Stackable blue science, 1.2Ki/m"
 }

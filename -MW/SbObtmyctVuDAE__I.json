@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1645469342247,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "12 Beacon Kovarex Processing",
   "favorites": {
     "FOkeJ5l45uPJGFwA7revwCBouVP2": true,

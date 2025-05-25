@@ -15,14 +15,14 @@
   "fileName": "427520_screenshots_20170916171259_1.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_screenshots_20170916171259_1.jpg?alt=media&token=ede2294f-3355-486e-a64d-0d0015effcb1",
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "5": "/moderation/uncropped screenshot/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/moderation/uncropped screenshot/"
+  ],
   "title": "BotMall (build everything late game)",
   "author": {
     "userId": "JTLMRNMtziOJRYr3SewFjwx9MU33"

@@ -13,11 +13,11 @@
   "title": "Blue/Red/Modules",
   "fileName": "blueredmodule.png",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/modules/",
-    "2": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/modules/",
+    "/production/advanced circuit (red)/"
+  ],
   "author": {
     "userId": "NZwRSJQBxqb7lWk9QlgyZKMhiMH2"
   },

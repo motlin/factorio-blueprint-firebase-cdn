@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1694995247766,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/"
+  ],
   "title": "Inserter Factory",
   "favorites": {
     "EQWo2AotpXOMAPiR15tIobRv2KZ2": true,

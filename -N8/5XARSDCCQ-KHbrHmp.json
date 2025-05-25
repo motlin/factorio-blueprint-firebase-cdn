@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1659040741208,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/loading station/"
+  ],
   "title": "Ore train station with logic for train limits",
   "favorites": {
     "fDsBSfzolPNlaTN0GBhbTlcxNOT2": true,

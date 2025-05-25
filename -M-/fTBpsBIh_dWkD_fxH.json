@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1581277302762,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Red Circuit Factory (8.4k/min)"
 }

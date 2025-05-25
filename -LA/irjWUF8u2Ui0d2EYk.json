@@ -8,10 +8,10 @@
     "height": 851
   },
   "lastUpdatedDate": 1524426237200,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/0,16/"
+  ],
   "title": "Fast Inserter Production",
   "authorId": "JOk9LdcYJbX1SgIjK9FuW4c8bHn1",
   "createdDate": 1524426012952,

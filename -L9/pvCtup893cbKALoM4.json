@@ -77,9 +77,9 @@
   },
   "lastUpdatedDate": 1523470622756,
   "numberOfFavorites": 97,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/other/"
+  ],
   "title": "Pro Red Circuit Production"
 }

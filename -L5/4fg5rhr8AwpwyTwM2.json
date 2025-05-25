@@ -16,9 +16,9 @@
   "fileName": "Screenshot from 2018-02-11 23-23-34.png",
   "lastUpdatedDate": 1518366278305,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "0": "/power/accumulator/"
-  }
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/power/accumulator/"
+  ]
 }

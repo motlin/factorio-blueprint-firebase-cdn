@@ -22,14 +22,14 @@
   },
   "lastUpdatedDate": 1588168080257,
   "numberOfFavorites": 5,
-  "tags": {
-    "2": "/train/loading station/",
-    "3": "/train/crossing/",
-    "4": "/train/roundabout/",
-    "5": "/train/track/",
-    "6": "/train/unloading station/",
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/train/unloading station/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "trains for everyone, solar panel"
 }

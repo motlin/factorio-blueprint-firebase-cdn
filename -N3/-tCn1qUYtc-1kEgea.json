@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1653577407847,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/power/steam/"
+  ],
   "title": "Steam Engines",
   "favorites": {
     "PEdWodcdf1OYThDowGRLYZw7dRt2": true,

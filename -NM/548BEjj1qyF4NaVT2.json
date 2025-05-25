@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674089668665,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/factorissimo/"
+  ],
   "title": "MK1 Smelter - Factorissimo2",
   "favorites": {
     "5vLzBAXdfJWO68IkX53q3oHvjMn2": true,

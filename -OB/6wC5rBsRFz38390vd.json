@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/aS0I09Z",
   "lastUpdatedDate": 1731005043237,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Space Age book",
   "favorites": {
     "SdqiK6HIovWXS36Gbl1sHd1Bk993": true,

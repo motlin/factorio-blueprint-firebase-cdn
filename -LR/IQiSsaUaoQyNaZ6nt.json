@@ -22,10 +22,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/128smelter.png?alt=media&token=8fc6509a-cde6-401a-ab7b-7258b0c60ce7",
   "lastUpdatedDate": 1542287424169,
   "numberOfFavorites": 15,
-  "tags": {
-    "2": "/power/solar/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "128 Belt Super Smelter"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1629372627832,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Logistic Robot Rush",
   "favorites": {
     "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,

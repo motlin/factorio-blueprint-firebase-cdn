@@ -5,10 +5,10 @@
     "width": 1235,
     "height": 1767
   },
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
     "cebGks9E7tfkXXedzSyYAJseVvE3": true

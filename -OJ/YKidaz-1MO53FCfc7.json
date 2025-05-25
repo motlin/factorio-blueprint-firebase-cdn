@@ -23,12 +23,12 @@
   "imageUrl": "https://imgur.com/63yLbsc",
   "lastUpdatedDate": 1740056391883,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/version/2,0/",
-    "3": "/general/late game (megabase)/",
-    "4": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/version/2,0/",
+    "/general/late game (megabase)/",
+    "/production/science/"
+  ],
   "title": "14k SPM Metallurgical Science."
 }

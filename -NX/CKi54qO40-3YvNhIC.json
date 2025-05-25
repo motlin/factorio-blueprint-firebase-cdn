@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1685998461835,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "1k Science/m Refinery "
 }

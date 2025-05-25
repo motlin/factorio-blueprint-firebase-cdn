@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636569358737,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Usina química T1",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,

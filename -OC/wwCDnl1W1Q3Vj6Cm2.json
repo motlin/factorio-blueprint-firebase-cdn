@@ -121,11 +121,11 @@
   "imageUrl": "https://imgur.com/AN5cQzp",
   "lastUpdatedDate": 1733443016716,
   "numberOfFavorites": 44,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/planets/aquilo/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/planets/aquilo/",
+    "/version/2,0/"
+  ],
   "title": "Invincible Titan Ship - went to Shattered Planet and back"
 }

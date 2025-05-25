@@ -16,11 +16,11 @@
   "fileName": "Plastic.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Plastic.jpg?alt=media&token=fc90263d-4783-48e8-9316-0d64e9b028c9",
   "lastUpdatedDate": 1506811940702,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,15/",
-    "0": "/production/plastic/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,15/",
+    "/production/plastic/"
+  ],
   "title": "Factorissimo MK1 Plastic",
   "favorites": {
     "OsCpOsa8fVOUsAN9d9rQpFqq3m43": true,

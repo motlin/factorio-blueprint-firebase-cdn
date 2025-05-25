@@ -15,10 +15,10 @@
     "width": 846
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/production/oil processing/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Oil cracking for 8 refineries"
 }

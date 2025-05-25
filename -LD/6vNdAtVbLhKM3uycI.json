@@ -9,9 +9,9 @@
     "width": 403
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "author": {
     "userId": "nd5PP998pPVZGfKuJb4sNnxiYUs1"
   },

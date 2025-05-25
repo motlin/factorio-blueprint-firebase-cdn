@@ -5,11 +5,11 @@
   "fileName": "Annotation 2020-05-17 191636.png",
   "lastUpdatedDate": 1589761166190,
   "numberOfFavorites": 10,
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "XXSPTQufveS9aignnK3sKRvhWZ33"
   },

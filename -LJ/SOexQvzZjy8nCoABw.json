@@ -1,13 +1,13 @@
 {
   "numberOfFavorites": 8,
-  "tags": {
-    "4": "/version/1,0/",
-    "5": "/production/mall (make everything)/",
-    "0": "/production/oil processing/",
-    "1": "/production/robots/",
-    "2": "/production/batteries/",
-    "3": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/mall (make everything)/",
+    "/production/oil processing/",
+    "/production/robots/",
+    "/production/batteries/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Petro-Chem Oil Refinery (1.0!) All-Products with Robots",
   "author": {
     "userId": "uMw2umSK3oRGbq68p8fE8xJLsmO2"

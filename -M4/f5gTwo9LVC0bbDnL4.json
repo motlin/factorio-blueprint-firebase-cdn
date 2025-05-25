@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1586639849288,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/rocket parts/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/rocket parts/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio2 Fuel Refinery Late Game",
   "favorites": {
     "oeNyBBU5hYRiscgRd3aAYHaZOAw2": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/1MB6gp1",
   "lastUpdatedDate": 1726261507900,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar Production",
   "favorites": {
     "NmFiKMV2uWZLcDmGmEF4NPuOCFD2": true

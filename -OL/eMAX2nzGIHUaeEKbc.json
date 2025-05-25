@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ktPtLMP",
   "lastUpdatedDate": 1742319958360,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Grid de fornalhas de aço",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

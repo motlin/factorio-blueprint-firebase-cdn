@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1634768347363,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
   "title": "Bot Module",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2021-10-20_161855.png?alt=media&token=35e25b61-20bb-455a-b612-2bc44b923708",
   "favorites": {

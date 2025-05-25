@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1668111444439,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/"
+  ],
   "title": "Crompank's SRUL Balancers v1",
   "favorites": {
     "oDs7ZPRTUob2eeaRdBX2qXN9LGI2": true,

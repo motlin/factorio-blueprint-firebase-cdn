@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1673188374603,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "Simple rail crossing",
   "favorites": {
     "rKXwycxs3APymiQr644tYwfnKPG3": true

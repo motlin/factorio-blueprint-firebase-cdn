@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1579789074084,
-  "tags": {
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/",
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/circuit/counter/"
+  ],
   "numberOfFavorites": 10,
   "author": {
     "userId": "WGLcRY6xh6fT9GIOP6i3ejblBcx2"

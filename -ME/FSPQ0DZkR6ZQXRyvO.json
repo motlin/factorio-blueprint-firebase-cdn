@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1625921267639,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/junction/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Train City Block",
   "favorites": {
     "SfGJPsWuggUh6FAxECIiapFndCt2": true,

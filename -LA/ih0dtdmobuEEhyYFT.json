@@ -5,9 +5,9 @@
   "authorId": "cwyYMMqRIqhMelXfWw5HWSo5LKM2",
   "createdDate": 1553414233006,
   "descriptionMarkdown": "allin1science - build from the top down",
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Allin1science",
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true

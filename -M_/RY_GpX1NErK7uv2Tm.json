@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1680010461415,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Core Mining ",
   "favorites": {
     "e66LaJ4r2lZGH5RfUmF1eEOLdIg2": true,

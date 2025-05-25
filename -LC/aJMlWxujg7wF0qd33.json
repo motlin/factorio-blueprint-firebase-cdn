@@ -10,10 +10,10 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear Power Plant X8 ~1.2GW",
   "favorites": {
     "CNaUv4JeNsSAIvCTtbLimnF6UUH2": true,

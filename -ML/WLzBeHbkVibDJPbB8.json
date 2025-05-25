@@ -32,14 +32,14 @@
   },
   "lastUpdatedDate": 1672789546722,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/crossing/",
-    "4": "/train/left-hand-drive/",
-    "5": "/version/1,0/",
-    "6": "/train/track/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/",
+    "/train/left-hand-drive/",
+    "/version/1,0/",
+    "/train/track/"
+  ],
   "title": "Big Book of Rail V 1.1 (Krastorio 2, Bulk Rail Loader)"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/HbGdTfn.jpeg",
   "lastUpdatedDate": 1740121198150,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/art/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/art/",
+    "/mods/vanilla/"
+  ],
   "title": "RBG Lamp Wireless Controller"
 }

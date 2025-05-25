@@ -39,11 +39,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Annotation%202020-07-31%20220227.png?alt=media&token=3023c5c3-932c-4cf6-ab51-cfc50cf4d3d6",
   "lastUpdatedDate": 1596258318177,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/crossing/",
-    "2": "/train/junction/",
-    "3": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "Kephri's modular Rail Network"
 }

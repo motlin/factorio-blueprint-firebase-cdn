@@ -33,9 +33,9 @@
   "imageUrl": "https://imgur.com/lpL21s0",
   "lastUpdatedDate": 1741442763956,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/space-age/"
+  ],
   "title": "arcbyte's rail base blueprints"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621065688739,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/beaconized/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/beaconized/",
+    "/production/smelting/"
+  ],
   "title": "Beaconed Smelter",
   "favorites": {
     "LYZgPPFZrlPTz9JLBlsDXdKjTBr1": true,

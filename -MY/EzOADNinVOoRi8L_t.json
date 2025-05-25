@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1618397205513,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Blocks 028: Sulfur, Sulfuric Acid, Batteries"
 }

@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/1gCNlWm",
   "lastUpdatedDate": 1741077761537,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/stacker/"
-  },
+  "tags": [
+    "/train/stacker/"
+  ],
   "title": "Auto depot Id and train Id"
 }

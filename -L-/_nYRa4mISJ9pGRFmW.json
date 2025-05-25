@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/tap/"
-  },
+  "tags": [
+    "/belt/tap/"
+  ],
   "title": "Battery Addon",
   "authorId": "N8lIi0dTEWdpR3t3YgM2mWcScCD2",
   "createdDate": 1512462759757,

@@ -2,11 +2,11 @@
   "authorId": "xJC3GUUBDvehSarD9UQc8DVneDt2",
   "descriptionMarkdown": "This \"City Block\" cell is based off Elder Axe's Chunk Alligned RHD Rail Network.\n\nThis cell includes turnout's for stations, two per side for a total of 8 stations.",
   "fileName": "Circles RB City Block.JPG",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/general/tileable/",
-    "2": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/general/tileable/",
+    "/general/chunk aligned/"
+  ],
   "title": "MCDewy's \"City Block\" Mk 2",
   "favorites": {
     "Ay1V5DzwjfekguFx1I7n8HmsnLB2": true,

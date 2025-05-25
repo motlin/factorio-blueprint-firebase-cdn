@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1685297682228,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/"
+  ],
   "title": "Iron Train single Loading station",
   "favorites": {
     "AqJb1V8y4zYKgvtoECNSBOjbU4Q2": true

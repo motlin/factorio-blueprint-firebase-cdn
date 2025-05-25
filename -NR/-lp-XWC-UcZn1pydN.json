@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1679345308388,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/left-hand-drive/"
+  ],
   "title": "M's Train System",
   "favorites": {
     "B6rzfdYpTwVd2oEKFOFfXcjrz703": true,

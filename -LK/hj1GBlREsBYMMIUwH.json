@@ -16,13 +16,13 @@
   "descriptionMarkdown": "Platic MK1",
   "fileName": "factorio_2018-08-24_23-54-27.png",
   "lastUpdatedDate": 1535144372332,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/mods/factorissimo/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/factorissimo/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "rsD3RssFJhVX3AQ14FJKgvidUeT2": true,
     "SUj2NShlk3bzYdDibJ24Ndmazdu2": true,

@@ -28,9 +28,9 @@
   "imageUrl": "https://imgur.com/E8UsfmM",
   "lastUpdatedDate": 1739349477400,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "Science Sphere"
 }

@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1573403123596,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/other/",
-    "4": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/other/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Gigantic Mass Production Area."
 }

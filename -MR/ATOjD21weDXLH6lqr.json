@@ -47,15 +47,15 @@
   },
   "lastUpdatedDate": 1616816781914,
   "numberOfFavorites": 30,
-  "tags": {
-    "6": "/version/1,0/",
-    "7": "/general/beaconized/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/chunk aligned/",
-    "2": "/mods/ltn/",
-    "3": "/train/right-hand-drive/",
-    "4": "/production/science/",
-    "5": "/production/rocket parts/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/chunk aligned/",
+    "/mods/ltn/",
+    "/train/right-hand-drive/",
+    "/production/science/",
+    "/production/rocket parts/"
+  ],
   "title": "3x3 Factory Stamps v1.1"
 }

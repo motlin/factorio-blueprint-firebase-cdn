@@ -2,13 +2,13 @@
   "authorId": "7KMHve2gPYUUIdlSUxeaHdHraxo1",
   "fileName": "Capture20181215.JPG",
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/",
-    "2": "/general/mid game/",
-    "3": "/mods/warehousing/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/mods/warehousing/",
+    "/version/0,16/"
+  ],
   "title": "Warehouse 331K",
   "favorites": {
     "GmqXaRk4yeX4IrTlsJbyWB6WUzr2": true,

@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "jMYQWABSfpgdHXThnwMnAwckPvE3",
   "createdDate": 1604378450191,
   "descriptionMarkdown": "Basic electric mine set up",

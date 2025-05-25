@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1708222269524,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/solar/"
+  ],
   "title": "Krastorio 2 Perfect Ratio Symmetrical Solar blueprint",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2024-02-16_215020494.png?alt=media&token=43b83f9a-dd20-4a83-a1a5-1d3f38f6fca3",
   "favorites": {

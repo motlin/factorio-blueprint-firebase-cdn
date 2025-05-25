@@ -19,13 +19,13 @@
   },
   "lastUpdatedDate": 1601219508578,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/junction/",
-    "3": "/general/chunk aligned/",
-    "4": "/train/roundabout/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/general/chunk aligned/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "Hydra Wide System (HWS) Train Rails v2.1"
 }

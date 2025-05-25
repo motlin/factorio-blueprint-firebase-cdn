@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Cg9Lotv",
   "lastUpdatedDate": 1746100439984,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "simple smelting"
 }

@@ -9,12 +9,12 @@
     "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/circuit.PNG?alt=media&token=c02cff6d-d355-4282-8680-6e83ed79802f",
-  "tags": {
-    "3": "/version/0,14/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,14/",
+    "/production/electronic circuit (green)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Green Circuits (Early Game)",
   "author": {
     "userId": "IJeRHjOutkUArJr9FgbCnBuBNY42"

@@ -40,13 +40,13 @@
   },
   "lastUpdatedDate": 1560574378679,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/general/tileable/",
-    "3": "/general/chunk aligned/",
-    "4": "/general/late game (megabase)/",
-    "5": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/tileable/",
+    "/general/chunk aligned/",
+    "/general/late game (megabase)/",
+    "/version/0,17/"
+  ],
   "title": "Gigabase Framework v1.0"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5XcCHtl",
   "lastUpdatedDate": 1735272912427,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Time delayed alerts Science",
   "favorites": {
     "odxOUM8PPlf5PO7T1bHD8IamNu83": true,

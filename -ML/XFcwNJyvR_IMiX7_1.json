@@ -14,11 +14,11 @@
   "lastUpdatedDate": 1604745267098,
   "descriptionMarkdown": "This blueprint contains my design of a mall. You set how much you want of each item in the constant combinators. Each combinator is associated with a chest. This chest will contain all requested items. Note that you cannot have more than 5 different items in a chest because of the filter limit on inserters.\n\nFor each requested item of which you currently haven't got the requested amount, a single signal will be put on the red wire of the bottom right pole. Based on this signal you can set the inserters of the producing entity to be active only when the signal is active. This way you will only produce when you haven't got the amount required and everything will be easily accessible from the chests.\n\nNote that you need a belt which will carry all items to this storage facility.\n\nFurther more, there is place for logistic storage in this as well. The inserters are configured to check which items are in the logistic storage chests and which items can be saved in the mall. It will detect when a bot moves this item into storage and take it out to have it be stored in the designated chest in the mall. This makes sure when you delete a lot of belts that they will always be available in the mall and that you wont produce to many belts if you already have them in storage. Furthermore, for you, the player, there is a single place where you can get your belts.\n\nThis also helps to get an overview of all items in storage which are currently unhandled. Like maybe you want your ores to be put back on the belt and not be in storage. But if storage is full of items you easily miss that. Now items which should be stored elsewhere will be stored elsewhere.\n\n**Important**\n\nFor the mall part, you need to connect the rightmost belt to the returning one. Otherwise everything will clog up.",
   "fileName": "Screenshot 2020-11-07 113008.jpg",
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "One entry mall with logistic storage",
   "author": {
     "userId": "OeJJM7tvR1NxMRi6EZ777AUNoAH3"

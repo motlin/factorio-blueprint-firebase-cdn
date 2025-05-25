@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1609295980897,
-  "tags": {
-    "4": "/version/1,0/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/"
+  ],
   "title": "Two Full Blue Belts Per Side",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/vlcsnap-2020-12-29-21h33m33s136.png?alt=media&token=abe08e9b-d281-458e-b369-82bd7f8eab62",
   "createdDate": 1601230062404,

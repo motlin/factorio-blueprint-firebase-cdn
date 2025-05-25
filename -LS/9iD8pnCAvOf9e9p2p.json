@@ -16,11 +16,11 @@
     "id": "TnJP5TR",
     "type": "image/jpeg"
   },
-  "tags": {
-    "1": "/production/oil processing/",
-    "2": "/version/0,16/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/",
-    "0": "/general/tileable/"
-  }
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,16/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ]
 }

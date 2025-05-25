@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/YpdNvzt",
   "lastUpdatedDate": 1722783878944,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "RiSo 2700/min Grey"
 }

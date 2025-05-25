@@ -35,11 +35,11 @@
   },
   "lastUpdatedDate": 1518582812624,
   "numberOfFavorites": 69,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/version/0,16/",
-    "3": "/train/unloading station/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,16/",
+    "/train/unloading station/",
+    "/production/modules/"
+  ],
   "title": "Produce all modules industrial park"
 }

@@ -17,9 +17,9 @@
   "descriptionMarkdown": "Compact self contained nuclear power plant. Just feed Uranium (\\~140/m) and Coal (\\~60/m). Produces a max of 72MW of power (minus \\~6MW of overhead after saturation).\n\nNeeds to be jump-started with a barrel of heavy oil and some Uranium-235 (for the Kovarex Centrifuge).\n\n(Please don't take this blueprint seriously.)",
   "lastUpdatedDate": 1580573089864,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/power/steam/"
+  ],
   "favorites": {
     "7AsyOQabcSh2W9GzQxaBulyG8i83": true,
     "VNP1SlJxc9ROzYH3bBRG11bc7eT2": true,

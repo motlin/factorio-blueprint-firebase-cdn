@@ -28,11 +28,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/nQjczr3.jpeg?alt=media&token=b16e91b7-805c-40f7-abf9-05d52d577efc",
   "lastUpdatedDate": 1650596575068,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Block Rail Network"
 }

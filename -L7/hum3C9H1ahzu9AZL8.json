@@ -20,14 +20,14 @@
   },
   "lastUpdatedDate": 1521188807535,
   "numberOfFavorites": 11,
-  "tags": {
-    "5": "/version/0,16/",
-    "6": "/train/loading station/",
-    "0": "/general/tileable/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/",
-    "3": "/general/late game (megabase)/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/loading station/",
+    "/general/tileable/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/general/late game (megabase)/",
+    "/train/unloading station/"
+  ],
   "title": "[Bob Angels] Tileable City Block v.1.5.0"
 }

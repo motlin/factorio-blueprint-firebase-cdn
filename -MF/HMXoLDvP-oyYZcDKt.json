@@ -13,11 +13,11 @@
   "fileName": "kovarex-simple-tileable.jpg",
   "lastUpdatedDate": 1598035995983,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "LqGXd08shahJmg1FKBXX88kJ4Et2"
   },

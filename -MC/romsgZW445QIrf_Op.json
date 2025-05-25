@@ -20,8 +20,8 @@
   "descriptionMarkdown": "skewed solar array, for crazy looks in minimap!",
   "fileName": "Screenshot 2020-07-22 at 19.39.30.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "skewed solar array"
 }

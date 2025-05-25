@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/qHR5qpL",
   "lastUpdatedDate": 1731256607341,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "All logistic chest variable assembler",
   "favorites": {
     "mhky6mtdzzfJqC5tbkK6rvmwDN22": true,

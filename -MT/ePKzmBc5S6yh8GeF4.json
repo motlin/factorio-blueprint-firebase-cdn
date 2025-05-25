@@ -14,11 +14,11 @@
     "type": "image/png",
     "width": 809
   },
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/"
+  ],
   "favorites": {
     "nYTigzLf2ac9FF5Ny2fIHGnVMj12": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,

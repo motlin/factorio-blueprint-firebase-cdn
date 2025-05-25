@@ -93,15 +93,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-25-11-17-46-08.png?alt=media&token=2b0a092a-aea3-424f-a1a2-1f62eec3c17a",
   "lastUpdatedDate": 1658373571187,
   "numberOfFavorites": 154,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "5": "/general/tileable/",
-    "6": "/general/compact/",
-    "7": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/version/0,16/"
+  ],
   "title": "Ideal Smelting"
 }

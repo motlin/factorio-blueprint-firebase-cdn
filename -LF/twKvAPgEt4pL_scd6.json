@@ -29,11 +29,11 @@
   },
   "lastUpdatedDate": 1558976317040,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/production/science/"
+  ],
   "title": "Compact Science 0.17"
 }

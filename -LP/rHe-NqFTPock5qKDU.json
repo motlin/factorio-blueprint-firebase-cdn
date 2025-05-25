@@ -11,11 +11,11 @@
     "width": 1126
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/production/coal liquification/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/production/coal liquification/"
+  ],
   "favorites": {
     "WOxfQOzEsPf8xQjCmfRDM2q0Pda2": true,
     "l4zqQg8BKAXEwR3edqdEcP6dH463": true

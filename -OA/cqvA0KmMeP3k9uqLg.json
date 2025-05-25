@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/P2rW5xU",
   "lastUpdatedDate": 1730483565352,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Beltless mini ship",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

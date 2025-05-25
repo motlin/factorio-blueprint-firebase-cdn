@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/kbfYk3L",
   "lastUpdatedDate": 1734781991630,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "BigBadCargo Ship",
   "favorites": {
     "v68t9V9wyCWibJgROF9Y0O89OaF2": true

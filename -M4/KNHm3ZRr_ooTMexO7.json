@@ -6,11 +6,11 @@
   "descriptionMarkdown": "1.12GW Nuclear Reactor",
   "fileName": "Factorio 2020-05-21 20-19-57.png",
   "lastUpdatedDate": 1601745173723,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "Fu2XktNYXTbARRod2pl5pQkRjmb2"
   },

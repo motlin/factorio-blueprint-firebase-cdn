@@ -4,10 +4,10 @@
   "descriptionMarkdown": "8 nuclear plants, fed by logistics.  Requires lots of water.  You can, of course, replace the 16 pumps with other water sources.",
   "fileName": "20200217232630_1.jpg",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/nuclear/"
+  ],
   "title": "8x Nuclear (1,113 MW)",
   "author": {
     "userId": "R70ykiKK3oap7nNFuBw2VKUtRC13"

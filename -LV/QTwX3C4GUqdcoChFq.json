@@ -9,10 +9,10 @@
     "width": 2346
   },
   "lastUpdatedDate": 1546649323679,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/track/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "mrc2AeDExTQtRXSRqzqmYSzRsxB2": true,
     "CNaUv4JeNsSAIvCTtbLimnF6UUH2": true,

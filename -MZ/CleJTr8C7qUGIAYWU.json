@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1648430539064,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/train/roundabout/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/production/science/",
+    "/train/roundabout/",
+    "/train/track/"
+  ],
   "title": "Rail Turbine"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/v701Fjg",
   "lastUpdatedDate": 1732053971201,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Accumulator Charge Indicator",
   "favorites": {
     "SdqiK6HIovWXS36Gbl1sHd1Bk993": true,

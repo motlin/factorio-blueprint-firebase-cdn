@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1664383597171,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Robot Manufacturing",
   "favorites": {
     "38epnGYGx8a0o9gFduP6z19Kxht1": true

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1661257014637,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/science/"
+  ],
   "title": "Logistic (GREEN) science pack [EN,RU]",
   "favorites": {
     "nDbXSZ0ZBEOYUsryUakZHolRS7g1": true,

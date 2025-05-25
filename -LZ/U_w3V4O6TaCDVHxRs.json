@@ -13,9 +13,9 @@
     "id": "O4ByERA",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "AupeB9qKwYef0N3FztTsxrhGCAu1"
   },

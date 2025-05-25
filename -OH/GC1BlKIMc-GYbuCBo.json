@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/vW6QXM5",
   "lastUpdatedDate": 1737602900995,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus First Foundry Setup",
   "favorites": {
     "7UQDTpiF2Wd9JSV12aVGDNiCC5m1": true,

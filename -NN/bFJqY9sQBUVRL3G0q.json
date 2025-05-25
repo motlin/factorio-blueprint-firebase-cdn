@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1704686865865,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/creative/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/creative/"
+  ],
   "title": "Editor Extensions Mod Insta-Builder",
   "favorites": {
     "S9Cwu4451URCfFUoXTF9EJViKZF2": true

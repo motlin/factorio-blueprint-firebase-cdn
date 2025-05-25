@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/dywDUmd",
   "lastUpdatedDate": 1732004687876,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "3 Way Trumpet Rail Interchange",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

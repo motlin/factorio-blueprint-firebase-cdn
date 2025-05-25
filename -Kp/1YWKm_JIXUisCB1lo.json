@@ -59,10 +59,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Self-regulated%206.8GW%20Nuclear%20Reactor%20Power%20Plant.png?alt=media&token=6f370b6e-dd98-4d90-95a4-fa6d6356bbaa",
   "lastUpdatedDate": 1500077480277,
   "numberOfFavorites": 88,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Self-regulated 6.8GW Nuclear Reactor Power Plant"
 }

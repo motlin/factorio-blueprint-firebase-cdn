@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/5nV06Q4",
   "lastUpdatedDate": 1734357581744,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Subjectively best rocket design",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,

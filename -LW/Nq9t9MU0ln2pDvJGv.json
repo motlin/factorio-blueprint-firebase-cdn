@@ -3,15 +3,15 @@
   "fileName": "mining patterns.png",
   "lastUpdatedDate": 1576670460229,
   "numberOfFavorites": 17,
-  "tags": {
-    "5": "/general/compact/",
-    "6": "/production/modules/",
-    "0": "/production/mining/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/modules/",
+    "/production/mining/",
+    "/general/late game (megabase)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "vlqFI31agGUjHIuQfeFS6B1Ucd02"
   },

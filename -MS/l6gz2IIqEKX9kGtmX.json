@@ -13,9 +13,9 @@
     "userId": "ua8PQXNNDGPuA070pc2A6a1zKBN2"
   },
   "authorId": "ua8PQXNNDGPuA070pc2A6a1zKBN2",
-  "tags": {
-    "0": "/mods/seablock/"
-  },
+  "tags": [
+    "/mods/seablock/"
+  ],
   "title": "Seablock mall Red/Green science",
   "descriptionMarkdown": "Not efficient, but easy to build. More of a demo on how to build a mall for lazy people.",
   "lastUpdatedDate": 1612510580902,

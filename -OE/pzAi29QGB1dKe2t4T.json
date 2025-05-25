@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/SvwjyWE",
   "lastUpdatedDate": 1734998801356,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Self-starting, belt-fed, perfect ratio, fuel-cell conserving 2x nuclear reactor with solar powered inserters"
 }

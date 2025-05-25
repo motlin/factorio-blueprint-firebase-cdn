@@ -4,11 +4,11 @@
   },
   "authorId": "aFX7d1WSwNPEciLOgs8wFpupzBp1",
   "fileName": "image_2021-02-13_210307.png",
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/belt based/"
+  ],
   "lastUpdatedDate": 1613222284472,
   "numberOfFavorites": 2,
   "title": "Engine unit factory block",

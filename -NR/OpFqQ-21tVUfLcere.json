@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1679766272025,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "On-Demand Nuclear Power Block"
 }

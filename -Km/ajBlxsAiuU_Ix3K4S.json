@@ -16,10 +16,10 @@
   },
   "numberOfFavorites": 13,
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/version/0,15/"
+  ],
   "title": "1,000 Military Science per minute"
 }

@@ -15,13 +15,13 @@
   "descriptionMarkdown": "Percentage based indicator. Most bottom level will blink when value is lower than 5% of it's maximum. Default setting is set for measuring one tank of water with capacity of 25k. Input signal must be connected to the input of the only arithmetic combinator with a \" / \" on it. If you want to measure other signals or different capacities follow these steps:\n\nOpen the only arithmetic combinator with \" / \" on it.\nOn the left side of input section select the signal you want to measure.\nOn the right side of input section enter the maximum value your signal can reach but DON'T FORGET to divide it by 100. (This dividing step could be built into the indicator but I wanted to use minimum amount of combinators.)",
   "fileName": "20180914120255_1.jpg",
   "title": "Compact Indicator 4x7 - 18 Increments",
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "lYTmoBKn5CTmbCsIVjRFDZQn2x43"
   },

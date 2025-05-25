@@ -14,13 +14,13 @@
     "width": 953
   },
   "lastUpdatedDate": 1613720280714,
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/power/accumulator/",
-    "2": "/power/solar/",
-    "3": "/version/0,15/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/power/accumulator/",
+    "/power/solar/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ],
   "createdDate": 1613720133303,
   "title": "Simple 36x36 Solar Panel Farm",
   "favorites": {

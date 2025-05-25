@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ekV86QH",
   "lastUpdatedDate": 1732958773985,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/planets/vulcanus/"
+  ],
   "title": "240GreenChips/s",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/Z4oDjAr",
   "lastUpdatedDate": 1738014001614,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "[item=radar]Radar Outpost"
 }

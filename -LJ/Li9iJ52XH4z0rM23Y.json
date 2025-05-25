@@ -22,15 +22,15 @@
   },
   "lastUpdatedDate": 1536660944433,
   "numberOfFavorites": 21,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/",
-    "6": "/train/stacker/",
-    "7": "/general/late game (megabase)/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/general/late game (megabase)/",
+    "/production/smelting/"
+  ],
   "title": "Tileable TrainSmelting V1 - each Copper, Iron 19k/min with Beacons"
 }

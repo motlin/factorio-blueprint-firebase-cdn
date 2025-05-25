@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1614080546927,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "30k/min Green Circuit "
 }

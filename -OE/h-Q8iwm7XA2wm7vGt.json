@@ -16,12 +16,12 @@
   "imageUrl": "https://imgur.com/EuKxiQx",
   "lastUpdatedDate": 1735123135875,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/production/uranium/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/",
-    "4": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Nuclear Reactor Setup by Zoom Snail"
 }

@@ -11,10 +11,10 @@
   "descriptionMarkdown": "A concept idea of a AngelBobs random ore sorter without any filters.\nSmall versions of this can be used early game without filter inserters.\n\nWord of warning: If one of the lanes clogs up the whole thing may jam...",
   "lastUpdatedDate": 1589452359260,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "AngelBobs Random Ore Sorter",
   "author": {
     "userId": "5aBH69dxcQhWrhlXdbN5U4Ycr2Q2"

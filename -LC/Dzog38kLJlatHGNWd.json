@@ -57,21 +57,21 @@
   },
   "lastUpdatedDate": 1562797411600,
   "numberOfFavorites": 36,
-  "tags": {
-    "7": "/production/smelting/",
-    "8": "/production/plastic/",
-    "0": "/general/late game (megabase)/",
-    "4": "/production/science/",
-    "10": "/train/loading station/",
-    "12": "/train/right-hand-drive/",
-    "13": "/version/0,17/",
-    "3": "/production/processing unit (blue)/",
-    "9": "/production/belt based/",
-    "2": "/mods/vanilla/",
-    "5": "/production/rocket parts/",
-    "11": "/train/unloading station/",
-    "1": "/general/beaconized/",
-    "6": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/plastic/",
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/train/loading station/",
+    "/train/right-hand-drive/",
+    "/version/0,17/",
+    "/production/processing unit (blue)/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/production/rocket parts/",
+    "/train/unloading station/",
+    "/general/beaconized/",
+    "/production/research (labs)/"
+  ],
   "title": "Vlad's Rail Megabase Stations"
 }

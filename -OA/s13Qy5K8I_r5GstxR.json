@@ -16,8 +16,8 @@
   "imageUrl": "https://imgur.com/ubgH3ho",
   "lastUpdatedDate": 1730748049316,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Spaceships"
 }

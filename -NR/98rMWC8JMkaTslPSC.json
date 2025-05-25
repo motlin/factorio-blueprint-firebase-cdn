@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1708493600308,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Digital Signal Processing"
 }

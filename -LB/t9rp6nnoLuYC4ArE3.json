@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1554663570918,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Welcome To Factorio Laser Defense"
 }

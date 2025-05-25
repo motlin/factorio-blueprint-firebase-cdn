@@ -22,8 +22,8 @@
   },
   "lastUpdatedDate": 1610896678589,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Self-Contained Module Factory (12/min)"
 }

@@ -9,12 +9,12 @@
     "width": 1007
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/crossing/"
+  ],
   "title": "Simple Rail Book",
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,

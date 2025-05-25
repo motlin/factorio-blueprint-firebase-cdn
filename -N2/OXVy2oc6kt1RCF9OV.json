@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1652917145550,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ],
   "title": "Tileable kovarex enrichment",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

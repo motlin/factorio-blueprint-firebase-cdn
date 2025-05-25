@@ -13,15 +13,15 @@
     "type": "image/png"
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "4": "/version/0,16/",
-    "5": "/production/belt based/",
-    "6": "/general/mid game/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/belt based/",
+    "/general/mid game/",
+    "/production/advanced circuit (red)/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "TXSq8gdoyJcv5q9rWec3NJHKUlv1": true
   },

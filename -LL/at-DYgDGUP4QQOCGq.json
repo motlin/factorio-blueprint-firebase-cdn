@@ -9,11 +9,11 @@
     "type": "image/png",
     "width": 395
   },
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/general/early game/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/general/early game/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "gvzycsamCwP6sWsx0Gazslem71y2"
   },

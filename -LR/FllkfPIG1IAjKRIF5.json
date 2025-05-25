@@ -74,13 +74,13 @@
   },
   "lastUpdatedDate": 1599562418593,
   "numberOfFavorites": 59,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/unloading station/",
-    "4": "/train/loading station/",
-    "5": "/train/stacker/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/train/stacker/"
+  ],
   "title": "ETS - EasyTrainSystem (old)"
 }

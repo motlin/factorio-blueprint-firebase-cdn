@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1678672559651,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "title": "Easy farming"
 }

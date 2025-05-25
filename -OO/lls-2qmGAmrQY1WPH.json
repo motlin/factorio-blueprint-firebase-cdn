@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/eSiw6s5",
   "lastUpdatedDate": 1745666414609,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Symmetrical rail grid",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true,

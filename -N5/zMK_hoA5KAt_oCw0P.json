@@ -29,10 +29,10 @@
   },
   "lastUpdatedDate": 1656799355822,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/aai/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/aai/",
+    "/mods/ltn/"
+  ],
   "title": "Space Exploration 0.6 Nauvis Blueprints (Till Rocket Science)"
 }

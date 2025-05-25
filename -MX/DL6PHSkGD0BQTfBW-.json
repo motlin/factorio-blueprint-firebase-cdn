@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1617350577307,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Full Advanced Circuit Blue Belt",
   "favorites": {
     "mgzaB559GKQRL7QtiME6MluIubD2": true,

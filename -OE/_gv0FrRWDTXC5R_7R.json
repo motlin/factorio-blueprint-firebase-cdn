@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zEX8GZt",
   "lastUpdatedDate": 1734725638511,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta usina de plástico T2 (Exotics + S.E.)"
 }

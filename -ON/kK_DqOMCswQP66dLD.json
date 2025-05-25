@@ -19,10 +19,10 @@
   "imageUrl": "https://i.imgur.com/wCgK7lp.jpeg",
   "lastUpdatedDate": 1744594233172,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/vulcanus/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/vulcanus/",
+    "/production/belt based/"
+  ],
   "title": "26k/m Military Science (Vulcanus) WIP"
 }

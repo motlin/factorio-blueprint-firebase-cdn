@@ -10,14 +10,14 @@
   },
   "lastUpdatedDate": 1552245437642,
   "numberOfFavorites": 9,
-  "tags": {
-    "5": "/production/guns and ammo/",
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/production/rocket parts/",
-    "3": "/production/uranium/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/rocket parts/",
+    "/production/uranium/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "zlLAYs78laaP5KcBs06Jm2ci2JO2"
   },

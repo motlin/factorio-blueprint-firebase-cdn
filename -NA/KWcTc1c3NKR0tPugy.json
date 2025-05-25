@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1661439739979,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "title": "Star solar block (48x48, perfect ratio,1 roboport)",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

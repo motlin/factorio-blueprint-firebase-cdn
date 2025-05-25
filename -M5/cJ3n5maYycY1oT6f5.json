@@ -13,10 +13,10 @@
   },
   "lastUpdatedDate": 1587667192993,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "YIvPWOlWsyNqfio3eDSWt8ZnxRy2"
   },

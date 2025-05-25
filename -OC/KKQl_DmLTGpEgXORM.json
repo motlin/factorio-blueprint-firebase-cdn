@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/KFpqfr9",
   "lastUpdatedDate": 1732303502561,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "casinos V1.3",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/mRfNQTf",
   "lastUpdatedDate": 1730609072685,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar cell Substation version",
   "favorites": {
     "ouppqqHlrvaPTJhpUy9vBT8EEjR2": true,

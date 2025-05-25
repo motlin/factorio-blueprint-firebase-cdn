@@ -14,9 +14,9 @@
   },
   "createdDate": 1607880748080,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Multi Purpose Supply train",
   "favorites": {
     "aYFFekScElREysyoT6jicNh97Sr2": true,

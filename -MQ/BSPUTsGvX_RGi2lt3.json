@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1638739060897,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/"
+  ],
   "title": "green red blue chip 45/s beacon"
 }

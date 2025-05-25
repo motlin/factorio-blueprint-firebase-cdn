@@ -21,9 +21,9 @@
     "height": 1080
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/rocket parts/"
+  ],
   "title": "Rocket Control Units from Green/Red",
   "authorId": "R70ykiKK3oap7nNFuBw2VKUtRC13"
 }

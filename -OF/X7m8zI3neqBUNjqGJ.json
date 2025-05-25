@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/clVLCMt",
   "lastUpdatedDate": 1735739515787,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "SS Booster 2",
   "favorites": {
     "eqmiBs18xYc8Lg0O5n4Wh1ofx9q1": true,

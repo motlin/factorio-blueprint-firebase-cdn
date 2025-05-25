@@ -6,10 +6,10 @@
     "width": 503
   },
   "lastUpdatedDate": 1614872012431,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Mike's Refinery",
   "author": {
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"

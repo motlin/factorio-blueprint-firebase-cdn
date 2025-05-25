@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1533964547320,
   "numberOfFavorites": 2,
-  "tags": {
-    "6": "/production/processing unit (blue)/",
-    "7": "/production/modules/",
-    "0": "/version/0,16/",
-    "1": "/train/left-hand-drive/",
-    "2": "/production/belt based/",
-    "3": "/production/smelting/",
-    "4": "/production/electronic circuit (green)/",
-    "5": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/modules/",
+    "/version/0,16/",
+    "/train/left-hand-drive/",
+    "/production/belt based/",
+    "/production/smelting/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Copper Outpost x16"
 }

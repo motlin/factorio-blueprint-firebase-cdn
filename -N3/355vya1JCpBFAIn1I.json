@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1653631119369,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/circuit/counter/"
+  ],
   "title": "Industrial Omni-smelting block (Bots)"
 }

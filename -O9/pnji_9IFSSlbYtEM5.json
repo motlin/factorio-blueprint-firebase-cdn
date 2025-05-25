@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/eLbHfhC",
   "lastUpdatedDate": 1729629257897,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/version/2,0/"
+  ],
   "title": "Train roundabout 2.0",
   "favorites": {
     "ZaYdTlpGWlaBpszPjCZTG94nDj43": true,

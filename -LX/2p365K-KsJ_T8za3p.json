@@ -8,12 +8,12 @@
     "width": 566
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/production/uranium/",
-    "3": "/power/kovarex enrichment/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "KZmyCWkLxJVH6Tbp3PEWev1dVzg1": true,
     "6MGWC2v8imePCNkKPnZehgDGG113": true,

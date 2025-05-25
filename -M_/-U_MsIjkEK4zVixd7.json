@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1620292869371,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/compact/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/version/1,0/"
+  ],
   "title": "160MW fuel conserving early to mid game nuclear generator",
   "favorites": {
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,

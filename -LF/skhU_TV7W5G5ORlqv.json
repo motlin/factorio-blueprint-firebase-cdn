@@ -15,9 +15,9 @@
     "type": "image/jpeg",
     "width": 968
   },
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "4-way Rail Junction",
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,

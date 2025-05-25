@@ -23,9 +23,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/solar.jpg?alt=media&token=049f4454-2656-42c3-99bc-b3fafceecf5a",
   "lastUpdatedDate": 1506074932261,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/power/solar/"
+  ],
   "title": "Solar Panel and accumulator setup with rails"
 }

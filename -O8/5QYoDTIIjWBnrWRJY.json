@@ -28,10 +28,10 @@
   "imageUrl": "https://imgur.com/lw41rGZ",
   "lastUpdatedDate": 1730963038491,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Vanilla Rocket Factory - Fixed/Improved"
 }

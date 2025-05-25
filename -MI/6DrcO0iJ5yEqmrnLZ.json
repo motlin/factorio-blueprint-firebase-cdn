@@ -16,12 +16,12 @@
   "descriptionMarkdown": "Four storage tank, with colored light to show the volume.\nRed - less than 25000\nYellow - 25000 to 75000\nGreen - upper than 75000\nUse the constant combinator to change values.\nMUST change the fluid in Deciders to what you want.\n",
   "fileName": "FACTORIO FLUID SENSOR.png",
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/version/1,0/",
-    "2": "/circuit/counter/",
-    "3": "/general/storage/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/circuit/counter/",
+    "/general/storage/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "0rdpwQPdhgc0RFaRpodeMug1JmO2": true
   }

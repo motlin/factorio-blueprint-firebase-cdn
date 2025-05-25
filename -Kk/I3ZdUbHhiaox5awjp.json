@@ -2,11 +2,11 @@
   "descriptionMarkdown": "a science setup that can use up to 410 bottles/s when researching a 1 Bottle / 30s thing",
   "fileName": "Screenshot_23.png",
   "lastUpdatedDate": 1499429283373,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "DH3QhkwBC5Rj4zkYRMxjXYilvug2"
   },

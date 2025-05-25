@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1617778640002,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Satellite Factory (1/200 sec)",
   "favorites": {
     "KX6rawUCcjOmgr7H5qcqPjxJ7rO2": true,

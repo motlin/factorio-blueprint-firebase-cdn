@@ -11,10 +11,10 @@
   "createdDate": 1533476651914,
   "descriptionMarkdown": "my rails subparts",
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/stacker/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/stacker/"
+  ],
   "title": "railway suboparts v0.1",
   "favorites": {
     "dYO8YmfeU0ekW8MG5B6JBhmyV5t2": true

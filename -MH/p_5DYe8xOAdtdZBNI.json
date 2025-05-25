@@ -25,8 +25,8 @@
   },
   "lastUpdatedDate": 1600774235281,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/"
-  }
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ]
 }

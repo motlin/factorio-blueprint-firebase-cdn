@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1660167187896,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ],
   "title": "Robo accumulator tile"
 }

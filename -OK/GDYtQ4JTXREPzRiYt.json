@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/cE9mcQc",
   "lastUpdatedDate": 1740824526468,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Auto Rocket Loader 1",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

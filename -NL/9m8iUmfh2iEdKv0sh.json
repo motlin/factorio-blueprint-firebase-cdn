@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1702061710385,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "Small lake big water",
   "favorites": {
     "bkWAmc2dhcZCsTAY8id93S2Xmmt2": true,

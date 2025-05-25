@@ -50,17 +50,17 @@
   "imageUrl": "https://imgur.com/0Ndd07D",
   "lastUpdatedDate": 1730827930824,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/production/belt based/",
-    "4": "/version/2,0/",
-    "5": "/production/inserters/",
-    "6": "/production/belts/",
-    "7": "/mods/vanilla/",
-    "8": "/production/advanced circuit (red)/",
-    "9": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/belt based/",
+    "/version/2,0/",
+    "/production/inserters/",
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/production/advanced circuit (red)/",
+    "/version/0,15/"
+  ],
   "title": "Early Game Mall: Fork from Mall by Klaas Hakvoort"
 }

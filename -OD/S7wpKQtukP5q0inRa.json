@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/DQ0DXfy",
   "lastUpdatedDate": 1733508755164,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/2,0/"
+  ],
   "title": "Advanced Oil Refining Unit",
   "favorites": {
     "rAsKDUaqg5TCNEcxYlQnkRlGvAE2": true,

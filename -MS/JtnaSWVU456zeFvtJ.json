@@ -51,14 +51,14 @@
   },
   "lastUpdatedDate": 1632503083958,
   "numberOfFavorites": 34,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/science/",
-    "2": "/production/rocket parts/",
-    "3": "/general/compact/",
-    "4": "/production/research (labs)/",
-    "5": "/version/0,15/",
-    "6": "/version/1,0/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/science/",
+    "/production/rocket parts/",
+    "/general/compact/",
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/version/1,0/"
+  ],
   "title": "600 SPM COMPACT BASE "
 }

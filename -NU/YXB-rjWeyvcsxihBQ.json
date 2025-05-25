@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1683149602922,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/1,1/"
-  },
+  "tags": [
+    "/version/1,1/"
+  ],
   "title": "Basic train block",
   "favorites": {
     "96scKksgGvSLlD12ApyoyA6CEFC3": true,

@@ -20,13 +20,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2018-08-04_02-55-55.jpg?alt=media&token=4e437aa8-4e48-47c8-8aa2-34e097573b96",
   "lastUpdatedDate": 1534087210685,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/roundabout/",
-    "3": "/train/unloading station/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/belt/balancer/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/unloading station/",
+    "/belt/express transport belt (blue)/",
+    "/belt/balancer/"
+  ],
   "title": "Unloading station"
 }

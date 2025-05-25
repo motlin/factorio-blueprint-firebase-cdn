@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1626575114423,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/power/nuclear/"
+  ],
   "title": "16 (8x2) Deuterium Reactor Complex"
 }

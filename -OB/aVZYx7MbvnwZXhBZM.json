@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/9SA6WyR",
   "lastUpdatedDate": 1731517905494,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/science/"
+  ],
   "title": "Gleba 140SPM",
   "favorites": {
     "PhS1ggQvnkZODooxr6ijo4Ca3Fb2": true

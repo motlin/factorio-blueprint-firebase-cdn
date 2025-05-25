@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660509430451,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "1770Mw Simple fuel efficient reactor design ",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

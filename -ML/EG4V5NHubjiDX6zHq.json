@@ -21,9 +21,9 @@
     "CSNM6eEPCBcPfGFkI9H2DDAzkDo1": true,
     "cLC05YkeXGe0MFB9YA6XE1IvVj63": true
   },
-  "tags": {
-    "1": "/production/science/",
-    "2": "/mods/vanilla/",
-    "0": "/general/early game/"
-  }
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ]
 }

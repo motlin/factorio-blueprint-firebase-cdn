@@ -44,17 +44,17 @@
   },
   "lastUpdatedDate": 1618931038224,
   "numberOfFavorites": 26,
-  "tags": {
-    "4": "/production/science/",
-    "5": "/version/0,15/",
-    "6": "/version/0,16/",
-    "8": "/version/0,18/",
-    "2": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "7": "/version/0,17/",
-    "9": "/version/1,0/",
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,18/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/version/0,17/",
+    "/version/1,0/",
+    "/general/tileable/"
+  ],
   "title": "Modular Extensible PnP Factory"
 }

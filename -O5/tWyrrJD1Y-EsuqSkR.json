@@ -38,12 +38,12 @@
   "imageUrl": "https://imgur.com/2AIyedC",
   "lastUpdatedDate": 1725394583425,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/production/batteries/",
-    "2": "/power/steam/",
-    "3": "/power/accumulator/",
-    "4": "/power/solar/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/batteries/",
+    "/power/steam/",
+    "/power/accumulator/",
+    "/power/solar/"
+  ],
   "title": "The Power Book"
 }

@@ -31,10 +31,10 @@
   "imageUrl": "https://imgur.com/8kK1HL8",
   "lastUpdatedDate": 1731412934230,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/junction/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/junction/",
+    "/train/track/"
+  ],
   "title": "Train Rails (1/2 lanes + Ramps)"
 }

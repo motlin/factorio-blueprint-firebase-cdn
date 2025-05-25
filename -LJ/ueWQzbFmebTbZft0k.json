@@ -4,10 +4,10 @@
   "createdDate": 1534287550362,
   "descriptionMarkdown": "Tileable solar field\n+ ratio 0.87 (accumulators a bit more then needed)\n+ up to 8.2 MW\n+ max space efficiency - only 9 substations and no one free tile",
   "lastUpdatedDate": 1535147489751,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,15/"
+  ],
   "title": "Solar Station (botbased, 8.2 MW)",
   "favorites": {
     "SDW2Dt2M0iTTjOKRguBooWEdMkx2": true,

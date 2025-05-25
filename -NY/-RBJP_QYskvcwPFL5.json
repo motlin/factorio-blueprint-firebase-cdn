@@ -56,14 +56,14 @@
   },
   "lastUpdatedDate": 1706451741938,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/",
-    "2": "/train/track/",
-    "3": "/version/1,1/",
-    "4": "/train/right-hand-drive/",
-    "5": "/production/rocket parts/",
-    "6": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/",
+    "/train/track/",
+    "/version/1,1/",
+    "/train/right-hand-drive/",
+    "/production/rocket parts/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Space exploration &  Krastorio 2 Train factory"
 }

@@ -12,12 +12,12 @@
     "width": 502
   },
   "lastUpdatedDate": 1581434904885,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/tileable/",
-    "2": "/general/early game/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/tileable/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "pCwu2884rhV4Il958jamRV7SV8I3"
   },

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/mejuwp1",
   "lastUpdatedDate": 1733772097949,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Logistics Monitor",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

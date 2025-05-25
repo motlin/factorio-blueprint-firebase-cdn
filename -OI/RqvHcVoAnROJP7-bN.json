@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/nXztLnO",
   "lastUpdatedDate": 1738872173853,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Purple Science",
   "favorites": {
     "W8PRLHP70XfHLC6ssogMxzwVzNs1": true,

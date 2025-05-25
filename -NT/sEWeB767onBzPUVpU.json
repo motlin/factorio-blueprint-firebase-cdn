@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1682423290681,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/production/science/"
+  ],
   "title": "2 Blue Belts of Space Science",
   "favorites": {
     "xsgANniFt0XomK4rBH91A4ce7cX2": true

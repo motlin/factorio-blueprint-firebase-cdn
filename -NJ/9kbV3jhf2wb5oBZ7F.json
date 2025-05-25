@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1670922834491,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/production/belt based/"
+  ],
   "title": "Transport Belts - 2x Saturated Express"
 }

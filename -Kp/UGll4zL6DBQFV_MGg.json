@@ -16,10 +16,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/megasolar.png?alt=media&token=f138fe3b-9cd2-4b56-9082-fe9aa15c6fa7",
   "lastUpdatedDate": 1500552960478,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mega solar factory"
 }

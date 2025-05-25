@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/PskJ5UQ",
   "lastUpdatedDate": 1732476694621,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Triple Engine Space Platform (player transport)",
   "favorites": {
     "RIpMubWRVUbzeYDSAeWEaM059O93": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/kg3oUf0",
   "lastUpdatedDate": 1730052445139,
   "numberOfFavorites": 32,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/space-platform/"
+  ],
   "title": "Space science platform compact 2.0",
   "favorites": {
     "DRs4fFesokedFZG3er6wTvyYFhg2": true,

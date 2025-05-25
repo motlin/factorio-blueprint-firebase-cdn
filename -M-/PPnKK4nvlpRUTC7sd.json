@@ -1,14 +1,14 @@
 {
   "numberOfFavorites": 33,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/early game/",
-    "5": "/version/0,18/",
-    "6": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/version/0,18/",
+    "/version/1,0/"
+  ],
   "title": "compact 45/min science production",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

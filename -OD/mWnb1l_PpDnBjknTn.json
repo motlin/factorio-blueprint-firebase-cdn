@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/47HLOaU",
   "lastUpdatedDate": 1733867027069,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Calcite on Nauvis",
   "favorites": {
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,

@@ -31,10 +31,10 @@
   },
   "lastUpdatedDate": 1682514164584,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/chunk aligned/"
+  ],
   "title": "Personal wall book"
 }

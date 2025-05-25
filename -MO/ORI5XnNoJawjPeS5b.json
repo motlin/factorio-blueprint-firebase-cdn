@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1636809388606,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Uran production - Infinite 235",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

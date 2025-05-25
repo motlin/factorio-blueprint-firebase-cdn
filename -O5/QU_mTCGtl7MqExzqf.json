@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/yHnWjOC",
   "lastUpdatedDate": 1724890636284,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/production/science/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/production/science/",
+    "/general/tileable/"
+  ],
   "title": "Pihsrow420's Science"
 }

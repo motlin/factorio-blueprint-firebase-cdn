@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/nyqUMjR",
   "lastUpdatedDate": 1732476642628,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/scrap processing/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/production/scrap processing/",
+    "/planets/fulgora/"
+  ],
   "title": "Holmium Ore Scrapper",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

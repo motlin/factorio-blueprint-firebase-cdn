@@ -9,11 +9,11 @@
     "userId": "AEZercdUfsWXUCZVlmVe0mt0zMd2"
   },
   "authorId": "AEZercdUfsWXUCZVlmVe0mt0zMd2",
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true
   },

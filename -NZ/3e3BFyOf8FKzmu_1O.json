@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1688000283497,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/version/1,1/",
-    "5": "/production/belt based/",
-    "6": "/general/tileable/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/production/belt based/",
+    "/general/tileable/"
+  ],
   "title": "Low Density Structures - 2700 science per minute",
   "favorites": {
     "x116iHju47YnnxylWFqbyoWR5GA2": true,

@@ -27,10 +27,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blueprintPS1.png?alt=media&token=2a7dfc68-8c28-4752-9395-8e9f53593e53",
   "lastUpdatedDate": 1573158292794,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Speed & Productivity Factory"
 }

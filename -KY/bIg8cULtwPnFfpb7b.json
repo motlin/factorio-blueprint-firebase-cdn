@@ -8,12 +8,12 @@
     "id": "p3bE9Pw"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202016-12-09%20at%209.55.22%20PM.png?alt=media&token=59490043-5bc0-4c58-9bf0-5013cfb2945a",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "favorites": {
     "07V4Bj9drfdevV8GUHa2VyUwEef1": true,
     "JCDu19n05zTsCABLNroLXCi7gtv2": true,

@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/Jpps0xm",
   "lastUpdatedDate": 1725393489062,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/combat/offense/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/combat/offense/",
+    "/train/track/"
+  ],
   "title": "Cat's-Eye Defense book"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/yEgCYDb",
   "lastUpdatedDate": 1739376845593,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "breathing lights controller",
   "favorites": {
     "jzVNozVJCigYEPTDqF1i8glSLfe2": true

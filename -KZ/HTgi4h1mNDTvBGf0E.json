@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1499900212675,
   "numberOfFavorites": 23,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/",
-    "0": "/train/track/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/train/track/",
+    "/power/solar/"
+  ],
   "favorites": {
     "d5E6YHHvycaJQKdJfXVjcs2OnlG2": true
   },

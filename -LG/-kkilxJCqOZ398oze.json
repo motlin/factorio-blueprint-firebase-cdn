@@ -13,13 +13,13 @@
   "createdDate": 1530094881957,
   "descriptionMarkdown": "roundabout compatible with Xterminators  rail BP books\nhttp://www.xtermvideos.com/factorio/blueprint/",
   "fileName": "Factorio 2018-06-27 13-19-30-59.jpg",
-  "tags": {
-    "4": "/train/right-hand-drive/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "lq21OXMYllaYMEm2xypGLM9Z7AC2"
   }

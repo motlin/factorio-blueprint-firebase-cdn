@@ -36,14 +36,14 @@
   },
   "lastUpdatedDate": 1526796264382,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/power/nuclear/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/",
-    "5": "/production/rocket parts/",
-    "6": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/rocket parts/",
+    "/production/research (labs)/"
+  ],
   "title": "Hexland V2.1 double ring"
 }

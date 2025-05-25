@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/KYHxgA0",
   "lastUpdatedDate": 1735584267812,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "SpaceAge Endgame ship"
 }

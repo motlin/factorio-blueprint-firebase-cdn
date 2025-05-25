@@ -14,11 +14,11 @@
     "id": "QPBgxL1",
     "type": "image/png"
   },
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/mods/bobs/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "04bPPvGc8rdhoJszAzcQ9TnJSCJ3"
   },

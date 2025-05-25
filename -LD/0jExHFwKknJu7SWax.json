@@ -30,9 +30,9 @@
   },
   "lastUpdatedDate": 1578069703873,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,17/"
+  ],
   "title": "0.17 Modular Blueprints"
 }

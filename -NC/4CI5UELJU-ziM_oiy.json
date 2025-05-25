@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1667715578194,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Purple Science 30spm (Production Science)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/production%20science%2030spm.png?alt=media&token=a0b88c9a-574b-43d7-bb52-5a41dd569ba6",
   "favorites": {

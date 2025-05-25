@@ -20,8 +20,8 @@
   "descriptionMarkdown": "Tileable electronic circuit board production",
   "fileName": "electronic-circuit-board.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/industrial revolution/"
-  }
+  "tags": [
+    "/production/other/",
+    "/mods/industrial revolution/"
+  ]
 }

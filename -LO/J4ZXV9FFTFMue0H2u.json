@@ -15,13 +15,13 @@
     "id": "ILf9WXH"
   },
   "lastUpdatedDate": 1568002128745,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Early game smelting (4-lanes)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/0eNqdndtuXsdyh.png?alt=media&token=782e22a0-5c78-42a4-a265-13192a2b3ee4",
   "favorites": {

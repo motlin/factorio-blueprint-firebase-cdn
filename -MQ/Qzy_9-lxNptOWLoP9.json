@@ -17,11 +17,11 @@
   "createdDate": 1610008751329,
   "lastUpdatedDate": 1610848359683,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/oil processing/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "GXju68xMClhYkuU0t3JuVu7Xnrz1": true,
     "2Ax8dUhZHqOMzMlGKBVrRXgsSSw1": true,

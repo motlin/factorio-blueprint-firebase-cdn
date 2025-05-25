@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1641629509861,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/ltn/"
+  ],
   "title": "rails book, ltn stops (no logic)",
   "favorites": {
     "XwPHabuBnAeu3XNrLz2yA4trDoC2": true,

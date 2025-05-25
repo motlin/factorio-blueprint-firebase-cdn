@@ -57,10 +57,10 @@
   "authorId": "H21LF3r3zcc1CZEgx6MZvmCfF9u2",
   "lastUpdatedDate": 1518464530721,
   "numberOfFavorites": 89,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,16/"
+  ],
   "title": "High Volume Robot Production",
   "descriptionMarkdown": "This is a nice high volume, compact robot production facility, Producing approximately 1 robot every 2 seconds. (because of the design, it slightly favors producing logistics robots (About 10%)). I am 100% always at my max usable robots, and when I need more, it'll always be in a hurry to max out again.\n\nP.S. To have a complete 50/50 production, let the factory fill up the robot frame belt before turning on the logistics and construction factories.\n\nP.S.S. That's batteries next to the steel in the middle... was running a little low on production when I took the screenshot, you know how it is.",
   "image": {

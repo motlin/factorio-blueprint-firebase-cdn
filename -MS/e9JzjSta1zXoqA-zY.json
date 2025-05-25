@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1641384857786,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Uturn Tubine"
 }

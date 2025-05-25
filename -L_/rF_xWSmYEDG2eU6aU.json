@@ -7,13 +7,13 @@
   "createdDate": 1552484032532,
   "descriptionMarkdown": "I made these with the creative mode mod, but I tested all of them and they worked when I did so please if you find any mistakes send a message :)\n\nI'm still a bit new to the game but I've already finished it multiple times so these probaly won't be the most efficient blueprints, but they do the job and are quite compact",
   "lastUpdatedDate": 1552484032532,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "All Circuits Automated",
   "fileName": "20190313143002_1.jpg",
   "image": {

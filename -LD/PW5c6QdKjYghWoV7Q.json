@@ -20,11 +20,11 @@
     "width": 720
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/production/advanced circuit (red)/",
-    "3": "/general/beaconized/",
-    "0": "/mods/vanilla/",
-    "1": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "beaconed red circuits"
 }

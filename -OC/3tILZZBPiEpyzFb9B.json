@@ -21,9 +21,9 @@
   "imageUrl": "https://imgur.com/xWb1uk0",
   "lastUpdatedDate": 1732027865849,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/scrap processing/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/scrap processing/",
+    "/version/0,15/"
+  ],
   "title": "Scrap Recycling"
 }

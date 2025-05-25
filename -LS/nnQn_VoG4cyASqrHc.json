@@ -2,12 +2,12 @@
   "fileName": "h.PNG",
   "lastUpdatedDate": 1572827164714,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/mining/",
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/mining/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Jardons Necessities #1 - Mining and Smelting Blueprints",
   "favorites": {
     "vMdd9uhEVzMDCmpM5Gdta01H3ar1": true

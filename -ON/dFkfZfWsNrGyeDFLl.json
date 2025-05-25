@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/EbKu4CJ",
   "lastUpdatedDate": 1744448982001,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/accumulator/"
+  ],
   "title": "Simple SR Latch"
 }

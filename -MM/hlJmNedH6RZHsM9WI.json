@@ -23,12 +23,12 @@
   },
   "lastUpdatedDate": 1697243725720,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/production/uranium/",
-    "2": "/power/kovarex enrichment/",
-    "3": "/general/compact/",
-    "4": "/power/solar/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/general/compact/",
+    "/power/solar/"
+  ],
   "title": "(8x4 reactor) 4x 1116MW reactor"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/BQ0PTLI",
   "lastUpdatedDate": 1730957580395,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "400 Space Science/m Blueprint",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

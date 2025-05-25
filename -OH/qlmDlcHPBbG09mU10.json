@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dLKr9v7",
   "lastUpdatedDate": 1738234006812,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/"
+  ],
   "title": "Mall vanilla v2.0 (no dlc)",
   "favorites": {
     "pF7hIvwaIehVNKvD6T9zXpJQnJe2": true,

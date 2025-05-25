@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1672928714712,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/power/steam/",
-    "2": "/production/belts/",
-    "3": "/mods/krastorio/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/power/steam/",
+    "/production/belts/",
+    "/mods/krastorio/",
+    "/mods/other/"
+  ],
   "title": "SCIENCE AND AUTOMATION"
 }

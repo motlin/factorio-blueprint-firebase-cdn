@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1695236700412,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Basic mall",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Basic%20mall.png?alt=media&token=20fc74ba-35ac-440e-9103-f59c59c9b113",
   "favorites": {

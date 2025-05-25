@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1667515695365,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Posto para processamento de Berílio e Gás metano"
 }

@@ -32,11 +32,11 @@
   "imageUrl": "https://imgur.com/GYGfJHh",
   "lastUpdatedDate": 1739256719819,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/mid game/",
-    "2": "/general/tileable/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/space-age/"
+  ],
   "title": "Rail based City Block 100x100 2.0"
 }

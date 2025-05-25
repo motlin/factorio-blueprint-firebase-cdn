@@ -3,11 +3,11 @@
   "descriptionMarkdown": "80 Accumulator's block",
   "numberOfFavorites": 0,
   "title": "Accumulator",
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "cEyKA4c3sKTxIIJXzxFkJjpn2Hf2"
   },

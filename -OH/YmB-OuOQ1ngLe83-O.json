@@ -24,8 +24,8 @@
   "imageUrl": "https://imgur.com/wJ1WQ1S",
   "lastUpdatedDate": 1739349553912,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "Space ship collection"
 }

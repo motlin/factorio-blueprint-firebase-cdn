@@ -8,13 +8,13 @@
   "descriptionMarkdown": "5 blue belts of stone in, 3 blue belts of stone brick out.\n\nAn exercise in fitting as much stone as possible down a line of beacons.\n\nPerfect input/output ratio, compressed belts - though it takes a while to equalize internal buffers. ",
   "fileName": "compactstonesmelting.png",
   "lastUpdatedDate": 1594962082781,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/tileable/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/tileable/",
+    "/production/smelting/"
+  ],
   "title": "5:3 Stone Smelter",
   "image": {
     "height": 2244,

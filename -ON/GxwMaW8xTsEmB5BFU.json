@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/1M3VOHk",
   "lastUpdatedDate": 1744060181256,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/space-age/",
-    "2": "/planets/vulcanus/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/version/2,0/"
+  ],
   "title": "Vulcanus - Rocket Fuel 60/m",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

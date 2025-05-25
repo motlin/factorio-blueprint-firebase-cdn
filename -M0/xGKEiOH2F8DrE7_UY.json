@@ -15,12 +15,12 @@
     "width": 1920
   },
   "lastUpdatedDate": 1582649660551,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/mods/vanilla/",
-    "2": "/train/stacker/",
-    "3": "/circuit/counter/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/train/stacker/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "I4YVWalmpBbK8ogdK2ou44l3C242": true,
     "ZL3Vpem8z0SoGs0QBAeyoyoUtVG3": true,

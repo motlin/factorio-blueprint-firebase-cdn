@@ -24,8 +24,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/0.png?alt=media&token=0800cc9e-e32e-4de9-be7c-64ae23a69926",
   "lastUpdatedDate": 1582127823666,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/belt based/"
-  },
+  "tags": [
+    "/production/belt based/"
+  ],
   "title": "36spm, basic machines/belts, no chips/plastic on bus [whole factory]"
 }

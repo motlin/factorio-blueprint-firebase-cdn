@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1622052583828,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/train/loading station/"
+  ],
   "title": "Carregamento de trens 4 vagões"
 }

@@ -433,11 +433,11 @@
   },
   "lastUpdatedDate": 1737122749464,
   "numberOfFavorites": 325,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/belt based/",
-    "2": "/production/mall (make everything)/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/version/2,0/"
+  ],
   "title": "Brian's Bootstrap"
 }

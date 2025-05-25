@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1679669648500,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/general/ups friendly/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/general/ups friendly/"
+  ],
   "title": "1.7GW Tile-able Low UPS Smart nuclear reactor",
   "favorites": {
     "x1wfbgpMtyWpXTVGbaDlEaeiLAq2": true,

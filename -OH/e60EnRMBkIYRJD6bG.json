@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/W76xKKS",
   "lastUpdatedDate": 1739300496599,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Shushi science",
   "favorites": {
     "0F22M3YOrXQKMl3vgpUA8HpXGly1": true,

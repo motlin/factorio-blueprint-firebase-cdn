@@ -26,9 +26,9 @@
   },
   "lastUpdatedDate": 1616524208999,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Reactor Collection"
 }

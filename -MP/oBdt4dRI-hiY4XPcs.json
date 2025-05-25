@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1638332014218,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/general/beaconized/"
+  ],
   "title": "Petroleum from Coal",
   "favorites": {
     "3kOljLXzQ4UiOGRyNojqbMn5CVy2": true,

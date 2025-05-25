@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1628771200771,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "dwupasowy smelter",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20210812142519_1.jpg?alt=media&token=ceb25e6a-3f3d-456e-a2e0-e219fc83a3dc"
 }

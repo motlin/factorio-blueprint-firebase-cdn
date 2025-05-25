@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/EdiR5yt",
   "lastUpdatedDate": 1728441126401,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "It is upon this rock"
 }

@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1616684549518,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/1,0/",
-    "3": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/production/mall (make everything)/",
+    "/version/1,0/",
+    "/production/guns and ammo/"
+  ],
   "title": "Automated Wall Defence for Factorio game made by NAD4X4"
 }

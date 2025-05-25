@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1639577734158,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar City Block",
   "favorites": {
     "bcRBPqjwf4OSsQQjk29Vz74sbJp2": true,

@@ -7,9 +7,9 @@
     "height": 1999
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/"
+  ],
   "title": "Beaconed blue circut block",
   "author": {
     "userId": "H4pL5wP5DtMohYgb1su6zIPiri72"

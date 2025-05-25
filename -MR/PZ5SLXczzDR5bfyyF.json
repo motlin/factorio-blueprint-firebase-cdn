@@ -4,15 +4,15 @@
   "descriptionMarkdown": "<h2>[English]</h2>w\n<p> Check out my Youtube channel for more information: <a href=\"https://www.youtube.com/channel/UCdlujoDu2bPxSKpWIOWFz6Q\">Danico Gaming</a></p> \n<p>This small construction makes it possible to limit the number of trains according to the quantity of the chests and to manage the maximum number of future trains in the station.</p>\n\nIn the constant transmitter this find 2 signals that you can modify according to your needs.\n\n1. \"Info\" signal: this is the value that your train can contain (example: 3 iron ore wagons = 6000)\n2. Train: this signal makes it possible to limit the number of trains that can come (example: you only have the place for 3 trains but the boxes for 7 trains so your station will be limited to 3)\n\nTo connect the system there is calculator + at the top of the image. Connect your safe directly to it\n\n<h2>[Français]</h2>\n<p>Regarde ma chaine Youtube pour plus d'information : <a href=\"https://www.youtube.com/channel/UCdlujoDu2bPxSKpWIOWFz6Q\">Danico Gaming</a></p>\n<p>Cette petite construction permet de limiter le nombre de train selon la quantité des coffres et de gérer le nombre max de train avenir dans la gare.</p>\n<p>Dans l'émetteur de constante ce trouver 2 signaux que vous pourrez modifier selon vos besoins.</p>\n\n1. Signal \"info\" : ceci est la valeur que votre train peux contenir (exemple : 3 wagons de minerai de fer = 6000 )\n2. Train : ce signal permet de limiter le nombre train qui pourrons venir (exemple : vous avez seulement la place 3 train mais les coffres pour 7 train donc votre gare sera limité a 3 )\n\nPour  connecter le système il y a calculateur + en haut de l'image. Brancher vos coffre directement dessus\n",
   "lastUpdatedDate": 1611058407506,
   "numberOfFavorites": 5,
-  "tags": {
-    "6": "/circuit/counter/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/train/crossing/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/"
+  ],
   "favorites": {
     "w0Ce9dFrlnVxDADCb49BTBNSlN43": true,
     "rxLnyLwNvHPeHerSjsHle8plFe73": true,

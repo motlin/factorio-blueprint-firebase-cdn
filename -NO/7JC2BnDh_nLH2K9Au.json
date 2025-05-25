@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1705241530642,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Bot Brain - 15 robot frames per minute",
   "favorites": {
     "Gyp8xWqfvscEUU7FOtrBOEvzay43": true,

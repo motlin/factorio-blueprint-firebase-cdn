@@ -26,15 +26,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Yu.Me.No%20%E3%83%A6%E3%83%A1%E3%82%AB%E3%82%99%E3%82%BF%E3%83%AA%20%E2%80%93%20%E3%83%9F%E3%83%84%E3%82%AD%E3%83%A8%20(1_14)%20(2).png?alt=media&token=62627c12-4a65-49a7-a15e-bf3732855e77",
   "lastUpdatedDate": 1686705590028,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/",
-    "3": "/version/0,15/",
-    "4": "/version/0,16/",
-    "5": "/version/0,17/",
-    "6": "/version/0,18/",
-    "7": "/version/1,1/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,1/"
+  ],
   "title": "Chill music JP Edition"
 }

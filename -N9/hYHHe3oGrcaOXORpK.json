@@ -23,13 +23,13 @@
   },
   "lastUpdatedDate": 1660769229523,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/belts/",
-    "2": "/production/plastic/",
-    "3": "/production/inserters/",
-    "4": "/production/belt based/",
-    "5": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/belts/",
+    "/production/plastic/",
+    "/production/inserters/",
+    "/production/belt based/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Base in a box updated"
 }

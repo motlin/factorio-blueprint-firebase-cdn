@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1672932782552,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Kovarex no buffer (prod modules OK, no bots)",
   "favorites": {
     "H7qmT6ebR5NfOrAk4EtA5QLr3nw1": true,

@@ -17,9 +17,9 @@
   "numberOfFavorites": 7,
   "title": "Electronics Stage 1 of 3 Green",
   "descriptionMarkdown": "The factory comes in three stages each stage is an upgrade of the prior stage and can be used independently. \n\nStage 1 - Green\n\nStage 2 - Red\n\nStage 3 - Blue\n\nThe third stage uses two requester chests and passive provider chest for the supply of sulfuric acid but can easily supplied through pipes. \n\nAlso i would be really happy if someone can tell me how to export a blueprint book..",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

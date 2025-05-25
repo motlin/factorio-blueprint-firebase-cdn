@@ -13,10 +13,10 @@
   },
   "authorId": "dRIvhsh0l1hLnPyWV84c6CFSAX12",
   "descriptionMarkdown": "* Mod: Krastorio\n* 3 station unloading area",
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/krastorio/"
+  ],
   "favorites": {
     "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,
     "k218UOibx2envvHmgegzIJFIAng2": true,

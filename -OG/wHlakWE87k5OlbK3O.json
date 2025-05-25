@@ -21,14 +21,14 @@
   "imageUrl": "https://i.imgur.com/XMKZkel.png",
   "lastUpdatedDate": 1737255367419,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/roundabout/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/",
-    "6": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/late game (megabase)/"
+  ],
   "title": "City Block Building Blocks MkI"
 }

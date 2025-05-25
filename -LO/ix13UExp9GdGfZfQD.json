@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1568450887052,
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Lion production"
 }

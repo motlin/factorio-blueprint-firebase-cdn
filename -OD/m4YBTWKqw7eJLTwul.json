@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/XwCGvws",
   "lastUpdatedDate": 1733859619656,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "The Deliverator 3.0",
   "favorites": {
     "IxOPoS1DkuMx2YzTaKIcTmZrSQ02": true,

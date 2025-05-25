@@ -8,9 +8,9 @@
     "width": 1743
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "authorId": "LaXDTIKD0Ib90tbC4w0n38WqBCi2",
   "descriptionMarkdown": "Чертеж на переплавку инвара https://www.youtube.com/watch?v=EhPWyyaxCAw",
   "fileName": "переплавка инвара.jpg",

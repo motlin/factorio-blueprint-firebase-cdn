@@ -23,11 +23,11 @@
     "width": 676
   },
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Wall U Turn"
 }

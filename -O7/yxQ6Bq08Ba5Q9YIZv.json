@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/plaGn20",
   "lastUpdatedDate": 1734218528912,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de vulcanite vers 2.1 (Exotics + S.E.)"
 }

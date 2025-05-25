@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1672772878576,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/circuit/counter/"
+  ],
   "title": "Item counter with display!"
 }

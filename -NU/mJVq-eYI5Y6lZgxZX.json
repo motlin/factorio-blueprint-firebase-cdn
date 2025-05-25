@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1683397676622,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/nuclear/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/nuclear/",
+    "/power/steam/"
+  ],
   "title": "Value differentiator + display with hysteresis"
 }

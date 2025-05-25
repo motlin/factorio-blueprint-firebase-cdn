@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636570130890,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Mercado de peças parte 5",
   "favorites": {
     "EHq6ScQTiEQ5eA17OCvRtoZzC323": true

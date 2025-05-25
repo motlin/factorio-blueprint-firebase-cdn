@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/3gAv2Gl",
   "lastUpdatedDate": 1744338404580,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Reator nuclear pequeno",
   "favorites": {
     "Uw9PJOWeiXUa1VbEJaI55VLYMof1": true,

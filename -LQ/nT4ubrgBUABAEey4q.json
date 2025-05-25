@@ -16,9 +16,9 @@
     "width": 1600
   },
   "lastUpdatedDate": 1570674073326,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/production/belts/",
-    "0": "/production/electronic circuit (green)/"
-  }
+  "tags": [
+    "/general/beaconized/",
+    "/production/belts/",
+    "/production/electronic circuit (green)/"
+  ]
 }

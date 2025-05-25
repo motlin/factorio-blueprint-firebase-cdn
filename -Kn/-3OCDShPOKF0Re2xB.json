@@ -17,13 +17,13 @@
     "width": 1600
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png?alt=media&token=fb6c58a0-731a-4510-b2ec-eebd024af816",
-  "tags": {
-    "0": "/moderation/screenshot missing alt info/",
-    "1": "/moderation/add english translation/",
-    "2": "/power/kovarex enrichment/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/moderation/screenshot missing alt info/",
+    "/moderation/add english translation/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "iaErIu222OSb8FQyCoSvJ8kHp763": true
   }

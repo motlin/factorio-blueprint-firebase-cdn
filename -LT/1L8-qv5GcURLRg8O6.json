@@ -11,10 +11,10 @@
     "type": "image/jpeg",
     "width": 1410
   },
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "title": "Productivity plates to blue circuits",
   "descriptionMarkdown": "Takes in a 1 blue belt of iron and copper, plus a yellow belt of coal as well as crude oil and spits out blue circuits.\n\nAdds on to my 1 blue belt green circuits production bp",
   "fileName": "blue circuits.png",

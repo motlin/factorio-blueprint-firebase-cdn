@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/IGqDRj3",
   "lastUpdatedDate": 1730807279913,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Bustard Class Space hauler",
   "favorites": {
     "BZOvgOQltdV5u421gaAgIwybFi32": true

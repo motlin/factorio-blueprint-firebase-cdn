@@ -4,10 +4,10 @@
   "descriptionMarkdown": "Radars and solar for exploring. \n\n1. a print that keeps the radar powered 100% of the rime\n\n2. also powers the radar 100% of the time, but has a nice 4 way symmetry at the cost of a few extra panels\n\n3. a setup that allows you to zoom in from the map 100% of the time, uses only 1 panel and 1 accumulator.",
   "fileName": "Annotation 2020-04-26 190906.png",
   "lastUpdatedDate": 1589246061399,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "favorites": {
     "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
     "DJMnGCFmTaSLZAN9kGJxaVq9CIu2": true,

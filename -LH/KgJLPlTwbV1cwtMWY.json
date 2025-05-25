@@ -15,9 +15,9 @@
     "height": 1004
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "title": "Crazy junction"
 }

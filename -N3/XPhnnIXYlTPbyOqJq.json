@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1654140560725,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/circuit/indicator/"
+  ],
   "title": "12-reactor, 4 cityblock Nuclear Power Plants"
 }

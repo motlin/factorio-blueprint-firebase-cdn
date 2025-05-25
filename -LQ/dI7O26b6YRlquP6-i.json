@@ -20,9 +20,9 @@
   },
   "title": "[WIP] Underground book",
   "authorId": "tLMyk7sFcoOAr5lEGBKZKuKraiR2",
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/balancer/"
-  }
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ]
 }

@@ -33,8 +33,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202022-05-12%20011229.png?alt=media&token=ddb8db46-8d2f-4cab-8be6-657c15c4c0e6",
   "lastUpdatedDate": 1652338586749,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/general/early game/"
+  ],
   "title": "Skeltoac Startup (based on Brian's Bootstrap)"
 }

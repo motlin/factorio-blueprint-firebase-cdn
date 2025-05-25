@@ -20,9 +20,9 @@
     "LuB1orHdA2P73QyGfz1kXbjTYon2": true,
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Automated Construction Nanobots (MOD)"
 }

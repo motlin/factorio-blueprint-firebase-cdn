@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/mGUHM2H",
   "lastUpdatedDate": 1730921543490,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/smelting/",
-    "2": "/version/2,0/",
-    "3": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/smelting/",
+    "/version/2,0/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus Refined concrete 1k/min",
   "favorites": {
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,

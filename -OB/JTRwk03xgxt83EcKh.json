@@ -18,11 +18,11 @@
   "imageUrl": "https://imgur.com/f0ZxkWQ",
   "lastUpdatedDate": 1731218613715,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/planets/fulgora/",
-    "2": "/mods/space-age/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/planets/fulgora/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Perfect sorting of resources on Planet Fulgura with automatic item destruction."
 }

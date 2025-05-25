@@ -16,11 +16,11 @@
   "authorId": "kFznoxjUPHSVVZvKxHj0bI0O4fk1",
   "createdDate": 1522000693305,
   "lastUpdatedDate": 1522000693305,
-  "tags": {
-    "4": "/version/0,16/",
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

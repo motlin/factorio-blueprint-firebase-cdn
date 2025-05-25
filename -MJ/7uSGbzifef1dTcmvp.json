@@ -292,11 +292,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Annotation%202021-12-19%20222117.png?alt=media&token=c728222a-c83a-4dca-b004-56d0ebba1b87",
   "lastUpdatedDate": 1639981340841,
   "numberOfFavorites": 193,
-  "tags": {
-    "2": "/general/late game (megabase)/",
-    "3": "/version/1,0/",
-    "0": "/general/early game/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "BobAAAces Base Book v5.61 - 363 Blueprints"
 }

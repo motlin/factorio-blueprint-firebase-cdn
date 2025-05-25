@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/NWtxCVQ",
   "lastUpdatedDate": 1731086477617,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Basic Cell",
   "favorites": {
     "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,

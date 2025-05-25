@@ -17,11 +17,11 @@
   "imageUrl": "https://imgur.com/4JwNPUj",
   "lastUpdatedDate": 1736395721932,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/space-age/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Uranium-235 and Fuel Cell Generator (Pure Vanillia)"
 }

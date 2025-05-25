@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/hH7Jzql",
   "lastUpdatedDate": 1732109141858,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Aquilo Heavy Hauler ",
   "favorites": {
     "qeST7wsECohOnSkFIoAHjtNB4Wv2": true,

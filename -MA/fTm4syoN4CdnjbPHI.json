@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1622079644184,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "Nuclear plant (tileable)"
 }

@@ -15,12 +15,12 @@
     "userId": "QfXWQPWvGoMRd9QEa9DPzv9JV9l1"
   },
   "lastUpdatedDate": 1544839627600,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/general/chunk aligned/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Grid-aligned walls v1.2"
 }

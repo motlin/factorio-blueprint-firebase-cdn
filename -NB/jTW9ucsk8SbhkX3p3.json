@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1691939902442,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,1/"
+  ],
   "title": "480MW Nuclear 2x2 Reactors"
 }

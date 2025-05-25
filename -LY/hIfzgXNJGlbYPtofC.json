@@ -71,11 +71,11 @@
   },
   "lastUpdatedDate": 1572167004876,
   "numberOfFavorites": 55,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/unloading station/",
-    "2": "/version/0,16/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/unloading station/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
   "title": "Now all Stations in same Pack - New Post Link Inside (Deprecated)"
 }

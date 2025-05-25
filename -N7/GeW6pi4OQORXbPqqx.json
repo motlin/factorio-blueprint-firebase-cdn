@@ -36,13 +36,13 @@
   },
   "lastUpdatedDate": 1658239899596,
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/version/0,15/",
-    "4": "/mods/vanilla/",
-    "5": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/rocket parts/"
+  ],
   "title": "MegaBase for 1.0k/m Science"
 }

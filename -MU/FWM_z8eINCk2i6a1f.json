@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1643102173959,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "Fake depot counter example but there is no fake depot and it still jams"
 }

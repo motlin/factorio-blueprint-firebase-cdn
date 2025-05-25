@@ -23,8 +23,8 @@
   "createdDate": 1563742131607,
   "descriptionMarkdown": "2019-07-21",
   "lastUpdatedDate": 1563742131607,
-  "tags": {
-    "0": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/left-hand-drive/"
+  ],
   "title": "Rail Network - 3way1"
 }

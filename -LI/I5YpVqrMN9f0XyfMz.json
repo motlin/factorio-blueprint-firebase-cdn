@@ -14,13 +14,13 @@
   },
   "lastUpdatedDate": 1533070926470,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/version/0,16/",
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,16/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "SUj2NShlk3bzYdDibJ24Ndmazdu2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

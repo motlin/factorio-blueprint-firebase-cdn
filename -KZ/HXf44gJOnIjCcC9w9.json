@@ -8,13 +8,13 @@
   },
   "lastUpdatedDate": 1498344638101,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/power/solar/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,14/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "4-Lane-T-Junction",
   "author": {
     "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"

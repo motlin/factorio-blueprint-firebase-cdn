@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1633823643015,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Nuclear Fuel Production"
 }

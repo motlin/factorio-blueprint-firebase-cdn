@@ -9,10 +9,10 @@
     "type": "image/jpeg",
     "width": 2806
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
     "F3pe6BFZBgSjU5wq4uwNMoF54X43": true,

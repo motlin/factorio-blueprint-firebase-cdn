@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/kE50OKb",
   "lastUpdatedDate": 1733999210588,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de Homium vers. 3 (Exotics + S.E.)"
 }

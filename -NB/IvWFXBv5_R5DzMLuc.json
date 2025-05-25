@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1691477742737,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Simple Tilable Kovarex Enrichment Setup (no bots, no circuit network)",
   "favorites": {
     "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true,

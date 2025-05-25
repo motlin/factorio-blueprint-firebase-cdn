@@ -1,10 +1,10 @@
 {
   "fileName": "expensive engines.PNG",
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/version/0,16/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "[EXPENSIVE] 1 Engine per second",
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
   "createdDate": 1537967172828,

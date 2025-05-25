@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1638296507091,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/",
-    "2": "/production/batteries/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/production/batteries/"
+  ],
   "title": "Suporte para berílio"
 }

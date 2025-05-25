@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1534432978964,
   "numberOfFavorites": 0,
-  "tags": {
-    "2": "/production/advanced circuit (red)/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Rob - o - chips"
 }

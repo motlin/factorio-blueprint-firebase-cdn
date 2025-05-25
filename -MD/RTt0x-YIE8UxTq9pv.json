@@ -6,9 +6,9 @@
     "RvKuk87jzLSPCaWmO10m33mzqtb2": true,
     "yRRWYmFTu1RB25NWs12qdVhw9Gx1": true
   },
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "author": {
     "userId": "WwRcUgQ7XpXDlKhcHnNh3acCXXS2"
   },

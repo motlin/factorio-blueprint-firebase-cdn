@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "Early game smelting",
   "favorites": {
     "jytNeVwwCGM1YqZ7mjMAJ4cuqfA2": true,

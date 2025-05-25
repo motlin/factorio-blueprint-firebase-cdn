@@ -19,9 +19,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/CaptureFactorissimoBufferV2.PNG?alt=media&token=4c5501d4-33e3-49e3-8d07-18ac641bc90a",
   "lastUpdatedDate": 1523705719587,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,16/"
+  ],
   "title": "Factorissimo Mass Buffer"
 }

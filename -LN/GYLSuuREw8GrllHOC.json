@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "author": {
     "userId": "IfMLZK1RA0RtMl0y4pFbMyPlWRY2"
   },

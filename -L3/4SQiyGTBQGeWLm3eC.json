@@ -11,20 +11,20 @@
   },
   "title": "Beaconed Gears and Circuits",
   "numberOfFavorites": 13,
-  "tags": {
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/",
-    "9": "/version/0,15/",
-    "10": "/version/0,16/",
-    "11": "/mods/vanilla/",
-    "7": "/production/processing unit (blue)/",
-    "8": "/production/belt based/",
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/tileable/",
-    "2": "/general/compact/",
-    "5": "/production/electronic circuit (green)/",
-    "6": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/",
+    "/production/belt based/",
+    "/belt/express transport belt (blue)/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/"
+  ],
   "favorites": {
     "W3SObEod8PVZM2Df2YH8ySJKtF02": true,
     "fSK0sICMjmXhNXT5TJgnbiAE5QU2": true

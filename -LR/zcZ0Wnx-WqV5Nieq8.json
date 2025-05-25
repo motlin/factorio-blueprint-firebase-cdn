@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1542960858103,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/creative/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/creative/",
+    "/version/0,16/"
+  ],
   "title": "Ridiculously large Chaos symbol"
 }

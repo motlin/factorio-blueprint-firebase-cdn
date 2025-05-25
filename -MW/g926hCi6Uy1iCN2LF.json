@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1645713306254,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "Extendable beaconed kovarex",
   "favorites": {
     "Cl7iZEP3OoaMKxkAKOZhfLAwHRW2": true

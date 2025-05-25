@@ -53,14 +53,14 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202017-06-15%20at%201.04.11%20PM.png?alt=media&token=9b9e70ae-8201-41de-befb-e0b7ef4dfb37",
   "lastUpdatedDate": 1497577392008,
-  "tags": {
-    "5": "/version/0,15/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/tileable/",
-    "2": "/general/mid game/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/electronic circuit (green)/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/belt/fast transport belt (red)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "yaCo00n9c5VyPlRP8lOMkEtRKLJ2"
   },

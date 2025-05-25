@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/J5gHcUy",
   "lastUpdatedDate": 1722175607164,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/mods/seablock/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/mods/seablock/"
+  ],
   "title": "Seablock Blueprint's"
 }

@@ -10,10 +10,10 @@
     "width": 512
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "favorites": {
     "j099BfaxjlgSY5LxT4SGByYDH7J2": true,
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true

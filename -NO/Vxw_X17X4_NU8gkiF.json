@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1705655126514,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconed blue belt of plastic from crude, coal & water"
 }

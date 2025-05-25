@@ -25,8 +25,8 @@
   "imageUrl": "https://imgur.com/UddYQMC",
   "lastUpdatedDate": 1740203977181,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Edgerunner Ship - \"The Final Bullet\""
 }

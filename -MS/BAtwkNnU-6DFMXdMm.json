@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1611890936314,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2x8 Nuclear Reactor"
 }

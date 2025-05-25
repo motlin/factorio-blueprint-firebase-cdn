@@ -25,12 +25,12 @@
   "descriptionMarkdown": "This Cookbook is the Main part of the Mbus System. This will use a three belt system to push-pull items per request from modules.\n\n### [Recommened Usage with: MBus - Simple Modular Supply Line - Modules](https://factorioprints.com/view/-LyFD70XgCaOJxWxQGAJ)\n\n\n---\nRequired Mods (only QOL): \n- Bobs Adjustable Inserters \n- Warehousing Mod\n---\nTL;DR; Three Belt Systems, using Circuit Network to request and send Items to the Belt System as needed. Offers greate flexibility of cost of throughput. Used to remove early Spaghetti to ensure easy buildable and scalable Production.\n\n---\n\nThe Belt consists of three One-Way Belts, used for every item. The Electric Poles are used to transmit green (PUSH Request) and red signal (PULL Request).\n\nThe Storage units are placed to clear up the System if anything is on it, but not requested by anyone. Also they will push the Items they stored onto the System, if needed. That way, they prevent the modules from sending items to the System. So the Storage units are the primary Source of the PUSH Request.\n\nThe Modules will send the Request to the Circuit Network and answer the Requests by pushing into the System. This is configured within the Blueprint. Parameters could work, but since this is a lot more stressful to change and remove ect. Just go to the Constant Combinator and change the Request as needed.\n\n\n---\n## Updates\n\n##### 2025-04-22\n- Tested with Express Belts (3x45 Items / sec). Looks a bit crazy, but works at expected.\n\n##### 2025-04-24\n- Found a Bug with Item Threshold, Bus Grapper should stop request when Lower Threshold has been reached, but Inserters should still pick Items if higher Threshold is not reached yet. This Prevents flooding and ineffiency on the Bus System.",
   "fileName": "Main Hub System1.JPG",
   "lastUpdatedDate": 1745498300985,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/production/belts/",
-    "2": "/production/belt based/",
-    "3": "/belt/balancer/",
-    "4": "/mods/space-age/",
-    "5": "/general/mid game/"
-  }
+  "tags": [
+    "/mods/bobs/",
+    "/production/belts/",
+    "/production/belt based/",
+    "/belt/balancer/",
+    "/mods/space-age/",
+    "/general/mid game/"
+  ]
 }

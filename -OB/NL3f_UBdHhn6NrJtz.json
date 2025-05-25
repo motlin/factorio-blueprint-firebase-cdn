@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/PrRyYLy",
   "lastUpdatedDate": 1731303377641,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "robo display",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

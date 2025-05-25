@@ -13,9 +13,9 @@
   "createdDate": 1520759229065,
   "fileName": "20180311090544_1.jpg",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "author": {
     "userId": "Ar6hvZ7VdYcJdrg5cYGEGV8FOhS2"
   }

@@ -2,10 +2,10 @@
   "descriptionMarkdown": "2 lane 4 space RHD basic rail prints",
   "fileName": "Screenshot from 2020-12-15 14-03-49.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "favorites": {
     "0MSrLq0rXYZcChSGUAm4yz1PTMA2": true,
     "8iDAnQCJq1bLKaTZ4w55sl5vvo33": true

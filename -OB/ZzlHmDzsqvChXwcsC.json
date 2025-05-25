@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/rp1WsTI",
   "lastUpdatedDate": 1731492517240,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/nauvis/",
-    "1": "/planets/fulgora/",
-    "2": "/planets/gleba/",
-    "3": "/planets/vulcanus/",
-    "4": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/nauvis/",
+    "/planets/fulgora/",
+    "/planets/gleba/",
+    "/planets/vulcanus/",
+    "/planets/space-platform/"
+  ],
   "title": "Xerinth class Hauler",
   "favorites": {
     "PhS1ggQvnkZODooxr6ijo4Ca3Fb2": true,

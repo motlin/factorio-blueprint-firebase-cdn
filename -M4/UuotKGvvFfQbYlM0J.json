@@ -2,10 +2,10 @@
   "authorId": "4TW7WcOT4iNe5K1t70uqvkMHniH2",
   "descriptionMarkdown": "some designs for oil processing and mining ",
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/production/oil processing/",
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/mining/"
+  ],
   "title": "mining and oil processing ",
   "author": {
     "userId": "4TW7WcOT4iNe5K1t70uqvkMHniH2"

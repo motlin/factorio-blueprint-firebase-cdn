@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1646333780385,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/power/steam/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/power/steam/",
+    "/version/1,0/"
+  ],
   "title": "Simple Nuclear Power - 40 MW",
   "favorites": {
     "N6P0MWM3mfPF87ahiPeLJcKiJIt2": true,

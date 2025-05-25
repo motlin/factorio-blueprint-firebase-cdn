@@ -20,12 +20,12 @@
   },
   "descriptionMarkdown": "Simple T-junction intersection. LHD. Trains weave to turn right. Made for 11 car trains. 5 chunks wide and 3 tall, snapped to global grid for 1 chunk.\n\nv2 - made it more symmetrical.\n\nv3 - added poles, killed a few angled tracks, snapped to global grid.\n\nI'm going to stop updating this individually. See my rail book for the most up to date version - https://factorioprints.com/view/-M8N1tC3nVdjiOLH_X0z",
   "fileName": "3wayxoverv3.PNG",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/train/track/",
-    "4": "/train/left-hand-drive/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/train/junction/"
+  ],
   "authorId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"
 }

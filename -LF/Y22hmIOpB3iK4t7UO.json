@@ -6,12 +6,12 @@
   "favorites": {
     "VjQKBjnonCMhsYXKgQOSGm97xz62": true
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/oil processing/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/oil processing/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "aD4NCCU9fZaDbZhypXn8DzdhE0y1"
   },

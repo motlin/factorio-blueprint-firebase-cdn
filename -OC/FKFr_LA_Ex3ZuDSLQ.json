@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/jm3Jczz",
   "lastUpdatedDate": 1732219571831,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/production/uranium/"
+  ],
   "title": "Atomic Stuff ",
   "favorites": {
     "u0w8bIMsjLTgfvunhf5vm8N0Hj53": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674835624549,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "SEK2 Multi-Item Rocket",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,

@@ -16,11 +16,11 @@
   "createdDate": 1602102801144,
   "lastUpdatedDate": 1602102801144,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/mods/other/",
-    "2": "/circuit/indicator/",
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/circuit/indicator/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "e66LaJ4r2lZGH5RfUmF1eEOLdIg2": true
   }

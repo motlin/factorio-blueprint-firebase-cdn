@@ -9,15 +9,15 @@
     "type": "image/jpeg",
     "width": 936
   },
-  "tags": {
-    "6": "/mods/bobs/",
-    "0": "/mods/angels/",
-    "1": "/version/0,16/",
-    "2": "/mods/factorissimo/",
-    "3": "/production/robots/",
-    "4": "/production/mall (make everything)/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,16/",
+    "/mods/factorissimo/",
+    "/production/robots/",
+    "/production/mall (make everything)/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "rsD3RssFJhVX3AQ14FJKgvidUeT2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

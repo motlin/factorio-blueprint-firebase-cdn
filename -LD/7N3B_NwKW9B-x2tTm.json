@@ -7,10 +7,10 @@
     "type": "image/jpeg",
     "width": 945
   },
-  "tags": {
-    "1": "/general/early game/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/smelting/"
+  ],
   "favorites": {
     "ZDpk7kq5Y4RULwL1BSiv8whzPs22": true,
     "RIhbKggpWYT6Hi4Bsh7dJfInK6p2": true,

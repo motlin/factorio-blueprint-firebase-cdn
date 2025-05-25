@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1667956345947,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Outpost v1.1",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1657130368573,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Minimalistic train refuelling station.",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

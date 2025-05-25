@@ -42,18 +42,18 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/BobAAAces-Science-2.jpg?alt=media&token=b2cd1a45-d829-447c-b127-46a15d42005b",
   "lastUpdatedDate": 1589306956882,
   "numberOfFavorites": 23,
-  "tags": {
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/production/other/",
-    "4": "/version/unknown/",
-    "5": "/mods/vanilla/",
-    "6": "/general/compact/",
-    "0": "/version/0,18/",
-    "8": "/general/mid game/",
-    "9": "/belt/transport belt (yellow)/",
-    "10": "/belt/fast transport belt (red)/",
-    "7": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/production/other/",
+    "/version/unknown/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/version/0,18/",
+    "/general/mid game/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/early game/"
+  ],
   "title": "BobAAAces Science @90/min - Version 0.18"
 }

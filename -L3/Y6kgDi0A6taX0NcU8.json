@@ -12,13 +12,13 @@
   },
   "lastUpdatedDate": 1516712692653,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "RvEbG5NvyCTU7i46jXYURkkYjh23"
   },

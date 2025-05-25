@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/jjieNuI",
   "lastUpdatedDate": 1732910459622,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Demolisher Turret Row",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

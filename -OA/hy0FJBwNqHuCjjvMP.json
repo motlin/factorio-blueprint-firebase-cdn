@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/UMMJwXw",
   "lastUpdatedDate": 1730569311429,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/mods/space-age/"
+  ],
   "title": "Electromagnetic Plant Parameter Crafting",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

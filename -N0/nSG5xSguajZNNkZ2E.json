@@ -24,12 +24,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220521102502_1.jpg?alt=media&token=227c2d68-8905-47f8-9c96-a44d9efcf2af",
   "lastUpdatedDate": 1653143143897,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/beaconized/",
-    "2": "/production/oil processing/",
-    "3": "/production/coal liquification/",
-    "4": "/production/plastic/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/beaconized/",
+    "/production/oil processing/",
+    "/production/coal liquification/",
+    "/production/plastic/"
+  ],
   "title": "Oil Processing (beacon or not)"
 }

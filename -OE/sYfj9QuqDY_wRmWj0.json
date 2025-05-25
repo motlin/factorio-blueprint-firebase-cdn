@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/lOMyQRQ",
   "lastUpdatedDate": 1735041924146,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Edge detector in circuit network",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

@@ -1,11 +1,11 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/EarlyGameSmelting.jpg?alt=media&token=d09647d8-a7a3-4db8-a799-be1e272c3843",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "tV8oQcOxPWMZHnvmgyEnAUxFcvY2": true,
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,

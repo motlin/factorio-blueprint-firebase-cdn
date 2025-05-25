@@ -13,9 +13,9 @@
     "type": "image/png"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "A3NiwqZg58Tr3DFaDOd6L5lx6sr2": true

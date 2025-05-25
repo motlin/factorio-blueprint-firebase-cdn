@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1654108052067,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/rocket parts/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/rocket parts/",
+    "/production/science/"
+  ],
   "title": "45 Rocket (white) science/min"
 }

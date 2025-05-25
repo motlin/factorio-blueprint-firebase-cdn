@@ -20,8 +20,8 @@
   "imageUrl": "https://imgur.com/C4KTdXe",
   "lastUpdatedDate": 1736064650594,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Shattered planet miner"
 }

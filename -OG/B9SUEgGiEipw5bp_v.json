@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5BKcdef",
   "lastUpdatedDate": 1736444842951,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/smelting/"
+  ],
   "title": "Quality Plate Generator"
 }

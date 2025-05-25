@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1671023255107,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/vanilla/"
+  ],
   "title": "Production uranium",
   "favorites": {
     "So4oBnyacgcph19IZ4MIrDWMg2l1": true,

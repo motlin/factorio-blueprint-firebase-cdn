@@ -22,9 +22,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220818134712_1.jpg?alt=media&token=0ace2da2-eb34-4e61-b285-faead6cb03cf",
   "lastUpdatedDate": 1660824112673,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "title": "Red circuits from raw ore (endgame) "
 }

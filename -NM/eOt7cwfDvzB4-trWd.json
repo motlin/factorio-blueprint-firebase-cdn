@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1703665963761,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/compact/",
-    "2": "/production/modules/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/compact/",
+    "/production/modules/",
+    "/version/1,1/"
+  ],
   "title": "Narrow Modules Factory (Speed, Efficiency, Productivity) x (Mk 1, 2, 3)",
   "favorites": {
     "mA14G7A8kJdldGjxtFtUK7dzlK03": true,

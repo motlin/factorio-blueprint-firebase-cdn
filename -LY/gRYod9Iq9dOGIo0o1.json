@@ -13,9 +13,9 @@
     "type": "image/jpeg",
     "width": 1482
   },
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/8x82.png?alt=media&token=6b663e9c-4759-4b97-9a9a-6ad4d683cbc1",
   "author": {
     "userId": "XnJHa4enBAV9bwfRbC1JVFLUlM73"

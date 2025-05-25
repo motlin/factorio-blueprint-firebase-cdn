@@ -9,11 +9,11 @@
     "type": "image/jpeg",
     "width": 495
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "numberOfFavorites": 5,
   "author": {
     "userId": "L3nyT0GMyJQzB41K9IzGxSFMZH33"

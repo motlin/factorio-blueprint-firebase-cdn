@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1539635368811,
   "numberOfFavorites": 18,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Green and Red Chip Super Facility"
 }

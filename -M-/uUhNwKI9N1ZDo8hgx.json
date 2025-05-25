@@ -45,17 +45,17 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%20(31).jpg?alt=media&token=3bab61f0-7518-4470-ad91-8b7f95aeedc4",
   "lastUpdatedDate": 1615106157477,
   "numberOfFavorites": 26,
-  "tags": {
-    "3": "/production/modules/",
-    "5": "/mods/vanilla/",
-    "6": "/general/beaconized/",
-    "0": "/version/0,18/",
-    "1": "/production/plastic/",
-    "2": "/production/batteries/",
-    "9": "/production/belts/",
-    "4": "/production/robots/",
-    "7": "/production/uranium/",
-    "8": "/production/other/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,18/",
+    "/production/plastic/",
+    "/production/batteries/",
+    "/production/belts/",
+    "/production/robots/",
+    "/production/uranium/",
+    "/production/other/"
+  ],
   "title": "Production Book in roboport area beaconed"
 }

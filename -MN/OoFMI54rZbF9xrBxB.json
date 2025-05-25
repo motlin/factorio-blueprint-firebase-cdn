@@ -52,11 +52,11 @@
   },
   "lastUpdatedDate": 1673127640456,
   "numberOfFavorites": 32,
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/general/compact/",
-    "3": "/production/mall (make everything)/",
-    "0": "/production/belt based/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/production/mall (make everything)/",
+    "/production/belt based/"
+  ],
   "title": "TeKillA Hub/Mall"
 }

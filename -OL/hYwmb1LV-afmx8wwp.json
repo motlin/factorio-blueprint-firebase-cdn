@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/OjnbueY",
   "lastUpdatedDate": 1742373765711,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Cheap Ship MK1",
   "favorites": {
     "I2sBSpAuWmafuwdoazHY1iWf5DU2": true,

@@ -13,16 +13,16 @@
   "imageUrl": "https://imgur.com/s9zPZ1Z",
   "lastUpdatedDate": 1739298012315,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/mid game/",
-    "2": "/general/storage/",
-    "3": "/mods/vanilla/",
-    "4": "/production/other/",
-    "5": "/version/2,0/",
-    "6": "/version/0,15/",
-    "7": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/mid game/",
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/production/other/",
+    "/version/2,0/",
+    "/version/0,15/",
+    "/circuit/counter/"
+  ],
   "title": "Book of some multi-digital 7-segment vanilla displays",
   "favorites": {
     "wdSusraLSWMRsvXCgJejDgzsvA93": true

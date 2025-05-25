@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1641334644958,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/"
+  ],
   "title": "96x96 rail blocks"
 }

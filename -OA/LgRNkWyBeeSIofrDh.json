@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/KedOxmv",
   "lastUpdatedDate": 1731188582307,
   "numberOfFavorites": 81,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "The Cooler Automall, now with fluid crafting",
   "favorites": {
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,

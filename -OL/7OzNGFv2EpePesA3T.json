@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/NYgP5aO",
   "lastUpdatedDate": 1741750576844,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "PFM - Precise",
   "favorites": {
     "BJMBIONVIbVu7TfDM58lBjnByhL2": true,

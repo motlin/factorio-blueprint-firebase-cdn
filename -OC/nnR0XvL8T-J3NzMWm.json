@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/6gX7Ylf",
   "lastUpdatedDate": 1732821226144,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/other/",
-    "2": "/mods/vanilla/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/other/",
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "title": "Gleba nutrient kickstarter",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

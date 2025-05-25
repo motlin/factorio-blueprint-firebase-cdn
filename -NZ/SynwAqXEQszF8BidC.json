@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/WymYCrQ",
   "lastUpdatedDate": 1717416633753,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "Full core mining setup K2+SE",
   "favorites": {
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true

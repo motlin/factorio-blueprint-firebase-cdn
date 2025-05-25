@@ -37,9 +37,9 @@
   "imageUrl": "https://imgur.com/tVHNIU9",
   "lastUpdatedDate": 1740999925658,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/quality/"
+  ],
   "title": "Legendary Stack Inserter from Fruits"
 }

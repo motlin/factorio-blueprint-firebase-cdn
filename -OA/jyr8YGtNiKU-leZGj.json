@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/kpT5RPw",
   "lastUpdatedDate": 1730603082581,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "The Thwomp Spaceship",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

@@ -8,11 +8,11 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1507029966400,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Oil Processing Canning Facility",
   "author": {
     "userId": "G7WOKuyUWIOMfod3WqLdJHxAYHy1"

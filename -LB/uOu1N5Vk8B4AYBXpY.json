@@ -13,12 +13,12 @@
   "createdDate": 1525693260078,
   "lastUpdatedDate": 1525693260078,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "m7ckJsfIUKfJF86XFyRoAIWtalx2"
   }

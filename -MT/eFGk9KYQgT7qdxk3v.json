@@ -36,11 +36,11 @@
   },
   "lastUpdatedDate": 1613469129974,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/ltn/",
-    "3": "/train/loading station/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/ltn/",
+    "/train/loading station/"
+  ],
   "title": "Blocks 005: LTN Depot (50 Stations)"
 }

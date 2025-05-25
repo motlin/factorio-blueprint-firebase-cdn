@@ -8,9 +8,9 @@
     "type": "image/jpeg",
     "width": 412
   },
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "title": "1-Lane Balancer",
   "author": {
     "userId": "oPgJSEOKIKXghZl7whygKz2JZ1S2"

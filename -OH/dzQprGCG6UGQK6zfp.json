@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/otbcaka",
   "lastUpdatedDate": 1738019243040,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Max-value Memory Cell",
   "favorites": {
     "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,

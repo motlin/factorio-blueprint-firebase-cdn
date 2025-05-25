@@ -2,11 +2,11 @@
   "descriptionMarkdown": "This takes in 4 blue belts of iron plates and outputs just short of a blue belt of steel (it takes 4.2 to fully saturate the output belt with prod modules)",
   "fileName": "kimbernator_steel_smelter.PNG",
   "lastUpdatedDate": 1590453964208,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "VzpmcsuQV0WNX9ohYbam0dHevoC2"
   },

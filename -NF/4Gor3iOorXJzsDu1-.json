@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1666535870436,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "8x8 tileable Nuclear powerplant"
 }

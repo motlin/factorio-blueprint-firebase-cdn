@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/nxaiMQN",
   "lastUpdatedDate": 1723295879672,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/chunk aligned/"
+  ],
   "title": "[160MW] to [1060MW] Nuclear Power Plant",
   "favorites": {
     "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/STc8dfD",
   "lastUpdatedDate": 1730807810117,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/production/smelting/"
+  ],
   "title": "Vulcanus Beaconed Foundry Plate",
   "favorites": {
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,

@@ -7,11 +7,11 @@
   "authorId": "9GgJ0Zw7C4Rw4OLVszyGkmpQ39b2",
   "createdDate": 1531677283639,
   "descriptionMarkdown": "Bus Block with robotports <br/> Factorio v0.16.51",
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/early game/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/early game/",
+    "/general/late game (megabase)/"
+  ],
   "lastUpdatedDate": 1601813977151,
   "numberOfFavorites": 16,
   "title": "Bus Block Huge",

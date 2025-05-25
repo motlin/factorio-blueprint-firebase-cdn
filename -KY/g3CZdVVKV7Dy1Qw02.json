@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1496182410123,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "RywQ5CvOsCVpBiNRQy658uqSBZ03"
   },

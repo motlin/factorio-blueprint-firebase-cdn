@@ -16,8 +16,8 @@
   "authorId": "i4PaAyyrQsaHA3u9jSXuEjRYk1A3",
   "createdDate": 1535633520440,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Train city-block tile."
 }

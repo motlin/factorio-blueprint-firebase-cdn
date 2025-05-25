@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1529635241666,
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/production/belts/",
-    "4": "/belt/express transport belt (blue)/",
-    "0": "/general/tileable/",
-    "1": "/mods/other/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/belt/express transport belt (blue)/",
+    "/general/tileable/",
+    "/mods/other/",
+    "/train/loading station/"
+  ],
   "title": "The Spawn Gauntlet Maze or Jail"
 }

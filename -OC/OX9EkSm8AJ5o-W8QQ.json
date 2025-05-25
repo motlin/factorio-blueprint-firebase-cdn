@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/bkov0xJ",
   "lastUpdatedDate": 1732404251998,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/circuit/counter/"
+  ],
   "title": "Interrupt Based Automatic Train Dispatch System",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

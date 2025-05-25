@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1679344133194,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/version/0,15/"
+  ],
   "title": "updated Max function, it is big but thats due to timing matching. But is a lot faster than my last one in its worst case scenario. O(logN)"
 }

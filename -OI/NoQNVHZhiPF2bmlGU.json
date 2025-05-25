@@ -52,8 +52,8 @@
   "imageUrl": "https://imgur.com/jCjDxEA",
   "lastUpdatedDate": 1739837622335,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Shattered Planet Spaceship with Normal Quality only"
 }

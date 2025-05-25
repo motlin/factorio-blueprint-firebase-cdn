@@ -7,13 +7,13 @@
   "descriptionMarkdown": "A numeric display for circuit values. The blueprint includes two digits. Additional digits may be added by overlapping one digit with another. Input the value by connecting it to the lower-right corner of the display. The display works best when the input contains only one signal.",
   "lastUpdatedDate": 1552769880802,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/circuit/indicator/"
+  ],
   "title": "Digit Display",
   "favorites": {
     "SGdv9dKN11S9oMkE1MI6CNwMQbk2": true,

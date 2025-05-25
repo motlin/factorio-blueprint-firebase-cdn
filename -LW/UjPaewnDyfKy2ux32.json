@@ -17,8 +17,8 @@
   "createdDate": 1547794491944,
   "descriptionMarkdown": "A Train Station that is able to receive multiple materials, sort them and limit the stored amount.",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ]
 }

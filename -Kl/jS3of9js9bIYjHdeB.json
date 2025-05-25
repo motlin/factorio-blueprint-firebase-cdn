@@ -14,12 +14,12 @@
     "width": 723
   },
   "lastUpdatedDate": 1496527191002,
-  "tags": {
-    "1": "/production/uranium/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "PROCESSING - URAN + KOVAREX",
   "author": {
     "userId": "DjCKyWS6nrci9Bwlcix1tOwZiEr2"

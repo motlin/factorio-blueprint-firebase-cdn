@@ -24,9 +24,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/smile.JPG?alt=media&token=90e7380b-5f79-4171-8787-f956e039c2c2",
   "lastUpdatedDate": 1501104456520,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/plastic/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/plastic/"
+  ],
   "title": "Beaconed Oil Production"
 }

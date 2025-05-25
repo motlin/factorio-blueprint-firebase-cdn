@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Y0YxCge",
   "lastUpdatedDate": 1733439895367,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "factorissimo sushi mall v2.0",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1700473570783,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/general/compact/"
+  ],
   "title": "108 spm from raw"
 }

@@ -17,10 +17,10 @@
   "numberOfFavorites": 2,
   "title": "Steam 72MW",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B93.png?alt=media&token=1ea5561e-af0f-4271-89e9-11e9e094218c",
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

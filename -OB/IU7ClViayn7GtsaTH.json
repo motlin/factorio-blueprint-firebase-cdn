@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/n9S3I41",
   "lastUpdatedDate": 1731198748010,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/guns and ammo/",
-    "2": "/mods/space-age/",
-    "3": "/mods/quality/",
-    "4": "/power/solar/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/guns and ammo/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/power/solar/"
+  ],
   "title": "skibidi spaceship MK2 (in memory of)"
 }

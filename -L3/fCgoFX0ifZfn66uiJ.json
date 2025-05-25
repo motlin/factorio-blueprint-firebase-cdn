@@ -3,18 +3,18 @@
   "createdDate": 1516848467304,
   "fileName": "Acid's Kovarex Process.png",
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/0,16/",
-    "2": "/production/uranium/",
-    "4": "/power/nuclear/",
-    "5": "/mods/vanilla/",
-    "8": "/general/late game (megabase)/",
-    "9": "/belt/express transport belt (blue)/",
-    "1": "/production/belt based/",
-    "3": "/power/kovarex enrichment/",
-    "6": "/general/compact/",
-    "7": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/uranium/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/belt/express transport belt (blue)/",
+    "/production/belt based/",
+    "/power/kovarex enrichment/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "image": {
     "id": "NFY5fH2",
     "type": "image/png",

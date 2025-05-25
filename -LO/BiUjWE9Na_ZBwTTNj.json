@@ -16,10 +16,10 @@
     "width": 1586
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/belts/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belts/"
+  ],
   "favorites": {
     "o3iQm9pgtHTAICmQ9CnHXJc2gM52": true
   }

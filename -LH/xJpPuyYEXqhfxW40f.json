@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1532184713230,
   "numberOfFavorites": 39,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,15/"
+  ],
   "title": "1 Science per Second"
 }

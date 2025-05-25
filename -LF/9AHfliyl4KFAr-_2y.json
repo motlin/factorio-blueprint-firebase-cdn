@@ -15,11 +15,11 @@
   "lastUpdatedDate": 1558170119061,
   "authorId": "6QTgwf0KxES31Jfro8WANY4Erhv1",
   "fileName": "20190518110133_1.jpg",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/oil processing/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Oil Blueprint x20",
   "favorites": {
     "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,

@@ -24,9 +24,9 @@
   "imageUrl": "https://imgur.com/DUbmjro",
   "lastUpdatedDate": 1734809321834,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "doh's Shattered Ships"
 }

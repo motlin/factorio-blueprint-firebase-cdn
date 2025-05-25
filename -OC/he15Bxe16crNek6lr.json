@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/gxEMaii",
   "lastUpdatedDate": 1732711555618,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora turbo belt sorter",
   "favorites": {
     "5p0E6xfD8NMBxe6XfURuge4g9oq1": true,

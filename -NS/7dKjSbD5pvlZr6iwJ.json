@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1709542386564,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "2.7k SPM with 7 a fully loaded belts and fully covered logistic."
 }

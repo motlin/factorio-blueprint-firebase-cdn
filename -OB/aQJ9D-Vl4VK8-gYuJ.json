@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/BNwZ1PM",
   "lastUpdatedDate": 1731517219038,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/power/nuclear/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "Quick Kovarex Not fast enough.",
   "favorites": {
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,

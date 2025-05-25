@@ -176,11 +176,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Rocket%20Factory.JPG?alt=media&token=f529ad7a-c78a-4c95-91f9-76e14f4fdb99",
   "lastUpdatedDate": 1523208300420,
   "numberOfFavorites": 382,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Rocket Factory"
 }

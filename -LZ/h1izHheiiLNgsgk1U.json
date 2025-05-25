@@ -7,11 +7,11 @@
     "type": "image/jpeg",
     "width": 717
   },
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "M3pKU4WuZsgGChvK0TSW8T7lYP83"
   },

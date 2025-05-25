@@ -16,13 +16,13 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,18/",
-    "0": "/general/beaconized/",
-    "1": "/power/solar/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/general/beaconized/",
+    "/power/solar/",
+    "/production/other/"
+  ],
   "title": "Solar Panel Production Beaconed",
   "author": {
     "userId": "f25rnggq8YSD145l4wU3FSALG2i1"

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1663525549975,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "4-lane railway section.",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

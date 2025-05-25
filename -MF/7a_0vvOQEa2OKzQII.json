@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1626863195104,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/crossing/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "Probably kinda useless overkill 8lane train grid"
 }

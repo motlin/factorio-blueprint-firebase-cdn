@@ -13,10 +13,10 @@
   "descriptionMarkdown": "this is a bp book for a factorissimo and aai starter base non-recursive",
   "fileName": "Messages Image(1240040258).png",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/aai/"
+  ],
   "favorites": {
     "Fh72Hqs1rKQ9DM8JXy9e9VNQZLi2": true,
     "MZlwWAeuMmXr8joKAfo42kFIEVE3": true

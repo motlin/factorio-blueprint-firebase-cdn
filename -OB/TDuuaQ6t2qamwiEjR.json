@@ -40,10 +40,10 @@
   "imageUrl": "https://imgur.com/c1M9jjF",
   "lastUpdatedDate": 1731379249946,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/production/guns and ammo/"
+  ],
   "title": "Juggernaut Spaceship (edge of solar system capable)"
 }

@@ -16,8 +16,8 @@
     "type": "image/jpeg",
     "width": 2560
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,0/"
+  ]
 }

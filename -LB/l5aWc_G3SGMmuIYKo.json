@@ -22,8 +22,8 @@
   "fileName": "20180505183822_1.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20180505183822_1.jpg?alt=media&token=2591e0ac-8e1f-43d7-b61b-5e52bc6e1f0e",
   "lastUpdatedDate": 1525821150322,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/other/"
-  }
+  "tags": [
+    "/train/unloading station/",
+    "/mods/other/"
+  ]
 }

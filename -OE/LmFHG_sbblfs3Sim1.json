@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/0cXfJ4Z",
   "lastUpdatedDate": 1739010081668,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "parametric upscaling",
   "favorites": {
     "JNMscLSYQfeqVuK3v6c2r8DZ7bt2": true,

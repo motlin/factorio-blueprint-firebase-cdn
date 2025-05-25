@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/vED2OLy",
   "lastUpdatedDate": 1731802440410,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Wall Defenses",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

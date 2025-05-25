@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/3K82AD2.png",
   "lastUpdatedDate": 1741170445417,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Legendary Fish auto-recipe switching biochamber",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

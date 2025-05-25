@@ -24,10 +24,10 @@
     "width": 820
   },
   "lastUpdatedDate": 1573898364874,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "City Block - Bazinga Blueprint "
 }

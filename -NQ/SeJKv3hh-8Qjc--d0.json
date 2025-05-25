@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1678756103558,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Sending rocket for requests",
   "favorites": {
     "f6v9U7fV7ker5fErsyVpjIDIQSJ3": true

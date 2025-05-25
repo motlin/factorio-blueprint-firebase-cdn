@@ -35,13 +35,13 @@
   },
   "lastUpdatedDate": 1599735429179,
   "numberOfFavorites": 18,
-  "tags": {
-    "5": "/belt/transport belt (yellow)/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/general/compact/",
-    "3": "/version/1,0/",
-    "4": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/general/compact/",
+    "/version/1,0/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Ressource Management Systems: Sorting/Filtering & Storing v0.4"
 }

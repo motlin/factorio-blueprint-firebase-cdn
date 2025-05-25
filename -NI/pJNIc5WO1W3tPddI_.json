@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1699554379880,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-exploration/"
+  ],
   "title": "[SE] Condenser 1GW Nuclear Reactor"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/tKTmCWO",
   "lastUpdatedDate": 1730560438969,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Iron start",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

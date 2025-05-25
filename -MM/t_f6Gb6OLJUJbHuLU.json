@@ -15,9 +15,9 @@
   },
   "authorId": "gV45wzv9r7Rlc6uUCElRvxOjzZu2",
   "fileName": "factorio_2020-11-24_10-29-35.png",
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Rail signal display",
   "favorites": {
     "QIE2KWG9txYWeZcZtcboDUSME8G2": true,

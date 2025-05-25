@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1688507805383,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/angels/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/angels/",
+    "/train/loading station/"
+  ],
   "title": "Small LTN provider"
 }

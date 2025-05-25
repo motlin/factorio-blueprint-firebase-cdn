@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/CyQkcxg",
   "lastUpdatedDate": 1737506530676,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/"
+  ],
   "title": "Military mini mall",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

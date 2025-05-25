@@ -28,10 +28,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ska%CC%88rmavbild%202023-02-12%20kl.%2011.54.52.png?alt=media&token=ee32ab59-8243-4a0a-a2b0-6096703a585a",
   "lastUpdatedDate": 1676199364914,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Belt turns. "
 }

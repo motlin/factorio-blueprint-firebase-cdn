@@ -15,9 +15,9 @@
     "VIjpHWltOIXviHbWTtgleef5yek2": true
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "MNl9uTVycWam8GMUgespWVPw5FI2"
   },

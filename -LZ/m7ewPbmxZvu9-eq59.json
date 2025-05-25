@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20190227214920_1.jpg?alt=media&token=54c93f1c-c733-469b-b5c5-8cddec8dadb5",
   "favorites": {
     "fzRzSZ0viTcor7t3n2s8n33HQXR2": true,

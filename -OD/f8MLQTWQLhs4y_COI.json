@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/cZNf23U",
   "lastUpdatedDate": 1734468083322,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/other/"
+  ],
   "title": "Space Hub Beta"
 }

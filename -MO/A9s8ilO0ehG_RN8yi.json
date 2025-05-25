@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636569940770,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para construção de chassi de robô voador",
   "favorites": {
     "XpbVDF3rW7ez96gBvvAlC1qhTOF2": true,

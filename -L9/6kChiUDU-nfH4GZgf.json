@@ -20,11 +20,11 @@
   },
   "authorId": "1aEyiWHxqoSrJx0PzT2TUtxgROY2",
   "createdDate": 1522695986243,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/production/uranium/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/uranium/"
+  ]
 }

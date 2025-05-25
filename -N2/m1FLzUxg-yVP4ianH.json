@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1653328120928,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/mid game/"
+  ],
   "title": "City Blocks Base - All-in-one"
 }

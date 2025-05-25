@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698284468699,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "SUBSTAÇÃO SOLAR",
   "favorites": {
     "lyPTlzDER9ei9oDJhzTCkoQHFY52": true

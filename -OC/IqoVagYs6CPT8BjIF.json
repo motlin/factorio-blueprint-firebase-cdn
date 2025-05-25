@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/pxrs9lr",
   "lastUpdatedDate": 1732317615564,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Aquilo space ship",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

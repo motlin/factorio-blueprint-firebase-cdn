@@ -16,14 +16,14 @@
     "VydARsbXGZNXK7oTTYKKLIHthTi2": true
   },
   "numberOfFavorites": 32,
-  "tags": {
-    "2": "/power/steam/",
-    "3": "/production/science/",
-    "4": "/mods/vanilla/",
-    "5": "/production/research (labs)/",
-    "0": "/version/0,15/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "QwyKEoO6g8Vp9b5VNuuLW4oo1372"
   },

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1696415847646,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "Trail efficient intersection",
   "favorites": {
     "3IqHvEKPUHh1ss2hnoGb9zTxyfm1": true,

@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/oxe8pzb",
   "lastUpdatedDate": 1732132530407,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/space-age/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/space-age/",
+    "/belt/express transport belt (blue)/",
+    "/belt/fast transport belt (red)/",
+    "/general/compact/"
+  ],
   "title": "Bioflux Production (Blue/Red Belt) Half Blue saturation",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

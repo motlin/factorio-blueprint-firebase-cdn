@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/v5DRE2J",
   "lastUpdatedDate": 1730349326532,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Scrapper Auto Filter",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

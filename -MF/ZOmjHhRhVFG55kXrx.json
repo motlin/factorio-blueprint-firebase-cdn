@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1627922693472,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "train drop"
 }

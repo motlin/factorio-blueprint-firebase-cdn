@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ZtYZCg5",
   "lastUpdatedDate": 1735075150973,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/2,0/"
+  ],
   "title": "Train Unloader - Bulk Inserters",
   "favorites": {
     "9hJKsOvZMpQyzkKWwIaPN42ujst2": true,

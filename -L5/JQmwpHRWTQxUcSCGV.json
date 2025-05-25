@@ -12,10 +12,10 @@
     "type": "image/jpeg",
     "width": 1054
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "JelzALzgNoOWLrifC7Iph3IRmb22"
   },

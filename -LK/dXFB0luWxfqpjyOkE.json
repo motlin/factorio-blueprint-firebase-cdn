@@ -16,10 +16,10 @@
   },
   "descriptionMarkdown": "Just the basic yellow item belt sorter. Add the filters, and it will filter the belt into the desired number of paths. Tell me in the comments if you would like the upgrades/larger input numbers.",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

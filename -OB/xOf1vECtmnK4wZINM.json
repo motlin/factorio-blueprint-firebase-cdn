@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/lyQ6JBt",
   "lastUpdatedDate": 1731966231042,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/power/solar/",
-    "2": "/mods/space-age/",
-    "3": "/general/mid game/",
-    "4": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/power/solar/",
+    "/mods/space-age/",
+    "/general/mid game/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Space Age Ship (Skipper) - Guys its really cool I promise",
   "favorites": {
     "GWYJd00jWEak4bdb3ym0ajvNOh82": true,

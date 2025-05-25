@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1679994311242,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "All on coal",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/dfg45h.png?alt=media&token=a1744db4-b489-4ae8-bf85-22ddd346a6b1"
 }

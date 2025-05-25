@@ -8,10 +8,10 @@
     "width": 898
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Pseudo-4x4 reactor",
   "author": {
     "userId": "l2Pt3STOVRTqBfrnbnRNzdYZC7W2"

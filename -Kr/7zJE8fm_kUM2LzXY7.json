@@ -19,12 +19,12 @@
     "height": 786
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/creative/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/creative/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
   },

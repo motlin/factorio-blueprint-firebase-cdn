@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/qYEoLdH",
   "lastUpdatedDate": 1736612017473,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/production/inserters/",
-    "2": "/mods/vanilla/",
-    "3": "/mods/space-age/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/general/early game/"
+  ],
   "title": "Doc's Bootstrap Toolkit (Both Vanilla & Space age)",
   "favorites": {
     "kQCQeKzBHEVBnqrWhwm51jdNaM43": true

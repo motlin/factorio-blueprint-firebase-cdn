@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/QMTRjpy",
   "lastUpdatedDate": 1713886348432,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Drago's Compact Blue Belt of Green Circuits",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

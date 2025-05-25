@@ -13,11 +13,11 @@
     "id": "r8t8Jf1"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "createdDate": 1601109811444,
   "fileName": "20200926103208_1.jpg",
   "lastUpdatedDate": 1601109811444,

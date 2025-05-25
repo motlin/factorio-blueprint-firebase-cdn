@@ -5,13 +5,13 @@
   "createdDate": 1546468609247,
   "fileName": "2019-01-03_1-27-12.jpg",
   "numberOfFavorites": 9,
-  "tags": {
-    "4": "/general/compact/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "al8OlOmMgJddK8YA0p1NyFirYuJ3": true,
     "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,

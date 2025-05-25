@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/temzzjhjh.jpg?alt=media&token=b04f3928-e69b-458f-a075-552a8a15426c",
   "lastUpdatedDate": 1565629089306,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/version/0,17/"
+  ],
   "title": "Tileable 1.44 GW Nuclear Plant"
 }

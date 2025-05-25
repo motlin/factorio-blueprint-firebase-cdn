@@ -16,12 +16,12 @@
   "imageUrl": "https://imgur.com/kRua41d",
   "lastUpdatedDate": 1742150437036,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/power/steam/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Science Base - 9"
 }

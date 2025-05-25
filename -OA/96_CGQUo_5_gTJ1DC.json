@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/Tj5bGiw",
   "lastUpdatedDate": 1729967838167,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/roundabout/",
-    "2": "/train/crossing/",
-    "3": "/train/junction/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/version/2,0/"
+  ],
   "title": "Simple Trains",
   "favorites": {
     "QQuwMNg1kxdsBn2iPhJQLODWbye2": true,

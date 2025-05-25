@@ -18,11 +18,11 @@
     "width": 1284
   },
   "title": "Science Pack Utility (yellow) - 0.18",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "author": {
     "userId": "Y9pLrcdrVOV2v7nOPNsvZkfuC4k1"
   },

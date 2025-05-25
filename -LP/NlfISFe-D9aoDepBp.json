@@ -1,14 +1,14 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/BulldogTicTacToe.jpg?alt=media&token=27eca257-6e5a-4727-98b9-0fb7387b77ad",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/train/junction/",
-    "3": "/train/crossing/",
-    "4": "/train/left-hand-drive/",
-    "5": "/train/track/",
-    "6": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/left-hand-drive/",
+    "/train/track/",
+    "/general/chunk aligned/"
+  ],
   "favorites": {
     "SOvRIpJ9wRTBCNhLCYb6krqgn4U2": true
   },

@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/Zjlfh3Z.png",
   "lastUpdatedDate": 1745732320507,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/",
-    "3": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/vulcanus/"
+  ],
   "title": "Automation Green-Science pack on vulcanus 700+ per min",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true

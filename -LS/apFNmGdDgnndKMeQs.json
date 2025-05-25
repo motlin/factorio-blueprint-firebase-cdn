@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "four corner circle solar pattern",
   "authorId": "btBW49nV2GeRs7c0ydes781vtBn2",
   "createdDate": 1543618496104,

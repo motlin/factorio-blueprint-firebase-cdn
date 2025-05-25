@@ -7,11 +7,11 @@
     "id": "6JGsoOS",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/production/mining/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/production/mining/",
+    "/production/smelting/"
+  ],
   "title": "OutpostPrinterV3",
   "favorites": {
     "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,

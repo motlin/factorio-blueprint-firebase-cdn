@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1616189384292,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/power/solar/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/power/solar/",
+    "/production/guns and ammo/"
+  ],
   "title": "Offense Artillery Wagon ",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/artillery%20wagon.jpg?alt=media&token=4d9bedcc-26ad-49b7-84a2-9234c10c4250"
 }

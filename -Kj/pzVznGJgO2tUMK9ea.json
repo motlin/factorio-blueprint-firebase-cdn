@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1498688809576,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Gameplay Trailer-Like Outposts",
   "author": {
     "userId": "NCJujBif2qM3BxGgHXQSDFPf7OD3"

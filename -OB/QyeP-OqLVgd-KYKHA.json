@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Jbtk6x0",
   "lastUpdatedDate": 1731341232765,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Spaceship for DLC"
 }

@@ -19,9 +19,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/fullscience%20with%20emerg%202.JPG?alt=media&token=312b8c1e-2c84-484c-b69e-bd37d7a5fe6e",
   "lastUpdatedDate": 1570808189222,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/production/science/",
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "Train supplied Science Factory with high goods supply"
 }

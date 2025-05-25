@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1622905256254,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 Modular Production Tech Card 250m",
   "favorites": {
     "HRMaNFq4K1cXNmLEmdQqhiHzC5N2": true,

@@ -16,11 +16,11 @@
   "descriptionMarkdown": "System designed to restart power plant by supplying some energy to it, in the event that power plant ran out of energy. It will provide energy to start the inserters, but will still require supply of standard fuel. Will keep power plant out of grid until backup recharges.\n\nSee the image for power connection details. Active accumulator on the screenshot has to be connected to the power plant grid [and ONLY that accumulator can be connected to any grid outside of the control system].\n\nLarger version with pre-linked power systems can be provided on request, This module was designed to be small.",
   "fileName": "power control.jpg",
   "lastUpdatedDate": 1593348219242,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "title": "Backup power system",
   "author": {
     "userId": "lUncD4QhVnepV6ODHxwkkU1kMGJ3"

@@ -10,10 +10,10 @@
     "id": "qLZPDmS"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/general/tileable/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/science/"
+  ],
   "title": "[0.17] Yellow Science Tileable",
   "author": {
     "userId": "ovzdcbIP42eVd5QDo8YWH6z4pxA2"

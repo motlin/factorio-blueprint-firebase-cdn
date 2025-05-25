@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1662922802200,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/belt based/",
-    "2": "/production/other/",
-    "3": "/mods/krastorio/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/production/other/",
+    "/mods/krastorio/",
+    "/mods/other/"
+  ],
   "title": "Mall 3 - Storage [K2SE]",
   "favorites": {
     "MuXDDSIYVcZ036wg9rXrEG7FMNT2": true,

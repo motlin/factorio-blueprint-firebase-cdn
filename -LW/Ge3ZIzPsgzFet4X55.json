@@ -10,9 +10,9 @@
   "descriptionMarkdown": "Compact purple belt (75/s) smelting 100% compression\n\nUses the lowest modules with the highest beacons to save overall on circuits\n\n## Requires MODS:\n* Miniloaders\n* Factorio Extended",
   "fileName": "FE Smelting.PNG",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "author": {
     "userId": "BRJi2QoNKZVJEjubdoNIO30floF2"
   },

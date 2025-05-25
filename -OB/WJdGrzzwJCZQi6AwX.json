@@ -20,9 +20,9 @@
   "imageUrl": "https://imgur.com/cFW470J",
   "lastUpdatedDate": 1731430947472,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "ThingThing"
 }

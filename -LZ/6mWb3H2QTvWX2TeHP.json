@@ -12,11 +12,11 @@
   "createdDate": 1579604908620,
   "descriptionMarkdown": "The blueprint includes a cracking setup with tanks to which a circuit is connected, automatically enabling cracking if the heavy and/or light oil isn't used.\n\nSpreadsheet: https://docs.google.com/spreadsheets/d/1fkx6s7X_MjPjcvlh0ndkRIFqaQL3hzRAMREPRsKiCbs/edit?usp=sharing",
   "fileName": "Screenshot_20200121_194105.png",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/oil processing/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Balanced Oil Refinery with On-Demand Oil Cracking",
   "author": {
     "userId": "6hrp8ObDjleYrgTVPDMlIgsj2xt1"

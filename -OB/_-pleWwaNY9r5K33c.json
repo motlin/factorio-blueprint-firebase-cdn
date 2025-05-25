@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/RbOkLXQ",
   "lastUpdatedDate": 1731492797796,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/"
+  ],
   "title": "Limrei class Galleon",
   "favorites": {
     "2Eb2ni7isjddYgvNYotqO7BYQA72": true,

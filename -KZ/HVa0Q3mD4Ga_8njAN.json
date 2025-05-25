@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "4-Lane-Gate-Small",
   "authorId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2",
   "lastUpdatedDate": 1499944138697,

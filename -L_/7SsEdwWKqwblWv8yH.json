@@ -17,12 +17,12 @@
   "createdDate": 1551698986087,
   "fileName": "odbytidupa.png",
   "lastUpdatedDate": 1551699058142,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/early game/",
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "authorId": "bWTjNsd5blXzb3hoZDAcjvHnKyv1",
   "descriptionMarkdown": "simple mall",
   "image": {

@@ -10,10 +10,10 @@
   },
   "lastUpdatedDate": 1526904583064,
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/other/"
+  ],
   "author": {
     "userId": "rLYoAzW3V5db2U8xJtENd80g00f2"
   },

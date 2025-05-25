@@ -16,12 +16,12 @@
     "type": "image/png",
     "width": 1094
   },
-  "tags": {
-    "2": "/mods/other/",
-    "3": "/version/0,15/",
-    "0": "/general/early game/",
-    "1": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/general/early game/",
+    "/production/guns and ammo/"
+  ],
   "author": {
     "userId": "jDonDyHYTiQBnWgd9CY7l6lIecL2"
   },

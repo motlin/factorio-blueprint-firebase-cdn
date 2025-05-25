@@ -19,10 +19,10 @@
     "width": 1024
   },
   "lastUpdatedDate": 1550659296043,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/general/mid game/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/mid game/"
+  ]
 }

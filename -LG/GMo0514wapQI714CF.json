@@ -20,8 +20,8 @@
     "type": "image/jpeg",
     "width": 1021
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ]
 }

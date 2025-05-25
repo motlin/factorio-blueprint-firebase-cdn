@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1607311248708,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "AoC 2020 Day 1"
 }

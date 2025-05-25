@@ -6,11 +6,11 @@
     "height": 520
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/other/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/other/",
+    "/production/belt based/"
+  ],
   "createdDate": 1539497422753,
   "descriptionMarkdown": "Produces combinators, wires, lamps, speaker, and power switches.\n\nFeatures belt guards, remote controls. Green circuit input optional.\n\nSet production limits via constant combinators (near pink light, labelled 'MAKE' and 'STOCK MULTIPLYER')",
   "fileName": "combinator production t2 mk4.png",

@@ -7,10 +7,10 @@
     "width": 844
   },
   "lastUpdatedDate": 1533201129271,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "6oPVR2aYRROi0N3Pnapg3E9t6So2"
   },

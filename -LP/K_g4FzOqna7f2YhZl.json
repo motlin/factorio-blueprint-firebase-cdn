@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1571531762681,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/kovarex enrichment/"
+  ],
   "favorites": {
     "nYTigzLf2ac9FF5Ny2fIHGnVMj12": true,
     "AtPM8cr9kxdMEUvCOKG0oayvYB13": true,

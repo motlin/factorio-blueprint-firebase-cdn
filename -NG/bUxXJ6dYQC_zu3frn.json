@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1697175037133,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/other/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/other/",
+    "/general/late game (megabase)/"
+  ],
   "title": "UNTRA self-replicating rail intersection v2.1"
 }

@@ -9,11 +9,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2017-07-15_06-29-56.jpg?alt=media&token=27f70fa0-80c0-4db9-bcd6-c83de25f5308",
   "lastUpdatedDate": 1500124220296,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "OIZ5OVPxszgFmlPGqp0Jf4jxi9A2"
   },

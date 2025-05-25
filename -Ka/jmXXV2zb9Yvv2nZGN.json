@@ -7,11 +7,11 @@
     "width": 935
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/6digitdisplay.png?alt=media&token=29dc2ced-a53f-40b1-a8b7-fe67ab2762a7",
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "6 Digit Display",
   "numberOfFavorites": 9,
   "author": {

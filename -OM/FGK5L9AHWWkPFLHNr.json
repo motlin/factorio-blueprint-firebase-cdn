@@ -19,8 +19,8 @@
   "imageUrl": "https://imgur.com/wYWjlv2",
   "lastUpdatedDate": 1742962338137,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "title": "Pre-SpaceAge RGB+Bots"
 }

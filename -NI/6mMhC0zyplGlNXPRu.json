@@ -24,8 +24,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/asdf.png?alt=media&token=b0c97f31-81db-43c3-ae96-a454e95ee052",
   "lastUpdatedDate": 1672740315788,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/right-hand-drive/"
+  ],
   "title": "Chunk-Aligned RHD 2-4 Trains v1.0"
 }

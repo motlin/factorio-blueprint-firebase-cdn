@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/science/"
+  ],
   "title": "Technologiekarte für Produktion Krastorio 2",
   "favorites": {
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,

@@ -234,11 +234,11 @@
   "imageUrl": "https://imgur.com/9AJalbg",
   "lastUpdatedDate": 1733448721416,
   "numberOfFavorites": 107,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/general/compact/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/general/compact/",
+    "/production/mall (make everything)/"
+  ],
   "title": "RIP landmines"
 }

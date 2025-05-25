@@ -6,10 +6,10 @@
     "width": 819,
     "height": 851
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/smelting/"
+  ],
   "title": "Sea Block Переплавка свинца",
   "author": {
     "userId": "LaXDTIKD0Ib90tbC4w0n38WqBCi2"

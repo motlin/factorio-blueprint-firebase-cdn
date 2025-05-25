@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1679190805836,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "4x Blue Belt Tileable Cargo Wagon Loading and Unloading",
   "favorites": {
     "AuymyCe4K3XmxhZk6UwvZNgggHJ3": true,

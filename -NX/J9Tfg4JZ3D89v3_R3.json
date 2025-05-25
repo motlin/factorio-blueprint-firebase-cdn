@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/VpI7ELG",
   "lastUpdatedDate": 1715103984439,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "Torreta anti narcos",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true

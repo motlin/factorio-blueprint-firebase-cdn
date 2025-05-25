@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1622754455111,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Warehouse e containers",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true

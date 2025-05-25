@@ -19,14 +19,14 @@
   },
   "lastUpdatedDate": 1702209579129,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,1/",
-    "3": "/production/rocket parts/",
-    "4": "/production/research (labs)/",
-    "5": "/train/unloading station/",
-    "6": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/version/1,1/",
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/train/unloading station/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "60SPM FROM RAW RESOURCES MODULED, BOTS"
 }

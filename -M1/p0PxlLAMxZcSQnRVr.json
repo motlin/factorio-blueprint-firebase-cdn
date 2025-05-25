@@ -8,14 +8,14 @@
   },
   "lastUpdatedDate": 1630919944026,
   "numberOfFavorites": 1,
-  "tags": {
-    "4": "/circuit/indicator/",
-    "5": "/circuit/counter/",
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/general/tileable/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/power/solar/",
+    "/power/accumulator/",
+    "/general/tileable/",
+    "/mods/other/"
+  ],
   "title": "[Modded] Solar Tile",
   "author": {
     "userId": "TueS7zZacGMKUMBTdCAimVSWpCE3"

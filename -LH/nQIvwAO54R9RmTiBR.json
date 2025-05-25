@@ -20,11 +20,11 @@
     "height": 1080
   },
   "lastUpdatedDate": 1561009667958,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/version/0,16/",
-    "3": "/version/0,15/",
-    "4": "/train/roundabout/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/train/roundabout/"
+  ]
 }

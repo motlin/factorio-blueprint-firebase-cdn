@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1708619283440,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Smelter Array"
 }

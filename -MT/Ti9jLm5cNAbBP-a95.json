@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1642266668241,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Painel de controle de naves espaciais"
 }

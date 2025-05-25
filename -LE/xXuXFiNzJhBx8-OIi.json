@@ -10,13 +10,13 @@
   },
   "lastUpdatedDate": 1557997749635,
   "numberOfFavorites": 3,
-  "tags": {
-    "4": "/version/0,17/",
-    "0": "/general/marathon/",
-    "1": "/production/science/",
-    "2": "/general/early game/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/marathon/",
+    "/production/science/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "favorites": {
     "PumtYcK1XUXmMq4OqJVyMB7YMa03": true,
     "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,

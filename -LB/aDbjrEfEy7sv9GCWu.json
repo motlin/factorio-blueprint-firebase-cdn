@@ -8,11 +8,11 @@
   "lastUpdatedDate": 1525360380190,
   "title": "Research Phase 2 Factory",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "Zuh1krxTtyaUxHcz9Rwp8A2hXLn1"
   },

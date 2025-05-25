@@ -1,19 +1,19 @@
 {
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "9": "/production/smelting/",
-    "10": "/version/1,0/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/",
-    "5": "/circuit/indicator/",
-    "6": "/general/late game (megabase)/",
-    "7": "/general/tileable/",
-    "8": "/general/compact/",
-    "11": "/version/0,17/",
-    "12": "/version/0,18/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/smelting/",
+    "/version/1,0/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/circuit/indicator/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/version/0,17/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "IRSe3pbdzSbPlVPbfpinfW4J3gl1": true,
     "Im1uBOxIaBbIiYsepr57q2lTdWf2": true

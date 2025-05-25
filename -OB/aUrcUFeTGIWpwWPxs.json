@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/PH2oG87",
   "lastUpdatedDate": 1731517708970,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space age Ships"
 }

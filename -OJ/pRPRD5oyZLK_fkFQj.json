@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/bBmn1D0.png",
   "lastUpdatedDate": 1740533124048,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "T1 Hauler Mk3",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

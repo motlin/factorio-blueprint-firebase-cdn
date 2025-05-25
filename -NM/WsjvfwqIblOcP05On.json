@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1703523122524,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/rocket parts/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Low Density Structure (LDS) 37/s",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

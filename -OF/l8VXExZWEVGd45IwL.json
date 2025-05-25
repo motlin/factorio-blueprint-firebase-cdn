@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/UnwMxC1",
   "lastUpdatedDate": 1735991363742,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Asteroid Processing",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/MgZxou7",
   "lastUpdatedDate": 1731455170230,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/scrap processing/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/scrap processing/"
+  ],
   "title": "Anti overflow fulgora",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

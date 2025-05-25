@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/UYjNAJn",
   "lastUpdatedDate": 1730700143849,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Compact modular big drills 30/s",
   "favorites": {
     "34okMiKwJ6ZkegRFvQsd6hTNQuZ2": true,

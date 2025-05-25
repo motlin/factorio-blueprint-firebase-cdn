@@ -22,14 +22,14 @@
   "lastUpdatedDate": 1613777441335,
   "numberOfFavorites": 9,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bluebotsv3.PNG?alt=media&token=ff07a032-f5c9-4925-9f2b-c4a774751371",
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/production/belt based/",
-    "4": "/version/1,0/",
-    "5": "/production/robots/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/belt based/",
+    "/version/1,0/",
+    "/production/robots/"
+  ],
   "author": {
     "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"
   },

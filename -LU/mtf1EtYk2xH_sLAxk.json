@@ -14,10 +14,10 @@
     "width": 1920
   },
   "lastUpdatedDate": 1545968464055,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,16/"
+  ],
   "title": "Steel Production",
   "authorId": "LM4RD9mj1mbzG26Zic1XPcL5A4E2",
   "favorites": {

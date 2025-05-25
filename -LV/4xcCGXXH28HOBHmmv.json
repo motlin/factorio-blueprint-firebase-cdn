@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1546288441517,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/version/0,16/"
+  ],
   "title": "2400 processors per minute"
 }

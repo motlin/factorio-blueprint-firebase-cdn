@@ -13,17 +13,17 @@
   "imageUrl": "https://imgur.com/JBxSTeM",
   "lastUpdatedDate": 1736905743183,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/general/tileable/",
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/",
-    "4": "/general/mid game/",
-    "5": "/general/chunk aligned/",
-    "6": "/version/1,0/",
-    "7": "/version/1,1/",
-    "8": "/version/2,0/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/general/tileable/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/chunk aligned/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/version/2,0/"
+  ],
   "title": "Tieres Walls by GEEKA v1.2",
   "favorites": {
     "LcvhMqqqPoWifE4vUd9nQwg10rE2": true,

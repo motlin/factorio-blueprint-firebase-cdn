@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/K9HDdRJ",
   "lastUpdatedDate": 1734191585019,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Egg Timer Assembler v2",
   "favorites": {
     "sVAbIYiUAleousVbvaVIlpcHcBI2": true,

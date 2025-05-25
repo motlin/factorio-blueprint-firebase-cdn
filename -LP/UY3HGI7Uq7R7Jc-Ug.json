@@ -8,14 +8,14 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "2": "/production/science/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/version/0,17/",
-    "0": "/mods/vanilla/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "favorites": {
     "jkVDcApmZtglcMirG8uDmVsAvE23": true,
     "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,

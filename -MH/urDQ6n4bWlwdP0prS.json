@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1629853902678,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Lubricant and Petroleum Production (Advanced Oil Processing)",
   "favorites": {
     "JVPcNM1FJ4akyJG50PC6cKfQdPw1": true,

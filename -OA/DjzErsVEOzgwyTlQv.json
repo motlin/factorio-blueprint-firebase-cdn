@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/1i7fw5N",
   "lastUpdatedDate": 1730045697341,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/fulgora/",
-    "2": "/mods/space-age/",
-    "3": "/mods/vanilla/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/fulgora/",
+    "/mods/space-age/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Automated Electromagnetic Science",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

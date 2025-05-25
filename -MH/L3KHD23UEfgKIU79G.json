@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1629237095804,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/"
+  ],
   "title": "Linear Solar",
   "favorites": {
     "StKMH5P8SEXCGpLrvuvUeppsyR02": true,

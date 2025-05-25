@@ -20,10 +20,10 @@
     "type": "image/jpeg",
     "width": 790
   },
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Early coal mining rig."
 }

@@ -9,11 +9,11 @@
     "width": 818,
     "height": 809
   },
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "37OYl37SGwP89oJfYqKrYXnFcqh2": true,
     "ExFWyyZlosc81thIiDdqtmp7nht2": true,

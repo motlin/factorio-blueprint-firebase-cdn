@@ -3,12 +3,12 @@
   "fileName": "Tile Ammo.jpeg",
   "lastUpdatedDate": 1534694764589,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
     "jU4LREy6RqeaK0Koqgq4G37vwsp1": true

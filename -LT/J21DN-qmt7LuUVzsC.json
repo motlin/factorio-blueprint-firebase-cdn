@@ -24,8 +24,8 @@
     "type": "image/png",
     "width": 532
   },
-  "tags": {
-    "1": "/version/0,15/",
-    "0": "/train/crossing/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/train/crossing/"
+  ]
 }

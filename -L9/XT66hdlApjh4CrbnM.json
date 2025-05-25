@@ -14,11 +14,11 @@
   },
   "lastUpdatedDate": 1523144225361,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Early Game Compressed Smelting - No Filter Required",
   "fileName": "EarlyGameSmeltingCompressedYellowBetlNoFilterRequired.PNG"
 }

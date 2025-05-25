@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/QeelWVA",
   "lastUpdatedDate": 1746503191657,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/aai/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/aai/",
+    "/planets/space-platform/"
+  ],
   "title": "(Proof of Concept) Oribital interplanetary Auto-Mall"
 }

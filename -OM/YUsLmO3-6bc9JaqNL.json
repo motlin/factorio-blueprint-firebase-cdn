@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/qvDgWIJ",
   "lastUpdatedDate": 1743278540160,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/other/"
+  ],
   "title": "Circuito azul"
 }

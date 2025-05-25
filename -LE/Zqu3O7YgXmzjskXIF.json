@@ -15,8 +15,8 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/factorissimo/"
+  ],
   "title": "Storage in a 2Box 1 Product"
 }

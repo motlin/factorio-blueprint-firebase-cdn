@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1640216670398,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Red Circuits Beaconed"
 }

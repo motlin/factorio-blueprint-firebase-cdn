@@ -23,11 +23,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%5B10.08%20GW%5D%20Reactor.png?alt=media&token=8430945f-dc09-49b3-9867-bf8edb7a6022",
   "lastUpdatedDate": 1659649307116,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "[10.08 GW] Reactor"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/MSxU7w0.jpeg",
   "lastUpdatedDate": 1743816848995,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/belt based/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/production/logistic (bot) based/",
+    "/production/belt based/",
+    "/mods/space-age/"
+  ],
   "title": "4,480/m Flouroketone (cold) barrel",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

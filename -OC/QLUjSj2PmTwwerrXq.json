@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/8O4bgzs",
   "lastUpdatedDate": 1732404444181,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/space-age/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora Recycling overflow prevention",
   "favorites": {
     "005uJ56npQfNGd6jIZAy03VU8hh2": true,

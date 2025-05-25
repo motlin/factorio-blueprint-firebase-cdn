@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1654736758538,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/left-hand-drive/"
+  ],
   "title": "Prototype train tiles",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true

@@ -8,10 +8,10 @@
     "type": "image/jpeg",
     "width": 454
   },
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/general/compact/"
+  ],
   "favorites": {
     "cwQFmnmxveT0I0pDFRxeoipRfbE3": true,
     "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true

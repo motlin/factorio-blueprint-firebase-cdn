@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/pDxyxk2.png",
   "lastUpdatedDate": 1745932220363,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/tileable/"
+  ],
   "title": "Animated RGB Lights",
   "favorites": {
     "SAHHoUNJQXTpBX7fTG0Rh0MoYvH2": true

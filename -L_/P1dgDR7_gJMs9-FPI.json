@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/compact/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/RGGscience.PNG?alt=media&token=82b7f516-6bab-4f85-993f-855b3b7f5765",
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"

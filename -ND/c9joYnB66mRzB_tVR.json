@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1693964762454,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "XXX Kovarex XXX"
 }

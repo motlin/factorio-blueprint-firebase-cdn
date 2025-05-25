@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1613130668459,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/train/right-hand-drive/",
-    "2": "/train/unloading station/",
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/unloading station/",
+    "/train/loading station/"
+  ],
   "title": "Overdone Rail Block"
 }

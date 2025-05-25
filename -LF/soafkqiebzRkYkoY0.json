@@ -33,9 +33,9 @@
     "width": 884
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "createdDate": 1558952700798
 }

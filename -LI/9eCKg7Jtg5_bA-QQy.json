@@ -12,10 +12,10 @@
   "descriptionMarkdown": "Outputs the three different oil / gases with a cicuit to start cracking if needed.",
   "lastUpdatedDate": 1561399584153,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Balanced oil with circuits",
   "author": {
     "userId": "awDIn7FAWFgidff9NF4OvhOXboj2"

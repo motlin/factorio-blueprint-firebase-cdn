@@ -90,9 +90,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/90spm1.png?alt=media&token=0ce50e77-ba29-40c2-9c5c-ff896fd349d9",
   "lastUpdatedDate": 1574007541021,
   "numberOfFavorites": 85,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "title": "Science Books"
 }

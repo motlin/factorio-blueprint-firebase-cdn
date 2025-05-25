@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1579817827300,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Dense Solar Farm (133.254 MW)"
 }

@@ -27,11 +27,11 @@
   },
   "lastUpdatedDate": 1545421665493,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Blue Circuits from Plate v1.0 (Pebble)"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1631920222322,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/version/1,0/"
+  ],
   "title": "Beaconed Red Circuits for 2Chunk City Block",
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true

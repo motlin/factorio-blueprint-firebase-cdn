@@ -14,11 +14,11 @@
   "fileName": "2017-08-17 12_46_39-Factorio 0.15.33.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-08-17%2012_46_39-Factorio%200.15.33.png?alt=media&token=fa554edb-731f-4333-b04b-9b58fdcbe556",
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "zRU07FA12aXrtp5NYsg2aaLjvao2",
   "createdDate": 1502941664182,
   "descriptionMarkdown": "Processing unit",

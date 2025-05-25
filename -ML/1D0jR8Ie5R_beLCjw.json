@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/reactor_abirv_2.png?alt=media&token=4ef22936-f8b4-46d1-b4bd-df41e2cc9c73",
   "lastUpdatedDate": 1633408629401,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "2x6 1.76 GW Nuclear Reactor"
 }

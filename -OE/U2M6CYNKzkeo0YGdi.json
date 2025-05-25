@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/977FMdt",
   "lastUpdatedDate": 1735137530064,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/quality/"
+  ],
   "title": "One click UpCycle v1.1",
   "favorites": {
     "q0pvCWiULlSEjtUUpNhJnk6pea42": true,

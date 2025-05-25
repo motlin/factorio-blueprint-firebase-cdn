@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/4c33f87",
   "lastUpdatedDate": 1732080951099,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Train Buffer Smaller"
 }

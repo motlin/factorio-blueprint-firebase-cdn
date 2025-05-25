@@ -1,11 +1,11 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mike's%20Mall%20-%20Blue.png?alt=media&token=23cc6155-fc6d-4e01-afc6-a3271e15024f",
   "numberOfFavorites": 38,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mike's Mall - Blue",
   "createdDate": 1505501686565,
   "image": {

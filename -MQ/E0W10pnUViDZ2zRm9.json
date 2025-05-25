@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1638782079305,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Extensible Circuit Bus",
   "favorites": {
     "PIFRF84PU0auQQqp76rQPpCOIWk1": true,

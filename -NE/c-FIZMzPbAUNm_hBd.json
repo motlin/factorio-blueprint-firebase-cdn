@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1666044724757,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/aai/"
+  ],
   "title": "Book-SE-LTN-Begin"
 }

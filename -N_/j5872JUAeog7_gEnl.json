@@ -18,8 +18,8 @@
   },
   "lastUpdatedDate": 1691595755546,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "title": "Basic base setup"
 }

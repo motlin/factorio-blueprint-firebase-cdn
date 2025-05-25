@@ -18,8 +18,8 @@
     "id": "9Tl04fw"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar Array Setup"
 }

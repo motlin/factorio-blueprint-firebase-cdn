@@ -8,12 +8,12 @@
   },
   "numberOfFavorites": 114,
   "lastUpdatedDate": 1516762305137,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "hpw1NMh8YdfSq7thiijuET7lnEl2"
   },

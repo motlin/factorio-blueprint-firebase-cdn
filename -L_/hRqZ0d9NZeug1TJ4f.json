@@ -39,18 +39,18 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_20191021014147_1.png?alt=media&token=a67f5aee-e4c5-40f6-ab11-f1f1c00ade85",
   "lastUpdatedDate": 1573575624958,
   "numberOfFavorites": 21,
-  "tags": {
-    "6": "/version/0,17/",
-    "4": "/general/beaconized/",
-    "5": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/belt/express transport belt (blue)/",
-    "7": "/production/belt based/",
-    "8": "/production/rocket parts/",
-    "9": "/production/science/",
-    "10": "/production/research (labs)/",
-    "0": "/mods/vanilla/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/belt/express transport belt (blue)/",
+    "/production/belt based/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "NRC's Train assembling[Ver0.17]"
 }

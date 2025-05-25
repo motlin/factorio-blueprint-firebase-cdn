@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 31,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "ybMz5KhJmaSk7kaLf3kc21E3B1i2"
   },

@@ -3,11 +3,11 @@
   "createdDate": 1508537294956,
   "fileName": "battery.PNG",
   "lastUpdatedDate": 1508537294956,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/power/solar/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/power/solar/",
+    "/mods/other/"
+  ],
   "title": "Sea Block - Solar powered Steam Battery",
   "author": {
     "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"

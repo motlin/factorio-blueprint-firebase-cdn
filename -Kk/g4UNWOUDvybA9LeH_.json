@@ -4,13 +4,13 @@
   },
   "createdDate": 1495388255978,
   "fileName": "Blue.png",
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/belt/balancer/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "GCw4Gs9z1Bdu6NzE1puOMJR9D202": true,
     "PczJIn3p4qbuG9bCkOvfYmI1qfg1": true,

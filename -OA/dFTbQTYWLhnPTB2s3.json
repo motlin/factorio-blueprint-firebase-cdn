@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/wWVa40U",
   "lastUpdatedDate": 1730506325524,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/gleba/"
+  ],
   "title": "Bio flux processing",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

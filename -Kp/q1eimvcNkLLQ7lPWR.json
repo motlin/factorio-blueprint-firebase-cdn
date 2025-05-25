@@ -11,12 +11,12 @@
   "createdDate": 1500923997176,
   "descriptionMarkdown": "auto logistics smelter",
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "logistic auto smelter",
   "favorites": {
     "kJKPJOFO3CRl4uqFdoDPOaA1Lmp2": true,

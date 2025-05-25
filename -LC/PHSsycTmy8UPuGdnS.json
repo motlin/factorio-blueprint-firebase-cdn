@@ -21,11 +21,11 @@
     "width": 912,
     "height": 897
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/steam/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "title": "Simply Power (Steam)",
   "author": {
     "userId": "JK9DpGVcJePQApx4oUbQmzZFuzv2"

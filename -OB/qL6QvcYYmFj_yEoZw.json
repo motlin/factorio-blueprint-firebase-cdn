@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/wqUrwbY",
   "lastUpdatedDate": 1731783587700,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/general/mid game/"
+  ],
   "title": "Early and Compact White Science",
   "favorites": {
     "tEeieFObdzXtlRzIPGMN3HlAiqj1": true,

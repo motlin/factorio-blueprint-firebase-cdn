@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/s6yEEY7",
   "lastUpdatedDate": 1735537106602,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Large Starter Space Platform",
   "favorites": {
     "Mdl7k31q1wNEcxo2jIhiSNsmiRo1": true,

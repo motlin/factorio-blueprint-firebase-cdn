@@ -25,9 +25,9 @@
   "imageUrl": "https://imgur.com/XKRinXQ",
   "lastUpdatedDate": 1732220141406,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Fulgora resource platform"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/RTkOX3x",
   "lastUpdatedDate": 1731233898698,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/elevated-rails/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/elevated-rails/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "Espoire's Elevated Rail Interchange",
   "favorites": {
     "lEPYdC58rvhWCgVGvgeoUBREKXf2": true

@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/train/crossing/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/version/0,15/"
+  ],
   "title": "Train fully equipped cell",
   "favorites": {
     "QWWv1UNs4aOQkmYSJLYMxBsjQhz2": true,

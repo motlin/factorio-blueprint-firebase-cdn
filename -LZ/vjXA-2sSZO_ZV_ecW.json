@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/science/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "title": "Lazy Susan Science",
   "author": {
     "userId": "HAoSu6RvxDWhVfFp7tB7aA6mHcM2"

@@ -10,13 +10,13 @@
   },
   "lastUpdatedDate": 1601514873293,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/compact/",
-    "2": "/general/beaconized/",
-    "3": "/version/1,0/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "8JEutfG9FoSXHWEfOSNgXpbQCOD3"
   },

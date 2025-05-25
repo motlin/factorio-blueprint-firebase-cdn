@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1622867023537,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/vanilla/"
+  ],
   "title": "Self-contained coal liquefaction setup (just add coal and water)",
   "favorites": {
     "ba36tH1lK1UBqVNjVGLqT0FocdO2": true,

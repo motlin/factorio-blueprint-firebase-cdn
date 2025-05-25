@@ -29,9 +29,9 @@
     "width": 942,
     "height": 955
   },
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Tileable solar-farm (6MW with perfect ratio)",
   "author": {
     "userId": "uup7PnZ6aUS0cnq5FRVwQvUaXBp1"

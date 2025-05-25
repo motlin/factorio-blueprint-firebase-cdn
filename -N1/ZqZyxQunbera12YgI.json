@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1692803618693,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Электрическая печка",
   "favorites": {
     "uGNjKs9uoHRbLeirHSiPLQQLJ5m1": true

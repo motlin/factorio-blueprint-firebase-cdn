@@ -13,11 +13,11 @@
     "id": "GaPgAms"
   },
   "lastUpdatedDate": 1595161443062,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/production/science/"
+  ],
   "fileName": "SCIENCE.PNG",
   "numberOfFavorites": 4,
   "title": "All Science",

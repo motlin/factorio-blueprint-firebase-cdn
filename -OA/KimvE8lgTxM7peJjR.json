@@ -23,9 +23,9 @@
   "imageUrl": "https://imgur.com/VungbCo",
   "lastUpdatedDate": 1730162728082,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-age/"
+  ],
   "title": "24 Nuclear Reactors [Space Age] "
 }

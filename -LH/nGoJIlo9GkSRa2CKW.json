@@ -5,14 +5,14 @@
     "type": "image/png",
     "width": 429
   },
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "4": "/production/belt based/",
-    "5": "/general/tileable/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/belt based/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "hwQNQgCKkQMP6wuJF84LRXW7w7j2"
   },

@@ -14,11 +14,11 @@
   "fileName": "Crystal Slurry Filtering.png",
   "lastUpdatedDate": 1535983316161,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/angels/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/angels/",
+    "/general/tileable/"
+  ],
   "title": "Seablock 0.16 Crystal Slurry to Mineral Sludge Filtering with Ceramic Filters",
   "author": {
     "userId": "d58VZD3Y06MA5XPKpbzshQX699R2"

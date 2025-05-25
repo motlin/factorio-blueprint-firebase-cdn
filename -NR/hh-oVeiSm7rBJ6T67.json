@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1680098987423,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio/Space exploration Concrete maker 10/s",
   "favorites": {
     "sE16XWAM00RtbuJljr7cSpGvj5m2": true

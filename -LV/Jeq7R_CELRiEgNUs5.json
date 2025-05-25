@@ -9,9 +9,9 @@
     "height": 512
   },
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "favorites": {
     "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
     "lyhBwScrmcTLsG3VC7AGsJI6OV03": true,

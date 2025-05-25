@@ -11,10 +11,10 @@
   "lastUpdatedDate": 1600951183971,
   "numberOfFavorites": 3,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202020-09-24%20at%2013.36.43.png?alt=media&token=dfe67441-2d35-4aed-8e37-41186a92ce4b",
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "hZIhC9XaFxZRKAmIyYPqTYRPd0X2"
   },

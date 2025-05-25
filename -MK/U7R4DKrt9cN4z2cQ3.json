@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1632611265032,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "The Smeltery Emporium"
 }

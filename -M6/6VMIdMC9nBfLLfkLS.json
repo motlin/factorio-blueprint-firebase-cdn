@@ -18,10 +18,10 @@
   "descriptionMarkdown": "This is all you need to build to get started",
   "fileName": "Captureasdf.JPG",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "0.18 - Lazy Bastard"
 }

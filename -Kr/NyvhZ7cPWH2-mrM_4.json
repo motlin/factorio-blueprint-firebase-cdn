@@ -10,13 +10,13 @@
     "width": 816
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Military%20Science%20Packs.jpg?alt=media&token=c671b767-d711-43d1-b479-1031ce6abda0",
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/",
-    "4": "/mods/other/",
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Military Science Packs Production Plant in a Box (Factorissimo).",
   "author": {
     "userId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2"

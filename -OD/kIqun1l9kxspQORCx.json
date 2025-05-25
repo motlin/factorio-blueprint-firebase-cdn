@@ -34,8 +34,8 @@
   "imageUrl": "https://imgur.com/LwWR5zA",
   "lastUpdatedDate": 1733992954847,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Star Destroyer v2.0"
 }

@@ -16,15 +16,15 @@
   "fileName": "supermegaloader3000.PNG",
   "lastUpdatedDate": 1601056642738,
   "numberOfFavorites": 6,
-  "tags": {
-    "4": "/general/tileable/",
-    "5": "/mods/vanilla/",
-    "6": "/version/1,0/",
-    "0": "/train/loading station/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/loading station/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/general/compact/"
+  ],
   "favorites": {
     "UZmfhDejCzeiZBJNssx4OklwWH72": true,
     "YiW6N6IzcpQ9Iyt9mLwCA52wLip2": true,

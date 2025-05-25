@@ -13,10 +13,10 @@
   "createdDate": 1547341464907,
   "descriptionMarkdown": "Self repairing fortress",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "m07C5mwI17acIxJ8phHH9WSsqsZ2": true,

@@ -8,11 +8,11 @@
   },
   "lastUpdatedDate": 1530334369630,
   "numberOfFavorites": 106,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "4MKYdr8yg3b3PCxMyROOzx0gX8m1": true,
     "3Itc0snPXKhoQG8iAzN8qiBPTdl2": true,

@@ -23,9 +23,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1-22.PNG?alt=media&token=eaedbfaf-a497-431f-b9a5-900d6da38ac0",
   "lastUpdatedDate": 1696364881452,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/aai/"
+  ],
   "title": "Advanced K2/AAI Mall"
 }

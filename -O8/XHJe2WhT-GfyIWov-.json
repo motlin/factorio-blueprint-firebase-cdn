@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/K6RTI1Z",
   "lastUpdatedDate": 1728225823694,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para suporte a Gaia/postos avançados (Exotics + S.E.)"
 }

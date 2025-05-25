@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1674929874578,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/space-exploration/",
-    "3": "/mods/bobs/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/mods/bobs/"
+  ],
   "title": "6k/min green circuit (Heavily modded, K2+SE, bob's, miniloaders)",
   "favorites": {
     "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,

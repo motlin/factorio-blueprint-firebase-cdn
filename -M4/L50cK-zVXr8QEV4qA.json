@@ -166,15 +166,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Krastorio%202%20Mall.png?alt=media&token=517847eb-eb0e-4cd5-b11c-b7790ba909a2",
   "lastUpdatedDate": 1617889523825,
   "numberOfFavorites": 121,
-  "tags": {
-    "7": "/version/1,0/",
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/tileable/",
-    "4": "/mods/krastorio/",
-    "5": "/production/robots/",
-    "6": "/version/0,18/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/krastorio/",
+    "/production/robots/",
+    "/version/0,18/"
+  ],
   "title": "Fully modular Mall Design for Krastorio 2 1.0.23 - Rahbek/Valyrin"
 }

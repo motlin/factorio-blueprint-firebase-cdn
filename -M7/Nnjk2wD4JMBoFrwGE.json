@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "1": "/train/track/",
-    "0": "/train/stacker/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/stacker/"
+  ],
   "title": "Train Stacker",
   "favorites": {
     "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,

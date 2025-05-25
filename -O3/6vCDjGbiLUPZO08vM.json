@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/y5oL4I5",
   "lastUpdatedDate": 1722414877174,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "480W Nuclear (Smart Reactor)",
   "favorites": {
     "Ds9T8XDwiQOLZd58xANyQqcGcqI3": true,

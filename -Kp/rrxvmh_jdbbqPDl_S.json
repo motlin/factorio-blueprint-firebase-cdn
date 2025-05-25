@@ -8,12 +8,12 @@
   },
   "lastUpdatedDate": 1534382040933,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/guns and ammo/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Oldknow's Ordnance",
   "author": {
     "userId": "FEWgGglW0OYvT2z0XT6qIko4eWV2"

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1653522346580,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Illham's Reactor",
   "favorites": {
     "DpbmHNzr49OCzxrGJq0inggICcg2": true,

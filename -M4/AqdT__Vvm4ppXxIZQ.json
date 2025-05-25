@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "4": "/mods/krastorio/",
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "SIune8tADRd1TGwhaXws0F3x1J32": true,
     "YCmdFXJWFJNogQjdMZAbrtzm9ml1": true,

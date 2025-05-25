@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/itTH8uQ",
   "lastUpdatedDate": 1729769903837,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Cool green rocks Kovarex Factory for 2.0",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

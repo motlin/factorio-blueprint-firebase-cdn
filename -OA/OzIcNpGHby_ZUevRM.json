@@ -195,8 +195,8 @@
   "imageUrl": "https://imgur.com/M3lAzYa",
   "lastUpdatedDate": 1731865079416,
   "numberOfFavorites": 66,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Boba City, Modular City Blocks"
 }

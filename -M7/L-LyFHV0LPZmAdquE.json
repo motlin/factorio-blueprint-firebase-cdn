@@ -16,11 +16,11 @@
     "type": "image/png",
     "width": 208
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "SOvRIpJ9wRTBCNhLCYb6krqgn4U2": true
   }

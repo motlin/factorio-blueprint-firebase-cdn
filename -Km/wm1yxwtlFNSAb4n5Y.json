@@ -22,10 +22,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/powerlevel.png?alt=media&token=e28ec8aa-c0b2-4900-b66a-9e67614d5bdb",
   "lastUpdatedDate": 1497822964918,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Ultimate Power Level"
 }

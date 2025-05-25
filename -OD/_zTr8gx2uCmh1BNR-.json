@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/0E4va2U",
   "lastUpdatedDate": 1733656702519,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "title": "Simple Kovarex Enrichment",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true

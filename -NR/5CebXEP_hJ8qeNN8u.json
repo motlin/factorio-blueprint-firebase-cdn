@@ -31,9 +31,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-03-21%20at%2010.23.08%20PM.png?alt=media&token=9163947a-426a-4f22-9a3d-f0e52e0d2534",
   "lastUpdatedDate": 1679689575464,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/smelting/"
+  ],
   "title": "Early smelting book"
 }

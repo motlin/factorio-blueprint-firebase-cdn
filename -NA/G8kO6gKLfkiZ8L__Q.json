@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1661366372116,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Loading and Unloading station for Vanilla and LTN"
 }

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1692286096683,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/angels/",
-    "2": "/general/early game/",
-    "3": "/mods/seablock/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/angels/",
+    "/general/early game/",
+    "/mods/seablock/"
+  ],
   "title": "Tilable Seablock Early Game Algae Power (Ratioed)",
   "favorites": {
     "ItpfwZnxmWTyGXT9pQorNFgTMPI2": true

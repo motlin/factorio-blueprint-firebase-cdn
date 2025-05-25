@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/BElWecZ",
   "lastUpdatedDate": 1729449578867,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Fast Arm In/Out",
   "favorites": {
     "jtSu6Om1Q3O6AAZyQYAmb4uQpyk2": true

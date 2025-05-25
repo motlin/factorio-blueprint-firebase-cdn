@@ -18,13 +18,13 @@
   },
   "lastUpdatedDate": 1705066619652,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/belt based/",
-    "2": "/production/modules/",
-    "3": "/mods/vanilla/",
-    "4": "/general/storage/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/general/storage/",
+    "/general/mid game/"
+  ],
   "title": "Lazy Mall V1.2 -MisterGrimmJaw"
 }

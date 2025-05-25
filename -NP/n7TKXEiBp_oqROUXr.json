@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678307876650,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Bot Balancer v3",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,

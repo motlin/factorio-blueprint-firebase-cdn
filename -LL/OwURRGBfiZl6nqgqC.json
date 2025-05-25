@@ -13,11 +13,11 @@
   },
   "lastUpdatedDate": 1535886096318,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/production/smelting/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/production/smelting/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "0w0TVEWSKxfcp8nV1tOGFimK3Of2"
   },

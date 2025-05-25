@@ -24,9 +24,9 @@
   },
   "lastUpdatedDate": 1577488802358,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "IAA Recopilación 0.17"
 }

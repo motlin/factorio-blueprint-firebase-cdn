@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1645377406475,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/version/1,0/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/smelting/"
+  ],
   "title": "Simple smelter designs book"
 }

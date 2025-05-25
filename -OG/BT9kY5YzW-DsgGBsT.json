@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/nsHmlyn",
   "lastUpdatedDate": 1736449764564,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/space-age/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/production/mall (make everything)/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Space Age, Belt Mall with circuits"
 }

@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1631197009185,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Compact beaconed green circuit(blue belt output). 7 Assemblers, 44 Speed 28 Prod modules.",
   "favorites": {
     "koAghxFRYiSBA2wMRYJ2gRahyHI2": true

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ALywYx8",
   "lastUpdatedDate": 1730450625286,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Electronics Controlled Ship",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

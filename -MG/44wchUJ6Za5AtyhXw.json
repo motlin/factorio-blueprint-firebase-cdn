@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1598887021238,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "R7SuEbngjyQqS4TtBLDzucHrMZ52"
   },

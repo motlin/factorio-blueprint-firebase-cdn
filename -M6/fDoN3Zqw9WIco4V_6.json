@@ -8,17 +8,17 @@
     "type": "image/png",
     "width": 483
   },
-  "tags": {
-    "2": "/version/0,15/",
-    "5": "/belt/express transport belt (blue)/",
-    "6": "/general/early game/",
-    "7": "/general/mid game/",
-    "0": "/belt/balancer/",
-    "3": "/belt/transport belt (yellow)/",
-    "4": "/belt/fast transport belt (red)/",
-    "8": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/belt/express transport belt (blue)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "TPzkmVjnIiMlixomMAKVdlvs8Hq1"
   },

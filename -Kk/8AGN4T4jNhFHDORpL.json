@@ -4,12 +4,12 @@
   "numberOfFavorites": 9,
   "title": "1 Science Pack 3 per second (before Assembly Machine 3 available)",
   "lastUpdatedDate": 1497437848299,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
   },

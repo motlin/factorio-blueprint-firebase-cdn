@@ -22,10 +22,10 @@
     "userId": "6pTENYdZcQhZRON7Ez1AlqCmFol2"
   },
   "createdDate": 1523611465638,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/smelting/",
-    "2": "/mods/factorissimo/",
-    "3": "/general/beaconized/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/production/smelting/",
+    "/mods/factorissimo/",
+    "/general/beaconized/"
+  ]
 }

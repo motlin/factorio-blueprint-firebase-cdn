@@ -16,8 +16,8 @@
     "type": "image/jpeg",
     "width": 1447
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/oil processing/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/production/oil processing/"
+  ]
 }

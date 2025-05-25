@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/c3TxowF",
   "lastUpdatedDate": 1717943552001,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/space-exploration/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/version/1,1/"
+  ],
   "title": "1.5GW Nuclear Reactor Space Exploration",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,

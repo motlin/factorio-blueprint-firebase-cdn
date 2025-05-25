@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ky8Szvc",
   "lastUpdatedDate": 1730181061669,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/mods/space-age/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/mods/space-age/",
+    "/train/loading station/"
+  ],
   "title": "Fulgora Sushi Loader",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/rCc6Eqh",
   "lastUpdatedDate": 1730406746975,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Tungsten carbide 60/s",
   "favorites": {
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,

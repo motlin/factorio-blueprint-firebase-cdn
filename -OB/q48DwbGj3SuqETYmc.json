@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/er9vBpK",
   "lastUpdatedDate": 1732735635535,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/2,0/"
+  ],
   "title": "Biolab extendable setup with beacons",
   "favorites": {
     "7tJAX6H9DoTXbw42UzgiXs79HtF2": true,

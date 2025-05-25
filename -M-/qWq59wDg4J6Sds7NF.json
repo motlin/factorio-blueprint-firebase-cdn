@@ -11,13 +11,13 @@
   },
   "fileName": "Rocket Silo 01.jpg",
   "lastUpdatedDate": 1581462806997,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/production/science/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "favorites": {
     "zYt7ZiMLb5VGO2RDRdr6g2o2A772": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

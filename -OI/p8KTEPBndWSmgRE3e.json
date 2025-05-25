@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/126eF6z",
   "lastUpdatedDate": 1739279652809,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "MicroPlatform",
   "favorites": {
     "24OVs5tXOScrR7DqJoaLiPrS8zV2": true

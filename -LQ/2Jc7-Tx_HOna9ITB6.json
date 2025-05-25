@@ -20,9 +20,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20-%205%20digit%20LCD%20display.jpg?alt=media&token=6f10584c-77e0-4d5a-8467-3b4b425c109d",
   "lastUpdatedDate": 1541274422347,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Cwhizard's Real Time 7 Segment  Displays"
 }

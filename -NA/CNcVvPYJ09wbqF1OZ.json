@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1730929461194,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/late game (megabase)/",
+    "/version/2,0/"
+  ],
   "title": "800MW nuclear friendship reactor",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/800mw%20friendship%20reactor%20v4.3-3.png?alt=media&token=bf13282a-558e-4f59-bf46-8195aa6e6e64",
   "favorites": {

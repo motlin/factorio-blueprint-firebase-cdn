@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1683375088807,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,15/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Simple smart supply system",
   "favorites": {
     "M21UtXSw6XdNg3d7FFZOeOBiRWn2": true,

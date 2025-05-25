@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/KinpeG7",
   "lastUpdatedDate": 1731407626223,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Green Science 100 SPM. Logistic science pack",
   "favorites": {
     "wo3ds2MI4PajySXJ4uUq6GXqJ1n2": true,

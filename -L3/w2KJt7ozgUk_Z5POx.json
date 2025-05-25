@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1517566920838,
   "numberOfFavorites": 12,
-  "tags": {
-    "4": "/production/logistic (bot) based/",
-    "5": "/general/late game (megabase)/",
-    "0": "/mods/creative/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/general/late game (megabase)/",
+    "/mods/creative/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/production/belt based/"
+  ],
   "title": "Bob + Angel Massive Sorting Blocks (r7)"
 }

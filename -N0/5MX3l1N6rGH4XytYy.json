@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1650448015932,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/early game/",
-    "2": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/chunk aligned/"
+  ],
   "title": "Amala's City Block JumpStart Base 1.0"
 }

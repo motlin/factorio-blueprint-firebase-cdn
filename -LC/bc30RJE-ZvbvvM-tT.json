@@ -28,10 +28,10 @@
   },
   "lastUpdatedDate": 1555446276882,
   "numberOfFavorites": 11,
-  "tags": {
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/production/mining/"
+  ],
   "title": "Loki's Mining Book with Train to Train Transfer Depot"
 }

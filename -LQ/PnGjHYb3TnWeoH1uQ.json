@@ -16,8 +16,8 @@
   "authorId": "jKwRYJaVJJRfUkTo6BmEAs2iLVw1",
   "descriptionMarkdown": "Connect down crude oil.\nIf u dont use the mod waterwell just connect the water pipe to a near offshore pump.\nAlso connect iron plates left.\nAnd u have the sulfuric acid on the top.\n",
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/version/0,15/",
-    "0": "/production/oil processing/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/production/oil processing/"
+  ]
 }

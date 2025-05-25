@@ -124,12 +124,12 @@
     "K1O1gwsYsZdYArU0Qkr210mFxQL2": true
   },
   "numberOfFavorites": 169,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "w3n6GKMYYETPaPpZ2PlScjOb7q43"
   },

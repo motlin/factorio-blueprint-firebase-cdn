@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/8yhboX8",
   "lastUpdatedDate": 1738111926608,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/mods/quality/"
+  ],
   "title": "Early Iron and Cooper Plates Quality",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

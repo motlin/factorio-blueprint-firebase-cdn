@@ -25,12 +25,12 @@
   "imageUrl": "https://i.imgur.com/SeAkYcf.png",
   "lastUpdatedDate": 1741638491373,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/2,0/",
-    "4": "/mods/space-age/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "LTN(TDM) v2.0 (Универсальные поезда с итератором каналов)"
 }

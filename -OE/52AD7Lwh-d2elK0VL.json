@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/6pN7SVH",
   "lastUpdatedDate": 1737453498278,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/",
-    "3": "/mods/vanilla/",
-    "4": "/mods/quality/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/mods/vanilla/",
+    "/mods/quality/"
+  ],
   "title": "Bot Mall Module Book",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

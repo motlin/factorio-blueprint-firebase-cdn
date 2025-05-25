@@ -11,12 +11,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017_07_18_11_21_30_Factorio_0.15.18.png?alt=media&token=fbda6a6e-46c8-414d-9197-3d56bafa1d3f",
   "lastUpdatedDate": 1500491042394,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "vmKr7eFWpuexSBbIcMmeh2GiVZ62": true,
     "jPM1VBgSgPeHCeAoUtfjtkhW7GR2": true,

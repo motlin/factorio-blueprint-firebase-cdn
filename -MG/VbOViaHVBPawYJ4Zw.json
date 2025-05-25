@@ -19,11 +19,11 @@
   "createdDate": 1599348775144,
   "descriptionMarkdown": "Not finished train station meant for 2-3 wagons",
   "lastUpdatedDate": 1609956017745,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/train/track/",
-    "2": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/train/track/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "train bases",
   "author": {
     "userId": "D9C6miz2ylVNH8ZKTIQS7McMIW43"

@@ -22,11 +22,11 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1549302292579,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "fileName": "factorio_2019-02-03_01-40-30.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2019-02-03_01-40-30.png?alt=media&token=6def363c-f492-45c4-9f61-37210a75ad09",
   "numberOfFavorites": 12,

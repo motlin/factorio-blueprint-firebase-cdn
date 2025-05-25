@@ -9,12 +9,12 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/smelting/",
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/smelting/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
     "knHtxh4wDXaumqgful47NygduO93": true,

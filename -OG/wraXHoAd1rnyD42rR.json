@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/ps1Xqmi.png",
   "lastUpdatedDate": 1737261738212,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Automatic station train limits",
   "favorites": {
     "8VPwHnt9MBeqrji6rx32n61qnFt1": true

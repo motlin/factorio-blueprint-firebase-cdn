@@ -17,11 +17,11 @@
     "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2017-06-08_19-23-24.png?alt=media&token=89ff8537-82d6-404e-a6c4-a2330df431d1",
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,15/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,15/",
+    "/production/electronic circuit (green)/"
+  ],
   "favorites": {
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,
     "i3lsVQhsUQcId1KjN85jsMAA9LH2": true,

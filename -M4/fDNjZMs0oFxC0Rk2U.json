@@ -13,12 +13,12 @@
   "descriptionMarkdown": "Science Book for 0.18",
   "fileName": "Factorio book.png",
   "lastUpdatedDate": 1586642095504,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "yKRaLadQqoeVAoQi8VZWpaNwUqv1": true,
     "0d2o3kiCqQRcVIywBjeosipcVt02": true,

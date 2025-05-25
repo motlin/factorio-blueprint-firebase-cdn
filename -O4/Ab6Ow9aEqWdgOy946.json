@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/tDyaLVk",
   "lastUpdatedDate": 1723576066749,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Ultra-Compact Chemical Science Pack (10x40)",
   "favorites": {
     "tMRdaJ2bddhZdKs0hois2NOG0oH3": true,

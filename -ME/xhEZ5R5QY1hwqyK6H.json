@@ -1,7 +1,7 @@
 {
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Electric furnace smelting (convertible from stone/steel furnaces)",
   "favorites": {
     "Aix92MnRV3PeRJz2au5hKcNpNV53": true

@@ -15,13 +15,13 @@
     "userId": "NakWn0HsWLMY3ZLlCsIhfO5d3Bk1"
   },
   "title": "Beaconed Red Circuits",
-  "tags": {
-    "3": "/general/tileable/",
-    "4": "/version/0,17/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,17/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "0d2o3kiCqQRcVIywBjeosipcVt02": true,
     "N382F0QaJFU620TkYGXjAHPQqeM2": true,

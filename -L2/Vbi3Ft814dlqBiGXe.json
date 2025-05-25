@@ -39,10 +39,10 @@
   },
   "lastUpdatedDate": 1515596997400,
   "numberOfFavorites": 43,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "Book of Nuclear Reactors - from 2 to 18!"
 }

@@ -14,9 +14,9 @@
     "width": 935
   },
   "lastUpdatedDate": 1535260679512,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Basic Burning",
   "descriptionMarkdown": "The basic burning of resources such as copper and iron as a start and can upgrade the production by upgrading furnaces"
 }

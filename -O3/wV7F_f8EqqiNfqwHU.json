@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/pN2jJDl",
   "lastUpdatedDate": 1723296941224,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "basic blue belt beaconed smelter",
   "favorites": {
     "HhRlNDxiORYwdhS0BmyxAEGiQ9B2": true

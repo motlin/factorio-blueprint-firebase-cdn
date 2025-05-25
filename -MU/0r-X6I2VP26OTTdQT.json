@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1642856290620,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/"
+  ],
   "title": "Railway crossing with signal and gate",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

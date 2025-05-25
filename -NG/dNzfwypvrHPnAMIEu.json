@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1668215470865,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/general/beaconized/"
+  ],
   "title": "Iridium Processing Base"
 }

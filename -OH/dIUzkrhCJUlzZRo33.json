@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ZhNEzW1",
   "lastUpdatedDate": 1738007264861,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/aquilo/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/aquilo/",
+    "/production/science/"
+  ],
   "title": "Aquilo Cryogenic Science  - 233 / Min, No Quality",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

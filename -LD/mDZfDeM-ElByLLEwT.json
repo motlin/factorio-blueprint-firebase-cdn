@@ -55,14 +55,14 @@
   },
   "lastUpdatedDate": 1558005939111,
   "numberOfFavorites": 34,
-  "tags": {
-    "1": "/production/belt based/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/production/guns and ammo/",
-    "4": "/production/inserters/",
-    "5": "/mods/other/",
-    "6": "/version/0,17/",
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/belt/transport belt (yellow)/",
+    "/production/guns and ammo/",
+    "/production/inserters/",
+    "/mods/other/",
+    "/version/0,17/",
+    "/general/early game/"
+  ],
   "title": "1 Chunk Size Starter Base (For Nanobot, but applicable for Vanilla)"
 }

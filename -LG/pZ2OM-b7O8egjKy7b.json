@@ -1,11 +1,11 @@
 {
   "createdDate": 1530980742799,
   "descriptionMarkdown": "An early game blueprint for red science.",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Thin Early Game Red Science",
   "author": {
     "userId": "NcBrDdVTUoYsj1EpelKMmZ6EanJ2"

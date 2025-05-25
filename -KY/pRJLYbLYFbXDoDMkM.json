@@ -20,10 +20,10 @@
   "createdDate": 1481586591510,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Wall%20Loader.PNG?alt=media&token=542fd385-286e-4b9a-b781-baf9c11da6d9",
   "lastUpdatedDate": 1498344675317,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Wall 2 Sided Loader"
 }

@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1611920442314,
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/general/beaconized/",
-    "0": "/version/1,0/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/mods/ltn/"
+  ],
   "title": "Version 1.1 Megabase fully beaconed iron smelter with LTN trains"
 }

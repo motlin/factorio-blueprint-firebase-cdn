@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1642335497199,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/early game/"
+  ],
   "title": "Science & Labs for early game up until you sent your rocket."
 }

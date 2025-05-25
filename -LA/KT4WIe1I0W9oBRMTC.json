@@ -1,9 +1,9 @@
 {
   "descriptionMarkdown": "A small module factory for creating all 3 levels of one module type (Speed, production, or efficiency).  The inputs (from outside to inside) are blue chips, red chips, and green chips.  There were many blueprints for huge module factories, but not many for smaller production levels ",
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "GEP7lYulJvTQodsLyvIkwUYoJSi2": true
   },

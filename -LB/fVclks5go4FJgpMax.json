@@ -7,12 +7,12 @@
     "type": "image/jpeg",
     "width": 921
   },
-  "tags": {
-    "2": "/production/mining/",
-    "3": "/general/tileable/",
-    "0": "/mods/other/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/tileable/",
+    "/mods/other/",
+    "/version/0,16/"
+  ],
   "title": "[NPBees Redux] Earlygame Vertical Cleanbee Production",
   "author": {
     "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"

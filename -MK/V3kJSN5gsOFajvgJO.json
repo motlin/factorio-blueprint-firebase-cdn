@@ -17,10 +17,10 @@
   "descriptionMarkdown": "First attempt at an Train Block and Intersection.",
   "fileName": "trainblock2342.jpg",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "vADKSTvHMfNa7MYCj8z2DSS620Z2"
   }

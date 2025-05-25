@@ -26,13 +26,13 @@
   },
   "lastUpdatedDate": 1532389170534,
   "numberOfFavorites": 32,
-  "tags": {
-    "1": "/train/unloading station/",
-    "2": "/train/junction/",
-    "3": "/train/crossing/",
-    "4": "/train/pax/",
-    "5": "/train/right-hand-drive/",
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/pax/",
+    "/train/right-hand-drive/",
+    "/train/loading station/"
+  ],
   "title": "Railroads paths & stations"
 }

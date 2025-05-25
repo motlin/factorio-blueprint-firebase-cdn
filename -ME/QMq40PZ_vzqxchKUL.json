@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1626104357708,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Superblock Book"
 }

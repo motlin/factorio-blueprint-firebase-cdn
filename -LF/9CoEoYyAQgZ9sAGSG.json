@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "xXfAgc9QBxOqQyJbumpop5UVpA23": true,
     "QQdQnC4Lo8XoQI8SKzqbUjVdvYP2": true

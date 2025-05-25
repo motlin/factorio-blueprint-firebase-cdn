@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1631922876272,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Red Science from Raw 1k+/m",
   "favorites": {
     "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,

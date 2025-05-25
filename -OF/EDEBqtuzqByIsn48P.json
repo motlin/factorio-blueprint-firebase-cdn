@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9uQZt7M",
   "lastUpdatedDate": 1735422178165,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Secure Radar",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

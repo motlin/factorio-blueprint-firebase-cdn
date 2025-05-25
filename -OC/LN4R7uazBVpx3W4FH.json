@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/aGLxB5f",
   "lastUpdatedDate": 1732320974767,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/track/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Blame the sun's loop stations for Elderaxe's lines, updated for 2.0",
   "favorites": {
     "RMpS8VqCO3QCPWkDFzQSFflLOy63": true,

@@ -30,13 +30,13 @@
   },
   "lastUpdatedDate": 1609144301267,
   "numberOfFavorites": 13,
-  "tags": {
-    "2": "/production/rocket parts/",
-    "3": "/production/research (labs)/",
-    "4": "/general/compact/",
-    "5": "/general/tileable/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "Compact tileable 8 beacon based all science"
 }

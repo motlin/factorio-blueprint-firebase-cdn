@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/189IsmJ",
   "lastUpdatedDate": 1730356174144,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Orbit Calcite Maker",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

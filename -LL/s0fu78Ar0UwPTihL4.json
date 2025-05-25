@@ -25,13 +25,13 @@
   },
   "lastUpdatedDate": 1565386503139,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/production/batteries/",
-    "4": "/production/plastic/",
-    "5": "/general/early game/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/batteries/",
+    "/production/plastic/",
+    "/general/early game/"
+  ],
   "title": "Oil Production"
 }

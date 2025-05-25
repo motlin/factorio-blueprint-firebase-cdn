@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1660329507098,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/mall (make everything)/",
+    "/version/1,0/"
+  ],
   "title": "Space Exploration Nauvis Mall"
 }

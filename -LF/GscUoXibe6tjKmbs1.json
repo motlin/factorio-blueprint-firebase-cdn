@@ -9,10 +9,10 @@
     "width": 641
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "author": {
     "userId": "efeJxMYTdZRNrpkQAu83Fsfhgdg2"
   },

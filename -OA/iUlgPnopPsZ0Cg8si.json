@@ -39,9 +39,9 @@
   "imageUrl": "https://imgur.com/9LSV4WO",
   "lastUpdatedDate": 1746298875626,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanos Main Bus "
 }

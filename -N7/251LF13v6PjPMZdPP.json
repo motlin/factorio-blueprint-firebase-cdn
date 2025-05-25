@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1657909290528,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Simple Electrical Engines",
   "favorites": {
     "YY7MjrW8UKewDHdc9kQ1McG9dq23": true,

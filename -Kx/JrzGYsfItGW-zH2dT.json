@@ -4,11 +4,11 @@
   "createdDate": 1508957484202,
   "descriptionMarkdown": "480MW Chainable \n\ndesign from Zisteau\n\n[Factorio Recursion #12 - Nuclear Power](https://www.youtube.com/watch?v=_DNmCn0pPSI&index=12&list=PLVPJ1jbg0CaFcabUTWbxjYppVK9c4FA8a)\n\n[Zisteau's Recursion playlist](https://www.youtube.com/watch?v=b3aIdtubM5I&list=PLVPJ1jbg0CaFcabUTWbxjYppVK9c4FA8a)\n\n",
   "fileName": "23f758eb42a5343294c0ba69079cee80.jpg",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/",
-    "2": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,15/",
+    "/mods/factorissimo/"
+  ],
   "author": {
     "userId": "SfUgfRru9GcaS0fr51JXKh19KJm1"
   },

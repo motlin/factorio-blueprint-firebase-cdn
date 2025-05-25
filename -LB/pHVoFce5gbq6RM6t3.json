@@ -20,12 +20,12 @@
     "width": 1920
   },
   "lastUpdatedDate": 1525607435835,
-  "tags": {
-    "3": "/version/0,15/",
-    "4": "/general/tileable/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/tileable/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Infinetely expandable nuclear reactor (belts and bots) (blueprint book)"
 }

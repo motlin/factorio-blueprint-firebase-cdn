@@ -1,10 +1,10 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/128b.png?alt=media&token=fe1b09ec-51fa-4e1d-ba4d-e3635f2a4b6a",
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/smelting/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/version/0,15/"
+  ],
   "title": "8x16 Electric Furnace setup",
   "descriptionMarkdown": "128 Electric Furnace setup",
   "fileName": "128b.png",

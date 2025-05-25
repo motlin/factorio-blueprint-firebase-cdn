@@ -20,8 +20,8 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1520866451024,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/modules/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/modules/"
+  ]
 }

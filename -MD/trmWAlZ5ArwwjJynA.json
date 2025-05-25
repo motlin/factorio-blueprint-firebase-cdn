@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1625542721692,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/"
+  ],
   "title": "Half belt bidirectional lane output tee"
 }

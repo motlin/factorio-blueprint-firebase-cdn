@@ -30,13 +30,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/final-simple-factory.png?alt=media&token=0595c749-b928-4706-8a81-9da9561d9c49",
   "lastUpdatedDate": 1560624786004,
   "numberOfFavorites": 12,
-  "tags": {
-    "2": "/production/advanced circuit (red)/",
-    "3": "/production/processing unit (blue)/",
-    "4": "/mods/vanilla/",
-    "5": "/general/compact/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/production/electronic circuit (green)/",
+    "/version/0,17/"
+  ],
   "title": "Expandable Circuits"
 }

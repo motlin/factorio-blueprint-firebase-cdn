@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1667832905762,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Plastic production",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

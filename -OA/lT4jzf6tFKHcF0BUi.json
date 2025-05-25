@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/R7Ns1of",
   "lastUpdatedDate": 1730628245531,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Minimal Spaceship Blueprint for Factorio",
   "favorites": {
     "6IO2a2CMpiYx8yoiBETOKJDmoou1": true,

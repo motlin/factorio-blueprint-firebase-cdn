@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623452952770,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear x8 Power",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FactorioNuclearX8v3.png?alt=media&token=51d426ae-0caf-4987-b441-f446a06e33e1",
   "favorites": {

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/o2PaiCa",
   "lastUpdatedDate": 1730738542777,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Spaceship with nuclear reactor and asteroid sorter",
   "favorites": {
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,

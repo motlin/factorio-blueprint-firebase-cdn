@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1687999060470,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/version/1,1/",
-    "4": "/general/tileable/",
-    "5": "/production/belt based/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/general/tileable/",
+    "/production/belt based/"
+  ],
   "title": "Engines + Electric, 2700 spm",
   "favorites": {
     "ywlOvhX2mZS8RgA8Ly0UN2c99tu2": true,

@@ -16,9 +16,9 @@
   "descriptionMarkdown": "# Priority Queue Circuit Logistics\n\n### WIP\n\n* Total amount of requested items is broadcasted along with the total number of requester (aka. length of queue) on the same (green) info bus .\n* Requesters remember the length of the queue at when they dispatch their own and activate accordingly.\n* Network should contain exactly one queue pop broadcaster.\n* Request should be set by the empty constant combinator.\n\nBlueprint is hooked to an example inserter an a chest, but these may be modified (see screenshot).\n\n### TODO\n* Mixed item requests (will need separate request and queue info-bus)\n* Provider (dispatcher)\n* Mulltibelt routing",
   "title": "Priority Queue Circuit Logistics",
   "fileName": "PQCL.png",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/counter/",
-    "2": "/version/0,16/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/counter/",
+    "/version/0,16/"
+  ]
 }

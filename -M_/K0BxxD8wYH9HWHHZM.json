@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1620629049333,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/mods/vanilla/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/train/junction/"
+  ],
   "title": "2 way junction",
   "favorites": {
     "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true

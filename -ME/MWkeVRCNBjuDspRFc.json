@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1597048818773,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/production/processing unit (blue)/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Zisteau's Bootstrap Blueprint Book for Factorio 0.17"
 }

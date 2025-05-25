@@ -20,11 +20,11 @@
   "descriptionMarkdown": "- Simple compression tester for belts.\n- Can detect any gaps in the belts, even the smaller ones.\n- Green light = compressed belt. Red light = uncompressed belt.\n- Curved sensors are more accurate than linear or single ones (they don't detect small gaps).\n- Useful for blueprint designers.",
   "fileName": "tester.jpg",
   "lastUpdatedDate": 1530664537525,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/counter/",
-    "2": "/mods/creative/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/counter/",
+    "/mods/creative/"
+  ],
   "author": {
     "userId": "OcBvLHMi5QRbuSul7nFtRgG5uZG2"
   },

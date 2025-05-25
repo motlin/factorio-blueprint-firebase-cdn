@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Dqn7gJL",
   "lastUpdatedDate": 1733831621962,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "Turbo Belt Recycler",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

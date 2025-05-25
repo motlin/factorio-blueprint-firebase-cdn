@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/hw3J4GX",
   "lastUpdatedDate": 1732140063915,
   "numberOfFavorites": 30,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/belts/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/belts/"
+  ],
   "title": "Vulcanus green belts after fulgora, no mods, game version 2.0+",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

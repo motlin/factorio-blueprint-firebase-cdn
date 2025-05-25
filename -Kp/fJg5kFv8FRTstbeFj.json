@@ -23,10 +23,10 @@
     "mcKd0jsJX9aXr2ANnKM0fzBiO7K2": true
   },
   "authorId": "ZLUm7wbZcrXi3TE1hTm2s8ULPrS2",
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "title": "zisteau's 30x30 steam engine Factorissimo fixed /real"
 }

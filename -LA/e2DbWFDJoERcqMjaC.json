@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/modules/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/modules/",
+    "/mods/vanilla/"
+  ],
   "title": "Tillable Modules ",
   "favorites": {
     "lb6xH49FVKRr23RyHv2NjhValGz2": true,

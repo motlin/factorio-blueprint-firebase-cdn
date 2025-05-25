@@ -9,10 +9,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "Fo8utTuCcsZDmpW4aVXioMI7Ndi2"
   },

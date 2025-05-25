@@ -9,12 +9,12 @@
   },
   "lastUpdatedDate": 1692423057852,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/production/belt based/",
-    "3": "/production/belts/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/production/belts/"
+  ],
   "favorites": {
     "CL9H3AtAEAfAongJ8uPTl7RdcE22": true,
     "PsVhLfYAodgYnfqxLSli6fWGOiL2": true,

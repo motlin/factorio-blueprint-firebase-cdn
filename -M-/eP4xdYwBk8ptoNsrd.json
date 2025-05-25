@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1581259450002,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/rocket parts/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/rocket parts/",
+    "/version/0,17/"
+  ],
   "title": "Rocket Fuel - 3K per Minute"
 }

@@ -16,10 +16,10 @@
     "width": 1478
   },
   "lastUpdatedDate": 1597276672337,
-  "tags": {
-    "1": "/general/beaconized/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/modules/"
+  ],
   "author": {
     "userId": "WwRcUgQ7XpXDlKhcHnNh3acCXXS2"
   },

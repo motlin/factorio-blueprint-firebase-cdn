@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1706438062018,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "Kovare Enrichment",
   "favorites": {
     "YNeXjXDB8LNm7iyvBWTzJUuwJkC2": true

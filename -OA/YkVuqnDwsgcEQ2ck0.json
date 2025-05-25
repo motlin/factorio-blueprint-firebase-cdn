@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/RAdwa7b",
   "lastUpdatedDate": 1730504945943,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/planets/vulcanus/"
+  ],
   "title": "Coal Liquefaction on Vulcanus",
   "favorites": {
     "1U0ejDKherbUshYjmrDIHoIcYJQ2": true,

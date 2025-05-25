@@ -28,11 +28,11 @@
   "lastUpdatedDate": 1574201541446,
   "descriptionMarkdown": "Takes in crude oil, water, iron plates, copper plates and coal to make a lot of beautiful stuff:\n- Accumulators\n- Flying robot frames\n- Mines\n- Flamethrower ammunition\n- Sulfur\n- Solid fuel\n- And of course petroleum, light oil, heavy oil and lubricant which can be tapped manually\n\nIncludes automatic oil product balancing so don't worry about the byproducts.\n\nI warmly welcome any suggestions :)",
   "fileName": "screenshot-tick-560666.jpg",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/robots/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/robots/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "GtXbknqsrTXyzoaVmVuR9og8But1"
   },

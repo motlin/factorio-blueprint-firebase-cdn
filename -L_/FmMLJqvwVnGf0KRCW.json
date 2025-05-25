@@ -121,17 +121,17 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FactorioP_SEn.png?alt=media&token=9c1c688a-d590-423e-afaf-b31183f08ad3",
   "lastUpdatedDate": 1667836070388,
   "numberOfFavorites": 99,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/",
-    "4": "/general/tileable/",
-    "5": "/belt/express transport belt (blue)/",
-    "6": "/general/mid game/",
-    "7": "/general/late game (megabase)/",
-    "8": "/production/belt based/",
-    "9": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/belt/express transport belt (blue)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/production/belt based/",
+    "/version/1,0/"
+  ],
   "title": "NRC's Smelting / End [Ver 1.1.30]"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1660912697743,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Research without complex components",
   "favorites": {
     "qQGX94z8OOdQasnuvY3XpLBZ0p12": true,

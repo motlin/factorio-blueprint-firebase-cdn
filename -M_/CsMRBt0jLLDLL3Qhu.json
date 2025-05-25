@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1620895307709,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/1,0/",
-    "3": "/train/crossing/",
-    "4": "/train/stacker/",
-    "5": "/train/junction/",
-    "6": "/train/roundabout/",
-    "7": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/version/1,0/",
+    "/train/crossing/",
+    "/train/stacker/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "N8's Flexible Rails ",
   "favorites": {
     "bvae8ftzhMZdyv93QJjJihlOVI83": true,

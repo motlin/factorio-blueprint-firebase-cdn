@@ -12,11 +12,11 @@
   "title": "Green Circuits - 4 Belts",
   "authorId": "V9Tj5X5ApvRAldjQLdQbp5um8EF3",
   "createdDate": 1576529043844,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "OmBYnJFwxNXvruzDDMnGzQBPSrt2": true,
     "V4Vrugi9H9bnC0Rv5YAmIAa4JHI3": true,

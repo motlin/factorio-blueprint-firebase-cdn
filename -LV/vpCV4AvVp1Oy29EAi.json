@@ -103,16 +103,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/overview%20reactor%20V2.0.PNG?alt=media&token=2f01ad5b-298e-4ffe-a3c5-d8586b1978fa",
   "lastUpdatedDate": 1621178876200,
   "numberOfFavorites": 78,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "7": "/version/0,16/",
-    "3": "/general/compact/",
-    "5": "/version/0,17/",
-    "6": "/version/0,18/",
-    "8": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/compact/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/"
+  ],
   "title": "The Reactor"
 }

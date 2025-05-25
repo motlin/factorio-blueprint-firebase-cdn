@@ -22,10 +22,10 @@
     "type": "image/jpeg",
     "width": 3808
   },
-  "tags": {
-    "2": "/production/other/",
-    "3": "/version/0,17/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  }
+  "tags": [
+    "/production/other/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ]
 }

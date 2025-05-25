@@ -3,11 +3,11 @@
   "fileName": "20180123004857_1.jpg",
   "lastUpdatedDate": 1516697453905,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "hGsXJwwH0hQynsPAv5kbhs3DNLI3"
   },

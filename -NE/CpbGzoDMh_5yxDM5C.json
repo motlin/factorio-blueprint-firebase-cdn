@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1665605727616,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para peças de foguete de carga"
 }

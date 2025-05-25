@@ -10,11 +10,11 @@
     "id": "JwcqhLL"
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "KbDC41JVHDgfZNrBfyrI7hGNhtG2"
   },

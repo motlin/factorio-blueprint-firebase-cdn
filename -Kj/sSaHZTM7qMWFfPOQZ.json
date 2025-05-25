@@ -25,10 +25,10 @@
   "createdDate": 1494522160444,
   "descriptionMarkdown": "max 92,8 MW - long term 40MW",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/r1.jpg?alt=media&token=1fc0b89f-af83-4e56-ae65-fb9ffa26e734",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Simple 1-Reactor layout with spike smoothing"
 }

@@ -12,12 +12,12 @@
     "width": 469
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Buffered Circuited 4 Reactor Nuclear Power - no need for Kovarex",
   "authorId": "aQ1RZYEtIdUHrrG2MG8EvXr9izD3",
   "createdDate": 1515099841533,

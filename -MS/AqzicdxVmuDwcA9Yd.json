@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1640876473559,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/creative/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/creative/",
+    "/version/1,0/"
+  ],
   "title": "Fish farm by trains",
   "favorites": {
     "ueNR3iTMlaYhMquZne8o8zweUDS2": true

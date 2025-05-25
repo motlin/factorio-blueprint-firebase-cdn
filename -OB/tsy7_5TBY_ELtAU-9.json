@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/lEb16GR",
   "lastUpdatedDate": 1731869861793,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/other/",
-    "2": "/production/smelting/",
-    "3": "/power/accumulator/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/other/",
+    "/production/smelting/",
+    "/power/accumulator/"
+  ],
   "title": "Explosive Rocket Space Platform",
   "favorites": {
     "6ILdZP4NUadq2TVRtQFnHyFCFuq1": true,

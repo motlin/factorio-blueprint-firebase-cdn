@@ -3,12 +3,12 @@
   "createdDate": 1503402780676,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202017-08-22%20at%2013.52.17.png?alt=media&token=0071d848-0992-4d6e-b7c4-9cf2facfe890",
   "numberOfFavorites": 18,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/train/roundabout/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/"
+  ],
   "title": "4-track train roundabout for narrow track configuration, complete with cross-over tracks, signals, lights and poles",
   "authorId": "zgQXuDcHxjNaMc38p1jChzNk5vt2",
   "descriptionMarkdown": "As there are two schools in 4-track configuration, a wide and narrow, the other roundabouts that I like are all in the wide configuration and I think trains are super useful but should not take up more space than needed.\nThis roundabout is in the narrow config and as compact as possible while still keeping the possibility to feature lights and poles.",

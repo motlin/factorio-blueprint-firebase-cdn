@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/H2aqew3",
   "lastUpdatedDate": 1733682891522,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de irite 2.0  (Exotics + S.E.)"
 }

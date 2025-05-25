@@ -4,16 +4,16 @@
   "descriptionMarkdown": "This blueprint need these mods for work:<br>\n-Crafting Combinator<br>\n-Blueprint request chest revamp<br>\n\nDid you ever felt tired of selecting in the request chest all the items you need for a blueprint?<br>\nIf yes, this blueprint if for you! It will remove this terrible thing forever!<br>\n\nHOW IT WORKS:<br>\nThe first one will get you THE STRUCTURES of the blueprint<br>\nThe second one will get you THE INGREDIENTS of the blueprint or from assembler recipe<br>\nCheck blueprints descriptions for more info!.<br>\n\nIf you want to add more blocks in the print, just use the block provvided.<br>\nSTEPS:<br>\n1) Ask the item in the logistic network from the request chest.\n2) Put the object icon in the inserter/combinator's empty space\n3) Connect the green wire to the main block",
   "fileName": "Block.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "7": "/production/robots/",
-    "0": "/general/storage/",
-    "1": "/general/compact/",
-    "2": "/circuit/indicator/",
-    "3": "/mods/other/",
-    "4": "/general/mid game/",
-    "5": "/production/mall (make everything)/",
-    "6": "/version/1,0/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/storage/",
+    "/general/compact/",
+    "/circuit/indicator/",
+    "/mods/other/",
+    "/general/mid game/",
+    "/production/mall (make everything)/",
+    "/version/1,0/"
+  ],
   "title": "Blueprint items/structure getter",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

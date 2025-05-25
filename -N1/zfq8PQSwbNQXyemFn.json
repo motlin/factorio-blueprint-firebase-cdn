@@ -24,11 +24,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/280710359_10159445524333591_4642808702455224237_n.jpg?alt=media&token=aa345b89-4cab-464b-b3ed-4e071381cc4c",
   "lastUpdatedDate": 1652572493735,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/other/",
-    "2": "/general/late game (megabase)/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/other/",
+    "/general/late game (megabase)/",
+    "/version/0,15/"
+  ],
   "title": "square megabase"
 }

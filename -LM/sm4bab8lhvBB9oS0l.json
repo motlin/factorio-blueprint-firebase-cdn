@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1537477204822,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/power/steam/",
-    "2": "/mods/bobs/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/power/steam/",
+    "/mods/bobs/",
+    "/version/0,16/"
+  ],
   "title": "Factorissimo - Factory Power"
 }

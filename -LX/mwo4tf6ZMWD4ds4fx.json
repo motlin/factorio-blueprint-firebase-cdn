@@ -16,10 +16,10 @@
   "createdDate": 1549190514042,
   "descriptionMarkdown": "This is an Updated AAI Book based off the Nilaus Tutorials on youtube\nUpdated to work with Factorio version 0.16.x\nThis Book Consists of \nThe Simple Zone Cleaner\nEnemy Search and Destroy\nAutomatic Zone Planner\nMiner Assignment\nIterator For Timing to send subsequent commands to a type of unit\nHauler to Miner to Depot \nVehicle Counting for Use with Iterator\nYou will need to connect the circuit wires between the devices for it to work.",
   "fileName": "NEWAAIBOOK.png",
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
     "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true,

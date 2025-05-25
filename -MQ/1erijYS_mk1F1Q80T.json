@@ -7,14 +7,14 @@
     "type": "image/png",
     "width": 576
   },
-  "tags": {
-    "3": "/production/other/",
-    "4": "/production/logistic (bot) based/",
-    "5": "/production/mall (make everything)/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/modules/",
-    "2": "/production/robots/"
-  },
+  "tags": [
+    "/production/other/",
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/",
+    "/production/electronic circuit (green)/",
+    "/production/modules/",
+    "/production/robots/"
+  ],
   "title": "Simple automated factories",
   "favorites": {
     "U0NFmaqArPOQhLkAYBsDAiaiLn92": true,

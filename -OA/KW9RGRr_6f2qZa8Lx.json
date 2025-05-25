@@ -30,9 +30,9 @@
   "imageUrl": "https://imgur.com/gOvmCwu",
   "lastUpdatedDate": 1730505348321,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "2.0 Reactors 440MW, 1.1GW, tilable reactors."
 }

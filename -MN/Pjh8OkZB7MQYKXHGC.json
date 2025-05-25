@@ -12,9 +12,9 @@
     "width": 1269
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Bigger Messy Nuclear",
   "favorites": {
     "f0kFXGkCPbh38qiIc8E9ZUQ1iNb2": true

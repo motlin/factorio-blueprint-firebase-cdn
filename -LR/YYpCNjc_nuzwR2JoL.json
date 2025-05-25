@@ -25,9 +25,9 @@
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"
   },
   "authorId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2",
-  "tags": {
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "0": "/power/kovarex enrichment/"
-  }
+  "tags": [
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/power/kovarex enrichment/"
+  ]
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/P4hCk0o",
   "lastUpdatedDate": 1733340560719,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Biolab. Maximum performance.",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

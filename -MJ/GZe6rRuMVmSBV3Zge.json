@@ -9,12 +9,12 @@
     "height": 348,
     "id": "xRQGHR9"
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Beaconized Production Science 900/minute",
   "author": {
     "userId": "7g1BNwvCAAS80J9oAiViuLFCA9O2"

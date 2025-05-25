@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/i5W7CYq",
   "lastUpdatedDate": 1733439639110,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-age/",
-    "2": "/general/early game/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-age/",
+    "/general/early game/",
+    "/planets/space-platform/"
+  ],
   "title": "Nuclear ship all control(arctype)",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

@@ -23,8 +23,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/SolarCityBlock_v1.0.png?alt=media&token=bc74b33c-e65b-405d-b534-64f7de588f80",
   "lastUpdatedDate": 1588461640355,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar Block v1.0"
 }

@@ -11,10 +11,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "VsqE9yREfAetCTQKB7VFzOZahdm1": true,
     "bLSNBxaDOhgPGALrThBBVL7PoVK2": true,

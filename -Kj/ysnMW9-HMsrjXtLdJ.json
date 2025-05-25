@@ -14,11 +14,11 @@
   "descriptionMarkdown": "8 Lane T-Junction",
   "fileName": "8 Lane T-Junction.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/8%20Lane%20T-Junction.jpg?alt=media&token=a058ef17-224b-4bb6-a6bb-a50478f3ecbb",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "6noKNQ2EWgV6ewWpYPHCs2ELPwR2"
   }

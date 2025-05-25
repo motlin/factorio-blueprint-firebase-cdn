@@ -13,12 +13,12 @@
   "descriptionMarkdown": "Red and green science packs, 1 per second. Needs medium electric poles. Probably good for early game. Use second empty vertical between labs for additional belt with other science packs later.",
   "lastUpdatedDate": 1512269935446,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "BebIKk1tzBXKJXbyzIsE4SuO5rn2"
   },

@@ -20,8 +20,8 @@
   "descriptionMarkdown": "It controls the amount of robots in a logistic network.\nHas two functions - one for adding more robots if there aren't enough, and the other one for removing them when there's too much.\nThe first function will work anywhere, but the second function won't work if robots don't frequent the roboport. It only needs one logistics robot and a provider chest with robots to get started, but it might take a few minutes if the amount is high and the robot speed is low.\nReddit post: https://www.reddit.com/r/factorio/comments/a02lnj/logistics_network_robot_amount_controller/",
   "lastUpdatedDate": 1543099908754,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ]
 }

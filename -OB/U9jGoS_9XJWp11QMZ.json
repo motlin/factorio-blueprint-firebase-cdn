@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Eo2OKCz",
   "lastUpdatedDate": 1731479488126,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/mods/quality/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/mods/quality/",
+    "/general/tileable/"
+  ],
   "title": "Quality upgrader, 3 inputs, uncommon and rare",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1638163883523,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/robots/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "title": "Auto-Fill Roboports",
   "favorites": {
     "8eoRZwmQe2WimzuzqrFW4ASqD4i1": true

@@ -22,13 +22,13 @@
   },
   "lastUpdatedDate": 1517016681627,
   "numberOfFavorites": 18,
-  "tags": {
-    "3": "/production/uranium/",
-    "4": "/general/beaconized/",
-    "5": "/mods/other/",
-    "0": "/power/nuclear/",
-    "1": "/version/0,16/",
-    "2": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/power/nuclear/",
+    "/version/0,16/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "JonnyNof's Nuclear Reactor 8 City Block w/ centrifuges (960MW)"
 }

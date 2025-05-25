@@ -21,8 +21,8 @@
   "imageUrl": "https://imgur.com/0mTk8Cb",
   "lastUpdatedDate": 1739442607393,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Star Wars Imperial-II Star Destroyer"
 }

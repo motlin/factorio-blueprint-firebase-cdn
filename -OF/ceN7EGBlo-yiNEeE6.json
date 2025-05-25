@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/pApq7AL",
   "lastUpdatedDate": 1736089610387,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/planets/fulgora/",
-    "2": "/planets/vulcanus/",
-    "3": "/planets/space-platform/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Bigger interplanet",
   "favorites": {
     "gstPZ1sMiiYE05SRRj4w51bjU8Q2": true,

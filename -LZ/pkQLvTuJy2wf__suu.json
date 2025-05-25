@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/production/electronic circuit (green)/"
+  ],
   "author": {
     "userId": "TcOADFEM1Tg3YfYVDKqWCkURMC03"
   },

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/qr3jz2t",
   "lastUpdatedDate": 1729549840634,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/version/2,0/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/version/2,0/",
+    "/train/left-hand-drive/"
+  ],
   "title": "LHD Pinavia Interchange",
   "favorites": {
     "dpWxPFWODjXOw1PiSrpxJC5HRdB3": true,

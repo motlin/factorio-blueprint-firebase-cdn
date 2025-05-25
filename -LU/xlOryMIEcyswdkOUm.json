@@ -10,10 +10,10 @@
     "width": 218
   },
   "lastUpdatedDate": 1575141875338,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Logistic fluid overflow system/storage",
   "author": {
     "userId": "CQoiUrFFURcCjmJMUIksYb05B7S2"

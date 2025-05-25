@@ -1,11 +1,11 @@
 {
   "authorId": "QTKFcql360NLYRuZrwEf1zhAuLk1",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,17/"
+  ],
   "title": "1 wood brick a second",
   "author": {
     "userId": "QTKFcql360NLYRuZrwEf1zhAuLk1"

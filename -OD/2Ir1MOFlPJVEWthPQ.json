@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dzGwlPb",
   "lastUpdatedDate": 1733074842127,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "9GW Fusion Reactor",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

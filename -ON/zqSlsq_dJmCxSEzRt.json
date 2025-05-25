@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Sz7ZvhT",
   "lastUpdatedDate": 1744827964742,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/mods/space-age/"
+  ],
   "title": "4x sushi belt item filter",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/r4hFtBU",
   "lastUpdatedDate": 1735642024696,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/space-age/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Nauvis science 3/sec (~180/min)",
   "favorites": {
     "8N4gXv7KWGM29n1nFeTivQv6EO32": true,

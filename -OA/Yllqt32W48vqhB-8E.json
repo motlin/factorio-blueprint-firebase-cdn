@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/c8T60Ht",
   "lastUpdatedDate": 1730398330442,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Water and steam production at Vulcanus",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

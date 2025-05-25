@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698555550869,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/1,1/"
+  ],
   "title": "Cargo Ships waterways and port",
   "favorites": {
     "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,

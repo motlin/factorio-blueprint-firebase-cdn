@@ -22,14 +22,14 @@
   },
   "lastUpdatedDate": 1676607614469,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/beaconized/",
-    "2": "/production/research (labs)/",
-    "3": "/production/science/",
-    "4": "/production/rocket parts/",
-    "5": "/mods/other/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/production/research (labs)/",
+    "/production/science/",
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Minipiman's 100spm Nuclear Paradise"
 }

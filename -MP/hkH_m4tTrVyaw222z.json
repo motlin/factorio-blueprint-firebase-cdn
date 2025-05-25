@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1638224068921,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/roundabout/",
-    "2": "/train/crossing/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/junction/",
-    "5": "/train/loading station/",
-    "6": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "CLEAN Railroad",
   "favorites": {
     "CqAPgYa7FgfC5s7PMS942Vq58nG3": true,

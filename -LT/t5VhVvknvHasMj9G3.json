@@ -23,12 +23,12 @@
   },
   "lastUpdatedDate": 1545071610350,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/production/mall (make everything)/"
+  ],
   "title": "modular station system [wip]"
 }

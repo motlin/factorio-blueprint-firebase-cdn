@@ -23,7 +23,7 @@
   "descriptionMarkdown": "Clears marked tiles when there are no resources or entities.\n\nUsed in conjunction with manual or automatic marking of ore patches and enemies.\nMarked tiles can be used to redirect vehicles. For both exist older blueprints.\n\nWarning: clears all marks where no entity or resource is present. Might be incompatible with some blueprints that use markings for other purposes.",
   "fileName": "CLEARER.png",
   "lastUpdatedDate": 1582314651759,
-  "tags": {
-    "0": "/mods/aai/"
-  }
+  "tags": [
+    "/mods/aai/"
+  ]
 }

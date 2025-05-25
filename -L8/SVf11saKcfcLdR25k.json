@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Engine-Unit - 1.5K/m",
   "author": {
     "userId": "0hl206XAZDYNRafblxoYAZbgj9W2"

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1679135263284,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Modular Number Display",
   "favorites": {
     "iK2kVinIQQP3vx2H1Q2yKX62JEB2": true

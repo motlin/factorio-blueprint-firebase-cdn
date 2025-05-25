@@ -27,12 +27,12 @@
     "width": 1314
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/",
-    "5": "/version/1,0/"
-  }
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/version/1,0/"
+  ]
 }

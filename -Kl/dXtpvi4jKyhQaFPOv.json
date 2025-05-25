@@ -12,12 +12,12 @@
   "fileName": "Скриншот 2017-06-02 23.03.05.png",
   "lastUpdatedDate": 1496440856026,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Two input uranium ore smelting ring",
   "author": {
     "userId": "z6GK3y1gIpgcjWgyTmNPvt9QjUn2"

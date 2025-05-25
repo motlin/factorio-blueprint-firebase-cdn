@@ -10,11 +10,11 @@
     "id": "q7KJ0pm",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Megaforge, 80 plates/sec on a pair of fully compressed blue belts",
   "createdDate": 1531032086336,
   "descriptionMarkdown": "Not much to describe, it transforms 80 ore/sec in to 80 plates/sec, uses about 36MW and needs roughly 153 electric drills to support it.",

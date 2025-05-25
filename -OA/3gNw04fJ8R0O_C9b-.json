@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/taliQOg",
   "lastUpdatedDate": 1729876823994,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/general/mid game/"
+  ],
   "title": "Early-mid game large hauler spaceship",
   "favorites": {
     "dTfWfYu1KIVCKEfNP4wuladcWB63": true,

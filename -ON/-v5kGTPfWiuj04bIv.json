@@ -27,11 +27,11 @@
   "imageUrl": "https://i.imgur.com/2O2CAGt.png",
   "lastUpdatedDate": 1743773726994,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/science/",
-    "2": "/belt/balancer/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/",
+    "/belt/balancer/",
+    "/mods/space-age/"
+  ],
   "title": "ALL THE SCIENCE"
 }

@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "1": "/production/smelting/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/factorissimo/"
+  ],
   "author": {
     "userId": "icSxQUsmgCPH3QE8J85mDjoO0VM2"
   },

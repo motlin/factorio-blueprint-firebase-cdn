@@ -32,16 +32,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/depot%20giga.png?alt=media&token=262ad2e6-c533-463c-9b39-51bd521a3137",
   "lastUpdatedDate": 1601115536989,
   "numberOfFavorites": 12,
-  "tags": {
-    "5": "/train/unloading station/",
-    "6": "/train/junction/",
-    "7": "/mods/other/",
-    "0": "/train/pax/",
-    "2": "/train/crossing/",
-    "4": "/train/roundabout/",
-    "1": "/train/stacker/",
-    "3": "/train/track/",
-    "8": "/mods/krastorio/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/junction/",
+    "/mods/other/",
+    "/train/pax/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/stacker/",
+    "/train/track/",
+    "/mods/krastorio/"
+  ],
   "title": "GigaDepot 32er/Autofuel/TrainGrid By Thego90"
 }

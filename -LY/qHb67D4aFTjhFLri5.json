@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/train/stacker/"
-  },
+  "tags": [
+    "/train/stacker/"
+  ],
   "author": {
     "userId": "Z3qybNPlMxbInTlbm8TQ3OsXutf1"
   },

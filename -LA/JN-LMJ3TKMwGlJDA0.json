@@ -13,10 +13,10 @@
     "type": "image/png",
     "width": 814
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "nKkNUKVnT3RFUeKSs9Qh5ujFyX92"
   },

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/fKk9s9l",
   "lastUpdatedDate": 1740052044805,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Battlecruiser",
   "favorites": {
     "6rBEfpVKWyTnxJ56kRJ5gNtlgxk2": true,

@@ -16,10 +16,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/64%20Lanes%20of%20Copper%2C%2064%20Lanes%20of%20Iron.jpg?alt=media&token=bebc1753-6146-4aab-94f6-fb3c1c98561a",
   "lastUpdatedDate": 1520701002534,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "64 Lanes of Copper, 64 Lanes of Iron"
 }

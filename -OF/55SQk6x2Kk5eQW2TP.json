@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/43YkYYi",
   "lastUpdatedDate": 1735269144342,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "10-step gauge",
   "favorites": {
     "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,

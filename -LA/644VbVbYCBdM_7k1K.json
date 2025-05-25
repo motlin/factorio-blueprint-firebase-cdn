@@ -27,12 +27,12 @@
   "createdDate": 1552749451628,
   "lastUpdatedDate": 1553418733213,
   "numberOfFavorites": 9,
-  "tags": {
-    "4": "/power/steam/",
-    "5": "/power/accumulator/",
-    "0": "/version/0,17/",
-    "1": "/mods/bobs/",
-    "2": "/power/nuclear/",
-    "3": "/power/solar/"
-  }
+  "tags": [
+    "/power/steam/",
+    "/power/accumulator/",
+    "/version/0,17/",
+    "/mods/bobs/",
+    "/power/nuclear/",
+    "/power/solar/"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/solar/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/solar/",
+    "/power/steam/"
+  ],
   "favorites": {
     "hQouHB4fCjZGA3npyyiW6MdGmfq2": true,
     "7UQDTpiF2Wd9JSV12aVGDNiCC5m1": true,

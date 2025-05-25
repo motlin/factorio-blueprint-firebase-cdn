@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1642446940428,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Centrale Nucléaire X8",
   "favorites": {
     "SkyOTgyK5cbV96j0OlArnODVCJD2": true

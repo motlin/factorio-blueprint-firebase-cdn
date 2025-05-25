@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/HgErIXI",
   "lastUpdatedDate": 1732751777272,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Automatically filtered collector",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

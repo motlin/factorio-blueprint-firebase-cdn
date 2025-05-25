@@ -16,12 +16,12 @@
     "width": 327
   },
   "numberOfFavorites": 31,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/oil processing/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "lh9Sb6mMHBOem0bKqprUB71aBjD2": true,
     "eKOE0LJ3C8WE1fZWcG5vXFavvYj2": true,

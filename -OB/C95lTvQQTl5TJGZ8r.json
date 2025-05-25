@@ -13,16 +13,16 @@
   "imageUrl": "https://imgur.com/PRgf8Bj",
   "lastUpdatedDate": 1731093254440,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/mid game/",
-    "5": "/mods/space-age/",
-    "6": "/version/2,0/",
-    "7": "/production/belts/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/general/mid game/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/production/belts/"
+  ],
   "title": "Turbo belts production (Green)",
   "favorites": {
     "oIxcWQU47SVcWGeEuzh8PUjuEki2": true,

@@ -29,13 +29,13 @@
   },
   "lastUpdatedDate": 1663525429903,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/production/mall (make everything)/",
-    "3": "/production/science/",
-    "4": "/production/research (labs)/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/compact/"
+  ],
   "title": "Compact Jumpstart Base"
 }

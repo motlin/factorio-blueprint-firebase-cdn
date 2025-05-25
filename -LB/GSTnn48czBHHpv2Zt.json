@@ -22,10 +22,10 @@
     "type": "image/png"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/belt/balancer/"
-  }
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/balancer/"
+  ]
 }

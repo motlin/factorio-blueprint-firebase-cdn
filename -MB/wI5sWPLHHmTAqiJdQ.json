@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623435538009,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/general/mid game/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/general/mid game/",
+    "/general/tileable/"
+  ],
   "title": "refined concrete (tileable)",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

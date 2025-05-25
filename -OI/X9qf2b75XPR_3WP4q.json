@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/s0Yp6Hz",
   "lastUpdatedDate": 1738961284033,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/general/tileable/"
+  ],
   "title": "Defence Walls, Tileable, Upgradable"
 }

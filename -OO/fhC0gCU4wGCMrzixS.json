@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/EvydoDR",
   "lastUpdatedDate": 1745599467135,
   "numberOfFavorites": -1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Legendary Line Spaceship - Inner Planets Only",
   "favorites": {
     "wdSusraLSWMRsvXCgJejDgzsvA93": true

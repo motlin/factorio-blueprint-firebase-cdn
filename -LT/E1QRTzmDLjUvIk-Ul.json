@@ -24,12 +24,12 @@
   },
   "descriptionMarkdown": "**Kovarex enrichment process blueprint**\n\n• Belt based\n\n• Tileable\n\n• Beaconized\n\n**Advantages over similar blueprints:**\n\n• Automatic start: don't need manual feeding with U235\n\n• No waste: each centrifugue will pick only 80 U235 instead of 120. If you want, you can change the parameter in the decider combinator from 80 to 40, if you don't care about 2,5 s of idle time between each cycle\n\n• Sequential: the next centrifugue will start working only after the previous one has at least 40 U235. This improves efficiency\n\n• Centrifugues will automatically stop working if U235 net output is clogged\n\n**Requirements:**\n\n• Stack inserter capacity must be at least 10, otherwise the system won't work\n\n\n**Tutorial**\n\n• Build the blueprint and connect the input belts to U235 and U238 sources (see image for more info). Attention: U238 must use only bottom lane.\n\n• Wait\n\n• ???\n\n• Profit\n\n**Other info**\n\n• Each beaconized centrifugue produces about 4,6 U235/min",
   "fileName": "Kovarex-belt-based.png",
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/production/belt based/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/belt based/",
+    "/power/kovarex enrichment/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Kovarex - Belt Based / Tileable / Sequential"
 }

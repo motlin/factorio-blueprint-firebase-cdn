@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1617743725978,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/version/1,0/"
+  ],
   "title": "Green circuits, 45/s (full blue belt), no beacons",
   "favorites": {
     "edD3c21p5USPtTIgIdqW659UNPs1": true,

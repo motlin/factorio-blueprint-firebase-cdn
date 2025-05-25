@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1628896629493,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Kovarex Loop",
   "favorites": {
     "jUpWwmrWkmbaVl9qXGW0Kf5Qfs92": true,

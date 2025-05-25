@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/LkHYLJi.jpeg",
   "lastUpdatedDate": 1741470974834,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/scrap processing/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/scrap processing/",
+    "/production/logistic (bot) based/",
+    "/production/belt based/"
+  ],
   "title": "Quality Scrap Processing",
   "favorites": {
     "8awE4zsqLiXHS5oGy4qZqFX4C7u1": true,

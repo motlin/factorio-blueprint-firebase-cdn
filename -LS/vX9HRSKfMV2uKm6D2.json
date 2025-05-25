@@ -43,9 +43,9 @@
   },
   "lastUpdatedDate": 1543965812565,
   "numberOfFavorites": 32,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,16/"
+  ],
   "title": "NX_FACTORISSIMO"
 }

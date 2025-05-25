@@ -3,9 +3,9 @@
   "descriptionMarkdown": "Entrada:\n3 Cintas de Cable de Cobre, 1 Cinta de Placas de Hierro\n\nSalida:\n1 Cinta de Circuitos Verdes\n\nLas lamparas de entrada y salida se iluminan si las cintas no van saturadas.\nVanilla sin bonuses.",
   "lastUpdatedDate": 1568299799497,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "FABRICA - CIRCUITO VERDE",
   "author": {
     "userId": "hceS52Pa1DaVzpJ6fLJuCDQlEAF2"

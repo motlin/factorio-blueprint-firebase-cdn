@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/FxjmTVO.png",
   "lastUpdatedDate": 1739733036270,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Video - Explaining My Outpost Supply Train",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true

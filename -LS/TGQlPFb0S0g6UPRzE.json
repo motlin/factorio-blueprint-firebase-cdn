@@ -4,14 +4,14 @@
   "descriptionMarkdown": "Rotational symetric, with a few to many turbines to handle power spikes. Connect 5 pumps to any of the 8 water pipes. Does not use bots. With OCD power poles",
   "lastUpdatedDate": 1572466519597,
   "numberOfFavorites": 10,
-  "tags": {
-    "3": "/general/mid game/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/general/compact/"
+  ],
   "title": "2x2 Nuclear setup. Extremely compact (46*46, 44*44 without poles)",
   "author": {
     "userId": "XgdJ70ZuumajYPnaVvgVdm4YYeE2"

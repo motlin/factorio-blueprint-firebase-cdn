@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/w8lC7g6",
   "lastUpdatedDate": 1730775429197,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/"
+  ],
   "title": "Auto logic request for orbital drops",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

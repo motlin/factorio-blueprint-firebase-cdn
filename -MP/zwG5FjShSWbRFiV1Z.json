@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1609538016650,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/smelting/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Stevetrov's 500SPM cell"
 }

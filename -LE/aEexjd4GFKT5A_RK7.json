@@ -2,10 +2,10 @@
   "createdDate": 1557567287472,
   "fileName": "4 to 2.PNG",
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "lastUpdatedDate": 1557567287472,
   "title": "4 Lane to 2 Lane Train Tracks",
   "favorites": {

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1671359405145,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/train/pax/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/pax/"
+  ],
   "title": "Base and rail builder train"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1623248199509,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/"
+  ],
   "title": "1 to 1 lane balancer",
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true

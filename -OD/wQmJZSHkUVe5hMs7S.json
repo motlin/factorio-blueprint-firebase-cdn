@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/6G8FUnF",
   "lastUpdatedDate": 1735141762968,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "ares spaceship 1.0"
 }

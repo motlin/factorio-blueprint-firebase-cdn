@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Tie Fighter Solar Panel Farm (392 Solar Panels)",
   "createdDate": 1528610047292,
   "descriptionMarkdown": "392 Solar Panels\n330 Accumulators\nFull coverage with Roboports\n\nStolen From Coyote\nhttps://www.twitch.tv/theadventuresofcoyote",

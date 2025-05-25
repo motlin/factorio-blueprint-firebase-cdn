@@ -38,12 +38,12 @@
   "title": "☀️ MadZuri's Mk3 Solar Build",
   "descriptionMarkdown": "*Pretty* close to perfect ratios, tileable, 100% space efficient.\n\nYou can remove the roboports and replace them with accumulators to improve the ratio.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E2%98%80%EF%B8%8F%20MadZuris%20Mk3%20Solar%20Build.png?alt=media&token=464ee572-f04d-4f34-ba9f-6c421c6525a4",
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/power/solar/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/solar/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "H3QlaVpvadfVuTpGGxs7016oR2K3"
   },

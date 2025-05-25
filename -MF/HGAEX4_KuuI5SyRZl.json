@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "authorId": "LqGXd08shahJmg1FKBXX88kJ4Et2",
   "fileName": "blueprint-rocket-fuel-15-pm.jpg",
   "lastUpdatedDate": 1598034326542,

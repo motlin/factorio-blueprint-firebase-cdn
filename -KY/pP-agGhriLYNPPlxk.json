@@ -14,13 +14,13 @@
   },
   "lastUpdatedDate": 1498344424547,
   "numberOfFavorites": 25,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,14/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/power/solar/"
+  ],
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,
     "D3rJJEhuPpN96wN6paU9KPfHKz72": true,

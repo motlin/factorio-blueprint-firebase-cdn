@@ -36,16 +36,16 @@
   },
   "lastUpdatedDate": 1546555418585,
   "numberOfFavorites": 34,
-  "tags": {
-    "0": "/train/junction/",
-    "5": "/mods/vanilla/",
-    "6": "/train/left-hand-drive/",
-    "7": "/version/0,16/",
-    "8": "/version/0,15/",
-    "1": "/train/track/",
-    "2": "/train/crossing/",
-    "3": "/train/roundabout/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/train/left-hand-drive/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/train/track/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/"
+  ],
   "title": "L0laapk3's big rail book! v2.1"
 }

@@ -21,14 +21,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/steel%20t2t%20blueprintscreen-horz.jpg?alt=media&token=ae10cec7-78a0-40b6-b7d2-be36a6502902",
   "lastUpdatedDate": 1584658903484,
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/production/smelting/",
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/tileable/",
-    "6": "/train/track/",
-    "0": "/version/0,18/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/train/track/",
+    "/version/0,18/",
+    "/mods/vanilla/"
+  ],
   "title": "Steel - Train-to-Train - 676.8/m/lane"
 }

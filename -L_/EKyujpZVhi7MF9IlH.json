@@ -15,13 +15,13 @@
     "id": "NSKEkH7"
   },
   "lastUpdatedDate": 1551814356909,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/version/0,17/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,17/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Any Kind Of (Fuel) LTN Station",
   "favorites": {
     "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,

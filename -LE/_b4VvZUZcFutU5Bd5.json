@@ -15,9 +15,9 @@
     "id": "EdZGhyP",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/oil processing/"
+  ],
   "title": "Lubricant on rails"
 }

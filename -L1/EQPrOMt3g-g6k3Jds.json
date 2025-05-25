@@ -1,13 +1,13 @@
 {
   "descriptionMarkdown": "Edit: this setup is outdated. The new version [here](https://factorioprints.com/view/-L3Y9UjGfEoCD9XFfMT5) has less inserters and works even when all input copper is on the right lane.\n\nThis setup is bottlenecked by input: one blue belt lane of plastic and one of electronic circuits (1200 items per minute each). It also consumes about 857 copper plates per minute. Production speed is stable at 840 circuits per minute.\n\nThe left input belt should have plastic on one lane and electronic circuits on the other one. Ensure that these input lanes are properly compressed as in 0.16 simply sideloading into a belt may not fill the lane properly.\n\nThe right input belt is copper plates. It's okay to have them only on the left lane.\n",
   "fileName": "840_rcpm.png",
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/",
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/compact/",
+    "/production/advanced circuit (red)/"
+  ],
   "author": {
     "userId": "RvEbG5NvyCTU7i46jXYURkkYjh23"
   },

@@ -13,12 +13,12 @@
   },
   "lastUpdatedDate": 1515682574549,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/bobs/",
-    "2": "/general/early game/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/general/early game/",
+    "/production/belt based/"
+  ],
   "title": "Wood with bob's.. Woob's",
   "favorites": {
     "bzzly50eNscivwW2TTJaJm5zo393": true,

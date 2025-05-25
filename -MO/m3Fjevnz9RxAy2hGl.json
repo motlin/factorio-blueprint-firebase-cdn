@@ -9,10 +9,10 @@
   },
   "lastUpdatedDate": 1608231488547,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "military science",
   "author": {
     "userId": "ZAG54XhmpkWUqNZ916pRjx2oxlg2"

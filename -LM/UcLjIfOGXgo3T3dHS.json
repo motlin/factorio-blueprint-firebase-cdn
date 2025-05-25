@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1537055222812,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/version/0,16/"
+  ],
   "title": "LTN Stacker"
 }

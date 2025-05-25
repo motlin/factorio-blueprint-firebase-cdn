@@ -21,8 +21,8 @@
   },
   "lastUpdatedDate": 1551600953760,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  }
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ]
 }

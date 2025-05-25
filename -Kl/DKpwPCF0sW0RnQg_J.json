@@ -10,12 +10,12 @@
     "height": 868,
     "id": "vk0tHfi"
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Early game Red and Green Science",
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
   "createdDate": 1495962967990,

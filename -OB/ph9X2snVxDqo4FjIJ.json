@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/8ivxGyg",
   "lastUpdatedDate": 1731773289618,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/stacker/"
-  },
+  "tags": [
+    "/train/stacker/"
+  ],
   "title": "Compact Train Stacker",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

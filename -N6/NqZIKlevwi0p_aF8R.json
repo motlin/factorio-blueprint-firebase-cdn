@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1657200629795,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/version/1,0/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/version/1,0/",
+    "/mods/ltn/"
+  ],
   "title": "Krastorio2 CityBlock"
 }

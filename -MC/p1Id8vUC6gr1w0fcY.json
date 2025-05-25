@@ -15,8 +15,8 @@
     "type": "image/jpeg",
     "width": 303
   },
-  "tags": {
-    "0": "/general/mid game/"
-  },
+  "tags": [
+    "/general/mid game/"
+  ],
   "title": "Simple electric furnace array (uses alot of electricity) "
 }

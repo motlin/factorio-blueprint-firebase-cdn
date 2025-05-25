@@ -8,12 +8,12 @@
     "width": 534
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/production/science/",
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Hexagons: Automation Science Pack",
   "author": {
     "userId": "2F5FnghhGZcxYo8EtwWEtV73h0W2"

@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1689518848203,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/accumulator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/accumulator/",
+    "/mods/vanilla/"
+  ],
   "title": "Guy's Dashboard"
 }

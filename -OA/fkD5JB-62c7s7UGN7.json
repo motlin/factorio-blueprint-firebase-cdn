@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/P2Moi2Q",
   "lastUpdatedDate": 1730535032768,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/gleba/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/gleba/",
+    "/mods/space-age/"
+  ],
   "title": "Simple Agricultural Science",
   "favorites": {
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,

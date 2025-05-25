@@ -6,11 +6,11 @@
     "id": "Ihg9qqh"
   },
   "lastUpdatedDate": 1535692868278,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "1.1GW Low Cost Nuclear",
   "author": {
     "userId": "GibvLPKHWJgv7qH94b7BNoTztMX2"

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627227195404,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/"
+  ],
   "title": "LHD 3-8 4 lane mostly buffered T (darklich14)",
   "favorites": {
     "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,

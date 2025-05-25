@@ -16,17 +16,17 @@
   "authorId": "iHhtt0VjClOKL7oySaUPBKGsblU2",
   "descriptionMarkdown": "Blueprint book with several blueprints for tileable batteries\n- Early game battery production\n- Battery production with beacons/modules",
   "fileName": "TileableBatteries.png",
-  "tags": {
-    "2": "/mods/vanilla/",
-    "6": "/general/early game/",
-    "7": "/general/mid game/",
-    "8": "/general/late game (megabase)/",
-    "0": "/production/batteries/",
-    "3": "/version/0,18/",
-    "4": "/production/modules/",
-    "5": "/general/tileable/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/production/batteries/",
+    "/version/0,18/",
+    "/production/modules/",
+    "/general/tileable/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "yRRWYmFTu1RB25NWs12qdVhw9Gx1": true,
     "wI7gVxxVx3edBO26E28Ao4SN97u2": true,

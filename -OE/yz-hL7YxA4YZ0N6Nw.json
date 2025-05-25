@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/518jC0y",
   "lastUpdatedDate": 1735535483505,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "White Science starter",
   "favorites": {
     "DlTkNkgof8gc3T6u2i1vT0MSI5U2": true

@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/LcRuInX",
   "lastUpdatedDate": 1730054019661,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/tileable/",
-    "2": "/mods/bobs/",
-    "3": "/version/2,0/",
-    "4": "/mods/space-age/",
-    "5": "/mods/other/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/bobs/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/mods/other/"
+  ],
   "title": "20-Beacon Grid Foundry Tileable Modular 4-Belts 2-Fluid Input (MODDED) Space Age",
   "favorites": {
     "KJESiot3pef1H5sAXjPETzS3FSB3": true

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/eW9blz7",
   "lastUpdatedDate": 1742215246529,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "480MW 48x48 tile nuclear reactor",
   "favorites": {
     "yeqlRYcMVWccc6ZhlhC8mNvPCoE3": true,

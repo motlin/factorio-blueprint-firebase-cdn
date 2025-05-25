@@ -20,11 +20,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/TASMBreakdown.jpg?alt=media&token=59415f89-a737-4642-b9af-7e686c5816b4",
   "lastUpdatedDate": 1504616499919,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/mid game/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/mid game/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Theurgist's Advanced Status Monitor"
 }

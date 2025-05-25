@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/v2r2lS3",
   "lastUpdatedDate": 1732128346297,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-age/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-age/",
+    "/mods/space-exploration/"
+  ],
   "title": "This... Can move and farm..."
 }

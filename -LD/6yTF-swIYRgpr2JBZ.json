@@ -8,12 +8,12 @@
     "width": 872
   },
   "lastUpdatedDate": 1541951007445,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/chunk aligned/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Late game Solar grid, Radar friendly, Power connection friendly.",
   "author": {
     "userId": "RpvauSTTtico3Ke6ohMY2QQN80s1"

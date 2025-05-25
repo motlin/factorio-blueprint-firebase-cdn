@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/MmHaPcU",
   "lastUpdatedDate": 1732312905029,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Gleba Artillery Shell Production",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

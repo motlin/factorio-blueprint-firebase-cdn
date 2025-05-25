@@ -5,11 +5,11 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable logistic plastic production.",
   "author": {
     "userId": "IqTknXAuVoWQCCp2mkvaIIER3VC2"

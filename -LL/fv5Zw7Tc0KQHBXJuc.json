@@ -26,9 +26,9 @@
   },
   "lastUpdatedDate": 1565178751353,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Malls version .17"
 }

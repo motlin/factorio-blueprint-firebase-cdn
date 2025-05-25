@@ -25,9 +25,9 @@
   "createdDate": 1592986393926,
   "lastUpdatedDate": 1594098048198,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/version/0,18/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/0,18/"
+  ]
 }

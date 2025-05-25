@@ -19,12 +19,12 @@
   "imageUrl": "https://imgur.com/VluF0sC",
   "lastUpdatedDate": 1719148026500,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/power/solar/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Solar Rail City Block"
 }

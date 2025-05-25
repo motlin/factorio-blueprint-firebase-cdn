@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1674526362729,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Logistic Request Rocket",
   "favorites": {
     "96scKksgGvSLlD12ApyoyA6CEFC3": true,

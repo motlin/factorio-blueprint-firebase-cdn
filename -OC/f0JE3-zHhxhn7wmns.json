@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/gLSHau1",
   "lastUpdatedDate": 1732667358852,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "Parametrised Foundry Gambling Machine ",
   "favorites": {
     "4kRiQ8hochf7fd5LMBuh8bp7Cez1": true,

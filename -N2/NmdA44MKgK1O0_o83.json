@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1652904596600,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "RS-выключатель",
   "favorites": {
     "ccQqllOeBHcqR6xVw3CDAYmV67D3": true

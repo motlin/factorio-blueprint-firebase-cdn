@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1637242256935,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Electronic Circuits - Compact 2700/min.",
   "favorites": {
     "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,

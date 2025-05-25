@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1651189463704,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "5": "/version/0,18/",
-    "6": "/version/1,0/",
-    "7": "/mods/other/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/mods/other/"
+  ],
   "title": "480MW Nuclear Power Plant with Status Ligths "
 }

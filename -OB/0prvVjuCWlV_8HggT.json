@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/xV2Dfty",
   "lastUpdatedDate": 1730902720355,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Copper ~38/s",
   "favorites": {
     "NPvX83sZKEXnc64Kfk8z7xdI3yO2": true,

@@ -16,10 +16,10 @@
   "createdDate": 1505459728463,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ultimate%20Defense.png?alt=media&token=24d8ff6a-c4b7-4d2b-beb1-915e45ea26e2",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Ultimate Defense",
   "favorites": {
     "CYCFZUse5fcF3jOyE364GK83GMl2": true

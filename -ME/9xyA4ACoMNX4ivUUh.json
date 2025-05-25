@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1625829251443,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,0/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/production/belt based/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/production/logistic (bot) based/",
+    "/belt/express transport belt (blue)/",
+    "/production/belt based/"
+  ],
   "title": "Beaconed labs 1k spm",
   "favorites": {
     "phSUDMDo2XOdHOwH9JLOPfBhKR43": true

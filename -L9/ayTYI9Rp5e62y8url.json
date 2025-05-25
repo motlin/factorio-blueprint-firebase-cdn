@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Oil Refinery Beaconized Setup",
   "author": {
     "userId": "Ojh0Lmt8dPMoyeQpyF1qE5VblFI3"

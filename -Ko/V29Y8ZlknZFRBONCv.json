@@ -1,18 +1,18 @@
 {
-  "tags": {
-    "5": "/production/inserters/",
-    "7": "/production/research (labs)/",
-    "8": "/production/robots/",
-    "10": "/mods/vanilla/",
-    "1": "/production/belts/",
-    "3": "/production/mall (make everything)/",
-    "4": "/production/belt based/",
-    "6": "/production/rocket parts/",
-    "9": "/general/beaconized/",
-    "11": "/version/0,15/",
-    "0": "/production/science/",
-    "2": "/production/modules/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/research (labs)/",
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/production/belts/",
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/production/science/",
+    "/production/modules/"
+  ],
   "createdDate": 1499481288094,
   "descriptionMarkdown": "Blueprints for science and mall items early game through early logistic bot networks post initial rocket launch. Notable things missing that a functional base might want include train network, nuclear, defense, circuit production, smelting, boilers and oil.\n\nThis bus is designed to set you up for building a bootstrap base to get to the megabase stage.\n\nImgur album: http://imgur.com/a/mFj6s",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170706194931_1.jpg?alt=media&token=000d5436-8772-4373-bbd3-da28223339fd",

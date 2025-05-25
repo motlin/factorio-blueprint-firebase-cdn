@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1673698180347,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/general/beaconized/",
-    "2": "/production/rocket parts/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/production/rocket parts/",
+    "/mods/vanilla/"
+  ],
   "title": "Automatic operation of uranium mine robot 铀矿自动化运行"
 }

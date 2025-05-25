@@ -30,16 +30,16 @@
     "type": "image/jpeg",
     "width": 875
   },
-  "tags": {
-    "3": "/power/kovarex enrichment/",
-    "4": "/production/belt based/",
-    "5": "/version/0,16/",
-    "6": "/production/uranium/",
-    "7": "/general/beaconized/",
-    "0": "/power/nuclear/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/belt based/",
+    "/version/0,16/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/power/nuclear/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Kovarex: Belt Based, Stackable, self feeding - No Circuits",
   "author": {
     "userId": "vna5iVRoFHSaVilB2dBl4rxBxjD3"

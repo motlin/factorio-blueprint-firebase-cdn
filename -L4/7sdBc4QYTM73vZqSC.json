@@ -13,11 +13,11 @@
   "lastUpdatedDate": 1517346264041,
   "numberOfFavorites": 4,
   "fileName": "smeltery.PNG",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Bluebelt Iron/Copper smeltery, compressed",
   "author": {
     "userId": "RSKwP3oyTKQpAPegHpXOWOfTSmo1"

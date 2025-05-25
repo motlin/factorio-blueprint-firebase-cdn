@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "createdDate": 1491304887754,
   "fileName": "bp-belts-fs8.png",
   "lastUpdatedDate": 1498822200426,

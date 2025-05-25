@@ -19,10 +19,10 @@
   "imageUrl": "https://imgur.com/ntSVS9w",
   "lastUpdatedDate": 1730976493519,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Railway with roboports"
 }

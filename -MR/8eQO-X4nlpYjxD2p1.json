@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1639765941854,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/science/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/",
-    "4": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/science/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/general/beaconized/"
+  ],
   "title": "Krastorio Basic, Automation, Logistic cards ",
   "favorites": {
     "we7GMANN5SYFeddgkztRoERAX3n2": true

@@ -6,10 +6,10 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1520742524320,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/production/oil processing/"
+  ],
   "title": "Oil setup + Coal liquification",
   "authorId": "NhiSbQZ8tKazZCdOoLENS7nmlak1",
   "descriptionMarkdown": "I am new to the game and came up with this for re-using my heavy oil.\nU can remove the power poles at the filterrobotarms.\n\nLet me know what u think.",

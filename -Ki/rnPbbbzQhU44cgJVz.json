@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/malokin-solar-arrays.png?alt=media&token=5d6def25-7859-4985-8762-1145b512a2f0",
   "numberOfFavorites": 7,
   "lastUpdatedDate": 1499376730882,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "\"malokin\" solar array with roboport",
   "favorites": {
     "ro9d31Zv6vW5F2SyfTa0bP6zwfi2": true

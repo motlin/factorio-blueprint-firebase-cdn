@@ -16,11 +16,11 @@
     "width": 899
   },
   "lastUpdatedDate": 1524063722968,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "Smelter 5:6 Lategame",
   "createdDate": 1519333383428,
   "descriptionMarkdown": "A lategame smelter, which takes 5 full lanes of ore and outputs 6 full lanes of plates\n\nThis only works with 0.16 and is optimal with > 0.16.25",

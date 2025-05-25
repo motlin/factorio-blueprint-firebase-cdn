@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/tARtPoP.png",
   "lastUpdatedDate": 1739821052146,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Starlight Spire (Rocket Silo Factory)",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

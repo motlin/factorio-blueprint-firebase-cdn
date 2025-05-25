@@ -8,10 +8,10 @@
   "authorId": "LHQ6nRErZMS4SeasEcxLrcko1103",
   "descriptionMarkdown": "Automatically loads vehicles with *only* the items the vehicle needs. Circuit timer provides a start-stop system in each \"reloading station\".\n\nIt works with pre-reserved slots in the vehicle's inventory, so each station knows when a vehicle \"needs\" items or not.\n\n-the vehicle will not stop if it doesn't need any item in any given station;\n\n-the vehicle will stop and stay in a specific station for whatever time it needs to be fully reloaded (provided there are enough items in the chest to keep the inserter moving until that point);\n\n-the vehicle will continue moving along the belt 1 sec (60ticks) after having a full load of that specific item (again, \"full load\" being predetermined by reserved inventory slots).\n\nTo change which items go in each station: change requested item in chest, change [item] in both constant and decider combinators.\n\nBlank spaces in the vehicle's inventory will be filled by the first station it enters, so to keep certain slots unused by the autoloader just reserve them with any item not being loaded there (e.g. wood chests). You can shift-click to copy inventory pre-selection to other vehicles, so it's not that tedious in multiple vehicles. \n\nCheers",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Vehicle Automatic Loader",
   "lastUpdatedDate": 1563205700808,
   "author": {

@@ -2,11 +2,11 @@
   "authorId": "uMXuhL2sAGPt40gAvGfOS1o6HCu1",
   "descriptionMarkdown": "Pretty Science Lab Setup",
   "fileName": "Screenshot from 2020-10-09 20-43-27.png",
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Pretty Science Lab Setup",
   "favorites": {
     "hO28pb2GzwcRMlKBfuFVFBilB7E3": true

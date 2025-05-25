@@ -21,10 +21,10 @@
   "createdDate": 1544224755948,
   "fileName": "LazyMall.png",
   "numberOfFavorites": 23,
-  "tags": {
-    "2": "/general/mid game/",
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/mall (make everything)/",
+    "/general/early game/"
+  ],
   "title": "LazyMall (produces everything, helps with Lazy Bastard)"
 }

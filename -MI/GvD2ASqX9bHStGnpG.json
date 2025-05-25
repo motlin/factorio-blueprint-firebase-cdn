@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1601249797516,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/"
+  ],
   "title": "1kSPM Single Depot - Full Book"
 }

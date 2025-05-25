@@ -3,11 +3,11 @@
   "createdDate": 1568024694472,
   "descriptionMarkdown": "Storage for sandbox (creative) game. Provides infinite amount of every item to logic system.\n\n\nUse this commands to build blueprint\n - /c game.player.insert\"infinity-chest\"\n\n- /c game.player.insert\"electric-energy-interface\"",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Sandbox%20Storage%20items.png?alt=media&token=326fd776-e34b-4f39-ad59-9afe47b19c59",
   "author": {
     "userId": "QHtDpvwL2WdxB4MClwylaiAAvFN2"

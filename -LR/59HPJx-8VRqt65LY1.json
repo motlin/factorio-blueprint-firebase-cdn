@@ -10,13 +10,13 @@
   },
   "lastUpdatedDate": 1570987649070,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/",
-    "3": "/general/tileable/",
-    "4": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/chunk aligned/"
+  ],
   "title": "Modular perimeter wall defense",
   "favorites": {
     "ddEGs4a0W8PuSrEYSZJ35nkztvq2": true,

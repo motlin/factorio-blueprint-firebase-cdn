@@ -21,9 +21,9 @@
   "createdDate": 1558170485879,
   "fileName": "20190518110644_1.jpg",
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "0": "/power/solar/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/solar/"
+  ]
 }

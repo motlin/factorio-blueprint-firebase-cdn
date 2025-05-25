@@ -14,10 +14,10 @@
     "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,
     "DAaYWWCTVKVqcnedFAtLUx0mIf92": true
   },
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"
   },

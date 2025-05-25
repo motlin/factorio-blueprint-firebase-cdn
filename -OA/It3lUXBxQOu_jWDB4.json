@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/bcIp0nS",
   "lastUpdatedDate": 1730132184288,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/power/steam/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/power/steam/",
+    "/general/early game/"
+  ],
   "title": "Vulcanus Early/Mid Electricity + water",
   "favorites": {
     "swIjyuvaHNSfHkGoWybLDh1fVPb2": true,

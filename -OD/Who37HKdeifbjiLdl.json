@@ -20,10 +20,10 @@
   "imageUrl": "https://imgur.com/BwKlsUd",
   "lastUpdatedDate": 1733586171968,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/2,0/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "The Artemis ship 1.0"
 }

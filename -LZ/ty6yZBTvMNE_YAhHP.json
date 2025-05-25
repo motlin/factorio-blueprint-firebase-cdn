@@ -9,13 +9,13 @@
   "lastUpdatedDate": 1551455780854,
   "title": "Not Sure Late Game Book 0.1",
   "numberOfFavorites": 0,
-  "tags": {
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/processing unit (blue)/",
-    "4": "/production/logistic (bot) based/",
-    "0": "/production/science/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/processing unit (blue)/",
+    "/production/logistic (bot) based/",
+    "/production/science/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "YgBKWTZ05mh73Sj3Q7LTIhPdAZg2"
   },

@@ -15,10 +15,10 @@
   },
   "createdDate": 1598082099933,
   "lastUpdatedDate": 1598082525864,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Smart Train Loader System 2020",
   "author": {
     "userId": "kEqZIaG4mdUju7YNCVEWA2JV4ny2"

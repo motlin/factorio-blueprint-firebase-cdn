@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1690741923583,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Half city-block train station.",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true

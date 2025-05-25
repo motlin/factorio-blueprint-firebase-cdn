@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1660100484419,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/coal liquification/"
-  },
+  "tags": [
+    "/production/coal liquification/"
+  ],
   "title": "Simple Coal Liquefaction"
 }

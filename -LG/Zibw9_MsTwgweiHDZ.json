@@ -151,13 +151,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mdjfZEr.png?alt=media&token=869f70fc-864c-41a1-a356-10dfcb2a4e7a",
   "lastUpdatedDate": 1631585363716,
   "numberOfFavorites": 196,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/train/stacker/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/version/1,0/"
+  ],
   "title": "Train Smelting 21.6k Iron Copper and 4.32k Steel"
 }

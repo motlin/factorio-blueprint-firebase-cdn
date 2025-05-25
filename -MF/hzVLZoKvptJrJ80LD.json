@@ -15,11 +15,11 @@
     "width": 970
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "8 Science Lab Setup (Tileable)",
   "favorites": {
     "J52AnIaLwGO9mt56NHDnADSF7HB2": true

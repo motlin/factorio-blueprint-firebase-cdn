@@ -33,10 +33,10 @@
   },
   "lastUpdatedDate": 1559231062253,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/rocket parts/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/rocket parts/",
+    "/version/0,17/"
+  ],
   "title": "8 hour Rocket Launch base"
 }

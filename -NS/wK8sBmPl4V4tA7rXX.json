@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1681419838051,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/"
+  ],
   "title": "235/238 Late Game Uranium enrichment into Fuel Cells",
   "favorites": {
     "hJDvVm5mPobg3rDiTy8KoX13TP03": true,

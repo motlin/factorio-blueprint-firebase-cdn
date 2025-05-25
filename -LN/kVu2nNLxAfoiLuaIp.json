@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1538412224963,
   "numberOfFavorites": 12,
-  "tags": {
-    "3": "/version/0,16/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Red Circuits (26.67/s, 8 beacons/assembler)"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1666080276761,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Belt utilization visualization V2",
   "favorites": {
     "1QnI3FxqTFX33pPsWbghmrQjrCd2": true

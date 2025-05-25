@@ -1374,11 +1374,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Yellow%20Balancer.png?alt=media&token=24632f01-9d9a-40a4-b616-2aeb846f8369",
   "lastUpdatedDate": 1496154417514,
   "numberOfFavorites": 1354,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "The Complete Belt Series: Yellow, Part 1."
 }

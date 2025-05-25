@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1541560404839,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "14/min Speed/Prod modules factory from raw"
 }

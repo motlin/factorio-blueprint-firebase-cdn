@@ -15,11 +15,11 @@
   "descriptionMarkdown": "All blueprints fit in a 12x12 area, which makes it easy to construct paths on a large grid. No funky alignment issues! There are two versions for each road type, except the cross, which differ in the direction of hazard stripes. This way, you can keep all of your hazard stripes going in a uniform direction! (It is not necessary to have two separate blueprints for the cross junction as rotating it will rotate the stripes)",
   "fileName": "Concrete Roads 12x12.PNG",
   "lastUpdatedDate": 1522624093070,
-  "tags": {
-    "2": "/general/mid game/",
-    "0": "/general/tileable/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "5uS9uacTm0h4TfXJRhXms4rut6S2": true
   },

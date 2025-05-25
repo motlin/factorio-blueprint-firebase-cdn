@@ -34,12 +34,12 @@
   },
   "lastUpdatedDate": 1700254439951,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/research (labs)/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/research (labs)/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Seo's combination book v0.8"
 }

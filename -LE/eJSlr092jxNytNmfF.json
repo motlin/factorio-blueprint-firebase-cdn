@@ -19,11 +19,11 @@
   "createdDate": 1557635652925,
   "fileName": "Blue science.jpg",
   "numberOfFavorites": 13,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "title": "Blue science.",
   "author": {
     "userId": "oFqnuTnk6YNTjcCvbFz7c23IYKs2"

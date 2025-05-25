@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1530723513894,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Mega base Refinary"
 }

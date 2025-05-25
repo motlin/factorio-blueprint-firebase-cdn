@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/GsGjDGk",
   "lastUpdatedDate": 1730321429489,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/roundabout/"
+  ],
   "title": "Spetz Inline Roundabout and Station v2.0",
   "favorites": {
     "31BLTsB3kId2dytm5yqB0aOiOyM2": true,

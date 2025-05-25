@@ -114,10 +114,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202024-02-04%20201251.png?alt=media&token=41ad5d03-ee8c-4626-aa25-e28d7aceb147",
   "lastUpdatedDate": 1729111472774,
   "numberOfFavorites": 52,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Rail Blocks (lategame) v5"
 }

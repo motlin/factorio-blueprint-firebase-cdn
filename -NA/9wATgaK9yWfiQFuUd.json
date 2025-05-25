@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1690253178858,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Seablock Universal Station"
 }

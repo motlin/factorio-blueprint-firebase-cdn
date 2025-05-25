@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1617395979951,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/beaconized/"
+  ],
   "title": "Low density structure 365",
   "favorites": {
     "mgzaB559GKQRL7QtiME6MluIubD2": true,

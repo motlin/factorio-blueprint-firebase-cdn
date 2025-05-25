@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/A8dt2wj",
   "lastUpdatedDate": 1739297252426,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/logistic (bot) based/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Gleba Agricultural Science Bot Base",
   "favorites": {
     "XnShC4K9mMdtjGbV2rkFkIGT7iO2": true,

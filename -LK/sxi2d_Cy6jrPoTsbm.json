@@ -30,18 +30,18 @@
   },
   "lastUpdatedDate": 1535426450451,
   "numberOfFavorites": 54,
-  "tags": {
-    "7": "/general/compact/",
-    "9": "/production/advanced circuit (red)/",
-    "10": "/production/smelting/",
-    "1": "/production/research (labs)/",
-    "3": "/version/0,15/",
-    "5": "/belt/transport belt (yellow)/",
-    "6": "/general/early game/",
-    "8": "/production/electronic circuit (green)/",
-    "0": "/production/science/",
-    "2": "/mods/vanilla/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/advanced circuit (red)/",
+    "/production/smelting/",
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/production/electronic circuit (green)/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Starter Base Up to Blue/Military science 50 science per minute"
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/NxnB2Ed",
   "lastUpdatedDate": 1735552721384,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/",
+    "/general/early game/"
+  ],
   "title": "Toshnotik v1"
 }

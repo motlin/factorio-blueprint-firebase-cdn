@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1701150643840,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "Inline buffers"
 }

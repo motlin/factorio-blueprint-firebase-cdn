@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1664161437456,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/crossing/",
-    "4": "/mods/ltn/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/mods/ltn/"
+  ],
   "title": "City Block Pro v.2.0"
 }

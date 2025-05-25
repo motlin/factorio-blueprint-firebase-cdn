@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1656025610385,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "PortableLab"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1685732815596,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/mods/angels/",
+    "/mods/bobs/"
+  ],
   "title": "225MW from Binafran"
 }

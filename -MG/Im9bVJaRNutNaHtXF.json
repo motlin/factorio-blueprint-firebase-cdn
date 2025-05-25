@@ -21,7 +21,7 @@
   "authorId": "i84c1PxXDVTfSsPxIZuZGxOMY572",
   "createdDate": 1599133493855,
   "fileName": "Blueprint.png",
-  "tags": {
-    "0": "/production/inserters/"
-  }
+  "tags": [
+    "/production/inserters/"
+  ]
 }

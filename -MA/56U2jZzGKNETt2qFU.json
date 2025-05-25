@@ -4,11 +4,11 @@
   "descriptionMarkdown": "Not the best design, has some spaghetti but helps you survive the deathworld up to the engines and oil processing. \nMore or less up to the rates. \nIncludes red, green and military science, enough ammo, piercing ammo and stuff to expand and build the REAL BASE. \n\nShould be built piece by piece to fit urgent needs. Make sure you get an early half an array of steel and stone bricks to set up piercing ammo and walls to fend off the biters as well as steel furnaces to pump your smelting twice without any expanding. Can be improved by adding logic wires to boxes and manipulators to improve storage managing.",
   "lastUpdatedDate": 1592462991038,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "0": "/version/0,18/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "qqp7cGJRYbXFOF8KHQjLK9kTu6J2": true,
     "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true,

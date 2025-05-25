@@ -13,15 +13,15 @@
     "JCDu19n05zTsCABLNroLXCi7gtv2": true,
     "uaZeOEVvryMHvVCi7Lv3miyf3vI2": true
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/science/",
-    "3": "/version/0,17/",
-    "4": "/general/mid game/",
-    "5": "/general/compact/",
-    "6": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/advanced circuit (red)/",
+    "/production/science/",
+    "/version/0,17/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "Blue Science 1.05/s (YAMATO) /w Steel,Sulfur&Red.C Tier1",
   "author": {
     "userId": "QIE2KWG9txYWeZcZtcboDUSME8G2"

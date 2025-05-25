@@ -1,11 +1,11 @@
 {
   "fileName": "Miners.PNG",
-  "tags": {
-    "2": "/version/0,18/",
-    "3": "/mods/vanilla/",
-    "0": "/production/mining/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/production/mining/",
+    "/general/tileable/"
+  ],
   "title": "Tileable miners, red belt, 9x4",
   "favorites": {
     "qAjgnz93SrP0jkW7kWJcIprw3pm1": true,

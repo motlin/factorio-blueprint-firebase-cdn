@@ -16,11 +16,11 @@
   "imageUrl": "https://imgur.com/DUuvszr",
   "lastUpdatedDate": 1724771109410,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/ltn/",
-    "2": "/version/0,15/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/ltn/",
+    "/version/0,15/",
+    "/train/junction/"
+  ],
   "title": "Core fragment processing"
 }

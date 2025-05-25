@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/sGYGkP8",
   "lastUpdatedDate": 1727230712620,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/krastorio/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/general/beaconized/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "SE + K2 Red Circuits",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,

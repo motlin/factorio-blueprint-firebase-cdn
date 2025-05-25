@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1658164312403,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/early game/"
+  ],
   "title": "Tileable/Prebuilt Power plant (and some alts)"
 }

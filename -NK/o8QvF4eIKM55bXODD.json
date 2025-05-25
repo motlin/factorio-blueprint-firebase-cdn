@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1672749659486,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Plastic 5.400/min tilable compact",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Screenshot%202023.01.03%20-%2014.34.45.34.png?alt=media&token=84152658-8876-429a-8612-54cd2b131fbf",
   "favorites": {

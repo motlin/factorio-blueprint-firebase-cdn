@@ -1,13 +1,13 @@
 {
   "lastUpdatedDate": 1525304765770,
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/general/beaconized/",
-    "4": "/version/0,16/",
-    "0": "/production/rocket parts/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,16/",
+    "/production/rocket parts/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "VSi7wP6IPFZPWSUgjb4G2dNqnFu2": true,
     "Ceeucp8wN8OB5wE53dqhfH9A1QF3": true,

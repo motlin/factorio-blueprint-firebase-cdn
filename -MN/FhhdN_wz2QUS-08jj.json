@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1606598351968,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/general/mid game/",
-    "3": "/general/tileable/",
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/power/accumulator/",
+    "/mods/vanilla/"
+  ],
   "title": "Very large Accumulator grid "
 }

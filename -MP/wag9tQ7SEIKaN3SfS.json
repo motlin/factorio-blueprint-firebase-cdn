@@ -16,11 +16,11 @@
   "lastUpdatedDate": 1638473067978,
   "numberOfFavorites": 4,
   "title": "Super Simply Safe Aesthetically Pleasing Train Crossing",
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "65G7YglwzVSj5xoD5ENsCQfEmf82": true,
     "RftY0icQgLUu6yfkIZ8W4aZeEGf1": true,

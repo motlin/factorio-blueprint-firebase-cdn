@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/frZ7IEG.jpg?alt=media&token=0326d8b7-7d76-4b2b-948e-35130512f3af",
   "lastUpdatedDate": 1506052413573,
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "test base basic starter setup"
 }

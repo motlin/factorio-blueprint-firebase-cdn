@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/mPuRgCN",
   "lastUpdatedDate": 1732195029377,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/general/compact/",
-    "2": "/general/beaconized/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Gleba Iron/Copper Electric Smelting (Blue belt full saturation)",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

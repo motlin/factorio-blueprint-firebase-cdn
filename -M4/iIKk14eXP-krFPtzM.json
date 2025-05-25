@@ -3,10 +3,10 @@
   "descriptionMarkdown": "Чертеж на серые колбы ",
   "fileName": "серые колбы.jpg",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/production/science/"
+  ],
   "title": "Sea Block серые колбы",
   "author": {
     "userId": "LaXDTIKD0Ib90tbC4w0n38WqBCi2"

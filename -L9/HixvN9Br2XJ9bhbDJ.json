@@ -12,12 +12,12 @@
     "id": "ANbun1N"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/creative/",
-    "2": "/version/0,16/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/creative/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "authorId": "TppUB8yhGNMloca8pWi050VkpMx2",
   "createdDate": 1522880208725,
   "descriptionMarkdown": "silly flamethrower turrets outpost concept, just for fun and dem buuurrrnsss... ;)",

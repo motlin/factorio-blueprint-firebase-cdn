@@ -25,17 +25,17 @@
   "imageUrl": "https://i.imgur.com/UW0SFFI.jpg",
   "lastUpdatedDate": 1742937594653,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/junction/",
-    "3": "/train/stacker/",
-    "4": "/train/roundabout/",
-    "5": "/train/loading station/",
-    "6": "/train/unloading station/",
-    "7": "/general/chunk aligned/",
-    "8": "/mods/space-age/",
-    "9": "/general/tileable/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/stacker/",
+    "/train/roundabout/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/chunk aligned/",
+    "/mods/space-age/",
+    "/general/tileable/"
+  ],
   "title": "RAILS! RAILS! RAILS!"
 }

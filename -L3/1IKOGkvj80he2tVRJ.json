@@ -3,9 +3,9 @@
   "authorId": "TBG9ccIX1eM4xFqoEt5qnkNVbci1",
   "createdDate": 1516162078527,
   "fileName": "Screenshot_189.png",
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "lastUpdatedDate": 1516162078527,
   "numberOfFavorites": 5,
   "author": {

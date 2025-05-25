@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/wbw9SRy",
   "lastUpdatedDate": 1739300622121,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/production/inserters/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/production/inserters/",
+    "/version/0,15/"
+  ],
   "title": "3/s Logistic science pack from copper and iron plate "
 }

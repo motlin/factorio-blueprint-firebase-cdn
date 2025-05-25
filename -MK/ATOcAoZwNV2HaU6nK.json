@@ -10,12 +10,12 @@
   },
   "lastUpdatedDate": 1603309462345,
   "numberOfFavorites": 1,
-  "tags": {
-    "3": "/production/mall (make everything)/",
-    "0": "/production/science/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202020-10-21%20at%2021.42.54.png?alt=media&token=32eb07a3-b74d-4a38-ba1a-81cafcaced48",
   "favorites": {
     "bLpQK4aEDtTLwi7cqxxJpa5xD1T2": true

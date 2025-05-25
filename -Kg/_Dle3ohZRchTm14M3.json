@@ -17,10 +17,10 @@
     "id": "im9UfdC"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/red%20circuits.png?alt=media&token=fadd3ac9-841c-4a4c-a486-468907bf9711",
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/",
-    "0": "/production/advanced circuit (red)/"
-  }
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/production/advanced circuit (red)/"
+  ]
 }

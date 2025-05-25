@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/g3eBP0R.jpg",
   "lastUpdatedDate": 1738917405102,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/combat/defense/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/combat/defense/"
+  ],
   "title": "Gleba Rocket fort",
   "favorites": {
     "Rl6CICs726S4403veEi3cEfgPoH2": true,

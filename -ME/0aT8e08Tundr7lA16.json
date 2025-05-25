@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1625671983895,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/oil processing/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/oil processing/",
+    "/general/beaconized/"
+  ],
   "title": "Oil processing ( End Game / MegaBase )",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

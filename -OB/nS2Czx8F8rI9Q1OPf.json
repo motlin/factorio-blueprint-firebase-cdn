@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/XWdwak9",
   "lastUpdatedDate": 1731735073743,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/production/belts/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/production/belts/"
+  ],
   "title": "Belt Assembler w/ Foundrys",
   "favorites": {
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true

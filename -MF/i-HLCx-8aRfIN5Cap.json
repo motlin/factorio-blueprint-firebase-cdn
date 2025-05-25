@@ -3,11 +3,11 @@
   "descriptionMarkdown": "Tileable Green circuit production.",
   "lastUpdatedDate": 1598499661246,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "QTKFcql360NLYRuZrwEf1zhAuLk1"
   },

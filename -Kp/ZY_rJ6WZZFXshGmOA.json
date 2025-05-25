@@ -3,13 +3,13 @@
   "fileName": "Untitled.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Untitled.jpg?alt=media&token=35d56779-1d4e-4701-ba42-45ba24eb81aa",
   "lastUpdatedDate": 1500634243732,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/factorissimo/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/factorissimo/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "numberOfFavorites": 4,
   "title": "16 to 8/4 Balancer/sorter v.1 - 0.15.27",
   "author": {

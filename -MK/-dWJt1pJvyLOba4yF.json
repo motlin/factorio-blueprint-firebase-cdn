@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/inserters/",
-    "1": "/general/early game/",
-    "2": "/production/belts/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/inserters/",
+    "/general/early game/",
+    "/production/belts/"
+  ],
   "author": {
     "userId": "xB3csq8rHdgV39t0Z77S9wbuG5c2"
   },

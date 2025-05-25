@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Smelt column",
   "author": {
     "userId": "GpNyVrBvU4PYwQ7vJN2VktsaLlu1"

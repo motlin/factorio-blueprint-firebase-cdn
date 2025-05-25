@@ -16,12 +16,12 @@
     "type": "image/jpeg",
     "width": 941
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/train/loading station/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/loading station/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "kOht14bSMCc1Lz86TALpXSERIdV2": true,
     "x3wC2LCmBOSicFs5bJepNzVFgdw1": true

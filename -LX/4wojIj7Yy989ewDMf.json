@@ -6,9 +6,9 @@
     "type": "image/jpeg",
     "width": 1442
   },
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "6qMGOony8zUmpYDuOCSBqFxqhkm2": true,
     "gPSdSrAmzKcN1BmVK2me9XvDKgu2": true,

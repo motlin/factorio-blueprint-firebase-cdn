@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/xGlOfUf",
   "lastUpdatedDate": 1743128823601,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/other/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/other/",
+    "/production/rocket parts/"
+  ],
   "title": "Usina de petróleo avançada"
 }

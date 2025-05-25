@@ -2,11 +2,11 @@
   "descriptionMarkdown": "For a pair of wires, for each value, selects the bigger one, and outputs it on the same-color wire as it was inputted on.\n\nOnly used Bob's Power poles, vanilla otherwise.\n\nContains 2 versions, one is half the cost of the other, but the other outputs more cleanly.",
   "lastUpdatedDate": 1529312159116,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,16/",
-    "2": "/mods/bobs/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,16/",
+    "/mods/bobs/"
+  ],
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
   },

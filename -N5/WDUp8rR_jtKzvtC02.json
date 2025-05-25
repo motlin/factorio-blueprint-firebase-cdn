@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1656267341186,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/bobs/"
+  ],
   "title": "Bob's Gem Processing",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,

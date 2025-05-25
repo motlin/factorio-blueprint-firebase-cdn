@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/7PM1IoT",
   "lastUpdatedDate": 1723769525121,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Circuito verde para Exotics"
 }

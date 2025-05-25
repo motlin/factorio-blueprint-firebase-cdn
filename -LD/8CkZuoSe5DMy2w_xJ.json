@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/production/mall (make everything)/",
-    "0": "/production/belt based/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/version/0,16/"
+  ],
   "createdDate": 1527015475772,
   "descriptionMarkdown": "So ... i dediced to create pickup base for builder train ... As usual ended with big blob of pasta :)\n\nInputs: \n- Iron: 2.5 yellow belt\n- Copper: 1 yellow belt\n- Stone 0.5 yellow belt\n\nOutputs into train: see screnhot  (top is closest to locomotive)",
   "image": {

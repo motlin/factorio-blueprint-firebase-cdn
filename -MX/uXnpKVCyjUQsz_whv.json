@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1647107201637,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "low density structure manufacture",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factroi%20new.jpg?alt=media&token=0b3c7d1b-7fb7-4e43-a7cd-45240b9dfdcf",
   "favorites": {

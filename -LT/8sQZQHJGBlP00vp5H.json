@@ -7,10 +7,10 @@
     "height": 756
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/version/0,15/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "7icyNNS5hLbwaPjMHlRgUm89e8k1"
   },

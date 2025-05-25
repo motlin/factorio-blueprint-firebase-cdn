@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1647187994098,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "Paige's Fully Compressed Science Sushi Belt - Late Game",
   "favorites": {
     "mgzaB559GKQRL7QtiME6MluIubD2": true,

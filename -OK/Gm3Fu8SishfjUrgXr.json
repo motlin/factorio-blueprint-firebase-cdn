@@ -28,9 +28,9 @@
   "imageUrl": "https://i.imgur.com/WlYnbG5.png",
   "lastUpdatedDate": 1741152313387,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/"
+  ],
   "title": "TaxiService The Mall"
 }

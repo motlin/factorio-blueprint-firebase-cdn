@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/MAJey2P",
   "lastUpdatedDate": 1731377952788,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Efficiency-Modified Nilaus' 4-Reactor Nuclear Power Array (464 MW)",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

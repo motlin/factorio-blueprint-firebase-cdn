@@ -5,13 +5,13 @@
   "authorId": "e03tHkqC5ka0V6BMCrN4OcUcyuH3",
   "lastUpdatedDate": 1553983327619,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mining/",
-    "2": "/train/loading station/",
-    "3": "/circuit/indicator/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mining/",
+    "/train/loading station/",
+    "/circuit/indicator/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "9fK5t2HPmLPyeMee8Zei2dM3Zv03": true,
     "AHDdzEFoXcgJl1atSHNVbiGcmi53": true,

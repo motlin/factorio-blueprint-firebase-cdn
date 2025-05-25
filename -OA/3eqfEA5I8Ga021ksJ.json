@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/5t975ys",
   "lastUpdatedDate": 1729876421425,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "4x4 Zero Waste Reactor (480MW) For 2.0",
   "favorites": {
     "KX6rawUCcjOmgr7H5qcqPjxJ7rO2": true,

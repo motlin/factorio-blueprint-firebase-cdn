@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1645651294976,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/vanilla/"
+  ],
   "title": "Calculator of Stacks (collapsible)",
   "favorites": {
     "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,

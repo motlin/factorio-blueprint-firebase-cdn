@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Jd4i0kJ",
   "lastUpdatedDate": 1742522232159,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Fully beaconed, ~2k per second sulfuric acid design",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

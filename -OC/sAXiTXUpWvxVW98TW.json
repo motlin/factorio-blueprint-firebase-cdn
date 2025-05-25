@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/D3cX6eq",
   "lastUpdatedDate": 1732888112585,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "260km/h space ship"
 }

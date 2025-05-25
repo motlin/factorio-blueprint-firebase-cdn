@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1638056917046,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para produção de ciências de foguete"
 }

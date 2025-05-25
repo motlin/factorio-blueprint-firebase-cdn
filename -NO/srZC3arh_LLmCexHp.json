@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1706056145548,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/production/rocket parts/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Bazinga!Blueprints - Minimal Rocket Launch",
   "favorites": {
     "zN1TRMO0jDZfYqGFC6fB2QKSOFx1": true

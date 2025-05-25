@@ -7,11 +7,11 @@
     "type": "image/jpeg",
     "width": 3037
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,16/"
+  ],
   "title": ".16 Starter base (basic belts only)",
   "favorites": {
     "rxAqLQJLSQXJF0sINOjwLnqgziG3": true,

@@ -18,13 +18,13 @@
   },
   "lastUpdatedDate": 1579421325041,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/power/kovarex enrichment/",
-    "4": "/production/uranium/",
-    "5": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/power/nuclear/"
+  ],
   "title": "Electricity 1.5 By Dae"
 }

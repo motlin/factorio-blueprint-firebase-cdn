@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1642070416258,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "Beaconed Modules [17.5/min]",
   "favorites": {
     "ueNR3iTMlaYhMquZne8o8zweUDS2": true,

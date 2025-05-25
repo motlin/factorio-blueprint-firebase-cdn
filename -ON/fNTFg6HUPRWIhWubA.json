@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/ZnefoH7.png",
   "lastUpdatedDate": 1744484557975,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/scrap processing/"
-  },
+  "tags": [
+    "/production/scrap processing/"
+  ],
   "title": "Compact recycler block with smart stacked output",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true

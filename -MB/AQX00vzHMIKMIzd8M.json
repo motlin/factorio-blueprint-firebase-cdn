@@ -4,9 +4,9 @@
   },
   "authorId": "uKt0HxNSF5gxJkUGWyJITZLTCLJ2",
   "descriptionMarkdown": "A tall/long smelter for ribbonworld or part of a larger block of smelters. 12 beacon setup, ~4 blue belts of ore in(9K/min), 4 belts of copper or iron plates out(10.8K/min).",
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true
   },

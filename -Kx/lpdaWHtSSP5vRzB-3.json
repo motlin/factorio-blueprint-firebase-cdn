@@ -4,10 +4,10 @@
   },
   "authorId": "KnocxlV949WWjUK2OZFxXuLWaKp2",
   "createdDate": 1509443410502,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/lighted-electric-poles/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/lighted-electric-poles/"
+  ],
   "title": "Book: Bio Industries",
   "favorites": {
     "xbienxQ9ANZkuLl8vDSItH3q1N52": true

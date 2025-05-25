@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1687936273234,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/production/science/",
-    "4": "/version/1,0/",
-    "5": "/version/1,1/",
-    "6": "/production/belt based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/production/science/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/production/belt based/"
+  ],
   "title": "Red Science - 2700 / min",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,

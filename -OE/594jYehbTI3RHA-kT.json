@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Dm7R1vj",
   "lastUpdatedDate": 1734196354190,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/belt/balancer/"
+  ],
   "title": "Priority Quality balancer 4 lanes",
   "favorites": {
     "Chl5EBOPc6WCopDo8noOcrI9oWm2": true

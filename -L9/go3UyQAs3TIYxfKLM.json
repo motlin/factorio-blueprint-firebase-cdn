@@ -16,12 +16,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mall%20v2.2.png?alt=media&token=c24523a4-0b09-4264-90e6-9c1173a020d1",
   "lastUpdatedDate": 1528566243878,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/mall (make everything)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/0,16/"
+  ],
   "title": "Pebble Mall v2.2"
 }

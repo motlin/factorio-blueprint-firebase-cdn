@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1704213190608,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/mods/ltn/"
+  ],
   "title": "Factorio Bobs + Angel + LTN + LTN + Trens "
 }

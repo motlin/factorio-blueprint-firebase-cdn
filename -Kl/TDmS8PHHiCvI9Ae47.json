@@ -4,14 +4,14 @@
   "fileName": "factorio_2017-05-31_14-16-23.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2017-05-31_14-16-23.png?alt=media&token=e17913df-9137-4917-b91f-5530c023cfa6",
   "numberOfFavorites": 10,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/production/belt based/"
+  ],
   "favorites": {
     "2NZKYbuUwRS1FQMlOqGELnQ8KTt1": true
   },

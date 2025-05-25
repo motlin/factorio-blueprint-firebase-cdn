@@ -30,9 +30,9 @@
     "type": "image/jpeg",
     "width": 819
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/version/0,17/",
-    "2": "/version/0,18/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/"
+  ]
 }

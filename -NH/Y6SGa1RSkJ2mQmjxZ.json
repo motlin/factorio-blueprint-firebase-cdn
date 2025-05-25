@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1671028983879,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/research (labs)/",
-    "2": "/power/nuclear/",
-    "3": "/power/solar/",
-    "4": "/power/steam/",
-    "5": "/power/accumulator/",
-    "6": "/train/loading station/",
-    "7": "/train/unloading station/",
-    "8": "/train/crossing/",
-    "9": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/research (labs)/",
+    "/power/nuclear/",
+    "/power/solar/",
+    "/power/steam/",
+    "/power/accumulator/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "Adandobed rail base (repaired, train stop names original & train settings on, +upgraded objects)"
 }

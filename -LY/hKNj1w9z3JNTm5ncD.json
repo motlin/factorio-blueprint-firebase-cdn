@@ -307,13 +307,13 @@
   },
   "lastUpdatedDate": 1729992217822,
   "numberOfFavorites": 252,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/train/right-hand-drive/",
+    "/train/loading station/"
+  ],
   "title": "LOAD/UNLOAD Stations Pack for 1-4-0 / 1-4-1 /  2-8-0 / 2-8-2 trains setup (with controlled-circuit to optimize trains load and unload) for v2.0"
 }

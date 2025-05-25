@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/iqcCcwN",
   "lastUpdatedDate": 1735412365004,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/2,0/"
+  ],
   "title": "Automatic Outpost stations",
   "favorites": {
     "UjaFUukMdEfQUuJheNOiq0GuBQA2": true

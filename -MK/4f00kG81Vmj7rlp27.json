@@ -21,11 +21,11 @@
     "type": "image/jpeg",
     "width": 849
   },
-  "tags": {
-    "3": "/train/right-hand-drive/",
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/train/crossing/"
+  ],
   "title": "Spiral Out 4 way Intersection"
 }

@@ -22,10 +22,10 @@
     "VYnPNqmTmaZeppIiqMEgsiX04tv2": true,
     "386gxXV4phTpHFelfSnjqO2DY993": true
   },
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "7fZJw6U2IuNkODcVttXvTOopf5G3"
   },

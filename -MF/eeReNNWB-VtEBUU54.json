@@ -3,9 +3,9 @@
   "descriptionMarkdown": "Patterns for weaving belts together, allowing two or more busses to cross in a decorative manner. \n\nThese aren't practical. A 96-lane twill killed my UPS more than the rest of my base combined. They store a lot of items in the underground sections making a huge buffer. There is no way to access things from the middle of the weave. But they look nice.\n\nCurrently there is a 2-2 twill in a 16x16 tileable block, and a 4-4 basket weave in a 20x20 toleable block. I will add more as I do them.\n\n",
   "fileName": "screenshot-tick-8313378.png",
   "lastUpdatedDate": 1598443604688,
-  "tags": {
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/tileable/"
+  ],
   "title": "Belt Weaving",
   "author": {
     "userId": "6hQ8h2kko7gwPbbYOV76VpfcaZx2"

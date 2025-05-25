@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1665618880476,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Accumulator History",
   "favorites": {
     "AY4UJ5ppBvOnRWFH9kaXlpuYzvp1": true

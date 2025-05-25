@@ -21,9 +21,9 @@
   "descriptionMarkdown": "   Some blueprints I made out of Redmew's Server \n\n\n\n\n\n\n\n\n I was in it k!?",
   "lastUpdatedDate": 1549818843439,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/belt/transport belt (yellow)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/transport belt (yellow)/"
+  ]
 }

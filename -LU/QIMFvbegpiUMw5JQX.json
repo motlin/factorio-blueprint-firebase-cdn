@@ -10,10 +10,10 @@
   "fileName": "factorio_2018-12-23_15-39-58.jpg",
   "lastUpdatedDate": 1545572545879,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "lq21OXMYllaYMEm2xypGLM9Z7AC2"
   },

@@ -49,8 +49,8 @@
   "imageUrl": "https://imgur.com/vbGSib3",
   "lastUpdatedDate": 1731285016716,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora Scrap Recycle "
 }

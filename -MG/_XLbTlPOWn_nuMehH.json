@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "jNc0dyuMmTe6nYpH9ljxseG1btp2"
   },

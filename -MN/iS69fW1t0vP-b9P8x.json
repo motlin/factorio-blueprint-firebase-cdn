@@ -27,10 +27,10 @@
   "createdDate": 1607097152342,
   "descriptionMarkdown": "(Blue belts)\n\nInput:\n- 15x Electronic circuit (green circuit)\n- 2x Advanced circuit (red circuit, 1.5 belts is in fact enough, bottom belt = half)\n- 1x Sulfuric Acid (fluid)\n\nOutput:\n- 1x Processing unit (blue circuit)",
   "lastUpdatedDate": 1607097152342,
-  "tags": {
-    "3": "/version/1,0/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ]
 }

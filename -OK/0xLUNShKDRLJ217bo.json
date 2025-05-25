@@ -27,9 +27,9 @@
   "imageUrl": "https://imgur.com/e7T5Nsz",
   "lastUpdatedDate": 1740568357121,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/general/tileable/"
+  ],
   "title": "City block NEW"
 }

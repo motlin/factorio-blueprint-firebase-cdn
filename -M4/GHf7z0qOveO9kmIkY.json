@@ -5,12 +5,12 @@
   "descriptionMarkdown": "Low tech, early-mid game, automation cores array.\nIt produces 7.5 cores / second, enough to fill half a yellow belt, it actually produces a little bit more than that, but just a little bit, there are 16 AM producing the cores instead of 15, but I would like to not be killed by my OCD every time I watch this array.",
   "fileName": "AutomationCoresArray.jpg",
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/mods/krastorio/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/mods/krastorio/",
+    "/version/0,18/"
+  ],
   "author": {
     "userId": "pDED5f33sYbvGUo95pcdFtfaFZB2"
   },

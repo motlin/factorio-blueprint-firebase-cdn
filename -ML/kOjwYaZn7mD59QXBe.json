@@ -15,9 +15,9 @@
   "fileName": "20201109211506_1.jpg",
   "lastUpdatedDate": 1604982341491,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/general/storage/"
+  ],
   "title": "NTF Security System",
   "favorites": {
     "SS0ivWSelScggoritSCjMW2VOo32": true,

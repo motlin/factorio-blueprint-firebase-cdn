@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1664788719291,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/bobs/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": " Bloco com mercado, circuito vermelho e tablete de pedra"
 }

@@ -48,13 +48,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Super%20refinery.png?alt=media&token=98f9e195-8032-4280-8755-c13c1e6fde9c",
   "lastUpdatedDate": 1507259383875,
   "numberOfFavorites": 81,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/version/0,15/",
-    "2": "/train/unloading station/",
-    "3": "/production/smelting/",
-    "4": "/general/beaconized/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/version/0,15/",
+    "/train/unloading station/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Super Refinery"
 }

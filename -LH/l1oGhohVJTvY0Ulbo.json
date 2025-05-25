@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1560969692428,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/production/electronic circuit (green)/",
+    "/version/0,17/"
+  ],
   "title": "21KPM Belt Based Green Science (No Modules or Beacons)"
 }

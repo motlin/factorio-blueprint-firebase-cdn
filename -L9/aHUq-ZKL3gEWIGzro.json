@@ -15,8 +15,8 @@
     "type": "image/jpeg",
     "width": 1366
   },
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Robot Making"
 }

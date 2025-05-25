@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1597586083514,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/version/0,18/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/version/0,18/",
+    "/general/early game/"
+  ],
   "title": "Tilable Electric engine 0.8/sec - 48/min ",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_20200816_155353.png?alt=media&token=474d3282-e686-46a1-b6ae-f3a7905baa89",
   "author": {

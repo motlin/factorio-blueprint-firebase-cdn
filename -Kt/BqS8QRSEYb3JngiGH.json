@@ -13,12 +13,12 @@
     "width": 2473
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Uranium%20Assembly%20(compact%20design).png?alt=media&token=ec1a625b-48f6-43a1-a0ff-b75fde1a8fb7",
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/production/guns and ammo/",
-    "1": "/general/compact/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/general/compact/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Rjt3W2N86eaJWs3PfdYoDqvt3tQ2": true,
     "GcUPJTGN8gR3Tc9XxxS9zDpdAZB3": true,

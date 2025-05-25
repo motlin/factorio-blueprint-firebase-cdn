@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Agvwsfm",
   "lastUpdatedDate": 1731839119696,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/general/storage/"
+  ],
   "title": "Stash-It Storage System",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

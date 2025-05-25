@@ -15,10 +15,10 @@
     "type": "image/png",
     "width": 852
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Outpost of Death (early/mid game)",
   "favorites": {
     "MzULrpdZngY1YbMEmAIihXt4TLd2": true

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1617398201407,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/version/1,0/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/version/1,0/",
+    "/general/beaconized/"
+  ],
   "title": "Battery 1800+ spm",
   "favorites": {
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,

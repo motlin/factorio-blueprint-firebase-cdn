@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "[WIP] Walls - Bullets - Manual Feed Chest",
   "createdDate": 1565173947522,
   "descriptionMarkdown": "This is a early to mid game defense that has the walls split into sections that require manual feeding of ammo into designated chests.\n\nBlueprint is in one piece and requires splitting up once in game.",

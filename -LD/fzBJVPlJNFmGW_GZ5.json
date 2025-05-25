@@ -13,14 +13,14 @@
     "height": 847
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "5": "/version/0,15/",
-    "0": "/general/tileable/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/production/belt based/",
-    "3": "/version/0,16/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/tileable/",
+    "/production/electronic circuit (green)/",
+    "/production/belt based/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "g69WZQ58uCe7VrQYgmbGFJxLkz12"
   }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/QLwQNAw",
   "lastUpdatedDate": 1731937927182,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Lightning Freighter",
   "favorites": {
     "f73cglp93kZUlGSANJDImqnCakz1": true,

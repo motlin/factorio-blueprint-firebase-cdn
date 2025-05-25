@@ -8,11 +8,11 @@
   },
   "createdDate": 1524453742589,
   "descriptionMarkdown": "Basic bar graph for indicating relative levels of each science pack in the network. The constant contaminator can be set to whatever you want the max in the graph to be",
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "DexTbjDWe3gV0rIhPuSqJAznLR12": true,

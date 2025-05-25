@@ -4,10 +4,10 @@
   "fileName": "2018-03-09.png",
   "title": "Forward Outpost",
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/general/mid game/",
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "MhpYA8nBmpRuqr9Nn1lpOgTgiH82"
   },

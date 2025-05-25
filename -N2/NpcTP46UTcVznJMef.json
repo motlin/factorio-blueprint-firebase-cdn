@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1652905379857,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "45/s Ore Smelter",
   "favorites": {
     "lMPRklTqYjWsHuLAiXuT390ESuP2": true,

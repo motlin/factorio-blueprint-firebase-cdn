@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/J28oPvB",
   "lastUpdatedDate": 1732130011204,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/combat/defense/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/combat/defense/",
+    "/version/2,0/"
+  ],
   "title": "Gun with 20x ammo",
   "favorites": {
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,

@@ -32,15 +32,15 @@
   },
   "lastUpdatedDate": 1658113349088,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/belts/",
-    "3": "/production/belt based/",
-    "4": "/production/inserters/",
-    "5": "/production/other/",
-    "6": "/general/early game/",
-    "7": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/production/mall (make everything)/",
+    "/production/belts/",
+    "/production/belt based/",
+    "/production/inserters/",
+    "/production/other/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "[SE] DL72's Modular Mall"
 }

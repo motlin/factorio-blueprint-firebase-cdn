@@ -9,13 +9,13 @@
     "type": "image/png",
     "width": 2314
   },
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/belt based/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bricksmeltv6.PNG?alt=media&token=fdff3407-fcc8-47a8-b0d2-ea0df899b900",
   "author": {
     "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"

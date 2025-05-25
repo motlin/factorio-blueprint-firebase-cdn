@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1689780357166,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/general/early game/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/",
-    "5": "/production/smelting/",
-    "6": "/mods/vanilla/",
-    "7": "/general/ups friendly/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/ups friendly/"
+  ],
   "title": "Starter Furnaces",
   "favorites": {
     "V05PA57xnzPnigC5WFs7NZaC4gM2": true,

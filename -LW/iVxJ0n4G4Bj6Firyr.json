@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "author": {
     "userId": "N8p9po8lElcznGnUYejU1C2ejNE3"
   },

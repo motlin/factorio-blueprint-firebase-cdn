@@ -10,12 +10,12 @@
   },
   "lastUpdatedDate": 1578682955947,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/version/0,17/",
-    "2": "/version/0,16/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/version/0,17/",
+    "/version/0,16/",
+    "/train/junction/"
+  ],
   "title": "My favorite train rail book",
   "author": {
     "userId": "pussdIsqGBZKqMi5jUhIaD9llNi1"

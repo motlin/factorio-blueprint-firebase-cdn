@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1683614032567,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/other/",
-    "2": "/production/belt based/",
-    "3": "/production/coal liquification/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/other/",
+    "/production/belt based/",
+    "/production/coal liquification/"
+  ],
   "title": "Spidertrons From Raw"
 }

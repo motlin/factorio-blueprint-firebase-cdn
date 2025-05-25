@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1624394820739,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/belt/balancer/",
-    "3": "/production/mining/",
-    "4": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/belt/balancer/",
+    "/production/mining/",
+    "/train/loading station/"
+  ],
   "title": "Ore Field Balancers v1"
 }

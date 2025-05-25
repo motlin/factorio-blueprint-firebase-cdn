@@ -16,11 +16,11 @@
   "fileName": "Mass storage.jpg",
   "numberOfFavorites": 4,
   "title": "Pyanodon Mass Storage",
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/mods/other/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/other/",
+    "/mods/factorissimo/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
     "7UQDTpiF2Wd9JSV12aVGDNiCC5m1": true,

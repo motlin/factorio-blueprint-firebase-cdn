@@ -15,12 +15,12 @@
     "id": "XI3t0KW"
   },
   "lastUpdatedDate": 1600556655993,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "ojuVhXgq0KV351iZ98b5aHHoqc52"
   },

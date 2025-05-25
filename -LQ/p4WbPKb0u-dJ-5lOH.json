@@ -39,13 +39,13 @@
   },
   "lastUpdatedDate": 1607037187523,
   "numberOfFavorites": 20,
-  "tags": {
-    "5": "/version/1,0/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/belt based/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/processing unit (blue)/",
+    "/production/advanced circuit (red)/",
+    "/production/electronic circuit (green)/",
+    "/production/belt based/",
+    "/general/tileable/"
+  ],
   "title": "All circuits w/ an octagon design"
 }

@@ -16,11 +16,11 @@
     "type": "image/png",
     "width": 1361
   },
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/mods/vanilla/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "favorites": {
     "uNaLZB7XMtXaHG6sEnZcV225euq1": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

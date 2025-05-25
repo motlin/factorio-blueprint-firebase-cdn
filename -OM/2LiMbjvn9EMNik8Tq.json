@@ -21,11 +21,11 @@
   "imageUrl": "https://imgur.com/9S3eyAz",
   "lastUpdatedDate": 1742739297935,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/quality/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/quality/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Quality asteroid chunk upcycling "
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/OZlqhYR",
   "lastUpdatedDate": 1732629568195,
   "numberOfFavorites": 37,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/version/2,0/"
+  ],
   "title": "Tiny Gleba, cheap, 200 SPM",
   "favorites": {
     "k5ltx6S2MAZiBqQKTnUDWM606Lt2": true,

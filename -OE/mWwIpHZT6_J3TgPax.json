@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/wwDsZqJ",
   "lastUpdatedDate": 1734941628369,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Aquilo, common quality ship/platform",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

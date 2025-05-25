@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1673600154747,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable science labs",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Tileable%20labs.png?alt=media&token=0136d88f-f395-427d-abb3-ad0e7fa33760",
   "favorites": {

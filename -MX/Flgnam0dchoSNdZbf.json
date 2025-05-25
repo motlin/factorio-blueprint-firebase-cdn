@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1617341259780,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/version/1,0/"
+  ],
   "title": "AAI Remote Garage and Depot Outpost",
   "favorites": {
     "lWWxmthVwxSm3udBoe8rRoLC4mz2": true

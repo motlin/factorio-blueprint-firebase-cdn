@@ -41,10 +41,10 @@
   },
   "lastUpdatedDate": 1677599685684,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/mall (make everything)/",
+    "/mods/space-exploration/"
+  ],
   "title": "Krastorio2 / Space exploration | Early game mall v2"
 }

@@ -5,13 +5,13 @@
     "type": "image/jpeg",
     "width": 1007
   },
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/mall (make everything)/",
-    "4": "/general/early game/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "[WIP] MiniMall Mk3",
   "favorites": {
     "Uyp9pxFWr0cXJf7lyxnBMcB93Gw1": true,

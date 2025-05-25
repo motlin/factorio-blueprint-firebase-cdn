@@ -18,8 +18,8 @@
   "createdDate": 1593353363961,
   "descriptionMarkdown": "Book with the pt-br video series blueprints",
   "fileName": "prbrseriespt1.png",
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Factorio BP Series - Pt1"
 }

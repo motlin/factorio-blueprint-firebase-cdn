@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1709369147184,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/mods/vanilla/"
+  ],
   "title": "Resetable Countdown Clock",
   "favorites": {
     "XM7y0B8i81dIrOKaj80YN5xMuYp2": true

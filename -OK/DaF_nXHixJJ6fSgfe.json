@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2vnjDqi",
   "lastUpdatedDate": 1740780407338,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/compact/"
+  ],
   "title": " Dumb Single Foundry Belt Mall",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true

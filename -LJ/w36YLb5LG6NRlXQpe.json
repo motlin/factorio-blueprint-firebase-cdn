@@ -15,11 +15,11 @@
   "fileName": "Kovarex enrichment.jpg",
   "authorId": "hHpiKQtbfwa6uM07clouB690Wac2",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Rotary Kovarex enrichment",
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

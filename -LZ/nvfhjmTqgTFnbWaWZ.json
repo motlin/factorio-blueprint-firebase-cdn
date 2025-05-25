@@ -167,13 +167,13 @@
   },
   "lastUpdatedDate": 1551461597379,
   "numberOfFavorites": 150,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/",
-    "5": "/production/robots/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/robots/"
+  ],
   "title": "Early Game Base with all the Science"
 }

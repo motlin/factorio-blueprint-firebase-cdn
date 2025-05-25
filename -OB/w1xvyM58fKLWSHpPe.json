@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/eXoFWUM",
   "lastUpdatedDate": 1731881449526,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/modules/",
-    "2": "/version/2,0/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/modules/",
+    "/version/2,0/",
+    "/general/compact/"
+  ],
   "title": "Quality Gambler Book v0.1",
   "favorites": {
     "nwlGrRTXpHURwOMAfjZ70yGWZms1": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1698063731629,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Steam reactor (planet without water)",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

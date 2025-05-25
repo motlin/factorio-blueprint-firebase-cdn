@@ -7,14 +7,14 @@
   },
   "descriptionMarkdown": "For those wanting to minimise active chunks caused by trains.\n\nThis BP book contains:\n* Chunk aligned 4-lane track segments\n* Various 2-track exit plans\n* T junctions\n* 90 degree corners\n* **Uses Substations not large poles** for the use of adding solar/accumulators to the mainline.\n\nThis book is far from complete but is a good starting point for any main-line construction projects.\n\nI should also thank ***MojoD_*** for the base book I used (stole) as the basic starting point for this one. \n ",
   "lastUpdatedDate": 1541950610069,
-  "tags": {
-    "5": "/mods/vanilla/",
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/left-hand-drive/",
-    "3": "/general/chunk aligned/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/general/chunk aligned/",
+    "/version/0,15/"
+  ],
   "image": {
     "height": 1057,
     "id": "RefU6zq",

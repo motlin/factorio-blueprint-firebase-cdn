@@ -12,9 +12,9 @@
     "width": 739
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "title": "Green circuit",
   "createdDate": 1599042888739,
   "descriptionMarkdown": "my first test project",

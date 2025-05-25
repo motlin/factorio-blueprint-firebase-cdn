@@ -30,9 +30,9 @@
     "width": 628
   },
   "lastUpdatedDate": 1551630820105,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  }
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ]
 }

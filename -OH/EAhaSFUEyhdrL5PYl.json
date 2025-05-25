@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/vly0bXL",
   "lastUpdatedDate": 1737568999874,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/space-age/"
+  ],
   "title": "Compact Vulcanus Electric Motor",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

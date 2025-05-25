@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1644029836492,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Megabase - Oil Depot",
   "favorites": {
     "oze12jqqGNPBaRHVyEruuC94eyw2": true,

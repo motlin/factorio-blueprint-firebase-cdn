@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1672778048847,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/"
+  ],
   "title": "Multivalue thread safe memory-latch",
   "favorites": {
     "vuamgog1s6UjNSasMlc6iYYS9hZ2": true,

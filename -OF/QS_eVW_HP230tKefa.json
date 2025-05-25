@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/RyIioQh",
   "lastUpdatedDate": 1735627529514,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/general/mid game/"
+  ],
   "title": "Bioflux Module",
   "favorites": {
     "VggjOSzhaDU7YY0frtN78lqA6xi2": true

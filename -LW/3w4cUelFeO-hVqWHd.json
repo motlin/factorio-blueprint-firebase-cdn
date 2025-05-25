@@ -3,12 +3,12 @@
   "descriptionMarkdown": "Jump Start Base for 0.17",
   "lastUpdatedDate": 1576343273043,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/research (labs)/",
-    "2": "/production/science/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/research (labs)/",
+    "/production/science/",
+    "/production/mall (make everything)/"
+  ],
   "author": {
     "userId": "ty1ynaUnQZWpn6ZZ5RZ0hnkMRq43"
   },

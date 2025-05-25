@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1635648689669,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/train/track/",
-    "4": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/track/",
+    "/train/left-hand-drive/"
+  ],
   "title": "48 Grid Rails LHD (for 6 car trains) v3",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

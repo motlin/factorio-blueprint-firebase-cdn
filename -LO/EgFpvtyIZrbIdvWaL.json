@@ -20,13 +20,13 @@
   },
   "lastUpdatedDate": 1538935545782,
   "numberOfFavorites": 12,
-  "tags": {
-    "2": "/power/accumulator/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,16/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/electronic circuit (green)/",
+    "/circuit/indicator/"
+  ],
   "title": "12 belt  green circuit factory. codename:DigitalRiver"
 }

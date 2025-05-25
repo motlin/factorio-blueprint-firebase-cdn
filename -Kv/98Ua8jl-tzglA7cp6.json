@@ -219,12 +219,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/labs2.jpg?alt=media&token=90761069-a228-4e6b-a270-a24abbfb0452",
   "lastUpdatedDate": 1507588279281,
   "numberOfFavorites": 405,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,15/"
+  ],
   "title": "1000 Science per minute (belt-based)"
 }

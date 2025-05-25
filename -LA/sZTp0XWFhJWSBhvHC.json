@@ -3,13 +3,13 @@
   "createdDate": 1553579765263,
   "lastUpdatedDate": 1553579765263,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Compact Tier 3 Module Factory",
   "favorites": {
     "EyonIldtCqhMM23r9lshGA3hVTf2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Flgicoo",
   "lastUpdatedDate": 1730200530023,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/belts/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/belts/"
+  ],
   "title": "Walkers Worrying Omnibelt Manufactorium, V2",
   "favorites": {
     "q3ShVg8zqVhjVnssQRRznAWZCSo1": true,

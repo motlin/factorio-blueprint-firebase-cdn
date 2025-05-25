@@ -15,14 +15,14 @@
   "title": "On Demand Spidertron production",
   "lastUpdatedDate": 1615601273670,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/production/other/",
-    "2": "/circuit/counter/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/general/compact/",
-    "5": "/general/late game (megabase)/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/other/",
+    "/circuit/counter/",
+    "/production/logistic (bot) based/",
+    "/general/compact/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "u8fWVwvKXKXv15yU76ZVWr5jfE13"
   },

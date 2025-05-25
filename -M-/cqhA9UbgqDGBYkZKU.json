@@ -19,11 +19,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Glass%20Ingot.jpg?alt=media&token=65610675-f092-4243-915e-0f78966632e3",
   "lastUpdatedDate": 1581233632358,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/other/",
-    "2": "/production/science/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/other/",
+    "/production/science/",
+    "/production/other/"
+  ],
   "title": "Industrial Revolution Book"
 }

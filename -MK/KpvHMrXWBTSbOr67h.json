@@ -2,19 +2,19 @@
   "createdDate": 1603463002115,
   "descriptionMarkdown": "Train size 1-4. To make a junction or a turn, place the roundabout multiple times in the same spot with a diffirent rotation.",
   "fileName": "Annotation 2020-10-23 172147.png",
-  "tags": {
-    "6": "/mods/vanilla/",
-    "7": "/version/1,0/",
-    "0": "/train/roundabout/",
-    "1": "/train/loading station/",
-    "2": "/train/right-hand-drive/",
-    "4": "/train/junction/",
-    "5": "/train/track/",
-    "3": "/train/unloading station/",
-    "8": "/general/tileable/",
-    "9": "/general/mid game/",
-    "10": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/roundabout/",
+    "/train/loading station/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/unloading station/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "3BrYdqESgnXgcUJKpoy8sHPky2E3"
   },

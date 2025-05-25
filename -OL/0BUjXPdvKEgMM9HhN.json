@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/wksS4Xr",
   "lastUpdatedDate": 1741629392240,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Spacecraft \"Eagle-1\""
 }

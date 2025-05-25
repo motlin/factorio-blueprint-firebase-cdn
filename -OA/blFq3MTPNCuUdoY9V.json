@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Cb15Glw",
   "lastUpdatedDate": 1730465400142,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Upcycle Plastic Logic",
   "favorites": {
     "hunVQEnydNW9gcR6K6K7gcRgUpi2": true,

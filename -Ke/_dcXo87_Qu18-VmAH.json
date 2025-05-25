@@ -17,9 +17,9 @@
     "id": "a7qBPnd"
   },
   "lastUpdatedDate": 1499429971590,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,14/"
-  }
+  "tags": [
+    "/production/modules/",
+    "/mods/bobs/",
+    "/version/0,14/"
+  ]
 }

@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1690780851663,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Space Exploration BP Book"
 }

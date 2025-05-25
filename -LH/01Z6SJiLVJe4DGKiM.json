@@ -24,9 +24,9 @@
   "descriptionMarkdown": "Speed beacon mining with bots",
   "fileName": "screenshot-tick-30045887.png",
   "lastUpdatedDate": 1531173290594,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/beaconized/"
+  ],
   "title": "Beacon Bot mining."
 }

@@ -2,10 +2,10 @@
   "authorId": "4t3yqh5LubNE1hRLFLufKQTgJ292",
   "lastUpdatedDate": 1524769048306,
   "title": "Self-Building Railsystem",
-  "tags": {
-    "1": "/train/track/",
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/loading station/"
+  ],
   "author": {
     "userId": "4t3yqh5LubNE1hRLFLufKQTgJ292"
   },

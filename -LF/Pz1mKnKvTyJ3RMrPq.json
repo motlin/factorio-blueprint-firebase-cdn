@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1558452120909,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/"
+  ],
   "title": "16 core nuclear plant"
 }

@@ -12,12 +12,12 @@
     "type": "image/jpeg",
     "width": 2000
   },
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/"
+  ],
   "title": "Compact Oil Build",
   "favorites": {
     "8aFgUX6S0LenU0tlu51T9yFEtcF2": true,

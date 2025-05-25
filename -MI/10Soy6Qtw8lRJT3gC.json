@@ -30,13 +30,13 @@
     "width": 1583
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "4": "/production/smelting/",
-    "5": "/production/logistic (bot) based/",
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/general/beaconized/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "title": "Refined concrete from raw belt-based 2450/m & bot-based 2700/m"
 }

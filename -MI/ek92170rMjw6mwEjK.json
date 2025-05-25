@@ -32,13 +32,13 @@
     "width": 931
   },
   "lastUpdatedDate": 1638461684877,
-  "tags": {
-    "3": "/train/unloading station/",
-    "4": "/mods/vanilla/",
-    "5": "/general/compact/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/train/loading station/"
+  ],
   "title": "Circuitless Balanced Loading/Unloading"
 }

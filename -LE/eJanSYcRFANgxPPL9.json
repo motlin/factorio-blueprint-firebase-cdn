@@ -35,9 +35,9 @@
     "type": "image/jpeg",
     "width": 1427
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/production/science/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ]
 }

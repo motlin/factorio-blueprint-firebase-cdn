@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1702454767235,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "title": "Space Exploration: 6 belts of green circuits (late midgame)",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

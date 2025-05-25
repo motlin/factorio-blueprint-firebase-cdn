@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "Will add some Blueprints for Hard Crafting Mod here.\n\n**Keep in mind, Belt Sorting (Mod Entity) Settings are stored in Blueprints, but turning Blueprints will not adapt those Settings. So adjust the Settings according to the turn rate.**\n\nConnections are shown VIA Filter Serter near / directly on Belts. Dont use those inserters, as they wont have that much throughput.\n\n*Every Blueprint ist optimized the way they are. If you find any Bugs or Errors, please let me know.*\n\nI will also do Blueprints on Request.",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/"
+  ],
   "title": "Book: Hard Crafting (MOD)",
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true

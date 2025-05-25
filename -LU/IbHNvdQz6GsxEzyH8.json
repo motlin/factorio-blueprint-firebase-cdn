@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1545443734762,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/production/other/",
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/other/",
+    "/general/beaconized/"
+  ],
   "title": "Large Acid Plant - Barrels o' Fun!"
 }

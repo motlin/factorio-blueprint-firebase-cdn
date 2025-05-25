@@ -6,13 +6,13 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 12,
-  "tags": {
-    "3": "/production/smelting/",
-    "4": "/version/0,15/",
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,15/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/factorissimo/"
+  ],
   "title": "Bob's + Angel's \"Basic\" Crushing/Smelting",
   "author": {
     "userId": "n6wZprySssfnWZs6A06DMmv2fup1"

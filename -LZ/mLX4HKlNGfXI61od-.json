@@ -9,12 +9,12 @@
   },
   "lastUpdatedDate": 1551329086077,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "0.17 Starter Green Circuits",
   "author": {
     "userId": "0qW21pDfVkZXqxaoLod11jeCF5B2"

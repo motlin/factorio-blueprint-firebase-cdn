@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/1RT88Zm",
   "lastUpdatedDate": 1730072054070,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Autocrafting Mall",
   "favorites": {
     "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,

@@ -1,11 +1,11 @@
 {
   "createdDate": 1550527359891,
   "descriptionMarkdown": "17 lane, 2 deep smart stacker; it disables the rear signals of the lanes where trains are already stacked. Once the front row is full, the rear signals re-enable to ensure maximum train availability.\n\nExpandable without modification of combinator functions.\n\nAdditional Lanes here: https://factorioprints.com/view/-LZ1d8vm9qG4qVTUCitX",
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/",
-    "0": "/train/stacker/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/train/stacker/"
+  ],
   "title": "Smart Stacker",
   "favorites": {
     "cdOwOkp1PkR1rUgTlJcBuZRrRoc2": true,

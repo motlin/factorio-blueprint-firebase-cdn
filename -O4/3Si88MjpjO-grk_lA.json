@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/5etWOdV",
   "lastUpdatedDate": 1723435630222,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/plastic/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/plastic/"
+  ],
   "title": "Ultimate Oil Proccessing Plant",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

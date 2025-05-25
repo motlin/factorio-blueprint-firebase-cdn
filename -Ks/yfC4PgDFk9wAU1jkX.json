@@ -21,12 +21,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Cityblock.jpg?alt=media&token=1e55f9c5-ff37-489c-889a-d6208ebcf91a",
   "lastUpdatedDate": 1504616264318,
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/mods/bobs/",
-    "2": "/mods/other/",
-    "3": "/train/right-hand-drive/",
-    "4": "/version/0,15/",
-    "0": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/other/",
+    "/train/right-hand-drive/",
+    "/version/0,15/",
+    "/mods/angels/"
+  ],
   "title": "Cityblock Layout with 2x2 RHD Railway + Log Bot Network intregrated; Brick Style (Order of the Path)"
 }

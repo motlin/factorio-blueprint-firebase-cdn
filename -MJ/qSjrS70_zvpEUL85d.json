@@ -20,12 +20,12 @@
   "numberOfFavorites": 2,
   "authorId": "wsdlY32MbNbMXLN6Rf4wIN3VbyM2",
   "title": "Logistics Factory",
-  "tags": {
-    "5": "/mods/vanilla/",
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/production/inserters/",
-    "3": "/production/belts/",
-    "4": "/version/1,0/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/production/inserters/",
+    "/production/belts/",
+    "/version/1,0/"
+  ]
 }

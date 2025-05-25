@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1618250486111,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear Reactor 1GW",
   "favorites": {
     "N59uu6x3QmVbgjZLdhAOMfsVvxv2": true,

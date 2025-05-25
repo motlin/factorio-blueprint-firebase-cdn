@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/6LPtxAz",
   "lastUpdatedDate": 1730199044849,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Walker Whimsical Omnibelt Manufactorium, V1",
   "favorites": {
     "wM8z2IORYrTGcyIXS4rECbwlw2Q2": true

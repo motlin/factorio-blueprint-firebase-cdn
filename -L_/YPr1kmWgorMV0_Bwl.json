@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Starter Military Mall",
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,

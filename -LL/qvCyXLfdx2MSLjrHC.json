@@ -26,11 +26,11 @@
   },
   "lastUpdatedDate": 1565363331251,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,17/"
+  ],
   "title": "All Science with Angel and Bob"
 }

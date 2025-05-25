@@ -21,10 +21,10 @@
   },
   "title": "Hexagonal Solar Panel design",
   "authorId": "vSOyz8T3XzVhY1f1guNQt13pnui2",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/tileable/",
-    "0": "/power/solar/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/tileable/",
+    "/power/solar/"
+  ]
 }

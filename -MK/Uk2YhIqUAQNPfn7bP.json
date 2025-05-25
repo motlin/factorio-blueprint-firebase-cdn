@@ -47,10 +47,10 @@
   "lastUpdatedDate": 1692423077432,
   "numberOfFavorites": 39,
   "title": "All Inserters Production Line",
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "hCUriC4117Mpb3gTwy7KR2X8FFa2"
   },

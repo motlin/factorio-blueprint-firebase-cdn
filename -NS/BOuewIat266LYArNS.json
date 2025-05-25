@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1680614075327,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/indicator/"
+  ],
   "title": "Pulse encode an outpost's state"
 }

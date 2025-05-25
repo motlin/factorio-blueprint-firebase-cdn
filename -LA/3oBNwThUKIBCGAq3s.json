@@ -1,13 +1,13 @@
 {
-  "tags": {
-    "3": "/production/science/",
-    "4": "/version/0,17/",
-    "5": "/general/tileable/",
-    "6": "/general/compact/",
-    "0": "/mods/vanilla/",
-    "1": "/general/mid game/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/early game/"
+  ],
   "title": "Utility science pack",
   "authorId": "QIE2KWG9txYWeZcZtcboDUSME8G2",
   "fileName": "blueprint (12)2.png",

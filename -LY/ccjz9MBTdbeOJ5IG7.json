@@ -2,11 +2,11 @@
   "descriptionMarkdown": "A means of getting the most efficient coverage of an ore field when placing miners.",
   "fileName": "SmallMiners.PNG",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/mods/vanilla/",
-    "2": "/production/mining/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/production/mining/"
+  ],
   "title": "Small Miners (Steel Power Pole)",
   "authorId": "LwASv8Mm0qeOmWYCBBW0MFbw39s2",
   "createdDate": 1550091223141,

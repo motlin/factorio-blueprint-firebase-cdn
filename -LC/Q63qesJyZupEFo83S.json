@@ -22,13 +22,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2018-13-05-17-38-26.jpeg?alt=media&token=c0806fb2-e2f6-4bfd-bc6d-f15751d124bc",
   "lastUpdatedDate": 1526247582849,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/mods/creative/",
-    "3": "/version/0,16/",
-    "4": "/version/0,15/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/mods/creative/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Item # Info"
 }

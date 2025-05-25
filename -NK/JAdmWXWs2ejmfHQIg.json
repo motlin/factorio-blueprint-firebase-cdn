@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1701145648433,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Hub: Red Science",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

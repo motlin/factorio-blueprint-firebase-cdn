@@ -14,13 +14,13 @@
   },
   "lastUpdatedDate": 1566932832905,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/"
+  ],
   "title": "Plastic bars 2xBB",
   "favorites": {
     "JFUJeO0PJ2Ph9rNGa9rUlDtyfzc2": true,

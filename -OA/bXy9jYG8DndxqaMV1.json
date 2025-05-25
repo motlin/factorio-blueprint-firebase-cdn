@@ -29,10 +29,10 @@
   "imageUrl": "https://imgur.com/kdxPRkr",
   "lastUpdatedDate": 1737546617301,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/track/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/track/",
+    "/mods/ltn/"
+  ],
   "title": "Поезда 2.0 Прерывание [LTN 2.0] by OstinFCT"
 }

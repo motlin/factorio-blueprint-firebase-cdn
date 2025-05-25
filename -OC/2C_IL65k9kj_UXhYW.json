@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/mGYL5yT",
   "lastUpdatedDate": 1731999454464,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "6-Digit Item Count Display",
   "favorites": {
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,

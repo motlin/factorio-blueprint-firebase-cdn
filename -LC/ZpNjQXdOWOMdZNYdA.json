@@ -19,10 +19,10 @@
   "authorId": "bRk3Tf4Z8LdEpzbXJtfQRLwSdX63",
   "lastUpdatedDate": 1555396136080,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "title": "Red Circuits"
 }

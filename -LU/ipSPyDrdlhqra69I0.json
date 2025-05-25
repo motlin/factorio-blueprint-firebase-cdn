@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "authorId": "bd8ydG9sKoP4NcM2cgEaK6P9pXt2",
   "image": {
     "height": 853,

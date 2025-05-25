@@ -11,13 +11,13 @@
     "width": 582
   },
   "lastUpdatedDate": 1515921503093,
-  "tags": {
-    "4": "/general/tileable/",
-    "0": "/production/smelting/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/smelting/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "RvXzoBDUjGSddTjYqEOG2ThOtT22"
   },

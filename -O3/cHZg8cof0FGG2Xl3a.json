@@ -17,15 +17,15 @@
   "imageUrl": "https://imgur.com/6lPI4Yw",
   "lastUpdatedDate": 1722957843767,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/power/steam/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/power/accumulator/",
-    "5": "/power/nuclear/",
-    "6": "/production/mining/",
-    "7": "/production/smelting/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/power/steam/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/power/accumulator/",
+    "/power/nuclear/",
+    "/production/mining/",
+    "/production/smelting/"
+  ],
   "title": "Raz's Blueprint Book"
 }

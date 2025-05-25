@@ -15,12 +15,12 @@
   "createdDate": 1514927379445,
   "fileName": "generic-factory.jpg",
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/modules/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/production/mall (make everything)/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/modules/",
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Template / Blank / Generic Factory "
 }

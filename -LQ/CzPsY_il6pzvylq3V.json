@@ -5,11 +5,11 @@
   "authorId": "k218UOibx2envvHmgegzIJFIAng2",
   "descriptionMarkdown": "33.6SPM of chemical packs. Good balance. Use it with Side Inserters mod.\n\nВсем привет! Схема для Красторио. Производит 33,6 химических пакетов в минуту (0,56/сек). Сбалансирована.\nДля использования дополнительно установите мод \"Side Inserters\"",
   "fileName": "Chemical_EarlyGame.png",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/",
+    "/mods/krastorio/"
+  ],
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
     "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true,

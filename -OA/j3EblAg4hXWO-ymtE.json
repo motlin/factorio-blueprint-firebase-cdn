@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/OVGPwe1",
   "lastUpdatedDate": 1730724911140,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "lyr's Advanced Circuits",
   "favorites": {
     "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,

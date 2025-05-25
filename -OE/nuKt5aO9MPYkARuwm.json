@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/0K4CTGK",
   "lastUpdatedDate": 1734980741450,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-age/",
-    "2": "/planets/gleba/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Quad Reactor for Gleba with Logistics and Roboports",
   "favorites": {
     "SnvhQal2NHX8HP4T0y5RRpGEpDG2": true,

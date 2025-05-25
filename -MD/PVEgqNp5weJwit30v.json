@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1625016040594,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "My old red science factory module"
 }

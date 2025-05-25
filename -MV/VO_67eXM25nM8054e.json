@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1655166690262,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/stacker/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/stacker/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/"
+  ],
   "title": "Standard (1-4) Train pattern (Easy and efficient way)",
   "favorites": {
     "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,

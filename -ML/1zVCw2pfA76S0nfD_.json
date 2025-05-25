@@ -9,9 +9,9 @@
   },
   "lastUpdatedDate": 1604220823832,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Advanced Looping Clock",
   "author": {
     "userId": "PXsPSPz8OiQhTsIDzADOVM3uKab2"

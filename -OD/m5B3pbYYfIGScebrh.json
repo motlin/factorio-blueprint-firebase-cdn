@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/qwYyABG",
   "lastUpdatedDate": 1733859787132,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Chainsaw Promethium Science"
 }

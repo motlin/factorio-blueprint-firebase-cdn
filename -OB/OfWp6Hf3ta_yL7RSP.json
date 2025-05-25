@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dhfB6wH",
   "lastUpdatedDate": 1731302661631,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/late game (megabase)/"
+  ],
   "title": "19.5GW Legendary fusion reactor",
   "favorites": {
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,

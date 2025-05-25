@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1637838586045,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "mall with Logistic robot",
   "favorites": {
     "d9UKmb2bWSc4DhSOGd58H1CDRn22": true,

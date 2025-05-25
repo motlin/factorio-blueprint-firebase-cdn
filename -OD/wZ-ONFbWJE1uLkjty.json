@@ -17,15 +17,15 @@
   "imageUrl": "https://imgur.com/n4f05RG",
   "lastUpdatedDate": 1734035428052,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,1/",
-    "2": "/train/crossing/",
-    "3": "/train/stacker/",
-    "4": "/train/track/",
-    "5": "/train/right-hand-drive/",
-    "6": "/train/loading station/",
-    "7": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,1/",
+    "/train/crossing/",
+    "/train/stacker/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Version 1.1 / Cityblock - Train-Network"
 }

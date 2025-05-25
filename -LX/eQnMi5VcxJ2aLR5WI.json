@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1549047648165,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/plastic/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/plastic/"
+  ],
   "title": "254k Plastics per min"
 }

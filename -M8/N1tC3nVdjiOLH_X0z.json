@@ -45,12 +45,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/80gridrailsv8.PNG?alt=media&token=84689994-0aaa-4505-89bf-22eb9bedd749",
   "lastUpdatedDate": 1635688637480,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/junction/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/left-hand-drive/"
+  ],
   "title": "80 Grid Rails LHD (11 car trains) v9"
 }

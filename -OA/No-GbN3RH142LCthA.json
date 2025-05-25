@@ -21,9 +21,9 @@
   "imageUrl": "https://imgur.com/Yo0LjwJ",
   "lastUpdatedDate": 1730230063489,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/science/"
+  ],
   "title": "Early base with upgradable modules"
 }

@@ -11,10 +11,10 @@
     "id": "8ZdrmfT",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/production/electronic circuit (green)/"
+  ],
   "favorites": {
     "SNOSmAMmb4UQLrUf8fak8FWWvry1": true
   },

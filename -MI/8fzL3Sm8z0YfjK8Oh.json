@@ -31,11 +31,11 @@
   },
   "lastUpdatedDate": 1651696185542,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,18/"
+  ],
   "title": "Supply / fuel / trash train system v7.0"
 }

@@ -16,8 +16,8 @@
     "id": "mvmeGVs"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ]
 }

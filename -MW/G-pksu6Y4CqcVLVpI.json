@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1616266980293,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/train/right-hand-drive/",
-    "2": "/production/belt based/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/train/right-hand-drive/",
+    "/production/belt based/",
+    "/general/mid game/"
+  ],
   "title": "\"Ideal\" train smelting"
 }

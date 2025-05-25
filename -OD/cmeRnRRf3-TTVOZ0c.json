@@ -88,15 +88,15 @@
   "imageUrl": "https://imgur.com/qMNmebi",
   "lastUpdatedDate": 1733983972680,
   "numberOfFavorites": 36,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/",
-    "3": "/version/unknown/",
-    "4": "/belt/balancer/",
-    "5": "/belt/prioritizer/",
-    "6": "/production/belt based/",
-    "7": "/circuit/counter/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/version/unknown/",
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/production/belt based/",
+    "/circuit/counter/"
+  ],
   "title": "Recyclatron 4.0"
 }

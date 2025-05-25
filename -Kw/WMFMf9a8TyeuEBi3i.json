@@ -21,14 +21,14 @@
   },
   "lastUpdatedDate": 1508093265805,
   "numberOfFavorites": 11,
-  "tags": {
-    "6": "/train/left-hand-drive/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/track/",
-    "3": "/train/junction/",
-    "4": "/train/crossing/",
-    "5": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/track/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/roundabout/"
+  ],
   "title": "Grid rails with walls"
 }

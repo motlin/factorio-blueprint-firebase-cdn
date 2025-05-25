@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/M6rLkKZ",
   "lastUpdatedDate": 1729817200858,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/version/2,0/"
+  ],
   "title": "Chunk Aligned Walls ",
   "favorites": {
     "gjPhLkg4LleDWPJ1WcWtSBxfTuD3": true,

@@ -51,16 +51,16 @@
   },
   "lastUpdatedDate": 1551267560528,
   "numberOfFavorites": 36,
-  "tags": {
-    "1": "/general/mid game/",
-    "2": "/general/tileable/",
-    "3": "/general/chunk aligned/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/junction/",
-    "6": "/train/roundabout/",
-    "7": "/mods/vanilla/",
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/chunk aligned/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "author": {
     "userId": "yllaLFiFTEQviErvAYBWARD6TCH2"
   },

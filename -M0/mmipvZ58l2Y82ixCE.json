@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1582473866577,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Rocket Control Units - 2.9K per Minute"
 }

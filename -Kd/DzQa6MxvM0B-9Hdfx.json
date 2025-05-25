@@ -16,12 +16,12 @@
   },
   "descriptionMarkdown": "Update: 13-Jun-2017: Updated to version 0.15 so you don't have to. :)\n\nWith either 1, 2, 3 or 4 belts of input, balance this onto between 1 and 8 belts of output.\n\nThis is the blue belt version. The screenshot shows only the blueprints for 1 and 2 belts of input. The blueprint book contains the 3 and 4 input belt versions too. The screenshot is the yellow belt version. The book is the blue belt version.",
   "fileName": "beltbalancersblue.PNG",
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/"
+  ],
   "title": "Belt Balancers (blue)",
   "favorites": {
     "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,

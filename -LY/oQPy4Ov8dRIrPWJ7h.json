@@ -13,14 +13,14 @@
     "pYTqkR6fA0NEWkC8VScluHMrxt62": true
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/",
-    "5": "/general/compact/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/",
+    "/production/advanced circuit (red)/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "HZC8AqukhxgXE6uMqWmZCQUa1QG2"
   },

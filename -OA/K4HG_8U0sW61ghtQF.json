@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/fHYVXOZ",
   "lastUpdatedDate": 1730152365579,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Science display ",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

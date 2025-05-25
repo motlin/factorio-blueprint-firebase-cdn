@@ -1,12 +1,12 @@
 {
   "descriptionMarkdown": "Blueprints to construct and plan smelting arrays in the Early game that will last to the Mid game.\n- Mining blueprint to saturate a Yellow Belt\n- Compact Smelting array for Iron/Copper/Stone\n- Compact Smelting Array for Steel\n\nPlan with the following for the base:\n- 4 arrays for Iron\n- 4 arrays for Copper\n- 2 arrays for Steel\n- 1 array for Stone\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/3.%20Basic%20Smelting.PNG?alt=media&token=708a7e81-5906-4206-b3cf-ccaee23377a4",
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/production/smelting/",
-    "2": "/general/early game/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/smelting/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "numberOfFavorites": 413,
   "author": {
     "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"

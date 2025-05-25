@@ -44,8 +44,8 @@
   "imageUrl": "https://imgur.com/3bCvAQ5",
   "lastUpdatedDate": 1725396892282,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "title": "The Balancer Book"
 }

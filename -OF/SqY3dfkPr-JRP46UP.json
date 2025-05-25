@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dDEK7qP",
   "lastUpdatedDate": 1735667626339,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Simple Smart Station 2.0"
 }

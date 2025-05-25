@@ -16,7 +16,7 @@
   "createdDate": 1516265340904,
   "descriptionMarkdown": "Calling it the BobBalancer because it looks like it says bob from above",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/balancer/"
-  }
+  "tags": [
+    "/belt/balancer/"
+  ]
 }

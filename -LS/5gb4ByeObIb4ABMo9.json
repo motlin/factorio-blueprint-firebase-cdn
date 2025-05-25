@@ -16,7 +16,7 @@
   "createdDate": 1543079359041,
   "descriptionMarkdown": "Production of engine units (not optmized). Actually It's my first blueprint :).",
   "lastUpdatedDate": 1543079359041,
-  "tags": {
-    "0": "/production/other/"
-  }
+  "tags": [
+    "/production/other/"
+  ]
 }

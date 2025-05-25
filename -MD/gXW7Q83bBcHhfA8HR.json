@@ -2,9 +2,9 @@
   "authorId": "ErGmG6r205hFc2zWzYIhLocIGKM2",
   "createdDate": 1596327596691,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Science Wagon",
   "favorites": {
     "loWg9Gl11iT7mQi7sENJQfyN82I3": true

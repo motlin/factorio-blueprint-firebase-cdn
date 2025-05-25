@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/rwLuR31",
   "lastUpdatedDate": 1728445906531,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/electronic circuit (green)/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Chip off the old rail block"
 }

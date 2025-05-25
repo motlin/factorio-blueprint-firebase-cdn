@@ -14,12 +14,12 @@
     "height": 1050
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,15/",
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,15/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "authorId": "1zEP3IEsGBZVsGm8te458HS5wnY2",
   "createdDate": 1596814113005
 }

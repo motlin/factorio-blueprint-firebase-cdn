@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/production/belt based/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/belt based/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "6G0XWbwkI2cGSBOZQqaVoF8Akfo1": true,
     "yZIIGymC7MdnplmIoNS3OnFPqWf2": true,

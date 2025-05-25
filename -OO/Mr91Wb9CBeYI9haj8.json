@@ -13,15 +13,15 @@
   "imageUrl": "https://i.imgur.com/C3Exp8N.png",
   "lastUpdatedDate": 1745231176818,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/space-exploration/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/planets/space-platform/",
-    "4": "/planets/modded/",
-    "5": "/power/solar/",
-    "6": "/mods/other/",
-    "7": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/production/logistic (bot) based/",
+    "/planets/space-platform/",
+    "/planets/modded/",
+    "/power/solar/",
+    "/mods/other/",
+    "/production/guns and ammo/"
+  ],
   "title": "Eurowing StratoRunner M1"
 }

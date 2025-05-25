@@ -7,10 +7,10 @@
     "width": 1047
   },
   "lastUpdatedDate": 1544291055803,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/compact/"
+  ],
   "title": "Compact 480MW reactor",
   "author": {
     "userId": "GwmJv7TDoBMIaLEwnIXVBiydD5x2"

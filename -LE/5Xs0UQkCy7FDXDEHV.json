@@ -20,12 +20,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2018-06-03_20-44-08.jpg?alt=media&token=1de11a9a-c194-40cd-a26a-079802669d56",
   "lastUpdatedDate": 1528048331551,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/beaconized/",
-    "2": "/production/mall (make everything)/",
-    "3": "/general/compact/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/beaconized/",
+    "/production/mall (make everything)/",
+    "/general/compact/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Compact customizable mall for middle-late game."
 }

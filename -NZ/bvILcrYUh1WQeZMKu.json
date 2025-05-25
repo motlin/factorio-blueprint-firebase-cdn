@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1688592004562,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/science/"
+  ],
   "title": "100/m Automation (red) tech card K2",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,

@@ -9,11 +9,11 @@
     "width": 505
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/cards.PNG?alt=media&token=e39f51df-2ebf-480b-9fbf-042129079358",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/krastorio/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/krastorio/",
+    "/version/1,0/"
+  ],
   "title": "Krastorio Science Production",
   "favorites": {
     "VvZBf38pRHhEIc6buzjNS88fVor1": true,

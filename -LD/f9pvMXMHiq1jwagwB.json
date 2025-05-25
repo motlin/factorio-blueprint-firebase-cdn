@@ -29,12 +29,12 @@
   "descriptionMarkdown": "##### **Basic info**\n\nThis is an easy to use modular station book inspired by Odhrean's LTN station book found [Here](https://factorioprints.com/view/-KpbH6bzIae1s5eo0g3s), brought into the vanilla game.\n\nFluid logic also stolen from Odhrean's fast balanced fluid stations [Here.](https://factorioprints.com/view/-KpR9g5xwpke0jOV4pQ1)\n\n###### Features\n\n* Supports 1-2 train sizes.\n* Loads/Unloads either to the front or the back.\n* Modular design allows you to easily build a complete station in less than a minute.\n* Allows for 4 belts of load/unload per station.\n* Fluid stations are auto-balancing and offer the fastest load/unload time available.\n* Chests are ready to hook up to a circuit network for fine control over stations.\n* Compact design allows you to use the saved space for other things, like ***More Factory***.\n\n###### Downsides\n* Stations are made only for single-header trains, this is an aesthetic choice.\n* Not sized to accommodate trailing locomotives.\n* Different train modules might require manually adding small sections of rails between them, such as the Load back 1-2 and Load Front 1-2. The modules were sized to neatly stack next to each other with no extra space, mixing and matching modules will require some small effort to make work.\n* Can be resized to fit different size trains, but this requires *effort*. (I count this as a downside, because i'm lazy. At least I did most of the work here.)\n\n###### Additional notes\n\nThis book was made with the community of **[Toad Hall Factorio](https://discord.gg/reVpafM)** in mind, come and join us! Please leave any criticism (assuming comments will ever be fixed.)\n\n###### **My Other Works**\n[Modular 1-8 Stations](https://factorioprints.com/view/-Ld5tEiCYn8KBt9LvuZk)\n\n[Modular 1-4 Stations](https://factorioprints.com/view/-Ldf99CNWNmCp9E6NVFt)\n\n[8/s Tileable Science](https://factorioprints.com/view/-LbyMbkWPUDX3Dv5jX29)",
   "fileName": "20190429142230_1.jpg",
   "lastUpdatedDate": 1556576450074,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/stacker/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/train/stacker/"
+  ],
   "authorId": "OmeFXLoDDWdJdQ2UFbLC0Ayj48E2"
 }

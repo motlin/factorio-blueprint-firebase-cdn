@@ -17,9 +17,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/sciencepackpro.png?alt=media&token=0d2f6d0a-bf8d-4166-b84b-01539c9c4b16",
   "lastUpdatedDate": 1589292182612,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ]
 }

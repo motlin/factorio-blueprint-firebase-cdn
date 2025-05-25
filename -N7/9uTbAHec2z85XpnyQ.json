@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1658040479350,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "Mining post"
 }

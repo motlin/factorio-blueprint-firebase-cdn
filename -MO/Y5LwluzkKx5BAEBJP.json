@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636971409424,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "CoRNeRNoTe's Tileable Refinery"
 }

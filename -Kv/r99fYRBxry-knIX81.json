@@ -17,11 +17,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/42zdd10aze05123206_1.jpg?alt=media&token=81598625-dd74-404c-8275-80905ea1bd88",
   "lastUpdatedDate": 1507385191390,
-  "tags": {
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/power/kovarex enrichment/"
-  }
+  "tags": [
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/kovarex enrichment/"
+  ]
 }

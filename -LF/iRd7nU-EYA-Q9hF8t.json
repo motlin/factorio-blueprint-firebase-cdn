@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "title": "Lab Setup for all sciences",
   "createdDate": 1558778647081,
   "descriptionMarkdown": "0.17 lab setup. I did not design this, I am purely uploading it here because I couldn't find it on here.",

@@ -10,10 +10,10 @@
   },
   "numberOfFavorites": 1,
   "lastUpdatedDate": 1572027568562,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/other/"
+  ],
   "favorites": {
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true
   },

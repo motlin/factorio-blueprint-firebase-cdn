@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651431367070,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "title": "9x9 Accumulator Solar Panel",
   "favorites": {
     "9jA2nY7gZRbXeBGvhBh503UxrmT2": true,

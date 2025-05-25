@@ -22,7 +22,7 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/processing unit (blue)/"
-  }
+  "tags": [
+    "/production/processing unit (blue)/"
+  ]
 }

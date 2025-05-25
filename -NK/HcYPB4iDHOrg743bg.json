@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1701119705467,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Beacon Array Advanced Oil Processing",
   "favorites": {
     "QdRYQzOrABV0fRWezdMxH9Ebdti2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1542608003862,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/other/",
-    "3": "/general/early game/",
-    "0": "/production/smelting/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/general/early game/",
+    "/production/smelting/",
+    "/power/steam/"
+  ],
   "title": "Start Base "
 }

@@ -16,9 +16,9 @@
   "authorId": "yWF7MvBGDJQzh6vRRisRRTQ60I52",
   "createdDate": 1566492809793,
   "fileName": "20190822185250_1.jpg",
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "favorites": {
     "GtvC3PB7LSdqGZ6MBJR4h3LIZc42": true,
     "5gDW4XcEo6aVX5oqXAE1uP8H3mC2": true,

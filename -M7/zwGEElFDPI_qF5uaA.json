@@ -20,12 +20,12 @@
     "LN6vB4bnr9erRxx7K6T2wTyiwgi1": true,
     "uNaLZB7XMtXaHG6sEnZcV225euq1": true
   },
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/power/accumulator/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/power/accumulator/",
+    "/version/0,18/"
+  ],
   "title": "Big Solar / Accumulator [repeatable]",
   "authorId": "aQUv89N22vezowRkgHfI3VNOGhJ2",
   "createdDate": 1590210663538,

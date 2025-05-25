@@ -6,9 +6,9 @@
     "width": 1152
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/left-hand-drive/"
+  ],
   "title": "Rail Network - Straight",
   "author": {
     "userId": "dJOoiF3VtvanagKSFBqEiu1FRKP2"

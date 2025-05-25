@@ -52,10 +52,10 @@
   },
   "lastUpdatedDate": 1611031314660,
   "numberOfFavorites": 34,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/research (labs)/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/research (labs)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "500 SPM Dense Belted"
 }

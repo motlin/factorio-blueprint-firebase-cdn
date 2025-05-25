@@ -1,12 +1,12 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Station.jpg?alt=media&token=7f3e1121-128e-4db0-ae2d-218138c2eba2",
-  "tags": {
-    "2": "/train/unloading station/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/train/right-hand-drive/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/right-hand-drive/",
+    "/train/loading station/"
+  ],
   "authorId": "pJiREWyNejfygrSucr8RSjJ3GcP2",
   "createdDate": 1501504428149,
   "descriptionMarkdown": "For those who prefer single-headed trains, this station setup should satisfy your needs.  Designed with 1-3--0 trains in mind it can easily accommodate 2-4-0 or larger.\n\nThe vertical rail can accommodate a 2-2-0 train as well, I use this for fluid delivery.\n\nThe advantage is that you can deliver products to one station and take away from the other, and place a production facility between the 2 stations.\n\n",

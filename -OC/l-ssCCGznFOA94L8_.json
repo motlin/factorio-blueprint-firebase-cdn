@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/VWoohUO",
   "lastUpdatedDate": 1739613268863,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/space-platform/",
-    "3": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/space-platform/",
+    "/production/guns and ammo/"
+  ],
   "title": "Digger-2 mass-produced space vessels",
   "favorites": {
     "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,

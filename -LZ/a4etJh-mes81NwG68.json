@@ -8,10 +8,10 @@
     "id": "Cdz8KPt",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "favorites": {
     "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,
     "9cuxOBfUuOZENn5nKlLjVNxFXYo2": true

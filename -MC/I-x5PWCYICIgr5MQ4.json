@@ -84,9 +84,9 @@
   },
   "lastUpdatedDate": 1677011339766,
   "numberOfFavorites": 67,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "Foundation Rail Set LHD/RHD"
 }

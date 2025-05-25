@@ -13,11 +13,11 @@
     "type": "image/png",
     "width": 465
   },
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/belt/prioritizer/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/belt/prioritizer/",
+    "/general/late game (megabase)/"
+  ],
   "favorites": {
     "tsQ1NtOFHgVxvy9hgpp8sxSCGJo1": true
   },

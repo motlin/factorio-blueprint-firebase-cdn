@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/FMAJ246",
   "lastUpdatedDate": 1730046753993,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/general/early game/"
+  ],
   "title": "The Trilobite",
   "favorites": {
     "u48GCAhbdKOEEQwe1Vpjk7jkddP2": true,

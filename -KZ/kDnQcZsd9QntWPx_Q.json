@@ -9,11 +9,11 @@
   },
   "lastUpdatedDate": 1511563933516,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Kovarex enrichment plant",
   "author": {
     "userId": "2IvZam0BeGakQNXTGqMvFYIysFS2"

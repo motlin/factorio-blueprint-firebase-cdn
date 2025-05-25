@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1548481793716,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "1mWNpXvBKWel5dpejdaG7pdDQbs2"
   },

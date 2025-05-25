@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1648342099330,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/general/mid game/",
-    "3": "/production/robots/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/general/mid game/",
+    "/production/robots/"
+  ],
   "title": "Simple Solar fabricator",
   "favorites": {
     "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,

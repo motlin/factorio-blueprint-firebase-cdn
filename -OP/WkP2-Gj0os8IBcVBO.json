@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/m9uKq1S",
   "lastUpdatedDate": 1746470582079,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Science Pack Fill Level Indicators",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

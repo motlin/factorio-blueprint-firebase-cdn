@@ -11,9 +11,9 @@
     "9n3V2tSzmedTbViY99rgyBIreBD2": true,
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true
   },
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Tic-Tac-Toe",
   "createdDate": 1613057223571,
   "fileName": "Tic-Tac-Toe.png",

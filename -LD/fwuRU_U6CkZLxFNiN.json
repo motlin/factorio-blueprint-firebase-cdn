@@ -27,9 +27,9 @@
   },
   "lastUpdatedDate": 1556589291536,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "LinkWall 0.2.6"
 }

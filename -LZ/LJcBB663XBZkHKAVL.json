@@ -16,8 +16,8 @@
   "createdDate": 1550857700234,
   "descriptionMarkdown": "This logic array was devised to balance oil products in a playthrough with WhistleStop Factories mod, where one can't just build more or less production capacity (well, not easily).  \nUsage:  connect red wires to all your storage for oil products (heavy, light and petroleum) and on the same line link the top row of deciders.  The output on the bottom row will be H=1 eor L=1 eor P=1 depending on which product you have most of.  Link the bottom row, again on red wires to all the inserters which control output from chemical plants making solid fuel from each of the products.  For the Heavy -> Solid Fuel plant, the inserter works for the condition H=1, for Light, enable on L=1 and, of course for Petroleum, P=1.\n\nYou could make it more compact, but this way I can see where the wires go.\nMaking solid fuel from light oil is the most efficient, but you can't always be efficient...",
   "fileName": "ThreeWayComparator.png",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/mid game/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ]
 }

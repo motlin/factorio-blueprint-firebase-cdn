@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1599371692729,
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Best Shopping (Mall) 1.0"
 }

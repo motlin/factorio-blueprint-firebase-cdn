@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1621850087596,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Vanilla, Single Centrifuge, Belt-only, Kovarex Setup",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202021-05-24%20115330.png?alt=media&token=8c733cff-269a-451f-ade6-78c3524fa025",
   "favorites": {

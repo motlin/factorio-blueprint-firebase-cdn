@@ -20,9 +20,9 @@
   "imageUrl": "https://i.imgur.com/K3Ko21K.png",
   "lastUpdatedDate": 1745952060882,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/art/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/art/"
+  ],
   "title": "Laboratorios de investigación"
 }

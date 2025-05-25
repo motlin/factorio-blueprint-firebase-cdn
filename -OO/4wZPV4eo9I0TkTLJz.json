@@ -32,12 +32,12 @@
   "imageUrl": "https://i.imgur.com/v5n1hoA.png",
   "lastUpdatedDate": 1747934253581,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/track/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/track/",
+    "/version/2,0/"
+  ],
   "title": "Modular Rail System [LHD]"
 }

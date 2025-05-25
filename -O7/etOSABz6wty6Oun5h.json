@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/fU1kLdc",
   "lastUpdatedDate": 1727304724900,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/train/roundabout/",
-    "2": "/version/0,15/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/train/roundabout/",
+    "/version/0,15/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para suporte ao mercado versão 2.0 (Exotics + S.E.)"
 }

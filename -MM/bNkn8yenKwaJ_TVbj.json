@@ -35,13 +35,13 @@
   },
   "lastUpdatedDate": 1605904831330,
   "numberOfFavorites": 15,
-  "tags": {
-    "5": "/production/science/",
-    "0": "/general/mid game/",
-    "1": "/general/compact/",
-    "2": "/general/chunk aligned/",
-    "3": "/mods/vanilla/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Full Midgame Base (90SPM)"
 }

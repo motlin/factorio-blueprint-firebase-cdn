@@ -10,11 +10,11 @@
     "type": "image/png",
     "width": 368
   },
-  "tags": {
-    "2": "/general/compact/",
-    "0": "/version/1,0/",
-    "1": "/production/mining/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/version/1,0/",
+    "/production/mining/"
+  ],
   "blueprintString": "0eNqdku1qhTAMhu8lv+vBz+p6K2MMP4IEaiptHRPx3lfdJocdz8bZr5Kmed43aRZo9ISjJfagFqDWsAP1vICjnmu93fl5RFBAHgcQwPWwRaix9ZbaaCAm7qPOktawCiDu8B1Usr4IQPbkCT+BezC/8jQ0aMODP1ACRuNCteHNw0ZMLoWAGVRaXYog1JENdXs+X8UNP32UX33hs/gnXp7gswM/hYZtb004owa1vyXL+2TxPV0z+XHycKKUH0puqLWOjnZGo/FkTPG12gmveMD5MfPfrBPfcS7//cVZunkPG7QvnbraUQFvaN1eklZJXuZPpSyTWBZyXT8AqFzrxQ==",
   "createdDate": 1605469534000,
   "descriptionMarkdown": "Reference/idea from https://factorioprints.com/view/-L0AA-VH9GlXbgWAffhU\n",

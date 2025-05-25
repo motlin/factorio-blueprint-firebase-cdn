@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/pZHrZKb",
   "lastUpdatedDate": 1734992917169,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Gleba Science - Compact, Tilable, Regenerates.",
   "favorites": {
     "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,

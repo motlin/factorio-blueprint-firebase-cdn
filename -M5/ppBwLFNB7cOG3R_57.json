@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1587893555319,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/version/0,18/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/advanced circuit (red)/",
+    "/power/nuclear/"
+  ],
   "title": "Set of Diggy scenario prints."
 }

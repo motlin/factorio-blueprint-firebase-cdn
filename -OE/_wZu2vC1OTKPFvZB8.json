@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ohu3oql",
   "lastUpdatedDate": 1734729682714,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Outpost supply station",
   "favorites": {
     "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,

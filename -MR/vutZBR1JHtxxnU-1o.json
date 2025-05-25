@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1640609490598,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Global Spidertron Landfill Grid",
   "favorites": {
     "knHtxh4wDXaumqgful47NygduO93": true,

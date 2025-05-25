@@ -20,10 +20,10 @@
   "imageUrl": "https://imgur.com/Ydr0cHo",
   "lastUpdatedDate": 1734019968231,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/space-exploration/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/planets/space-platform/"
+  ],
   "title": "Voyager Ship - newbie friendly"
 }

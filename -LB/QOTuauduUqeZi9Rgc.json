@@ -12,10 +12,10 @@
   "authorId": "bXIJw8apYsQIjojpT2jT8zi40KU2",
   "descriptionMarkdown": "Hornos eléctricos y bots para el procesamiento del cobre y el hierro.",
   "lastUpdatedDate": 1525173055295,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,16/"
+  ],
   "title": "Procesamiento hierro y cobre con bots 0.16",
   "author": {
     "userId": "bXIJw8apYsQIjojpT2jT8zi40KU2"

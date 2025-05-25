@@ -7,9 +7,9 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,16/"
+  ],
   "title": "9x7 Alphanumerics Book",
   "author": {
     "userId": "nIbxRg4yjvcgSv8Ts0ZJFHOZt383"

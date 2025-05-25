@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/MdtmUHG",
   "lastUpdatedDate": 1736433315969,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/version/2,0/"
+  ],
   "title": "Compact NAND Workbook 09/01/2025"
 }

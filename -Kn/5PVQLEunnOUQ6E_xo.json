@@ -13,12 +13,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/solar%20array.png?alt=media&token=e00d6cea-2fd4-4c67-a763-fae8c8fbb756",
   "numberOfFavorites": 7,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/power/solar/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/solar/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "FkgcMKxcksWfacCqltdV3VlTfJm1"
   },

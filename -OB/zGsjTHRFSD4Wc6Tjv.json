@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/262WJzO",
   "lastUpdatedDate": 1731933474044,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/production/science/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/production/science/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Promethium Science Station",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true

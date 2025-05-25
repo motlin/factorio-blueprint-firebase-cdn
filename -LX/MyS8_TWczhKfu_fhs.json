@@ -10,12 +10,12 @@
     "id": "1GKevQO"
   },
   "lastUpdatedDate": 1552080305337,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "mrc2AeDExTQtRXSRqzqmYSzRsxB2": true,
     "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,

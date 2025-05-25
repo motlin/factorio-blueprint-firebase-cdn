@@ -23,13 +23,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20200823173630_1.jpg?alt=media&token=2c1561e4-3c55-4c73-8f10-4b075affa1bf",
   "lastUpdatedDate": 1598697405735,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/unloading station/",
-    "2": "/train/loading station/",
-    "3": "/train/roundabout/",
-    "4": "/power/solar/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/train/roundabout/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Modular grid for 1 engine 2 cargo length trains"
 }

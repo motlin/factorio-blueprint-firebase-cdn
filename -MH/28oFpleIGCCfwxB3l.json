@@ -36,10 +36,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/s1eiK5zo6l.png?alt=media&token=919a3afb-f311-41bb-baf2-c354b2c5b93f",
   "lastUpdatedDate": 1603401293693,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact 500 SPM Megabase"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1704672637507,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Flying Robot Frame, 289 / minute [BELTLESS] [BOTLESS]"
 }

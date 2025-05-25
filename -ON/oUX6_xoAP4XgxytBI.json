@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/01289NG",
   "lastUpdatedDate": 1746809302303,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/planets/fulgora/"
+  ],
   "title": "Tileable Accumulators Blueprints for Fulgora - Fulgora Power",
   "favorites": {
     "G3nRjdjWPASkpkr5qbcqTwz0sS13": true,

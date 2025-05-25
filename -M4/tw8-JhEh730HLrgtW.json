@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1586888741115,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/crossing/",
-    "3": "/train/roundabout/",
-    "4": "/train/junction/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/junction/"
+  ],
   "title": "Nek Train Network",
   "author": {
     "userId": "O6kBBZimaPVF1hOMH70tqueFvQw2"

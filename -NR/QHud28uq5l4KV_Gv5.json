@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1708841814833,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Power Indicator V2",
   "favorites": {
     "mY4UhbPxldfjSGTg70yCTiAtu383": true

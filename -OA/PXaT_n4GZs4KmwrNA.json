@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/xgYwH7W",
   "lastUpdatedDate": 1730243367541,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/production/science/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/production/science/",
+    "/planets/space-platform/"
+  ],
   "title": "Nauvis Space Science Satellite ",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,

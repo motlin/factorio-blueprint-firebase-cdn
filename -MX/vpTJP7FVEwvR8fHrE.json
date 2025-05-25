@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1647151820975,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Research Squared 2200 SPM Blueprint Book"
 }

@@ -35,8 +35,8 @@
   },
   "lastUpdatedDate": 1619027682252,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "Hex cell cityblocks"
 }

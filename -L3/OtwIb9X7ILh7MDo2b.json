@@ -16,11 +16,11 @@
     "id": "Jyo9k9V",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/train/roundabout/"
+  ],
   "favorites": {
     "n4HglG4PP3ODM20Kcjc3IVVpd9k2": true,
     "xFFx1TUHvUQEmjaz59dcIFoQQek1": true,

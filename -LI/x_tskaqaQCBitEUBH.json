@@ -51,14 +51,14 @@
   },
   "lastUpdatedDate": 1535894214232,
   "numberOfFavorites": 58,
-  "tags": {
-    "6": "/mods/vanilla/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/train/stacker/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/"
+  ],
   "title": "Beacon TrainSmelting 38k Iron Copper and 10k Steel"
 }

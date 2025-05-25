@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1679669553332,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/ups friendly/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/ups friendly/"
+  ],
   "title": "Palfatreos' infinitely stackable, UPS optimized, logistic fueled nuclear installation"
 }

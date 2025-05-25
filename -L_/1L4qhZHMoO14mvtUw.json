@@ -7,10 +7,10 @@
     "id": "dS45tMh",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/power/solar/"
+  ],
   "title": "independent radar",
   "author": {
     "userId": "yjZG27aMEYRHfYvqSV7vOD8QjBJ2"

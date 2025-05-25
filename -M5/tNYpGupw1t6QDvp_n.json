@@ -23,10 +23,10 @@
     "type": "image/jpeg",
     "width": 1064
   },
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "title": "Mining Book",
   "author": {
     "userId": "jfpD6csp9QQzEcyHpAS7LuhyEaQ2"

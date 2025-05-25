@@ -13,12 +13,12 @@
   "descriptionMarkdown": "A 10-tall production row for level 3 modules. The ratios for blue are spot on. Green and pink modules require 5x tier 2, so to get a better ratio for them you need to speed up the tier 1 and 2 assemblers a bit more.\n\nInputs:\n- 1 full belt of red circuits\n- 50/50 belt of green and blue circuits\n\nOutput:\n - 1 passive provider chest of tier 3 modules\n - 2 passive provider chests of tier 1 modules\n\nThis blueprint uses a requester chest for the alien artifacts.",
   "fileName": "bp-speedmodule-lessbot-fs8.png",
   "lastUpdatedDate": 1499258744113,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Beaconed Modules (Less Bots)",
   "author": {
     "userId": "JPSc9gpwBBSo5or5CAXrzE0VUOk1"

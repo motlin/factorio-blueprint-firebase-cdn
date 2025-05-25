@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1693679613635,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/modules/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/modules/"
+  ],
   "title": "Rhizome productivity module 3 factory"
 }

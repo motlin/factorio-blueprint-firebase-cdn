@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/MftToRb",
   "lastUpdatedDate": 1732504944033,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/space-age/"
+  ],
   "title": "QSB Space - Basic space starter to get your first platform into space to start science production.",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

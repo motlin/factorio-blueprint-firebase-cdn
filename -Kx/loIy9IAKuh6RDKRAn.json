@@ -8,12 +8,12 @@
     "width": 504
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/version/0,15/",
-    "2": "/general/compact/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/",
+    "/general/compact/",
+    "/mods/other/"
+  ],
   "favorites": {
     "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true,
     "xbienxQ9ANZkuLl8vDSItH3q1N52": true

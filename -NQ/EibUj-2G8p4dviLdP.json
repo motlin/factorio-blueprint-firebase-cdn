@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678522349760,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "POWER SYSTEMS by chrisivan02",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true

@@ -7,11 +7,11 @@
   "authorId": "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1",
   "createdDate": 1577727844236,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "60 rocket fuel per minute",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

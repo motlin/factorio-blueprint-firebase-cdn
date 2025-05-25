@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1611511320638,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/production/robots/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/production/robots/"
+  ],
   "title": "Robot miners",
   "authorId": "muqJ8hI88uchJ1h2JUdoupTb1i22",
   "image": {

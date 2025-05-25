@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/PuuyRfZ",
   "lastUpdatedDate": 1730527553576,
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora Scrap Recycling",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

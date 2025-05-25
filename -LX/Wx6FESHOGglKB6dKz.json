@@ -3,10 +3,10 @@
   "descriptionMarkdown": "Handles 1-4-1 trains and I've mixed in 18 long trains and no hiccups!<br> Left hand drive.<br>The difference for this setup is that instead of using the left 3 lanes going up and right 3 going down, this one has an Up/Down/Up/Down/Up/Down config.<br>\nThis makes 6 lanes, with intersections every other chunk (also chunk aligned)<br>\n<b>In the image, none of those trains are stuck.</b><br>\nTo expand, overlay the top or bottom intersection with the top of bottom intersection of the blueprint.<br>\nIdeally you will have planned better and not smashed everything so close together, so you can just use the three middle sections and then expand with normal rails north and south.<br>While this blue print is for 1-4-1 trains, after removing the two end intersections, it can be used for larger trains. I'm using it for 1-4-2-4-2-4-1 mixed with many 1-4-1s.",
   "fileName": "TrafficChaos.png",
   "lastUpdatedDate": 1577934721697,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "8f0yAqH8BKdUbDWtHSUcDPQDovO2": true
   },

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1692819626438,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/",
+    "/general/late game (megabase)/"
+  ],
   "title": "[WIP] K2SE + Cybersyn Factories"
 }

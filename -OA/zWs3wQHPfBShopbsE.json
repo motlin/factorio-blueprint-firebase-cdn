@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/dVRj1cl",
   "lastUpdatedDate": 1730928016967,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "White science in space",
   "favorites": {
     "42C7ELkaOfbKd5hz9QuhmuZeU152": true,

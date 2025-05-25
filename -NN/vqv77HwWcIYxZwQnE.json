@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1705032529188,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/"
+  ],
   "title": "AiO Rocket Parts",
   "favorites": {
     "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true,

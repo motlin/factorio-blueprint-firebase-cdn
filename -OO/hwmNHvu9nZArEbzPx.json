@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/NYCBVAm.png",
   "lastUpdatedDate": 1745601562931,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "High Volume Robot Production 2.0",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

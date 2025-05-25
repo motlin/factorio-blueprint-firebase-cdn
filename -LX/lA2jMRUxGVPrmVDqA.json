@@ -12,12 +12,12 @@
   "createdDate": 1578151722034,
   "descriptionMarkdown": "Output: \n8 Belts of Green Circuits\n\nInput:\n8 Belts of Iron Plate\n8 Belts of Copper Plate\n\nFully Beaconed, Train station compatible\n\nKirk McDonald Calculator Link:\nhttps://kirkmcdonald.github.io/calc.html#zip=bYxBCsMwDAR/41MESVOa4uLHOIoOAsU2kgx9fhMoubSwl11mZ8ue0wjTAo8x7FzSPawknujdlMzANRdrVR3OObDTbomE0LUWRkBW7OxR420ZD0PdupAlrK2RAuZVKLb5ysvmOD2HP4Jf6OuoSrF0kYGPw9U+",
   "fileName": "E404GC.PNG",
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "BVvl6OJtarfOSshIGWWzsbrAHPl1": true,
     "l556BHVKI2PFsp8vWZXjdATtGWg2": true,

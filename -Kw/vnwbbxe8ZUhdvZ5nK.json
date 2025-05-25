@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/other/"
+  ],
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
   "createdDate": 1508536994436,
   "descriptionMarkdown": "Mineralised Water + Carbon Dioxide -> Green Algae -> Cellulose -> Wood Pellets\n\nSea Block blueprint part of my Sea Block Tutorial series on YouTube/Twitch: https://www.youtube.com/playlist?list=PLV3rF--heRVt5QVPuccii2PB31508d3qR",

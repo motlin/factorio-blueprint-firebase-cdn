@@ -7,14 +7,14 @@
     "height": 768
   },
   "lastUpdatedDate": 1601165959640,
-  "tags": {
-    "3": "/power/steam/",
-    "4": "/version/0,17/",
-    "5": "/version/1,0/",
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/version/0,17/",
+    "/version/1,0/",
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/power/nuclear/"
+  ],
   "title": "NuCleAr power \"Antichrist\" Reactor control module ",
   "author": {
     "userId": "YoKyEyYV12VwWZZB4UQx6csnKIR2"

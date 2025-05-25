@@ -7,12 +7,12 @@
     "type": "image/png",
     "width": 462
   },
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/production/smelting/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/smelting/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Steel Furnace v1.1",
   "favorites": {
     "iob00nSOSwMTweH8A9xYK3CvKSn2": true

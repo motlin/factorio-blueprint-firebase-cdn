@@ -13,11 +13,11 @@
   },
   "authorId": "YTeFjAuYtGUba4xXLhDUThlljGm1",
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/version/0,17/"
+  ],
   "title": "Building Mall",
   "favorites": {
     "5gDW4XcEo6aVX5oqXAE1uP8H3mC2": true,

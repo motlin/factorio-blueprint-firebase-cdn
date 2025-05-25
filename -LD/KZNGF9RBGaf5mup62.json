@@ -6,11 +6,11 @@
     "height": 668,
     "id": "Lk0loL9"
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "SmalI SmartProcessor Kovarex Enrichment - By Hollex",
   "lastUpdatedDate": 1556215175728,
   "numberOfFavorites": 2,

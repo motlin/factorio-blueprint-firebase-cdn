@@ -3,11 +3,11 @@
   "createdDate": 1600275169897,
   "fileName": "Screen Shot 2020-09-16 at 18.51.48.png",
   "lastUpdatedDate": 1600328671405,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/unloading station/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/unloading station/",
+    "/train/track/"
+  ],
   "title": "Station: Item requester",
   "favorites": {
     "0HZOJb1AGQgp7PcKG00Aluu0YBs1": true,

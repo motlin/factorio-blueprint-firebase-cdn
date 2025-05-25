@@ -33,11 +33,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2022-05-08_151752091.png?alt=media&token=077d4880-a3dc-4edb-83eb-1b9d3354897f",
   "lastUpdatedDate": 1652012288188,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/power/steam/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/advanced circuit (red)/",
+    "/power/steam/",
+    "/mods/other/"
+  ],
   "title": "Krastorio blueprints second phase"
 }

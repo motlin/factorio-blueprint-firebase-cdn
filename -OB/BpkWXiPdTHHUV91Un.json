@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/w1jRseV",
   "lastUpdatedDate": 1731087239336,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "4 Mining Drills",
   "favorites": {
     "NPvX83sZKEXnc64Kfk8z7xdI3yO2": true,

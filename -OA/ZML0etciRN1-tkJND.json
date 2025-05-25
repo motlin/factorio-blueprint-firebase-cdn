@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Z7PGl52",
   "lastUpdatedDate": 1730408177816,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/version/2,0/"
+  ],
   "title": "Oil Plant v2.0",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

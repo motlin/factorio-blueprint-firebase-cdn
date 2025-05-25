@@ -23,9 +23,9 @@
   "imageUrl": "https://imgur.com/6G8FUnF",
   "lastUpdatedDate": 1734022088502,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "The \"falcon\" spacecraft "
 }

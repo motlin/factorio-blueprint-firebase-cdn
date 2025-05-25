@@ -9,12 +9,12 @@
     "type": "image/jpeg",
     "width": 5438
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Ideal 0.5 line Steel Smelting Strip",
   "favorites": {
     "sYRbanRtEIf9CP1q0an4YDQeAFx2": true,

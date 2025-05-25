@@ -25,11 +25,11 @@
   },
   "lastUpdatedDate": 1526003460518,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Number Displays"
 }

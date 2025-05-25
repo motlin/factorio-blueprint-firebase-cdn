@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/DPNLPhc",
   "lastUpdatedDate": 1743744689559,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "White science pack 12 assembler",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

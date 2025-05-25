@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1632796739388,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "RiSo 2700/min Blue"
 }

@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/0,18/",
-    "2": "/mods/krastorio/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,18/",
+    "/mods/krastorio/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "oeNyBBU5hYRiscgRd3aAYHaZOAw2": true,
     "39BhvQxrkTaDSJYvMAP7GbYpEdy1": true,

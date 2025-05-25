@@ -56,11 +56,11 @@
   "imageUrl": "https://imgur.com/nyRb8r7",
   "lastUpdatedDate": 1730732464713,
   "numberOfFavorites": 30,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/general/compact/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/general/compact/",
+    "/production/other/"
+  ],
   "title": "Ship jump starters & Geostationary satellites"
 }

@@ -11,11 +11,11 @@
   },
   "lastUpdatedDate": 1579758737273,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/science/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/",
+    "/production/rocket parts/"
+  ],
   "author": {
     "userId": "QaAAI4Lt3GOYCsdJilXEzWEWqLe2"
   },

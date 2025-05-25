@@ -22,11 +22,11 @@
   "descriptionMarkdown": "Built a rather early game 4 lane smelter array in a Mk1 Factorissimo Building. It can handle up to 4 seperate ore's input at same time. Or If you add a splitter at the end before the exits you can combine 2 lines into 1 for higher compression.",
   "fileName": "Factorissimo 4 lane Smelter Array MK1 2.png",
   "lastUpdatedDate": 1509629542125,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "spXnEX7FPpXORY9O9iRNimQqF7s1"
   },

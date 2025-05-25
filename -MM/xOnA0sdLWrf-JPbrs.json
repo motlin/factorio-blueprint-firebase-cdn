@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1606274200735,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "8-Reactor Power Plant"
 }

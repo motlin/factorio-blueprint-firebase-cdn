@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1686498716197,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/version/1,1/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/version/1,1/",
+    "/general/tileable/"
+  ],
   "title": "46 Stiratite or Saphirite ore per minute Tilable.  Seablock - Mineral Sludge Crystalizing",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2023-06-11%2017_48_41-Factorio%201.1.82.png?alt=media&token=ed8a241c-7ef8-4b7b-bda8-58017810e345",
   "favorites": {

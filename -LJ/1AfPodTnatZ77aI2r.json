@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "ayevH2b1iWSB897AMxCpAjX2buB2"
   },

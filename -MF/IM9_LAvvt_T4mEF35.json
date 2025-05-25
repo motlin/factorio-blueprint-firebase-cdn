@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1627043703585,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Reator nuclear espacial grande"
 }

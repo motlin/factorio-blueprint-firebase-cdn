@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/8uJ4Gd4",
   "lastUpdatedDate": 1730372561644,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Automated Generic Train Logistics",
   "favorites": {
     "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,

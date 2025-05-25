@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/K66NWWm",
   "lastUpdatedDate": 1731751094848,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/science/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/science/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space Science",
   "favorites": {
     "RBye92QXwsVlkF7strlExMXndDF2": true,

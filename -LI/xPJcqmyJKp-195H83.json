@@ -7,14 +7,14 @@
   },
   "lastUpdatedDate": 1533259893431,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/",
-    "2": "/general/compact/",
-    "3": "/general/mid game/",
-    "4": "/production/belt based/",
-    "5": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/general/mid game/",
+    "/production/belt based/",
+    "/production/guns and ammo/"
+  ],
   "author": {
     "userId": "WmlDxVMf8ifsupCECZNK6ySkbMU2"
   },

@@ -1,11 +1,11 @@
 {
   "descriptionMarkdown": "Takes any 2 inputs, balanced or unbalanced, and outputs 2 balanced outputs.",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "QSvJs3qXoPVl0fs8H0iSUJlVriw1": true,
     "RLfp1ZGf16RFT2MSXVzB9eGTtmC3": true,

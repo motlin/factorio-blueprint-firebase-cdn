@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Pk40jN7",
   "lastUpdatedDate": 1737330728547,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/general/beaconized/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/general/beaconized/",
+    "/production/logistic (bot) based/",
+    "/mods/other/"
+  ],
   "title": "180/m Legendary Holmium Plates scheme! (rate 0,36%, with 200% scrap productivity)",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

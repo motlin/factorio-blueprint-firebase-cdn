@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1632796590088,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "RiSo 2700/min Yellow"
 }

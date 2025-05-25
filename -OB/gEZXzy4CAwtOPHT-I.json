@@ -21,9 +21,9 @@
   "imageUrl": "https://imgur.com/vxh4msd",
   "lastUpdatedDate": 1731614100111,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Xira class Ironclad"
 }

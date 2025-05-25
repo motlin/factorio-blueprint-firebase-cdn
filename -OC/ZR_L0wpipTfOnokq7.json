@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/0jwmV3e",
   "lastUpdatedDate": 1732577666076,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/science/"
+  ],
   "title": "14k/min green science production /w max productivity",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1526814957305,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/production/mining/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "title": "4:8:4 Stockpiling Hexland"
 }

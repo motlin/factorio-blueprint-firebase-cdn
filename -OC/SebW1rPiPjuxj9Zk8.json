@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/wKRDGr5",
   "lastUpdatedDate": 1732443273834,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "S.T.R.A.T - solar edge ship "
 }

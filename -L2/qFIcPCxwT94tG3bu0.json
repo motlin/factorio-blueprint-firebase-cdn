@@ -16,9 +16,9 @@
   },
   "lastUpdatedDate": 1523614236226,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ]
 }

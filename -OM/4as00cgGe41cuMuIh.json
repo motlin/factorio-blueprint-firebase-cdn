@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/Y1dsxlB.png",
   "lastUpdatedDate": 1742777057424,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/planets/gleba/",
-    "2": "/mods/bobs/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/planets/gleba/",
+    "/mods/bobs/"
+  ],
   "title": "Gleba Tilable, Balanced Heat Tower Power Generation"
 }

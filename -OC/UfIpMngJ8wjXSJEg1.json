@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/OdYEm9J",
   "lastUpdatedDate": 1732477009358,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Parameterised Electromagnetic Plant",
   "favorites": {
     "jOyXw79flpdPQ0qvay1UIgLKT252": true,

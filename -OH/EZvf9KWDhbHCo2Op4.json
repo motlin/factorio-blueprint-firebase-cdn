@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/MUYkraW",
   "lastUpdatedDate": 1737575611536,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/belt/balancer/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/belt/balancer/"
+  ],
   "title": "Great Starter Ship v2",
   "favorites": {
     "wYZz2f47LqZcxYvrizW3BVjgYwI2": true,

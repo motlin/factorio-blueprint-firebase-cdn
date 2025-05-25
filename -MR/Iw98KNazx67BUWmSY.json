@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1639938302677,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Expandable counter",
   "favorites": {
     "En3Yqr894WOE5iu2B5xSYlxriuG3": true

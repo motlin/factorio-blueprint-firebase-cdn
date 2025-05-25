@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zhfzyk4",
   "lastUpdatedDate": 1732148195716,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/nuclear/"
+  ],
   "title": "Thin Cargo Hauler",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

@@ -1,9 +1,9 @@
 {
   "fileName": "FmdzkMA.jpg",
-  "tags": {
-    "1": "/train/junction/",
-    "0": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FmdzkMA.jpg?alt=media&token=de7bd7ab-2983-408a-b546-83e291ad311e",
   "image": {
     "height": 762,

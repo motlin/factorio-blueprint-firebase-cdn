@@ -12,10 +12,10 @@
   "authorId": "zR082GLWBDUFFOPqlIYoxbN49Kz2",
   "createdDate": 1554756225168,
   "descriptionMarkdown": "No holes, all convenience.\n\nIf you want to count or place the pump jacks you need for any given field, you simply take this blueprint, mouse it over the oil field and click once. Due to the nature of this BP, no spots will be missed due to half-tiles. Covers a fair bit of area.",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "2fYD8ybNNgVhE9633NSE3KCQ8ym2": true,
     "nZx1MKqnQyetZ7N9N3FuyfaCrPo1": true,

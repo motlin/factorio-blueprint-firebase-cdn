@@ -20,14 +20,14 @@
     "S8ao3OBvvDNr4dbacwJZMXnnO2z2": true,
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true
   },
-  "tags": {
-    "4": "/version/1,0/",
-    "5": "/mods/vanilla/",
-    "0": "/production/mall (make everything)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/mid game/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/general/late game (megabase)/",
+    "/general/mid game/",
+    "/general/early game/"
+  ],
   "authorId": "hkYlJd6T5UbtQTSl6PVl5bZ7kfT2",
   "fileName": "fedis mall.png"
 }

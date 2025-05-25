@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1681646676844,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "Train CityBlock Base 2.7K SPM"
 }

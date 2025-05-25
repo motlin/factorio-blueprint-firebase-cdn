@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/production/smelting/",
-    "0": "/mods/krastorio/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/krastorio/",
+    "/general/beaconized/"
+  ],
   "authorId": "fAGGh0hYZFaLXwKpPoGD9K9ZPCf1",
   "createdDate": 1587503399798,
   "descriptionMarkdown": "3x3 of these will fill a blue belt.\n\nInput: Coke (1.675/s) + Iron plate (8.375/s)",

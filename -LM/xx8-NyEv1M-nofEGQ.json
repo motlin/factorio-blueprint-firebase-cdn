@@ -21,8 +21,8 @@
   "descriptionMarkdown": "### English\n\nThis is an early game small sized buffer that contains 16 iron chests (8 per each side). This one is good for collect and keep items like ores, metal plates or other material, that you can mass produce in early game.\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n### Polski\n\nJest to bufor, który można zbudować we wczesnej fazie gry, mieści on w sobie 16 skrzyń (po 8 na każdą stronę). Ten model jest dobry do przechowywania przedmiotów takich jak rudy, metalowe płyty lub inne materiały, które są produkowane w dużej ilości we wczesnej fazie gry.",
   "fileName": "Schemat1.png",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/belt/transport belt (yellow)/"
-  }
+  "tags": [
+    "/general/storage/",
+    "/belt/transport belt (yellow)/"
+  ]
 }

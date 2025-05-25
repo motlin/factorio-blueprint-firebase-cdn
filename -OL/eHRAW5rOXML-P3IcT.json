@@ -20,10 +20,10 @@
   "imageUrl": "https://i.imgur.com/rubolgk.png",
   "lastUpdatedDate": 1742319391871,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Hauler"
 }

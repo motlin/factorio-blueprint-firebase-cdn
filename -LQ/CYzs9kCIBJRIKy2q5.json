@@ -3,12 +3,12 @@
   "descriptionMarkdown": "A sushi belt for all 7 science packs that uses a 7 to 1 balancer and filter splitters instead of circuits. It can keep a belt saturated and is designed to prioritize reusing unused packs over pulling in fresh packs. It should never clog and should always maintain balance as long as enough science packs are being supplied.\n",
   "fileName": "Sushi Belts [No Power].png",
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/production/science/",
-    "3": "/production/belt based/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Sushi/Rainbow Belts for Science [No Power]",
   "author": {
     "userId": "eo83LpZ5NdMngVgJ4eeEaXxhLTg1"

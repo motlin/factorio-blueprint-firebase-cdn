@@ -6,11 +6,11 @@
     "width": 1237
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "fileName": "Green_Circuits_5k-min.PNG",
   "lastUpdatedDate": 1537606586369,
   "title": "Green Circuits - 5k/min",

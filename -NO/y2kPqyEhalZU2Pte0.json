@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1677152199222,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Plant Dummy Payloads for testing"
 }

@@ -7,11 +7,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Bobs%20%2B%20Angels%20Bootstrap%204-Silicone%20Wafers.jpg?alt=media&token=5b4b9ff3-ecc9-48bb-a29f-7bc461239031",
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "YfpxRgbByqecYqnSqBfe3qFNvnh2"
   },

@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1642204328984,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/krastorio/"
+  ],
   "title": "Space exploration and Krastorio 2 space base (Part 3 of SE+K2 in a Book)"
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/sASwCYT",
   "lastUpdatedDate": 1743448034281,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Kovarex, efficient uranium",
   "favorites": {
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,

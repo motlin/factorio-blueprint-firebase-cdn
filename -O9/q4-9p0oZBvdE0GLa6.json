@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/9iLHjL5",
   "lastUpdatedDate": 1729632881108,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/circuit/counter/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/circuit/counter/",
+    "/circuit/indicator/"
+  ],
   "title": "3-digit number display with display panels",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,

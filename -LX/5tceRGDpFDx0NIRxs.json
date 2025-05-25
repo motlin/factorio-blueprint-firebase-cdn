@@ -10,10 +10,10 @@
     "width": 1251
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "zGLww5gYBHa9ghv1rb4hx9EHbqF2"
   },

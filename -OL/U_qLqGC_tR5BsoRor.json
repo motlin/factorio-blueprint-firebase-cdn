@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/OcYdw0R.png",
   "lastUpdatedDate": 1746562030816,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/general/tileable/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Gleba In A Box",
   "favorites": {
     "cBuI8VVjMHMDoe1qqeqVgSwAK8B3": true,

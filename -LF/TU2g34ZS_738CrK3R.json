@@ -19,12 +19,12 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1558510844748,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/plastic/",
-    "2": "/production/science/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/plastic/",
+    "/production/science/",
+    "/production/oil processing/"
+  ],
   "title": "Ghost's Simple Oil",
   "author": {
     "userId": "vhyWy4KiZFTfLJVSTISmKzp7Yx43"

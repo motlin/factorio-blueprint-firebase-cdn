@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1498604123905,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "title": "zisteau's 30x30 Energy. Factorissimo",
   "author": {
     "userId": "XSteXv2HFddG0Tt945nPAduwazn1"

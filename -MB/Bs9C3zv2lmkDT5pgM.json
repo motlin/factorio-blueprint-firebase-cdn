@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1622639944590,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "Buffered Whirlpool 4-Way Junction"
 }

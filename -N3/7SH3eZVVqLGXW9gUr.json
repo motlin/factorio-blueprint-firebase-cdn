@@ -13,12 +13,12 @@
   },
   "lastUpdatedDate": 1732185052987,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "12/min T3 Speed Module Beaconed Space Age",
   "favorites": {
     "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,

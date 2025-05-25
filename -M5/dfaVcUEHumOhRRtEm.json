@@ -11,9 +11,9 @@
     "type": "image/jpeg",
     "width": 1613
   },
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Science à la Loyd",
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

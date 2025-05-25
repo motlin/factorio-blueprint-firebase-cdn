@@ -25,10 +25,10 @@
     "userId": "xSZYI80VYLYjmNhvUJ5f3nadGNH2"
   },
   "fileName": "2x5_reactors.png",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "2x5 Nuclear Reactor City Block"
 }

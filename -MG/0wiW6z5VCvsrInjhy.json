@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627825439773,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Ore Refinery (INCORRECT MODULE COUNT)"
 }

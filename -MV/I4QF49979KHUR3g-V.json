@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1644849038760,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/",
-    "2": "/train/track/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/loading station/",
+    "/train/track/",
+    "/train/unloading station/"
+  ],
   "title": "BAF Trains (modified BrainsTrains)"
 }

@@ -10,11 +10,11 @@
   },
   "lastUpdatedDate": 1522225358539,
   "numberOfFavorites": 9,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/modules/"
+  ],
   "title": "High Speed Speed module factory",
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"

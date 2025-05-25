@@ -27,12 +27,12 @@
   },
   "lastUpdatedDate": 1610100165604,
   "numberOfFavorites": 10,
-  "tags": {
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/version/1,0/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/belt/balancer/"
+  ],
   "title": "Red conveyor (Convoyeur rouge)"
 }

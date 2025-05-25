@@ -15,12 +15,12 @@
   "lastUpdatedDate": 1523921276824,
   "authorId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2",
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/power/steam/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/power/steam/",
+    "/version/0,16/"
+  ],
   "title": "CarbonPowerSupply for Seablock",
   "favorites": {
     "i8fKg0kPRoOQUZULMoJJPSh433m1": true

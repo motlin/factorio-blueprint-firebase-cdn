@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1632086512575,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Perfect Ratio Solar (27.3MW)",
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

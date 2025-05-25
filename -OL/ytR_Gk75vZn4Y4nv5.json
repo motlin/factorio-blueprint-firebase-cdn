@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/4GOrKS5",
   "lastUpdatedDate": 1742678116454,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/space-age/"
+  ],
   "title": "Velocity Controlled Pulse Width Modulator",
   "favorites": {
     "cDvDl0TMvLYOW826NTooe9CRjdg1": true,

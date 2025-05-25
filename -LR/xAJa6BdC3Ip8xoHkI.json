@@ -7,11 +7,11 @@
   "authorId": "MUatOnfxjMdsode8QRgUwwffBRK2",
   "fileName": "20181122213811_1.jpg",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "image": {
     "height": 1080,
     "id": "z9K5k0G",

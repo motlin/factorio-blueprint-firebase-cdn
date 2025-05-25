@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1642428684578,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/factorissimo/"
+  ],
   "title": "Tier 3 Blue Science w/Optional Inputs for Pipes & Gears (1.1k spm) Rev. 1",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Tier3_BlueScience-Optional_Inputs_Rev1.png?alt=media&token=0de50496-94f1-4df8-98e1-3bbc75bf2522",
   "favorites": {

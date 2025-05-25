@@ -17,14 +17,14 @@
   },
   "lastUpdatedDate": 1575064436683,
   "numberOfFavorites": 14,
-  "tags": {
-    "4": "/version/0,16/",
-    "5": "/version/0,17/",
-    "0": "/production/inserters/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/production/inserters/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "VJxhIDseUcPyEOhpZgmywGQNkR72": true,
     "4kCzfQVGlkd8VMHQdBnpZJt1VNz1": true,

@@ -15,12 +15,12 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "4": "/version/0,16/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconed Blue Circuits"
 }

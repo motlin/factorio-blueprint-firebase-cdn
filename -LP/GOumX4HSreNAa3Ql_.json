@@ -16,11 +16,11 @@
     "userId": "3eXCK3f3GYb2DzYbmYIbI6jDCrL2"
   },
   "authorId": "3eXCK3f3GYb2DzYbmYIbI6jDCrL2",
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/general/early game/",
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/early game/",
+    "/mods/bobs/"
+  ],
   "favorites": {
     "j099BfaxjlgSY5LxT4SGByYDH7J2": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,

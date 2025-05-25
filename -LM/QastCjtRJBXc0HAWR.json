@@ -1,13 +1,13 @@
 {
   "lastUpdatedDate": 1565978758805,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,17/",
-    "2": "/production/other/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,17/",
+    "/production/other/",
+    "/production/logistic (bot) based/",
+    "/general/chunk aligned/"
+  ],
   "author": {
     "userId": "WTsGHvtFyuSyrx9NL9tKd6hRTqw2"
   },

@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1527533095080,
   "numberOfFavorites": 22,
-  "tags": {
-    "2": "/version/0,16/",
-    "3": "/mods/bobs/",
-    "4": "/mods/other/",
-    "0": "/train/pax/",
-    "1": "/train/stacker/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/other/",
+    "/train/pax/",
+    "/train/stacker/"
+  ],
   "title": "Large LTN Depot (2 tracks in, 8 out)"
 }

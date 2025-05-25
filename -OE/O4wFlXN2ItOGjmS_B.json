@@ -24,9 +24,9 @@
   "imageUrl": "https://imgur.com/hUtKP9p",
   "lastUpdatedDate": 1734514462488,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Carbon/Ice Satellite v2"
 }

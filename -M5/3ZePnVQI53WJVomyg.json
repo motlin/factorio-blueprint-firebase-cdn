@@ -40,11 +40,11 @@
   },
   "lastUpdatedDate": 1629905105093,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/science/"
+  ],
   "title": "Zisteau's Bootstrap Blueprint Book"
 }

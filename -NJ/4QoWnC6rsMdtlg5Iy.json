@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1699824486948,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "A.K's Ultra: Book 1"
 }

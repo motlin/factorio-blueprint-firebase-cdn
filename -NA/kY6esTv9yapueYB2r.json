@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1690884143947,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Car splitter left"
 }

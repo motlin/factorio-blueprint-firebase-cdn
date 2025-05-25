@@ -8,13 +8,13 @@
     "width": 1579
   },
   "numberOfFavorites": 33,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/production/mall (make everything)/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/mall (make everything)/",
+    "/version/0,16/"
+  ],
   "title": "Compact Bootstrap Base",
   "favorites": {
     "189yZkTrakUxkuUIs1bFXgyrba62": true,

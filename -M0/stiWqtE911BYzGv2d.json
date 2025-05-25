@@ -29,11 +29,11 @@
   },
   "lastUpdatedDate": 1615920001715,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/electronic circuit (green)/",
+    "/power/solar/"
+  ],
   "title": "Teoria Elektryki - Inteligentna Megafabryka"
 }

@@ -3,11 +3,11 @@
   "descriptionMarkdown": "Perfekt calculated and balanced late game Plastic production with an output of 10k plastic bars/min.\nConnect 2 belts coal on the top and cruide oli on the right, so you get 4 up to 5 belts plastic bars on the bottom.\nYou can also exchange the Water Well Pumps to normal offshore pumps.\nIf there are any issues with the throughput or something eles, please comment under this site.",
   "fileName": "plastic production.PNG",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/version/0,15/"
+  ],
   "title": "10 000/min Plastic Prodution",
   "author": {
     "userId": "jKwRYJaVJJRfUkTo6BmEAs2iLVw1"

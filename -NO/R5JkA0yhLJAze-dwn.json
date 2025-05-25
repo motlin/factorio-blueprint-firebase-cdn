@@ -27,9 +27,9 @@
   },
   "lastUpdatedDate": 1676582408085,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "Pap's K2 + SE Blueprints (so far)"
 }

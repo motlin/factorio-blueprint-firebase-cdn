@@ -20,12 +20,12 @@
   "descriptionMarkdown": "A four way rail junction with some buffers, but still relatively compact. LHD. Made for 11 car or smaller trains. 5 chunks wide and 5 tall. Snapped to 1 chunk.\n\nv2 - made it a little more symmetrical.\n\nv3 - added poles, snapped to global grid.\n\nI'm going to stop updating this individually. See my rail book for the most up to date version - https://factorioprints.com/view/-M8N1tC3nVdjiOLH_X0z",
   "fileName": "greatcrossv3.PNG",
   "lastUpdatedDate": 1624743609243,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/track/"
+  ],
   "title": "4 Way Great Cross Junction v3",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/greatcrossv3.PNG?alt=media&token=b018be15-40fd-46b3-8f48-29ad0af519ce"
 }

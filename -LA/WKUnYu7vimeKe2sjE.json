@@ -9,13 +9,13 @@
   "title": "Advance circuit block",
   "fileName": "Screenshot (123).png",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "ye5gtruRXrYNm1cCzc4mUNfb6gW2"
   },

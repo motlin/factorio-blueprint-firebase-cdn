@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1695879103717,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Self Healing Copper Mine "
 }

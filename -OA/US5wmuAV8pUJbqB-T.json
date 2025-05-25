@@ -28,11 +28,11 @@
   "imageUrl": "https://imgur.com/JilkmVm",
   "lastUpdatedDate": 1730325803454,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/mid game/",
-    "2": "/power/solar/",
-    "3": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/mid game/",
+    "/power/solar/",
+    "/production/guns and ammo/"
+  ],
   "title": "Lucrehulk V1Space Platform"
 }

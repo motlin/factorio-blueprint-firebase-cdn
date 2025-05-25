@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1577263094817,
   "numberOfFavorites": 6,
-  "tags": {
-    "3": "/power/accumulator/",
-    "4": "/production/other/",
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/production/other/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "title": "Solar Panel and Accumulators Covering 1 Radar Area with Lamps"
 }

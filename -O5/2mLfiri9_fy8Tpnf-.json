@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/WbGbP5v",
   "lastUpdatedDate": 1724492901338,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/general/early game/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/circuit/counter/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/general/early game/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/circuit/counter/",
+    "/mods/vanilla/"
+  ],
   "title": "Dmetreys Repair Train Book",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

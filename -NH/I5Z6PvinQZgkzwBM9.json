@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1668915283163,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Delta's 1k/min mid-game Red Circuits",
   "favorites": {
     "fSAiWMVNJ3QfN80f02k0MQemEay1": true,

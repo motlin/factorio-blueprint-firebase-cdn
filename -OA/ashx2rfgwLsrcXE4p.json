@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/9XRe5PZ",
   "lastUpdatedDate": 1732021918377,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Gleba-1 - a basic ship, capable of reaching all 4 base planets without stops or taking damage ",
   "favorites": {
     "ESYwbIrIF5Qd0XPnII9SaSxhbht1": true,

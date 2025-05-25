@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/vED2OLy",
   "lastUpdatedDate": 1730688695780,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "GRB Circuit Factory (Bad)",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

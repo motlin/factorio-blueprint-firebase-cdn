@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1651175576072,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,15/",
-    "3": "/mods/seablock/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,15/",
+    "/mods/seablock/"
+  ],
   "title": "160MW Binafran Power",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

@@ -8,11 +8,11 @@
     "type": "image/jpeg",
     "width": 1611
   },
-  "tags": {
-    "2": "/general/mid game/",
-    "0": "/version/0,17/",
-    "1": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/version/0,17/",
+    "/production/advanced circuit (red)/"
+  ],
   "favorites": {
     "En7kXfRyH7NZja9LJEwPCr95HvV2": true,
     "qg21dgZLYCe3O56kho54iw8p1U32": true,

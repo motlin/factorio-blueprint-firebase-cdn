@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623116588154,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/advanced circuit (red)/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Compact Red Blue Green Circuits",
   "favorites": {
     "pfpXdzNlanQLqRbvmUgaZak96TD2": true,

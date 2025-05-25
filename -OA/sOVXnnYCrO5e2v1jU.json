@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/LkM5DD5",
   "lastUpdatedDate": 1730744289532,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Quantity Quality Calculator",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

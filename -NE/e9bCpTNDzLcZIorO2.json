@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1695072023493,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/production/other/"
+  ],
   "title": "Artillery Base with Resupply",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,

@@ -16,9 +16,9 @@
     "type": "image/jpeg",
     "width": 1366
   },
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "favorites": {
     "WtE7EZbt8nUTLj2iIlcCiN4MNTo1": true
   }

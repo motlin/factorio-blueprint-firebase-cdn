@@ -26,8 +26,8 @@
     "width": 532
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/belt/balancer/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ]
 }

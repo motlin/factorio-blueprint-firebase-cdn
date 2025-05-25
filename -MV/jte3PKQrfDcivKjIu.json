@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/belts/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Early-Game Logistics",
   "favorites": {
     "CL9H3AtAEAfAongJ8uPTl7RdcE22": true,

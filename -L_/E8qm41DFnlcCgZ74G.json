@@ -15,11 +15,11 @@
     "width": 2336
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/belt/express transport belt (blue)/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/production/smelting/"
+  ],
   "title": "Beaconed Smelters"
 }

@@ -9,11 +9,11 @@
   },
   "lastUpdatedDate": 1598891731104,
   "numberOfFavorites": 13,
-  "tags": {
-    "2": "/general/chunk aligned/",
-    "0": "/train/left-hand-drive/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/train/left-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "authorId": "Van39hhfMBewyp3OnNyYmLCzKGx2",
   "createdDate": 1598763899400,
   "title": "Rail LHD Chunks 1-2-1",

@@ -44,12 +44,12 @@
   },
   "lastUpdatedDate": 1548308879975,
   "numberOfFavorites": 39,
-  "tags": {
-    "1": "/train/right-hand-drive/",
-    "2": "/train/junction/",
-    "3": "/train/roundabout/",
-    "4": "/version/0,16/",
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/version/0,16/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Octagonal Tile-able Megabase Rail Network"
 }

@@ -8,10 +8,10 @@
     "id": "uHx18pX"
   },
   "title": "Train unloading station to 8 blue belts ",
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "klPXoHJuz8hsnAw9VPhxfXVYLn72": true,
     "AtPM8cr9kxdMEUvCOKG0oayvYB13": true,

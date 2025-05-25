@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/3Up5Mlv",
   "lastUpdatedDate": 1733805939028,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/general/beaconized/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/general/beaconized/",
+    "/version/0,15/"
+  ],
   "title": "Beaconed Labs Mk 2",
   "favorites": {
     "KWFnXi2w8MYFiYDXo1Dnry6LYZ43": true,

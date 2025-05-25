@@ -25,9 +25,9 @@
   "imageUrl": "https://imgur.com/wsfOwJW",
   "lastUpdatedDate": 1733071698515,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Behemoth spaceship"
 }

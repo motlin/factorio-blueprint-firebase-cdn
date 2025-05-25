@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/CYXUqut",
   "lastUpdatedDate": 1732136776679,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/train/stacker/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/"
+  ],
   "title": "Smart Train Stations",
   "favorites": {
     "F7rhcUBaHHRdBt5lSv6Pq86DdKU2": true,

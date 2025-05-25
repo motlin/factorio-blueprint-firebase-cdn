@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1678926968187,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/general/mid game/"
+  ],
   "title": "ore to Module3 Factory",
   "favorites": {
     "Pw7XXRu6AZfCwtNPUIE4KinjTax1": true,

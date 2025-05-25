@@ -18,9 +18,9 @@
     "type": "image/jpeg",
     "width": 331
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Sound Player: Evil Inc."
 }

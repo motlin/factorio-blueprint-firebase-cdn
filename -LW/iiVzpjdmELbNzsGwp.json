@@ -22,10 +22,10 @@
     "type": "image/png",
     "width": 982
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ]
 }

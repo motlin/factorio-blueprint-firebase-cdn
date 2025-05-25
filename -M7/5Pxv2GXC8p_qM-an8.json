@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1589679854604,
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Smelting Book 8 and 12 Beacon"
 }

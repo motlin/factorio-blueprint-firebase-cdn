@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698573378894,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/mods/space-exploration/"
+  ],
   "title": "SE auto cargo rocket part and capsules restock",
   "favorites": {
     "Pw7XXRu6AZfCwtNPUIE4KinjTax1": true,

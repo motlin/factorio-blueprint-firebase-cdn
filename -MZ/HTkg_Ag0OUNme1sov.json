@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1665765728006,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Shoreside Reactor"
 }

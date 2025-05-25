@@ -16,13 +16,13 @@
     "type": "image/png",
     "width": 671
   },
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/production/science/",
-    "3": "/version/1,0/",
-    "4": "/production/rocket parts/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/science/",
+    "/version/1,0/",
+    "/production/rocket parts/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "kpWw9bmXQ6dm2q0CMjz8PSfXiWq2": true,
     "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,

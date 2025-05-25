@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623161032873,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Plastic Factory",
   "favorites": {
     "KDHw6DkmnMMxSDAgk1qIyPTzcDO2": true,

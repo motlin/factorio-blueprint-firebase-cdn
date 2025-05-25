@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1531492229093,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/track/"
+  ],
   "title": "Grid-Based 6-Lane RHD Rail System By MoodRaiser"
 }

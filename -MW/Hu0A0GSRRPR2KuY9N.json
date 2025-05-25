@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1645289673523,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "RED GREEN BLUE SCIENCE",
   "favorites": {
     "9UwnmkmcgJdIuHNRSFuvZ8zAKGb2": true,

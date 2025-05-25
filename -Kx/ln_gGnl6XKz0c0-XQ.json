@@ -3,13 +3,13 @@
   "fileName": "Science Packs.JPG",
   "lastUpdatedDate": 1514813411128,
   "numberOfFavorites": 32,
-  "tags": {
-    "3": "/version/0,15/",
-    "4": "/general/compact/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/lighted-electric-poles/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/compact/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/lighted-electric-poles/"
+  ],
   "favorites": {
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,
     "1HNHglraQATbUbK7SvTmbpbRhNf2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1553884424832,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/advanced circuit (red)/",
+    "/version/0,17/"
+  ],
   "title": "Science Red Circuit Production",
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,

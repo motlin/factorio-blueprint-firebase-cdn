@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1662403457175,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "stackable green circuit (early)",
   "favorites": {
     "lCPa3dWbcaUhPVLcaA0xnfreAsm2": true,

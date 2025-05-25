@@ -16,12 +16,12 @@
   "imageUrl": "https://imgur.com/FkyVDtV",
   "lastUpdatedDate": 1734389336623,
   "numberOfFavorites": -1,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/train/unloading station/",
-    "3": "/train/track/",
-    "4": "/planets/nauvis/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/train/unloading station/",
+    "/train/track/",
+    "/planets/nauvis/"
+  ],
   "title": "Train Track AND Train Roboport Track"
 }

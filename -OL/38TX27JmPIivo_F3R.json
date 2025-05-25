@@ -89,9 +89,9 @@
   "imageUrl": "https://imgur.com/iY2NQQR",
   "lastUpdatedDate": 1741885432729,
   "numberOfFavorites": 34,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Factorio Handbook"
 }

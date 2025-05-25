@@ -1,11 +1,11 @@
 {
   "descriptionMarkdown": "**Input:**\n\n- 7 belts of Iron Plate  *14K/m*\n- 1 belt of Green Circuit *2K/m*\n- 1 belt of Red Circuit *750/m*\n- 1 belt of Steel Plate *500/m*\n\n**Output:**\n- 1 belt of Blue Science  *1K/m*  - 30% efficiency\n",
   "lastUpdatedDate": 1522108827524,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Science Pack 3 - Blue Science - 1K",
   "author": {
     "userId": "0hl206XAZDYNRafblxoYAZbgj9W2"

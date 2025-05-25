@@ -10,10 +10,10 @@
     "type": "image/png",
     "width": 544
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Industrial Revolution Iron Production",
   "favorites": {
     "0xkjCPRtKAMFNPnQYxtJlTsnUkg1": true,

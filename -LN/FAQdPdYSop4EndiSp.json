@@ -16,10 +16,10 @@
     "height": 909,
     "id": "fVSAHi9"
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ]
 }

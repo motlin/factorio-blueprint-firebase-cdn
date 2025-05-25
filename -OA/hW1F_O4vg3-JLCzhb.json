@@ -16,11 +16,11 @@
   "imageUrl": "https://imgur.com/xd9Oe4c",
   "lastUpdatedDate": 1730561713878,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/tileable/",
-    "2": "/power/nuclear/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/tileable/",
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "title": "Plutonium titelable for 2.0"
 }

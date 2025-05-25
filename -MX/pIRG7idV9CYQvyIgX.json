@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1617949476050,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/crossing/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/crossing/",
+    "/train/junction/"
+  ],
   "title": "Railway cross 2Lane 4way",
   "favorites": {
     "VokhIBCTZbgZ23Y1awCCSlVlpWr1": true,

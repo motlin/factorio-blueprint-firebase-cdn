@@ -6,12 +6,12 @@
     "type": "image/jpeg",
     "width": 1191
   },
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Efficiency Module 3",
   "author": {
     "userId": "Ly0VkfRP2MQKoGNk7Pk7PbYN5NS2"

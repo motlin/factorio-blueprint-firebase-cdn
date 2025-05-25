@@ -56,10 +56,10 @@
   "imageUrl": "https://imgur.com/yVpxkyf",
   "lastUpdatedDate": 1732006531709,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/fulgora/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/mods/quality/"
+  ],
   "title": "The Qualitynator"
 }

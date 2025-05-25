@@ -26,8 +26,8 @@
   "imageUrl": "https://imgur.com/VbvAemZ",
   "lastUpdatedDate": 1730738106809,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Endgame Spaceship for Shattered Planet"
 }

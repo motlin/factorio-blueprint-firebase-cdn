@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1637017721415,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para fabricação de Circuito avançado com drone de transporte",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

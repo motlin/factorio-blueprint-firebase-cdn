@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1684883348135,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/compact/"
+  ],
   "title": "7-Segment Super Compact"
 }

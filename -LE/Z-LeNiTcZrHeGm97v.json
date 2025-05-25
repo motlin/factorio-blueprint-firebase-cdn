@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/ltn/"
+  ],
   "favorites": {
     "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,
     "XoCxLqSLEkOOcsnzT6izq3XWptr2": true

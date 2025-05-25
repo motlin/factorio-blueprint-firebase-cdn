@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/tileable/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,18/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/version/0,18/",
+    "/mods/vanilla/"
+  ],
   "authorId": "El9apTKPApasOqSoiwHXSmnOVIV2",
   "lastUpdatedDate": 1586127046961,
   "numberOfFavorites": 2,

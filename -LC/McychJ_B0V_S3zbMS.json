@@ -4,11 +4,11 @@
   "numberOfFavorites": 1,
   "title": "Simple Yellow Belt & Underground - SUPER EARLY",
   "lastUpdatedDate": 1555174779588,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/belts/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/belts/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "PFSltFZfeSUyighFCrcKp703tsr1": true
   },

@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1680008626763,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Bored Bob Space Exploration Playthrough Print Book"
 }

@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E3%83%A2%E3%83%BC%E3%83%AB%EF%BC%91.png?alt=media&token=49148ea3-b1af-48c3-a091-599e15a67bd3",
   "lastUpdatedDate": 1724403116186,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/general/early game/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/general/early game/",
+    "/production/electronic circuit (green)/",
+    "/mods/other/"
+  ],
   "title": "モール①/ガラス、電子基板"
 }

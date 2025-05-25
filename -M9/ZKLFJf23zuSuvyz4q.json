@@ -42,8 +42,8 @@
   },
   "lastUpdatedDate": 1591894994352,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Manufacturing Hub"
 }

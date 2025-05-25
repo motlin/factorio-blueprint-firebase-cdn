@@ -7,9 +7,9 @@
   "descriptionMarkdown": "Recreated from an older blueprint no longer compatible with anything beyond 0.16.\n\nOriginal\nhttps://www.factorio.school/view/-KYg0a1ct0diAZvOLlRZ",
   "fileName": "factorio_2021-01-29_23-30-34.png",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "authorId": "PqNaA3HYYVVKj65LdoDPIoEi0Oz1",
   "image": {
     "height": 798,

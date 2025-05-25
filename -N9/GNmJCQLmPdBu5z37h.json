@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660296570334,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/mid game/"
+  ],
   "title": "Midgame smelting",
   "favorites": {
     "mxs6NMTFm1b2uDqF1TxRNfiGrNB2": true,

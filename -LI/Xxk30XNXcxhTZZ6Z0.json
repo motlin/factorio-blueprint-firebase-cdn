@@ -15,10 +15,10 @@
     "width": 1681,
     "height": 1243
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/train/unloading station/"
+  ],
   "title": "Trains tileable",
   "favorites": {
     "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,

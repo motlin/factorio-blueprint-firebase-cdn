@@ -186,13 +186,13 @@
   },
   "lastUpdatedDate": 1590098629318,
   "numberOfFavorites": 137,
-  "tags": {
-    "1": "/production/rocket parts/",
-    "2": "/production/science/",
-    "3": "/production/research (labs)/",
-    "4": "/general/beaconized/",
-    "5": "/version/0,18/",
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/0,18/",
+    "/general/late game (megabase)/"
+  ],
   "title": "2.5k Megabase in a Book"
 }

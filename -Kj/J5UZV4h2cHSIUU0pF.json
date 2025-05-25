@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 100,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/power/solar/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/solar/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "SHfCJbX1aahZno336GwMtyNPdZ92"
   },

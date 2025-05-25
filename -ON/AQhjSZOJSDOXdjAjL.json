@@ -23,10 +23,10 @@
   "imageUrl": "https://imgur.com/KmNPoOV",
   "lastUpdatedDate": 1744106313596,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/general/ups friendly/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/general/ups friendly/"
+  ],
   "title": "Astorid Upcycler - (Almost UPS Optimized)"
 }

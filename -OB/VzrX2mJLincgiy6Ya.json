@@ -23,10 +23,10 @@
   "imageUrl": "https://imgur.com/EEx5HRy",
   "lastUpdatedDate": 1731438280822,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Starship"
 }

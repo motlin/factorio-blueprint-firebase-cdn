@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1668028787953,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/bobs/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/bobs/",
+    "/general/tileable/"
+  ],
   "title": "2 lanes, 4 roundabouts railblock",
   "favorites": {
     "bZ7hZaqCMsZtpL9oTyWje2WpoTh1": true,

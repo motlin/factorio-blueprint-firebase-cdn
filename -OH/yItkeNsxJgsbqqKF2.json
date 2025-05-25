@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3uQWWvS",
   "lastUpdatedDate": 1738509627631,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Dynamic Assembler - 9 item slot filter.",
   "favorites": {
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,

@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/late game (megabase)/"
+  ],
   "favorites": {
     "fZcqlQRI7wbMDzewMJyIFmGc9iR2": true
   },

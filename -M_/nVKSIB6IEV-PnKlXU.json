@@ -21,19 +21,19 @@
   },
   "lastUpdatedDate": 1621380370682,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/rocket parts/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/production/robots/",
-    "4": "/production/smelting/",
-    "5": "/general/tileable/",
-    "6": "/general/compact/",
-    "7": "/general/beaconized/",
-    "8": "/production/oil processing/",
-    "9": "/train/unloading station/",
-    "10": "/general/mid game/",
-    "11": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/rocket parts/",
+    "/production/logistic (bot) based/",
+    "/production/robots/",
+    "/production/smelting/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/production/oil processing/",
+    "/train/unloading station/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Modular Science Trains/Bots (100 spm)"
 }

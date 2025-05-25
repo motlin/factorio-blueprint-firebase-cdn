@@ -22,9 +22,9 @@
     "width": 1561
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/krastorio/"
+  ],
   "author": {
     "userId": "aGRZVaEL5kX199TBKlLfFOYVy0n2"
   },

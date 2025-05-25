@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/niS3bSC",
   "lastUpdatedDate": 1732876484616,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/vanilla/"
+  ],
   "title": "Throttled agricultural tower with user defined speed",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

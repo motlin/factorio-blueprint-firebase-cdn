@@ -24,9 +24,9 @@
   },
   "lastUpdatedDate": 1573844287365,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear Power Plant 3.9 GW - 28 reactors with progressive power increase"
 }

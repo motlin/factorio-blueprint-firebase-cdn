@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1578154084053,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Mining & Smelting Outpost",
   "author": {
     "userId": "V9Tj5X5ApvRAldjQLdQbp5um8EF3"

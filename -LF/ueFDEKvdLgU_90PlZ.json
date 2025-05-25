@@ -20,10 +20,10 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%200.16.51%20red.jpg?alt=media&token=438c31e9-7db0-43e7-a70a-e8129cb74f2b",
   "lastUpdatedDate": 1530396877164,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "OcBvLHMi5QRbuSul7nFtRgG5uZG2"
   },

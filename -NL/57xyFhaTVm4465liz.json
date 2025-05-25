@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1701983805449,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/tileable/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/tileable/",
+    "/belt/fast transport belt (red)/",
+    "/version/1,1/"
+  ],
   "title": "Advanced Circuits - Hexagon",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,

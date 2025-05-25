@@ -10,10 +10,10 @@
     "width": 1577
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/production/oil processing/"
+  ],
   "author": {
     "userId": "Fu2XktNYXTbARRod2pl5pQkRjmb2"
   },

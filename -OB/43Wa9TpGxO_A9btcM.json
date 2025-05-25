@@ -49,14 +49,14 @@
   "imageUrl": "https://imgur.com/LpQdSrz",
   "lastUpdatedDate": 1730957239861,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/stacker/",
-    "2": "/train/left-hand-drive/",
-    "3": "/train/unloading station/",
-    "4": "/general/mid game/",
-    "5": "/version/2,0/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/stacker/",
+    "/train/left-hand-drive/",
+    "/train/unloading station/",
+    "/general/mid game/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "The Hive - A 1-1 Logistic Train based Hex Grid Network"
 }

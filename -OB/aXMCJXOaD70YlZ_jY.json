@@ -19,8 +19,8 @@
   "imageUrl": "https://imgur.com/T2nLdA4",
   "lastUpdatedDate": 1731621351983,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Extendable nuclear plant(normal) with roboports"
 }

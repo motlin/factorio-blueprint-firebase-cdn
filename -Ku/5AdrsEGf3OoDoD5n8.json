@@ -16,9 +16,9 @@
     "height": 156,
     "id": "39rNLRP"
   },
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/bobs/"
+  ],
   "title": "production pole electric mk3"
 }

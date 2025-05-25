@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/belt/prioritizer/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/mods/vanilla/"
+  ],
   "title": "Belt Capacitor",
   "author": {
     "userId": "FCvJDC38h7O1kXVDN9In23mZ4Yw2"

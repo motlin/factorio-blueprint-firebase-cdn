@@ -16,10 +16,10 @@
   },
   "authorId": "9FEiVPXF8PhLNMzaZM0ywvkPWvS2",
   "createdDate": 1613321143991,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/plastic/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/plastic/"
+  ],
   "favorites": {
     "WcHajyvTlMXyxD3AcOWHvr37zOv2": true,
     "7fSyJDSKXwY1InNj78jgw4QnzLv1": true,

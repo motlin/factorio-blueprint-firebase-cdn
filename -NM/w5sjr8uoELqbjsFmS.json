@@ -24,9 +24,9 @@
   },
   "lastUpdatedDate": 1704023924296,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "K2+SE Colony starting block"
 }

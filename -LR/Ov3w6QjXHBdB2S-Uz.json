@@ -10,9 +10,9 @@
   },
   "numberOfFavorites": 3,
   "lastUpdatedDate": 1542328176553,
-  "tags": {
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "7CPZbN6gwgSBBRhKprTEfictr8k1"
   },

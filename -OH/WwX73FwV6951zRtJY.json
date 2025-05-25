@@ -16,9 +16,9 @@
   "imageUrl": "https://i.imgur.com/Fi76ZxA.png",
   "lastUpdatedDate": 1737883790377,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Scar, the Cylon raider"
 }

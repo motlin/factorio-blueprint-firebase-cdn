@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/FtX5Lof",
   "lastUpdatedDate": 1730475390899,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/mid game/"
-  },
+  "tags": [
+    "/general/mid game/"
+  ],
   "title": "Logistic Factory",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,

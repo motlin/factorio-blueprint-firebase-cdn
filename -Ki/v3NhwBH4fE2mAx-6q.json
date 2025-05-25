@@ -17,11 +17,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_1.png?alt=media&token=6c9f295d-ae48-42f8-a983-2d8b9c2d23dc",
   "lastUpdatedDate": 1498606235727,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "QMhTwlolJ3WN5eHg0olA0lvwVYL2": true,
     "oMQdWpiZ2Kbq2ApwCVIBpEpbm9y1": true

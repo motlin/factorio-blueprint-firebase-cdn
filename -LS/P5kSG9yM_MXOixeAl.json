@@ -14,14 +14,14 @@
   },
   "lastUpdatedDate": 1572396009378,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/version/0,17/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/version/0,17/"
+  ],
   "title": "Fast Compact Inserter Factory",
   "createdDate": 1572396009378
 }

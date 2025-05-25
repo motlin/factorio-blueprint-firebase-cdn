@@ -19,10 +19,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E3%83%A2%E3%83%BC%E3%83%AB%EF%BC%92.png?alt=media&token=3459674f-9b9b-4508-9e54-4054fc6441f0",
   "lastUpdatedDate": 1697638760110,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/mall (make everything)/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "モール②/赤基盤・黒ﾊﾟｯｸ"
 }

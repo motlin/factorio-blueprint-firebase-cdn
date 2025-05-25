@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1690783025605,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Yellow Science 30spm model 2",
   "favorites": {
     "gqRxnCXXMANqEwcgCfIdenYYsO22": true,

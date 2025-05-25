@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/warehousing/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/warehousing/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "Ka5ZW621RRc373riRXkQWrzqHjp1"
   },

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697629245598,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "SEK2 Landing Pad with Shopping List",
   "favorites": {
     "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true

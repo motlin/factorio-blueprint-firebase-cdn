@@ -16,9 +16,9 @@
   "descriptionMarkdown": "my red science ratioed standalone",
   "fileName": "Factorio 0.16.47_3.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/production/research (labs)/",
-    "0": "/production/science/",
-    "1": "/mods/creative/"
-  }
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/",
+    "/mods/creative/"
+  ]
 }

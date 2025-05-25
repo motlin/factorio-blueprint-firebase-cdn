@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/CbFCPEW",
   "lastUpdatedDate": 1744340237143,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/",
-    "3": "/power/steam/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/power/steam/"
+  ],
   "title": "Vulcanus - Power Plant (0.72GW)",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

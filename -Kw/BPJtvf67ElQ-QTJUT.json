@@ -7,10 +7,10 @@
     "width": 1349
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/storage/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/storage/"
+  ],
   "title": "Analog \"Recycling\" Center",
   "author": {
     "userId": "iuVkZ3NX5YSAqMxcpWpIssaTYZM2"

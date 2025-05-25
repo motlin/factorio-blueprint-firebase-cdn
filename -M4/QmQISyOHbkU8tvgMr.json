@@ -15,12 +15,12 @@
   "descriptionMarkdown": "This array makes 1.25 Utility Tech Cards/s\n\nWith two of this you would have 2.5/s as the usual standard.",
   "fileName": "UtilityTechCardArray.jpg",
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/version/0,18/",
-    "3": "/production/science/",
-    "0": "/general/mid game/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/science/",
+    "/general/mid game/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 - Utility Tech Card 1.25/s",
   "favorites": {
     "oeNyBBU5hYRiscgRd3aAYHaZOAw2": true,

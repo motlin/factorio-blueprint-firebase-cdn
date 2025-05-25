@@ -15,10 +15,10 @@
     "width": 607
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
     "NjB2DwrYKsfrOhfH9xT6YQQY7Sg2": true,

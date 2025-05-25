@@ -10,13 +10,13 @@
   },
   "lastUpdatedDate": 1499944173072,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,14/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"
   },

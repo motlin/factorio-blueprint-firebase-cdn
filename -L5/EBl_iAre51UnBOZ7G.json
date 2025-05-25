@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1518543564916,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/0,16/"
+  ],
   "title": "1,200 science per minute Labs using bots, with train stations"
 }

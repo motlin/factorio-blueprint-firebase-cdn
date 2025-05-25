@@ -9,11 +9,11 @@
   },
   "numberOfFavorites": 12,
   "lastUpdatedDate": 1506676883030,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Train 1-4 unload left",
   "author": {
     "userId": "EB8WBvnJykbdfYUSWX4aFBO9BVJ2"

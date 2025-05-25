@@ -49,12 +49,12 @@
   "imageUrl": "https://imgur.com/oGKBwTB",
   "lastUpdatedDate": 1732244048310,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/belt based/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/",
-    "4": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "U.S.S. Enterprise Aquilo Cruiser V1.0.2"
 }

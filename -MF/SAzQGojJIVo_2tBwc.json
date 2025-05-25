@@ -66,12 +66,12 @@
   },
   "lastUpdatedDate": 1607997802920,
   "numberOfFavorites": 45,
-  "tags": {
-    "1": "/belt/prioritizer/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/belt/express transport belt (blue)/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/belt/balancer/"
+  ],
   "title": "The Complete Belt Series for 1.0"
 }

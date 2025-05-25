@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1672633163564,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/early game/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "title": "111 Crafts Start",
   "favorites": {
     "H0OVd48PdpR5tnvLJ9W33wNaN612": true,

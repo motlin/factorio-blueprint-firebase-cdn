@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3Q6WTP6",
   "lastUpdatedDate": 1739981953040,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/general/beaconized/"
+  ],
   "title": "3980 agricultural science per minute quality",
   "favorites": {
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,

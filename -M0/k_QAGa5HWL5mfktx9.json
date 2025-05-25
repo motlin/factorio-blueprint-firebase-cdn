@@ -15,9 +15,9 @@
   "descriptionMarkdown": "Suggestions are welcome. This is an early attempt to make semi-scalable nuclear power. No bots to bring in fuel or remove waste (belts only). Your own design of turbines and power poles go on the other end of the tanks. Tanks are only used to measure if fuel is needed or not.\n\nCurrently, this needs to be jumpstarted after initial construction by adding a single nuclear fuel container to each reactor. Once it burns through that, a spent fuel canister will be waiting. Filter inserters pull spent fuel out only when steam is below the threshold set via the combinator. The partner filter insterters add new fuel only when it reads the spent fuel container from the other insterter.",
   "fileName": "Nuke Plant 2020-02-23.png",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,18/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,18/"
+  ],
   "title": "Bot-less Nuclear w/ heat corridor"
 }

@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1617681819074,
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/train/roundabout/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/train/junction/"
+  ],
   "title": "Blocks 011: Steel Smelting"
 }

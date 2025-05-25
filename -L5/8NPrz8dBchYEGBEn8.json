@@ -14,11 +14,11 @@
     "id": "PY7ecBg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bitmap.png?alt=media&token=752c9527-76e9-439c-a7f0-4b129303e716",
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "descriptionMarkdown": "Craft from copper, green circuit, and coal to red circuit and pla.  \n\n\nPros\n- Expandable to the right.\n- Fit to bus type factory. \n\nCons\n- Too much pla.",
   "lastUpdatedDate": 1518575981761,
   "title": "red curcuit and pla",

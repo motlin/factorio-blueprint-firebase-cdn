@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1693079559090,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/industrial revolution/",
-    "1": "/mods/other/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/industrial revolution/",
+    "/mods/other/",
+    "/general/early game/"
+  ],
   "title": "Industrial Revolution 3 Iron Science Packs",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,

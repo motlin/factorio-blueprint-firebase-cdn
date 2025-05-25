@@ -20,9 +20,9 @@
     "id": "Uv3Bb5l"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "Train Priority Gate"
 }

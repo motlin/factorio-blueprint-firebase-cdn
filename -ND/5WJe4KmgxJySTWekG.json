@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1664409242269,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/version/0,17/"
+  ],
   "title": "Space Exploration - Stackable Single Cylinder Engine",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

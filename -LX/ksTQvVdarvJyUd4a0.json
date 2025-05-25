@@ -1,9 +1,9 @@
 {
   "lastUpdatedDate": 1549155821448,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Logic delay",
   "author": {
     "userId": "ZYy9Z0bqRTek5QV2hES3pd6KFDU2"

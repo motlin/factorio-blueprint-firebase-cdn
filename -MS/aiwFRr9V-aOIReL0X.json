@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1641327346851,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "beaconed kovarex enrichment facility",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

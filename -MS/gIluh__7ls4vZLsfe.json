@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "author": {
     "userId": "NMi14jaWEfYbWPzO9ZFFNgp9qqw2"
   },

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1643621226437,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Train Counter (Celtic Knot)",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

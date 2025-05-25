@@ -46,16 +46,16 @@
   },
   "lastUpdatedDate": 1539103135609,
   "numberOfFavorites": 54,
-  "tags": {
-    "4": "/production/electronic circuit (green)/",
-    "5": "/general/early game/",
-    "6": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "1": "/general/beaconized/",
-    "3": "/production/advanced circuit (red)/",
-    "7": "/general/late game (megabase)/",
-    "8": "/production/belt based/",
-    "0": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/advanced circuit (red)/",
+    "/general/late game (megabase)/",
+    "/production/belt based/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Tierd circuits for all belt types  - green red blue"
 }

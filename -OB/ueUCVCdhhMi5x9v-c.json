@@ -22,12 +22,12 @@
   "imageUrl": "https://imgur.com/zIagfUO",
   "lastUpdatedDate": 1731869888267,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/power/nuclear/",
-    "2": "/production/guns and ammo/",
-    "3": "/mods/space-age/",
-    "4": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/nuclear/",
+    "/production/guns and ammo/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "-Behemoth Class- The Reaper"
 }

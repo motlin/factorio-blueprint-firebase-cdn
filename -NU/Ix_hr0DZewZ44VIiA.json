@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1682888351738,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "title": "Chip shaped 920/s Electronic Circuit block (& 345/s Expensive Mode variant)"
 }

@@ -17,12 +17,12 @@
     "type": "image/jpeg",
     "width": 1964
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/version/0,17/"
+  ],
   "descriptionMarkdown": "When you need the perfect symmetrical layout in a tileable smeltery. :-)",
   "fileName": "Tileable_dense_smeltery.jpg",
   "lastUpdatedDate": 1555805629283,

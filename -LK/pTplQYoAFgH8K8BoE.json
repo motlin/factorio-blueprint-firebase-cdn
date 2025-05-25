@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true
   },

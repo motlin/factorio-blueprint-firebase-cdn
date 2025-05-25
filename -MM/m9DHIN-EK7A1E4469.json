@@ -52,13 +52,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202021-11-06%20212330.jpg?alt=media&token=3b341730-1c24-45f5-98ba-b7630d6f0193",
   "lastUpdatedDate": 1636187062975,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/power/steam/",
-    "3": "/version/1,0/",
-    "4": "/production/research (labs)/",
-    "5": "/production/science/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/advanced circuit (red)/",
+    "/power/steam/",
+    "/version/1,0/",
+    "/production/research (labs)/",
+    "/production/science/"
+  ],
   "title": "Bunta's Factorissimo Book"
 }

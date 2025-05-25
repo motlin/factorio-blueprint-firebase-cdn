@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "4": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "h0oe3FBenthBjkOZPfNrMsGSUZe2"
   },

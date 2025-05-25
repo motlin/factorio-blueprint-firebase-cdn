@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/QCnLYCO",
   "lastUpdatedDate": 1731751161433,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/2,0/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/2,0/",
+    "/production/research (labs)/",
+    "/mods/space-age/"
+  ],
   "title": "Stackable Biolab (1780 SPM)",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

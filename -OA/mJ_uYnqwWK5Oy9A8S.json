@@ -19,8 +19,8 @@
   "imageUrl": "https://imgur.com/AfeNUd5",
   "lastUpdatedDate": 1730642458769,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "mk.2 Space Platform"
 }

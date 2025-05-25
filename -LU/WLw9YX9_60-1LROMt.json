@@ -3,12 +3,12 @@
   "descriptionMarkdown": "It need another 3 filled blue belts with copper wire. Just copy-paste the included setup.\n\nThere is still room for improvement :)",
   "lastUpdatedDate": 1565951455939,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/version/0,17/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/plastic/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/version/0,17/",
+    "/production/electronic circuit (green)/",
+    "/production/plastic/"
+  ],
   "title": "Red Circuits - 1.1k/min~ (Copper Wire + Green Circuits + Plastic)",
   "author": {
     "userId": "zQJsQjeYMWTezrCpYnraGjfO2Nz2"

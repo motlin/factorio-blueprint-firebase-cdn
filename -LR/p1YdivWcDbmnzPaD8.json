@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1571774176337,
   "numberOfFavorites": 9,
-  "tags": {
-    "2": "/train/junction/",
-    "0": "/train/unloading station/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/unloading station/",
+    "/train/track/"
+  ],
   "title": "Smelter MK3"
 }

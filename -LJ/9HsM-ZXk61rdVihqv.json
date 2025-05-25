@@ -15,10 +15,10 @@
   },
   "authorId": "5h10hDGNjOVt4hiAqVVeeQ2hoH23",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/creative/",
-    "2": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/creative/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "green science"
 }

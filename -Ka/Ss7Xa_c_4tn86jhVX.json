@@ -2,11 +2,11 @@
   "fileName": "20170115003537_1.jpg",
   "lastUpdatedDate": 1498310802293,
   "numberOfFavorites": 30,
-  "tags": {
-    "2": "/version/0,14/",
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,14/",
+    "/production/modules/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "MtidJJldzPVAz2dOKalkIRvbDjl2"
   },

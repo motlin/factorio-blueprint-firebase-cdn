@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1559397849503,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/general/beaconized/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/smelting/"
+  ],
   "title": "Ore to Plate 16 Lanes FULL by Freeman (Iron/Copper/Steel)"
 }

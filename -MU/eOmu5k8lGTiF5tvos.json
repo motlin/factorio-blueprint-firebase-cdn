@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1643536396160,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Steam Long 18Mw",
   "favorites": {
     "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,

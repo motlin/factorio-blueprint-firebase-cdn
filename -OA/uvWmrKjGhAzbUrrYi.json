@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/CYJgvq8",
   "lastUpdatedDate": 1730786761945,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/fulgora/"
+  ],
   "title": "Space platform for transport to and from Fulgora",
   "favorites": {
     "pKPs0wKjioZJmux2tGk4hYYz6Cn1": true,

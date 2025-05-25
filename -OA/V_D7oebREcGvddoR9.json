@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/dNaTzsn",
   "lastUpdatedDate": 1730422244870,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/production/rocket parts/",
-    "3": "/planets/gleba/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/production/rocket parts/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba Rocket Fuel Production",
   "favorites": {
     "8KxnOemithR6yOG1iW1Ltk4jHoh2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/gMDOQOZ",
   "lastUpdatedDate": 1741750835107,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/space-age/"
+  ],
   "title": "Velocity Controlled Fuel Regulator (PI)",
   "favorites": {
     "BJMBIONVIbVu7TfDM58lBjnByhL2": true,

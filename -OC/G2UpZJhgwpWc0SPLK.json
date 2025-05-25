@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/eWxjOjh",
   "lastUpdatedDate": 1732255455575,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "5.1GW Fusion Reactor Setup",
   "favorites": {
     "BMbr3u14ITaxo16fWERJChsrR3f1": true,

@@ -11,13 +11,13 @@
     "id": "7PCEBFE"
   },
   "lastUpdatedDate": 1611689624937,
-  "tags": {
-    "2": "/version/1,0/",
-    "3": "/production/smelting/",
-    "4": "/general/beaconized/",
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "Печи late game balanced",
   "author": {
     "userId": "2qx4Rs4zxvcm2tmBEXvO5aCiuXC2"

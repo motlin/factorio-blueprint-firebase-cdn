@@ -31,12 +31,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/3brick.jpg?alt=media&token=566de7b2-cf8a-4e40-9735-2ab8ab428b80",
   "lastUpdatedDate": 1638831068248,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/production/mining/",
-    "3": "/version/1,0/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/processing unit (blue)/",
+    "/production/mining/",
+    "/version/1,0/",
+    "/general/compact/"
+  ],
   "title": "Full Output belt Symmetric Top&Bot for BUS"
 }

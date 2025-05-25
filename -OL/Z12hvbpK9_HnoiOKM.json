@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/IfcIdFb",
   "lastUpdatedDate": 1742214043838,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/stacker/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/stacker/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Cityblock rails",
   "favorites": {
     "X2h9M0p2qBWjQ67yBiiulcV4XeN2": true,

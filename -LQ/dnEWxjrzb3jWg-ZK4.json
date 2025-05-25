@@ -24,9 +24,9 @@
   },
   "authorId": "gV45wzv9r7Rlc6uUCElRvxOjzZu2",
   "lastUpdatedDate": 1597139669850,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ]
 }

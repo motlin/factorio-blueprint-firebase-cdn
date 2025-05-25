@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/fI6asO1",
   "lastUpdatedDate": 1724069900387,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/production/uranium/"
+  ],
   "title": "DI Uranium Process Single"
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/cg1GJor",
   "lastUpdatedDate": 1730142502319,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Auto-assembler/mall v1.4",
   "favorites": {
     "MnWN1iHNpgM9yLbo5S36kYV3RmG2": true,

@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/0gjhFFu",
   "lastUpdatedDate": 1740768898653,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/nauvis/",
-    "3": "/planets/gleba/",
-    "4": "/planets/fulgora/",
-    "5": "/planets/vulcanus/",
-    "6": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/mods/space-age/"
+  ],
   "title": "Aquilo Transport",
   "favorites": {
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,

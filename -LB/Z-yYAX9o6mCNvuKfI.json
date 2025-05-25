@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1525317626141,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Kitch's Better Wave Defense Book - 2.0"
 }

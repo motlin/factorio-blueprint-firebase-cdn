@@ -11,9 +11,9 @@
   "descriptionMarkdown": "This is kind of a terrible one but its my first time trying circuit networks so please be civil.",
   "createdDate": 1579666758787,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "0-9 Item Counter",
   "author": {
     "userId": "CFx7bRJGcNYJrdo4f63NmiZu92t2"

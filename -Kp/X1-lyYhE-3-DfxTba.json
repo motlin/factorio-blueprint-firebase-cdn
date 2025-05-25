@@ -6,11 +6,11 @@
     "type": "image/jpeg",
     "width": 838
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Blue Circuits",
   "favorites": {
     "Vvqoe2bsVnbqccT9GVUUSmbmHw22": true,

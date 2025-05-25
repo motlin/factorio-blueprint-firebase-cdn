@@ -13,18 +13,18 @@
   "createdDate": 1586970714036,
   "fileName": "SafeRails v2 by BlueEagle_bp.PNG",
   "numberOfFavorites": 9,
-  "tags": {
-    "2": "/train/crossing/",
-    "3": "/train/stacker/",
-    "6": "/mods/vanilla/",
-    "7": "/version/0,17/",
-    "9": "/general/mid game/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "8": "/general/tileable/",
-    "4": "/train/track/",
-    "5": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/mid game/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/tileable/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "SafeRails v2",
   "favorites": {
     "5uS9uacTm0h4TfXJRhXms4rut6S2": true,

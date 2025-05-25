@@ -9,11 +9,11 @@
     "width": 908
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "UE4W12IAv4QzchJrelz4X727T6T2": true,
     "CNCGWlyPd0cIJPC9fCN1JEFWczm2": true

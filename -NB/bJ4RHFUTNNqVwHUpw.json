@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1662919897612,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/other/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/other/",
+    "/mods/krastorio/"
+  ],
   "title": "Mall 2 - Basic Production [K2SE]",
   "favorites": {
     "MuXDDSIYVcZ036wg9rXrEG7FMNT2": true,

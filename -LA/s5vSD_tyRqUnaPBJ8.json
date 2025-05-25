@@ -15,11 +15,11 @@
   "lastUpdatedDate": 1553572018102,
   "fileName": "20190325233330_1.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Precise Dynamic Train Loader",
   "favorites": {
     "8eykGBPH6JQLp4xRV04K3IAI3423": true

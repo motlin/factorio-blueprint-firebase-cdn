@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/solar%20spiral.png?alt=media&token=df2fd0e8-bbfe-401f-b9e8-d9662eea8c7c",
   "lastUpdatedDate": 1505129299191,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Solar Spiral"
 }

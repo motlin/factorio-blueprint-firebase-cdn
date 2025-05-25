@@ -24,9 +24,9 @@
   "createdDate": 1565562363676,
   "lastUpdatedDate": 1565562363676,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "Diverting Crosswalk"
 }

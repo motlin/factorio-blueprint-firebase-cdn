@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/BP1HzP4",
   "lastUpdatedDate": 1741750589446,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "PFM - Single Input",
   "favorites": {
     "BJMBIONVIbVu7TfDM58lBjnByhL2": true,

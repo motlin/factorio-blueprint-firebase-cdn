@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1693423341534,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Self-Healing Border Wall w/ Landfill"
 }

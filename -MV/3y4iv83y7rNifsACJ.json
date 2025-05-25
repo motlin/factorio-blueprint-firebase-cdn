@@ -16,9 +16,9 @@
   "createdDate": 1614991088822,
   "descriptionMarkdown": "Empty 100x100 cityblock with intersections, power and roboports.",
   "fileName": "emptyblock100.png",
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "authorId": "ei8gYTDaIAUQk09QcrqAk4ZguQ62",
   "image": {
     "width": 925,

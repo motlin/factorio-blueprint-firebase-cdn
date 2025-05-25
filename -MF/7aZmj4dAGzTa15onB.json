@@ -20,16 +20,16 @@
   },
   "lastUpdatedDate": 1626863194448,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/production/processing unit (blue)/",
-    "5": "/production/uranium/",
-    "6": "/train/loading station/",
-    "7": "/production/oil processing/",
-    "8": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/production/processing unit (blue)/",
+    "/production/uranium/",
+    "/train/loading station/",
+    "/production/oil processing/",
+    "/general/late game (megabase)/"
+  ],
   "title": "All of them"
 }

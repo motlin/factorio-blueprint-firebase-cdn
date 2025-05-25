@@ -13,10 +13,10 @@
   "authorId": "5yOdoeryxAUqr3u4pydvHePoAB82",
   "descriptionMarkdown": "Blueprints from Lazy Bastard Livesteams",
   "fileName": "20181006145536_1.jpg",
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/train/junction/"
+  ],
   "favorites": {
     "1fcrOww1WROrdIEN5QYqZ00saXd2": true
   },

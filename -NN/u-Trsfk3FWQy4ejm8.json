@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1705001479842,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,15/"
+  ],
   "title": "Robot Automation",
   "favorites": {
     "jtSu6Om1Q3O6AAZyQYAmb4uQpyk2": true

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1684165985958,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/mods/creative/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/mods/creative/"
+  ],
   "title": "My oil setup",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2023-05-15_165332314.png?alt=media&token=4c270bc3-d549-408a-af84-2f16f828bf00"
 }

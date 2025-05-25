@@ -15,19 +15,19 @@
   },
   "lastUpdatedDate": 1625214169047,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/version/0,15/",
-    "5": "/version/0,16/",
-    "6": "/version/0,17/",
-    "7": "/version/0,18/",
-    "8": "/general/tileable/",
-    "9": "/general/mid game/",
-    "10": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Processing Units (10/s) - tileable",
   "favorites": {
     "adqJGXvSjdVLGIHaYPd2sLIUaHK2": true

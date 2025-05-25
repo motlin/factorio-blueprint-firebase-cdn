@@ -12,11 +12,11 @@
   "createdDate": 1594445629146,
   "fileName": "screenshot-tick-168042.png",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
     "cZkO9EJ9o7aCpou0mUfJLM8E3WE2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1710524924337,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/pax/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/pax/"
+  ],
   "title": "VTN by PMAP (v1.01, Rus)"
 }

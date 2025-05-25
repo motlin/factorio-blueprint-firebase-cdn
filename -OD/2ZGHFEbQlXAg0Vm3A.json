@@ -19,10 +19,10 @@
   "imageUrl": "https://imgur.com/pdevPxK",
   "lastUpdatedDate": 1733417236165,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/mods/space-exploration/"
+  ],
   "title": "EventHorizon"
 }

@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1643396126863,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/production/smelting/",
-    "3": "/general/early game/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/smelting/",
+    "/general/early game/",
+    "/version/1,0/"
+  ],
   "title": "Early Angels/Bobs Crushing -> Smelting",
   "favorites": {
     "we7GMANN5SYFeddgkztRoERAX3n2": true,

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1680401297202,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/space-exploration/",
-    "2": "/mods/factorissimo/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/space-exploration/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "title": "Compact rocket fuel production design",
   "favorites": {
     "jD8YwrnFziUH7H5IqNV5KZV32Er2": true,

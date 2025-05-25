@@ -10,9 +10,9 @@
     "type": "image/jpeg"
   },
   "fileName": "20190121100611_1.jpg",
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "1.67 GW Nuclear Reactor",
   "favorites": {
     "xY9rEKNEQMbXOOplxstm479GMBc2": true,

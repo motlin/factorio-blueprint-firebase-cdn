@@ -15,11 +15,11 @@
     "width": 350
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Inserter Mini-Mall",
   "favorites": {
     "msYFYAuiXEQJOltWblMV51DJLYk1": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/7cHWVDI",
   "lastUpdatedDate": 1740313734416,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "title": "Bot rush không cần dầu"
 }

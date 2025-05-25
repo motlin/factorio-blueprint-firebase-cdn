@@ -15,10 +15,10 @@
   "descriptionMarkdown": "Early game green circuits production",
   "fileName": "Screenshot 2020-05-20 at 13.51.57.png",
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Green circuits production"
 }

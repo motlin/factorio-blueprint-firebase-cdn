@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "aMhBTszETTP7L6BnMp7dlu78HhQ2"
   },

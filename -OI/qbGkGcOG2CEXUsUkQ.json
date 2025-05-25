@@ -19,11 +19,11 @@
   "imageUrl": "https://i.imgur.com/V8KKfbF.jpeg",
   "lastUpdatedDate": 1739304377092,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/space-age/"
+  ],
   "title": "Factorio 2.0 Nauvis Beaconed Science 30/s"
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/VkU4gLU",
   "lastUpdatedDate": 1735591484991,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/space-exploration/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/planets/space-platform/"
+  ],
   "title": "Nebuchadnezzar",
   "favorites": {
     "Mdl7k31q1wNEcxo2jIhiSNsmiRo1": true

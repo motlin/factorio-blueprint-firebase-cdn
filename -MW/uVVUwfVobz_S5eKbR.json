@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1646010327347,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/production/belt based/"
+  ],
   "title": "Compact Refinery 1RPM+",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/jghghg.bmp?alt=media&token=13b58243-2a0d-4bde-b3e2-6d8b6815c671",
   "favorites": {

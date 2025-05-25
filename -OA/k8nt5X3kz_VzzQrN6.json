@@ -25,13 +25,13 @@
   "imageUrl": "https://imgur.com/YYN8GxO",
   "lastUpdatedDate": 1730896014013,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/2,0/",
-    "3": "/production/research (labs)/",
-    "4": "/power/solar/",
-    "5": "/mods/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/version/2,0/",
+    "/production/research (labs)/",
+    "/power/solar/",
+    "/mods/other/"
+  ],
   "title": "Trains (4-line)"
 }

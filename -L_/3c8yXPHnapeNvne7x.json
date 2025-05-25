@@ -2,12 +2,12 @@
   "descriptionMarkdown": "My try on a 12 Reactor Setup.\n\nRatio is nearly perfect, only missing 1 Turbine for symmetrical Reasons :)\n\nIt´s designed to not waste Fuel, though you have to prime it manually for the first time. Simply wait until there are Fuel Cells in every Requester Chest, then quickly switch the Constant Combinator On and Off. (Must be Off by default)\n\nWater connects up and down on the Edges. You will need 16 Pumps to run this.\n\nFor those wondering, I´m using the Pumps from the Mod \"Inland Pumps\" by minno, because I don´t like to fiddle around with long Waterpipes or building Reactors on Seas. :)\n",
   "lastUpdatedDate": 1551634672818,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/nuclear/",
-    "2": "/version/0,17/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/general/late game (megabase)/"
+  ],
   "title": "1.74 GW Nuclear Reactor by Bobanz",
   "author": {
     "userId": "GU3hGGMknLSgp69xjNqLP0lSvqC2"

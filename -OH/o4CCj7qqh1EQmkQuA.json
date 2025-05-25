@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/hAajVEb",
   "lastUpdatedDate": 1739299282205,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/compact/"
-  },
+  "tags": [
+    "/general/compact/"
+  ],
   "title": "Compact Space Science Blueprint",
   "favorites": {
     "BnUNWA0CXSPCcCY4vVmVfNOyDmk2": true,

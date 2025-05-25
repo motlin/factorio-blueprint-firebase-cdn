@@ -10,12 +10,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mining%20node.png?alt=media&token=b5c9ab3b-9534-43b8-bd50-5a70119eb2e7",
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "97wNiQRtfHdbQd0EBeS2zJrayiz2"
   },

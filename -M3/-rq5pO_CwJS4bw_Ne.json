@@ -16,10 +16,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "0toDbbJcWXSAxOc7ldflT9zCCA13": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

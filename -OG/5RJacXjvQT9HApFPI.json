@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/rjpiklZ",
   "lastUpdatedDate": 1736915205077,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Personal Transit Platform - Scoots McGoots",
   "favorites": {
     "r9aa59UhsUWaNa2bxbqUe5YzjQs2": true,

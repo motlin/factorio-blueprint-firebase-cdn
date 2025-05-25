@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1624212945403,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/power/steam/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/power/steam/",
+    "/general/early game/"
+  ],
   "title": "Early game power generation with 16MW of mostly symmetric isolated free power",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

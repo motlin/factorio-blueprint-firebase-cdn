@@ -6,10 +6,10 @@
   "descriptionMarkdown": "Will barrel all but steam.",
   "lastUpdatedDate": 1574029696753,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,17/"
+  ],
   "title": "Fluid Scrubber",
   "author": {
     "userId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2"

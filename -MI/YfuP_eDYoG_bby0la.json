@@ -25,8 +25,8 @@
   },
   "lastUpdatedDate": 1601547782266,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "City blocks v3"
 }

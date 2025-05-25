@@ -6,11 +6,11 @@
   "createdDate": 1505142328081,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170911165635_1.jpg?alt=media&token=6d059944-710d-40f6-9b59-2774023ce22d",
   "title": "Early Assembler Setup",
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/production/science/"
+  ],
   "authorId": "TqXSufVjuDbx5uLHD2oe0Vl1Ibk2",
   "descriptionMarkdown": "This is a setup before you are building your main base.\nIt contain Red Science + Labs, Gears, Belts, Green Circuits, Tier 1 Ammo",
   "fileName": "20170911165635_1.jpg",

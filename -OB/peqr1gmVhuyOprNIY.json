@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/BxPlFuj",
   "lastUpdatedDate": 1731772459199,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/quality/"
+  ],
   "title": "Parameterized, Upgradeble Module LVL1-3 Upcycler",
   "favorites": {
     "f3rAVSVg6DZaN0LacXmn6y2t5Jz2": true,

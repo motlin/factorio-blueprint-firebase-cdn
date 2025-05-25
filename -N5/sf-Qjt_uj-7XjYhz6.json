@@ -35,9 +35,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ska%CC%88rmavbild%202023-03-31%20kl.%2007.58.38.png?alt=media&token=43d8ea4e-37c6-4cb9-a28b-335bbe031632",
   "lastUpdatedDate": 1680243242289,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "Science blueprint book from raw"
 }

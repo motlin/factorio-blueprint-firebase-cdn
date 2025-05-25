@@ -7,10 +7,10 @@
   "authorId": "QJdPciVAF6azJoHXuPLjuyKGhdx1",
   "createdDate": 1546241480737,
   "lastUpdatedDate": 1546412202245,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/accumulator/"
+  ],
   "title": "Backup power plant failover switch",
   "favorites": {
     "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,

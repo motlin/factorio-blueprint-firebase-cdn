@@ -1,14 +1,14 @@
 {
-  "tags": {
-    "2": "/train/unloading station/",
-    "3": "/train/left-hand-drive/",
-    "4": "/production/logistic (bot) based/",
-    "5": "/version/0,15/",
-    "6": "/general/beaconized/",
-    "7": "/mods/vanilla/",
-    "0": "/production/smelting/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/left-hand-drive/",
+    "/production/logistic (bot) based/",
+    "/version/0,15/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/train/loading station/"
+  ],
   "title": "2.5k/min Steel Smelter Array with circuit control",
   "author": {
     "userId": "LwASv8Mm0qeOmWYCBBW0MFbw39s2"

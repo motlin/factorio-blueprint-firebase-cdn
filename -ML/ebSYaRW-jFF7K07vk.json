@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1604886944108,
   "numberOfFavorites": 7,
-  "tags": {
-    "3": "/production/oil processing/",
-    "4": "/version/1,0/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/1,0/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "2700spm refinery"
 }

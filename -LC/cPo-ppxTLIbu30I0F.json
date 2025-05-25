@@ -65,12 +65,12 @@
   },
   "lastUpdatedDate": 1698540518355,
   "numberOfFavorites": 49,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/production/logistic (bot) based/",
+    "/version/1,0/"
+  ],
   "title": "ElderAxe's Uranium Processing Factory (v2.0.0)",
   "author": {
     "userId": "ryQ2OgSWVPeQg6YBnfsTBkKcul83"

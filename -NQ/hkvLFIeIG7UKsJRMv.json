@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1679428560523,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mini dron factory",
   "favorites": {
     "DX2B6HOVNYRBfJIYazYMGhkrnB13": true,

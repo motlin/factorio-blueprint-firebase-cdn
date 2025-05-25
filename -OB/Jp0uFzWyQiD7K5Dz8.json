@@ -24,9 +24,9 @@
   "imageUrl": "https://imgur.com/1icp5rd",
   "lastUpdatedDate": 1738904534736,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "1989 inspired Batwing"
 }

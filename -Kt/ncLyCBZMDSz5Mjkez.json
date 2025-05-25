@@ -16,10 +16,10 @@
   "createdDate": 1505178513393,
   "descriptionMarkdown": "Note that this is intended with construction robots. The wooden box disables the \"free placing\" of the landmine, so it works more like placing down a building and less like placing down a construction bot. It is easier to place the wooden box over an already placed down landmine so you only place down the landmines and not the wooden box. Just remove any wooden boxes that you may have accidentally placed once you are finished.",
   "fileName": "GGGG.JPG",
-  "tags": {
-    "0": "/production/other/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/production/other/",
+    "/general/mid game/"
+  ],
   "title": "Centered landmines ",
   "favorites": {
     "4ngX5fSvLEXtJ2B7fIBcHtuLcgB3": true,

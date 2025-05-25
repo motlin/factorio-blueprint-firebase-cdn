@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/UuBrXpp",
   "lastUpdatedDate": 1731029744281,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/general/compact/",
-    "3": "/general/ups friendly/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/general/compact/",
+    "/general/ups friendly/",
+    "/version/2,0/"
+  ],
   "title": "Parametric Gauge with Display panel",
   "favorites": {
     "zVVk7GVeblcAwWqO9OFmYlDiuh32": true,

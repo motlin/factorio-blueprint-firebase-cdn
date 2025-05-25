@@ -12,12 +12,12 @@
   "fileName": "64'pj'[pjpjp.jpg",
   "lastUpdatedDate": 1608850617646,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/version/1,0/",
-    "3": "/production/other/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/other/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "[WIP] Electric furnace cluster Mk1",
   "favorites": {
     "3K52cmQW58M3G4RchACZcLLfG5D2": true

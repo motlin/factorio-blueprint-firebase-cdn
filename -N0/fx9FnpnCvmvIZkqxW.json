@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651078636803,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Балансер 4х4 красный",
   "favorites": {
     "9jA2nY7gZRbXeBGvhBh503UxrmT2": true,

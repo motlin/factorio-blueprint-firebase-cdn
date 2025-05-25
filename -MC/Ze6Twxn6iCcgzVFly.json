@@ -19,14 +19,14 @@
   },
   "lastUpdatedDate": 1595121631771,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/research (labs)/",
-    "4": "/general/late game (megabase)/",
-    "5": "/train/unloading station/",
-    "6": "/train/loading station/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/general/late game (megabase)/",
+    "/train/unloading station/",
+    "/train/loading station/"
+  ],
   "title": "Centralized science production (131.2/s), ore input + (un)load stations "
 }

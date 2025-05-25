@@ -5,10 +5,10 @@
   "descriptionMarkdown": "My blue science prod. Trains Not Included",
   "fileName": "factorio bsprod.png",
   "lastUpdatedDate": 1564888975229,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "Blue Science ",
   "numberOfFavorites": 1,
   "author": {

@@ -21,9 +21,9 @@
   "authorId": "UlXf1N8EXUfddHj3a5NChfy0ssN2",
   "descriptionMarkdown": "Factorissimo Friendly - highest-tier + modules",
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/version/0,14/",
-    "0": "/mods/angels/",
-    "1": "/mods/factorissimo/"
-  }
+  "tags": [
+    "/version/0,14/",
+    "/mods/angels/",
+    "/mods/factorissimo/"
+  ]
 }

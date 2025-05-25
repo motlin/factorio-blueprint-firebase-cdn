@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1549204584929,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "labs all science packs"
 }

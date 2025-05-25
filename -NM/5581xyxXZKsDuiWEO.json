@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1737133350080,
   "numberOfFavorites": 50,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/balancer/",
-    "3": "/mods/creative/",
-    "4": "/mods/industrial revolution/",
-    "5": "/production/belts/",
-    "6": "/production/inserters/",
-    "7": "/production/belt based/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/mods/creative/",
+    "/mods/industrial revolution/",
+    "/production/belts/",
+    "/production/inserters/",
+    "/production/belt based/"
+  ],
   "title": " Chemical science pack- Chemiczny pakiet naukowy. Automatyzacja, Jak działa, schemat budowy.",
   "favorites": {
     "B1NUTIsbOIRfCBXxJKQ36acpTix1": true,

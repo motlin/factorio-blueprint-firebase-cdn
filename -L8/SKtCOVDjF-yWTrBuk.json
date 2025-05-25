@@ -7,11 +7,11 @@
   "createdDate": 1521984443379,
   "fileName": "blue.png.png",
   "lastUpdatedDate": 1521984612549,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Processing Unit - Blue Circuit - 1K/m",
   "author": {
     "userId": "0hl206XAZDYNRafblxoYAZbgj9W2"

@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1568679041518,
   "numberOfFavorites": 3,
-  "tags": {
-    "4": "/train/right-hand-drive/",
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Crude oil to Petroleum Gas factory Book 660k/m or 220k/m"
 }

@@ -14,15 +14,15 @@
   "descriptionMarkdown": "A collection of railway blueprints meant to work with my city block based base design.",
   "fileName": "Screen Shot 2020-07-09 at 3.02.53 AM.png",
   "lastUpdatedDate": 1594690409494,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/track/",
-    "2": "/train/junction/",
-    "3": "/train/stacker/",
-    "4": "/version/0,17/",
-    "5": "/version/0,18/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/train/junction/",
+    "/train/stacker/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,

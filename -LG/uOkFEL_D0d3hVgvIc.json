@@ -15,10 +15,10 @@
     "userId": "0wL32c6IF3OIoCVxFT8xRSdcJgz1"
   },
   "fileName": "sci_mil_x2.png",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "authorId": "0wL32c6IF3OIoCVxFT8xRSdcJgz1"
 }

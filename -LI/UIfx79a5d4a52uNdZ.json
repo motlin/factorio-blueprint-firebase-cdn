@@ -12,9 +12,9 @@
   "descriptionMarkdown": "This blueprint builds logistical theft as efficiently as possible.\n\nBR\n\nEssa blueprint constrói robo logistico com maior eficiência possivel.",
   "fileName": "20180728020310_1.jpg",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/"
+  ],
   "title": "logistical",
   "author": {
     "userId": "hDwUtJFLipdCKpv0m4TfuSWS6A02"

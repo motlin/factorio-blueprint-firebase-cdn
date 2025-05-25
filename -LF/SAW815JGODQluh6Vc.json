@@ -11,11 +11,11 @@
   "fileName": "YATB - 6 lane.PNG",
   "lastUpdatedDate": 1529498989588,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/track/"
+  ],
   "favorites": {
     "S1siU5ysUuSXUJeZi0OIgpVln5I2": true,
     "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,

@@ -8,12 +8,12 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/production/mall (make everything)/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/"
+  ],
   "favorites": {
     "rJr4C213O4RhWoWaLLy2gdcCf4u2": true,
     "esvNuxWxJlfpeJRdIUYJRq0Uiwa2": true,

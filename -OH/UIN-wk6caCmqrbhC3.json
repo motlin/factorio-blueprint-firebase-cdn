@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Nla1Ili",
   "lastUpdatedDate": 1737848678786,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Soup-Pipe-Ship"
 }

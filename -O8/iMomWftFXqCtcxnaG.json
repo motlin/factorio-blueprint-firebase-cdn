@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Ll9bR96",
   "lastUpdatedDate": 1728429378214,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Furnace Layouts",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true

@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1686911573648,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/general/beaconized/"
+  ],
   "title": "Mega Base Part 7"
 }

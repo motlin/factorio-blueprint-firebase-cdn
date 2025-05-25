@@ -6,12 +6,12 @@
   "lastUpdatedDate": 1543015552973,
   "title": "Ore to Blue Circuits",
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "wW9RGHlNP6YraZFACs3NyzpwSbh2": true,
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,

@@ -37,10 +37,10 @@
   },
   "lastUpdatedDate": 1600439234260,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/1,0/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/1,0/",
+    "/mods/krastorio/"
+  ],
   "title": "V1.2 : Fully modular Mall Design for Krastorio 2 1.0.4 - Rahbek/Valyrin/Revingbell"
 }

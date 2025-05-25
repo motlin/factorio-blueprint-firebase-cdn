@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/s5fw2xU",
   "lastUpdatedDate": 1726343951761,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para remanufatura de células usadas de urânio e tório (S.E. + Exotics)"
 }

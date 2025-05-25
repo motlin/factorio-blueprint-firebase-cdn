@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1707203322393,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/logistic (bot) based/",
+    "/production/rocket parts/"
+  ],
   "title": "Auto Rocket Silo with Rocket-Silo Construction",
   "favorites": {
     "wOKd2dNKNcTedCuoHekwAafywLu2": true

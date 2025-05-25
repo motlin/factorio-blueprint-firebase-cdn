@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/a9mW5Ky.png",
   "lastUpdatedDate": 1743773586077,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "ALL THE UPGRADES",
   "favorites": {
     "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,

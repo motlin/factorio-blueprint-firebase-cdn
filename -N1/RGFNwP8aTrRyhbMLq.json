@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651889333086,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/circuit/counter/"
+  ],
   "title": "Configurable Clock with Constant Signal Input",
   "favorites": {
     "jdG942UYPRTZmxxPyHpUtgjWFnj1": true

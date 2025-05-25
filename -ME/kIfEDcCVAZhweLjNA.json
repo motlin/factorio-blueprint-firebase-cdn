@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1626455586084,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/belt/transport belt (yellow)/",
+    "/general/mid game/"
+  ],
   "title": "space efficient factory"
 }

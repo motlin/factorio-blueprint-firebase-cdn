@@ -16,9 +16,9 @@
   "descriptionMarkdown": "best possible solar panel/accumulator setup for a city block, center spaces allow for a roboport to be added once the research is complete",
   "fileName": "solar-farm.JPG",
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/other/",
-    "2": "/version/0,16/",
-    "0": "/power/solar/"
-  }
+  "tags": [
+    "/mods/other/",
+    "/version/0,16/",
+    "/power/solar/"
+  ]
 }

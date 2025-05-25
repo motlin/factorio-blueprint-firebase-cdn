@@ -23,11 +23,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/HedTeK%20Reactors%202.jpg?alt=media&token=c255e621-9283-4bc8-a219-8511282e7d24",
   "lastUpdatedDate": 1531307714530,
   "numberOfFavorites": 16,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/general/tileable/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/tileable/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "HedTek Tileable Nuclear Reactors"
 }

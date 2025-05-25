@@ -12,11 +12,11 @@
   "fileName": "Red Advanced Circuit Modul.png",
   "lastUpdatedDate": 1598010525235,
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/version/1,0/",
-    "0": "/mods/vanilla/",
-    "1": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Red Advanced Circuit Modul (2.5/s)",
   "author": {
     "userId": "eDDclr8SAcbBjTitIPYqGs0qCJv1"

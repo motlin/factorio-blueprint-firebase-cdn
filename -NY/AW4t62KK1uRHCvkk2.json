@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1687041629945,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/rocket parts/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/rocket parts/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Logistic production",
   "favorites": {
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true

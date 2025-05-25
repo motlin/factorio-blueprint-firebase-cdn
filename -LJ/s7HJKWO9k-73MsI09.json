@@ -7,9 +7,9 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "title": "Science Distro",
   "author": {
     "userId": "A6OAYhPJQgUsOJlWUaQswD6NPJz2"

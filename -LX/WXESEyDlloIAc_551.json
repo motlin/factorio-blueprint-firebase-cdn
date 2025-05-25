@@ -29,11 +29,11 @@
     "type": "image/jpeg",
     "width": 904
   },
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/0,16/",
-    "4": "/mods/vanilla/"
-  }
+  "tags": [
+    "/train/crossing/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ]
 }

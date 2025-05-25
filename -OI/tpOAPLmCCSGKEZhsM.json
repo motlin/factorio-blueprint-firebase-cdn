@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/QeDOXf2",
   "lastUpdatedDate": 1739358370691,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Sample-and-hold signal debouncer",
   "favorites": {
     "RmD3iK6gVxOQfQYp0Pz4ejpz8L82": true,

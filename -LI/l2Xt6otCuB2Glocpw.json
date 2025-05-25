@@ -12,11 +12,11 @@
     "tL46fEAUQrdkhcpA6OrPpzaGjAU2": true,
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/plastic/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/plastic/",
+    "/version/0,17/"
+  ],
   "title": "Advanced oil processing-plastic",
   "author": {
     "userId": "r8Dib48OhkZUJ13nZMXpN5IIT2h1"

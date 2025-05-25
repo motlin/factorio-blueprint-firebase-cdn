@@ -48,10 +48,10 @@
   "createdDate": 1493889912267,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-05-04%2010_00_48-Factorio%200.15.6.png?alt=media&token=5ad4caf9-ce26-4155-8ecd-8909cff5de99",
   "numberOfFavorites": 100,
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mass Storage Buffer (614400 item, balanced, compressed, non limited)"
 }

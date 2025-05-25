@@ -7,10 +7,10 @@
   },
   "lastUpdatedDate": 1588955341845,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "MnXPwQyxObb3RkL9MHZa06MlOVv2"
   },

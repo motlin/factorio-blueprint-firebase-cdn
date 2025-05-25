@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1650138224561,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Science Factory"
 }

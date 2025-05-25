@@ -27,12 +27,12 @@
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
     "psMyzVlknDWObkXMF8LoyflUXYn1": true
   },
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/belts/"
+  ],
   "authorId": "XMdabdf3hxcsQMNZShpESAUIdx33",
   "descriptionMarkdown": "3/s production of fast transport belts. Uses 34.5 iron/s up top, and outputs the belts at the bottom.",
   "fileName": "Red_Belts.PNG",

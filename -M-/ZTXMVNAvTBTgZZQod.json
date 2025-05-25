@@ -16,9 +16,9 @@
   "createdDate": 1581159949955,
   "lastUpdatedDate": 1581162744594,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "favorites": {
     "RMxlxGorzyNXSP9CBkzCdiHZNjD3": true,
     "8f0yAqH8BKdUbDWtHSUcDPQDovO2": true,

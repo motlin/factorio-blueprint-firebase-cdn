@@ -87,17 +87,17 @@
   },
   "lastUpdatedDate": 1561327723864,
   "numberOfFavorites": 123,
-  "tags": {
-    "2": "/train/junction/",
-    "3": "/train/crossing/",
-    "6": "/version/0,16/",
-    "8": "/mods/vanilla/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "4": "/train/track/",
-    "5": "/train/left-hand-drive/",
-    "7": "/version/0,17/",
-    "9": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/version/0,17/",
+    "/version/0,15/"
+  ],
   "title": "Rail Network"
 }

@@ -8,11 +8,11 @@
     "type": "image/png",
     "width": 1920
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/0,16/"
+  ],
   "title": "Ore to Gears",
   "author": {
     "userId": "v1SeQRdbZbVIHdqTD9XgXVpK98S2"

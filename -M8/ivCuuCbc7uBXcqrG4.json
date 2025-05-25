@@ -5,10 +5,10 @@
   "createdDate": 1590998916953,
   "descriptionMarkdown": "produzione del LSP con due AM per i circuiti",
   "fileName": "LSP_2020-06-01_145857.png",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/inserters/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/inserters/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/LSP_2020-06-01_145857.png?alt=media&token=1c12c6f7-2fc5-47f8-8b4f-3f224df405d8",
   "author": {
     "userId": "NZlyfWMrfIYtRK3REDr5vhnVUTE2"

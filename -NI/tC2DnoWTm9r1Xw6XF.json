@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1700347670322,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "IVAN EXTRAS",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/OIL%20REFINERY.png?alt=media&token=b2cf1288-5133-440a-96d7-33513530ed38",
   "favorites": {

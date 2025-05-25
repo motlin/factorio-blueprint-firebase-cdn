@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1625096962248,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/uranium/"
+  ],
   "title": "Dead Valley Nuclear Fusion Power Estation"
 }

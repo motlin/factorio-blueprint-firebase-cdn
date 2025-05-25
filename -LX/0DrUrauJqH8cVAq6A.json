@@ -748,11 +748,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-132522401.png?alt=media&token=c939fd4f-43c9-4c4b-8855-a08951e48986",
   "lastUpdatedDate": 1647579472874,
   "numberOfFavorites": 697,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/rocket parts/",
-    "2": "/general/late game (megabase)/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/rocket parts/",
+    "/general/late game (megabase)/",
+    "/version/1,0/"
+  ],
   "title": "Advanced Oil Refinary v10 for v1.0 (+ Extra Module for more Petroleum Oil production)"
 }

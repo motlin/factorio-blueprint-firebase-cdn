@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/x6PzgE7",
   "lastUpdatedDate": 1730441997754,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/mods/quality/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/mods/quality/",
+    "/version/2,0/"
+  ],
   "title": "Tile-Centered Landmines",
   "favorites": {
     "H3QlaVpvadfVuTpGGxs7016oR2K3": true,

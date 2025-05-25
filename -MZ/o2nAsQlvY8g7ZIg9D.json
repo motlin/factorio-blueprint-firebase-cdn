@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1649067112443,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Bot Omni-Smelter (Space Exploration + Crafting Combinator)"
 }

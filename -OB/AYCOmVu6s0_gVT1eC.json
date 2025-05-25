@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/qdUgKRT",
   "lastUpdatedDate": 1731838535547,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Auto Mini Rocket",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

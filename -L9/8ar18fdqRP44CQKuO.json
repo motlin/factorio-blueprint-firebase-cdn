@@ -1,14 +1,14 @@
 {
   "lastUpdatedDate": 1522902411038,
-  "tags": {
-    "2": "/train/right-hand-drive/",
-    "3": "/train/roundabout/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "6": "/version/0,16/",
-    "0": "/train/junction/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/train/junction/",
+    "/train/track/"
+  ],
   "title": "Kitch's 2 Lane Rail Book - 1.0",
   "author": {
     "userId": "QBq0TJtdR5VAiTdh5DKdPLMWgyo1"

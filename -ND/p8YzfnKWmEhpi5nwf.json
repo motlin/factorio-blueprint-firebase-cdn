@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1694182555783,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Circuit Controlled Kovarex"
 }

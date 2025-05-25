@@ -1,11 +1,11 @@
 {
   "fileName": "20191007014222_1.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/belts/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/belts/",
+    "/production/science/"
+  ],
   "lastUpdatedDate": 1570409057664,
   "title": "Labs setup",
   "author": {

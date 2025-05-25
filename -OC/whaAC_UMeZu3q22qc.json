@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/WXrYget",
   "lastUpdatedDate": 1732964215850,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/",
-    "3": "/planets/aquilo/",
-    "4": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/planets/aquilo/",
+    "/power/nuclear/"
+  ],
   "title": "Tileable Fusion Reactor Space Age",
   "favorites": {
     "iO05h9DQJ6NbuLAngYLvEBUXDav1": true,

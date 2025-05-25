@@ -16,9 +16,9 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "favorites": {
     "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true,
     "ZzgF7CEHsfUQZWcWOVZEOsG8Yr12": true,

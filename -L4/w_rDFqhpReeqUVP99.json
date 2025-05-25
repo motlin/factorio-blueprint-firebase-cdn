@@ -12,10 +12,10 @@
   "descriptionMarkdown": "Somewhat compact Omnicium Plate production setup.\n\n### Power\n\n* 11.4 MW\n\n### In\n\n* 55 Omnite\n\n### Out\n\n* 9 Omnicium Plate\n* 18.5 Stone\n\n### Requirements\n\n- Logistics 2;\n- Inserter stack size at least 2;\n- Advanced Ore Refininng;\n- Metallurgy 2;",
   "fileName": "mLy0n46.jpg",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,16/"
+  ],
   "title": "[omni] 55 Omnite -> 9 Omnicium Plate + 18.5 stone",
   "author": {
     "userId": "2PmpcPlGYqTemFAcNse2XWgvRuw2"

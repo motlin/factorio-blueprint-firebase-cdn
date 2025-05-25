@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627109576882,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/factorissimo/"
+  ],
   "title": "Engine+ElectroEngine",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

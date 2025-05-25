@@ -6,11 +6,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
   "descriptionMarkdown": "tillable L oil to gas cracking setup                                                           \n1025 gas/s out                                                       \n1183 /s l oil and water in                             \n8 beacon design                                                      \nthe build uses the max pipe flow found here:\nhttps://wiki.factorio.com/Fluid_system",
   "createdDate": 1538400777803,

@@ -1,12 +1,12 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%20(18).png?alt=media&token=18ef7db8-b9d9-4320-900a-636026ef9782",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/angels/",
-    "2": "/mods/other/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/angels/",
+    "/mods/other/",
+    "/version/0,14/"
+  ],
   "title": "Iron Ingots for Angel's new Metallurgy",
   "authorId": "1rztb5rGP1Pk8YxGfpUXX2iMdcw2",
   "createdDate": 1492623626897,

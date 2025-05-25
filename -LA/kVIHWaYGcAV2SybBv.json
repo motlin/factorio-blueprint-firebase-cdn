@@ -20,9 +20,9 @@
     "id": "FnAZKEc"
   },
   "lastUpdatedDate": 1524453422300,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ]
 }

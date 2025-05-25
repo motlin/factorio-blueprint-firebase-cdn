@@ -41,11 +41,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ver.2.png?alt=media&token=15e29210-2215-4283-902f-248f76f47000",
   "lastUpdatedDate": 1699732096409,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Compact nuclear power 4-core/480MW 8-core/1.1GW with landfill"
 }

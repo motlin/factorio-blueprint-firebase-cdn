@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/NH3dcaz",
   "lastUpdatedDate": 1731829265927,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Intangir's Vanilla Train Network",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

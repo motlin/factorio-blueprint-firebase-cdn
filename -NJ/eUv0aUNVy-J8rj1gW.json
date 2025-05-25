@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1671455289563,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/aai/"
+  ],
   "title": "Space Exploration Green Sience",
   "favorites": {
     "Pw7XXRu6AZfCwtNPUIE4KinjTax1": true,

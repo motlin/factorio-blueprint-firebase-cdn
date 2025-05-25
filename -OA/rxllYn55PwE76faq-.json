@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/GWW4XDp",
   "lastUpdatedDate": 1730737021329,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/2,0/"
+  ],
   "title": "Parameterised 1-4 Train Station",
   "favorites": {
     "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,

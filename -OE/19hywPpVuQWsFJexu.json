@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/7G9gYsI",
   "lastUpdatedDate": 1734129512199,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/version/2,0/"
+  ],
   "title": "City block for v2.0 with elevated rails",
   "favorites": {
     "mWNnSX7gZNZ3HSBKATOad3FzKic2": true,

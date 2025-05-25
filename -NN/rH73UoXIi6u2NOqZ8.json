@@ -15,18 +15,18 @@
   },
   "lastUpdatedDate": 1737133277391,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/belt/balancer/",
-    "3": "/mods/creative/",
-    "4": "/mods/industrial revolution/",
-    "5": "/production/science/",
-    "6": "/production/modules/",
-    "7": "/production/belt based/",
-    "8": "/train/unloading station/",
-    "9": "/train/stacker/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/belt/balancer/",
+    "/mods/creative/",
+    "/mods/industrial revolution/",
+    "/production/science/",
+    "/production/modules/",
+    "/production/belt based/",
+    "/train/unloading station/",
+    "/train/stacker/"
+  ],
   "title": "Electronic system - Układ elektroniczny. Automatyzacja, Jak działa, schemat budowy.",
   "favorites": {
     "177CFNart2MvViaGAFFpTwMKi2y2": true,

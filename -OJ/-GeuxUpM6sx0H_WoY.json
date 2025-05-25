@@ -24,8 +24,8 @@
   "imageUrl": "https://imgur.com/N6sID79",
   "lastUpdatedDate": 1739468428288,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Lugia - The Wing Ship (1000+km/s)"
 }

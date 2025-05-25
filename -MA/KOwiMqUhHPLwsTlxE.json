@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1626349544008,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Mercado 7ª etapa",
   "favorites": {
     "EHq6ScQTiEQ5eA17OCvRtoZzC323": true,

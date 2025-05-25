@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1638020708595,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Factory Early Game",
   "favorites": {
     "AZuW8eycEnSFG58dG6SiNWUwQ6D3": true,

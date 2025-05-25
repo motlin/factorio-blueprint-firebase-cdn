@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/WYzloGs",
   "lastUpdatedDate": 1733028157954,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Testing Solar for Train City Block"
 }

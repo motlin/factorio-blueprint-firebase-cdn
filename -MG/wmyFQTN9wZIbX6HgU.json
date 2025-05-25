@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/uranium/"
+  ],
   "title": "kovarex starter, uranium enrichment, ",
   "favorites": {
     "OIJHrM9nalegVOxIXYEViLYE3W32": true,

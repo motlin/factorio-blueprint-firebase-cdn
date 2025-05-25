@@ -10,12 +10,12 @@
     "height": 785
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-08-22%2002_59_03-Factorio%200.15.33.png?alt=media&token=0891d475-3c0d-4078-bca9-3d4b79385f73",
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/belt/tap/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/belt/fast transport belt (red)/",
+    "/belt/tap/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "zRU07FA12aXrtp5NYsg2aaLjvao2"
   },

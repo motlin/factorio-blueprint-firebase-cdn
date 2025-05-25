@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1650395645070,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Usina nuclear pequena",
   "favorites": {
     "njgN4R5nhUc6moNcA9MkXNWJjej2": true

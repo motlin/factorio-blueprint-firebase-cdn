@@ -7,9 +7,9 @@
     "type": "image/jpeg",
     "width": 1050
   },
-  "tags": {
-    "0": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/angels/"
+  ],
   "author": {
     "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"
   },

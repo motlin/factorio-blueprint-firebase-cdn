@@ -9,9 +9,9 @@
     "type": "image/jpeg",
     "width": 1280
   },
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "title": "Red Circuit Factory (Space-friendly)",
   "favorites": {
     "Yb6ajexsN1a2AbA3EYBaWLgULjH2": true

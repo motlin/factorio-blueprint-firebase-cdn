@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1619990310095,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Simple 0.8 GW nuclear module",
   "favorites": {
     "rbWHB8UrYZf1YPo14F5Ng7ukNiE2": true,

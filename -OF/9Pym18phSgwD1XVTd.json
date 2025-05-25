@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5flOz2Y",
   "lastUpdatedDate": 1735341632828,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "title": "Rainbow biolab layout",
   "favorites": {
     "sfRnxFoxGjPvyPxLEoh754u6Dnk2": true,

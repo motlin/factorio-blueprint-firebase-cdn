@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/M1XPZbj",
   "lastUpdatedDate": 1733077876628,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/combat/offense/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/combat/offense/",
+    "/planets/vulcanus/"
+  ],
   "title": "Medium Demolisher Killbox",
   "favorites": {
     "AzGGBSolHZW4s57XC28yJjBlzDi1": true,

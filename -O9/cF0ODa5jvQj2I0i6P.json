@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/1FwbHQR",
   "lastUpdatedDate": 1729399625504,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/"
+  ],
   "title": "Piss Science",
   "favorites": {
     "cw41GSTEsgVoUECban9lWcjWU2K2": true,

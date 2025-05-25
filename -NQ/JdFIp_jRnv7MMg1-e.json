@@ -33,12 +33,12 @@
   },
   "lastUpdatedDate": 1707595859827,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/power/solar/",
-    "3": "/production/rocket parts/",
-    "4": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/power/solar/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Starter Base Collection"
 }

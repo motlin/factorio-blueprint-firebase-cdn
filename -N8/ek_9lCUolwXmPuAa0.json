@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1659649451386,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/version/1,0/",
-    "3": "/mods/vanilla/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "[619.69 MW] Solar (perfect ratio)"
 }

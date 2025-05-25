@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/g5mzWNv",
   "lastUpdatedDate": 1730330869696,
   "numberOfFavorites": 74,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "2.0 All Science Labs with beacons (and additional biolab blueprint)",
   "favorites": {
     "KasMNhihZOQ9qUQzgsCpdqWJjZO2": true,

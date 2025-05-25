@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/Gn8t3n4",
   "lastUpdatedDate": 1738267874723,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/quality/",
-    "3": "/production/mall (make everything)/",
-    "4": "/production/logistic (bot) based/",
-    "5": "/version/2,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/mods/quality/",
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/",
+    "/version/2,0/"
+  ],
   "title": "One Assembler All Qualities",
   "favorites": {
     "3ZKyNmdCaTgfEuxtN6RVfaSKoyf2": true,

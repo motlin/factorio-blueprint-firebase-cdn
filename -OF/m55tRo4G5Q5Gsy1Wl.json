@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/BEbPdSJ",
   "lastUpdatedDate": 1736007250012,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/planets/space-platform/"
+  ],
   "title": "Stellar Stingray"
 }

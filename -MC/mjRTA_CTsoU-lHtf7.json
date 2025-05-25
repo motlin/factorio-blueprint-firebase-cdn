@@ -29,12 +29,12 @@
   },
   "lastUpdatedDate": 1595357907789,
   "numberOfFavorites": 11,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/production/smelting/",
-    "4": "/version/0,17/",
-    "0": "/general/mid game/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/version/0,17/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Mega Smelting HQ (Vanilla, Belt Base)"
 }

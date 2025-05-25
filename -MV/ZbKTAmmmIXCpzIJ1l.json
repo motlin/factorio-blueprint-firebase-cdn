@@ -5,10 +5,10 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/research (labs)/"
+  ],
   "title": "Early Lab Setup",
   "author": {
     "userId": "Lv5C1ScW4hVO8FoS1gG8YaO3buC2"

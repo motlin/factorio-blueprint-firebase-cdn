@@ -62,13 +62,13 @@
   },
   "lastUpdatedDate": 1689357873591,
   "numberOfFavorites": 49,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/nuclear/",
-    "2": "/power/steam/",
-    "3": "/circuit/indicator/",
-    "4": "/circuit/counter/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/nuclear/",
+    "/power/steam/",
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/version/1,0/"
+  ],
   "title": "!5.6 GW  Nuclear Reactor \"ICARUZ\"  With the \"Antichrist\" control module, ICARUZ con el modulo de control \"anticristo\"!"
 }

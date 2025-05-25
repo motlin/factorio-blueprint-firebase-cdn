@@ -27,11 +27,11 @@
   },
   "lastUpdatedDate": 1553222820726,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/late game (megabase)/"
+  ]
 }

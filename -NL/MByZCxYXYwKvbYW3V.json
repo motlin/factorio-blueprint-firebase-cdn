@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1702270069053,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Racetrack Timer",
   "favorites": {
     "xeF5fi8sHXSjDZCyLjO61JOwOnm2": true

@@ -15,11 +15,11 @@
   "numberOfFavorites": 2,
   "fileName": "20190303150753_1.jpg",
   "lastUpdatedDate": 1551622186515,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mining Tier1",
   "favorites": {
     "mY4UhbPxldfjSGTg70yCTiAtu383": true,

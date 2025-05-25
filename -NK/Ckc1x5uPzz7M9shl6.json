@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1672177973609,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/late game (megabase)/",
+    "/production/logistic (bot) based/",
+    "/version/1,1/"
+  ],
   "title": "Make All Hub(end game/logistic)",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,

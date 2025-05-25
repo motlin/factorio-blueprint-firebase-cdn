@@ -11,9 +11,9 @@
   "createdDate": 1614991391620,
   "fileName": "Tintersect.png",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "T-intersection",
   "author": {
     "userId": "ei8gYTDaIAUQk09QcrqAk4ZguQ62"

@@ -20,9 +20,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2023-06-24_162914216.png?alt=media&token=b9fd9afa-453f-4c4a-a927-aec4ed4247c5",
   "lastUpdatedDate": 1687613362831,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Work In Progress rail based oil processing"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623248682885,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/stacker/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/stacker/",
+    "/general/tileable/"
+  ],
   "title": "LTN depot tileable",
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,

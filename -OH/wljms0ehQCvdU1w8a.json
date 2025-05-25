@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GAq5M9k",
   "lastUpdatedDate": 1738333993234,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/space-age/"
+  ],
   "title": "Tileable Ore Gen",
   "favorites": {
     "nZu7w3k8RPVVQopjwGBZIJv0bRf1": true,

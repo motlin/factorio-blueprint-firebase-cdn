@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/logistic (bot) based/",
+    "/production/science/"
+  ],
   "title": "1k Blue Science 0.17",
   "author": {
     "userId": "JTLMRNMtziOJRYr3SewFjwx9MU33"

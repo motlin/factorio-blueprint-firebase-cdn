@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/R601xvn",
   "lastUpdatedDate": 1735414990568,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Pacote de naves e logística para mineração de naquitite (Exotics + S.E.)"
 }

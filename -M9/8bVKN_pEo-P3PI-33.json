@@ -19,9 +19,9 @@
     "width": 1004
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/0,17/",
-    "2": "/production/science/"
-  }
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/production/science/"
+  ]
 }

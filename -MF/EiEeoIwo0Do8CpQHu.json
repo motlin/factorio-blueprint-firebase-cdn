@@ -14,11 +14,11 @@
     "type": "image/png",
     "width": 667
   },
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "createdDate": 1597991615192,
   "title": "Simple Sulfuric Acid",
   "favorites": {

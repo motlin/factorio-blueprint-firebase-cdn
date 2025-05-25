@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1701767038956,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Lorenz display"
 }

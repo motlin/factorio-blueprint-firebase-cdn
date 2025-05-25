@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/rZNCYG5",
   "lastUpdatedDate": 1724102433214,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de circuito azul (Mods S.E. + Exotics) vers. 2.0"
 }

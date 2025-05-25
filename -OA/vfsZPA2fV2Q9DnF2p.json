@@ -20,8 +20,8 @@
   "imageUrl": "https://imgur.com/iEGpxaE",
   "lastUpdatedDate": 1730862314244,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "F22 Raptor Space Platform "
 }

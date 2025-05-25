@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/tGEedrw",
   "lastUpdatedDate": 1733464901660,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Automated Fish Farm",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

@@ -18,9 +18,9 @@
     "type": "image/png",
     "width": 672
   },
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/"
+  ],
   "title": "HMV's Trains"
 }

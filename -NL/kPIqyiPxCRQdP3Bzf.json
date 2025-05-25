@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1702692994622,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Izzy's Train Track Crossing",
   "favorites": {
     "RftY0icQgLUu6yfkIZ8W4aZeEGf1": true,

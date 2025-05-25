@@ -15,10 +15,10 @@
   "authorId": "vb8MG6JLsjM1o4HlkEIk5XWzZBt2",
   "fileName": "factorio-sushi-megafactory-factory.jpg",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/production/mall (make everything)/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Sushi Megafactory Factory Slice"
 }

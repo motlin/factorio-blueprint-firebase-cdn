@@ -4,10 +4,10 @@
   "fileName": "qasd.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/qasd.png?alt=media&token=ff545131-7209-4bf3-8692-7f497ba98423",
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,

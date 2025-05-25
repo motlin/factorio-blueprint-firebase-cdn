@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/80MWHaj",
   "lastUpdatedDate": 1730820461292,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Infinite Iron farm",
   "favorites": {
     "NPvX83sZKEXnc64Kfk8z7xdI3yO2": true,

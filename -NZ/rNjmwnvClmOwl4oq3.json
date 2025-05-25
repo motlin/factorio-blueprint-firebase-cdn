@@ -16,11 +16,11 @@
   "imageUrl": "https://imgur.com/kLqfA5n",
   "lastUpdatedDate": 1717842411075,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/compact/",
-    "2": "/production/smelting/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/production/smelting/",
+    "/version/1,1/"
+  ],
   "title": "32-blue belt compact smeltery"
 }

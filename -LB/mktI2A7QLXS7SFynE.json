@@ -9,10 +9,10 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "title": "Oil Refinery MK1",
   "favorites": {
     "9pM4cnuYKJat7PlfoRmo0QFq5uC2": true,

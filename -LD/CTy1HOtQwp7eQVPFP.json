@@ -16,12 +16,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/yhDTxmW.jpg?alt=media&token=71108ae9-5c2d-48ca-bceb-070e1959d254",
   "lastUpdatedDate": 1597965014008,
   "numberOfFavorites": 57,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/chunk aligned/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "RpvauSTTtico3Ke6ohMY2QQN80s1",
   "favorites": {
     "1pkbpEuIJoY6uM9nQWCDtRVazpD2": true,

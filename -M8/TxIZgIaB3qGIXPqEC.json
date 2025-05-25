@@ -55,10 +55,10 @@
   },
   "fileName": "Oil 4.JPG",
   "lastUpdatedDate": 1678466278046,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Oil Refining - Nilaus Factorio Master Class"
 }

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1621829241276,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/smelting/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Mixed smelting",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/MSmelting.jpg?alt=media&token=5b19afd8-00be-4bac-82cb-cf81c99f0353",
   "favorites": {

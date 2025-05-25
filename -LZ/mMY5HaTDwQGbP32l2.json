@@ -28,11 +28,11 @@
     "G4ArQDmnOWhgV23j8M41eU3aX7C2": true
   },
   "lastUpdatedDate": 1551329067845,
-  "tags": {
-    "2": "/general/early game/",
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "0qW21pDfVkZXqxaoLod11jeCF5B2"
   }

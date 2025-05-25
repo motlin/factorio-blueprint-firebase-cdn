@@ -16,10 +16,10 @@
   "descriptionMarkdown": "This blueprint is designed to be stamped down over a single oil well near the beginning of your game. It provides batteries, explosives electric engines and red circuits. You feed it through chests. Part of the rush to drones before you build your real base.",
   "fileName": "bootstrap oil v2.png",
   "lastUpdatedDate": 1524484923619,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/batteries/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/batteries/",
+    "/general/early game/"
+  ],
   "title": "Bootstrap minimal oil processing"
 }

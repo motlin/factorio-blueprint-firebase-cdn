@@ -20,10 +20,10 @@
     "type": "image/png"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "i40SBE6Bxud15RXWHXVkzazvs6m2"
   }

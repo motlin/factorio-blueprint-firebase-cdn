@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/9PLdeX7",
   "lastUpdatedDate": 1744125476157,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/space-age/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/space-age/",
+    "/planets/fulgora/"
+  ],
   "title": "legendary  EM plant",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

@@ -3,13 +3,13 @@
   "fileName": "cross_Fr_Dae.png",
   "lastUpdatedDate": 1579422446137,
   "numberOfFavorites": 6,
-  "tags": {
-    "4": "/version/0,17/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/right-hand-drive/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "Train [Dae#5125] 1.10b",
   "author": {
     "userId": "I9GirenZGPaLXo4tW2vV1YHLRf62"

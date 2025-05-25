@@ -20,9 +20,9 @@
   "imageUrl": "https://imgur.com/LFxLTYU",
   "lastUpdatedDate": 1738326967270,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "title": "[electronic circuit]x169400p/m"
 }

@@ -5,11 +5,11 @@
   "descriptionMarkdown": "Very Compact Desings to make your factory more compressed and shorten the distances.\nCurrent Blueprints:\nGreen Cuircuits, \nOre Smelting (Stone Furnace / Electric Furnace), \nSteel Smelting (Stone Furnace / Steel Furnace / Electric Furnace)\n",
   "lastUpdatedDate": 1592493574256,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/electronic circuit (green)/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "rAd5wRw35pcFRKNWJfBFQp0R7wv1"
   },

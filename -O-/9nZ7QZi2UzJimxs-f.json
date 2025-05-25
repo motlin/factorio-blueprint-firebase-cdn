@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/EE1pary",
   "lastUpdatedDate": 1718178458043,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Chainable Red Circuit",
   "favorites": {
     "whRZSEdzupMC2x8usCsLtM1VLXz2": true,

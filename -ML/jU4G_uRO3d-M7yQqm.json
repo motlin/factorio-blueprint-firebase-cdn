@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1633996305192,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/"
+  ],
   "title": "Automated disposal of items",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/worm_item_disposal2.png?alt=media&token=4903d4bf-f40b-420a-b54e-78575935da1b",
   "favorites": {

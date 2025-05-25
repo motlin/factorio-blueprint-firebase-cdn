@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1650596782259,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "title": "Beaconized Red circuit factory",
   "favorites": {
     "AY4UJ5ppBvOnRWFH9kaXlpuYzvp1": true

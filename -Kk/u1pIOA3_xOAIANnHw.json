@@ -14,11 +14,11 @@
   "descriptionMarkdown": "### Original base\n\ni took the base layout of Michael Cowgill  --> https://factorioprints.com/user/LwASv8Mm0qeOmWYCBBW0MFbw39s2\n\nI than added a logic system to it and made it so that everything was being provided by robots (water + fuel cells)\n\n### How does it work?\n\nThe system will start when you have less than 300k steam in the tanks, it will stop the reactors when you have more than 1'300k steam in the tank.\nThe tanks can store more than 2'000k steam for any excess that is still being created.\n\nThe water supply is done by barrels but can easily be replaced.\n\nThe arms that load the fuel cell in the reactor are programmed to only load 1 fuel cell at the time and only when needed.\nThis means there will never be any fuel cells stored in the reactor itself. It will either be active or passive, but it will never store cells.\n\n### IMPORTANT: \n\nAfter building it, to start up the logic reconnect this green wire that is shown in this picture http://imgur.com/a/dD9vK\n\nThis is because the system gives one pulse and during the building process this pulse gets lost.\nReconnecting the wire will send the pulse again and thus starting the system.\n\n### Note: \n\nthe constant combinator can be used as an overwrite. when turned on nuclear fuel will be kept on loading. Default = off, overwrite = on.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Knipsel.JPG?alt=media&token=b86c10eb-1699-4884-bf3f-d8ffbe4b4bfd",
   "numberOfFavorites": 24,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear logical Power system (1.1gig) + steam storage",
   "author": {
     "userId": "GVEOMyYcX7QCZpRM3bKO9RBn2lD3"

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1671552145688,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/vanilla/"
+  ],
   "title": "Coal liquefication station"
 }

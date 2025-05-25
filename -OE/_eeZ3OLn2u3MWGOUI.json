@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/UbP6HWT",
   "lastUpdatedDate": 1734725308712,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/rocket parts/",
-    "2": "/general/tileable/",
-    "3": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/rocket parts/",
+    "/general/tileable/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus All-in-one tilable Rocket Silo kit",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

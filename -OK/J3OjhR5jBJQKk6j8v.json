@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/TxU7aZe",
   "lastUpdatedDate": 1740877688824,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/planets/fulgora/"
+  ],
   "title": "Electromagnetic Science Pack Factory"
 }

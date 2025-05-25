@@ -24,9 +24,9 @@
   },
   "lastUpdatedDate": 1595161707146,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,18/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,18/"
+  ],
   "title": "Factory book"
 }

@@ -23,13 +23,13 @@
   "createdDate": 1565179250135,
   "fileName": "20190807075828_1.jpg",
   "numberOfFavorites": 4,
-  "tags": {
-    "6": "/train/right-hand-drive/",
-    "0": "/general/mid game/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/early game/",
-    "3": "/general/tileable/",
-    "4": "/train/roundabout/",
-    "5": "/train/track/"
-  }
+  "tags": [
+    "/train/right-hand-drive/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/train/roundabout/",
+    "/train/track/"
+  ]
 }

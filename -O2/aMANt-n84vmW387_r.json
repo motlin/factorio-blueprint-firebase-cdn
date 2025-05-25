@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/7rVCxjA",
   "lastUpdatedDate": 1721851754197,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para aço (básica)",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,

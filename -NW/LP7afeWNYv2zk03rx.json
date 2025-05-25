@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1685076917253,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Mall for Sea Block (0.5.12)"
 }

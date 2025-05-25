@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1691960974406,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/mods/space-exploration/"
+  ],
   "title": "1000 Naqvi battery"
 }

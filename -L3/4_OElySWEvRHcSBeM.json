@@ -2,13 +2,13 @@
   "authorId": "eHAiGwHp7nZXZCV0WzEC9pKK92Y2",
   "createdDate": 1516217144601,
   "descriptionMarkdown": "RHD 8 x 8 Rail Junction",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/right-hand-drive/"
+  ],
   "author": {
     "userId": "eHAiGwHp7nZXZCV0WzEC9pKK92Y2"
   },

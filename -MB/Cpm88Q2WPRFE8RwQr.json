@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1622656099157,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/angels/"
+  ],
   "title": "Furnaces station with concrete."
 }

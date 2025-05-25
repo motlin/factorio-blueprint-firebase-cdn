@@ -8,10 +8,10 @@
     "type": "image/png"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "fileName": "yradrVKpq3.PNG",
   "lastUpdatedDate": 1615305952474,
   "favorites": {

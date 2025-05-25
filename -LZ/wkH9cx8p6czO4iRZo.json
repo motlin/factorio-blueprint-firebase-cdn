@@ -7,10 +7,10 @@
     "type": "image/png",
     "width": 481
   },
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/0,17/"
+  ],
   "title": "Loader Redux Production",
   "author": {
     "userId": "UEUBYr4oHwVUYto7mHhIxWJ8lZF2"

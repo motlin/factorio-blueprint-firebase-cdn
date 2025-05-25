@@ -40,14 +40,14 @@
   "imageUrl": "https://imgur.com/nyicxcb",
   "lastUpdatedDate": 1734457743629,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/mods/space-age/",
-    "4": "/production/electronic circuit (green)/",
-    "5": "/production/advanced circuit (red)/",
-    "6": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/planets/space-platform/"
+  ],
   "title": "All 100 SPM. Nauvis science book"
 }

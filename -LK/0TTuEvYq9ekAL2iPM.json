@@ -26,12 +26,12 @@
   },
   "lastUpdatedDate": 1563392864493,
   "numberOfFavorites": 9,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/production/uranium/",
-    "0": "/general/beaconized/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/power/kovarex enrichment/",
+    "/circuit/indicator/"
+  ],
   "title": "Rotary Kovarex enrichment with buffer chests and item counters"
 }

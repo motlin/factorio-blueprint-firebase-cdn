@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/CWxEBj6.jpeg",
   "lastUpdatedDate": 1744504533990,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/smelting/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/smelting/",
+    "/production/belt based/"
+  ],
   "title": "Molten Metals",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true

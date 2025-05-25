@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1675459793482,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "title": "Robot-Production",
   "favorites": {
     "TjhsU8JBfJOCYwnDPIRfZANInuJ2": true,

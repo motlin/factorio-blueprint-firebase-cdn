@@ -17,11 +17,11 @@
   "descriptionMarkdown": "A tileable steel smeltery setup.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-06-03%2012_17_10-Factorio%200.15.18.png?alt=media&token=c0acbd64-3df1-40cb-8f64-8108a34a7fd9",
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/tileable/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/general/tileable/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

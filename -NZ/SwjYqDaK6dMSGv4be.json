@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1688424610207,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/version/0,15/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "miniloader"
 }

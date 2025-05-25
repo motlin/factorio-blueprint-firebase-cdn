@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1685580422611,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/ltn/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/ltn/",
+    "/mods/space-exploration/"
+  ],
   "title": "LTN Logistic Provider for SE - V4.3",
   "favorites": {
     "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,

@@ -73,8 +73,8 @@
   "imageUrl": "https://imgur.com/IWx88uR",
   "lastUpdatedDate": 1737280661872,
   "numberOfFavorites": 48,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Legendary Asteroid Ships"
 }

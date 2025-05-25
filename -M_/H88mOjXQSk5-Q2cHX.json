@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1620580801819,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Test for string to json"
 }

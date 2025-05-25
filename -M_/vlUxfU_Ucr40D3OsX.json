@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621280275849,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/production/oil processing/"
+  ],
   "title": "Anexo a refinaria básica"
 }

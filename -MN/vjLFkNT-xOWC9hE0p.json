@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636665102291,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,15/",
-    "2": "/mods/other/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,15/",
+    "/mods/other/",
+    "/general/mid game/"
+  ],
   "title": "SE Bus Base, more info in description."
 }

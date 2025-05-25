@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/36gnXu6.png",
   "lastUpdatedDate": 1742211987577,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Quality conveyer",
   "favorites": {
     "HShqmSxkwIW0bNaRy1eUj73AOLA3": true

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1687605792232,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Work In Progress rail based oil processing",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true

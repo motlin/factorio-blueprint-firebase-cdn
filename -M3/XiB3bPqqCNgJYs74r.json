@@ -16,8 +16,8 @@
   "descriptionMarkdown": "-Pick any items from Yellow Science and use to create 1 Servo-Armor MK2 one time and destroy it.\n-Usefull for 1 use.",
   "lastUpdatedDate": 1585427113922,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/science/"
-  }
+  "tags": [
+    "/version/0,18/",
+    "/production/science/"
+  ]
 }

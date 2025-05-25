@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/4Lo370h",
   "lastUpdatedDate": 1732711934346,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/planets/fulgora/",
-    "3": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/logistic (bot) based/",
+    "/planets/fulgora/",
+    "/mods/quality/"
+  ],
   "title": "Overflow Recycler",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,

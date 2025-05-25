@@ -12,13 +12,13 @@
     "height": 554
   },
   "lastUpdatedDate": 1607123284072,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/coal liquification/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/coal liquification/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
     "SiXnaVdwJyZBsKIRathtqoWYFTQ2": true,

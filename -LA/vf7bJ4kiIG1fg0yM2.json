@@ -14,9 +14,9 @@
     "userId": "wpvaPcU3V5PkuyWf3ZfOMnMGq1v2"
   },
   "authorId": "wpvaPcU3V5PkuyWf3ZfOMnMGq1v2",
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Artillery Outpost",
   "fileName": "fact.jpg",
   "favorites": {

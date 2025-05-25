@@ -85,18 +85,18 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Oil%20Production%20Rework.png?alt=media&token=81603585-7599-4b00-97bf-b01a736e1cd6",
   "lastUpdatedDate": 1652360568865,
   "numberOfFavorites": 58,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/oil processing/",
-    "2": "/production/plastic/",
-    "3": "/production/batteries/",
-    "4": "/production/other/",
-    "5": "/production/coal liquification/",
-    "6": "/version/1,0/",
-    "7": "/general/tileable/",
-    "8": "/general/compact/",
-    "9": "/general/early game/",
-    "10": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/oil processing/",
+    "/production/plastic/",
+    "/production/batteries/",
+    "/production/other/",
+    "/production/coal liquification/",
+    "/version/1,0/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Oil Production "
 }

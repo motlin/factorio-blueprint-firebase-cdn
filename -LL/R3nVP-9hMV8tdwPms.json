@@ -15,8 +15,8 @@
     "width": 1653
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Conjunto de trilhos modulares diagonais"
 }

@@ -7,10 +7,10 @@
     "type": "image/jpeg",
     "width": 1224
   },
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
     "wJTgxTSUSTW8pxP8gHJORPznqE52": true,

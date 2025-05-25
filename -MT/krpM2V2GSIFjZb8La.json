@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1642571192011,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/other/"
+  ],
   "title": "MG Spaceship V1"
 }

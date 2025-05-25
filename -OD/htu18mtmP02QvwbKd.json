@@ -27,11 +27,11 @@
   "imageUrl": "https://imgur.com/25OlL1n",
   "lastUpdatedDate": 1735914070745,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/aquilo/",
-    "2": "/version/2,0/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/aquilo/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Cargo Ship. Mid/endgame. Balanced. Fusion power"
 }

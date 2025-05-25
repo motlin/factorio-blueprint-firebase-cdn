@@ -16,10 +16,10 @@
   "createdDate": 1610099112282,
   "descriptionMarkdown": "For an Giga Factory-Bot based",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  }
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ]
 }

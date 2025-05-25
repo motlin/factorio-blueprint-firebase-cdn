@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1597609176916,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/train/unloading station/",
-    "3": "/train/right-hand-drive/",
-    "4": "/version/1,0/",
-    "5": "/train/track/",
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/version/1,0/",
+    "/train/track/",
+    "/mods/ltn/",
+    "/train/loading station/"
+  ],
   "title": "LTN+LTN Combinator"
 }

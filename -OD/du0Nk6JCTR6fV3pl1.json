@@ -29,8 +29,8 @@
   "imageUrl": "https://imgur.com/cYAocGq",
   "lastUpdatedDate": 1733722519753,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Calcite / Sulfur Space Platform"
 }

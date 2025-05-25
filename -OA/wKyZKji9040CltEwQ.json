@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/0UMIt5Y",
   "lastUpdatedDate": 1730810568428,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/power/nuclear/"
+  ],
   "title": "Number Four RBMK reactor",
   "favorites": {
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true

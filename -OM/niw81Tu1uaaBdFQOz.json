@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/i6DwUqA",
   "lastUpdatedDate": 1743557362839,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Modular any Rarity Upcycler",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,

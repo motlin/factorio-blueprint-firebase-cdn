@@ -27,9 +27,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/k2100spm.png?alt=media&token=076a5a04-f846-40af-9547-54a841f4bcec",
   "lastUpdatedDate": 1679014688110,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/science/"
+  ],
   "title": "Krastorio (K2) Self-Sufficient 100 spm block"
 }

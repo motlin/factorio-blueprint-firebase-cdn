@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1694458734626,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/"
+  ],
   "title": "Narrow track layout for Grid block bases",
   "favorites": {
     "OOmUvjyc8WYJNWNVznPLyX3QyAn1": true

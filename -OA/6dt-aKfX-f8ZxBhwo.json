@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/Apm2sMc",
   "lastUpdatedDate": 1729926555116,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/junction/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/version/2,0/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Snowy's 2.0 Train Blueprints - No Elevated Rails",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

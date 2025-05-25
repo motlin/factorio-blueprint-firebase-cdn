@@ -21,10 +21,10 @@
   "descriptionMarkdown": "red, green, blue, purple and yellow science.\nInputs: water, oil, iron plate, copper plate, coal, stone.\n1 logistic network, around 1000 robots.",
   "fileName": "ESRwdGQWsAAPEGA.jfif",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/production/science/"
+  ],
   "title": "198spm beacons science production [0.17]"
 }

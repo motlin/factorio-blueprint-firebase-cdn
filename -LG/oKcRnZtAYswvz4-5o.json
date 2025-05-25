@@ -26,12 +26,12 @@
     "type": "image/jpeg",
     "width": 1760
   },
-  "tags": {
-    "5": "/mods/vanilla/",
-    "0": "/version/0,15/",
-    "1": "/version/0,16/",
-    "2": "/version/0,17/",
-    "3": "/power/nuclear/",
-    "4": "/general/tileable/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/power/nuclear/",
+    "/general/tileable/"
+  ]
 }

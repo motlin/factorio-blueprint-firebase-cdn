@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/VReYNJW",
   "lastUpdatedDate": 1730928814659,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "The Cumgora Express",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true

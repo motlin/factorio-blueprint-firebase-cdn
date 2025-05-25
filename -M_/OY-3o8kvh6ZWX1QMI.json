@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1620705018303,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Unloading station"
 }

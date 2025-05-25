@@ -8,11 +8,11 @@
   },
   "lastUpdatedDate": 1596227651585,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/version/0,18/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/version/0,18/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "XImAzdjEv8bIddG24sFqc2O5Txc2"
   },

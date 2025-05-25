@@ -30,17 +30,17 @@
   },
   "lastUpdatedDate": 1548438718878,
   "numberOfFavorites": 23,
-  "tags": {
-    "8": "/train/loading station/",
-    "9": "/train/unloading station/",
-    "1": "/general/mid game/",
-    "5": "/power/solar/",
-    "6": "/power/steam/",
-    "4": "/power/nuclear/",
-    "7": "/production/belt based/",
-    "0": "/general/early game/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/mid game/",
+    "/power/solar/",
+    "/power/steam/",
+    "/power/nuclear/",
+    "/production/belt based/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Lonebook 0.17.2 Vol 2"
 }

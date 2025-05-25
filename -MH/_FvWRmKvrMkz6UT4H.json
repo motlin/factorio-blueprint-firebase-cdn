@@ -7,15 +7,15 @@
     "width": 852
   },
   "lastUpdatedDate": 1601047190573,
-  "tags": {
-    "6": "/version/0,17/",
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,18/",
-    "5": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/nuclear/",
+    "/version/1,0/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/version/0,16/"
+  ],
   "authorId": "0SuW0de3uFaGqkuxpaFptB9mFqq2",
   "createdDate": 1600500513103,
   "fileName": "Central nuclear.png",

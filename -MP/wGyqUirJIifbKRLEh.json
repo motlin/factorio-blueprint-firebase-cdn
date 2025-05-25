@@ -22,13 +22,13 @@
   "descriptionMarkdown": "Just a bunch of train pieces that snap together for making nice railways.",
   "fileName": "screenshot-tick-14783140.png",
   "lastUpdatedDate": 1609476599245,
-  "tags": {
-    "3": "/train/right-hand-drive/",
-    "4": "/version/1,0/",
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/stacker/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/version/1,0/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/stacker/"
+  ],
   "authorId": "uOeQyfyLolSeHktFFx6tF1cDg033",
   "createdDate": 1609476599245
 }

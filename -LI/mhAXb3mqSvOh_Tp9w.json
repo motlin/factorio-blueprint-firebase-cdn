@@ -9,9 +9,9 @@
     "width": 1920
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "author": {
     "userId": "yvZzi2iNEXZFtb8MrQ1yfh2rqsQ2"
   },

@@ -1,14 +1,14 @@
 {
   "lastUpdatedDate": 1502444671853,
-  "tags": {
-    "2": "/power/steam/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/belt/transport belt (yellow)/",
-    "6": "/general/compact/",
-    "0": "/power/accumulator/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/belt/transport belt (yellow)/",
+    "/general/compact/",
+    "/power/accumulator/",
+    "/power/solar/"
+  ],
   "author": {
     "userId": "8lBgiDzGS1Z0YAbFkbEi58wbrMs1"
   },

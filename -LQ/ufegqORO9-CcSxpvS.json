@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1541804043122,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "2": "/general/storage/",
-    "3": "/version/0,16/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/general/storage/",
+    "/version/0,16/",
+    "/belt/balancer/"
+  ],
   "title": "Mk1 - Balanced Storage",
   "author": {
     "userId": "OxQHHiTZVUORx7q4GpTESgBq3IF3"

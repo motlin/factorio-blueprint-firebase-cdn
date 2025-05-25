@@ -15,14 +15,14 @@
   "fileName": "Kovarex.png",
   "lastUpdatedDate": 1520805910403,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,16/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "TvgBbJmMdiblnXK45Tw37fFv0kJ2"
   },

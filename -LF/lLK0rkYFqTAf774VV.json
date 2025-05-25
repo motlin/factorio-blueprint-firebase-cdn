@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1529836294489,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Nwyy's Green Circuits (Mid-Game)",
   "createdDate": 1529836294489,
   "descriptionMarkdown": "Green circuits in mid-game with red belts",

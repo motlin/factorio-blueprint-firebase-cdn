@@ -42,16 +42,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Advanced%20Oil%20Processing%20v2%20Dayc.jpg?alt=media&token=79c1f2aa-df96-4818-a15e-a37c7cafbcf2",
   "lastUpdatedDate": 1579331392341,
   "numberOfFavorites": 20,
-  "tags": {
-    "7": "/version/0,17/",
-    "8": "/production/rocket parts/",
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/",
-    "2": "/production/oil processing/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/compact/",
-    "6": "/production/other/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/rocket parts/",
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/production/other/"
+  ],
   "title": "Advanced Oil Processing BUS Block - BobAAAces"
 }

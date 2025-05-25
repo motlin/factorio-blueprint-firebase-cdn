@@ -20,9 +20,9 @@
   "imageUrl": "https://imgur.com/WMFatsG",
   "lastUpdatedDate": 1747234313088,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/space-age/"
+  ],
   "title": "Cloudiboy's Legendary Copper/Iron Smelting"
 }

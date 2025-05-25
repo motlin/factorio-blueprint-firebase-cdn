@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1633291955628,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/left-hand-drive/"
+  ],
   "title": "2-4-0 Stations",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

@@ -24,13 +24,13 @@
   "imageUrl": "https://imgur.com/8HmzjSC",
   "lastUpdatedDate": 1732342571312,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/mods/space-exploration/",
-    "3": "/production/guns and ammo/",
-    "4": "/power/nuclear/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/production/guns and ammo/",
+    "/power/nuclear/",
+    "/version/0,15/"
+  ],
   "title": "Space Ship to Anywhere!"
 }

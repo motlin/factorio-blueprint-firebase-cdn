@@ -23,8 +23,8 @@
     "width": 542
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "title": "JumpStart Base 1.1 - by DarkDexter"
 }

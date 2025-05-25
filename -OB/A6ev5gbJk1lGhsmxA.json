@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/TC24kzI",
   "lastUpdatedDate": 1731059177663,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "GottZ Item color's v1.0 (src: Automatic Train Painter)",
   "favorites": {
     "j3Dfk6c5dhU5dXFhvfAp8DtlLSt1": true,

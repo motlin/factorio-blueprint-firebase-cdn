@@ -25,10 +25,10 @@
   },
   "lastUpdatedDate": 1651205232787,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/power/solar/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/power/solar/",
+    "/train/junction/"
+  ],
   "title": "Double Railway "
 }

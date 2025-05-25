@@ -26,9 +26,9 @@
   },
   "lastUpdatedDate": 1576282224435,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/ltn/"
+  ],
   "title": "Smelter 12x blue belts out"
 }

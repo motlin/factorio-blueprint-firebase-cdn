@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1706000365380,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/belt/transport belt (yellow)/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "6": "/general/compact/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/compact/"
+  ],
   "title": "Balancers 6 х 6",
   "favorites": {
     "jtSu6Om1Q3O6AAZyQYAmb4uQpyk2": true,

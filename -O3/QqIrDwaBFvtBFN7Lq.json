@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/c8bnuRt",
   "lastUpdatedDate": 1722749107764,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/tap/"
-  },
+  "tags": [
+    "/belt/tap/"
+  ],
   "title": "this is a test",
   "favorites": {
     "5h7kuFgvmvdLXeCJk64LGXZZkFx1": true

@@ -6,15 +6,15 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "4": "/train/roundabout/",
-    "5": "/train/track/",
-    "6": "/version/unknown/",
-    "0": "/version/0,15/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/track/",
+    "/version/unknown/",
+    "/version/0,15/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Train Art - There and Back again",
   "author": {
     "userId": "l7AhdmYGrvbEq54qI9sLuL0uw092"

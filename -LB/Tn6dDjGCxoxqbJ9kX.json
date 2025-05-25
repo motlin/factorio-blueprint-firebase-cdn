@@ -16,9 +16,9 @@
     "type": "image/jpeg",
     "width": 1565
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ]
 }

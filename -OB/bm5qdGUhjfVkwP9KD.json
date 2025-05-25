@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/KI8fBSt",
   "lastUpdatedDate": 1731539267037,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/version/2,0/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/version/2,0/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear setup, 2.8GW, rare qualilty"
 }

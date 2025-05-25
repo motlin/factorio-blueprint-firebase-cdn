@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/kWEZ7Kf",
   "lastUpdatedDate": 1731711708600,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "amogus space platform"
 }

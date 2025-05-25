@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1540223748742,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/vanilla/"
+  ],
   "title": "Warhammer 40,000 Space Marines Concrete Art Angeli Oscuri"
 }

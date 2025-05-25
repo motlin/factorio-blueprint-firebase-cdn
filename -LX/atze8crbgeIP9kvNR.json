@@ -87,12 +87,12 @@
   },
   "lastUpdatedDate": 1550568872017,
   "numberOfFavorites": 75,
-  "tags": {
-    "4": "/general/mid game/",
-    "0": "/version/0,16/",
-    "1": "/mods/lighted-electric-poles/",
-    "2": "/mods/ltn/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/version/0,16/",
+    "/mods/lighted-electric-poles/",
+    "/mods/ltn/",
+    "/mods/other/"
+  ],
   "title": "Modular City Block"
 }

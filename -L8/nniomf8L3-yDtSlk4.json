@@ -35,16 +35,16 @@
   },
   "lastUpdatedDate": 1699363856924,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/0,16/",
-    "2": "/version/0,17/",
-    "3": "/version/0,18/",
-    "4": "/version/1,0/",
-    "5": "/version/1,1/",
-    "6": "/production/logistic (bot) based/",
-    "7": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
   },

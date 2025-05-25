@@ -23,13 +23,13 @@
   "createdDate": 1543078726709,
   "lastUpdatedDate": 1543078765068,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/factorissimo/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/version/0,16/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/factorissimo/",
+    "/belt/fast transport belt (red)/",
+    "/version/0,16/",
+    "/version/0,15/"
+  ],
   "title": "Factorissimo MK2 Ore Sorter 8 Red Belt Input with 4 Iron , 4 Copper, 2 Coal, 2 Stone, 1 Uran, 1 Junk as Output",
   "author": {
     "userId": "8YQJf8igfwhir0GqqKgZ6ciEryA3"

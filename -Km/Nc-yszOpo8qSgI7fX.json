@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "2": "/production/smelting/",
-    "3": "/production/belt based/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/general/mid game/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/mid game/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "hhGYzrWREOaiOvaB8JuYoNFtVXv1"
   },

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1665088694579,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "compact tileable 480 MW nuclear powerplant",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_20221006_223540.png?alt=media&token=8b5ee770-e872-478c-9b0e-2ad7ce386de3",
   "favorites": {

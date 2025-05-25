@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1661827831807,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Modules & Beacons Production Late Game"
 }

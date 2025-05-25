@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1644545193105,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/power/nuclear/",
-    "2": "/production/uranium/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/general/mid game/"
+  ],
   "title": "Kovarex Enrichment with exactly 40 U-235",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636569491986,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Pacote científico vermelho e verde",
   "favorites": {
     "pnHi9AXg6fPXmPjT0HL0OlYSyXg2": true,

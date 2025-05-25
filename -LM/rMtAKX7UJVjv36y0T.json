@@ -11,10 +11,10 @@
   "lastUpdatedDate": 1537456339043,
   "createdDate": 1537453560766,
   "descriptionMarkdown": "This is a tileable 1.76GW nuclear reactor that should be ready for the upcoming 0.17 fluid-changes as it tries to have long lines with few junctions.\n\nInstructions to build it can be found here: https://imgur.com/a/Vbp2kkC\n\nBuildinstructions:\n- Find a large lake\n- Create a moat 14 blocks wide (ruler included in the blueprint)\n- Place the pumps.\n- Landfill the pumps\n- Build reactor\n\nTo expand it:\n- Remove the bottom blue belt\n- Place the blueprint again.\n",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "cRIBywe3TtgHMg6pVXGPdIbAJ253": true,

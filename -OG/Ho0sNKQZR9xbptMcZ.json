@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/HqgFfMe",
   "lastUpdatedDate": 1736556158710,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Tri-Lane Four-Way Intersection"
 }

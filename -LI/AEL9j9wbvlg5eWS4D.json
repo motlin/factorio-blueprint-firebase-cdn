@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1532418185399,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/electronic circuit (green)/",
-    "4": "/production/advanced circuit (red)/"
-  }
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/"
+  ]
 }

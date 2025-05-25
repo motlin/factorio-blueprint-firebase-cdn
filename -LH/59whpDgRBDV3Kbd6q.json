@@ -10,12 +10,12 @@
   },
   "lastUpdatedDate": 1531259556040,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/version/0,15/",
-    "2": "/mods/angels/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,15/",
+    "/mods/angels/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13"
   },

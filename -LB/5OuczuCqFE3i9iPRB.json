@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Endless AKW ",
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,

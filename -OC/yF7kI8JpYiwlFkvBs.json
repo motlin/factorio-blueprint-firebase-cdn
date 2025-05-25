@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/j1PCllm",
   "lastUpdatedDate": 1733021688408,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/science/"
+  ],
   "title": "Nano Gleba Science",
   "favorites": {
     "41D5W2cO4cbGqZ5nCPuY5Q9gHCg1": true,

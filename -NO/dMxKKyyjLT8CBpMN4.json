@@ -19,14 +19,14 @@
   },
   "lastUpdatedDate": 1676805133815,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/production/rocket parts/",
-    "4": "/production/science/",
-    "5": "/production/research (labs)/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Minipiman's Modular 104SPM"
 }

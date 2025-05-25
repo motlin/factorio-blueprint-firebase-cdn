@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/qJ87xfC.png",
   "lastUpdatedDate": 1737459880795,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Cityblocks blueprints",
   "favorites": {
     "6Ep200GcSWeApUqHJhvKgGUj9UP2": true,

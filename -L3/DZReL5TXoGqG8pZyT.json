@@ -15,10 +15,10 @@
     "width": 838,
     "height": 211
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/early game/"
+  ],
   "title": "Wall Laser - Early Game - Repeatable"
 }

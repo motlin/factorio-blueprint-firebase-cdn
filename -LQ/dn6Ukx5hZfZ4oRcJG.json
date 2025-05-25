@@ -2,12 +2,12 @@
   "authorId": "7ZpeWgeJUyR0cg679HKvwBEw9Yj2",
   "fileName": "20191004220011_1.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/0,17/",
-    "2": "/general/compact/",
-    "3": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/0,17/",
+    "/general/compact/",
+    "/production/uranium/"
+  ],
   "title": "Kovarex Enrichment Station",
   "favorites": {
     "30zH8cZUM2ZbHn2mk2T8qLccDTs2": true

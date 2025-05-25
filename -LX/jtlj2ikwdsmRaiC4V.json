@@ -4,11 +4,11 @@
   "fileName": "1-lane-balancer-5x3.png",
   "lastUpdatedDate": 1549139385346,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/"
+  ],
   "title": "1-Lane Balancer",
   "authorId": "x3wC2LCmBOSicFs5bJepNzVFgdw1",
   "descriptionMarkdown": "Single lane balancer (5x3). Makes sure your lopsided ugly lane turns into a perfectly balanced lane.\n\n I use them everywhere so machines on both sides always keep working instead of waiting. Also since it starts with a  splitter, you can easily merge two lanes into one balanced lane if needed.",

@@ -22,13 +22,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Oil%20Refinery%20fin.PNG?alt=media&token=e47e2319-d9da-45eb-b493-a8a4a2b772a2",
   "lastUpdatedDate": 1540221554562,
   "numberOfFavorites": 12,
-  "tags": {
-    "5": "/general/compact/",
-    "0": "/mods/vanilla/",
-    "1": "/production/batteries/",
-    "2": "/general/beaconized/",
-    "3": "/production/oil processing/",
-    "4": "/production/plastic/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/batteries/",
+    "/general/beaconized/",
+    "/production/oil processing/",
+    "/production/plastic/"
+  ],
   "title": "End Game Aesthetic Oil Refinery and Processing Plant"
 }

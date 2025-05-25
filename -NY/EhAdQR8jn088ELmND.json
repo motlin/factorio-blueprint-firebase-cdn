@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1687239926572,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/left-hand-drive/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "4 way Intersections organised spacing both LHD and RHD"
 }

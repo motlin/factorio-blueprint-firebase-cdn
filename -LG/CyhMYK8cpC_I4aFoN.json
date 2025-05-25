@@ -20,9 +20,9 @@
     "type": "image/png",
     "width": 712
   },
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/version/0,17/"
-  }
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/version/0,17/"
+  ]
 }

@@ -13,9 +13,9 @@
   },
   "authorId": "4ODcrBsRrbO6Cc2kylc3COcnHvP2",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/"
-  },
+  "tags": [
+    "/general/mid game/"
+  ],
   "title": "Supply Chain System",
   "favorites": {
     "OE8NlGYZQhPvbpeKigYueTNctsY2": true

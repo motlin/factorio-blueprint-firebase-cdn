@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1671806140560,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/coal liquification/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/coal liquification/",
+    "/mods/vanilla/"
+  ],
   "title": "Refinery setup",
   "favorites": {
     "gunOWAzCrwTCywpfk0Z0x0KZSGO2": true

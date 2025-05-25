@@ -16,12 +16,12 @@
   },
   "lastUpdatedDate": 1596898893942,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/advanced circuit (red)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Early Red Circuits 15/s",
   "authorId": "T13uTDvHE9bA94zgsmHWotJEQ892",
   "fileName": "Red Circuits - XS.PNG"

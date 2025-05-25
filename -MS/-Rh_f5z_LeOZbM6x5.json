@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202021-01-27%20081120.png?alt=media&token=c2945563-0557-4f92-863c-de7f41c536de",
   "lastUpdatedDate": 1611764613532,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "spiral station 2-R-30 for 60-20-15 train"
 }

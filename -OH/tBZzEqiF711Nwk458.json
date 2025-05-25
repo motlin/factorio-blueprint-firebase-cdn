@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/6eOulqg",
   "lastUpdatedDate": 1738273931599,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/space-exploration/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/space-exploration/",
+    "/mods/vanilla/"
+  ],
   "title": "Capsule Factory",
   "favorites": {
     "QodHpE40Z7cLY1xhdbTElhYefp42": true

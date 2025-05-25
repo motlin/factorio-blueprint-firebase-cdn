@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/gAxExbf",
   "lastUpdatedDate": 1730489206475,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/version/2,0/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/version/2,0/",
+    "/production/rocket parts/"
+  ],
   "title": "Vulcanus Rocket Factory",
   "favorites": {
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,

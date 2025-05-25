@@ -16,11 +16,11 @@
     "width": 1950
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/production/electronic circuit (green)/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "xnlgTu0McNS11pTHXU1OOoaQYi03": true,
     "Fh72Hqs1rKQ9DM8JXy9e9VNQZLi2": true,

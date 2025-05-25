@@ -20,9 +20,9 @@
   "imageUrl": "https://imgur.com/0dZ6NmQ",
   "lastUpdatedDate": 1730565718063,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Solar Edge Ship"
 }

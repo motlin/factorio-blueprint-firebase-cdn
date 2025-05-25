@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/byYUvlb",
   "lastUpdatedDate": 1740734963507,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Symbol display Update"
 }

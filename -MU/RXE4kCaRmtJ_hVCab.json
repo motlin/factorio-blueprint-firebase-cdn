@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1643951594926,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "fCPU Multiplexer",
   "favorites": {
     "cBuI8VVjMHMDoe1qqeqVgSwAK8B3": true

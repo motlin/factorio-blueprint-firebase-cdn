@@ -4,11 +4,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Display%203.PNG?alt=media&token=f1c18b80-314f-4f47-9a79-1c1026a24831",
   "lastUpdatedDate": 1498401250889,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Display in % for beld Transit with alarm (1 pulse)",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true

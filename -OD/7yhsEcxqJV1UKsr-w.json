@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/wR5bxgK",
   "lastUpdatedDate": 1733169963337,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/nuclear/"
+  ],
   "title": "IceBreaker-Alexa"
 }

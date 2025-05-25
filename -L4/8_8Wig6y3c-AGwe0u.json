@@ -11,12 +11,12 @@
   "descriptionMarkdown": "[edit] as of 0.16.23 lamps now stagger, turn on earlier, and stay on longer. you may not need this anymore [/edit]\n\nfor 0.16 lamps have changed some. they come on later, and turn off sooner. until the devs fix them i've come up with a timer.\n\nat the time of day you want the lamps to switch on, turn the constant combinator (upper left) to on which triggers the timer to start. it will activate any lamp wired (green wire on pole) set to \"enable condition' 'Black' > 0. i put a lamp in the blueprint so you can copy (shift+right click) the setting for other lamps. do not,  I REPEAT, DO NOT ENABLE 'use colors' or your lamps will be dim. run the green wire along your power poles and connect them to any lamps you want on the timer. shift+left click to paste the setting to lamps. if you use the solar panel and accumulator DISCONNECT THE COPPER WIRE from the pole. \n\nobserve the lights over night. if the lights stay on too long lower the number of the 'duration' decider combintor (the lower one that is set to 12,500). i have it set pretty high @ 12500 which is half a day/night cycle. if for some reason you want it longer of course increase the number.\n\n*note the solar panel and the accumulator are NOT needed. i included them so the timer mechanism would be on it's own power network to keep time even during a power failure.\n\nonce you set your start time of the lights, and the duration, they will turn on and off at the same time daily.\n'just set it, and forget it!\" lol",
   "fileName": "set.forget_.png",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "lCqEWerac5Sf5ADJyMQ1z9Y9Jec2"
   },

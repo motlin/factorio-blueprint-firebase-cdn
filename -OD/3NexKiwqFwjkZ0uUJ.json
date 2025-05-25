@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/je8TMsG",
   "lastUpdatedDate": 1733092880507,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Agricultural science pack simple",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true

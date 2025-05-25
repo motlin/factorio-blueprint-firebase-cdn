@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1620553041801,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "title": "ソーラー蓄電器6:5(Solar)",
   "favorites": {
     "cjlXZLfOWOgDv5aAjxMRNCrbJyA3": true,

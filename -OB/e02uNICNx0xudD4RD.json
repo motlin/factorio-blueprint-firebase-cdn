@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/RXH1M5p",
   "lastUpdatedDate": 1731584531634,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Gleba Book of Starter Prints",
   "favorites": {
     "PcLpqPeQ0qVZbzLopXK5MWSlHhD3": true,

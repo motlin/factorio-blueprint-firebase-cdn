@@ -36,11 +36,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Nuclear%20power%20plant.jpg?alt=media&token=6f60adf9-f620-480e-bb50-ac22efbc6bc5",
   "lastUpdatedDate": 1680516854607,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "5 GW Nuclear power plant"
 }

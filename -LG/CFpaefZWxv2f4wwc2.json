@@ -10,10 +10,10 @@
   "createdDate": 1559295646386,
   "fileName": "Screenshot (57).png",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "The Firewall",
   "author": {
     "userId": "Ocnu7qXwA2OgncOF1skKzJLjEWg2"

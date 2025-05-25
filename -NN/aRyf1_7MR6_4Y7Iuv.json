@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1704673405762,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Electronic Circuit Factory, 39k / min, [BELTLESS] [BOTLESS]"
 }

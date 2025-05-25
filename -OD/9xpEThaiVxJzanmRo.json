@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/lX9d7t2",
   "lastUpdatedDate": 1733203285120,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Reactor 2x2 with uranium processing"
 }

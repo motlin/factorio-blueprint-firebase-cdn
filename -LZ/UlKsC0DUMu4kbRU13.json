@@ -13,15 +13,15 @@
     "width": 876
   },
   "lastUpdatedDate": 1580015664815,
-  "tags": {
-    "5": "/production/advanced circuit (red)/",
-    "6": "/general/compact/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/version/unknown/",
-    "3": "/production/science/",
-    "4": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/unknown/",
+    "/production/science/",
+    "/production/oil processing/"
+  ],
   "favorites": {
     "TueS7zZacGMKUMBTdCAimVSWpCE3": true,
     "SGdv9dKN11S9oMkE1MI6CNwMQbk2": true,

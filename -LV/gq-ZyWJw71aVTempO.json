@@ -14,11 +14,11 @@
   },
   "lastUpdatedDate": 1575931611625,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "author": {
     "userId": "pWWpA844wBclH8qZksrOXgbP7Fv2"
   },

@@ -26,9 +26,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/HexBase.png?alt=media&token=f562bf3c-03be-4434-b387-da21c05f1642",
   "lastUpdatedDate": 1611685424721,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/"
+  ],
   "title": "Beehive Hexagon modules"
 }

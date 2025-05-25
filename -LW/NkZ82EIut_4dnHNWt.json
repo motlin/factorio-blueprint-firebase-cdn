@@ -15,9 +15,9 @@
     "type": "image/png",
     "width": 2384
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "authorId": "yglsp7OFs8aCpT0UWWT29Fcq6GT2"
 }

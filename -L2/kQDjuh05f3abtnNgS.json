@@ -3,10 +3,10 @@
   "fileName": "wood.jpg",
   "lastUpdatedDate": 1515862158471,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": "Wood @ max ",
   "author": {
     "userId": "YikMxdOZjCcwgsEO1hSD1hQ3cf92"

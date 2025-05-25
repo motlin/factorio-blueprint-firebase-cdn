@@ -11,11 +11,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_26.png?alt=media&token=798fdcdb-7357-464a-8e35-d226ce5e3237",
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "WddE0RbVVxXV7bgJEermSELgw2V2"
   },

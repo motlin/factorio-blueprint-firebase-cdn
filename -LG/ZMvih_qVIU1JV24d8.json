@@ -8,11 +8,11 @@
   },
   "numberOfFavorites": 7,
   "lastUpdatedDate": 1560674213107,
-  "tags": {
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/coal liquification/",
-    "0": "/production/plastic/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/production/coal liquification/",
+    "/production/plastic/"
+  ],
   "title": "Titleable coal processing",
   "author": {
     "userId": "KG53vmQQOMY7CJKjH0ZgeT5QbzH2"

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/N3OVoHx",
   "lastUpdatedDate": 1736114480519,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Solar Plant v1.0 Punishkey",
   "favorites": {
     "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true

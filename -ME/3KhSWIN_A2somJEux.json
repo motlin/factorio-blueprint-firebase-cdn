@@ -6,10 +6,10 @@
     "id": "qKcTL4d",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/seablock/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/seablock/"
+  ],
   "title": "Vertically tileable mid game mineral sludge factory for braver new world",
   "author": {
     "userId": "HCiGlzK6kWRZQAFzca2eIqSKXxI2"

@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1668274958054,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/other/",
-    "2": "/version/1,0/",
-    "3": "/power/steam/",
-    "4": "/general/late game (megabase)/",
-    "5": "/mods/krastorio/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/other/",
+    "/version/1,0/",
+    "/power/steam/",
+    "/general/late game (megabase)/",
+    "/mods/krastorio/"
+  ],
   "title": "Compact Energy Beam Receiver 20GW Space Exploration Krastorio 2",
   "favorites": {
     "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true,

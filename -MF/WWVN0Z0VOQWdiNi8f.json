@@ -23,8 +23,8 @@
   },
   "descriptionMarkdown": "Builds a base using the logistics train system",
   "fileName": "Logistics Base.PNG",
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/version/0,15/"
-  }
+  "tags": [
+    "/general/late game (megabase)/",
+    "/version/0,15/"
+  ]
 }

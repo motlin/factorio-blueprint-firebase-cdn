@@ -4,11 +4,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1i.JPG?alt=media&token=30221456-cab0-4557-91be-6bdddb3d40b0",
   "lastUpdatedDate": 1528554083952,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/smelting/",
-    "2": "/general/storage/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/smelting/",
+    "/general/storage/"
+  ],
   "title": "Smelter and Storage in a Box",
   "author": {
     "userId": "MWzpGZWGajfkWrMR2jl85rAitaE3"

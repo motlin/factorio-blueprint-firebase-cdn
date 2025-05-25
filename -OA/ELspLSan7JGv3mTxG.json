@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/GKiOR69",
   "lastUpdatedDate": 1730055736711,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/left-hand-drive/",
-    "3": "/train/crossing/",
-    "4": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/left-hand-drive/",
+    "/train/crossing/",
+    "/train/junction/"
+  ],
   "title": "Frosty's LHD 2-Lane Flat Rails",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

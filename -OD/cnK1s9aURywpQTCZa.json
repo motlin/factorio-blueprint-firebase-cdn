@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Tfv7iJh",
   "lastUpdatedDate": 1733703848266,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "A mall block to create an item",
   "favorites": {
     "nTKI1pDgUHYJCyQXZYqJOFdjVoD3": true,

@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1532124400087,
   "numberOfFavorites": 0,
-  "tags": {
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/late game (megabase)/",
-    "5": "/production/coal liquification/",
-    "6": "/production/belt based/",
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/production/coal liquification/",
+    "/production/belt based/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "coal liquefaction to rocket ful 1k per min"
 }

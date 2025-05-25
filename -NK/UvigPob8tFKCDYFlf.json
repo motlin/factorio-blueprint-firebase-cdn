@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1673012272292,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration - Assembly Machine 2",
   "favorites": {
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,

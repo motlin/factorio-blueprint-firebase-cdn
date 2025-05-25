@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9GoNeH0",
   "lastUpdatedDate": 1733779709755,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Ship - SS Tidbit",
   "favorites": {
     "eqmiBs18xYc8Lg0O5n4Wh1ofx9q1": true,

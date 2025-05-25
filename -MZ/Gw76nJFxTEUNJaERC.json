@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1648551526532,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Yellow Science",
   "favorites": {
     "iNvfGdMwvWgLU9wvHhcGPJcqkah1": true,

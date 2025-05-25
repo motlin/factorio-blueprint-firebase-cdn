@@ -5,13 +5,13 @@
     "id": "CEDa3It",
     "type": "image/jpeg"
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/production/belt based/",
-    "0": "/general/early game/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/belt based/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Early game base/mall",
   "favorites": {
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,

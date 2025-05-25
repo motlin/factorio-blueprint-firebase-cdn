@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1642854715221,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "title": "Green Circuits Blue Belt",
   "favorites": {
     "dKODuSYcovXizxj35jj50cbJWlz2": true,

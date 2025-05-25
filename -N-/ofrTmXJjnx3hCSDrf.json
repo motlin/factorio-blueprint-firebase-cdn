@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1650151356503,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "99.425% efficient shoreside nuclear reactor.",
   "favorites": {
     "ck0yRbsMBbgRXFkksrGK4ySdcDa2": true,

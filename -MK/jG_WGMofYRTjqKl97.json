@@ -245,15 +245,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2lane%20tracks%20header.jpg?alt=media&token=92788897-5d12-4592-99ed-5cdac49fcf4b",
   "lastUpdatedDate": 1733756512858,
   "numberOfFavorites": 181,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/crossing/",
-    "3": "/train/roundabout/",
-    "4": "/train/junction/",
-    "5": "/train/track/",
-    "6": "/train/right-hand-drive/",
-    "7": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/general/chunk aligned/"
+  ],
   "title": "ElderAxe's 2 Lane Chunk Snapped RHT Tracks (v6.0.2)"
 }

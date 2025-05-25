@@ -10,11 +10,11 @@
     "type": "image/png",
     "width": 352
   },
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Simple input lane balancers",
   "favorites": {
     "DsrFo30lDCYxn8mTxfO1ANTusw52": true,

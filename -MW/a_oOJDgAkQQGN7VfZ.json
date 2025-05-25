@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1645619922649,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Blue Belt of Bricks Smelter",
   "favorites": {
     "maU7je24W6cqfu9R5pdiHbhkmHA3": true

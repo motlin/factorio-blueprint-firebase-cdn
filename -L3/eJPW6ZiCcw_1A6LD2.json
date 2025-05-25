@@ -1,12 +1,12 @@
 {
   "createdDate": 1516833450215,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/production/smelting/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/beaconized/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "8v5jNga2IwXEYrpj4NrlVMrA51A2"
   },

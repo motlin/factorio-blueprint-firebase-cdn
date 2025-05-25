@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1639860193578,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Blue Circuit",
   "favorites": {
     "Fs7k0EioIDMjQnvSR6r9qRx4rHi1": true,

@@ -12,12 +12,12 @@
   "numberOfFavorites": 68,
   "title": "Bus Tap Left",
   "lastUpdatedDate": 1516366803764,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true,
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,

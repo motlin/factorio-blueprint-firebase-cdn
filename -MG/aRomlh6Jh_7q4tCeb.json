@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1628437727105,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/"
+  ],
   "title": "Factory Rail Blueprints"
 }

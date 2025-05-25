@@ -19,11 +19,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2022-10-18_211602557.png?alt=media&token=d584e3ec-120c-46a7-afcc-c3d9eb29619a",
   "lastUpdatedDate": 1666120571863,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Don's OnlyParts  0.9.65"
 }

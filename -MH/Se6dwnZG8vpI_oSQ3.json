@@ -10,12 +10,12 @@
     "width": 602
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/accumulator/"
+  ],
   "favorites": {
     "UZmfhDejCzeiZBJNssx4OklwWH72": true,
     "Adv3jaznVyTVQxaD7juUIUhhZQc2": true,

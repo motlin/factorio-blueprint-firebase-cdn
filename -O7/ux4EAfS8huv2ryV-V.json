@@ -40,10 +40,10 @@
   "imageUrl": "https://imgur.com/OszLoTc",
   "lastUpdatedDate": 1727568646736,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/production/robots/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/robots/",
+    "/production/science/"
+  ],
   "title": "Bot Rush Base"
 }

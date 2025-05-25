@@ -1,12 +1,12 @@
 {
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/general/early game/"
+  ],
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,

@@ -16,12 +16,12 @@
     "type": "image/jpeg",
     "width": 890
   },
-  "tags": {
-    "2": "/mods/angels/",
-    "3": "/version/0,14/",
-    "0": "/mods/factorissimo/",
-    "1": "/mods/warehousing/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,14/",
+    "/mods/factorissimo/",
+    "/mods/warehousing/"
+  ],
   "title": "Angel's Pellet Processing",
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

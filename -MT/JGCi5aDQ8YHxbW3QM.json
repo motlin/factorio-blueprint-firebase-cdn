@@ -8,11 +8,11 @@
   },
   "lastUpdatedDate": 1613110578635,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/production/smelting/"
+  ],
   "author": {
     "userId": "MaQCpA9AApM2RO7rVGQzuKZTqO42"
   },

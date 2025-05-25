@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/b4sS1yo",
   "lastUpdatedDate": 1733430950543,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/space-exploration/"
+  ],
   "title": "\"Space Shuttle\" like Cargo Ship",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

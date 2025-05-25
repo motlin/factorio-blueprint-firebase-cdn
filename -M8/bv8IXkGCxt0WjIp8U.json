@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1590881457920,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/train/track/"
+  ],
   "title": "sp4c3mahn rails"
 }

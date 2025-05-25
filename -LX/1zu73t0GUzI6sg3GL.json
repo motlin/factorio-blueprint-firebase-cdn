@@ -31,9 +31,9 @@
   },
   "lastUpdatedDate": 1582172126965,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/industrial revolution/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/industrial revolution/",
+    "/version/0,17/"
+  ],
   "title": "Industrial Revolutions (Start Base)"
 }

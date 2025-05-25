@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1598482224568,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "title": "Water Pumping Station (with landfill)",
   "authorId": "borz64LMEsRjDl3r8xZL2kitjH93",
   "createdDate": 1598482076182,

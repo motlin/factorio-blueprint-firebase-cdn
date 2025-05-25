@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1634872670771,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Minimal Tilable Radar",
   "favorites": {
     "edD3c21p5USPtTIgIdqW659UNPs1": true,

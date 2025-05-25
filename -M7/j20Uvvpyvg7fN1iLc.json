@@ -10,11 +10,11 @@
     "userId": "iRDBvzlRoCcfT4l3SKNH5vPdxQo2"
   },
   "fileName": "Screenshot 2020-05-20 at 00.25.55.png",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "descriptionMarkdown": "Standard forge",
   "image": {
     "type": "image/png",

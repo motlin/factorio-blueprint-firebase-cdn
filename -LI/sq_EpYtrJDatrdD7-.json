@@ -11,11 +11,11 @@
   "createdDate": 1533183415351,
   "descriptionMarkdown": "This is the \"endcap\" heat exchangers and turbine setup for a tileable nuclear setup. Requires 4*offshore pumps worth of water input. ",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "4qUfls5OmkaXOfUWFi54od2oWVr1"
   },

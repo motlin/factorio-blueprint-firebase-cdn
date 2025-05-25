@@ -1,12 +1,12 @@
 {
   "descriptionMarkdown": "A repeatable slim design that makes a lane of green circuits. Designed for a bus.",
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "fTwTBZ8RO8Vsgii3qRXJfV7bpvG2": true,
     "myKkEdt0hhOHWsNcLz8YB00q37B2": true,

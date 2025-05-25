@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1658783537914,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/belts/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/belts/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "K2 red logistics",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true

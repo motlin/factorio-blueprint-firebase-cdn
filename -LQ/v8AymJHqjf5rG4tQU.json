@@ -15,13 +15,13 @@
     "type": "image/jpeg",
     "width": 1484
   },
-  "tags": {
-    "3": "/production/research (labs)/",
-    "4": "/mods/vanilla/",
-    "0": "/general/early game/",
-    "1": "/production/science/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "title": "Science Factory",
   "favorites": {
     "aOMFWkWygEOj8Nq6FR2fQIXWuzv2": true,

@@ -31,8 +31,8 @@
   },
   "lastUpdatedDate": 1704607447444,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "City Block Re-Design for Space Exploration."
 }

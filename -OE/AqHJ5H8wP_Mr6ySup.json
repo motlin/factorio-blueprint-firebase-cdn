@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/gJ8cnwP",
   "lastUpdatedDate": 1734291826107,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Quality casino v1",
   "favorites": {
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,

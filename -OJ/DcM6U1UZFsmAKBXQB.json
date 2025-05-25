@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Q6R9MZt",
   "lastUpdatedDate": 1739707246127,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/counter/"
+  ],
   "title": "Train Priority Decider",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

@@ -17,13 +17,13 @@
   "imageUrl": "https://imgur.com/RmUqVaH",
   "lastUpdatedDate": 1727297039478,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/power/accumulator/",
-    "4": "/mods/other/",
-    "5": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/power/accumulator/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "SPACEPORT (Exotics + S.E.)"
 }

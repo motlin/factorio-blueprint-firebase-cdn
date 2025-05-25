@@ -10,10 +10,10 @@
     "id": "TlFSTpL"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/"
+  ],
   "authorId": "trGFLaYmtMdkP6d3WqbIDjn53x82",
   "createdDate": 1578095353936,
   "descriptionMarkdown": "Feed 4 Copper Blue Belts, 2 Plastic Blue Belts and 2 Steel Red Belts.",

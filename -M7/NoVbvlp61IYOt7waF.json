@@ -6,11 +6,11 @@
   "descriptionMarkdown": "I have made a \"Train crossing\" for my train stacker that Blueprint is also on Factorio Prints. It lets Trains can change the direction for a 2 by 2 railway.",
   "lastUpdatedDate": 1589554317954,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/train/track/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/train/track/",
+    "/train/crossing/"
+  ],
   "favorites": {
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,
     "jarl52IFDXhoCoAg6kvcdw87ApV2": true,

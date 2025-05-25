@@ -3,10 +3,10 @@
   "createdDate": 1521830677586,
   "descriptionMarkdown": "A simple smelter setup ",
   "title": "Simple Smelter",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "fqwccs50sYOjkpwVJH44Pc8F6Gp2"
   },

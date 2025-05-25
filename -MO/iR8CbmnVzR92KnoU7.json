@@ -14,12 +14,12 @@
     "width": 1428
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/general/compact/",
-    "3": "/general/late game (megabase)/",
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/late game (megabase)/",
+    "/production/oil processing/",
+    "/general/beaconized/"
+  ],
   "title": "Base-144 Systems Gas Refinery",
   "author": {
     "userId": "OEnpH5lWn6WDMQBlEI0MUVZaOH02"

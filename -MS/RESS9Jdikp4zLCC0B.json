@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1641160312957,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/",
-    "4": "/mods/vanilla/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Factorio Made to Measure Rail Network",
   "favorites": {
     "JAC2y6ETdlRoPT7WMWdgCXnms4K2": true,

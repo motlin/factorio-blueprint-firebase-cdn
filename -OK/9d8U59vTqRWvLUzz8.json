@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/EjJKCgr",
   "lastUpdatedDate": 1740714214908,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Belt Speed Controller",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

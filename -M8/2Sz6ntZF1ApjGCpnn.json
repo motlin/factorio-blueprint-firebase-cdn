@@ -26,11 +26,11 @@
     "type": "image/jpeg",
     "width": 2795
   },
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/early game/",
-    "2": "/production/science/",
-    "3": "/mods/vanilla/",
-    "4": "/production/research (labs)/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/general/early game/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/production/research (labs)/"
+  ]
 }

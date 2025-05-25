@@ -19,9 +19,9 @@
   },
   "fileName": "beginners.JPG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/beginners.JPG?alt=media&token=d8cdcffb-b8fb-4c41-8491-9fd2063476c9",
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "author": {
     "userId": "quPeuFZIAwhk5La7MKaTdBIbrAj2"
   },

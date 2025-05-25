@@ -9,11 +9,11 @@
     "width": 1920
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/oil processing/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/oil processing/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Ky36EGh64FWQR669RTe28GzW5ug2": true,
     "N4DYD8higBTOlCgZXMLjaLcrgSw2": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/bekCyvz",
   "lastUpdatedDate": 1734622045494,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "Mall Simple",
   "favorites": {
     "0BPXzQRKNWPjFno86E1T8vVDxtz1": true

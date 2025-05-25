@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1637284143090,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/"
+  ],
   "title": "Starter science factory (22,5/min)",
   "favorites": {
     "86OXe2X7QkPffE4agOIjUY3h5qL2": true,

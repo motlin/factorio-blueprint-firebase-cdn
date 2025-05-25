@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "4-to-4 Belt Balancer",
   "author": {
     "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"

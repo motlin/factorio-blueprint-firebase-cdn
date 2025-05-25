@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698287263465,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "FABRICA DE KIT ROXO",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

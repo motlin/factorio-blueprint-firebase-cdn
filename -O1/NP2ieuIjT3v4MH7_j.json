@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/uyW1SUH",
   "lastUpdatedDate": 1720543887046,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "600 SPM / crude"
 }

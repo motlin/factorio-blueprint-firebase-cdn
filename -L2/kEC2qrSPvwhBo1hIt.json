@@ -16,12 +16,12 @@
     "id": "zknDNl1"
   },
   "lastUpdatedDate": 1515859005974,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/",
-    "3": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/train/loading station/"
+  ],
   "favorites": {
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   }

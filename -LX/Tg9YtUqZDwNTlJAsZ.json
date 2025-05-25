@@ -2,13 +2,13 @@
   "fileName": "2019-01-30_13h16_13.png",
   "lastUpdatedDate": 1549008536506,
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "2": "/mods/5dim/",
-    "3": "/version/0,16/",
-    "4": "/mods/bobs/",
-    "0": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/5dim/",
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Ore processing 1",
   "favorites": {
     "1JnuGI3XcYdMdQcvXLZGXuNqbDm1": true,

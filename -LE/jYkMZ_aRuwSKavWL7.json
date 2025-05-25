@@ -3,10 +3,10 @@
     "userId": "2fGPso5Mx7gquukZJTu9vJvloYx2"
   },
   "descriptionMarkdown": "Full 8 lanes of plastic on expensive.\nYou can probably use it on normal difficulty.\nYou can also use one or two vertical lines for 2 or for lines of plastic output.",
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/"
+  ],
   "title": "Plastic production",
   "image": {
     "type": "image/jpeg",

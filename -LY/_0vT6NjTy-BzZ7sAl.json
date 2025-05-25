@@ -24,9 +24,9 @@
   },
   "lastUpdatedDate": 1579205517556,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/production/plastic/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/production/plastic/"
+  ],
   "title": "Plastic - 21600/m (8 Blue belts output)"
 }

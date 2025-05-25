@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/RAIFhkR",
   "lastUpdatedDate": 1731527439461,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Multifunctional auto mall",
   "favorites": {
     "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,

@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1577263166601,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/solar/",
-    "2": "/version/0,17/",
-    "3": "/power/accumulator/",
-    "4": "/general/tileable/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/version/0,17/",
+    "/power/accumulator/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Solar Panel Block for 1 Radar Area"
 }

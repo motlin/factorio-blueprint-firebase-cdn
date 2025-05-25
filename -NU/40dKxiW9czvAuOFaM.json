@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1682665106701,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/mining/",
-    "2": "/general/early game/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/mining/",
+    "/general/early game/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Space Exploration Early Core Mining",
   "favorites": {
     "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,

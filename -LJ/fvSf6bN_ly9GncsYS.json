@@ -11,11 +11,11 @@
     "width": 1156
   },
   "numberOfFavorites": 44,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "9nAJU7KM4tdPZSfHoTA2Fn96MgV2"
   },

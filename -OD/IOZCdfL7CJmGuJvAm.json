@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/VWT4TGw",
   "lastUpdatedDate": 1733344849038,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/general/early game/"
+  ],
   "title": "Earlygame Logistics Mall/Shop",
   "favorites": {
     "peZZgcLGM4UFZjBMiPx1tjqtqqg1": true,

@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/"
+  ],
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "dOG2XXHyLLPtmxgp6MujJYvaIa32": true,

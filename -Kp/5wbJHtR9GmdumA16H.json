@@ -1,10 +1,10 @@
 {
   "authorId": "F4CnYtdFZFSgzGU6v0a1gEEGFi23",
   "fileName": "Train Crossing 4-lane, without signals.png",
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "F4CnYtdFZFSgzGU6v0a1gEEGFi23"
   },

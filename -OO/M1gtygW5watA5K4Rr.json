@@ -13,14 +13,14 @@
   "imageUrl": "https://i.imgur.com/iTKjhzy.png",
   "lastUpdatedDate": 1746129785422,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/nauvis/",
-    "3": "/planets/fulgora/",
-    "4": "/planets/gleba/",
-    "5": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/planets/fulgora/",
+    "/planets/gleba/",
+    "/planets/vulcanus/"
+  ],
   "title": "Inner Planet Trade Ship",
   "favorites": {
     "elX5fmK74ONw57tMUFvUd87ol5I2": true,

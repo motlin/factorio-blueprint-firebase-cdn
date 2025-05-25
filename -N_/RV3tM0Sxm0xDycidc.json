@@ -28,11 +28,11 @@
   },
   "lastUpdatedDate": 1689532074834,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/circuit/indicator/",
-    "2": "/production/science/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/circuit/indicator/",
+    "/production/science/",
+    "/train/right-hand-drive/"
+  ],
   "title": "DatGuyNamedGuy's Hexagonal Blueprints Book"
 }

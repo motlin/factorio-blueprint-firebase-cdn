@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/HtwQ2nz",
   "lastUpdatedDate": 1725414946778,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "LXIX wall book"
 }

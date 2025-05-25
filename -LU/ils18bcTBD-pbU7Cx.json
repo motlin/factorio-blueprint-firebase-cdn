@@ -22,14 +22,14 @@
     "width": 229
   },
   "lastUpdatedDate": 1574893552365,
-  "tags": {
-    "3": "/power/accumulator/",
-    "4": "/general/early game/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/",
-    "7": "/version/0,16/",
-    "0": "/version/0,17/",
-    "1": "/general/tileable/",
-    "2": "/power/solar/"
-  }
+  "tags": [
+    "/power/accumulator/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/general/tileable/",
+    "/power/solar/"
+  ]
 }

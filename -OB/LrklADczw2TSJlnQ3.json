@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Dqv9GI3",
   "lastUpdatedDate": 1731255536836,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/0,15/"
+  ],
   "title": "uranium red belts"
 }

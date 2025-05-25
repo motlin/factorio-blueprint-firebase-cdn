@@ -52,17 +52,17 @@
   },
   "lastUpdatedDate": 1585156504967,
   "numberOfFavorites": 32,
-  "tags": {
-    "9": "/version/0,18/",
-    "0": "/train/loading station/",
-    "3": "/train/track/",
-    "5": "/train/roundabout/",
-    "8": "/power/solar/",
-    "7": "/mods/ltn/",
-    "1": "/train/unloading station/",
-    "2": "/train/stacker/",
-    "4": "/train/right-hand-drive/",
-    "6": "/train/junction/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/train/loading station/",
+    "/train/track/",
+    "/train/roundabout/",
+    "/power/solar/",
+    "/mods/ltn/",
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "Simple LTN Train Book RHD"
 }

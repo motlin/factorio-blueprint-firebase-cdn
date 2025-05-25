@@ -14,10 +14,10 @@
     "width": 817
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/power/steam/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/power/nuclear/"
+  ],
   "title": "2x3 803MW Nuclear Power Plant for Factorissimo2",
   "author": {
     "userId": "oZOV3ZNhYgPe2hCgY9pETjuvlbC2"

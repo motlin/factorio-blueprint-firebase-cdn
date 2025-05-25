@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/A64rYXK",
   "lastUpdatedDate": 1730675391444,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/smelting/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Rail quality smelter"
 }

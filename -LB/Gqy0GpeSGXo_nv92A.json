@@ -6,13 +6,13 @@
     "width": 738
   },
   "numberOfFavorites": 41,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/oil processing/",
-    "2": "/production/plastic/",
-    "3": "/production/batteries/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/production/plastic/",
+    "/production/batteries/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "PNUfT9mjgkVeFZR6gsh6gtAkr603": true,
     "4kCzfQVGlkd8VMHQdBnpZJt1VNz1": true,

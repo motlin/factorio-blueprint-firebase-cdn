@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1619892433572,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/general/storage/",
-    "3": "/mods/warehousing/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/storage/",
+    "/mods/warehousing/"
+  ],
   "title": "Balanced Warehousing Station (un)loading",
   "favorites": {
     "GiM5aPBL3uhoIVmerWukQvEQIvF2": true

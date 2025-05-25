@@ -37,14 +37,14 @@
   },
   "lastUpdatedDate": 1622377173584,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/left-hand-drive/",
-    "4": "/train/roundabout/",
-    "5": "/train/stacker/",
-    "6": "/general/storage/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/left-hand-drive/",
+    "/train/roundabout/",
+    "/train/stacker/",
+    "/general/storage/"
+  ],
   "title": "Train Storage and Smelting Hub"
 }

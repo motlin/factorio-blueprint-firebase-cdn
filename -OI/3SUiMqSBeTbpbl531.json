@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/wAkcLr8",
   "lastUpdatedDate": 1738462983027,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Heat Station",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

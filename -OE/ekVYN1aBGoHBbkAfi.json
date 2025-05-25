@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/unz0TFj",
   "lastUpdatedDate": 1734834194080,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/robots/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/robots/",
+    "/version/2,0/"
+  ],
   "title": "Vulcanus Robots!",
   "favorites": {
     "viaGJjcZSxaxW6vZkFpNrAlkpVH2": true,

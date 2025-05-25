@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,15/"
+  ],
   "title": "No Power - Alert Box",
   "authorId": "gnO6LpZglTahFUtcEex0V6MhY942",
   "descriptionMarkdown": "Activates the Speaker when the connected Powerline gets cut off or the Accumulators are about to go out\n\n__How to use:__\n- Connect power ONLY with the leftmost Power Pole, don't place within Power range of other Poles\n- Reconfigure the Alert-Information as you wish\n- Ready to go!",

@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/9Bo758l.png",
   "lastUpdatedDate": 1737410558456,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/"
+  ],
   "title": "8.68-9/s Electric Engines",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true

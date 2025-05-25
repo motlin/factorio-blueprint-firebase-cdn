@@ -28,11 +28,11 @@
   },
   "lastUpdatedDate": 1612994122155,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/tileable/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/tileable/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "VTN K2 Blocky"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/tA7zea2",
   "lastUpdatedDate": 1730128706460,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "3 way crossing",
   "favorites": {
     "YHrWAGD5jTNU49pLDcB9lWzcgtV2": true,

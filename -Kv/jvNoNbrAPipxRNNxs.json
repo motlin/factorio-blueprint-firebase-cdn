@@ -8,13 +8,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/aasdf.jpg?alt=media&token=10f7adf2-bbda-4ba0-9816-63b01b5ecdf7",
   "lastUpdatedDate": 1507264341402,
   "numberOfFavorites": 12,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "authorId": "EB8WBvnJykbdfYUSWX4aFBO9BVJ2",
   "createdDate": 1507263876678,
   "descriptionMarkdown": "Tileable Trainstations, balanced in-/output\n\n4x loading, 2 car edition https://imgur.com/KeuP89M\n\n4x loading, 4 car edition https://imgur.com/S25B0ji\n\n12x loading (Miningsite) https://imgur.com/KeCbUFd\n\n2x unloading https://imgur.com/ibfk7J4\n\n4x unloading https://imgur.com/huNF4lW\n\n12x unloading https://imgur.com/pG5jTwf\n\nbe careful with the trainsigns, maybe you have to replace them and/or replace some tracks.",

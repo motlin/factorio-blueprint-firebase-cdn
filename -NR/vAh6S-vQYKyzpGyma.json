@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1709316166254,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Simple Omnismelter",
   "favorites": {
     "MxUBiOdmCrRbkiZUAauMEgdfF6t2": true

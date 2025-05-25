@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1649547975730,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Nuclear 480MW",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202022-04-09%20170505.png?alt=media&token=4f523eaa-eb25-46b4-a1fa-59f3f5d8534f",
   "favorites": {

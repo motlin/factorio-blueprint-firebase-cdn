@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/zT0Vc0e.png",
   "lastUpdatedDate": 1745951345645,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo rocketfuel",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,

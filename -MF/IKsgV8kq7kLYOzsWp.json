@@ -13,12 +13,12 @@
     "width": 1920,
     "height": 1080
   },
-  "tags": {
-    "3": "/production/mall (make everything)/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/1,0/"
+  ],
   "title": "Train Mall (Mini-Mall Series) v2",
   "favorites": {
     "yJOCC51rvlQL14z34Yyg5yhLPwk2": true,

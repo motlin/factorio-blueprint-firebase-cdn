@@ -11,12 +11,12 @@
   "fileName": "green to blue.png",
   "lastUpdatedDate": 1600173037676,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "author": {
     "userId": "RITZxKmoKFbe9G1hYgi0MZFd0ap1"
   },

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1618240201143,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Produccion de Chips RED",
   "favorites": {
     "N59uu6x3QmVbgjZLdhAOMfsVvxv2": true

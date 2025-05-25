@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/rGcJC46",
   "lastUpdatedDate": 1731882696188,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Pentapod Egg Incubator",
   "favorites": {
     "DmTMez2wJ7U9wr8wZ0w6FdCLeR12": true,

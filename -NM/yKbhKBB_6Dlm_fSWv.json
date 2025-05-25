@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1737133309369,
   "numberOfFavorites": 31,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/prioritizer/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/angels/",
-    "4": "/mods/industrial revolution/",
-    "5": "/production/science/",
-    "6": "/production/inserters/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/general/late game (megabase)/",
+    "/mods/angels/",
+    "/mods/industrial revolution/",
+    "/production/science/",
+    "/production/inserters/"
+  ],
   "title": " Lab - Laboratorium do badań. Automatyzacja, Jak działa, schemat budowy, przewodnik.",
   "favorites": {
     "177CFNart2MvViaGAFFpTwMKi2y2": true,

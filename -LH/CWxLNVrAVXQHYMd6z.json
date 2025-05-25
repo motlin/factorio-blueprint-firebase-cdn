@@ -16,9 +16,9 @@
   "authorId": "NZlyfWMrfIYtRK3REDr5vhnVUTE2",
   "createdDate": 1560373876251,
   "descriptionMarkdown": "science pack 2 simple input network 1.2\n\nThis one has a balancing network for the iron wheels",
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "favorites": {
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true
   }

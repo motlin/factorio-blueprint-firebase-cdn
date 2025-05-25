@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/Frqw4wZ",
   "lastUpdatedDate": 1730815041388,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/gleba/",
-    "3": "/planets/fulgora/",
-    "4": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/"
+  ],
   "title": "Space age Small shuttle for base planets V1",
   "favorites": {
     "we7GMANN5SYFeddgkztRoERAX3n2": true,

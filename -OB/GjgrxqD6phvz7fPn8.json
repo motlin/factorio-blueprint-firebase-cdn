@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/LW6Lado",
   "lastUpdatedDate": 1731302970277,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/general/early game/"
+  ],
   "title": "simple lazy craft grid for port grid",
   "favorites": {
     "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true

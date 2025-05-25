@@ -22,8 +22,8 @@
   "imageUrl": "https://imgur.com/5GpO2HF",
   "lastUpdatedDate": 1743460469447,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Promethium Hauler"
 }

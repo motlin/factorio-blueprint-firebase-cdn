@@ -23,9 +23,9 @@
   "imageUrl": "https://imgur.com/Dx4D4dL",
   "lastUpdatedDate": 1734286898793,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/train/track/"
+  ],
   "title": "Mini Block Railsystem and Robot Hub"
 }

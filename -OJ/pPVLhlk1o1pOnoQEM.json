@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/MXvmrtl",
   "lastUpdatedDate": 1740357895629,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/power/nuclear/"
+  ],
   "title": "Aquilo Space Platform",
   "favorites": {
     "Rl6CICs726S4403veEi3cEfgPoH2": true,

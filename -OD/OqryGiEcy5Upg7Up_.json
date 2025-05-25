@@ -17,12 +17,12 @@
   "imageUrl": "https://imgur.com/nUkHIBR",
   "lastUpdatedDate": 1733453119589,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/",
-    "3": "/mods/creative/",
-    "4": "/general/art/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/mods/creative/",
+    "/general/art/"
+  ],
   "title": "Bob the Big Biter"
 }

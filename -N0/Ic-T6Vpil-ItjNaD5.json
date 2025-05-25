@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1650670438458,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mercado básico",
   "favorites": {
     "AY4UJ5ppBvOnRWFH9kaXlpuYzvp1": true,

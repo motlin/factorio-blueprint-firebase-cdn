@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ygM1gH9",
   "lastUpdatedDate": 1733267669632,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Dynamic Train Loading Station",
   "favorites": {
     "4kRiQ8hochf7fd5LMBuh8bp7Cez1": true,

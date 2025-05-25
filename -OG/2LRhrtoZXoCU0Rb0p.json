@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/vpgHBPE",
   "lastUpdatedDate": 1736296746024,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/prioritizer/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/mods/space-age/"
+  ],
   "title": "Sorting Belt Space Platform",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

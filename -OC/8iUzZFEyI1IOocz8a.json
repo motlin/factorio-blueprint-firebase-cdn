@@ -32,13 +32,13 @@
   "imageUrl": "https://imgur.com/LV5v5bY",
   "lastUpdatedDate": 1732108747332,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/version/2,0/",
-    "2": "/planets/space-platform/",
-    "3": "/mods/space-age/",
-    "4": "/general/compact/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/version/2,0/",
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/general/compact/",
+    "/general/mid game/"
+  ],
   "title": "Aquilo compact hauler"
 }

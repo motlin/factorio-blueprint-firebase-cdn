@@ -15,10 +15,10 @@
   "lastUpdatedDate": 1518798935549,
   "authorId": "0jPTm4GqjqSB0ujyv6XkgFQhr9m1",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/belt/express transport belt (blue)/",
+    "/general/compact/"
+  ],
   "title": "[0.16] 2 Compressed Blue Belts of Iron/Copper"
 }

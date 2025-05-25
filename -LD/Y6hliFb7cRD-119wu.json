@@ -4,9 +4,9 @@
   "createdDate": 1556441128199,
   "lastUpdatedDate": 1556441232088,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "F3pe6BFZBgSjU5wq4uwNMoF54X43"
   },

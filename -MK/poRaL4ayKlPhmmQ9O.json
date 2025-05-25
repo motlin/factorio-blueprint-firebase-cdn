@@ -13,11 +13,11 @@
     "width": 1443
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/production/other/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/production/other/",
+    "/general/early game/"
+  ],
   "title": "Seablock Early Game Carbon",
   "author": {
     "userId": "MecyvhVXERdFZnHUIYPwutCl4cv1"

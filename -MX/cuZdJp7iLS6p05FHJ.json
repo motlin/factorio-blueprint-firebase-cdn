@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1618131397008,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/ltn/",
-    "2": "/version/1,0/",
-    "3": "/general/chunk aligned/",
-    "4": "/general/tileable/",
-    "5": "/train/junction/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/ltn/",
+    "/version/1,0/",
+    "/general/chunk aligned/",
+    "/general/tileable/",
+    "/train/junction/"
+  ],
   "title": "Rail based city block"
 }

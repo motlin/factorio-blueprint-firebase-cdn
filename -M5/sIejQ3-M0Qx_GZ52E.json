@@ -20,8 +20,8 @@
   },
   "lastUpdatedDate": 1587935096058,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Factorio Logo"
 }

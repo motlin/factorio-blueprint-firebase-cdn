@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/HEVndrz",
   "lastUpdatedDate": 1733098825471,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Single assembler rarity upcycler",
   "favorites": {
     "jvF4LKdLUBeNqI2dOwU4BGQmpKa2": true,

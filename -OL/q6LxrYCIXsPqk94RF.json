@@ -13,8 +13,8 @@
   "imageUrl": "https://i.imgur.com/J0HteSj.png",
   "lastUpdatedDate": 1742517137318,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "4 way with only 2 intersections"
 }

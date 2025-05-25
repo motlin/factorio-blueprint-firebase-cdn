@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/MqTkDZe",
   "lastUpdatedDate": 1723301045014,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/other/"
+  ],
   "title": "1350 SPM Blueprint (Blueprints Made By Nilaus)"
 }

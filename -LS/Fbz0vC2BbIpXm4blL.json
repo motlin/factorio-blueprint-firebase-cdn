@@ -8,12 +8,12 @@
   "fileName": "LabSetup.png",
   "numberOfFavorites": 5,
   "lastUpdatedDate": 1543331569336,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/science/",
-    "2": "/version/0,16/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "Lab setup (36 labs)",
   "author": {
     "userId": "25PhDOdvP6QXTlfkdULyTiPPY512"

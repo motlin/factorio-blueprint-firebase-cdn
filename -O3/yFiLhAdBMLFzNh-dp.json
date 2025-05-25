@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/MA8wDRz",
   "lastUpdatedDate": 1723326457488,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/",
+    "/train/junction/"
+  ],
   "title": "Ciências verde exotics e laboratórios avançados"
 }

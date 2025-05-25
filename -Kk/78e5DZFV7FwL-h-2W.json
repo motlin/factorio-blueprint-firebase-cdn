@@ -12,10 +12,10 @@
     "width": 1013
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Haulage%20Loop.PNG?alt=media&token=08a9f6b6-6c1f-4511-a77a-60b647323d55",
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,
     "CYCFZUse5fcF3jOyE364GK83GMl2": true,

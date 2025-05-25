@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/3jph0w1",
   "lastUpdatedDate": 1729940605306,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Paremeterised Bot Mall with Chained Intermediates",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

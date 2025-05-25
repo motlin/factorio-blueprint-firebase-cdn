@@ -11,14 +11,14 @@
     "width": 533
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/general/tileable/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/general/tileable/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "[WIP] Red (Automation) science 1.5/s (Gear-input) adapter Mk1",
   "authorId": "v6XakptxuzOG2hQYFGWZA8XrlN62",
   "createdDate": 1605312913551,

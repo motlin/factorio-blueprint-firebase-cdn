@@ -1,9 +1,9 @@
 {
   "createdDate": 1614991208419,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "4x rail intersection",
   "fileName": "4xintersect.png",
   "image": {

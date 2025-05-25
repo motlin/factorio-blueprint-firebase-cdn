@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/MIdpyLx",
   "lastUpdatedDate": 1732726426857,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/version/2,0/"
+  ],
   "title": "Full production of holmium ore v1.6",
   "favorites": {
     "JhiIwWwm9RNIZcKhbtS4OMN3sR73": true

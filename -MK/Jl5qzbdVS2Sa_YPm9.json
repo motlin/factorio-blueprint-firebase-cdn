@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1632435990241,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Distribution system"
 }

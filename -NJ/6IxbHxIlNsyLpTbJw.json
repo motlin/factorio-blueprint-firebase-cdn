@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1670869593184,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/production/inserters/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/production/inserters/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Science packs"
 }

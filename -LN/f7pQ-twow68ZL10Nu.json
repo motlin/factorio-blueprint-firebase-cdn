@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "favorites": {
     "cmVK0qxzUle25kRKDaLf9uOQt8w2": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

@@ -16,9 +16,9 @@
   },
   "lastUpdatedDate": 1526611202822,
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "0": "/production/advanced circuit (red)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/advanced circuit (red)/"
+  ]
 }

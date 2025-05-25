@@ -16,8 +16,8 @@
   "createdDate": 1508158199283,
   "fileName": "science.JPG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/science.JPG?alt=media&token=76c50ce0-078d-4fcf-8910-331cbe5c9adb",
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "title": "Science Layout"
 }

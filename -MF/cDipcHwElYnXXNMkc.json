@@ -12,10 +12,10 @@
     "width": 78
   },
   "lastUpdatedDate": 1598402784655,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "0mFMFSQyeXYRWvv676YNegV08Kz2"
   },

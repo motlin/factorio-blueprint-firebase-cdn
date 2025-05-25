@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1693291811795,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Carry Lookahead Adder (16-bit, 4-tick)"
 }

@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1579012948751,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "New Nuclear Island (=1.44GW)"
 }

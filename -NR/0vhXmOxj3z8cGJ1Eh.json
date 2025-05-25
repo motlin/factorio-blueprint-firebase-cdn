@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1679364643122,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Street - 90° curve",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

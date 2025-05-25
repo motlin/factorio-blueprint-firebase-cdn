@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1696380708208,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/loading station/"
+  ],
   "title": "Train Loading and Unloading Book with circuit condition",
   "favorites": {
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true

@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1683395497815,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/production/oil processing/",
-    "4": "/version/1,1/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/version/1,1/"
+  ],
   "title": " advanced refinery",
   "favorites": {
     "JUQFEaXh0JYGOUJz4fhu1EDfhn32": true

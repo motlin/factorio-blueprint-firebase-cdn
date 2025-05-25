@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/LTZShn8",
   "lastUpdatedDate": 1732470967548,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/power/nuclear/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/power/nuclear/",
+    "/mods/space-age/"
+  ],
   "title": "The Terminator"
 }

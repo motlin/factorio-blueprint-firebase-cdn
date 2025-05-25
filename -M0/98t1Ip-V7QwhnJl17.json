@@ -7,11 +7,11 @@
   "descriptionMarkdown": "Features 88 guns, 30 flamers, and 8 artillery running off 40 solar panels with a battery indicator.\n\nThe second rail track is a bypass if you want to hook up to an existing rail network. \n\nYou can substitute artillery wagons for the cargo if you want greater capacity. \n\nAlso be sure to reverse the inserters on the artillery turrets and chests once loaded.\n\nCheck this link to see it in action https://youtu.be/0dCq-a-sfKA",
   "fileName": "the quad deuce.png",
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/solar/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/solar/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Artillery Outpost - The Quad Deuce",
   "authorId": "EWosPTgq9UREavWVFYEgKq2JGPX2",
   "image": {

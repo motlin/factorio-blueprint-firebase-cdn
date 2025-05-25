@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1641588381531,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Expandable Centrifuge",
   "favorites": {
     "dKODuSYcovXizxj35jj50cbJWlz2": true,

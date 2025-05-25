@@ -16,9 +16,9 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/util-update1.PNG?alt=media&token=bc1f5eaf-fb09-4caa-a8d1-28d8938a2b14",
   "lastUpdatedDate": 1532645193843,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Utility Delivery Update for hennas outpost"
 }

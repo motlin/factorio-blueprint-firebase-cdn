@@ -3,13 +3,13 @@
   "descriptionMarkdown": "Compatible with https://factorioprints.com/view/-Km3O-6daMY2OZru9ipg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-08-25_19-44-33.png?alt=media&token=c65afc0e-06f2-4b7c-ac12-e4ec5a7add2a",
   "numberOfFavorites": 6,
-  "tags": {
-    "4": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "W3SObEod8PVZM2Df2YH8ySJKtF02": true,
     "ktjztAPqtYXHyHjy539P1klFB2b2": true,

@@ -69,18 +69,18 @@
   },
   "lastUpdatedDate": 1583169862852,
   "numberOfFavorites": 46,
-  "tags": {
-    "8": "/general/early game/",
-    "10": "/mods/vanilla/",
-    "4": "/production/electronic circuit (green)/",
-    "5": "/production/advanced circuit (red)/",
-    "6": "/production/science/",
-    "7": "/power/steam/",
-    "9": "/production/robots/",
-    "0": "/version/0,18/",
-    "1": "/production/plastic/",
-    "2": "/production/research (labs)/",
-    "3": "/production/smelting/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/science/",
+    "/power/steam/",
+    "/production/robots/",
+    "/version/0,18/",
+    "/production/plastic/",
+    "/production/research (labs)/",
+    "/production/smelting/"
+  ],
   "title": "Early game setup bundle"
 }

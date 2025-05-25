@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1670541600252,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Engine production from Iron ore"
 }

@@ -32,13 +32,13 @@
   "createdDate": 1536620569642,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/trainsmeltingv3.PNG?alt=media&token=f7090c04-a10a-4d5b-9ca3-6714bfa75286",
   "numberOfFavorites": 39,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/late game (megabase)/",
-    "4": "/train/unloading station/",
-    "5": "/train/loading station/",
-    "6": "/production/belt based/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/late game (megabase)/",
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/production/belt based/"
+  ]
 }

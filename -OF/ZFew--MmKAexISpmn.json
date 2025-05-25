@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/OILwMKj",
   "lastUpdatedDate": 1735775137745,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/rocket parts/",
-    "2": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/rocket parts/",
+    "/production/oil processing/"
+  ],
   "title": "Factorissimo: Crude oil to Rocket fuel"
 }

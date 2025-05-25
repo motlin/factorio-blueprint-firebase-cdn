@@ -262,11 +262,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Blue%20Addendum%20Balancers.png?alt=media&token=17259845-76a1-458e-bdce-d742dc3ce332",
   "lastUpdatedDate": 1496154460353,
   "numberOfFavorites": 333,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "The Complete Belt Series: Blue Addendum, Part 6."
 }

@@ -8,11 +8,11 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1553019121165,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/production/mining/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/production/mining/",
+    "/version/0,17/"
+  ],
   "title": "Universal stacking mining station (2-4-2 Trains)",
   "author": {
     "userId": "e03tHkqC5ka0V6BMCrN4OcUcyuH3"

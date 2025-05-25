@@ -1,12 +1,12 @@
 {
   "descriptionMarkdown": "Optimized system",
   "lastUpdatedDate": 1600537993026,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/"
+  ],
   "title": "[WIP] Green circuit сluster Mk1",
   "favorites": {
     "WqSdkhME7GbpgB2ETn8Hiu2XWgA3": true,

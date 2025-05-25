@@ -24,9 +24,9 @@
   "imageUrl": "https://imgur.com/3l0H3Ko",
   "lastUpdatedDate": 1732229061456,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Shattered Planet Easy"
 }

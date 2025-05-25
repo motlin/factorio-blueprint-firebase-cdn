@@ -6,14 +6,14 @@
     "width": 1526
   },
   "lastUpdatedDate": 1515874346295,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/",
-    "4": "/version/0,15/",
-    "5": "/version/0,16/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "Fancy Rail Roundabout & Straight",
   "author": {
     "userId": "KCEd6gYdarX74MlwkczheHRnKbS2"

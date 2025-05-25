@@ -12,10 +12,10 @@
     "width": 1366
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "red and yellow engines",
   "favorites": {
     "kjJAxg2sLRWhvdwCVlLcG1aCzq03": true,

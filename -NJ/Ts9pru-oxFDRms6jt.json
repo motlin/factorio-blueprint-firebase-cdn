@@ -20,15 +20,15 @@
   },
   "lastUpdatedDate": 1671260444077,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/belts/",
-    "2": "/production/uranium/",
-    "3": "/production/robots/",
-    "4": "/production/electronic circuit (green)/",
-    "5": "/production/advanced circuit (red)/",
-    "6": "/production/processing unit (blue)/",
-    "7": "/production/modules/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/belts/",
+    "/production/uranium/",
+    "/production/robots/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/production/modules/"
+  ],
   "title": "All of the World's Production"
 }

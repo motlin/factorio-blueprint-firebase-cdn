@@ -50,11 +50,11 @@
   },
   "lastUpdatedDate": 1584373636730,
   "numberOfFavorites": 30,
-  "tags": {
-    "3": "/train/unloading station/",
-    "0": "/mods/ltn/",
-    "1": "/version/0,18/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/ltn/",
+    "/version/0,18/",
+    "/train/loading station/"
+  ],
   "title": "LTN Train-Stations - Updated"
 }

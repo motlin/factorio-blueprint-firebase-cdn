@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2HLLzBo",
   "lastUpdatedDate": 1735608047102,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Blueprint Book for Gleba AntFarm",
   "favorites": {
     "iZLgeauJDGUVkJzmeG84taoTDVc2": true,

@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/jfnbb5p",
   "lastUpdatedDate": 1736196212893,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Test platform"
 }

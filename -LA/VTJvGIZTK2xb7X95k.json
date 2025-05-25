@@ -11,12 +11,12 @@
     "width": 983
   },
   "lastUpdatedDate": 1524184469332,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/version/0,16/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/circuit/indicator/"
+  ],
   "author": {
     "userId": "I4Kqz1nXMANlm3GEyCUwIgQfhzu1"
   },

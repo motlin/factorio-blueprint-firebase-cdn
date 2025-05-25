@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Z7W4iRA",
   "lastUpdatedDate": 1735418652216,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/nuclear/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/nuclear/",
+    "/production/guns and ammo/"
+  ],
   "title": "Aquilo ship spaceship platform cargo",
   "favorites": {
     "Whw7zXedy8UdgbPLVl0d4TVM9SO2": true,

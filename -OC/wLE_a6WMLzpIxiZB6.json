@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/HlJVDF6",
   "lastUpdatedDate": 1732958026491,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Early spaceship",
   "favorites": {
     "yQD3k9GNwWRoZEA2Kh2Z2R1BDjH3": true,

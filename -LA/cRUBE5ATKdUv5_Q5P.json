@@ -10,10 +10,10 @@
     "type": "image/jpeg",
     "width": 249
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "eiceIMLyTbfCkXB19g0FOXW9TWF3",
   "descriptionMarkdown": "This is a producer for Yellow Assembling Machines.\n\nInputs (Left to Right):\n\nIron      Green circuits     Gears\n\n\n(Ironically uses assembling machine 2)",
   "fileName": "20180421094157_1.jpg",

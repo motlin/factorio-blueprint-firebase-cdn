@@ -3,13 +3,13 @@
   "createdDate": 1526049239231,
   "lastUpdatedDate": 1526349797014,
   "numberOfFavorites": 0,
-  "tags": {
-    "4": "/general/compact/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/transport belt (yellow)/",
+    "/general/mid game/"
+  ],
   "title": "biter detection using gun turrets",
   "author": {
     "userId": "6wNp0lQKXPOZspRaOYrDMX4uzCg1"

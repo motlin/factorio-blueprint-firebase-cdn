@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/14LuFSw",
   "lastUpdatedDate": 1733972458872,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "F-22 Spaceship"
 }

@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bandicam%202022-07-03%2019-38-27-470.png?alt=media&token=a0dfec61-37c1-4a03-8f3e-27b41ab7bb32",
   "lastUpdatedDate": 1656863335355,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Scalable train fed NPL v1"
 }

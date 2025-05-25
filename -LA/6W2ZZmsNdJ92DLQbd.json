@@ -22,11 +22,11 @@
   "authorId": "JTLMRNMtziOJRYr3SewFjwx9MU33",
   "fileName": "20190316181920_1.jpg",
   "lastUpdatedDate": 1552761667610,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/train/unloading station/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/stacker/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/train/unloading station/",
+    "/production/logistic (bot) based/",
+    "/train/right-hand-drive/",
+    "/train/stacker/"
+  ]
 }

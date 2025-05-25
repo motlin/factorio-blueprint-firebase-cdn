@@ -15,10 +15,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Petroleum products regulate by Flare Stack mod"
 }

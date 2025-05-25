@@ -23,8 +23,8 @@
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"
   },
   "authorId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/advanced circuit (red)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/advanced circuit (red)/"
+  ]
 }

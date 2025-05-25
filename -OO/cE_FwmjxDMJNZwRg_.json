@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/s20zSAz.png",
   "lastUpdatedDate": 1745505637559,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space science Nauvis"
 }

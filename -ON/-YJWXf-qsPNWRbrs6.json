@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/lUqt1Ny",
   "lastUpdatedDate": 1743765981426,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/planets/nauvis/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/planets/nauvis/",
+    "/version/2,0/"
+  ],
   "title": "Rocket Fuel 5/s",
   "favorites": {
     "1IS9z2CeW6U5wY3ze0PzBYTBp2A2": true,

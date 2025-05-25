@@ -24,9 +24,9 @@
     "type": "image/png",
     "width": 511
   },
-  "tags": {
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 - Beacon Max",
   "author": {
     "userId": "gqcyQ26ZxqQanEir30HHaUjrjZZ2"

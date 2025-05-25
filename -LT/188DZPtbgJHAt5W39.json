@@ -10,9 +10,9 @@
     "width": 1920
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "author": {
     "userId": "G0f0bhtwssgGwEAfYGE3RhvgXlo2"
   },

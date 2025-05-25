@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/iK7juPN",
   "lastUpdatedDate": 1731714689327,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/vanilla/"
+  ],
   "title": "Cargo landing pad - Automatic request from network",
   "favorites": {
     "NpLAScMy2ihG6nokQKcs4apPrgk1": true,

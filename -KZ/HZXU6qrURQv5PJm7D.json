@@ -1,12 +1,12 @@
 {
   "authorId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2",
   "descriptionMarkdown": "Part of a set of blueprint for a 4-lane railnetwork that includes solar power. Based closely on designs by Zisteau: https://www.youtube.com/playlist?list=PLVPJ1jbg0CaFzYF6jJyUIJYXYpCE4UIr3",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4-Lane-Diagonal-Exit-TypeA.png?alt=media&token=d57fa626-82d2-41ab-8548-7acc1e2f3f05",
   "lastUpdatedDate": 1499906238213,
   "numberOfFavorites": 18,

@@ -13,14 +13,14 @@
   },
   "lastUpdatedDate": 1543519774405,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/belt/balancer/",
-    "2": "/belt/prioritizer/",
-    "3": "/belt/tap/",
-    "4": "/belt/fast transport belt (red)/",
-    "5": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/belt/tap/",
+    "/belt/fast transport belt (red)/",
+    "/version/0,16/"
+  ],
   "authorId": "VdlW6mvTuyTILdb5Tv4wlmu6cPy2",
   "descriptionMarkdown": "**Features**\n\nA more complete set of 4 belt patterns used for main bus, check the book's blueprint list!\n\n**Credit**\n\nMany of these items were developed in collaboration.  Some of them don't even belong to me (4-belt balancer and flip corner for example).  We're building on the shoulders of giants here.",
   "fileName": "Belt4-Red.png"

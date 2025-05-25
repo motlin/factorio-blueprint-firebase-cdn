@@ -53,9 +53,9 @@
   },
   "lastUpdatedDate": 1675341953254,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/ltn/"
+  ],
   "title": "Factorio Master Class (by Nilaus)"
 }

@@ -15,16 +15,16 @@
     "id": "TmpJtPe",
     "type": "image/jpeg"
   },
-  "tags": {
-    "4": "/production/electronic circuit (green)/",
-    "5": "/production/smelting/",
-    "6": "/production/mall (make everything)/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/general/late game (megabase)/",
-    "7": "/production/robots/",
-    "8": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/smelting/",
+    "/production/mall (make everything)/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/production/robots/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Meerkats Production"
 }

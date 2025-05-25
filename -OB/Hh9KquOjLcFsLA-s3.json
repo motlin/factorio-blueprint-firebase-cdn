@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/SsVGfN9",
   "lastUpdatedDate": 1731185649164,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/general/art/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/general/art/"
+  ],
   "title": "RGB Strip controller"
 }

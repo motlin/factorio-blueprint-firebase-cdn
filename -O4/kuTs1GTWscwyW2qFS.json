@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GQlZ7Vw",
   "lastUpdatedDate": 1725072064214,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/angels/",
-    "2": "/mods/seablock/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/angels/",
+    "/mods/seablock/"
+  ],
   "title": "early game 52MW power plant"
 }

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1697829371294,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/general/storage/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/general/storage/",
+    "/train/unloading station/"
+  ],
   "title": "WIP Rail grid"
 }

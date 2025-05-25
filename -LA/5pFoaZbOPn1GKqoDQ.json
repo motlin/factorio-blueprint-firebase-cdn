@@ -14,14 +14,14 @@
     "type": "image/jpeg",
     "width": 426
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/bobs/",
-    "2": "/power/nuclear/",
-    "3": "/power/solar/",
-    "4": "/power/steam/",
-    "5": "/power/accumulator/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/bobs/",
+    "/power/nuclear/",
+    "/power/solar/",
+    "/power/steam/",
+    "/power/accumulator/"
+  ],
   "favorites": {
     "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

@@ -15,14 +15,14 @@
     "id": "NMsamKm"
   },
   "lastUpdatedDate": 1547384400768,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/belt/express transport belt (blue)/",
-    "5": "/general/late game (megabase)/",
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/production/research (labs)/"
+  ],
   "favorites": {
     "sYRbanRtEIf9CP1q0an4YDQeAFx2": true,
     "kzemT7l62Od5fvXMuuqRz2ThQEr2": true

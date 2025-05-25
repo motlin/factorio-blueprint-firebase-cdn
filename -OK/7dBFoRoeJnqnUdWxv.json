@@ -18,11 +18,11 @@
   "imageUrl": "https://imgur.com/XuiIZr5",
   "lastUpdatedDate": 1740680512917,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/modules/",
-    "2": "/production/belt based/",
-    "3": "/planets/gleba/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/modules/",
+    "/production/belt based/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba - rare quality production mall (produce anything, modular)"
 }

@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "KkhfB9jEeQfSmTDWgHLDSQlFmT22"
   },

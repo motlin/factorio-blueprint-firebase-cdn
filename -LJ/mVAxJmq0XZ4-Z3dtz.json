@@ -8,9 +8,9 @@
     "height": 1026
   },
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/"
+  ],
   "title": "Auto loading artillery/radar outpost",
   "author": {
     "userId": "uBFMlETspcbcuw6TiwciVzjBHVC2"

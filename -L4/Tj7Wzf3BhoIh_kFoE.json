@@ -20,13 +20,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-465717362.jpg?alt=media&token=062eeb27-6a85-43f4-adbc-61a27626b31c",
   "lastUpdatedDate": 1660847058473,
   "numberOfFavorites": 10,
-  "tags": {
-    "3": "/train/right-hand-drive/",
-    "4": "/version/1,0/",
-    "5": "/mods/vanilla/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/left-hand-drive/"
+  ],
   "title": "ItemDelivery - TestSetup [Update 2022-08-18 v13]"
 }

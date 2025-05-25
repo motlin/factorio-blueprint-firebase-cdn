@@ -17,9 +17,9 @@
   "fileName": "23.jpg",
   "lastUpdatedDate": 1552769351463,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/accumulator/"
+  ],
   "author": {
     "userId": "FkgcMKxcksWfacCqltdV3VlTfJm1"
   },

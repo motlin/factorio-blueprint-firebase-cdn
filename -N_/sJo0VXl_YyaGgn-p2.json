@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1689940869359,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/circuit/indicator/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/circuit/indicator/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Orion Train Junctions + Lights"
 }

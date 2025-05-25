@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/YMCUMQX",
   "lastUpdatedDate": 1730431924176,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "Space Science Pack Station - 41.7/m",
   "favorites": {
     "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,

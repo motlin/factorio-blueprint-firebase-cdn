@@ -15,11 +15,11 @@
     "type": "image/jpeg",
     "width": 372
   },
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/"
+  ],
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true
   },

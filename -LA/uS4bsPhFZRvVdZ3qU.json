@@ -16,11 +16,11 @@
   },
   "lastUpdatedDate": 1553611381486,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "nszw3Ylw5ChXAr074ok7ie1KLgr1": true,
     "kOht14bSMCc1Lz86TALpXSERIdV2": true,

@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1639010152051,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/other/"
+  ],
   "title": "My need book"
 }

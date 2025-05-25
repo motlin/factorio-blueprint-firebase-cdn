@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/pMbaDIy",
   "lastUpdatedDate": 1738948892206,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/"
+  ],
   "title": "Vanilla LTN Blueprint Book"
 }

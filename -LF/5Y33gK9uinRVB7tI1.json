@@ -1,8 +1,8 @@
 {
   "fileName": "Koravex 6400.PNG",
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "authorId": "IfMLZK1RA0RtMl0y4pFbMyPlWRY2",
   "createdDate": 1558109242610,
   "descriptionMarkdown": "It's a self starter.\n\nJust connect your Uranium mining line to the bottom left of the blueprint, right side of splitter, and if you have uranium 238 from recycled fuel cells then connect that to the left side of the same splitter.\n\nThe output is on the right side of the system.\n\nTakes a couple of hours to prime itself.",

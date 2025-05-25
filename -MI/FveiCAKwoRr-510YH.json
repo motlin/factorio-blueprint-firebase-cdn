@@ -19,9 +19,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Tamsyn_font_close.png?alt=media&token=7ffaa918-549f-4d42-b7fd-4acf39ac4e32",
   "lastUpdatedDate": 1601320092578,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Digital display with Tamsyn font and signed integers support"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1660601520210,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/production/inserters/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/production/inserters/"
+  ],
   "title": "Inserters&Belts"
 }

@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1686593484560,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/angels/",
-    "2": "/version/0,15/",
-    "3": "/mods/bobs/",
-    "4": "/mods/seablock/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/angels/",
+    "/version/0,15/",
+    "/mods/bobs/",
+    "/mods/seablock/"
+  ],
   "title": "[Sea block] Mall pre bot  [seablock] ",
   "favorites": {
     "tOx9MTK9C9hgpX4Gmr0rBwk3aSH2": true,

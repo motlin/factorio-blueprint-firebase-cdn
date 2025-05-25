@@ -19,13 +19,13 @@
   },
   "lastUpdatedDate": 1633124288459,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/roundabout/",
-    "2": "/train/crossing/",
-    "3": "/train/junction/",
-    "4": "/version/0,15/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/version/0,15/",
+    "/version/1,0/"
+  ],
   "title": "Book of Turbo Roundabouts"
 }

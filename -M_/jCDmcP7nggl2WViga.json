@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621068410213,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/tileable/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/krastorio/"
+  ],
   "title": "Tileable beaconed Electronic Components one blue belt ",
   "favorites": {
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,

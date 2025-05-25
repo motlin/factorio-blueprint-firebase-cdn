@@ -19,10 +19,10 @@
     "width": 747
   },
   "lastUpdatedDate": 1499906265026,
-  "tags": {
-    "3": "/version/0,14/",
-    "0": "/train/track/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,14/",
+    "/train/track/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ]
 }

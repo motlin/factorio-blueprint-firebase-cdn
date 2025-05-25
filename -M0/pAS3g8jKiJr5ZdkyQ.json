@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1582513902215,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/junction/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "title": "Snowflake (WiP)"
 }

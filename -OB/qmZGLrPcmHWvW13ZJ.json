@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/H3k52MX",
   "lastUpdatedDate": 1731791141878,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/vulcanus/",
-    "2": "/production/mining/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/vulcanus/",
+    "/production/mining/"
+  ],
   "title": "Vulcanus iron ore orbital",
   "favorites": {
     "jzZTAbpDTIcAafwM31dmxNu5yaE2": true,

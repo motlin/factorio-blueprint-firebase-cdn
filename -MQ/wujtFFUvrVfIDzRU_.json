@@ -1,15 +1,15 @@
 {
   "lastUpdatedDate": 1610561046857,
   "numberOfFavorites": 4,
-  "tags": {
-    "4": "/version/0,17/",
-    "5": "/version/0,18/",
-    "6": "/version/1,0/",
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "authorId": "yWfhgslv3QcoXJZ1QlqpGT2WvDx1",
   "descriptionMarkdown": "If you ever find a REAL purpose to that \"thing\", i give you ten bucks.\n\nIt works fine for 1.0, it's just an old blueprint",
   "createdDate": 1610561028087,

@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1579449386616,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/train/junction/"
+  ],
   "title": "Advanced Oil - Refinery 100x"
 }

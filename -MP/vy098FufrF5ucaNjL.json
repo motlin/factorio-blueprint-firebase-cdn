@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1672236796302,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Reator nuclear grande"
 }

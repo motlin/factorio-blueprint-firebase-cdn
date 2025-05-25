@@ -6,11 +6,11 @@
     "type": "image/png",
     "width": 787
   },
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/late game (megabase)/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/0,18/"
+  ],
   "title": "Laser / Flamethrower defense by Agress0r",
   "author": {
     "userId": "XRSNxClhlOUYhKRhV3ptWm1JqbJ2"

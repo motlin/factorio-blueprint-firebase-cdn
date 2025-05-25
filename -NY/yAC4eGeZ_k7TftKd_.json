@@ -42,10 +42,10 @@
   },
   "lastUpdatedDate": 1687891661017,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/space-exploration/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Fully modular Mall Design for Krastorio2 (v1.3.19) + Space Exploration (v0.6.108)"
 }

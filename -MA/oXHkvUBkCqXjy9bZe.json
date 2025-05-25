@@ -1,12 +1,12 @@
 {
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/tileable/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/tileable/",
+    "/production/electronic circuit (green)/"
+  ],
   "favorites": {
     "IbpV4kn3HjMWyjZU8KMvIGLIPRH2": true,
     "oUiGLHVg7lfyt4UHU9QAOynBHsv1": true,

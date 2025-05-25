@@ -4,9 +4,9 @@
   "descriptionMarkdown": "This is the scrolling text screen",
   "fileName": "cool_factorio.gif",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "IIzSaOy8fucGegxkonILvkUkKDw1"
   },

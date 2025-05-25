@@ -4,11 +4,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/drone%20outpost.png?alt=media&token=0e6772ed-7a49-4ee5-8a09-ec3d08c8dbe7",
   "lastUpdatedDate": 1504616187841,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "krDOo1I1fSTcSwBaYg3VI9evPbH3"
   },

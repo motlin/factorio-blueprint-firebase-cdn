@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1674675029174,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/crossing/"
-  },
+  "tags": [
+    "/train/crossing/"
+  ],
   "title": "City block intersection",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true

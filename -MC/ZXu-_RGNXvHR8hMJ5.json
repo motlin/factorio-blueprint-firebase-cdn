@@ -32,11 +32,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20touhou%20project%20thumbnail.png?alt=media&token=3947ff81-8e01-479d-8133-1caebdc4174b",
   "lastUpdatedDate": 1642166900975,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/"
+  ],
   "title": "Touhou MIDI 【東方Project】"
 }

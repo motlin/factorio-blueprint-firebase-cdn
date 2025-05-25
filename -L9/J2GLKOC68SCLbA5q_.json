@@ -55,14 +55,14 @@
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   },
   "lastUpdatedDate": 1522902428700,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/train/crossing/",
-    "5": "/train/track/",
-    "6": "/train/right-hand-drive/",
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/train/crossing/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "title": "Kitch's 2 Lane Rail Book - 2.0"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1622435055657,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Mass Beacon Production",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true

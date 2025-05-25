@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,14/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,14/"
+  ],
   "title": "Bob's/Angel's Mods Refining (Slurry) Setup",
   "authorId": "sRWBEefIHnZkEmVSU2KtWSLdfka2",
   "createdDate": 1485020444489,

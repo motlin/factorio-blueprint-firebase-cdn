@@ -16,8 +16,8 @@
     "id": "bBOPWho"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,14/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ]
 }

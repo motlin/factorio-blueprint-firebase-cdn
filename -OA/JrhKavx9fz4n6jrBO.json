@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/isJX1mE",
   "lastUpdatedDate": 1730151390628,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Item amount display",
   "favorites": {
     "LX0lfiddjGe3ovidpSKBIJOdZyr1": true,

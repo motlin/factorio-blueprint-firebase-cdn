@@ -25,11 +25,11 @@
   },
   "lastUpdatedDate": 1611692224764,
   "title": "Wall System - Double Wall with Maze, Turrets, Autofeeders",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "0fswGeLfX4dhBYEeE68yR3gs2M32"
   },

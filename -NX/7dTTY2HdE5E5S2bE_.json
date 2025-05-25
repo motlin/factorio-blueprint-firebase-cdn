@@ -26,11 +26,11 @@
   },
   "lastUpdatedDate": 1685919754505,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/other/",
-    "2": "/general/early game/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/other/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "title": "SE starter base"
 }

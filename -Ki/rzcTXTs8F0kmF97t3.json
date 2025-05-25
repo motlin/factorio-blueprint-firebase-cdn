@@ -10,12 +10,12 @@
     "type": "image/png",
     "width": 450
   },
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "GP7WyDi9z9WQ4uJKSfgptjm1mVu1"
   },

@@ -5,11 +5,11 @@
   "descriptionMarkdown": "This Purple (Production) science blueprint is tileable for 0.16. (i.e. No Assembler 1 production). Iron is used the most so it's on the outside which makes it easy enough to run a parallel iron belt to supplement longer lengths.\n\n**Produces @ 1.14/s**\n\n**Usages**\n* Iron Plates - 8.0/s \n* Bricks - 5.7/s\n* Steel - 6.3/s\n* Green Circuit - 1.1/s\n* Red Circuit - 2.9/s\n* Lubricant - 8.6/s\n\nNote: It was late when I did the usage calculations so I'm not very confident of the numbers.\n\n\nI used constant combinators to show where resources are to come in with the exception of the bottom belt which is for iron. ",
   "lastUpdatedDate": 1520204932578,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/tileable/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/tileable/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "poUr4o4Rr5QH0e1XUf97kUpGHSE3"
   },

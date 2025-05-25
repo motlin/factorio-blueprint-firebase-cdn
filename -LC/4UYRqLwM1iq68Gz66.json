@@ -15,11 +15,11 @@
   },
   "authorId": "IiPOrPqackPSEJTmZShaRC3Evfm2",
   "lastUpdatedDate": 1554870484123,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Green Circuits - Add on (0.17) [KOS][KatherineOfSky]",
   "favorites": {
     "oOoVtiqUaePQksNrV5N68R2twK52": true,

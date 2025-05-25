@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1698063147874,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Steam nuclear power plant Vers. 1.0"
 }

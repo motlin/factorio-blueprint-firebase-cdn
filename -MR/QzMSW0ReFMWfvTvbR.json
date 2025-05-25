@@ -11,10 +11,10 @@
     "JAESnwnvqrW3gKFi658xxjhyK8r2": true
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Smart pickup station",
   "author": {
     "userId": "GuTaS8KOhDgDiWumut6Qn2AkstS2"

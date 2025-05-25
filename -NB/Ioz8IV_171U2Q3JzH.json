@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1662485000992,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Rush Ore miner",
   "favorites": {
     "16EyEGKEVZXe7noopJwq3CqOy612": true

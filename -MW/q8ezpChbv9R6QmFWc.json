@@ -42,15 +42,15 @@
   },
   "lastUpdatedDate": 1679671669715,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/compact/",
-    "5": "/production/belt based/",
-    "6": "/version/1,0/",
-    "7": "/general/ups friendly/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/production/belt based/",
+    "/version/1,0/",
+    "/general/ups friendly/"
+  ],
   "title": "2700 SPM All-in-One 'Titan'"
 }

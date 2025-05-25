@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/belt/balancer/"
+  ],
   "favorites": {
     "0toDbbJcWXSAxOc7ldflT9zCCA13": true,
     "KHYeyqAvq0aTJLImH1gW3sG4atB3": true,

@@ -9,10 +9,10 @@
     "height": 670
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Fluid%20Gauge.PNG?alt=media&token=0a0839fe-ecca-4016-be1a-f3a8b299fc80",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "G0hS5cjMsoZCTJEeWXe3Y0XGVXJ3"
   },

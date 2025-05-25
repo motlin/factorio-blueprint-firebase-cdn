@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/production/smelting/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/production/smelting/",
+    "/version/0,14/"
+  ],
   "author": {
     "userId": "9RApP8ePvATRV6OOs9yyanIznml2"
   },

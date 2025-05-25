@@ -7,11 +7,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,

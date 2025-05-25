@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3Pi2D49",
   "lastUpdatedDate": 1731334735173,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Cargo bay extension",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true

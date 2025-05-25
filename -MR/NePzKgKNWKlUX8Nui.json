@@ -19,9 +19,9 @@
     "width": 679
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "AFK-RAILWAY121",
   "descriptionMarkdown": "afk-railway "
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1657910033443,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Simple Construction Robots",
   "favorites": {
     "YY7MjrW8UKewDHdc9kQ1McG9dq23": true,

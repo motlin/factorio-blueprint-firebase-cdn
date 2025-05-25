@@ -22,15 +22,15 @@
   },
   "lastUpdatedDate": 1605393656111,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "3": "/power/solar/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/",
-    "6": "/mods/ltn/",
-    "7": "/mods/other/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/power/solar/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/ltn/",
+    "/mods/other/"
+  ],
   "title": "Modular Layout Tools"
 }

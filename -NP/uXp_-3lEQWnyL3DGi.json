@@ -22,8 +22,8 @@
   },
   "lastUpdatedDate": 1678166940707,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/production/uranium/"
+  ],
   "title": "Uranium Fuel Processing"
 }

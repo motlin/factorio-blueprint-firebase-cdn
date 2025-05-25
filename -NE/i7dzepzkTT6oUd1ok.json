@@ -20,17 +20,17 @@
   },
   "lastUpdatedDate": 1695138772505,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/train/right-hand-drive/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/space-exploration/",
-    "4": "/production/robots/",
-    "5": "/train/roundabout/",
-    "6": "/train/junction/",
-    "7": "/train/stacker/",
-    "8": "/general/tileable/",
-    "9": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/train/right-hand-drive/",
+    "/general/late game (megabase)/",
+    "/mods/space-exploration/",
+    "/production/robots/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/stacker/",
+    "/general/tileable/",
+    "/general/chunk aligned/"
+  ],
   "title": "Cityblock for lategame SE + K2 Megabase V2.0 Version 1.1.87"
 }

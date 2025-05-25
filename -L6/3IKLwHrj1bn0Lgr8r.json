@@ -51,10 +51,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshotv2.png?alt=media&token=f1b73f4f-c71a-42a8-b1e5-7946e1b2ccf1",
   "lastUpdatedDate": 1519918818082,
   "numberOfFavorites": 69,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Eight Reactor Moderated Plant With Steam Display V2"
 }

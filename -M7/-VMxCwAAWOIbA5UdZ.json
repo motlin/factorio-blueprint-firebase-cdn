@@ -31,13 +31,13 @@
   },
   "lastUpdatedDate": 1589146386683,
   "numberOfFavorites": 15,
-  "tags": {
-    "4": "/power/steam/",
-    "5": "/production/research (labs)/",
-    "0": "/version/0,18/",
-    "1": "/production/science/",
-    "2": "/general/mid game/",
-    "3": "/production/rocket parts/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/production/research (labs)/",
+    "/version/0,18/",
+    "/production/science/",
+    "/general/mid game/",
+    "/production/rocket parts/"
+  ],
   "title": "45 SPM Modular Bus Base"
 }

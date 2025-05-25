@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1672923679696,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/krastorio/",
-    "4": "/mods/factorissimo/",
-    "5": "/mods/other/",
-    "6": "/production/research (labs)/",
-    "7": "/production/rocket parts/",
-    "8": "/power/nuclear/",
-    "9": "/power/steam/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/krastorio/",
+    "/mods/factorissimo/",
+    "/mods/other/",
+    "/production/research (labs)/",
+    "/production/rocket parts/",
+    "/power/nuclear/",
+    "/power/steam/"
+  ],
   "title": "Adandobed rail base repaired (with many mods)"
 }

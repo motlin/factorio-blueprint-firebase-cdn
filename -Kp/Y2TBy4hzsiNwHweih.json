@@ -12,11 +12,11 @@
   "createdDate": 1500605440973,
   "fileName": "Solar panel 0.15.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Solar%20panel%200.15.png?alt=media&token=36d609f3-e3c5-4179-94cb-076c342b57ae",
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "fTri0eOl7BPH7XJKidvsRh5ocmE3"
   },

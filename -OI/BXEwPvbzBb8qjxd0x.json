@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/UWD2Vsa",
   "lastUpdatedDate": 1738598318018,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Basic Atomic power plant ",
   "favorites": {
     "Pvfvl23qUId68UEiepqyK8Gl6OD2": true,

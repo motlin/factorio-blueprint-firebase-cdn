@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/p7pA4c2",
   "lastUpdatedDate": 1727377830529,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/belt based/"
+  ],
   "title": "Cactus's Early Game Mall",
   "favorites": {
     "kRsw8FrYnQXEMM7jKWeUtTDPC9y1": true,

@@ -26,14 +26,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/big-smelting.png?alt=media&token=a3d2d916-c5f9-4de6-855b-c0121c2415ea",
   "lastUpdatedDate": 1642333313962,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/smelting/",
-    "3": "/version/1,0/",
-    "4": "/mods/vanilla/",
-    "5": "/general/compact/",
-    "6": "/general/beaconized/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/general/beaconized/"
+  ],
   "title": "Compact Big Smelting - 2x prod 3 / speed 3 modules, 15 lines in, 18 lines out, compressed, full throughput"
 }

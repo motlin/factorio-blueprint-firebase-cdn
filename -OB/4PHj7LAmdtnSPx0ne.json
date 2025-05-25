@@ -65,10 +65,10 @@
   "imageUrl": "https://imgur.com/WBM4TVc",
   "lastUpdatedDate": 1730962902477,
   "numberOfFavorites": 33,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/space-age/"
+  ],
   "title": "Space Age Rocket Factory"
 }

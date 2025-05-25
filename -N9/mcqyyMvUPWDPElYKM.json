@@ -17,11 +17,11 @@
   },
   "lastUpdatedDate": 1734465596916,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/version/1,1/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/version/1,1/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "The modular train stops of my Alternative 1.1 City Blocks"
 }

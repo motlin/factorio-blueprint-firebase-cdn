@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1581297071687,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/"
+  ],
   "title": "STACK INSERTER FACTORY"
 }

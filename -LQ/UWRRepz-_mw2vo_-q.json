@@ -97,12 +97,12 @@
   },
   "lastUpdatedDate": 1570339408736,
   "numberOfFavorites": 75,
-  "tags": {
-    "3": "/general/mid game/",
-    "4": "/version/0,17/",
-    "0": "/general/early game/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/beaconized/",
+    "/general/compact/"
+  ],
   "title": "[Starter Base]"
 }

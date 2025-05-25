@@ -22,10 +22,10 @@
   "imageUrl": "https://imgur.com/RFVLW3c",
   "lastUpdatedDate": 1732521870861,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Space Platform -- Destroyer Mk. !"
 }

@@ -12,10 +12,10 @@
   },
   "lastUpdatedDate": 1600328810118,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "title": "Miner: minimal 2x5 red",
   "favorites": {
     "VvZBf38pRHhEIc6buzjNS88fVor1": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GErFCjq",
   "lastUpdatedDate": 1730059333647,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Система расчёта топлива для двигателей",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

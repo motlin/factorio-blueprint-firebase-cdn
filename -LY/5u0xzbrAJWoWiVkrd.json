@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 19,
-  "tags": {
-    "1": "/general/early game/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "rvoozEFgDzeJSf0bDfImhchqav82"
   },

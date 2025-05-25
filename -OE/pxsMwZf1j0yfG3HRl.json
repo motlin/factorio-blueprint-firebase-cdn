@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/bhkJWBd",
   "lastUpdatedDate": 1734999637449,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-age/"
+  ],
   "title": "Compact, self-starting, belt-fed, perfect ratio, fuel-cell conserving 4x nuclear reactor with solar powered inserters ",
   "favorites": {
     "r4JBGHYHAmUwVUvEojYmpIQNwfk2": true,

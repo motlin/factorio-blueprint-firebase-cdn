@@ -8,10 +8,10 @@
     "type": "image/jpeg",
     "width": 717
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/inserters/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/inserters/"
+  ],
   "title": "Basic production 1",
   "author": {
     "userId": "4G8WCdj7UKXy1LZaYBlbaDKXxcG3"

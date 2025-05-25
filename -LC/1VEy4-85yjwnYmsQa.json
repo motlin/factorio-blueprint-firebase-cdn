@@ -15,12 +15,12 @@
   "descriptionMarkdown": "Red Science&Green Science:920/m\n\nGrey Science:1400/m\n\nBlue Science:580/m\n\nPurple Science:660/m\n\nYellow Science:920/m",
   "lastUpdatedDate": 1554825007291,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "SPbook/endgame",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20190409233506_1.jpg?alt=media&token=f309a192-de2d-4ba3-a606-96dfb6b7e2f5",
   "favorites": {

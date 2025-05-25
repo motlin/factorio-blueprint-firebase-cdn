@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/vdBiaBP",
   "lastUpdatedDate": 1732132179212,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/mods/space-age/",
-    "2": "/planets/gleba/",
-    "3": "/general/compact/",
-    "4": "/production/inserters/",
-    "5": "/version/2,0/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/general/compact/",
+    "/production/inserters/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Yumako Processing (Blue/Red Belt & Bulk Inserter)",
   "favorites": {
     "t5DQeUThtHb8wwBu7ul2erlBNDw2": true,

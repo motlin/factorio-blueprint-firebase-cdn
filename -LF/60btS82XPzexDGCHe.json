@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1558117253477,
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/train/pax/",
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/track/"
+  ],
   "title": "Cityblock K v0.5"
 }

@@ -9,12 +9,12 @@
     "width": 1476
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/",
-    "3": "/version/0,17/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,17/",
+    "/train/junction/"
+  ],
   "title": "LTN Bus Block ",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

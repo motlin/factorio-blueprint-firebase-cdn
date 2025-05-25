@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1553803962481,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/mall (make everything)/",
+    "/production/smelting/"
+  ],
   "title": "Loki's Anti-Bus Expanded Mall (Early Game)"
 }

@@ -3,11 +3,11 @@
   "createdDate": 1505437676066,
   "fileName": "piercing ammo mini-factory.png",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Piercing Ammo Mini-Factory",
   "author": {
     "userId": "ph4JlG6OsfRNpmM5cltLnjx8oWg2"

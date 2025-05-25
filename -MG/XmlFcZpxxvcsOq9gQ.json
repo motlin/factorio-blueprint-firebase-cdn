@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1628376339654,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Nuclear reactor 2х2",
   "favorites": {
     "nFltFYTexeVzL1sVtRML0hrzrii1": true

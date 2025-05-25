@@ -20,8 +20,8 @@
   },
   "lastUpdatedDate": 1666385514068,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Vanilla Nuclear Reactor"
 }

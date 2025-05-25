@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1674328010428,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Landfill robot production",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Landfill.png?alt=media&token=f634fe43-793c-4b48-8b9c-8b6149bdd4dd"
 }

@@ -94,17 +94,17 @@
   },
   "lastUpdatedDate": 1695931035530,
   "numberOfFavorites": 40,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/other/",
-    "2": "/general/beaconized/",
-    "3": "/power/nuclear/",
-    "4": "/production/rocket parts/",
-    "5": "/version/1,0/",
-    "6": "/production/mall (make everything)/",
-    "7": "/production/science/",
-    "8": "/general/tileable/",
-    "9": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/other/",
+    "/general/beaconized/",
+    "/power/nuclear/",
+    "/production/rocket parts/",
+    "/version/1,0/",
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/general/tileable/",
+    "/mods/space-exploration/"
+  ],
   "title": "Paul's Complete Space Exploration Compendium"
 }

@@ -31,10 +31,10 @@
   },
   "lastUpdatedDate": 1599062685901,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/guns and ammo/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/guns and ammo/",
+    "/general/beaconized/"
+  ],
   "authorId": "aWll9Y9cTyWZx7KCVkFcCsJr0442"
 }

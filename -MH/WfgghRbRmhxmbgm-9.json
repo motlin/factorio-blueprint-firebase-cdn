@@ -11,12 +11,12 @@
   "lastUpdatedDate": 1600440421312,
   "createdDate": 1600440421312,
   "fileName": "rocket_fuel_tileable.png",
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/rocket parts/"
+  ],
   "favorites": {
     "WqSdkhME7GbpgB2ETn8Hiu2XWgA3": true,
     "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,

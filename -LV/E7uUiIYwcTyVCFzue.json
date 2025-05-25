@@ -8,11 +8,11 @@
   },
   "lastUpdatedDate": 1598010558515,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/version/1,0/"
+  ],
   "title": "Green Electronic Circuit Modul (15/s)",
   "favorites": {
     "WqSdkhME7GbpgB2ETn8Hiu2XWgA3": true,

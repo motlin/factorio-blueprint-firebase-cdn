@@ -10,11 +10,11 @@
   "fileName": "Screenshot from 2020-10-07 12-27-01.png",
   "lastUpdatedDate": 1626827017878,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "iXibbyIgALRExemVr7kcBn2kXfZ2"
   },

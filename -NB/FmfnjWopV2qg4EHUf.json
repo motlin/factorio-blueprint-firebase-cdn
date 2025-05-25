@@ -27,11 +27,11 @@
   },
   "lastUpdatedDate": 1677797361287,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/",
-    "2": "/power/nuclear/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "6.2 GW SMART 40 REACTOR BLUEPRINT"
 }

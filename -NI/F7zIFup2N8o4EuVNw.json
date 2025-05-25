@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698419441992,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Blueprint for research vessel (astronomical sciences 4) vers. 1.0",
   "favorites": {
     "s5PnC1JZNeZDWP8YctgHkC44xBA3": true,

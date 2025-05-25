@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/MNxFLD7",
   "lastUpdatedDate": 1735740052926,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "SPS1-B Orbital Science Pack Factory"
 }

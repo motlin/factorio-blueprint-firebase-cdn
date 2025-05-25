@@ -14,12 +14,12 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1545315728461,
-  "tags": {
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/crossing/",
-    "0": "/mods/creative/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/mods/creative/"
+  ],
   "author": {
     "userId": "uA3O8nH0D7dkCI6cXFpbhEnpMAV2"
   },

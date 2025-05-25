@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "# Fixed Red Steel production from 0.16 blueprint books\n\nFixed an error in [Dimava's Blueprints](https://factorioprints.com/view/-L2qFIcPCxwT94tG3bu0 ) book to fix fuel flow to steel furnaces.",
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,16/"
+  ],
   "title": "Basic 0.16 Smelting - Red Steel",
   "favorites": {
     "tV8oQcOxPWMZHnvmgyEnAUxFcvY2": true,

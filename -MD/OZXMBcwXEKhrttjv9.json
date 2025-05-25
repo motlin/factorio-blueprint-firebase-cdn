@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1625002918570,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Components for spaceships",
   "favorites": {
     "yuOBtFcr0KXhOuQnIjjOzWsL6eP2": true,

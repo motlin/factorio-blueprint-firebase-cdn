@@ -10,11 +10,11 @@
   "descriptionMarkdown": "Intended for multiple blueprints to be used in succession to expand quickly and easily after different science levels have been reached.\n\nLevel 1: Can be used as soon as automation has been researched (just make red science by hand before that). Then research all red science only things before proceeding to level 2.\n\n",
   "fileName": "Blueprinzzzctt.png",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/version/0,17/"
+  ],
   "image": {
     "id": "HCeKcVG",
     "type": "image/jpeg",

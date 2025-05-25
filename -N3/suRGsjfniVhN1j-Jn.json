@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1654517253454,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/other/"
+  ],
   "title": "Set requests ship example",
   "favorites": {
     "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,

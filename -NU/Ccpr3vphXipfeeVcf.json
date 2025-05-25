@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1682782248982,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Simple oil processing",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

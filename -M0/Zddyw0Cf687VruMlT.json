@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/research (labs)/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/version/0,18/"
+  ],
   "author": {
     "userId": "sLrdkEHOJ4hZEMRkGNC1o5w3Ta63"
   },

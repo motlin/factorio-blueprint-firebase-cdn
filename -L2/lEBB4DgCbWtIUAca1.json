@@ -8,12 +8,12 @@
     "width": 640
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "2": "/version/0,16/",
-    "3": "/power/accumulator/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Accumulator charge by Metames",
   "author": {
     "userId": "3vYT0t6ACxYBjlO4R1OZbeIlZ312"

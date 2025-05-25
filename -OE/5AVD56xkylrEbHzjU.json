@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/HVcQnb2",
   "lastUpdatedDate": 1734196724806,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/belt/balancer/"
+  ],
   "title": "8 Lane compressor + quality (Ores)",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

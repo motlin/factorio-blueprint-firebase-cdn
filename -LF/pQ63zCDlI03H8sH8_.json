@@ -627,15 +627,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4%20lane%20tracks%20header.jpg?alt=media&token=1dcb1765-b4f4-46c5-9e18-1e27f868dafa",
   "lastUpdatedDate": 1733756547195,
   "numberOfFavorites": 541,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/mods/vanilla/",
-    "2": "/train/crossing/",
-    "3": "/train/junction/",
-    "4": "/train/roundabout/",
-    "5": "/train/track/",
-    "6": "/version/1,0/",
-    "7": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/version/1,0/",
+    "/general/chunk aligned/"
+  ],
   "title": "ElderAxe's 4 Lane Chunk Snapped RHT Tracks (v6.0.2)"
 }

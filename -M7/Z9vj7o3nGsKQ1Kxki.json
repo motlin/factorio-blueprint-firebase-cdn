@@ -25,10 +25,10 @@
   },
   "lastUpdatedDate": 1589744745810,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/science/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/science/",
+    "/production/belt based/"
+  ],
   "title": "1 Science/s Module"
 }

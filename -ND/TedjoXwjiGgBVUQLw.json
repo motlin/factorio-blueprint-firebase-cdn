@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1693805354033,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/mid game/"
+  ],
   "title": "BOT-FED Artillery Shells"
 }

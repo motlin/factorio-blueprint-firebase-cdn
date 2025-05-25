@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CeG8IL9",
   "lastUpdatedDate": 1742214823772,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Science ship",
   "favorites": {
     "ho8nC1GS9GRfovEj8fAXk42egor2": true,

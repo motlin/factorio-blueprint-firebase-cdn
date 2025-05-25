@@ -22,8 +22,8 @@
   },
   "lastUpdatedDate": 1676248432016,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/pax/"
-  },
+  "tags": [
+    "/train/pax/"
+  ],
   "title": "Service V7 - Construction Train System"
 }

@@ -13,12 +13,12 @@
     "ExFWyyZlosc81thIiDdqtmp7nht2": true
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/version/0,17/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "mXD5fuRsoFdToqu5vUwSaY5Gl273"
   },

@@ -16,12 +16,12 @@
     "width": 557
   },
   "lastUpdatedDate": 1544026831698,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/",
-    "2": "/production/mining/",
-    "3": "/circuit/indicator/",
-    "4": "/belt/fast transport belt (red)/",
-    "5": "/general/compact/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/production/mining/",
+    "/circuit/indicator/",
+    "/belt/fast transport belt (red)/",
+    "/general/compact/"
+  ]
 }

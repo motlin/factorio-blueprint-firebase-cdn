@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1620329301838,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "High throughput two-way crossing",
   "favorites": {
     "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true,

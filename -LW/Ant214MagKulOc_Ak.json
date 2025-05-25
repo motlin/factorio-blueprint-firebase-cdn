@@ -8,10 +8,10 @@
   "descriptionMarkdown": "It took way longer to make this than I expected, so I wanted to upload the blueprint to save anyone else time who just wants a simple sound effect to notify them of things that isn't one single tone\n\n**INSTRUCTIONS**\nHook a green wire to the \"R E S E T\" combinator and have whatever your trigger is emit a red signal of 1\n\n*Jingle source*: https://www.sounds-resource.com/nes/legendofzelda/sound/4590/ (file #21)\n\n*Jingle Sample*: https://vocaroo.com/i/s02cFBApZvJl\n\n*Blueprint creator program*: http://miditorio.com/ (Rearranged speakers to make more compact)\n\n*Example trigger setup*: https://imgur.com/a/m1lrc49\n\n**[LazyBlueprints]** Not the most efficient or the most elegant, but they get the job done and make the game easier for those of us who are too lazy to make the most efficient factories possible **[/LazyBlueprints]**",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/LoZ%20Jingle.jpg?alt=media&token=325ae421-bd93-4931-b1f6-5d676353df30",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "Speaker - Legend of Zelda \"Solving Secret\" sound [LazyBlueprints]",
   "authorId": "aOO2FL3VxbONK58zCniQ1Susrpu1",
   "createdDate": 1547460120837,

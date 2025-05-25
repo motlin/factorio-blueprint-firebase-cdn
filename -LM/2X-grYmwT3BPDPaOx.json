@@ -29,11 +29,11 @@
   },
   "lastUpdatedDate": 1565574908140,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/rocket parts/",
-    "2": "/production/science/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "1000spm from ore, belt based (v17.64)"
 }

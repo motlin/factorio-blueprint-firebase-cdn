@@ -17,12 +17,12 @@
   "numberOfFavorites": 10,
   "descriptionMarkdown": "To start production, unload 80 units of uranium-235 onto the stell chest.",
   "fileName": "U235.png",
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "3": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/uranium/"
+  ],
   "favorites": {
     "ctldZSfybscJqluGE7XhHOpapXi2": true
   }

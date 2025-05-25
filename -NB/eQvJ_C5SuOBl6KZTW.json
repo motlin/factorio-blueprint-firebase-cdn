@@ -31,13 +31,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-23%20043359.png?alt=media&token=fd6ff837-6ad2-4bd0-a5e7-4e4baac23d9b",
   "lastUpdatedDate": 1698010408096,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/track/",
-    "2": "/train/junction/",
-    "3": "/train/crossing/",
-    "4": "/train/roundabout/",
-    "5": "/general/tileable/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/general/tileable/"
+  ],
   "title": "TileableRailBook[RHD]"
 }

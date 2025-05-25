@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/f3hO9Xm",
   "lastUpdatedDate": 1722467992100,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Industria química Mod exotics"
 }

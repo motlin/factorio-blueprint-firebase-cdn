@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1678907855485,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/solar/",
-    "2": "/power/accumulator/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/solar/",
+    "/power/accumulator/"
+  ],
   "title": "Krastorio Solar",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

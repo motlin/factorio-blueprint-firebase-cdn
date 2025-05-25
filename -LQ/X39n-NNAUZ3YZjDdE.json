@@ -14,9 +14,9 @@
     "userId": "SBRcMvnHDMfu2gGWzAzhJ2Tt3NZ2"
   },
   "authorId": "SBRcMvnHDMfu2gGWzAzhJ2Tt3NZ2",
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "fileName": "2018-11-05_12-07-17.png",
   "lastUpdatedDate": 1541392332553
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/DjLsLM1",
   "lastUpdatedDate": 1731148267981,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus electronic circuit foundry",
   "favorites": {
     "kjnQFEJKRdY8NO0XLpmnJzKljth2": true,

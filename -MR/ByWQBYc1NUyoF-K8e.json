@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Progressive 480 MW 2x2 nuclear plant \"vamp\"",
   "favorites": {
     "PwYHnaRqdbY1CIK5GJINtpWJp5j2": true,

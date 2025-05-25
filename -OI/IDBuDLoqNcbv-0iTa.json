@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/LHt6C3F",
   "lastUpdatedDate": 1738710503251,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/science/"
+  ],
   "title": "Tiny gleba base 60spm early tech",
   "favorites": {
     "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true

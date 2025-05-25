@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1684937625649,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/mods/vanilla/",
-    "2": "/general/storage/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/general/storage/"
+  ],
   "title": "True buffer chest (Combinators)",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

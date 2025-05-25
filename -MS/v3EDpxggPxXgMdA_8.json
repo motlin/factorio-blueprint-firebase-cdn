@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1641668618821,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Sushi \"Autolab\" 1k SPM 6/7",
   "favorites": {
     "0q0ujwCFNpVLhBSOFVdjq4laiyy1": true

@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1704049789186,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,15/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,15/",
+    "/power/nuclear/"
+  ],
   "title": "No Waste Nuclear Reactor"
 }

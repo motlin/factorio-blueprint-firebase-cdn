@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1628241764265,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Demand-Controlled Logistic Bots",
   "favorites": {
     "dMCd9KszuPQfI3MtXLxOYrigkUv1": true,

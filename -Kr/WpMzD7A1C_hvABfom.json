@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/5%20L3%20modules%20per%20minute.PNG?alt=media&token=84b7930b-7538-4ab1-a216-235f6a3f711c",
   "lastUpdatedDate": 1502743127054,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/creative/",
-    "3": "/production/modules/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/mods/creative/",
+    "/production/modules/"
+  ],
   "title": "EXPENSIVE: 5 L3 Modules per minute"
 }

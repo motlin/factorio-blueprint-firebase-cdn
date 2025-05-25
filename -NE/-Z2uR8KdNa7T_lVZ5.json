@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1694374051767,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/"
+  ],
   "title": "33MW AveragePower Tilable Solar",
   "favorites": {
     "FkvQEOh8x2Mq3WnkgeV2RPP3lzs2": true,

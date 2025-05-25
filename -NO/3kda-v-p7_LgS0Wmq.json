@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1705186800570,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/general/compact/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/general/compact/",
+    "/circuit/counter/"
+  ],
   "title": "sience per minute calculator with display to watch from map"
 }

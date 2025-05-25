@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1712789897652,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/power/nuclear/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/power/nuclear/",
+    "/mods/space-exploration/"
+  ],
   "title": "Grid base Space Exploration"
 }

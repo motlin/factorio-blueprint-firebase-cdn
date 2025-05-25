@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1530419002731,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/belt based/"
+  ],
   "title": "productivity gear factories 1-8"
 }

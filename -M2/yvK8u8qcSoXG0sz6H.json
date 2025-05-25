@@ -29,11 +29,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Pharaos%20Perimeter%20Defense.jpg?alt=media&token=84b9ef2c-36f4-410f-b2f9-3e6da435749e",
   "lastUpdatedDate": 1584986561199,
   "numberOfFavorites": 10,
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/version/0,18/",
-    "3": "/general/mid game/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/0,18/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "title": "Pharaos Perimenter Defense /Normal"
 }

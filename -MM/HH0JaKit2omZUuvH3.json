@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1605554707940,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Outer wall single turret-row with belt feeding tileable"
 }

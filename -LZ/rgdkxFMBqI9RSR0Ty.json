@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1580408675829,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "1 belt of Blue Circuit"
 }

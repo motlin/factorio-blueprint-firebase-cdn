@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/PwSWLQr",
   "lastUpdatedDate": 1727006075939,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/compact/"
-  },
+  "tags": [
+    "/general/compact/"
+  ],
   "title": "Factorio 1.3 SPM Benxo Box [No Reactor]",
   "favorites": {
     "3AKMAKG3U1ND4pfdFMRjZYdqV2R2": true,

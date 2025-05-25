@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/yfCRptP",
   "lastUpdatedDate": 1730009980736,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/version/2,0/",
-    "2": "/circuit/indicator/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/version/2,0/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Recycling filter",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true

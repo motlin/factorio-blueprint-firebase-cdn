@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/nDhmudp",
   "lastUpdatedDate": 1741707407312,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Aquilo nuklear space platform",
   "favorites": {
     "K8o6xlCL8RMM1DcXfuNDYl1hVTF3": true,

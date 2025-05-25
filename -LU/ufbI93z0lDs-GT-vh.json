@@ -7,9 +7,9 @@
     "width": 1875
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/"
+  ],
   "authorId": "tqFfDrMkiyOfnoRvwAmuoFcDz4Y2",
   "createdDate": 1546098996590,
   "descriptionMarkdown": "My design of advanced circuit layout.",

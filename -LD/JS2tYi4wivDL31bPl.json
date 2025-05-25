@@ -12,10 +12,10 @@
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/version/0,17/",
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/solar/"
+  ],
   "title": "Solar City - Bazinga Blueprint",
   "author": {
     "userId": "5vIicesU8vPlTOBqxf6Zf5Z0H6a2"

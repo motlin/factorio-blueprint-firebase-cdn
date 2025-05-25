@@ -72,19 +72,19 @@
   "imageUrl": "https://imgur.com/X36Mskz",
   "lastUpdatedDate": 1742244658950,
   "numberOfFavorites": 34,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/planets/vulcanus/",
-    "2": "/mods/space-age/",
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/compact/",
-    "6": "/production/coal liquification/",
-    "7": "/production/electronic circuit (green)/",
-    "8": "/production/advanced circuit (red)/",
-    "9": "/production/processing unit (blue)/",
-    "10": "/production/rocket parts/",
-    "11": "/production/science/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/planets/vulcanus/",
+    "/mods/space-age/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/production/coal liquification/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/production/rocket parts/",
+    "/production/science/"
+  ],
   "title": "Vulcanus MALL 108 items+ from ores (make everything)"
 }

@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1622656237875,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/angels/"
+  ],
   "title": "Furnace Stations with Circuit Nertwork."
 }

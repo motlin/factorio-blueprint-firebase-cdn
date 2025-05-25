@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Faq5qy2",
   "lastUpdatedDate": 1735151830319,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/space-age/",
-    "2": "/planets/vulcanus/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/general/beaconized/"
+  ],
   "title": "Big mining drill 36/Min",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,

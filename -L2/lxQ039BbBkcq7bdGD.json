@@ -26,13 +26,13 @@
   },
   "lastUpdatedDate": 1538398480043,
   "numberOfFavorites": 76,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/beaconized/",
-    "2": "/production/modules/",
-    "3": "/version/0,16/",
-    "4": "/mods/vanilla/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/beaconized/",
+    "/production/modules/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "SK's Belt-Based Mall v4.1 (0.16)"
 }

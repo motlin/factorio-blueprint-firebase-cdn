@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/qJHSzdQ",
   "lastUpdatedDate": 1724228337666,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "2x8 2.4GW Tileable Smart Nuclear Reactor"
 }

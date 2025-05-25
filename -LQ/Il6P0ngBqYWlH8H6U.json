@@ -8,15 +8,15 @@
     "width": 416
   },
   "lastUpdatedDate": 1541195748414,
-  "tags": {
-    "5": "/version/0,15/",
-    "6": "/mods/vanilla/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/storage/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/general/storage/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,16/"
+  ],
   "title": "Fuel Decider",
   "author": {
     "userId": "QIE2KWG9txYWeZcZtcboDUSME8G2"

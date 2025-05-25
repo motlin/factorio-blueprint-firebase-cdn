@@ -1,11 +1,11 @@
 {
   "createdDate": 1543721430065,
   "lastUpdatedDate": 1543721430065,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/indicator/"
+  ],
   "title": "PAL - Power alert system",
   "author": {
     "userId": "CnswHl60Vlh94CWvyvLoqC2f3L73"

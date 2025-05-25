@@ -12,12 +12,12 @@
     "width": 628,
     "height": 633
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "title": "10k Per Minute Green Circuits",
   "author": {
     "userId": "LwASv8Mm0qeOmWYCBBW0MFbw39s2"

@@ -6,14 +6,14 @@
     "type": "image/jpeg",
     "width": 1245
   },
-  "tags": {
-    "5": "/mods/vanilla/",
-    "0": "/version/0,15/",
-    "1": "/version/0,17/",
-    "2": "/version/0,16/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,17/",
+    "/version/0,16/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Train Cargo Load/Unload, Fast Inserter",
   "lastUpdatedDate": 1588239877628,
   "numberOfFavorites": 0,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1706961613905,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "title": "Exotic Industries High Temperature Nuclear Reactor Thorium based 965MW",
   "favorites": {
     "th7yHxlA1IX6FWc8hqeuowFplUq1": true,

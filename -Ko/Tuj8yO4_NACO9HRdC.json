@@ -4,11 +4,11 @@
   "createdDate": 1499462300311,
   "fileName": "All the belts Logistics.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "kHrGgSDUAeZmtssi6nBi1mTGXkA2"
   },

@@ -8,10 +8,10 @@
   "descriptionMarkdown": "Train main bus, kinda shitty but works. Designed for 2-4 trains and wont really work with anything bigger.",
   "fileName": "trainmainbus1.jpg",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Train Main Bus ",
   "author": {
     "userId": "vADKSTvHMfNa7MYCj8z2DSS620Z2"

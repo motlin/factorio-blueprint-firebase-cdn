@@ -11,11 +11,11 @@
   "createdDate": 1503112864917,
   "lastUpdatedDate": 1504701708793,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Oil Processing",
   "author": {
     "userId": "zRU07FA12aXrtp5NYsg2aaLjvao2"

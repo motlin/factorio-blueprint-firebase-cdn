@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "title": "4 Ingredient Factory",
   "createdDate": 1531918118295,
   "lastUpdatedDate": 1531918152569,

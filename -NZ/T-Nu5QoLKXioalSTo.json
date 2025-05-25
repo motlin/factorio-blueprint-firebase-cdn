@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/M0GN8XI",
   "lastUpdatedDate": 1717416595296,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "80MW power w/o filters K2+SE",
   "favorites": {
     "3K52cmQW58M3G4RchACZcLLfG5D2": true

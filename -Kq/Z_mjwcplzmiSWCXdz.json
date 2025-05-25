@@ -10,12 +10,12 @@
   },
   "lastUpdatedDate": 1501758905148,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Bootstrapper Botbased",
   "author": {
     "userId": "RXoIQl9iJPZjS9VEuChvsiqkByS2"

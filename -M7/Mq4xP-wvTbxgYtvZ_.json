@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1589537955811,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/belts/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/belts/",
+    "/production/other/"
+  ],
   "favorites": {
     "PzGzosjPBZSr5GBUGvcfYXvDjjx2": true,
     "6sePdt17UVO6DUD4zz27xe7Imtu1": true,

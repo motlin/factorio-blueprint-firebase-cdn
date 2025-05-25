@@ -16,11 +16,11 @@
   "authorId": "zRU07FA12aXrtp5NYsg2aaLjvao2",
   "fileName": "2017-08-24 20_33_57-Factorio 0.15.33.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-08-24%2020_33_57-Factorio%200.15.33.png?alt=media&token=73d230bd-874c-4cf2-a04f-3c037e0f88dd",
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Loading x12",
   "favorites": {
     "Kn5Hrs6sktOGlADNJHy4wyJnKzX2": true,

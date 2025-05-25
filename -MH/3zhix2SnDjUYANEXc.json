@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1599959202110,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/1,0/"
+  ],
   "title": "Rocket Fuel Factory"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1675185515874,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/chunk aligned/"
+  ],
   "title": "Radar aligned tileable solar power plant"
 }

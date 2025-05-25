@@ -7,9 +7,9 @@
     "type": "image/jpeg",
     "width": 1909
   },
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Ore Indicator",
   "author": {
     "userId": "uup7PnZ6aUS0cnq5FRVwQvUaXBp1"

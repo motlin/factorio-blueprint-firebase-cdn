@@ -16,11 +16,11 @@
   "lastUpdatedDate": 1679139971073,
   "numberOfFavorites": 1,
   "title": "Roundabout 4-lane",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/"
+  ],
   "favorites": {
     "mgraluTq2MX15wqUKCpG1qJLq6v1": true,
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

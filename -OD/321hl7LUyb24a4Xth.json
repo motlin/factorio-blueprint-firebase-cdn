@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ZtheMoh",
   "lastUpdatedDate": 1733087210861,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Livro de Plantas para fabricação de ciências de energia 2, ciências astronômicas 2 e ciências de materiais 2 (Exotics + S.E.)"
 }

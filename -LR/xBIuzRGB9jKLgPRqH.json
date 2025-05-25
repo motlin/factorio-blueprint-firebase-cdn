@@ -239,15 +239,15 @@
   },
   "lastUpdatedDate": 1571910926368,
   "numberOfFavorites": 203,
-  "tags": {
-    "4": "/general/early game/",
-    "5": "/general/mid game/",
-    "6": "/mods/vanilla/",
-    "7": "/version/0,17/",
-    "0": "/production/mall (make everything)/",
-    "1": "/power/steam/",
-    "2": "/production/science/",
-    "3": "/belt/tap/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/power/steam/",
+    "/production/science/",
+    "/belt/tap/"
+  ],
   "title": "Nilaus' Base-in-a-Book complete 0.17"
 }

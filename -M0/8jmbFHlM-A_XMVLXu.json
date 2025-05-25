@@ -20,13 +20,13 @@
   "descriptionMarkdown": "Red Circuit 5600/min.",
   "fileName": "Red Circuit 5600min.PNG",
   "lastUpdatedDate": 1581785230093,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Red Circuit 5600/min"
 }

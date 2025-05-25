@@ -28,13 +28,13 @@
   "createdDate": 1586943394550,
   "fileName": "ImersiteArray.jpg",
   "numberOfFavorites": 13,
-  "tags": {
-    "4": "/general/mid game/",
-    "0": "/general/beaconized/",
-    "1": "/mods/krastorio/",
-    "2": "/version/0,18/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/beaconized/",
+    "/mods/krastorio/",
+    "/version/0,18/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "pDED5f33sYbvGUo95pcdFtfaFZB2"
   },

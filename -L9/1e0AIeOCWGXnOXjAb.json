@@ -9,12 +9,12 @@
     "type": "image/jpeg",
     "width": 2560
   },
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "0": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Red Circuit Tile",
   "author": {
     "userId": "o1Kbb9mx44Yqi8Rr0apCAScLiy52"

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1704142967301,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio Tileable Solar",
   "favorites": {
     "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,

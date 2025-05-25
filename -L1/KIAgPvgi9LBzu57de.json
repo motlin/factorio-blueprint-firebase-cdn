@@ -16,9 +16,9 @@
     "width": 356
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "favorites": {
     "3W81lziJULPXcOPam3x4pANeE7g2": true
   }

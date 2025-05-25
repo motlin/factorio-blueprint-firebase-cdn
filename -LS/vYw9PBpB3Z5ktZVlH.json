@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1543966278495,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/version/0,16/"
+  ],
   "title": "R_LHD_4___"
 }

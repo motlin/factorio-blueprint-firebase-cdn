@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1522822818782,
   "numberOfFavorites": 36,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/roundabout/"
+  ],
   "title": "City Block Main Line"
 }

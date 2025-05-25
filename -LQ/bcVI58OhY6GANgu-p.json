@@ -12,10 +12,10 @@
     "width": 430
   },
   "lastUpdatedDate": 1549393347742,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/crossing/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/crossing/"
+  ],
   "favorites": {
     "fh90LLkQFFXJy5axEEQAS9SKI4D2": true,
     "TQzzS7oAVWSbL2WKSv6mx4ASY6Y2": true,

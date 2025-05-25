@@ -4,11 +4,11 @@
   "descriptionMarkdown": "Makes Black Science with technology available before black science.\n\nNote: doesn't make 75 SPM until later in the game when you upgrade factories to yellow. Part of the 75 SPM starter base blueprint book",
   "fileName": "Screen Shot 2020-10-17 at 8.51.00 AM.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "NkfW5zgDrLXdxtjiRehrb6ahaHI2": true,
     "yByMPBQnUFa8aWvbMCJHdLBMWnF2": true,

@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/other/"
+  ],
   "title": "Belt Throughput Meter",
   "author": {
     "userId": "kwnerD1t7BUjTYCaWHPNBTZVCUw2"

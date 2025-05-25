@@ -28,13 +28,13 @@
   },
   "lastUpdatedDate": 1555941300555,
   "numberOfFavorites": 11,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/",
-    "5": "/train/right-hand-drive/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/train/right-hand-drive/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Blue Circuit factory (650/min, late game, train based)"
 }

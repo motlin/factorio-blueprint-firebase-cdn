@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1637965154494,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/general/tileable/"
+  ],
   "title": "Tileable 1:1 Lane Balancer",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

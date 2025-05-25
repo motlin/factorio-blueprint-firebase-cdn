@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/GRDGRuI",
   "lastUpdatedDate": 1738959999211,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/tileable/"
+  ],
   "title": "Red Circuits (Tileable)",
   "favorites": {
     "FAsHf5nvOohInoSWoCWelCFh6vR2": true,

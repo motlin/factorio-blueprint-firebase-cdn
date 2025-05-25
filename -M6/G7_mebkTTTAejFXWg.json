@@ -12,10 +12,10 @@
   "descriptionMarkdown": "2x4 Nuclear Setup",
   "fileName": "Elec network.PNG",
   "lastUpdatedDate": 1588351736656,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2x4 Nuclear Setup",
   "author": {
     "userId": "N3TRVzitrWbY8MOVLLzonHnR39P2"

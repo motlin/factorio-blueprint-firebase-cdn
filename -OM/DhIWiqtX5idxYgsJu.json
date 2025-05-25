@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Wy3aSGQ",
   "lastUpdatedDate": 1742929738031,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "title": "Usina Nuclear",
   "favorites": {
     "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/GXEOK2n",
   "lastUpdatedDate": 1724605893264,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Processamento de uranio (S.E. + Exotics)"
 }

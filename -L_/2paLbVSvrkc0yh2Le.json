@@ -14,12 +14,12 @@
   },
   "lastUpdatedDate": 1562658238508,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "0": "/production/smelting/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/smelting/",
+    "/version/0,15/"
+  ],
   "title": "Schmelze Stahl",
   "author": {
     "userId": "Zr3IVO1FiRVkQ2kmf0zM21QEE323"

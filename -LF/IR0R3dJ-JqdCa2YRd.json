@@ -4,13 +4,13 @@
   "descriptionMarkdown": "Plastic bars 2700 per min.",
   "fileName": "Plastic bar.jpg",
   "lastUpdatedDate": 1558325499813,
-  "tags": {
-    "3": "/version/0,17/",
-    "4": "/general/compact/",
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/compact/",
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "oFqnuTnk6YNTjcCvbFz7c23IYKs2"
   },

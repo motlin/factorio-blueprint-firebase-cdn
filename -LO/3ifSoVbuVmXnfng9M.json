@@ -8,13 +8,13 @@
     "height": 460
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/mods/other/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/mods/other/",
+    "/version/0,17/"
+  ],
   "title": "Advanced Circuits - One Blue Belt Output - Beaconized",
   "author": {
     "userId": "HkzebCTMl1TrPh4BYq99TL1uawv2"

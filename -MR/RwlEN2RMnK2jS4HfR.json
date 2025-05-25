@@ -19,7 +19,7 @@
     "width": 456
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/"
-  }
+  "tags": [
+    "/production/other/"
+  ]
 }

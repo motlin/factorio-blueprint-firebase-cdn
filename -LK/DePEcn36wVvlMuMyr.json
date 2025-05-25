@@ -16,10 +16,10 @@
     "width": 1920
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "3": "/general/tileable/",
-    "0": "/mods/bobs/",
-    "1": "/production/science/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/general/tileable/",
+    "/mods/bobs/",
+    "/production/science/",
+    "/version/0,15/"
+  ]
 }

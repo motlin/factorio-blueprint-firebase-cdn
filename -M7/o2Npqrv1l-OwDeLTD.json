@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1590011205937,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/beaconized/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/production/science/"
+  ],
   "title": "Factorio 600 SPM Assemblies (beaconed, belt-only)"
 }

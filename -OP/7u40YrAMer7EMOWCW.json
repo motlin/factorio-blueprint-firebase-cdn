@@ -17,11 +17,11 @@
   "imageUrl": "https://imgur.com/2b1wBZ2",
   "lastUpdatedDate": 1746053648639,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/science/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/science/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Max Rate Promethium Ship by Quku"
 }

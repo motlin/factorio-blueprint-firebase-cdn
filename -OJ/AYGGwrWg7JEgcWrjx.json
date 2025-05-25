@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/kNI9QcB",
   "lastUpdatedDate": 1739655550179,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus first Foundry (without a foundry)",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

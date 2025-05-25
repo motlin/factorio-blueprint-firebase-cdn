@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/B2IBt86",
   "lastUpdatedDate": 1738317230217,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/power/solar/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/power/solar/",
+    "/general/compact/"
+  ],
   "title": "Compact Solar Aquilo Ship",
   "favorites": {
     "VPHmov95BDgeNTAtruq8HUqHP9H2": true,

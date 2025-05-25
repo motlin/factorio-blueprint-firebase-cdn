@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1693314484110,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Early-mid Game Copper cable production",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,

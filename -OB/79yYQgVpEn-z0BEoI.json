@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/paRZ4cl",
   "lastUpdatedDate": 1731008915828,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/fulgora/",
-    "2": "/planets/gleba/",
-    "3": "/planets/nauvis/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/fulgora/",
+    "/planets/gleba/",
+    "/planets/nauvis/"
+  ],
   "title": "Sprinter - Cargo-Ship for Nauvis - Vulcanus - Gleba - Fulgora",
   "favorites": {
     "KTGk9F4NRXaPJWgC6HjvLVR6uuQ2": true,

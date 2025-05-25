@@ -44,12 +44,12 @@
   "imageUrl": "https://imgur.com/uyfPXTF",
   "lastUpdatedDate": 1729627635215,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/power/steam/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/power/steam/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Autonomous 4-science compact base"
 }

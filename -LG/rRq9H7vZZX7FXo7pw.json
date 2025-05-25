@@ -10,10 +10,10 @@
     "type": "image/png"
   },
   "title": "Compact Kovarex 40 U-235 only",
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/compact/"
+  ],
   "favorites": {
     "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
     "mRvuLMIjU1N2W08lF6Qkadh6Wc92": true

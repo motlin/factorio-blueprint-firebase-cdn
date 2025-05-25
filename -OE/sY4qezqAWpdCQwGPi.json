@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/HWTK9iT",
   "lastUpdatedDate": 1735041768977,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "D latch with enable circuit",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

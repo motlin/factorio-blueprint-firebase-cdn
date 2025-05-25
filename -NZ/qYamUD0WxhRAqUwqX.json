@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1688837451508,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/smelting/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/production/advanced circuit (red)/",
+    "/production/electronic circuit (green)/",
+    "/production/smelting/"
+  ],
   "title": "RC Outpost"
 }

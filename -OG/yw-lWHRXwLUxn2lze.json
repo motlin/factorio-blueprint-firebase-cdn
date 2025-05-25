@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/4uySsi3",
   "lastUpdatedDate": 1737296498660,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Steam Turbines 20/min",
   "favorites": {
     "VIYWnIMDCzLGXclprg4WlIcWhBI2": true

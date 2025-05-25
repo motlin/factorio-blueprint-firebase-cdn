@@ -15,9 +15,9 @@
     "type": "image/jpeg",
     "width": 935
   },
-  "tags": {
-    "0": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/production/guns and ammo/"
+  ],
   "title": "Ammo Foundry",
   "favorites": {
     "7cbaZC0zCFOhWYCpU5ephyALu6E2": true

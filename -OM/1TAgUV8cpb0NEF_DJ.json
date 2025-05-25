@@ -21,9 +21,9 @@
   "imageUrl": "https://imgur.com/aioOwDl",
   "lastUpdatedDate": 1742724448537,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Colossus V2.2"
 }

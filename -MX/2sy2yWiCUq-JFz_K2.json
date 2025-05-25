@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1617120452995,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Item Counter / Clock with Display",
   "favorites": {
     "rbWHB8UrYZf1YPo14F5Ng7ukNiE2": true

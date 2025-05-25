@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "4": "/mods/warehousing/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/warehousing/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/angels/",
+    "/mods/bobs/"
+  ],
   "authorId": "3frZ7E3xTGUVvgPvC98cB14rYQo1",
   "descriptionMarkdown": "Few different LTN stations i use in my city block playthrough with bob and angels.\n\nContains the following stations:\n\nLTN Load with normal warehouse.\nLTN Load with requester warehouse.\nLTN Unload with normal warehouse.\nLTN Unload with storage warehouse.\n",
   "fileName": "LTN Stations.png",

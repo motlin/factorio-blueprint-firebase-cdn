@@ -33,15 +33,15 @@
   },
   "lastUpdatedDate": 1575749044249,
   "numberOfFavorites": 15,
-  "tags": {
-    "4": "/production/electronic circuit (green)/",
-    "5": "/production/advanced circuit (red)/",
-    "6": "/production/processing unit (blue)/",
-    "7": "/production/rocket parts/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/train/left-hand-drive/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/production/rocket parts/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/train/left-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "1K SPM Electronics FAB"
 }

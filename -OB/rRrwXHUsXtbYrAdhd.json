@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/QZvEBMs",
   "lastUpdatedDate": 1731802136506,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/factorissimo/"
+  ],
   "title": "renew: sushi mall setup",
   "favorites": {
     "P4FA4WPkOAhtFGJWCSkcqVPXb1y2": true

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Jm4QfUE",
   "lastUpdatedDate": 1717386643835,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "simple red & green pack",
   "favorites": {
     "ZZDeXuKytzZe71SNZ9qb5aA55yq2": true,

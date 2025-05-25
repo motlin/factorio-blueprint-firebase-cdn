@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/1Lr5hTc",
   "lastUpdatedDate": 1745855294016,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/planets/fulgora/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/planets/fulgora/",
+    "/mods/quality/"
+  ],
   "title": "Legendary Accumulators"
 }

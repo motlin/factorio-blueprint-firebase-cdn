@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CfWwwN8",
   "lastUpdatedDate": 1731013749725,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Copper bacteria",
   "favorites": {
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,

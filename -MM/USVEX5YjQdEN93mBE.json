@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1634762884521,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/mall (make everything)/",
+    "/mods/krastorio/"
+  ],
   "title": "Mall Krastorio 2",
   "favorites": {
     "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,

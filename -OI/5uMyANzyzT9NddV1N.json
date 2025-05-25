@@ -19,9 +19,9 @@
   "imageUrl": "https://i.imgur.com/aqsfkVe.png",
   "lastUpdatedDate": 1738504466608,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "D.J Danka (spaceship, end game, 390 km/s max speed) all planet, and the destroyed planet"
 }

@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1528655180995,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/stacker/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/"
+  ],
   "title": "Old Oak's early logistic train service"
 }

@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1565004918915,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Modules from Plates"
 }

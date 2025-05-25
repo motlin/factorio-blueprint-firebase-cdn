@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1657214822700,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Miners+Smelters"
 }

@@ -6,11 +6,11 @@
     "width": 151
   },
   "lastUpdatedDate": 1615404184610,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/belt/transport belt (yellow)/"
+  ],
   "author": {
     "userId": "CQNPfpeOq9RPqunGUNIMBi3XdRI2"
   },

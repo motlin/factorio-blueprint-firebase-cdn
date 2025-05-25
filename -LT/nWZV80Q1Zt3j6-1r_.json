@@ -11,13 +11,13 @@
   },
   "descriptionMarkdown": "• Easily tileable. Just align the splitters and shift+click.\n\n• Input: 1 red belt of copper plates + 1 red belt of green circuits + 1 red belt of plastics.\n\n• Output per block: 90 red Circuits/min\n\n• Max output (need 9 blocks): 800 red circuits/min (full yellow belt or half red belt).\n",
   "lastUpdatedDate": 1544905181493,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/advanced circuit (red)/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "8v7NYQlRARPkI4QCk84HBkScqgC2": true,
     "R5Hn9Fgr7vY868nHo3Lw0uIB8LZ2": true,

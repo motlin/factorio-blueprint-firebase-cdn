@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1679669695924,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/general/ups friendly/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/general/ups friendly/"
+  ],
   "title": "Plastik 55000 / Min"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/icqUr56",
   "lastUpdatedDate": 1739215306502,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/",
-    "2": "/production/science/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/production/science/",
+    "/general/late game (megabase)/"
+  ],
   "title": "2940 Argicultural science pack / Minute",
   "favorites": {
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,

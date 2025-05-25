@@ -17,9 +17,9 @@
     "width": 1613
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/expensive%20blue%20science%20book2.PNG?alt=media&token=8fc433b6-7721-41b3-89be-602f6e8fcb4d",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  }
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ]
 }

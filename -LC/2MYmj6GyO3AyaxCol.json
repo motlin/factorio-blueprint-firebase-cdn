@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "1": "/production/advanced circuit (red)/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/version/0,17/"
+  ],
   "title": "Advanced Circuit Stackable ",
   "favorites": {
     "Yb6ajexsN1a2AbA3EYBaWLgULjH2": true,

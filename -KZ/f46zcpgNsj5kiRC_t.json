@@ -8,12 +8,12 @@
     "width": 770
   },
   "title": "Balanced Buffer Loading Station",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/loading station/",
-    "3": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/left-hand-drive/"
+  ],
   "author": {
     "userId": "rmtaI5JcXqhlpzIa7fHn4ZLwkou1"
   },

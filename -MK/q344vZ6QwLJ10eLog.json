@@ -6,10 +6,10 @@
   "descriptionMarkdown": "Space Exploration Rocket Loader",
   "lastUpdatedDate": 1673052225527,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "author": {
     "userId": "tpNaK2TqWObcGmTwoojy4ufinH23"
   },

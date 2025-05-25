@@ -25,11 +25,11 @@
   },
   "lastUpdatedDate": 1615247385109,
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/general/late game (megabase)/",
-    "3": "/version/1,0/",
-    "0": "/general/early game/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/production/science/"
+  ],
   "title": "Lex Early Base (Science Pack 1 to 4 - 1un/s ratio)"
 }

@@ -19,17 +19,17 @@
   },
   "lastUpdatedDate": 1579553358334,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "8": "/production/batteries/",
-    "6": "/power/kovarex enrichment/",
-    "7": "/production/uranium/",
-    "9": "/version/0,17/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "3": "/general/tileable/",
-    "4": "/train/right-hand-drive/",
-    "5": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/batteries/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/version/0,17/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/train/right-hand-drive/",
+    "/general/late game (megabase)/"
+  ],
   "title": "P. Units, Batteries, N. Fuel Facility for 2.7k SPM"
 }

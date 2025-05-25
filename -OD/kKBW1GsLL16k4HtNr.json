@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/B87pMlH",
   "lastUpdatedDate": 1733830166841,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "Space science pack",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,

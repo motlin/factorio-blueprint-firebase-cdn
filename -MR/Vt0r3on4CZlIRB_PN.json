@@ -15,9 +15,9 @@
   "descriptionMarkdown": "Takes in green circuits, iron gear wheels, and iron plates to make approximately equal amounts of yellow, red, and blue inserters",
   "fileName": "jmsghst.PNG",
   "lastUpdatedDate": 1611164556784,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/"
+  ],
   "title": "assembler mini factory"
 }

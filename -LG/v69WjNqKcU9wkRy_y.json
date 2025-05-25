@@ -15,11 +15,11 @@
   "descriptionMarkdown": "Bulk remote solar deployment book.\n\nAdvantages over traditional Solar stamps, you don't have to be on site to place the stamps, can easily rip out the radar and/or roboports from radar view, plugs into a standard right hand drive rail system.\n\nDisadvantages it's about 0.7% less space efficient when compared to traditional Checkerboard designs.\n\nhttps://imgur.com/gallery/XyUcRC7",
   "fileName": "ASolarGif5.jpg",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Bulk remote solar deployment book.",
   "favorites": {
     "cRIBywe3TtgHMg6pVXGPdIbAJ253": true

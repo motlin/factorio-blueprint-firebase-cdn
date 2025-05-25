@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/EtAq6OV",
   "lastUpdatedDate": 1733594576227,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/version/2,0/"
+  ],
   "title": "Aquillo express"
 }

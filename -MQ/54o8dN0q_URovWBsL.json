@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1642179387949,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Plantas diversas para episódio 26 da serie de Factorio com exploração espacial. Ver. 2.0"
 }

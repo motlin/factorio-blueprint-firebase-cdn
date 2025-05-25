@@ -17,12 +17,12 @@
   },
   "lastUpdatedDate": 1559081170533,
   "title": "Kovarex Enrichment Auto",
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "5": "/production/inserters/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/production/inserters/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

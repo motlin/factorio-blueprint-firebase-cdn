@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1644670201871,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "3.68GW 24 Cell Smart Nuclear Reactor (2 grid) with Dedicated APU"
 }

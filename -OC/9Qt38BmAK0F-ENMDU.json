@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/XIG9DgK",
   "lastUpdatedDate": 1732120646048,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/transport drones/",
-    "1": "/production/robots/"
-  },
+  "tags": [
+    "/mods/transport drones/",
+    "/production/robots/"
+  ],
   "title": "Drones And Stuff",
   "favorites": {
     "u3mYmJmxLSOiBOGo3G0slSAhSB33": true

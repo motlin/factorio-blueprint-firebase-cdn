@@ -21,9 +21,9 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "2": "/production/science/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ]
 }

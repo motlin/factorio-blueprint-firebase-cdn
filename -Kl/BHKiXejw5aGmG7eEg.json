@@ -8,12 +8,12 @@
     "type": "image/jpeg",
     "width": 837
   },
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/train/crossing/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "Train Xing w/ Lights and Gates - Double track",
   "author": {
     "userId": "wCDQ4zo4PpcUlPtf1K8WqiQAAKw2"

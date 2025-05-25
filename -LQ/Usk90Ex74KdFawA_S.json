@@ -2,9 +2,9 @@
   "descriptionMarkdown": "An intersection controlled with timed lights. ",
   "lastUpdatedDate": 1570363563084,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Controlled Intersection",
   "favorites": {
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true,

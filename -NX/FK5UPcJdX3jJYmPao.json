@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1686048630868,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "U-235 simple Kovarex loop"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/VPRTU7L",
   "lastUpdatedDate": 1731086792050,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar Power Grid",
   "favorites": {
     "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,

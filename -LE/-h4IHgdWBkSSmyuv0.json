@@ -21,9 +21,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/city_5MB.jpg?alt=media&token=d8395487-a894-4ddf-b74e-0a894ba470c2",
   "lastUpdatedDate": 1679669303912,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/ups friendly/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/ups friendly/"
+  ],
   "title": "250 Science per Minute Block"
 }

@@ -9,11 +9,11 @@
   },
   "lastUpdatedDate": 1532580443894,
   "numberOfFavorites": 33,
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "All Science packs 1.0/second [0.16]",
   "author": {
     "userId": "Wdxmt1lNn1NPUqdNqKHh7hYnIfQ2"

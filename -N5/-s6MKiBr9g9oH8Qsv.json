@@ -49,11 +49,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/smelting-v400.png?alt=media&token=cb4dc44d-64d8-4b26-8126-8f7929a62a81",
   "lastUpdatedDate": 1698540428966,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "ElderAxe's Smelting (v4.0.0)"
 }

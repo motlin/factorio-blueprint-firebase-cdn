@@ -1,7 +1,7 @@
 {
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "createdDate": 1560187884595,
   "descriptionMarkdown": "Find the containers with the largest amount of iron ore",
   "image": {

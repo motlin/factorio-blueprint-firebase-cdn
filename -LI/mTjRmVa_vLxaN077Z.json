@@ -8,11 +8,11 @@
     "height": 954,
     "id": "cmj6rx7"
   },
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/early game/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "tFKPdeXmoPaHi6uBa2TXpr0Ytkr2"
   },

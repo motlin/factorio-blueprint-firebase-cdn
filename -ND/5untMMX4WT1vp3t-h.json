@@ -23,8 +23,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/xxxx3123.jpg?alt=media&token=85aa2564-543d-4c4f-9b0e-c315bfbdb949",
   "lastUpdatedDate": 1693409952438,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "SE Basic Science Extended"
 }

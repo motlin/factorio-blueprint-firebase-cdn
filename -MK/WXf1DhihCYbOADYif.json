@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1633033319833,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/lighted-electric-poles/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Reator nuclear sem automatização",
   "favorites": {
     "hFbzQKbNcZaMmqGDU3nK80k4Uiq1": true,

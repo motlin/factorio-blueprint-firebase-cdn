@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1659680857726,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Carrums 2x2 Nuclear"
 }

@@ -19,10 +19,10 @@
     "userId": "ppvWoZf96QbC60XbMxtZfbKOrCF2"
   },
   "fileName": "Cargo Unloading Station (belt based, balanced).png",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/unloading station/"
+  ],
   "title": "Cargo Unloading Station (belt based)"
 }

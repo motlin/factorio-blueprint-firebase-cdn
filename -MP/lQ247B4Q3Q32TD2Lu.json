@@ -18,12 +18,12 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1664101004566,
-  "tags": {
-    "3": "/mods/bobs/",
-    "0": "/power/nuclear/",
-    "1": "/general/compact/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/power/nuclear/",
+    "/general/compact/",
+    "/mods/other/"
+  ],
   "title": "Compact Nuclear Power Plant Pro (4GW+, Expandable)",
   "authorId": "cmYqhN4K7bUoOrcQKxyRIPfsqlJ3",
   "descriptionMarkdown": "*New blueprint without Factorissimo see here: https://factorioprints.com/view/-NCo4CwX3Kt5Gc23e6ef\n\nEach block contain:</br>\n-18 nuclear reactors.</br>\n-220 heat exchangers MK3</br>\n-2 factory MK3 x 218 + 4 = 440 Turbines MK3</br>\n-Generate: 440 x 9MW = 3960 MW</br>\n\nYou may expand the powerplant unlimited. </br>\nNo steam buffer. (for cheap fuels) </br>\n\nFactory pipes setups: INPUT mode. Speed of update: 6 times/sec.</br>\nFactory energy setups: OUTPUT mode. Limit 2GW.</br>\nIf you place factory at down, then rotate blueprints of turbines 180 degrees.</br>\n10 lines of heat exhangers needs water 2160L/sec (for each). 2 lines needs 2400L/sec.</br>\n\nNeeded mods: Bob's power. Bob's logistic (undeground pipe length >=15). Factorissimo 2. </br>\nOptional: Bio industries (Huge Poles: 100x100)"

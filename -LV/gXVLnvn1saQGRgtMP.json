@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1575926498818,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/general/storage/",
-    "3": "/production/logistic (bot) based/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/storage/",
+    "/production/logistic (bot) based/",
+    "/version/0,17/"
+  ],
   "title": "Logistic Network Storage Block - Medium size, v1"
 }

@@ -6,13 +6,13 @@
     "type": "image/jpeg",
     "width": 972
   },
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/version/0,15/",
-    "4": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/power/accumulator/"
+  ],
   "title": "Solar Array 36x36",
   "favorites": {
     "akrjvJYmZ0O9YA4nc4IcjNGyfK83": true

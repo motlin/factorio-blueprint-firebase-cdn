@@ -11,12 +11,12 @@
   "createdDate": 1547989441571,
   "descriptionMarkdown": "For optimal performance, load 80 U-235 into each centrifuge, feed with constant U-238, and don't let the system back up.",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Modular Kovarex setup",
   "favorites": {
     "sYRbanRtEIf9CP1q0an4YDQeAFx2": true

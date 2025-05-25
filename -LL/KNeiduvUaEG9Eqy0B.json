@@ -16,12 +16,12 @@
   },
   "title": "Whistle Stop Train Smelting (Beacon)",
   "createdDate": 1535809596583,
-  "tags": {
-    "5": "/train/stacker/",
-    "0": "/general/beaconized/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/other/",
-    "4": "/production/smelting/"
-  }
+  "tags": [
+    "/train/stacker/",
+    "/general/beaconized/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/other/",
+    "/production/smelting/"
+  ]
 }

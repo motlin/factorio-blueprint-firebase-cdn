@@ -16,12 +16,12 @@
     "width": 1294
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/general/early game/",
-    "3": "/power/steam/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/power/steam/"
+  ],
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,

@@ -1,12 +1,12 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/SolidFuelRefineryModified.PNG?alt=media&token=1b16865c-f6ee-4c89-b27b-660e2ffbda88",
   "numberOfFavorites": 9,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/creative/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/creative/"
+  ],
   "title": "Dedicated Solid Fuel Refinery (with lube and flamethrower ammo options)",
   "favorites": {
     "xY9rEKNEQMbXOOplxstm479GMBc2": true

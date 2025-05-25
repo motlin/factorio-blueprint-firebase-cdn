@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651870427037,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Автономный Мини форт",
   "favorites": {
     "FkwPOk7dK6hN76Trl2Lw6vwBA3V2": true,

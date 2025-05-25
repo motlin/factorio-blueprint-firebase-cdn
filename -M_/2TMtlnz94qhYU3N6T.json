@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1620334706346,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "2 Blue Belts Per Wagon by u/MediocreMeat",
   "favorites": {
     "2ak9O98v30PCLkk1hZuR080fNq92": true

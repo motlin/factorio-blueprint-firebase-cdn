@@ -52,12 +52,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/infinity_432.png?alt=media&token=4400e00f-c7ca-42b0-a3fc-3342c863e06c",
   "lastUpdatedDate": 1637365424887,
   "numberOfFavorites": 36,
-  "tags": {
-    "4": "/mods/vanilla/",
-    "0": "/version/0,16/",
-    "1": "/general/storage/",
-    "2": "/general/early game/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/storage/",
+    "/general/early game/",
+    "/version/0,17/"
+  ],
   "title": "Sandbox compendium v0.4 (old)"
 }

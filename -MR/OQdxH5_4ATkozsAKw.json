@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1640045188525,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/",
-    "3": "/general/mid game/",
-    "4": "/production/smelting/",
-    "5": "/production/belt based/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/general/mid game/",
+    "/production/smelting/",
+    "/production/belt based/"
+  ],
   "title": "iridium ingot production "
 }

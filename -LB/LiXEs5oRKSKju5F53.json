@@ -9,9 +9,9 @@
     "height": 1080
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Ciência Vermelha (Modular)",
   "author": {
     "userId": "YMO4RuPRs6VInVsWqFs6bB7CsOQ2"

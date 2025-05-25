@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/jLpyFqh",
   "lastUpdatedDate": 1729577080965,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/belts/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/belts/"
+  ],
   "title": "Science Sushi Belt Factorio 2.0 READY",
   "favorites": {
     "kcRuexny20RE5gVWwzjns5PyZvH3": true,

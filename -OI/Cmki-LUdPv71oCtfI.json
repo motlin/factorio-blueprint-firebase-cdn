@@ -28,9 +28,9 @@
   "imageUrl": "https://i.imgur.com/hKp7jxi.jpeg",
   "lastUpdatedDate": 1738620123607,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "384K Promethium Science Ship"
 }

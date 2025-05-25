@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697460019158,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Fast/reliable liquid balancer for long distances (OUTDATED! BROKEN)"
 }

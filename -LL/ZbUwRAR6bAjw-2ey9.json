@@ -81,12 +81,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%20from%202019-08-09%2018-47-46.jpg?alt=media&token=ffede443-d0b0-436c-8bbc-f0cb6d80e215",
   "lastUpdatedDate": 1565804152463,
   "numberOfFavorites": 56,
-  "tags": {
-    "4": "/production/robots/",
-    "0": "/version/0,17/",
-    "1": "/production/research (labs)/",
-    "2": "/production/science/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,17/",
+    "/production/research (labs)/",
+    "/production/science/",
+    "/general/early game/"
+  ],
   "title": "Bots Bootstrap Base (0.17.60) v3"
 }

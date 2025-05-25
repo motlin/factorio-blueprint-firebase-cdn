@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651441745375,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Circuito Azul",
   "favorites": {
     "lMPRklTqYjWsHuLAiXuT390ESuP2": true,

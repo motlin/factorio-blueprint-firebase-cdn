@@ -27,11 +27,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/logo.png?alt=media&token=d1d5d1f0-8b73-4c23-b056-6b6d879a4de0",
   "lastUpdatedDate": 1664801068020,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/1,0/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/1,0/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "TSM Stations"
 }

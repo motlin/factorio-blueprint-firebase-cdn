@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2q1yur3",
   "lastUpdatedDate": 1732393225838,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Legendary stack inserter upcycler",
   "favorites": {
     "UFDk4yfHK3YDDAa018PnvPGlIVl2": true,

@@ -61,16 +61,16 @@
   },
   "lastUpdatedDate": 1543532767866,
   "numberOfFavorites": 122,
-  "tags": {
-    "0": "/version/0,16/",
-    "3": "/general/compact/",
-    "6": "/production/inserters/",
-    "8": "/production/other/",
-    "7": "/production/belt based/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/",
-    "4": "/production/robots/",
-    "5": "/production/belts/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/compact/",
+    "/production/inserters/",
+    "/production/other/",
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/production/robots/",
+    "/production/belts/"
+  ],
   "title": "SK's Belt-Based Mall v5.1 (0.16)"
 }

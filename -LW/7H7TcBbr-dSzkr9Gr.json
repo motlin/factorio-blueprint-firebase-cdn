@@ -51,13 +51,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshotTEST-min.png?alt=media&token=3fc574ef-5f1d-4306-a8a1-14c84ac6d838",
   "lastUpdatedDate": 1556749325030,
   "numberOfFavorites": 34,
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/version/0,15/",
-    "5": "/mods/vanilla/",
-    "0": "/general/tileable/",
-    "1": "/general/chunk aligned/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/chunk aligned/",
+    "/power/solar/"
+  ],
   "title": "Tileable Defenses (Virtually Impenetrable, Resource Efficient, Modular, Chunk-Aligned, upgradable in phases)"
 }

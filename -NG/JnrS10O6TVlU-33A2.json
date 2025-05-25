@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1670972128534,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Train Loop"
 }

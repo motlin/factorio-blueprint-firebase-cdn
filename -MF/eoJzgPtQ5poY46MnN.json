@@ -22,14 +22,14 @@
   },
   "lastUpdatedDate": 1600413385455,
   "numberOfFavorites": 5,
-  "tags": {
-    "5": "/version/0,17/",
-    "6": "/version/0,18/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/version/0,15/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/version/0,18/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "N-16D Nuclear power plant"
 }

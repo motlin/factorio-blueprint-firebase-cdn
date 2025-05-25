@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1656127890655,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "4-way-train-intersection",
   "favorites": {
     "nsVTAwYm1ebdLXzSXBiX5ooQoT03": true,

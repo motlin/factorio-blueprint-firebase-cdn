@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1628445843492,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Balanced Logistic Networks"
 }

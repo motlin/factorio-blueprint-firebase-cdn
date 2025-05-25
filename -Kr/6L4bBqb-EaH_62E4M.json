@@ -2,12 +2,12 @@
   "createdDate": 1502288042502,
   "descriptionMarkdown": "Factory for casting Iron Plates inside a Factorissimo Building. Designed specially to work with Angel's Bob's Omnimatter + AAI Industries mods active.",
   "fileName": "IronPlatesCasting.jpg",
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": "Iron Plates Casting Production Plant in a Box (Factorissimo).",
   "author": {
     "userId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2"

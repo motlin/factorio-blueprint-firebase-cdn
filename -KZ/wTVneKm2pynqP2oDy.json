@@ -17,12 +17,12 @@
     "width": 704,
     "height": 704
   },
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true
   }

@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/CcKuvWK",
   "lastUpdatedDate": 1732955136681,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/space-age/",
-    "2": "/production/science/",
-    "3": "/circuit/indicator/",
-    "4": "/circuit/counter/",
-    "5": "/production/research (labs)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/production/science/",
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/production/research (labs)/"
+  ],
   "title": "Science Pack Store & Indicator",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

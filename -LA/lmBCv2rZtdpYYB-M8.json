@@ -15,10 +15,10 @@
   "descriptionMarkdown": "all armor's and related items, most wep and all ammo's , artillary + wagon, tank.\nCombined mall or in separated malls for armor or for weapons/ammo.\nBP book Includes the Bp's for only armor or ammo mall as well.\n",
   "lastUpdatedDate": 1553478220962,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,17/"
+  ],
   "title": "Military Mall",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Military%20armor%20mall%20all%20in%201.png?alt=media&token=41a410e2-f6cd-4653-a98b-17bf216ed3fa",
   "favorites": {

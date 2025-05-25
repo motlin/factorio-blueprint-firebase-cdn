@@ -5,11 +5,11 @@
     "type": "image/jpeg",
     "width": 1149
   },
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/production/mall (make everything)/",
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/general/early game/"
+  ],
   "authorId": "5vIicesU8vPlTOBqxf6Zf5Z0H6a2",
   "fileName": "MallEarlyGame017.jpg",
   "createdDate": 1573922221158,

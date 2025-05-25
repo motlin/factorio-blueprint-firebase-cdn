@@ -3,11 +3,11 @@
   "createdDate": 1533836334847,
   "descriptionMarkdown": "A simple Plastic Production system I built, because I couldn't find one that didn't need Beacons or something. This is meant for when you first unlock Plastic, and then replaced as you progress further.\n\nIf built in Vanilla, just replace the Compact Loaders (Mod here: https://mods.factorio.com/mod/DeadlockLoaders) with any Inserters",
   "lastUpdatedDate": 1534187268900,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/other/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/other/",
+    "/version/0,16/"
+  ],
   "title": "Simple Plastic Production",
   "author": {
     "userId": "0mFMFSQyeXYRWvv676YNegV08Kz2"

@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/igMIVTk",
   "lastUpdatedDate": 1745268429958,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/power/nuclear/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Ядерная станция + Переработка урана / Nuclear power plant + Uranium processing",
   "favorites": {
     "yJwn8dWhEQUT6p4LKKQtjOmCCeH3": true

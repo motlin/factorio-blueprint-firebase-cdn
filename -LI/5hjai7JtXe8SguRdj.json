@@ -1,12 +1,12 @@
 {
   "descriptionMarkdown": "Compact 2x4 circuit counts how many times a signal turned red. Meant for monitoring key rail junctions where [Kirchhoff's circuit laws](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws) hold.\n\n- The two blueprints send different signals (<img src=\"https://wiki.factorio.com/images/Rail_signal.png\"/>, <img src=\"https://wiki.factorio.com/images/Rail_chain_signal.png\"/>) so you can view both on the same pole. \n- When monitoring a <img src=\"https://wiki.factorio.com/images/Rail_chain_signal.png\"/> signal with the second variant, use a <img src=\"https://wiki.factorio.com/images/Rail_signal.png\"/> signal on the opposite side of the track as a sensor.\n- Positive 'R' signal holds counters in reset until removed.\n\n\nCircuit based on the [Vanilla Train Counter](https://factorioprints.com/view/-KacFVIcKj0uVlGqPeU2) from 0.14, updated for 0.16.",
   "lastUpdatedDate": 1532342299495,
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/",
-    "3": "/train/junction/",
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/circuit/counter/"
+  ],
   "author": {
     "userId": "LcyzIj31B9Sg0lJU46rVlz81Xr33"
   },

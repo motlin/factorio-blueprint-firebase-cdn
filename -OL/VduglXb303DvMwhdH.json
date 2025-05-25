@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/Rw7B7Ba.png",
   "lastUpdatedDate": 1742157097729,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/space-age/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/space-age/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Korvarex Process, 16 Centrifuge",
   "favorites": {
     "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,

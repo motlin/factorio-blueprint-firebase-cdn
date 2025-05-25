@@ -17,13 +17,13 @@
   "createdDate": 1527853366007,
   "descriptionMarkdown": "Add a cargo wagon on the rails, and fill it with ~800 of any filler item(s) (e.g. iron plate), +50 more filler for every column of labs used (blueprint shows an example with 6 columns, but this is extensible as far as needed). \n\nSample image with 3 'dead' sciences: https://i.imgur.com/IIc2UQq.jpg\n\nUses the placeholder items to reserve each science's spot when it's running low, preventing the belt ratio from changing. The pickaxe-filters are just to prevent wasted science in the unused splitter outputs. I would have set it to fish, but this way you can use fish for your filler item if you want.\n\nShould be impossible to jam up regardless of input rates or current research, and will automatically remove any contaminants in the science lines (except iron pickaxe), e.g. doesn't care if you accidentally dump your inventory on the science belts.\n\nMore room for beacons as desired.\n\nOriginal (pre-filler) design creds to infogulch: https://www.reddit.com/r/factorio/comments/7siu7j/safe_rainbow_sushi_is_easy_now/",
   "fileName": "placeholder_sushi_bp.png",
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/compact/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,16/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   }

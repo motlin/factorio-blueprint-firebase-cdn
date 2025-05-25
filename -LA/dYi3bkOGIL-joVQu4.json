@@ -15,10 +15,10 @@
     "width": 1160
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/general/compact/"
+  ],
   "title": "Endgame compact Ammonia gas production."
 }

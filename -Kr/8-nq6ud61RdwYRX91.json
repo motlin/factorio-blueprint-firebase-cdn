@@ -6,12 +6,12 @@
   "numberOfFavorites": 4,
   "title": "Production Mall (Red Stuff) in a Box (Factorissimo).",
   "lastUpdatedDate": 1502320870032,
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/version/0,15/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,15/",
+    "/mods/factorissimo/"
+  ],
   "authorId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2",
   "createdDate": 1502316019173,
   "descriptionMarkdown": "Factory Mall to produce red stuff (1/s) inside a Factorissimo Building. Designed specially to work with Angel's Bob's Omnimatter + AAI Industries mods active.",

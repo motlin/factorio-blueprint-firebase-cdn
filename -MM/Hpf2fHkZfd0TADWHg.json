@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1634551116226,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/ltn/"
+  ],
   "title": "LTN Precise fast train loader",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1601480111456,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "Zisteau's Midstrap Book for 0.18"
 }

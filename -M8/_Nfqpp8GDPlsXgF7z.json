@@ -13,18 +13,18 @@
   },
   "createdDate": 1590838869607,
   "lastUpdatedDate": 1590839069202,
-  "tags": {
-    "0": "/general/mid game/",
-    "4": "/mods/creative/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,18/",
-    "7": "/version/0,17/",
-    "1": "/mods/other/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "8": "/general/early game/",
-    "9": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/creative/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/version/0,17/",
+    "/mods/other/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/general/early game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Concrete English NATO alphabet (12x15) by Acepincter ",
   "fileName": "2020-05-30 07_26_19-Factorio 0.17.79.png",
   "image": {

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1688023838396,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/krastorio/"
+  ],
   "title": "30 x 30 factory",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

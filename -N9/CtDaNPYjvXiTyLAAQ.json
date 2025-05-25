@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1660237965868,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "Train Rails Book",
   "favorites": {
     "tSW38thseyOUr6RfVl9yMfeXcH62": true,

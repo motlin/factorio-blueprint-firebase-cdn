@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/eXocrBb",
   "lastUpdatedDate": 1722607655918,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "T junction double line ralway + Pylons",
   "favorites": {
     "kMOfOYECb5goBD0wTNzjOomdO3G2": true,

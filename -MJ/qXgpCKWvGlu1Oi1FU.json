@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1602937867751,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/production/rocket parts/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/science/"
+  ],
   "title": "75 SPM White Science"
 }

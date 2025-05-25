@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/2psjezN.png",
   "lastUpdatedDate": 1743780859596,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/scrap processing/",
-    "1": "/planets/fulgora/",
-    "2": "/mods/space-age/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/scrap processing/",
+    "/planets/fulgora/",
+    "/mods/space-age/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Scrap 480/s (Legendary)",
   "favorites": {
     "x7rFcsfZydeaL7n39h7uxItkZpK2": true,

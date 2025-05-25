@@ -16,10 +16,10 @@
     "width": 1334
   },
   "lastUpdatedDate": 1538316171143,
-  "tags": {
-    "3": "/version/0,16/",
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,16/",
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ]
 }

@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/qEizcwO",
   "lastUpdatedDate": 1733085976640,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Mayflower (Planet-Starter)"
 }

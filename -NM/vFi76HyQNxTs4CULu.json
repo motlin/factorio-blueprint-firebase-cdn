@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1703948903568,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "title": "The Dumbest Reactor to Exist (4x4 reactor for 2.6 GW)"
 }

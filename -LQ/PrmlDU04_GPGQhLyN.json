@@ -15,9 +15,9 @@
     "type": "image/jpeg",
     "width": 1647
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "OverReactor Mk4"
 }

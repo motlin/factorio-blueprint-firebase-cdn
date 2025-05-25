@@ -5,12 +5,12 @@
   },
   "lastUpdatedDate": 1726757177152,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "fileName": "t5bLaog.jpg",
   "image": {
     "id": "9xA78Zp",

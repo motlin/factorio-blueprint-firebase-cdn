@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1670439992620,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/belt based/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/train/unloading station/"
+  ],
   "title": "Template Nilaus Bus Base"
 }

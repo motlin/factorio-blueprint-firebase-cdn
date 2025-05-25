@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2gMs67V",
   "lastUpdatedDate": 1742176923710,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Northeast laser outpost"
 }

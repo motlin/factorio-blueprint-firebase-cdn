@@ -22,13 +22,13 @@
   },
   "lastUpdatedDate": 1656325924007,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/general/tileable/",
-    "2": "/general/chunk aligned/",
-    "3": "/mods/5dim/",
-    "4": "/mods/ltn/",
-    "5": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/general/tileable/",
+    "/general/chunk aligned/",
+    "/mods/5dim/",
+    "/mods/ltn/",
+    "/mods/krastorio/"
+  ],
   "title": "K2+DimmsRoboports+SpaceExploration T1 space sciences book"
 }

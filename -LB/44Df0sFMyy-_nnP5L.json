@@ -122,16 +122,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/compact_v2.1.png?alt=media&token=e5765f32-7ed8-4e25-8eb4-9060c951af41",
   "lastUpdatedDate": 1553951229272,
   "numberOfFavorites": 95,
-  "tags": {
-    "1": "/general/compact/",
-    "3": "/general/beaconized/",
-    "4": "/version/0,17/",
-    "5": "/mods/vanilla/",
-    "7": "/production/research (labs)/",
-    "8": "/general/tileable/",
-    "0": "/general/late game (megabase)/",
-    "6": "/production/rocket parts/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/general/tileable/",
+    "/general/late game (megabase)/",
+    "/production/rocket parts/",
+    "/production/science/"
+  ],
   "title": "Late game compact 1 science/s from raw"
 }

@@ -19,10 +19,10 @@
     "height": 854,
     "id": "r6PMrZ9"
   },
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/science/"
+  ],
   "title": "Krastorio 2 - Science 1+2+3",
   "authorId": "fAGGh0hYZFaLXwKpPoGD9K9ZPCf1",
   "createdDate": 1585749916798,

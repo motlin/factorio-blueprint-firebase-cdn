@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3KFhCSb",
   "lastUpdatedDate": 1732465319174,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/plastic/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/plastic/"
+  ],
   "title": "960/s plastic /w max productivity",
   "favorites": {
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,

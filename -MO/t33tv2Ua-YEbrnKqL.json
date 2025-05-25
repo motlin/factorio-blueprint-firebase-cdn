@@ -8,10 +8,10 @@
     "height": 636
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "K5dIMVTndTXRWd7ckbobVkwfjPI2"
   },

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1622826679318,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Chassi de robô voador"
 }

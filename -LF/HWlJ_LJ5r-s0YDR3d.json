@@ -9,16 +9,16 @@
   },
   "lastUpdatedDate": 1614644255965,
   "numberOfFavorites": 6,
-  "tags": {
-    "7": "/version/1,0/",
-    "0": "/version/0,17/",
-    "1": "/version/0,16/",
-    "2": "/version/0,15/",
-    "3": "/production/uranium/",
-    "4": "/power/kovarex enrichment/",
-    "5": "/power/nuclear/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/version/0,17/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Procesamiento de Uranio con sist. Kovarex V 1.1",
   "authorId": "0SuW0de3uFaGqkuxpaFptB9mFqq2",
   "favorites": {

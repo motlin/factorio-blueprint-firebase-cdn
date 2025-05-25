@@ -13,13 +13,13 @@
   },
   "lastUpdatedDate": 1525053941725,
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/",
-    "4": "/version/0,16/",
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,16/",
+    "/belt/fast transport belt (red)/",
+    "/production/smelting/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
     "j099BfaxjlgSY5LxT4SGByYDH7J2": true

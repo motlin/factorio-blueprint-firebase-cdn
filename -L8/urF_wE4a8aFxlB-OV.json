@@ -5,10 +5,10 @@
   "createdDate": 1522479729078,
   "lastUpdatedDate": 1522479729078,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "Logistics bot catcher",
   "favorites": {
     "xY9rEKNEQMbXOOplxstm479GMBc2": true,

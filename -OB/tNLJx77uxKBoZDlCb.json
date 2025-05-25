@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/KK1X4PE",
   "lastUpdatedDate": 1731834504629,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Supply Station"
 }

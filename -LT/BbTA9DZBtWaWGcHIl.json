@@ -30,9 +30,9 @@
   },
   "lastUpdatedDate": 1544252418638,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "Pixelated Charlize Theron (constant combinators)"
 }

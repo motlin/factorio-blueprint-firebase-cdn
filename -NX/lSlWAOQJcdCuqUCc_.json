@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/pb3ejMw",
   "lastUpdatedDate": 1715595581627,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/inserters/",
-    "2": "/production/belts/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/inserters/",
+    "/production/belts/"
+  ],
   "title": "Space Exploration- green science production line",
   "favorites": {
     "imrF1k7JOsRBiOfC5DFaEIGTb6h2": true

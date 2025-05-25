@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zUkCYNQ",
   "lastUpdatedDate": 1729701611563,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Stackable/Tileable 12 core Fusion reactor",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

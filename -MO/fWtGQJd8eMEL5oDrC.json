@@ -14,11 +14,11 @@
   },
   "authorId": "6zV6sv6UtEc7627nfTOHIaMrIHk2",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/production/logistic (bot) based/",
+    "/train/left-hand-drive/"
+  ],
   "createdDate": 1608121816209,
   "descriptionMarkdown": "An exterior railway segment with laser defense that can be used to span the perimeter as well as extend the logistic network. This tesselates, mind the orientation."
 }

@@ -36,10 +36,10 @@
   },
   "lastUpdatedDate": 1590860018303,
   "numberOfFavorites": 19,
-  "tags": {
-    "1": "/production/mall (make everything)/",
-    "2": "/version/0,18/",
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,18/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio (late May 2020) 0.18 Mall"
 }

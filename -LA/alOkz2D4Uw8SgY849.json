@@ -44,11 +44,11 @@
   },
   "lastUpdatedDate": 1524291015961,
   "numberOfFavorites": 46,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Item and Power Display Book"
 }

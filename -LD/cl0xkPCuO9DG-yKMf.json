@@ -20,11 +20,11 @@
     "type": "image/jpeg",
     "width": 777
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Bazinga Blueprint - Green Circuits - 2x Full Blue Belts"
 }

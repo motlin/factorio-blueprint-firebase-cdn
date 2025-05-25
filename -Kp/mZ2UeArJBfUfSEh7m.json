@@ -2,11 +2,11 @@
   "authorId": "G0hS5cjMsoZCTJEeWXe3Y0XGVXJ3",
   "fileName": "Flowmeter.png",
   "lastUpdatedDate": 1500868940640,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "SireGhan's Flowmeter by barreling",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Flowmeter.png?alt=media&token=85cbdcaf-fe81-49d9-8954-d4ddc9b48ba3",
   "numberOfFavorites": 1,

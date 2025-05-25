@@ -10,11 +10,11 @@
   },
   "lastUpdatedDate": 1538417457807,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/factorissimo/",
-    "2": "/general/storage/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/factorissimo/",
+    "/general/storage/"
+  ],
   "author": {
     "userId": "hXN27tJdXEXBSShLAeL7OisZ41I2"
   },

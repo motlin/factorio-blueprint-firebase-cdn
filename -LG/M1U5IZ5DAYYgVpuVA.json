@@ -7,12 +7,12 @@
     "type": "image/jpeg",
     "width": 738
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/train/right-hand-drive/",
-    "2": "/general/tileable/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/train/right-hand-drive/",
+    "/general/tileable/",
+    "/train/track/"
+  ],
   "title": "Wide Protected Tracks",
   "author": {
     "userId": "zQcPQMkBLNZPbr8jesVeEYeNuA03"

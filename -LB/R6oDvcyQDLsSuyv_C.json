@@ -8,15 +8,15 @@
     "width": 1052
   },
   "lastUpdatedDate": 1554863607946,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,17/",
-    "4": "/general/chunk aligned/",
-    "5": "/mods/vanilla/",
-    "6": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "RDhBatqCXUcqMPbhcr3WtbKBFBn2"
   },

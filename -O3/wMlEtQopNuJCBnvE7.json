@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/AjVw6LA",
   "lastUpdatedDate": 1723294749815,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/chunk aligned/"
+  ],
   "title": "[3MW] Solar",
   "favorites": {
     "YpDV0lO0FIYqTBZ8ZpeD8U9yqy73": true,

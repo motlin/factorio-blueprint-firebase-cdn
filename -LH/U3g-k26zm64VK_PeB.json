@@ -14,14 +14,14 @@
     "id": "mpu5rqe",
     "type": "image/png"
   },
-  "tags": {
-    "4": "/production/research (labs)/",
-    "5": "/general/compact/",
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/compact/",
+    "/production/science/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "authorId": "9GgJ0Zw7C4Rw4OLVszyGkmpQ39b2",
   "createdDate": 1531677165272,
   "favorites": {

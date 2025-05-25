@@ -37,13 +37,13 @@
   "imageUrl": "https://imgur.com/s8masxi",
   "lastUpdatedDate": 1732608546373,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/guns and ammo/",
-    "2": "/planets/space-platform/",
-    "3": "/mods/space-age/",
-    "4": "/power/solar/",
-    "5": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/guns and ammo/",
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/power/solar/",
+    "/version/2,0/"
+  ],
   "title": "Interplanetary Cargo Transport \"The Bullet\""
 }

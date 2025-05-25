@@ -233,11 +233,11 @@
     "height": 1608
   },
   "numberOfFavorites": 316,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  }
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

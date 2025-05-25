@@ -17,10 +17,10 @@
   "imageUrl": "https://i.imgur.com/Z9cqv6Q.png",
   "lastUpdatedDate": 1743648094929,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Prometheus"
 }

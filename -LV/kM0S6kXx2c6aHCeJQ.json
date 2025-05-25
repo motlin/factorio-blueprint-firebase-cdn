@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1575990597676,
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/production/science/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Chemical science pack - 90 packs/min",
   "fileName": "Chemical science pack.PNG",
   "authorId": "8pht9JwJhqThVur8FOfWhCZqhE93",

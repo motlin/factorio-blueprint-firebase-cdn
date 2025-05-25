@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1557618941982,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/ltn/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/ltn/",
+    "/general/tileable/"
+  ],
   "title": "LTN - Plastic Bars - External Loader"
 }

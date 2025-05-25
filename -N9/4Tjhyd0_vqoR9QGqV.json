@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660166313320,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/accumulator/"
+  ],
   "title": "Power Indicators",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

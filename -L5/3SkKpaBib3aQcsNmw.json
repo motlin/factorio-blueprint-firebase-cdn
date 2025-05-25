@@ -1,11 +1,11 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/power2.png?alt=media&token=5affa655-160a-4de1-8fc7-4d06fcd1372f",
   "numberOfFavorites": 38,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Two Reactor Nuclear Power Plant With Steam Storage",
   "author": {
     "userId": "ybMz5KhJmaSk7kaLf3kc21E3B1i2"

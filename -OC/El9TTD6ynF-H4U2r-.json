@@ -24,10 +24,10 @@
   "imageUrl": "https://imgur.com/q8UT7CK",
   "lastUpdatedDate": 1732210108879,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/gleba/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/gleba/",
+    "/mods/vanilla/"
+  ],
   "title": "Gleba Full"
 }

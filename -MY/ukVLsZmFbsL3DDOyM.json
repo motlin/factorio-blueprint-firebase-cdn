@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1648105752153,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Kovarex enrichment",
   "favorites": {
     "udHlvZwtdRNAieUUoh09UDmXMqv1": true,

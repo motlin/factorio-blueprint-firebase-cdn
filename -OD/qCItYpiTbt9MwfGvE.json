@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/4Z3Ma7f",
   "lastUpdatedDate": 1733929026865,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/version/2,0/"
+  ],
   "title": "Gleba Quality Carbon Fiber",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

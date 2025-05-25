@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/IOvQvtt",
   "lastUpdatedDate": 1732667432039,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/space-exploration/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/planets/space-platform/"
+  ],
   "title": "Basic Scalable Space Plateform ",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true

@@ -19,8 +19,8 @@
     "width": 477,
     "height": 1930
   },
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/tileable/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/general/tileable/"
+  ]
 }

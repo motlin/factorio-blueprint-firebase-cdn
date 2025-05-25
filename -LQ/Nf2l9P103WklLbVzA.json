@@ -128,11 +128,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/3789.png?alt=media&token=209425bd-3486-4428-8c84-69ef212640e4",
   "lastUpdatedDate": 1655493878930,
   "numberOfFavorites": 94,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,17/",
-    "2": "/version/0,18/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/"
+  ],
   "title": "llVIU Factorissimo2 v64"
 }

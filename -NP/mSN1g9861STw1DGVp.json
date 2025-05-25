@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1678031290690,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Double belt mining",
   "favorites": {
     "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,

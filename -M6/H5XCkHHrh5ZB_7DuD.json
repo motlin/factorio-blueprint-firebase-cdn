@@ -13,10 +13,10 @@
   "createdDate": 1588367860713,
   "fileName": "Stacking station.png",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/train/unloading station/"
+  ],
   "favorites": {
     "NBDWFj9AClPZh8J9sOsdgUBu9Ba2": true,
     "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true,

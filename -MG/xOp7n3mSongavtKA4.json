@@ -16,9 +16,9 @@
   "descriptionMarkdown": "I made this reclativly small design for an early game nuclear setup, It produces the full 480MW if you use one, if you set 2 right next ro each other there is a small (<3%) loss since it takes water from 8 sources. \n\nAnd yes, you can reach exerything in this design without mods and enter the facility",
   "fileName": "4 Reactor BBS.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "favorites": {
     "XY0YOb9K7hWBRBKrFS5mbu4OyPK2": true,
     "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true

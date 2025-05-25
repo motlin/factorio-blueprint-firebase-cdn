@@ -8,11 +8,11 @@
   "createdDate": 1505466564765,
   "descriptionMarkdown": "- symmetrical design\n- can be placed symmetrically on other side\n- red belts\n- Modular",
   "numberOfFavorites": 15,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/processing unit (blue)/"
+  ],
   "favorites": {
     "VcF7eyz5lugtfIB696NNVjBhKbr2": true
   },

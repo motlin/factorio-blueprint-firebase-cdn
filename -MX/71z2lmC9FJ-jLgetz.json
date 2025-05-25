@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/vertical-nuclear3.PNG?alt=media&token=be76b502-47f0-4dad-8298-17d0e920cf8e",
   "lastUpdatedDate": 1617364454583,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "1.7GW Simple Nuclear Plant - Tileable - Prototype"
 }

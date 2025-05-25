@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/qyyV6ji",
   "lastUpdatedDate": 1730496758139,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/mods/space-age/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "2.0/Space Age Parameterized Logistical Trains V2",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

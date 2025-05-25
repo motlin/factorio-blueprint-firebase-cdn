@@ -31,17 +31,17 @@
   },
   "lastUpdatedDate": 1586196596397,
   "numberOfFavorites": 13,
-  "tags": {
-    "7": "/train/roundabout/",
-    "9": "/version/0,15/",
-    "1": "/version/0,17/",
-    "2": "/version/0,18/",
-    "3": "/mods/ltn/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "0": "/version/0,16/",
-    "6": "/train/junction/",
-    "8": "/mods/other/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/version/0,15/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/mods/ltn/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/0,16/",
+    "/train/junction/",
+    "/mods/other/"
+  ],
   "title": "LTN Roads and Stations space"
 }

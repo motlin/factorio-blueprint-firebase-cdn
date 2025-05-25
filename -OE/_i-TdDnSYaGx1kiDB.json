@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9jmibDu",
   "lastUpdatedDate": 1735040114357,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Estação de descarregamento de naquitite Vers. 2.0 (Exotics + S.E.)"
 }

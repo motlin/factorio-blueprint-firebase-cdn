@@ -15,10 +15,10 @@
     "id": "JacVCbN",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/production/oil processing/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/production/oil processing/",
+    "/version/0,18/"
+  ],
   "title": "Coal liqification"
 }

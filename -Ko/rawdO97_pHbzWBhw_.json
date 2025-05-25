@@ -16,12 +16,12 @@
   "numberOfFavorites": 10,
   "authorId": "b88NlvA22ZSwSw6dRuY5XTJFrWK2",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blueprint%20(1).png?alt=media&token=79783137-d528-4ca9-a3b3-fd679c84fed0",
-  "tags": {
-    "3": "/production/advanced circuit (red)/",
-    "4": "/version/0,15/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Advanced Circuit 56/s"
 }

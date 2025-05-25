@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/H0gE9TV",
   "lastUpdatedDate": 1730578106653,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/general/tileable/",
-    "2": "/planets/vulcanus/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/tileable/",
+    "/planets/vulcanus/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Vulcanus Molten Iron/Copper Production",
   "favorites": {
     "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,

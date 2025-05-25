@@ -22,10 +22,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FACTORIO%20BP.png?alt=media&token=c760fb91-284e-4577-93a8-8f826873b46c",
   "lastUpdatedDate": 1646893292110,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Cass' Smart Expander Outpost"
 }

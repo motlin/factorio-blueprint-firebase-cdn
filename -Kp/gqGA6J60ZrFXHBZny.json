@@ -15,12 +15,12 @@
   },
   "authorId": "KbO8vcoBbfSyvgJILjInFi4XOw82",
   "title": "4-Way Railroad Intersection Roundabout with Solar Panels",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "createdDate": 1500769751737,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170722202751_1.jpg?alt=media&token=b2f87a5f-de8d-4353-9680-060365046a35"
 }

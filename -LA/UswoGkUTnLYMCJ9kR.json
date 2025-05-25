@@ -6,11 +6,11 @@
     "width": 985,
     "height": 972
   },
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Bootstrap assemblers",
   "favorites": {
     "kOht14bSMCc1Lz86TALpXSERIdV2": true,

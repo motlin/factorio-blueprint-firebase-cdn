@@ -45,8 +45,8 @@
   "authorId": "LlZTbgSpmTOuVe11D6FNvMufzYz2",
   "descriptionMarkdown": "Re-signaled right-hand version of [4-way Rail Intersection](https://factorioprints.com/view/-Kx6Wd0BP0sDFHvAGWls).\n\n0.16 signal block screenshot for checking my signal work. :P (I have no idea how I got the block colors to be rotationally symmetrical, but it looks awesome.)",
   "fileName": "Screenshot 2017-12-21 01.20.32.png",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  }
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ]
 }

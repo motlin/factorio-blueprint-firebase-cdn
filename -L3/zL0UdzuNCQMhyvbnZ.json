@@ -27,12 +27,12 @@
   },
   "lastUpdatedDate": 1517230639024,
   "numberOfFavorites": 24,
-  "tags": {
-    "2": "/mods/lighted-electric-poles/",
-    "3": "/mods/factorissimo/",
-    "4": "/version/0,16/",
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/mods/factorissimo/",
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Angels / Bobs / Factories & Random Stuff"
 }

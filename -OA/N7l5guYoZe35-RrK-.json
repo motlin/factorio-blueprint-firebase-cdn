@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Qj1Y9wm",
   "lastUpdatedDate": 1730204091608,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/version/2,0/"
+  ],
   "title": "Minimal conflict 4 way intersection",
   "favorites": {
     "ecDXXImtTVbonCPUipJh7MKy7qt1": true,

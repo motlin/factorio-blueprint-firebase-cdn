@@ -9,10 +9,10 @@
     "width": 139
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/industrial revolution/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/industrial revolution/"
+  ],
   "title": "Industrial Revolutions - Green Science",
   "author": {
     "userId": "ePLW3HMWAOWQjIF0iDtaRc85wk82"

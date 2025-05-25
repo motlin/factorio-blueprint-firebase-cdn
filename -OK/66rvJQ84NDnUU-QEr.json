@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ImxbOp7",
   "lastUpdatedDate": 1740655089696,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Tiled Quantum Processors",
   "favorites": {
     "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,

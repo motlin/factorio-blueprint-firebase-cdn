@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1640829205415,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/other/",
-    "4": "/version/0,18/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/other/",
+    "/version/0,18/"
+  ],
   "title": "Tileable Kovarex (150+ per minute)",
   "favorites": {
     "kbIjGogiCYOsk86Vl5GJCTRBJ8r2": true,

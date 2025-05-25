@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/orQfCp2",
   "lastUpdatedDate": 1744309362659,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Efficient hauler for all planets",
   "favorites": {
     "9hJKsOvZMpQyzkKWwIaPN42ujst2": true,

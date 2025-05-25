@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1694266393225,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Signal Cycler"
 }

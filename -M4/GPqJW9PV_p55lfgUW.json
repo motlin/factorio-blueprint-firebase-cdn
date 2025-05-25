@@ -8,13 +8,13 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1586208925124,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/krastorio/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/version/0,18/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/krastorio/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/version/0,18/"
+  ],
   "title": "Krastorio 2 - Glass Array 15i/s",
   "favorites": {
     "VcF7eyz5lugtfIB696NNVjBhKbr2": true,

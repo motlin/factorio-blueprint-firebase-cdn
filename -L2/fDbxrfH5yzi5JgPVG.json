@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1515774968149,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "title": "4-Way Clover "
 }

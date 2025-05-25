@@ -22,10 +22,10 @@
   "descriptionMarkdown": "\tCrude oil required to support refineries: 2775.0/s\n\n    Heavy income from refineries: 72.15/s\n    Light income from refineries: 324.675/s\n        generated light overall: 395.02/s\n\t\t*Light to solid fuel chemical plants needed for maximum light usage: 20.836, producing: 51.352/s\n    petrolium income: 396.825/s\n        generated petrolium overall: 739.17/s\n\t\t*Petro to plastic chem plants needed for maximum petro usage: 3.488, producing 25.793/s\n\t\t*Petro to sulfur chem plants needed for maximum petro usage: 2.32571, producing: 34.3/s",
   "fileName": "gg.png",
   "lastUpdatedDate": 1552259710630,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,16/"
-  }
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,16/"
+  ]
 }

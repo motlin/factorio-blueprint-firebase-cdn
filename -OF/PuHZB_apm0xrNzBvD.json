@@ -18,8 +18,8 @@
   "imageUrl": "https://imgur.com/zr9KBaY",
   "lastUpdatedDate": 1735618275697,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "8 way intersection"
 }

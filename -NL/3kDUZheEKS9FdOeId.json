@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1701960542350,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/",
-    "2": "/circuit/counter/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/version/1,1/"
+  ],
   "title": "Signal Filter",
   "favorites": {
     "bkWAmc2dhcZCsTAY8id93S2Xmmt2": true

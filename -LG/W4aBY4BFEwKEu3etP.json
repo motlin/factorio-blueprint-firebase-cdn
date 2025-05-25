@@ -8,15 +8,15 @@
     "width": 1646
   },
   "lastUpdatedDate": 1530637279812,
-  "tags": {
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/vanilla/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/",
-    "6": "/general/compact/",
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/production/rocket parts/"
+  ],
   "title": "All in one Science 0.5/s",
   "author": {
     "userId": "CtE371ME1EdeqxYqI8CmBcuCBAs2"

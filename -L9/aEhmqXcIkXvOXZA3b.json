@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1523207561282,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/general/tileable/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/general/tileable/",
+    "/mods/other/"
+  ],
   "title": "City block 1.0"
 }

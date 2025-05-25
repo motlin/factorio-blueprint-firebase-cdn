@@ -1,9 +1,9 @@
 {
   "descriptionMarkdown": "Produces engine units ratioed at a rate of 94/min.\n\nSolid Inputs \n\n- top iron\n- bottom steel",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/general/early game/"
+  ],
   "author": {
     "userId": "xB3csq8rHdgV39t0Z77S9wbuG5c2"
   },

@@ -29,10 +29,10 @@
   },
   "lastUpdatedDate": 1602262241592,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/robots/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/robots/",
+    "/general/tileable/"
+  ],
   "title": "City Block from YT: Nilaus"
 }

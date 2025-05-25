@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/raXYGma",
   "lastUpdatedDate": 1731492137757,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/nauvis/",
-    "1": "/planets/fulgora/",
-    "2": "/planets/gleba/",
-    "3": "/planets/vulcanus/",
-    "4": "/planets/space-platform/",
-    "5": "/production/science/"
-  },
+  "tags": [
+    "/planets/nauvis/",
+    "/planets/fulgora/",
+    "/planets/gleba/",
+    "/planets/vulcanus/",
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "Simple starter space ship",
   "favorites": {
     "nKnIo8pmZjVuf336C2oaYTD4ofq1": true,

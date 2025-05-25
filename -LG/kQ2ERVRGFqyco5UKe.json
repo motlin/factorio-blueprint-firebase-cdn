@@ -1,18 +1,18 @@
 {
-  "tags": {
-    "9": "/train/unloading station/",
-    "11": "/version/0,17/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/mid game/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "5": "/train/right-hand-drive/",
-    "6": "/version/0,16/",
-    "4": "/train/loading station/",
-    "7": "/train/track/",
-    "8": "/train/pax/",
-    "10": "/production/other/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,17/",
+    "/general/late game (megabase)/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/version/0,16/",
+    "/train/loading station/",
+    "/train/track/",
+    "/train/pax/",
+    "/production/other/"
+  ],
   "title": "Automated Resupply Train Stations and Expansion Starter",
   "author": {
     "userId": "cz8teyuEeWf0u43ZeAae2XZIxAT2"

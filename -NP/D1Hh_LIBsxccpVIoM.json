@@ -37,10 +37,10 @@
   },
   "lastUpdatedDate": 1677463001863,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "500 SPM Belted Ultra dense"
 }

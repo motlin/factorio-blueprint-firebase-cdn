@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1697136460609,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/compact/",
-    "6": "/train/pax/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/train/pax/"
+  ],
   "title": "Supply Defense Train"
 }

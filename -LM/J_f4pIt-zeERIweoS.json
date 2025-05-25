@@ -16,8 +16,8 @@
   "authorId": "nY9GXSMasCep2zuk3AYn9fq6spw1",
   "descriptionMarkdown": "wallandaccumulator",
   "lastUpdatedDate": 1536869970383,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

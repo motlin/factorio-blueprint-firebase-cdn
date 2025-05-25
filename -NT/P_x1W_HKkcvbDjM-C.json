@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1681925853486,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Robots factory",
   "favorites": {
     "cLC05YkeXGe0MFB9YA6XE1IvVj63": true,

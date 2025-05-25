@@ -25,9 +25,9 @@
   "imageUrl": "https://imgur.com/6FCSZnW",
   "lastUpdatedDate": 1733935219262,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/2,0/"
+  ],
   "title": "Space Platform making legendary space and chemical science"
 }

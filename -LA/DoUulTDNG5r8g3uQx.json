@@ -9,13 +9,13 @@
     "type": "image/jpeg",
     "width": 1138
   },
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/0,14/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/version/0,14/"
+  ],
   "title": "Late Game Beaconized Oil Processing",
   "author": {
     "userId": "OZ2eHGR9oCMGheVWfcznGPpT0Eo1"

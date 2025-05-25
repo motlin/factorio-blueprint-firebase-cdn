@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1641149794096,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "2-Lane RHD Hex Rails by PulsatingSteel",
   "favorites": {
     "thlbXSd5B1bqHuXZrgaoGBhQoMz1": true,

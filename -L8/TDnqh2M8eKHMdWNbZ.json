@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1521999363477,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "zisteau rail road stuff"
 }

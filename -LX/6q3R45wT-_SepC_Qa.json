@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1548467325023,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Total Sushi Science"
 }

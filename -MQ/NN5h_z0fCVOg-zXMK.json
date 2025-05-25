@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1609949219440,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Automatic Solar Deployer"
 }

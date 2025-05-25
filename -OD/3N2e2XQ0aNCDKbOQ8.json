@@ -26,10 +26,10 @@
   "imageUrl": "https://imgur.com/XOuox2y",
   "lastUpdatedDate": 1733092719500,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/general/early game/",
-    "2": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "1 Chunk Starter Base (Edited/Fixed)"
 }

@@ -8,13 +8,13 @@
     "type": "image/jpeg",
     "width": 1277
   },
-  "tags": {
-    "3": "/production/belt based/",
-    "4": "/general/compact/",
-    "0": "/general/mid game/",
-    "1": "/production/other/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/general/compact/",
+    "/general/mid game/",
+    "/production/other/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "vSOyz8T3XzVhY1f1guNQt13pnui2"
   },

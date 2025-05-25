@@ -9,11 +9,11 @@
   "createdDate": 1564179295470,
   "numberOfFavorites": 2,
   "lastUpdatedDate": 1564179295470,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "bZNcXRlMr5dbPus7zXTcwZsXk3J2"
   },

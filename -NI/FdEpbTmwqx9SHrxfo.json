@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698938832723,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/version/1,1/"
+  ],
   "title": "SE rockets and Launch pad book",
   "favorites": {
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,

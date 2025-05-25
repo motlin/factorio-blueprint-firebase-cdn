@@ -5,11 +5,11 @@
     "height": 1392,
     "id": "2fAEeUh"
   },
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/inserters/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/inserters/",
+    "/mods/space-exploration/"
+  ],
   "title": "[Space Exploration] Inserters - expandable by stages (v1) by Abarel",
   "favorites": {
     "MZlwWAeuMmXr8joKAfo42kFIEVE3": true,

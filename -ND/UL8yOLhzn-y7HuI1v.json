@@ -27,10 +27,10 @@
   },
   "lastUpdatedDate": 1664825730430,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Rail-Blocks v2"
 }

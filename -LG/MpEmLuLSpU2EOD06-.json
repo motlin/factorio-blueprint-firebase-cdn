@@ -35,10 +35,10 @@
   },
   "lastUpdatedDate": 1559472962981,
   "numberOfFavorites": 19,
-  "tags": {
-    "1": "/production/mining/",
-    "2": "/version/0,17/",
-    "0": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/version/0,17/",
+    "/mods/ltn/"
+  ],
   "title": "LTN Mining Outposts 2-4-2 ID#16"
 }

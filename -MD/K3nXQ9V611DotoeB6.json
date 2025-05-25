@@ -12,11 +12,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,18/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,18/",
+    "/mods/vanilla/"
+  ],
   "title": "Elgliad's 50SPM Science 2-Tier (Automation, Logistics, Military, Chemical)",
   "favorites": {
     "H5lymY5ep2bcFjb6fHU8E5RcURK2": true,

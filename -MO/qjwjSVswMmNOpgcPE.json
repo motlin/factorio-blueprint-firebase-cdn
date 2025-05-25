@@ -13,17 +13,17 @@
   },
   "lastUpdatedDate": 1730616860896,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/power/kovarex enrichment/",
-    "5": "/production/logistic (bot) based/",
-    "6": "/mods/vanilla/",
-    "7": "/version/2,0/",
-    "8": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/power/kovarex enrichment/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/power/nuclear/"
+  ],
   "title": "2xKovarex [SS][B][T]",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

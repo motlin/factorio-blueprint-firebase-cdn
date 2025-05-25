@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1650496352862,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Fuel Efficient Compact 480MW 48x48 tile nuclear reactor",
   "favorites": {
     "ka9uPDoWwJTjLYOtXliwlzyz3zB2": true,

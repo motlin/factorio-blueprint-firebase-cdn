@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1618229562549,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/circuit/indicator/",
-    "2": "/general/storage/",
-    "3": "/version/1,0/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/general/storage/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Storage Tank Display in %.",
   "favorites": {
     "meLDhriS8KX2MlqVw7INlGuT6yJ2": true,

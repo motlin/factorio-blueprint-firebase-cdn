@@ -41,13 +41,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220924115219_1.jpg?alt=media&token=04aa8c21-671e-434c-ac74-6469492aa416",
   "lastUpdatedDate": 1672842502656,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/production/research (labs)/",
-    "3": "/power/nuclear/",
-    "4": "/production/uranium/",
-    "5": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Rush Robot (Starter base)"
 }

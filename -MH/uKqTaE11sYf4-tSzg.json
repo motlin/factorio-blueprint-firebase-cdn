@@ -28,11 +28,11 @@
   },
   "lastUpdatedDate": 1601332823939,
   "numberOfFavorites": 11,
-  "tags": {
-    "2": "/train/unloading station/",
-    "3": "/train/stacker/",
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "title": "6 Balanced Stations with anti-stampede measures"
 }

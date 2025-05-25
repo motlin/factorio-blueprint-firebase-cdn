@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1654984161538,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "KR/SE Multi-item Rocket Launch",
   "favorites": {
     "LDSPhy30E8W4NKaT7U1SAQNQVMJ2": true

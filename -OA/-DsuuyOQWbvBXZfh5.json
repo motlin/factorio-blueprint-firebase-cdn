@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/a82fRtU",
   "lastUpdatedDate": 1729801981744,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/version/2,0/"
+  ],
   "title": "Big Boi Boiler Steam Power",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

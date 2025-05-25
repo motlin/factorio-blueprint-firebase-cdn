@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/crossing/"
+  ],
   "authorId": "7sU0zxOTMXcWUZnvKby28Off5Ih2",
   "createdDate": 1594085229561,
   "descriptionMarkdown": "Uses some circuitry to ensure you don't die! Simply connect the output from the gates to the medium pole. \n\n*May have some bugs, and still improving on it! If you like it, may as well <3 it.",

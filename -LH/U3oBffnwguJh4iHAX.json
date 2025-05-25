@@ -19,12 +19,12 @@
   "createdDate": 1531677197227,
   "descriptionMarkdown": "All I need for smelting <br/> Factorio v0.16.51<br/>\nComes from, but with some little modifications : https://steamcommunity.com/sharedfiles/filedetails/?id=844332918",
   "lastUpdatedDate": 1533146044318,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/compact/"
+  ],
   "title": "Smelt Process"
 }

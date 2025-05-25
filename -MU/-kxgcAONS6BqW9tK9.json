@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1642837826422,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Protected Rails v0.1"
 }

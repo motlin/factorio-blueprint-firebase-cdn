@@ -23,15 +23,15 @@
   },
   "lastUpdatedDate": 1582810821873,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/",
-    "2": "/production/science/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "6": "/version/0,17/",
-    "7": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/science/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/0,17/",
+    "/version/0,18/"
+  ],
   "title": "Expensive 6S/sec Science Book"
 }

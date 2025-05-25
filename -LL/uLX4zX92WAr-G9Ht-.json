@@ -36,11 +36,11 @@
   "createdDate": 1565420823162,
   "descriptionMarkdown": "Blet Balancer from 2 to 3 --> 8 to 8 in Blue belt\n\n[FR]\n\nproposez moi de usine à faire et je les partagerais avec vous\n\n[EN]\n\nsuggest me to factory and I will share them with you\n",
   "lastUpdatedDate": 1565420823162,
-  "tags": {
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ],
   "title": "Belt Balancer Blue",
   "author": {
     "userId": "1eQdgkZ502YV2B6bqTXQ9xR7a1u2"

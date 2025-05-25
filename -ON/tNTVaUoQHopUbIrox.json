@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/bTTHddJ",
   "lastUpdatedDate": 1744719440068,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-age/"
+  ],
   "title": "Start base Fulgora",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

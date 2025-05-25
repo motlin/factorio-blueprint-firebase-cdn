@@ -27,11 +27,11 @@
   },
   "lastUpdatedDate": 1606528638247,
   "numberOfFavorites": 10,
-  "tags": {
-    "2": "/general/beaconized/",
-    "3": "/mods/krastorio/",
-    "0": "/version/1,0/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/krastorio/",
+    "/version/1,0/",
+    "/production/smelting/"
+  ],
   "title": "Jolene's beaconed smelters"
 }

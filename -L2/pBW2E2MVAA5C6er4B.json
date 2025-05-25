@@ -2,12 +2,12 @@
   "descriptionMarkdown": "Allows to tap a 4-lane bus from top.\n\n*Example : T/3/R allows to tap from third belt onto its right side*\n\nVersions with underground belt is also provided for joining belts from bottom.\nSee screenshot.\n\nDoes not include belt balancing.\n\n*TODO :* \n * Tap from bottom\n * Manage red and blue",
   "lastUpdatedDate": 1515942189219,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/belt/tap/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/",
+    "/belt/tap/"
+  ],
   "title": "Tap 4-lane yellow bus from the top",
   "author": {
     "userId": "7yH41KjrNGRACs210QzOSru2Uto1"

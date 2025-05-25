@@ -26,10 +26,10 @@
   "authorId": "oFqnuTnk6YNTjcCvbFz7c23IYKs2",
   "createdDate": 1557643172533,
   "fileName": "All the inserts.jpg",
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "0": "/production/inserters/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/inserters/"
+  ],
   "title": "All the Inserters"
 }

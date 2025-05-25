@@ -34,12 +34,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Smeltery%20v%202.jpg?alt=media&token=a3034bcb-864d-4fec-9432-89cd62d0d3d3",
   "lastUpdatedDate": 1575748574572,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/smelting/",
-    "2": "/general/late game (megabase)/",
-    "3": "/train/left-hand-drive/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/smelting/",
+    "/general/late game (megabase)/",
+    "/train/left-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "1K SPM Smeltery (Copper Plate, Iron Plate, Steel Plate, Brick) v.2"
 }

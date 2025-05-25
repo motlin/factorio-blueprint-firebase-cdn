@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1635974689147,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "SIR - Shiverczar's Infinite Refinery"
 }

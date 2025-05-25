@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1681312269051,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/circuit/indicator/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/moderation/add english translation/",
-    "6": "/version/1,1/",
-    "7": "/production/smelting/",
-    "8": "/production/mining/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/moderation/add english translation/",
+    "/version/1,1/",
+    "/production/smelting/",
+    "/production/mining/"
+  ],
   "title": "Counter per second/minute! (Счетчик ресурсов в секунду/минуту)",
   "favorites": {
     "9Fh254pLFSRFLIPOYoRcLYTqDEy1": true,

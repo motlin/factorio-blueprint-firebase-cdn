@@ -14,10 +14,10 @@
     "width": 3527
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "InxaDbz54iNBBBfbFI2H1xMaxGs2": true,
     "kmo8Yyi5ICNRrUQflqr3SFrKyQN2": true,

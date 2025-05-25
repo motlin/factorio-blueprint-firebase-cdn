@@ -13,9 +13,9 @@
   "descriptionMarkdown": "Blueprint book for city blocks exactly 5 pole lengths apart. Includes several different stop stations to plug in - full sides can handle a 3-8 train, 2 stops can handle 1-4 trains, and 3 stops are for 1-2 trains. Also has straight sections and corners to extend out without printing the entire square but keep things on the grid. Uses lighted electric poles mod. ",
   "numberOfFavorites": 7,
   "title": "5-Pole Square City Blocks",
-  "tags": {
-    "0": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/right-hand-drive/"
+  ],
   "author": {
     "userId": "PhFDNemp3pbnXXzwM4BbJMX6KqI3"
   },

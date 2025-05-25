@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/1NFuOs2",
   "lastUpdatedDate": 1738920744731,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Auto assembler"
 }

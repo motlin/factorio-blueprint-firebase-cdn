@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701253508284,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/smelting/"
+  ],
   "title": "Holmium 300/min",
   "favorites": {
     "4qCpggCt7OhoLVrsStG3lukWuxE2": true

@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "RBCfvRviMJUSmEiZ1UUjKHv7lcs1"
   },

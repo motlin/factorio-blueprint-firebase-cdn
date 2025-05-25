@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/hXSRaTm",
   "lastUpdatedDate": 1734619490878,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/solar/"
+  ],
   "title": "transporter"
 }

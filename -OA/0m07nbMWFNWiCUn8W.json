@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/KpvaRld",
   "lastUpdatedDate": 1729827967567,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/"
+  ],
   "title": "1.5/s Blue&Red Inserters"
 }

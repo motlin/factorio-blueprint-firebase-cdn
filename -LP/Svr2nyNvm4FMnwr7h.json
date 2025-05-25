@@ -18,10 +18,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Day Night Switch",
   "author": {
     "userId": "KG53vmQQOMY7CJKjH0ZgeT5QbzH2"

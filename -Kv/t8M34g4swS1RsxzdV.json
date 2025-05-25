@@ -16,12 +16,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1.PNG?alt=media&token=d939e1c4-b312-4921-a706-e8176b558663",
   "lastUpdatedDate": 1541950833679,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/general/chunk aligned/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "title": "238.8 MW Tileable Solar Array (Radar covered, Roboport Covered)"
 }

@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/tR7fVLB",
   "lastUpdatedDate": 1723769819537,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de circuito vermelho para Exotics"
 }

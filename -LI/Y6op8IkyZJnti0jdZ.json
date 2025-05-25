@@ -1,12 +1,12 @@
 {
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "2": "/mods/bobs/",
-    "3": "/mods/angels/",
-    "4": "/version/0,15/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Coke, Carbon, Sulfuric waste water",
   "author": {
     "userId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13"

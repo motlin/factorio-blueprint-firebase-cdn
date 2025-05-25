@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/YSjUmLQ",
   "lastUpdatedDate": 1732491166831,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/production/science/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/science/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Produccion space science 314 x min or 5.2 x sec",
   "favorites": {
     "3toBa22knDQuxlH1JhQ49u3gYYu1": true,

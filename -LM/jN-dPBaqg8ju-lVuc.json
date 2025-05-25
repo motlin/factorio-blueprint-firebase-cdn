@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "authorId": "OXk9egUBDlT45pfiyINkvRI91Xn2",
   "descriptionMarkdown": "Compact early game petroleum processing with cracking.\n",
   "fileName": "Screen Shot 2018-09-18 at 6.05.06 PM.png",

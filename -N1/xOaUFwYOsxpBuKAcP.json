@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1652445180040,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/train/left-hand-drive/",
-    "3": "/train/junction/",
-    "4": "/train/crossing/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/train/left-hand-drive/",
+    "/train/junction/",
+    "/train/crossing/"
+  ],
   "title": "Comprehensive Snapped Railway System 6-car 2-way LHT 5-rail spacing"
 }

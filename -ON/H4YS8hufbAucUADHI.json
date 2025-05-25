@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/rr3KQsn",
   "lastUpdatedDate": 1744071237577,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/",
-    "3": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus - Low Density Structure (60/m)",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

@@ -8,13 +8,13 @@
   },
   "lastUpdatedDate": 1519926696574,
   "numberOfFavorites": 32,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "BBXI8DmI7ONrvHiyrJF85r5HZ0A3"
   },

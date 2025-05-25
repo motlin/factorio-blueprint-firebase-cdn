@@ -19,10 +19,10 @@
     "type": "image/jpeg",
     "width": 843
   },
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,16/"
+  ],
   "authorId": "BMbr3u14ITaxo16fWERJChsrR3f1"
 }

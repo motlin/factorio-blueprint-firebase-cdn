@@ -15,15 +15,15 @@
   "descriptionMarkdown": "Inspired by this post https://www.reddit.com/r/factorio/comments/a5ferf/i_present_to_you_the_44_universal_balancer/ of u/tzwaan i went to change his layout to look better to the eye.\n\nin the blueprint book is 1 print for each color of belt.\n\nthey are shorter for the highter tier of belts becouse the undergrounds are capable to reach longer.",
   "fileName": "universal balancer.png",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/belt/prioritizer/",
-    "5": "/version/0,16/",
-    "6": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/belt/prioritizer/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
   "title": "4-4 universal balancer redisign (original by u/tzwaan)",
   "favorites": {
     "t6AWVIQ0mMfL2ot9NKstThrqeEH2": true,

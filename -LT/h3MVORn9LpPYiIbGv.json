@@ -17,10 +17,10 @@
   "descriptionMarkdown": "This is a small circuit setup use to request items from inside a factorissimo building, such as your Mall. Requires 2 i/o slots from the factory, but provides the ability to request multiple different items. \n\n1. Set the circuit (output) and requester chest on the inside of the mall, and the rest on the outside. The requester chest should output into the provider chest on the outside.\n2. Set a negative amount on the constant combinator for what you want to request from inside the factory.\n\nThe system will read the content of the logistic network and send an \"order\" for what is missing every 5 seconds, each lasting 1 second (can be changed with the deciders). \n\n",
   "fileName": "Outside.png",
   "lastUpdatedDate": 1544797470986,
-  "tags": {
-    "1": "/version/0,16/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/factorissimo/"
+  ],
   "title": "Factorissimo requester",
   "author": {
     "userId": "OpTC26lAd0hW5JRF2zWSMggDMQf2"

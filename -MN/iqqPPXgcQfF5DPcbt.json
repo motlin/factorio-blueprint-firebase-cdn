@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
     "GlABljA7Y8XOU5rOOU7oD3VpB182": true,

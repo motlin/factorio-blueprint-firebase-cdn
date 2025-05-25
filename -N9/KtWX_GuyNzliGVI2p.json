@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660372407100,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/vanilla/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "One or two component production."
 }

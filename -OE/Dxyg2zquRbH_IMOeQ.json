@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/4TTAsZ3",
   "lastUpdatedDate": 1734344174423,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Carbon Collector",
   "favorites": {
     "LInQCTOviyQnvcv6RMXpS2K23V13": true,

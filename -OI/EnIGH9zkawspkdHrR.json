@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/hoTymQW.png",
   "lastUpdatedDate": 1738653119662,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/stacker/",
-    "2": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/stacker/",
+    "/general/chunk aligned/"
+  ],
   "title": "City Block v3",
   "favorites": {
     "gEfoLmp3CvNQuNl2ngWAwEDAINZ2": true,

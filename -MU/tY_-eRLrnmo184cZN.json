@@ -15,9 +15,9 @@
   },
   "descriptionMarkdown": "Just some tracks. X's might cause issues with throughput as they block both lanes for a second. Please delete them if throughput gets low.",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "4 Lane T Junction",
   "favorites": {
     "7fSyJDSKXwY1InNj78jgw4QnzLv1": true,

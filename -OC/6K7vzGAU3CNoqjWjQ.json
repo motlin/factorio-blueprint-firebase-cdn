@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/JCPKMnw",
   "lastUpdatedDate": 1732068544545,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "NS DeathStar"
 }

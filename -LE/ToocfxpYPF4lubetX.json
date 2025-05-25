@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "1": "/train/crossing/",
-    "2": "/mods/vanilla/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/junction/",
-    "5": "/version/0,15/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/version/0,15/",
+    "/version/0,17/"
+  ],
   "title": "Modular Train Network with Wires",
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,

@@ -2,10 +2,10 @@
   "descriptionMarkdown": "Water in from the Top. \nItem's in from the Bottom.\n\nIt produces 216 MW using 54 Coal/Second (2 Red Belts) or 18 Solid Fuel/Second (2 Yellow Belts or 1 Red Belt)\nBoth are manageable with Yellow Inserters (Coal needs 1 Stack Upgrade)",
   "fileName": "Advanced Steam.png",
   "numberOfFavorites": 18,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/steam/"
+  ],
   "title": "Advanced Steam Power Mk1",
   "authorId": "A85FFWm3FuXJdGVOraicYIB6Wc43",
   "createdDate": 1578901490241,

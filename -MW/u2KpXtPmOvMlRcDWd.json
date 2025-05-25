@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1645946429030,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/junction/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/junction/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Water Crossing Rails Using Noxy's Waterfill | Left Handed",
   "favorites": {
     "OOZ2GywnJ4X2N52aXX8l4JhMssJ3": true,

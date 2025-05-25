@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1551069440148,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/other/",
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/steam/"
+  ],
   "title": "Py mods - power plant"
 }

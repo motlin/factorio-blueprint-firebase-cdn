@@ -22,10 +22,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/E404_Nuclear10_02.PNG?alt=media&token=a0dd378b-bc04-4ac5-9af2-4981f8fce995",
   "lastUpdatedDate": 1582491427099,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "1.44 GW Nuclear Reactor"
 }

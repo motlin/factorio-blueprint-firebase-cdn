@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1579421937741,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/production/guns and ammo/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/version/0,17/"
+  ],
   "title": "War! [Dae#5125] 1.5"
 }

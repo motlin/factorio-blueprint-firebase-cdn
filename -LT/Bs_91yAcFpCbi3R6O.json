@@ -35,10 +35,10 @@
     "type": "image/png",
     "width": 609
   },
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "UlXf1N8EXUfddHj3a5NChfy0ssN2"
   },

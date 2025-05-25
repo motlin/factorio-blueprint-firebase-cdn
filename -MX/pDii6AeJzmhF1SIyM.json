@@ -60,11 +60,11 @@
   },
   "lastUpdatedDate": 1617948241116,
   "numberOfFavorites": 32,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/modules/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/mall (make everything)/",
+    "/production/modules/",
+    "/version/1,0/"
+  ],
   "title": "Krastorio 2 Modular Mall extended"
 }

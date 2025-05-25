@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/h57Gwct",
   "lastUpdatedDate": 1738367204183,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "highly compressed stone furnace stack ",
   "favorites": {
     "Q6pH7PEJ5PSh2ffhxaBZOYDQAs02": true,

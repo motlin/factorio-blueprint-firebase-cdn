@@ -19,8 +19,8 @@
   "imageUrl": "https://imgur.com/V1ZPo21",
   "lastUpdatedDate": 1730089456759,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Stacked Greenbelt production"
 }

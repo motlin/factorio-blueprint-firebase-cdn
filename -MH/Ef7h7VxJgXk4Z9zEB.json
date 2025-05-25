@@ -23,8 +23,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20210816182254_1.jpg?alt=media&token=394e9e82-0ed7-44ec-9ec1-f257c8708539",
   "lastUpdatedDate": 1629274801395,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "solar field with roboports and radars"
 }

@@ -21,15 +21,15 @@
   },
   "lastUpdatedDate": 1594945232668,
   "numberOfFavorites": 4,
-  "tags": {
-    "5": "/production/robots/",
-    "6": "/mods/vanilla/",
-    "7": "/version/0,15/",
-    "0": "/general/late game (megabase)/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/oil processing/",
-    "3": "/production/electronic circuit (green)/",
-    "4": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/production/logistic (bot) based/",
+    "/production/oil processing/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Robot Factory 450/m [Logistic Input] -LATEGAME-"
 }

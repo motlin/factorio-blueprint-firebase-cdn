@@ -2,11 +2,11 @@
   "createdDate": 1602937684872,
   "descriptionMarkdown": "Makes Purple Science with technology available before purple science.\n\nNote: doesn't make 75 SPM until later in the game when you upgrade factories to yellow. \nPart of the 75 SPM starter base blueprint book",
   "lastUpdatedDate": 1602937684872,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/science/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/1,0/"
+  ],
   "title": "75 SPM Purple Science",
   "favorites": {
     "NkfW5zgDrLXdxtjiRehrb6ahaHI2": true,

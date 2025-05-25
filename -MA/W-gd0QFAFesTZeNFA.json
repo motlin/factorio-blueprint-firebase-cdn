@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1622479080672,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/version/0,15/",
-    "2": "/production/smelting/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Livro de plantas (episódio 17)"
 }

@@ -12,13 +12,13 @@
   "authorId": "LREOSaNKYAUGRHt9BNgGve3uVVk2",
   "descriptionMarkdown": "## Malls for achievement \"Lazy Bastard\"\n\nThis \"Mall 0\" is for the basics, belts, inserters and assemblers\n\nThis mall makes belts, splitters, underground belts, all type of inserters and all type of assemblers. The basic items of each are needed immediately at game start. \n\nTo this mall you need to supply:\n\n1. iron plates\n1. green chips\n1. red chips (note)\n1. lubricant (note)\n\nNote: Add red chips and lubricant when you have them to make the more advanced items.\n\nYou can replace some of the Assembling Machine 2 with Assembling Machine 1 in this blueprint.\nThe filter inserters are in the blueprint only to mark exactly where to put the input materials. Remove those.\n\nThis mall is part of a series of malls:\n* [Mall 0 - Belts, Inserters, Assemblers](https://factorioprints.com/view/-LXjNpVx7T9h2Rt3V8ym)\n* [Mall 1 - Game Start](https://factorioprints.com/view/-LX_dzPZrM1XLUOaxePs)\n* [Mall 2 - Mid Game](https://factorioprints.com/view/-LXi8s3W7aU-k-OLCRRG)\n* [Mall 3 - Robots](https://factorioprints.com/view/-LYvq2B2eIlNtQc4tzm0)\n",
   "lastUpdatedDate": 1550413644366,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/production/belts/",
-    "3": "/production/inserters/",
-    "4": "/general/early game/",
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/belts/",
+    "/production/inserters/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Mall 0 - Belts, Inserters, Assemblers",
   "favorites": {
     "fjakh4CVuBYkR97QTzjHB1je1l63": true,

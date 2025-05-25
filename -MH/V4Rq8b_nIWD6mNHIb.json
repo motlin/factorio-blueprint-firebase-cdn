@@ -7,11 +7,11 @@
   },
   "lastUpdatedDate": 1601635946442,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Graph Indicator",
   "createdDate": 1600413617688,
   "authorId": "m5WaHz7xqLg0BNsukJVtc2VED0N2",

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/3jb2zv3",
   "lastUpdatedDate": 1738602865207,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/science/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/science/",
+    "/mods/space-age/"
+  ],
   "title": "Vulcanus Science 100 SPM. Metallurgic science pack",
   "favorites": {
     "9dyl2G4vrpXFcZjhozx3idzIIx32": true,

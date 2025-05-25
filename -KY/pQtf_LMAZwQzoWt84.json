@@ -12,13 +12,13 @@
     "type": "image/jpeg",
     "width": 1124
   },
-  "tags": {
-    "4": "/version/0,14/",
-    "0": "/train/unloading station/",
-    "1": "/train/track/",
-    "2": "/power/solar/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,14/",
+    "/train/unloading station/",
+    "/train/track/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,
     "D3rJJEhuPpN96wN6paU9KPfHKz72": true,

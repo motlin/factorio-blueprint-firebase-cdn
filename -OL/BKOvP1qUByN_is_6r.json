@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/tedsTRB",
   "lastUpdatedDate": 1741816176491,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Mineração básica de carvão"
 }

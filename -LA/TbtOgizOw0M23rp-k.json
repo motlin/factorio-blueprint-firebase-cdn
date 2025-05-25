@@ -36,10 +36,10 @@
   },
   "lastUpdatedDate": 1553144452868,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Late game smelting array 40k/min"
 }

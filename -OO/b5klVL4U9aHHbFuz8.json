@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ZedqOZX",
   "lastUpdatedDate": 1745486550496,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "DW blueprint"
 }

@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1691972580818,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/power/nuclear/",
-    "2": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/production/uranium/"
+  ],
   "title": "Nuclear Production and Generation "
 }

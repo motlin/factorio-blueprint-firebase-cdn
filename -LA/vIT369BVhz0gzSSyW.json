@@ -35,12 +35,12 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1554653087095,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/production/electronic circuit (green)/",
+    "/general/tileable/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/greencirc.png?alt=media&token=20fe71cf-4815-49a8-bdbe-148d630bdf49"
 }

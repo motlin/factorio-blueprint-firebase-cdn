@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/PxdJ72n",
   "lastUpdatedDate": 1731043254065,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "9 GW Tileable Fusion Reactor",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true

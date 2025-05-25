@@ -15,11 +15,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "title": "Simple Inserters"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678522574308,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "TRAIN setup by chrisivan02",
   "favorites": {
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true

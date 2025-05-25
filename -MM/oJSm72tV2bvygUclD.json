@@ -16,11 +16,11 @@
   "createdDate": 1606121807212,
   "fileName": "K2 + SE Biomethanol.jpg",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/krastorio/",
+    "/mods/other/"
+  ],
   "favorites": {
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
     "l54evwpJDXTXCGw3zbdZyuIHSTS2": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1637434972080,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Cápsula espacial",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true

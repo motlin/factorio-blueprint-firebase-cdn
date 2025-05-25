@@ -11,11 +11,11 @@
     "type": "image/jpeg",
     "width": 711
   },
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "four pointed star solar pattern",
   "author": {
     "userId": "btBW49nV2GeRs7c0ydes781vtBn2"

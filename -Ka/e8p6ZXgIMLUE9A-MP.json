@@ -8,11 +8,11 @@
     "width": 929
   },
   "lastUpdatedDate": 1498740286120,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "descriptionMarkdown": "Rotate to tile. Mk4 Solar! Now with more symetry and logistics efficiency! If walking space is required move logistics ports out diagonally by 1 tile to make a 2 tile walkway but be weary as this will not allow you to simply place and leave. This is because trees on the far side of the port will not be removed from the previous tiles construction range. The ratio is quite good with slightly more accumulators than solar panels required.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mk4%20Solar.png?alt=media&token=585ee0ba-e56b-412d-ada7-5a3e14668d37",
   "numberOfFavorites": 4,

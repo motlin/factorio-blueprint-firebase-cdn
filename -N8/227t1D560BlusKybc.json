@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1658983136633,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "0 Buffer Kovarex",
   "favorites": {
     "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,

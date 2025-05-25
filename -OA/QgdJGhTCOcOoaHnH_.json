@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/50Ybucy",
   "lastUpdatedDate": 1730359524567,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Large Cloverleaf Reactor (2.0.12)"
 }

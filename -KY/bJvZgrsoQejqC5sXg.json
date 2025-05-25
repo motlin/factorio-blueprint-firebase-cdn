@@ -4,10 +4,10 @@
   "lastUpdatedDate": 1510341446939,
   "title": "basic coal automisation",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "Xqxs9li2acQ9VjzkmpQop7cUuzu1"
   },

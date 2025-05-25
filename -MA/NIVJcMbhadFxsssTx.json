@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1621757920691,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Circuit network multiplexer",
   "favorites": {
     "Fwhx4HVYzVSRDjcWS3wYweUuzAs2": true,

@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/E8UsfmM",
   "lastUpdatedDate": 1739071785971,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/solar/"
+  ],
   "title": "Science Sphere by XtremeZion Modified"
 }

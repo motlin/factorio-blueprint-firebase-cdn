@@ -3,10 +3,10 @@
   "fileName": "bookoffilters.PNG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bookoffilters.PNG?alt=media&token=e0bf19cc-ea1e-489e-a96c-abd5780a38cf",
   "lastUpdatedDate": 1515495838123,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "XYxF6dLBPTR40dQ5jfEQJP9Vpbj1"
   },

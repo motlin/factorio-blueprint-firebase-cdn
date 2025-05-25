@@ -37,11 +37,11 @@
   },
   "numberOfFavorites": 44,
   "lastUpdatedDate": 1536926942773,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,16/",
-    "2": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,16/",
+    "/mods/factorissimo/"
+  ],
   "author": {
     "userId": "ZgARpID1UwO7dwgUFB4dWn74SQO2"
   },

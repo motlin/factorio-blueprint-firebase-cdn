@@ -20,14 +20,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screen.jpg?alt=media&token=25742a52-cee7-486c-b381-1b59dafc3183",
   "lastUpdatedDate": 1505091543199,
   "numberOfFavorites": 4,
-  "tags": {
-    "4": "/general/compact/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/production/rocket parts/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/",
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "50 SPM Compact base"
 }

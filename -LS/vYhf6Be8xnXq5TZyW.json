@@ -6,10 +6,10 @@
     "type": "image/jpeg",
     "width": 416
   },
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/version/0,16/"
+  ],
   "title": "R_LHD_2___",
   "lastUpdatedDate": 1543966219147,
   "numberOfFavorites": 4,

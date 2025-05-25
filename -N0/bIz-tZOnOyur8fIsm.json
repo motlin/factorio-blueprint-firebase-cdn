@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651000759660,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "25 SPM early game sushi lab facility"
 }

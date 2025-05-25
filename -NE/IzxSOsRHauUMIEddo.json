@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1665709103096,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/roundabout/"
+  ],
   "title": "Circular rail crossing",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

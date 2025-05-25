@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/XonekgI",
   "lastUpdatedDate": 1735833131287,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/quality/",
-    "2": "/production/coal liquification/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/quality/",
+    "/production/coal liquification/"
+  ],
   "title": "Legendary Mining Vessel",
   "favorites": {
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,

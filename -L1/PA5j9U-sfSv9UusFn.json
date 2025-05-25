@@ -11,10 +11,10 @@
   "descriptionMarkdown": "A very efficient Train Roundabout with two circles and straight main roads for the maximum of efficiency! Btw with perfect placed Block signals.\n\n*NOTE!   \nThe substation in the middle is modded and is just in the screenshot!\nThe Blueprint does NOT contain Lamps and the substation!\nInsteat there is another big electric pole in the middle.",
   "fileName": "4x4 Train Roundabout.png",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "NlhKxPyJ6SRcVz4ce4YJSjzdpg32"
   },

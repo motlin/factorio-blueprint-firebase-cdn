@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/I7Jl2GY",
   "lastUpdatedDate": 1735414316076,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Logística para mineração de arcosferas"
 }

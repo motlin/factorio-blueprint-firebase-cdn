@@ -3,11 +3,11 @@
   "createdDate": 1546444946060,
   "descriptionMarkdown": "By simply adding the blueprinted rails and signals into existing standard roundabout you can increase throughput from 32 trains/min to 43 t/min - almost 90% of throughput of celtic knot intersection (48 t/min). There is also version for RHD roundabouts, but it increases throughput to only 39 t/min.\n\nUseful if you have roundabouts in you factory that begin to bottleneck the flow of resources but you don't want to be bothered with deconstruction, traffic blockage or fitting intersections with larger footprint into existing infrastructure. \n\nThroughput measurements were performed with the revised [testing framework](https://forums.factorio.com/download/file.php?id=40945)* from the intersection [forum thread](https://forums.factorio.com/viewtopic.php?f=194&t=46855).\n\n\\*According to my experience, the revised test framework produces different (higher) results than the original one, so it's impossible to compare its results to official throughput numbers in the thread OP. Or perhaps I've f****d something up when performing measurements.",
   "lastUpdatedDate": 1557366300676,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/junction/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "aHVRptBLMNMffDmAhEVHe1L4FPg1": true,
     "skcKKKFwPrY4FKCAWZKcPyHy2jS2": true,

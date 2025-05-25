@@ -4,9 +4,9 @@
   "descriptionMarkdown": "connect the color desired to be displayed [e.g. yellow, blue(cyan), red, white, green]",
   "lastUpdatedDate": 1576233873983,
   "title": "Color Text Display",
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "dPypH2mcLRYa09cyOtnYXPJ4Ixp2": true,
     "0fGlHnZ5NJYZXl7YtKNGQGTjQAw2": true,

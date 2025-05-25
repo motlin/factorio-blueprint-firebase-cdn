@@ -6,14 +6,14 @@
     "width": 1067
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "1": "/production/guns and ammo/",
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/",
-    "5": "/version/0,15/",
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,
     "JyPCmcQ1tAXcCMRWm5xPVmnXk0I2": true,

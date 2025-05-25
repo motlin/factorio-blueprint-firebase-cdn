@@ -18,9 +18,9 @@
     "4x3FiHGpbjOLt9JjvcIZrfgaO9i2": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true
   },
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "authorId": "zR082GLWBDUFFOPqlIYoxbN49Kz2",
   "createdDate": 1576663867230,
   "descriptionMarkdown": "Calculatin' dem stacks.\n\nCan handle any number of item signals. The values of those do have upper limits, but since nobody sane would try to load a train with more than 500k tanks...\n\nThis contraption will also round up for partial stacks. Meaning, if you have 101 rails, it will count them as 2 stacks, since that single rail does actually take up another slot.\n\nCredits to AssemblyStorm for simplifying this setup from about 6 times the size to just this... Apparently algebra is OP.\n\n---\nIf you wanted only the stack sizes, but not the actual stacks, use this BP: https://factorioprints.com/view/-LwH68dlvOEIKWkU5JqR",

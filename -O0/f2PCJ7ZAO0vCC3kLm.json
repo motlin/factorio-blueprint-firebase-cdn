@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/wjcoPGx",
   "lastUpdatedDate": 1719782974395,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Power",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

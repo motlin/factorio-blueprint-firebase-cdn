@@ -16,12 +16,12 @@
   },
   "authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
   "createdDate": 1494171690854,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "LHD Compact Celtic Knot Style Intersection",
   "favorites": {
     "we7GMANN5SYFeddgkztRoERAX3n2": true,

@@ -23,12 +23,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d%E2%80%99%C3%A9cran%20(123).png?alt=media&token=47059a28-d283-4d63-a570-07bbcfab654b",
   "lastUpdatedDate": 1637332195990,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/storage/",
-    "2": "/production/mall (make everything)/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/production/other/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/storage/",
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/",
+    "/production/other/"
+  ],
   "title": "Item storage BUS"
 }

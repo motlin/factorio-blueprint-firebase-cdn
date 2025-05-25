@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/fk9nccj",
   "lastUpdatedDate": 1731026050160,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Pentapod egg preserver",
   "favorites": {
     "7PXszydZ7rN6yhncVfz4Cwr9NK53": true,

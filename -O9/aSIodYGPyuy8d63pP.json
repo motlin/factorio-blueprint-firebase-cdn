@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/61tr1mg",
   "lastUpdatedDate": 1729369572442,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Fabrica de Módulos (parte 2) (Exotics + S.E.) "
 }

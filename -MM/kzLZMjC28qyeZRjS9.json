@@ -23,8 +23,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/aac21e0da40f407aa9890f4e6dc56195.png?alt=media&token=1e661ab8-6531-43d0-9c83-d940e39623f0",
   "lastUpdatedDate": 1636966677623,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/1,0/"
-  },
+  "tags": [
+    "/version/1,0/"
+  ],
   "title": "CoRNeRNoTe's Grid Base Book"
 }

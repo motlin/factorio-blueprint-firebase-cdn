@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/E2SHpJJ",
   "lastUpdatedDate": 1732572178264,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Power-saving self-assembling nuclear reactor",
   "favorites": {
     "BYdZCzlWOHMR6xFJZ2gMuRS1YKT2": true,

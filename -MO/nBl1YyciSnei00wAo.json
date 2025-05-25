@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1637241524570,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Motor elétrico",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

@@ -35,8 +35,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blueprints.jpg?alt=media&token=32a9f049-11f6-4d49-8ae8-424e42113fa5",
   "lastUpdatedDate": 1645829483797,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/seablock/"
-  },
+  "tags": [
+    "/mods/seablock/"
+  ],
   "title": "A Beautiful Sea Block"
 }

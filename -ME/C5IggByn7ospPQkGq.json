@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1625864878948,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/early game/"
+  ],
   "title": "Early Endless Coal",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

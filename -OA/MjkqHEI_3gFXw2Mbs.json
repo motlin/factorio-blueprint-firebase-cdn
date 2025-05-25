@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/rWYU6vS",
   "lastUpdatedDate": 1730212827729,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/inserters/"
-  },
+  "tags": [
+    "/production/inserters/"
+  ],
   "title": "Red/Blue/Green inserters ",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

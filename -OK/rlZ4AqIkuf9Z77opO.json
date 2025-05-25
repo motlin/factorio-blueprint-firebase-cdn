@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/jygCLj5.jpeg",
   "lastUpdatedDate": 1743435626606,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/scrap processing/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/scrap processing/",
+    "/production/logistic (bot) based/",
+    "/mods/space-age/"
+  ],
   "title": "Scrap Processing (Bots)",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

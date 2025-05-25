@@ -18,9 +18,9 @@
   },
   "createdDate": 1529326097315,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/version/0,16/"
+  ],
   "authorId": "hu3m7HGMHvSiJD2iYJG7sg6f2jH3"
 }

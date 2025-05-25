@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Small city block",
   "image": {
     "id": "5AtKW3f",

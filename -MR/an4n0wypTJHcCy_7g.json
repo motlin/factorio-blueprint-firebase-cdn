@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1611263663656,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "540 Science per Minute"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/AdwbJgf",
   "lastUpdatedDate": 1733246452656,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/version/2,0/",
-    "2": "/planets/vulcanus/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/version/2,0/",
+    "/planets/vulcanus/",
+    "/general/early game/"
+  ],
   "title": "Big Mining Drill factory",
   "favorites": {
     "ZCdZvG7ntGbzG03U81dfaiGrInP2": true

@@ -24,9 +24,9 @@
   },
   "lastUpdatedDate": 1680658303476,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Red Chips City Block"
 }

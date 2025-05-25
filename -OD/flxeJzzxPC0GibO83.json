@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/AWGfizk",
   "lastUpdatedDate": 1733753821961,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Benidorm Class General Purpose Ship"
 }

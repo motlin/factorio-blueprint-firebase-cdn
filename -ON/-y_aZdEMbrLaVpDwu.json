@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/VmYnLlD.png",
   "lastUpdatedDate": 1743773600752,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "ALL THE INDICATORS",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true

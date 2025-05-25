@@ -52,13 +52,13 @@
   },
   "lastUpdatedDate": 1612223669824,
   "numberOfFavorites": 34,
-  "tags": {
-    "5": "/train/roundabout/",
-    "0": "/version/1,0/",
-    "1": "/power/solar/",
-    "2": "/power/steam/",
-    "3": "/mods/vanilla/",
-    "4": "/production/robots/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/version/1,0/",
+    "/power/solar/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/production/robots/"
+  ],
   "title": "Big Bertha Outpost With autonomous power"
 }

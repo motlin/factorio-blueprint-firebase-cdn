@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1616198313735,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Powerplant",
   "favorites": {
     "CL9H3AtAEAfAongJ8uPTl7RdcE22": true

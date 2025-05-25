@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698284347971,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "title": "FABRICA DE PAINEL SOLAR",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

@@ -11,10 +11,10 @@
     "height": 1066
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ],
   "title": "Capacity Indicator",
   "favorites": {
     "khLPe6WmLRMQMcimI8nXXVibBe63": true,

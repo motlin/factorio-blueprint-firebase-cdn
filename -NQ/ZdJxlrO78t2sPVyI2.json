@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1678873284828,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Power Counter",
   "favorites": {
     "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,

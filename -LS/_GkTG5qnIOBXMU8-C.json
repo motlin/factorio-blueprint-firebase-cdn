@@ -25,16 +25,16 @@
   },
   "lastUpdatedDate": 1543592414002,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/rocket parts/",
-    "3": "/production/research (labs)/",
-    "7": "/production/belt based/",
-    "2": "/production/science/",
-    "4": "/general/mid game/",
-    "5": "/mods/vanilla/",
-    "6": "/production/smelting/",
-    "8": "/production/oil processing/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/production/belt based/",
+    "/production/science/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/production/oil processing/"
+  ],
   "title": "45 SPM Mid Game Base, All 7 sciences"
 }

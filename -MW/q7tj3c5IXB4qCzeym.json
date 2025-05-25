@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1616932176676,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,0/",
+    "/general/tileable/"
+  ],
   "title": "2.4 GW Infinitely Tileable Reactor Array",
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1659704213529,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/beaconized/"
+  ],
   "title": "Krastorio 2 Endgame Wood/Matter",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ferti.png?alt=media&token=d8289794-208c-440f-b25d-1258facedfa4",
   "favorites": {

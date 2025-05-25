@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
   },

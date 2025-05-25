@@ -23,8 +23,8 @@
   "imageUrl": "https://imgur.com/GQjPZHb",
   "lastUpdatedDate": 1734730861026,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Achilles (Shattered Planet capable ship)"
 }

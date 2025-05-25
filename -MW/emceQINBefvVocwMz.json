@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1645690391473,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/junction/",
-    "3": "/train/crossing/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/crossing/"
+  ],
   "title": "Fully modular rails",
   "favorites": {
     "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,

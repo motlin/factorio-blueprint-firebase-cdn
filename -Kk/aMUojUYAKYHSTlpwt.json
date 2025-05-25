@@ -9,12 +9,12 @@
     "width": 1094
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "4 Lane Train Intersection 1-2-1 RHD",
   "author": {
     "userId": "0oknhGQdG1VstUBS6liclfzlhYq2"

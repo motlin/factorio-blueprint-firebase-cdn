@@ -2,12 +2,12 @@
   "descriptionMarkdown": "Here's my beaconed kovarex setup. Only uses belts, no circuits or bots. The U235 goes around the inner loop and the red underground belt creates back pressure, so that it outputs U235 into the passive provider chest when the inner belt is full. You can add more centrifuges to the left with some minor moving of the belts on the left side.",
   "fileName": "Screen Shot 2019-08-25 at 4.00.37 PM.png",
   "lastUpdatedDate": 1566764000313,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/version/0,17/"
+  ],
   "title": "Kovarex Beaconed - Belts Only",
   "authorId": "KAiH3RRhk1QqwrcC2hbUjjqMF0a2",
   "createdDate": 1566763964361,

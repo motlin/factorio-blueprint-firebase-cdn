@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/QAhdYPk",
   "lastUpdatedDate": 1734719680917,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/general/mid game/"
+  ],
   "title": "Behemoth Class Battlecruiser Mk. 1"
 }

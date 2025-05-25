@@ -8,11 +8,11 @@
   "authorId": "nSiP6VhxaCNNRms5R8TbPpMAqvA2",
   "lastUpdatedDate": 1514728393957,
   "numberOfFavorites": 55,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/production/guns and ammo/"
+  ],
   "title": "Artillery Shells Production",
   "favorites": {
     "RNWu1DSA3abT2VdQVU0kFucssDw2": true,

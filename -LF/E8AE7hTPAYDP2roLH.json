@@ -15,12 +15,12 @@
   "fileName": "blue_chips.png",
   "lastUpdatedDate": 1559216378657,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/production/processing unit (blue)/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/",
+    "/general/tileable/"
+  ],
   "title": "thematchless - Tilable processing unit production",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blue_chips.png?alt=media&token=b0b26427-1ac7-43ad-b910-94130ea58a93"
 }

@@ -1,10 +1,10 @@
 {
   "fileName": "Wall Laser - End Game.jpg",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "authorId": "zvtyksmhQlN8mQDmePul99rn0dl1",
   "createdDate": 1516368022605,
   "descriptionMarkdown": "Is a repeatable wall pattern with each 6 laser turrets inside.",

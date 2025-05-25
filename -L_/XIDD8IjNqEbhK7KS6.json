@@ -9,12 +9,12 @@
     "type": "image/png"
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/version/0,17/",
-    "2": "/production/science/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/version/0,17/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Purple Science 0.17",
   "author": {
     "userId": "FIlgtBMkJjYTeZA93sEz8tP5yAG2"

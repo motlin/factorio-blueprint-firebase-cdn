@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1578929822471,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/train/pax/",
-    "0": "/mods/vanilla/",
-    "1": "/train/stacker/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/pax/",
+    "/mods/vanilla/",
+    "/train/stacker/"
+  ],
   "title": "Many-to-Many Decentralized, Decentivizing Train System & Remote-Controlled Player's Depot for Factory Expansion and Outpost Maintenance. ~by PaterFrog"
 }

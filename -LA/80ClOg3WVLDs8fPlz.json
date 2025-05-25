@@ -1,11 +1,11 @@
 {
   "fileName": "Requester.jpg",
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Smart supply/building train (old)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Requester.jpg?alt=media&token=7113c5a6-822f-4e93-bd02-163b42454e92",
   "createdDate": 1552781991332,

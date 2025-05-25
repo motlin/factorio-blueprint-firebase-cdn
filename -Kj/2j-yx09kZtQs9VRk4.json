@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/",
+    "/general/tileable/"
+  ],
   "title": "0.15.7 early game tileable science for beginners",
   "author": {
     "userId": "SwconDvNRLbDs227pUglG1G4ZVU2"

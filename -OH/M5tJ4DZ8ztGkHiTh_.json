@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/ZaLm7fw.png",
   "lastUpdatedDate": 1737702621657,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Clover of Legendary Quality Advanced Circuit",
   "favorites": {
     "Nk5ePJ4obOaV6Gmv13SVBesEjbo2": true,

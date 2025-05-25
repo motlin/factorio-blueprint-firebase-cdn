@@ -78,10 +78,10 @@
   "imageUrl": "https://imgur.com/lbYuYHn",
   "lastUpdatedDate": 1731809023967,
   "numberOfFavorites": 33,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "FULGORA | Recycling scrap with large storage"
 }

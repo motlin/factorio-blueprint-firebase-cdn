@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1693963446293,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/warehousing/",
-    "2": "/belt/balancer/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/warehousing/",
+    "/belt/balancer/"
+  ],
   "title": "1-3 Train Loader Warehouse Balancer"
 }

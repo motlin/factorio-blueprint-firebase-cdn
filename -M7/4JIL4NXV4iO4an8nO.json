@@ -42,8 +42,8 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1589227655879,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/science/"
-  }
+  "tags": [
+    "/general/compact/",
+    "/production/science/"
+  ]
 }

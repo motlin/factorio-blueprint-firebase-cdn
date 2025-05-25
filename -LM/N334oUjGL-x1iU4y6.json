@@ -15,11 +15,11 @@
     "width": 486
   },
   "lastUpdatedDate": 1536928760778,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/factorissimo/",
+    "/version/0,16/"
+  ],
   "title": "Green circuit (MK1+)",
   "favorites": {
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,

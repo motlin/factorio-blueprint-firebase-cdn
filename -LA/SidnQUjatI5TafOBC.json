@@ -25,8 +25,8 @@
     "type": "image/png",
     "width": 656
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/factorissimo/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/mods/factorissimo/"
+  ]
 }

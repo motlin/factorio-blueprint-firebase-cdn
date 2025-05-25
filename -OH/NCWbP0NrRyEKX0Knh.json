@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/RcsMLU7",
   "lastUpdatedDate": 1737769206198,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Nauvis to Vulcanus guarantee"
 }

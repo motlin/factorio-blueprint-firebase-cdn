@@ -15,12 +15,12 @@
     "PhX25s1CD6VRwRZxRNqdd3anLAl2": true
   },
   "lastUpdatedDate": 1506091093943,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "H3QlaVpvadfVuTpGGxs7016oR2K3"
   },

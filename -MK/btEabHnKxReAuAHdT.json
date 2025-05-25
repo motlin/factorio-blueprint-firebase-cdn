@@ -3,16 +3,16 @@
     "userId": "9GxFvMe6Z2efyOughCBUEyrhj4Y2"
   },
   "lastUpdatedDate": 1603765860832,
-  "tags": {
-    "5": "/production/other/",
-    "6": "/production/belt based/",
-    "7": "/mods/other/",
-    "0": "/mods/factorissimo/",
-    "1": "/version/1,0/",
-    "2": "/mods/bobs/",
-    "3": "/general/mid game/",
-    "4": "/mods/aai/"
-  },
+  "tags": [
+    "/production/other/",
+    "/production/belt based/",
+    "/mods/other/",
+    "/mods/factorissimo/",
+    "/version/1,0/",
+    "/mods/bobs/",
+    "/general/mid game/",
+    "/mods/aai/"
+  ],
   "fileName": "20201026223000_1.jpg",
   "image": {
     "type": "image/jpeg",

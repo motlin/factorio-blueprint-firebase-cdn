@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/Fgxzxod",
   "lastUpdatedDate": 1745353724806,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/ups friendly/",
-    "2": "/planets/nauvis/",
-    "3": "/production/mall (make everything)/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/ups friendly/",
+    "/planets/nauvis/",
+    "/production/mall (make everything)/",
+    "/version/2,0/"
+  ],
   "title": "Tier 1 Hub/Mall",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true

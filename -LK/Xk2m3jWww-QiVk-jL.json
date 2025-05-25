@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "16 Uranium 235 per minute, beaconed moduled and tileable.",
   "authorId": "qB7PiJjXp3cwX19FjFzardVBiJe2",
   "descriptionMarkdown": "See the title.",

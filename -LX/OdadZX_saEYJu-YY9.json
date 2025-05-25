@@ -66,15 +66,15 @@
   },
   "lastUpdatedDate": 1553068243459,
   "numberOfFavorites": 53,
-  "tags": {
-    "6": "/version/0,15/",
-    "7": "/version/0,17/",
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/train/unloading station/",
-    "3": "/power/solar/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,17/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/train/unloading station/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Super bus End Game"
 }

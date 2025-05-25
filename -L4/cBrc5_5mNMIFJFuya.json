@@ -12,13 +12,13 @@
   },
   "lastUpdatedDate": 1517879833215,
   "numberOfFavorites": 18,
-  "tags": {
-    "4": "/production/belt based/",
-    "0": "/mods/factorissimo/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/mods/factorissimo/",
+    "/production/advanced circuit (red)/",
+    "/production/electronic circuit (green)/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"
   },

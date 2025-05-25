@@ -20,11 +20,11 @@
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
     "GyESVB3fhOQL22ZlZvjGMbGLiTs1": true
   },
-  "tags": {
-    "2": "/version/1,0/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "75 SPM Black Science + Smelting",
   "lastUpdatedDate": 1602938546561
 }

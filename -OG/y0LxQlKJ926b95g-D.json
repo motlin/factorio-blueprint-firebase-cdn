@@ -21,8 +21,8 @@
   "imageUrl": "https://imgur.com/XyfCzgQ",
   "lastUpdatedDate": 1737292789340,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Deep Space platform ( 300-350km\\s)"
 }

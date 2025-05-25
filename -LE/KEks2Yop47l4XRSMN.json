@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1528291069924,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/science/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/science/",
+    "/general/late game (megabase)/",
+    "/production/other/"
+  ],
   "title": "6k SPM made by PsyQO"
 }

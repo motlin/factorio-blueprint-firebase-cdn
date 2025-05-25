@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1617145800607,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Generic Nuclear Circuitry",
   "favorites": {
     "3Dnulhg7YzM68eaqqDQicars9DA3": true

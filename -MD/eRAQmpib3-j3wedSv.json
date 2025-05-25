@@ -19,8 +19,8 @@
   },
   "authorId": "JJXmP3uCdZP3KIYaqdN8PY3uMYh1",
   "fileName": "factoriotrainloadingsmartstation.jpg",
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Train Depot Smart Item Filter and Loader"
 }

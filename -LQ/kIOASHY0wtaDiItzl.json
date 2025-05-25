@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1542145664314,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/",
-    "2": "/train/pax/",
-    "3": "/train/stacker/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/train/pax/",
+    "/train/stacker/",
+    "/train/right-hand-drive/"
+  ],
   "title": "LTN depot RHD 80 slots +1 PAX+1 fuel unloading"
 }

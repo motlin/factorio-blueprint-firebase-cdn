@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/m9RApiU",
   "lastUpdatedDate": 1736061512594,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/science/",
-    "2": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/science/",
+    "/planets/vulcanus/"
+  ],
   "title": "Metallurgic Science - 360 s/m",
   "favorites": {
     "UO9vDAYuXjelUNfZkJSEIcL9erl1": true,

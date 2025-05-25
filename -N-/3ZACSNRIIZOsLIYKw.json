@@ -21,10 +21,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio%20248K%20reactor.png?alt=media&token=e20c67ef-45dc-44a0-bdfc-a64f135dd5de",
   "lastUpdatedDate": 1683566660900,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/power/nuclear/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/nuclear/",
+    "/version/0,15/"
+  ],
   "title": "Nuclear reactor 248k Mod"
 }

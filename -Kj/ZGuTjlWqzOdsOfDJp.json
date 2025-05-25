@@ -16,12 +16,12 @@
     "type": "image/png",
     "width": 711
   },
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "y8LR2PR8rehYlB8INpSr4WGp2yl2": true,
     "DfDCBuHssLRk8JN23kXYRIJ1tnb2": true,

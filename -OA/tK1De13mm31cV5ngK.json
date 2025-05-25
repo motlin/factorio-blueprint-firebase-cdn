@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/L9WrDRh",
   "lastUpdatedDate": 1730760002038,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/rocket parts/"
+  ],
   "title": "Raw to Rockets",
   "favorites": {
     "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,

@@ -6,12 +6,12 @@
   "createdDate": 1555543208506,
   "lastUpdatedDate": 1555543208506,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "0": "/belt/prioritizer/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/belt/prioritizer/"
+  ],
   "favorites": {
     "TcJwntHSvANQ0RHywiSdyF4tT6k2": true,
     "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,

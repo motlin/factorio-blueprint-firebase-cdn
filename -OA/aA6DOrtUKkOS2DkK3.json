@@ -48,9 +48,9 @@
   "imageUrl": "https://imgur.com/lmGIMGG",
   "lastUpdatedDate": 1731192726225,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/planets/space-platform/"
+  ],
   "title": "calcite satellite"
 }

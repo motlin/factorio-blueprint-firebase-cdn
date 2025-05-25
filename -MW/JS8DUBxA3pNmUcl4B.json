@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616324629751,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "title": "Ribbon-World Tileable Petroleum Gas"
 }

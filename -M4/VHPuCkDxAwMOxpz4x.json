@@ -11,14 +11,14 @@
   "fileName": "Nuke mk 1.jpg",
   "lastUpdatedDate": 1586458374110,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "5": "/version/0,18/",
-    "0": "/mods/vanilla/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "favorites": {
     "DVzPZyqb5WMfIyUXQTfcJu6kaFD2": true,
     "VNP1SlJxc9ROzYH3bBRG11bc7eT2": true,

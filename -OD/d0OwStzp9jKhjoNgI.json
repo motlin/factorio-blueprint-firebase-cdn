@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/n3D69cZ",
   "lastUpdatedDate": 1734144343618,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Red Circuits Scalable",
   "favorites": {
     "7gPxNeVtyXboJSl0i6mLpz2R8xe2": true,

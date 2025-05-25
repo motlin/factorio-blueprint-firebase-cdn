@@ -16,13 +16,13 @@
   },
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
   "createdDate": 1499687066247,
-  "tags": {
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Compact Blue Belt Beaconed Smelting",
   "favorites": {
     "msieRqxN6MOhdBKq2w32vEpebru2": true,

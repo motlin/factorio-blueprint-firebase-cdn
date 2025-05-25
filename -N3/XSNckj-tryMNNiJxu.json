@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1654140537442,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/circuit/indicator/"
+  ],
   "title": "Rocket Requester",
   "favorites": {
     "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,

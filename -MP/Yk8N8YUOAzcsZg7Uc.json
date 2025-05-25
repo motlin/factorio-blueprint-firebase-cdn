@@ -38,13 +38,13 @@
   },
   "lastUpdatedDate": 1685678463282,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/chunk aligned/"
+  ],
   "title": "500 spm city block for Brian's Self-Building Mega-Factory"
 }

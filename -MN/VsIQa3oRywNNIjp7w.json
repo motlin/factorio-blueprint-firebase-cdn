@@ -29,9 +29,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20201202172233_1.jpg?alt=media&token=192d7dd2-c710-41f9-a6a3-12eb70728659",
   "lastUpdatedDate": 1609144356609,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "late game 500spm beacon&module based science tight box build"
 }

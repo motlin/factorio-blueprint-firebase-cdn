@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zh8L7Sh",
   "lastUpdatedDate": 1730763402195,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Mule cargo hauler",
   "favorites": {
     "LAIb7Jh389YLF74Jb6ZhhG4LH4C2": true,

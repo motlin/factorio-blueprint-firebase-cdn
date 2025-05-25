@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9NaGeQW",
   "lastUpdatedDate": 1729196541041,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/production/belts/"
+  ],
   "title": "Belts n'stuff",
   "favorites": {
     "005uJ56npQfNGd6jIZAy03VU8hh2": true,

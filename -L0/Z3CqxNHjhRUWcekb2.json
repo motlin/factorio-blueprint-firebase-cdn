@@ -6,10 +6,10 @@
     "width": 1357
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "KTgXHAE9L6S2AOKjSOWzm9vhpq13"
   },

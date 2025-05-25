@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/OiV7uiR",
   "lastUpdatedDate": 1745266413611,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,15/",
-    "2": "/mods/quality/",
-    "3": "/planets/aquilo/",
-    "4": "/planets/space-platform/",
-    "5": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,15/",
+    "/mods/quality/",
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Solar Ship Aqulio 800+ Slots"
 }

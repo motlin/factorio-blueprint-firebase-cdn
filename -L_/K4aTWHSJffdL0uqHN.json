@@ -2,9 +2,9 @@
   "authorId": "HBaDj2FIQoSxVQrtwOz1cSziGrr2",
   "descriptionMarkdown": "Sushi Bar for Science - supports all 7 types though it's built with Yellow Belts for early game.",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "title": "76 Lab Sushi Bar - Broken (Work In Progress)",
   "author": {
     "userId": "HBaDj2FIQoSxVQrtwOz1cSziGrr2"

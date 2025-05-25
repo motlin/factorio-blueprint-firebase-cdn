@@ -21,8 +21,8 @@
     "type": "image/png",
     "width": 342
   },
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/"
-  }
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/"
+  ]
 }

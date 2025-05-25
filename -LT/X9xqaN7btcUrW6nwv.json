@@ -6,11 +6,11 @@
     "width": 632
   },
   "lastUpdatedDate": 1544614257589,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/train/right-hand-drive/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/right-hand-drive/",
+    "/belt/express transport belt (blue)/"
+  ],
   "author": {
     "userId": "RfXYEDjT00StmYzhvCNd2cZhkQ02"
   },

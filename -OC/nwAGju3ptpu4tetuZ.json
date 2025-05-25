@@ -32,8 +32,8 @@
   "imageUrl": "https://imgur.com/BIg9y2Z",
   "lastUpdatedDate": 1732851888731,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/belt based/"
-  },
+  "tags": [
+    "/production/belt based/"
+  ],
   "title": "Kickstarter Base"
 }

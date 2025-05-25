@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/KdrCxHV",
   "lastUpdatedDate": 1743341838980,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "space platforms"
 }

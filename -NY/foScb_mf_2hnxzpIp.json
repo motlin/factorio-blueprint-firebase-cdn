@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1687583722086,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/mods/other/",
-    "2": "/train/stacker/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/other/",
+    "/train/stacker/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Zy's Chunk Aligned Rails with some QoL extensions",
   "favorites": {
     "57W0PqWEoXb7y5j3mRLFEXIPKFA2": true,

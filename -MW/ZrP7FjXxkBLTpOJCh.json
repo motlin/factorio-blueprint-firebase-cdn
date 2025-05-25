@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1673052278266,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "[Space Exploration] Iridium Ingot stackable train module"
 }

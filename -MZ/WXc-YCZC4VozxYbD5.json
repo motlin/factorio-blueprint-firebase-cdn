@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1619765395547,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/"
+  ],
   "title": "All Science (Early Game)",
   "favorites": {
     "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,

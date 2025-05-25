@@ -10,11 +10,11 @@
   },
   "lastUpdatedDate": 1524496537135,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,15/",
-    "2": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,15/",
+    "/mods/bobs/"
+  ],
   "title": "Bob Angel wood Omnie ____________________________________",
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true

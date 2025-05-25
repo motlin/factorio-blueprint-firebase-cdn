@@ -37,16 +37,16 @@
   "descriptionMarkdown": "Just A book with a balancer for all types of belts",
   "fileName": "unknown (18).png",
   "lastUpdatedDate": 1588789315025,
-  "tags": {
-    "0": "/belt/balancer/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/",
-    "7": "/version/0,15/",
-    "8": "/mods/vanilla/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "6": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "4 Lane Balancer"
 }

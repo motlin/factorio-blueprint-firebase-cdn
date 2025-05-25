@@ -13,13 +13,13 @@
   },
   "lastUpdatedDate": 1610839126114,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/production/belt based/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/belt based/",
+    "/version/1,0/"
+  ],
   "authorId": "CCIkxME0ufRVVqt1NeHRVhQWaCt1",
   "descriptionMarkdown": "Mid-game blue science factory, using red and yellow belts, producing 2 science packs per second.\n\nInputs from top to bottom:\n1. -red circuit (only right side)\n2. -iron plate\n3. -steel plate\n4. -water\n5. -crude oil.\n\nOutput: left side of the yellow belt on the top right\n\nRequires speed module 1s in every factory for maximum efficiency.",
   "fileName": "Screenshot (44)_LI.jpg"

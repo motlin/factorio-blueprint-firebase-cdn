@@ -24,9 +24,9 @@
   },
   "authorId": "8M4QpBOKKeQD6Y1nllurOd831VV2",
   "createdDate": 1551498897534,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  }
+  "tags": [
+    "/general/mid game/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ]
 }

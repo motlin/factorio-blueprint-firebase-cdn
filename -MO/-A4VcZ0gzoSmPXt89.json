@@ -20,11 +20,11 @@
   "authorId": "GU0atYtIIJZEAeYn313mNCV45g52",
   "lastUpdatedDate": 1607394417275,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/balancer/"
+  ],
   "author": {
     "userId": "GU0atYtIIJZEAeYn313mNCV45g52"
   }

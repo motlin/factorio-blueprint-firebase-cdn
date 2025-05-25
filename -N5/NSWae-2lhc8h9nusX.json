@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1656120285638,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "robo-smelter-timer"
 }

@@ -7,12 +7,12 @@
   },
   "numberOfFavorites": 0,
   "lastUpdatedDate": 1734563868681,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/other/",
-    "2": "/production/mining/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/other/",
+    "/production/mining/",
+    "/version/0,17/"
+  ],
   "title": "advanced deep core mine (obsolete)",
   "author": {
     "userId": "m7tmdwmM8gPEsRsuNezU1eNKeYv1"

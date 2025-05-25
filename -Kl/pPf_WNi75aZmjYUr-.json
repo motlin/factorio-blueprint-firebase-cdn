@@ -11,11 +11,11 @@
     "type": "image/jpeg",
     "width": 2560
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/loading station/"
+  ],
   "author": {
     "userId": "eURzmAr3ypfnIueteBGemqJ68FV2"
   },

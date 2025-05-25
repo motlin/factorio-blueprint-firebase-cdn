@@ -21,12 +21,12 @@
   "imageUrl": "https://imgur.com/fbRtBVJ",
   "lastUpdatedDate": 1746192647178,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/storage/",
-    "2": "/planets/nauvis/",
-    "3": "/planets/vulcanus/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/storage/",
+    "/planets/nauvis/",
+    "/planets/vulcanus/",
+    "/version/2,0/"
+  ],
   "title": "Giant transport ship "
 }

@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/rrNZWkE",
   "lastUpdatedDate": 1731363364067,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/version/2,0/",
-    "4": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/",
+    "/belt/balancer/"
+  ],
   "title": "Automated Asteroid Reprocessing/Loop Balancer",
   "favorites": {
     "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,

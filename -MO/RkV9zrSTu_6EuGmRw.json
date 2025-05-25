@@ -1,11 +1,11 @@
 {
   "fileName": "factorio.production.artillery-shell.jpg",
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/guns and ammo/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "Artillery shell production",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio.production.artillery-shell.jpg?alt=media&token=08d26920-affe-40b6-8773-2b63112ea0ed",
   "descriptionMarkdown": "10 factories for artillery shells production. Fill 1 artillery wagon in 200s.\n\nOutput : 30 artillery shells per minute\n\nInputs :\n- Petroleum gas\n- Water\n- Coal\n- Green circuit\n- Iron plate\n- Steel bar\n- (Space to add extra inputs for plastic, sulfur.\n\n\nStats : https://imgur.com/a/sM5mlSd\n\nCalc : https://imgur.com/J5ngRd2 (see https://kirkmcdonald.github.io/calc.html )",

@@ -15,12 +15,12 @@
   },
   "descriptionMarkdown": "Derived from https://factorioprints.com/view/-KsDskXGpsm7GqfC8s-3\n\nWith power cable and signals added.\n\n\n# DEPRECATED\n\nNew version with chunk-aligned here https://factorioprints.com/view/-LE0_ttF6cJPoiFi5l6u",
   "lastUpdatedDate": 1527962024144,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/roundabout/",
-    "3": "/train/crossing/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "authorId": "mzmiEcrGfeRZiHiV03zzv0ge46m2"
 }

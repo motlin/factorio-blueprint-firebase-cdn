@@ -8,11 +8,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202017-05-17%2018.07.08.png?alt=media&token=c60e7e51-866d-4b3f-87cb-c1bb68c06c74",
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "PAX train station",
   "createdDate": 1495059024714,
   "authorId": "cMexP6bEEeaBZkfwqpD1ZAEa1mH3",

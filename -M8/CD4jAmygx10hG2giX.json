@@ -11,14 +11,14 @@
     "width": 486
   },
   "lastUpdatedDate": 1591475780531,
-  "tags": {
-    "3": "/general/mid game/",
-    "4": "/general/compact/",
-    "5": "/general/tileable/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Kovarex with Circuit Control",
   "favorites": {
     "l556BHVKI2PFsp8vWZXjdATtGWg2": true,

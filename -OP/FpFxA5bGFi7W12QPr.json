@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/3DM8iMM.jpeg",
   "lastUpdatedDate": 1746186604510,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/"
+  ],
   "title": "Red Circuit Modular",
   "favorites": {
     "4QPN3f6KQvMwMFyL8MyWIgoQnyZ2": true,

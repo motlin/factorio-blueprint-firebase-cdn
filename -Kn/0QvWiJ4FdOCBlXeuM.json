@@ -70,12 +70,12 @@
   "descriptionMarkdown": "A safe rail crossing with train priority. Uses lights to warn you.",
   "fileName": "Factorio Safe Rail Crossing - Train Priority.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Safe%20Rail%20Crossing%20-%20Train%20Priority.png?alt=media&token=b334353b-ddc0-496d-97e2-c0b2006b8868",
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/right-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Safe Rail Crossing - Train Priority",
   "author": {
     "userId": "RsM71phjvEWpN7372MUaPuA1vuJ2"

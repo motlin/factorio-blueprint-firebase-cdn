@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/z8A2JWc.png",
   "lastUpdatedDate": 1742259856998,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/tileable/"
+  ],
   "title": "Build Everything ",
   "favorites": {
     "zcd8Ov17e6OOvJjhgStXTgZblqI2": true

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1693573802659,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/power/nuclear/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/power/nuclear/",
+    "/general/beaconized/"
+  ],
   "title": "Сити-Блоки-2023"
 }

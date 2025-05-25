@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1649095327219,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "title": "2.7k/m red circuits",
   "favorites": {
     "YWpfzKzTEmMfr7BiGg7Tr5ggLeh1": true,

@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1567583460315,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/power/nuclear/",
-    "2": "/production/uranium/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Nuke Power"
 }

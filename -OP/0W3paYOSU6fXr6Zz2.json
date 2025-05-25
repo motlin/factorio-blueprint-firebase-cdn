@@ -18,9 +18,9 @@
   "imageUrl": "https://i.imgur.com/2DAynuQ.png",
   "lastUpdatedDate": 1745929654775,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/general/beaconized/"
+  ],
   "title": "Promethium cargo hauler"
 }

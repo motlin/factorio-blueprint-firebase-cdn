@@ -16,19 +16,19 @@
   "imageUrl": "https://imgur.com/3Ri2ZRA",
   "lastUpdatedDate": 1744715216362,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/mods/space-age/",
-    "5": "/mods/quality/",
-    "6": "/planets/nauvis/",
-    "7": "/planets/gleba/",
-    "8": "/planets/fulgora/",
-    "9": "/planets/vulcanus/",
-    "10": "/planets/space-platform/",
-    "11": "/version/2,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "GSXR - Project Hydra"
 }

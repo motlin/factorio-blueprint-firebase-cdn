@@ -22,14 +22,14 @@
   },
   "lastUpdatedDate": 1605478213858,
   "numberOfFavorites": 5,
-  "tags": {
-    "4": "/mods/bobs/",
-    "5": "/mods/warehousing/",
-    "6": "/mods/ltn/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/warehousing/",
+    "/mods/ltn/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "2, 4 Line Rail Blueprint Book"
 }

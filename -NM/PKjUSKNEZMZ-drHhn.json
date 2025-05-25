@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1674413029719,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "100 SPM in 100x100"
 }

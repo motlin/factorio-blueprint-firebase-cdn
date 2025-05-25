@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "authorId": "qEUAI9EBflSGi1f3VPIfRLDFcLJ3",
   "createdDate": 1514839633821,
   "lastUpdatedDate": 1514839633821,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/yrcITwB",
   "lastUpdatedDate": 1731928296559,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Raptor's Advanced Dragon's Teeth Walls",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1664197589141,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Module Setup + Beacons ",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

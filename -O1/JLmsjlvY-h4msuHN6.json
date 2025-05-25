@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/I7DFlbX",
   "lastUpdatedDate": 1720475922218,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "MEGA TRAIN HUB"
 }

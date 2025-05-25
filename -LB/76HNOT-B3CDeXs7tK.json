@@ -12,14 +12,14 @@
   "descriptionMarkdown": "iron/copper smelting input 1 full belt output 1 full belt. is 2 width smaller then tradional smelting but also bit more resource intensive because use of underground belt. (can use for stone brick just half the length.)\n\nsteel smelting use 2 raw iron ore belt input and put out 2/5 steel output on 1 belt ( due to 5 plate -> 1 steel conversion)\n",
   "lastUpdatedDate": 1526071481900,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "C39NPZgxP6UfFQborOX1FCjDL2r1": true,
     "30zH8cZUM2ZbHn2mk2T8qLccDTs2": true,

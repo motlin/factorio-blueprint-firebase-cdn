@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1707064487196,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/solar/"
+  ],
   "title": "Matter to Advanced Solar"
 }

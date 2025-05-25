@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/5QDSn85",
   "lastUpdatedDate": 1738184630581,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Easy nuclear power",
   "favorites": {
     "J7pt1240XPUmQHCuvVDTdtp0Hht1": true,

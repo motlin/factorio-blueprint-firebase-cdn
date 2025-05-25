@@ -4,12 +4,12 @@
   "fileName": "20191006202616_1.jpg",
   "title": "Plastic Production",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
     "LCSi4rAi3MX1lo2hF82PRfjBD4k1": true,

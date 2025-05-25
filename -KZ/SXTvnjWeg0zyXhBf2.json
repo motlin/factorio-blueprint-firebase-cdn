@@ -6,10 +6,10 @@
     "type": "image/jpeg",
     "width": 700
   },
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Bot-based Plastic",
   "favorites": {
     "kJKPJOFO3CRl4uqFdoDPOaA1Lmp2": true

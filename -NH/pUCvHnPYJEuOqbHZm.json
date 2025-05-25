@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1698483199835,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ],
   "title": "Two 2:1 sushi setups using splitters"
 }

@@ -17,12 +17,12 @@
   "imageUrl": "https://imgur.com/cvKzLaa",
   "lastUpdatedDate": 1741679111294,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Jan Jasper Start Factory Remake for 2.0 space age"
 }

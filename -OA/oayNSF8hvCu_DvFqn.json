@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9n725Vq",
   "lastUpdatedDate": 1730680710755,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Circle Smelters",
   "favorites": {
     "bCAKLZ0IzAhYLgwmMN7Bsfe36Qw2": true,

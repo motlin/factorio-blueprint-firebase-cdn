@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674248655715,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/smelting/"
+  ],
   "title": "Easy Electric Smelter ",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

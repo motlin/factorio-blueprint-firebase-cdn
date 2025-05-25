@@ -7,13 +7,13 @@
   },
   "lastUpdatedDate": 1594962169860,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "NakWn0HsWLMY3ZLlCsIhfO5d3Bk1"
   },

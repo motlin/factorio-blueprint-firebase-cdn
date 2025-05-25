@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1653418254567,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/general/beaconized/",
-    "4": "/power/kovarex enrichment/",
-    "5": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/beaconized/",
+    "/power/kovarex enrichment/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Late Uranium Processing v2",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202022-05-24%20135029.png?alt=media&token=350b7656-16a8-468e-a4bc-3f481e573386",
   "favorites": {

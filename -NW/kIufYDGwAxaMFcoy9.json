@@ -16,8 +16,8 @@
   "lastUpdatedDate": 1685732864940,
   "numberOfFavorites": 0,
   "title": "Robomall Node",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

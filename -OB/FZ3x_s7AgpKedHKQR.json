@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/ifr5iVQ",
   "lastUpdatedDate": 1731170265549,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/production/guns and ammo/",
-    "3": "/power/solar/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/production/guns and ammo/",
+    "/power/solar/"
+  ],
   "title": "Unsinkable III by LispWizard",
   "favorites": {
     "whRZSEdzupMC2x8usCsLtM1VLXz2": true,

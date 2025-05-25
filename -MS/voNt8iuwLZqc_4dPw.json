@@ -28,8 +28,8 @@
   },
   "lastUpdatedDate": 1641681098035,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "GUI Circuit Network Blueprints"
 }

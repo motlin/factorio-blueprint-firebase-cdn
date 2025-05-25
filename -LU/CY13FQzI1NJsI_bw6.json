@@ -15,10 +15,10 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "1": "/version/0,15/",
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "py mods infinite raw wood",
   "author": {
     "userId": "lq21OXMYllaYMEm2xypGLM9Z7AC2"

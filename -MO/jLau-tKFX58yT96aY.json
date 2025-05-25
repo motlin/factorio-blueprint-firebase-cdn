@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1608185966572,
   "numberOfFavorites": 1,
-  "tags": {
-    "4": "/general/late game (megabase)/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/right-hand-drive/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/general/mid game/"
+  ],
   "title": "Base-144 Systems VersaRail(tm)"
 }

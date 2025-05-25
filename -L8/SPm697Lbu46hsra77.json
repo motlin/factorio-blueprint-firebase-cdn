@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1522083037000,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "title": "Eletronic Circuit - Green Circuit - 55K/m"
 }

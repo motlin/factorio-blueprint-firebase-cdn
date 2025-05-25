@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/TGnUte6",
   "lastUpdatedDate": 1733425590084,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/mining/",
-    "2": "/planets/gleba/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/mining/",
+    "/planets/gleba/"
+  ],
   "title": "Self Starting bacteria factory cell ",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

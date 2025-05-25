@@ -20,11 +20,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/fcf9eie.png?alt=media&token=afa52b20-f580-4207-ac09-7047c9ff19d3",
   "lastUpdatedDate": 1498619639742,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "LHD 4 way junction 4 lane"
 }

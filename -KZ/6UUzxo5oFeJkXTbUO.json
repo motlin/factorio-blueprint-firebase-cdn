@@ -7,12 +7,12 @@
     "NpGG8P3qIjQvxgDkJYYMgkukM1B2": true
   },
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Beaconed Processing Units 1k/min (Robo fed)",
   "author": {
     "userId": "Qel6aRHwOWV46VFg7Ow5CprnbNH2"

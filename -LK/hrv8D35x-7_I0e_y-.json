@@ -21,11 +21,11 @@
     "width": 1078
   },
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/circuit/indicator/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/circuit/indicator/",
+    "/version/0,15/"
+  ],
   "authorId": "bvBzzXXCp5c3fZA7nUQZ57kJ5893",
   "descriptionMarkdown": "Silo display and control\n+ upper counter show last time for rocket launch (mm:ss)\n+ lower counter show current time after last launch (mm:ss)\n+ side progressbar show progress of building current rocket\n\nValues for bit logic taken from https://factorioprints.com/view/-L-wB9WO2MsJ-30u7DRc"
 }

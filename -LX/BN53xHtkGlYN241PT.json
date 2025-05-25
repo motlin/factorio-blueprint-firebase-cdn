@@ -1,10 +1,10 @@
 {
   "authorId": "RbKwC5Dc6EbdIWU74inxylBth4G2",
   "lastUpdatedDate": 1548544145165,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "image": {
     "id": "vAssVW3",
     "type": "image/jpeg",

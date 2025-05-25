@@ -1,15 +1,15 @@
 {
   "lastUpdatedDate": 1554225883242,
   "numberOfFavorites": 11,
-  "tags": {
-    "5": "/version/0,17/",
-    "6": "/version/0,14/",
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/version/0,15/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/version/0,14/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Circuitless sushi",
   "author": {
     "userId": "ZECxpXn7LrPEgFMpRNdUcxuqIt83"

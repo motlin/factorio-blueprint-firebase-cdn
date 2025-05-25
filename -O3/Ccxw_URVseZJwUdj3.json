@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/WJ9uYGm",
   "lastUpdatedDate": 1722510729133,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/power/steam/"
+  ],
   "title": "20-40 powersetup No maintenance",
   "favorites": {
     "kWSBPB3IuObDXGJ28LbNsNQsDYJ3": true

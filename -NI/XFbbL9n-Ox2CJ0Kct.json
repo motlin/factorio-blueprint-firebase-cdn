@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1699234347684,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Hypersmelter 16 Blue Lanes 720 units/s"
 }

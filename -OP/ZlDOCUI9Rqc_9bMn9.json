@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/TEPKwR2.jpg",
   "lastUpdatedDate": 1746521090186,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/",
-    "3": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/power/solar/"
+  ],
   "title": "Aquillo-1 - solar normal quality spaceship to aquillo"
 }

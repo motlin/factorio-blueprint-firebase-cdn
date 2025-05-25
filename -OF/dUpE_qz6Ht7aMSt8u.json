@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/RLWEoTb",
   "lastUpdatedDate": 1735956745688,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Building Train Requester",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true

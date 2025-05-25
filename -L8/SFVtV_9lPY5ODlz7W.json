@@ -1,11 +1,11 @@
 {
   "fileName": "baterias.png.png",
   "lastUpdatedDate": 1521984035194,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "0": "/production/batteries/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/batteries/"
+  ],
   "author": {
     "userId": "0hl206XAZDYNRafblxoYAZbgj9W2"
   },

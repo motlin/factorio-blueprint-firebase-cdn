@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1660944186949,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/rocket parts/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Science (belt based, beaconized, 0.5 blue belt/min)"
 }

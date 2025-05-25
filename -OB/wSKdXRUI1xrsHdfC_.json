@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/bOjNExO",
   "lastUpdatedDate": 1731886518763,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Space platform for white(space) science"
 }

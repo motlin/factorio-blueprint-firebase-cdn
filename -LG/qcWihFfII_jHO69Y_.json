@@ -25,11 +25,11 @@
     "height": 1703
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/smelting/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/smelting/",
+    "/mods/space-exploration/"
+  ],
   "createdDate": 1559989722452,
   "fileName": "Space.Exploration_Smelting.Glass.v2.png",
   "lastUpdatedDate": 1673052091974,

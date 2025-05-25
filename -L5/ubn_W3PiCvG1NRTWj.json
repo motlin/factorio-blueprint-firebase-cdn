@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "1": "/general/tileable/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/power/nuclear/"
+  ],
   "favorites": {
     "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true
   },

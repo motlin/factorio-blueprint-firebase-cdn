@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1589761425633,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/factorissimo/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/factorissimo/",
+    "/general/late game (megabase)/",
+    "/production/mall (make everything)/"
+  ],
   "title": "AAI Recursive in a Box Book"
 }

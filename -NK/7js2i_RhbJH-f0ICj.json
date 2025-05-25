@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1671962788126,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/vanilla/"
+  ],
   "title": "Belt Counter"
 }

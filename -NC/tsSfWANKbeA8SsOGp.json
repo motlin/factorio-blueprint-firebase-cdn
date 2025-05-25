@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1664438977972,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/tap/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/tap/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Книга Robbie"
 }

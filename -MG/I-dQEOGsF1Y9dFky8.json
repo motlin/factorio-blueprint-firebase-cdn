@@ -13,15 +13,15 @@
     "userId": "uOeQyfyLolSeHktFFx6tF1cDg033"
   },
   "authorId": "uOeQyfyLolSeHktFFx6tF1cDg033",
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/modules/",
-    "3": "/production/guns and ammo/",
-    "4": "/production/robots/",
-    "5": "/production/belts/",
-    "6": "/production/inserters/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/mall (make everything)/",
+    "/production/modules/",
+    "/production/guns and ammo/",
+    "/production/robots/",
+    "/production/belts/",
+    "/production/inserters/"
+  ],
   "title": "Mega Mall (version 1.0)",
   "favorites": {
     "SQdq1JOUJugdWvnn76gHof4MO062": true,

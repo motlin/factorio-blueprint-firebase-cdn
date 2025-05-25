@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651913530480,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Capsule Mall",
   "favorites": {
     "yh12RCBJKqTYvMWTg6fenRaDUoK2": true,

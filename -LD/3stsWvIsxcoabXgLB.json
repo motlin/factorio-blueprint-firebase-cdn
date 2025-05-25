@@ -1,12 +1,12 @@
 {
   "fileName": "logistics.jpg",
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,16/"
+  ],
   "authorId": "YfpxRgbByqecYqnSqBfe3qFNvnh2",
   "createdDate": 1526942900242,
   "descriptionMarkdown": "Logistics,  From here on out let the bots do the work, and  say good by to Spaghetti belts forever.... maybe ! \n\nbring down the ferric chloride from the previous section and  add in some lubricant and sulphuric acid from the chemical plant,  and relax. ",

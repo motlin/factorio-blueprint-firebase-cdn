@@ -12,9 +12,9 @@
     "width": 651
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "QV4bcqCbyrc8XHCYGy9vzYZKkNg2"
   },

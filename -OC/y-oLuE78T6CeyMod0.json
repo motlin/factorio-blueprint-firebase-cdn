@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/oo5SAiH",
   "lastUpdatedDate": 1733081788673,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "Smart laser turrets ",
   "favorites": {
     "BMbr3u14ITaxo16fWERJChsrR3f1": true,

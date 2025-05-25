@@ -7,11 +7,11 @@
     "width": 1200
   },
   "lastUpdatedDate": 1544458724449,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "hvQ7Fok9iSVUaez7NCkyj2cgP9i1"
   },

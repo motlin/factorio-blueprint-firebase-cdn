@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/ycbTCLJ",
   "lastUpdatedDate": 1733079884675,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/coal liquification/",
-    "2": "/production/oil processing/",
-    "3": "/mods/space-age/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/coal liquification/",
+    "/production/oil processing/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Coal Liquification and Oil Cracking AIO [FIXED]",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

@@ -17,12 +17,12 @@
     "width": 479
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20181018000228_1.jpg?alt=media&token=f4944661-ed10-4955-9244-7028b8bda49a",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "0": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
     "EjSHhVgEQqXSW0Gzsop0tOowR153": true

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/8OBdghu",
   "lastUpdatedDate": 1731417579557,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/version/2,0/"
+  ],
   "title": "Quality blueprint",
   "favorites": {
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,

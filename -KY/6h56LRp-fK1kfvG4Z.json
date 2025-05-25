@@ -15,11 +15,11 @@
     "width": 1729,
     "height": 359
   },
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/other/",
-    "2": "/production/mall (make everything)/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/other/",
+    "/production/mall (make everything)/",
+    "/version/0,15/"
+  ],
   "title": "Flex Mall Using Steel"
 }

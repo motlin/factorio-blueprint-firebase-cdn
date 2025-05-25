@@ -47,10 +47,10 @@
   "imageUrl": "https://i.imgur.com/QWEeKtL.jpeg",
   "lastUpdatedDate": 1740860666743,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/modules/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/modules/",
+    "/production/belt based/"
+  ],
   "title": "Gleba - modular base in a book"
 }

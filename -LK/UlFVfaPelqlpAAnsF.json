@@ -9,13 +9,13 @@
     "userId": "CJm8tOWDGGfnIJiD8yZu8kTPisr2"
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/power/nuclear/",
-    "2": "/mods/angels/",
-    "3": "/version/0,17/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/power/nuclear/",
+    "/mods/angels/",
+    "/version/0,17/",
+    "/general/tileable/"
+  ],
   "title": "BobAngel's Deuterium Nuclear Setup (~2,1GW)",
   "favorites": {
     "Zhjc4K6idqTvADPFK5jFe0HWT7b2": true,

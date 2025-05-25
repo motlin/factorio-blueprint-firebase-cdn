@@ -16,8 +16,8 @@
     "width": 1776
   },
   "lastUpdatedDate": 1596798196289,
-  "tags": {
-    "1": "/general/beaconized/",
-    "0": "/production/smelting/"
-  }
+  "tags": [
+    "/general/beaconized/",
+    "/production/smelting/"
+  ]
 }

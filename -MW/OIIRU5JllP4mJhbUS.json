@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1645396965634,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/train/loading station/",
-    "2": "/train/crossing/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/train/loading station/",
+    "/train/crossing/",
+    "/train/unloading station/"
+  ],
   "title": "Soler + Train."
 }

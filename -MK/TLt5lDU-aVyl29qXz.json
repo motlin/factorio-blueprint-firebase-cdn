@@ -46,11 +46,11 @@
   },
   "lastUpdatedDate": 1633790969285,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Lumpis BPB - 0 to rockets"
 }

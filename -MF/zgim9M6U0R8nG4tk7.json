@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1627787553975,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/tileable/",
-    "2": "/version/1,0/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/tileable/",
+    "/version/1,0/",
+    "/version/0,15/"
+  ],
   "title": "simple kovarex enrichment - Tileable",
   "favorites": {
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,

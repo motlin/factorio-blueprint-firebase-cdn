@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1586379486859,
   "numberOfFavorites": 1,
-  "tags": {
-    "3": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/version/0,18/"
+  ],
   "title": "2.4kpm Engine for rail based megabase"
 }

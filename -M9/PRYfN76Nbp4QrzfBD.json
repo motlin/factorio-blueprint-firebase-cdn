@@ -8,9 +8,9 @@
     "type": "image/png",
     "width": 1098
   },
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Mine to Railcar to Buffer",
   "author": {
     "userId": "w8TyD3itzVWN9VkfohC0lNjjGap2"

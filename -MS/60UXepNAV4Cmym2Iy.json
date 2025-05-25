@@ -22,10 +22,10 @@
   "fileName": "Plastic A.png",
   "lastUpdatedDate": 1611949309725,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/production/plastic/",
-    "3": "/general/beaconized/",
-    "0": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/general/tileable/",
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ]
 }

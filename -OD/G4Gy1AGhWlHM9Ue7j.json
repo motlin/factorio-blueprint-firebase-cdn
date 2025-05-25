@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ZdpPQGo",
   "lastUpdatedDate": 1733305901117,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Small space platform to Aquilo",
   "favorites": {
     "FqFYb3qb85YNxVpqt4x3AM8aTkT2": true,

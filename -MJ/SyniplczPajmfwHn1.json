@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1631517130478,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/version/1,0/"
+  ],
   "title": "Direct Insert Blue Circuit Sub Factory",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Direct%20Insert%20Blue%20Circuit%20.jpg?alt=media&token=c9f74fb4-8219-44ae-b4df-7a1836246ca5"
 }

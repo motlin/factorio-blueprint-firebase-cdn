@@ -35,12 +35,12 @@
   "imageUrl": "https://imgur.com/hbCauE2",
   "lastUpdatedDate": 1735302898813,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/general/compact/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/general/compact/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Drifton Aloft AKA \"Space Train\""
 }

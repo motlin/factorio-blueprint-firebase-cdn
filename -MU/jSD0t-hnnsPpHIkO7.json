@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1643621179570,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Train Counter (Roundabout)",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

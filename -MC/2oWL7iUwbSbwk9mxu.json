@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,18/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/train/unloading station/"
+  ],
   "authorId": "60hGCWvLmKWCkvz8azGTmpTAxMG2",
   "createdDate": 1594570708451,
   "descriptionMarkdown": "A 4-car train unloader. It's designed to be placed next to a straight-rail station, includes balancers naturally, as well as some circuitry to ensure that the cars with the most items get priority in the event the buffer gets full. I made this after I had unloading issues with my uranium the first time I tried to do multiple cars. Now, there are a few optional configuration changes you can make depending on the exact situation:\n* first, not all of the combinators are strictly necessary. For now I'll leave it to you to figure out which ones can be omitted (eventually I'll get around to denoting it on the screenshot somehow), but basically it's whichever ones are acting as diodes but for which signal cross-contamination would not be a problem.\n* Secondly, the constants 500 and -500 can be adjusted as high or low as you feel comfortable with (though in practice, anything lower than 20 has a chance of causing the circuit to overcompensate)\n* Lastly, the \"each\" and \"all\" signals can be switched to a specific item depending on what your station is expected to import. I just set them this way because it should work with most setups. However, if you are importing multiple items (presumably to be sorted by belts?), it might get a little glitchy and might even seize up completely.\n\nGood luck, and happy smelting!\n\nEdit: the medium power poles shown between each group of chests in the screenshot no longer exist in the BP string. They were present in my original design but I just realized they are unnecessary.",

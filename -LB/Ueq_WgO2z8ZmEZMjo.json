@@ -8,12 +8,12 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,17/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,17/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Oil refinery - tileable",
   "favorites": {
     "PFSltFZfeSUyighFCrcKp703tsr1": true,

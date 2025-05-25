@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1505610653623,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Basic No Frills Power Plant Semi Compact",
   "author": {
     "userId": "h0oe3FBenthBjkOZPfNrMsGSUZe2"

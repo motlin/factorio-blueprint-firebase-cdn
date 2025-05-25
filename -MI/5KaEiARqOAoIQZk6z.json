@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1630046414020,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Overwrite Memory Cell",
   "favorites": {
     "jdG942UYPRTZmxxPyHpUtgjWFnj1": true

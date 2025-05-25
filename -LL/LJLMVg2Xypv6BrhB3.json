@@ -11,12 +11,12 @@
   "fileName": "Screen Shot 2019-08-03 at 2.59.33 AM.png",
   "lastUpdatedDate": 1564817329590,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/0,17/",
-    "2": "/power/accumulator/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,17/",
+    "/power/accumulator/",
+    "/mods/vanilla/"
+  ],
   "title": "Enemy Detecting Laser Wall",
   "author": {
     "userId": "KAiH3RRhk1QqwrcC2hbUjjqMF0a2"

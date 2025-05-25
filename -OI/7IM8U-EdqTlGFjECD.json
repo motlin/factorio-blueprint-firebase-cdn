@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/IXP0859.jpeg",
   "lastUpdatedDate": 1738527501383,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/belt based/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/belt based/",
+    "/version/2,0/"
+  ],
   "title": "Fulgora 4-belts parametrized material extractor",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

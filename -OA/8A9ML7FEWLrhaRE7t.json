@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/FrgY4d5",
   "lastUpdatedDate": 1730127044610,
   "numberOfFavorites": 38,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/rocket parts/",
-    "3": "/production/guns and ammo/",
-    "4": "/power/solar/",
-    "5": "/mods/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/rocket parts/",
+    "/production/guns and ammo/",
+    "/power/solar/",
+    "/mods/other/"
+  ],
   "title": "Selfsustaining Space Platform",
   "favorites": {
     "KLIz39ljJWVl17Fg85lwxY1KtT73": true,

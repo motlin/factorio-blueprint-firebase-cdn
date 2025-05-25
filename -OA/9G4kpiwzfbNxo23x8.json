@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/FwwikTJ",
   "lastUpdatedDate": 1729970330809,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/left-hand-drive/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/left-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "Small Footprint 4-Way Train Junction",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

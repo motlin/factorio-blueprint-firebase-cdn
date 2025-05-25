@@ -2,10 +2,10 @@
   "createdDate": 1604801514450,
   "fileName": "Module1.png",
   "lastUpdatedDate": 1604801514450,
-  "tags": {
-    "1": "/production/modules/",
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/tileable/"
+  ],
   "title": "BotLogisticsModules",
   "author": {
     "userId": "VasYMTJHz6UDkbe0YNW3xDfrsia2"

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1706717150559,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/version/1,1/",
-    "2": "/mods/lighted-electric-poles/",
-    "3": "/general/beaconized/",
-    "4": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/version/1,1/",
+    "/mods/lighted-electric-poles/",
+    "/general/beaconized/",
+    "/production/smelting/"
+  ],
   "title": "Beaconed Ore Enrichment With Chemical Labs and Electric Furnaces"
 }

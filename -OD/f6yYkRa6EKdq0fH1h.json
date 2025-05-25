@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/m0Vwwh7",
   "lastUpdatedDate": 1733742815658,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/research (labs)/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/research (labs)/",
+    "/general/late game (megabase)/",
+    "/general/mid game/"
+  ],
   "title": "Lab chain for all science packages (Space Age)",
   "favorites": {
     "S1iveJ05zhTb6I8vly0Ow9OJWdw1": true,

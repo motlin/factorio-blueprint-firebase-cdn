@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1632135086624,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/production/inserters/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/production/inserters/"
+  ],
   "title": "Belts, Inserters & Assemblers (inc. Fast Loaders)",
   "favorites": {
     "jL2yjtbKjpTGTWpC7Ce7RwGwPUB2": true,

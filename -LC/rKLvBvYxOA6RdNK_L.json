@@ -7,11 +7,11 @@
     "width": 1366
   },
   "lastUpdatedDate": 1555792674020,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "All kinds of inserts/Todos os tipos de insertores",
   "favorites": {
     "dpfShkjHiGVEwwjOdR1byUGvAMq1": true

@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/I0H3zqK.png",
   "lastUpdatedDate": 1745304794332,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/planets/vulcanus/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/planets/vulcanus/",
+    "/version/2,0/"
+  ],
   "title": "Vulcano coal liquification",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

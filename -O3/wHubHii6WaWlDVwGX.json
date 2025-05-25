@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/QaXty7c",
   "lastUpdatedDate": 1723294623831,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/chunk aligned/"
+  ],
   "title": "Stone First Smelter",
   "favorites": {
     "HeHa5MPVcrc74ANPJ8McHkQHKGE3": true,

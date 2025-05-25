@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/XaGqXGK",
   "lastUpdatedDate": 1716416144498,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/1,1/"
+  ],
   "title": "LTN Сити-Блок"
 }

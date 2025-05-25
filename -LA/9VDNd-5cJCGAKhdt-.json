@@ -35,11 +35,11 @@
   },
   "lastUpdatedDate": 1586452269693,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mining Book"
 }

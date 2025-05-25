@@ -10,12 +10,12 @@
   "numberOfFavorites": 6,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Acid%20and%20Lube%20for%201%20Rocket%20Per%20Minute%202.PNG?alt=media&token=6b29fcc6-ad9d-4484-93d2-95ce85fbdf94",
   "lastUpdatedDate": 1505651344876,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Acid and Lube for 1 Rocket Per Minute",
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"

@@ -14,11 +14,11 @@
     "height": 1382
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202018-07-14%2010.41.51.png?alt=media&token=a8718f22-1fa5-4a4f-875a-db1601404d6f",
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "NolvtvW8RJhUz6OLlHQylN75reA2": true,
     "3wbZDECPLNU0UVBVzuw115qPukd2": true,

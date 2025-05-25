@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/xm5F9Uu",
   "lastUpdatedDate": 1745163069692,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Quantum processor ship"
 }

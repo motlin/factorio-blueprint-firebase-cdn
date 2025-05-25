@@ -7,10 +7,10 @@
   },
   "lastUpdatedDate": 1541450788990,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Even Trainload",
   "fileName": "screenshot-tick-3032103.png",
   "authorId": "PxlEn5lBlRfEp5p3lQ8Xz0cZoJ62",

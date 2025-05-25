@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1653064896372,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/nuclear/"
+  ],
   "title": "Krastorio2 Modular nuclear"
 }

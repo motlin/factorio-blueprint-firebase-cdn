@@ -27,13 +27,13 @@
   },
   "lastUpdatedDate": 1611690711763,
   "numberOfFavorites": 9,
-  "tags": {
-    "3": "/train/track/",
-    "4": "/train/right-hand-drive/",
-    "5": "/mods/vanilla/",
-    "0": "/train/junction/",
-    "1": "/train/stacker/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/stacker/",
+    "/train/roundabout/"
+  ],
   "title": "Rail System for RHD 4:1 trains - Straight, Junctions, Diagonals, Stackers, Holding yard"
 }

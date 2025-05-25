@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1627821511554,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/production/belts/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/belt/transport belt (yellow)/",
+    "/production/belts/",
+    "/general/early game/"
+  ],
   "title": "[Belts] Dave's Logistics Tier 1",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/davestier1.png?alt=media&token=8270150d-6f44-45df-892f-19e940a5451f",
   "favorites": {

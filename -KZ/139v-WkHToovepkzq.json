@@ -16,14 +16,14 @@
     "width": 306
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/general/storage/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/general/storage/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
     "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true

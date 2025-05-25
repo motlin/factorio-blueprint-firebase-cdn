@@ -21,8 +21,8 @@
   },
   "lastUpdatedDate": 1652297745019,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/accumulator/"
+  ],
   "title": "Accumulator block"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1656512085330,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/mining/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/mining/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Mining Depot and Drone mini mall"
 }

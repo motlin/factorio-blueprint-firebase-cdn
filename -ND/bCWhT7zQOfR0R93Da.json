@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1693948714049,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Early Game Furnace Array",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

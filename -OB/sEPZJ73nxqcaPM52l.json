@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/kb7DBnr",
   "lastUpdatedDate": 1731815385554,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/production/rocket parts/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/production/rocket parts/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Space Age Logistics Rocket Array Mk I",
   "favorites": {
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,

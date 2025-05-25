@@ -1,13 +1,13 @@
 {
   "lastUpdatedDate": 1588270910696,
-  "tags": {
-    "3": "/version/0,17/",
-    "4": "/version/0,18/",
-    "5": "/mods/vanilla/",
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "PnJ6RevuUafb0uyOHcuMjJysl1t2"
   },

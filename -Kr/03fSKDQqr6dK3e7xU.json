@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 35,
-  "tags": {
-    "2": "/mods/creative/",
-    "3": "/mods/vanilla/",
-    "0": "/production/coal liquification/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/creative/",
+    "/mods/vanilla/",
+    "/production/coal liquification/",
+    "/version/0,15/"
+  ],
   "title": "Gas from Coal Liquefaction (Balanced)",
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"

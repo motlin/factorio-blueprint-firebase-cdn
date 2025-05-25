@@ -2,11 +2,11 @@
   "createdDate": 1581021088450,
   "descriptionMarkdown": "Uses the load buffer percentages of the [city grid blueprint](https://factorioprints.com/view/-M-R89eBRK12iyHr1Cg2) and color codes the percentage values. The more buffer is available, the higher the signal. \n\nNotes:\n* Fill the wooden chests with the material the gauge represents\n* Select in the the bottom arithmetic combinator which material to measure (The `+1` is necessary to display a red signal, in case all buffers are empty)\n* Select in the second to the bottom arithmetic combinator the number of city grids which produce that material.",
   "lastUpdatedDate": 1581021088450,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/indicator/"
+  ],
   "author": {
     "userId": "GGVOhz88A0XiDRyjGahUaYvk8Wp1"
   },

@@ -28,14 +28,14 @@
   },
   "lastUpdatedDate": 1580722266220,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/rocket parts/",
-    "2": "/production/science/",
-    "3": "/production/research (labs)/",
-    "4": "/mods/vanilla/",
-    "5": "/train/crossing/",
-    "6": "/train/track/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/train/crossing/",
+    "/train/track/"
+  ],
   "title": "594SPM_CityBlock"
 }

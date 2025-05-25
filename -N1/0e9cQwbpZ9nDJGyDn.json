@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651442756278,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Chassi de robo voador",
   "favorites": {
     "30uVQqdTcMXlRixDI20F6cwA7rM2": true,

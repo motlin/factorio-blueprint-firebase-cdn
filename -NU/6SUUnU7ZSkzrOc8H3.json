@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1682678611156,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/"
+  ],
   "title": "3-8 train system all in one"
 }

@@ -43,13 +43,13 @@
   },
   "lastUpdatedDate": 1556586435834,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/power/nuclear/",
-    "4": "/power/solar/",
-    "5": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/power/solar/",
+    "/train/unloading station/"
+  ],
   "title": "LoneBook 0.17.3 Vol 2"
 }

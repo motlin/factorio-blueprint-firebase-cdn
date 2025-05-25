@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1641782597488,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/general/late game (megabase)/"
+  ],
   "title": "City Block With Roundabout"
 }

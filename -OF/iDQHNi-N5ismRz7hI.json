@@ -21,11 +21,11 @@
   "imageUrl": "https://imgur.com/P1bPuRB",
   "lastUpdatedDate": 1735942322658,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/nuclear/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/nuclear/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Mothership mk4b - w/o Mines"
 }

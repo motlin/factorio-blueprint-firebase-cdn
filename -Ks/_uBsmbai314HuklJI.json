@@ -21,10 +21,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/16_2.bmp?alt=media&token=2a323616-4df7-4d54-b68f-42235ef95bd9",
   "lastUpdatedDate": 1504651130790,
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "16 smart reactor 2.3gw"
 }

@@ -24,11 +24,11 @@
   "imageUrl": "https://imgur.com/UILlQJR",
   "lastUpdatedDate": 1732323476404,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Ship ealry/mid game you can go to Aquilo planet"
 }

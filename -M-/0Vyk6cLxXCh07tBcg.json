@@ -8,11 +8,11 @@
     "width": 1920
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/train/junction/"
+  ],
   "title": "Roundabout",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/roundaboot.png?alt=media&token=824796b8-c4d2-4af1-a864-017343826432",
   "favorites": {

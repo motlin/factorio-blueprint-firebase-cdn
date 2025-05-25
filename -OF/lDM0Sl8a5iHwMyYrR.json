@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/A5NRk11",
   "lastUpdatedDate": 1735992635688,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Nuclear power plant 1.1 GW",
   "favorites": {
     "UO9vDAYuXjelUNfZkJSEIcL9erl1": true,

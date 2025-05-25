@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1621106951630,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/track/",
-    "4": "/train/junction/",
-    "5": "/train/roundabout/",
-    "6": "/train/stacker/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/stacker/"
+  ],
   "title": "N8's Super Modular Rails",
   "favorites": {
     "2962e98RqLhBoxcU6NYNZLxNhWk2": true,

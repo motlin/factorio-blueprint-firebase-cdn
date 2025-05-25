@@ -21,11 +21,11 @@
   },
   "createdDate": 1580257800599,
   "fileName": "EC1.jpg",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/early game/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/"
-  }
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/early game/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ]
 }

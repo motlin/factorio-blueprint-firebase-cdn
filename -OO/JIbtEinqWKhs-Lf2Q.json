@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/bgn53g3.png",
   "lastUpdatedDate": 1745235182061,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "2GW Thin Nuclear Tileable",
   "favorites": {
     "UsJcwmVVTCMDltb5P4TeOrhA4yt1": true,

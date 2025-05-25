@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1687273348654,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/train/crossing/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/train/crossing/",
+    "/general/late game (megabase)/"
+  ],
   "title": "a massive structure in factorio - a template of chunk base design"
 }

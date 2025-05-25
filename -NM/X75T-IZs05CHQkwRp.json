@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674536052662,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Smart Logistic Stock Alert",
   "favorites": {
     "9HxWfHbGExc3KYu99Jk1rTrUWUz1": true,

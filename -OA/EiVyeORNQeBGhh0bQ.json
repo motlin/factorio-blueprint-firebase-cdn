@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/G8tWKjI",
   "lastUpdatedDate": 1730305575198,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/train/right-hand-drive/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/version/2,0/"
+  ],
   "title": "Celtic Knot Intersection v2 (RHD)",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

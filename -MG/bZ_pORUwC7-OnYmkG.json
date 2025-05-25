@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1628456508875,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "title": "Tillable Compact Refinery",
   "favorites": {
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true

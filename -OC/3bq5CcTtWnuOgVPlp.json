@@ -19,13 +19,13 @@
   "imageUrl": "https://imgur.com/K0Sa6B3",
   "lastUpdatedDate": 1732029029457,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/space-age/",
-    "4": "/power/nuclear/",
-    "5": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/production/mall (make everything)/",
+    "/mods/space-age/",
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "Aquilo space ship"
 }

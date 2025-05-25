@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1582296012696,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "title": "Smelter With Unloading For 2-6 Trains"
 }

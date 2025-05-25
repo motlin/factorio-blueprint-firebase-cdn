@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/4c33f87",
   "lastUpdatedDate": 1733634724263,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Very Slow Gear, Steel, Pipe, Engine Factory",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true

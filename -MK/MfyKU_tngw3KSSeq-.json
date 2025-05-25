@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "favorites": {
     "GUyTuuVPrpgqyUAWeerwNA6dIcp1": true,
     "10ModK5hcvYxWzoY10gE9fPRzP32": true,

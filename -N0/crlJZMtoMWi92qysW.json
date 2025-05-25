@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651026892288,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/transport drones/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/transport drones/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Modular Mall - Transport Drones",
   "favorites": {
     "XpaG7mC0YJUv7eCMRr5xF1CeMha2": true

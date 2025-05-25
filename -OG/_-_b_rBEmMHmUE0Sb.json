@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ujmkMID",
   "lastUpdatedDate": 1736861440682,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Self restarting Gleba Bioflux and Science Factory",
   "favorites": {
     "WYhE5I5cu1eKAARMw4JuzsdzIfq1": true,

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/K4BGLYR",
   "lastUpdatedDate": 1732808778507,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/production/research (labs)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/research (labs)/"
+  ],
   "title": "Sushi belt laboratory center",
   "favorites": {
     "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,

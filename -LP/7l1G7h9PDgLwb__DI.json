@@ -9,10 +9,10 @@
   },
   "numberOfFavorites": 6,
   "title": "Ultimate Solar Blueprint FactorioExtended Plus (MK3)",
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/"
+  ],
   "favorites": {
     "gTkuWGxsVwOouI9GLpf25tkcL4h2": true
   },

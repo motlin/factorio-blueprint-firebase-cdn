@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2ThDIlD",
   "lastUpdatedDate": 1745706282313,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/planets/nauvis/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/planets/nauvis/"
+  ],
   "title": "Initial Nauvis Items",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

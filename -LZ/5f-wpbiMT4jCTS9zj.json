@@ -14,12 +14,12 @@
     "width": 1115
   },
   "lastUpdatedDate": 1550595172858,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/power/nuclear/"
+  ],
   "favorites": {
     "0Oy6HNjmKlQ1jGvcNgNJZSGcNcV2": true
   },

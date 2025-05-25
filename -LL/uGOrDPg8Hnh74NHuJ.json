@@ -4,9 +4,9 @@
   "descriptionMarkdown": "makes 300 red science per min \n\nonly requires red science researches\n\nMod(s):\nelectric furnaces \n\nInput(s): \n10 iron ore/s\n5 copper ore/s\n526-16,733.2kw\n\n\n",
   "lastUpdatedDate": 1565419677164,
   "title": "300spm red science ",
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "author": {
     "userId": "jMpMNCdn4rXkYaEYwOaMRfqiWaA2"
   },

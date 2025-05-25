@@ -24,14 +24,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/aaa.png?alt=media&token=6846b982-1664-4c49-8517-18d161499273",
   "lastUpdatedDate": 1557067837438,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/production/modules/",
-    "3": "/version/0,17/",
-    "4": "/production/logistic (bot) based/",
-    "5": "/belt/express transport belt (blue)/",
-    "6": "/general/beaconized/",
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/modules/",
+    "/version/0,17/",
+    "/production/logistic (bot) based/",
+    "/belt/express transport belt (blue)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "22 Speedmodule/min"
 }

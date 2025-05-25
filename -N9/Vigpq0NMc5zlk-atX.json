@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1660553973327,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/other/"
+  ],
   "title": "Vulcanite Block Production",
   "favorites": {
     "oS0vR74mwshKI4RkSZsgrjCHKbt1": true,

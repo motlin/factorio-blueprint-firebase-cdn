@@ -25,13 +25,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1rpm%20science.jpg?alt=media&token=ed9478aa-a2cf-4f60-a6c7-373005905e06",
   "lastUpdatedDate": 1501186146655,
   "numberOfFavorites": 27,
-  "tags": {
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/general/compact/"
+  ],
   "title": "Compact 1 RPM Science Production"
 }

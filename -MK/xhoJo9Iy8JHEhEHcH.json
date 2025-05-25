@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1633122993592,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/krastorio/"
+  ],
   "title": "Kovarex enrichment for krastorio 2",
   "favorites": {
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,

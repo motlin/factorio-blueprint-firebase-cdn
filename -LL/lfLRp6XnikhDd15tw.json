@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1565275285757,
   "numberOfFavorites": 3,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/version/0,17/",
-    "1": "/production/science/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/science/",
+    "/general/early game/"
+  ],
   "title": "7 tiles wide science from raw materials"
 }

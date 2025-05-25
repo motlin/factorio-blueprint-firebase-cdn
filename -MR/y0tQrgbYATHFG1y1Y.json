@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1640644495786,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "1120 MW Power Plant, placeable on small lake",
   "favorites": {
     "0xPqtG5wS3YZcGMPcb8kTaK5gDE2": true,

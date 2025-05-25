@@ -26,14 +26,14 @@
   },
   "lastUpdatedDate": 1526026378522,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/train/roundabout/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/",
-    "6": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,16/"
+  ],
   "title": "4x4 RHD 1-1 Train Network, fully signaled with Provider/Requester  & Refuel LTN Stations included"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/2EIhK6S.png",
   "lastUpdatedDate": 1741170268623,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Legendary Fish Farm",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1517953536562,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "32 full blue belts of plates"
 }

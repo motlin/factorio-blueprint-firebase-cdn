@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1657036993428,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/other/"
+  ],
   "title": "Sushi belt advanced control",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true

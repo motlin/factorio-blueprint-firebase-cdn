@@ -45,12 +45,12 @@
   },
   "lastUpdatedDate": 1620161638516,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/early game/",
-    "2": "/production/smelting/",
-    "3": "/production/guns and ammo/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/early game/",
+    "/production/smelting/",
+    "/production/guns and ammo/",
+    "/production/belt based/"
+  ],
   "title": "Wave Defense Essentials"
 }

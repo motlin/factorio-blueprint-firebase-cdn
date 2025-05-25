@@ -8,9 +8,9 @@
     "width": 2560
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "favorites": {
     "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
     "QRwjyZjFHcgoJuvDj3d0oujMtb53": true,

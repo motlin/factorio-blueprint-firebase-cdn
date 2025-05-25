@@ -11,10 +11,10 @@
   "createdDate": 1546722330522,
   "descriptionMarkdown": "Place at the ends of a Sushi Megafactory. Balances across all belts and ensures that individual lanes in each belt do not become congested.",
   "lastUpdatedDate": 1546722330522,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/production/mall (make everything)/"
+  ],
   "author": {
     "userId": "vb8MG6JLsjM1o4HlkEIk5XWzZBt2"
   },

@@ -115,18 +115,18 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FP004.png?alt=media&token=2291b38a-3756-4da5-94c0-044fd692fc62",
   "lastUpdatedDate": 1571584685833,
   "numberOfFavorites": 94,
-  "tags": {
-    "3": "/power/accumulator/",
-    "6": "/general/mid game/",
-    "7": "/general/late game (megabase)/",
-    "8": "/power/nuclear/",
-    "10": "/general/tileable/",
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "5": "/general/early game/",
-    "9": "/power/steam/",
-    "2": "/version/0,17/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/power/steam/",
+    "/version/0,17/",
+    "/general/compact/"
+  ],
   "title": "NRC's Energy[Ver0.17]"
 }

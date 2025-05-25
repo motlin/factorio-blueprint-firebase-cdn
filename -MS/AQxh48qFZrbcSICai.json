@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1640869387359,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Insanity Star"
 }

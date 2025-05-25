@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/Z707DT3",
   "lastUpdatedDate": 1729965745928,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/",
-    "3": "/production/science/",
-    "4": "/planets/vulcanus/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/production/science/",
+    "/planets/vulcanus/",
+    "/mods/vanilla/"
+  ],
   "title": "Mettalurgy Science Tileable - 72 SPM/tile",
   "favorites": {
     "Z9Jy91LdiJbW6gnk297Xtdzju092": true,

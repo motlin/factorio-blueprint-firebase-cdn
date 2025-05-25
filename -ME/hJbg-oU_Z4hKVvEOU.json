@@ -16,9 +16,9 @@
     "width": 1727
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/uranium/",
-    "2": "/power/nuclear/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/production/uranium/",
+    "/power/nuclear/"
+  ]
 }

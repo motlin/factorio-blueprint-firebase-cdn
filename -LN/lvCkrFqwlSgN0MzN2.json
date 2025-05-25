@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1538475113136,
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/general/late game (megabase)/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "title": "1,2k/min Blue Circuits - using Iron + Copper + Plastic"
 }

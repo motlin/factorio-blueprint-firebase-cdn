@@ -12,10 +12,10 @@
   "fileName": "tileable.png",
   "lastUpdatedDate": 1535329821618,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "jwzzC6v65eegzsrgJvS1N8o1lxt2"
   },

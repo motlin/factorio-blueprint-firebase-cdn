@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1673207350932,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/power/steam/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/power/steam/",
+    "/version/1,1/"
+  ],
   "title": "Angel's Bioprocessing Perpetuum Mobile",
   "favorites": {
     "5vLzBAXdfJWO68IkX53q3oHvjMn2": true,

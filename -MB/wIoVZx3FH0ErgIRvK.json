@@ -8,11 +8,11 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/indicator/"
+  ],
   "favorites": {
     "V4WsDq6V30WXfIrdw14F75phOky2": true,
     "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,

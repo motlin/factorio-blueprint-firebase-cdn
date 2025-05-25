@@ -7,13 +7,13 @@
     "type": "image/jpeg",
     "width": 1043
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/compact/",
-    "0": "/production/science/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/compact/",
+    "/production/science/",
+    "/general/early game/"
+  ],
   "lastUpdatedDate": 1497801374822,
   "numberOfFavorites": 37,
   "title": "Compact Red/Green Science Packs",

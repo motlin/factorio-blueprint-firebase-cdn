@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1634621995173,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/robots/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/robots/",
+    "/general/compact/"
+  ],
   "title": "Bots and roboport factory",
   "favorites": {
     "sTkSnDz6pQO9BJc9fw6yV9QHjsG3": true,

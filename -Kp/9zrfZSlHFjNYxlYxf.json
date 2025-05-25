@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/compact/"
+  ],
   "title": "Mall by Doofmaster",
   "author": {
     "userId": "btNos1N6ZsdepFIW4PVb3TeZBvv1"

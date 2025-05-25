@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1644435024557,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "4-way 4-lane intersection",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true

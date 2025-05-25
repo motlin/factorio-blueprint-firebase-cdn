@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/PnAUSF2",
   "lastUpdatedDate": 1742214645163,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "Auto-combinator",
   "favorites": {
     "I2sBSpAuWmafuwdoazHY1iWf5DU2": true,

@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1682029505059,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/general/chunk aligned/"
+  ],
   "title": "Q-CHAR (Version 1.0)"
 }

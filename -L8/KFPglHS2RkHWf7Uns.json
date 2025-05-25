@@ -7,11 +7,11 @@
     "width": 2400
   },
   "lastUpdatedDate": 1521848790267,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "1k/m Green Science (Beacons, blue belts)",
   "author": {
     "userId": "518vGMCd1QWXPpwUy1texLuud2n1"

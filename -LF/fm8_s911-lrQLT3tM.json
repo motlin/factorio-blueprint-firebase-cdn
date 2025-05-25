@@ -37,11 +37,11 @@
   },
   "lastUpdatedDate": 1558733954487,
   "numberOfFavorites": 19,
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/production/belt based/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/belt based/",
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "Modular Base - 462 SPM"
 }

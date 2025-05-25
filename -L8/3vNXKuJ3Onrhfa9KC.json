@@ -15,11 +15,11 @@
   "descriptionMarkdown": "# All inserters in one line\n\nThin, long and upgraded version of [this very popular blueprint](https://factorioprints.com/view/-K_Me61B1oQ_Dmjbde9B).\n\n* Looks more prettify.\n* No duplication of chests.\n* Use small electric pole. You can start building without steel in early game.\n* Less underground belts. It's easier to replace yellow belts to red, and red to blue.\n* Burner inserter included =)\n\nI use blue belts. But you can use any other.",
   "fileName": "noopic_inserters.png",
   "lastUpdatedDate": 1521739727507,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "All inserters in one line"
 }

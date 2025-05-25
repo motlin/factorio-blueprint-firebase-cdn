@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1633122820305,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/krastorio/"
+  ],
   "title": "Solar panel krastorio 2",
   "favorites": {
     "Cc3DSiWKeCgv2Pq0Cr2nqZ4Ux6y2": true,

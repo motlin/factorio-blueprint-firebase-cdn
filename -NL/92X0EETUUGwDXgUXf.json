@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1702049489175,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/batteries/",
-    "2": "/production/plastic/",
-    "3": "/production/processing unit (blue)/",
-    "4": "/power/accumulator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/batteries/",
+    "/production/plastic/",
+    "/production/processing unit (blue)/",
+    "/power/accumulator/"
+  ],
   "title": "Kor's Production Compendium"
 }

@@ -22,17 +22,17 @@
   },
   "lastUpdatedDate": 1598552778807,
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/general/compact/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/version/1,0/",
-    "4": "/version/0,18/",
-    "6": "/version/0,16/",
-    "7": "/version/0,15/",
-    "9": "/general/tileable/",
-    "0": "/general/mid game/",
-    "5": "/version/0,17/",
-    "8": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/electronic circuit (green)/",
+    "/version/1,0/",
+    "/version/0,18/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "authorId": "YC40KlyONSZeDyINN9jXvLkdxrN2"
 }

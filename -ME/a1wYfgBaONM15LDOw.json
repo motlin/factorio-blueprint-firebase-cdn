@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1597292399561,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/production/other/",
-    "3": "/version/0,17/",
-    "0": "/general/beaconized/",
-    "1": "/production/belt based/"
-  },
+  "tags": [
+    "/production/other/",
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/production/belt based/"
+  ],
   "title": "Intermediate Ingredients + Science Blue Belt Outputs"
 }

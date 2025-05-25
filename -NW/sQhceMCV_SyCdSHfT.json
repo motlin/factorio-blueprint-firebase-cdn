@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1685647710931,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Military science pack 45/s",
   "favorites": {
     "AqJb1V8y4zYKgvtoECNSBOjbU4Q2": true,

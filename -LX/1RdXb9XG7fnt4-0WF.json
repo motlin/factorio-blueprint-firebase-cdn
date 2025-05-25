@@ -26,16 +26,16 @@
     "VsqE9yREfAetCTQKB7VFzOZahdm1": true,
     "l2h7ZmuLEZMqSScnjJAHwoBs3Ni1": true
   },
-  "tags": {
-    "5": "/general/mid game/",
-    "7": "/general/compact/",
-    "1": "/belt/transport belt (yellow)/",
-    "4": "/general/early game/",
-    "3": "/belt/express transport belt (blue)/",
-    "6": "/general/late game (megabase)/",
-    "8": "/production/belts/",
-    "0": "/version/0,17/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/compact/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/production/belts/",
+    "/version/0,17/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Belts, Underground Belts, and Splitters with Filtered Storage Chests + Easy Controls and Visual Indicators"
 }

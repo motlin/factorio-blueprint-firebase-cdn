@@ -33,11 +33,11 @@
   },
   "lastUpdatedDate": 1552434779407,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "Hiro's prebeacon 90 science/min blueprints"
 }

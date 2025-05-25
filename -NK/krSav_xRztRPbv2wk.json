@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1672635865613,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "title": "Improved Bots From Ore"
 }

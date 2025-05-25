@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1683484456249,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Hourglass Animation",
   "favorites": {
     "EjSHhVgEQqXSW0Gzsop0tOowR153": true

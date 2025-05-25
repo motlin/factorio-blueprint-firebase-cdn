@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/sSZ9u2Z",
   "lastUpdatedDate": 1734261109705,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Purple Science 100 SPM. Production science pack",
   "favorites": {
     "VXw1D1a3iyP3gthfU9f0rpZcMyn2": true,

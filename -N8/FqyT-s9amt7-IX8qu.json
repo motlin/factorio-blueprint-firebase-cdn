@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1661099837862,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Changeable module production",
   "favorites": {
     "mgzaB559GKQRL7QtiME6MluIubD2": true,

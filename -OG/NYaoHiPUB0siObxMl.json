@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Fh4B3nJ",
   "lastUpdatedDate": 1739645060352,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/guns and ammo/"
+  ],
   "title": "Rocket and Explosive Rocket - very simple, tileable",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true

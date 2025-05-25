@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Nuclear power generator (full)",
   "author": {
     "userId": "6olpLl2xoTODjlM1MS3fTO6TMdB2"

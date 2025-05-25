@@ -25,14 +25,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mixed%20science.png?alt=media&token=2fb843d3-ede0-453a-8741-e8205c7e3239",
   "lastUpdatedDate": 1658912905238,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/vanilla/",
-    "4": "/general/beaconized/",
-    "5": "/belt/express transport belt (blue)/",
-    "6": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "462 spm All-science build (8 beacon) from ore"
 }

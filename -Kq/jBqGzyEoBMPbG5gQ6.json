@@ -6,11 +6,11 @@
     "width": 1376
   },
   "lastUpdatedDate": 1501885397621,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "numberOfFavorites": 5,
   "author": {
     "userId": "69GmjXmTdIYy6TzilEOjBVymF4u2"

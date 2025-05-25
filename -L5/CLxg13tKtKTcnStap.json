@@ -8,11 +8,11 @@
     "type": "image/jpeg",
     "width": 1144
   },
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/train/crossing/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "Safe Crossing Gateway Mk2",
   "fileName": "safecrossinggatewaymk2.png",
   "lastUpdatedDate": 1518495062852,

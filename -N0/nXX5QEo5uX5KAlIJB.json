@@ -18,13 +18,13 @@
   },
   "lastUpdatedDate": 1651205874111,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/solar/",
-    "2": "/power/kovarex enrichment/",
-    "3": "/power/accumulator/",
-    "4": "/power/steam/",
-    "5": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/solar/",
+    "/power/kovarex enrichment/",
+    "/power/accumulator/",
+    "/power/steam/",
+    "/production/uranium/"
+  ],
   "title": "2.1 GW U.N.S.C.E.A.R power plant"
 }

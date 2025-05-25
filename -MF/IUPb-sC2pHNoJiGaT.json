@@ -2,12 +2,12 @@
   "createdDate": 1598054836704,
   "descriptionMarkdown": "A nice slab of concrete, for ease of placement.\n\nOne-quarter of a chunk in size.",
   "fileName": "ConcreteSlab.png",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/general/early game/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/general/tileable/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ConcreteSlab.png?alt=media&token=6cd30f11-74eb-4236-9ba3-391e3c35dad8",
   "author": {
     "userId": "0mFMFSQyeXYRWvv676YNegV08Kz2"

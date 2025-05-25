@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1696502844522,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/general/compact/"
+  ],
   "title": "2-to-1 full belt balanced merger",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/belt%20combinator.gif?alt=media&token=6863965d-f8e8-40f7-87c0-808812daa9b2",
   "favorites": {

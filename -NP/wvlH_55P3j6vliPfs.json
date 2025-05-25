@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678207030472,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/industrial revolution/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/industrial revolution/"
+  ],
   "title": "IR3 Fluid Mall",
   "favorites": {
     "TjhsU8JBfJOCYwnDPIRfZANInuJ2": true,

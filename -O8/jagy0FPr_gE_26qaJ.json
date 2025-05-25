@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/ZzwNQ2k",
   "lastUpdatedDate": 1728449319408,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/beaconized/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/train/right-hand-drive/"
+  ],
   "title": "2.3 GW Hybrid Belt Based Kovarex and Logistic fueled Nuclear Power Station"
 }

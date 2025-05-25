@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1635442512916,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Advanced Circuit with a red belt output in a line",
   "favorites": {
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,

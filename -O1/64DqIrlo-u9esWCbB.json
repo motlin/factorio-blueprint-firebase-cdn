@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zxYYk2W",
   "lastUpdatedDate": 1720253214160,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "12x Tileable Reactors (Water exterior input)"
 }

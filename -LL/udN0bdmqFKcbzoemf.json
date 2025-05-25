@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1536434733340,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/general/mid game/",
-    "2": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/mid game/",
+    "/production/oil processing/"
+  ],
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"
   },

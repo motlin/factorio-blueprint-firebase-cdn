@@ -10,10 +10,10 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1546736043832,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/"
+  ],
   "title": "bcat Bot Mining XS",
   "favorites": {
     "Ql65HCEd9lYi4tHwa1DlDOrQoZH3": true

@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,18/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,18/"
+  ],
   "title": "blue science (.18 version)",
   "favorites": {
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,

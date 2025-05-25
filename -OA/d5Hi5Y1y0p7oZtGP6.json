@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ouhGF4Z",
   "lastUpdatedDate": 1730487594251,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/general/storage/"
+  ],
   "title": "Assembler auto crafter",
   "favorites": {
     "6cTc6BT9w6V0EgIBEolvTCca15k2": true,

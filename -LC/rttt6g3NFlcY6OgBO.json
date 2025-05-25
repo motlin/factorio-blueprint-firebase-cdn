@@ -1,14 +1,14 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/production/batteries/",
-    "4": "/production/belt based/",
-    "5": "/version/0,17/",
-    "6": "/production/guns and ammo/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/power/accumulator/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/production/belt based/",
+    "/version/0,17/",
+    "/production/guns and ammo/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/power/accumulator/"
+  ],
   "favorites": {
     "FkijUVq7wnVFt2pxsziKc4IBp5x1": true,
     "UdL4kH2zWEeVdZjIS7lwQ7SHivm2": true,

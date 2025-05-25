@@ -27,8 +27,8 @@
   "imageUrl": "https://imgur.com/sm1Yqbn",
   "lastUpdatedDate": 1733206451325,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Quantum Processor Upscale"
 }

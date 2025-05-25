@@ -12,12 +12,12 @@
   "descriptionMarkdown": "Compact nuclear energy layout, produces 3.0 GW on 104x118 tiles, that's 245kW/tile.",
   "fileName": "aJo0thou.png",
   "lastUpdatedDate": 1597653023069,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/power/nuclear/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/nuclear/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "3GW Compact Nuclear Power",
   "author": {
     "userId": "Hh76JkKpHkUYop03yrvQUyFzGyc2"

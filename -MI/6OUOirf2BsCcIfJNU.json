@@ -16,13 +16,13 @@
     "type": "image/png",
     "width": 1099
   },
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/",
-    "4": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/production/guns and ammo/"
+  ],
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
     "11o67rL7N1dLaULE2eBjzVXoldK2": true,

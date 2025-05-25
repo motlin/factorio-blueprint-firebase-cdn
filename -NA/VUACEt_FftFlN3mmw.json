@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1662121013262,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "All in One Science blueprint (bot based 1000 science/min, only raw ressources input)"
 }

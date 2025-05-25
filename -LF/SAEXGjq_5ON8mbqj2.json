@@ -16,8 +16,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_1ee1.png?alt=media&token=b294ea4c-6d87-4da0-ac00-ee84832e2174",
   "lastUpdatedDate": 1530560036794,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "4.6 gw all time reactor 100% efficent"
 }

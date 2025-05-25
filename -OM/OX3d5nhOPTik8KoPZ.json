@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/cq73fei",
   "lastUpdatedDate": 1743111342910,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Lossless Modular Reactor ",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true

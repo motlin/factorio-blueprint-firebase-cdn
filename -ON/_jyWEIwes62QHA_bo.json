@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/LZi1u2M",
   "lastUpdatedDate": 1744464353691,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "mgabor's Ultimate Reactor Book"
 }

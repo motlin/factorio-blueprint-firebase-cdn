@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/382eti6.png",
   "lastUpdatedDate": 1744966755811,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "75 SPM Space Platform",
   "favorites": {
     "yJwn8dWhEQUT6p4LKKQtjOmCCeH3": true

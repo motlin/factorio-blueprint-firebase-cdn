@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1708899653219,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "Personal Equipment HUB botless",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

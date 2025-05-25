@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/aYm5rDQ",
   "lastUpdatedDate": 1735535325085,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/fulgora/"
+  ],
   "title": "Fulgora 16 Belt Sorter",
   "favorites": {
     "HGJ5xLV645TjjqhpGStefP2Jaf93": true,

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1674404439152,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/production/mining/",
-    "2": "/train/stacker/",
-    "3": "/production/robots/",
-    "4": "/circuit/counter/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/production/mining/",
+    "/train/stacker/",
+    "/production/robots/",
+    "/circuit/counter/"
+  ],
   "title": "Mine Blaupause"
 }

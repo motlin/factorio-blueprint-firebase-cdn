@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
   "createdDate": 1539258939645,
   "lastUpdatedDate": 1539258939645,

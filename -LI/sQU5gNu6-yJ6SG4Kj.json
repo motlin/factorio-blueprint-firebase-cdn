@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/belt/express transport belt (blue)/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "0.16.x | Belt Production | Bot-Based | Edited to use RED BELTS",
   "authorId": "GpcM6ZUC8RVaxFbIGldanqcANO02",
   "createdDate": 1533176312254,

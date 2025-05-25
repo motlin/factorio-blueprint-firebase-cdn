@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1622827605519,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Black and Blue Science 60 per min",
   "favorites": {
     "4IJGcawEOghxELod1XtEPuSwTU42": true,

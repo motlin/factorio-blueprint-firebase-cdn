@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/pvp_base_high_res_5.png?alt=media&token=04192ec3-b1c8-4fd8-bfb1-f814f9df9bae",
   "lastUpdatedDate": 1529167181442,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/guns and ammo/",
-    "2": "/production/belt based/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/guns and ammo/",
+    "/production/belt based/",
+    "/version/0,16/"
+  ],
   "title": "PvP 3Ra JuicyJuuce v1.19"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698354206805,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio 2 Hub by Mateo Millan"
 }

@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1599626326783,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/late game (megabase)/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/version/1,0/"
+  ],
   "title": "TroZ's Smart Wall Blueprints"
 }

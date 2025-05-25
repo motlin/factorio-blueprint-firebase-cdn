@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1674773203424,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/space-exploration/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/belt/fast transport belt (red)/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "K2+SE Greenhouse Wood 2 Red belts output (Water/Stone)",
   "favorites": {
     "i8fKg0kPRoOQUZULMoJJPSh433m1": true,

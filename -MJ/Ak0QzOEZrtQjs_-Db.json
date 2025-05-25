@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1631211078017,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/circuit/counter/"
+  ],
   "title": "Automatic Emergency Power Backup",
   "favorites": {
     "67G9TmALSfazXmtaxYMDd9ez8OB3": true,

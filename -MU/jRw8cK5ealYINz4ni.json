@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1643621106340,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Train Counter (T-Intersection)",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

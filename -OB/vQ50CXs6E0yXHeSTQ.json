@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3eOvRdK",
   "lastUpdatedDate": 1731868778795,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/art/",
-    "1": "/mods/quality/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/general/art/",
+    "/mods/quality/",
+    "/mods/space-age/"
+  ],
   "title": "Shitty Copper"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/La6pC2O",
   "lastUpdatedDate": 1731854266315,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/general/tileable/"
+  ],
   "title": "Aquilo tileable ice melting water",
   "favorites": {
     "1lCcBHS2U1bOrK1p3MvvUtHgzrG2": true,

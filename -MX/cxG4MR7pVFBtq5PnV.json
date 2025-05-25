@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1617742336651,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/1,0/",
-    "2": "/general/tileable/",
-    "3": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/1,0/",
+    "/general/tileable/",
+    "/general/chunk aligned/"
+  ],
   "title": "Chunk aligned wall"
 }

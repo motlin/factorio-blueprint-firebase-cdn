@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1624210712693,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/rocket parts/"
+  ],
   "title": "Rocket Factory, 1/3.5m"
 }

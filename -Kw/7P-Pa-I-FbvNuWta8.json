@@ -20,11 +20,11 @@
     "type": "image/png",
     "width": 640
   },
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/moderation/screenshot missing alt info/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/moderation/screenshot missing alt info/"
+  ],
   "title": "Rocket Control Unit"
 }

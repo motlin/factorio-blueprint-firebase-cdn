@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/LINo2UU",
   "lastUpdatedDate": 1730905175967,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Agricultural science pack",
   "favorites": {
     "ocV9ibG8mVVnvwjTVLYZf6Rq0jD3": true,

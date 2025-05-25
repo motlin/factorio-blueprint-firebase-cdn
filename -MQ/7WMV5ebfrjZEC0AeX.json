@@ -19,8 +19,8 @@
     "width": 2857,
     "height": 673
   },
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "title": "Lab cluster"
 }

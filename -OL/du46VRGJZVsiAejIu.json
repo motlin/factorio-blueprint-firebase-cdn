@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Zr3SdIg",
   "lastUpdatedDate": 1745937945254,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "LOTUS: 480MW",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/qkKvVgS",
   "lastUpdatedDate": 1732101541269,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "Beginner Space Science Platform",
   "favorites": {
     "tqYzYx1KjxaxiX9VFK1SbdRc9aw2": true,

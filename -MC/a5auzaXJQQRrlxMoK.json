@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1624137391903,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Space science laboratory",
   "favorites": {
     "wIKhSDtasDWCGfZcGd5x9I5SGCk1": true,

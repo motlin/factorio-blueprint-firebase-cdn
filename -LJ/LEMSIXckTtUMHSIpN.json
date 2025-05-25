@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Basic Laboratory Setup",
   "descriptionMarkdown": "My basic laboratory setup. Can be expanded as needed.",
   "image": {

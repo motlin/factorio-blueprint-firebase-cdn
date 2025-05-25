@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/eoR0lQ5",
   "lastUpdatedDate": 1746303172439,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Skinny Cargo Ship",
   "favorites": {
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,

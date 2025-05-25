@@ -13,11 +13,11 @@
   "createdDate": 1585932502944,
   "fileName": "Screenshot_6.jpg",
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/mods/krastorio/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/krastorio/",
+    "/general/early game/"
+  ],
   "title": "Krastorio 2 Starter Base",
   "favorites": {
     "i5KVjN5EtygYrR5hYywRARDLJt63": true,

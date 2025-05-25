@@ -16,11 +16,11 @@
     "width": 1021
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/power/steam/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  }
+  "tags": [
+    "/general/early game/",
+    "/general/mid game/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

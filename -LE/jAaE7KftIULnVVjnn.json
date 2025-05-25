@@ -18,9 +18,9 @@
   "descriptionMarkdown": "Concrete plant for Standard, reinforced and reinforced Hazard Concrete\nRequires the Water well mod or pipe water in.\nhttps://mods.factorio.com/mod/WaterWell",
   "fileName": "Concrete Plant.png",
   "lastUpdatedDate": 1558703069342,
-  "tags": {
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/"
+  ],
   "title": "Concrete Plant",
   "author": {
     "userId": "zGPzvuxUcrStDhFysauedhHEUUb2"

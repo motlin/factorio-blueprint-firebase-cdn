@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/InXgixu",
   "lastUpdatedDate": 1729369116078,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Fabrica de circuito verde e vermelho 2.0 (Exotics + S.E.)"
 }

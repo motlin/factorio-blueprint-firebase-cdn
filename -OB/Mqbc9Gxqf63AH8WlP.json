@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/iWiFc46",
   "lastUpdatedDate": 1731272201472,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Platform 395km/s",
   "favorites": {
     "KX6rawUCcjOmgr7H5qcqPjxJ7rO2": true

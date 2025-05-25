@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/1WgMUGd",
   "lastUpdatedDate": 1732548806760,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/planets/vulcanus/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/planets/vulcanus/",
+    "/version/2,0/"
+  ],
   "title": "Vulcanus - 2 Belts of Iron Gear"
 }

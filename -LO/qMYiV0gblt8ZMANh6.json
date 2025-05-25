@@ -22,17 +22,17 @@
   },
   "lastUpdatedDate": 1569517494763,
   "numberOfFavorites": 5,
-  "tags": {
-    "8": "/general/mid game/",
-    "2": "/production/mall (make everything)/",
-    "3": "/version/0,17/",
-    "4": "/train/stacker/",
-    "5": "/train/right-hand-drive/",
-    "6": "/production/guns and ammo/",
-    "0": "/general/tileable/",
-    "1": "/production/research (labs)/",
-    "7": "/mods/vanilla/",
-    "9": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/train/stacker/",
+    "/train/right-hand-drive/",
+    "/production/guns and ammo/",
+    "/general/tileable/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "HEXLAND v0.17 science + mall"
 }

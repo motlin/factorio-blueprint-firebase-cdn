@@ -7,13 +7,13 @@
   "authorId": "KUhD01lo2pctrfTnVN7wQXw8lmD2",
   "createdDate": 1559122602051,
   "fileName": "12_Core_Nuclear_Accumulator_Block_-_Cores.jpg",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/power/steam/",
-    "4": "/power/accumulator/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/steam/",
+    "/power/accumulator/",
+    "/power/nuclear/"
+  ],
   "title": "12 Core Nuclear with 1.4k Accumulators",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

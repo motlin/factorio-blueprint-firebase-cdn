@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/oC2UbKs",
   "lastUpdatedDate": 1714385113574,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/late game (megabase)/"
+  ],
   "title": "All-in-one Research Center"
 }

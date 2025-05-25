@@ -14,12 +14,12 @@
   "authorId": "r4ju3ND2ACbbtqyYrLuVmamC1D33",
   "createdDate": 1552147308790,
   "descriptionMarkdown": "Have 2 blueprint Blue science. Early game\nPrint 4 per second and 2per second\nHave fan :)",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/general/early game/"
+  ],
   "title": "Blue science 2 p/s and 4p/s",
   "author": {
     "userId": "r4ju3ND2ACbbtqyYrLuVmamC1D33"

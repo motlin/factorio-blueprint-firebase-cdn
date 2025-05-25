@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/HwWa0B7",
   "lastUpdatedDate": 1733401113085,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/space-age/",
-    "2": "/power/nuclear/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/space-age/",
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "NOT THE RIGHT ONE !!! [Book Fusion Reactor]",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true

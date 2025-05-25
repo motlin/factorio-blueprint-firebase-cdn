@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1673605911928,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/"
+  ],
   "title": "Kovarex Enrichment Process",
   "favorites": {
     "Pw7XXRu6AZfCwtNPUIE4KinjTax1": true,

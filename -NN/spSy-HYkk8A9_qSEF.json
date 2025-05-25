@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1675990786576,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/production/rocket parts/"
+  ],
   "title": "High density integration factory"
 }

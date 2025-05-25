@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698287739689,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/"
+  ],
   "title": "USINA DE PLASTICO",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

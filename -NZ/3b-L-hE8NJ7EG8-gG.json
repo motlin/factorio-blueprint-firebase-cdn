@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1687999481271,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/belt based/",
-    "3": "/version/1,0/",
-    "4": "/version/1,1/",
-    "5": "/general/tileable/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/general/tileable/"
+  ],
   "title": "Flying Robot Frames - 168 / min",
   "favorites": {
     "phSUDMDo2XOdHOwH9JLOPfBhKR43": true,

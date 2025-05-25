@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/QJMKsUS",
   "lastUpdatedDate": 1730556799523,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Vulcanus Reinforced Concrete Plant",
   "favorites": {
     "aDCgn9vO5ZPHvwA4OlYRJ1SRjOx2": true,

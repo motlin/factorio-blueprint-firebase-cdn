@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": "Basic Circuit Boards Production Plant in a Box (Factorissimo)",
   "authorId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2",
   "createdDate": 1502133758224,

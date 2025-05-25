@@ -14,11 +14,11 @@
     "userId": "FLsXAw26HIdGn3OqTJAEBvssHFF2"
   },
   "authorId": "FLsXAw26HIdGn3OqTJAEBvssHFF2",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "createdDate": 1509807915972,
   "fileName": "SdnNyEe.jpg"
 }

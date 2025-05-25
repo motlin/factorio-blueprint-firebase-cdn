@@ -16,10 +16,10 @@
     "userId": "RoJuNj0AasaFdok8KX4RcVEbIwN2"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true
   }

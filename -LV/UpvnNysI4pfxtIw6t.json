@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1546722458886,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/circuit/counter/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/circuit/counter/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Sushi Megafactory Input Pulse Module",
   "author": {
     "userId": "vb8MG6JLsjM1o4HlkEIk5XWzZBt2"

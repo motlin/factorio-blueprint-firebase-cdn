@@ -20,9 +20,9 @@
     "width": 2168,
     "height": 537
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Inline Smelter"
 }

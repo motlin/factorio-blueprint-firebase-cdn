@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1580525465272,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/general/beaconized/"
+  ],
   "title": "BLUE BELT MALL"
 }

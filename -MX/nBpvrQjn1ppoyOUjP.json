@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1617914191652,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "SpaceEx:  GreenChip",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

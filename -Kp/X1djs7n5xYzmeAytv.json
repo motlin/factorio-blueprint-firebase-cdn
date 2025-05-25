@@ -48,9 +48,9 @@
   "descriptionMarkdown": "This blueprint book contains blueprints to create Yellow Science\n- Single modular Blueprint to create 4 per 12 seconds\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV",
   "fileName": "16.PNG",
   "numberOfFavorites": 106,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/science/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/"
+  ]
 }

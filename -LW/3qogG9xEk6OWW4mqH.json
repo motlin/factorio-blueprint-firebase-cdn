@@ -12,9 +12,9 @@
   },
   "numberOfFavorites": 1,
   "title": "8 to 8 yellow",
-  "tags": {
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/balancer/"
+  ],
   "author": {
     "userId": "oJRsSdsgUAeKc5S0pbjdOLVQc9x1"
   },

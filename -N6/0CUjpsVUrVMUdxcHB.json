@@ -20,8 +20,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/rsz_2022-07-03_01_51_03-clipboard(1).png?alt=media&token=a9ec23d1-3070-4af8-82d4-d5219c656133",
   "lastUpdatedDate": 1656836705181,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "3.3 GW reactor"
 }

@@ -2,11 +2,11 @@
   "authorId": "8MormUvFJtMUgzLovhiODmdrnjU2",
   "descriptionMarkdown": "Modified BP from here: https://factorioprints.com/view/-LxMu4vpN1AfOt3evz_N\nUsing only Assembling machine MK2.",
   "fileName": "rocket_fuel72s.png",
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/rocket parts/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/rocket parts/",
+    "/mods/vanilla/"
+  ],
   "title": "Rocket Fuel 72/s",
   "author": {
     "userId": "8MormUvFJtMUgzLovhiODmdrnjU2"

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1618410618669,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/1,0/"
+  ],
   "title": "Generic modular mall based on a sushi belt",
   "favorites": {
     "N59uu6x3QmVbgjZLdhAOMfsVvxv2": true,

@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1508918008975,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Oil Refineries",
   "descriptionMarkdown": "This allows for refineries to be places laterally, with all inputs/outputs connected to the same pipeline. This way you can have the full benefit of your set up sent in three directions. Input can also come in from three different directions as a result",
   "image": {

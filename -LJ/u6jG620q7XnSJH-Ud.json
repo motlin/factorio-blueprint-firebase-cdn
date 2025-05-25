@@ -12,13 +12,13 @@
     "VcF7eyz5lugtfIB696NNVjBhKbr2": true,
     "IvVoKzGUcdWx5fVRJ1vZU7hUos13": true
   },
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/version/0,15/",
-    "4": "/production/other/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/production/other/"
+  ],
   "title": "Tileable refined concrete production",
   "author": {
     "userId": "c8dxZktllvSYKrze79Q0x1J0vWy2"

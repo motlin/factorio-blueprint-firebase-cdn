@@ -27,12 +27,12 @@
   "imageUrl": "https://imgur.com/UjsO5uR",
   "lastUpdatedDate": 1723358724028,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/oil processing/",
-    "2": "/general/early game/",
-    "3": "/production/research (labs)/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/oil processing/",
+    "/general/early game/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Blueprint I used in my achievement guide"
 }

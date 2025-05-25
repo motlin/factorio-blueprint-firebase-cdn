@@ -22,11 +22,11 @@
   "descriptionMarkdown": "This is a solar tile optimized to make most-efficient use of roboports for those who want to minimized their parasitic draw.  It slightly exceeds the optimal 0.84 ratio, but it's designed to be used with the outside row of accumulators overlapping, and it asymptotically trends toward 0.84 the more you add.  Not the most practical if you want to pack your solar array close to the rest of your map, but it does look pretty badass on the map. ;)",
   "fileName": "RoboportOptimizedSolarTile.png",
   "lastUpdatedDate": 1560378471288,
-  "tags": {
-    "2": "/general/tileable/",
-    "0": "/power/solar/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/power/solar/",
+    "/version/0,17/"
+  ],
   "title": "Roboport-optimized Solar Tile",
   "author": {
     "userId": "8uNTm2OapHatD8M9Kz3P02D4R383"

@@ -9,12 +9,12 @@
     "width": 1350
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/",
-    "0": "/power/nuclear/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/general/compact/"
+  ],
   "title": "Nuclear Power Plant (4 reactors, 480 MW, compact, neat)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-24506736.png?alt=media&token=4bdd9561-75a3-447a-b5ea-65b5a88036f8",
   "author": {

@@ -11,12 +11,12 @@
   },
   "lastUpdatedDate": 1504702065575,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "zRU07FA12aXrtp5NYsg2aaLjvao2"
   },

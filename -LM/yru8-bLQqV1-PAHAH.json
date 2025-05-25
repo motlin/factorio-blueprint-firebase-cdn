@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "3": "/general/compact/",
-    "4": "/general/tileable/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/tileable/",
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "th9Wik5CEOdid6pTuddvUze7qAj1": true
   },

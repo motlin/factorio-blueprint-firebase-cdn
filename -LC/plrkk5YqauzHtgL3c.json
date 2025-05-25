@@ -7,12 +7,12 @@
     "id": "CLEy2qI",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "[Tileable] Light Oil to Solid Fuel",
   "author": {
     "userId": "6Y8QYXQsy9hv7E5V838jBBSodlJ2"

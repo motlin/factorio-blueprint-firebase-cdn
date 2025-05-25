@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/44AawU3.png",
   "lastUpdatedDate": 1740597508671,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Mining outpost",
   "favorites": {
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true

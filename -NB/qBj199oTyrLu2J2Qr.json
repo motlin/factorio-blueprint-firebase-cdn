@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1663063832256,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/power/nuclear/",
-    "2": "/power/kovarex enrichment/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "Mega Base Part 12"
 }

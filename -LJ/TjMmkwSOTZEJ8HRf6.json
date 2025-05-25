@@ -19,9 +19,9 @@
     "type": "image/png",
     "width": 1721
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Mall to get things started"
 }

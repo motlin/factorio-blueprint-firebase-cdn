@@ -29,8 +29,8 @@
   },
   "lastUpdatedDate": 1573088296906,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,16/"
+  ],
   "title": "2-4 Train Sub-factories"
 }

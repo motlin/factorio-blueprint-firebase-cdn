@@ -15,11 +15,11 @@
     "type": "image/jpeg",
     "width": 2560
   },
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/smelting/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/smelting/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Universal Smelter",
   "favorites": {
     "Seezl6qmDucjN6PzICTsjiUy3Nv2": true,

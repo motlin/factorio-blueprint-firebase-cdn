@@ -16,10 +16,10 @@
   },
   "title": "Smeltery - Ores - T3",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-06-03%2012_43_08-Factorio%200.15.18.png?alt=media&token=99df7e20-578a-4225-98e2-90ce367cabab",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/"
+  ],
   "authorId": "DjCKyWS6nrci9Bwlcix1tOwZiEr2"
 }

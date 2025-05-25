@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1677125293665,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/power/accumulator/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/accumulator/",
+    "/version/1,1/"
+  ],
   "title": "City Block Flat Solar for Space Exploration",
   "favorites": {
     "qv6u1GS87EcKInajObi2GsJag0L2": true

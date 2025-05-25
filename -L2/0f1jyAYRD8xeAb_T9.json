@@ -9,11 +9,11 @@
     "type": "image/jpeg",
     "width": 429
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "O8BLFu78rVaxCo9dWltCSB54pwp1"
   },

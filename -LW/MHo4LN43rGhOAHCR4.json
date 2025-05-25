@@ -20,9 +20,9 @@
   "createdDate": 1547652776377,
   "descriptionMarkdown": "288/sec      \nand you need also this much coal per second\n",
   "lastUpdatedDate": 1547652794191,
-  "tags": {
-    "2": "/production/plastic/",
-    "0": "/general/beaconized/",
-    "1": "/production/robots/"
-  }
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/production/robots/"
+  ]
 }

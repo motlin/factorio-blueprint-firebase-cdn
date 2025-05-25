@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Y0U97Xk",
   "lastUpdatedDate": 1725819569205,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Red Circuit / 4x Beacon Setup"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/HF2zsWO",
   "lastUpdatedDate": 1731287424195,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/mid game/",
-    "2": "/mods/vanilla/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/mods/space-age/"
+  ],
   "title": "Midgame Mall",
   "favorites": {
     "e8SwhZaCW2V0olVScJzSTQDwAIG3": true,

@@ -22,8 +22,8 @@
   "createdDate": 1563848298641,
   "descriptionMarkdown": "Blue print contains unloading stations, roboports, beaconed smelting, assemblers and coal liquifaction for onsite oil production.\n\nPlace blueprint near water and train in iron, copper and coal ore. Switch the assemblers to desired type and it will fill up the corresponding loading station (28,800 modules) in less than two days.",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/production/modules/",
+    "/version/0,17/"
+  ]
 }

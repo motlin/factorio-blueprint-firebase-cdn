@@ -35,11 +35,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Clipboard02.jpg?alt=media&token=92e9572d-9f62-451c-87e9-5ea51efe087c",
   "lastUpdatedDate": 1498605971508,
   "numberOfFavorites": 64,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Ore smelter 1-4 Train"
 }

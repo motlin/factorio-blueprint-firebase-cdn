@@ -1,11 +1,11 @@
 {
   "authorId": "1bclhzpElfY30NG4U6tHl8u7Utr2",
   "descriptionMarkdown": "For your starter base",
-  "tags": {
-    "2": "/version/1,0/",
-    "0": "/production/robots/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/robots/",
+    "/production/science/"
+  ],
   "image": {
     "height": 1598,
     "id": "RZvKRrW",

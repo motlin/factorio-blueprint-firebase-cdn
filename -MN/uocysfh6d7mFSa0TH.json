@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1636295676001,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/train/unloading station/"
+  ],
   "title": "Railways 1.3 compatible extensible unloading station",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

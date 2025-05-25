@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1680658728074,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Chemical Factory City Block"
 }

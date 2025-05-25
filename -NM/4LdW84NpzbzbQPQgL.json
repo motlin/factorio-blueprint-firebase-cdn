@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1703044356225,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,15/",
-    "2": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,15/",
+    "/mods/bobs/"
+  ],
   "title": "Bobs / Angels MK1 - Single Cylinder + Small Electric Motor Factory"
 }

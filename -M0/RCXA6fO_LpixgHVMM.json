@@ -7,12 +7,12 @@
   "fileName": "UR processing.png",
   "numberOfFavorites": 2,
   "lastUpdatedDate": 1582096310633,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/general/compact/",
-    "3": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/general/compact/",
+    "/production/logistic (bot) based/"
+  ],
   "favorites": {
     "fZcqlQRI7wbMDzewMJyIFmGc9iR2": true,
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true

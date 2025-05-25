@@ -5,14 +5,14 @@
   "descriptionMarkdown": "Fully consumes the copper belt.\nOutputs 52.26(6) circuits/s spread over 1.5 belts.\nIdeally pairs up with a mirrored copy to combine the two half belts.",
   "fileName": "green_circuits.PNG",
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/tileable/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "Td8p8fRophbP4n3uqhwWWmQMsHy2"
   },

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1688370235450,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Automaton, Logistic, Military and Chemical science 30/min",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/red%20green%20black%20blue%2030%20per%20min.png?alt=media&token=343a07a0-b087-4172-a326-568d91de99b1",
   "favorites": {

@@ -12,10 +12,10 @@
     "width": 1280
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/factorissimo/"
+  ],
   "author": {
     "userId": "m7tmdwmM8gPEsRsuNezU1eNKeYv1"
   },

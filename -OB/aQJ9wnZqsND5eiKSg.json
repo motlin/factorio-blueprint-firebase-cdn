@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/BNwZ1PM",
   "lastUpdatedDate": 1731559650669,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/2,0/"
+  ],
   "title": "Raff Kovarex",
   "favorites": {
     "VjBXfFz8D9OFy69tnudjc65Bjg92": true,

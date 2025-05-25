@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1638045431088,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/mods/other/"
+  ],
   "title": "8 GW SCHALL'S MACHINE SCALING 2x2 SMART POWER PLANT (+2 REACTOR, +3 COMPONENTS )"
 }

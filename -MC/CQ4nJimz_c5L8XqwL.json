@@ -22,8 +22,8 @@
     "type": "image/png",
     "width": 1632
   },
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/version/0,18/"
-  }
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/version/0,18/"
+  ]
 }

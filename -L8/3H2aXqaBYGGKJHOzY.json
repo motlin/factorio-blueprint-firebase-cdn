@@ -8,12 +8,12 @@
     "type": "image/png",
     "width": 33
   },
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "24 Belt Balancer",
   "fileName": "2144.PNG",
   "lastUpdatedDate": 1521657196958,

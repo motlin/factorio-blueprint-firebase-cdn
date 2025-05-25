@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1601839794554,
   "numberOfFavorites": 0,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/general/early game/",
-    "4": "/production/mall (make everything)/",
-    "5": "/train/left-hand-drive/",
-    "6": "/train/right-hand-drive/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/production/mall (make everything)/",
+    "/train/left-hand-drive/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "[WIP] Railway Mall Mk1"
 }

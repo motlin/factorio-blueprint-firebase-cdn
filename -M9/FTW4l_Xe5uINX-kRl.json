@@ -8,11 +8,11 @@
     "type": "image/png",
     "width": 930
   },
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/0,18/",
-    "2": "/production/belt based/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,18/",
+    "/production/belt based/"
+  ],
   "fileName": "Speedstone.png",
   "lastUpdatedDate": 1591561818616,
   "numberOfFavorites": 8,

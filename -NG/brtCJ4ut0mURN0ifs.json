@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1697181045800,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/"
+  ],
   "title": "big ol T junction for 8 LHD alternating tracks",
   "favorites": {
     "vlJErdsCggW6NSkfFrMkDR3dNM73": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/1xkLu0Q",
   "lastUpdatedDate": 1747335898977,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/fulgora/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/production/science/"
+  ],
   "title": "Fulgora, Scrap to 90spm",
   "favorites": {
     "ZZpIPHL2YiPKOwnq6bivkLFdTDr1": true,

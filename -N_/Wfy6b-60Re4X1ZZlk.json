@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1689561064159,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Loading Station",
   "favorites": {
     "1VMlpKKB8rQxM8HQpwvpxNSCuib2": true,

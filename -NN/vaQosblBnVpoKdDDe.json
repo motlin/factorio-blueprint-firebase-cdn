@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1705028205901,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Colored LED Indicator For Storage",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

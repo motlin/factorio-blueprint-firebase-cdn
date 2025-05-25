@@ -16,12 +16,12 @@
     "width": 1319
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1%20Red%20Belt%20of%20Advanced%20Circuits.PNG?alt=media&token=cd6c0801-c1f2-4476-93dd-62c4ee8f8bd0",
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Advanced Circuit Outpost",
   "favorites": {
     "i3lsVQhsUQcId1KjN85jsMAA9LH2": true,

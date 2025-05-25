@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1696109548688,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/late game (megabase)/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/version/1,1/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/1,1/",
+    "/mods/vanilla/"
+  ],
   "title": "Vanilla train station enable/disable with queues",
   "favorites": {
     "OpxkcwfQQKXWYIk3Z28s6IYtPcH3": true

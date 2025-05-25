@@ -24,14 +24,14 @@
   },
   "lastUpdatedDate": 1581535129431,
   "numberOfFavorites": 7,
-  "tags": {
-    "3": "/production/belt based/",
-    "4": "/production/guns and ammo/",
-    "5": "/general/late game (megabase)/",
-    "6": "/belt/express transport belt (blue)/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/guns and ammo/",
+    "/general/late game (megabase)/",
+    "/belt/express transport belt (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Artillery Shell Factory (315/min or 5.25/sec) with Built in Shell Logistics Storage and Optional Output Belt - BobAAAces"
 }

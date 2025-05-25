@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/0,17/"
+  ],
   "title": "Nanobots: Early Game (0.17.x Update)",
   "createdDate": 1551411125884,
   "descriptionMarkdown": "This book includes two small assembly arrays for Construction and Termite nanobots from Nexela's AMAZING Nanobot mod. With 0.17 removing pickaxes, however, the recipes have changed. \n\nThese are invaluable for laying down, modifying, or otherwise working with large and/or complex blueprints and projects, especially for things like belts and inserter positioning. ",

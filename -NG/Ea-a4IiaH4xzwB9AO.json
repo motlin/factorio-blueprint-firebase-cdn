@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1697389631378,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Warptorio Controlled Nuclear Reactor",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

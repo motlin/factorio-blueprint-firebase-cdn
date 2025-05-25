@@ -17,11 +17,11 @@
   "imageUrl": "https://imgur.com/stc4CIo",
   "lastUpdatedDate": 1736653583635,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/planets/aquilo/",
-    "3": "/power/solar/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/planets/aquilo/",
+    "/power/solar/"
+  ],
   "title": "S2-T Transport"
 }

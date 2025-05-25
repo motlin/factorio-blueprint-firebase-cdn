@@ -3,11 +3,11 @@
   "descriptionMarkdown": "2- and 4-lane stackable right-hand drive rails with roundabouts. \n\nSlight improvement for https://factorioprints.com/view/-L5AK04Ub8WqqdWeXqGs\n\nGrid size for factory block a few squares bigger than best roboport (bobs) area, so that logistic drones won't pass outside the factory square.",
   "lastUpdatedDate": 1581704075913,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/roundabout/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/loading station/"
+  ],
   "author": {
     "userId": "Bm2XP6r3GNNJ5AM6QJDs2A04owb2"
   },

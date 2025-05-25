@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1681818821295,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "K2SE Sushi Mall",
   "favorites": {
     "aSy5BUuG4vUeyv7CefOWhXv6Zdx2": true,

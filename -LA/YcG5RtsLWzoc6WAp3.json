@@ -16,16 +16,16 @@
     "width": 1389
   },
   "lastUpdatedDate": 1524237618819,
-  "tags": {
-    "5": "/production/mining/",
-    "6": "/production/belt based/",
-    "7": "/version/0,16/",
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/general/mid game/",
-    "2": "/general/early game/",
-    "3": "/mods/vanilla/",
-    "4": "/belt/balancer/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/belt based/",
+    "/version/0,16/",
+    "/belt/transport belt (yellow)/",
+    "/general/mid game/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ],
   "favorites": {
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
     "O46wrCpZ30P7B0Od8HSELaA0CMI3": true,

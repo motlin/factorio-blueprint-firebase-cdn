@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/dOGJSaf",
   "lastUpdatedDate": 1742766340269,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/production/other/",
-    "5": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/other/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Mid-Game Tileable Concrete Factory",
   "favorites": {
     "b4jeb86uOBXFQAqBJENfhjMGJ1J3": true

@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1650500169856,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/train/loading station/",
-    "5": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Coal to Plastic Train to Train",
   "favorites": {
     "caq3ZK9SsEdQrHOAi986sQoCnIX2": true,

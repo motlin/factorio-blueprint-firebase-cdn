@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1546885702314,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,15/"
+  ],
   "title": "Train Smelting - Beaconnized (2-4-0 trains)"
 }

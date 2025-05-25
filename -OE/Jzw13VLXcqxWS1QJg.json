@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/I2tDc8C",
   "lastUpdatedDate": 1734445902617,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Karen the Cargo Ship (Quality: Rare 3) ",
   "favorites": {
     "iZLgeauJDGUVkJzmeG84taoTDVc2": true

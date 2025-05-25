@@ -10,9 +10,9 @@
   },
   "lastUpdatedDate": 1499061250970,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/left-hand-drive/"
+  ],
   "author": {
     "userId": "nhVaNpyaYZhDaMwT16ocG0VRD122"
   },

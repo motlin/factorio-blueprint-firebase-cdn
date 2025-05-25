@@ -15,10 +15,10 @@
     "width": 1379
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "authorId": "KTgXHAE9L6S2AOKjSOWzm9vhpq13",
   "descriptionMarkdown": "A small smeltery with 4 fully compressed red belts as output for version 0.16 ",
   "fileName": "Screenshot at 11-37-36.png",

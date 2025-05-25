@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1542357085782,
   "numberOfFavorites": 20,
-  "tags": {
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/production/robots/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/production/robots/",
+    "/version/0,16/"
+  ],
   "title": "MiniBase, Rush Robot, All Science Packs."
 }

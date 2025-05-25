@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/q8YhFlZ",
   "lastUpdatedDate": 1743128559882,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/mods/other/"
+  ],
   "title": "Laboratórios e lançadores de foguetes"
 }

@@ -7,10 +7,10 @@
   "fileName": "BP - Iron Smelting.PNG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/BP%20-%20Iron%20Smelting.PNG?alt=media&token=8cb25a09-e99c-4b23-add0-9094f3611809",
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,15/"
+  ],
   "title": "Angels Iron Smelting",
   "favorites": {
     "MgOjlAyEsKMiVnFeQE08WaWqkYA3": true,

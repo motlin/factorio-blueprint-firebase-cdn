@@ -4,11 +4,11 @@
   "descriptionMarkdown": "1 - 8 lane express belts",
   "fileName": "StraightRail.PNG",
   "lastUpdatedDate": 1529012168649,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/version/0,16/",
-    "2": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/version/0,16/",
+    "/belt/balancer/"
+  ],
   "title": "Straight Blue Belts",
   "author": {
     "userId": "cCczNurEz0SMKSdCoVOXm60cISq1"

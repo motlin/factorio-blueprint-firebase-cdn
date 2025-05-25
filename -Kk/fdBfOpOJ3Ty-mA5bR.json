@@ -139,13 +139,13 @@
     "IaFiD5AO2UdVuq4Fgbx2UPbBLZD3": true
   },
   "numberOfFavorites": 190,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/belt/tap/",
-    "1": "/belt/balancer/",
-    "2": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/tap/",
+    "/belt/balancer/",
+    "/belt/fast transport belt (red)/"
+  ],
   "image": {
     "id": "lDk94Fx",
     "type": "image/jpeg",

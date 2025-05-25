@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1698021843491,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/uranium/"
+  ],
   "title": "モール４/ウラン処理、衛星打ち上げ"
 }

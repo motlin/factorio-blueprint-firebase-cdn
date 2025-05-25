@@ -19,9 +19,9 @@
   "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
   "descriptionMarkdown": "650/s out of both \ninput is 2200/s tailings \n70MW\noutput of water is 870/s  (11 sinkholes with speed modules 3)",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ]
 }

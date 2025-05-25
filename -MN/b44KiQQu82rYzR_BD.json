@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1635964441999,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Stopwatch with Display v2",
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,

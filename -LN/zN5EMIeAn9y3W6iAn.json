@@ -4,10 +4,10 @@
   },
   "authorId": "lq21OXMYllaYMEm2xypGLM9Z7AC2",
   "createdDate": 1538661574038,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "py mods creosote ",
   "numberOfFavorites": 1,
   "favorites": {

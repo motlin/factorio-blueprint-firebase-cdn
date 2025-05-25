@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1648171083149,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Available Drones Maintainer",
   "favorites": {
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,

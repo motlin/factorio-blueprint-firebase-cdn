@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1646149180354,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Kovarex process, modular, with beacons",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/kovarex%20belt%20logic%2020.png?alt=media&token=07438d28-f2ea-45c7-95fc-65c3d31dd0d3",
   "favorites": {

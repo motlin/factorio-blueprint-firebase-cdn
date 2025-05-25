@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/uAGENtD",
   "lastUpdatedDate": 1729738827017,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/version/2,0/"
+  ],
   "title": "Turbine intersection (for Factorio 2.0)",
   "favorites": {
     "FDVvqzxVhrcDWbAVLYCAzabnJNI3": true,

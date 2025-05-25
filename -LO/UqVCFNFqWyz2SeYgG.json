@@ -13,11 +13,11 @@
   "createdDate": 1568197444570,
   "fileName": "scienewooho.jpg",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/early game/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/early game/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio Early Game Red/Green Science",
   "favorites": {
     "k218UOibx2envvHmgegzIJFIAng2": true,

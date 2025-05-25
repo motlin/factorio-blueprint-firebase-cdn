@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1635766478985,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Gadgets Mini-Mall",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/gadget-minimall-v2.png?alt=media&token=37c5e4e1-b0f0-4915-8ad3-ec7f88aeaf84",
   "favorites": {

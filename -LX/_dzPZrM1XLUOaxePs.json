@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/",
-    "3": "/production/guns and ammo/",
-    "4": "/general/early game/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "LREOSaNKYAUGRHt9BNgGve3uVVk2"
   },

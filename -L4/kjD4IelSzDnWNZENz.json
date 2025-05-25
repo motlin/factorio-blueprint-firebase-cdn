@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1518014882283,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/production/belt based/"
+  ],
   "title": "Beaconized belt based plastic production",
   "descriptionMarkdown": "- This design produces two blue belts of plastic (4.8k/min.) and needs three quarters of a blue belt coal (1.9k/min.) plus 615 petroleum per second.\n- Coal input is easily reversible to be fed into the other side.\n- It is 1D tileable\n",
   "image": {

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/yQ3xB84",
   "lastUpdatedDate": 1743129000150,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/other/"
+  ],
   "title": "Mercado de peças"
 }

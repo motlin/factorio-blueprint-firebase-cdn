@@ -36,8 +36,8 @@
   "imageUrl": "https://imgur.com/dU6DoUh",
   "lastUpdatedDate": 1732562946302,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Titan L Mid/late game cargo vessel and support factory"
 }

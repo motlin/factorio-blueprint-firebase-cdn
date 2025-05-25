@@ -19,19 +19,19 @@
     "width": 803
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/belt/transport belt (yellow)/",
-    "3": "/belt/express transport belt (blue)/",
-    "5": "/general/mid game/",
-    "6": "/general/late game (megabase)/",
-    "8": "/production/mall (make everything)/",
-    "2": "/belt/fast transport belt (red)/",
-    "4": "/general/early game/",
-    "7": "/production/belts/",
-    "9": "/production/belt based/",
-    "10": "/version/1,0/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/belt/transport belt (yellow)/",
+    "/belt/express transport belt (blue)/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/production/mall (make everything)/",
+    "/belt/fast transport belt (red)/",
+    "/general/early game/",
+    "/production/belts/",
+    "/production/belt based/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "CIRsmNdnGfdOD9uZsA0pInTeV6V2"
   },

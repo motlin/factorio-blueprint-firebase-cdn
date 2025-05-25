@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/tYh5Gra",
   "lastUpdatedDate": 1731074514922,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Platform v1",
   "favorites": {
     "MxDUneKZH7T8ltsURkvSh5D9vpz1": true

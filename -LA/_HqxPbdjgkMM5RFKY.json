@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1525446597784,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,16/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,16/",
+    "/production/belt based/"
+  ],
   "title": "Book with several Production Plants designed for Sea-Block experiences"
 }

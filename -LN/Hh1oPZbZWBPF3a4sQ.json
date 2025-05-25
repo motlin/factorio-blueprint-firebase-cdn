@@ -11,11 +11,11 @@
   "descriptionMarkdown": "About as perfect as you can get. 4 lanes to 1. Stackable.",
   "fileName": "steel smelting 3 stats.png",
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "v1SeQRdbZbVIHdqTD9XgXVpK98S2"
   },

@@ -13,13 +13,13 @@
   },
   "lastUpdatedDate": 1730332416121,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/production/logistic (bot) based/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/version/2,0/"
+  ],
   "title": "Woodburner Pro 2",
   "favorites": {
     "clP32pQDHDZSHSHJnPNbZaCr6uU2": true,

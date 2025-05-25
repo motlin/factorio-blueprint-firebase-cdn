@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1522764898071,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/version/0,16/",
-    "2": "/production/modules/",
-    "3": "/mods/vanilla/",
-    "4": "/general/beaconized/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/version/0,16/",
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,15/"
+  ],
   "title": "All Module's from raw materials"
 }

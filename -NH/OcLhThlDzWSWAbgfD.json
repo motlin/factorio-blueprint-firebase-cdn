@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1669024804119,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": "Posto avançado para processamento de Homium 2.0"
 }

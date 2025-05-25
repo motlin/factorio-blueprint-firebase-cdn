@@ -84,12 +84,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/book.png?alt=media&token=e71e750f-9440-486d-9486-2be6ba2b04d0",
   "lastUpdatedDate": 1680010759140,
   "numberOfFavorites": 52,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/aai/",
-    "2": "/mods/krastorio/",
-    "3": "/version/1,0/",
-    "4": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/aai/",
+    "/mods/krastorio/",
+    "/version/1,0/",
+    "/mods/space-exploration/"
+  ],
   "title": "Krastorio 2/AAI Industry/Space Exploration Modular Mall"
 }

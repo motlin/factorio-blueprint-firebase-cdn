@@ -26,8 +26,8 @@
   "createdDate": 1580333218317,
   "descriptionMarkdown": "v 0.18\nVanila\n\n2 blueprints of modular Plastic production fitted in to one roboport area for easy construction and conecting (only on sides) From raw materials (crude oil, water, coal) to plastic. BUS ready. \n\nV1 - No modules and beacons\n\nInputs:  \nCrude oil 1x  \nWater 1x  \nCoal 2x \n\nOutput:  \nPlastic 2x\n\nV2 - Beacons with modules\n\nInputs:  \nCrude oil 1x  \nWater 1x  \nCoal 2x\n\nOutputs:  \nPlastic 3x (8k/m)\n\nConstructive critique is appreciated\n\nIf you like it more is comming like modules, drones, belts, inserters, concrete, etc.",
   "lastUpdatedDate": 1580750712963,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/"
-  }
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/"
+  ]
 }

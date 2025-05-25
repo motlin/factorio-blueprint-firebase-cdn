@@ -15,12 +15,12 @@
     "width": 788
   },
   "lastUpdatedDate": 1511147245902,
-  "tags": {
-    "4": "/general/tileable/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/advanced circuit (red)/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Advanced (Red) Circuit Factory Cell (2d tileable)"
 }

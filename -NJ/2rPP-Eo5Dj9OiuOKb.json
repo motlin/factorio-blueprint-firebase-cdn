@@ -48,12 +48,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202024-01-10%20022228.png?alt=media&token=a79f94b1-00e5-4e1b-980f-7f4dc198e568",
   "lastUpdatedDate": 1733756767287,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,1/",
-    "2": "/general/chunk aligned/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,1/",
+    "/general/chunk aligned/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "ElderAxe's Perimeter Defense (v6.0.0)"
 }

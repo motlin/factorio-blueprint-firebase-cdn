@@ -29,14 +29,14 @@
   },
   "lastUpdatedDate": 1556576381904,
   "numberOfFavorites": 12,
-  "tags": {
-    "5": "/general/mid game/",
-    "6": "/mods/vanilla/",
-    "0": "/version/0,17/",
-    "1": "/production/science/",
-    "2": "/general/tileable/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/science/",
+    "/general/tileable/",
+    "/production/belt based/",
+    "/general/compact/"
+  ],
   "title": "8/s Tileable Science"
 }

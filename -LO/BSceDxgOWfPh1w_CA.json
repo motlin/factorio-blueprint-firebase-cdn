@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1567873175416,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Sandbox Blueprint Construction Zone"
 }

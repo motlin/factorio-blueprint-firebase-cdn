@@ -12,13 +12,13 @@
   "createdDate": 1518013503723,
   "descriptionMarkdown": "**High throughput train station**\n\nThis is designed to let as many trains as possible be loaded/unloaded while not having a drive-through station. This particular design is made for 2-8-2 trains, but any other length is possible if you just make the tracks shorter/longer.\n\nThe price for the throughput is only the relatively large space it takes.\n\nIt outputs 16 *fully compressed* blue belts (even in 0.16) because of a combinator contraption. I didn't design the combinator contraption but I can't find the original source anymore.",
   "fileName": "Factorio_Unloader.png",
-  "tags": {
-    "4": "/mods/vanilla/",
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/train/unloading station/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/train/unloading station/",
+    "/version/0,16/"
+  ],
   "authorId": "8v5jNga2IwXEYrpj4NrlVMrA51A2",
   "image": {
     "height": 1080,

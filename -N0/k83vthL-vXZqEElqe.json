@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651148869498,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,15/"
+  ],
   "title": "Голубые и серые банки",
   "favorites": {
     "46OkLY3gbDcOYhiKvDmZk48dhk63": true,

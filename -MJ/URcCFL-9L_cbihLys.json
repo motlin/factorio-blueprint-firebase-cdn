@@ -112,12 +112,12 @@
   },
   "lastUpdatedDate": 1737298081823,
   "numberOfFavorites": 80,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/general/tileable/",
-    "3": "/mods/other/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/belt/transport belt (yellow)/",
+    "/general/tileable/",
+    "/mods/other/",
+    "/version/2,0/"
+  ],
   "title": "Tileable Reactor, Self-Throttling & Belt-Fed"
 }

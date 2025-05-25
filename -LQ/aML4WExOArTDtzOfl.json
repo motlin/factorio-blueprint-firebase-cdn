@@ -6,12 +6,12 @@
   "favorites": {
     "NECUCjOStQdiU4UQrXooDE6HBm62": true
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/logistic (bot) based/",
+    "/general/tileable/"
+  ],
   "title": "Rocket Control Unit Maker",
   "author": {
     "userId": "D9LTW7wxU5fmcd78tesBUMDa2343"

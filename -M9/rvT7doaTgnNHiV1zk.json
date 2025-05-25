@@ -12,10 +12,10 @@
     "type": "image/png"
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "descriptionMarkdown": "This is a Test",
   "fileName": "9GYbps6[1].png",
   "lastUpdatedDate": 1592223720240,

@@ -22,8 +22,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2023-09-23_162543025.png?alt=media&token=349fb102-945f-4459-aef1-8a9012ba14ac",
   "lastUpdatedDate": 1695504347835,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Jay's Print Book"
 }

@@ -16,12 +16,12 @@
     "width": 911
   },
   "lastUpdatedDate": 1518909422328,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/factorissimo/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/factorissimo/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"
   },

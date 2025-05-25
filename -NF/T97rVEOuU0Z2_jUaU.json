@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1666991517782,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "StartBase espacial 3/3 Final"
 }

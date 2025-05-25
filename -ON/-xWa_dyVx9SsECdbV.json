@@ -16,12 +16,12 @@
   "imageUrl": "https://i.imgur.com/D2bsVOC.png",
   "lastUpdatedDate": 1743773623546,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/space-age/",
-    "2": "/power/solar/",
-    "3": "/power/nuclear/",
-    "4": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/space-age/",
+    "/power/solar/",
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "ALL THE ENERGY"
 }

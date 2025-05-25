@@ -25,11 +25,11 @@
   },
   "lastUpdatedDate": 1552555806041,
   "numberOfFavorites": 9,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/version/0,17/",
-    "1": "/production/science/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "630 SPM V0.17 Science"
 }

@@ -9,12 +9,12 @@
     "width": 273
   },
   "lastUpdatedDate": 1540407039686,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "EOmyviU1ncfo3HEGw865EmtLR8H2"
   },

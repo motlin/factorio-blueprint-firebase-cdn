@@ -39,13 +39,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-70751508.png?alt=media&token=348e6c3a-150c-45d4-ae7e-83f3d2fed232",
   "lastUpdatedDate": 1632558804708,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/production/belt based/",
-    "3": "/mods/vanilla/",
-    "4": "/version/1,0/",
-    "5": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/mall (make everything)/"
+  ],
   "title": "End-Game From-Raw Mall"
 }

@@ -23,8 +23,8 @@
   "imageUrl": "https://imgur.com/7TFUPZg",
   "lastUpdatedDate": 1732483748558,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "The Boers (Factorio 2.0)"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/t1w3n1t",
   "lastUpdatedDate": 1736614805724,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/space-age/",
-    "2": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/vulcanus/"
+  ],
   "title": "Peniscraft"
 }

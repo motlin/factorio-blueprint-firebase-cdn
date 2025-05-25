@@ -34,12 +34,12 @@
   "imageUrl": "https://imgur.com/tIlFeSc",
   "lastUpdatedDate": 1730264361699,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/train/loading station/",
-    "2": "/train/track/",
-    "3": "/train/unloading station/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/train/loading station/",
+    "/train/track/",
+    "/train/unloading station/",
+    "/mods/other/"
+  ],
   "title": "Modular Cybersyn Train Network"
 }

@@ -14,12 +14,12 @@
     "userId": "1kLVigmno1PXFGhv3C4GODYzO7L2"
   },
   "authorId": "1kLVigmno1PXFGhv3C4GODYzO7L2",
-  "tags": {
-    "2": "/production/science/",
-    "3": "/version/0,16/",
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "createdDate": 1545503314687,
   "numberOfFavorites": 2
 }

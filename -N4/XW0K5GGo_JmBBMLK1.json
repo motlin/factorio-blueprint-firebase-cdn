@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1655215232361,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/other/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/version/1,0/"
+  ],
   "title": "[K2+SE] Biomethanol Power net 155MW",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

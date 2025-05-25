@@ -6,11 +6,11 @@
     "width": 935
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

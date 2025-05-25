@@ -24,9 +24,9 @@
   "createdDate": 1578152876422,
   "lastUpdatedDate": 1578152909418,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/modules/",
-    "2": "/version/0,17/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/modules/",
+    "/version/0,17/"
+  ]
 }

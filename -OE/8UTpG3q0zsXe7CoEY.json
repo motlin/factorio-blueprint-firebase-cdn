@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/M9p4BNU",
   "lastUpdatedDate": 1734252293496,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Space Сamel Express V2",
   "favorites": {
     "LmeWo8sWLGTVdkoY5XfughYr43E2": true,

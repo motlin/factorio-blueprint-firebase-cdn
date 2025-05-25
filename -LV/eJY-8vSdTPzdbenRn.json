@@ -19,9 +19,9 @@
     "width": 264
   },
   "lastUpdatedDate": 1575889285303,
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/mods/vanilla/",
-    "1": "/production/science/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ]
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/wecQNRG",
   "lastUpdatedDate": 1730603264728,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/",
-    "2": "/production/other/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/production/other/",
+    "/version/2,0/"
+  ],
   "title": "Gleba Lubricant Production",
   "favorites": {
     "TWOm1ShS8WSm7S4XOUOQhdAhGiM2": true,

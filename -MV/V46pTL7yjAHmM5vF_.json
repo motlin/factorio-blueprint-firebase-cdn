@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1644436946327,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/prioritizer/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/production/science/"
+  ],
   "title": "Science Sushi (No Circuits)",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true

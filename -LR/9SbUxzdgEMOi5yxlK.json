@@ -15,9 +15,9 @@
   "descriptionMarkdown": "A compact chemical plant capable of using 2 blue belts of sulphur to make sulphuric acid. Tileable on one axis. Output on the opposite side as the inputs.",
   "lastUpdatedDate": 1542069026716,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/beaconized/"
+  ],
   "title": "Sulphuric Acid I",
   "favorites": {
     "sYRbanRtEIf9CP1q0an4YDQeAFx2": true

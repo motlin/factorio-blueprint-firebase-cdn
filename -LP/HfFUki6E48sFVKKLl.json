@@ -1,11 +1,11 @@
 {
   "fileName": "Tileable Concrete Factory.png",
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/other/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/other/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Concrete Factory (Tileable",
   "author": {
     "userId": "6mvzY3XyYfYUnjR2L99vTHEtab63"

@@ -2,10 +2,10 @@
   "descriptionMarkdown": "City block design for my own games.\n\nBased on the Original Blueprint from [Nilaus](https://factorioprints.com/user/4POMqXHwmtatNNqubcNRuFoCYml2). I just added Lights and radar. Put it here so I don't loose it as I work on my own blueprint book.",
   "lastUpdatedDate": 1637705523136,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "ONN49MRCrEPReeNHbADpbpUXnXG3": true,
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,

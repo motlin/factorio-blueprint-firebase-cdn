@@ -6,10 +6,10 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1554385273290,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/circuit/indicator/"
+  ],
   "authorId": "rKoTU7KPyKPfrVT6Xaftz270ywo1",
   "createdDate": 1554385273290,
   "descriptionMarkdown": "Mall sign with colors changing and shifting placement of text. If you want other colors put other colors in constant combinators.",

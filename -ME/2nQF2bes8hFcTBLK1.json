@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1625710555097,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/mods/krastorio/"
+  ],
   "title": "Self-starting Enrichment",
   "favorites": {
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,

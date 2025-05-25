@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1673112328510,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/ltn/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/ltn/",
+    "/production/smelting/"
+  ],
   "title": "LTN smelting blocks and versatile rail connectors and station ports"
 }

@@ -6,9 +6,9 @@
   "createdDate": 1513746298923,
   "fileName": "turbinas inicio.png",
   "lastUpdatedDate": 1513915733171,
-  "tags": {
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/power/steam/"
+  ],
   "title": "Turbinas early game",
   "authorId": "DJgrrwOKcfS2jvZXOQqMW1fg6Lr1",
   "descriptionMarkdown": "Turbinas recursivas para o inicio do jogo, produz cerca de 100MW.\n\nRecursive turbines for the beginning of the game, produces about 100MW.",

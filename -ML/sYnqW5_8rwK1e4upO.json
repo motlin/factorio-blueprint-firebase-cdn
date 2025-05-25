@@ -1,11 +1,11 @@
 {
   "descriptionMarkdown": "Modular blueprint, width 13 tiles.\n\nInput\n- iron plate\n- copper plate\n\nOutput\n- green cercuit\n\n",
   "lastUpdatedDate": 1605119196730,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Green cercuit (early game), mod W-13",
   "favorites": {
     "zrNE4eZzL2SD8qRgjoovW4XFNry2": true,

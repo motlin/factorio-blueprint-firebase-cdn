@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1702882492967,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Processing Units (2 BLue Belts)"
 }

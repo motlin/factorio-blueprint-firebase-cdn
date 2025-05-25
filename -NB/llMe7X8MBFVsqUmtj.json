@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1662987369277,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/other/",
-    "2": "/production/belt based/",
-    "3": "/production/other/",
-    "4": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/other/",
+    "/production/belt based/",
+    "/production/other/",
+    "/mods/krastorio/"
+  ],
   "title": "Mall 4 - Fluids, Vehicles & Misc [K2SE]",
   "favorites": {
     "MuXDDSIYVcZ036wg9rXrEG7FMNT2": true,

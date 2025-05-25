@@ -18,8 +18,8 @@
   },
   "lastUpdatedDate": 1614887396090,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "raw to level 3 speed"
 }

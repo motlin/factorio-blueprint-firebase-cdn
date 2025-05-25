@@ -30,20 +30,20 @@
   "imageUrl": "https://i.imgur.com/Bn69aar.png",
   "lastUpdatedDate": 1743773780342,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/circuit/indicator/",
-    "5": "/general/early game/",
-    "6": "/general/mid game/",
-    "7": "/general/late game (megabase)/",
-    "8": "/combat/defense/",
-    "9": "/mods/space-age/",
-    "10": "/mods/quality/",
-    "11": "/power/nuclear/",
-    "12": "/power/solar/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/circuit/indicator/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/combat/defense/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/power/nuclear/",
+    "/power/solar/"
+  ],
   "title": "ALL THE BOOK"
 }

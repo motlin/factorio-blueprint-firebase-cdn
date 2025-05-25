@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1649273817917,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/general/tileable/"
+  ],
   "title": "Pentagonal city blocks",
   "favorites": {
     "ha7qipCluQSNNcn4KWn81R2tCaI3": true,

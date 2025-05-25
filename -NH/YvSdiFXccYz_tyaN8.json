@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1698188614357,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "12x2 basic smelter array"
 }

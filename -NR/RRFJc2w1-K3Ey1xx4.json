@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1708834013007,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/production/belts/"
+  ],
   "title": "Lane Balancer"
 }

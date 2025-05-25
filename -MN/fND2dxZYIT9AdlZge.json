@@ -14,18 +14,18 @@
   "createdDate": 1607045538123,
   "lastUpdatedDate": 1607055805227,
   "numberOfFavorites": 2,
-  "tags": {
-    "9": "/version/1,0/",
-    "0": "/general/tileable/",
-    "1": "/power/kovarex enrichment/",
-    "4": "/general/compact/",
-    "8": "/mods/vanilla/",
-    "7": "/mods/krastorio/",
-    "2": "/power/nuclear/",
-    "3": "/general/beaconized/",
-    "5": "/production/belt based/",
-    "6": "/circuit/indicator/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/tileable/",
+    "/power/kovarex enrichment/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/mods/krastorio/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/production/belt based/",
+    "/circuit/indicator/"
+  ],
   "title": "Kovarex setup (7x7); tileable all directions / beaconable ",
   "authorId": "A0Xj6olFkOTcTOpgQxI55Dppp7J3",
   "favorites": {

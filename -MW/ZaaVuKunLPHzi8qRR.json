@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1645586573421,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "title": "Automated train fill request station",
   "favorites": {
     "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true

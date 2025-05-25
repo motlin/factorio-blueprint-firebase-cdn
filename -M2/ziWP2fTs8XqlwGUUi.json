@@ -6,10 +6,10 @@
     "width": 589
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/krastorio/"
+  ],
   "title": "Kratorio 2 Electronic Circuits v0.2",
   "favorites": {
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,

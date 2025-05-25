@@ -8,11 +8,11 @@
   },
   "descriptionMarkdown": "3 red belts input steel production using electric furnaces",
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/production/smelting/"
+  ],
   "title": "steel production",
   "lastUpdatedDate": 1582241062035,
   "authorId": "TppUB8yhGNMloca8pWi050VkpMx2",

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1651142663529,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Kovarex Anreicherung"
 }

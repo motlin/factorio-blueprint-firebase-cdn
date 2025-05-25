@@ -16,7 +16,7 @@
     "width": 1401
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/modules/"
-  }
+  "tags": [
+    "/production/modules/"
+  ]
 }

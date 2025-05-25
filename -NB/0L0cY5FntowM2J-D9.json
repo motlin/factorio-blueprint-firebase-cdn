@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1691165968754,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/general/tileable/"
+  ],
   "title": "[Seablock] tileable Mineral Sludge production in earlygame",
   "favorites": {
     "ItpfwZnxmWTyGXT9pQorNFgTMPI2": true,

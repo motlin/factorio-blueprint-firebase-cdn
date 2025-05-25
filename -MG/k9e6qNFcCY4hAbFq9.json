@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 7,
-  "tags": {
-    "3": "/general/mid game/",
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "MfZNaTFn2AhHZvEUcbzCeJXawCd2": true,
     "VvZBf38pRHhEIc6buzjNS88fVor1": true,

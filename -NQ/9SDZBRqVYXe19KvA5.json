@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1678434149544,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Balanced Super Smelter",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2023-03-10_014217249.png?alt=media&token=63ce9b67-7eda-4aed-981c-49111274ab0e",
   "favorites": {

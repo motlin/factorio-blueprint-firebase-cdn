@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "0": "/general/early game/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "dhHcedJU7vZP5MJdw3dIJBzqAVq2"
   },

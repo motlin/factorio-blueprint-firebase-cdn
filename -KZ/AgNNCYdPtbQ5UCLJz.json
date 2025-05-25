@@ -2,13 +2,13 @@
   "authorId": "Qel6aRHwOWV46VFg7Ow5CprnbNH2",
   "fileName": "Red Science 1k min.png",
   "lastUpdatedDate": 1510950930097,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "Qel6aRHwOWV46VFg7Ow5CprnbNH2"
   },

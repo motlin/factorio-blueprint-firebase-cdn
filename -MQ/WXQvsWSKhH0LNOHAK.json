@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "3": "/circuit/counter/",
-    "4": "/version/0,15/",
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/",
-    "2": "/power/accumulator/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/power/accumulator/"
+  ],
   "title": "electric switch",
   "favorites": {
     "V4WsDq6V30WXfIrdw14F75phOky2": true,

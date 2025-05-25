@@ -3,11 +3,11 @@
     "userId": "L15naPgnWXb2B9M2fiymh51BPLX2"
   },
   "createdDate": 1558775145304,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "image": {
     "height": 602,
     "id": "PX7SdHt",

@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1687936478614,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/version/1,1/",
-    "5": "/production/belt based/",
-    "6": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/production/belt based/",
+    "/general/tileable/"
+  ],
   "title": "Black Science - 2700 / min",
   "favorites": {
     "ywlOvhX2mZS8RgA8Ly0UN2c99tu2": true

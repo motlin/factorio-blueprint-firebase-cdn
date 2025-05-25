@@ -9,9 +9,9 @@
     "height": 753
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/accumulator/"
+  ],
   "fileName": "overview.png",
   "lastUpdatedDate": 1563502561076,
   "title": "42 kW radar (Vanilla)",

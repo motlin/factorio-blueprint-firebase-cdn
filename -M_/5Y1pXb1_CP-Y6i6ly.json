@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1620386262583,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/solar/",
-    "2": "/power/steam/",
-    "3": "/general/mid game/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/solar/",
+    "/power/steam/",
+    "/general/mid game/",
+    "/version/1,0/"
+  ],
   "title": "generator regulator for solar based bases",
   "favorites": {
     "VFh1c0NEWmdA2t4uUPIXttfL8hF3": true,

@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/power/nuclear/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/800MW%20factorissimo2.png?alt=media&token=dd5de4a8-1c68-4d10-a5cf-10f1e67c2b48",
   "favorites": {
     "SOS2S8idyUNh1dENwGScRoQXo952": true,

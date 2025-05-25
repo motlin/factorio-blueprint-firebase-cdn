@@ -25,10 +25,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Gro%C3%9Fer%20Bahnhof%20V3%20compressed.png?alt=media&token=ff71bb41-bc01-41a8-a71e-17bd7347bb3e",
   "lastUpdatedDate": 1500951296923,
   "numberOfFavorites": 39,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/unloading station/"
+  ],
   "title": "Großer Bahnhof V3"
 }

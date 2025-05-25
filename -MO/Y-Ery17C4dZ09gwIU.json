@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1637070279512,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/storage/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/storage/"
+  ],
   "title": "CoRNeRNoTe's Organised Storage",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

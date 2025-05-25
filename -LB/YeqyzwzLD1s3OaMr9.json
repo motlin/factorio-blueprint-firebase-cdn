@@ -46,11 +46,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bandicam%200765.jpg?alt=media&token=585591f9-99bf-4438-95d4-f208c69d27f6",
   "lastUpdatedDate": 1551657342753,
   "numberOfFavorites": 69,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/power/nuclear/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "Starter Base In A Book - 2 Red/Green/Blue Science per second"
 }

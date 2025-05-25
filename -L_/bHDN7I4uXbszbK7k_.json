@@ -18,14 +18,14 @@
     "height": 744
   },
   "lastUpdatedDate": 1552216061715,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/production/processing unit (blue)/",
-    "4": "/version/0,16/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/",
+    "/version/0,16/",
+    "/version/0,15/"
+  ],
   "title": "Blue Circuits || 1.875/s",
   "authorId": "lBfBWMxdNBS0Ce6Ghxk6SAs3Hfz1"
 }

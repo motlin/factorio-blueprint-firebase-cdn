@@ -67,11 +67,11 @@
   },
   "numberOfFavorites": 57,
   "title": "LTN Depot with automated fueling station",
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/0,17/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/0,17/",
+    "/train/right-hand-drive/"
+  ],
   "author": {
     "userId": "uA3O8nH0D7dkCI6cXFpbhEnpMAV2"
   },

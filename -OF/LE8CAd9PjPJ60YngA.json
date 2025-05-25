@@ -41,19 +41,19 @@
   "imageUrl": "https://imgur.com/9S0YpSM",
   "lastUpdatedDate": 1744714919590,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/compact/",
-    "2": "/mods/space-age/",
-    "3": "/mods/quality/",
-    "4": "/planets/nauvis/",
-    "5": "/planets/gleba/",
-    "6": "/planets/fulgora/",
-    "7": "/planets/vulcanus/",
-    "8": "/planets/aquilo/",
-    "9": "/planets/space-platform/",
-    "10": "/production/science/",
-    "11": "/version/2,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/production/science/",
+    "/version/2,0/"
+  ],
   "title": "GSXR - Big ship (2056t - 189km/s) - Mining Promethium Asteroid"
 }

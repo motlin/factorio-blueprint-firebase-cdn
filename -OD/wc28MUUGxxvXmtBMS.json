@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/EE7eP34",
   "lastUpdatedDate": 1734036435693,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Set and Take ",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,

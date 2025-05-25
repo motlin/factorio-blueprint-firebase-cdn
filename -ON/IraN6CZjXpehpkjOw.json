@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/AIgJemQ",
   "lastUpdatedDate": 1744150903290,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Eval's Logistics Trains v2",
   "favorites": {
     "77KuAnOKXQXAa3YeU9PierwL1rq1": true,

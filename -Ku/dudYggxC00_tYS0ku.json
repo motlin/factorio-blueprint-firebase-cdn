@@ -33,10 +33,10 @@
   "createdDate": 1506089277733,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Endgame%20Lab%20with%20belts.png?alt=media&token=ea02e908-987d-4811-9cb5-89356aa65381",
   "lastUpdatedDate": 1506089285629,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ]
 }

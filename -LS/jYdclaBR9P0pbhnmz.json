@@ -7,10 +7,10 @@
     "type": "image/jpeg",
     "width": 804
   },
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/factorissimo/"
+  ],
   "title": "sciencelabs for 30x30 space",
   "favorites": {
     "Jl4maxbqAqZU4sBtdNMfT1ggq6P2": true

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/9XFCwoQ",
   "lastUpdatedDate": 1735661057636,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Inner Scout",
   "favorites": {
     "PQX9pyji13QHpAZoTWVnuBzrqiR2": true,

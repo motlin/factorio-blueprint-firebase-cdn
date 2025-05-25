@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/tileable/",
-    "2": "/production/modules/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/production/modules/",
+    "/version/1,0/"
+  ],
   "createdDate": 1609636311923,
   "fileName": "screenshot-tick-1861413.png",
   "image": {

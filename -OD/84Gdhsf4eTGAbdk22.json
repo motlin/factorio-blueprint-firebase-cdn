@@ -21,8 +21,8 @@
   "imageUrl": "https://imgur.com/RtLbclT",
   "lastUpdatedDate": 1733171682260,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Spine Trash and Nutrient Dispatcher"
 }

@@ -17,11 +17,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/scienceblue.png?alt=media&token=3ddb9747-1dab-479b-a8bb-41b257cd6503",
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "favorites": {
     "A9bSCsaNUsd0aQ1wFn8Vw0NjfiI2": true
   }

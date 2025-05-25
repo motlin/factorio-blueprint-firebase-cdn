@@ -19,9 +19,9 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4-Lane-Fillerblock-A.png?alt=media&token=03741d58-e467-4d80-99cc-9f348afc0486",
   "lastUpdatedDate": 1499944159153,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  }
+  "tags": [
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ]
 }

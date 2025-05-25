@@ -25,9 +25,9 @@
   "descriptionMarkdown": "Compact beaconed blue circuits and tileable.\n\nInput\n\n4800/m green circuits (2 blue belts)\n\n480/m red circuits (1 blue belt of red circuits can feed 5 of these blueprints)\n\nOutput\n\n~336/m blue circuits",
   "lastUpdatedDate": 1533426073093,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/"
-  }
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ]
 }

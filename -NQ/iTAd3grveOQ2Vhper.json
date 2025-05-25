@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1708029164270,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "Chunk-Aligned Rails",
   "favorites": {
     "5FnVejNfOdOGa26QZw7MGC2pu5d2": true,

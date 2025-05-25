@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1566314210521,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "favorites": {
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true,
     "cmVK0qxzUle25kRKDaLf9uOQt8w2": true

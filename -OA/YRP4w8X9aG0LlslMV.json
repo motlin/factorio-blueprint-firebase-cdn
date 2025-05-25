@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/WvuN4Tc",
   "lastUpdatedDate": 1735074242284,
   "numberOfFavorites": 50,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/general/early game/"
+  ],
   "title": "Space Сamel Express",
   "favorites": {
     "dUtZLFWE4dfwBb91wcmksnkxUMX2": true,

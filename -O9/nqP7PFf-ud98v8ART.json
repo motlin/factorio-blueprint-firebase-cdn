@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/EWs8TBI",
   "lastUpdatedDate": 1729594337321,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/version/2,0/"
+  ],
   "title": "2.0 Celtic Knot Style Intersection",
   "favorites": {
     "oDs7ZPRTUob2eeaRdBX2qXN9LGI2": true,

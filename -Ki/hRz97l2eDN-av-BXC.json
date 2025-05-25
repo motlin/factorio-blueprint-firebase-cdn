@@ -14,11 +14,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Inserters.png?alt=media&token=8365ffc4-8456-46ef-8c5b-d8da2d91f617",
   "lastUpdatedDate": 1498393573841,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
   "fileName": "Inserters.png",
   "title": "Inserters Manufacturing",

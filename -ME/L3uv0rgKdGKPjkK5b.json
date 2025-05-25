@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1626015530804,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Laser Perimeter",
   "favorites": {
     "SfGJPsWuggUh6FAxECIiapFndCt2": true,

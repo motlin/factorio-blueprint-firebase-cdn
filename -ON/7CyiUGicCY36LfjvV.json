@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/JKSZeQm",
   "lastUpdatedDate": 1743894604910,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/other/"
+  ],
   "title": "Early Game Armor+Equipment",
   "favorites": {
     "mhky6mtdzzfJqC5tbkK6rvmwDN22": true,

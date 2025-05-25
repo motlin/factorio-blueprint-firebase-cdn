@@ -13,13 +13,13 @@
   "authorId": "v6XakptxuzOG2hQYFGWZA8XrlN62",
   "fileName": "5hkhklhklhlkhlk.jpg",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/general/early game/",
-    "4": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/general/early game/",
+    "/production/mall (make everything)/"
+  ],
   "favorites": {
     "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true,
     "Lhcd2G07IPZihsBqSwmnCFnwcWH2": true

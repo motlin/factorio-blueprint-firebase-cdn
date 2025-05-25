@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/6dgBqoo",
   "lastUpdatedDate": 1730844118082,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "B-2 Spirit"
 }

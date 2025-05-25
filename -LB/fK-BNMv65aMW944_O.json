@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1554431345573,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/power/solar/",
-    "3": "/version/0,17/",
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/version/0,17/",
+    "/general/tileable/"
+  ],
   "title": "Welcome To Factorio Solar City Block"
 }

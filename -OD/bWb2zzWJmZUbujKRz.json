@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/sQWpH5e",
   "lastUpdatedDate": 1733682426544,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Ciências biológicas 3, Chips quânticos e simulação universal. (Exotics + S.E.)"
 }

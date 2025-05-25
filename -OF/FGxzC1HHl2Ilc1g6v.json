@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Tr88uAg",
   "lastUpdatedDate": 1735439962907,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/crossing/",
-    "2": "/train/junction/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/crossing/",
+    "/train/junction/",
+    "/version/2,0/"
+  ],
   "title": "Celtic Knot Style Intersection (Space Age 2.0)"
 }

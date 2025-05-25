@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1642856523969,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/pax/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/pax/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Artillery forwards outpost",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1639455280237,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/"
+  ],
   "title": "Tier1 Modules from Iron, Copper, and Plastic",
   "favorites": {
     "65G7YglwzVSj5xoD5ENsCQfEmf82": true,

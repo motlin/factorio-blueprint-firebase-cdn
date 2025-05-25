@@ -4,11 +4,11 @@
   "descriptionMarkdown": "Each module produces 2.6 circuits pr second and it can be easily expaned further by adding another next to it as the materials flow through. The ratios are calculated to be just the right ratios. To begin producing, simply hook it up to petrolium, coal, copper plates and iron plates as shown in the picture.",
   "fileName": "de47dba52af784422ba12a33b0bd7334.png",
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/production/modules/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/modules/",
+    "/general/mid game/"
+  ],
   "title": "Modular red / advanced circuits with only raw materials (mid  game with red belts)",
   "favorites": {
     "VsqE9yREfAetCTQKB7VFzOZahdm1": true,

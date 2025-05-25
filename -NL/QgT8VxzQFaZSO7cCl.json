@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1673356363202,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/mining/",
-    "2": "/production/other/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/mining/",
+    "/production/other/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Zappes' Outposts"
 }

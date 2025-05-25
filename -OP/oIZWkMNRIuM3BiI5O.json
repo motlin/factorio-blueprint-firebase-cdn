@@ -17,8 +17,8 @@
   "imageUrl": "https://i.imgur.com/tQ0BC6T.png",
   "lastUpdatedDate": 1746781751816,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/achievement/"
-  },
+  "tags": [
+    "/general/achievement/"
+  ],
   "title": "100% Achievment Speedrun"
 }

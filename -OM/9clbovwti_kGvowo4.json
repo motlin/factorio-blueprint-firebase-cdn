@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/d3TfQhI",
   "lastUpdatedDate": 1742861441662,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "train_loader",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

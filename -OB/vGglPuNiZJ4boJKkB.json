@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/8otPaQi",
   "lastUpdatedDate": 1745883687717,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Tileable Biter Egg Production",
   "favorites": {
     "oIxcWQU47SVcWGeEuzh8PUjuEki2": true,

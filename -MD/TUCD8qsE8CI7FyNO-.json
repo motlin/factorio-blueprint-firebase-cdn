@@ -16,7 +16,7 @@
   "lastUpdatedDate": 1625083260314,
   "numberOfFavorites": 0,
   "title": "Sushi Example 1",
-  "tags": {
-    "0": "/production/belts/"
-  }
+  "tags": [
+    "/production/belts/"
+  ]
 }

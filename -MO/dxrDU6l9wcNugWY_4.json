@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1637189118442,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Fabrica de baterias",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

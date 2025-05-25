@@ -20,14 +20,14 @@
   },
   "lastUpdatedDate": 1604703405717,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/mid game/",
-    "4": "/version/1,0/",
-    "5": "/mods/vanilla/",
-    "6": "/production/belt based/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/mid game/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/production/belt based/"
+  ],
   "title": "Flying robot frames"
 }

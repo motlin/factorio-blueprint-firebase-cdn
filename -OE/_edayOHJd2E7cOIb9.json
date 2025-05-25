@@ -27,11 +27,11 @@
   "imageUrl": "https://imgur.com/xA6iuqs",
   "lastUpdatedDate": 1734725153907,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "POWER METER"
 }

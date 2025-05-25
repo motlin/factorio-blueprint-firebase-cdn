@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/h9McCyV",
   "lastUpdatedDate": 1735989498275,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Space platform foundation",
   "favorites": {
     "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true

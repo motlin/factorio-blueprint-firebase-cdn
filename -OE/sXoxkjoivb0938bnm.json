@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/UiAi0HT",
   "lastUpdatedDate": 1735041700466,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para Estação de carregamento de Naquitita (Exotics + S.E.)"
 }

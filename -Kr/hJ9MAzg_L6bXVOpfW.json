@@ -17,10 +17,10 @@
     "type": "image/png"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-08-17%2012_03_39-Factorio%200.15.33.png?alt=media&token=a9fc5e3f-de49-4a7f-ae34-fcc32668f8b7",
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

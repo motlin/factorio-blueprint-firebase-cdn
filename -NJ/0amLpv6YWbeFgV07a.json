@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1670769223276,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar generator",
   "favorites": {
     "hgvX9zmq0FbARaWaMqoNURS8A1o2": true,

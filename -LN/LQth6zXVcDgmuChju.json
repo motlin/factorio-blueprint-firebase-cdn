@@ -2,11 +2,11 @@
   "title": "[EXPENSIVE] 1 Advanced Circuit per second",
   "createdDate": 1537974705055,
   "fileName": "expensive red circuits.PNG",
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "descriptionMarkdown": "If you want to make 1 Science Pack 3 per second when playing with expensive recipes, you are going to need to make 1 Advanced Circuit per second  as an ingredient to the science pack. This is a blueprint for the Advanced Circuits.\n\nIt's an onsite build, you feed it with (from top to bottom)  petroleum gas, iron plate, coal, copper plate (x 2), iron plate.  Use the screenshot as a guide, please.",
   "image": {
     "width": 1496,

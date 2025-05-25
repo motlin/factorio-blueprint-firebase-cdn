@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1653092276176,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/"
+  ],
   "title": "Big Train 2-8 Train Station "
 }

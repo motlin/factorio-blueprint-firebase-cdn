@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1548866273431,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/oil processing/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/version/0,16/"
+  ],
   "title": "Solid Fuel - 10k+ per min",
   "favorites": {
     "nsqbTJFIcPZHfvv52ASLbc3mrnB3": true,

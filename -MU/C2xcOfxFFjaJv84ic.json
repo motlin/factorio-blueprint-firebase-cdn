@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1643201389203,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Compact Advanced Circuits - 1 fully compressed yellow belt output",
   "favorites": {
     "dKODuSYcovXizxj35jj50cbJWlz2": true,

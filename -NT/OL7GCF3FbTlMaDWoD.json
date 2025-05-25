@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1682176706077,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/version/1,1/"
+  ],
   "title": "Mini City Blocks Outpost for Space Exploration 0.1",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/se-outpost.png?alt=media&token=1decebdc-ed21-4c0d-9e7a-78e019393df3",
   "favorites": {

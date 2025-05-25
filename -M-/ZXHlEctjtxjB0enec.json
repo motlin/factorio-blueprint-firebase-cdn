@@ -29,12 +29,12 @@
   },
   "lastUpdatedDate": 1581160935485,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "MINI 1 ROCKET LAUNCHING SYSTEM"
 }

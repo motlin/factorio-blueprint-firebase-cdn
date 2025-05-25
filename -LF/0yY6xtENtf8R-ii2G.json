@@ -12,10 +12,10 @@
   "authorId": "dRIvhsh0l1hLnPyWV84c6CFSAX12",
   "createdDate": 1558032560873,
   "fileName": "2521kras.png",
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/krastorio/"
+  ],
   "favorites": {
     "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true,
     "0toDbbJcWXSAxOc7ldflT9zCCA13": true,

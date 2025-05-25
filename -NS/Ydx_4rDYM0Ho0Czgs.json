@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1681076118620,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/1,1/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/1,1/",
+    "/general/compact/"
+  ],
   "title": "Compact Tileable Kovarex Enrichment - 1/5s - Advanced design",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

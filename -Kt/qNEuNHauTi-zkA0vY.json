@@ -27,10 +27,10 @@
   "descriptionMarkdown": "This is a blueprint for an full automated farm of Assembly machine lvl 2",
   "fileName": "wadawdawdaw.png",
   "numberOfFavorites": 12,
-  "tags": {
-    "1": "/production/other/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/general/early game/"
-  }
+  "tags": [
+    "/production/other/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/early game/"
+  ]
 }

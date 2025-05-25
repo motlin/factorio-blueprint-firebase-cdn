@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/PJUxUs6",
   "lastUpdatedDate": 1730366319746,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/quality/",
-    "2": "/planets/fulgora/",
-    "3": "/version/2,0/",
-    "4": "/general/mid game/",
-    "5": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/planets/fulgora/",
+    "/version/2,0/",
+    "/general/mid game/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Scrap Recycler+Sorter (RARE ONLY)",
   "favorites": {
     "2SKkUgIGqAMUnmM5chUzBhH8itO2": true,

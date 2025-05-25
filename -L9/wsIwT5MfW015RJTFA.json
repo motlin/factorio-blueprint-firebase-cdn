@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1523654818237,
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/general/late game (megabase)/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/late game (megabase)/",
+    "/train/junction/"
+  ],
   "title": "The vortex cube"
 }

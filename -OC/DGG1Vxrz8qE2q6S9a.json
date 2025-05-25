@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/8w16IIU",
   "lastUpdatedDate": 1732196089211,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/",
-    "3": "/circuit/counter/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/circuit/counter/"
+  ],
   "title": "Atems Epic Quality Upper",
   "favorites": {
     "uWR5EUp0bbMqiC5BC9Vjy8PUAco1": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/VLWsepU",
   "lastUpdatedDate": 1717264604008,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/crossing/"
+  ],
   "title": "Railroad 10x10 Chunk Blocks with Intersections and RoboPorts"
 }

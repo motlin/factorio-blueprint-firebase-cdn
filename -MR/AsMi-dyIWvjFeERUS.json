@@ -12,10 +12,10 @@
   "descriptionMarkdown": "Unbeaconed and Beaconed setups. Produces 1.26/3.78/12.0 Modules per minute.",
   "lastUpdatedDate": 1610812062630,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/1,0/"
+  ],
   "title": "All Modules",
   "authorId": "xzRbIZItmTXCZuV4zECWQ3qq9If1",
   "createdDate": 1610812062630,

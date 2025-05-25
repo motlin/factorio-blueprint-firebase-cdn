@@ -15,10 +15,10 @@
   "lastUpdatedDate": 1584806071840,
   "numberOfFavorites": 0,
   "createdDate": 1584805921964,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "1 to 99 number indicator",
   "favorites": {
     "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true

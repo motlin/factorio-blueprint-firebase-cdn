@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/OMbXjsJ",
   "lastUpdatedDate": 1745743484695,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "AB Unloading Station",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

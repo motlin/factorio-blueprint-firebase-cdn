@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/t7uVx9s",
   "lastUpdatedDate": 1737197845524,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/space-exploration/"
+  ],
   "title": "Compact and Beaconable Self-balancing Astreiod Reporcessing",
   "favorites": {
     "3tSHhyxKIsSVjm2mSjZMIIouyvG3": true,

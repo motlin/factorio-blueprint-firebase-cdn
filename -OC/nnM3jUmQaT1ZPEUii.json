@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/IbacxFc",
   "lastUpdatedDate": 1732814664028,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Simple drill",
   "favorites": {
     "lmGrDUHAdZgoKxq6LBX0DGwIiJM2": true,

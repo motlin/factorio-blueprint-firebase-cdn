@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "enWCaHke5FNS56MIccnBw47htAj1": true
   },

@@ -23,13 +23,13 @@
   "imageUrl": "https://imgur.com/AMzYzFk",
   "lastUpdatedDate": 1732743880249,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/general/compact/",
-    "3": "/production/mall (make everything)/",
-    "4": "/power/nuclear/",
-    "5": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/general/compact/",
+    "/production/mall (make everything)/",
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "USS Missouri (BB-63) - Aquilo full speed ship"
 }

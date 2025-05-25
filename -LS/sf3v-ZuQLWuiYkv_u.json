@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1572908847101,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Tileable wall defense"
 }

@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1628257262596,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/power/solar/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/power/solar/",
+    "/general/beaconized/"
+  ],
   "title": "Megabas 2-8 trains"
 }

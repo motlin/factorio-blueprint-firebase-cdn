@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/lA7Pr9v",
   "lastUpdatedDate": 1730763859013,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Efficient Kovarex Process Nuclear Power",
   "favorites": {
     "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,

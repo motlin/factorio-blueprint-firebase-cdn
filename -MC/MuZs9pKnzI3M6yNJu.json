@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1623898869370,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/mods/other/",
-    "5": "/production/oil processing/",
-    "6": "/production/batteries/",
-    "7": "/production/plastic/"
-  },
+  "tags": [
+    "/production/other/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/other/",
+    "/production/oil processing/",
+    "/production/batteries/",
+    "/production/plastic/"
+  ],
   "title": "Recursive Refinement",
   "favorites": {
     "MmjCmvKCr3Mb6tWNKEaSGqfchM62": true,

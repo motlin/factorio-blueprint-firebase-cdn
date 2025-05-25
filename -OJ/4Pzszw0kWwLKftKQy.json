@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/pr6bOBn",
   "lastUpdatedDate": 1739640347133,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/quality/"
+  ],
   "title": "Vessel of glory",
   "favorites": {
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,

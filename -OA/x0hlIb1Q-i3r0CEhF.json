@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Ibxj85t",
   "lastUpdatedDate": 1730827049565,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "SFF (100,000km ending) - 4zr",
   "favorites": {
     "uIvFapZlHJf9YAeDrdQ7psjCmEg1": true,

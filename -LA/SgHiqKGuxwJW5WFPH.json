@@ -9,11 +9,11 @@
     "type": "image/jpeg",
     "width": 1272
   },
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "favorites": {
     "bcBqfBEf0dem3KlVuehsYJcJjd62": true,
     "H99DxSEod5X7fPcc5DV4mypq9K13": true,

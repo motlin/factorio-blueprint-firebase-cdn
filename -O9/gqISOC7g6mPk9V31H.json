@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/BElWecZ",
   "lastUpdatedDate": 1729476769702,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/production/belts/"
+  ],
   "title": "General Items",
   "favorites": {
     "ZNkQtueHLZW8a72pFLP0xL1XpTh2": true

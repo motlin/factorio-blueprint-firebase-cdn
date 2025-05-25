@@ -16,12 +16,12 @@
     "type": "image/png"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "0": "/production/other/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/other/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
     "Jy3cW1zhY6RPdjtioRXrvvNSwtk1": true

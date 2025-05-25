@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1685922880690,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/power/solar/"
+  ],
   "title": "Painel solar espacial/Space solar panel",
   "favorites": {
     "830HTcS6SBf5RArPBN6SqQvnyqF2": true,

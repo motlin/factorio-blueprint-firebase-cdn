@@ -24,13 +24,13 @@
   },
   "lastUpdatedDate": 1610099956714,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/version/1,0/",
-    "3": "/version/0,18/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/version/1,0/",
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Yellow conveyor (Convoyeur jaune)"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/suGa3ro",
   "lastUpdatedDate": 1741464489684,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Simple Mall",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

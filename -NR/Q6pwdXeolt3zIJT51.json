@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1695273081162,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/other/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/other/",
+    "/train/roundabout/"
+  ],
   "title": "UNTRA self-replicating rail framework v1"
 }

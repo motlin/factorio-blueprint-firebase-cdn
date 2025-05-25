@@ -15,11 +15,11 @@
     "width": 1800,
     "height": 277
   },
-  "tags": {
-    "1": "/moderation/screenshot missing alt info/",
-    "2": "/version/0,17/",
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/moderation/screenshot missing alt info/",
+    "/version/0,17/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Rail Mall V1",
   "author": {
     "userId": "cCLehxEXbMSOcXm03UHzdYWF15q1"

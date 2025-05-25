@@ -29,10 +29,10 @@
     "WRHArC9HWPejoXLRTWuU42CiQgn2": true
   },
   "createdDate": 1589105561224,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/kovarex enrichment/",
+    "/version/0,18/"
+  ],
   "title": "Compact Kovarex Krastorio2"
 }

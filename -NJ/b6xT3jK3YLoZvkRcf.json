@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1671398676597,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Production Science Pack 1k SPM 12-beaconed"
 }

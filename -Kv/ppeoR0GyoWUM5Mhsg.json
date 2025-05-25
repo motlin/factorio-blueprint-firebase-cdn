@@ -12,12 +12,12 @@
   "descriptionMarkdown": "My modified version of the Encircled Knot i found here: https://forums.factorio.com/viewtopic.php?f=194&t=46855 . Modified it to not allow trains to loop around. This is designed to fit into the rail network i use for a bob+angels city block base.",
   "fileName": "Modified Knot.png",
   "lastUpdatedDate": 1508017751321,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/crossing/",
-    "2": "/version/0,15/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/version/0,15/",
+    "/train/junction/"
+  ],
   "numberOfFavorites": 30,
   "title": "Rail knot intersection 4lanes RHD (no loop).",
   "authorId": "3frZ7E3xTGUVvgPvC98cB14rYQo1",

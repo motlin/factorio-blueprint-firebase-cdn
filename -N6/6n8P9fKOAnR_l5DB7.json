@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1656914482928,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "A bunch of 5x5 balancers that fit in a 20x10 area",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true

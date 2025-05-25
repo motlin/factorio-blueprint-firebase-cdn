@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1686895612739,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/power/nuclear/"
+  ],
   "title": "Quick SE Reactor for planets",
   "favorites": {
     "AxuNLbDkZwb3JIUKk8pGAiDWva03": true

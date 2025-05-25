@@ -23,9 +23,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1c6358c6-5772-4859-9a5c-768a6b33a8b1.png?alt=media&token=8bb4e7cb-f4fa-4861-8aa5-2aed09f8cecd",
   "lastUpdatedDate": 1644679391384,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Single Chunk Grid (WIP)"
 }

@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/production/advanced circuit (red)/"
+  ],
   "author": {
     "userId": "bNNt1uynEdX9V6tTMtKuKurnyZZ2"
   },

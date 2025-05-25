@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1569095325025,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/late game (megabase)/"
+  ],
   "title": "my book of blueprints"
 }

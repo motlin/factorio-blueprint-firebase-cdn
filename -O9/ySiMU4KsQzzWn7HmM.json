@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Yj2ankv",
   "lastUpdatedDate": 1729803186120,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/2,0/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/2,0/",
+    "/general/tileable/"
+  ],
   "title": "2.0 factorio  Kovarex enrichment ",
   "favorites": {
     "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,

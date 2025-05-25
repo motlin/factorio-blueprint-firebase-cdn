@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/HFmuCEA",
   "lastUpdatedDate": 1730849426167,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Bioflux Production",
   "favorites": {
     "KTGk9F4NRXaPJWgC6HjvLVR6uuQ2": true,

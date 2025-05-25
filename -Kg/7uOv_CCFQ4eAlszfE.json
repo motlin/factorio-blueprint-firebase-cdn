@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,14/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "Steel, Trains, and Oil",
   "createdDate": 1490503180086,
   "fileName": "324wWzt[1].png",

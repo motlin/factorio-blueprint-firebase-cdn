@@ -21,10 +21,10 @@
     "userId": "kVQTSNSajtRFQLrEZr4kMxTim8X2"
   },
   "createdDate": 1528644232146,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/circuit/indicator/"
+  ],
   "title": "Power/Fluid/Robot Inidcator - Percentage"
 }

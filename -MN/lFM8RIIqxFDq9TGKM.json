@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/other/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/other/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "zGPzvuxUcrStDhFysauedhHEUUb2": true,
     "PWNw36Xw0gVEyy3IPRDB2zugjW62": true,

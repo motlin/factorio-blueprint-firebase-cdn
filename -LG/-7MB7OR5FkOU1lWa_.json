@@ -15,9 +15,9 @@
     "type": "image/png"
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "All modules with priority",
   "descriptionMarkdown": "I have modified a blueprint, found in internet, so that it can produce all the modules equally. it will produce modules 3 first, then 2 and finally 1. Please try it and tell me what you think. to make it work correctly, connect the electricity to the substation. Enjoy my first blueprint.",
   "fileName": "moduli.png",

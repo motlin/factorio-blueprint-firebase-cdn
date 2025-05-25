@@ -20,12 +20,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/w4LOMjE.jpg?alt=media&token=f24adbc2-630b-4f92-9634-eaeaa71c9036",
   "lastUpdatedDate": 1502058593946,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,15/",
-    "2": "/general/beaconized/",
-    "3": "/general/compact/",
-    "4": "/production/robots/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,15/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/production/robots/"
+  ],
   "title": "Compact 1 RPM tile-able blueprint (164 x 201 tiles)"
 }

@@ -7,11 +7,11 @@
     "id": "tkjr5NN",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/creative/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/mods/creative/"
+  ],
   "favorites": {
     "o3RlakDgveUdxRYHpnGCRsCXheb2": true,
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,

@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1636958033693,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/aai/"
+  ],
   "title": "SE (Mod) Science City Block"
 }

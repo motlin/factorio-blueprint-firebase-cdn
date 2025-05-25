@@ -17,16 +17,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ness%20belts%20splitters%20inserters.jpg?alt=media&token=992a1b9f-454b-458e-b09b-cddda283d67c",
   "lastUpdatedDate": 1523488415882,
   "numberOfFavorites": 9,
-  "tags": {
-    "5": "/general/late game (megabase)/",
-    "6": "/production/inserters/",
-    "7": "/version/0,15/",
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/inserters/",
+    "/version/0,15/",
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/belt/express transport belt (blue)/",
+    "/general/mid game/"
+  ],
   "authorId": "hj3uouBGMNRzjt3d7ENByjZqEFD3",
   "createdDate": 1523427562226,
   "fileName": "Ness belts splitters inserters.jpg",

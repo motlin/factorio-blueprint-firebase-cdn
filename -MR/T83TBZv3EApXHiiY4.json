@@ -13,10 +13,10 @@
     "id": "xMC5Tdc",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"
   },

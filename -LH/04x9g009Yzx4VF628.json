@@ -35,9 +35,9 @@
   },
   "lastUpdatedDate": 1560165208930,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "0.83957 Solar Array"
 }

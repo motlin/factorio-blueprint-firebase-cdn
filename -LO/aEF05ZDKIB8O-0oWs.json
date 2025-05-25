@@ -1,9 +1,9 @@
 {
   "authorId": "5Gh9U3QhlKWuU163f0YVV3IwcX72",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "image": {
     "height": 667,
     "id": "8gFHUu7",

@@ -15,11 +15,11 @@
   "descriptionMarkdown": "Factory for making E-Locomotives from the Electric Trains mod, it's not the best it could be but it gets the job done.",
   "createdDate": 1560556948246,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/production/belt based/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/other/",
+    "/production/belt based/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "YHQD5Ha9yhWEHdoaJWoDlOYnEzz2"
   },

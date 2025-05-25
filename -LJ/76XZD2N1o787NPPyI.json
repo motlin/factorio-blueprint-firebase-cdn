@@ -26,11 +26,11 @@
   },
   "lastUpdatedDate": 1562433287543,
   "numberOfFavorites": 8,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/production/coal liquification/",
-    "0": "/production/oil processing/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/coal liquification/",
+    "/production/oil processing/",
+    "/version/0,17/"
+  ],
   "title": "Oil Refinery with Train refuel Depot"
 }

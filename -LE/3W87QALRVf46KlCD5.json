@@ -15,15 +15,15 @@
     "id": "CnGFAeV"
   },
   "lastUpdatedDate": 1557001442029,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/",
-    "5": "/version/0,17/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/electronic circuit (green)/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,15/"
+  ],
   "title": "Compact Green Circuits",
   "author": {
     "userId": "0V8lAK2xyFTCUr6u56qd9KDvItm2"

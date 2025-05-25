@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674387319787,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "k2 + 248k Water pressurized power generator ~64KW"
 }

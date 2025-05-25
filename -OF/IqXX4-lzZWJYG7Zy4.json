@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/uInS7Vg",
   "lastUpdatedDate": 1735499852042,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/planets/aquilo/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Inter-planetary transport - Medium",
   "favorites": {
     "gstPZ1sMiiYE05SRRj4w51bjU8Q2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/u3b28mZ.png",
   "lastUpdatedDate": 1741445727679,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/power/nuclear/"
+  ],
   "title": "9 GW Fusion Power Plant",
   "favorites": {
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,

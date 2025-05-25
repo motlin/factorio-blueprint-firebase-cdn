@@ -3,13 +3,13 @@
   "createdDate": 1523724586128,
   "fileName": "Factorio mass fluid storage.png",
   "numberOfFavorites": 16,
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/power/steam/",
-    "3": "/general/storage/",
-    "4": "/general/late game (megabase)/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/power/steam/",
+    "/general/storage/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "Actively managed mass fluid storage",
   "author": {
     "userId": "ZzExYuRwWAMBmkoYwb1zyt45SkF2"

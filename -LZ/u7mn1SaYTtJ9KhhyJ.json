@@ -10,13 +10,13 @@
     "type": "image/jpeg",
     "width": 1474
   },
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/train/roundabout/",
-    "4": "/train/track/",
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Chunky Trains v2.0",
   "favorites": {
     "irBBZNtRzEa9GaVTiD4WNJVFAMg2": true,

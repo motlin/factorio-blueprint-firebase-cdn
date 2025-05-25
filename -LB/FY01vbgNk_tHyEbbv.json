@@ -16,13 +16,13 @@
     "width": 347
   },
   "lastUpdatedDate": 1553982812985,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/circuit/indicator/",
-    "4": "/circuit/counter/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "MPEhhaCUe5OCHk0vGjeVH5FOQhr2": true,
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

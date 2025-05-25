@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1629206163969,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/circuit/indicator/",
-    "2": "/version/0,16/",
-    "3": "/version/0,17/",
-    "4": "/version/0,18/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/"
+  ],
   "title": "One-Time Clock",
   "favorites": {
     "jdG942UYPRTZmxxPyHpUtgjWFnj1": true

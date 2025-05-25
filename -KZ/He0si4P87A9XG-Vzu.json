@@ -12,11 +12,11 @@
   },
   "lastUpdatedDate": 1499944088626,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "favorites": {
     "d5E6YHHvycaJQKdJfXVjcs2OnlG2": true
   },

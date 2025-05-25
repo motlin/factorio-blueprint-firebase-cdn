@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1672879365181,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Tillable Plastic",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

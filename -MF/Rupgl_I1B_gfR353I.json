@@ -43,15 +43,15 @@
   "fileName": "snow rails.jpg",
   "lastUpdatedDate": 1679206116953,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/1,0/",
-    "4": "/mods/vanilla/",
-    "5": "/train/track/",
-    "6": "/version/1,1/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/track/",
+    "/version/1,1/"
+  ],
   "title": "Complete Tracks in Four Prints",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/snow%20rails.jpg?alt=media&token=f2ec4a68-5973-43da-951d-0d8c21360d37"
 }

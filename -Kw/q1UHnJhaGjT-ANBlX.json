@@ -6,13 +6,13 @@
     "width": 889
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "4": "/general/compact/",
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/balancer/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "ppvWoZf96QbC60XbMxtZfbKOrCF2"
   },

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1616643455917,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/1,0/"
+  ],
   "title": "Smelting Block"
 }

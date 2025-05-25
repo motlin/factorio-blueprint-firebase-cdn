@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1548541932090,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Mining Outpost"
 }

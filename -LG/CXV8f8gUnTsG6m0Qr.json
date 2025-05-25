@@ -10,10 +10,10 @@
   },
   "fileName": "Screenshot_121.png",
   "lastUpdatedDate": 1530309247768,
-  "tags": {
-    "1": "/production/mining/",
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/production/oil processing/"
+  ],
   "title": "Oil production with  station (4 car)",
   "author": {
     "userId": "8pspYf6yZxNr2XLjneEdeFO6TZF3"

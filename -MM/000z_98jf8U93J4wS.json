@@ -14,16 +14,16 @@
   "title": "YAMATO's Coal Liquefaction +",
   "lastUpdatedDate": 1605272012848,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/general/compact/",
-    "5": "/production/oil processing/",
-    "6": "/general/late game (megabase)/",
-    "7": "/production/other/",
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/compact/",
+    "/production/oil processing/",
+    "/general/late game (megabase)/",
+    "/production/other/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "QIE2KWG9txYWeZcZtcboDUSME8G2"
   },

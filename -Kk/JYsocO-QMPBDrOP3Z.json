@@ -20,9 +20,9 @@
   "createdDate": 1494993571595,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2rgjpqo.jpg?alt=media&token=650b8b58-8915-48c8-8178-b2edce7df18a",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  }
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ]
 }

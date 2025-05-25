@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1661253086687,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Automation (RED) science pack [EN,RU]",
   "favorites": {
     "nDbXSZ0ZBEOYUsryUakZHolRS7g1": true,

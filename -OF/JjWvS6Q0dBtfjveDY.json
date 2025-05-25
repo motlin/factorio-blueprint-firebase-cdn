@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/rU8JZYf",
   "lastUpdatedDate": 1735514791817,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Core 0.17 base"
 }

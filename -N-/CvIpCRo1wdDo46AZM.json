@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1649501093395,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/version/0,15/"
+  ],
   "title": "More belts mining",
   "favorites": {
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,

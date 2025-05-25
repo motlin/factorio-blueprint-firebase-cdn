@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1635512474792,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Modular Solar Energy",
   "favorites": {
     "6spYyA6HN5YeFqRkLqBEU7eAFNj1": true,

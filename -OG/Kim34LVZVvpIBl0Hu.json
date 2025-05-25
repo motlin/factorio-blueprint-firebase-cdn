@@ -25,9 +25,9 @@
   "imageUrl": "https://imgur.com/qzUkNB8",
   "lastUpdatedDate": 1736714566700,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "(Yet Another) Tilable Nuclear Reactors Setup with adaptive regulation (up to 24000 reactors)"
 }

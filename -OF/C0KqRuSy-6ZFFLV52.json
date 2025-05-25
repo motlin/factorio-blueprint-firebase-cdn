@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2WApecM",
   "lastUpdatedDate": 1735385243145,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "title": "Simple landing pad unloader",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true

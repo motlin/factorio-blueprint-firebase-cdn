@@ -21,13 +21,13 @@
   },
   "lastUpdatedDate": 1630670434333,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/production/electronic circuit (green)/",
-    "5": "/version/1,0/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/version/1,0/"
+  ],
   "title": "green circuts from raw 12 belts, beaconed"
 }

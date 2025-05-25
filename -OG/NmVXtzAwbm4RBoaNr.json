@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/0dzx8Ki",
   "lastUpdatedDate": 1736699775858,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/nauvis/",
-    "2": "/planets/gleba/",
-    "3": "/planets/fulgora/",
-    "4": "/planets/vulcanus/",
-    "5": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/aquilo/"
+  ],
   "title": "Transport Platform.",
   "favorites": {
     "e7OqWlkF3qUcgIosPI10FZIBxut2": true

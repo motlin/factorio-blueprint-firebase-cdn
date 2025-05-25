@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/6TjNKNY",
   "lastUpdatedDate": 1730172670024,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/planets/gleba/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/production/other/",
+    "/planets/gleba/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Gleba Copper Ore/Bacteria Production",
   "favorites": {
     "8KxnOemithR6yOG1iW1Ltk4jHoh2": true,

@@ -23,9 +23,9 @@
     "type": "image/jpeg",
     "width": 2659
   },
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/0,16/",
-    "2": "/train/right-hand-drive/"
-  }
+  "tags": [
+    "/train/crossing/",
+    "/version/0,16/",
+    "/train/right-hand-drive/"
+  ]
 }

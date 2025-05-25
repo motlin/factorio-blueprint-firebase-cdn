@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/95kVoh4",
   "lastUpdatedDate": 1729771685162,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/space-age/",
-    "2": "/planets/fulgora/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/general/compact/"
+  ],
   "title": "Fulgora Sushi Sorter",
   "favorites": {
     "7N5GYrAOSUZhrp6qTeuf8BzbDsD3": true,

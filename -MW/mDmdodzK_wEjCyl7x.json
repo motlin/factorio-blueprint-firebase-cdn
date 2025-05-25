@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1616824184014,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Чертежи с маяками",
   "favorites": {
     "NP0sdOc6Ytg95n9FjLmzmGEiScG2": true,

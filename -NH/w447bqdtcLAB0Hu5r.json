@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1698593788688,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/production/uranium/"
+  ],
   "title": "Centrifuge 2.0",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

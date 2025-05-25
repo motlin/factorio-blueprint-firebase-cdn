@@ -3,11 +3,11 @@
   "descriptionMarkdown": "Took a base design from another user and made a couple minor improvements for increased storage of U238 and to fix backing up. Tested this by allowing it to fill completely, then removing a single stack of U235, waiting again and taking a single stack of U238. Added outputs if you're shipping your processed uranium somewhere for production of other items.",
   "fileName": "almostgosukovarex.PNG",
   "lastUpdatedDate": 1577140793588,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/0,17/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/0,17/",
+    "/general/beaconized/"
+  ],
   "title": "Kovarex Refining",
   "author": {
     "userId": "BRJi2QoNKZVJEjubdoNIO30floF2"

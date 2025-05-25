@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/3KPQrJZ",
   "lastUpdatedDate": 1730748015714,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/circuit/counter/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/circuit/counter/",
+    "/version/2,0/"
+  ],
   "title": "Priority Clock Train Station",
   "favorites": {
     "XgTOK8fTzVbSIxG4sThzippYiz03": true

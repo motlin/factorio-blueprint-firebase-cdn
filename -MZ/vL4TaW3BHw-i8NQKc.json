@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1649189345383,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "4xN-Core Reactor",
   "favorites": {
     "ctldZSfybscJqluGE7XhHOpapXi2": true,

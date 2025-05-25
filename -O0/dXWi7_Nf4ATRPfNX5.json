@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/FIZjNKA",
   "lastUpdatedDate": 1719757577254,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Cityblock 5x5 - 2 lanes",
   "favorites": {
     "MO1vWQDthxRrpGwhRYKikoUF9yQ2": true

@@ -13,14 +13,14 @@
     "width": 1096
   },
   "lastUpdatedDate": 1558115958376,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/crossing/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/0,17/",
-    "4": "/mods/vanilla/",
-    "5": "/train/junction/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/train/junction/"
+  ],
   "author": {
     "userId": "EuA0qrMegObNUi83yFVJllIgCAO2"
   },

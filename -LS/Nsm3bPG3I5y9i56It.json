@@ -1,11 +1,11 @@
 {
   "fileName": "battery-meter.png",
   "numberOfFavorites": 25,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/circuit/indicator/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/circuit/indicator/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,

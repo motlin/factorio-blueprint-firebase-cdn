@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1698286888660,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/production/inserters/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/inserters/"
+  ],
   "title": "FABRICA DE KIT VERDE",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

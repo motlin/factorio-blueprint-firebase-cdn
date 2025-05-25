@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/1liDTIE",
   "lastUpdatedDate": 1731493089410,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/mods/space-age/",
-    "4": "/version/2,0/",
-    "5": "/planets/space-platform/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Belt Weave Storage 14x22 Stackable",
   "favorites": {
     "zVVk7GVeblcAwWqO9OFmYlDiuh32": true,

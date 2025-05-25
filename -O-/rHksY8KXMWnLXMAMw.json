@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/RRMrp3B",
   "lastUpdatedDate": 1718914672770,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Digit Display",
   "favorites": {
     "wOKd2dNKNcTedCuoHekwAafywLu2": true

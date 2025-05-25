@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/By0VhDU",
   "lastUpdatedDate": 1733257296952,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/production/uranium/"
+  ],
   "title": "Simple tailable uranium processing"
 }

@@ -695,15 +695,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1Kspm.png?alt=media&token=58dc90de-f06d-4efc-9107-85dfff047db3",
   "lastUpdatedDate": 1617046107146,
   "numberOfFavorites": 587,
-  "tags": {
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/general/late game (megabase)/",
-    "5": "/production/rocket parts/",
-    "6": "/version/1,0/",
-    "7": "/production/modules/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/production/rocket parts/",
+    "/version/1,0/",
+    "/production/modules/",
+    "/production/science/"
+  ],
   "title": "1k SPM from ORES - Sciences v1.1.30 - 1000/min all from RAW ressources!! + Base"
 }

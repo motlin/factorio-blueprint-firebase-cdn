@@ -39,10 +39,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-12069360.png?alt=media&token=eca6d2e7-c6c4-45e9-abc7-f101145fec59",
   "lastUpdatedDate": 1684707434256,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "2.0 GW Tileable Nuclear Power Plant"
 }

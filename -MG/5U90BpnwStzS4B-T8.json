@@ -16,11 +16,11 @@
     "type": "image/jpeg",
     "width": 836
   },
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/1,0/",
-    "2": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/1,0/",
+    "/mods/angels/"
+  ],
   "favorites": {
     "YiW6N6IzcpQ9Iyt9mLwCA52wLip2": true,
     "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,

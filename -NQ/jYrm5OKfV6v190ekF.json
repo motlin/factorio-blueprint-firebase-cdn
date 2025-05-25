@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1708047432905,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/"
+  ],
   "title": "Uranium, Kovarex, fully beaconed, easily expandable.",
   "favorites": {
     "GiM5aPBL3uhoIVmerWukQvEQIvF2": true

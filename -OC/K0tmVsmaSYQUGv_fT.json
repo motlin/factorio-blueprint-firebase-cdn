@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/3FYY2YO",
   "lastUpdatedDate": 1732302867194,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Legendary Tungstene Plate grinder (~0.8% efficiency)",
   "favorites": {
     "fVBBSPqZmxRxdO5tb64RjbdKPrJ3": true,

@@ -26,9 +26,9 @@
   },
   "lastUpdatedDate": 1632806451720,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Hub City Block"
 }

@@ -25,11 +25,11 @@
   },
   "lastUpdatedDate": 1587299311453,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/",
-    "2": "/power/solar/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "LHD : Grid Train System"
 }

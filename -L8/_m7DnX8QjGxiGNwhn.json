@@ -7,11 +7,11 @@
     "id": "fy21J4v"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "bwj8XCBccPh7q9cZJ9LMogmSwsw1"
   },

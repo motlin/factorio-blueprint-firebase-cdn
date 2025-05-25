@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1691784839663,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "the wall of enemies",
   "favorites": {
     "oPp0wVqswhY6nq2tupAreJt2bhe2": true,

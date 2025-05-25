@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/oPanGjy",
   "lastUpdatedDate": 1746288341073,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/nauvis/",
-    "1": "/planets/gleba/",
-    "2": "/planets/vulcanus/",
-    "3": "/planets/fulgora/",
-    "4": "/mods/space-age/",
-    "5": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/vulcanus/",
+    "/planets/fulgora/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Inner planet hauler",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1686148086738,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/stacker/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/stacker/",
+    "/version/1,0/"
+  ],
   "title": "Circuit Controlled trains"
 }

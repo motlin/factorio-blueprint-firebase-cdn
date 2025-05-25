@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1699824490359,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/art/",
-    "1": "/version/1,1/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/art/",
+    "/version/1,1/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Simple spidertron parking spot"
 }

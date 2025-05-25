@@ -12,15 +12,15 @@
     "type": "image/jpeg",
     "width": 2708
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "4": "/production/belts/",
-    "5": "/production/belt based/",
-    "6": "/version/1,0/",
-    "0": "/production/inserters/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/belts/",
+    "/production/belt based/",
+    "/version/1,0/",
+    "/production/inserters/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Mall Off Smelters v3",
   "favorites": {
     "JNeoUkBJjBPGd35c1YEQYRApz9S2": true,

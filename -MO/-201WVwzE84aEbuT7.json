@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1636387296481,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "5GW Nuclear - Train water loading using 2,8 trains"
 }

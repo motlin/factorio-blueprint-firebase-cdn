@@ -16,8 +16,8 @@
   "imageUrl": "https://imgur.com/2JrVDqz",
   "lastUpdatedDate": 1740026299155,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Planet Space Platform"
 }

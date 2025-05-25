@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/4VJ9Fgh",
   "lastUpdatedDate": 1729966334625,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/planets/vulcanus/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/planets/vulcanus/",
+    "/mods/space-age/"
+  ],
   "title": "Green Circuits for Vulcanus",
   "favorites": {
     "NtCSSI8lVNR5H9vglsdrn8qxjUW2": true,

@@ -14,14 +14,14 @@
     "userId": "oY0UiZ3bVvbWbNy5NiIns72cxfH2"
   },
   "authorId": "oY0UiZ3bVvbWbNy5NiIns72cxfH2",
-  "tags": {
-    "4": "/mods/vanilla/",
-    "5": "/general/late game (megabase)/",
-    "0": "/general/beaconized/",
-    "1": "/general/tileable/",
-    "2": "/general/compact/",
-    "3": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Advanced Circuits, Belt-Based Late Game",
   "createdDate": 1508676905043,
   "numberOfFavorites": 3

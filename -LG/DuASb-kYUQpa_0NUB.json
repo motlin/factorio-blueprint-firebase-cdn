@@ -5,10 +5,10 @@
   "descriptionMarkdown": "Place on either side to create 4x4 Nuclear.",
   "lastUpdatedDate": 1559323260799,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Nuclear",
   "favorites": {
     "V7RJQ1eTa8ep0UwOSEagAiXpcxN2": true

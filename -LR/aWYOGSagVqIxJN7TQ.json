@@ -1,9 +1,9 @@
 {
   "fileName": "uraniumrefining.png",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/uranium/"
+  ],
   "descriptionMarkdown": "Refines a full express belt of uranium ore. Intended to be paired with my Kovarex setup.",
   "image": {
     "id": "JvCPwbL",

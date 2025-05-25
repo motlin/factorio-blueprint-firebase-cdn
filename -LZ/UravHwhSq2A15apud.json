@@ -25,9 +25,9 @@
     "wK4inEkby3SzwEXRgXb6LHw3iBE2": true
   },
   "descriptionMarkdown": "Produces all kinds of belts. Speed is fast enough for small and medium bases. For huge bases this might not be enough production.",
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  }
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ]
 }

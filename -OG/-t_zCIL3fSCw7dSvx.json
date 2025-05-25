@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/PByecoj",
   "lastUpdatedDate": 1736898296939,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "450km/s Inner Planet Hauler",
   "favorites": {
     "UUAOjt7E0Xbz2KO5V19GzvBcxE22": true,

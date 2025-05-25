@@ -8,10 +8,10 @@
     "height": 1267,
     "id": "AF7vmdB"
   },
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "rQ9dhDNhUAURTD6nrSgOcz5y18L2"
   },

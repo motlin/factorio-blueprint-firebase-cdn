@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1684888592674,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/stacker/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/stacker/"
+  ],
   "title": "10 stacker",
   "favorites": {
     "FzdiDcREj0RUC2yenvvBOWXQyEF3": true,

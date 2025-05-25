@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1644644595057,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "title": "Calculator of Stacks (compressed)",
   "favorites": {
     "jdG942UYPRTZmxxPyHpUtgjWFnj1": true

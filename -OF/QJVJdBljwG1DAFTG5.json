@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Q8kC4kG",
   "lastUpdatedDate": 1735625147762,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "aquillo transport",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

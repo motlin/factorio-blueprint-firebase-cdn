@@ -65,8 +65,8 @@
   },
   "authorId": "i2h4JoP2NoYZURdPeKwXbZPmmGr1",
   "createdDate": 1534037823152,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/fast transport belt (red)/"
-  }
+  "tags": [
+    "/belt/balancer/",
+    "/belt/fast transport belt (red)/"
+  ]
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627811410804,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/prioritizer/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/prioritizer/"
+  ],
   "title": "Равномерная разгрузка из сундуков. Масштабируемая. Для Factorio Paranoidal beta 7",
   "favorites": {
     "67G9TmALSfazXmtaxYMDd9ez8OB3": true

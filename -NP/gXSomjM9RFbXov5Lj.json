@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1677931961802,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/space-exploration/"
+  ],
   "title": "The Complete Belt Series: White (Space Exploration)",
   "favorites": {
     "wc2im6vcElVVfYGMgN1AFpygFi22": true,

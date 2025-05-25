@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1633207852716,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/track/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/track/",
+    "/train/crossing/"
+  ],
   "title": "2, 4 and 6 railway track"
 }

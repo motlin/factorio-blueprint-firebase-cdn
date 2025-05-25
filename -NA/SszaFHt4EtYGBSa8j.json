@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1690575427665,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Compact Science Usage Indicator",
   "favorites": {
     "gqRxnCXXMANqEwcgCfIdenYYsO22": true

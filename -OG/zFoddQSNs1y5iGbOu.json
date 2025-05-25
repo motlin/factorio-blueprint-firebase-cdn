@@ -13,8 +13,8 @@
   "imageUrl": "https://i.imgur.com/RaWJcKm.jpeg",
   "lastUpdatedDate": 1737301904375,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "Mittwoch Defense"
 }

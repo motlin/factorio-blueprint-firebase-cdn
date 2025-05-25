@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/3Pi2D49",
   "lastUpdatedDate": 1731334769872,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Asteroid collector extension"
 }

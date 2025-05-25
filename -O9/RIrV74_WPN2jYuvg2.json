@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/PSNCx3k",
   "lastUpdatedDate": 1729200803760,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Yellow Lizards Solar Panels",
   "favorites": {
     "FcQDvwwdSxXlMBRfxbol1yLb7qF2": true,

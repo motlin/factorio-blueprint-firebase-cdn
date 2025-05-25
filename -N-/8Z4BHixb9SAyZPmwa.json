@@ -23,9 +23,9 @@
   },
   "lastUpdatedDate": 1700536949676,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Spaceship Atlantis (victory ship) Ver. 1.1"
 }

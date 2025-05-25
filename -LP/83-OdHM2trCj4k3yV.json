@@ -15,9 +15,9 @@
     "width": 1344
   },
   "lastUpdatedDate": 1539897820880,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Heavy Oil to Petroleum Convertor"
 }

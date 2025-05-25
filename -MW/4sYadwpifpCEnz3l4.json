@@ -134,10 +134,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-ticklq3.jpg?alt=media&token=5bbba0f4-2b47-4d9b-88eb-0bbb8f12878d",
   "lastUpdatedDate": 1693312484952,
   "numberOfFavorites": 56,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/logistic (bot) based/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration science in a box (updated for SE 0.6)"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621114722466,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/version/0,18/"
+  ],
   "title": "Balancer 3X1",
   "favorites": {
     "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true,

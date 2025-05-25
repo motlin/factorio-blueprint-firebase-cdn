@@ -25,12 +25,12 @@
   "descriptionMarkdown": "Personal blueprints for train-related construction. Will be expanded as I standardize more patterns.",
   "fileName": "Screenshot_2019-03-02_12-38-20.png",
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "authorId": "PE0o09wRDZdvSD4PLNnMGedWFF22",
   "createdDate": 1551548408290,
   "image": {

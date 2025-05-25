@@ -12,12 +12,12 @@
   },
   "lastUpdatedDate": 1516209696882,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Destroyer Capsules with Robots",
   "favorites": {
     "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,

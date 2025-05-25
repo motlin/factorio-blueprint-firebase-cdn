@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1657903243669,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Simple Plastics",
   "favorites": {
     "YY7MjrW8UKewDHdc9kQ1McG9dq23": true,

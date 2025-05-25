@@ -57,10 +57,10 @@
   },
   "lastUpdatedDate": 1733756995341,
   "numberOfFavorites": 31,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "ElderAxe's Solar Farm (v1.3.0)"
 }

@@ -25,20 +25,20 @@
   },
   "lastUpdatedDate": 1705942260340,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/science/",
-    "2": "/production/rocket parts/",
-    "3": "/power/nuclear/",
-    "4": "/power/solar/",
-    "5": "/power/steam/",
-    "6": "/belt/balancer/",
-    "7": "/belt/prioritizer/",
-    "8": "/belt/tap/",
-    "9": "/belt/transport belt (yellow)/",
-    "10": "/belt/fast transport belt (red)/",
-    "11": "/belt/express transport belt (blue)/",
-    "12": "/production/belts/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/science/",
+    "/production/rocket parts/",
+    "/power/nuclear/",
+    "/power/solar/",
+    "/power/steam/",
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/belt/tap/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/production/belts/"
+  ],
   "title": "All the blueprints in one"
 }

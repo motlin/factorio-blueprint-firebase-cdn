@@ -8,9 +8,9 @@
   "fileName": "mini-factory.png",
   "lastUpdatedDate": 1555878448269,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "descriptionMarkdown": "Mini Factorios",
   "image": {
     "height": 1229,

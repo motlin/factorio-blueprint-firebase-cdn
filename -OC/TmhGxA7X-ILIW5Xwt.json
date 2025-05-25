@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ulS0wEQ",
   "lastUpdatedDate": 1732462171325,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Pentapod safe egg storage",
   "favorites": {
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,

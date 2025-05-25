@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/TEPKwR2",
   "lastUpdatedDate": 1732374890445,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Gleba-2 - a basic ship, capable of reaching all 3 base planets without stops or taking damage ",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

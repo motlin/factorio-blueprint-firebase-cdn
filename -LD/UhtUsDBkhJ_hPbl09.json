@@ -15,13 +15,13 @@
     "type": "image/png",
     "width": 798
   },
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/stacker/",
-    "2": "/train/track/",
-    "3": "/version/0,17/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/stacker/",
+    "/train/track/",
+    "/version/0,17/",
+    "/version/0,16/"
+  ],
   "title": "Double train relay station",
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,

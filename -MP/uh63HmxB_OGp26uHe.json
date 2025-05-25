@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1638441185813,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/other/"
+  ],
   "title": "Assorted Assembler Layouts"
 }

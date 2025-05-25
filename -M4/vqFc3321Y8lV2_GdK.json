@@ -19,12 +19,12 @@
   "authorId": "VcsHdLoWOWXaNCFUbK5nMwpmbP22",
   "descriptionMarkdown": "diagonal train tracks compatible with \"trains for everyone https://factorioprints.com/view/-M4Whmnah1tItSVtZ3J- \" for straight train tracks",
   "fileName": "trainsas987f9878976545fas4.png",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "author": {
     "userId": "VcsHdLoWOWXaNCFUbK5nMwpmbP22"
   }

@@ -22,9 +22,9 @@
   "imageUrl": "https://imgur.com/qxwfCHm",
   "lastUpdatedDate": 1731540266164,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Spaceship for Vulcanus/Gleba/Fulgora ! NOT Aquilo and further !"
 }

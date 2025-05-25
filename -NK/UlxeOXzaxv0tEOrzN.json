@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1673012265152,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/belts/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/belts/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration - Red Belts",
   "favorites": {
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,

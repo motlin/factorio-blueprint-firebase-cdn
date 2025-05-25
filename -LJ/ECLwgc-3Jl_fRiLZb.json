@@ -12,12 +12,12 @@
   "createdDate": 1533558484935,
   "fileName": "refinedconcretemarvk.png",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/other/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/other/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "xY9rEKNEQMbXOOplxstm479GMBc2": true,
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true

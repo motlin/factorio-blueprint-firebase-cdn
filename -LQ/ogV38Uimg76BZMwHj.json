@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20181108105830_1.jpg?alt=media&token=a6bb582c-5522-4ef4-bd6a-d38b20b01bcc",
   "lastUpdatedDate": 1541731710186,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/uranium/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/uranium/",
+    "/mods/other/"
+  ],
   "title": "Refinery / Uranium Processing Plant"
 }

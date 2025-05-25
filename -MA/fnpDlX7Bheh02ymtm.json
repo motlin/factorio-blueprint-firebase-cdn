@@ -9,11 +9,11 @@
   },
   "numberOfFavorites": 2,
   "lastUpdatedDate": 1593156733899,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "2x2 Vanilla nuclear plant \"The SNEJINKA\"",
   "favorites": {
     "rbPyJKUVm0MITtMrWfEKfs6Pvj93": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1673205129655,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Petrogas Products",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-4576640.png?alt=media&token=623aa0eb-ccb6-48ec-a5d7-f57206749b33"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1691997587543,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/plastic/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/plastic/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconized plastic production"
 }

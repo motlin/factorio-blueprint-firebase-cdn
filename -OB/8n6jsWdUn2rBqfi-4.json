@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/b2C63sJ",
   "lastUpdatedDate": 1731036216374,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/version/0,15/"
+  ],
   "title": "Tileable 960MW Nuclear Reactor",
   "favorites": {
     "ZApGdU20WUR5pfu15161hYEtghI2": true,

@@ -22,13 +22,13 @@
     "width": 801
   },
   "lastUpdatedDate": 1553713953237,
-  "tags": {
-    "3": "/train/unloading station/",
-    "4": "/train/stacker/",
-    "0": "/mods/vanilla/",
-    "1": "/general/mid game/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/train/loading station/"
+  ],
   "title": "Factory Rail Depot",
   "author": {
     "userId": "zMW3A9vSfOWksAE53Q4Oafnjz0L2"

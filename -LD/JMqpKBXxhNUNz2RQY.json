@@ -4,11 +4,11 @@
   },
   "authorId": "5vIicesU8vPlTOBqxf6Zf5Z0H6a2",
   "createdDate": 1556193701501,
-  "tags": {
-    "2": "/general/tileable/",
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "lastUpdatedDate": 1556193701501,
   "numberOfFavorites": 5,
   "title": "Bazinga Blueprint - City Block + Roboports + Radars",

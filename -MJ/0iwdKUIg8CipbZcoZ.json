@@ -32,13 +32,13 @@
   "createdDate": 1602051885921,
   "fileName": "NICEmall.png",
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/version/1,0/",
-    "2": "/version/0,15/",
-    "3": "/production/inserters/",
-    "4": "/production/mall (make everything)/",
-    "5": "/general/early game/",
-    "6": "/mods/vanilla/"
-  }
+  "tags": [
+    "/general/chunk aligned/",
+    "/version/1,0/",
+    "/version/0,15/",
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ]
 }

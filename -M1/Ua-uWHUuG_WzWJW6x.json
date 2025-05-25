@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/vanilla/"
+  ],
   "title": "item/s counter",
   "favorites": {
     "XwJ1xzX7bQRaeJ6lI2UvjlFIzNj2": true,

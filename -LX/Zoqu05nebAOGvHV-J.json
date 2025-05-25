@@ -26,9 +26,9 @@
   },
   "descriptionMarkdown": "Beaconed and bot based labs with 250K science buffer and level meter of each type ",
   "fileName": "20190131174901_1.jpg",
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/circuit/indicator/"
-  }
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/circuit/indicator/"
+  ]
 }

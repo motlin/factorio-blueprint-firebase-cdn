@@ -10,10 +10,10 @@
     "type": "image/png",
     "width": 190
   },
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true

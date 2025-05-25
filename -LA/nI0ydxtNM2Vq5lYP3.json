@@ -13,12 +13,12 @@
   },
   "lastUpdatedDate": 1524500275253,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "authorId": "GKHy6bHjyGa9ZU2rV4wXZd3Ovr23",
   "createdDate": 1524500275253,
   "descriptionMarkdown": "Basic late game plastic factory. Makes 2 fully compressed belts of plastic (80/s) from about 475 crude oil per second and 30 coal per second via advanced oil processing and cracking.\n\nHas productivity modules 3 and speed beacons where relevant.\n\nInput/output - all are at the top, from left to right:\n* pipe for oil (in)\n* pipe for water (in)\n* belt for coal (in)\n* belt for plastic (out) x 2\n\nno logistics network",

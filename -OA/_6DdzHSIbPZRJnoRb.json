@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/szPoO6a",
   "lastUpdatedDate": 1730749108987,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/elevated-rails/",
-    "2": "/train/track/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/elevated-rails/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Chips Rail Book",
   "favorites": {
     "xrHJ0Qc3BqQsC6x2aOKkwi6JsFT2": true,

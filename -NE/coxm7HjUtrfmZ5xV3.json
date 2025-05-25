@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1695049571623,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Coal Liquefaction to plastic",
   "favorites": {
     "ovJD6hAXo9hSba4l3bmn9goxzkK2": true,

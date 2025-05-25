@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1662015738656,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Crafting Combinator book",
   "favorites": {
     "LzyEwbYOOgPNRx76OnqXkUVIK3H3": true,

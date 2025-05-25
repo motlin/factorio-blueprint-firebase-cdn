@@ -9,10 +9,10 @@
     "userId": "nSiP6VhxaCNNRms5R8TbPpMAqvA2"
   },
   "authorId": "nSiP6VhxaCNNRms5R8TbPpMAqvA2",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "yEkV5AJi4TdlypuvUIb1yqbiznG3": true
   },

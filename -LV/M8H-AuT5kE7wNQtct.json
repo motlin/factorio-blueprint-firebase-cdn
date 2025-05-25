@@ -12,12 +12,12 @@
     "TRQQMQX1ueZFNb5ud5xD1GYkIq83": true,
     "AtPM8cr9kxdMEUvCOKG0oayvYB13": true
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Covarex + nuclear fuel",
   "author": {
     "userId": "G7AVZTGORqhmzYxCvvkPZNWxZ303"

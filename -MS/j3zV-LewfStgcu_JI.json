@@ -4,13 +4,13 @@
   "descriptionMarkdown": "Produces a full blue belt. 45 GC/sec",
   "fileName": "GC cake eater.png",
   "lastUpdatedDate": 1612476315918,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/belt based/"
+  ],
   "author": {
     "userId": "ypB6aj93xiU69BKqDSyD5Dz22vT2"
   },

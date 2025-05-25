@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/general/mid game/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/production/processing unit (blue)/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "N4DYD8higBTOlCgZXMLjaLcrgSw2": true,
     "rsD3RssFJhVX3AQ14FJKgvidUeT2": true,

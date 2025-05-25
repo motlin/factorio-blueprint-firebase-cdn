@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1708220517335,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "Universal Intersection",
   "favorites": {
     "7rro2Azax0dLYRNPRGa2DJ7jM8r1": true,

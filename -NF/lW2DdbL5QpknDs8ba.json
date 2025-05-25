@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1667278058503,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/other/",
-    "2": "/mods/aai/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/other/",
+    "/mods/aai/",
+    "/production/other/"
+  ],
   "title": "SE Holmium Ingot Production"
 }

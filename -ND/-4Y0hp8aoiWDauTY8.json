@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1664301283110,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/compact/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/compact/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Roboports production Vanilla 60/m",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true

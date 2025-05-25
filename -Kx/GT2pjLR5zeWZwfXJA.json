@@ -24,11 +24,11 @@
   "authorId": "AF5Erk9NFdYmzHCTjkgnRtjTYq32",
   "fileName": "80O5Xe3[1].jpg",
   "lastUpdatedDate": 1508945576632,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/version/0,15/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/general/compact/"
+  ],
   "title": "Compact (61x44) setup for all 6 science packs, 1 pack per second"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/tSAgJBi",
   "lastUpdatedDate": 1733095241840,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/oil processing/"
+  ],
   "title": "Vulcanus petroleum plant 9.4k/min",
   "favorites": {
     "xn9VsXbjq1ZG8ipiqdl4VXkcAV23": true,

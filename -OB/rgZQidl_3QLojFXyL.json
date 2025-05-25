@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2QjwKIu",
   "lastUpdatedDate": 1735929226262,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/factorissimo/"
+  ],
   "title": "MK2: Group processing",
   "favorites": {
     "R0ohzQpANyNVQahctl1NP7xrb2n2": true,

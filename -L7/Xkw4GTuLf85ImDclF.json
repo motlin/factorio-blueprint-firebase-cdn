@@ -12,11 +12,11 @@
     "width": 1121
   },
   "lastUpdatedDate": 1522073694385,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/kovarex enrichment/"
+  ],
   "author": {
     "userId": "duVWG6DfCxMHjqWcEQen4cnW4WA2"
   },

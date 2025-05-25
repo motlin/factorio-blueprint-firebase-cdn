@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/VFMm64E",
   "lastUpdatedDate": 1736565792251,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/fulgora/",
-    "2": "/planets/vulcanus/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/nauvis/",
+    "/planets/gleba/"
+  ],
   "title": "Cargo Route Ship for Inner Planets",
   "favorites": {
     "MNYCCW2nSQRmGR5sOMGu2ofxnzj2": true

@@ -14,10 +14,10 @@
   "lastUpdatedDate": 1731464142626,
   "numberOfFavorites": 6,
   "title": "2.0 space age - basic spaceship",
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "favorites": {
     "GBNGmTTXmxZBrNmvnfUMNjT4kR52": true,
     "G5UIO0pYDmddua4PvAuh7xG6m7A3": true,

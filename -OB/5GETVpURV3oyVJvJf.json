@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2Mzoyk9",
   "lastUpdatedDate": 1731433520028,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Priority Driven Logistic Train Network",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

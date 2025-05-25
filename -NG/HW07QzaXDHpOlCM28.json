@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1667832029792,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Engrenages",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

@@ -25,10 +25,10 @@
   "imageUrl": "https://i.imgur.com/JAAaQ9i.png",
   "lastUpdatedDate": 1737274369105,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/planets/space-platform/"
+  ],
   "title": "Gleba Racer"
 }

@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "3": "/general/tileable/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "IrANbeXyQqce1B48wCuj3MUaJds1"
   },

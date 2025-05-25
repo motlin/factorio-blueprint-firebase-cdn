@@ -1,11 +1,11 @@
 {
   "authorId": "ecW7YNVHzmfo57Jhsg23mkrb8B23",
   "createdDate": 1578688051456,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,17/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,17/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Refinery",
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,

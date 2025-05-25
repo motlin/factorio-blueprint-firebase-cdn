@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/ShdwuSl",
   "lastUpdatedDate": 1745797722983,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "Nave End Game space age"
 }

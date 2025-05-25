@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1636225498730,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Shiverczar's Infinite Refinery MK IV - SIR [MK IV]",
   "favorites": {
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true

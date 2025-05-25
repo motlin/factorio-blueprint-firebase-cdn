@@ -11,11 +11,11 @@
     "width": 1920
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/lighted-electric-poles/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/lighted-electric-poles/",
+    "/version/0,15/"
+  ],
   "title": "Red Circuits inter.",
   "author": {
     "userId": "KkhfB9jEeQfSmTDWgHLDSQlFmT22"

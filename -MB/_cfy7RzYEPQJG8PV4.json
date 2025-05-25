@@ -6,10 +6,10 @@
     "width": 669
   },
   "lastUpdatedDate": 1594064289851,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "author": {
     "userId": "iRDBvzlRoCcfT4l3SKNH5vPdxQo2"
   },

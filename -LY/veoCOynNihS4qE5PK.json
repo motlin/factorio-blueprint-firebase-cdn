@@ -21,10 +21,10 @@
   "authorId": "idRln6k5C2OX4nAjHfB9y0VtEay1",
   "fileName": "Screenshot_900.png",
   "lastUpdatedDate": 1579401953461,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/train/track/",
+    "/version/0,17/"
+  ],
   "title": "Rail books (4 lane)",
   "createdDate": 1579401561131,
   "descriptionMarkdown": "First try on a rail system, 2 and 4 lane in seperate books"

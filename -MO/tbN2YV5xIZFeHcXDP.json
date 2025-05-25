@@ -26,11 +26,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/scr-sh1.png?alt=media&token=66000f8a-2df1-4898-a7db-77d258acce09",
   "lastUpdatedDate": 1664159519566,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/right-hand-drive/",
-    "3": "/mods/bobs/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/mods/bobs/"
+  ],
   "title": "City Block Pro v.1.0"
 }

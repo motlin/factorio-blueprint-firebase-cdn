@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1701286466636,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/science/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/science/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/"
+  ],
   "title": "SILO - Rocket for space science and research point"
 }

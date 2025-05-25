@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/rVHImro",
   "lastUpdatedDate": 1732556832610,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/"
+  ],
   "title": "Aquilo Voyager",
   "favorites": {
     "31d5ba2XSAODlGvA4KSsTeaCz2v2": true

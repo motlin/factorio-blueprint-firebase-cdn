@@ -20,12 +20,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/720%20Rocket%20Control%20Units%20and%201%20Satellite%20per%20minute.png?alt=media&token=d6ee1cb4-8f03-44ff-9347-48eef438d38c",
   "lastUpdatedDate": 1500950693403,
   "numberOfFavorites": 15,
-  "tags": {
-    "4": "/version/0,15/",
-    "0": "/production/rocket parts/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/rocket parts/",
+    "/production/logistic (bot) based/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "720 Rocket Control Units and 1 Satellite per minute"
 }

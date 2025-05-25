@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1694800112110,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Kovarex Beltbased",
   "favorites": {
     "Jf7ZZC4BVDXYnjIxMEUU74PZUcw2": true

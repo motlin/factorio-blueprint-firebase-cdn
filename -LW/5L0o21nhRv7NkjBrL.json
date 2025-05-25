@@ -4,9 +4,9 @@
   "createdDate": 1576359435574,
   "lastUpdatedDate": 1576359435574,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Bell Balancer",
   "author": {
     "userId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2"

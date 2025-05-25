@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/SovJKk2",
   "lastUpdatedDate": 1739151515256,
   "numberOfFavorites": 30,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/science/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/science/",
+    "/production/rocket parts/"
+  ],
   "title": "Fulgora Outpost (85 SPM and rocket per three minutes)",
   "favorites": {
     "5locYvC0YXTKXAZl1lEKw8BXW573": true,

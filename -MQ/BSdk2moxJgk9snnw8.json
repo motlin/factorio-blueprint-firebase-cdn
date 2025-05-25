@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/imagem_2021-12-06_113134.png?alt=media&token=a3e712c0-b87d-4774-b374-2a1c07b7b612",
   "lastUpdatedDate": 1638811599326,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para garagem de trens espaciais"
 }

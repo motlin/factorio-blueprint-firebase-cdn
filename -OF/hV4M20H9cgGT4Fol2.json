@@ -20,20 +20,20 @@
   "imageUrl": "https://imgur.com/DbRdQyJ",
   "lastUpdatedDate": 1735930317391,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/version/2,0/",
-    "2": "/general/chunk aligned/",
-    "3": "/mods/vanilla/",
-    "4": "/mods/elevated-rails/",
-    "5": "/power/solar/",
-    "6": "/train/right-hand-drive/",
-    "7": "/train/junction/",
-    "8": "/train/roundabout/",
-    "9": "/train/crossing/",
-    "10": "/train/stacker/",
-    "11": "/train/loading station/",
-    "12": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/track/",
+    "/version/2,0/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/mods/elevated-rails/",
+    "/power/solar/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/train/stacker/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Rails w/ Interupt system"
 }

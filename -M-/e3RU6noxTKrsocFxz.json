@@ -7,10 +7,10 @@
   "createdDate": 1581253773434,
   "descriptionMarkdown": "Чертеж на переработку жеод https://www.youtube.com/watch?v=fhru2IYrj2Q&t=2s",
   "lastUpdatedDate": 1581253773434,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/other/"
+  ],
   "image": {
     "width": 1100,
     "height": 855,

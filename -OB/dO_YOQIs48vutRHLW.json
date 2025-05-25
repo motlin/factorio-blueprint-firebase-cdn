@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/6uOB1On",
   "lastUpdatedDate": 1731566393731,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Courier Cargo Ship",
   "favorites": {
     "CnWenNj0OIfIkWVHnmEFKvW7kg32": true,

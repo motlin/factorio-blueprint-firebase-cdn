@@ -38,9 +38,9 @@
   },
   "lastUpdatedDate": 1720233953546,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/1,1/"
+  ],
   "title": "Build Everything Mall"
 }

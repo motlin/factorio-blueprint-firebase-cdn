@@ -22,11 +22,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%201.1.91%2010_14_2023%2011_50_22%20PM.png?alt=media&token=544e8145-33df-4f2e-8273-fb2f98318af9",
   "lastUpdatedDate": 1697341910345,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/ltn/",
-    "2": "/mods/space-exploration/",
-    "3": "/mods/krastorio/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/ltn/",
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "Tiny Grid Rail System (Grid Wall Defense)"
 }

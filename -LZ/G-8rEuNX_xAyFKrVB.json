@@ -28,11 +28,11 @@
   },
   "lastUpdatedDate": 1550768447207,
   "numberOfFavorites": 11,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/vanilla/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/production/modules/"
+  ],
   "title": "N.O.O.V.A - New Object Of Visual Attraction Mall"
 }

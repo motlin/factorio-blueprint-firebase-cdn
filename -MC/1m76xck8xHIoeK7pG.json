@@ -22,12 +22,12 @@
   },
   "lastUpdatedDate": 1595061405537,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/production/other/",
-    "0": "/general/early game/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/other/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Expanded Dragonteeth Walls"
 }

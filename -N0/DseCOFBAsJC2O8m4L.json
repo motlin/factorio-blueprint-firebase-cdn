@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1650590917576,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Vanilla Logistics Rail Supply.",
   "favorites": {
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,

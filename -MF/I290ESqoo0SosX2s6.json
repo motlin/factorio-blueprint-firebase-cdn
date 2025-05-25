@@ -13,10 +13,10 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1598047428848,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "favorites": {
     "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true
   },

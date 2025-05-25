@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1584227756992,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Green circuit module"
 }

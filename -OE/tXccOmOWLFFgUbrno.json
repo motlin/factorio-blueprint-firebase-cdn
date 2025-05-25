@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/EFtpjzx",
   "lastUpdatedDate": 1735058426430,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/production/robots/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/robots/"
+  ],
   "title": "Demo of left right belts applied to robot frames"
 }

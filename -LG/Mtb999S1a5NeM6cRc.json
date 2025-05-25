@@ -12,11 +12,11 @@
     "width": 1920
   },
   "lastUpdatedDate": 1559474107141,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/stacker/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/stacker/",
+    "/train/right-hand-drive/"
+  ],
   "title": "[LTN] Depot 1-4-1 ID#1 and 2-4-2 ID#16",
   "author": {
     "userId": "uA3O8nH0D7dkCI6cXFpbhEnpMAV2"

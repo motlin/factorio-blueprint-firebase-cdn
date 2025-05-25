@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/rHddnYG",
   "lastUpdatedDate": 1731464063660,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Calcite Collection Platform",
   "favorites": {
     "qeST7wsECohOnSkFIoAHjtNB4Wv2": true,

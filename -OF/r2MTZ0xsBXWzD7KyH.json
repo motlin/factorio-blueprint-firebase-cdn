@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/mhO6bT7",
   "lastUpdatedDate": 1736090417368,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Spaceship victory (Atlantis) integrity: 5.000 (Exotics + S.E.)"
 }

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1653942864823,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/production/other/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/other/"
+  ],
   "title": "[Seablock] 7.5 Charcoal a Second",
   "favorites": {
     "3uXmhXaifFTr6LiEUsahOoO0EEa2": true,

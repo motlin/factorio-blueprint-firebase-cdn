@@ -10,14 +10,14 @@
     "type": "image/jpeg",
     "width": 1997
   },
-  "tags": {
-    "2": "/production/belt based/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/general/late game (megabase)/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/production/smelting/"
+  ],
   "title": "Best Smelting Setup",
   "favorites": {
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,

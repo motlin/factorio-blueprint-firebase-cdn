@@ -11,11 +11,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "7fSyJDSKXwY1InNj78jgw4QnzLv1": true,
     "3Dnulhg7YzM68eaqqDQicars9DA3": true,

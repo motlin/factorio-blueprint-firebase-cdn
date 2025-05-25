@@ -10,12 +10,12 @@
     "height": 939,
     "id": "lzpRFKv"
   },
-  "tags": {
-    "2": "/version/1,0/",
-    "3": "/production/other/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/other/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "v6XakptxuzOG2hQYFGWZA8XrlN62"
   },

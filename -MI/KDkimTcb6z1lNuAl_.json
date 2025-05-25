@@ -11,9 +11,9 @@
   "createdDate": 1601305250898,
   "descriptionMarkdown": "Kovareks compact expandable uranium enrichment scheme.\n\n-Works on any game version\n\n-Takes uranium-238 from a nearby centrifuge without a cycle of return of uranium-238 to the main belts\n\n-Works without downtime while waiting for the transfer of 40 uranium units\n\n-Does not require Stack inserters\n\n-Minimum resources to build\n\nTo launch, put 40 units of Uranium-235 in any chest or centrifuge. Feed uranium-238 as directed by filter. Extend in length or build parallel lines.\n\nКомпактная расширяемая схема обогащения урана Kovareks.\n\n-Работает на любой версии игры\n\n-Берет уран-238 с соседней центрифуги без цикла возврата урана-238 на основной конвеер\n\n-Работает без простоев в ожидании перекладывания 40 единиц урана\n\n-Не требует пакетных манипуляторов\n\n-Минимум ресурсов для постройки\n\nДля запуска положите 40 единиц урана-235 в любой сундук или центрифугу. Подайте уран-238 как указано фильтром. Расширяйте в длину либо стройте параллельные линии.",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "title": "Kovarex enrichment process",
   "author": {
     "userId": "psacGGSMW5bRZKOWQARQKQigzRd2"

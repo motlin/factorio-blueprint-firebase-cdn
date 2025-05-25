@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1703269392284,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/crossing/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/crossing/",
+    "/version/1,1/"
+  ],
   "title": "4-Way \"Windmill\" Rail Junction",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

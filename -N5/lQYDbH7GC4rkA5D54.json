@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1656539198424,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/"
+  ],
   "title": "compact early game smelter"
 }

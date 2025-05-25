@@ -101,12 +101,12 @@
   },
   "lastUpdatedDate": 1733756833949,
   "numberOfFavorites": 46,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/chunk aligned/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/chunk aligned/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/"
+  ],
   "title": "ElderAxe's Rail Network (EARN) v2.1.0"
 }

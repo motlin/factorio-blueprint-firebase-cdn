@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1586379505298,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,18/"
+  ],
   "title": "2.5k Yellow Utility Science"
 }

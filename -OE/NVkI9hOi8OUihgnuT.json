@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/XN8gQ2U",
   "lastUpdatedDate": 1734504285619,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Huge fusion reactor [11GW]",
   "favorites": {
     "IxOPoS1DkuMx2YzTaKIcTmZrSQ02": true,

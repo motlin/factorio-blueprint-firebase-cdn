@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/NLeRaPf",
   "lastUpdatedDate": 1729649120740,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Tutorial Space platform",
   "favorites": {
     "CVUbJQiMCOOQ588V03mBlKFgQ7z1": true,

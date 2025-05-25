@@ -26,11 +26,11 @@
   },
   "lastUpdatedDate": 1613469771102,
   "numberOfFavorites": 9,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/train/junction/",
-    "1": "/power/solar/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/power/solar/",
+    "/train/roundabout/"
+  ],
   "title": "Blocks 008: Solar Block"
 }

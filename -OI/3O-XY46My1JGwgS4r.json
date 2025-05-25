@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/xdONbWU",
   "lastUpdatedDate": 1738780373611,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/space-age/"
+  ],
   "title": "LDS Shuffle",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

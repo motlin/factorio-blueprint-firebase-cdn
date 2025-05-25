@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/U7j8M4h",
   "lastUpdatedDate": 1730027447535,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/balancer/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/belt/transport belt (yellow)/",
+    "/belt/balancer/"
+  ],
   "title": "Atems Quality Bus Abzweiger v1",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

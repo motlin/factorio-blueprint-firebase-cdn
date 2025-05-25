@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1643233454525,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "title": "1-4 loading station, 24 blue belts input",
   "favorites": {
     "dKODuSYcovXizxj35jj50cbJWlz2": true

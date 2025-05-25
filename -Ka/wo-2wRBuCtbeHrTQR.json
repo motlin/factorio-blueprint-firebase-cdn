@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,14/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/early game/"
+  ],
   "title": "Early Red + Green Science packs",
   "favorites": {
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,

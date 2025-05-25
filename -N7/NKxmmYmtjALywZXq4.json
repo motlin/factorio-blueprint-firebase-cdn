@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1658287842063,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/other/"
+  ],
   "title": "Automatic Recursive Solar Field Placer"
 }

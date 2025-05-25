@@ -1,10 +1,10 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1GWNuclear.PNG?alt=media&token=81c00794-6039-4959-954e-cde5cb0682ab",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Nuclear Power",
   "author": {
     "userId": "LwASv8Mm0qeOmWYCBBW0MFbw39s2"

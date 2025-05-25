@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1662845567456,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/general/mid game/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/general/mid game/",
+    "/mods/other/"
+  ],
   "title": "SE Rocket Automation",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

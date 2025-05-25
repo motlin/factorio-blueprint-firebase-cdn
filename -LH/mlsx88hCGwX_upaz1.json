@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1560998809512,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Belt Braiders"
 }

@@ -11,11 +11,11 @@
     "width": 739
   },
   "lastUpdatedDate": 1522882628842,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "Eu9tMGWn2EPy2o0AIL3EKDCjCv83"
   },

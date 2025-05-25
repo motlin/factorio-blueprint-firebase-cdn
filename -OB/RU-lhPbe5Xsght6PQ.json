@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/p2YYt5p",
   "lastUpdatedDate": 1731349821358,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/fulgora/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/gleba/",
-    "5": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/vulcanus/"
+  ],
   "title": "SA QFusion Modular and Stackable V1",
   "favorites": {
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,

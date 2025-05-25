@@ -10,9 +10,9 @@
   "lastUpdatedDate": 1602372564720,
   "numberOfFavorites": 4,
   "title": "train grid",
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "author": {
     "userId": "buUMEvOKZSYVQjxUACI9Z3fTPIl2"
   },

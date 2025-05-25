@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621941484653,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/version/1,0/"
+  ],
   "title": "City blocks Krastorio",
   "favorites": {
     "pfpXdzNlanQLqRbvmUgaZak96TD2": true,

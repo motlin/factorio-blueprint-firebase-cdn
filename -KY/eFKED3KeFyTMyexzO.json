@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/0,14/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/0,14/"
+  ],
   "title": "Bob's Gemstones",
   "authorId": "TibF9NM146bGKWGL84rNwqFqYP12",
   "createdDate": 1481398899724,

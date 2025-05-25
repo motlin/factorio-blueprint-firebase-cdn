@@ -2,10 +2,10 @@
   "createdDate": 1590236788062,
   "descriptionMarkdown": "[Tobi] 4 Belt Plastic Beacon EndGame\n\nconnect Gas and Coal -> done...",
   "fileName": "427520_20200523151634_1.png",
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "YnpsCDBggTRWgHbCQCon4LyT7973": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true

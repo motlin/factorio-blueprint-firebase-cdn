@@ -10,13 +10,13 @@
     "width": 1356
   },
   "lastUpdatedDate": 1537299657393,
-  "tags": {
-    "2": "/production/belt based/",
-    "3": "/version/0,16/",
-    "4": "/mods/vanilla/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "Purple Science, blue belts, fully beaconized, 670 SPM",
   "author": {
     "userId": "FTVvpmGZOqZ5lCEENgft3oTpiMg1"

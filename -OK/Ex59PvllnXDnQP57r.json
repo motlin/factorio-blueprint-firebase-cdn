@@ -97,16 +97,16 @@
   "imageUrl": "https://i.imgur.com/OjlOKWil.png",
   "lastUpdatedDate": 1746263223802,
   "numberOfFavorites": 47,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/space-age/",
-    "4": "/production/other/",
-    "5": "/production/science/",
-    "6": "/train/left-hand-drive/",
-    "7": "/train/track/",
-    "8": "/version/2,0/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/space-age/",
+    "/production/other/",
+    "/production/science/",
+    "/train/left-hand-drive/",
+    "/train/track/",
+    "/version/2,0/"
+  ],
   "title": "Megabase Modular Train Grid Framework (2.0) For Space Age"
 }

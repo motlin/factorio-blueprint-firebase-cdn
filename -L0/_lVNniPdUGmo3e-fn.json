@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1513535965253,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Smeltery Setups 0.16"
 }

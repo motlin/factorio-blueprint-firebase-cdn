@@ -21,9 +21,9 @@
   "imageUrl": "https://imgur.com/wSBimTn",
   "lastUpdatedDate": 1731016554987,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Big Cargo Ship V1.0"
 }

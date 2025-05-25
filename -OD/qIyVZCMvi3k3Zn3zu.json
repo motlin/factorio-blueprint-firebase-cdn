@@ -69,11 +69,11 @@
   "imageUrl": "https://imgur.com/fp70Gbd",
   "lastUpdatedDate": 1736350781211,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-exploration/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/space-exploration/",
+    "/production/science/"
+  ],
   "title": "Prometheus / End Game Ship"
 }

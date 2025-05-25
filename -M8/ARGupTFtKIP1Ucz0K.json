@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1590427752883,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,18/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,18/",
+    "/mods/vanilla/"
+  ],
   "title": "10-Reactor, Circuit-Regulated Nuclear Power Plant"
 }

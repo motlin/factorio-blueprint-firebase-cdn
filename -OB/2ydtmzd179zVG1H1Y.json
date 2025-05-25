@@ -106,13 +106,13 @@
   "imageUrl": "https://imgur.com/JKCUGja",
   "lastUpdatedDate": 1730938685545,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/rocket parts/",
-    "2": "/production/science/",
-    "3": "/mods/space-age/",
-    "4": "/mods/vanilla/",
-    "5": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/mods/space-age/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Almost Everything Fulgora"
 }

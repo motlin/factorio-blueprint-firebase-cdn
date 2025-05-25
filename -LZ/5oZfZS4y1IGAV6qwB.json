@@ -9,10 +9,10 @@
     "width": 1498,
     "height": 190
   },
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "sqttCML8amQenqkOj4TKUNsaiLH3": true,
     "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,

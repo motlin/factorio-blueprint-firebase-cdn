@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/pax/"
-  },
+  "tags": [
+    "/train/pax/"
+  ],
   "favorites": {
     "SS0ivWSelScggoritSCjMW2VOo32": true,
     "yaT1NaqrrahrlGN6ZzDO08XDnlc2": true

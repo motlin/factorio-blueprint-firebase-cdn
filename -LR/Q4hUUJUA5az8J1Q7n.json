@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1542347741276,
   "numberOfFavorites": 14,
-  "tags": {
-    "7": "/production/mall (make everything)/",
-    "0": "/production/research (labs)/",
-    "1": "/production/science/",
-    "2": "/general/early game/",
-    "3": "/general/compact/",
-    "4": "/production/oil processing/",
-    "5": "/production/processing unit (blue)/",
-    "6": "/production/robots/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/research (labs)/",
+    "/production/science/",
+    "/general/early game/",
+    "/general/compact/",
+    "/production/oil processing/",
+    "/production/processing unit (blue)/",
+    "/production/robots/"
+  ],
   "title": "Raw resource starter base"
 }

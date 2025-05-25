@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/bN34jnb",
   "lastUpdatedDate": 1731905785888,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/guns and ammo/",
-    "2": "/mods/space-age/",
-    "3": "/power/nuclear/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/guns and ammo/",
+    "/mods/space-age/",
+    "/power/nuclear/"
+  ],
   "title": "Nebular - Transport Class Space Platform ",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

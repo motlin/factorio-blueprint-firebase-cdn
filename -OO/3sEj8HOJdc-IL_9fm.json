@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/mR931s0.png",
   "lastUpdatedDate": 1744914230722,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/production/belt based/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/production/belt based/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Legendary Tungsten Plate",
   "favorites": {
     "G3nRjdjWPASkpkr5qbcqTwz0sS13": true,

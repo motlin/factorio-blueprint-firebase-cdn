@@ -20,8 +20,8 @@
   "descriptionMarkdown": "An extension of https://factorioprints.com/view/-KvOGbHd8nUsiWGvI7Tj that braids in more green circuits with the output belts, allowing better beacon efficiency.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/long%20blue%20circuit%20build.png?alt=media&token=330f0756-c55f-43f5-9da0-0131fbf72e8b",
   "lastUpdatedDate": 1506888586448,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  }
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ]
 }

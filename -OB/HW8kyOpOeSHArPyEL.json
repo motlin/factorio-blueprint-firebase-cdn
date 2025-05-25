@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/PsNHQEI",
   "lastUpdatedDate": 1731366594380,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/rocket parts/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/rocket parts/",
+    "/version/2,0/"
+  ],
   "title": "Basic Rocket Builder Spaceage",
   "favorites": {
     "r1S59cpseeePuCNLSGz7ISJITDw1": true

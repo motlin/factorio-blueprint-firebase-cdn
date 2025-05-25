@@ -12,9 +12,9 @@
     "type": "image/png",
     "width": 430
   },
-  "tags": {
-    "0": "/production/inserters/"
-  },
+  "tags": [
+    "/production/inserters/"
+  ],
   "favorites": {
     "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true
   },

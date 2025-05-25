@@ -16,10 +16,10 @@
   "fileName": "Factorio Red Science.jpg",
   "descriptionMarkdown": "Needs a total of 1x full blue belt copper plates and 1x full blue belt iron gear wheel. Both are then halfed onto the 2 input belts. See combinators for info!",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/science/"
-  }
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ]
 }

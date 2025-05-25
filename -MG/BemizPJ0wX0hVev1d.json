@@ -24,8 +24,8 @@
   "createdDate": 1599014120544,
   "lastUpdatedDate": 1599014120544,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/1,0/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/version/1,0/"
+  ]
 }

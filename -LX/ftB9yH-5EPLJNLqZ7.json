@@ -13,12 +13,12 @@
     "userId": "cLRrLz9FFBX9kGiSmvypemR9zXx1"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/general/early game/",
-    "0": "/general/compact/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Smelter ",
   "image": {
     "height": 678,

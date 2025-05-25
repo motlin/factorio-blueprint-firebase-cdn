@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1604603114001,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "ys4UIZK5vNa3iyh9Oyi7eapqv3j1"
   },

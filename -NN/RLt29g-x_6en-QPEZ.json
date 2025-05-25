@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1704504037620,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/other/"
+  ],
   "title": "Nullius Solar 1 for Four Chunks",
   "favorites": {
     "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,

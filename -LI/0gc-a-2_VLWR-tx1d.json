@@ -2000,14 +2000,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202019-01-09%20at%209.10.19%20pm.png?alt=media&token=db491ae5-0f16-4d3f-b4b9-0390b6bc4ea5",
   "lastUpdatedDate": 1647782362790,
   "numberOfFavorites": 1968,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/science/",
-    "2": "/power/steam/",
-    "3": "/belt/tap/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/",
-    "6": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/power/steam/",
+    "/belt/tap/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "title": "Nilaus' Base-in-a-Book complete"
 }

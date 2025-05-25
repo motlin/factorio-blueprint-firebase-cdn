@@ -36,12 +36,12 @@
   },
   "lastUpdatedDate": 1612605566927,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/general/late game (megabase)/",
-    "3": "/production/oil processing/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/",
+    "/general/late game (megabase)/",
+    "/production/oil processing/",
+    "/train/unloading station/"
+  ],
   "title": "Remote settlers base with mall and all oils from ore"
 }

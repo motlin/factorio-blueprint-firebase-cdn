@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1658511409264,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Arcosphere Balancer",
   "favorites": {
     "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true

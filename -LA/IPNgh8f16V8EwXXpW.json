@@ -1521,18 +1521,18 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Fullscreen%20capture%202021.05.14%20085613.jpg?alt=media&token=3a16bfdd-a5a8-4919-bbbc-fa7608d4eef6",
   "lastUpdatedDate": 1746624262846,
   "numberOfFavorites": 1497,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/junction/",
-    "2": "/train/stacker/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/",
-    "5": "/mods/ltn/",
-    "6": "/train/roundabout/",
-    "7": "/train/crossing/",
-    "8": "/train/right-hand-drive/",
-    "9": "/version/2,0/",
-    "10": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/junction/",
+    "/train/stacker/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/ltn/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Brian's Trains"
 }

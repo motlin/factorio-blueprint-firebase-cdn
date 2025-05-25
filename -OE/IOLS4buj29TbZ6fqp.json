@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/nzzV2zq",
   "lastUpdatedDate": 1734418909569,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/mods/space-age/",
-    "3": "/production/science/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/mods/space-age/",
+    "/production/science/",
+    "/version/2,0/"
+  ],
   "title": "Science Station Hermes",
   "favorites": {
     "S23UPGTu0qdJzFJWAO6jPZopr6E2": true

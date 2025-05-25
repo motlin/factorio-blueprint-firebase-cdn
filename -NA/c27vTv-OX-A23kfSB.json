@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1690741542750,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "City-block train station",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,

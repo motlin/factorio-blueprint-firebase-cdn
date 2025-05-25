@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/fLAFTrw",
   "lastUpdatedDate": 1730748026629,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/planets/vulcanus/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/planets/vulcanus/",
+    "/mods/vanilla/"
+  ],
   "title": "Small Demolisher Crusher",
   "favorites": {
     "9LdQo7IHMgZXsls3qasGa2jDzOy1": true

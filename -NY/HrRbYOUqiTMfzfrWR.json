@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ZkSWcEo",
   "lastUpdatedDate": 1716212035733,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Round Solar Power Grid",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true

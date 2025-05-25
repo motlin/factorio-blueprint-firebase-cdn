@@ -20,13 +20,13 @@
   },
   "lastUpdatedDate": 1637137048680,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/indicator/",
-    "3": "/general/beaconized/",
-    "4": "/version/1,0/",
-    "5": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "CoRNeRNoTe's Organised Mall"
 }

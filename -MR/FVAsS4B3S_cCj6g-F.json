@@ -10,12 +10,12 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1610889608871,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/train/roundabout/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/train/roundabout/",
+    "/train/junction/"
+  ],
   "title": "Ligne ferroviaire",
   "favorites": {
     "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1609632608598,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/1,0/"
+  ],
   "title": "Universal Reactor"
 }

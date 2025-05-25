@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1631996381961,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/tileable/"
+  ],
   "title": "7-segment displays (tileable)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/7segment3.png?alt=media&token=74a8c32c-a052-40fe-a02f-3c5495550c99",
   "favorites": {

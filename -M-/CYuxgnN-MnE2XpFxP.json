@@ -4,11 +4,11 @@
   "descriptionMarkdown": "Roundabout with an outer and inner circle and the option to switch between them freely. Does not deadlock with 1-4 Trains. Longer ones will probably cause congestion.",
   "fileName": "Roundabout Double Circle.png",
   "lastUpdatedDate": 1580775485586,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "DrySon's Roundabout",
   "author": {
     "userId": "nuTc3tZteuOQpC49mGO9T7fQsRV2"

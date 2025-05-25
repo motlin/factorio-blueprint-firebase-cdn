@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/0CJFp2Z",
   "lastUpdatedDate": 1734247670947,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/production/mining/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/production/mining/"
+  ],
   "title": "12 Big Drills/Min (Molten Iron Input)",
   "favorites": {
     "q0pvCWiULlSEjtUUpNhJnk6pea42": true,

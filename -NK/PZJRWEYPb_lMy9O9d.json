@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1701253419979,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/mining/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/mining/"
+  ],
   "title": "GigaMiners...",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,

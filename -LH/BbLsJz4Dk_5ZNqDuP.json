@@ -4,12 +4,12 @@
   "createdDate": 1531367485003,
   "fileName": "Kovarex40ct.png",
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/power/kovarex enrichment/"
+  ],
   "author": {
     "userId": "Dpao822gmUMHlnAiFtlAA14dovo1"
   },

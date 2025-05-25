@@ -15,8 +15,8 @@
   "createdDate": 1579861638534,
   "descriptionMarkdown": "Count the ticks per swing for a green inserter.",
   "authorId": "qXY6YKRI3BSsLISzpz1byvCTwCB2",
-  "tags": {
-    "0": "/production/inserters/"
-  },
+  "tags": [
+    "/production/inserters/"
+  ],
   "title": "Green Inserter Timing"
 }

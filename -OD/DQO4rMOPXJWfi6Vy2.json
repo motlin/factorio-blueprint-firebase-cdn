@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Ip1Zh6s",
   "lastUpdatedDate": 1733261366343,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "First 6 sciences",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

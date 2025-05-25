@@ -35,10 +35,10 @@
     "type": "image/png",
     "width": 1694
   },
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/general/tileable/",
-    "3": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/tileable/",
+    "/general/late game (megabase)/"
+  ]
 }

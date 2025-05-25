@@ -144,9 +144,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2876207.png?alt=media&token=2580923e-3a46-4028-883b-352633170eb3",
   "lastUpdatedDate": 1513500212398,
   "numberOfFavorites": 210,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/accumulator/"
+  ],
   "title": "0.16 Base Monitoring"
 }

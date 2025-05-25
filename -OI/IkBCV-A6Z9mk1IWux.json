@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/rXXRO1r",
   "lastUpdatedDate": 1738719413157,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba production",
   "favorites": {
     "bF9qbyoXLeT2v5GSAFkRwGPGFop1": true

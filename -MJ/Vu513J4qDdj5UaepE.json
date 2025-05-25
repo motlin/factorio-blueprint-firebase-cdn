@@ -19,11 +19,11 @@
     "width": 1920
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/version/1,0/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/train/track/",
+    "/version/1,0/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "High flow 3 way intersection"
 }

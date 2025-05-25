@@ -15,10 +15,10 @@
   "descriptionMarkdown": "4x Nuclear Reactor.\n\nWhen you first start you need to install the uranium fuel cell manually.\n\nIn the future, the system will automatically load / unload.",
   "lastUpdatedDate": 1559307042680,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "c8wnNnU9vUV1Z6gOT0fYvtFgAv33"
   },

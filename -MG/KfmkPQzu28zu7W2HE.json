@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1628156407292,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Here are some mines",
   "favorites": {
     "kaYpRENe7Dgci1s1CE8mlMR3DbE2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/EuYaWoC",
   "lastUpdatedDate": 1731606819902,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/version/2,0/"
+  ],
   "title": "Gambling Machine",
   "favorites": {
     "oq5pjOP0jQOjzGVxi2y9DPzXdYs1": true,

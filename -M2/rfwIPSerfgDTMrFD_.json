@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/steam/",
-    "2": "/version/1,0/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/steam/",
+    "/version/1,0/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"
   },

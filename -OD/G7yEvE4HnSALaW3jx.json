@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3CRyOk7",
   "lastUpdatedDate": 1733306908264,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Yellow Science 100 SPM. Utility science pack",
   "favorites": {
     "TxssEEX4FceznHOhiUxM5HORmEe2": true,

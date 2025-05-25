@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1593850815507,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/production/science/"
+  ],
   "title": "120 SPM from Raw Resources"
 }

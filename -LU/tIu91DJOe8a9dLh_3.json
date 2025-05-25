@@ -6,10 +6,10 @@
     "width": 860
   },
   "lastUpdatedDate": 1575067034654,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/mods/vanilla/"
+  ],
   "title": "Coal Liquefaction - 0.17",
   "author": {
     "userId": "R9ZsyPz2WvYjoQPalzMCeHBn9Sg2"

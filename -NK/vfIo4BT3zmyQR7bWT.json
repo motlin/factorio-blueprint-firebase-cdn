@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1701887533004,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/compact/",
-    "6": "/general/storage/",
-    "7": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/compact/",
+    "/general/storage/",
+    "/production/other/"
+  ],
   "title": "Centro de equipamiento modular para la versión vainilla",
   "favorites": {
     "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,

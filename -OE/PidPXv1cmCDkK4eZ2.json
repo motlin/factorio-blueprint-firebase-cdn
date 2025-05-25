@@ -45,11 +45,11 @@
   "imageUrl": "https://imgur.com/A4gvcwt",
   "lastUpdatedDate": 1734541481674,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/planets/space-platform/",
-    "2": "/production/advanced circuit (red)/",
-    "3": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/planets/space-platform/",
+    "/production/advanced circuit (red)/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Aquilo circuit production space platform"
 }

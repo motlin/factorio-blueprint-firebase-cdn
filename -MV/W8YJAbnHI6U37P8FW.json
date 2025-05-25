@@ -13,13 +13,13 @@
   "descriptionMarkdown": "These rails have everything you need for your rail system",
   "fileName": "Knipselarends filmhuis.PNG",
   "lastUpdatedDate": 1615463855504,
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/train/crossing/",
-    "2": "/train/roundabout/",
-    "3": "/train/junction/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "author": {
     "userId": "RJkFLQVIX2Z8IdEXQpEez1jdYMJ3"
   },

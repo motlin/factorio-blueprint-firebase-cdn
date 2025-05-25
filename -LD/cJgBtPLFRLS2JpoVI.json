@@ -3,11 +3,11 @@
   "createdDate": 1527537386422,
   "fileName": "coal_liquefaction.jpg",
   "lastUpdatedDate": 1527537386422,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Coal Liquefaction",
   "author": {
     "userId": "B1CC1Ef0myNd7oxtY9oo2h6niux1"

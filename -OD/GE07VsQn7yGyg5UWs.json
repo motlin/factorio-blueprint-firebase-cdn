@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/o5cWUyp",
   "lastUpdatedDate": 1733329443483,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "pencil ship 600km/s for vulcanus-nauvis-gleba-fulgora",
   "favorites": {
     "G7AVZTGORqhmzYxCvvkPZNWxZ303": true,

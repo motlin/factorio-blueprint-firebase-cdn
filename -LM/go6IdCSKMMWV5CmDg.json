@@ -25,11 +25,11 @@
   "descriptionMarkdown": "It's an 2-way-right-handed-intersection with possibility to drive in any direction",
   "fileName": "427520_20190820033754_1.png",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/junction/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "2-way-intersection"
 }

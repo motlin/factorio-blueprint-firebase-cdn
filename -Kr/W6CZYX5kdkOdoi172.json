@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/0,15/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/train/right-hand-drive/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "authorId": "ozYYQghbmcdqrS7X4kBQgAlnMl52",
   "fileName": "sbXI-tC7T4S0EpzAK4So9g.png",
   "lastUpdatedDate": 1502720350607,

@@ -15,12 +15,12 @@
   "fileName": "electric.png",
   "lastUpdatedDate": 1560305514240,
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/production/smelting/",
-    "3": "/general/beaconized/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Electric Smelting",
   "favorites": {
     "Tlmqm5NibCbBCErj3rquZDzRTHr2": true,

@@ -28,9 +28,9 @@
   "authorId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2",
   "fileName": "mall.PNG",
   "numberOfFavorites": 31,
-  "tags": {
-    "2": "/general/early game/",
-    "0": "/mods/factorissimo/",
-    "1": "/production/mall (make everything)/"
-  }
+  "tags": [
+    "/general/early game/",
+    "/mods/factorissimo/",
+    "/production/mall (make everything)/"
+  ]
 }

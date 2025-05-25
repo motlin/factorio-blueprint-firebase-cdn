@@ -23,12 +23,12 @@
   },
   "lastUpdatedDate": 1603681163917,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/mods/ltn/"
+  ],
   "title": "Train stuff with LTN all-provider and outpost constructor"
 }

@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1706774738831,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Space exploration logistics hub"
 }

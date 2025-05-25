@@ -20,9 +20,9 @@
   "imageUrl": "https://imgur.com/VlpREtP",
   "lastUpdatedDate": 1731925158057,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Nostromo V1"
 }

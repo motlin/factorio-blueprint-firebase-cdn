@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/mmV7PTA",
   "lastUpdatedDate": 1735535592772,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/space-age/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "Rocket Fuel on Fulgora - Legendary",
   "favorites": {
     "iZLgeauJDGUVkJzmeG84taoTDVc2": true,

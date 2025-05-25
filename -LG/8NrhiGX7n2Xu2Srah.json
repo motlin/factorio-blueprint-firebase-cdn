@@ -8,11 +8,11 @@
     "id": "KtfPjMC",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Factorio Compact All Logistic Network Product Relax.ltd",
   "author": {
     "userId": "F3pe6BFZBgSjU5wq4uwNMoF54X43"

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/21M0CI9",
   "lastUpdatedDate": 1737330635157,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/general/beaconized/",
-    "2": "/production/other/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/general/beaconized/",
+    "/production/other/",
+    "/mods/space-age/"
+  ],
   "title": "150/m Legendary Tungsten Carbide with (rate 1,04%)",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

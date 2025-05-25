@@ -6,11 +6,11 @@
     "type": "image/jpeg",
     "width": 1613
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/oil processing/"
+  ],
   "favorites": {
     "e9C8YWan8SQ3HuODx60vcp8bWB82": true
   },

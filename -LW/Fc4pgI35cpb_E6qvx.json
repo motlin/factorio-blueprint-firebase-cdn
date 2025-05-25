@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1576532341047,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Red Circuits - 1 Belt"
 }

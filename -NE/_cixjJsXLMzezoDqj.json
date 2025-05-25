@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1694996033508,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/"
+  ],
   "title": "Ammo Factory Book",
   "favorites": {
     "EQWo2AotpXOMAPiR15tIobRv2KZ2": true,

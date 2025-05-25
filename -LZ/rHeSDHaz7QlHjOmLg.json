@@ -15,17 +15,17 @@
   "descriptionMarkdown": "A small book containing some of my more useful assembler arrays for early game in 0.17. \n\nIncludes:\n- Yellow Belts : Straight, Undergrounds, and Splitters\n- Green Circuits : Full yellow belt with a small over-production to help smooth out input bottlenecks in early game.\n- Red Circuits : 1 unit per second. This is most useful to get started, but can be expanded out to fill capacity as needed for longer than really reasonable. Once you need more than, say, 5/second I recommend switching to a higher capacity array.\n- An 880-count Solar Panel array : Without accumulators, that can replace a full 40-engine steam array. This is useful for reducing pollution in early game before accumulators are available. The steam engine array will only operate during the darkest part of night, reducing your pollution footprint.\n- Blue science : 0.5 units/second\n- Nanobots (Updated for 0.17.x) : With the removal of pickaxes these recipes have been changed. Both Construction and Termite assembly arrays.\n- Inserters: Yellow, Red, Blue\n- Pipes : Straight and Underground\n",
   "fileName": "Early Game Book.png",
   "numberOfFavorites": 20,
-  "tags": {
-    "6": "/production/advanced circuit (red)/",
-    "8": "/production/robots/",
-    "0": "/general/early game/",
-    "1": "/power/solar/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/version/0,17/",
-    "4": "/production/inserters/",
-    "5": "/production/science/",
-    "7": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/robots/",
+    "/general/early game/",
+    "/power/solar/",
+    "/belt/transport belt (yellow)/",
+    "/version/0,17/",
+    "/production/inserters/",
+    "/production/science/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "0.17.x - Early Game Mini-Book",
   "favorites": {
     "enWCaHke5FNS56MIccnBw47htAj1": true,

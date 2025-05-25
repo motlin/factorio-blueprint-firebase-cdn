@@ -17,12 +17,12 @@
   },
   "lastUpdatedDate": 1495942472468,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/balancer/"
+  ],
   "favorites": {
     "n9ftwxC2nyPtePFFQZyJGzJy4n72": true
   }

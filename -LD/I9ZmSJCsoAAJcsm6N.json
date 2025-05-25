@@ -20,13 +20,13 @@
   "createdDate": 1527182413329,
   "fileName": "20180524221039_1.jpg",
   "lastUpdatedDate": 1527182470708,
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/version/0,15/",
-    "5": "/train/junction/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/track/"
+  ],
   "title": "Hexagonal junction on 4 ways"
 }

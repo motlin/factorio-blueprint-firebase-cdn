@@ -12,11 +12,11 @@
     "id": "PuGNC6w"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Smelting%20Pic.JPG?alt=media&token=d58c7642-480c-4674-a46e-cde93fc652f4",
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,14/"
+  ],
   "title": "Bob's/Angel's Mods Smelting Setup",
   "author": {
     "userId": "sRWBEefIHnZkEmVSU2KtWSLdfka2"

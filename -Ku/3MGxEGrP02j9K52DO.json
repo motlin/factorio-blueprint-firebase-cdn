@@ -12,11 +12,11 @@
     "width": 1088
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Scientific%20packages.png?alt=media&token=122acfc4-affb-4551-8f49-75b349ed06e3",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": " Scientific packages",
   "author": {
     "userId": "pz94QEKaLzcQvzRzajsLudZaDY02"

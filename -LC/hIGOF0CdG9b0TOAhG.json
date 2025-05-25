@@ -16,9 +16,9 @@
     "type": "image/jpeg",
     "width": 2411
   },
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "favorites": {
     "TcJwntHSvANQ0RHywiSdyF4tT6k2": true
   }

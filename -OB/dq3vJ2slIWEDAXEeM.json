@@ -589,13 +589,13 @@
   "imageUrl": "https://imgur.com/oU9SxMn",
   "lastUpdatedDate": 1736081578933,
   "numberOfFavorites": 252,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/production/other/",
-    "3": "/general/beaconized/",
-    "4": "/production/science/",
-    "5": "/general/tileable/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/production/other/",
+    "/general/beaconized/",
+    "/production/science/",
+    "/general/tileable/"
+  ],
   "title": "Tileable factories, v0.30.1"
 }

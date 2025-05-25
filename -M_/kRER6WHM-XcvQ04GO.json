@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1621103340953,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Tablete de pedra (stone tablet)",
   "favorites": {
     "93dOjzoJRVSEkD8AT4q3yZHHLed2": true,

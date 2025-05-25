@@ -24,10 +24,10 @@
   "imageUrl": "https://imgur.com/ZTDhRId",
   "lastUpdatedDate": 1740334447494,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/space-age/",
-    "2": "/mods/quality/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "Legendary Productivity Module 3 Factory"
 }

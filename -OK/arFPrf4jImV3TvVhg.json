@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/RhNtNQg",
   "lastUpdatedDate": 1741187516250,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/2,0/",
-    "2": "/planets/gleba/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/2,0/",
+    "/planets/gleba/",
+    "/mods/space-age/"
+  ],
   "title": "GLEBA COPPER PROCESSING FULL BLUE BELT",
   "favorites": {
     "uHiTGEZNS3f2aWTE4B2lSF5YLHS2": true,

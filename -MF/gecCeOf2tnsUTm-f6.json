@@ -20,9 +20,9 @@
   },
   "descriptionMarkdown": "My very simple fluid loader for trains.",
   "fileName": "FluidLoader.PNG",
-  "tags": {
-    "1": "/version/1,0/",
-    "2": "/train/loading station/",
-    "0": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/train/loading station/",
+    "/mods/vanilla/"
+  ]
 }

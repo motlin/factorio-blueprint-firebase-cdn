@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1701366666262,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Concrete Assembler - 2BB output",
   "favorites": {
     "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true

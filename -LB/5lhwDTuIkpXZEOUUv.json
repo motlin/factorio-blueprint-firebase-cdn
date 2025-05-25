@@ -14,15 +14,15 @@
   },
   "lastUpdatedDate": 1554197272343,
   "numberOfFavorites": 33,
-  "tags": {
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/general/mid game/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,17/",
-    "6": "/power/nuclear/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Uranium startup",
   "favorites": {
     "189yZkTrakUxkuUIs1bFXgyrba62": true,

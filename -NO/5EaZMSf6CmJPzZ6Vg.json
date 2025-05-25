@@ -22,9 +22,9 @@
   },
   "lastUpdatedDate": 1705206770206,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Graham's Blueprint Book V1"
 }

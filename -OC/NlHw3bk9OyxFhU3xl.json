@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/NF8P5k7",
   "lastUpdatedDate": 1732361138240,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Calcite Farm",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

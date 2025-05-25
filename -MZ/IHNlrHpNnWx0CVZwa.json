@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1620258552401,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/plastic/",
-    "2": "/production/science/",
-    "3": "/mods/vanilla/",
-    "4": "/version/1,0/",
-    "5": "/production/batteries/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/plastic/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/batteries/"
+  ],
   "title": "Advanced oil processing",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

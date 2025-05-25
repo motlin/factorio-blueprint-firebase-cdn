@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Omial1N",
   "lastUpdatedDate": 1723294611395,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/chunk aligned/"
+  ],
   "title": "Basic Smelter for Iron/Copper",
   "favorites": {
     "HeHa5MPVcrc74ANPJ8McHkQHKGE3": true,

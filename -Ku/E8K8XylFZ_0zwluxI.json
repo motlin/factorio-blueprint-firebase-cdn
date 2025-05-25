@@ -24,9 +24,9 @@
   "fileName": "FactorioSolarCell.png",
   "lastUpdatedDate": 1505651269306,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

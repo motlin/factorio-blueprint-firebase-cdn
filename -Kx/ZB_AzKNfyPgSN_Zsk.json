@@ -1,14 +1,14 @@
 {
   "descriptionMarkdown": "Here is a simple smelting setup I created with beacons and modules. It creates 42.02 plates per second.\n\nI did all the math including modules. This should create a full compact blue belt of plates.\n\nThe combinators are only in the blueprint to show input and output. You can remove those.\n\nEnjoy!",
   "numberOfFavorites": 4,
-  "tags": {
-    "5": "/moderation/uncropped screenshot/",
-    "0": "/production/smelting/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,15/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/moderation/uncropped screenshot/",
+    "/production/smelting/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "rpaULxThHTMyxWqCr0elR5wmum62"
   },

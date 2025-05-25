@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1691972908815,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/warehousing/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/warehousing/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Double wide Un-Loading city block"
 }

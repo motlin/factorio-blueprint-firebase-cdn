@@ -14,10 +14,10 @@
   "createdDate": 1566572726402,
   "lastUpdatedDate": 1566746595282,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/"
+  ],
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
     "5gDW4XcEo6aVX5oqXAE1uP8H3mC2": true,

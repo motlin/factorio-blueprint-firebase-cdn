@@ -15,10 +15,10 @@
   "descriptionMarkdown": "Best ratio solar_panels/accumulators without roboport.",
   "fileName": "F.jpg",
   "lastUpdatedDate": 1511539309582,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar array without roboport"
 }

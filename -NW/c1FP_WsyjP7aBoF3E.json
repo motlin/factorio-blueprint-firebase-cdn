@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1685372602356,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Fornalhas eletricas",
   "favorites": {
     "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,

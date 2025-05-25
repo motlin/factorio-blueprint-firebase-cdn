@@ -37,12 +37,12 @@
   },
   "lastUpdatedDate": 1583539767785,
   "numberOfFavorites": 17,
-  "tags": {
-    "4": "/mods/vanilla/",
-    "0": "/production/guns and ammo/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/compact/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/production/mall (make everything)/",
+    "/general/compact/",
+    "/version/0,18/"
+  ],
   "title": "Ammo Factory 0.18"
 }

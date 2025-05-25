@@ -2,12 +2,12 @@
   "descriptionMarkdown": "An Powerplant using the Yuoki Industries mod intended to fit inside a Mk1 Factorissimo building. Capable of producing 140 MW  of Power.",
   "fileName": "Powerplant.PNG",
   "lastUpdatedDate": 1547835962749,
-  "tags": {
-    "2": "/mods/other/",
-    "3": "/version/0,16/",
-    "0": "/mods/factorissimo/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,16/",
+    "/mods/factorissimo/",
+    "/power/steam/"
+  ],
   "title": "YI Power plant",
   "author": {
     "userId": "rQ9DnPZLVeS5giWpKnQ61cxXCt72"

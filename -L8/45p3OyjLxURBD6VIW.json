@@ -16,9 +16,9 @@
   "authorId": "RZBCq56ZpkZtQYxOisVC03BNqXY2",
   "lastUpdatedDate": 1521577841084,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ]
 }

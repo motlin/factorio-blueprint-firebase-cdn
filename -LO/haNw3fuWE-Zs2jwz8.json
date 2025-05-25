@@ -47,12 +47,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/furnace_blueprint.png?alt=media&token=0e670722-3ead-456b-ac54-a30f25b0b871",
   "lastUpdatedDate": 1568476521619,
   "numberOfFavorites": 29,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,16/"
+  ],
   "title": "End game Smelting Farm for 2-4 trains (16 belts)"
 }

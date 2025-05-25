@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/tileable/",
-    "3": "/general/early game/",
-    "4": "/mods/vanilla/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/advanced circuit (red)/",
+    "/general/tileable/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "m2r4vRfXOgVu4hZB3iK98I35tDy2"
   },

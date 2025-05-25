@@ -11,11 +11,11 @@
     "id": "d0bnd5o"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/version/0,16/"
+  ],
   "title": "T2 Science",
   "author": {
     "userId": "7CPZbN6gwgSBBRhKprTEfictr8k1"

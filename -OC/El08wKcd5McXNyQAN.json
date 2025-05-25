@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/bT8F5Mm",
   "lastUpdatedDate": 1732210238192,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Robots construction v2",
   "favorites": {
     "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,

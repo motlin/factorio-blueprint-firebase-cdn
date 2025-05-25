@@ -18,10 +18,10 @@
     "type": "image/jpeg",
     "width": 1020
   },
-  "tags": {
-    "1": "/production/rocket parts/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/version/0,17/"
+  ],
   "title": "Rocket Launch Synchronizer",
   "author": {
     "userId": "ZhBhxX51lDQoid0dfAFAMH55uIj1"

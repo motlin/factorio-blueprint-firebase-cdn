@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1659685291468,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Minimal Kovarex setup",
   "favorites": {
     "ieQeWJ7c4kddgMIxnJErKCdRcVm1": true,

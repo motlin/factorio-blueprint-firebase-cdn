@@ -15,13 +15,13 @@
   "createdDate": 1562066055607,
   "descriptionMarkdown": "Kovarex (uranium-235 32 per min)",
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/compact/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/",
+    "/power/kovarex enrichment/"
+  ],
   "favorites": {
     "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

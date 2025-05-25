@@ -9,11 +9,11 @@
   },
   "lastUpdatedDate": 1602938401698,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/production/science/"
+  ],
   "authorId": "wsdlY32MbNbMXLN6Rf4wIN3VbyM2",
   "createdDate": 1602938401698,
   "favorites": {

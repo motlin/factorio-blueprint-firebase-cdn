@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1679596761093,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/inserters/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/inserters/",
+    "/production/research (labs)/"
+  ],
   "title": "SE Jump star base",
   "favorites": {
     "96scKksgGvSLlD12ApyoyA6CEFC3": true,

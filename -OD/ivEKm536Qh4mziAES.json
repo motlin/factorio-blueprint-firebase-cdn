@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Dbngc5z",
   "lastUpdatedDate": 1733872258011,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Gleba - Protect",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

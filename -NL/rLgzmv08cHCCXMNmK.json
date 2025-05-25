@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1673819634302,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/1,1/",
-    "2": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/1,1/",
+    "/mods/krastorio/"
+  ],
   "title": "Remote LTN rail outpost",
   "favorites": {
     "tpZavJv6AqMaFRuBFMG44wpJIYo1": true

@@ -33,12 +33,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/smelters.JPG?alt=media&token=ab397824-0c74-416c-9e08-d41a60356168",
   "lastUpdatedDate": 1585711530715,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/production/smelting/",
-    "2": "/mods/ltn/",
-    "3": "/general/beaconized/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/production/smelting/",
+    "/mods/ltn/",
+    "/general/beaconized/",
+    "/train/right-hand-drive/"
+  ],
   "title": "LTN Ore to Plates/Bricks Expanded"
 }

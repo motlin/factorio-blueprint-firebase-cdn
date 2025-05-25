@@ -13,10 +13,10 @@
   "numberOfFavorites": 12,
   "descriptionMarkdown": "This works in the perfect ratio, but it takes some time to balance itself out. To start it just put some wood in the chests.\n\nIt outputs 2,25 Raw Wood per second.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/wood%20farm%20blueprint.PNG?alt=media&token=dc437734-4f5b-4a13-a45a-5e320cc24e29",
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/0,14/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/0,14/"
+  ],
   "title": "Raw Wood Farm",
   "author": {
     "userId": "vBrH9CJvTPVnjpmkEU8Q8mOv6982"

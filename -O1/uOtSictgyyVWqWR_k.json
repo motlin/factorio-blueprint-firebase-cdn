@@ -23,8 +23,8 @@
   "imageUrl": "https://imgur.com/KMKrqZg",
   "lastUpdatedDate": 1722909680719,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "NotMe Defenses - WiP"
 }

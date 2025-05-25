@@ -32,15 +32,15 @@
   },
   "lastUpdatedDate": 1618610119438,
   "numberOfFavorites": 14,
-  "tags": {
-    "3": "/production/mall (make everything)/",
-    "4": "/general/late game (megabase)/",
-    "5": "/mods/vanilla/",
-    "6": "/production/science/",
-    "7": "/production/research (labs)/",
-    "0": "/production/robots/",
-    "1": "/version/1,0/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/production/robots/",
+    "/version/1,0/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Robots modular base"
 }

@@ -15,18 +15,18 @@
   },
   "lastUpdatedDate": 1682557431293,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/stacker/",
-    "3": "/train/track/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/junction/",
-    "6": "/train/roundabout/",
-    "7": "/train/crossing/",
-    "8": "/mods/vanilla/",
-    "9": "/version/0,15/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "RHD Train Collection",
   "favorites": {
     "bm3nlNGhB8YV6e2WtBk4ydVp1hG2": true,

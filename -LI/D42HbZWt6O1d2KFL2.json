@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "DYHujJYiI4PgUUnXLTlSIxkD5or2"
   },

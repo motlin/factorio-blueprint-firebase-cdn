@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1682032410870,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Hayden's Mining Pair",
   "favorites": {
     "ZCdZvG7ntGbzG03U81dfaiGrInP2": true,

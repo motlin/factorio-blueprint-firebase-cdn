@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1615452398754,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/train/junction/",
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Rail Network"
 }

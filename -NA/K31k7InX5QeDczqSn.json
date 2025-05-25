@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1690423318005,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/other/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/other/",
+    "/version/1,1/"
+  ],
   "title": "Multi-Delivery Cannon",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

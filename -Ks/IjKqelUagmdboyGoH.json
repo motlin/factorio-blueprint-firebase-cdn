@@ -22,10 +22,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/427520_screenshots_20170824040544_1.jpg?alt=media&token=e8032ee7-094b-45a1-9ea7-4c08cf9e49b3",
   "lastUpdatedDate": 1504651427840,
   "numberOfFavorites": 21,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/storage/"
+  ],
   "title": "Resources Storage (2.0M)"
 }

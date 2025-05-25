@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/02xVv4g.jpeg",
   "lastUpdatedDate": 1741572067957,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/logistic (bot) based/",
+    "/production/science/"
+  ],
   "title": "Fulgora Science 400/m",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

@@ -52,12 +52,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Bild_2023-12-05_163331796.png?alt=media&token=383b2f6a-4d21-43c6-80ef-5f1ecab2c0f3",
   "lastUpdatedDate": 1718744994862,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/ltn/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/advanced circuit (red)/",
-    "4": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/ltn/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Tim's Space Exploration Collection"
 }

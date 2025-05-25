@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1616440855101,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/industrial revolution/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/early game/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/industrial revolution/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/version/1,0/"
+  ],
   "title": "IR2 - Steam assemblers and inserters",
   "favorites": {
     "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true

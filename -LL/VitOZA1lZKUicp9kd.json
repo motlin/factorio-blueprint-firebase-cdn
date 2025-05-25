@@ -13,12 +13,12 @@
     "width": 1202
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/general/early game/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "4xikveCirpfdYOhv7pCcw1wzeGo2"
   }

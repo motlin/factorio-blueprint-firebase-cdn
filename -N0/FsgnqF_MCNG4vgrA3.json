@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1650624482696,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/1,0/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/1,0/",
+    "/power/steam/"
+  ],
   "title": "128MW Water PowerPlant (248k mod)",
   "favorites": {
     "W3SObEod8PVZM2Df2YH8ySJKtF02": true,

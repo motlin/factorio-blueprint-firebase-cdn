@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/IqZGnsr",
   "lastUpdatedDate": 1745256707025,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/mods/vanilla/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "BitShift Playground, A Factorio Number Storage Tutorial"
 }

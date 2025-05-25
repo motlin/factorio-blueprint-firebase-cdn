@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1637512198004,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para itens de personagem (mercado 8º etapa)",
   "favorites": {
     "udHlvZwtdRNAieUUoh09UDmXMqv1": true,

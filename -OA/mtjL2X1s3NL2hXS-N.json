@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Vjz4TA4",
   "lastUpdatedDate": 1730652493453,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/"
+  ],
   "title": "Train pickup station for generic schedules",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

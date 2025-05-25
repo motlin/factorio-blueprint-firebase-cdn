@@ -8,12 +8,12 @@
     "width": 833
   },
   "title": "Oil Refinery with Rocket Fuel",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/production/rocket parts/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/production/rocket parts/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "7AjFsW2chxSfuDYxdhnItabgG2o1"
   },

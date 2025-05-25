@@ -9,13 +9,13 @@
     "height": 951
   },
   "lastUpdatedDate": 1531409061052,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "8tsbAs4ngnRVkWduHpTKKj05Yjx2"
   },

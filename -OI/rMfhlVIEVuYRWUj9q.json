@@ -23,10 +23,10 @@
   "imageUrl": "https://i.imgur.com/RPgtWUB.png",
   "lastUpdatedDate": 1739544347723,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/science/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/science/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Gleba end-game science"
 }

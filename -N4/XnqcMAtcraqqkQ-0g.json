@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1655220169291,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Large scale oil processing and balancing",
   "favorites": {
     "lHpiwZmNb8eSgmeJvxgu7eqjDEz2": true,

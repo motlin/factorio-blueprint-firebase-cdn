@@ -20,11 +20,11 @@
   "imageUrl": "https://imgur.com/l368eZ6",
   "lastUpdatedDate": 1738233822674,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/production/oil processing/"
+  ],
   "title": "Bus Vanilla 2.0 no DLC"
 }

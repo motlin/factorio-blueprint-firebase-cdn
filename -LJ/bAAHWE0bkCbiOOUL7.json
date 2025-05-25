@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "16 Blue Belt Smeltery",
   "favorites": {
     "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1623681388310,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/"
+  ],
   "title": "Car Loading Station",
   "favorites": {
     "wXoK238AFugG96DSw5IJj2FfG082": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/kXjWZrP.png",
   "lastUpdatedDate": 1737784355862,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "title": "20/40 boiler+engine",
   "favorites": {
     "DLfBzSaU3KhkZPaGtuVPyGrnrJp1": true,

@@ -13,11 +13,11 @@
   "numberOfFavorites": 4,
   "authorId": "LyrgNIs5RffNRrluhH02lU09B3K3",
   "title": "Barrels to Batteries v1",
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "TXSq8gdoyJcv5q9rWec3NJHKUlv1": true
   },

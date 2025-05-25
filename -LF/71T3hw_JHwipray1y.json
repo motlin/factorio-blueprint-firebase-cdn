@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "1": "/mods/ltn/",
-    "2": "/general/tileable/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/general/tileable/",
+    "/production/smelting/"
+  ],
   "descriptionMarkdown": "LTN based. Iron ore -> Iron Plate -> Steel Plate.",
   "image": {
     "width": 839,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/CYCYZo4",
   "lastUpdatedDate": 1730841636142,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Efficient Space Science",
   "favorites": {
     "CZLrNgU51qauVDklKOqBY3YXPwW2": true,

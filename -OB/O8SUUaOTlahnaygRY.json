@@ -54,13 +54,13 @@
   "imageUrl": "https://imgur.com/7jad7HJ",
   "lastUpdatedDate": 1731802939407,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/train/junction/",
-    "5": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/junction/",
+    "/version/2,0/"
+  ],
   "title": "Smart Rail System v2"
 }

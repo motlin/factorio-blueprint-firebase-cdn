@@ -17,14 +17,14 @@
   "title": "Mega Smelter (3-10-3 w/ Smarts)",
   "createdDate": 1499147483672,
   "fileName": "e737e875771dc71984e380b93f666b71.png",
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/smelting/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/production/logistic (bot) based/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true
   }

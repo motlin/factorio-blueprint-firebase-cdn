@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1737133301726,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/belt/balancer/",
-    "2": "/general/compact/",
-    "3": "/general/storage/",
-    "4": "/mods/warehousing/",
-    "5": "/mods/industrial revolution/",
-    "6": "/production/science/",
-    "7": "/production/belts/",
-    "8": "/production/inserters/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/belt/balancer/",
+    "/general/compact/",
+    "/general/storage/",
+    "/mods/warehousing/",
+    "/mods/industrial revolution/",
+    "/production/science/",
+    "/production/belts/",
+    "/production/inserters/"
+  ],
   "title": "Efficiency module 3 - Moduł wydajności 3. Automatyzacja, Jak działa, schemat budowy, przewodnik.",
   "favorites": {
     "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,

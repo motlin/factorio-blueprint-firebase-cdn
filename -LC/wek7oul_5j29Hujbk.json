@@ -12,13 +12,13 @@
   },
   "lastUpdatedDate": 1555796001450,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,17/"
+  ],
   "title": "Tilable and compact advanced circuits",
   "createdDate": 1555796001450,
   "descriptionMarkdown": "Tilable and compact advanced circuit factory. Takes electronic circuit(green) and plasic on one belt (connect with underground belt), and copper plates on the other. Staacking 5 after eachother will completely empty the plasic/electronic circuit belt (beaconed and productivity).",

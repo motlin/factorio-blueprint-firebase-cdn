@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1641342970413,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/power/nuclear/",
-    "3": "/production/belt based/",
-    "4": "/general/mid game/",
-    "5": "/general/early game/",
-    "6": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/production/belt based/",
+    "/general/mid game/",
+    "/general/early game/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Svarog's Base Pack [WIP]",
   "favorites": {
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,

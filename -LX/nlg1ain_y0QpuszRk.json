@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1549204458602,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/belt/transport belt (yellow)/",
+    "/general/late game (megabase)/"
+  ],
   "title": "For The MegaBase"
 }

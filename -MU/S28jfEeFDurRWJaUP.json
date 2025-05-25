@@ -21,10 +21,10 @@
   },
   "createdDate": 1614321327139,
   "lastUpdatedDate": 1614321327139,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Kovarex book"
 }

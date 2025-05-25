@@ -15,12 +15,12 @@
   "createdDate": 1557241756617,
   "descriptionMarkdown": "16 electric furnaces in a row. Efficient on a fast conveyor belt",
   "fileName": "E_S.PNG",
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/",
-    "0": "/production/smelting/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/general/mid game/"
+  ],
   "title": "Electric Smelting",
   "favorites": {
     "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,

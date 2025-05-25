@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/minimalist_2p40gw_16cellv1p1.png?alt=media&token=dedbe0bf-8f62-4c10-9587-e46852be3233",
   "lastUpdatedDate": 1645778050391,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "\"Minimalist Series\" 2.4GW 16 Cell Nuclear Reactor W/APU"
 }

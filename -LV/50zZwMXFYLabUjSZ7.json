@@ -20,8 +20,8 @@
   "descriptionMarkdown": "Pumpjacks 10 x 10 matrix.  Shift mouse click and sweep Blueprint over oil field to ghost pumpjacks quickly.\n",
   "lastUpdatedDate": 1546290061465,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,16/"
-  }
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,16/"
+  ]
 }

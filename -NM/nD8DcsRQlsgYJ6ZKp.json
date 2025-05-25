@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674829205403,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio2 Fusion Power",
   "favorites": {
     "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true

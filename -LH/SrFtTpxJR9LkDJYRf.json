@@ -24,9 +24,9 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1560647896789,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Alphabet-Concrete "
 }

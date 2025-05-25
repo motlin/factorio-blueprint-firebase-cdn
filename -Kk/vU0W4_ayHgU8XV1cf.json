@@ -1,11 +1,11 @@
 {
   "fileName": "battert.gif",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/battert.gif?alt=media&token=9f80695e-b368-4e39-9b0f-a4fbb0d372fd",
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "GGiUa1netHQjDH0dT9rR8dvt2162": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

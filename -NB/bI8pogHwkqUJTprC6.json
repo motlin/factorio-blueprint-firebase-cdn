@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1662919913874,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/inserters/",
-    "2": "/mods/krastorio/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/inserters/",
+    "/mods/krastorio/",
+    "/mods/other/"
+  ],
   "title": "Mall 1 - Basic Logistics [K2SE]",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

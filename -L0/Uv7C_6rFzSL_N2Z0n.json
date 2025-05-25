@@ -7,11 +7,11 @@
     "height": 325
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "4YTUkarb2nd0AoOtzXtMpZNBrLR2"
   },

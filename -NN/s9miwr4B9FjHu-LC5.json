@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1704981192723,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/roundabout/"
+  ],
   "title": "Rail Network",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Large%204%20Way.png?alt=media&token=2d131d25-cc0f-400c-9598-3a1d982939b2",
   "favorites": {

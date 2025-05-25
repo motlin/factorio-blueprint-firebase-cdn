@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1684577194551,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/counter/"
+  ],
   "title": "Minelaying/repair permissive",
   "favorites": {
     "wUM2PE41XwMSrt0fW9WdKuYBJxX2": true

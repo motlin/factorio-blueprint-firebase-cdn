@@ -26,9 +26,9 @@
     "id": "9JrUzTC",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/left-hand-drive/"
+  ],
   "author": {
     "userId": "dJOoiF3VtvanagKSFBqEiu1FRKP2"
   },

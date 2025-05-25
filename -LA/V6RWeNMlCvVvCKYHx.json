@@ -23,15 +23,15 @@
     "width": 2736
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "6": "/production/coal liquification/",
-    "7": "/general/late game (megabase)/",
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/version/0,17/",
-    "4": "/mods/vanilla/",
-    "5": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/general/late game (megabase)/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "title": "YAMATO's R.fuel by Coal 'til 0.17.59"
 }

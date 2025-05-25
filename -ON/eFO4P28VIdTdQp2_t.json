@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/LfkGGjv",
   "lastUpdatedDate": 1744465890025,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/general/tileable/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/general/tileable/",
+    "/mods/space-age/"
+  ],
   "title": "Tileable Direct Insertion Coal Liquefaction"
 }

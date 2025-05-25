@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1663899747701,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "3.06GW 20-core \"Intellisaver Series\" Nuclear Reactor by 1x4x9"
 }

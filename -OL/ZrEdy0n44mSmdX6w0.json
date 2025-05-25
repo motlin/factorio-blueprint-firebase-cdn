@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/WQ8nWpL",
   "lastUpdatedDate": 1745934376390,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/guns and ammo/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/guns and ammo/",
+    "/mods/space-age/"
+  ],
   "title": "SA: 15'000km",
   "favorites": {
     "RVYYJVWBsmPZ0NuKOkDFhIK7dUS2": true,

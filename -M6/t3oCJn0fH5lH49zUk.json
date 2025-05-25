@@ -16,11 +16,11 @@
     "id": "TcvsO90"
   },
   "lastUpdatedDate": 1589021721740,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "favorites": {
     "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,
     "NBDWFj9AClPZh8J9sOsdgUBu9Ba2": true,

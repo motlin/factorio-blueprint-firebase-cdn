@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1653815849680,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Котик \"Пушин\"",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,

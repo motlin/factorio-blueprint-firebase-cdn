@@ -4,12 +4,12 @@
   "fileName": "LiquidStorage.PNG",
   "lastUpdatedDate": 1500950125996,
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/oil processing/",
-    "1": "/general/storage/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/general/storage/"
+  ],
   "title": "Crude Oil Storage",
   "author": {
     "userId": "G0hS5cjMsoZCTJEeWXe3Y0XGVXJ3"

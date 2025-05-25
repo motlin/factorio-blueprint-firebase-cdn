@@ -7,10 +7,10 @@
     "height": 597
   },
   "lastUpdatedDate": 1509814686781,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/"
+  ],
   "title": "Fire & Laser Turrets Wall Segments",
   "author": {
     "userId": "eiceIMLyTbfCkXB19g0FOXW9TWF3"

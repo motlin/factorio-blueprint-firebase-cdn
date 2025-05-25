@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/oqnbZ4I",
   "lastUpdatedDate": 1743633216796,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/production/smelting/",
-    "2": "/version/0,15/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/other/",
+    "/production/smelting/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "Steel plate production"
 }

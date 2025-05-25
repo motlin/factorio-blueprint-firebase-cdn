@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/LosjGIM",
   "lastUpdatedDate": 1731549129173,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/circuit/indicator/"
+  ],
   "title": "RS Latch / Switch (Parameterized)",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

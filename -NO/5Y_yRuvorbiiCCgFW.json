@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1705212010449,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/general/early game/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/general/early game/",
+    "/mods/other/"
+  ],
   "title": "Fish counter"
 }

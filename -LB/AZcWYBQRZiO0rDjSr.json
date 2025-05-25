@@ -29,13 +29,13 @@
   },
   "lastUpdatedDate": 1553931780409,
   "numberOfFavorites": 11,
-  "tags": {
-    "3": "/production/batteries/",
-    "4": "/general/beaconized/",
-    "5": "/mods/vanilla/",
-    "0": "/version/0,17/",
-    "1": "/production/oil processing/",
-    "2": "/production/plastic/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/oil processing/",
+    "/production/plastic/"
+  ],
   "title": "1kSPM Oil Refinery for 0.17"
 }

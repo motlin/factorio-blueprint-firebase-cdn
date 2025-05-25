@@ -12,12 +12,12 @@
   "createdDate": 1615239244353,
   "descriptionMarkdown": "For personal use.",
   "fileName": "Spd1_M-L_Duugrim.png",
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/modules/",
-    "3": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/modules/",
+    "/belt/fast transport belt (red)/"
+  ],
   "favorites": {
     "MsvijdKJ6fWWBCx2JDxH6fVL4Kk2": true,
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

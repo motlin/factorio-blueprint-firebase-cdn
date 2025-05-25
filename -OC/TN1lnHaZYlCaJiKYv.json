@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/owm2srX",
   "lastUpdatedDate": 1732462231584,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "480/s green circuit /w max productivity",
   "favorites": {
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,

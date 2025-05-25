@@ -2,12 +2,12 @@
   "createdDate": 1592270096351,
   "fileName": "Sans titre.jpg",
   "lastUpdatedDate": 1592270096351,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,18/",
-    "2": "/production/batteries/",
-    "3": "/production/plastic/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,18/",
+    "/production/batteries/",
+    "/production/plastic/"
+  ],
   "title": "Raffinerie T2",
   "author": {
     "userId": "ikQHvVjJrAZPewDL4eJuPlYzrtz2"

@@ -17,12 +17,12 @@
   "imageUrl": "https://i.imgur.com/AKdLUDk.png",
   "lastUpdatedDate": 1743773688166,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/mods/space-age/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/mods/space-age/"
+  ],
   "title": "ALL THE BALANCERS"
 }

@@ -67,11 +67,11 @@
   "imageUrl": "https://imgur.com/Iy2fyxM",
   "lastUpdatedDate": 1732585300081,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/train/crossing/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/belt/express transport belt (blue)/",
+    "/train/crossing/"
+  ],
   "title": "space train grid 0.3.0"
 }

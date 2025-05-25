@@ -1,15 +1,15 @@
 {
-  "tags": {
-    "1": "/mods/vanilla/",
-    "5": "/general/mid game/",
-    "6": "/general/compact/",
-    "0": "/general/tileable/",
-    "3": "/mods/other/",
-    "4": "/belt/transport belt (yellow)/",
-    "7": "/version/0,16/",
-    "8": "/version/0,14/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/other/",
+    "/belt/transport belt (yellow)/",
+    "/version/0,16/",
+    "/version/0,14/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "e5gs5sVDzWNqo8BSj9ersr0gJuq1"
   },

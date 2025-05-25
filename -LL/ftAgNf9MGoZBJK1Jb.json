@@ -23,18 +23,18 @@
   },
   "lastUpdatedDate": 1565178248058,
   "numberOfFavorites": 6,
-  "tags": {
-    "6": "/belt/express transport belt (blue)/",
-    "7": "/belt/transport belt (yellow)/",
-    "8": "/power/steam/",
-    "9": "/production/robots/",
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "4": "/general/compact/",
-    "10": "/production/other/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/tileable/",
-    "5": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/belt/transport belt (yellow)/",
+    "/power/steam/",
+    "/production/robots/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/production/other/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "Assorted Blueprints"
 }

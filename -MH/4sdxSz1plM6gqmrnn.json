@@ -27,9 +27,9 @@
   },
   "lastUpdatedDate": 1628965364647,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Military City Block"
 }

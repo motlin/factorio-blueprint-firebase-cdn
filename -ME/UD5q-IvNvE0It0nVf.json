@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar Farm - Grid Aligned - Perfectly Balanced 0.17",
   "authorId": "QnRvbDjPtXT7mNWcEunliwlJav03",
   "image": {

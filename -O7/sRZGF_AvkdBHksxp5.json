@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2b1oRuu",
   "lastUpdatedDate": 1727523866212,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "title": "Train Cell"
 }

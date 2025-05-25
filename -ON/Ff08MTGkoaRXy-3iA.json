@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/qjoeEPy.png",
   "lastUpdatedDate": 1744040084768,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Nuclear power plant that makes 1760MWt",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

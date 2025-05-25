@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1639181982998,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Automatic nuclear reactor 1.2GW",
   "favorites": {
     "fh6T1QgCybMfBibVtAUsj7A6KUA3": true,

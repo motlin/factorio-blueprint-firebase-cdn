@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Processing-unit.png?alt=media&token=a1a6a54d-063c-482b-9024-e0cc942ba163",
   "lastUpdatedDate": 1499429538999,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "title": "2 Blue Belts of PU"
 }

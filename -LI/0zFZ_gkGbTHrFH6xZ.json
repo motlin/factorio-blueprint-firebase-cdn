@@ -21,12 +21,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-46317521-2.png?alt=media&token=2daecff5-22ee-4345-8118-7a1658a55f06",
   "lastUpdatedDate": 1532458145663,
   "numberOfFavorites": 14,
-  "tags": {
-    "4": "/general/compact/",
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/"
+  ],
   "title": "Compact beacon 1s/s base"
 }

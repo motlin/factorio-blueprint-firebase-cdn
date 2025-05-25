@@ -14,13 +14,13 @@
     "id": "POuF9JZ"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/coal liquification/",
-    "4": "/general/compact/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/coal liquification/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "v6XakptxuzOG2hQYFGWZA8XrlN62"
   },

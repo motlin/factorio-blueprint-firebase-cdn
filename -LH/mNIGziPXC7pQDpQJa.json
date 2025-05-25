@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1532001072783,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/production/belt based/",
-    "3": "/production/smelting/",
-    "0": "/version/0,16/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/smelting/",
+    "/version/0,16/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Iron Outpost x4"
 }

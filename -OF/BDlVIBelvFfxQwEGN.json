@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/47ZsVFX",
   "lastUpdatedDate": 1735372048191,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/"
+  ],
   "title": "bootstrap vulcanus",
   "favorites": {
     "IXmgptQWkyN64E1z5S9Aw5qTQeS2": true

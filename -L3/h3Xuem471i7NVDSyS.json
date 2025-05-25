@@ -22,12 +22,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202018-01-28%20at%2004.28.35.png?alt=media&token=789a30e0-4ae9-44ae-8ca6-b534e5599b73",
   "lastUpdatedDate": 1517135591994,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/train/loading station/",
-    "2": "/train/junction/",
-    "3": "/train/unloading station/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/loading station/",
+    "/train/junction/",
+    "/train/unloading station/",
+    "/mods/other/"
+  ],
   "title": "JonnyNof's Engine Factory City Block"
 }

@@ -8,12 +8,12 @@
     "width": 1691
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/power/nuclear/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "yRRWYmFTu1RB25NWs12qdVhw9Gx1": true,
     "TiGNDp1bpERG2s0teoRdeG4L9MV2": true,

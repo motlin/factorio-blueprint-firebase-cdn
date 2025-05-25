@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1668537207948,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/tileable/"
+  ],
   "title": "Urko's Hex Rail Block Example"
 }

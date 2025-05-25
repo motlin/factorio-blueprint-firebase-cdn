@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/CnOMjl4",
   "lastUpdatedDate": 1721779239191,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/1,1/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/1,1/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconized Concrete",
   "favorites": {
     "cSydlgEGPveuaSmsliTLlsBmC892": true

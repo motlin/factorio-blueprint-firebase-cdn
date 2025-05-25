@@ -25,8 +25,8 @@
   "authorId": "HS1vVytUFASKVGs5a1IdZdlzblq1",
   "descriptionMarkdown": "DISCLAIMER! These are not my Design, Credit goes to Grays42 from Reddit. I just didn't find them here and would like to have as much Factorissimo BPs on here as possible. Orignal post here, https://www.reddit.com/r/factorio/comments/7y9eow/1s_science_blueprints_for_factorissimo/\n\nThese are designed to fit inside Factorissimo factories, but they can be placed in vanilla if you want. Each blueprint is designed to be constructed with technology reasonably available at that stage. All inputs are documented with Attach Notes, so I'd recommend getting that addon too.",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/science/"
-  }
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/science/"
+  ]
 }

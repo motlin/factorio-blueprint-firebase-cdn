@@ -9,9 +9,9 @@
   "descriptionMarkdown": "### English\n\nHi! This is a Solar Panel blueprint of SEP Series. It can be repeatable and we lost here only one square of build space.\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n### Polski\n\nWitajcie. Prezentuję wam schemat konstrukcyjny Paneli Słonecznych z Serii SEP lub SSE. Schemat ten jest powtarzalny i nie wykorzystujemy tutaj tylko jedno pole przestrzeni budowlanej.",
   "fileName": "SEP - 2.jpg",
   "lastUpdatedDate": 1548702567458,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "author": {
     "userId": "FkgcMKxcksWfacCqltdV3VlTfJm1"
   },

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/MSGexZO",
   "lastUpdatedDate": 1742215556822,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Transport ship with 219 storage slots",
   "favorites": {
     "yIWLFeobOgQjS6BqOEw2Dw9Tgxk1": true,

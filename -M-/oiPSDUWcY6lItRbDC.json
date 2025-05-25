@@ -1,11 +1,11 @@
 {
   "authorId": "knHtxh4wDXaumqgful47NygduO93",
   "createdDate": 1581432547294,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "title": "Infinity interfaces and chest preset",
   "lastUpdatedDate": 1637365407596,
   "numberOfFavorites": 2,

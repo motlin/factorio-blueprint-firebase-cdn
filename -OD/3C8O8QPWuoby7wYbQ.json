@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/EAwk26d",
   "lastUpdatedDate": 1733090164023,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Ship - Nauvis Science Only",
   "favorites": {
     "9LdQo7IHMgZXsls3qasGa2jDzOy1": true,

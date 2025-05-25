@@ -33,14 +33,14 @@
   },
   "lastUpdatedDate": 1598466702788,
   "numberOfFavorites": 13,
-  "tags": {
-    "1": "/mods/other/",
-    "2": "/mods/vanilla/",
-    "3": "/power/steam/",
-    "4": "/power/solar/",
-    "5": "/version/1,0/",
-    "6": "/mods/factorissimo/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/vanilla/",
+    "/power/steam/",
+    "/power/solar/",
+    "/version/1,0/",
+    "/mods/factorissimo/",
+    "/power/nuclear/"
+  ],
   "title": "Power Systems"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1624011615226,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Modules Level 3",
   "favorites": {
     "PMSzTNnoEZY1rtMLsgTzlFRiuY82": true,

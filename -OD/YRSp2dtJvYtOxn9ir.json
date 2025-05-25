@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/tRBT5q8",
   "lastUpdatedDate": 1737237059948,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/train/loading station/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/version/2,0/"
+  ],
   "title": "UNTRA Book of supply / demand rail stations v0.3",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

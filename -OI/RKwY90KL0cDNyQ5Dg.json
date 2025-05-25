@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/YmREqdu",
   "lastUpdatedDate": 1738873950884,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Red Science",
   "favorites": {
     "Pvfvl23qUId68UEiepqyK8Gl6OD2": true,

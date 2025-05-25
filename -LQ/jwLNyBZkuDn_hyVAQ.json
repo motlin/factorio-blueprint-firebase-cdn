@@ -15,10 +15,10 @@
   "descriptionMarkdown": "This Koravex Processing building block has the timing circuitry necessary to keep the process going by recycling all of the enriched U-235 while letting the 1 gained by the process to go down the belt for eventual fuel cell production.  The logic circuitry timing is critical so do not try to upgrade the inserter or belt speed.  Feel free to put faster speed modules in the centrifuge though.  ",
   "lastUpdatedDate": 1541623867016,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/0,16/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/0,16/",
+    "/power/nuclear/"
+  ],
   "title": "Koravex Processing Building Block"
 }

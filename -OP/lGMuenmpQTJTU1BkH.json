@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/1uUr6fj",
   "lastUpdatedDate": 1746730843999,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Purple and Yellow science - 90/min"
 }

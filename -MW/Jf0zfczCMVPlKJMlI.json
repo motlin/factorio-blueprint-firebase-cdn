@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616328270004,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Defensa con todo",
   "favorites": {
     "a4yUn9TrwpeNaNLrWpVbMmMLpOi2": true,

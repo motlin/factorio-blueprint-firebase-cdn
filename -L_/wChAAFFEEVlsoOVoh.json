@@ -3,10 +3,10 @@
   "descriptionMarkdown": "Red and GreenScience. It need only copper and iron plates",
   "fileName": "Red Green.jpg",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "title": "Red and GreenScience. It need only copper and iron plates",
   "author": {
     "userId": "6EuJrc54N9TDOFQgDK7WC9Y90R23"

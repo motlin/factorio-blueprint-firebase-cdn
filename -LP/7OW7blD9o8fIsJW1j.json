@@ -22,7 +22,7 @@
     "type": "image/jpeg",
     "width": 511
   },
-  "tags": {
-    "0": "/production/other/"
-  }
+  "tags": [
+    "/production/other/"
+  ]
 }

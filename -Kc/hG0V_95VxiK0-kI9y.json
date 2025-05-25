@@ -15,11 +15,11 @@
     "userId": "3BNc6O52hROTajo7h3JEhcK14GN2"
   },
   "title": "Efficiency Modules Belted",
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Effectivity%20Belt.png?alt=media&token=e6d3e623-6ce6-4706-9e8d-330245d600ad",
   "authorId": "3BNc6O52hROTajo7h3JEhcK14GN2"
 }

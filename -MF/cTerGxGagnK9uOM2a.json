@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1627398046825,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Nave de carga para transporte de líquidos."
 }

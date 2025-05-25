@@ -34,9 +34,9 @@
   "imageUrl": "https://imgur.com/Nb7yilB",
   "lastUpdatedDate": 1732585890356,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "55k Ton 5.2 Million Storage Promethium Ship"
 }

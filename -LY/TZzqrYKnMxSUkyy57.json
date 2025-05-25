@@ -13,12 +13,12 @@
   "createdDate": 1549922467350,
   "fileName": "2019-02-12_0-30-57.jpg",
   "numberOfFavorites": 11,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "kOht14bSMCc1Lz86TALpXSERIdV2": true,
     "FHBmlbRQyQfCXEqoofKWmZ7fuPm1": true,

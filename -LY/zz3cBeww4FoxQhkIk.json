@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "intersections X",
   "author": {
     "userId": "M2qtEvhBjGcHzDHQCn1QfxZgD3h1"

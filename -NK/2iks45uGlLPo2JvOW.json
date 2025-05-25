@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1671879386518,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/other/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/version/1,1/"
+  ],
   "title": "K2SE Core mining processing",
   "favorites": {
     "l54evwpJDXTXCGw3zbdZyuIHSTS2": true,

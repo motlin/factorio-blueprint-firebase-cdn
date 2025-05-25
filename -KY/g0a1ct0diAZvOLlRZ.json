@@ -15,11 +15,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/3%20way%20intersection.png?alt=media&token=af344cf5-d639-4d7d-8513-7513033272ca",
   "descriptionMarkdown": "A simple 3 way intersection for a right hand drive railroad.",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "T Junction Rails",
   "author": {
     "userId": "RywQ5CvOsCVpBiNRQy658uqSBZ03"

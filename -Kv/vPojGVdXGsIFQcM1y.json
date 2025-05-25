@@ -16,13 +16,13 @@
   },
   "lastUpdatedDate": 1507456666802,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/advanced circuit (red)/",
-    "4": "/production/processing unit (blue)/",
-    "5": "/production/smelting/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/general/beaconized/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/production/smelting/"
+  ],
   "authorId": "TqXSufVjuDbx5uLHD2oe0Vl1Ibk2"
 }

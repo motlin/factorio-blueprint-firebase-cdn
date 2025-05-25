@@ -8,10 +8,10 @@
     "id": "IBtJGQj"
   },
   "lastUpdatedDate": 1598611096054,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "favorites": {
     "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,
     "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true

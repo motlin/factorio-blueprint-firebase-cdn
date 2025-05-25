@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/ChFSzoW",
   "lastUpdatedDate": 1731032298586,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/production/modules/"
+  ],
   "title": "Productivity module 3 production"
 }

@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1543966774785,
   "numberOfFavorites": 9,
-  "tags": {
-    "3": "/version/0,16/",
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Stations_2headLHD"
 }

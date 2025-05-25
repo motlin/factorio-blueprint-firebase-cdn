@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1682771640524,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Wall defense system",
   "favorites": {
     "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,

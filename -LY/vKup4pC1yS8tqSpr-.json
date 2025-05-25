@@ -24,14 +24,14 @@
   },
   "lastUpdatedDate": 1579552529056,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/unloading station/",
-    "6": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Labs - 2.7k SPM - Trains and Belts"
 }

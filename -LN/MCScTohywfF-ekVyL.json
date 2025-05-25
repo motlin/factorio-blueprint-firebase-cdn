@@ -8,11 +8,11 @@
     "width": 1602
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/"
+  ],
   "title": "Ore to Circuts Belt Build",
   "author": {
     "userId": "v1SeQRdbZbVIHdqTD9XgXVpK98S2"

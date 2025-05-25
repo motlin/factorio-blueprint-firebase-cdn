@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636569419874,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para fabricação de aço.",
   "favorites": {
     "xVF8NzdkU7eOG2DUpK8s0RWEj3h2": true,

@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1549320977306,
   "numberOfFavorites": 5,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "10x Controlled Reactor by WonderSpaceship"
 }

@@ -9,12 +9,12 @@
     "userId": "S0oSZrFVGKbpqfsmHGmpW3xY68D3"
   },
   "authorId": "S0oSZrFVGKbpqfsmHGmpW3xY68D3",
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/moderation/add english translation/",
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/moderation/add english translation/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Refinaria Completa Economica",
   "createdDate": 1496018062870,
   "image": {

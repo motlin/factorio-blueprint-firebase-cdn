@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/5S3tNds",
   "lastUpdatedDate": 1730170056549,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space Rizzer (Ship Platform)",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true

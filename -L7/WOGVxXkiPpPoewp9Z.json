@@ -15,10 +15,10 @@
   "descriptionMarkdown": "Uses no complicated circuits to produce a good amount of U-235. Uses stack and filter inserters set to override stack size of 10. Setting it to 10 makes it so the centrifuge will never get more then 80 uranium. Starting with 120 U-235 is the easiest way to start it because it leaves 80 U-235 inside during the crafting. After the first crafting it request 40 more U-235 to make up for it meanwhile outputting 41 U-235. It outputs 4 batches of 10 U-235 and picks back up the same 40 it puts down. Then the last single uranium gets released and not picked up as the machine is no longer requesting any extra. Thus giving you the extra output without having to do any circuit logic to make sure that the original machine keeps 40. U-238 is both exported and imported from the top line. The beacons aren't required but it worked for me as i wanted to create a setup to make ~1 U-235/s.",
   "fileName": "20180313162221_1.jpg",
   "lastUpdatedDate": 1520978696278,
-  "tags": {
-    "1": "/production/uranium/",
-    "2": "/power/nuclear/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "1/s Uranium-235 Kovarex Set-up Zero Circuits"
 }

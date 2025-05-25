@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/ZdwNnSb",
   "lastUpdatedDate": 1733936934187,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "4-Lane Elevated Rail-Included Blueprints",
   "favorites": {
     "RMpS8VqCO3QCPWkDFzQSFflLOy63": true,

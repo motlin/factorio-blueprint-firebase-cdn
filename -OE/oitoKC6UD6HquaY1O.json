@@ -44,20 +44,20 @@
   "imageUrl": "https://imgur.com/BPJAR9G",
   "lastUpdatedDate": 1736784394522,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/production/other/",
-    "3": "/general/tileable/",
-    "4": "/general/beaconized/",
-    "5": "/planets/fulgora/",
-    "6": "/production/scrap processing/",
-    "7": "/production/modules/",
-    "8": "/production/electronic circuit (green)/",
-    "9": "/production/advanced circuit (red)/",
-    "10": "/production/processing unit (blue)/",
-    "11": "/mods/quality/",
-    "12": "/general/compact/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/production/other/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/planets/fulgora/",
+    "/production/scrap processing/",
+    "/production/modules/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/mods/quality/",
+    "/general/compact/"
+  ],
   "title": "✔️ Book by Artёm v9"
 }

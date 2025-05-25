@@ -16,14 +16,14 @@
   "authorId": "9ete97NrnqUwBnVIk31YwNHimCD3",
   "descriptionMarkdown": "A fully beacon-boosted processing unit setup.\n\n## Consumes\n\n- 1 compressed blue belt of iron plates (5\\*20\\*5.5/10/1.4 = **39.3** items per second)\n- just over 1 compressed blue belt of copper plates (5\\*20\\*1.5\\*5.5/10/1.4/1.4 = **42.1** items per second)\n- 5\\*2\\*5.5/10 = **5.5** advanced circuits (red) per second\n- 50-60 MW\n\n## Produces\n\n5\\*5.5\\*1.4/10 = **3.85** processing units per second, or 231 per minute.\n\n## Notes\n\nKeeps around 100-150 logistic robots busy.\n\nI've decided to include the green circuits in the layout, because it consumes so many of them - a blue belt full of green circuits can only sustain 3.6 of these boosted processing-unit-assemblers.\n\nThis layout slightly overproduces electronic circuits and copper-cable, but not by much - only by 0.4 / 0.2 assembling machines' worth, respectively.\n\nIf you'd like to scale this up or down, here are the ratios after factoring in the productivity modules:\n\n- 1 processing-unit machine consumes 1/1.4 = 0.7 electronic-circuit machines\n- 1 processing-unit machine consumes 1/1.4/1.4*1.5 = 0.77 cable machines",
   "lastUpdatedDate": 1501537063497,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/production/logistic (bot) based/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/production/logistic (bot) based/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Beaconed processing units (with bots)",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true

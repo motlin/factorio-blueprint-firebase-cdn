@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1626337225510,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "SR Latch demo",
   "favorites": {
     "z7RPsRZuqKVLjkOzKq1qPvKXw6h1": true

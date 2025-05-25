@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "createdDate": 1506873373148,
   "descriptionMarkdown": "The station itself is built to only open if the wall it is being used to supply needs to be built or repaired:\n- You set the requested amounts with the constant combinator.\n- Set the train going there for X seconds of inactivity.\n- Drop any necessary blue prints for the wall\n- Walk away\n\nNotes:\n- The train needed is only a 1:2, the first wagon for items, the second is for wood and stone to be recycled.\n- If you follow the circuit logic, you can substitute or add items to have up to 12 different items for the station.\n- This will also need a corresponding loading spot, most likely in your main base for all the items it needs.",
   "fileName": "Screenshot (107).png",

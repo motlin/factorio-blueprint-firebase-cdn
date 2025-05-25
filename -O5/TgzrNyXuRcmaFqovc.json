@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/2gkJhB1",
   "lastUpdatedDate": 1724944481953,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de placas diversas (S.E. + Exotics)"
 }

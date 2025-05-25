@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1643969584016,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "fCPU Tutorial Example - 'Hybrid' Loop",
   "favorites": {
     "jdG942UYPRTZmxxPyHpUtgjWFnj1": true

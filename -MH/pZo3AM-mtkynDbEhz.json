@@ -24,16 +24,16 @@
   },
   "lastUpdatedDate": 1600867082077,
   "numberOfFavorites": 7,
-  "tags": {
-    "6": "/production/logistic (bot) based/",
-    "8": "/general/late game (megabase)/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "5": "/version/1,0/",
-    "7": "/general/tileable/",
-    "2": "/production/processing unit (blue)/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/general/late game (megabase)/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/version/1,0/",
+    "/general/tileable/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Raw to Circuits 1300/m, Robot Based"
 }

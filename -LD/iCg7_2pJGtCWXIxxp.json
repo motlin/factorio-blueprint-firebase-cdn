@@ -2,10 +2,10 @@
   "descriptionMarkdown": "Purely cosmetic Solar Diamond for factories with some space to spare. Not at all space- or ratio efficient, but it looks nice :)\n518 solar panels, 481 Accumulators, 46 Substations and 4 Roboports.\n\n",
   "lastUpdatedDate": 1556627243797,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,17/"
+  ],
   "title": "Solar Diamond",
   "favorites": {
     "N5w8hXilGSWVW8c4knFKkNeqFib2": true,

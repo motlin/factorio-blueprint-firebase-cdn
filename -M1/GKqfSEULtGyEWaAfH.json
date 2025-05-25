@@ -15,11 +15,11 @@
   "fileName": "URANIUM ENRICHMENT.JPG",
   "createdDate": 1582986390310,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "uranium enrichment"
 }

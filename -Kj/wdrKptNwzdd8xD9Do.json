@@ -13,11 +13,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Red%20and%20Green.PNG?alt=media&token=a7e73117-da44-448d-908c-64e1872258e0",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "hVzxl1CqhiULpytw3DfUbiTjIsZ2"
   },

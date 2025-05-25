@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1708959296132,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "infinitely expandable nuclear"
 }

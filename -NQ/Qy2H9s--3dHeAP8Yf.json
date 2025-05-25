@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678727722311,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "12 Core reactor"
 }

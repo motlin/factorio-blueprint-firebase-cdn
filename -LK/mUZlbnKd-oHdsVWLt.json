@@ -7,11 +7,11 @@
     "height": 501
   },
   "lastUpdatedDate": 1535938665870,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "AWAi8TMSkqM3IcTA5lRHvs502v52"
   },

@@ -8,13 +8,13 @@
     "width": 1920
   },
   "lastUpdatedDate": 1535557817298,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/rocket parts/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Space Science Moduled and Beaconed ~2/sec",
   "author": {
     "userId": "BNVo724FhYTNHhA2itwVnRzeYzj1"

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1695273239195,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/mods/other/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/mods/other/",
+    "/train/junction/"
+  ],
   "title": "UNTRA self-replicating rail intersection v2"
 }

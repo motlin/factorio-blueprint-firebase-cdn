@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1682432073357,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Modular snap to grid oil cracking"
 }

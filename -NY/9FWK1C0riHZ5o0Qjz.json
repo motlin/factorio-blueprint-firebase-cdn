@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1687219744596,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Bot logistics",
   "favorites": {
     "QdRYQzOrABV0fRWezdMxH9Ebdti2": true,

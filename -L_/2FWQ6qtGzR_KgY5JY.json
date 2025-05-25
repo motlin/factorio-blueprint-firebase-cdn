@@ -6,15 +6,15 @@
     "type": "image/png",
     "width": 640
   },
-  "tags": {
-    "6": "/general/early game/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/general/compact/",
-    "4": "/general/tileable/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/general/mid game/"
+  ],
   "author": {
     "userId": "QIE2KWG9txYWeZcZtcboDUSME8G2"
   },

@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1616357349250,
   "numberOfFavorites": 7,
-  "tags": {
-    "4": "/train/right-hand-drive/",
-    "0": "/mods/vanilla/",
-    "1": "/train/junction/",
-    "2": "/train/track/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/track/",
+    "/version/1,0/"
+  ],
   "title": "RoboRails - A self expanding rail set"
 }

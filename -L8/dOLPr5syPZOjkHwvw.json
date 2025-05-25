@@ -34,9 +34,9 @@
   },
   "lastUpdatedDate": 1522186676343,
   "numberOfFavorites": 40,
-  "tags": {
-    "1": "/general/early game/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Starting Main BUS"
 }

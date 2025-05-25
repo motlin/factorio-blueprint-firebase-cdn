@@ -16,9 +16,9 @@
   "authorId": "4qUfls5OmkaXOfUWFi54od2oWVr1",
   "descriptionMarkdown": "The core nuclear reactors for the rest of it",
   "lastUpdatedDate": 1533183663036,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ]
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1679030033042,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/other/"
+  ],
   "title": "Train Percentage Counter (Modded)",
   "favorites": {
     "DbVHbecFD1giGtQJX6IZdetrIgR2": true

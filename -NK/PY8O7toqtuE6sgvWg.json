@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1701253515892,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/smelting/"
+  ],
   "title": "Beryllium Plates 1k/min"
 }

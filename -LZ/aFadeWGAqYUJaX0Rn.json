@@ -34,16 +34,16 @@
     "type": "image/jpeg",
     "width": 1008
   },
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "2": "/version/0,17/",
-    "3": "/version/unknown/",
-    "6": "/general/compact/",
-    "8": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "4": "/production/belt based/",
-    "5": "/production/other/",
-    "7": "/general/early game/",
-    "9": "/belt/transport belt (yellow)/"
-  }
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/version/unknown/",
+    "/general/compact/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/production/other/",
+    "/general/early game/",
+    "/belt/transport belt (yellow)/"
+  ]
 }

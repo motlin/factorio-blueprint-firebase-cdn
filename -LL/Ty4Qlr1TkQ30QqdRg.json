@@ -6,10 +6,10 @@
     "width": 1920
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "py mods propane ",
   "createdDate": 1535970400221,
   "fileName": "factorio 2018-09-01 13-48-36-46.jpg",

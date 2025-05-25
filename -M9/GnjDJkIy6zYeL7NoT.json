@@ -27,12 +27,12 @@
   },
   "lastUpdatedDate": 1591584159690,
   "numberOfFavorites": 9,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "4": "/mods/vanilla/",
-    "0": "/general/mid game/",
-    "1": "/general/tileable/",
-    "2": "/general/marathon/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/marathon/"
+  ],
   "title": "Ornaments (Floor)"
 }

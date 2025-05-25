@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/BQsEafz",
   "lastUpdatedDate": 1741187420825,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/smelting/",
-    "2": "/mods/space-age/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/smelting/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "GLEBA IRON PROCESSING FULL BLUE BELT",
   "favorites": {
     "uHiTGEZNS3f2aWTE4B2lSF5YLHS2": true,

@@ -20,14 +20,14 @@
   },
   "lastUpdatedDate": 1548377407307,
   "numberOfFavorites": 5,
-  "tags": {
-    "3": "/train/crossing/",
-    "4": "/train/right-hand-drive/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,16/",
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/roundabout/"
+  ],
   "title": "2 lane Rail Blocks with 3 spacing RHT"
 }

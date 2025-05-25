@@ -12,10 +12,10 @@
     "width": 1680
   },
   "lastUpdatedDate": 1533477033709,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/creative/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/creative/"
+  ],
   "title": "stonewall ratioed standalone production v0.1",
   "authorId": "5h10hDGNjOVt4hiAqVVeeQ2hoH23",
   "descriptionMarkdown": "my stonewall ratioed standalone production",

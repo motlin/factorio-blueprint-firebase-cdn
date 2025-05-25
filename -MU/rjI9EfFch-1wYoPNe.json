@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1643760136977,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/general/compact/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "Improved compact oil processing 2.0",
   "favorites": {
     "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,

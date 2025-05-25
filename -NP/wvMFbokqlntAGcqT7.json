@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678207044355,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/industrial revolution/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/industrial revolution/",
+    "/production/mall (make everything)/"
+  ],
   "title": "IR3 Production Mall",
   "favorites": {
     "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,

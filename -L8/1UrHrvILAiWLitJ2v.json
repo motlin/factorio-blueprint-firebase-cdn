@@ -14,11 +14,11 @@
   },
   "authorId": "q20gUg6OEqV292exwLIuIPzYpmh2",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "M76bmksp1vVT8lWLyyVOlPT1LKU2": true
   },

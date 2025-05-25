@@ -23,11 +23,11 @@
     "type": "image/png"
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/train/loading station/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/train/loading station/",
+    "/general/mid game/"
+  ],
   "title": "Mining outpost",
   "author": {
     "userId": "ddEGs4a0W8PuSrEYSZJ35nkztvq2"

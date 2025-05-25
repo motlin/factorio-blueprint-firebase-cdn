@@ -12,10 +12,10 @@
   },
   "lastUpdatedDate": 1600328403343,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Railed laser wall: inner corner",
   "author": {
     "userId": "zcgRyttRbPZFEHXKbcvv2l6ZQPI2"

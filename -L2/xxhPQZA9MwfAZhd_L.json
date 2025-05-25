@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Medium Red Mining",
   "favorites": {
     "DjYNvGesC5N1c9aGVkw7uZSZIcn1": true,

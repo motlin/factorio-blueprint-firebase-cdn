@@ -17,10 +17,10 @@
   "authorId": "ExFWyyZlosc81thIiDdqtmp7nht2",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170530150055_1.jpg?alt=media&token=9c9d57e8-5416-41e6-8367-c248c099cbc8",
   "lastUpdatedDate": 1496152992899,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/production/uranium/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  }
+  "tags": [
+    "/version/0,15/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ]
 }

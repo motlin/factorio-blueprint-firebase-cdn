@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1661788402173,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Blue chips from basic resources",
   "favorites": {
     "5XkSYIsjaZVVSy2pfcHDSTQDBY83": true,

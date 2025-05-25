@@ -12,11 +12,11 @@
   },
   "lastUpdatedDate": 1521259623082,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "Gej698xkX3YsgC4RQ5kHxk4MJlX2"
   },

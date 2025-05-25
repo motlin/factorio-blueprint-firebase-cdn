@@ -13,15 +13,15 @@
   "imageUrl": "https://imgur.com/eMW8Etj",
   "lastUpdatedDate": 1737453350714,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/planets/fulgora/",
-    "3": "/planets/nauvis/",
-    "4": "/power/accumulator/",
-    "5": "/power/solar/",
-    "6": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/planets/fulgora/",
+    "/planets/nauvis/",
+    "/power/accumulator/",
+    "/power/solar/",
+    "/planets/gleba/"
+  ],
   "title": "Radar Sentry ,Substation Grid And Power Book",
   "favorites": {
     "TWOm1ShS8WSm7S4XOUOQhdAhGiM2": true,

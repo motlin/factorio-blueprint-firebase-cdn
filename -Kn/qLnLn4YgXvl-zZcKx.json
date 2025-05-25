@@ -16,12 +16,12 @@
     "type": "image/jpeg",
     "width": 661
   },
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Ore Sorter Filter V2",
   "favorites": {
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Tnu5Zxe",
   "lastUpdatedDate": 1733092538564,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/space-age/"
+  ],
   "title": "Gleba Pentapod Egg very simple",
   "favorites": {
     "VjQKBjnonCMhsYXKgQOSGm97xz62": true,

@@ -19,9 +19,9 @@
     "id": "qlfinJL"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/power/steam/"
-  }
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/power/steam/"
+  ]
 }

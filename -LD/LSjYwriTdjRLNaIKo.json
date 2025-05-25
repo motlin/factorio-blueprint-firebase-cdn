@@ -16,12 +16,12 @@
     "height": 891,
     "id": "oHoLgNl"
   },
-  "tags": {
-    "2": "/production/inserters/",
-    "3": "/production/belts/",
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/belts/",
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "authorId": "g6t17KXPvsPu8Np8i3kzWqrQefa2",
   "createdDate": 1556228798896,
   "fileName": "Red + Green science pack.PNG",

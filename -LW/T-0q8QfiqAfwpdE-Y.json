@@ -6,11 +6,11 @@
   "author": {
     "userId": "w6M9UgSkVGRlv8yWrs1AINq28Xn1"
   },
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/production/batteries/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/production/batteries/"
+  ],
   "title": "Fully Modular Oil Refining System",
   "descriptionMarkdown": "This Blueprint is for a modular oil refining system. The book contains several blueprints, one for each product. The entire factory is included as well. \n\nThe full-factory blueprint contains all of the circuit logic to control the inputs and outputs to ensure that all of the resources are well-managed. Tweak them to suit your production needs!\n\nFor each resource, you should be able to expand simply by placing the blueprint to the right, with the beacons overlapping.",
   "fileName": "oil_refinery2.png",

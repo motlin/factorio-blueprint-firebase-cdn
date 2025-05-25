@@ -7,10 +7,10 @@
     "type": "image/jpeg",
     "width": 2688
   },
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/other/"
+  ],
   "title": "High Output Refined Concrete",
   "author": {
     "userId": "ZzvKtPV3t4TBwDOFAIOTxUlXZ1C2"

@@ -9,13 +9,13 @@
     "width": 809
   },
   "lastUpdatedDate": 1507926647771,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/train/junction/",
-    "4": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Grid rails roundabout",
   "author": {
     "userId": "YYOTSGIFexVh41sUt47grylfvdl2"

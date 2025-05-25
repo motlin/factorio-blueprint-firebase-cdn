@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/pljcWWM",
   "lastUpdatedDate": 1732364735284,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Factorio Timer",
   "favorites": {
     "UFDk4yfHK3YDDAa018PnvPGlIVl2": true,

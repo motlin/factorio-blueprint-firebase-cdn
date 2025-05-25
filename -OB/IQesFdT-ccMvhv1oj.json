@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/1e5zucM",
   "lastUpdatedDate": 1731197841161,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Example of asteroid collector filter control",
   "favorites": {
     "asniM5Gx2ROkxEtUF2DWlY9JLUz1": true,

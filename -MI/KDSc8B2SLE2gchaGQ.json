@@ -26,8 +26,8 @@
     "width": 960
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/tileable/"
-  }
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/tileable/"
+  ]
 }

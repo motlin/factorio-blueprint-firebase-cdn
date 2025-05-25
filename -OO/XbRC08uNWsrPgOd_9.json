@@ -19,9 +19,9 @@
   "imageUrl": "https://i.imgur.com/1TprTVa.jpeg",
   "lastUpdatedDate": 1745767168986,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Toutusine 7.0"
 }

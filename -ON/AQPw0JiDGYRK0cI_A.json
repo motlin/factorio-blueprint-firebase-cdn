@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/MvOTKPB.png",
   "lastUpdatedDate": 1743948459922,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/research (labs)/"
+  ],
   "title": "Smallest research station",
   "favorites": {
     "awtIejV1kpQZI4G2V5T2efVQF4g2": true,

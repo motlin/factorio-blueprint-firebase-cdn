@@ -13,10 +13,10 @@
     "userId": "NjEDeJrekGTBzUFUI1hW4YkPDEK2"
   },
   "authorId": "NjEDeJrekGTBzUFUI1hW4YkPDEK2",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "train junction  ",
   "createdDate": 1598157654479,
   "descriptionMarkdown": "it's a + junction  "

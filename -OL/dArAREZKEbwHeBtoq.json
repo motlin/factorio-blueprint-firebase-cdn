@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/krhFUuC.jpeg",
   "lastUpdatedDate": 1742300301454,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/oil processing/"
+  ],
   "title": "завод по обробке нефти, середина игры"
 }

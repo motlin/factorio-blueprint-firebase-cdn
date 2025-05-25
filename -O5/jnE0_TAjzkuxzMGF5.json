@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/f9kGVL0",
   "lastUpdatedDate": 1725231329347,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Autoscale Barchart",
   "favorites": {
     "eEAW4TiiJqaWljexUE0GuF4YZx92": true,

@@ -32,12 +32,12 @@
     "38Hiq2b4XXPcpwdLQj5uWpsEbHS2": true,
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/production/belt based/",
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/production/belt based/",
+    "/general/beaconized/"
+  ],
   "title": "Sulfuric Acid (Beaconed)"
 }

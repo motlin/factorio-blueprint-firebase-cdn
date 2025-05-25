@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Foundation Rail Set LHD",
   "author": {
     "userId": "gV45wzv9r7Rlc6uUCElRvxOjzZu2"

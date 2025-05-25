@@ -9,12 +9,12 @@
     "height": 784
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/OreCrushing.jpg?alt=media&token=bf97f821-804b-46ef-985e-640259570502",
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/version/0,15/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,15/",
+    "/mods/factorissimo/"
+  ],
   "title": "Omnite Ore Crushing Production Plant in a Box (Factorissimo).",
   "author": {
     "userId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2"

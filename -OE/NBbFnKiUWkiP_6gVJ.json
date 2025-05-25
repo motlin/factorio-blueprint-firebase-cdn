@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/p9xlAAj",
   "lastUpdatedDate": 1734499005579,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Research Platform - White Glint",
   "favorites": {
     "owojRFow2EhFvOWbDsslLBVc7TK2": true,

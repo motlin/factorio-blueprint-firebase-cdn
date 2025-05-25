@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/8T9jFsb.png",
   "lastUpdatedDate": 1746441623701,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/quality/"
+  ],
   "title": "Space Quality"
 }

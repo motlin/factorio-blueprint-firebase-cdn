@@ -124,9 +124,9 @@
   "imageUrl": "https://imgur.com/D4m1iq3",
   "lastUpdatedDate": 1747503258608,
   "numberOfFavorites": 57,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/space-age/"
+  ],
   "title": "Gleba Starter Factory"
 }

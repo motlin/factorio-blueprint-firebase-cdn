@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1704686060227,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Reinforced Walls",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202024-01-07%20025812.png?alt=media&token=f35967d0-8fb7-4ada-940b-146b5c192f09"
 }

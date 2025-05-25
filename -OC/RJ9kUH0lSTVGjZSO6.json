@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/CEcakbb",
   "lastUpdatedDate": 1732420640272,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/science/",
-    "2": "/general/tileable/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/science/",
+    "/general/tileable/",
+    "/general/beaconized/"
+  ],
   "title": "Space Age Fully Beaconed Tile-able Biolabs.",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

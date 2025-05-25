@@ -7,10 +7,10 @@
   "descriptionMarkdown": "Basic 10x10 fortress pack",
   "fileName": "86581297.63500002_image.png",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "8TnAZ8sitzgbAQ0JyUMTCRXu6Bw1"
   },

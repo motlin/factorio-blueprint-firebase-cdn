@@ -13,13 +13,13 @@
   "title": "Reinforced Concrete from Ore Tileable",
   "authorId": "hg5wYqGrYhh2Fj8hDzljtMnn0d73",
   "descriptionMarkdown": "This is a tileable concrete plant that makes reinforced concrete from ore, stone and water.  The layout is tileable vertically and horizontally. Saturation of a blue belt out is 6 sets. Concrete out is at the opposite end as ore inputs, but the bottom blue belt can be flipped\n\nRatio is not perfect, but is as close as I could make it while being this compact.  ",
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "3": "/general/tileable/",
-    "4": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "favorites": {
     "wwITNfNOPOMTL62zpsJ20Ht3MDF3": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

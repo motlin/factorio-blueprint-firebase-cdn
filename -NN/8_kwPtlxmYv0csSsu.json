@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1704189197608,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/art/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/general/art/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Crash Landing Memorial"
 }

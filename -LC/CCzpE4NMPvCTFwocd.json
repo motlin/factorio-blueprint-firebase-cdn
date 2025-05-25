@@ -16,9 +16,9 @@
   "numberOfFavorites": 1,
   "authorId": "Yn9eEAQKSjP22wESxwPbmdoqqpU2",
   "title": "Nepharus Parking Garage",
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/",
-    "2": "/production/logistic (bot) based/"
-  }
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/"
+  ]
 }

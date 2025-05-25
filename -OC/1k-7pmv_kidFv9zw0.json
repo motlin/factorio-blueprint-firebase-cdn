@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/qzuQ9s8",
   "lastUpdatedDate": 1731992734629,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Uranium Bullets",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

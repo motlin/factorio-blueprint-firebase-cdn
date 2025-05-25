@@ -6,13 +6,13 @@
     "width": 1408,
     "height": 1088
   },
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/compact/"
+  ],
   "title": "Blue belt of plastic",
   "favorites": {
     "0d2o3kiCqQRcVIywBjeosipcVt02": true

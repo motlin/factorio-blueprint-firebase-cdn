@@ -13,16 +13,16 @@
   "imageUrl": "https://imgur.com/zJiXIU0",
   "lastUpdatedDate": 1742598881230,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/space-age/",
-    "2": "/production/science/",
-    "3": "/version/2,0/",
-    "4": "/planets/gleba/",
-    "5": "/general/compact/",
-    "6": "/general/beaconized/",
-    "7": "/general/tileable/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/space-age/",
+    "/production/science/",
+    "/version/2,0/",
+    "/planets/gleba/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "title": "Agricultural Science 108 SPM Cargo Wagon Edition",
   "favorites": {
     "7ho1v3TsRAUgTtBxR5rIIwO0I5g2": true,

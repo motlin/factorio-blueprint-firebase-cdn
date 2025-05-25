@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/dwhsNbt",
   "lastUpdatedDate": 1730145174394,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Keats Navigator (version 1.1)",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1653212159780,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar Power",
   "favorites": {
     "lMPRklTqYjWsHuLAiXuT390ESuP2": true,

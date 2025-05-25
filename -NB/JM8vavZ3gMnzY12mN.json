@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1662493958102,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/general/chunk aligned/"
+  ],
   "title": "LHD chunk-alighed modular rail",
   "favorites": {
     "iK2kVinIQQP3vx2H1Q2yKX62JEB2": true,

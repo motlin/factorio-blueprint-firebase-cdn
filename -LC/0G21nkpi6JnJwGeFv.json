@@ -2,13 +2,13 @@
   "createdDate": 1525808378312,
   "fileName": "imgur-2018_05_08-22:39:02.png",
   "lastUpdatedDate": 1525808378312,
-  "tags": {
-    "2": "/power/solar/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "author": {
     "userId": "7icyNNS5hLbwaPjMHlRgUm89e8k1"
   },

@@ -21,15 +21,15 @@
   },
   "lastUpdatedDate": 1581806597571,
   "numberOfFavorites": 4,
-  "tags": {
-    "7": "/train/right-hand-drive/",
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/advanced circuit (red)/",
-    "4": "/production/modules/",
-    "5": "/general/beaconized/",
-    "6": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/modules/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Circuits (A+E) + Modules (S1+P1) Combined Factory"
 }

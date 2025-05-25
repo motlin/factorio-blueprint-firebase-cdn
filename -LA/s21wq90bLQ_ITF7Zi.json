@@ -2,11 +2,11 @@
   "fileName": "20190324151517_1.jpg",
   "lastUpdatedDate": 1553571037946,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Dynamic Train Loader",
   "author": {
     "userId": "swwDFHhqziTJnRpnKa5BPYd1GiC3"

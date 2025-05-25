@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1694228601522,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Item Name Display"
 }

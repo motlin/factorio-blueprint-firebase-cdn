@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1676782111082,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/tileable/"
+  ],
   "title": "City Block Smelter 2.0"
 }

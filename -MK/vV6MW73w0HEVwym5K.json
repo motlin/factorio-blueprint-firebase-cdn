@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1633086048136,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "1-1 train -> 4 blue lanes unloading",
   "favorites": {
     "63OAeeRxLDd88TSBlG92NT5XX6x1": true,

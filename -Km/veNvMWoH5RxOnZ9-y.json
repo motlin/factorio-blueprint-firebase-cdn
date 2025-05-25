@@ -17,11 +17,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/i262%5Ecimgpsh_orig.png?alt=media&token=2575eb5c-e825-4376-8b66-f1cb85e03bc1",
   "lastUpdatedDate": 1499430031787,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true
   }

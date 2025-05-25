@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/mrRr350",
   "lastUpdatedDate": 1731881827977,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Steam Tank Counter"
 }

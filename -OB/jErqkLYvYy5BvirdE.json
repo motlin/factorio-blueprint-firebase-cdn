@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/c1Lwa1Y",
   "lastUpdatedDate": 1731679390658,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/space-age/"
+  ],
   "title": "Stack Inserter uses any stack size",
   "favorites": {
     "HKvBEHqvsZXPbS4zzSn7QVcsPwu1": true,

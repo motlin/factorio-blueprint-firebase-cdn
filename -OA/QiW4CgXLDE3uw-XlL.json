@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/4e4C4ES",
   "lastUpdatedDate": 1730263257462,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/gleba/",
-    "2": "/production/other/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/gleba/",
+    "/production/other/",
+    "/mods/vanilla/"
+  ],
   "title": "Gleba Sulfur Production",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

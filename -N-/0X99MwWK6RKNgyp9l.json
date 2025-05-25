@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1698064757787,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Grid electric furnaces vers. 1.0",
   "favorites": {
     "udHlvZwtdRNAieUUoh09UDmXMqv1": true,

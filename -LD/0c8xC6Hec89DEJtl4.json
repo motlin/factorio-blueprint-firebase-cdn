@@ -20,10 +20,10 @@
     "id": "X1rnf5c",
     "type": "image/jpeg"
   },
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Smelting Block MkI"
 }

@@ -50,12 +50,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-689411.png?alt=media&token=7bbc3841-b057-4435-8a90-3df1fcf0169d",
   "lastUpdatedDate": 1580014932358,
   "numberOfFavorites": 54,
-  "tags": {
-    "4": "/general/mid game/",
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "title": "Craigthulu's Malls"
 }

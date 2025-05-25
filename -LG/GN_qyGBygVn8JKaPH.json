@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "4Mtvxnlpene6jWdF80iffSY6gqy2"
   },

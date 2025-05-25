@@ -10,11 +10,11 @@
     "height": 1080
   },
   "lastUpdatedDate": 1544816219708,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "py mods raw ores ",
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true

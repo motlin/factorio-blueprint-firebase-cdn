@@ -16,13 +16,13 @@
     "width": 1100
   },
   "lastUpdatedDate": 1591637380980,
-  "tags": {
-    "0": "/version/0,18/",
-    "1": "/mods/other/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/unloading station/",
-    "4": "/train/loading station/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/mods/other/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/",
+    "/train/loading station/"
+  ],
   "favorites": {
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,
     "LH9ofZZu0DTAcwQ49fomgIq1j6Q2": true,

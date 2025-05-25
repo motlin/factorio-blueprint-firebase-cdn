@@ -48,13 +48,13 @@
   "imageUrl": "https://imgur.com/d7jTwqT",
   "lastUpdatedDate": 1735188919263,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/",
-    "3": "/planets/space-platform/",
-    "4": "/production/science/",
-    "5": "/planets/aquilo/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/planets/space-platform/",
+    "/production/science/",
+    "/planets/aquilo/"
+  ],
   "title": "Full automatic prometeum science starship \"The Imperium of Mankind\" V 1.3"
 }

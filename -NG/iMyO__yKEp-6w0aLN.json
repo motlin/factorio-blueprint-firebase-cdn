@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1697290118927,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/version/1,1/",
-    "3": "/circuit/indicator/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/1,1/",
+    "/circuit/indicator/"
+  ],
   "title": "1-2 Train Loadin,Unloading station with circuits"
 }

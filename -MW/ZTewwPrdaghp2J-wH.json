@@ -25,10 +25,10 @@
   },
   "lastUpdatedDate": 1645584494598,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/other/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/other/",
+    "/power/steam/"
+  ],
   "title": "Space Exploration 2GW Energy Beam Receiver (Pre-high-temp)"
 }

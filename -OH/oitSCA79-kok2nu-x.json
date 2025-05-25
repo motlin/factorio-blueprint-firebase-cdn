@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/sg6TWTL",
   "lastUpdatedDate": 1738198980753,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Fun Stuff in Nauvis"
 }

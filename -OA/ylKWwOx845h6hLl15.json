@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CVqd3iW",
   "lastUpdatedDate": 1730851199138,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Carbon Fiber",
   "favorites": {
     "vinyMlBdefdsWvw0MvFRRUueOW82": true,

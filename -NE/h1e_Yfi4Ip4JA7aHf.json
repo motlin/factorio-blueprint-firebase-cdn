@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1695120271831,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Starter block",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true

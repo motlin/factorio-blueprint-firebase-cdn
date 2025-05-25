@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/steam/"
+  ],
   "author": {
     "userId": "FmA0P8cOPJfm3Cj4MEsrud9wV283"
   },

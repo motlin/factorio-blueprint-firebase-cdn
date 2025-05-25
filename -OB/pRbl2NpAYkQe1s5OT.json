@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/PfWW6qJ",
   "lastUpdatedDate": 1733341949292,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/planets/fulgora/"
+  ],
   "title": "Starting Space Platfrom v3.0",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

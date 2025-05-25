@@ -7,11 +7,11 @@
     "type": "image/jpeg",
     "width": 2322
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "4 core nuclear powerplant",
   "author": {
     "userId": "mkQ2PqlNA5YCZmoJqgI4uiUkB5P2"

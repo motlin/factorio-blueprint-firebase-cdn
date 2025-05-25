@@ -11,11 +11,11 @@
     "height": 1574
   },
   "title": "Krastorio 2 Module Production",
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/krastorio/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/krastorio/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "KX6rawUCcjOmgr7H5qcqPjxJ7rO2": true,
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,

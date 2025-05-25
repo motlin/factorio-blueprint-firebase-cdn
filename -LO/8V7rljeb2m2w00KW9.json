@@ -6,9 +6,9 @@
   "createdDate": 1567822482976,
   "numberOfFavorites": 4,
   "title": "Song of Storms Speaker Set",
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "zQJsQjeYMWTezrCpYnraGjfO2Nz2": true,
     "oFqnuTnk6YNTjcCvbFz7c23IYKs2": true,

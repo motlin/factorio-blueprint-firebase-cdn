@@ -14,9 +14,9 @@
     "userId": "sAWyb1FCryf7h7FhiEkOag4N78U2"
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar array - Radar, Roboports, 0.8406 ratio",
   "favorites": {
     "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true

@@ -16,9 +16,9 @@
   "createdDate": 1591539010142,
   "descriptionMarkdown": "Mapę Polski, znać powinien, każdy Polak, mój patrioto. :)",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "favorites": {
     "DT2R83p5f7PQmkKUXIW0t7W9Ptg2": true
   }

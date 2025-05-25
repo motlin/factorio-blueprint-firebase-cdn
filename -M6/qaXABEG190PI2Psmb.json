@@ -14,9 +14,9 @@
   "author": {
     "userId": "A7hoJjIOKVT3C1EQP7Jm3B8sHO32"
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Compact Green Circuits",
   "descriptionMarkdown": "A compact blueprint for green circuits",
   "fileName": "greencircuitblueprint.png",

@@ -69,17 +69,17 @@
   },
   "lastUpdatedDate": 1582491034061,
   "numberOfFavorites": 49,
-  "tags": {
-    "0": "/train/unloading station/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/belt/balancer/",
-    "6": "/general/mid game/",
-    "8": "/mods/vanilla/",
-    "9": "/train/track/",
-    "1": "/version/0,17/",
-    "2": "/train/stacker/",
-    "5": "/general/early game/",
-    "7": "/general/compact/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/belt/fast transport belt (red)/",
+    "/belt/balancer/",
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/train/track/",
+    "/version/0,17/",
+    "/train/stacker/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "title": "MEGA BUS Train Stacker and Unload Stations V1.1 - BobAAAces"
 }

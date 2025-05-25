@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1533033449531,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/0,15/"
+  ],
   "title": "16 blue belts (Copper or Iron Plates) fed by 2/2 trains"
 }

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1694868853503,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/train/stacker/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/train/stacker/"
+  ],
   "title": "DEPRECATED Train Depot for Rail Grid for 1-1-1 Trains"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/J7LkXJ3",
   "lastUpdatedDate": 1730421206308,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Nuclear Reactor",
   "favorites": {
     "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,

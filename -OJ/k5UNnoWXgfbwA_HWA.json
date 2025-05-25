@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/n1E0Xux",
   "lastUpdatedDate": 1740268762972,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/coal liquification/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/coal liquification/",
+    "/general/tileable/"
+  ],
   "title": "Vulcanus Coal Liquefaction Refinery",
   "favorites": {
     "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,

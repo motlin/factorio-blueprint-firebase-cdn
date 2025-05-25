@@ -19,18 +19,18 @@
   },
   "lastUpdatedDate": 1547335319890,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/tileable/",
-    "4": "/train/junction/",
-    "5": "/train/crossing/",
-    "6": "/train/track/",
-    "9": "/version/0,16/",
-    "10": "/mods/vanilla/",
-    "1": "/power/accumulator/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "7": "/train/right-hand-drive/",
-    "8": "/version/0,15/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/track/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/power/accumulator/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/version/0,15/"
+  ],
   "title": "Rails Grid v1.6 ~ by PaterFrog"
 }

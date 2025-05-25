@@ -9,14 +9,14 @@
     "type": "image/jpeg",
     "width": 1150
   },
-  "tags": {
-    "5": "/train/crossing/",
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/0,17/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2019-05-17_09-55-53.png?alt=media&token=1c24463a-3e6e-49a9-911b-f24cbdb7f162",
   "favorites": {
     "e6JTXoFxTKVok5HSLRCPQUlMgLw1": true,

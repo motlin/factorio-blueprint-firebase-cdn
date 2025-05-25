@@ -32,11 +32,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d'%C3%A9cran%202024-02-10%20161643.png?alt=media&token=926b848f-bf1a-49da-9a6f-37a142da91d7",
   "lastUpdatedDate": 1707578563934,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Trains Blueprint"
 }

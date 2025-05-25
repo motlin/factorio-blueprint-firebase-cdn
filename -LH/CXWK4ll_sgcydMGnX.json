@@ -16,12 +16,12 @@
     "type": "image/jpeg",
     "width": 1409
   },
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/train/loading station/",
-    "3": "/general/compact/",
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/train/loading station/",
+    "/general/compact/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,

@@ -9,11 +9,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/oil%20and%20rail%20and%20stuff.PNG?alt=media&token=a25aa449-558c-4a8e-90c4-60602a832fd3",
   "lastUpdatedDate": 1502692160325,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Rail, Oil, Stuff",
   "author": {
     "userId": "nUyDTi2XGCcr4M71GLNMtZ9E1g53"

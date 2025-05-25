@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1635440678858,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Rocket parts",
   "favorites": {
     "jU4LREy6RqeaK0Koqgq4G37vwsp1": true

@@ -34,13 +34,13 @@
     "width": 1920
   },
   "numberOfFavorites": 33,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/tileable/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/production/coal liquification/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/tileable/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/coal liquification/"
+  ],
   "author": {
     "userId": "F4CnYtdFZFSgzGU6v0a1gEEGFi23"
   },

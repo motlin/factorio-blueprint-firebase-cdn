@@ -16,11 +16,11 @@
   "lastUpdatedDate": 1667832712841,
   "numberOfFavorites": 2,
   "title": "Science labs",
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,
     "lyPTlzDER9ei9oDJhzTCkoQHFY52": true

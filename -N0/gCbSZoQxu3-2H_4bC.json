@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651082950570,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "2-Lane RHD Intersection",
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

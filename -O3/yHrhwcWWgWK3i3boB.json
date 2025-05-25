@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/wZpoRHi",
   "lastUpdatedDate": 1723327020241,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Piso de pedra pra blocos LTN"
 }

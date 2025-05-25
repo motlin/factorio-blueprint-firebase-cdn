@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1629189477179,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Basic Smart Smelting",
   "favorites": {
     "h9q5y1Fgz6Npoh4SCPxvMJrLPwu1": true

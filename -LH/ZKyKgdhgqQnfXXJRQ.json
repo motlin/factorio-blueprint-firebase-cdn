@@ -43,11 +43,11 @@
   },
   "lastUpdatedDate": 1560770291542,
   "numberOfFavorites": 26,
-  "tags": {
-    "2": "/production/science/",
-    "3": "/version/0,17/",
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/"
+  ],
   "title": "461 SPM science block (no military)"
 }

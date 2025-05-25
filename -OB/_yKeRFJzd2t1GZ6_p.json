@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/pMph0jD",
   "lastUpdatedDate": 1731508919781,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Mine slow belt"
 }

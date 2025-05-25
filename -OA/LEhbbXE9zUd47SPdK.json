@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/UC0Rp6P",
   "lastUpdatedDate": 1730171795682,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/general/compact/"
+  ],
   "title": "Compact Fulgora Accumulator",
   "favorites": {
     "2SKkUgIGqAMUnmM5chUzBhH8itO2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/5lUBqPu",
   "lastUpdatedDate": 1730631071091,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/mods/space-age/"
+  ],
   "title": "Scrap to Holmium Ore Processor",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

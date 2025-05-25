@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20230911105606_1.jpg?alt=media&token=bfd7a7af-1ce1-4ad5-94ac-ef429728c364",
   "lastUpdatedDate": 1694393780352,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/ltn/"
+  ],
   "title": "PortalsBigBook - Rails and Stations"
 }

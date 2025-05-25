@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1580512995677,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "LDS_Testbed_1350_SPM_jasonrubik"
 }

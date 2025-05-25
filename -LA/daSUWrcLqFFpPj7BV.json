@@ -20,9 +20,9 @@
   },
   "createdDate": 1524337596469,
   "descriptionMarkdown": "Has a nice square shape.\n\nMax efficiency.",
-  "tags": {
-    "1": "/general/compact/",
-    "2": "/mods/bobs/",
-    "0": "/power/nuclear/"
-  }
+  "tags": [
+    "/general/compact/",
+    "/mods/bobs/",
+    "/power/nuclear/"
+  ]
 }

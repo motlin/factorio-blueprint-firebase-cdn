@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/1by9xz6",
   "lastUpdatedDate": 1730312305694,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus - Smart Foundry",
   "favorites": {
     "34okMiKwJ6ZkegRFvQsd6hTNQuZ2": true,

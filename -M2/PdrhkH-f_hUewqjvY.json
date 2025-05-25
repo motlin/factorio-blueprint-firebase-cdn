@@ -22,10 +22,10 @@
     "userId": "H6uvGTjevlU3QTkH5iAvpNz8hU52"
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/mods/krastorio/",
-    "0": "/version/0,17/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/production/uranium/"
-  }
+  "tags": [
+    "/mods/krastorio/",
+    "/version/0,17/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ]
 }

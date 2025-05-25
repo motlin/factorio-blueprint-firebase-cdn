@@ -16,10 +16,10 @@
   "fileName": "Screenshot from 2020-10-21 04-02-34.png",
   "lastUpdatedDate": 1603303916090,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "Wd5yjr4snsX7FJQQI7FgwXxEUL53"
   },

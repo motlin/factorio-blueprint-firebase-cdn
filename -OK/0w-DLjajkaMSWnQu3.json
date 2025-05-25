@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/sWzRrHD",
   "lastUpdatedDate": 1740568003697,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/general/art/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/general/art/"
+  ],
   "title": "Animation LCD DUCK"
 }

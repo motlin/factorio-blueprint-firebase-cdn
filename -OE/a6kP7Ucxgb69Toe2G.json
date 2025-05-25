@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/zMOOCmN",
   "lastUpdatedDate": 1734834154744,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/production/belts/",
-    "4": "/planets/vulcanus/",
-    "5": "/version/2,0/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/production/belts/",
+    "/planets/vulcanus/",
+    "/version/2,0/"
+  ],
   "title": "Vulcanus, All the Belts, Splitters, Undergrounds!",
   "favorites": {
     "Bi5w15GtUEdDeZQ1J8eK9dj0zGC3": true,

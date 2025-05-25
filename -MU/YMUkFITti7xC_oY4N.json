@@ -6,12 +6,12 @@
   "authorId": "Yy0XU8Ypb7boiO4e00VWp2zCseu2",
   "createdDate": 1614427323467,
   "descriptionMarkdown": "Late Game Circuits Intended for belt-based prodcution.  \nI used an 8-beacon layout because it minimizes the number of modules required as well as the power usage.  \n\n## Green Circuits\n- Outputs 2 blue belts of green circuits\n- Takes 64.286 Iron and 68.878 Copper / second total\n\n## Red Circuits\n- Outputs 15.4 Red Circuits / second\n- Takes 22 green circuits, 22 plastic, 11 copper / second\n\n## Blue Circuits\n- Outputs 3.08 Blue Circuits / second\n- Takes 44 Green Circuits, 4.4 Red Circuits, 11 Sulfuric Acid / second\n",
-  "tags": {
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/advanced circuit (red)/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "7fSyJDSKXwY1InNj78jgw4QnzLv1": true,
     "kpWw9bmXQ6dm2q0CMjz8PSfXiWq2": true,

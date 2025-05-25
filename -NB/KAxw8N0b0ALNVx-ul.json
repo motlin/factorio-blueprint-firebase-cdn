@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1691499024805,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/power/solar/"
+  ],
   "title": "Night power blueprint for solar transition"
 }

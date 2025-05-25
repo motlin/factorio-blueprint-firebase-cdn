@@ -70,12 +70,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/accu00.jpg?alt=media&token=a973036a-f01b-4351-a484-181bb25ef764",
   "lastUpdatedDate": 1577015194364,
   "numberOfFavorites": 65,
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/power/solar/",
-    "4": "/circuit/counter/",
-    "0": "/circuit/indicator/",
-    "1": "/power/accumulator/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/solar/",
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/power/accumulator/"
+  ],
   "title": "Accumulator charge mimimum monitor"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/LIb65Ro",
   "lastUpdatedDate": 1730000018460,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/version/2,0/"
+  ],
   "title": "Kovarex Enrichment (Small)",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,

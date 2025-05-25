@@ -13,17 +13,17 @@
   "imageUrl": "https://imgur.com/AVLEbaZ",
   "lastUpdatedDate": 1731646082616,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/mods/space-age/",
-    "5": "/planets/vulcanus/",
-    "6": "/production/smelting/",
-    "7": "/production/modules/",
-    "8": "/production/belt based/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/production/smelting/",
+    "/production/modules/",
+    "/production/belt based/"
+  ],
   "title": "Smelting by Foundries",
   "favorites": {
     "WdNHItfPnTUemoUXop2GX9XeQlb2": true,

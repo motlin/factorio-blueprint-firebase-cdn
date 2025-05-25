@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1682105613976,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Q-CHAR V3 - Project Cybersyn Integrated"
 }

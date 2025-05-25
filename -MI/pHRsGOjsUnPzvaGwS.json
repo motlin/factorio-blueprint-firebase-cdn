@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1630834118359,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/modules/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Modules синие и красные.",
   "favorites": {
     "Qi8WFwrgP1YiZcgPBNaDzZGtHk43": true

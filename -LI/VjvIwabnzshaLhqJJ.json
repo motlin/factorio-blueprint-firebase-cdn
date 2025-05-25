@@ -2,12 +2,12 @@
   "createdDate": 1532779017631,
   "descriptionMarkdown": "Beaconed Green Circuits",
   "lastUpdatedDate": 1532779129902,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/version/0,16/",
-    "3": "/mods/vanilla/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/"
+  ],
   "author": {
     "userId": "Lm6ubqPirbZlf6t2HBH8PqBLMTi2"
   },

@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/fvKcI23",
   "lastUpdatedDate": 1731350182272,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "Perimeter Defense"
 }

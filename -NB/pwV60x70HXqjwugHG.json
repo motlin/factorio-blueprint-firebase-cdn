@@ -32,10 +32,10 @@
   },
   "lastUpdatedDate": 1692048467789,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "KatherineOfSky book"
 }

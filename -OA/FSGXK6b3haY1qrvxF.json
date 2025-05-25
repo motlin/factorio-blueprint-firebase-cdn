@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/V20GV9E",
   "lastUpdatedDate": 1730074788320,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/early game/",
-    "5": "/production/smelting/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/early game/",
+    "/production/smelting/"
+  ],
   "title": "An Easily scalable smelting and research Complete starter Base setup",
   "favorites": {
     "CQFYdfbcfraeuEcSvjt7ZLxmq2T2": true,

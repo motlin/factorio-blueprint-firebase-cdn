@@ -44,11 +44,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/kovarex%20process.png?alt=media&token=532d8c78-0934-4554-82e7-ccb8b7faf3bc",
   "numberOfFavorites": 73,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "yid9xxB5FrVIszQf642uBbblp3K2"
   }

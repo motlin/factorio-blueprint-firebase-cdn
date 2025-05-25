@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1660631013998,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Circuit Network Early Game Smart Smelters",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capturekjhgkjhgkjhgkhggjkhg.PNG?alt=media&token=0a5f39f0-ecc6-4ab2-9f25-0b7a15713cf4",
   "favorites": {

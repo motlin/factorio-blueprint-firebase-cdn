@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678969169058,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Smelting array chess board",
   "favorites": {
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true

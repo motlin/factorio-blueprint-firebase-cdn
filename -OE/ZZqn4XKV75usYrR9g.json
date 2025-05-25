@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/nAcBlSC",
   "lastUpdatedDate": 1734722802255,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Parameterized Splitter and Inserter Pack",
   "favorites": {
     "v68t9V9wyCWibJgROF9Y0O89OaF2": true,

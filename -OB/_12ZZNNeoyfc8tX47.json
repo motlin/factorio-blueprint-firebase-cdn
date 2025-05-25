@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/2Vi9Inv",
   "lastUpdatedDate": 1731493116487,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/"
+  ],
   "title": "Xanthe class Cruiser"
 }

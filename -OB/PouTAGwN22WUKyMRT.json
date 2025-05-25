@@ -23,10 +23,10 @@
   "imageUrl": "https://imgur.com/zPy3gsf",
   "lastUpdatedDate": 1731323615922,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/train/loading station/",
-    "2": "/planets/nauvis/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/train/loading station/",
+    "/planets/nauvis/"
+  ],
   "title": "Modular Smelting Complex"
 }

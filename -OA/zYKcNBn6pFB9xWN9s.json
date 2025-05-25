@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Dh7qcA6",
   "lastUpdatedDate": 1730874806829,
   "numberOfFavorites": -1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/guns and ammo/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "20 Engine Space Taxi",
   "favorites": {
     "mRHLMfbj5bgP1aMmTREIiNn5MTI3": true,

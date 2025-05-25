@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1705003285314,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/track/"
+  ],
   "title": "2 and 4 way rail basic book",
   "favorites": {
     "seEu6snZN5dlDdYOXjo2VKiSJRE2": true,

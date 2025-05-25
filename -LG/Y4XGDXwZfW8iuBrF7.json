@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1543515236429,
   "numberOfFavorites": 42,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/0,16/",
-    "3": "/production/belts/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/production/mall (make everything)/",
+    "/version/0,16/",
+    "/production/belts/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Mall v2.3.3 (Pebble)"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/f84yk0e",
   "lastUpdatedDate": 1730270019530,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Fusion Reactor",
   "favorites": {
     "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,

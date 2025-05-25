@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1663448855058,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Dynamic Train Limit",
   "favorites": {
     "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,

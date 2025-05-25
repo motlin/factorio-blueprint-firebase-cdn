@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "This blueprint book contains 100 blueprints labelled from 01 to z100. They can be used to measure the number of tiles between entities or the size of ore patches.<p>\nThe blueprints remain centred under the mouse pointer because of a balancing outlier.<p>\nThe two columns are the edges that measure distances, inclusively. In between the columns, there are markers for 5 units and 10 units. The 5 units are single squares. The 10 units are double squares.<p>\nThere are two sets of 3x3 squares that increase from zero (i.e., blank or not part of the blueprint) to nine. The square closest to the middle of the blueprint is for units (1-9) and the next square is for decades (10-90). Together, they provide you with a visual cue to the distance measured after the blueprint it placed, without the need to count the markers.<p>\nI chose regular hazard concrete because it might not be a tile that the player will carry in their inventory in large quantities during regular gameplay.",
   "lastUpdatedDate": 1541897491142,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Ruler using Hazard Concrete",
   "createdDate": 1541897491142,
   "authorId": "GiYyNauMIuNCFeTPX2XI64U8taY2",

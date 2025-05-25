@@ -16,10 +16,10 @@
   "createdDate": 1528667151447,
   "lastUpdatedDate": 1528667151447,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "fYjHRKyv1jgdzUKWP8sxcFFXnCI2": true
   }

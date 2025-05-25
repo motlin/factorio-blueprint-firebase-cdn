@@ -141,9 +141,9 @@
   "imageUrl": "https://imgur.com/kZTLcGW",
   "lastUpdatedDate": 1731178392866,
   "numberOfFavorites": 52,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/other/"
+  ],
   "title": "Base in a Box"
 }

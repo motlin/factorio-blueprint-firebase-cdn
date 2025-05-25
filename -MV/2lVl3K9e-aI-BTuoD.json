@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1614971014488,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/late game (megabase)/",
+    "/mods/ltn/"
+  ],
   "title": "Battery production block / Batterieanlage"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/1T6meRI",
   "lastUpdatedDate": 1730656074020,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Biolab Beaconed and spoilage proof",
   "favorites": {
     "NibN6MMgtHeqeTQ3eCA1WqRlETq1": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/xNVFOlV",
   "lastUpdatedDate": 1734613929529,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Legendary Foundry in one Machine with Modules",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

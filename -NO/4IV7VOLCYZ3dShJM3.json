@@ -23,8 +23,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ska%CC%88rmavbild%202023-02-12%20kl.%2012.57.23.png?alt=media&token=3ab78da0-9631-4f16-ba52-866ef59c0b7f",
   "lastUpdatedDate": 1676714609419,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/beaconized/"
+  ],
   "title": "Bot based production book"
 }

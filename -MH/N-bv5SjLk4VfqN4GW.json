@@ -7,11 +7,11 @@
   },
   "lastUpdatedDate": 1600328743749,
   "numberOfFavorites": 10,
-  "tags": {
-    "2": "/train/right-hand-drive/",
-    "0": "/train/stacker/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/stacker/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "zcgRyttRbPZFEHXKbcvv2l6ZQPI2"
   },

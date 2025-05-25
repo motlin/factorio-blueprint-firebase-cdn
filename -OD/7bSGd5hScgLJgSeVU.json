@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/yJXKaB7",
   "lastUpdatedDate": 1733265966366,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/general/compact/",
-    "2": "/production/oil processing/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/compact/",
+    "/production/oil processing/"
+  ],
   "title": "Tiled oil processing",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

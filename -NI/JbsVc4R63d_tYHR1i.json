@@ -15,21 +15,21 @@
   },
   "lastUpdatedDate": 1670014535972,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/storage/",
-    "5": "/train/track/",
-    "6": "/train/stacker/",
-    "7": "/train/junction/",
-    "8": "/train/crossing/",
-    "9": "/train/pax/",
-    "10": "/train/roundabout/",
-    "11": "/train/left-hand-drive/",
-    "12": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/storage/",
+    "/train/track/",
+    "/train/stacker/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/pax/",
+    "/train/roundabout/",
+    "/train/left-hand-drive/",
+    "/train/right-hand-drive/"
+  ],
   "title": "traincrisisʼs trains",
   "favorites": {
     "H7qmT6ebR5NfOrAk4EtA5QLr3nw1": true

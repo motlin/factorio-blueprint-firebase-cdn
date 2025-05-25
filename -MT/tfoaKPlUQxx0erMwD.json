@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1642719038066,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "title": "Aeon Train Track Sets",
   "favorites": {
     "dKODuSYcovXizxj35jj50cbJWlz2": true,

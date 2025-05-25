@@ -18,11 +18,11 @@
   },
   "descriptionMarkdown": "This smelter is a beaconed tileable design that uses circuit conditions to allow iron ore to be smelted twice before being exported as steel",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "createdDate": 1610446480168
 }

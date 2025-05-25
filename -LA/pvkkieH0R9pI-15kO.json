@@ -48,11 +48,11 @@
   },
   "lastUpdatedDate": 1555445866446,
   "numberOfFavorites": 31,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/general/beaconized/",
-    "2": "/mods/ltn/",
-    "3": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/mods/ltn/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "LTN - Processing Units outpost"
 }

@@ -4,12 +4,12 @@
   "descriptionMarkdown": "Production of 8 blue science. Delivery boxes contain raw material (meaning metal sheets, coal), pipes deliver water and petroleum.",
   "fileName": "BlueScience.png",
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/general/mid game/",
-    "3": "/mods/vanilla/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "favorites": {
     "sslrTjk9LaOfba0lrNwEXUvLgkF3": true,
     "CBdbAltV4zcEThMO4GTmwLvQDf92": true,

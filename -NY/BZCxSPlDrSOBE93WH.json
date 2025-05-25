@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1687059226557,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/tileable/"
+  ],
   "title": "Green Science Stack"
 }

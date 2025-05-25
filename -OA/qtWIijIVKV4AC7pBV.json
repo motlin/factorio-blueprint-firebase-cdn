@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/8lvZsyn",
   "lastUpdatedDate": 1730719126978,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/planets/fulgora/"
+  ],
   "title": "Создание качественных предметов",
   "favorites": {
     "VifiQQlz1jUvzgQwRb7HbeojfQ92": true,

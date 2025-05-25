@@ -9,12 +9,12 @@
     "id": "q7RdBW2"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "title": "Beaconed Stone Bricks",
   "authorId": "RSqjgZYVNrgc3R7KUFIu7eEcs0j2",
   "createdDate": 1534433479030,

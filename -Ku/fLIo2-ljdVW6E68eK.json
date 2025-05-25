@@ -12,13 +12,13 @@
     "width": 1431
   },
   "lastUpdatedDate": 1506113306026,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/train/loading station/",
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/train/loading station/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mining directly into trains",
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,

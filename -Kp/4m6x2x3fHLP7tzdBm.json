@@ -17,9 +17,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2017-07-15_06-17-33.jpg?alt=media&token=7715ee93-bd5a-4a8d-bf40-68b76ac3f611",
   "lastUpdatedDate": 1500124231751,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

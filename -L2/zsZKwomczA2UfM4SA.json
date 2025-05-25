@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/stacker/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/stacker/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Trains - 4 Lines - Driver on the right",
   "createdDate": 1516121507352,
   "descriptionMarkdown": "Book content:\n4L - curve\n4L - long\n4L - short\n4L - TJ\n4L <> 2L",

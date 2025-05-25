@@ -17,12 +17,12 @@
   "descriptionMarkdown": "Small Factory for production of Angel's Cargo Bots Mk2. Designed specially to work with Angel's Bob's Omnimatter + AAI Industries mods active.",
   "lastUpdatedDate": 1502507396476,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/",
-    "4": "/mods/other/",
-    "5": "/production/robots/",
-    "0": "/version/0,15/",
-    "1": "/mods/factorissimo/"
-  }
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/other/",
+    "/production/robots/",
+    "/version/0,15/",
+    "/mods/factorissimo/"
+  ]
 }

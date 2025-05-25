@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/nqpth7w",
   "lastUpdatedDate": 1732653089078,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/planets/vulcanus/",
-    "4": "/planets/fulgora/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/vulcanus/",
+    "/planets/fulgora/"
+  ],
   "title": "Behemoth AutoBalancing Ship",
   "favorites": {
     "MnttuNrSYiWrjp389JZP5p8zcId2": true,

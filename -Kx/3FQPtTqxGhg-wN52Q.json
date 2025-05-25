@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "5": "/production/processing unit (blue)/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
     "Otz6FdnpdPRYzMVZLRV9qggGM5r1": true

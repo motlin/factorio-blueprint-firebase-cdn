@@ -16,12 +16,12 @@
   "imageUrl": "https://imgur.com/QxWF07M",
   "lastUpdatedDate": 1736862086763,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/general/storage/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/general/storage/",
+    "/version/2,0/"
+  ],
   "title": "Phion Spaceship"
 }

@@ -30,15 +30,15 @@
     "id": "TdNXiW4",
     "type": "image/jpeg"
   },
-  "tags": {
-    "5": "/belt/express transport belt (blue)/",
-    "6": "/version/0,17/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/version/0,17/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Steel Smelting with Beacon 777/min consuming a full blue iron ore belt",
   "createdDate": 1538380539691
 }

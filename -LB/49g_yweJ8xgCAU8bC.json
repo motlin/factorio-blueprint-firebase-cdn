@@ -29,9 +29,9 @@
     "width": 460
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "1": "/circuit/counter/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/version/0,17/"
+  ],
   "createdDate": 1553791109400
 }

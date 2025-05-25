@@ -15,13 +15,13 @@
     "width": 906,
     "height": 903
   },
-  "tags": {
-    "3": "/mods/bobs/",
-    "4": "/mods/factorissimo/",
-    "0": "/mods/angels/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ],
   "title": "Wood to fiber, pellets, wood bricks, boards, resin",
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

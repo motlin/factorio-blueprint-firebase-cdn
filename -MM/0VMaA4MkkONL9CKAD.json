@@ -6,10 +6,10 @@
     "id": "crXGM2O",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Electric furnaces w/o beacon",
   "favorites": {
     "zrNE4eZzL2SD8qRgjoovW4XFNry2": true,

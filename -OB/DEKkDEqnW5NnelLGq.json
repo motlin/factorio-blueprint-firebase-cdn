@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/8hXEjvs",
   "lastUpdatedDate": 1731110888046,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Spaceship for early to mid game",
   "favorites": {
     "GBNGmTTXmxZBrNmvnfUMNjT4kR52": true,

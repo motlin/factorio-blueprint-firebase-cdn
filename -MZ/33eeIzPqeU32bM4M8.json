@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1619271002892,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/production/smelting/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/production/smelting/",
+    "/power/steam/"
+  ],
   "title": "SeaBlock Green Algea Power Steam",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

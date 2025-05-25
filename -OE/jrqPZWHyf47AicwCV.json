@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/DYia2b9",
   "lastUpdatedDate": 1734896215886,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Laser Spaceship",
   "favorites": {
     "2SKkUgIGqAMUnmM5chUzBhH8itO2": true,

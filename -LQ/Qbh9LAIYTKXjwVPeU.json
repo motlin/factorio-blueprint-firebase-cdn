@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/tileable/"
+  ],
   "title": "Ore to Steel",
   "authorId": "FTHU7YaVMGSEQj3f1Y8IP4lB8p32",
   "lastUpdatedDate": 1541282963842,

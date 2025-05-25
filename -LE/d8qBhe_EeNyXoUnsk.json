@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/ltn/"
+  ],
   "title": "LTN - Plastic Bars",
   "author": {
     "userId": "ghbIYl3kqOSF9uk5Bj9cnwik2YU2"

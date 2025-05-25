@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1537918376206,
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/general/compact/",
-    "3": "/general/tileable/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/general/tileable/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Very Compact Self Starting Tileable Kovarex Build"
 }

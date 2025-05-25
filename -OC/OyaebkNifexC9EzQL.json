@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/I9jR5B3",
   "lastUpdatedDate": 1732462240696,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "240/s green circuit with max productivity",
   "favorites": {
     "UFDk4yfHK3YDDAa018PnvPGlIVl2": true,

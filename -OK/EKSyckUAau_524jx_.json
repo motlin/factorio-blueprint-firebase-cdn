@@ -20,15 +20,15 @@
   "imageUrl": "https://imgur.com/hJtoBNi",
   "lastUpdatedDate": 1740792893857,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/",
-    "2": "/planets/space-platform/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/gleba/",
-    "5": "/planets/fulgora/",
-    "6": "/planets/vulcanus/",
-    "7": "/planets/aquilo/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/",
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/aquilo/"
+  ],
   "title": "The (real) Rebel Flagship XL"
 }

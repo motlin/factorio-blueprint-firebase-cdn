@@ -16,12 +16,12 @@
   "createdDate": 1528641121303,
   "fileName": "Weapon Depot - Twin Track 1.01.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Weapon%20Depot%20-%20Twin%20Track%201.01.png?alt=media&token=a7b062d8-558e-449b-a60f-0ded93bd3d77",
-  "tags": {
-    "2": "/version/0,16/",
-    "3": "/mods/vanilla/",
-    "0": "/production/guns and ammo/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/version/0,15/"
+  ],
   "title": "Weapon Depot - Twin Track 1.01",
   "favorites": {
     "rOWXx6EqJGcQh0aOa4wH7I4WBRD2": true

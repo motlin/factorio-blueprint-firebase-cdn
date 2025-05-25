@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1632173823116,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/counter/"
+  ],
   "title": "Belt Throughput Counter",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1679669679097,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/train/unloading station/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/production/smelting/",
-    "4": "/general/ups friendly/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/train/unloading station/",
+    "/production/electronic circuit (green)/",
+    "/production/smelting/",
+    "/general/ups friendly/"
+  ],
   "title": "Mixed UPS optemized low tech BP book"
 }

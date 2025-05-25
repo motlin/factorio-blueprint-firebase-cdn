@@ -19,11 +19,11 @@
     "type": "image/png",
     "width": 1746
   },
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/other/",
-    "2": "/version/0,16/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/other/",
+    "/version/0,16/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Simple LTN unload station"
 }

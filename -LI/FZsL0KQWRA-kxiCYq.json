@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "Carved 3x5 font",
   "favorites": {
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,

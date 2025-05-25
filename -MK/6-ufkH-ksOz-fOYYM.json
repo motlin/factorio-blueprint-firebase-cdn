@@ -16,10 +16,10 @@
   "createdDate": 1603214224257,
   "descriptionMarkdown": "Uses trains as a buffer inventory. Just add some uranium to start the process, the rest is fully automated.",
   "lastUpdatedDate": 1603214224257,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/production/modules/",
-    "3": "/general/tileable/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/power/kovarex enrichment/",
+    "/production/modules/",
+    "/general/tileable/"
+  ]
 }

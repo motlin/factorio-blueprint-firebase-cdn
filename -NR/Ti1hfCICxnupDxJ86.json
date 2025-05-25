@@ -38,10 +38,10 @@
   },
   "lastUpdatedDate": 1689898475956,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/space-exploration/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/general/early game/"
+  ],
   "title": "k2+SE pre-space blueprints by Dawnseeker"
 }

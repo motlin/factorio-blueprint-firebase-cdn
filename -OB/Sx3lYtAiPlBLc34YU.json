@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/DhQQFEc",
   "lastUpdatedDate": 1731374369927,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Space Platform Sushi Belt Resource Limiter",
   "favorites": {
     "NYJvChJkK3QTBPmUfKvsdnjqCyu2": true,

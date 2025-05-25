@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1535587254308,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Nuclear Power T4 Mk0 [Experimental]"
 }

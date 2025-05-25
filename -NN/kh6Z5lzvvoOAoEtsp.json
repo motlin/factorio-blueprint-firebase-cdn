@@ -41,12 +41,12 @@
   },
   "lastUpdatedDate": 1733756876475,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/junction/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "ElderAxe's City Rail Blocks (v3.0.0)"
 }

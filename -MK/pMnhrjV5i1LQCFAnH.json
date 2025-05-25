@@ -17,10 +17,10 @@
     "type": "image/jpeg",
     "width": 1741
   },
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "lastUpdatedDate": 1673052221461,
   "numberOfFavorites": 8,
   "title": "Space Exploration automated rocket loading",

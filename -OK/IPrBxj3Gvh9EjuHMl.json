@@ -26,10 +26,10 @@
   "imageUrl": "https://imgur.com/s9yAbsz",
   "lastUpdatedDate": 1740861306222,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/belt based/",
-    "2": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/planets/vulcanus/"
+  ],
   "title": "Production mall of all things legendary"
 }

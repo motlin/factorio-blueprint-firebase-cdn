@@ -43,11 +43,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20180630172202_1.jpg?alt=media&token=6513a4b9-46be-442c-9100-5af948b64458",
   "lastUpdatedDate": 1530372621381,
   "numberOfFavorites": 47,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Main Bus -Modular -Book"
 }

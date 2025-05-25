@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1665967489607,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Start Base espacial (etapa 1/3)"
 }

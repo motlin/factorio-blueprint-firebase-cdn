@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/WAOnfhu",
   "lastUpdatedDate": 1730064105198,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Eagle 1 Space Platform",
   "favorites": {
     "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,

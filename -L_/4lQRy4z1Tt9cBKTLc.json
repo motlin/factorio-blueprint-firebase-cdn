@@ -28,9 +28,9 @@
   },
   "lastUpdatedDate": 1553536633855,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "Cwhizard's Base In A Book v0.17"
 }

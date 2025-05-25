@@ -20,11 +20,11 @@
   "createdDate": 1599066320218,
   "descriptionMarkdown": "Perfect for early game the rations are are also perfect.\nspeed of Assembling machine 2 = 0.75 \ncircuit crafting speed 0.5 s so 2 per second - 25% of 2 which is 0.5 so 2-0.5=1.5 and than 1.5x20 machines = 30items per second witch is exact ratio for a  full single red belt, or you can split it to full two yellow belts\n(25% because Assembling machine 2 crafts with 0.75 speed witch means we lose additional 25% so -25%)\n\n",
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/belt/fast transport belt (red)/",
-    "0": "/production/electronic circuit (green)/"
-  }
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/belt/fast transport belt (red)/",
+    "/production/electronic circuit (green)/"
+  ]
 }

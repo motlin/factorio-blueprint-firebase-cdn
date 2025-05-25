@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1682233944552,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/factorissimo/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/factorissimo/",
+    "/mods/space-exploration/"
+  ],
   "title": "60 Glass Per Second (Space Exploration, Factorissimo 2 - NotNotMelonFork Version, Renai Transportation)",
   "favorites": {
     "0N8QVjzuanMaW4AjqMbH8qxTNnA3": true,

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/onYCqGQ",
   "lastUpdatedDate": 1730490749371,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/guns and ammo/",
-    "2": "/power/nuclear/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/guns and ammo/",
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "Aquilo Ship",
   "favorites": {
     "dTfWfYu1KIVCKEfNP4wuladcWB63": true,

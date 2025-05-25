@@ -10,13 +10,13 @@
     "id": "z41nhr5",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/production/belt based/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Compressed Green Circuits",
   "favorites": {
     "zoLo9zNlS4ehv96EeUCx0KPf3yq1": true,

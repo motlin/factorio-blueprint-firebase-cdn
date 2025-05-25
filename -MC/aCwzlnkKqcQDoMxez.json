@@ -96,11 +96,11 @@
   },
   "lastUpdatedDate": 1595154122332,
   "numberOfFavorites": 59,
-  "tags": {
-    "3": "/version/0,17/",
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/compact/",
+    "/general/mid game/"
+  ],
   "title": "Starter Base (All Science) Updated"
 }

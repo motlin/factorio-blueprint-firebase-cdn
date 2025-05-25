@@ -11,9 +11,9 @@
   "authorId": "1mjnvrCQoHcHZywHY1koDnJGFKm2",
   "createdDate": 1542471840581,
   "fileName": "2OzJ7AE.jpg",
-  "tags": {
-    "0": "/production/inserters/"
-  },
+  "tags": [
+    "/production/inserters/"
+  ],
   "title": "Stack Inserters",
   "author": {
     "userId": "1mjnvrCQoHcHZywHY1koDnJGFKm2"

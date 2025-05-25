@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/oQAV5og",
   "lastUpdatedDate": 1732909657602,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Starter Freighter",
   "favorites": {
     "ejxOm2gkGUae2ilZq4JeH1bqQav2": true,

@@ -41,8 +41,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot23234.png?alt=media&token=1b918a5f-7c2e-4cb3-be8b-a424e2027d74",
   "lastUpdatedDate": 1616760774889,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "Another boring mall"
 }

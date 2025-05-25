@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/e5EInyT",
   "lastUpdatedDate": 1745934449719,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "SA: 45'000km",
   "favorites": {
     "RVYYJVWBsmPZ0NuKOkDFhIK7dUS2": true,

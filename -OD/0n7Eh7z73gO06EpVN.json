@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/pb7PytM",
   "lastUpdatedDate": 1733049484334,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/train/unloading station/"
+  ],
   "title": "Priority Receiving Station",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

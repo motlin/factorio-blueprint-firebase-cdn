@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/e080HSw",
   "lastUpdatedDate": 1736177911928,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/quality/"
+  ],
   "title": "Common/Uncommon/Rare/Epic solar panel assembly line",
   "favorites": {
     "AqpMuWTgD8QyoZL1bTQBoHOcWo02": true,

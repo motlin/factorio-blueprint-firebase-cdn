@@ -10,11 +10,11 @@
   },
   "lastUpdatedDate": 1688769645865,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/"
+  ],
   "author": {
     "userId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13"
   },

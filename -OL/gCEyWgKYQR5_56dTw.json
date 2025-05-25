@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/cqIZvAU",
   "lastUpdatedDate": 1742350909685,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/production/mall (make everything)/",
-    "3": "/general/early game/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Sir Rogro's Early Mall",
   "favorites": {
     "xFg4Xo6Vrtc3qwcHc8QtmaNTIbX2": true,

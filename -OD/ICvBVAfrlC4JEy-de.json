@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/JooUzSz",
   "lastUpdatedDate": 1733632977007,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/planets/fulgora/",
-    "2": "/production/scrap processing/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/planets/fulgora/",
+    "/production/scrap processing/",
+    "/mods/space-age/"
+  ],
   "title": "Fulgora Scrap Refinery",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

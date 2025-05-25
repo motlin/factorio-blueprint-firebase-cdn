@@ -33,14 +33,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Spidertron%20Attack%20Force%20Factory%20Blueprints.jpg?alt=media&token=8a490abf-8ca3-4cb9-a614-247cf0a9a682",
   "lastUpdatedDate": 1600904824334,
   "numberOfFavorites": 10,
-  "tags": {
-    "3": "/production/guns and ammo/",
-    "4": "/production/other/",
-    "5": "/production/rocket parts/",
-    "6": "/general/beaconized/",
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/production/other/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Spidertron Attack Force Factory - 1 Spidertron every 2 mins, 994 Rockets/min, + Grid Equipment - BobAAAces"
 }

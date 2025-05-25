@@ -4,12 +4,12 @@
   },
   "descriptionMarkdown": "##### Hey,\n###### First blueprint I made. KoS and Nilaus inspired me to make this mid/late game mall, some parts of it might be similar.\n###### Recipes are all 0,17 based!\nIf you don't have iron gear wheels on your bus make sure to create them beforehand, this is the biggest bottleneck. This blueprint can be downgraded to use red belts/machine 2 as well. I might add some more things later, like robots and items that use blue circuits.\n###### If you find anything missing please comment below. \n###### I hope you enjoy,\n##### Cryan",
   "fileName": "0,17mall.png",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/general/late game (megabase)/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
     "60ZlSlFY9VSHKz2iXzgPFbnaXey2": true,

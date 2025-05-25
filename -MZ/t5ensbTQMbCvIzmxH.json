@@ -29,14 +29,14 @@
   },
   "lastUpdatedDate": 1620160720225,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/power/solar/",
-    "3": "/production/mining/",
-    "4": "/general/early game/",
-    "5": "/production/mall (make everything)/",
-    "6": "/production/oil processing/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/production/mining/",
+    "/general/early game/",
+    "/production/mall (make everything)/",
+    "/production/oil processing/"
+  ],
   "title": "BaronTox-FreeplayBook"
 }

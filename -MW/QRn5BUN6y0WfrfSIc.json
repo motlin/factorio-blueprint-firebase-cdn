@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/minimalist_4p96gw_32cell_bp_v110.png?alt=media&token=006b0e1a-086a-4d12-94e6-e09950569624",
   "lastUpdatedDate": 1645436616078,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "\"Minimalist Series\" 4.96GW 32 Cell Nuclear Reactor w/APU"
 }

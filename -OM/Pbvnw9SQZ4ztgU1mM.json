@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CJ1iMvU",
   "lastUpdatedDate": 1743129656772,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/other/"
+  ],
   "title": "Bloco para construção de estruturas de baixa densidade, motores e baterias:"
 }

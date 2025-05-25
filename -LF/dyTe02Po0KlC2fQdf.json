@@ -14,11 +14,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/science/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/production/other/"
+  ],
   "title": "Scratch: Prod: Basic v05",
   "authorId": "Wq3hD250rZff59zIuGT692xi9L82"
 }

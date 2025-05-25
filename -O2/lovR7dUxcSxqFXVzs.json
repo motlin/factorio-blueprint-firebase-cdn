@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/NpneKyc",
   "lastUpdatedDate": 1722044102768,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/space-exploration/"
+  ],
   "title": "Garagem LTN",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

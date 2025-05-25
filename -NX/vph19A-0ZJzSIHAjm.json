@@ -25,14 +25,14 @@
   },
   "lastUpdatedDate": 1686779069938,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/junction/",
-    "4": "/train/roundabout/",
-    "5": "/train/track/",
-    "6": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "LTN Railway Cityblock"
 }

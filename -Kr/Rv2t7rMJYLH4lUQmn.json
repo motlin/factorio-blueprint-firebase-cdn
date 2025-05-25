@@ -20,9 +20,9 @@
     "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ggfdhr.png?alt=media&token=ed13e8b1-417b-4a9d-a379-59d763c6f6fc",
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

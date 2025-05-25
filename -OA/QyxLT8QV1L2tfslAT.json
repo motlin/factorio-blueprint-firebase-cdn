@@ -26,8 +26,8 @@
   "imageUrl": "https://imgur.com/W76xKKS",
   "lastUpdatedDate": 1730796111571,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Starter Space Platform (with White Science)"
 }

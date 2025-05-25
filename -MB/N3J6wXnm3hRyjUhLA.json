@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1622827680418,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Purple and Yellow Science 60 per min",
   "favorites": {
     "TbOkLLzL19WbvBilPAXFoga7aQG2": true,

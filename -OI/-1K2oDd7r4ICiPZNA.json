@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/tEegV5W",
   "lastUpdatedDate": 1738388858555,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/tap/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/tap/"
+  ],
   "title": "Balanced Bus Taps",
   "favorites": {
     "aRQQsfOOkLRo69IbKazXPJMRSvG3": true,

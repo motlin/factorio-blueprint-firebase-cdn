@@ -97,12 +97,12 @@
   },
   "lastUpdatedDate": 1553808761376,
   "numberOfFavorites": 74,
-  "tags": {
-    "3": "/general/compact/",
-    "4": "/general/beaconized/",
-    "5": "/general/tileable/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  }
+  "tags": [
+    "/general/compact/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ]
 }

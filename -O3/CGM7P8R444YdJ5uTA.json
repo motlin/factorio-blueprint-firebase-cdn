@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/xc9BVrJ",
   "lastUpdatedDate": 1722504834346,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "full red circ from iron_ore, copper ore, rude oil and water"
 }

@@ -16,9 +16,9 @@
   "imageUrl": "https://i.imgur.com/aWXV8VC.png",
   "lastUpdatedDate": 1742232291683,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "science compact deathworld"
 }

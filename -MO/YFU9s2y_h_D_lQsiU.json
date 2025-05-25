@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1636974582706,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "CoRNeRNoTe's Outpost Supply Station"
 }

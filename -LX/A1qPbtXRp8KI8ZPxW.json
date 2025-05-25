@@ -16,11 +16,11 @@
     "userId": "7fZJw6U2IuNkODcVttXvTOopf5G3"
   },
   "descriptionMarkdown": "\n\n**Module to request additional ConstructionBots**\n\nHere you find a blueprint for a cluster of combinators that can be attached to a existing RequesterBase to add a certain behaviour. \nThose clusters are subsequently called \"module\". \n\nExplanation of the module is below. \n\n\n**A system to deliver items by train from a central base to outposts.** \n\n\nsee also: [ItemDelivery - ProviderBase](https://factorioprints.com/view/-L4ThUDlc3ebWiNTQHbv)\n\nsee also: [ItemDelivery - RequesterBase](https://factorioprints.com/view/-L4Thzw_FogBACMitAlR)\n\nsee also: [ItemDelivery - TestSetup](https://factorioprints.com/view/-L4Tj7Wzf3BhoIh_kFoE)\n\nsee also: [ItemDelivery - Requester Module \"Inhibitor\"](https://factorioprints.com/view/-LX9bQG1RsJzUXNQPRm3)\n\nsee also: [ItemDelivery - Requester Module \"BotLossPrevention\"](https://factorioprints.com/view/-LXA1qPbtXRp8KI8ZPxW)\n\n\n--- \n\n- **usecase **\n - when building large roboport networks, parts can be disconnected due to discharge of roboports. \n - it is possible to loose construction bots to a disconnected network or powerless roboports. \n - this module requests additional construction bots if previous bots have been lost. \n\n\n---\n- **usage**\n - module is blueprinted over existing RequesterBase\n - blueprint will fit to any existing RequesterBase\n - module will send a additional request if \n   - RequesterBase is enabled \n   - RequesterBase is at least at step 1 (Signal-S > 0)\n   - it's own ID is reached (in the clocked counter)\n   - the fourth step is not reached (Signal-S < 4)\n   - less than 5 construction bots are in the network of the primary roboport (see below *1)\n - the bot request will be made even if the previously delivered items are not used up (\"passive provider chests are not empty\")\n - no additional configuration is required. The RequesterBase ID is read from the existing base. \n\n\n\n---\n- **annotation** \n - (*1) the primary roboport is the one that is built with the requesterbase \n - for detecting the number of construction bots a roboport is read. \n   - therefore modded construcion bots are also included in the decision. \n - when a train enters the Requesterbase the step (Signal-S) is incremented\n   - if the module requests construction bots it decrements the Signal-S by one, so that no regular requests are skipped\n\n---\n\n- **compatibility**\n - RequesterBase v09 and above\n - ProviderBase v09 and above\n\n--- \n\n- **changelog** \n - 2019-01-26 v31\n   - initial release",
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "qZeMchEZzuXWhCGlg2v1wo4vcpz1": true
   }

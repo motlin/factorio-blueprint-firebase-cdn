@@ -19,8 +19,8 @@
   "imageUrl": "https://imgur.com/9PXNgpx",
   "lastUpdatedDate": 1742439059491,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "ZX Edge Wanderer (Legendary)"
 }

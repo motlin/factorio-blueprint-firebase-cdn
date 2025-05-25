@@ -2,10 +2,10 @@
   "title": "Compact Science (1.5/sec)",
   "fileName": "science_compact.png",
   "lastUpdatedDate": 1614845094055,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/science/"
+  ],
   "createdDate": 1614845094055,
   "descriptionMarkdown": "Compact Science Production Setup for all Science Packs except Space Science",
   "image": {

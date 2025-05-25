@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2adbGPa",
   "lastUpdatedDate": 1742678159785,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Velocity Controlled Pulse Frequency Modulator",
   "favorites": {
     "WvKqukTTOgOpB3L7ZkSGTl0dSDt2": true,

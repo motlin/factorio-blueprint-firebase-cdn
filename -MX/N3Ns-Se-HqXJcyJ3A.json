@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1617458990819,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/seablock/",
-    "1": "/production/smelting/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/production/smelting/",
+    "/version/1,0/"
+  ],
   "title": "Seablock ore from electrosis with filter",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

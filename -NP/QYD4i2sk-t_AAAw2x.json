@@ -16,10 +16,10 @@
   "lastUpdatedDate": 1706638052076,
   "numberOfFavorites": 2,
   "title": "SE early Chest MOLL",
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/mall (make everything)/"
+  ],
   "favorites": {
     "zVVk7GVeblcAwWqO9OFmYlDiuh32": true,
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,

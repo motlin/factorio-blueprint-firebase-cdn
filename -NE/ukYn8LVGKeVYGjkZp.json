@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1695405096372,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/general/tileable/",
-    "3": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/",
+    "/power/solar/"
+  ],
   "title": "ion's Base Grid",
   "favorites": {
     "q2nT2i6whtPNOdaNRNkm1OQ38l22": true,

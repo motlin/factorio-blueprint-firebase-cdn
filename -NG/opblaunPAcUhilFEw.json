@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1697398553867,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Perfect Balancer 4x4 Book (Yellow / Red / Blue)",
   "favorites": {
     "EQWo2AotpXOMAPiR15tIobRv2KZ2": true,

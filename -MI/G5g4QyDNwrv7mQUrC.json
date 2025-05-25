@@ -7,9 +7,9 @@
     "width": 410
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/bobs/"
+  ],
   "title": "Bob's Mod Wood",
   "favorites": {
     "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,

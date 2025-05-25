@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1696643512395,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/tileable/"
+  ],
   "title": "Hexagonal Solar Tile ",
   "favorites": {
     "61c4iW1tz1ZTv7VumqllnHHhJR73": true,

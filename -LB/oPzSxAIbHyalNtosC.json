@@ -19,8 +19,8 @@
     "py0eOYklKgfdnZKiIdcKtJYWR2J3": true,
     "XRA7ZAydkXgzghVpJvpwogwP7Ok1": true
   },
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Ore to Green Circuits"
 }

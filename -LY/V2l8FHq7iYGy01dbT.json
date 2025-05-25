@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/production/science/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "bLSNBxaDOhgPGALrThBBVL7PoVK2": true
   },

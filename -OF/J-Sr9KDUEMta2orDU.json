@@ -23,10 +23,10 @@
   "imageUrl": "https://imgur.com/cMNE7Lo",
   "lastUpdatedDate": 1735750433932,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Spaceship to the destroyed planet"
 }

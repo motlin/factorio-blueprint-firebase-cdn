@@ -70,14 +70,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/module%20megafactory%20v1.3.jpg?alt=media&token=b330ed08-ba7e-4c0d-84a0-71b60d6d22cf",
   "lastUpdatedDate": 1598898467611,
   "numberOfFavorites": 49,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/train/right-hand-drive/",
-    "4": "/mods/vanilla/",
-    "5": "/mods/other/",
-    "6": "/version/1,0/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/mods/other/",
+    "/version/1,0/"
+  ],
   "title": "Module Megafactory - 67.5 Modules/minute"
 }

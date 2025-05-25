@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/YZ9cwaP",
   "lastUpdatedDate": 1738198537425,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Endgame Circuits ",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

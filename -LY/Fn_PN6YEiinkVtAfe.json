@@ -8,13 +8,13 @@
     "width": 728
   },
   "numberOfFavorites": 42,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/circuit/counter/"
+  ],
   "favorites": {
     "X4X8LCbtIYO69H0qIGSzPA1Pdus2": true,
     "3YxKJ1VOMvchmbj441LUB0NNUgC2": true,

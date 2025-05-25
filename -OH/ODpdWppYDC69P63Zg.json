@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/jOKzVPR",
   "lastUpdatedDate": 1737737591571,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Spaceship to finish the game after Aquilo."
 }

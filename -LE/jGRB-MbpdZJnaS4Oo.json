@@ -10,10 +10,10 @@
     "width": 276
   },
   "lastUpdatedDate": 1557826398600,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/belt/balancer/"
+  ],
   "title": "factorio Load Train Balance Relax.ltd",
   "author": {
     "userId": "F3pe6BFZBgSjU5wq4uwNMoF54X43"

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/bU2ojAb",
   "lastUpdatedDate": 1737080001388,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "2x8 Nuclear Reactor + logic",
   "favorites": {
     "tCN0oTbIYGM18hBsTBjn8Y1w3Ra2": true

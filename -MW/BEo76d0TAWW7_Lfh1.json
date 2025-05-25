@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1616186917739,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Green Bottle Rush",
   "favorites": {
     "OkAcs00iftUnlcGpDhErwNyyOmf2": true,

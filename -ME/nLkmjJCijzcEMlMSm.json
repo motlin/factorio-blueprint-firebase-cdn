@@ -33,14 +33,14 @@
   },
   "lastUpdatedDate": 1597642198878,
   "numberOfFavorites": 13,
-  "tags": {
-    "2": "/version/0,18/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/junction/",
-    "5": "/train/roundabout/",
-    "6": "/train/track/",
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,18/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/track/",
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "[1.0] ElderAxe's Chunk Snap RHD Rail Network (v1.0.3C)"
 }

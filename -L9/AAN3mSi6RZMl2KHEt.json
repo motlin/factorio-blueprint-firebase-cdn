@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1522753438853,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Meerkats Smelting Station"
 }

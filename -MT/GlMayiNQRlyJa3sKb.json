@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"
   },

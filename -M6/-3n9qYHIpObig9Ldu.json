@@ -21,12 +21,12 @@
   },
   "lastUpdatedDate": 1588065534093,
   "numberOfFavorites": 4,
-  "tags": {
-    "4": "/general/tileable/",
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/",
-    "2": "/production/research (labs)/",
-    "3": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/research (labs)/",
+    "/production/rocket parts/"
+  ],
   "title": "\"standardized research unit\": 500 spm from raw"
 }

@@ -21,9 +21,9 @@
     "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "3-Track Roundabout to 4-track junction"
 }

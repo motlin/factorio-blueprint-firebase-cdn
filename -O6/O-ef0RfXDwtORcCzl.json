@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/gWdJyd5",
   "lastUpdatedDate": 1725922716551,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Planta para fabricação de circuito verde (S.E. + Exotics)"
 }

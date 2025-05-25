@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1682227001437,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/power/nuclear/"
+  ],
   "title": "477 MW Kovarex Reactor",
   "favorites": {
     "ZCdZvG7ntGbzG03U81dfaiGrInP2": true,

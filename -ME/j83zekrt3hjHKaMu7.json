@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1626436030651,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/research (labs)/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/general/tileable/"
+  ],
   "title": "Tileable science labs, beaconed.",
   "favorites": {
     "ee0y1OC2txUGS0LxGUT5PCGm9VT2": true,

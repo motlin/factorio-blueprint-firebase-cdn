@@ -18,10 +18,10 @@
   },
   "authorId": "3q9RBx9ECyTNnkXCV4pRZLyHLrF3",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconed Kovarex 0.17"
 }

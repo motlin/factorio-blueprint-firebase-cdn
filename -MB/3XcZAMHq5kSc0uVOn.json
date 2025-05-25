@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1622500797558,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta de componentes eletrônicos"
 }

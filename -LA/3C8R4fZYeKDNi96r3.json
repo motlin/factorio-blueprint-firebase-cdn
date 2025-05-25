@@ -9,12 +9,12 @@
   },
   "lastUpdatedDate": 1552862690257,
   "numberOfFavorites": 11,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/version/0,17/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "2VaCim9Cz8YIbWn6Az3EIzR87L12"
   },

@@ -20,13 +20,13 @@
   },
   "lastUpdatedDate": 1538840716029,
   "numberOfFavorites": 13,
-  "tags": {
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/production/rocket parts/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "EPYC 3200 science/min belt based gigafactory "
 }

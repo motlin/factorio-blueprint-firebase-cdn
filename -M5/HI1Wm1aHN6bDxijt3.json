@@ -13,9 +13,9 @@
     "type": "image/jpeg",
     "width": 604
   },
-  "tags": {
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/krastorio/"
+  ],
   "descriptionMarkdown": "Moll.Beginning of game.Red-conveyor, underground conveyor, separator",
   "fileName": "#1 MOLL.jpg",
   "lastUpdatedDate": 1587297397119,

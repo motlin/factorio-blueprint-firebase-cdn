@@ -13,11 +13,11 @@
   "authorId": "Bm2XP6r3GNNJ5AM6QJDs2A04owb2",
   "lastUpdatedDate": 1518460998272,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "2 and 4 lane right hand drive",
   "favorites": {
     "lB9C0HsXPrh90CaljaDhCDkqv773": true,

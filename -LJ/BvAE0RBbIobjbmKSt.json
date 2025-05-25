@@ -11,10 +11,10 @@
     "width": 685
   },
   "lastUpdatedDate": 1562511193130,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true
   },

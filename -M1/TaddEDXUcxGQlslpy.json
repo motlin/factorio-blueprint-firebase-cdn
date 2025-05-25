@@ -3,9 +3,9 @@
   "createdDate": 1583208897155,
   "fileName": "20200302221234_1.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/rocket parts/"
+  ],
   "author": {
     "userId": "R70ykiKK3oap7nNFuBw2VKUtRC13"
   },

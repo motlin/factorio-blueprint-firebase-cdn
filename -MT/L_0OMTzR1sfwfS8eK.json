@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1642130415526,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Circuit-Based Kovarex Cyclical Centrifuge",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screen%20Shot%202022-01-13%20at%207.20.03%20PM.png?alt=media&token=29601f3f-2cd8-4ce5-abf1-9f6b08a125de",
   "favorites": {

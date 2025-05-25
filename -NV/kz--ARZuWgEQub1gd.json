@@ -61,10 +61,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-08-17%20211619.png?alt=media&token=ea559ff3-226d-4006-8973-0724192c45ea",
   "lastUpdatedDate": 1692304085284,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/robots/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/robots/",
+    "/general/mid game/"
+  ],
   "title": "Cobai's Starter Base"
 }

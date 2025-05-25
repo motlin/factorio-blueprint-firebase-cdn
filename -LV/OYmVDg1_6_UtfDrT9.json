@@ -6,9 +6,9 @@
     "id": "0xZs5Gc",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/general/storage/"
+  ],
   "title": "Separate collection system",
   "author": {
     "userId": "Sm38dnMUagNsYkDCDNCy8lrUbBn2"

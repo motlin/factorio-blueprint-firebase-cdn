@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/3Zrj2AX.png",
   "lastUpdatedDate": 1743492512449,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/planets/aquilo/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/planets/aquilo/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Aquilo Mall",
   "favorites": {
     "if0KvlQHynfuU1gZJTTBndH58b93": true,

@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/LavBFAZ",
   "lastUpdatedDate": 1734316070823,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Automatic Missile Silo"
 }

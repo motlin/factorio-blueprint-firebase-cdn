@@ -1,14 +1,14 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/belt/balancer/",
-    "4": "/belt/prioritizer/",
-    "5": "/general/storage/",
-    "6": "/general/compact/",
-    "0": "/version/0,18/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/general/storage/",
+    "/general/compact/",
+    "/version/0,18/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/"
+  ],
   "author": {
     "userId": "iHhtt0VjClOKL7oySaUPBKGsblU2"
   },

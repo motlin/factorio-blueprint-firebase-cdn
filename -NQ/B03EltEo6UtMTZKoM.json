@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1678460077072,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/space-exploration/"
+  ],
   "title": "Double head train unloading station",
   "favorites": {
     "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,

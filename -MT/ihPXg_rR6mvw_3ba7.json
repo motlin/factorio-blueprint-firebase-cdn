@@ -4,11 +4,11 @@
   },
   "authorId": "MEWuAm90tMec1T9OBhaAaXfAzKu2",
   "lastUpdatedDate": 1613544030418,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "numberOfFavorites": 2,
   "title": "Smelting - Early Game - 01",
   "favorites": {

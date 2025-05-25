@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1687452210723,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "K2+SE Vulcanite Enrichment blueprintable",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,

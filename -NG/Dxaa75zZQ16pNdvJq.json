@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1696764044844,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/version/1,1/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/production/smelting/",
-    "5": "/general/tileable/",
-    "6": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/version/1,1/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/smelting/",
+    "/general/tileable/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Tilable smelting array for iron ore to steel"
 }

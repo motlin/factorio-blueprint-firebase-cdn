@@ -15,14 +15,14 @@
     "userId": "QIE2KWG9txYWeZcZtcboDUSME8G2"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/version/0,17/",
-    "4": "/general/compact/",
-    "5": "/general/mid game/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,17/",
+    "/general/compact/",
+    "/general/mid game/"
+  ],
   "favorites": {
     "FD6RNKG7g9aEIIyr8VBZkivmRBC3": true,
     "yRIBRM3dM2P9mPXrxEr3EjNInoZ2": true

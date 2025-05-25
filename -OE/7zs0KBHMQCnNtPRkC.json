@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/1A5UiEB",
   "lastUpdatedDate": 1734244008096,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/scrap processing/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/scrap processing/",
+    "/version/2,0/"
+  ],
   "title": "Fulgora Scrap Processor"
 }

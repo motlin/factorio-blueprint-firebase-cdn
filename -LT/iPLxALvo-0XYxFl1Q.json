@@ -10,10 +10,10 @@
     "width": 1920
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/circuit/indicator/"
+  ],
   "author": {
     "userId": "EzGm37xWj9ed9UBEG0QuGTfg4B93"
   },

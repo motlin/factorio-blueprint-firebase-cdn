@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1667832796776,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Battery production",
   "favorites": {
     "30uVQqdTcMXlRixDI20F6cwA7rM2": true,

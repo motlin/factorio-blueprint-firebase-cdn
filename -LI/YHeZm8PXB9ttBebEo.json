@@ -16,11 +16,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Desktop%20Screenshot%202018.07.28%20-%2018.59.26.30.png?alt=media&token=618624ae-bae8-4c58-b729-0778b8c2361e",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/general/mid game/"
+  ],
   "authorId": "2cc7xkYYiGQaEOtL8d49aPXVphD3"
 }

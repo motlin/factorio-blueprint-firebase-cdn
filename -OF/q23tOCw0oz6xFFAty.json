@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/EB4OYky",
   "lastUpdatedDate": 1736073563876,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/mid game/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/mid game/",
+    "/version/2,0/"
+  ],
   "title": "Tileable ´mid game´red circuit",
   "favorites": {
     "UO9vDAYuXjelUNfZkJSEIcL9erl1": true,

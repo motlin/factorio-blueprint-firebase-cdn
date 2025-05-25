@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/VhvOO8k",
   "lastUpdatedDate": 1731507243801,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Low tech tiny sub-200 ton ship that can get you 100.000 km past the solar system edge",
   "favorites": {
     "n8GLb3q69LdQgr2KIc1B9MS9V2w1": true,

@@ -16,11 +16,11 @@
     "id": "1caQX3t"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/general/tileable/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/general/tileable/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "52xvana4NEOamyAuqlZxzJlpReg1"
   },

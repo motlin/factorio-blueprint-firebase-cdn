@@ -15,11 +15,11 @@
   "createdDate": 1514811833924,
   "fileName": "mining.png",
   "lastUpdatedDate": 1514811833924,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/tileable/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Compact tileable mining blueprint using Red Belts",
   "favorites": {
     "T38webOf7vO6VvFbKOXCMo8aBHO2": true,

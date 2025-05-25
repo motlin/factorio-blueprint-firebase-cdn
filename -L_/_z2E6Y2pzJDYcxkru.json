@@ -6,11 +6,11 @@
     "type": "image/png",
     "width": 714
   },
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/bobs/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/bobs/",
+    "/general/compact/"
+  ],
   "favorites": {
     "DsrFo30lDCYxn8mTxfO1ANTusw52": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

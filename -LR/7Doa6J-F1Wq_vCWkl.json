@@ -11,11 +11,11 @@
   },
   "authorId": "5zpbq4m4qNZUUs8tij5bzeiAK8J2",
   "lastUpdatedDate": 1571022521027,
-  "tags": {
-    "2": "/train/unloading station/",
-    "0": "/version/0,17/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,17/",
+    "/version/0,16/"
+  ],
   "image": {
     "width": 1920,
     "height": 1080,

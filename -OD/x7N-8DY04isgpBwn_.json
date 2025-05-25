@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/cJUtuUh",
   "lastUpdatedDate": 1734044909712,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-exploration/",
-    "3": "/mods/space-age/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/",
+    "/mods/space-exploration/",
+    "/mods/space-age/",
+    "/general/mid game/"
+  ],
   "title": "Thinnest Aquilo ship [CHEAP]",
   "favorites": {
     "tFKPdeXmoPaHi6uBa2TXpr0Ytkr2": true,

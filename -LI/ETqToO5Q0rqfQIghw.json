@@ -14,11 +14,11 @@
     "type": "image/jpeg",
     "width": 896
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "authorId": "2D6GPmnmgUb4PAFLo6FDxiDVnJP2",
   "createdDate": 1561480358107,
   "favorites": {

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1671458029050,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/1,1/"
+  ],
   "title": "Thermofluid processing",
   "favorites": {
     "XFhDixFQnqe9724wEph6RDOq0lt1": true,

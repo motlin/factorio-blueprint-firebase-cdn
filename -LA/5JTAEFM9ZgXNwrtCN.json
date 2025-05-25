@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/train/track/"
+  ],
   "author": {
     "userId": "Jfw5fgZ8AcO891GSakpfCC4QUl22"
   },

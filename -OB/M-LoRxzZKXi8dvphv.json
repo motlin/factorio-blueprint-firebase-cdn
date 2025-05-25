@@ -239,8 +239,8 @@
   "imageUrl": "https://imgur.com/nYg5xnx",
   "lastUpdatedDate": 1732271341730,
   "numberOfFavorites": 86,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus all production, no mods, game version 2.0+"
 }

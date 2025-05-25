@@ -19,15 +19,15 @@
   },
   "lastUpdatedDate": 1649358991086,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/general/tileable/",
-    "5": "/production/coal liquification/",
-    "6": "/production/electronic circuit (green)/",
-    "7": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/tileable/",
+    "/production/coal liquification/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "blue circuits 15 per second"
 }

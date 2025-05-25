@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1692355523545,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/smelting/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/",
+    "/version/0,15/"
+  ],
   "title": "Авто піч Заліза,Сталі,Камня,Міді"
 }

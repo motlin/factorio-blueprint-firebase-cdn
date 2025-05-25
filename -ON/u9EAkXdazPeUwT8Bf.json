@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/UBIAMk3",
   "lastUpdatedDate": 1744732550884,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Stargate 🚀 Aurora Class Battleship – Factorio Space Age  🛸 "
 }

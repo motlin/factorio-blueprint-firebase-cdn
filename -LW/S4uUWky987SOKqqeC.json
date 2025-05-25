@@ -18,11 +18,11 @@
   "authorId": "4NBofIU70GaTqAFNmcI5lESXXJk2",
   "fileName": "Desktop Screenshot 2019.01.17 - 19.29.01.69.png",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconed oil build 106k/m petroleum gas  output "
 }

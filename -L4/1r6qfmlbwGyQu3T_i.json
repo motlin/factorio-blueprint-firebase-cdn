@@ -20,8 +20,8 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/"
-  }
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/"
+  ]
 }

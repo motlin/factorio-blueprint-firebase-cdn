@@ -40,10 +40,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/optimall-just-the-mall.png?alt=media&token=8788c09c-817c-417d-b8d9-7df6d9511539",
   "lastUpdatedDate": 1552819654832,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/train/loading station/"
+  ],
   "title": "Optimall: low-tech modular construction train mall - v0.0.2"
 }

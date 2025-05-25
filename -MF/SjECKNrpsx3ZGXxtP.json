@@ -24,12 +24,12 @@
   },
   "lastUpdatedDate": 1598741125015,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/general/late game (megabase)/",
-    "3": "/version/1,0/",
-    "4": "/version/0,18/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/",
+    "/version/1,0/",
+    "/version/0,18/"
+  ],
   "title": "2.7K science/min SPM full blue belt"
 }

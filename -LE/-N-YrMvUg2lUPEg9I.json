@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Decorational heliport with pulsing lights",
   "favorites": {
     "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true,

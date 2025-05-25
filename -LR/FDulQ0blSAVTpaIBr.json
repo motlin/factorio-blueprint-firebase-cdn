@@ -8,13 +8,13 @@
   },
   "lastUpdatedDate": 1571156895862,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/production/inserters/",
-    "4": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/inserters/",
+    "/production/mall (make everything)/"
+  ],
   "title": "IO Mall V0.1",
   "author": {
     "userId": "ZlMUBm5qAbgdzzAQ7luTvNhU1Nm1"

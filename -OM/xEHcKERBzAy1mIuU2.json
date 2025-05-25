@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/MrEc71z",
   "lastUpdatedDate": 1743710399168,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/nuclear/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/nuclear/",
+    "/mods/other/"
+  ],
   "title": "Nave espacial básica"
 }

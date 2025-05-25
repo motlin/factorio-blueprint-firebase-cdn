@@ -20,10 +20,10 @@
   "createdDate": 1590806738156,
   "descriptionMarkdown": "Beaconized uranium facility for supporting atomic bomb production and train refueling.\n\nInputs uranium ore, iron plates (requester), light oil, used up uranium fuel cell (40/min, supports up to 133 reactors).\n\nOutputs U235 (69/min after Kovarex), U238, fuel cells (94.5/min, supports up to 315 reactors), nuclear fuel (5.3/min, supports up to 178 locomotives).\n\nCircuit logic enables uranium processing (<4600 U238 in 1 chest to allow Kovarex bootstrap, 98% success) or Kovarex (<100 U235) depending on chest thresholds. Power gate shuts down factory to save beacon power if all thresholds (U235, U238, fuel cells, nuclear fuel, zero used up fuel cells) are reached.",
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Uranium facility"
 }

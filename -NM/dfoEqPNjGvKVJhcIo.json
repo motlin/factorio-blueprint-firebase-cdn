@@ -15,18 +15,18 @@
   },
   "lastUpdatedDate": 1737133326952,
   "numberOfFavorites": 52,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/prioritizer/",
-    "2": "/general/compact/",
-    "3": "/mods/angels/",
-    "4": "/mods/creative/",
-    "5": "/mods/industrial revolution/",
-    "6": "/production/science/",
-    "7": "/production/inserters/",
-    "8": "/production/belt based/",
-    "9": "/train/stacker/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/general/compact/",
+    "/mods/angels/",
+    "/mods/creative/",
+    "/mods/industrial revolution/",
+    "/production/science/",
+    "/production/inserters/",
+    "/production/belt based/",
+    "/train/stacker/"
+  ],
   "title": "Advanced Science Pack - Zaawansowany pakiet naukowy. Automatyzacja, Jak działa, schemat.",
   "favorites": {
     "SoEUMOa5ChhM0hXyXFkAgQQ3Ilj2": true,

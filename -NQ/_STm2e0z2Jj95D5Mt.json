@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1680733322508,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "1-BlueBelt Beacon Smelter",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/B%20smeltr.png?alt=media&token=3e493e59-7bda-47ae-b3ba-5c7447a0caf1",
   "favorites": {

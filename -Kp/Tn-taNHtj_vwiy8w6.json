@@ -17,12 +17,12 @@
     "type": "image/png",
     "width": 448
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/tileable/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/general/early game/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/general/tileable/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

@@ -17,10 +17,10 @@
   "imageUrl": "https://i.imgur.com/eob1qMk.jpeg",
   "lastUpdatedDate": 1738615652492,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "Aquilo Ship"
 }

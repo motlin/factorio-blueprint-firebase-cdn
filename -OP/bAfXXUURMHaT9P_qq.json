@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/ThSvQL3.png",
   "lastUpdatedDate": 1747422092272,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/belts/"
-  },
+  "tags": [
+    "/production/belts/"
+  ],
   "title": "Make all belts",
   "favorites": {
     "FAwJq9XFowfA7eZymvwWT9alVfn2": true,

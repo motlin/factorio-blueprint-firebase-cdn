@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/4Xi14M1",
   "lastUpdatedDate": 1734206007449,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/planets/space-platform/"
+  ],
   "title": "Fission Horizon",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true

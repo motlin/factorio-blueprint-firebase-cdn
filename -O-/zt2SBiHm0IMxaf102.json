@@ -17,11 +17,11 @@
   "imageUrl": "https://imgur.com/N8MP71Q",
   "lastUpdatedDate": 1719058839694,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/production/mall (make everything)/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/mall (make everything)/",
+    "/version/1,1/"
+  ],
   "title": "BA's Mall of America"
 }

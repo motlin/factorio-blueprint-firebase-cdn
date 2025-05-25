@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/B7coYB7",
   "lastUpdatedDate": 1731274780184,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "1kspm Space Science",
   "favorites": {
     "xn9VsXbjq1ZG8ipiqdl4VXkcAV23": true,

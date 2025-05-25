@@ -15,11 +15,11 @@
     "width": 1193
   },
   "lastUpdatedDate": 1521547904052,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "0d2o3kiCqQRcVIywBjeosipcVt02": true
   },

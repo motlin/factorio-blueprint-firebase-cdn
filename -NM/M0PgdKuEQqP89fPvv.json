@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1674349751152,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Six tiles four lane train unloading.",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true

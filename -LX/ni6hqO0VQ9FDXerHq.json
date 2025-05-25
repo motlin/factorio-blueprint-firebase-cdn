@@ -15,9 +15,9 @@
     "width": 336
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/junction/"
+  ],
   "title": "MY Rails System"
 }

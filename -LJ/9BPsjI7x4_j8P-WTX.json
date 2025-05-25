@@ -11,9 +11,9 @@
   "fileName": "00fin.jpg",
   "lastUpdatedDate": 1533474352894,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "2AwFahgOggU9JY1edNvTOaAAkH73"
   },

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/fhgQCM5",
   "lastUpdatedDate": 1730814700088,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/belt/balancer/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/belt/balancer/",
+    "/version/2,0/"
+  ],
   "title": "Parameterized item quality filter balancer 5-to-4 belts TU",
   "favorites": {
     "p1WOssVgKiYcycgnkicMARuP2pI3": true,

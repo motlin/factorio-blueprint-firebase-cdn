@@ -9,13 +9,13 @@
     "width": 695,
     "height": 695
   },
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "6MGWC2v8imePCNkKPnZehgDGG113": true,
     "KfbDRv67nlVIqDg7mkq8W1wjpd03": true,

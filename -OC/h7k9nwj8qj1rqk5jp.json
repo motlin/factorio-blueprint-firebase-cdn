@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/dCB1t3H",
   "lastUpdatedDate": 1732702831422,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "Mall item with controlled requests",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

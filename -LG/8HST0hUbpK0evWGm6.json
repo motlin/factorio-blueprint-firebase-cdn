@@ -21,12 +21,12 @@
   "createdDate": 1559228962812,
   "descriptionMarkdown": "30 Research Labs\n\nUpgraded to 10 Beacons per Research Lab\n\nTotal Research Speed Bonus = +1895%\n\nAccepts all 7 sciences - you can feed it how you like but I've fed Red/Green and Blue/Grey above and then Purple/Yellow and White below\n\nThis consumes around 530 spm",
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/general/beaconized/",
-    "0": "/production/research (labs)/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/research (labs)/",
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "30 Beaconed Labs",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20190601141637_1.jpg?alt=media&token=8042a40e-0f8b-4143-b564-1568c9c84ae4"
 }

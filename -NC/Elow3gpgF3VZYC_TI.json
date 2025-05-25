@@ -19,10 +19,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/10p08gw_intellisaver_series_nuke_reactor.png?alt=media&token=d661b802-8f99-4b77-91c5-5570bed3e6f6",
   "lastUpdatedDate": 1663525621008,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "title": "10.08GW 64-core \"Infinisaver Series\" Nuclear Reactor by 1x4x9"
 }

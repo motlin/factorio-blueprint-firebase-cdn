@@ -1,11 +1,11 @@
 {
   "createdDate": 1552563899113,
   "lastUpdatedDate": 1552563899113,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,17/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,17/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "k9ZZttiswNVVdrVb3qRfps6oaQE3": true,
     "kBJivJzGdZdQzLmiijv1VeJOa732": true,

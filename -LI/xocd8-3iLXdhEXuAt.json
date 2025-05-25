@@ -7,11 +7,11 @@
   },
   "lastUpdatedDate": 1533266791353,
   "numberOfFavorites": 7,
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/mods/bobs/",
-    "0": "/mods/angels/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Angels Ingots and Plates",
   "favorites": {
     "j099BfaxjlgSY5LxT4SGByYDH7J2": true,

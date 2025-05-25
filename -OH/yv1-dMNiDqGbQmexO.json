@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/abFY0AG",
   "lastUpdatedDate": 1739298473707,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/space-age/"
+  ],
   "title": "Legendary EM Plant Upcycler (Fixed)",
   "favorites": {
     "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,

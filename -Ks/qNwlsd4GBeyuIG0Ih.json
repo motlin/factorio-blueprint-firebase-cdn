@@ -16,15 +16,15 @@
     "width": 1181
   },
   "numberOfFavorites": 11,
-  "tags": {
-    "3": "/production/smelting/",
-    "4": "/general/beaconized/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "favorites": {
     "iWqdF9AjJicQG0bjzLAtyW0xTSI3": true
   },

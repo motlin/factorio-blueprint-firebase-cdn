@@ -14,10 +14,10 @@
     "type": "image/jpeg",
     "width": 1281
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "favorites": {
     "75xUXQAWvhhlrqW8XpeXlSn2N9I2": true,
     "YGqCItpBpUhT6KSAPc3asOIDQpQ2": true,

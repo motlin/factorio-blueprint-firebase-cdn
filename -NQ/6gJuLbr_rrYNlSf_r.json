@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1707378983677,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "Belt-Based Kovarex Enrichment Setup with beacons",
   "favorites": {
     "twSThkJF4jZcIPGprsTjhPnLjam2": true

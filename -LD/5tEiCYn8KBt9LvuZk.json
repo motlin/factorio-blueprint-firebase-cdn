@@ -42,12 +42,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20190429142437_1.jpg?alt=media&token=6f8c92ed-5bbe-48ad-ae75-001dafece0d9",
   "lastUpdatedDate": 1556576408961,
   "numberOfFavorites": 24,
-  "tags": {
-    "3": "/train/unloading station/",
-    "4": "/train/stacker/",
-    "0": "/mods/vanilla/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/train/loading station/"
+  ],
   "title": "Modular 1-8 Train Stations v1.1"
 }

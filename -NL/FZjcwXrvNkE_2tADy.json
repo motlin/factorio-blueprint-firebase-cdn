@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1702158858921,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/krastorio/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Modular Advanced Circuit Production in Krastorio 2"
 }

@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1523771970936,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Smelting with Trains"
 }

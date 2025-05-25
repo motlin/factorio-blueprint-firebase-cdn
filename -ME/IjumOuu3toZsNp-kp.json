@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1625976890370,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Expandable Smart Nuclear Power"
 }

@@ -9,11 +9,11 @@
     "height": 503
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/production/guns and ammo/",
-    "2": "/version/0,17/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Selfbuilding Defensive Wall.",
   "author": {
     "userId": "lVkMDGQvDLPektStkKgTkYhxhwY2"

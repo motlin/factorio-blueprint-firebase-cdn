@@ -99,10 +99,10 @@
   },
   "lastUpdatedDate": 1637089864855,
   "numberOfFavorites": 78,
-  "tags": {
-    "1": "/train/right-hand-drive/",
-    "2": "/train/track/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/train/junction/"
+  ],
   "title": "4 Lane Rail Blueprints SC"
 }

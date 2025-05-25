@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1595970795949,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/nuclear/"
+  ],
   "title": "Four Stage Evolution Reactor (2x2)"
 }

@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1666202672335,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Robots Production (large)"
 }

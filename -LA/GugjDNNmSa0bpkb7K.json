@@ -9,14 +9,14 @@
     "width": 1298,
     "height": 649
   },
-  "tags": {
-    "5": "/version/0,17/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "DVqmYKcZDKdm56vTwjBQX5YJPAi2": true,
     "50tu8G28CJX40yeQArRHYPCsy2e2": true,

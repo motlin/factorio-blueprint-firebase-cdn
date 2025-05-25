@@ -8,9 +8,9 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "author": {
     "userId": "X6vclT60SFRFTqfJNbotvEEFCpB3"
   },

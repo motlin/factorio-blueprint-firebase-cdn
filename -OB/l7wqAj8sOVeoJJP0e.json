@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/AqJBBNp",
   "lastUpdatedDate": 1732136308607,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/space-age/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/",
-    "4": "/version/2,0/",
-    "5": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/space-age/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/version/2,0/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Late compact tileable Processing Unit 20.8/s",
   "favorites": {
     "BZodS8gl1vhN97tOaUxkyMHfCLo2": true,

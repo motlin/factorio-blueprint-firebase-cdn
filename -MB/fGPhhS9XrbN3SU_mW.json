@@ -2,12 +2,12 @@
   "createdDate": 1594158853327,
   "descriptionMarkdown": "Nuclear power plant for space with 4 reactors, no waste circuitry, belted input and output.\n\nConnect water to any point at outer pipe with pump, and set it to only pump in at T<400k (water+steam).\n\nLow steam storage capacity is compensated with more heat pipes.\n\nMods: Space Exploration, Text Plates (very optional)",
   "lastUpdatedDate": 1673052137142,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/version/0,18/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,18/",
+    "/mods/space-exploration/"
+  ],
   "author": {
     "userId": "IKdRLqYHo0YUlYQ6P3mJEOFne7p2"
   },

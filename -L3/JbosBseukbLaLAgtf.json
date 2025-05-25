@@ -17,9 +17,9 @@
     "id": "XmWTRbu",
     "type": "image/png"
   },
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "Trainhop line",
   "authorId": "oDHEWMFsa9XT44uKOyFNNLGDFyD3"
 }

@@ -2,12 +2,12 @@
   "createdDate": 1597592281030,
   "descriptionMarkdown": "Takes a 2+8 train of iron ore and outputs two blue belts of steel.",
   "lastUpdatedDate": 1603568793971,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "favorites": {
     "lmJVF7miWvOgr9Rv5Viqlxynmpf1": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,

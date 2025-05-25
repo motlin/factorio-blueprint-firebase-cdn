@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1617155424993,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/late game (megabase)/"
+  ],
   "title": "45/s bot frame factory"
 }

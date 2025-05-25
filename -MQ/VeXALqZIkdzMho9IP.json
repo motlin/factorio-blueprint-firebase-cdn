@@ -26,8 +26,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_100spm_no_beacon.png?alt=media&token=aa10c531-6d79-4f4a-8a1f-c822c7010e46",
   "lastUpdatedDate": 1610161127379,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "No Beacon 100 SPM base"
 }

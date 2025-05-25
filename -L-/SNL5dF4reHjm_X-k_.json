@@ -24,18 +24,18 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot23.jpg?alt=media&token=bdbd3335-35dc-4a64-a2be-19fa7364109c",
   "lastUpdatedDate": 1534765434715,
   "numberOfFavorites": 9,
-  "tags": {
-    "1": "/mods/angels/",
-    "5": "/power/kovarex enrichment/",
-    "7": "/general/late game (megabase)/",
-    "8": "/production/smelting/",
-    "10": "/general/beaconized/",
-    "0": "/mods/bobs/",
-    "2": "/general/mid game/",
-    "3": "/production/uranium/",
-    "4": "/production/other/",
-    "6": "/power/nuclear/",
-    "9": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/power/kovarex enrichment/",
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/bobs/",
+    "/general/mid game/",
+    "/production/uranium/",
+    "/production/other/",
+    "/power/nuclear/",
+    "/version/0,16/"
+  ],
   "title": "Demon Forge - Bob+Angel ores T2 Refinery v0,16 (Mid-Late Game)"
 }

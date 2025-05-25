@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/unloading station/",
-    "3": "/production/oil processing/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/",
+    "/production/oil processing/"
+  ],
   "title": "Single Liquid System",
   "author": {
     "userId": "KG53vmQQOMY7CJKjH0ZgeT5QbzH2"

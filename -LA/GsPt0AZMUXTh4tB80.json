@@ -2,12 +2,12 @@
   "createdDate": 1552930680624,
   "lastUpdatedDate": 1552930680624,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/",
-    "3": "/version/0,17/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/production/modules/"
+  ],
   "favorites": {
     "wwITNfNOPOMTL62zpsJ20Ht3MDF3": true,
     "IRSe3pbdzSbPlVPbfpinfW4J3gl1": true,

@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/xtg1urE",
   "lastUpdatedDate": 1725393178219,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/nuclear/"
+  ],
   "title": "Cat's-Eye Power book"
 }

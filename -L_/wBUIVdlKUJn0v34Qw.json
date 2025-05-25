@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "favorites": {
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
     "LDIEhCGmYYSiXqRGCPT4CrfazNj2": true,

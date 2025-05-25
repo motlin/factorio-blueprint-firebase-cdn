@@ -12,10 +12,10 @@
   "fileName": "factorio_2019-08-31_23-49-37.png",
   "lastUpdatedDate": 1567313417703,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/version/0,17/"
+  ],
   "title": "Balanced 6-2 Train Unloader",
   "favorites": {
     "8sriGb3U6XcmHqkvBwFmBe0QsHF2": true,

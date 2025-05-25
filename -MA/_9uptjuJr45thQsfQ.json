@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1621974239330,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/unloading station/"
+  ],
   "title": "Trilhos de trens (Episodio 18)"
 }

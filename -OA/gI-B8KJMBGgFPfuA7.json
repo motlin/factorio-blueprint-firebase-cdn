@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/3G7SitN",
   "lastUpdatedDate": 1730541257725,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/general/tileable/"
+  ],
   "title": "Kovarex by MrRoboticWarfare upgraded by Martinezzz",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

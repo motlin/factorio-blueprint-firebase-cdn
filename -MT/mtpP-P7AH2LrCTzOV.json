@@ -20,9 +20,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Don's%20Onlyrockets.png?alt=media&token=9dc939c2-25d8-442a-9861-1524d1507adc",
   "lastUpdatedDate": 1642614138763,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/"
+  ],
   "title": "Don's OnlyRockets"
 }

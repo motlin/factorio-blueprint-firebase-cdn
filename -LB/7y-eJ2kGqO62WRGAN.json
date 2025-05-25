@@ -3,12 +3,12 @@
   "fileName": "BeltSchool.gif",
   "lastUpdatedDate": 1524863950678,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "LyrgNIs5RffNRrluhH02lU09B3K3"
   },

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1652971746923,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Электродвигатели",
   "favorites": {
     "YnHQQcleRlZhe3wBfVDFjnBId7O2": true,

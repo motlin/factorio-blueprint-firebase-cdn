@@ -3,10 +3,10 @@
   "createdDate": 1557565118809,
   "descriptionMarkdown": "Using as a back up for my blueprints",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "XoCxLqSLEkOOcsnzT6izq3XWptr2": true,

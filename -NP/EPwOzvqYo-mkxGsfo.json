@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1706436232953,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/power/solar/"
+  ],
   "title": "Tileable Advanced Solar Panel and Advanced Accumulator",
   "favorites": {
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,

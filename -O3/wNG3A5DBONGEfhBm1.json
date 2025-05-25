@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/BHaYnFs",
   "lastUpdatedDate": 1723294880153,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/general/chunk aligned/"
+  ],
   "title": "[30MW] Solar farm",
   "favorites": {
     "EvaNe6klxnT1OclHcJOK9viifBV2": true

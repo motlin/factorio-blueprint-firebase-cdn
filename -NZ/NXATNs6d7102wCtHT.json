@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1688333760536,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Roboport Grid (1 Chunk) (Landfilled)",
   "favorites": {
     "G9XjFpTJiTaEbkolr5n8C5E8HBB3": true,

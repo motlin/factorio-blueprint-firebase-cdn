@@ -10,12 +10,12 @@
     "height": 981,
     "id": "41vkmf4"
   },
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
     "N382F0QaJFU620TkYGXjAHPQqeM2": true

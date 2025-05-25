@@ -27,13 +27,13 @@
   },
   "lastUpdatedDate": 1602943483806,
   "numberOfFavorites": 18,
-  "tags": {
-    "3": "/power/steam/",
-    "4": "/mods/other/",
-    "5": "/version/0,15/",
-    "0": "/general/mid game/",
-    "1": "/production/other/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/general/mid game/",
+    "/production/other/",
+    "/production/science/"
+  ],
   "title": "Pyanodon Mod Blueprints (discontinued due to changes to Pyanodon mod recipe) "
 }

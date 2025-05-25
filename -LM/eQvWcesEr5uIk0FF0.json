@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Station to 4-red belt unloader with buffer",
   "favorites": {
     "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,

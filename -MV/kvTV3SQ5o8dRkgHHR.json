@@ -15,10 +15,10 @@
     "id": "Ni19hOh",
     "type": "image/jpeg"
   },
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/"
+  ],
   "title": "keyboard and display",
   "favorites": {
     "rbWHB8UrYZf1YPo14F5Ng7ukNiE2": true,

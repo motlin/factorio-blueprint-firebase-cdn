@@ -19,10 +19,10 @@
   "authorId": "gFtyt0JKovbsazTdiRjOeTVslC63",
   "createdDate": 1562476434007,
   "fileName": "screenshot-tick-2752977.png",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Steel Furnace smelting"
 }

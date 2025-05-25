@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1607217160888,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/science/"
+  ],
   "title": "Beaconed 1350 Utility Science Packs per minute (half express belt)"
 }

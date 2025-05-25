@@ -16,8 +16,8 @@
   "lastUpdatedDate": 1679140059000,
   "numberOfFavorites": 0,
   "title": "Straight rail 4-lane RHD",
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/track/"
-  }
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/"
+  ]
 }

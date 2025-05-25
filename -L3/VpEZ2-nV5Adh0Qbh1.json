@@ -3,12 +3,12 @@
     "userId": "H3QlaVpvadfVuTpGGxs7016oR2K3"
   },
   "authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "4-lane bus tap with 0.16.17 priorities",
   "lastUpdatedDate": 1516674284001,
   "numberOfFavorites": 27,

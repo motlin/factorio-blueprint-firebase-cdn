@@ -25,11 +25,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d%E2%80%99%C3%A9cran%202021-09-09%20162904.png?alt=media&token=191cf20b-3a8b-4f77-9132-facf4a69aeda",
   "lastUpdatedDate": 1631443675787,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Rocket factory - 1,5 RPM"
 }

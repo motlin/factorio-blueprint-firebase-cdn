@@ -46,11 +46,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2019-03-18_23-10-00.png?alt=media&token=e89d9940-8553-4217-99da-a8ebebb9f119",
   "lastUpdatedDate": 1552932479712,
   "numberOfFavorites": 30,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,17/",
+    "/general/beaconized/"
+  ],
   "title": "100 SPM Minibase v2"
 }

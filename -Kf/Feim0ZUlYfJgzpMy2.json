@@ -1,11 +1,11 @@
 {
   "descriptionMarkdown": "Factorissimo Friendly, Highest Tiers + modules",
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/mods/angels/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/version/0,14/"
+  ],
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1679524916826,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/robots/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/robots/",
+    "/version/0,15/"
+  ],
   "title": "Mini dron factory Krastorio 2",
   "favorites": {
     "zagYoLnq1AZzKOFHyJ4FX4IZIF52": true,

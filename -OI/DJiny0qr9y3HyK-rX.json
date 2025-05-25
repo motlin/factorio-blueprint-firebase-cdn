@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/icQ5BmX",
   "lastUpdatedDate": 1738628457789,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Inner Planets shuttle",
   "favorites": {
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,

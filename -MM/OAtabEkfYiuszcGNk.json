@@ -16,9 +16,9 @@
   "createdDate": 1605666576965,
   "descriptionMarkdown": "This reactor will generate 1GW of energy",
   "lastUpdatedDate": 1605742631262,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "favorites": {
     "lP8NM573vLazsK7gj3eskq5Xsp03": true
   }

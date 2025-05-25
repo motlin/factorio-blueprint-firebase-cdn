@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1616546575096,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/mid game/",
-    "2": "/power/nuclear/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/mid game/",
+    "/power/nuclear/",
+    "/version/1,0/"
+  ],
   "title": "1-Hour Nuclear Mall",
   "favorites": {
     "H5lymY5ep2bcFjb6fHU8E5RcURK2": true,

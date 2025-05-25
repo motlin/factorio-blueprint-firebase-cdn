@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/86ZpOgx",
   "lastUpdatedDate": 1732591811227,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/elevated-rails/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/junction/",
-    "5": "/train/crossing/"
-  },
+  "tags": [
+    "/mods/elevated-rails/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/train/crossing/"
+  ],
   "title": "4x4x4x4-Crossing",
   "favorites": {
     "kcRuexny20RE5gVWwzjns5PyZvH3": true,

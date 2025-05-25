@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1645203888423,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Number Display",
   "favorites": {
     "maUFk3hqXPZlyEluOm8sTH1lyJ32": true,

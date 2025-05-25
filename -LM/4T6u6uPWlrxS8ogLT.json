@@ -8,9 +8,9 @@
     "width": 200
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "fileName": "20190812025042_1.jpg",
   "lastUpdatedDate": 1565607362304,
   "favorites": {

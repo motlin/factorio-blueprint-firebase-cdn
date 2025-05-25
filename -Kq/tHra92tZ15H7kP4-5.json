@@ -7,13 +7,13 @@
     "height": 1004
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/",
-    "4": "/production/other/",
-    "0": "/version/0,15/",
-    "1": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/other/",
+    "/version/0,15/",
+    "/mods/factorissimo/"
+  ],
   "title": "OmniWood Self-Efficient Plant in a Box (Factorissimo)",
   "author": {
     "userId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2"

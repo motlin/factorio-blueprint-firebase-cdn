@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/rBtE1x6",
   "lastUpdatedDate": 1731166541152,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "aesthetics are NOT practical not when im the one working on trhem in any case"
 }

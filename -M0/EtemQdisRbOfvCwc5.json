@@ -4,10 +4,10 @@
   },
   "createdDate": 1581888482544,
   "descriptionMarkdown": "This will protect players from those sudden trains appearing out of nowhere by closing the gates, but will also let you cross and force any trains to stop if they are able to.\n\nIt functions by using a set of gates to detect the presence of a player and by controlling train signals.\n\nIn the case of a player-controlled train, there are gates on the train tracks to take the impact.\n\nThere are lights indicating the current state:\n* Green: Clear to cross\n* Purple: Player detected; trains will stop\n* Red: Unsafe; train inside crossing\n\nThe indicator may show yellow, but do not trust it to tell you if a train is incoming as it does not always show up consistently. However, it will still close the outside gates.\n\n##### Safety Notice:\nIf in the event that you need to enter from between the two lanes, there are entrances, but be warned: There are no gates to stop you from an incoming train.\n\n#### This was tested on 0.16. Current safety results may vary; test this in a sandbox to see if it is within acceptable standards.\nWith all **braking force researched** and with trains running on **nuclear fuel** (250% vehicle acceleration):\n* 100% safety with no exoskeletons\n* 100% safety with no exoskeletons if you are intentionally trying to get run over\n* 80% safety with 5 exoskeletons\n* 20% safety with 5 exoskeletons if you are intentionally trying to get run over",
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/0,16/"
+  ],
   "numberOfFavorites": 5,
   "title": "Hybrid Safe 2-Lane RHD Rail Crossing",
   "favorites": {

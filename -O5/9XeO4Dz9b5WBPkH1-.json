@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/euGPiW6",
   "lastUpdatedDate": 1724606372451,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/power/nuclear/"
+  ],
   "title": "Usina nuclear (S.E. + Exotics)"
 }

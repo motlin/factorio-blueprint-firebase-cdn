@@ -18,10 +18,10 @@
   "fileName": "4 Way Twist Intersection.png",
   "lastUpdatedDate": 1508808046042,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "4 Way Rail Intersection"
 }

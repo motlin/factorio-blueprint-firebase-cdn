@@ -3,10 +3,10 @@
   "createdDate": 1613397588511,
   "fileName": "1232reds.png",
   "lastUpdatedDate": 1613397588511,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "1232 Reds - 8 Beacon design",
   "author": {
     "userId": "Jl7BWqlI1afaYC3NU5IGtkq0Qbe2"

@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/8aQf9Ts",
   "lastUpdatedDate": 1743164947553,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/general/mid game/",
-    "3": "/general/ups friendly/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/general/mid game/",
+    "/general/ups friendly/",
+    "/general/late game (megabase)/"
+  ],
   "title": "legendary ( T5 )Solar and accumulators Ratio is almost perfect ",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/sevD1ai",
   "lastUpdatedDate": 1730861139109,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/space-exploration/"
+  ],
   "title": "Early Space Age Ship / Platform",
   "favorites": {
     "aDP1vJACvUc94AQymQ45sAifgL22": true,

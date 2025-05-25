@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/OW3lPPz",
   "lastUpdatedDate": 1738874016767,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Grey Science",
   "favorites": {
     "Pvfvl23qUId68UEiepqyK8Gl6OD2": true,

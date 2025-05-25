@@ -15,13 +15,13 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/16-way-balancer.png?alt=media&token=c9233bf0-fd29-4911-9f73-e4ddec733e0a",
   "lastUpdatedDate": 1504945956241,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/general/compact/",
-    "3": "/version/0,15/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/general/compact/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,

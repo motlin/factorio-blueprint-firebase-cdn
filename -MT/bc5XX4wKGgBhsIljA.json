@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2x2 Reactor 450MW",
   "authorId": "dlYH1YusuVbkV0NBAJZ7ZGLUAo83",
   "descriptionMarkdown": "6 offshore pumps recommended",

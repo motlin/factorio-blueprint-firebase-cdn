@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1663424293836,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Modular 7 Segment Display",
   "favorites": {
     "2WxECw9sXSXhdtNUVI0sxMaUyoG3": true

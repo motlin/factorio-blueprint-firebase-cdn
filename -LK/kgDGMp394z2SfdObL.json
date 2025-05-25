@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "author": {
     "userId": "71SpVi6BFTdaNAVCn7GQKEn19jn2"
   },

@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1676401393079,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/tileable/",
-    "2": "/general/chunk aligned/",
-    "3": "/mods/vanilla/",
-    "4": "/power/nuclear/",
-    "5": "/power/kovarex enrichment/",
-    "6": "/train/unloading station/",
-    "7": "/version/1,1/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/chunk aligned/",
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/train/unloading station/",
+    "/version/1,1/"
+  ],
   "title": "Block QuadCore Reactor"
 }

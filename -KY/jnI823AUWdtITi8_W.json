@@ -13,11 +13,11 @@
   "fileName": "omnichallenge1.JPG",
   "imageUrl": "false",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "UhsGyjo3pdZQT4J0RTOHVZHraMW2"
   },

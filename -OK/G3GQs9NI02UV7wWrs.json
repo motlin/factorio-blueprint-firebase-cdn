@@ -19,10 +19,10 @@
   "imageUrl": "https://imgur.com/tGoOjmz",
   "lastUpdatedDate": 1740821829466,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Tileable Cat Rail City Block v2"
 }

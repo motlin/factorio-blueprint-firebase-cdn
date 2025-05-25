@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/06cH46A",
   "lastUpdatedDate": 1735082513409,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/guns and ammo/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/guns and ammo/",
+    "/power/solar/"
+  ],
   "title": "Nanoship V1",
   "favorites": {
     "VPeEj14yG3XTxPeN7vg6GoFRPub2": true

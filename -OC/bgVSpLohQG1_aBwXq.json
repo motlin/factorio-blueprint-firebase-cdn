@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/5GkSF2M",
   "lastUpdatedDate": 1743071549059,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/power/nuclear/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/power/nuclear/",
+    "/planets/aquilo/"
+  ],
   "title": "Space Ship / Personal use / CCB / Aqualio "
 }

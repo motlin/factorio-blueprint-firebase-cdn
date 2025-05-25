@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/ijLRML6",
   "lastUpdatedDate": 1735634936619,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/version/2,0/"
+  ],
   "title": "Belt Balancer Red-Blue-Green",
   "favorites": {
     "QRwjyZjFHcgoJuvDj3d0oujMtb53": true,

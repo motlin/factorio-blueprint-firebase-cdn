@@ -22,10 +22,10 @@
   "createdDate": 1601911342034,
   "lastUpdatedDate": 1601911342034,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "jvwIMOSXXpMc1NoA4Ht1nEg00R53"
 }

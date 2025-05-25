@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1663838114692,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/other/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/other/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Purple Science (Chain-able/tileable)",
   "favorites": {
     "rq5pWqrv6QRKM3qPaDHA3CTTlAx2": true,

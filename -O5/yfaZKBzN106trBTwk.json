@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/OYLwk8B",
   "lastUpdatedDate": 1725480987017,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/belt/balancer/"
+  ],
   "title": "Train Unload perfect balanced 45p/m",
   "favorites": {
     "r1NoxSYNSSYWYWVJ9fTl7kDauI22": true

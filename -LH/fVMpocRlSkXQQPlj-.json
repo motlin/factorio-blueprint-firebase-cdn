@@ -35,12 +35,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mall2.png?alt=media&token=0d187233-53f5-458a-857f-99e1c0005561",
   "lastUpdatedDate": 1584836331517,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/inserters/",
-    "2": "/general/mid game/",
-    "3": "/version/0,17/",
-    "4": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/inserters/",
+    "/general/mid game/",
+    "/version/0,17/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio Mid-Game Mall"
 }

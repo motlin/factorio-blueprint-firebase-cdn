@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1626005397741,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Electric furnances red-blue belts",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true

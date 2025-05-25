@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1665689605673,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/general/chunk aligned/",
-    "2": "/version/1,0/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/general/chunk aligned/",
+    "/version/1,0/",
+    "/mods/other/"
+  ],
   "title": "Hex Cells 6x9 v1.0"
 }

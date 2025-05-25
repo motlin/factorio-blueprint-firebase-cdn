@@ -9,10 +9,10 @@
     "width": 1280
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/other/"
+  ],
   "author": {
     "userId": "KMQF8hsOxneZFW8Gk1Zz7gisvEo2"
   },

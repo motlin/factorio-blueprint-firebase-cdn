@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/J963OlO",
   "lastUpdatedDate": 1731191277709,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/logistic (bot) based/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Automatic logistics request manufacturing system supports fluids",
   "favorites": {
     "d7swk9hgzYfoyf0U8ZI4jhYk5P82": true,

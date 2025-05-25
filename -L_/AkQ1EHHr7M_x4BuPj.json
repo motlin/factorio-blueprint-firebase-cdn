@@ -9,12 +9,12 @@
   "numberOfFavorites": 16,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ZToNE5L.png?alt=media&token=18bdaa55-86e9-44f5-a8b4-a0e69506dfa6",
   "lastUpdatedDate": 1552444901171,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/tileable/",
-    "2": "/version/0,17/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/tileable/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "Chunk Aligned Tileable Advanced Oil Processing",
   "author": {
     "userId": "uBv2sWhCEnV10Ll726ux9YdWE7Z2"

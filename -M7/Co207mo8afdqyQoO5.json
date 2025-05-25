@@ -19,8 +19,8 @@
   "fileName": "mining2.PNG",
   "lastUpdatedDate": 1589369647300,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/vanilla/"
-  }
+  "tags": [
+    "/production/mining/",
+    "/mods/vanilla/"
+  ]
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/JAl0kj6",
   "lastUpdatedDate": 1731525580742,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Foundry in furnace stack footprint",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

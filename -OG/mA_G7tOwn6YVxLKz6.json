@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Iihocps",
   "lastUpdatedDate": 1737082488588,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/space-age/",
-    "2": "/planets/vulcanus/",
-    "3": "/combat/offense/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/combat/offense/"
+  ],
   "title": "Vulcanus - Small Demolish Killer",
   "favorites": {
     "tCN0oTbIYGM18hBsTBjn8Y1w3Ra2": true

@@ -24,13 +24,13 @@
   },
   "lastUpdatedDate": 1555751179287,
   "numberOfFavorites": 7,
-  "tags": {
-    "4": "/production/mall (make everything)/",
-    "5": "/version/0,17/",
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/storage/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/general/storage/"
+  ],
   "title": "Doylecan's Mall"
 }

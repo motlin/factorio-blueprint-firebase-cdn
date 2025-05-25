@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1615132108774,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "compressed 90spm potion factory"
 }

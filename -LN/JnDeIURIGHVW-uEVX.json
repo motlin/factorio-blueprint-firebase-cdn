@@ -11,11 +11,11 @@
   "descriptionMarkdown": "There is no difference between this build for expensive recipes, compared with normal, apart from the extra inserter into the gear maker, otherwise it does not run fast enough.\n\n'On site' build just supply 1/2 belt of copper plate  and 1/2 belt of iron plate.",
   "lastUpdatedDate": 1537948451483,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
   },

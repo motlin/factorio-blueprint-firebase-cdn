@@ -11,10 +11,10 @@
     "id": "xFI93Zv"
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/production/uranium/"
+  ],
   "title": "Neat Nuclear",
   "author": {
     "userId": "V3IeVvFOPbSYGazRzqlpQVMwECZ2"

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/6oochCK",
   "lastUpdatedDate": 1730320019864,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Paige's Safety Gate",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,

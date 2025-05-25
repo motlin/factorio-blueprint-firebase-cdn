@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1611512035965,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/train/left-hand-drive/",
-    "2": "/production/mining/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/train/left-hand-drive/",
+    "/production/mining/"
+  ],
   "title": "Copper Mine and Robot Plate production Combo with LHD 1+4 trains"
 }

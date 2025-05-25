@@ -35,9 +35,9 @@
   },
   "lastUpdatedDate": 1551535447025,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,17/"
+  ],
   "title": "Modular Electronic (Green) Circuits"
 }

@@ -12,11 +12,11 @@
   },
   "lastUpdatedDate": 1505479029347,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "6FAzHg75yONBsls4dJvDXFJ1ks52"
   },

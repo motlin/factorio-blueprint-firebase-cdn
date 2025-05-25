@@ -28,11 +28,11 @@
   "imageUrl": "https://imgur.com/TCxL9qR",
   "lastUpdatedDate": 1737769222382,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/version/2,0/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "180 SPM Nauvis From Raw Ore"
 }

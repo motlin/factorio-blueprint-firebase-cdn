@@ -19,13 +19,13 @@
   },
   "lastUpdatedDate": 1632779753077,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/stacker/",
-    "4": "/train/right-hand-drive/",
-    "5": "/train/track/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/stacker/",
+    "/train/right-hand-drive/",
+    "/train/track/"
+  ],
   "title": "2x2 Rails RHD"
 }

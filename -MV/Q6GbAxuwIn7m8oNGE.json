@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1644353624656,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Smart Loading Station",
   "favorites": {
     "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,

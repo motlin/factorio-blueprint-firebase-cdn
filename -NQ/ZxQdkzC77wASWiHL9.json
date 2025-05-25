@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1678974601837,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/science/",
-    "3": "/mods/space-exploration/",
-    "4": "/production/modules/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/science/",
+    "/mods/space-exploration/",
+    "/production/modules/"
+  ],
   "title": "Expandable Assembler Array (Space Exploration)",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

@@ -26,9 +26,9 @@
   },
   "lastUpdatedDate": 1551802552469,
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/factorissimo/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,16/"
+  ],
   "title": "FACTORISSIMO-Sized areas"
 }

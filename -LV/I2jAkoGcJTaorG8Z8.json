@@ -15,9 +15,9 @@
   "numberOfFavorites": 1,
   "descriptionMarkdown": "Starting Steam ",
   "lastUpdatedDate": 1575499018719,
-  "tags": {
-    "0": "/power/steam/"
-  },
+  "tags": [
+    "/power/steam/"
+  ],
   "title": "SteamStart",
   "favorites": {
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true

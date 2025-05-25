@@ -9,14 +9,14 @@
     "type": "image/jpeg",
     "width": 1642
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/compact/",
-    "2": "/power/kovarex enrichment/",
-    "3": "/production/uranium/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/compact/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "465 MW Nuclear Power Plant with full recycling",
   "author": {
     "userId": "9wcCjjsyBfam4zyRXmax6ZDJ0Ci2"

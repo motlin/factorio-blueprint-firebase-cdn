@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1691371599026,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "title": "K2SE Outpost Logistics Core",
   "favorites": {
     "Sqtfs4ywXIdMUI2PBZiCgoew3qq2": true,

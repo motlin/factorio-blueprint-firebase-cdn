@@ -19,10 +19,10 @@
   "imageUrl": "https://imgur.com/2GnqfWR",
   "lastUpdatedDate": 1722909846655,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/rocket parts/"
+  ],
   "title": "City Blocks Lily's style"
 }

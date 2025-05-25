@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1673195364188,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Train Junction",
   "favorites": {
     "v0iVqNiHSrd2IGQ7a2JNru0GEfy1": true,

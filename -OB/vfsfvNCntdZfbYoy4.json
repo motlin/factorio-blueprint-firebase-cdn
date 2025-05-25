@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/LcIGCsa",
   "lastUpdatedDate": 1731873180601,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Reciclagem e processamento de líquidos"
 }

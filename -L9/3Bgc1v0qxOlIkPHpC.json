@@ -14,12 +14,12 @@
   },
   "createdDate": 1522632744783,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/power/nuclear/",
-    "2": "/general/tileable/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "eeK13ksO87hJ3NagYGjQSCk0owB2": true,
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true

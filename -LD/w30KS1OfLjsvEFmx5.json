@@ -69,13 +69,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1.Gw%20Anticristo.png?alt=media&token=70462cb0-799e-46f2-9abd-0b64c836fd82",
   "lastUpdatedDate": 1601081238383,
   "numberOfFavorites": 50,
-  "tags": {
-    "5": "/general/late game (megabase)/",
-    "0": "/circuit/indicator/",
-    "1": "/power/nuclear/",
-    "2": "/power/steam/",
-    "3": "/power/accumulator/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/circuit/indicator/",
+    "/power/nuclear/",
+    "/power/steam/",
+    "/power/accumulator/",
+    "/version/0,17/"
+  ],
   "title": "1.1 Gw SmarT Reactor zero waste \"El AnTiCriStO 1.1v\"  SmarT nuclear plant  with 8 cores and backup system, with zero waste, steam meter and 2 backup coress"
 }

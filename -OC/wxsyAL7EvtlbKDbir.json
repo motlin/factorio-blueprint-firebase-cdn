@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/NbJpRGz",
   "lastUpdatedDate": 1732968419397,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/solar/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/solar/",
+    "/version/2,0/"
+  ],
   "title": "Fresh meat delivery.",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

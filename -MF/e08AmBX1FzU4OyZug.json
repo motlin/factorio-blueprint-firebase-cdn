@@ -18,11 +18,11 @@
   "fileName": "Screenshot 2020-08-26 at 7.04.04 PM.png",
   "lastUpdatedDate": 1598432777311,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/1,0/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "SG9QomLsN8RkFWakzQGDCT0T46D2"
   },

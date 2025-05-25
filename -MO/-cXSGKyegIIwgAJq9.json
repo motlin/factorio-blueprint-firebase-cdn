@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1636569310226,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta produção de unidade de processamento",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

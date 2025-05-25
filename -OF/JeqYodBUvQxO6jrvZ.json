@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/CLBdcub",
   "lastUpdatedDate": 1735514105275,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/scrap processing/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/scrap processing/",
+    "/mods/space-age/"
+  ],
   "title": "fulgora scrap procesor",
   "favorites": {
     "J6MZ7tkBRjROOAIB949vCOgDQlT2": true,

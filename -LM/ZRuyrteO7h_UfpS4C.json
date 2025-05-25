@@ -22,10 +22,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/e8c8071798586d9408cc953ea164b9a2.png?alt=media&token=a5834af6-9426-45a7-ab1d-93798ba5109f",
   "lastUpdatedDate": 1566127808925,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "0": "/general/compact/",
-    "1": "/production/advanced circuit (red)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/production/advanced circuit (red)/"
+  ],
   "title": "Advanced Circuit auto factory [CTN]"
 }

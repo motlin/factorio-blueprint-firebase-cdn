@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1557449514566,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Compact 10k/min Red Science factory"
 }

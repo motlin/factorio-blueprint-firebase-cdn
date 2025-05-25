@@ -16,10 +16,10 @@
   "descriptionMarkdown": "This design was created for new and experienced players who are needing a quick and easy Research Factory for Red and Green science packs.\n\nRatio's are not perfect but it does the job.\n\n\n\n ",
   "lastUpdatedDate": 1529788781202,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "dImI6aknN1Zuk2rUKqGw1a1lVif1": true
   }

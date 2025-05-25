@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1664788571709,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/research (labs)/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/research (labs)/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Star base p/S.E",
   "favorites": {
     "G7RJk3FnfWO5JElZqaxo1uSYmRd2": true,

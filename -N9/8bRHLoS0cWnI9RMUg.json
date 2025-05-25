@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1660931379084,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/accumulator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/accumulator/",
+    "/mods/vanilla/"
+  ],
   "title": "City Watch "
 }

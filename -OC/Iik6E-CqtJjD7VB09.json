@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/obceoAe",
   "lastUpdatedDate": 1732279942588,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Arcade Game",
   "favorites": {
     "QZQ3rn8pqyf0kSe5d80GofU2IPF2": true,

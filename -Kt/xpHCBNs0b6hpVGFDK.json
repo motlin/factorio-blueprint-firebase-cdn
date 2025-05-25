@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1505349673898,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/production/mining/",
-    "3": "/production/logistic (bot) based/",
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/production/mining/",
+    "/production/logistic (bot) based/",
+    "/mods/bobs/"
+  ],
   "createdDate": 1505349673898,
   "descriptionMarkdown": "A tileable mining setup using MK2 mining drills from Bob's Mining along with Angel's Logistics network expanders for easy early-game bot-based mining.",
   "fileName": "miners.png",

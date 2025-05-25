@@ -16,14 +16,14 @@
   "numberOfFavorites": 14,
   "authorId": "NRRU1hYjH7f55f609497sP3pNvw2",
   "descriptionMarkdown": "# 8 Lanes Smelter\nThis is an optimized version of [HellBurner V4](https://factorioprints.com/view/-Lu7SV2dzrh6IwPMe-_j) with modules and calculated output for 8 separate blue belts.\n\nI used [this calcul](https://kirkmcdonald.github.io/calc.html#data=0-17-60&min=4&belt=express-transport-belt&dm=p3&db=s3&dbc=2&items=iron-plate:r:21600&modules=iron-plate:;s3:6,iron-ore:null:null:null;s3:0) to match the rates.\n\n**Input** : 18k/min\n\n**Output** : 21,6k/min\n\n## Notes\nThis factory is slightly more efficient than the belts capacity. The maximum prodution rate  is around 21,8k/min. \n\n## Edit\n+ Fixed right belt (single sided)",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/late game (megabase)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/mods/vanilla/",
-    "4": "/general/beaconized/",
-    "5": "/version/0,17/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/late game (megabase)/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,

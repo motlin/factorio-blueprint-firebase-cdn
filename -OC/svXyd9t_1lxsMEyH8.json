@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/4fVsnZR",
   "lastUpdatedDate": 1732923409909,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/science/",
-    "2": "/general/early game/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/science/",
+    "/general/early game/",
+    "/mods/space-age/"
+  ],
   "title": "Fulgora early 47 SPM (10H)",
   "favorites": {
     "iIaZpwmmapUZtoYCyjEzldpsnjr2": true,

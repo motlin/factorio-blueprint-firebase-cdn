@@ -9,13 +9,13 @@
     "E0l5bKYCxBSwwvkSk5n1ployxGn1": true
   },
   "lastUpdatedDate": 1501068129298,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/production/logistic (bot) based/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "820 Low Density Structures per Minute",
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"

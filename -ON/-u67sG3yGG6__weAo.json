@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/EVEh53z.png",
   "lastUpdatedDate": 1743773752694,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/combat/defense/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/combat/defense/",
+    "/mods/space-age/"
+  ],
   "title": "ALL THE WAR",
   "favorites": {
     "7ZCp6UYdIgPOUUlpZzoVFbEQtY22": true

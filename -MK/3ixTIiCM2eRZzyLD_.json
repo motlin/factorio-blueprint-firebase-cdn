@@ -76,12 +76,12 @@
   },
   "lastUpdatedDate": 1680010656011,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/mods/other/",
-    "4": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Mall"
 }

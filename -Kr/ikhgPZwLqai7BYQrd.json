@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170817145210_1.jpg?alt=media&token=788602af-89c0-427b-ab9d-60c46fc21b45",
   "lastUpdatedDate": 1504701922009,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Funace Station"
 }

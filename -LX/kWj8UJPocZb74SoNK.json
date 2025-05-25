@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/version/0,17/",
-    "0": "/general/late game (megabase)/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/late game (megabase)/",
+    "/train/right-hand-drive/"
+  ],
   "image": {
     "height": 798,
     "id": "JwaGg1U",

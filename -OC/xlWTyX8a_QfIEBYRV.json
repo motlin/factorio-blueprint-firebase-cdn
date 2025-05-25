@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5qNyCHh",
   "lastUpdatedDate": 1734549584107,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/quality/"
+  ],
   "title": "Assambling quality gambler",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

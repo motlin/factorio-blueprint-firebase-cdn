@@ -2,10 +2,10 @@
   "authorId": "27fDsWbxDBXvWsF8edexXZXbGaE2",
   "createdDate": 1554386282510,
   "descriptionMarkdown": "Just put 40 U-235 on the centrifuge (80 for 100% time running), make sure you have enough U-238 on your logistic network, and your ready to receive your 1 extra U-235  on the red chests over and over again. \n\nIf you want to know how i did it just add me on steam \"Black Titan\" and i will enlighten you, u just put all the explanation before but accidentaly pressed \"cancel\" button and now im pissed and that's why i just limited to put the instructions of use haha.\n\nBelow a link of a tiled example\nhttps://imgur.com/diLntga",
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/tileable/"
+  ],
   "title": "Bot based Kovarex enrichment process tileable (optional moduled)",
   "favorites": {
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,

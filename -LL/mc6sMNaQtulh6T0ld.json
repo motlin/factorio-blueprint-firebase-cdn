@@ -37,9 +37,9 @@
   },
   "lastUpdatedDate": 1565369375928,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "title": "250 Science/min Modul (for 0.17.60 and higher) (fixed)"
 }

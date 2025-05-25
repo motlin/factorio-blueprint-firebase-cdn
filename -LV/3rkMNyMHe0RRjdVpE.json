@@ -19,11 +19,11 @@
   "authorId": "6EuJrc54N9TDOFQgDK7WC9Y90R23",
   "descriptionMarkdown": "When you just need a lot of plates in a small place and you don't care about energy consumption :)",
   "lastUpdatedDate": 1546269951587,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/0,16/",
-    "2": "/production/smelting/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,16/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact electric furnaces. When you just need a lot of plates in a small place and you don't care about energy consumption :)"
 }

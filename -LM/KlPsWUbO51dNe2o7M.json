@@ -7,11 +7,11 @@
   "createdDate": 1565880856913,
   "fileName": "Nuclear_hw1r3d.png",
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear (4x4) in-water (by /u/hw1r3d)",
   "descriptionMarkdown": "Design intended to be surrounded by water",
   "image": {

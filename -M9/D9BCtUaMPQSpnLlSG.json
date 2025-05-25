@@ -27,11 +27,11 @@
     "id": "vlopBzv"
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Early-Game Upgradeable furnace setup"
 }

@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1558059819193,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "800MW Nuclear Reactor"
 }

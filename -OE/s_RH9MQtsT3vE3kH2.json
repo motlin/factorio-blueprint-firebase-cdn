@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/q6CEHtL",
   "lastUpdatedDate": 1735042406638,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "D flipflop with built in edge detection in circuit network",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

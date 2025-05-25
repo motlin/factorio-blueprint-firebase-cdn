@@ -6,13 +6,13 @@
   "authorId": "zDu5Q79gfbhjEi9A1sMbjCxOExg2",
   "descriptionMarkdown": "A simple implementation of Kovarex enrichment.\nThe centrifuge sits between a belt of uranium-235 and a belt of uranium-238.\nIt balances the belts by converting uranium-238 to uranium-235.\n\nThe blueprint includes two centrifuges, but using only one also works.\n\nAdvantages of this implementation:\n* Compact and space efficient.\n* Minimal management of the different uranium versions: just split into different belts.\n\nDisadvantages:\n* On rare occasions, e.g. on a poorly timed energy outage, the uranium-238 recycling belt can get clogged, breaking the cycle. An alarm fires to notify you of this event. Clear the belt to unclog.\n* The same alarm can fire when enrichment stops because the uranium-235 belt is blocked. Clearing the recycling belt will silence the alarm. Encrichment will resume when the uranium-235 belt has free space again.\n\n[This blueprint on github](https://gist.github.com/Froussios/d6d12a7419613d7b5b7221f6dd3b17d6)",
   "lastUpdatedDate": 1597057182468,
-  "tags": {
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/general/mid game/",
-    "0": "/version/0,17/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/version/0,17/",
+    "/power/kovarex enrichment/"
+  ],
   "favorites": {
     "44MbHjZ5oBXGJdIQzwKyDs1kVUJ3": true,
     "5E22du0V5VYYYOF2RqyKLxxNNDE3": true,

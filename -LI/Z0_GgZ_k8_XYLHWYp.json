@@ -17,7 +17,7 @@
   "createdDate": 1532833977633,
   "fileName": "GHtest7-4.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/GHtest7-4.jpg?alt=media&token=8abaf706-60b3-4544-b692-8e2d2634b4dc",
-  "tags": {
-    "0": "/power/nuclear/"
-  }
+  "tags": [
+    "/power/nuclear/"
+  ]
 }

@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1683793184060,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/power/solar/"
+  ],
   "title": "Value to Time Grapher + Exact Ratio 1 Chunk Solar Setup"
 }

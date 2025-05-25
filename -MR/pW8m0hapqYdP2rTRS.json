@@ -16,13 +16,13 @@
   "authorId": "eO4ULD4uc1Q68pkBCx8r9o7F9Qm1",
   "descriptionMarkdown": "This Bp book contains all the needed bps for processing Acrospheres. For more info on this bp book, https://youtu.be/MM0-ksbiqNc",
   "lastUpdatedDate": 1673052243158,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/other/",
-    "3": "/version/1,0/",
-    "4": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/general/late game (megabase)/",
+    "/mods/other/",
+    "/version/1,0/",
+    "/mods/space-exploration/"
+  ],
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "izkf3Y1smihGV2hhFJph4Gk9Ivi2": true,

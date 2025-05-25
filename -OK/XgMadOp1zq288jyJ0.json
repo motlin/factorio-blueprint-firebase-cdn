@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/m4lpued",
   "lastUpdatedDate": 1741146677912,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Fast Prometheum Hauler"
 }

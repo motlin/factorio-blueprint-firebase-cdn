@@ -17,10 +17,10 @@
   },
   "lastUpdatedDate": 1588980867743,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/other/"
+  ],
   "title": "Production Factroy Mk 2",
   "createdDate": 1588980867743
 }

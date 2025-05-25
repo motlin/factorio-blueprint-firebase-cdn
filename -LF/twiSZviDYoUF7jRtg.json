@@ -24,13 +24,13 @@
   },
   "lastUpdatedDate": 1558971607461,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/production/uranium/",
-    "3": "/mods/vanilla/",
-    "4": "/production/guns and ammo/",
-    "5": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/production/uranium/",
+    "/mods/vanilla/",
+    "/production/guns and ammo/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Complete uranium processing "
 }

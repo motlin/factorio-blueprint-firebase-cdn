@@ -23,12 +23,12 @@
   },
   "lastUpdatedDate": 1717524338847,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/version/1,0/",
-    "3": "/power/nuclear/",
-    "4": "/general/ups friendly/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/general/ups friendly/"
+  ],
   "title": "Angel Forge [Fluid Giga Base- Refinery] [WIP] UPS Friendly"
 }

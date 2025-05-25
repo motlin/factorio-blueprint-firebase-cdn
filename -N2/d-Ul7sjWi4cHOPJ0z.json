@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1653177584630,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/1,0/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/1,0/",
+    "/production/science/"
+  ],
   "title": "Bob's Logistic Science Pack",
   "favorites": {
     "wrr4phwMn9UDZU9J8cn8mX8GN0A3": true

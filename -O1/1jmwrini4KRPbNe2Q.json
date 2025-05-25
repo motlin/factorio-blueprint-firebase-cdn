@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/gJMc5TY",
   "lastUpdatedDate": 1720180486111,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "testtesttest",
   "favorites": {
     "BN4JbUWZ0QRrofxsAKLQ0Cd118J2": true

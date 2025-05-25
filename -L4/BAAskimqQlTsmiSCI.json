@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "rbPyJKUVm0MITtMrWfEKfs6Pvj93": true
   },

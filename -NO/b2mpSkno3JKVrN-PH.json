@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1676766293727,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Nicer number display"
 }

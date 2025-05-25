@@ -9,10 +9,10 @@
   },
   "authorId": "COrV37NfnReifMCsnWZ73rMkKcK2",
   "lastUpdatedDate": 1604762960218,
-  "tags": {
-    "1": "/production/electronic circuit (green)/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/factorissimo/"
+  ],
   "favorites": {
     "f0kFXGkCPbh38qiIc8E9ZUQ1iNb2": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,

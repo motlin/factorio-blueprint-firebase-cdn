@@ -29,8 +29,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Stations.png?alt=media&token=307445f4-d8d7-49c9-a9e6-5d9cc1fdfe83",
   "lastUpdatedDate": 1614964753158,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "2-1 train stations for main ore types"
 }

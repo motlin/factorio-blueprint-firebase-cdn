@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1638331726879,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/"
+  ],
   "title": "Plastic from Coal and Petrol",
   "favorites": {
     "ZIRzLwPXf1PCVgsjOgkkLBGc6pX2": true

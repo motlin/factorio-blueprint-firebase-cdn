@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/JgIhEA3",
   "lastUpdatedDate": 1744827737518,
   "numberOfFavorites": 66,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Lossless No-Bot Four Reactor Nuclear Power Plant (Factorio 2.0)",
   "favorites": {
     "bRvnA21whLeSkYGasItm6M9x6h82": true,

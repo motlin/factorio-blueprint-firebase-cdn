@@ -1,10 +1,10 @@
 {
   "authorId": "5s1XHOGSBHVNUCcpltZLy1rNRhH3",
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Single Lane Balancer",
   "image": {
     "type": "image/jpeg",

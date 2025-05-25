@@ -41,11 +41,11 @@
   "imageUrl": "https://imgur.com/eDMFq1Z",
   "lastUpdatedDate": 1731544500766,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/solar/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/solar/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Aquilo Orbitor"
 }

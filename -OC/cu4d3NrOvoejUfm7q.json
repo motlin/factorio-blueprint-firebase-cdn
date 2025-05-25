@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/zTMIlip",
   "lastUpdatedDate": 1732714726741,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/circuit/counter/"
+  ],
   "title": "Best Efficiency Nuclear Reactor",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,

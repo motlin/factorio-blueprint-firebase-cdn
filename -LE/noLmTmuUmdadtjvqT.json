@@ -28,11 +28,11 @@
   },
   "lastUpdatedDate": 1528903781599,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/train/stacker/",
-    "3": "/circuit/indicator/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/train/stacker/",
+    "/circuit/indicator/"
+  ],
   "title": "Quirky Stacker"
 }

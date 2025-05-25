@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Wg6Taqj",
   "lastUpdatedDate": 1735535409023,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/"
+  ],
   "title": "Yet another ompact 480MW tile nuclear reactor (ONLY LOAD CELLS IF TEMPERATURE UNDER 600)",
   "favorites": {
     "1bF6qGO8jUakhw2qmYdDcXcAPFn2": true

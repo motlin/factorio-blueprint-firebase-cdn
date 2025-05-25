@@ -40,13 +40,13 @@
   "imageUrl": "https://imgur.com/nnYNYYp",
   "lastUpdatedDate": 1731920191183,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/nuclear/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,15/",
-    "4": "/mods/space-age/",
-    "5": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space Ship to Anywhere! (UPGRADED!!)"
 }

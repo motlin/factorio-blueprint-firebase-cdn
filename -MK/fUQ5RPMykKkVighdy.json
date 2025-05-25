@@ -10,9 +10,9 @@
     "type": "image/png",
     "width": 955
   },
-  "tags": {
-    "0": "/train/track/"
-  },
+  "tags": [
+    "/train/track/"
+  ],
   "title": "Train highway",
   "favorites": {
     "r0iB5EWxtxQ5UxI2DiHtBef573t2": true,

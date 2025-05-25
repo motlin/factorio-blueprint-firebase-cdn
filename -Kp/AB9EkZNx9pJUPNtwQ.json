@@ -2,14 +2,14 @@
   "fileName": "oil-station-only.JPG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/oil-station-only.JPG?alt=media&token=ef4607f1-19bf-49ff-9f5a-fd3cf3118512",
   "lastUpdatedDate": 1564835004576,
-  "tags": {
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/version/0,16/",
-    "5": "/version/0,17/",
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/production/oil processing/"
+  ],
   "title": "Oil-station-only",
   "author": {
     "userId": "HUwFUow6Xtf73NeNmrxXJY5tdYJ3"

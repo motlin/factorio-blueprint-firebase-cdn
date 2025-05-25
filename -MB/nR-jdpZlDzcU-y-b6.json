@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1623290561695,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Train Station Book",
   "favorites": {
     "iK2kVinIQQP3vx2H1Q2yKX62JEB2": true,

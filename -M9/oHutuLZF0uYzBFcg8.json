@@ -10,10 +10,10 @@
   },
   "lastUpdatedDate": 1592163103546,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/transport drones/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/transport drones/",
+    "/mods/krastorio/"
+  ],
   "authorId": "dAGw0tJBD2bonQ8ppGDNZ62gL1Y2",
   "descriptionMarkdown": "Transport drone craft compact",
   "title": "Transport drone craft compact",

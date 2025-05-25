@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1601222815109,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "115.2GW Power Plant "
 }

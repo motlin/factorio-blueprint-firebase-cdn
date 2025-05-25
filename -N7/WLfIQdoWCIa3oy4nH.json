@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1658416969210,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/other/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/other/",
+    "/version/1,0/"
+  ],
   "title": "Engine Manufacturing Plant",
   "favorites": {
     "rDWd8j3hLDcatq8j6k0TdbLJeqU2": true,

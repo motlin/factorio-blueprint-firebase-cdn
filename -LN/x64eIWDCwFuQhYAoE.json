@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/angels/",
+    "/mods/bobs/"
+  ],
   "title": "Angelbobs Basic Saphirite Processing with Adjustable Inserters",
   "author": {
     "userId": "QTKFcql360NLYRuZrwEf1zhAuLk1"

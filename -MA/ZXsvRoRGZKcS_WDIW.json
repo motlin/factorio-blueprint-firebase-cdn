@@ -20,8 +20,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Production%20Books.png?alt=media&token=f7ab12bb-91f8-43fd-871a-e16fbd60356b",
   "lastUpdatedDate": 1621963603713,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/creative/"
-  },
+  "tags": [
+    "/mods/creative/"
+  ],
   "title": "Gigabase Walkthrough Mk1"
 }

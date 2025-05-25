@@ -1,12 +1,12 @@
 {
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/coal liquification/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/coal liquification/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
   "createdDate": 1505569414935,
   "image": {

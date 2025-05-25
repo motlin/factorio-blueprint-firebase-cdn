@@ -17,12 +17,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Beaconed%20Green%20Circuit%202.PNG?alt=media&token=94ef0f74-9a25-4eb5-b516-b5c94acf1ffc",
   "lastUpdatedDate": 1502049406609,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "klPXoHJuz8hsnAw9VPhxfXVYLn72": true,
     "1RoQ69IL29ZsOPK9HnWofY9qSzj2": true,

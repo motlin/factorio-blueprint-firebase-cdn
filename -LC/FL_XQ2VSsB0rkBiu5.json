@@ -16,15 +16,15 @@
   "authorId": "JkJe7gsuY9MkYVQL3xHbJWFTflD2",
   "createdDate": 1526061488417,
   "descriptionMarkdown": "You will need a power source for this build it don't take a lot of resources!  ",
-  "tags": {
-    "3": "/mods/bobs/",
-    "6": "/production/inserters/",
-    "7": "/production/belt based/",
-    "8": "/version/0,14/",
-    "0": "/belt/fast transport belt (red)/",
-    "2": "/general/storage/",
-    "5": "/production/smelting/",
-    "1": "/general/early game/",
-    "4": "/production/belts/"
-  }
+  "tags": [
+    "/mods/bobs/",
+    "/production/inserters/",
+    "/production/belt based/",
+    "/version/0,14/",
+    "/belt/fast transport belt (red)/",
+    "/general/storage/",
+    "/production/smelting/",
+    "/general/early game/",
+    "/production/belts/"
+  ]
 }

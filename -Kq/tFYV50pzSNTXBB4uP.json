@@ -10,13 +10,13 @@
   },
   "lastUpdatedDate": 1502122054687,
   "numberOfFavorites": 6,
-  "tags": {
-    "3": "/mods/angels/",
-    "4": "/mods/bobs/",
-    "0": "/production/science/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/production/science/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "authorId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2",
   "descriptionMarkdown": "Green and Red Science Packs made inside a box (Factorissimo). Designed specially to work with Angel's Bob's Omnimatter + AAI Industries mods active.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/RedGreen%20Science%20Packs.jpg?alt=media&token=daf89329-a217-4b5e-8359-fa6c0bc41270",

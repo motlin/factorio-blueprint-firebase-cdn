@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1624218931484,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Imersite Processing",
   "favorites": {
     "aSy5BUuG4vUeyv7CefOWhXv6Zdx2": true

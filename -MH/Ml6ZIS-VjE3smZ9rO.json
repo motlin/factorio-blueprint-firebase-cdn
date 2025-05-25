@@ -9,11 +9,11 @@
     "id": "CUNXu67"
   },
   "lastUpdatedDate": 1600328022990,
-  "tags": {
-    "1": "/train/right-hand-drive/",
-    "2": "/train/track/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/mods/vanilla/"
+  ],
   "title": "2-lane-rails: straight rail",
   "author": {
     "userId": "zcgRyttRbPZFEHXKbcvv2l6ZQPI2"

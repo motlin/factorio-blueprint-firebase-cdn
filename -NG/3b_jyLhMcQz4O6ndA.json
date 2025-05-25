@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1667598539899,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Kovarex compact"
 }

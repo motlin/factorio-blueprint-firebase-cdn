@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1703685268731,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/general/beaconized/",
+    "/version/1,1/"
+  ],
   "title": "End-Game Belts Factory",
   "favorites": {
     "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true,

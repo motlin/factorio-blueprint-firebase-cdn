@@ -16,13 +16,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/all_science.png?alt=media&token=8dd30528-ffc4-478b-821c-5a0e0813bc44",
   "lastUpdatedDate": 1499563336878,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/",
-    "4": "/mods/other/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "All Science @ (roughly) 1/sec"
 }

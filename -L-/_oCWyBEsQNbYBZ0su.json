@@ -3,11 +3,11 @@
   "numberOfFavorites": 1,
   "title": "Oil Refine System",
   "lastUpdatedDate": 1512462932139,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/plastic/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "N8lIi0dTEWdpR3t3YgM2mWcScCD2"
   },

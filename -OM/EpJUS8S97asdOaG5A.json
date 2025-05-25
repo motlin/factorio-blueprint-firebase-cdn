@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/LBJorkP",
   "lastUpdatedDate": 1743511266535,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/planets/space-platform/"
+  ],
   "title": "Kozyavka, the smallest space platform",
   "favorites": {
     "RmD3iK6gVxOQfQYp0Pz4ejpz8L82": true,

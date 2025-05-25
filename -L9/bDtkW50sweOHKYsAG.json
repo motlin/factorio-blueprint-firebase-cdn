@@ -31,10 +31,10 @@
   },
   "lastUpdatedDate": 1523224125351,
   "numberOfFavorites": 27,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/track/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/track/",
+    "/train/junction/"
+  ],
   "title": "City Block 2.5"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/Di3IRPJ",
   "lastUpdatedDate": 1732162178975,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/science/",
-    "2": "/planets/vulcanus/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/science/",
+    "/planets/vulcanus/",
+    "/general/tileable/"
+  ],
   "title": "Metallurgic Science 90 SPM Tileable",
   "favorites": {
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,

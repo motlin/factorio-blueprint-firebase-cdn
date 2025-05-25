@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1695184396224,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Solar Rail block"
 }

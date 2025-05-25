@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1620516209029,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Auto Balancing Refinery (tileable)",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,

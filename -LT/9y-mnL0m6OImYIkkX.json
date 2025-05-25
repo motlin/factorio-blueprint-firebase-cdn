@@ -24,8 +24,8 @@
     "type": "image/png",
     "width": 848
   },
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ]
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/6UndguL",
   "lastUpdatedDate": 1731705772885,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Multimall Controller",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,

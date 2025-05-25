@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/SRPeuIk",
   "lastUpdatedDate": 1718076838483,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Roboports Block"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2srbPE5",
   "lastUpdatedDate": 1727025238767,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para setores de carga (Exotics + S.E.)"
 }

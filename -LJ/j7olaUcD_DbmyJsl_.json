@@ -16,11 +16,11 @@
   },
   "lastUpdatedDate": 1563135990073,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/version/0,17/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/version/0,17/",
+    "/general/late game (megabase)/"
+  ],
   "favorites": {
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1668505834945,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/krastorio/"
+  ],
   "title": "Basic krastorio2 infrastructure",
   "favorites": {
     "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,

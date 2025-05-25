@@ -6,9 +6,9 @@
     "type": "image/jpeg",
     "width": 601
   },
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "4 way compact",
   "author": {
     "userId": "V0WaXsfVpPRLhVlVCgozQUdKaqH2"

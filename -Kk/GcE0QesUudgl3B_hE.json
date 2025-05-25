@@ -4,12 +4,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_13.png?alt=media&token=aaabf389-8c1a-4704-b53d-7b5a7f6d821b",
   "lastUpdatedDate": 1510262091565,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Lane balancer (same priority at input)",
   "author": {
     "userId": "qZAsjgzabsbxlG6on0OkvxyppkE2"

@@ -24,14 +24,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Steel%20Mega-vert.jpg?alt=media&token=c7240d75-3cfc-4089-bffe-13aa777e8f03",
   "lastUpdatedDate": 1580137608517,
   "numberOfFavorites": 6,
-  "tags": {
-    "6": "/general/tileable/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "3": "/general/late game (megabase)/",
-    "4": "/train/right-hand-drive/",
-    "5": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/general/late game (megabase)/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "Steel - 30k/m - Trains + Belts"
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/p6v25vJ",
   "lastUpdatedDate": 1732905094999,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/gleba/",
-    "2": "/planets/fulgora/",
-    "3": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/"
+  ],
   "title": "Big Toe Early Platform"
 }

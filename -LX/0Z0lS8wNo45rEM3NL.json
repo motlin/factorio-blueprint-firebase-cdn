@@ -13,11 +13,11 @@
     "type": "image/png",
     "width": 574
   },
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "kOht14bSMCc1Lz86TALpXSERIdV2": true,
     "9cuxOBfUuOZENn5nKlLjVNxFXYo2": true,

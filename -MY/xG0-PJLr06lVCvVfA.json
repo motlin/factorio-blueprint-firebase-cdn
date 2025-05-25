@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1648147828794,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Quad reactor (half)",
   "favorites": {
     "YY7MjrW8UKewDHdc9kQ1McG9dq23": true

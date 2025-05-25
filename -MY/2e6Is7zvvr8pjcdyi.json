@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1647181329830,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "Single Nuclear Reactor by Dmetrey",
   "favorites": {
     "ZK8iZwyAGEWT4Yz2oUBpskDlHsc2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1626420396294,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Red Circuits",
   "favorites": {
     "Zg9n9rkDkQbc1MnkuGGvMcbMgio1": true,

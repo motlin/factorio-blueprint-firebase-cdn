@@ -2,12 +2,12 @@
   "createdDate": 1598914149057,
   "fileName": "screenshot-tick-4150783.png",
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/production/smelting/",
-    "2": "/general/beaconized/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/belt/express transport belt (blue)/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/compact/"
+  ],
   "image": {
     "height": 1076,
     "id": "eNa8OgX",

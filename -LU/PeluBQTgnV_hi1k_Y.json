@@ -12,10 +12,10 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "wd1ebou5RKhkWXugx51AvqjbNbx2"
   },

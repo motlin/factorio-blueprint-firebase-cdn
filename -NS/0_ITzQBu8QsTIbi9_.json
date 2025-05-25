@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1680432511111,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/"
+  ],
   "title": "Chunk Aligned train tracks",
   "favorites": {
     "fIhFuMlQoGXCMw3at0Qo94IZGHQ2": true

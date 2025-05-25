@@ -39,10 +39,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ska%CC%88rmavbild%202023-02-12%20kl.%2011.55.24.png?alt=media&token=4b3b41b4-bd41-433b-8e6a-1857b5fb069b",
   "lastUpdatedDate": 1676728628488,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Circuits blueprint book"
 }

@@ -16,12 +16,12 @@
   "fileName": "Omniston.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Omniston.jpg?alt=media&token=3da82f84-5695-4ddb-8d98-f94e1d30d132",
   "lastUpdatedDate": 1502432988008,
-  "tags": {
-    "4": "/production/other/",
-    "0": "/version/0,15/",
-    "1": "/mods/factorissimo/",
-    "2": "/mods/angels/",
-    "3": "/mods/bobs/"
-  },
+  "tags": [
+    "/production/other/",
+    "/version/0,15/",
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/"
+  ],
   "title": "Omniston Production Plant in a Box (Factorissimo)."
 }

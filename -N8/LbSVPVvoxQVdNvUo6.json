@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1659310588027,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/mods/aai/"
+  ],
   "title": "[SE | K2] Warehouse Hub Input Controller",
   "favorites": {
     "ah1bYcVp3GWVjJxSuByw3HluGuE2": true

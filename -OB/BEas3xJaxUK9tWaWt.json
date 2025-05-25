@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/DT4l6Hi",
   "lastUpdatedDate": 1731077238403,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba Basic Iron and Copper",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

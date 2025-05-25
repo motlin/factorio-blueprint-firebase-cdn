@@ -3,12 +3,12 @@
   "fileName": "Blue Belt 3.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Blue%20Belt%203.png?alt=media&token=cff70641-d686-4b03-a6b6-5e0fc5e97173",
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "sYRbanRtEIf9CP1q0an4YDQeAFx2": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

@@ -20,11 +20,11 @@
   "createdDate": 1601031062905,
   "fileName": "19oygoighp;p.jpg",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/production/plastic/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/production/plastic/"
+  ],
   "title": "[WIP] Plastic bar cluster Mk1"
 }

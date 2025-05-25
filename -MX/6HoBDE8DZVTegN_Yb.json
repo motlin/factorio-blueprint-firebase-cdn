@@ -15,19 +15,19 @@
   },
   "lastUpdatedDate": 1646168669139,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/1,0/",
-    "3": "/production/belt based/",
-    "4": "/production/smelting/",
-    "5": "/production/belts/",
-    "6": "/belt/transport belt (yellow)/",
-    "7": "/general/early game/",
-    "8": "/production/electronic circuit (green)/",
-    "9": "/production/inserters/",
-    "10": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/mall (make everything)/",
+    "/version/1,0/",
+    "/production/belt based/",
+    "/production/smelting/",
+    "/production/belts/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/production/electronic circuit (green)/",
+    "/production/inserters/",
+    "/production/other/"
+  ],
   "title": "Early Starting Point (Mall)",
   "favorites": {
     "sWXnXBvj3YhqcyxIAV1BFz6dmGn2": true,

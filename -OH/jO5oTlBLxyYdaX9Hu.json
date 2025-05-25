@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/8n5capD.png",
   "lastUpdatedDate": 1738109382149,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Tileable fusion reactor",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

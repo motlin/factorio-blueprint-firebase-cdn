@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1618238004976,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "title": "Robots Factory",
   "favorites": {
     "N59uu6x3QmVbgjZLdhAOMfsVvxv2": true,

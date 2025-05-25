@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/9cBQuyO",
   "lastUpdatedDate": 1736726908984,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/space-exploration/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/space-exploration/",
+    "/planets/space-platform/"
+  ],
   "title": "Inter-Nauvis 'STS'"
 }

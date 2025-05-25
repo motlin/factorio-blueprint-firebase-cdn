@@ -23,8 +23,8 @@
   "imageUrl": "https://imgur.com/DhmIyNU",
   "lastUpdatedDate": 1731813821103,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/factorissimo/"
+  ],
   "title": "MK2: All Science in One"
 }

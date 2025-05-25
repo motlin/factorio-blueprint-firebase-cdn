@@ -10,11 +10,11 @@
     "type": "image/png",
     "width": 652
   },
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/train/unloading station/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact train to belt unloader v1",
   "authorId": "Fg20VqAmzaMyvEAqaHD7okuA3Yw2",
   "createdDate": 1612719378086,

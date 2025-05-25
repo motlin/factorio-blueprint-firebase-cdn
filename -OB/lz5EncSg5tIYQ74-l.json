@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Gcms4JH",
   "lastUpdatedDate": 1731710444652,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/mall (make everything)/",
+    "/version/2,0/"
+  ],
   "title": "Micro Mall (belt input)",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/8m64paY",
   "lastUpdatedDate": 1732722613387,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "parameterized bot mall with automated recovery of unused materal",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

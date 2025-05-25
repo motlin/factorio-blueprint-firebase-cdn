@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dubos5A",
   "lastUpdatedDate": 1732796607490,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "2.8GW Fusion Reactor",
   "favorites": {
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,

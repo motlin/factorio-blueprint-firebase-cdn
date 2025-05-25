@@ -15,11 +15,11 @@
     "width": 448
   },
   "lastUpdatedDate": 1528134624028,
-  "tags": {
-    "2": "/version/0,14/",
-    "3": "/mods/vanilla/",
-    "0": "/belt/balancer/",
-    "1": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/version/0,14/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/belt/transport belt (yellow)/"
+  ],
   "authorId": "UOYXGj1Tifgmv23hQZts5JA6RLj1"
 }

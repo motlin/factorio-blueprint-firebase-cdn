@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1651685703767,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/tileable/",
-    "2": "/general/compact/",
-    "3": "/power/nuclear/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2x5 Nuclear Powerplant",
   "favorites": {
     "jflFQW1sTlWMBSRNT9Ftdh8m2ah1": true,

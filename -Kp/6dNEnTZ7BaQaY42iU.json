@@ -287,12 +287,12 @@
   "numberOfFavorites": 387,
   "title": "Oil Processing",
   "lastUpdatedDate": 1500146150577,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "4POMqXHwmtatNNqubcNRuFoCYml2"
   },

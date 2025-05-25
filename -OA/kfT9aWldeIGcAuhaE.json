@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/p6zlpn0",
   "lastUpdatedDate": 1736446492846,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/production/mining/",
-    "3": "/version/2,0/",
-    "4": "/mods/space-age/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/production/mining/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Mine Alert Signals",
   "favorites": {
     "mW1ciOcur3OnUeP5KLaFvYBVhWG2": true,

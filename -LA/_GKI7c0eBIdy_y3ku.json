@@ -15,12 +15,12 @@
   "createdDate": 1524264949187,
   "fileName": "20180420164931_1.jpg",
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/production/belt based/",
-    "4": "/mods/other/",
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/mods/other/",
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,16/"
+  ],
   "title": "Wood-Charcoal-Carbon Production Plant for SeaBlock"
 }

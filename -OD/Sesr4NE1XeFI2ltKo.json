@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/YadBh7i",
   "lastUpdatedDate": 1733517086291,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "500 Always Fresh Eggs",
   "favorites": {
     "M7syl4343PWRo3WcG8qxY9MylnR2": true

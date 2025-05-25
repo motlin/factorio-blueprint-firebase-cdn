@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/b6XWEuD",
   "lastUpdatedDate": 1731237079690,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/planets/space-platform/"
+  ],
   "title": "Aquilo Space Platform",
   "favorites": {
     "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,

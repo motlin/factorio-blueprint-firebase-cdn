@@ -20,9 +20,9 @@
     "1xgeKYRfHEfWDLNF1B7u3bsfcPG2": true
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/-NJnneavwVJncr4XvV_E.png?alt=media&token=70ffcf31-3e24-4764-8ec2-5c537f92e687",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/production/belts/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/belts/"
+  ]
 }

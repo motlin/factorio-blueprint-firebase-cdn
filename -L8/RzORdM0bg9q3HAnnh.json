@@ -16,14 +16,14 @@
   "authorId": "red1wHf8LZUT8JpX2H14PUouhvt2",
   "title": "Optimized, compact and cheap factory for green science",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/compact/",
-    "4": "/belt/transport belt (yellow)/",
-    "5": "/production/belt based/",
-    "6": "/general/early game/",
-    "7": "/general/mid game/"
-  }
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/compact/",
+    "/belt/transport belt (yellow)/",
+    "/production/belt based/",
+    "/general/early game/",
+    "/general/mid game/"
+  ]
 }

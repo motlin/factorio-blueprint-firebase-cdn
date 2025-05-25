@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/bsTLAVS",
   "lastUpdatedDate": 1731173496579,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/space-age/",
-    "2": "/planets/gleba/",
-    "3": "/production/science/",
-    "4": "/version/2,0/",
-    "5": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/production/science/",
+    "/version/2,0/",
+    "/production/rocket parts/"
+  ],
   "title": "the entire goddamn gleba base (false)",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

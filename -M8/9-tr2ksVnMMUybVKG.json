@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1590379650661,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/train/right-hand-drive/",
+    "/version/0,17/"
+  ],
   "title": "Blue Circuit Sub-factory (non-beacon) (36 i/s) for 2-4 RHD Train "
 }

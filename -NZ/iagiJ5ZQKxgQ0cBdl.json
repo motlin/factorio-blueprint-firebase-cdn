@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/y8xyshu",
   "lastUpdatedDate": 1717695073329,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Fast conveyor belt (red)",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true

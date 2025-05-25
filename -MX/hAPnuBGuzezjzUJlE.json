@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1673600582860,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/stacker/",
-    "2": "/train/track/",
-    "3": "/train/unloading station/",
-    "4": "/version/1,1/",
-    "5": "/mods/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/stacker/",
+    "/train/track/",
+    "/train/unloading station/",
+    "/version/1,1/",
+    "/mods/other/"
+  ],
   "title": "Smart Train Depot",
   "favorites": {
     "V72kQS5lbLWSjObhJ5MwzNuHVHk2": true,

@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1613424795316,
   "numberOfFavorites": 0,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "Hf33mFexf0Np9KmFdaVd4jfG24Y2"
   },

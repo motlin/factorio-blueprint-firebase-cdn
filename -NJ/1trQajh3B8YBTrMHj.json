@@ -50,12 +50,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202024-01-05%20234203.png?alt=media&token=6b322fd5-dd53-4bd5-8c83-cc31f2dff16f",
   "lastUpdatedDate": 1733756814899,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/train/pax/",
-    "4": "/version/1,1/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/pax/",
+    "/version/1,1/"
+  ],
   "title": "ElderAxe's Service Hub (v8.0.0)"
 }

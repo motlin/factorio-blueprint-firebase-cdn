@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/BhrgCrD",
   "lastUpdatedDate": 1722055009431,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Easily expandable Oil refinery",
   "favorites": {
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,

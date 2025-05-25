@@ -14,10 +14,10 @@
     "width": 1037,
     "height": 732
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "lastUpdatedDate": 1557568629435,
   "numberOfFavorites": 5,
   "title": "Iron Smelting with Train Stop with Bots",

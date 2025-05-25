@@ -14,10 +14,10 @@
     "width": 986
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,15/"
+  ],
   "title": "Compact 160MW Reactor + Turbines",
   "favorites": {
     "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true

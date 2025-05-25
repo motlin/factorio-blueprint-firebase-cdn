@@ -12,12 +12,12 @@
     "id": "73ScmYa"
   },
   "lastUpdatedDate": 1565175917093,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/nuclear/",
-    "2": "/general/tileable/",
-    "3": "/production/robots/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/production/robots/"
+  ],
   "title": "[WIP] 2x2 Nuclear Reactor - Tileable/Bots",
   "favorites": {
     "LHCGos5sfzNIgLs9cV2Zn1iBNi82": true

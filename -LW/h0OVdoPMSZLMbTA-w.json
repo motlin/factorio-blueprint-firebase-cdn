@@ -15,10 +15,10 @@
   "descriptionMarkdown": "turbine roundabout fot trains",
   "fileName": "turbineroundabout.JPG",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/track/"
+  ],
   "title": "turbine roundabout",
   "favorites": {
     "D3odU1hJkiTfxjFeXdHRV7YF9Bw1": true,

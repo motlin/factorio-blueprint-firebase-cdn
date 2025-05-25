@@ -484,12 +484,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2019-03-08%20-%20Tileable%20Science%200.17.jpg?alt=media&token=33b59abd-bc2e-4202-8505-b565939495c7",
   "lastUpdatedDate": 1578549987268,
   "numberOfFavorites": 454,
-  "tags": {
-    "4": "/version/0,17/",
-    "0": "/general/early game/",
-    "1": "/general/mid game/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Science Production 0.17 - Early to Mid Game *Experimental*"
 }

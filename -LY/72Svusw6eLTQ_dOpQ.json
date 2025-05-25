@@ -9,13 +9,13 @@
     "id": "XRNpvAr"
   },
   "lastUpdatedDate": 1549544579047,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/right-hand-drive/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "hkqbyFz16qP4Hv66dBSun06gJvH3"
   },

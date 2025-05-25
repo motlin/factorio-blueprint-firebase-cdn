@@ -4,12 +4,12 @@
   },
   "authorId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2",
   "fileName": "Sushi Uranium.PNG",
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/"
+  ],
   "title": "Kovarex Uranium Fuel cell refinary Mk. III",
   "favorites": {
     "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,

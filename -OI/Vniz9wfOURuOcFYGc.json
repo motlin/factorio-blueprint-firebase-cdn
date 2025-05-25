@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/p2QyXF0",
   "lastUpdatedDate": 1739202138905,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/mods/quality/"
+  ],
   "title": "Legendary Spoilage",
   "favorites": {
     "Rl6CICs726S4403veEi3cEfgPoH2": true,

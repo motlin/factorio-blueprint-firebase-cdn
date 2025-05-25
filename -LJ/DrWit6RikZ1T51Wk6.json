@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1562543791395,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Expandable Reactor Book - Some Assembly Req."
 }

@@ -16,11 +16,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/red6.png?alt=media&token=112fbe89-8931-41ca-989c-d5574a8e0550",
   "lastUpdatedDate": 1506361340650,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "MICRO NP RED 6",
   "favorites": {
     "ZFlgxbzHxtYN86txx5g0yQElFcP2": true,

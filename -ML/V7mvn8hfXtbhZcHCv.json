@@ -1,11 +1,11 @@
 {
   "authorId": "Hf33mFexf0Np9KmFdaVd4jfG24Y2",
   "fileName": "simple_kovarex.png",
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Simple Kovarex",
   "favorites": {
     "OIJHrM9nalegVOxIXYEViLYE3W32": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651868934732,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Автономный локатор",
   "favorites": {
     "FkwPOk7dK6hN76Trl2Lw6vwBA3V2": true,

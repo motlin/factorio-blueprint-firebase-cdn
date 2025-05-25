@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/9R6GSjO.png",
   "lastUpdatedDate": 1744676707175,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Sushi Space Ship",
   "favorites": {
     "tWOI9GHidgXbh9i9JftUFklYAPj1": true,

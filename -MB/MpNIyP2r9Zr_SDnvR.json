@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1624533142610,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Beacon mining in vanilla, making it easier and more viable!",
   "favorites": {
     "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,

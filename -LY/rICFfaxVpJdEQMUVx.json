@@ -7,11 +7,11 @@
   "authorId": "2u8IxHFIxXe3v26JGfTUMx7Y5HK2",
   "createdDate": 1550337234026,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Advanced Oil Processing",
   "favorites": {
     "0KqcmX1S84WvyMK15qTySEK4NlA2": true,

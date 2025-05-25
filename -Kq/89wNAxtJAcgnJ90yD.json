@@ -16,8 +16,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/uogikgn8dk6z.png?alt=media&token=9a9caef7-509f-4edf-b70b-b1103ef183a6",
   "lastUpdatedDate": 1501244933912,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "fancy graph"
 }

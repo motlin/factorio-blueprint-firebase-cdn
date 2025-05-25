@@ -13,11 +13,11 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1525884037337,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "MzULrpdZngY1YbMEmAIihXt4TLd2": true,
     "wJTgxTSUSTW8pxP8gHJORPznqE52": true,

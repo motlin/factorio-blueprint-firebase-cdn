@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/kRua41d",
   "lastUpdatedDate": 1732754370161,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Smart Unloading Station",
   "favorites": {
     "5VEwOtFxMahrrxxXOpQ8Cep3iVm1": true,

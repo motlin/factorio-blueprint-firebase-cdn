@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1537530095260,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/train/loading station/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/loading station/",
+    "/version/0,16/"
+  ],
   "title": "242 Train Outposts"
 }

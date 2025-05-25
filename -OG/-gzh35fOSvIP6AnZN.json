@@ -30,9 +30,9 @@
   "imageUrl": "https://imgur.com/6Auow5I",
   "lastUpdatedDate": 1736252470835,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/nauvis/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/nauvis/"
+  ],
   "title": "There is no spoon - Space Age Version"
 }

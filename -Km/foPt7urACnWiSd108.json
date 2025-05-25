@@ -21,12 +21,12 @@
   "descriptionMarkdown": "This is a blueprint book that contains small contained science production factories\n\nhttp://imgur.com/gallery/BdfoT\n\nThese were not made by me, but I touched them up. You can find the credits over [here]()",
   "fileName": "all.PNG",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/all.PNG?alt=media&token=8dde8abd-9132-4da8-8578-047cfa9bb463",
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/compact/"
+  ],
   "numberOfFavorites": 49,
   "author": {
     "userId": "LwI4aC3nzWYcaVHFSQP1pEyOM7G3"

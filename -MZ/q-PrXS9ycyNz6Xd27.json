@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1620108750455,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/"
+  ],
   "title": "Robot Factory (Construction & Logistic Robots)",
   "favorites": {
     "V4WsDq6V30WXfIrdw14F75phOky2": true,

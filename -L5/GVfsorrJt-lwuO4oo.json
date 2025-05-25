@@ -3,10 +3,10 @@
   "createdDate": 1518564720342,
   "descriptionMarkdown": "This is a fully tileable array for steam power that uses locally-generated solid fuel. Just plumb in a source of liquid for the solid fuel to be made from and it will generate you power. ",
   "lastUpdatedDate": 1518564720342,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/power/steam/"
+  ],
   "title": "Tileable solid fuel steam power",
   "favorites": {
     "0fhM74QFcEhauQvZnqERgot7RRL2": true

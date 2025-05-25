@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/v1HkAaZ",
   "lastUpdatedDate": 1733074593046,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/nauvis/",
-    "2": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/nauvis/",
+    "/planets/vulcanus/"
+  ],
   "title": "Simple Starter Space Platform",
   "favorites": {
     "a7AYz9ykGtbUMifOP7T7Y2Atz1r1": true,

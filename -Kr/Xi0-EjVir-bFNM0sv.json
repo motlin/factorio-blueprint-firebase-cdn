@@ -1,14 +1,14 @@
 {
   "descriptionMarkdown": "Small footprint and tileable",
-  "tags": {
-    "5": "/version/0,15/",
-    "6": "/general/tileable/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/general/mid game/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/tileable/",
+    "/production/advanced circuit (red)/",
+    "/belt/fast transport belt (red)/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "WMe4CUNlHlbLsM7kCck9V00WNFk2"
   },

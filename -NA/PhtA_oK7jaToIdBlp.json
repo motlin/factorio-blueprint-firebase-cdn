@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1690517869671,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "1200 SPM Blue (chemical) science"
 }

@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/z4ZQgQZ",
   "lastUpdatedDate": 1734732546090,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/vulcanus/",
-    "2": "/planets/nauvis/",
-    "3": "/planets/gleba/",
-    "4": "/planets/fulgora/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/vulcanus/",
+    "/planets/nauvis/",
+    "/planets/gleba/",
+    "/planets/fulgora/"
+  ],
   "title": "N-V-G-F Planetary",
   "favorites": {
     "gunOWAzCrwTCywpfk0Z0x0KZSGO2": true,

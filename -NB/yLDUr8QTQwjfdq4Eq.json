@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1663198358282,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/train/junction/"
+  ],
   "title": "small train+box"
 }

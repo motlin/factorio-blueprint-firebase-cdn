@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1651554447647,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "8-Lane 8-way Intersection"
 }

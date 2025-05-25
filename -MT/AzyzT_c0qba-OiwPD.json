@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1641952572352,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Sistema Logistico"
 }

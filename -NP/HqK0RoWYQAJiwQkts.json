@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1677500961082,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "title": "Sushi Belt ",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

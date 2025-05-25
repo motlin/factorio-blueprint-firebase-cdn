@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/TjLKRsq",
   "lastUpdatedDate": 1736034095406,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Green circuits on Vulcanus 60/s",
   "favorites": {
     "bWa9cKOe5jRA6kTqySImR4jWHh32": true,

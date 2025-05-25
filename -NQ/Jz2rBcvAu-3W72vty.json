@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1733898114016,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "One-way single rail grid blocks with roboports"
 }

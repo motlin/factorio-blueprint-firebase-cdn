@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1645480933960,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/version/0,15/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/version/0,15/",
+    "/mods/other/"
+  ],
   "title": "Bi-Di Single Rail",
   "favorites": {
     "3kOljLXzQ4UiOGRyNojqbMn5CVy2": true

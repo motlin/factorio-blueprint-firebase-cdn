@@ -26,10 +26,10 @@
   },
   "lastUpdatedDate": 1622079496353,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Science BPs"
 }

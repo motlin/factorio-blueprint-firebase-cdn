@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1673960000143,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/krastorio/",
-    "2": "/mods/space-exploration/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/",
+    "/general/early game/"
+  ],
   "title": "1.7MW free energy",
   "favorites": {
     "BZj7NqXqvuPPNNFVqPpVzLSb6lH2": true,

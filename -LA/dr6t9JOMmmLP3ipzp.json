@@ -9,11 +9,11 @@
   },
   "authorId": "dCXQDuadevQEA08TY6PwQNWBy983",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/creative/",
-    "1": "/mods/other/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/creative/",
+    "/mods/other/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "6G0XWbwkI2cGSBOZQqaVoF8Akfo1": true,

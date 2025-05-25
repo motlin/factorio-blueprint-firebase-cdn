@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1671625633945,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/production/rocket parts/",
-    "2": "/production/science/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/production/rocket parts/",
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "1k SPM from raw Material (On Big Production)"
 }

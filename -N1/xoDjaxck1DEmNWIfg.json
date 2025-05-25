@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1652452027516,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Зеленые микросхемы",
   "favorites": {
     "vKJJX4wYgUcjlZ3moMJLcSKfjdX2": true,

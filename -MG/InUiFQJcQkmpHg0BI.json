@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1628124871646,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "Lichbogenofen Layout",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

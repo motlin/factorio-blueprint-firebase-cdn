@@ -617,14 +617,14 @@
   },
   "lastUpdatedDate": 1547893678516,
   "numberOfFavorites": 662,
-  "tags": {
-    "2": "/production/belt based/",
-    "3": "/production/mall (make everything)/",
-    "4": "/general/storage/",
-    "5": "/train/unloading station/",
-    "6": "/version/0,16/",
-    "0": "/mods/vanilla/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/production/mall (make everything)/",
+    "/general/storage/",
+    "/train/unloading station/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "Big-ass Mall (v4)"
 }

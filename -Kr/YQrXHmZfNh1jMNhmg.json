@@ -16,12 +16,12 @@
   "fileName": "Coke.jpg",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Coke.jpg?alt=media&token=f944a1a3-83cb-4d5f-96b9-4769c6170d51",
   "lastUpdatedDate": 1504702375474,
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/mods/bobs/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/",
-    "0": "/mods/factorissimo/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/mods/factorissimo/"
+  ],
   "title": "Coke Production Plant in a Box (Factorissimo)."
 }

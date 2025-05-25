@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/9CJHjJM",
   "lastUpdatedDate": 1736175357322,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/space-age/",
-    "3": "/general/ups friendly/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/space-age/",
+    "/general/ups friendly/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Green circuits 2800/s semi direct insert into a 1-4 train using rocket silos",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/rBw0ely.png",
   "lastUpdatedDate": 1737727304356,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/production/scrap processing/",
-    "2": "/mods/space-age/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/production/scrap processing/",
+    "/mods/space-age/",
+    "/general/early game/"
+  ],
   "title": "Fulgora bootstrap",
   "favorites": {
     "9dyl2G4vrpXFcZjhozx3idzIIx32": true,

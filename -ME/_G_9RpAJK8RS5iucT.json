@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1626270839369,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/science/"
+  ],
   "title": "Blue Science beaconed 45 i/sm"
 }

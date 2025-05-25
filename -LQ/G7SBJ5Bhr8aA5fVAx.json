@@ -15,11 +15,11 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "1": "/power/nuclear/",
-    "2": "/mods/krastorio/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/krastorio/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "jxiuAcSlX5gKKuaCbsY3XwjiNS22": true,

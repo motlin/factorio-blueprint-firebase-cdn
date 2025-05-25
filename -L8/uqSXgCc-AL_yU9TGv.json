@@ -11,10 +11,10 @@
     "width": 1750
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/"
+  ],
   "authorId": "qj59AAoTgRda2Fsp6M8tqLvcP5v1",
   "descriptionMarkdown": "Ideal design for starting kovarex, can use uranium 235 without waste.",
   "fileName": "Beveren-kovarex-first step.jpg",

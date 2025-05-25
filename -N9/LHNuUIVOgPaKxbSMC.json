@@ -23,9 +23,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220815201549_1.jpg?alt=media&token=a043ec60-500e-4981-8645-edbd6555d5e7",
   "lastUpdatedDate": 1661020637982,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/power/nuclear/"
+  ],
   "title": "Energy builds"
 }

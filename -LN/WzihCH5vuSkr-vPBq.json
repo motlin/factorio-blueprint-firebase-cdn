@@ -4,11 +4,11 @@
   },
   "descriptionMarkdown": "Using the 8/2/7 /(4) close enough ratio for advanced oil for the 0,17.60 oil update. Also has basic oil version it simply a preset for until adv. oil unlocked so you don't have to rebuild simply BP the adv over the normal.\n\nLeft of the red line are indicators which not needed when putting annother next to it. For the oil processing overlap the undergound belt instead of putting next to it.\n\nhow it works:\n* It will only crack when tank storage full(>24k) to prevent clogging.\n* I will always try change light oil to solid fuel but it will only make petrolium gas to solid fuel if it almost full(>24k) to prevent clogging.\n* It wil turn all the heavy oil to lubricant first before storing it.\n* each fluid has a speaker with silent alarm icon when the tank almost empty (<1k)\n\nThere some other tileable BP to proces petrolium gas the M stand for the maximum before you reach the (yellow)belt throughput either input or output. i/s = item per second output for a single BP. IDK the limit of the oil proc BP because idk the pipe bottleneck trhoughput.\n\n\n1 adv. oil proc. :\n\nInput\n* 160 O/s\n* 212 W/s (includes water for cracking)\n\noutput \n* 40 H/s (-> 40 Lub/s) = 30L/s= 20 P/s\n* 72 L/s = 48 P/s\n* 88P/s",
   "fileName": "screenshot-tick-13093816.png",
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/production/oil processing/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "title": "Oil processing for 0,17.60 update - Tileable - Selfregulated",
   "favorites": {
     "QQdQnC4Lo8XoQI8SKzqbUjVdvYP2": true,

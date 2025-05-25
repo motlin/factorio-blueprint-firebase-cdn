@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1704550505583,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/space-exploration/"
+  ],
   "title": "Green Circuits: Space Exploration",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

@@ -7,9 +7,9 @@
     "width": 1024
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/"
+  ],
   "title": "artillery factory",
   "author": {
     "userId": "gwKhsvFLfEf6mRjDQWa2B2eyD7q1"

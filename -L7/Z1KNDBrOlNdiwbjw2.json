@@ -6,11 +6,11 @@
     "type": "image/png",
     "width": 460
   },
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/"
+  ],
   "lastUpdatedDate": 1521023548475,
   "numberOfFavorites": 14,
   "title": "Express belt quick-build book",

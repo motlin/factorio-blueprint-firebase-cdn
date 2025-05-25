@@ -1562,11 +1562,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Blue%20Balancers.png?alt=media&token=5d7b254d-9564-4731-8637-8ac464cc2515",
   "lastUpdatedDate": 1496154383427,
   "numberOfFavorites": 1538,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/"
+  ],
   "title": "The Complete Belt Series: Blue, Part 3."
 }

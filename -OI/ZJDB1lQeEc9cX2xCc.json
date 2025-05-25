@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/jaB79l6",
   "lastUpdatedDate": 1740169517654,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/planets/fulgora/",
-    "3": "/planets/vulcanus/",
-    "4": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/gleba/"
+  ],
   "title": "Light Transport",
   "favorites": {
     "I2sBSpAuWmafuwdoazHY1iWf5DU2": true,

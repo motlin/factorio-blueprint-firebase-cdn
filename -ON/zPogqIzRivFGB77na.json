@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/K1jgi4u",
   "lastUpdatedDate": 1744820797791,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/production/other/"
+  ],
   "title": "Production legendary coal",
   "favorites": {
     "isuEmJAhLlR3wG49hHgiPfxwsIs2": true,

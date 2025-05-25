@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1548818628449,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/version/0,16/",
-    "2": "/belt/transport belt (yellow)/",
-    "3": "/belt/fast transport belt (red)/",
-    "4": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/version/0,16/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Railway Station - Unload 1-4 Train / 2-4 Train - 1.2"
 }

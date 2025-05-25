@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/IDKksS3",
   "lastUpdatedDate": 1719433475246,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "OEST - Logic",
   "favorites": {
     "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true

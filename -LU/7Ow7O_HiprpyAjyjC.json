@@ -14,11 +14,11 @@
     "userId": "bNNt1uynEdX9V6tTMtKuKurnyZZ2"
   },
   "authorId": "bNNt1uynEdX9V6tTMtKuKurnyZZ2",
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/smelting/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/belt/express transport belt (blue)/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "nYTigzLf2ac9FF5Ny2fIHGnVMj12": true,

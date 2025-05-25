@@ -6,13 +6,13 @@
     "id": "VeS8Uqn",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/production/advanced circuit (red)/",
-    "4": "/train/roundabout/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/advanced circuit (red)/",
+    "/train/roundabout/"
+  ],
   "title": "Red Circuit Hex",
   "author": {
     "userId": "q20gUg6OEqV292exwLIuIPzYpmh2"

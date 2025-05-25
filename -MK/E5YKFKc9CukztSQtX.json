@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1632340948347,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Basic Early Iron/Copper Smelter Array",
   "favorites": {
     "FxU6lUHUFnfi9lztjY5FKFKOsW52": true

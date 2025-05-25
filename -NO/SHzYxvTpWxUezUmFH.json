@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1705593534790,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "small smelter array",
   "favorites": {
     "k6Kz0aDdsLM8nv8cF3Pb5SffFXo1": true,

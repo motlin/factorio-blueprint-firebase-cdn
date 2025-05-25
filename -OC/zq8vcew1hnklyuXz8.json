@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/WYzloGs",
   "lastUpdatedDate": 1733016723442,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/prioritizer/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/belt/prioritizer/",
+    "/belt/balancer/"
+  ],
   "title": "4 Lane belt book, lots of utility",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

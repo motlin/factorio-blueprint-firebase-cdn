@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1655968892432,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Федянина ЖД",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,

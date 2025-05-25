@@ -3,11 +3,11 @@
     "userId": "cHk44dJ5G9NvUxauEKFhZpTkVNX2"
   },
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "4-Lane City Block Celtic Knot RHD",
   "favorites": {
     "Xm1fKyqX6Neb5GzNlMfdeVF9M0w2": true,

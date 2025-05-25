@@ -15,12 +15,12 @@
   "fileName": "preview.jpg",
   "lastUpdatedDate": 1510550278255,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/version/0,15/",
-    "2": "/mods/factorissimo/",
-    "3": "/mods/warehousing/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/version/0,15/",
+    "/mods/factorissimo/",
+    "/mods/warehousing/"
+  ],
   "title": "Greenhouse Factory (with Loaders)",
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

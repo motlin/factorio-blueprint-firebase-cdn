@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/EBy4nce.png",
   "lastUpdatedDate": 1741460964415,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/circuit/indicator/",
-    "2": "/general/art/",
-    "3": "/version/0,15/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/general/art/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Number Display for items using Display panels"
 }

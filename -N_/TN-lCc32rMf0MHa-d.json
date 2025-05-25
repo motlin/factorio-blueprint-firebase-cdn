@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1689505509917,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/early game/",
-    "2": "/mods/other/",
-    "3": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/mods/other/",
+    "/mods/krastorio/"
+  ],
   "title": "Krastorio2, Full Yellow early smelt",
   "favorites": {
     "bZHNM7R6NvOArsmgDV6nHmBw4gt2": true

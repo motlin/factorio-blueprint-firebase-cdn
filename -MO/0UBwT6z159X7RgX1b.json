@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1636436682920,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "High-ish throughput 2 lane intersection",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Junction1_78451017_1440x1440.png?alt=media&token=da6aeef9-995e-487e-9675-5f76452d2cfd",
   "favorites": {

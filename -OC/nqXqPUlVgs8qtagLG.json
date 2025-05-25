@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/1aYtXGC",
   "lastUpdatedDate": 1732815547208,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/mods/space-age/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/production/mall (make everything)/"
+  ],
   "title": "\"Make Anything\" Mall",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

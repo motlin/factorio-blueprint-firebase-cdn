@@ -20,14 +20,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/IzOBooz.png?alt=media&token=b303ea25-da78-4c3a-bb12-1bd933c5905a",
   "lastUpdatedDate": 1615074311819,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/unloading station/",
-    "4": "/train/track/",
-    "5": "/train/loading station/",
-    "6": "/version/1,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/",
+    "/train/unloading station/",
+    "/train/track/",
+    "/train/loading station/",
+    "/version/1,0/"
+  ],
   "title": "VersaRail Exoplanet Logistical Development Kit (Rev H)"
 }

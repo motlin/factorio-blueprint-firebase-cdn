@@ -93,14 +93,14 @@
   },
   "lastUpdatedDate": 1593904528722,
   "numberOfFavorites": 68,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/production/science/",
-    "3": "/production/research (labs)/",
-    "4": "/general/beaconized/",
-    "5": "/power/nuclear/",
-    "6": "/version/0,18/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/power/nuclear/",
+    "/version/0,18/"
+  ],
   "title": "1KSPM City Grid Entire Factory"
 }

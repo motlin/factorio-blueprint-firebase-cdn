@@ -16,13 +16,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/lierosk.jpg?alt=media&token=b299fefb-6ddb-4cc9-87fa-610e158b890c",
   "lastUpdatedDate": 1505479056502,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/rocket parts/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "50 SPM V2 No oil processing"
 }

@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1653842668986,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/uranium/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/power/kovarex enrichment/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/",
+    "/version/0,15/"
+  ],
   "title": "complete Uranium fuel cell processing",
   "favorites": {
     "kbbeJDTWrfYbHH4XStSeBUk3snr1": true,

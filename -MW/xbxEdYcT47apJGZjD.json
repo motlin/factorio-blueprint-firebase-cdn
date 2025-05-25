@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1617015330171,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/seablock/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/seablock/"
+  ],
   "title": "Seablock ore production (Geodes",
   "favorites": {
     "0ozmw6d2eTZZW6AoxCA1wCSOxNw2": true,

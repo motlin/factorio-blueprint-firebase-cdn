@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1591981469964,
   "numberOfFavorites": 0,
-  "tags": {
-    "3": "/version/0,16/",
-    "0": "/version/0,17/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Freedom Dive (Music)"
 }

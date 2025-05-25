@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1679664166764,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/"
+  ],
   "title": "All the Inserters, improved",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-03-23%20at%205.45.30%20PM.png?alt=media&token=c42b58f6-9b0f-4b2b-975f-8e4e1d86b52d",
   "favorites": {

@@ -22,11 +22,11 @@
   "author": {
     "userId": "lsDrNkYpLJbLlqRjk5Igk8AnD7z2"
   },
-  "tags": {
-    "4": "/mods/vanilla/",
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "3": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/general/late game (megabase)/"
+  ]
 }

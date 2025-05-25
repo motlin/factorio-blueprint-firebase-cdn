@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/wceHxD0",
   "lastUpdatedDate": 1738854068839,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Hexagonal rails",
   "favorites": {
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,

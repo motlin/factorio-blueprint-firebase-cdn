@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1649840065376,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Easy Bluechips (early game)",
   "favorites": {
     "BplNmOQ953efQk9s2ZQZhqgmTuu1": true,

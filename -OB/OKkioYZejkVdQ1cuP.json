@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/3jqDlhw",
   "lastUpdatedDate": 1731323170878,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/planets/vulcanus/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/planets/vulcanus/",
+    "/general/beaconized/"
+  ],
   "title": "Vulcanus Iron & Refined Concrete",
   "favorites": {
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,

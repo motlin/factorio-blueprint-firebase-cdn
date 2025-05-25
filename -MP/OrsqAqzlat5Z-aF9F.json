@@ -15,9 +15,9 @@
   "fileName": "q1.png",
   "lastUpdatedDate": 1608899333681,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Seventy-segment display"
 }

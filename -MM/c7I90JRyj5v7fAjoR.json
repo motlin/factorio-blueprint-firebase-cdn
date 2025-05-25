@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1634990369234,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/other/"
+  ],
   "title": "Copper Cables 5.400/min or 2 fully compressed blue belts(V2).",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Screenshot%202021.10.23%20-%2014.53.58.06.png?alt=media&token=46f48bbc-7598-4cb4-ae2a-e2f056ffe4c1",
   "favorites": {

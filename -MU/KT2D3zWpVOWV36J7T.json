@@ -4,10 +4,10 @@
   },
   "descriptionMarkdown": "Solar 2x2 Grid NoRadar\n0.85 ratio",
   "fileName": "Solar 2x2 grid NoRadar.png",
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar 2x2 Grid NoRadar",
   "favorites": {
     "UFQ5ONZFsLS2ZVlEeFuz9iTXJEC3": true,

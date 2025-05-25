@@ -24,7 +24,7 @@
     "type": "image/png"
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,15/"
-  }
+  "tags": [
+    "/version/0,15/"
+  ]
 }

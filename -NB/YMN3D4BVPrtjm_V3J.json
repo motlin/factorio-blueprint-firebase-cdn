@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1662745674361,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/production/mining/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/mining/"
+  ],
   "title": "Onsite Mining 16 Belt"
 }

@@ -20,9 +20,9 @@
     "id": "3GNI4a7"
   },
   "lastUpdatedDate": 1558351538298,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/mods/ltn/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/mods/ltn/"
+  ],
   "title": "LTN - Express Belts"
 }

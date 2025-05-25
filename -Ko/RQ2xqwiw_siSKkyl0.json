@@ -1,10 +1,10 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170707113048_1.jpg?alt=media&token=fc4c3c0c-1f39-4729-bf41-66ae7b56cf06",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/modules/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/modules/"
+  ],
   "title": "Modules array",
   "fileName": "20170707113048_1.jpg",
   "image": {

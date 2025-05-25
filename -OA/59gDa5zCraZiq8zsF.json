@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/xyCT0hG",
   "lastUpdatedDate": 1729907637964,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/"
+  ],
   "title": "Smart Mall Setter",
   "favorites": {
     "1MpOm4Yqs8hl1Fz2RND0lCSyFDZ2": true,

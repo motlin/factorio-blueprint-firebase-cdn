@@ -17,8 +17,8 @@
   "imageUrl": "https://imgur.com/1sjI4cp",
   "lastUpdatedDate": 1730755685112,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Winning boat"
 }

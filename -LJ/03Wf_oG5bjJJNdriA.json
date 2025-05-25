@@ -11,12 +11,12 @@
   },
   "lastUpdatedDate": 1533915237984,
   "numberOfFavorites": 3,
-  "tags": {
-    "3": "/general/early game/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "authorId": "0mFMFSQyeXYRWvv676YNegV08Kz2",
   "createdDate": 1533321288475,
   "descriptionMarkdown": "An early-game way to produce plates. I recommend getting the Tiny Marathon Start mod (https://mods.factorio.com/mod/TinyMarathonStart) so that you can automatically build it.",

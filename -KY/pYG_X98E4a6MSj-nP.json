@@ -25,10 +25,10 @@
     "height": 728
   },
   "lastUpdatedDate": 1499900581581,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/general/storage/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  }
+  "tags": [
+    "/train/unloading station/",
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ]
 }

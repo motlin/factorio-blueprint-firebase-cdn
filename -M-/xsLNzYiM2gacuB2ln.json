@@ -35,10 +35,10 @@
   "descriptionMarkdown": "My personal design for military science packs.",
   "lastUpdatedDate": 1590930291462,
   "numberOfFavorites": 15,
-  "tags": {
-    "3": "/general/tileable/",
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/"
-  }
+  "tags": [
+    "/general/tileable/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ]
 }

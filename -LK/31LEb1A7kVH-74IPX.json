@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1534444791014,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/version/0,14/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/",
-    "3": "/mods/vanilla/",
-    "4": "/general/storage/"
-  }
+  "tags": [
+    "/version/0,14/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/storage/"
+  ]
 }

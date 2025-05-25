@@ -22,8 +22,8 @@
   },
   "lastUpdatedDate": 1657135367874,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Upgradable Intersection Blueprints"
 }

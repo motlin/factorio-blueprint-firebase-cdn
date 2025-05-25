@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1625256214560,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Vanilla Train System Display",
   "favorites": {
     "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,

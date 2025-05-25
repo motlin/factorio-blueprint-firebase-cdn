@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1594602912219,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/version/0,16/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/",
-    "4": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/version/0,16/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "title": "Nuclear Power (coastal, with landfill)"
 }

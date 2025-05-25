@@ -13,13 +13,13 @@
   "authorId": "RS8F2GMLtGU6D2vusHr5OZC95AC2",
   "descriptionMarkdown": "self priming, self adjusting, belt fed, includes centrifuge ore refining, 9 beacons per centrifuge.\nreuses 235, and 238 for 100% uptime.\n\nHook up to uranium ore belt, and it will take care of it self. (granted this takes time).\nAll vanilla friendly.\n",
   "lastUpdatedDate": 1545323460316,
-  "tags": {
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/power/kovarex enrichment/"
+  ],
   "favorites": {
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true
   },

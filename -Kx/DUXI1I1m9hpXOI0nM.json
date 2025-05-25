@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1508850539726,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/general/late game (megabase)/",
-    "0": "/circuit/indicator/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/late game (megabase)/",
+    "/circuit/indicator/",
+    "/power/solar/"
+  ],
   "title": "End-Game Solar and Akku and Deff Base (466x466)"
 }

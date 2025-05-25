@@ -81,14 +81,14 @@
   },
   "lastUpdatedDate": 1560680481396,
   "numberOfFavorites": 62,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/train/unloading station/",
-    "5": "/general/late game (megabase)/",
-    "6": "/general/tileable/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/train/unloading station/",
+    "/general/late game (megabase)/",
+    "/general/tileable/"
+  ],
   "title": "Chandelier 3M/h iron smelter "
 }

@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1589245853335,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "General production"
 }

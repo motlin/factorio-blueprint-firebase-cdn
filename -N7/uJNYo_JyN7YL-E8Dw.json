@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1658924811162,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/"
+  ],
   "title": "mini ALL Science"
 }

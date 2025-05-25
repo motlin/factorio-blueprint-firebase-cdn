@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1589682866982,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,17/"
+  ],
   "title": "5x2 Symmetrical Nuclear setup"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Z1vv4dW",
   "lastUpdatedDate": 1730353339431,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/other/"
+  ],
   "title": "Early space platform shop",
   "favorites": {
     "RVYYJVWBsmPZ0NuKOkDFhIK7dUS2": true,

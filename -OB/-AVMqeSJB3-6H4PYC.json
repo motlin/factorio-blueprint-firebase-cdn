@@ -78,11 +78,11 @@
   "imageUrl": "https://imgur.com/pCCpgeb",
   "lastUpdatedDate": 1731247312582,
   "numberOfFavorites": 28,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/guns and ammo/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/guns and ammo/",
+    "/general/beaconized/"
+  ],
   "title": "GIGADRILL 1.1.2 (Shattered Planet Space Platform)"
 }

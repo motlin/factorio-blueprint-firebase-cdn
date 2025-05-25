@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1673127999411,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Train Stations"
 }

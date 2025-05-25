@@ -1,13 +1,13 @@
 {
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/version/1,1/",
-    "5": "/general/tileable/",
-    "6": "/production/belt based/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/general/tileable/",
+    "/production/belt based/"
+  ],
   "title": "Green Circuits - 2700 / min",
   "createdDate": 1551167225229,
   "image": {

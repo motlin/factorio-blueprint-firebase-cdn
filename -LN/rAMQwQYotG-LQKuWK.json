@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1538524018460,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Plastic (80/s, 8 beacons/assembler)",
   "favorites": {
     "GpcM6ZUC8RVaxFbIGldanqcANO02": true,

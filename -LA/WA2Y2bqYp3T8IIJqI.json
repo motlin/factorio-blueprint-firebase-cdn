@@ -37,16 +37,16 @@
   },
   "lastUpdatedDate": 1553801224930,
   "numberOfFavorites": 21,
-  "tags": {
-    "8": "/production/research (labs)/",
-    "0": "/general/beaconized/",
-    "1": "/general/late game (megabase)/",
-    "2": "/version/0,17/",
-    "6": "/production/science/",
-    "3": "/mods/vanilla/",
-    "4": "/general/compact/",
-    "5": "/production/rocket parts/",
-    "7": "/general/tileable/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/version/0,17/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/production/rocket parts/",
+    "/general/tileable/"
+  ],
   "title": "Late game compact 1 science/s from raw (OBSOLETE, more compact version available, see description)"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/vhs8vCH",
   "lastUpdatedDate": 1731614013339,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "title": "WaldeB's VTN",
   "favorites": {
     "VjBXfFz8D9OFy69tnudjc65Bjg92": true,

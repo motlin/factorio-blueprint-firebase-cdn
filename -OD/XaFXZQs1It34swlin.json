@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/VQhuKHa",
   "lastUpdatedDate": 1733599758720,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/nuclear/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/nuclear/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Pre-Aquilo ship",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

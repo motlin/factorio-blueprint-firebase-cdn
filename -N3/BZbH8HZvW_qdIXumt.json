@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1653773334411,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Кусок МОЛЛа",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true

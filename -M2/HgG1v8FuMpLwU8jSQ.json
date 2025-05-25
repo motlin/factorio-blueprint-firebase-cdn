@@ -42,17 +42,17 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/grid2.png?alt=media&token=066e9817-c755-48ea-9f89-bf9fe62d79e9",
   "lastUpdatedDate": 1584147560353,
   "numberOfFavorites": 21,
-  "tags": {
-    "2": "/mods/ltn/",
-    "3": "/version/0,18/",
-    "5": "/train/loading station/",
-    "0": "/train/junction/",
-    "4": "/train/track/",
-    "6": "/train/unloading station/",
-    "7": "/train/crossing/",
-    "8": "/train/right-hand-drive/",
-    "9": "/train/stacker/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/0,18/",
+    "/train/loading station/",
+    "/train/junction/",
+    "/train/track/",
+    "/train/unloading station/",
+    "/train/crossing/",
+    "/train/right-hand-drive/",
+    "/train/stacker/",
+    "/train/roundabout/"
+  ],
   "title": "Big 1-1 LTN City Block"
 }

@@ -15,14 +15,14 @@
     "userId": "C5aiRQzuT2el5d3MAKWqZs1PZDj1"
   },
   "authorId": "C5aiRQzuT2el5d3MAKWqZs1PZDj1",
-  "tags": {
-    "2": "/version/0,16/",
-    "3": "/train/right-hand-drive/",
-    "4": "/train/roundabout/",
-    "5": "/general/late game (megabase)/",
-    "0": "/train/junction/",
-    "1": "/mods/lighted-electric-poles/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/general/late game (megabase)/",
+    "/train/junction/",
+    "/mods/lighted-electric-poles/"
+  ],
   "title": "8 lane T junction",
   "favorites": {
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true

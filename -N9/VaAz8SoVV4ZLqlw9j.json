@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1660554313330,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Beaconed Kovarex",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2022-08-15_10-43.png?alt=media&token=c8d9b9da-c183-4b11-bcf4-1843c739464b",
   "favorites": {

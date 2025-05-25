@@ -14,9 +14,9 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/SolarRail.png?alt=media&token=45140937-a163-41f7-ac4b-2215682ebf7b",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "Solar Rail",
   "createdDate": 1511494877763,
   "lastUpdatedDate": 1511494877763

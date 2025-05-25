@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/ks2nhlx",
   "lastUpdatedDate": 1730596266142,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Bitchin' Basic Barge",
   "favorites": {
     "lVdpNifT74Z7QbLbFfAJsDKV52p1": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1656238193922,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Smelting Outpost Iron",
   "favorites": {
     "FOkeJ5l45uPJGFwA7revwCBouVP2": true

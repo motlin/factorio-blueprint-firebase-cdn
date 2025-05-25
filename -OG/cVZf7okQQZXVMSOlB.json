@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/N4hnZyS",
   "lastUpdatedDate": 1736920235355,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/vanilla/"
+  ],
   "title": "Sushi Upcycling By Bayfuss",
   "favorites": {
     "IXmgptQWkyN64E1z5S9Aw5qTQeS2": true,

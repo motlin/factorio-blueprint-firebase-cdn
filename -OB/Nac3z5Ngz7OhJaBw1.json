@@ -13,17 +13,17 @@
   "imageUrl": "https://imgur.com/bsnwv9O",
   "lastUpdatedDate": 1731284599234,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/power/solar/",
-    "2": "/power/nuclear/",
-    "3": "/mods/space-age/",
-    "4": "/planets/nauvis/",
-    "5": "/planets/vulcanus/",
-    "6": "/planets/fulgora/",
-    "7": "/planets/gleba/",
-    "8": "/planets/aquilo/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/power/solar/",
+    "/power/nuclear/",
+    "/mods/space-age/",
+    "/planets/nauvis/",
+    "/planets/vulcanus/",
+    "/planets/fulgora/",
+    "/planets/gleba/",
+    "/planets/aquilo/"
+  ],
   "title": "9 GW Fusion Reactor",
   "favorites": {
     "75M4yrnMgqfrb7Qd1Ueh2jb0lcd2": true,

@@ -9,13 +9,13 @@
     "type": "image/jpeg",
     "width": 540
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "author": {
     "userId": "fa162PgmA4R42NAhSvn7RvvUHRs2"
   },

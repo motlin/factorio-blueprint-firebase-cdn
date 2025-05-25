@@ -13,16 +13,16 @@
   "imageUrl": "https://imgur.com/KgJ3wU4",
   "lastUpdatedDate": 1723793574806,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/production/science/",
-    "3": "/production/inserters/",
-    "4": "/belt/transport belt (yellow)/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/",
-    "7": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/production/science/",
+    "/production/inserters/",
+    "/belt/transport belt (yellow)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/research (labs)/"
+  ],
   "title": "Early Game - Science + Mini Mall",
   "favorites": {
     "ZZDeXuKytzZe71SNZ9qb5aA55yq2": true,

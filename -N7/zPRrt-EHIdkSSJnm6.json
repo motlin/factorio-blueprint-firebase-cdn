@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1658921275077,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/power/steam/"
+  ],
   "title": "2x2 wasteless nuclear reactors plant"
 }

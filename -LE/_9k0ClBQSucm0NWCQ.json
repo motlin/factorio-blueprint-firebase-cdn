@@ -16,8 +16,8 @@
     "width": 541,
     "height": 526
   },
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/compact/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/general/compact/"
+  ]
 }

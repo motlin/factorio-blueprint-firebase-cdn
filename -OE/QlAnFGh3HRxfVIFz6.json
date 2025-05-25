@@ -36,11 +36,11 @@
   "imageUrl": "https://imgur.com/TARaQTN",
   "lastUpdatedDate": 1738998834090,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/rocket parts/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "gleba book"
 }

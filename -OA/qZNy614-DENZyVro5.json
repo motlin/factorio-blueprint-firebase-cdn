@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/xwgkWnf",
   "lastUpdatedDate": 1730713587733,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Starter spaceship",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

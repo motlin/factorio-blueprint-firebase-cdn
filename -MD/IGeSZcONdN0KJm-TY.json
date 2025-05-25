@@ -1,9 +1,9 @@
 {
   "descriptionMarkdown": "its just a compact 5 to 5 oil refinery it takes alot of oil so make sure to have a surplus! :D",
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/compact/"
+  ],
   "favorites": {
     "mZWcy4K9QoaVF45kx8cZJoAe8D53": true,
     "DT2R83p5f7PQmkKUXIW0t7W9Ptg2": true,

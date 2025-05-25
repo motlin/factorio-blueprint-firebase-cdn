@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1704641731932,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "SMELTERS TILEABLE!!!!",
   "favorites": {
     "vLYGBqU7QagaUHgR955wB97yJYT2": true,

@@ -15,10 +15,10 @@
   "authorId": "xZXOAKRYhahyVF5azb5KqLdOA222",
   "createdDate": 1508526550472,
   "descriptionMarkdown": "Iron & Copper Furnaces",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Iron & Copper Furnaces"
 }

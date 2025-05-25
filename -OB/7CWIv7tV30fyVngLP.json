@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/gXH5ZoY",
   "lastUpdatedDate": 1731010004876,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Iron bacteria",
   "favorites": {
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/v73kUDb",
   "lastUpdatedDate": 1731475161518,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/planets/aquilo/",
-    "2": "/power/nuclear/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/power/nuclear/",
+    "/mods/space-age/"
+  ],
   "title": "Wide Aquillo Ship ",
   "favorites": {
     "ocV9ibG8mVVnvwjTVLYZf6Rq0jD3": true,

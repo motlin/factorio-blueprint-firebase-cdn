@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1664052107153,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Power Alarm"
 }

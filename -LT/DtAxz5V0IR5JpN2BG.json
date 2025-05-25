@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1544358244595,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/beaconized/"
+  ],
   "title": "Skalykot-Blueprints-2.0"
 }

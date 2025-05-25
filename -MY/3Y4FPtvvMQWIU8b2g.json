@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1618205234492,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/production/robots/",
-    "2": "/power/steam/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/production/robots/",
+    "/power/steam/",
+    "/mods/other/"
+  ],
   "title": "Jrdiver's Blueprint Book"
 }

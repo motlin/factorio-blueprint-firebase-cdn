@@ -1,14 +1,14 @@
 {
   "lastUpdatedDate": 1506623218877,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/belt based/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "5": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/belt based/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/oil processing/"
+  ],
   "author": {
     "userId": "PBs1efCHSvdLZK6TU2vHcpodUnH2"
   },

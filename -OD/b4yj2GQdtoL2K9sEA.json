@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/7QZSD2i",
   "lastUpdatedDate": 1733675183164,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Smart stack inserter trian station",
   "favorites": {
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,

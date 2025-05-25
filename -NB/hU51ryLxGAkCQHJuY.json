@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1691906498878,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/ltn/"
+  ],
   "title": "LTN station - simple provider"
 }

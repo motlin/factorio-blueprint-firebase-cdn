@@ -3,11 +3,11 @@
   "createdDate": 1559367794041,
   "lastUpdatedDate": 1561825885088,
   "numberOfFavorites": 9,
-  "tags": {
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/power/nuclear/"
+  ],
   "favorites": {
     "wJTgxTSUSTW8pxP8gHJORPznqE52": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/VWtujmc",
   "lastUpdatedDate": 1730646100043,
   "numberOfFavorites": 41,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/version/2,0/"
+  ],
   "title": "Fulgora Recycler and Quality Filter",
   "favorites": {
     "9rHsoMr2E3htFHLsPNzORgx5R603": true,

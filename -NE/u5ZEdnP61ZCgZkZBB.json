@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1695339398177,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "Compact, Tileable Beaconed Advanced Circuit (Red Chip) - 30/s"
 }

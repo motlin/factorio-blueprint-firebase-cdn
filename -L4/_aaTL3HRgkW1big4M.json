@@ -16,11 +16,11 @@
     "userId": "RvEbG5NvyCTU7i46jXYURkkYjh23"
   },
   "authorId": "RvEbG5NvyCTU7i46jXYURkkYjh23",
-  "tags": {
-    "4": "/general/compact/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/"
-  }
+  "tags": [
+    "/general/compact/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/"
+  ]
 }

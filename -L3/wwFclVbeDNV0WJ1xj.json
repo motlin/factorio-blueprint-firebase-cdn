@@ -23,11 +23,11 @@
   },
   "lastUpdatedDate": 1517145885507,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/junction/",
-    "2": "/general/tileable/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/general/tileable/",
+    "/train/track/"
+  ],
   "title": "PRS RHD train grid system"
 }

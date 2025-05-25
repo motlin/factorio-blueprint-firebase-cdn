@@ -8,12 +8,12 @@
   },
   "createdDate": 1591803720857,
   "descriptionMarkdown": "Green Circuit 5ps\nMid Game, requied red belts and tier 2 assembler.",
-  "tags": {
-    "3": "/version/1,0/",
-    "0": "/version/0,17/",
-    "1": "/version/0,18/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "4wTUEf8RLeRCFQov8Yrx6av15DJ3": true
   },

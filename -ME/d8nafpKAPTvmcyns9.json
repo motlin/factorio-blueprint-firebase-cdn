@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1626335558267,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "RS Latch demo",
   "favorites": {
     "GSMu5t5LmfZZhIDSVuNjN91r6pl2": true,

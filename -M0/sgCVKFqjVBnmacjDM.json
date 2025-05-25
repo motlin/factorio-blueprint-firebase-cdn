@@ -16,15 +16,15 @@
     "id": "LPBl81T"
   },
   "lastUpdatedDate": 1582572880455,
-  "tags": {
-    "4": "/production/processing unit (blue)/",
-    "5": "/mods/vanilla/",
-    "6": "/general/beaconized/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/marathon/",
-    "2": "/production/electronic circuit (green)/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/advanced circuit (red)/",
+    "/general/marathon/",
+    "/production/electronic circuit (green)/",
+    "/version/0,18/"
+  ],
   "favorites": {
     "G2gs3nllXpTiHyn96IKayWKeVzB3": true
   }

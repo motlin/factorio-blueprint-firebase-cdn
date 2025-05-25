@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1671971315014,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/vanilla/"
+  ],
   "title": "A couple of Items/s Belt Counters",
   "favorites": {
     "0rdpwQPdhgc0RFaRpodeMug1JmO2": true

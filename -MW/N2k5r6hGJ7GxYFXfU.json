@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1645579094821,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "2 Blue Belts of plates Tillable Linear Smelter",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/smell2.bmp?alt=media&token=a3b3698e-afcd-4fb6-a0b5-b7207c1b9e40",
   "favorites": {

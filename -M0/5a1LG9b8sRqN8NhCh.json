@@ -12,12 +12,12 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1581732383986,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "0": "/version/0,17/",
-    "1": "/production/coal liquification/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/production/coal liquification/"
+  ],
   "title": "Coal to light oil",
   "authorId": "fu2MQA7cg3QpQ8L1J9HFV86QA5a2",
   "fileName": "CoalLightOil.png",

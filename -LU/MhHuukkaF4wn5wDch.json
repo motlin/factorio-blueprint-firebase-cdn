@@ -15,11 +15,11 @@
   "authorId": "1kLVigmno1PXFGhv3C4GODYzO7L2",
   "createdDate": 1545512234758,
   "descriptionMarkdown": "this is for blue science in B&A with Science tweaker by mexmer \n\nI try to make the blue prints as basic as possible so that you can place them and configure them to what your needs are, however i do not see a lot of prints for this setup so i will tweak them to be more optimal in the future",
-  "tags": {
-    "2": "/version/0,16/",
-    "3": "/production/science/",
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Blue Tweaker"
 }

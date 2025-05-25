@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/"
+  ],
   "title": "Circuit Balanced Train Loading Station",
   "author": {
     "userId": "AWAi8TMSkqM3IcTA5lRHvs502v52"

@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/Qtcoj8o",
   "lastUpdatedDate": 1731760053844,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/tileable/",
-    "2": "/mods/space-age/",
-    "3": "/production/belt based/",
-    "4": "/version/2,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/tileable/",
+    "/mods/space-age/",
+    "/production/belt based/",
+    "/version/2,0/"
+  ],
   "title": "Starting base draft for space age",
   "favorites": {
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,

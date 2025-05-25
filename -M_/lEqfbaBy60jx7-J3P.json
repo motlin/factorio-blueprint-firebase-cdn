@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1621103359136,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/version/0,16/"
+  ],
   "title": "Fabrica de Coke",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,

@@ -27,11 +27,11 @@
   },
   "lastUpdatedDate": 1600594202407,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/bobs/",
-    "2": "/power/steam/",
-    "3": "/mods/angels/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/bobs/",
+    "/power/steam/",
+    "/mods/angels/"
+  ],
   "title": "Bob's - Angel's 0.18  - Early Game 2"
 }

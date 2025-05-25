@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1685370409258,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/vanilla/"
+  ],
   "title": "Enriquecimento Kovarer",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

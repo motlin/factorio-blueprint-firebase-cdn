@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1579706055963,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "authorId": "3KwdDKv94NbYQ3i82KXp8U6Uva33",
   "favorites": {
     "aGtrtl8BmAZe6GyD0V15ATff8CG2": true,

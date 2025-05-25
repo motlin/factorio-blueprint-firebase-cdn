@@ -22,11 +22,11 @@
   },
   "lastUpdatedDate": 1647157157607,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "raw ore -> 60spm incremental build"
 }

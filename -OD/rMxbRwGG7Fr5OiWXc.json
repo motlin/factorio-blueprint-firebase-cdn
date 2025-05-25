@@ -24,8 +24,8 @@
   "imageUrl": "https://imgur.com/rJOBLo6",
   "lastUpdatedDate": 1733948332805,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/general/storage/"
+  ],
   "title": "Mass Storage"
 }

@@ -19,14 +19,14 @@
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true
   },
-  "tags": {
-    "2": "/train/junction/",
-    "3": "/train/roundabout/",
-    "4": "/version/1,0/",
-    "5": "/mods/vanilla/",
-    "0": "/train/track/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/track/",
+    "/train/right-hand-drive/"
+  ],
   "authorId": "6tNFWWFXTvckrcZsXG1qsRjNPCe2",
   "descriptionMarkdown": "Blueprint book containing right-hand convention rails created by KoblerMan. Includes large power poles with red/green wire. Track sections tessellate by overlapping power poles.\n\nFurther information can be found in the individual descriptions for each blueprint."
 }

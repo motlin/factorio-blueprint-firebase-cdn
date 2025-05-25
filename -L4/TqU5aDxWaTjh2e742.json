@@ -16,9 +16,9 @@
     "width": 849
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/production/belt based/",
-    "0": "/mods/vanilla/"
-  }
+  "tags": [
+    "/general/beaconized/",
+    "/production/belt based/",
+    "/mods/vanilla/"
+  ]
 }

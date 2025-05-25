@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1678598780387,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "title": "MAX() function perfected, in a 5x5 space",
   "favorites": {
     "z7mV7lh4PLggQPzJvQ1q3VgSKFT2": true,

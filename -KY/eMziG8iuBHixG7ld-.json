@@ -33,10 +33,10 @@
   },
   "lastUpdatedDate": 1510482365782,
   "numberOfFavorites": 35,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "FUN BOOK OF STUFF AND THINGS!"
 }

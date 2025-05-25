@@ -20,10 +20,10 @@
   "createdDate": 1546178498036,
   "lastUpdatedDate": 1546239612177,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/tileable/"
-  }
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/tileable/"
+  ]
 }

@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/CA6OuDP",
   "lastUpdatedDate": 1732617366396,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/version/2,0/",
-    "2": "/general/mid game/",
-    "3": "/planets/gleba/",
-    "4": "/planets/fulgora/",
-    "5": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/version/2,0/",
+    "/general/mid game/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/"
+  ],
   "title": "The first rocket - constant travel, no upkeep, hub reserved for your items",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true

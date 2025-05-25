@@ -4,10 +4,10 @@
   },
   "createdDate": 1610856990675,
   "fileName": "satbots3.png",
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "Satellites, bot driven & beaconized",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/satbots3.png?alt=media&token=8db1f2bc-23fb-4058-b406-ec4490b9dc7c",
   "authorId": "Hf33mFexf0Np9KmFdaVd4jfG24Y2",

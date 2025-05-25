@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Vm0RWHP",
   "lastUpdatedDate": 1731073487075,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "CrusherNoMoreJams",
   "favorites": {
     "NJ2Rg6V5VteClFaADQE0pDqoll82": true,

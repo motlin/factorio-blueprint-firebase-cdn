@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/1Jb93oi",
   "lastUpdatedDate": 1740502099195,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/other/"
+  ],
   "title": "Automall. py+cybersyn"
 }

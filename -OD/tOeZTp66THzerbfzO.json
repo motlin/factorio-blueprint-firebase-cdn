@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/bJay2WQ",
   "lastUpdatedDate": 1733982631885,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/2,0/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/2,0/",
+    "/general/late game (megabase)/"
+  ],
   "title": "UNTRA: Recursive Blueprints [X] Replication"
 }

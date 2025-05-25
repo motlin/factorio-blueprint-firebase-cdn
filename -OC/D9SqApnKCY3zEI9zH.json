@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/tpxwy37",
   "lastUpdatedDate": 1732189621949,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/mods/quality/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Atems Rare Quality Upper",
   "favorites": {
     "noYOuqvqhvgvDjkfhuXJ3105DS92": true,

@@ -16,9 +16,9 @@
     "userId": "wszFitPtdUfc4inYjkmnqwG08bj1"
   },
   "title": "Tilable Solar with Roboport",
-  "tags": {
-    "1": "/version/1,0/",
-    "2": "/mods/vanilla/",
-    "0": "/power/solar/"
-  }
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/power/solar/"
+  ]
 }

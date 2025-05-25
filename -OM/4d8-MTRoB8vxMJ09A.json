@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/cumGSvd",
   "lastUpdatedDate": 1742777782634,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/fulgora/",
-    "3": "/planets/gleba/",
-    "4": "/planets/vulcanus/",
-    "5": "/version/2,0/",
-    "6": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/fulgora/",
+    "/planets/gleba/",
+    "/planets/vulcanus/",
+    "/version/2,0/",
+    "/power/solar/"
+  ],
   "title": "Dune - First 3 planets ship"
 }

@@ -7,15 +7,15 @@
   "descriptionMarkdown": "Output: 1.25 blue science packs per second\n\nInserter capacity bonus 4 required\n\nhttps://kirkmcdonald.github.io/calc.html#tab=graph&rate=s&min=3&belt=express-transport-belt&items=science-pack-3:f:12\n\nThe bottleneck of this blueprint is blue iron plate belt used by 30/s (of 40).",
   "fileName": "2019-01-06_2-01-06.jpg",
   "numberOfFavorites": 10,
-  "tags": {
-    "1": "/version/0,16/",
-    "2": "/production/science/",
-    "3": "/general/compact/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "6": "/general/mid game/",
-    "0": "/production/belt based/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/mid game/",
+    "/production/belt based/"
+  ],
   "authorId": "KHiVNgd8hhOuc9SwS2OqGYE00JA3",
   "image": {
     "height": 898,

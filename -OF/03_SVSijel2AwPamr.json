@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/d7NlYQv",
   "lastUpdatedDate": 1735360443195,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/mining/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/mining/"
+  ],
   "title": "Omnivorous Asteroid Crusher",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

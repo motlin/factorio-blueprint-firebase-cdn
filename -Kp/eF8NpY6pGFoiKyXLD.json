@@ -3,11 +3,11 @@
   "createdDate": 1500726204213,
   "lastUpdatedDate": 1500734248903,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/22-07-2017%2010-20-15%20PM.png?alt=media&token=1ae92b76-8eba-4d2f-a622-de3aaef25619",
   "title": "Power Charge Indicator",
   "author": {

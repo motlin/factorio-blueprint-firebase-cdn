@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1514306735805,
-  "tags": {
-    "2": "/production/processing unit (blue)/",
-    "0": "/mods/bobs/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": "Bob's Electronic Logic Board",
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

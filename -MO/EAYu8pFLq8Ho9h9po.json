@@ -10,12 +10,12 @@
   "authorId": "Hf33mFexf0Np9KmFdaVd4jfG24Y2",
   "descriptionMarkdown": "A little bit more than 1K / minute military science.\n\n[Factorio Calculator](https://kirkmcdonald.github.io/calc.html#zip=bU/ZisMwDPwbP0WQEFiKiz9GtbVB1JaN5LDH12+P0LS7C2LQNaNRwo5hghFGV1jC7E6Ue6DPpmQGXVGsVe1wbbtUQptdOgW7YgwHx52KhcKZO+oXWGSSSNAwnr36aTxcVhapSoG1CrSMnYZYWyPdCutVCD4wZ1dqWjNZeJ77o81+ehveWQm1QMEFv1nI2x7byqIkmC6N+RHbZL/tZc35BsdbNg7/e9+IjUkjywJaV0n2cv2hdJe7E6wT5Vfn+4Ob4d+cWPGP0A8=) for this blueprint.",
   "lastUpdatedDate": 1613419430302,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "image": {
     "width": 1440,
     "height": 213,

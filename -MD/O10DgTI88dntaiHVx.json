@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1624991339885,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "12 Nuclear reactor with train St.",
   "favorites": {
     "a0g8HvT6krW7YQJtySgBaAryZkk1": true

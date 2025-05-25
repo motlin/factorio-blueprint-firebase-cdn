@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1667076281971,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/bobs/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": "Posto para processamento de Homium"
 }

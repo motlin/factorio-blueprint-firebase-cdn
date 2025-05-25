@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/H9ZJ2E8",
   "lastUpdatedDate": 1734141726673,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Ugly Bessie - Space Travel, Spaghetti Style"
 }

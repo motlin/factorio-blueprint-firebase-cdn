@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1631443328257,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/guns and ammo/",
-    "2": "/version/1,0/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/guns and ammo/",
+    "/version/1,0/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Artillery 250/mn shells factory",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d%E2%80%99%C3%A9cran%202021-09-12%20123955.png?alt=media&token=32a57646-b62e-49fd-90c1-de00e64584b0",
   "favorites": {

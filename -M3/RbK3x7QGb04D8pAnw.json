@@ -9,10 +9,10 @@
   },
   "lastUpdatedDate": 1585323182758,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/mods/vanilla/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ppshjsdfkgjp%C3%B4%C2%A7dfjhdfhdfg%C5%88.png?alt=media&token=2fb514d6-a5f7-4194-8310-c8288d700020",
   "author": {
     "userId": "09EKilzyIaaG65tmVYhtATewKXb2"

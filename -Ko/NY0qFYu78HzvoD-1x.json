@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "2": "/circuit/indicator/",
-    "3": "/circuit/counter/",
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
     "nRUC6TPR6GgE26s51IqkwRWhesl2": true,

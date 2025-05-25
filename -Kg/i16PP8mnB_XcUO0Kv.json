@@ -16,11 +16,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Smelter%20Max%20with%20Beacons.png?alt=media&token=3e15af25-c74a-415a-9030-619088249be4",
   "lastUpdatedDate": 1498654257839,
   "numberOfFavorites": 7,
-  "tags": {
-    "3": "/version/0,14/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,14/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "MadZuri's train/bot smelter with max prod3 and beacons"
 }

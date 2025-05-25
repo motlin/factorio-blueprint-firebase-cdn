@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/XMI75aV",
   "lastUpdatedDate": 1730141927619,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "Autonomic resource outpost with full supply support",
   "favorites": {
     "vnZrg9gVKOVNggaZJ9TjIbjILzr2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1698283844524,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "title": "FABRICA DE PAINEL SOLAR MANUAL",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

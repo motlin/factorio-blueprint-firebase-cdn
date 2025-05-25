@@ -119,12 +119,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Thumbnail.jpg?alt=media&token=31a74461-90ae-4d77-9aa8-1596084b870a",
   "lastUpdatedDate": 1547898661741,
   "numberOfFavorites": 113,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/production/belt based/"
+  ],
   "title": "The Bus Complete"
 }

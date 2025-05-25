@@ -16,10 +16,10 @@
   "imageUrl": "https://imgur.com/vybGbY4",
   "lastUpdatedDate": 1736652508464,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/planets/aquilo/"
+  ],
   "title": "S2-F Freighter"
 }

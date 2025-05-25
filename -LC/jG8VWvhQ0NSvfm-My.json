@@ -13,10 +13,10 @@
   },
   "lastUpdatedDate": 1526580156621,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "vvK5guahTzS3yJC62N5LNhklerq1"
   }

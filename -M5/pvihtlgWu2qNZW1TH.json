@@ -1,11 +1,11 @@
 {
   "descriptionMarkdown": "Little edited version [From here](https://www.reddit.com/r/factorio/comments/c4b2ag/space_exploration_cargo_locket_launching_station/)\nAtention to RED cable. Connect transmitter in space station to warehouse using RED cable.",
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,18/",
-    "2": "/mods/krastorio/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,18/",
+    "/mods/krastorio/",
+    "/mods/space-exploration/"
+  ],
   "author": {
     "userId": "o1PzEsQ9xCZ1zQDrUGcuESxUdk22"
   },

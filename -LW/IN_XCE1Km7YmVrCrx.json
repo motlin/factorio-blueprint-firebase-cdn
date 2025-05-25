@@ -16,11 +16,11 @@
   "descriptionMarkdown": "Consumes 2 Blue Belts Electronic Circuits, 2 Blue Belts Plastic Bar, 1 Blue Belt Copper Plate, Outputs 1 full compressed Blue Belt of Advanced Circuits. Have fun placing this thing. It doesn't fit on the screen.",
   "fileName": "Screenshot from 2019-01-15 16-17-43.png",
   "lastUpdatedDate": 1547847240386,
-  "tags": {
-    "4": "/mods/vanilla/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,16/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/advanced circuit (red)/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/version/0,16/"
+  ]
 }

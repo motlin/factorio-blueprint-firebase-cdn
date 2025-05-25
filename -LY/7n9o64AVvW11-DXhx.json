@@ -16,12 +16,12 @@
     "userId": "bJILWpa5CxhtvOMUJhtQ3CDVMZt1"
   },
   "authorId": "bJILWpa5CxhtvOMUJhtQ3CDVMZt1",
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/production/uranium/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/production/uranium/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "GtLQFs6TTWbZxa2dPS1EI742nO43": true,
     "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,

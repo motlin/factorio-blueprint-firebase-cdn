@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/dAxTzYg",
   "lastUpdatedDate": 1731975884479,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "Item Maze 3800",
   "favorites": {
     "SkqFbXXF95TtIy2W3SQjNj0UAyr1": true,

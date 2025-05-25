@@ -1,11 +1,11 @@
 {
-  "tags": {
-    "1": "/train/roundabout/",
-    "2": "/train/junction/",
-    "3": "/version/0,16/",
-    "4": "/train/right-hand-drive/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/",
+    "/version/0,16/",
+    "/train/right-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "Trains without planning ahead",
   "author": {
     "userId": "dZnWaoDprVNwTQbZEN77c5gm6Ig1"

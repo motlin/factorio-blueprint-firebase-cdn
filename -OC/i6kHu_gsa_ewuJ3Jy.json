@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/HGzsXw4",
   "lastUpdatedDate": 1732719518051,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/version/2,0/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/version/2,0/",
+    "/general/beaconized/"
+  ],
   "title": "1 Blue Belt of Processing Units"
 }

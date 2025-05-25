@@ -15,9 +15,9 @@
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"
   },
   "title": "Compact Military Science",
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "favorites": {
     "Z3Jyl3rUkqZGHMcvFLy6aXkKzgh1": true,
     "1jlDwyoY13f336rKPW9WUFGmifQ2": true,

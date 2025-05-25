@@ -39,11 +39,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Ska%CC%88rmavbild%202023-11-18%20kl.%2018.16.03.png?alt=media&token=08c68219-eaba-4777-be3e-712d99f8b2a8",
   "lastUpdatedDate": 1700332140310,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/production/rocket parts/",
-    "2": "/production/research (labs)/",
-    "3": "/power/nuclear/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/production/rocket parts/",
+    "/production/research (labs)/",
+    "/power/nuclear/"
+  ],
   "title": "Base by XtremeZion"
 }

@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1531328749997,
   "numberOfFavorites": 4,
-  "tags": {
-    "3": "/production/other/",
-    "0": "/mods/angels/",
-    "1": "/version/0,16/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/angels/",
+    "/version/0,16/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13"
   },

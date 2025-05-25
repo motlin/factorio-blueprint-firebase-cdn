@@ -20,7 +20,7 @@
     "type": "image/png",
     "width": 290
   },
-  "tags": {
-    "0": "/mods/vanilla/"
-  }
+  "tags": [
+    "/mods/vanilla/"
+  ]
 }

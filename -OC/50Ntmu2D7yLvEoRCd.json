@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/gUfmhnb",
   "lastUpdatedDate": 1732046589747,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/transport drones/",
-    "1": "/planets/gleba/",
-    "2": "/mods/space-age/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/transport drones/",
+    "/planets/gleba/",
+    "/mods/space-age/",
+    "/production/science/"
+  ],
   "title": "Gleba science (Drones)",
   "favorites": {
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,

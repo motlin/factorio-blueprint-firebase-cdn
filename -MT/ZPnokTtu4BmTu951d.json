@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1642362307352,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "fCPU - Basic I/O",
   "favorites": {
     "cBuI8VVjMHMDoe1qqeqVgSwAK8B3": true

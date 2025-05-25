@@ -1,13 +1,13 @@
 {
   "createdDate": 1517825536562,
   "fileName": "gccplblock.png",
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/compact/"
+  ],
   "favorites": {
     "EmW4K1uAYlSTefhNFXkvXRzaJO12": true
   },

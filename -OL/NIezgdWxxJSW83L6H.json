@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/zCSJzYG",
   "lastUpdatedDate": 1742017048824,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/",
-    "3": "/planets/space-platform/",
-    "4": "/general/compact/",
-    "5": "/mods/quality/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/general/compact/",
+    "/mods/quality/"
+  ],
   "title": "SmartFish Compact Personal Transport",
   "favorites": {
     "wJT2pPjryDNJSmrMXrUCx7eHfGw1": true,

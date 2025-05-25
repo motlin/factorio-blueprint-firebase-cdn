@@ -3,13 +3,13 @@
   "descriptionMarkdown": "This blueprint book contains builds for producing science at 1 pack per second.They have been designed with expandability in mind, so that more tiles can be added later if faster research is needed.\n\nI should at least support up to 2 pack per second.\n\nFeel free to improve.",
   "fileName": "science.png",
   "title": "Tileable Science - Early to Mid Game",
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/general/mid game/",
-    "3": "/general/early game/",
-    "4": "/version/0,15/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/mid game/",
+    "/general/early game/",
+    "/version/0,15/",
+    "/production/science/"
+  ],
   "favorites": {
     "i2ffGq9uEORve0ReiRvQSPaGhdH3": true,
     "sDGBFq7RW9h6uRzUX0RmJ9N8xP12": true

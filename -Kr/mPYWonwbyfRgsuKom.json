@@ -19,12 +19,12 @@
     "type": "image/png",
     "width": 328
   },
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/belt/express transport belt (blue)/",
-    "1": "/belt/tap/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/belt/express transport belt (blue)/",
+    "/belt/tap/",
+    "/mods/vanilla/"
+  ],
   "title": "Bus Filter Splitter x4",
   "author": {
     "userId": "zRU07FA12aXrtp5NYsg2aaLjvao2"

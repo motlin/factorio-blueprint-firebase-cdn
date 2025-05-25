@@ -1,12 +1,12 @@
 {
   "authorId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13",
   "numberOfFavorites": 4,
-  "tags": {
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/",
-    "3": "/mods/factorissimo/",
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/mods/factorissimo/",
+    "/version/0,15/"
+  ],
   "title": "Coke, Carbon, Dioxide, Monoxide MK1",
   "favorites": {
     "OULHVxWOGrhLUPxlW6Z3op3Cdv72": true,

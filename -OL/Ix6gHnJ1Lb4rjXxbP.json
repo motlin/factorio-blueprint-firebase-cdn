@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/5ZBumlp",
   "lastUpdatedDate": 1741944028514,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/art/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/art/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Miditorio v2 song with piano visualizer"
 }

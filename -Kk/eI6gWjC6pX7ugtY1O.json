@@ -6,12 +6,12 @@
   "descriptionMarkdown": "Red Circuit production for Factorissimo2, version 0.15.\n\nMods needed:\n- Side Inserters mod\n\nOutput:\n- 5.5k circuits/min \n- 14-1500 logistic robots used for transfering items around inside.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/123112333.PNG?alt=media&token=8aceebc8-7b89-4aa6-97c9-a5b6bf637f8a",
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/mods/factorissimo/",
-    "3": "/version/0,15/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,15/",
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "3gQlFtu9ITf4KNdjKTK2a6GUAM82"
   },

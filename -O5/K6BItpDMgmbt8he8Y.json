@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zjd3ejO",
   "lastUpdatedDate": 1724783664451,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Simple Blue-Chip",
   "favorites": {
     "wo3ds2MI4PajySXJ4uUq6GXqJ1n2": true,

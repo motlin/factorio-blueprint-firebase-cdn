@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/SgeKmqQ",
   "lastUpdatedDate": 1734293349996,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Parametrized Qualitizer",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/axNFOSD",
   "lastUpdatedDate": 1737585936047,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/mods/other/"
+  ],
   "title": "LOS TRENES DE ABEL"
 }

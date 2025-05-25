@@ -19,10 +19,10 @@
   "imageUrl": "https://imgur.com/liomtxt",
   "lastUpdatedDate": 1739500899524,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/combat/offense/",
-    "1": "/general/late game (megabase)/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/combat/offense/",
+    "/general/late game (megabase)/",
+    "/version/2,0/"
+  ],
   "title": "Lil Bertha + LTN"
 }

@@ -6,11 +6,11 @@
     "height": 627
   },
   "lastUpdatedDate": 1615305283910,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Green Chip Beaconed",
   "author": {
     "userId": "qTV1uQTlgHa5gTawH8y4QfrNsbS2"

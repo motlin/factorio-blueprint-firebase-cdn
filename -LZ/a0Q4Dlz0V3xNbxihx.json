@@ -60,10 +60,10 @@
   },
   "lastUpdatedDate": 1551121266582,
   "numberOfFavorites": 36,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/general/mid game/"
+  ],
   "title": "[Modded] Bob's/Angel's Mods - Mid Game Blueprint Strings"
 }

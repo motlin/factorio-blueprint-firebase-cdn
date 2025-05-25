@@ -21,11 +21,11 @@
   "fileName": "Bobs + Angels Bootstrap-2.jpg",
   "lastUpdatedDate": 1526944417234,
   "numberOfFavorites": 15,
-  "tags": {
-    "1": "/mods/angels/",
-    "2": "/version/0,16/",
-    "0": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,16/",
+    "/mods/bobs/"
+  ],
   "author": {
     "userId": "YfpxRgbByqecYqnSqBfe3qFNvnh2"
   },

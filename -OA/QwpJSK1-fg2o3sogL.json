@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/F2C82l7",
   "lastUpdatedDate": 1730345723320,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/version/2,0/"
+  ],
   "title": " Vulcanus Foundry Early by FunnyBird",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

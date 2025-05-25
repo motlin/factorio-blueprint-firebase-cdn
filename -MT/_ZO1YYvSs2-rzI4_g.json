@@ -23,10 +23,10 @@
   },
   "lastUpdatedDate": 1613390516441,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/track/"
+  ],
   "title": "Global Train Network"
 }

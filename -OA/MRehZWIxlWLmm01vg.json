@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/luE019T",
   "lastUpdatedDate": 1730191469597,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/mods/vanilla/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/mods/vanilla/",
+    "/version/2,0/"
+  ],
   "title": "No buffer kovarex ",
   "favorites": {
     "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,

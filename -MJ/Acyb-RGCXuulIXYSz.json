@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1631209122399,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "5-rail turn 90 degrees",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true

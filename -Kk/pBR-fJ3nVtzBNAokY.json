@@ -19,10 +19,10 @@
   "authorId": "qZAsjgzabsbxlG6on0OkvxyppkE2",
   "descriptionMarkdown": "Station with circuit connections to work with a train-taxi. For more info: https://www.reddit.com/r/factorio/comments/6cu93p/train_call_condition_as_a_taxi/",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_15.png?alt=media&token=cae1415c-0ee1-4bda-9bf3-80bb529d7028",
-  "tags": {
-    "0": "/train/pax/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/pax/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Pax Train Station Setup to Call Condition"
 }

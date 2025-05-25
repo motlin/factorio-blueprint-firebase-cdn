@@ -28,13 +28,13 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blueprint-GC.png?alt=media&token=0d294c40-3088-4c67-9dd4-45681cf216e1",
   "lastUpdatedDate": 1500950911465,
-  "tags": {
-    "4": "/version/0,15/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/production/belt based/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/production/belt based/",
+    "/mods/vanilla/"
+  ],
   "title": "Late Game Electric Circuit Setup 80/s",
   "authorId": "VXKPmCDy9wSwBCReYyriFnYN5To2",
   "createdDate": 1500938071980

@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1617120437982,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/production/modules/",
-    "2": "/production/research (labs)/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/production/modules/",
+    "/production/research (labs)/",
+    "/version/1,0/"
+  ],
   "title": "[Bob's Modules] Research and craftiong to MK8"
 }

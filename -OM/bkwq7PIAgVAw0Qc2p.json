@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/NpXot6r",
   "lastUpdatedDate": 1743350124029,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Promethium Ship - 50+ spm"
 }

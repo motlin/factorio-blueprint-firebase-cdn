@@ -13,10 +13,10 @@
   },
   "authorId": "o9aAuidLHnVsXoiwEBUXwTMwc3y2",
   "createdDate": 1587238560392,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/production/other/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/other/"
+  ],
   "favorites": {
     "ylWkFbh1AKYMRd7jgnGQUSMeGuC2": true,
     "PWBsM8evP5RqCv798JwkWwmExP73": true,

@@ -24,9 +24,9 @@
   },
   "lastUpdatedDate": 1646875667480,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/tileable/"
+  ],
   "title": "Tilable, upgradable Defenses"
 }

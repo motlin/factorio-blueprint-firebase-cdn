@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/aFiPU22",
   "lastUpdatedDate": 1737766031855,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Planet Hopper (Tyche)",
   "favorites": {
     "6iprVl65HzVfVU4slenccdYWoAk1": true,

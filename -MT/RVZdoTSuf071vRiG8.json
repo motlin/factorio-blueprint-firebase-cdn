@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 3,
-  "tags": {
-    "2": "/general/beaconized/",
-    "0": "/production/science/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/science/",
+    "/version/1,0/"
+  ],
   "title": "Purple science 1100 SPM",
   "author": {
     "userId": "CK56kRLJBgOdk76M1QEvEyhhgML2"

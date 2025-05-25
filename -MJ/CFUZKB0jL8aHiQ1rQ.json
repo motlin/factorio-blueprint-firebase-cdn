@@ -21,12 +21,12 @@
   },
   "lastUpdatedDate": 1602245229479,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/mods/ltn/",
-    "4": "/train/track/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/mods/ltn/",
+    "/train/track/"
+  ],
   "title": "4*8 Train Rail Block with Fuel supply Station/LTN"
 }

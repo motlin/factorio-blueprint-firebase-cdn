@@ -22,9 +22,9 @@
   },
   "fileName": "29-expansion-intersection.jpg",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/"
+  ],
   "descriptionMarkdown": "Self building expansion line intersection. Works with:\nhttps://factorioprints.com/view/-Lfam_T-ft6er65I2pVD\nand\nhttps://factorioprints.com/view/-LfamzfAHE1gemDnEo05"
 }

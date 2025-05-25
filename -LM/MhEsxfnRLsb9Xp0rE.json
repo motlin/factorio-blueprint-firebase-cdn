@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1536922948976,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/0,16/",
-    "2": "/general/late game (megabase)/",
-    "3": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/0,16/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/"
+  ],
   "title": "Massive smelting range."
 }

@@ -6,11 +6,11 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1504822339673,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/steam/",
+    "/mods/vanilla/"
+  ],
   "title": "72 MW Steam Power Plant",
   "descriptionMarkdown": "Early game steam power plant; Connected with single middle belt; 40:20:1 ratio, not-space optimal; no underground belts; Can be used as backup power with at least 1 burner inserter;\n\nBlueprint has double power lines in middle; it's due to personal aesthetics preference; Will work equally well with single poles in the middle line;\n\nEdit: Thanks nickos christou for catching a small error in power output.",
   "fileName": "power plant.png",

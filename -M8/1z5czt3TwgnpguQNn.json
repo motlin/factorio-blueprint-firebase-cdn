@@ -16,9 +16,9 @@
     "width": 1680
   },
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,18/",
-    "2": "/general/tileable/"
-  }
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,18/",
+    "/general/tileable/"
+  ]
 }

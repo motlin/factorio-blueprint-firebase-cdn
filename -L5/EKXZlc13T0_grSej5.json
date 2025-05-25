@@ -21,11 +21,11 @@
   },
   "lastUpdatedDate": 1518528244381,
   "numberOfFavorites": 23,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Belt based green circuit outpost with integrated smelting"
 }

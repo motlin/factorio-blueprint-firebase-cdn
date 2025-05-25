@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1686170516935,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/mods/space-exploration/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/mods/space-exploration/",
+    "/general/beaconized/"
+  ],
   "title": "SE Holmium ingot production"
 }

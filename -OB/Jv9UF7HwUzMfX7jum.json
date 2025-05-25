@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/vED2OLy",
   "lastUpdatedDate": 1731222874137,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Simple Red Science",
   "favorites": {
     "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true

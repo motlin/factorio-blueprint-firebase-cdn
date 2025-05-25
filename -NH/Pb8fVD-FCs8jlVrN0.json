@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1669041265443,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Rocket Control Unit",
   "favorites": {
     "fSAiWMVNJ3QfN80f02k0MQemEay1": true

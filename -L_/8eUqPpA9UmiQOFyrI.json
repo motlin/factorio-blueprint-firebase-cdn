@@ -15,10 +15,10 @@
     "id": "1K1e51d"
   },
   "lastUpdatedDate": 1551719071196,
-  "tags": {
-    "1": "/general/tileable/",
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/train/unloading station/"
+  ],
   "title": "stackable 1-2 station no wait",
   "favorites": {
     "sg4fF4J3INUAlbov2z9EcgKLRnY2": true,

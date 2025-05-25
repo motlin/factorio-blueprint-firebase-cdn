@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/H3ndiqI",
   "lastUpdatedDate": 1733128114381,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Logical right shift | 1t | SIMD"
 }

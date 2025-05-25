@@ -17,11 +17,11 @@
     "id": "3aDCuO4"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot_7.png?alt=media&token=ddb606cd-7511-4125-ac74-c4dde5968927",
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "Energy Safety Laser Defence (Vanilla)",
   "author": {
     "userId": "mUv3FbFo5lYX3XS89ZRj2UzY45N2"

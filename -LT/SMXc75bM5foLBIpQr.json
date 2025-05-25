@@ -19,9 +19,9 @@
   "createdDate": 1544533453468,
   "fileName": "factorio_2018-12-11_14-41-34.jpg",
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/mods/other/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,15/"
-  }
+  "tags": [
+    "/mods/other/",
+    "/production/electronic circuit (green)/",
+    "/version/0,15/"
+  ]
 }

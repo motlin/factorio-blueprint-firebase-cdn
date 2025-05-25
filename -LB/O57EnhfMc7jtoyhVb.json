@@ -1,13 +1,13 @@
 {
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/198104144391700490440671221537964042.png?alt=media&token=a9e8569e-9334-408b-8fce-bed9ac01957e",
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/general/tileable/",
-    "5": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/tileable/",
+    "/general/late game (megabase)/"
+  ],
   "author": {
     "userId": "ipR52h6MD9XiCyERsQaUTE8ftWv1"
   },

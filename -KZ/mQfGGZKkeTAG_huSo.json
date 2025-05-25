@@ -4,12 +4,12 @@
   "fileName": "pur.PNG",
   "title": "MICRO NP PURPLE 6",
   "numberOfFavorites": 6,
-  "tags": {
-    "3": "/version/0,15/",
-    "0": "/general/compact/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/compact/",
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "mkAaYdf2ayVkypb3jA6aAI0wwC53"
   },

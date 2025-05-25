@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1697401536897,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/1,1/"
+  ],
   "title": "Modified Jumpstart"
 }

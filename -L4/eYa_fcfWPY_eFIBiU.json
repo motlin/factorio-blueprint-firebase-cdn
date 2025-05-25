@@ -14,13 +14,13 @@
     "VblyqHxB46S25NTnIPuUj1q2EXu1": true,
     "fyNQuDoxzSabR876TzC7vJZ9x2k2": true
   },
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/version/0,16/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/0,16/",
+    "/general/tileable/"
+  ],
   "authorId": "S3xeVDkCTTe67t8ow1xdJTSk2C82",
   "image": {
     "height": 781,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1651849316316,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Аккумуляторные батареи"
 }

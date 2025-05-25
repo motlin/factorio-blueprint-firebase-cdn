@@ -3,11 +3,11 @@
     "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Balanced-Train-Unloader-DirectionB.png?alt=media&token=1ba93def-f3f1-425e-b6f9-43a0c33482d0",
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "numberOfFavorites": 14,
   "title": "Balanced-Train-Unloader-DirectionB",
   "authorId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2",

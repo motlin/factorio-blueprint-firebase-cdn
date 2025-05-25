@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/production/belts/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/belts/",
+    "/general/early game/"
+  ],
   "title": "Early game yellow belts + undergrounds",
   "image": {
     "height": 339,

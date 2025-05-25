@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/9JpSwSH",
   "lastUpdatedDate": 1730241669190,
   "numberOfFavorites": 17,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Quality Casino Cycler - Parameterized",
   "favorites": {
     "r9WIfgBZN7QCYoqT9X3I3CI9Rrz2": true,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1649280246382,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Artillery Outpost Mk. II",
   "favorites": {
     "udHlvZwtdRNAieUUoh09UDmXMqv1": true,

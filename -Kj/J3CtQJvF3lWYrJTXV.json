@@ -75,11 +75,11 @@
   },
   "descriptionMarkdown": "Originally posted on reddit by **jonts26** here:\n\nhttps://www.reddit.com/r/factorio/comments/68pgiy/compact_all_inserter_setup/?st=J27HCW9D&sh=963bec98\n\n> Not particularly efficient, but it does have a small footprint.",
   "lastUpdatedDate": 1733807303381,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Compact All Inserter Setup"
 }

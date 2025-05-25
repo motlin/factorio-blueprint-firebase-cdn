@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1636895067254,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/oil processing/"
+  ],
   "title": "Advanced Oil Processing",
   "favorites": {
     "OtaDeqLyoPO8GI1QnVmjOV4zbEu2": true,

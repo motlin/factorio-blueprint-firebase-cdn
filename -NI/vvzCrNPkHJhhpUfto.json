@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1699665147063,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/power/nuclear/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/power/nuclear/",
+    "/general/mid game/"
+  ],
   "title": "SE Condenser ground reactor 4"
 }

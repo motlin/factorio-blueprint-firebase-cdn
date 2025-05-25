@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/V4omyo0",
   "lastUpdatedDate": 1739297940806,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/power/solar/",
-    "2": "/combat/defense/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/power/solar/",
+    "/combat/defense/"
+  ],
   "title": "Sparks Factory",
   "favorites": {
     "2xa3HX1bj1XXmX0PDaEoTbTiRzW2": true,

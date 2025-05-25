@@ -13,11 +13,11 @@
   },
   "lastUpdatedDate": 1576011039935,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/crossing/"
+  ],
   "authorId": "hCqA8XG0OrfuWvcNX5xYFK7faI82",
   "descriptionMarkdown": "Left to right hand drive conversion T junction. I made it to integrate into /u/ranzolger 4 lane stackers.",
   "fileName": "4_lane_T_junction.jpg",

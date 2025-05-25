@@ -13,11 +13,11 @@
     "width": 1680
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "2": "/moderation/screenshot missing alt info/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/moderation/screenshot missing alt info/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Solar Panel Maker",
   "descriptionMarkdown": "Solar Panel Maker",
   "fileName": "20171219031221_1.jpg"

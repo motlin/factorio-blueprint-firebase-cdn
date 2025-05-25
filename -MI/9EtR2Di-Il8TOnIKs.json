@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1601120999478,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/angels/",
-    "4": "/version/0,15/",
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/angels/",
+    "/version/0,15/",
+    "/mods/krastorio/"
+  ],
   "title": "GigaFlüssigGasFabrik"
 }

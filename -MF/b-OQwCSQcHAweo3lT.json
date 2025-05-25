@@ -29,12 +29,12 @@
   },
   "lastUpdatedDate": 1598459372321,
   "numberOfFavorites": 12,
-  "tags": {
-    "2": "/train/junction/",
-    "3": "/train/track/",
-    "4": "/general/tileable/",
-    "0": "/train/right-hand-drive/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/general/tileable/",
+    "/train/right-hand-drive/",
+    "/version/1,0/"
+  ],
   "title": "Upgradeable 2 to 8 Lane RHD Train Book"
 }

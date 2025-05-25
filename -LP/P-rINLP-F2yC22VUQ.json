@@ -14,12 +14,12 @@
   "descriptionMarkdown": "This is a tileable kovarex design my friend and I came up with. Just create a loop of the desired size, input U238 on the inside of the loop, and put the U238 shunt right before your input belt. The U238 shunt guarantees that there is space on the U238 belt for the Kovarex's U238 output. When set up correctly, it will spit out 1 U235 from the output belt each time the Kovarex process is complete.\nThe design's biggest drawback is having to manually insert the initial 40 U235 to get it started, but its self sustaining after that. \n\n*Important note: This system is will work with with stack inserters, however, the filter inserter that outputs U235 from the centrifuge may cause issues with stack sizes >3. That being said, assuming you're using stack inserters and stack filter inserters with the same stack size, it shouldn't be an issue.\n\nCredit to TwinCanine for the design",
   "lastUpdatedDate": 1599568361439,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/power/nuclear/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true,

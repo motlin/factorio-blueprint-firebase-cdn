@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1532877872535,
   "numberOfFavorites": 14,
-  "tags": {
-    "1": "/train/unloading station/",
-    "2": "/mods/other/",
-    "3": "/version/0,15/",
-    "0": "/mods/warehousing/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/mods/warehousing/"
+  ],
   "title": "Central Station"
 }

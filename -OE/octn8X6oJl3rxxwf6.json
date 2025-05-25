@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/rpr7Spv",
   "lastUpdatedDate": 1737070192194,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/transport drones/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/transport drones/",
+    "/version/2,0/"
+  ],
   "title": "Quality products (Качественная продукция)",
   "favorites": {
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,

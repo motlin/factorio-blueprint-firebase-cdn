@@ -27,9 +27,9 @@
   "descriptionMarkdown": "Krastorio Mod - Red Circuits @ 2 per second",
   "fileName": "2019-06-07_13-26-07.jpg",
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/mods/krastorio/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/production/advanced circuit (red)/",
+    "/mods/krastorio/"
+  ]
 }

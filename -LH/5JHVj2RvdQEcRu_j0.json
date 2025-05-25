@@ -7,11 +7,11 @@
     "width": 3658
   },
   "lastUpdatedDate": 1673052100134,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/belts/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/belts/",
+    "/mods/space-exploration/"
+  ],
   "title": "[Space Exploration] Belts - expandable by stages (v1) by Abarel",
   "author": {
     "userId": "WlRsC37F0MVvcNjEyfILjo4EcRp2"

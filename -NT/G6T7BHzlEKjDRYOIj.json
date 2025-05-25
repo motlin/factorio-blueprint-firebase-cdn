@@ -16,9 +16,9 @@
   "lastUpdatedDate": 1706116198062,
   "numberOfFavorites": 11,
   "title": "Krastorio (K2) Bot Mall",
-  "tags": {
-    "0": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/krastorio/"
+  ],
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,

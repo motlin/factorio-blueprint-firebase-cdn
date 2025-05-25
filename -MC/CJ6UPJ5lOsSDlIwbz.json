@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623721284397,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Nuclear 2x4 Power Plant v2 (1.12 GW)",
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true

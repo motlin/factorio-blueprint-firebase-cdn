@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/kDiVMXn",
   "lastUpdatedDate": 1730601924391,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/space-age/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/space-age/",
+    "/planets/fulgora/"
+  ],
   "title": "Modular Parameterized Upcycling",
   "favorites": {
     "TWOm1ShS8WSm7S4XOUOQhdAhGiM2": true,

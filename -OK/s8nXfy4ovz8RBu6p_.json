@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/AWZN9sQ.png",
   "lastUpdatedDate": 1741477591374,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/robots/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/robots/"
+  ],
   "title": "Robot Store v2",
   "favorites": {
     "nchtaBrTEoc0le9TM1Z6FU7v6Lk2": true,

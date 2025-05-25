@@ -1,13 +1,13 @@
 {
   "createdDate": 1597630698675,
   "lastUpdatedDate": 1597631004965,
-  "tags": {
-    "0": "/train/stacker/",
-    "1": "/circuit/indicator/",
-    "2": "/belt/prioritizer/",
-    "3": "/mods/vanilla/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/train/stacker/",
+    "/circuit/indicator/",
+    "/belt/prioritizer/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "First-In-First-Out (FIFO) Train Stacker With Display",
   "author": {
     "userId": "2BFb1KcVfiREK4rbHyRT8TDMDnx2"

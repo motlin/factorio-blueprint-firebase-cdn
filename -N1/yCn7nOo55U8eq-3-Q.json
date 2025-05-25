@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1652458730086,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/junction/",
-    "2": "/train/crossing/",
-    "3": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Multi-speed Interchange",
   "favorites": {
     "lMPRklTqYjWsHuLAiXuT390ESuP2": true,

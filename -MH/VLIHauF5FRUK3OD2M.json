@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "title": "The easiest uranium processing possible with Kovarex (Expandable)",
   "authorId": "g4wOephf38g9OpqTbtne2l8lVzB3",
   "lastUpdatedDate": 1600418213395,

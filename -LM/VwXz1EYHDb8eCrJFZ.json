@@ -15,12 +15,12 @@
     "height": 753,
     "id": "otO3EKC"
   },
-  "tags": {
-    "2": "/train/crossing/",
-    "3": "/circuit/counter/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/circuit/counter/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "favorites": {
     "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,
     "63cO4TAoi9RsNcKaWUj6ljPbfQ93": true,

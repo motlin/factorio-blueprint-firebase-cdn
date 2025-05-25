@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1542577147127,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/"
+  ],
   "title": "5K Red Science per minute"
 }

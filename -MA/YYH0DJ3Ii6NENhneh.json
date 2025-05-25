@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1622130947086,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/general/beaconized/"
+  ],
   "title": "robo rush (SUSHI edition)",
   "favorites": {
     "eJU58zAmn2bNmzq1KbVvlKmXy9a2": true,

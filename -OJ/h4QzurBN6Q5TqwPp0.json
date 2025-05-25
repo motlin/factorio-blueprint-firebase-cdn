@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/YhLWGUH.jpeg",
   "lastUpdatedDate": 1740218155145,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Rail junction",
   "favorites": {
     "La90R9BvnwSrQJtkp6lN3rAg8MM2": true,

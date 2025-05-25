@@ -52,11 +52,11 @@
   },
   "lastUpdatedDate": 1587918857107,
   "numberOfFavorites": 34,
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/general/late game (megabase)/",
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/late game (megabase)/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "End game Smelting Farm w/Beacons for 2-4 RHD trains (16x belts)"
 }

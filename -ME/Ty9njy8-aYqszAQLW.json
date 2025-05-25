@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1626166214838,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "2x2 Smart Nuclear Reactor (480 MW)",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

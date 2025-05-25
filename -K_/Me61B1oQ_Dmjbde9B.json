@@ -2,11 +2,11 @@
   "createdDate": 1483234373948,
   "lastUpdatedDate": 1499863579987,
   "numberOfFavorites": 785,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/inserters/",
+    "/mods/vanilla/"
+  ],
   "title": "All the Inserters",
   "favorites": {
     "RKQ4W9eL7BY7oIOf7fd79QDT9z43": true,

@@ -8,12 +8,12 @@
   },
   "lastUpdatedDate": 1591641706007,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "mQLb7bpWqBhZj5sDRQC9qAEJw4f1": true,
     "lyhBwScrmcTLsG3VC7AGsJI6OV03": true,

@@ -1,12 +1,12 @@
 {
-  "tags": {
-    "2": "/general/late game (megabase)/",
-    "3": "/mods/vanilla/",
-    "4": "/general/compact/",
-    "5": "/version/1,0/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/version/1,0/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "createdDate": 1613515799308,
   "descriptionMarkdown": "Compact, tileable, beaconed late game smelter. Takes a full blue line of input and produces a full blue line output.",
   "fileName": "marci_smelter.png",

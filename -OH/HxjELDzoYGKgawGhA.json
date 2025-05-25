@@ -18,15 +18,15 @@
   "imageUrl": "https://imgur.com/QpNZq1G",
   "lastUpdatedDate": 1740791892324,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/vulcanus/",
-    "5": "/planets/gleba/",
-    "6": "/planets/fulgora/",
-    "7": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/planets/nauvis/",
+    "/planets/vulcanus/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/mods/vanilla/"
+  ],
   "title": "The Rebel Flagship"
 }

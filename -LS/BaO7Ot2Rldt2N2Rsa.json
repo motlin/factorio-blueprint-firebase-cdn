@@ -24,16 +24,16 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20191027184250_1.jpg?alt=media&token=7282ed6f-2d1a-4b4a-a98d-a3cc06d9e772",
   "lastUpdatedDate": 1573474018854,
   "numberOfFavorites": 6,
-  "tags": {
-    "7": "/train/right-hand-drive/",
-    "0": "/general/mid game/",
-    "2": "/production/research (labs)/",
-    "5": "/production/science/",
-    "6": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "4": "/power/nuclear/",
-    "8": "/train/stacker/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/general/mid game/",
+    "/production/research (labs)/",
+    "/production/science/",
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/power/nuclear/",
+    "/train/stacker/"
+  ],
   "title": " HEXLAND Organised v0.4"
 }

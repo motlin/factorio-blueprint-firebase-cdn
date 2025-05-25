@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/8bN3Hno",
   "lastUpdatedDate": 1732212334670,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "My second space platform so dense it has own gravity",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

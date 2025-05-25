@@ -22,12 +22,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/copper%20smelt%201.jpg?alt=media&token=175598e6-6dbf-4342-b7af-35928b618d01",
   "lastUpdatedDate": 1675568107553,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/smelting/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/1,1/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/smelting/",
+    "/train/right-hand-drive/",
+    "/version/1,1/",
+    "/mods/vanilla/"
+  ],
   "title": "Another Ore to Copper furnace outpost"
 }

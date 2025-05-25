@@ -15,8 +15,8 @@
   "descriptionMarkdown": "Hi,\nThis is my first submission so I hope you like it.\nThe idea is to create a one input one output U-235 refinement from U-238.\nSince we get net +1 U-235 per craft I stacked 40 Centrifuges to get an output of 80 from 40 because the final one only takes from the Centrifuge chain.\nThe chests in the middle are locked such that they never get more than 5 U-238 to prevent overflaw. The output is going to priority splitter that prioritizes feeding the loop and the overflaw goes as output.\nhttp://fbpviewer.trakos.pl/b/VhJhM8syra1vFOZeuSuz7Lhb3KQ",
   "fileName": "1-1Enrichment.PNG",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "title": "One Input One Output Enrichment"
 }

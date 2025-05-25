@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1664880127587,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Pacote Cientifico de química",
   "favorites": {
     "TgITVlP4DNPeXsYNvVyoHC61xe63": true

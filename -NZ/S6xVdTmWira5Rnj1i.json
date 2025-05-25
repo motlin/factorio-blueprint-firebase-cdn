@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1688410773698,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/unloading station/"
+  ],
   "title": "Small warehouse requester station"
 }

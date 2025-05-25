@@ -38,12 +38,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/i-aprove.jpg?alt=media&token=79b023ba-cc5e-435d-9640-26d05208bfc3",
   "lastUpdatedDate": 1638056490563,
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/",
-    "3": "/general/mid game/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/mid game/",
+    "/version/1,0/"
+  ],
   "title": "Defense wall setup - start till endgame"
 }

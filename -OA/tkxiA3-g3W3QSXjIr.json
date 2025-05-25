@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/lRLVlEL",
   "lastUpdatedDate": 1730864377762,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/",
+    "/mods/vanilla/"
+  ],
   "title": "Bare Bones 9 Engine interplanetary ship with turrets. "
 }

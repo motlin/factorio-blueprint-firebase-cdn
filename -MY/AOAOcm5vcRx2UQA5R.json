@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1651367914340,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Artillery Outpost"
 }

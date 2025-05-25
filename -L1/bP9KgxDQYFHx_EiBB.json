@@ -15,13 +15,13 @@
     "width": 2048
   },
   "lastUpdatedDate": 1514637141516,
-  "tags": {
-    "4": "/general/compact/",
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/production/belt based/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/"
+  ],
   "title": "Blue belt of green circuits",
   "favorites": {
     "Otz6FdnpdPRYzMVZLRV9qggGM5r1": true,

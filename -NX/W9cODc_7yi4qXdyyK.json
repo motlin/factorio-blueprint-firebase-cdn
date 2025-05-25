@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1686331185506,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/aai/",
-    "2": "/mods/other/",
-    "3": "/version/1,1/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/aai/",
+    "/mods/other/",
+    "/version/1,1/"
+  ],
   "title": "Automatic Centipede Mall (With Crafting Combinator)",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Centipede%20Mall%202.png?alt=media&token=1a540555-9686-4d6b-9e56-bd50fdc92caf",
   "favorites": {

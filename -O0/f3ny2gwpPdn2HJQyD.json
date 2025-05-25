@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/m9ALRKp",
   "lastUpdatedDate": 1719783342069,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Some Poduction setups"
 }

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/nBesEi0",
   "lastUpdatedDate": 1730935359066,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "SmartHaulerMk1(18tiles wide,255tons)",
   "favorites": {
     "uIvFapZlHJf9YAeDrdQ7psjCmEg1": true,

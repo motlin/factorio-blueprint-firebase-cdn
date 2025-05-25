@@ -7,11 +7,11 @@
     "width": 1082
   },
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/",
+    "/mods/vanilla/"
+  ],
   "title": "[0.17] 60 SPM - All Science Packs (Except space) ",
   "author": {
     "userId": "KRfMC5UpBLfwIs4Roy8a6cXZXBz2"

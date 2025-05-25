@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1667985709108,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Garagem espacial",
   "favorites": {
     "mZ3glrZ3M9bPYY5mCKKsbKYPNTm1": true

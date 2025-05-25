@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/PgysiCs",
   "lastUpdatedDate": 1741818259023,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/research (labs)/"
+  ],
   "title": "Star base + pacotes vermelho e verde",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,

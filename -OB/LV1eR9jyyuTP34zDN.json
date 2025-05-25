@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5dGGi6G",
   "lastUpdatedDate": 1731249318732,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Wood burnner ",
   "favorites": {
     "rTvsNPsxHMPKmMGd9TM2vsxR34J3": true

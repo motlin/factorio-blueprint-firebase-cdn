@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1635828725485,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/mid game/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/general/late game (megabase)/",
+    "/general/mid game/"
+  ],
   "title": "Endgame Oil Refining Module",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-25697362.png?alt=media&token=ea8baaac-163e-4f05-ae8b-ada8c2f0b39c",
   "favorites": {

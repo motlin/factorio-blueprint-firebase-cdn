@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/yq4xBy1",
   "lastUpdatedDate": 1736963552977,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/mods/space-age/",
-    "2": "/general/beaconized/",
-    "3": "/production/coal liquification/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/mods/space-age/",
+    "/general/beaconized/",
+    "/production/coal liquification/"
+  ],
   "title": "Cliff explosives Vulcanus 62 per min",
   "favorites": {
     "b0wb0HniSYOxvfOtED6Vr7p9x882": true,

@@ -9,9 +9,9 @@
     "width": 417
   },
   "title": "Tileable 4-Belt Balanced 3-Car Train drop-off.",
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "favorites": {
     "zRZ569azMxcT2b0Fbw8qkJaBQyl1": true
   },

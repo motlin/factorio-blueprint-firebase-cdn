@@ -9,11 +9,11 @@
     "id": "joyZ0w5"
   },
   "lastUpdatedDate": 1577579427412,
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/version/0,17/",
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/version/0,17/",
+    "/production/robots/"
+  ],
   "title": "Tileable Robots",
   "favorites": {
     "etTRmeQKKhRUQKTpD8JmWNnFQN32": true,

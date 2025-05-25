@@ -8,11 +8,11 @@
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true
   },
   "lastUpdatedDate": 1546890561995,
-  "tags": {
-    "2": "/mods/factorissimo/",
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/mods/angels/",
+    "/mods/bobs/"
+  ],
   "title": "Lead Ingot",
   "author": {
     "userId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13"

@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/zF7NUtg",
   "lastUpdatedDate": 1738886731313,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/belt/balancer/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/belt/balancer/"
+  ],
   "title": "3-1 tu Balancer for Aquilo",
   "favorites": {
     "x7rFcsfZydeaL7n39h7uxItkZpK2": true,

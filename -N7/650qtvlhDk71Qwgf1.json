@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1657976397369,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/krastorio/"
+  ],
   "title": "K2 Tileable Red Circuits",
   "favorites": {
     "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,

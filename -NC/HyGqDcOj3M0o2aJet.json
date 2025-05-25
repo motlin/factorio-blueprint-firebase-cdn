@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1699995793150,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/power/kovarex enrichment/",
-    "4": "/power/nuclear/",
-    "5": "/production/belt based/",
-    "6": "/version/1,0/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/production/belt based/",
+    "/version/1,0/"
+  ],
   "title": "Fastest Kovarex",
   "favorites": {
     "XBYfT4aHG3SI5BdFwc502l0dRy13": true,

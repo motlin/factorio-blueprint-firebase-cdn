@@ -15,14 +15,14 @@
   },
   "lastUpdatedDate": 1688060802804,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/production/oil processing/",
-    "2": "/production/coal liquification/",
-    "3": "/power/steam/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/oil processing/",
+    "/production/coal liquification/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Tileable Lube Factory",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ezfrhgJ9BJQbg04G0GGFtSXx2gcUX8rbVNwVQXfennsJFK8UC61xkyqifQn3OG8O.png?alt=media&token=2675f092-c984-46ca-81fb-c1993b24d256",
   "favorites": {

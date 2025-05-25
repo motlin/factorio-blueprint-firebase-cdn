@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/vJ1jp02",
   "lastUpdatedDate": 1731357144641,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "Transport Cargo Ship (Selfsustained)",
   "favorites": {
     "2yWfZo7b4DXKCQUhNoWyYtr6ZE02": true

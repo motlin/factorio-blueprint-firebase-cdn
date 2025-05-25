@@ -27,10 +27,10 @@
   "imageUrl": "https://imgur.com/lWAGe2w",
   "lastUpdatedDate": 1730627997712,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/version/2,0/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "Steam Power Book"
 }

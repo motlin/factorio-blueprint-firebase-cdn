@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/JOKIBc3",
   "lastUpdatedDate": 1746710244840,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/general/early game/",
-    "2": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/general/early game/",
+    "/production/guns and ammo/"
+  ],
   "title": "automatizações basicas (começo/meio de jogo) / basic automations (early/mid game)"
 }

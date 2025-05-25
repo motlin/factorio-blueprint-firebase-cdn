@@ -8,11 +8,11 @@
     "id": "TSPr5ly"
   },
   "lastUpdatedDate": 1497703041130,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Resource Alarm Systems",
   "author": {
     "userId": "cMexP6bEEeaBZkfwqpD1ZAEa1mH3"

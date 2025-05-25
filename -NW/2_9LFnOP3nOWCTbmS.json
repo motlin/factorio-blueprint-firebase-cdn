@@ -17,8 +17,8 @@
   "imageUrl": "https://imgur.com/V3KLd0q",
   "lastUpdatedDate": 1713752025216,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "Haxard's Blueprint Book v1.1"
 }

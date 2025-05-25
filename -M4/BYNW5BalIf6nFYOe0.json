@@ -3,12 +3,12 @@
   "descriptionMarkdown": "Red circuit factory fully saturating 2 blue belt (90/s).\n\nConsumes about: \n - 2x blue belts of <b>copper plates</b>\n - 3x blue belts of <b>electronic circuits</b>\n - 3x blue belts of <b>plastic</b>\n\nOutputs:\n - 2x full blue belt of <b>advanced circuits</b>\n",
   "fileName": "redcircp1.png",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "author": {
     "userId": "El9apTKPApasOqSoiwHXSmnOVIV2"
   },

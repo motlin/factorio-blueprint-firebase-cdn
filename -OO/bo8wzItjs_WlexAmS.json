@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/bt4a5CU",
   "lastUpdatedDate": 1745498447858,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "X2 Bumblebee"
 }

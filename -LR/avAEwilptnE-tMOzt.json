@@ -6,9 +6,9 @@
     "type": "image/png",
     "width": 2976
   },
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "title": "Rocket Fuel",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/rocketlol.png?alt=media&token=cf467d21-ad85-45ed-931b-0f47a50ae27a",
   "favorites": {

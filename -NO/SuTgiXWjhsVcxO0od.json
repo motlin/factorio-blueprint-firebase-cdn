@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1705603886131,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/1,1/",
-    "3": "/production/belts/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/version/1,1/",
+    "/production/belts/"
+  ],
   "title": "Mall for mid late",
   "favorites": {
     "vLDKCy6sTiSge5lfk2uyqhvNopv2": true,

@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1642379182596,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/beaconized/",
-    "2": "/production/modules/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/production/modules/"
+  ],
   "title": "Fully beaconed Prod Mod 3 and Speed Mod 3"
 }

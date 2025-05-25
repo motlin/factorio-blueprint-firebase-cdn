@@ -17,12 +17,12 @@
     "type": "image/png",
     "width": 1184
   },
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,18/",
-    "0": "/version/0,17/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,18/",
+    "/version/0,17/",
+    "/production/oil processing/"
+  ],
   "author": {
     "userId": "y8LR2PR8rehYlB8INpSr4WGp2yl2"
   },

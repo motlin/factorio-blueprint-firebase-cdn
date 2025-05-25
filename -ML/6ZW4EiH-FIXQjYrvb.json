@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "descriptionMarkdown": "A Medium electric pole blueprint that approaches(ish) the correct solar ratio as you place more of them. (1.23 Solar to Accumulator at 256 poles)",
   "fileName": "Screenshot from 2020-11-02 00-53-28.png",
   "image": {

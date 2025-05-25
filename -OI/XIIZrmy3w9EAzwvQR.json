@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CtLvAmJ",
   "lastUpdatedDate": 1738966146813,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Robotics and Flying Robot Frames",
   "favorites": {
     "mtdraQ8BDGXsxRX0lGKe4uPM25F2": true,

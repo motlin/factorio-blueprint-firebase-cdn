@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/lcsq4Wi",
   "lastUpdatedDate": 1729895021294,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "title": "furnace stack for friend",
   "favorites": {
     "77KuAnOKXQXAa3YeU9PierwL1rq1": true,

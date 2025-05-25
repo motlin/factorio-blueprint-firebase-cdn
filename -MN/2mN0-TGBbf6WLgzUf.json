@@ -33,11 +33,11 @@
     "width": 1920
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/version/1,0/"
-  }
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ]
 }

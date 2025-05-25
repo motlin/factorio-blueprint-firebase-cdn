@@ -20,9 +20,9 @@
   },
   "lastUpdatedDate": 1694715321962,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,1/"
+  ],
   "title": "2.40GW \"Neo I-Beam\" 16 core Nuclear Reactor by Mice-stro and 1x4x9"
 }

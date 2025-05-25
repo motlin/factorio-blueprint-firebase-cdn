@@ -17,9 +17,9 @@
   "imageUrl": "https://imgur.com/7Gu84yE",
   "lastUpdatedDate": 1722706332859,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Mercado de peças 2.0"
 }

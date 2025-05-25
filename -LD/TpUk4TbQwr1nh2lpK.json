@@ -13,13 +13,13 @@
     "width": 210,
     "height": 1052
   },
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/mods/vanilla/",
-    "0": "/production/robots/",
-    "1": "/general/mid game/",
-    "2": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/production/robots/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Robot Factory 2 Bots/s each",
   "author": {
     "userId": "pocQb1EV4IQsVPcxZE0apBAO1vj1"

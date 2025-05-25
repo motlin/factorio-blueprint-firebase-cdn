@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/kFoaH33",
   "lastUpdatedDate": 1717093561271,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "blueScience",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,

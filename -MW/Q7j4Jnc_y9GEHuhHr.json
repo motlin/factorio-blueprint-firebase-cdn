@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1616436720022,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/roundabout/",
-    "3": "/train/crossing/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/crossing/"
+  ],
   "title": "Tileable Grid Train Stop System Intersections Right Hand 1 Track"
 }

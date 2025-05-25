@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1595699797555,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/compact/"
+  ],
   "title": "Compact, dual red-belt electric smelter",
   "favorites": {
     "44MbHjZ5oBXGJdIQzwKyDs1kVUJ3": true,

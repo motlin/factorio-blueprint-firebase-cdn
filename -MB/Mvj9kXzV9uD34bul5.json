@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1622826715529,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Silo de lançamento de satélite",
   "favorites": {
     "WjCeL1XO1NgFIGVl0mRd8yqcaX22": true

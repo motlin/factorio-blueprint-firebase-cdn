@@ -11,18 +11,18 @@
   "authorId": "B1llPhp6C8XREVyq1acJSDa2FQI2",
   "createdDate": 1589121041320,
   "descriptionMarkdown": " iron gear wheel\nhttps://www.youtube.com/watch?v=nKcqGb9hqcc",
-  "tags": {
-    "2": "/mods/seablock/",
-    "4": "/production/modules/",
-    "8": "/general/beaconized/",
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "3": "/production/belts/",
-    "5": "/production/other/",
-    "6": "/version/0,18/",
-    "7": "/production/smelting/",
-    "9": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/seablock/",
+    "/production/modules/",
+    "/general/beaconized/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/production/belts/",
+    "/production/other/",
+    "/version/0,18/",
+    "/production/smelting/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "6sePdt17UVO6DUD4zz27xe7Imtu1": true
   },

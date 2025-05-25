@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1524434109842,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/bobs/",
-    "1": "/power/nuclear/",
-    "2": "/general/tileable/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/version/0,16/"
+  ],
   "title": "Bobs tileable reactor MK3 turbines",
   "favorites": {
     "g1MWFfMeQzaCEqtrYMSml6UngX83": true,

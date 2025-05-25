@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/MmHaPcU",
   "lastUpdatedDate": 1732314118583,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/general/compact/"
+  ],
   "title": "................"
 }

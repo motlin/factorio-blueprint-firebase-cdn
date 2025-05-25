@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/2EISS4j",
   "lastUpdatedDate": 1733340811662,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Лаборатория. ",
   "favorites": {
     "ZZpIPHL2YiPKOwnq6bivkLFdTDr1": true,

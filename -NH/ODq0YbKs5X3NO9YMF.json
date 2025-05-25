@@ -22,8 +22,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/nxOTFZ0%5B1%5D.png?alt=media&token=bce18e00-1ba6-4393-8222-7f29770d6170",
   "lastUpdatedDate": 1698010318159,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Rail system -- City blocks 100x100"
 }

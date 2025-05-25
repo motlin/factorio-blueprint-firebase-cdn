@@ -11,10 +11,10 @@
   "createdDate": 1576597309615,
   "descriptionMarkdown": "Ammo factory 150 items/min",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Ammo factory 150 items/min",
   "author": {
     "userId": "8pht9JwJhqThVur8FOfWhCZqhE93"

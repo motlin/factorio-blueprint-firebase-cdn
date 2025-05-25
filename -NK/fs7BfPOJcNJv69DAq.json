@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1701543183295,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/tileable/",
-    "2": "/mods/bobs/",
-    "3": "/mods/angels/",
-    "4": "/mods/seablock/",
-    "5": "/production/mining/",
-    "6": "/general/compact/",
-    "7": "/version/0,15/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/tileable/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/mods/seablock/",
+    "/production/mining/",
+    "/general/compact/",
+    "/version/0,15/"
+  ],
   "title": "Tileable Sludge Stack",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true

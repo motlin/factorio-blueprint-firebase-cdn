@@ -28,14 +28,14 @@
   },
   "lastUpdatedDate": 1586174031151,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/",
-    "3": "/version/0,17/",
-    "4": "/version/0,18/",
-    "5": "/general/late game (megabase)/",
-    "6": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/general/late game (megabase)/",
+    "/general/mid game/"
+  ],
   "title": "LTN Load and Unload Stations"
 }

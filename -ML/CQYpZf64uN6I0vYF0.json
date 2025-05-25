@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1633386974669,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Pseudo-Random Number Generator",
   "favorites": {
     "0rdpwQPdhgc0RFaRpodeMug1JmO2": true

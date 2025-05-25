@@ -17,15 +17,15 @@
   "imageUrl": "https://imgur.com/Y82ltcB",
   "lastUpdatedDate": 1733369591692,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/",
-    "3": "/planets/vulcanus/",
-    "4": "/planets/gleba/",
-    "5": "/planets/fulgora/",
-    "6": "/planets/nauvis/",
-    "7": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/aquilo/",
+    "/planets/vulcanus/",
+    "/planets/gleba/",
+    "/planets/fulgora/",
+    "/planets/nauvis/",
+    "/mods/vanilla/"
+  ],
   "title": "Simple Planetary Hauler"
 }

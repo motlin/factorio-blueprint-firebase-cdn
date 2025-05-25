@@ -24,9 +24,9 @@
     "height": 520,
     "id": "6D2rCMK"
   },
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "0": "/power/kovarex enrichment/"
-  }
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/"
+  ]
 }

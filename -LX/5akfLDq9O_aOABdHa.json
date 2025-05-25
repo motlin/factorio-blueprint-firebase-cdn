@@ -1,14 +1,14 @@
 {
   "createdDate": 1548446534468,
   "lastUpdatedDate": 1548454862708,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/general/compact/",
-    "4": "/version/0,16/",
-    "5": "/production/belt based/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/compact/",
+    "/version/0,16/",
+    "/production/belt based/",
+    "/production/science/"
+  ],
   "favorites": {
     "nXAtyIhLMZdPt3X8ZzAGdpMbZ2J3": true
   },

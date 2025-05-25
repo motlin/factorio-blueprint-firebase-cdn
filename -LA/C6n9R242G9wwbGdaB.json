@@ -28,12 +28,12 @@
     "width": 1149
   },
   "lastUpdatedDate": 1552850826123,
-  "tags": {
-    "2": "/production/smelting/",
-    "3": "/general/early game/",
-    "4": "/version/0,16/",
-    "0": "/mods/bobs/",
-    "1": "/mods/angels/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/early game/",
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Tier 1 Factories"
 }

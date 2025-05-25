@@ -15,11 +15,11 @@
   "descriptionMarkdown": "Credit to [/u/KinglonTrueLove](https://www.reddit.com/user/KingIonTrueLove).\n\nOriginally shared [on Reddit here](https://www.reddit.com/r/factorio/comments/6fqvca/i_present_to_you_the_possibly_completely_useless/dikddbr/).\n\n> I present to you, the possibly completely useless, BeltZip!",
   "fileName": "beltzip.png",
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "BeltZip braided belts",
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,

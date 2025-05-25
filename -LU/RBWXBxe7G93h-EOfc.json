@@ -11,13 +11,13 @@
     "id": "33AFFUz",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/power/accumulator/"
+  ],
   "title": "Minimalistic solar array",
   "favorites": {
     "8cEhEGS7ZMVEG2ZVhBrjAlDJ9jx1": true,

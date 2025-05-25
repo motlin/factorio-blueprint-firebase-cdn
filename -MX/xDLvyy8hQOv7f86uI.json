@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1618082932778,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/production/mining/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/production/mining/",
+    "/train/loading station/"
+  ],
   "title": "Blutonium Mining V1.0",
   "favorites": {
     "N59uu6x3QmVbgjZLdhAOMfsVvxv2": true,

@@ -18,13 +18,13 @@
     "width": 476
   },
   "fileName": "furnace.jpg",
-  "tags": {
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "0": "/general/compact/",
-    "1": "/version/0,16/",
-    "2": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/general/compact/",
+    "/version/0,16/",
+    "/production/smelting/"
+  ],
   "title": "Compact Electric Furnace Layout",
   "authorId": "dCaZChyoCMWT1MEAgsiVV9KMXJY2",
   "createdDate": 1560944799718,

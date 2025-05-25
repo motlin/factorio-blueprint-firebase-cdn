@@ -15,10 +15,10 @@
     "type": "image/png",
     "width": 318
   },
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Sushi Belt for Science [No Circuits]"
 }

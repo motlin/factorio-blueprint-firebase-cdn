@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/wZUnKYp.jpeg",
   "lastUpdatedDate": 1738891723125,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/elevated-rails/"
-  },
+  "tags": [
+    "/mods/elevated-rails/"
+  ],
   "title": "6 way intersection",
   "favorites": {
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,

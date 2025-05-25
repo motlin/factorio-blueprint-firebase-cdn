@@ -153,8 +153,8 @@
   "imageUrl": "https://imgur.com/DL3GUIH",
   "lastUpdatedDate": 1732130312365,
   "numberOfFavorites": 51,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Spaceship bp book set to my base build bps, no mods, game version 2.0+"
 }

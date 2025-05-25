@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1708098018090,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "Kovarex Beaconed cell",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/kovarex4.PNG?alt=media&token=f04f1be9-ce6c-4c91-8831-2c5b09d3c786",
   "favorites": {

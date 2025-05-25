@@ -33,9 +33,9 @@
   },
   "lastUpdatedDate": 1556797261721,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/general/chunk aligned/",
-    "1": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/general/chunk aligned/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Chunk-Aligned-Chunk-sized modular bot base"
 }

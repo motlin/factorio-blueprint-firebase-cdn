@@ -21,8 +21,8 @@
     "userId": "gfmyQ0ffDMUcNXre92se2U7zZ2D3"
   },
   "authorId": "gfmyQ0ffDMUcNXre92se2U7zZ2D3",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ]
 }

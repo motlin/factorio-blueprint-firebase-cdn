@@ -11,12 +11,12 @@
   },
   "lastUpdatedDate": 1513501474703,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/general/compact/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/compact/",
+    "/mods/other/"
+  ],
   "favorites": {
     "xbienxQ9ANZkuLl8vDSItH3q1N52": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

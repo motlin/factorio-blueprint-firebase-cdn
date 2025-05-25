@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1631001853607,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/1,0/"
+  ],
   "title": "Аutomatic logistics (Mod Space exploration)",
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,

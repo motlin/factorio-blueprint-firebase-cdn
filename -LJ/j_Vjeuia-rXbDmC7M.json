@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/production/batteries/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/production/batteries/",
+    "/general/beaconized/"
+  ],
   "author": {
     "userId": "RSqjgZYVNrgc3R7KUFIu7eEcs0j2"
   },

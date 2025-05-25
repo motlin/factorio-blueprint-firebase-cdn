@@ -20,10 +20,10 @@
   "imageUrl": "https://imgur.com/rtOPzJG",
   "lastUpdatedDate": 1731914390811,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/production/electronic circuit (green)/",
+    "/power/solar/"
+  ],
   "title": "Electronic Circuit Dump Ship"
 }

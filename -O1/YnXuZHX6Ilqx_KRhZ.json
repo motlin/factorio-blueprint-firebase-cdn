@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/kiycDY1",
   "lastUpdatedDate": 1720760229255,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "title": "Micro City Blocks",
   "favorites": {
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,

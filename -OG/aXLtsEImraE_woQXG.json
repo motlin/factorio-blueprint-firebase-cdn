@@ -22,9 +22,9 @@
   "imageUrl": "https://imgur.com/xPSk3yl",
   "lastUpdatedDate": 1736887279482,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/quality/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/quality/"
+  ],
   "title": "6 lane megabase"
 }

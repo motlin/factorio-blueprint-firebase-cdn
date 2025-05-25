@@ -9,11 +9,11 @@
     "width": 593
   },
   "lastUpdatedDate": 1539302337567,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/circuit/indicator/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/circuit/indicator/",
+    "/production/other/"
+  ],
   "title": "Beat Factory",
   "author": {
     "userId": "C0XcnzAm5iM9Ma4oz9HgyPlm0Od2"

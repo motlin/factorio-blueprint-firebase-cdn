@@ -12,13 +12,13 @@
   "createdDate": 1559486287197,
   "descriptionMarkdown": "Ore2Module blueprints are fully integrated module production facilities. They receive ore trains, and produce Productivity Module 3 and Speed Module 3. This blueprints is intended to be used in clusters as you scale your factory, and is designed for compactness and modularity.\n\nThis blueprint is tuned for 0.18 default recipes. Trains should be LCCCC - single locomotive, quad cargo. Coal liquefaction is exclusively used.\n\nProduction: Productivity Module 3, Speed Module 3\n\nProduction Rate: 2 Productivity Module 3 per minute, OR, 2 Speed Module 3 per minute, OR a mix of the two. Ratios can be controlled via chest limits and inserters.\n\nTotal Power Consumption: ~81MW\n\nTotal Resource Consumption: 926 ire ore/min, 1283 copper ore/min, 577 coal/min, ~9k water/min.\n\nUsage Instructions:\n\n1. Assign routes for iron ore train, copper ore train, coal train, water train..\n\n2. Prime Heavy Oil via 'Empty Heavy Oil Barrel' Assembler\n\n3. Add logistics bots.\n\n4. (Optional) Leave U-235 in Active Provider Chest.\n - Nuclear Fuel will be automatically produced and supply incoming trains.\n - Alarm triggers when U-235 supply is low.\n\nModules can be automatically picked up. Station automatically enables when pickup buffer has 50 modules ready.",
   "lastUpdatedDate": 1582336619862,
-  "tags": {
-    "3": "/version/0,17/",
-    "4": "/version/0,18/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/modules/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/version/0,18/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/modules/"
+  ],
   "favorites": {
     "tQSpUW2HI7ac9uWHnn56coKvK4F3": true,
     "6uykrcnM6qfnZlLHd4VGLG1jrfv1": true,

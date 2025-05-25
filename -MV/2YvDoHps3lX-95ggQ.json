@@ -7,10 +7,10 @@
   },
   "lastUpdatedDate": 1614967452736,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/belt/transport belt (yellow)/"
+  ],
   "author": {
     "userId": "CQNPfpeOq9RPqunGUNIMBi3XdRI2"
   },

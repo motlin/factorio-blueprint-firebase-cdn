@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1572409794504,
   "numberOfFavorites": 2,
-  "tags": {
-    "2": "/production/smelting/",
-    "0": "/mods/vanilla/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "title": "1 Million Megasmelter"
 }

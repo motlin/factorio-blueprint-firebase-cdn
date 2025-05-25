@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1687821760921,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/power/steam/"
+  ],
   "title": "72 MW Steam Power",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true

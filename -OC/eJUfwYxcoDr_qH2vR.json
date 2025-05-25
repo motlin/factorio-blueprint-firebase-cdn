@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2lBYBnT",
   "lastUpdatedDate": 1732655578005,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/version/2,0/"
+  ],
   "title": "Compact quality modifer",
   "favorites": {
     "0mL2MKIBZxMGpWyHyZWYNQFBYnl2": true,

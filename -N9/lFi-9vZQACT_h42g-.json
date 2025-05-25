@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1660831326392,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/"
+  ],
   "title": "Bots-only 800 White Science Per Minute"
 }

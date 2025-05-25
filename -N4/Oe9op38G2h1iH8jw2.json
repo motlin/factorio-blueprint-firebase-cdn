@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1655066635628,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/oil processing/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/oil processing/"
+  ],
   "title": "Tier 3 Advanced Oil Refining",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

@@ -2,12 +2,12 @@
   "authorId": "Z5djg3abpsNLOxS7MQD8WcIIgyA2",
   "createdDate": 1522522397268,
   "fileName": "RC.png",
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "author": {
     "userId": "Z5djg3abpsNLOxS7MQD8WcIIgyA2"
   },

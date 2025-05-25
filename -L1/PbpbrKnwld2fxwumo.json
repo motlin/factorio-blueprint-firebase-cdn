@@ -8,11 +8,11 @@
     "type": "image/png",
     "width": 331
   },
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "lastUpdatedDate": 1514422694171,
   "numberOfFavorites": 18,
   "favorites": {

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/YYgEh3c",
   "lastUpdatedDate": 1739655395585,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus Simple Coal Liquefaction",
   "favorites": {
     "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,

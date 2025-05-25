@@ -6,11 +6,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2020-11-11%2014_35_12-Factorio%201.0.0.png?alt=media&token=e84ce151-06aa-4645-bf73-37b2b6c5810c",
   "title": "90 batteries per second with beacons",
   "author": {

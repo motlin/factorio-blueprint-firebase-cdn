@@ -18,9 +18,9 @@
   },
   "lastUpdatedDate": 1584269040216,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Pixel-Art #AVLIS92"
 }

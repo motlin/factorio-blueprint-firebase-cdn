@@ -18,9 +18,9 @@
   "descriptionMarkdown": "(Blueprint is single, double shown in photo.)\nVery simple, easily repeat as many as you'd like next to each other.  Undergrounds are split belts, half steel half copper.  Solid belt is steel, output is rounds.",
   "lastUpdatedDate": 1557301936850,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/guns and ammo/"
+  ],
   "title": "Piercing rounds magazine compact simple tileable"
 }

@@ -4,12 +4,12 @@
   "createdDate": 1517821776563,
   "descriptionMarkdown": "This blueprint book contains blueprints for 0.16 that will each set up a factory for a particular color of science (except white of course). The factories (except for the yellow one) are tuned to produce one science of the given color per second. Also, all of the factories use raw materials from this set: Stone Brick, Iron Plate, Copper Plate, Coal, Lubricant, Water, Sulfur, and Steel. They will make their own circuits, gears, or whatever else is needed.",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,16/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/general/mid game/"
+  ],
   "title": "Not quite complete set of science blueprints",
   "author": {
     "userId": "gDPxXsMTxpSaNoeAv932oN5QZUE3"

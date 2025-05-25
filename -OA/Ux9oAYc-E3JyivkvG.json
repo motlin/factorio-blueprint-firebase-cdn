@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/W9LrQfG",
   "lastUpdatedDate": 1730334207352,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/mods/space-age/"
+  ],
   "title": "Recycle to Legendary",
   "favorites": {
     "TWOm1ShS8WSm7S4XOUOQhdAhGiM2": true,

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/TdHGQHF",
   "lastUpdatedDate": 1730567909027,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "Aboveground Intersection",
   "favorites": {
     "hFjkh393GCeB9PKflnXip70aGmh2": true,

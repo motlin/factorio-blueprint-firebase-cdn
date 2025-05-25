@@ -17,11 +17,11 @@
   "imageUrl": "https://imgur.com/0ofmbhZ",
   "lastUpdatedDate": 1727317943015,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/processing unit (blue)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Blue Circuit Factory (1200/min)"
 }

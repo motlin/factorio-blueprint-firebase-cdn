@@ -27,14 +27,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Tileable%20100spm%20Robotbase%200.16%20Detailed.png?alt=media&token=825ea9d4-c232-4835-8d35-7dbc545d4688",
   "lastUpdatedDate": 1533614707214,
   "numberOfFavorites": 31,
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/production/science/",
-    "4": "/production/robots/",
-    "5": "/version/0,16/",
-    "6": "/general/beaconized/",
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/production/robots/",
+    "/version/0,16/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Tileable 100spm Robotbase 0.16"
 }

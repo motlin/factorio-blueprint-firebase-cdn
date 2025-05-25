@@ -16,9 +16,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/unknown.png?alt=media&token=7ff71271-c340-4ef9-8363-02d158377b22",
   "lastUpdatedDate": 1519510733352,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/version/0,16/"
+  ],
   "title": "BA 0.16 Sulfuric Acid"
 }

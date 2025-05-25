@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1571800299088,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/inserters/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "All inserters ",
   "author": {
     "userId": "nxvpuK0V9fRE32dFCI9r05FIwbG2"

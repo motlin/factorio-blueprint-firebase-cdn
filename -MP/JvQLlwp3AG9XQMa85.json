@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1637807405052,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/mods/vanilla/"
+  ],
   "title": "Book of Balancers"
 }

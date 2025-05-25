@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/counter/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/circuit/counter/",
+    "/version/0,16/"
+  ],
   "createdDate": 1549375405629,
   "descriptionMarkdown": "Counts how many hours you have played in your world. Counter is combinator based and counts every tick, meaning if your game runs at 30 UPS it will count twice as slowly. The maximum number it can count to is roughly 600k hours so if you plan to play for more than 999 hours you will need to add additional digit yourself :)\n\nThe clock also has an option to put your own time to match it with your save file time. To do that just set the green signal in top right combinator to the number of secodns you want to offset the clock for",
   "fileName": "taaaaaaam.png",

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/oTMuyi1",
   "lastUpdatedDate": 1733507808714,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "TORPEDA_1600"
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1634596253799,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "Wagon-Based Red + Green Science",
   "favorites": {
     "sTkSnDz6pQO9BJc9fw6yV9QHjsG3": true,

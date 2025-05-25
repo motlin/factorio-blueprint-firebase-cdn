@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/TOMFUke",
   "lastUpdatedDate": 1731937854676,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-age/"
+  ],
   "title": "4x Fusion Reactor",
   "favorites": {
     "ht9sqe6HcwgEWAZmkDfT6Jj7VjD2": true

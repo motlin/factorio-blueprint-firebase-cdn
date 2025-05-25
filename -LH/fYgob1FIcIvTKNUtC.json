@@ -98,10 +98,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Krastorio%20BP.png?alt=media&token=869c4fa9-1f8e-427f-9f25-c06926097d17",
   "lastUpdatedDate": 1584829254832,
   "numberOfFavorites": 70,
-  "tags": {
-    "2": "/mods/krastorio/",
-    "0": "/production/science/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/production/science/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Vairosean's Krastorio Blueprint Book"
 }

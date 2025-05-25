@@ -18,8 +18,8 @@
   "imageUrl": "https://i.imgur.com/Ra1tN74.jpeg",
   "lastUpdatedDate": 1743500438198,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Наука какая-то"
 }

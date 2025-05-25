@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1634846165651,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "High throughput multi-loading station",
   "favorites": {
     "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,

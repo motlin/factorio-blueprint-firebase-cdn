@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/8uJ4Gd4",
   "lastUpdatedDate": 1730471903932,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/2,0/"
+  ],
   "title": "1-1 Automated Generic Train Logistics",
   "favorites": {
     "ZApGdU20WUR5pfu15161hYEtghI2": true,

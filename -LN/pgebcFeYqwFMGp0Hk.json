@@ -13,12 +13,12 @@
     "width": 2142
   },
   "numberOfFavorites": 14,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/production/smelting/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "3W81lziJULPXcOPam3x4pANeE7g2": true,
     "bjFQyD8XoIYYHUlLvKJzzEO3bMB2": true,

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1702222142992,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "4 lane Unloader",
   "favorites": {
     "rFlpo6iL11Navl4sktNLSKR103R2": true

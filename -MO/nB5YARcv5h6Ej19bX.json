@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1637241350528,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Planta para fabricação de unidades de controle de foguete"
 }

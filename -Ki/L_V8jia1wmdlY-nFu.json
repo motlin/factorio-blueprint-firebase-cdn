@@ -17,9 +17,9 @@
   "numberOfFavorites": 14,
   "title": "Lamp Battery",
   "authorId": "dnTAHvEHkQcQG8kk1P3IHfkDcYs2",
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,14/"
-  }
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ]
 }

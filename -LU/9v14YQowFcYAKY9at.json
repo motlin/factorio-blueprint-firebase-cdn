@@ -20,11 +20,11 @@
   },
   "lastUpdatedDate": 1545298077353,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/mid game/",
-    "2": "/production/research (labs)/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/mid game/",
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "all in one : 6 science pack midgame"
 }

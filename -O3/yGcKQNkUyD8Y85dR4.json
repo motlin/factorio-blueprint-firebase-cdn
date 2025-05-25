@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/nRSeKOX",
   "lastUpdatedDate": 1723326694959,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para mineração de pedras ",
   "favorites": {
     "8tqjbtli6vUwJNUjBoQPNWMPJRx1": true

@@ -24,13 +24,13 @@
   },
   "lastUpdatedDate": 1608126427464,
   "numberOfFavorites": 7,
-  "tags": {
-    "2": "/production/smelting/",
-    "3": "/production/science/",
-    "4": "/production/belts/",
-    "5": "/general/early game/",
-    "0": "/production/advanced circuit (red)/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/production/science/",
+    "/production/belts/",
+    "/general/early game/",
+    "/production/advanced circuit (red)/",
+    "/power/solar/"
+  ],
   "title": "Base Blueprints"
 }

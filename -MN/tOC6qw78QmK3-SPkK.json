@@ -1,11 +1,11 @@
 {
   "fileName": "screenshot-tick-35207506.png",
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/compact/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/compact/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "Compact Beaconed Plastic Production (90/sec)",
   "author": {
     "userId": "rAd5wRw35pcFRKNWJfBFQp0R7wv1"

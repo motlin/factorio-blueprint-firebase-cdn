@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1636957539204,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Steam power with Turbines (144 MW)"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Tm3GDiY",
   "lastUpdatedDate": 1728492116008,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Electric Mining Drill Production",
   "favorites": {
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,

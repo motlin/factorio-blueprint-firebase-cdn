@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1611384631549,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/chunk aligned/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/chunk aligned/",
+    "/general/compact/"
+  ],
   "title": "Chunk Aligned Smelting"
 }

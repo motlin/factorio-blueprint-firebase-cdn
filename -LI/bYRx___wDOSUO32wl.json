@@ -7,11 +7,11 @@
   },
   "lastUpdatedDate": 1592855660283,
   "numberOfFavorites": 17,
-  "tags": {
-    "2": "/power/kovarex enrichment/",
-    "0": "/production/uranium/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/mods/vanilla/"
+  ],
   "title": "uranium processing / Koravex enrichment",
   "favorites": {
     "awtIejV1kpQZI4G2V5T2efVQF4g2": true,

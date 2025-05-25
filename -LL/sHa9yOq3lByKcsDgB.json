@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1565386391225,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/oil processing/",
-    "2": "/production/batteries/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/oil processing/",
+    "/production/batteries/"
+  ],
   "title": "Oil Production V2"
 }

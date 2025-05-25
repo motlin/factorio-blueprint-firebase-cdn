@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1689550667042,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/version/1,1/",
-    "2": "/mods/vanilla/",
-    "3": "/mods/angels/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/1,1/",
+    "/mods/vanilla/",
+    "/mods/angels/"
+  ],
   "title": "Big storage for one resource",
   "favorites": {
     "TUO35DmRoAdkMy2pOnaqAiFe5192": true,

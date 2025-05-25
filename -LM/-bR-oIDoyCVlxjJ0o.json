@@ -9,10 +9,10 @@
     "type": "image/png",
     "width": 1096
   },
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "title": "Safe rail crossing",
   "author": {
     "userId": "wuobWc9yGhffkyLhvoB8EoqS70o2"

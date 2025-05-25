@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1737133318469,
   "numberOfFavorites": 35,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/belt/balancer/",
-    "2": "/belt/prioritizer/",
-    "3": "/belt/express transport belt (blue)/",
-    "4": "/mods/industrial revolution/",
-    "5": "/production/science/",
-    "6": "/production/inserters/",
-    "7": "/production/belt based/",
-    "8": "/train/stacker/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/belt/balancer/",
+    "/belt/prioritizer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/industrial revolution/",
+    "/production/science/",
+    "/production/inserters/",
+    "/production/belt based/",
+    "/train/stacker/"
+  ],
   "title": "Space science pack- Kosmiczny pakiet naukowy. Automatyzacja, Jak działa, schemat budowy.",
   "favorites": {
     "SoEUMOa5ChhM0hXyXFkAgQQ3Ilj2": true,

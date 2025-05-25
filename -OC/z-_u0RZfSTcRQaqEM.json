@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/lL0dMKx",
   "lastUpdatedDate": 1733002682115,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/production/science/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/production/science/",
+    "/mods/space-age/"
+  ],
   "title": "Gleba - Small Science Or Bio Chamber",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

@@ -21,10 +21,10 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FXGIO%20Nuc3%20v1.1.png?alt=media&token=fe766756-bd32-4f57-9e42-e1650f3777a1",
   "numberOfFavorites": 15,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "0LKqB89LgMZrsIsm7GCeNHcPrKm1"
   },

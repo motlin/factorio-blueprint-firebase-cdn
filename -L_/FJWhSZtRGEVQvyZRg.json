@@ -3,11 +3,11 @@
   "createdDate": 1551830752206,
   "descriptionMarkdown": "Your Textbook Standard Solar Block",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/solar/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/version/0,17/"
+  ],
   "title": "Solar Block v1.0",
   "authorId": "8pKtZ3aUP0N4HjhFY60X4U2oBME2",
   "fileName": "screenshot-tick-131691-cropped.png",

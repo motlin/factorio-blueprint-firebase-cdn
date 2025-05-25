@@ -9,11 +9,11 @@
     "width": 243
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/train/unloading station/",
-    "2": "/production/smelting/",
-    "0": "/general/storage/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/production/smelting/",
+    "/general/storage/"
+  ],
   "author": {
     "userId": "duVWG6DfCxMHjqWcEQen4cnW4WA2"
   },

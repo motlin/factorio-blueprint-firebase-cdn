@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1673500783857,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Low Density Structure 30/m",
   "favorites": {
     "phSUDMDo2XOdHOwH9JLOPfBhKR43": true,

@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/circuit/counter/"
+  ],
   "title": "resource counter display",
   "favorites": {
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,

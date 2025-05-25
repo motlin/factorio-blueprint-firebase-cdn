@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/AlQ9tzZ",
   "lastUpdatedDate": 1736679629911,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/general/compact/",
-    "2": "/general/late game (megabase)/",
-    "3": "/power/nuclear/",
-    "4": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/general/compact/",
+    "/general/late game (megabase)/",
+    "/power/nuclear/",
+    "/planets/space-platform/"
+  ],
   "title": "Needlessly Compact Sip",
   "favorites": {
     "GY3EoOQCGIeJZxw1EXppI3dLdUo2": true,

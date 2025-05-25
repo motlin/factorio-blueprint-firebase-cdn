@@ -21,10 +21,10 @@
   "createdDate": 1577383139875,
   "descriptionMarkdown": "Tileable Science Lab - Non-Chained - With Beacons",
   "lastUpdatedDate": 1577388113588,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/version/0,17/"
+  ],
   "title": "Science Lab .17",
   "authorId": "trGFLaYmtMdkP6d3WqbIDjn53x82"
 }

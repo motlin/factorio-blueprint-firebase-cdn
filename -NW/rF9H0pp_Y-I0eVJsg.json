@@ -16,11 +16,11 @@
   "lastUpdatedDate": 1685628013009,
   "numberOfFavorites": 1,
   "title": "red ammo ( piercing rounds magazine) 16/s",
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/mods/vanilla/",
+    "/general/beaconized/"
+  ],
   "favorites": {
     "AqJb1V8y4zYKgvtoECNSBOjbU4Q2": true
   }

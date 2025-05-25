@@ -16,8 +16,8 @@
   "descriptionMarkdown": "Beaconed smelting with a direct networked chest insertion",
   "fileName": "2 blue direct chest.jpg",
   "lastUpdatedDate": 1528819202873,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/"
-  }
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/"
+  ]
 }

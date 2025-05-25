@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1582172352301,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/",
-    "3": "/mods/seablock/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/mods/seablock/"
+  ],
   "favorites": {
     "SUj2NShlk3bzYdDibJ24Ndmazdu2": true,
     "LAnhp9ImYohqEi0Ymqq05JTRtek2": true,

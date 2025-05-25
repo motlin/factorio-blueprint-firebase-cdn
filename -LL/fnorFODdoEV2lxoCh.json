@@ -7,12 +7,12 @@
     "width": 1546
   },
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/train/right-hand-drive/",
-    "2": "/version/0,16/",
-    "3": "/train/stacker/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/version/0,16/",
+    "/train/stacker/",
+    "/mods/vanilla/"
+  ],
   "title": "FIFO Stacker (1-4, RHD)",
   "author": {
     "userId": "94XNNNgHHgakNKIysV0Zqy5fO5I3"

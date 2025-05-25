@@ -13,13 +13,13 @@
   "imageUrl": "https://imgur.com/HSdsu2j",
   "lastUpdatedDate": 1731641487333,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/space-age/",
-    "3": "/version/2,0/",
-    "4": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/beaconized/",
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus Electronic Circuits",
   "favorites": {
     "QAI4rMnX5UYlYeFRmMv8Bb8T6Px2": true,

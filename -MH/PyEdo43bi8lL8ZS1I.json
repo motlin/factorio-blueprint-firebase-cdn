@@ -32,9 +32,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/City%20Block%20Factory%202.PNG?alt=media&token=e3325c38-7a7a-46f8-96a8-11c3045d54e7",
   "lastUpdatedDate": 1629319097848,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/production/mall (make everything)/"
+  ],
   "title": "City Block Factory"
 }

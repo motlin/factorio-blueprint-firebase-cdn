@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/mall (make everything)/",
+    "/mods/space-exploration/"
+  ],
   "title": "[Space Exploration] Startup Base (v1) by Abarel",
   "author": {
     "userId": "WlRsC37F0MVvcNjEyfILjo4EcRp2"

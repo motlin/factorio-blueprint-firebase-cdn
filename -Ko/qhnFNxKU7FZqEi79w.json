@@ -190,13 +190,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/7.PNG?alt=media&token=3bfe439b-ade2-44f1-910b-4e1906c5e437",
   "lastUpdatedDate": 1499861562536,
   "numberOfFavorites": 347,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/",
-    "3": "/production/inserters/",
-    "4": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/production/inserters/",
+    "/production/mall (make everything)/"
+  ],
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
   "createdDate": 1499861562536,
   "descriptionMarkdown": "An array of assemblers to build all Belts/Undergrounds/Splitters as well as all Inserters and Assemblers\n- One \"early game\" blueprint (without Red Circuits)\n- One \"late game\" blueprint (with Red Circuits)\n- The late game blueprint can be placed on top of the early game blueprint to make a smooth transition\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV",

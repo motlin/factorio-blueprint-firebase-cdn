@@ -14,12 +14,12 @@
   "lastUpdatedDate": 1732452852833,
   "numberOfFavorites": 2,
   "title": "Rail Modular Master System",
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/train/roundabout/",
-    "2": "/train/junction/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/mods/other/"
+  ],
   "favorites": {
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

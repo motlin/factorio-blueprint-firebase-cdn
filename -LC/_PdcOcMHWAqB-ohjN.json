@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1555406212634,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Electronic-circuit_45-per-sec_belt-base",
   "authorId": "Hsee32dK8rYHPEN1Is8jy8lVoZI3",
   "descriptionMarkdown": "This is an electronic board production line optimized for one Express transport belt",

@@ -20,11 +20,11 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1605367690358,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "XdZPyUikWVPLmaUxVm61cWFBph13"
   },

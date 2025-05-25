@@ -1,10 +1,10 @@
 {
   "createdDate": 1581924744268,
   "fileName": "wood.png",
-  "tags": {
-    "0": "/general/storage/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/general/storage/",
+    "/power/steam/"
+  ],
   "descriptionMarkdown": "Carrying too much wood? Don't have place for it? Tired of making chests to store wood? Shoot your chest after it's full? Look no further, with the new and improved wood furnace.",
   "image": {
     "height": 811,

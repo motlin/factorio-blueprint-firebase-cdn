@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/xQKNX7c",
   "lastUpdatedDate": 1742531283996,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Omniscience (Adaptive Science Factory)"
 }

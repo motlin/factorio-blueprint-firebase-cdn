@@ -26,11 +26,11 @@
     "width": 1480
   },
   "lastUpdatedDate": 1588115346068,
-  "tags": {
-    "4": "/mods/vanilla/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/power/nuclear/",
-    "2": "/production/uranium/",
-    "3": "/version/0,17/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/power/kovarex enrichment/",
+    "/power/nuclear/",
+    "/production/uranium/",
+    "/version/0,17/"
+  ]
 }

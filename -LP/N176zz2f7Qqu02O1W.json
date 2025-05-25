@@ -7,12 +7,12 @@
     "height": 1080,
     "id": "Uv66cB3"
   },
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/production/processing unit (blue)/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/",
+    "/version/0,16/"
+  ],
   "title": "Linear Circuit Production",
   "author": {
     "userId": "TEyOrHglQXWoSoIjc7iWtajwiEw2"

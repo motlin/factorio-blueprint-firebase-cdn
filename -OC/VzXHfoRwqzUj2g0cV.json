@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/TfM37ku",
   "lastUpdatedDate": 1732499089844,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/"
+  ],
   "title": "Vulcanus - mini base",
   "favorites": {
     "8CiRU5xanCVCp6uc7Wl9CUkp0S02": true,

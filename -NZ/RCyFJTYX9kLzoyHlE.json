@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/XKE3JJH",
   "lastUpdatedDate": 1717386601678,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "simple blue pack",
   "favorites": {
     "nUMtfYWvJyVXDCQYe6Z479a9qlg1": true

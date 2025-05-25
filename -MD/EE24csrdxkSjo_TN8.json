@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1624827081252,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Chunky Solar v1",
   "favorites": {
     "hR9kBkjGa6VqOEtkZJMank8IHsF2": true

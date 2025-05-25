@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/noZpMRz",
   "lastUpdatedDate": 1731426504964,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/science/",
-    "2": "/mods/transport drones/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/science/",
+    "/mods/transport drones/"
+  ],
   "title": "All Nauvis Science (Drones)",
   "favorites": {
     "aDCgn9vO5ZPHvwA4OlYRJ1SRjOx2": true,

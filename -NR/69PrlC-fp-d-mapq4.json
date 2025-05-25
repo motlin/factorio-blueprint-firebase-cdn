@@ -13,11 +13,11 @@
   },
   "lastUpdatedDate": 1730212726220,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/general/early game/",
+    "/mods/vanilla/"
+  ],
   "title": "Early mining book",
   "favorites": {
     "WCdYq76bjZcOznCJvh6YB3DMY2U2": true,

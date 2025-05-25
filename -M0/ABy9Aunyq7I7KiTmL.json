@@ -21,10 +21,10 @@
   },
   "lastUpdatedDate": 1581809776833,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/chunk aligned/"
+  ],
   "title": "3x3 Chunk Solar Array (30.3632 MW)"
 }

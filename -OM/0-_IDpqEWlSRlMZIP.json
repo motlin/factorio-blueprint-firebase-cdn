@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/JxtrX3O.png",
   "lastUpdatedDate": 1742699910450,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "EZ Oil Pump Jacks",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

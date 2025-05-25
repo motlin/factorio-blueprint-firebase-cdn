@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1705086719094,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/general/mid game/",
-    "2": "/general/compact/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/production/science/"
+  ],
   "title": "AiO Utility Science",
   "favorites": {
     "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true,

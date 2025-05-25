@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1651149052750,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Красные схемы",
   "favorites": {
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/TDtIb4s",
   "lastUpdatedDate": 1714238568573,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "lazy mall on bus",
   "favorites": {
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true

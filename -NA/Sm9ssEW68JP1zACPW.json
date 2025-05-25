@@ -27,11 +27,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/white%20science.png?alt=media&token=cdd4b759-3fb1-43df-92fd-297939df1834",
   "lastUpdatedDate": 1666932271727,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/mining/",
-    "2": "/mods/vanilla/",
-    "3": "/power/solar/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/mining/",
+    "/mods/vanilla/",
+    "/power/solar/"
+  ],
   "title": "Raws to Riches"
 }

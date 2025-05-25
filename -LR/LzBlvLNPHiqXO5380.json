@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "1": "/version/0,16/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/smelting/"
+  ],
   "title": "T1 Smelter",
   "author": {
     "userId": "7CPZbN6gwgSBBRhKprTEfictr8k1"

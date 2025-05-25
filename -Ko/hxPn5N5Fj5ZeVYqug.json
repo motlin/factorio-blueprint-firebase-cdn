@@ -16,12 +16,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20blue%20circuits.PNG?alt=media&token=ed125cb6-b402-4a1b-b91a-1005772eca09",
   "lastUpdatedDate": 1499771944013,
-  "tags": {
-    "2": "/mods/factorissimo/",
-    "3": "/version/0,15/",
-    "0": "/production/processing unit (blue)/",
-    "1": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/version/0,15/",
+    "/production/processing unit (blue)/",
+    "/general/late game (megabase)/"
+  ],
   "favorites": {
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

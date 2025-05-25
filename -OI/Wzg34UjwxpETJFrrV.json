@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/DWbrpKv",
   "lastUpdatedDate": 1738958357038,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/"
+  ],
   "title": "Early Essentials Mall",
   "favorites": {
     "RmD3iK6gVxOQfQYp0Pz4ejpz8L82": true,

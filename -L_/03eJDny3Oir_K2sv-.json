@@ -773,12 +773,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%20from%202019-03-12%2021-47-01.jpg?alt=media&token=e239bb21-e8dd-42ed-9eb5-65b8edd2b91d",
   "lastUpdatedDate": 1552441787093,
   "numberOfFavorites": 655,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,17/",
-    "2": "/mods/vanilla/",
-    "3": "/general/early game/",
-    "4": "/general/compact/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "title": "Early Game Mall 0.17 v8"
 }

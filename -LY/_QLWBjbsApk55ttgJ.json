@@ -23,12 +23,12 @@
     "cmVK0qxzUle25kRKDaLf9uOQt8w2": true,
     "TCh8CfP1ybhKOjs3C0NNtDEuX8B3": true
   },
-  "tags": {
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/general/beaconized/",
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/production/electronic circuit (green)/"
+  ],
   "title": "Green Circuit Beaconed, Belted, No belt weaving, 3 Assembly setup, tileable",
   "descriptionMarkdown": "This took me a fuckton of work, but I found a setup that only uses 3 Assembly machines and creates an entire belt of Green Circuit, without belt weaving, with 8 beacons (one of the wires doesn't have 8 beacons working on it, but this does not affect the rates) You could probably remove some productivity modules for efficiency modules but I'm happy enough with this. It is also tileable in one direction."
 }

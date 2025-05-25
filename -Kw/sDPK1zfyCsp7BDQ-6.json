@@ -2,13 +2,13 @@
   "fileName": "Miner Hauler Controller - Config.png",
   "lastUpdatedDate": 1508505095493,
   "numberOfFavorites": 10,
-  "tags": {
-    "2": "/mods/angels/",
-    "3": "/mods/other/",
-    "4": "/production/mining/",
-    "0": "/mods/bobs/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/other/",
+    "/production/mining/",
+    "/mods/bobs/",
+    "/version/0,15/"
+  ],
   "title": "AAI Miner + Hauler Controller for Angel's Ores",
   "favorites": {
     "j099BfaxjlgSY5LxT4SGByYDH7J2": true,

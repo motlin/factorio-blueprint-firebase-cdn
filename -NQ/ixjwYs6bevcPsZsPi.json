@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1708037439547,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "4 reactor design",
   "favorites": {
     "kWSBPB3IuObDXGJ28LbNsNQsDYJ3": true,

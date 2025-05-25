@@ -31,10 +31,10 @@
   },
   "lastUpdatedDate": 1525016426017,
   "numberOfFavorites": 47,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/0,16/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,16/",
+    "/general/compact/"
+  ],
   "title": "Lazy Bastard Mega Mall"
 }

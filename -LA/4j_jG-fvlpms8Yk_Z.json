@@ -16,14 +16,14 @@
   "createdDate": 1552727039186,
   "lastUpdatedDate": 1552727039186,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/mods/other/",
-    "3": "/version/0,16/",
-    "4": "/version/0,17/",
-    "5": "/version/unknown/",
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/other/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/unknown/",
+    "/production/robots/"
+  ],
   "favorites": {
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,

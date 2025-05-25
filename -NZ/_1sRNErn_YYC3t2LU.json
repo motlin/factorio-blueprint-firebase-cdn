@@ -16,8 +16,8 @@
   "imageUrl": "https://imgur.com/5z5wcDW",
   "lastUpdatedDate": 1717535271799,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Graphing Calculators"
 }

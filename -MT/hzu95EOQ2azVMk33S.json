@@ -16,9 +16,9 @@
   "descriptionMarkdown": "receiver station to be used at an outpost.\nconstant combinator selects the items that are requested. The items are automatically taken out of the train using filter inserters.\n\nThe station is designed for 2-4 trains with the following railcars:\n1. locomotive\n2. locomotive\n3. cargo wagon (used for delivery)\n4. cargo wagon (used for delivery)\n5. liquid train wagon\n6. cargo wagon (used for trash)\n\nFeatures:\n- Filter inserters will not get blocked with dead filters, even if requested items are not available in the train\n- The unloading pump will disable itself once enough liquid is unloaded. This ensures \"inactivity\" train conditions will work\n- Hysteresis: The train station will only activate itself once less than half of the requested amount of any item/liquid is in the local logistic network. This hysteresis is super simple, requires no extra setup from the player and is reasonable enough for all items\n- Will add bots to logistic network\n- Trash system. Yellow chests are used to collect trash and put it back into the train. The base should remove these items and put them into an active provider.",
   "fileName": "maintenance_station.png",
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  }
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

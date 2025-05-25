@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1737133292945,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/production/modules/",
-    "2": "/general/beaconized/",
-    "3": "/belt/prioritizer/",
-    "4": "/general/storage/",
-    "5": "/mods/angels/",
-    "6": "/mods/industrial revolution/",
-    "7": "/production/science/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/production/modules/",
+    "/general/beaconized/",
+    "/belt/prioritizer/",
+    "/general/storage/",
+    "/mods/angels/",
+    "/mods/industrial revolution/",
+    "/production/science/"
+  ],
   "title": "Productivity module 3 - Moduł produktywności 3. Automatyzacja, Jak działa, schemat budowy, przewodnik.",
   "favorites": {
     "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,

@@ -7,14 +7,14 @@
     "type": "image/jpeg",
     "width": 2553
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,17/",
-    "5": "/general/compact/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/compact/"
+  ],
   "title": "Uranium processing",
   "favorites": {
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,

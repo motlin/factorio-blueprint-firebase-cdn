@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/GZCi0C6",
   "lastUpdatedDate": 1739420196261,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/version/2,0/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/version/2,0/",
+    "/general/compact/"
+  ],
   "title": "Little conqueror",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

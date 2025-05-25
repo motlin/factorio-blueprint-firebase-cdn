@@ -24,12 +24,12 @@
   },
   "lastUpdatedDate": 1687973219075,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/track/",
-    "2": "/train/right-hand-drive/",
-    "3": "/version/1,1/",
-    "4": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/track/",
+    "/train/right-hand-drive/",
+    "/version/1,1/",
+    "/general/chunk aligned/"
+  ],
   "title": "Chunk aligned 2 and 4 lane Right Hand Drive rails"
 }

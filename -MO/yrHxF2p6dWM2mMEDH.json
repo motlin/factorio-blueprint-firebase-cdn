@@ -3,11 +3,11 @@
     "userId": "UBRxZLHoeXMx3lVd402B1LKoamY2"
   },
   "descriptionMarkdown": "- Max Output: 465MW\n- Steam Storage 1M (97GJ)\n\n#### Required\n- 4 offshore pump (or 3.6k/s water throughput)\n",
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
     "aYFFekScElREysyoT6jicNh97Sr2": true,

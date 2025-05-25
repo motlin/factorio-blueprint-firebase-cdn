@@ -1,14 +1,14 @@
 {
   "lastUpdatedDate": 1532556057418,
   "numberOfFavorites": 8,
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/general/compact/",
-    "5": "/general/tileable/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "Im7hf517n8atBXTWkTvna2GqGFu2": true,
     "sUJxDEQvaJUjQ5z1nT88FfcwBTA3": true,

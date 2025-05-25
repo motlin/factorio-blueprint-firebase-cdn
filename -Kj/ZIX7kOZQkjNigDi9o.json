@@ -811,10 +811,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Furnaces.png?alt=media&token=def008ef-9089-4c17-912c-b0048a3c6578",
   "lastUpdatedDate": 1496154591076,
   "numberOfFavorites": 794,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/smelting/"
+  ],
   "title": "Tiered Universal Smelters"
 }

@@ -28,11 +28,11 @@
   },
   "lastUpdatedDate": 1617196986840,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/"
+  ],
   "title": "Blocks 025: All the Modules"
 }

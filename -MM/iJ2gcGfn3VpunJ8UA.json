@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "author": {
     "userId": "tpNaK2TqWObcGmTwoojy4ufinH23"
   },

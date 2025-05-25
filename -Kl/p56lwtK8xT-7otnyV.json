@@ -20,13 +20,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorissimo_station.png?alt=media&token=e978177a-1905-4eae-a571-01e628da54f5",
   "lastUpdatedDate": 1497702848179,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/factorissimo/",
-    "2": "/version/0,15/",
-    "3": "/train/right-hand-drive/",
-    "4": "/circuit/indicator/",
-    "5": "/circuit/counter/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/factorissimo/",
+    "/version/0,15/",
+    "/train/right-hand-drive/",
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Factorissimo Unload Station with Counter and Alarm"
 }

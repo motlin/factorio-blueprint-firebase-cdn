@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1665421713311,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/krastorio/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/krastorio/",
+    "/version/1,0/"
+  ],
   "title": "3 type Science at mode Krastorio2",
   "favorites": {
     "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,

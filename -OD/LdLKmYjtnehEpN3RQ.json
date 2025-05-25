@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/NLyMD8n",
   "lastUpdatedDate": 1733399242228,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Simple Space Ship ",
   "favorites": {
     "bF9qbyoXLeT2v5GSAFkRwGPGFop1": true

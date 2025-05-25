@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1646322721911,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/vanilla/"
+  ],
   "title": "My accumulators",
   "favorites": {
     "OgjrIK2GyjPMK6x0qRjr4bolPXB2": true

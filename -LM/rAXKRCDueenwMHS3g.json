@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/fast transport belt (red)/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "12v9d0LyJ4UZpy6MC3tWe3wJhC53"
   },

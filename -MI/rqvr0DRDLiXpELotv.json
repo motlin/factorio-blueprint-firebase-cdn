@@ -3,15 +3,15 @@
   "createdDate": 1601886207671,
   "descriptionMarkdown": "Complete Kovarex Enrichment collection for your needs.\nBelt-based kovarex is modularized, customizable and tileable.\n- Assemble on demand - with or without fuel making module.\n- Uranium Ore to U235 and U238.\n- Very compact and tileable.\n- Assemble examples included in the book\n- Alarm for used-up fuel full.\n- With pre-tiled examples.\n\nTile example, with fuel module and double tile, do fuel processing and output U235+U238: <a href=\"https://imgur.com/MQ41n3u\" target=\"new\">Click to preview</a>\n\nBot-based kovarex, has fuel processing version and U235/U238 version: <a href=\"https://imgur.com/zWS4GVK.png\" target=\"new\">Click to preview</a>",
   "lastUpdatedDate": 1602748680780,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/general/compact/",
-    "5": "/version/1,0/",
-    "6": "/production/uranium/",
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/version/1,0/",
+    "/production/uranium/",
+    "/power/kovarex enrichment/",
+    "/general/beaconized/"
+  ],
   "title": "Kovarex Enrichment, modularized, compact and tileable, belt-based + bot-Based",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/anty-kovarex.png?alt=media&token=65fb77d1-7ea6-48f3-a2d0-baf7c1ede864",
   "author": {

@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1654465069817,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/train/junction/"
+  ],
   "title": "Train Shuttle",
   "favorites": {
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,

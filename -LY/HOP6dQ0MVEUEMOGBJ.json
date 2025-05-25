@@ -22,10 +22,10 @@
   },
   "lastUpdatedDate": 1578709132462,
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/production/advanced circuit (red)/",
-    "2": "/mods/vanilla/",
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Advanced Circuit"
 }

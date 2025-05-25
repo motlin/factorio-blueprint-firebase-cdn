@@ -15,9 +15,9 @@
     "type": "image/png",
     "width": 651
   },
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Ore Muncher",
   "favorites": {
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true

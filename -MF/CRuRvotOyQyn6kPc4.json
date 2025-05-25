@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1597953517406,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/belt based/",
-    "2": "/production/other/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/production/other/",
+    "/version/1,0/"
+  ],
   "title": "Simple Engine Units",
   "favorites": {
     "jYByiQeZPDf2tOIhEm1BWb2uJPa2": true,

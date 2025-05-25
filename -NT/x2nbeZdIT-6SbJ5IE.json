@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1682504617123,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Tilable multismelter",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/afbeelding_2023-04-26_122246280.png?alt=media&token=67a45fb1-1eb0-40c8-b0f7-27fc4a0900b4"
 }

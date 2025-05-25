@@ -73,12 +73,12 @@
   },
   "lastUpdatedDate": 1534281274633,
   "numberOfFavorites": 103,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/crossing/",
-    "2": "/train/left-hand-drive/",
-    "3": "/train/track/",
-    "4": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/crossing/",
+    "/train/left-hand-drive/",
+    "/train/track/",
+    "/mods/vanilla/"
+  ],
   "title": "Friggin' Rails"
 }

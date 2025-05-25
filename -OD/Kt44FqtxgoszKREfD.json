@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/G4ktwBQ",
   "lastUpdatedDate": 1733386588561,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/planets/space-platform/"
+  ],
   "title": "Nuclear Hauler"
 }

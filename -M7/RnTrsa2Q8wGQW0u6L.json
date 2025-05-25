@@ -19,10 +19,10 @@
   "createdDate": 1589621157497,
   "lastUpdatedDate": 1589720840368,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/science/",
-    "2": "/version/0,18/",
-    "3": "/general/late game (megabase)/"
-  }
+  "tags": [
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/0,18/",
+    "/general/late game (megabase)/"
+  ]
 }

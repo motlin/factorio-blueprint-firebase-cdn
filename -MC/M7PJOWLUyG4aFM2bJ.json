@@ -5,9 +5,9 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "beton jeden sektor produkcji",
   "authorId": "vdlcGt5PxMevYLMYszST4jRYBK72",
   "createdDate": 1594894689735,

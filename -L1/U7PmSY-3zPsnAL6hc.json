@@ -14,10 +14,10 @@
     "width": 386
   },
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/compact/"
+  ],
   "title": "Autonomous Compact Kovarex enrichment",
   "lastUpdatedDate": 1514498272565,
   "favorites": {

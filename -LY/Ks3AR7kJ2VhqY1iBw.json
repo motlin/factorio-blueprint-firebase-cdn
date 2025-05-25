@@ -11,12 +11,12 @@
     "width": 2409
   },
   "lastUpdatedDate": 1578767499997,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "VSXRSZWrb1XIxOxw4rUlEM7aaae2": true,

@@ -30,11 +30,11 @@
   },
   "lastUpdatedDate": 1530373332594,
   "numberOfFavorites": 33,
-  "tags": {
-    "1": "/train/right-hand-drive/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/production/mining/"
+  ],
   "title": "Trainstations -Book"
 }

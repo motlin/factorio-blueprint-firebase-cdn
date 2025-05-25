@@ -10,12 +10,12 @@
     "type": "image/jpeg",
     "width": 1050
   },
-  "tags": {
-    "2": "/version/0,17/",
-    "3": "/production/modules/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/modules/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "KUhD01lo2pctrfTnVN7wQXw8lmD2"
   },

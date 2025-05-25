@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1671093852563,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/power/steam/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/",
-    "4": "/general/early game/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/early game/"
+  ],
   "title": "GoodFactory2"
 }

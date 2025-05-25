@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/kRua41d",
   "lastUpdatedDate": 1730280908446,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Drone Trains",
   "favorites": {
     "ID2SvySEsPRsu8M8hxcmUzVsVxu2": true,

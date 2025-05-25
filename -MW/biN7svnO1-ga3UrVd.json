@@ -20,14 +20,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/DefenseOutpostv3.png?alt=media&token=735c951e-9861-4e56-a64c-d5d8cfeda852",
   "lastUpdatedDate": 1616886616620,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/",
-    "3": "/general/compact/",
-    "4": "/circuit/indicator/",
-    "5": "/circuit/counter/",
-    "6": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/general/compact/",
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Hub Controlled Refilling Defense Outpost"
 }

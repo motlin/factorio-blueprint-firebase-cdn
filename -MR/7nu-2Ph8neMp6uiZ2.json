@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1639753772172,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/mods/krastorio/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/production/other/",
+    "/mods/krastorio/",
+    "/general/early game/"
+  ],
   "title": "Krastorio 2 - rails and circuits v0.2",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/rnc2-agnes.png?alt=media&token=37469f95-1f2f-4e35-af30-564637febb94",
   "favorites": {

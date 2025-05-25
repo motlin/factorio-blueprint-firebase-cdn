@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1663617594053,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/power/kovarex enrichment/",
+    "/general/tileable/"
+  ],
   "title": "Kovarex - full-moduled, tileable, circuitless",
   "favorites": {
     "bKuREIccq4cA9hXJ3SSIxz2U3eo2": true,

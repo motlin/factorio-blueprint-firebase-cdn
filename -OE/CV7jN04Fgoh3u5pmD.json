@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/D2zEpRp",
   "lastUpdatedDate": 1734334467913,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Fulgora Icebox v2",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

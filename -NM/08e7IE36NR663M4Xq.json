@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1673982917299,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/1,1/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/version/1,1/",
+    "/mods/space-exploration/"
+  ],
   "title": "Multipurpose cargo rocket silo and landing pad",
   "favorites": {
     "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,

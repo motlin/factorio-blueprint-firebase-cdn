@@ -19,10 +19,10 @@
   },
   "lastUpdatedDate": 1641159269529,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,0/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Factorio Made to Measure Trains"
 }

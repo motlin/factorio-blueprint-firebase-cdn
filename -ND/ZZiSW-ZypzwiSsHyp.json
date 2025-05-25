@@ -18,12 +18,12 @@
   },
   "lastUpdatedDate": 1665499068570,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/science/",
-    "2": "/production/research (labs)/",
-    "3": "/general/beaconized/",
-    "4": "/mods/other/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "Fischje's Book"
 }

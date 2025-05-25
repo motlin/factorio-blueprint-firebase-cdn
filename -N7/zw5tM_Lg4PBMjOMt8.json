@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1658931792212,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "early game steam power",
   "favorites": {
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true

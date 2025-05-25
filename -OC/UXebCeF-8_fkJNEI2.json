@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/s0RCUMX",
   "lastUpdatedDate": 1732474806093,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "effective-science counter display",
   "favorites": {
     "NkxM1USI7Qf9VRCPPGV5ATu24ir1": true,

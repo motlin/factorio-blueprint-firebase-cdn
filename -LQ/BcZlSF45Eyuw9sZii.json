@@ -4,12 +4,12 @@
   "descriptionMarkdown": "The idea of this system is to have two lines to each direction to enable more possibilities of trafic. So, the train can choose what way has lass trafic and change the line. The crossing has a system that allow the train to chance direction and the line too. The lines has a default direction, but if you want to change, just delete the train signals!",
   "fileName": "20181031204545_1.jpg",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "zItSYhoY7MQ8n9ubAfUyKZj2XNG2"
   },

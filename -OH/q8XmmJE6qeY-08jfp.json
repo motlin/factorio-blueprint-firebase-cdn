@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/UAJ240m.png",
   "lastUpdatedDate": 1738222743087,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/smelting/",
-    "2": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/smelting/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Vulcanus Magic Box",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

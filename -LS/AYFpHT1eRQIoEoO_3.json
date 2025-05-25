@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1543248888572,
   "numberOfFavorites": 11,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/production/robots/",
-    "3": "/general/late game (megabase)/",
-    "4": "/version/0,16/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/robots/",
+    "/general/late game (megabase)/",
+    "/version/0,16/",
+    "/production/smelting/"
+  ],
   "title": "Beaconized Smeltery w/switch (46k/min)"
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/cA5gL84",
   "lastUpdatedDate": 1729967290788,
   "numberOfFavorites": 18,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Simple automated space science",
   "favorites": {
     "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,

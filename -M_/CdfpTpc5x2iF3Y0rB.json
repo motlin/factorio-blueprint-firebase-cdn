@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1620505443747,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "22.5 T3 speed modules /min"
 }

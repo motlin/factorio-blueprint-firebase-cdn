@@ -25,8 +25,8 @@
   "imageUrl": "https://imgur.com/swMqmc0",
   "lastUpdatedDate": 1740202865157,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "C.A.R.L - The little ship that could"
 }

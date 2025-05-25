@@ -21,9 +21,9 @@
   },
   "lastUpdatedDate": 1709582833086,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Production for Space Exploration Base Resources"
 }

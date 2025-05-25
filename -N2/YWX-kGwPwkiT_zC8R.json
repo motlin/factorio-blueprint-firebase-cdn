@@ -30,8 +30,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202022-05-25%20200003.png?alt=media&token=872da91f-f89d-4ffd-81c8-9ca2e1fb9270",
   "lastUpdatedDate": 1713670773564,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Mixed Mining v2.2.0"
 }

@@ -15,18 +15,18 @@
   },
   "lastUpdatedDate": 1533214854287,
   "numberOfFavorites": 6,
-  "tags": {
-    "2": "/production/mall (make everything)/",
-    "3": "/production/inserters/",
-    "4": "/production/guns and ammo/",
-    "6": "/production/other/",
-    "0": "/production/modules/",
-    "1": "/production/belts/",
-    "8": "/general/compact/",
-    "9": "/general/storage/",
-    "10": "/general/late game (megabase)/",
-    "5": "/production/robots/",
-    "7": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/inserters/",
+    "/production/guns and ammo/",
+    "/production/other/",
+    "/production/modules/",
+    "/production/belts/",
+    "/general/compact/",
+    "/general/storage/",
+    "/general/late game (megabase)/",
+    "/production/robots/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Factories of major items"
 }

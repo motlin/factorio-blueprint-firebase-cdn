@@ -20,17 +20,17 @@
   },
   "lastUpdatedDate": 1637608159877,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/production/advanced circuit (red)/",
-    "2": "/power/nuclear/",
-    "3": "/general/beaconized/",
-    "4": "/version/0,15/",
-    "5": "/belt/balancer/",
-    "6": "/production/mall (make everything)/",
-    "7": "/train/track/",
-    "8": "/train/roundabout/",
-    "9": "/general/compact/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/production/advanced circuit (red)/",
+    "/power/nuclear/",
+    "/general/beaconized/",
+    "/version/0,15/",
+    "/belt/balancer/",
+    "/production/mall (make everything)/",
+    "/train/track/",
+    "/train/roundabout/",
+    "/general/compact/"
+  ],
   "title": "Mega Base build V2.0"
 }

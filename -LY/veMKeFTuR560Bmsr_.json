@@ -15,10 +15,10 @@
   "authorId": "idRln6k5C2OX4nAjHfB9y0VtEay1",
   "createdDate": 1579401442962,
   "numberOfFavorites": 6,
-  "tags": {
-    "1": "/train/track/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/train/track/",
+    "/version/0,17/"
+  ],
   "title": "Rail books (2 Lane)",
   "favorites": {
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,

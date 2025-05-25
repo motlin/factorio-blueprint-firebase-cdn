@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1612393540287,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/track/",
-    "2": "/train/left-hand-drive/",
-    "3": "/train/junction/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/track/",
+    "/train/left-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "LH 50x50 LTN 1L1C rails"
 }

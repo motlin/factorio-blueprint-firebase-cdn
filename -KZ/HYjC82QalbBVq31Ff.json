@@ -4,12 +4,12 @@
   "descriptionMarkdown": "Part of a set of blueprint for a 4-lane railnetwork that includes solar power. Based closely on designs by Zisteau: https://www.youtube.com/playlist?list=PLVPJ1jbg0CaFzYF6jJyUIJYXYpCE4UIr3",
   "lastUpdatedDate": 1499900154377,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,14/"
-  },
+  "tags": [
+    "/train/track/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,14/"
+  ],
   "title": "4-Lane-Diagonal-Laneswitcher",
   "author": {
     "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"

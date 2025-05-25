@@ -15,16 +15,16 @@
   },
   "lastUpdatedDate": 1636405242548,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/version/0,16/",
-    "2": "/version/0,17/",
-    "3": "/version/0,18/",
-    "4": "/version/1,0/",
-    "5": "/power/solar/",
-    "6": "/general/chunk aligned/",
-    "7": "/general/tileable/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/version/0,17/",
+    "/version/0,18/",
+    "/version/1,0/",
+    "/power/solar/",
+    "/general/chunk aligned/",
+    "/general/tileable/"
+  ],
   "title": "Chunk Aligned Solar Panels w/ Accumulators",
   "favorites": {
     "RAZ0VmwL5gTnTtJs49yA44NroFG2": true

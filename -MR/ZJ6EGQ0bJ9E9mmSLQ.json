@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1640222382129,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "8 reactor (1120 MW) single-sided-water power plant",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-new.jpeg?alt=media&token=b55e6b3e-414f-4248-8c9b-e0d2dd9d4a8b",
   "favorites": {

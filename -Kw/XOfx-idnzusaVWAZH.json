@@ -16,12 +16,12 @@
     "type": "image/jpeg",
     "width": 1107
   },
-  "tags": {
-    "1": "/version/0,15/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/general/early game/"
+  ],
   "favorites": {
     "enWCaHke5FNS56MIccnBw47htAj1": true
   }

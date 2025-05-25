@@ -15,10 +15,10 @@
   "createdDate": 1606979961295,
   "descriptionMarkdown": "Most compact design without beacons (that I know of)",
   "lastUpdatedDate": 1606979961295,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/version/1,0/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/version/1,0/"
+  ],
   "title": "10x75 Steel Smelting (Full Ore Belt In)",
   "favorites": {
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,

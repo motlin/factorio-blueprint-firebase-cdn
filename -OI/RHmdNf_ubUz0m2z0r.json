@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/uVQubTm",
   "lastUpdatedDate": 1738862822063,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Space Platform Factory",
   "favorites": {
     "Pvfvl23qUId68UEiepqyK8Gl6OD2": true,

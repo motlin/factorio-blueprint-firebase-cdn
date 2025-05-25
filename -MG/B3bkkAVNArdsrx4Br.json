@@ -57,8 +57,8 @@
   },
   "lastUpdatedDate": 1599004114377,
   "numberOfFavorites": 37,
-  "tags": {
-    "0": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/right-hand-drive/"
+  ],
   "title": "City block book"
 }

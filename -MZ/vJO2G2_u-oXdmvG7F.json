@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1649238578363,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "title": "red circuits from raw 20 per second 1200 per minute tileable",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

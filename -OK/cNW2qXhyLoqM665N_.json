@@ -26,10 +26,10 @@
   "imageUrl": "https://imgur.com/TArT5EX",
   "lastUpdatedDate": 1741213012404,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/mods/quality/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/mods/quality/",
+    "/mods/vanilla/"
+  ],
   "title": "produce Legendary Quality Modules on Fulgora"
 }

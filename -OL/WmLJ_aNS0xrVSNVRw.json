@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/iUQ7m9h",
   "lastUpdatedDate": 1742177889559,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/power/steam/",
-    "2": "/production/belts/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/power/steam/",
+    "/production/belts/"
+  ],
   "title": "Tutorial map 5 northern steel outpost"
 }

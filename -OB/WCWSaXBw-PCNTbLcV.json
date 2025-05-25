@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/TeTehAa",
   "lastUpdatedDate": 1731433596996,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Black Science Potion"
 }

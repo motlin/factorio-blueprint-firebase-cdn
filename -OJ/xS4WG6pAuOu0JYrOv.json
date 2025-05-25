@@ -22,13 +22,13 @@
   "imageUrl": "https://imgur.com/0SgsPDx",
   "lastUpdatedDate": 1740492790535,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/",
-    "2": "/planets/aquilo/",
-    "3": "/planets/fulgora/",
-    "4": "/planets/vulcanus/",
-    "5": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/",
+    "/planets/aquilo/",
+    "/planets/fulgora/",
+    "/planets/vulcanus/",
+    "/planets/space-platform/"
+  ],
   "title": "Titan Platform"
 }

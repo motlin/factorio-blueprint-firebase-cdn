@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1668363503907,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/guns and ammo/",
-    "1": "/production/research (labs)/",
-    "2": "/power/solar/",
-    "3": "/belt/transport belt (yellow)/",
-    "4": "/belt/fast transport belt (red)/"
-  },
+  "tags": [
+    "/production/guns and ammo/",
+    "/production/research (labs)/",
+    "/power/solar/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/"
+  ],
   "title": "adandobed rail base repaired"
 }

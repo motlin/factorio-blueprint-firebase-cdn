@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/version/1,0/"
+  ],
   "favorites": {
     "Jo2ixi1dHTaK2Kod9Kos3inH7qg2": true,
     "OLhPSHKpf1ZTFd0tm0UUJaAoz0p2": true,

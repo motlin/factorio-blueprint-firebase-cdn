@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1681835467192,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/version/1,1/"
+  ],
   "title": "Mini City Block with Tiles, Ground and Walls for Space Exploration",
   "favorites": {
     "gsMmfj0jQ5cYuH9Lk03BbOwPS8f1": true,

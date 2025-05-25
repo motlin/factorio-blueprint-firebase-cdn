@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1701799597925,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/power/solar/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/power/solar/"
+  ],
   "title": "4 way intersection with Power "
 }

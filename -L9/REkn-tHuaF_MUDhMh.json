@@ -9,10 +9,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/clk.png?alt=media&token=ca53a96c-2cfb-4889-a9d9-1a662cddd2a5",
   "lastUpdatedDate": 1524930498133,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
   "title": "5bit locking logic",
   "author": {
     "userId": "ry84NxyhMnSv5qAzGG5SHdztmmu1"

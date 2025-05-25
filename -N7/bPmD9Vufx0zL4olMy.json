@@ -17,10 +17,10 @@
   "numberOfFavorites": 5,
   "title": "4 Tile 32x32 Roundabout all chain",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4%20Tile%2032x32%20Roundabout%20all%20chain.png?alt=media&token=7bd56705-f137-4882-bcda-f45193750539",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/roundabout/"
+  ],
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
     "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true,

@@ -47,10 +47,10 @@
   "imageUrl": "https://imgur.com/H7fTbAb",
   "lastUpdatedDate": 1740349008868,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/2,0/"
+  ],
   "title": "Vanilla train network (Like LTN)"
 }

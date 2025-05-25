@@ -31,9 +31,9 @@
   "imageUrl": "https://imgur.com/Ees0UoH",
   "lastUpdatedDate": 1732389458747,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba Main Bus (90spm, mall, rockets and turrets)"
 }

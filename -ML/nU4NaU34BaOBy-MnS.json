@@ -14,12 +14,12 @@
   "createdDate": 1605034071754,
   "lastUpdatedDate": 1605119304108,
   "numberOfFavorites": 1,
-  "tags": {
-    "3": "/mods/vanilla/",
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/general/early game/",
-    "2": "/production/belts/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/belt/fast transport belt (red)/",
+    "/general/early game/",
+    "/production/belts/"
+  ],
   "title": "Mod. Red Belts. Early game.",
   "favorites": {
     "ZMdfu0tv4lMABeYHKvZVcNqlOqV2": true

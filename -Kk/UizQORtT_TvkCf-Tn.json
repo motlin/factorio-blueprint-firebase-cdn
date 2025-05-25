@@ -6,11 +6,11 @@
   "createdDate": 1495181031240,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202017-05-19%2000.33.40.png?alt=media&token=3673cbb6-507d-4070-93ff-0bbbeceb152b",
   "lastUpdatedDate": 1499428812836,
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "4 red belts from 1 train wagon ",
   "author": {
     "userId": "Van39hhfMBewyp3OnNyYmLCzKGx2"

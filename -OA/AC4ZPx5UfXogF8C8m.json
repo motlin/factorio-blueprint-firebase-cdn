@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/K8aHu08",
   "lastUpdatedDate": 1729986058737,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Mini Cargo Ship",
   "favorites": {
     "KasMNhihZOQ9qUQzgsCpdqWJjZO2": true,

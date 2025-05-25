@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1669127813182,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/late game (megabase)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Electronic circuits (Megabase)",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,

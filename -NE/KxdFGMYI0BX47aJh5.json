@@ -15,18 +15,18 @@
   },
   "lastUpdatedDate": 1694733079787,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/train/crossing/",
-    "5": "/train/stacker/",
-    "6": "/train/right-hand-drive/",
-    "7": "/version/1,1/",
-    "8": "/general/mid game/",
-    "9": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/train/crossing/",
+    "/train/stacker/",
+    "/train/right-hand-drive/",
+    "/version/1,1/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "rails with solar panels",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,

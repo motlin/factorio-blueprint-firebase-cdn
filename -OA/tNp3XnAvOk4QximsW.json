@@ -18,9 +18,9 @@
   "imageUrl": "https://imgur.com/JPZmkh6",
   "lastUpdatedDate": 1730760888687,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "\"starter\" base"
 }

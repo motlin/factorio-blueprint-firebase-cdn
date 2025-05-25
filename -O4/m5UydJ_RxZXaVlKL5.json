@@ -21,9 +21,9 @@
   "imageUrl": "https://imgur.com/rYClx6U",
   "lastUpdatedDate": 1726430605169,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/general/compact/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/general/compact/",
+    "/power/steam/"
+  ],
   "title": "Compact 216 MW Power Plant with Brownout resistance"
 }

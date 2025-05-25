@@ -12,10 +12,10 @@
   "descriptionMarkdown": "A (tilealbe) defence wall with an independently powered (and isolated) radar in the centre.",
   "fileName": "Turret Creep Mk1.png",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Turret Creep",
   "author": {
     "userId": "YYKfFeMBCAeKcZhFL4L65sw0NMz2"

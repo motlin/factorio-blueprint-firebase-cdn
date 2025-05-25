@@ -13,12 +13,12 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/0.15%20science%20setup%20(All%206%20types%2C%201%20pack%20per%20second).png?alt=media&token=907adaad-2a55-498e-b80f-e5b4fbe688a5",
   "lastUpdatedDate": 1496154191687,
-  "tags": {
-    "1": "/production/belt based/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "H3QlaVpvadfVuTpGGxs7016oR2K3"
   },

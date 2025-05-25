@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/MXJFFoQ",
   "lastUpdatedDate": 1728574109070,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar Butterfly",
   "favorites": {
     "uOEF5x5w93QXuuBfP6rdpiJA8QH3": true,

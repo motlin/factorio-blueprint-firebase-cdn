@@ -16,10 +16,10 @@
   },
   "lastUpdatedDate": 1735416004336,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/art/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/art/"
+  ],
   "title": "Mario solar"
 }

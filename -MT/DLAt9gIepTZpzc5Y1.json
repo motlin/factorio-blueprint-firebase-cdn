@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1641991946063,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "Train Bypass [3x lanes]",
   "favorites": {
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true

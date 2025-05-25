@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1555368232324,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Quar's Oil Processing for 0.17",
   "author": {
     "userId": "Dpao822gmUMHlnAiFtlAA14dovo1"

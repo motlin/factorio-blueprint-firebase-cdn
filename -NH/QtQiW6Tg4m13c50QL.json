@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1669062833442,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/circuit/counter/",
+    "/mods/other/"
+  ],
   "title": "Equipment Gantry with Circuits",
   "favorites": {
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,

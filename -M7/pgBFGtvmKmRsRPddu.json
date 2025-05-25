@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1590038677022,
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/production/rocket parts/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/production/rocket parts/"
+  ],
   "title": "Grid Base Main"
 }

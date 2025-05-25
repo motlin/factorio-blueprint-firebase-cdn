@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/l9hWBYe",
   "lastUpdatedDate": 1718463877440,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Generalized Furnace (stackable)"
 }

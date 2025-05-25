@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1601103921747,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/roundabout/",
-    "2": "/train/junction/",
-    "3": "/train/track/"
-  },
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/roundabout/",
+    "/train/junction/",
+    "/train/track/"
+  ],
   "title": "VersaRail Exoplanet Infrastructure Development Kit"
 }

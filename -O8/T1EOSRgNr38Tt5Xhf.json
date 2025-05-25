@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/6Ol5Huz",
   "lastUpdatedDate": 1728154498780,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/train/junction/"
+  ],
   "title": "2x2 train roundabout",
   "favorites": {
     "AKNwbJ3HXvh9HRvyl41FhgCseJ43": true,

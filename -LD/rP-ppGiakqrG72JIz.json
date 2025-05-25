@@ -3,11 +3,11 @@
   "fileName": "Snímek obrazovky 2018-05-31 v 20.17.57.png",
   "lastUpdatedDate": 1527790737342,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/production/processing unit (blue)/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/processing unit (blue)/",
+    "/version/0,16/"
+  ],
   "title": "Processing Unit",
   "author": {
     "userId": "rWtZ68LK06bpZNL0kBOgb7rYbbr1"

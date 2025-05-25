@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1671885832942,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/production/smelting/"
+  ],
   "title": "Basic early smelting",
   "favorites": {
     "HcmnzDPiZzdMROMiKwkPpvHblCZ2": true

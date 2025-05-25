@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1652485337157,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,15/"
+  ],
   "title": "Nuke 28 reactors 4gwz",
   "favorites": {
     "lMPRklTqYjWsHuLAiXuT390ESuP2": true

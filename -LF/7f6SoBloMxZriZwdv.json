@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "XoCxLqSLEkOOcsnzT6izq3XWptr2": true,

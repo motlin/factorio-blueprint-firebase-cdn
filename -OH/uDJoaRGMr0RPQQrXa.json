@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/NDKNwSG",
   "lastUpdatedDate": 1738292336212,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/production/other/",
-    "3": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/production/other/",
+    "/production/science/"
+  ],
   "title": "Biter Egg Any Size Request Launcher",
   "favorites": {
     "slx0CpAwbjfHdUlrRi9d9u1QHEs1": true,

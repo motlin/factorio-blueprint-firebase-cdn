@@ -26,9 +26,9 @@
   },
   "lastUpdatedDate": 1592326766897,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/junction/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/junction/"
+  ],
   "title": "Shaderon's Railways MK1 v1.0"
 }

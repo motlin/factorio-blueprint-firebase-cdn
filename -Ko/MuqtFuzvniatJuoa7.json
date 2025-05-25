@@ -738,12 +738,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/TileableMK2.PNG?alt=media&token=6aa3d2a8-18a6-46ec-aa32-ed15c59474e6",
   "lastUpdatedDate": 1500634374567,
   "numberOfFavorites": 1015,
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/production/batteries/",
-    "4": "/version/0,15/",
-    "0": "/production/oil processing/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/batteries/",
+    "/version/0,15/",
+    "/production/oil processing/",
+    "/general/tileable/"
+  ],
   "title": "Advanced Oil Processing Allrounder Mk2"
 }

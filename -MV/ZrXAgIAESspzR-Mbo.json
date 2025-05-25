@@ -30,8 +30,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/municni-tovarna-new.png?alt=media&token=c3f67e7b-cf37-4e0a-9108-e36e21200dc1",
   "lastUpdatedDate": 1626049731849,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/guns and ammo/"
-  },
+  "tags": [
+    "/production/guns and ammo/"
+  ],
   "title": "Artillery ammo factory"
 }

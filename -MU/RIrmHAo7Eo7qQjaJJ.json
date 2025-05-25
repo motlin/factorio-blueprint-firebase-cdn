@@ -2,11 +2,11 @@
   "createdDate": 1614308933054,
   "fileName": "25kplastic.png",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "nYTigzLf2ac9FF5Ny2fIHGnVMj12": true,
     "7fSyJDSKXwY1InNj78jgw4QnzLv1": true,

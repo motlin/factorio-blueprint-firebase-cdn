@@ -19,14 +19,14 @@
     "width": 614
   },
   "lastUpdatedDate": 1529852002277,
-  "tags": {
-    "2": "/mods/bobs/",
-    "3": "/mods/angels/",
-    "4": "/belt/transport belt (yellow)/",
-    "5": "/general/early game/",
-    "6": "/general/compact/",
-    "0": "/mods/factorissimo/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/belt/transport belt (yellow)/",
+    "/general/early game/",
+    "/general/compact/",
+    "/mods/factorissimo/",
+    "/version/0,16/"
+  ],
   "title": "Early Basic Bobs Greenhouse + Factorissimo Mk1 Fit"
 }

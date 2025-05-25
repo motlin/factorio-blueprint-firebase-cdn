@@ -18,10 +18,10 @@
   "imageUrl": "https://imgur.com/tFKHxDV",
   "lastUpdatedDate": 1740416985040,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/mods/quality/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/mods/quality/",
+    "/production/science/"
+  ],
   "title": "The Effervescent V2"
 }

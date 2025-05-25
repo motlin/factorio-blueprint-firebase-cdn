@@ -13,10 +13,10 @@
   "descriptionMarkdown": "36x36 tile solar array segments with accumulators and some empty space making the numbers 0-9 and letters A-Z, plus a few symbols.",
   "fileName": "Screenshot 2018-04-09 22.06.27.png",
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "Van39hhfMBewyp3OnNyYmLCzKGx2"
   },

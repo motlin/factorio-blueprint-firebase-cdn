@@ -17,8 +17,8 @@
   "imageUrl": "https://imgur.com/bAyUbuo",
   "lastUpdatedDate": 1738199397544,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/art/"
-  },
+  "tags": [
+    "/general/art/"
+  ],
   "title": "X-wing Island"
 }

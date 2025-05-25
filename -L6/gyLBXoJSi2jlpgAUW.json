@@ -16,9 +16,9 @@
   "authorId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2",
   "descriptionMarkdown": "Creates two blue belts of iron using 80 mining tools/min.\n\nInput mining tools from the top, and export iron from the bottom.\n\nPros\n<br>\nCompact\n<br>\nMakes lots of iron\n<br>\nBalanced outputs\n<br>\nPerfect ratios\n<br>\nCan be very easily configured to copper (just change the recipes, the ratios don't change)\n<br>\n<br>\nCons\n<br>\nDoesn't generate iron from thin air\n<br>\nUses a lot of power (27 MW)\n<br>\nNo modules or beacons",
   "fileName": "blymin.PNG",
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/smelting/",
-    "2": "/general/compact/"
-  }
+  "tags": [
+    "/mods/other/",
+    "/production/smelting/",
+    "/general/compact/"
+  ]
 }

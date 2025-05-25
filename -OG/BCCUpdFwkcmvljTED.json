@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/F0x9CrL",
   "lastUpdatedDate": 1736826223709,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/mods/other/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/mods/other/",
+    "/mods/space-age/"
+  ],
   "title": "1.8 GW Fusion Power",
   "favorites": {
     "azO5DaWM69TiXpBjdk4TpVf8NsJ3": true,

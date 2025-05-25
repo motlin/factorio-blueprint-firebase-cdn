@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/O9dSveL",
   "lastUpdatedDate": 1742211094808,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Small ship",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

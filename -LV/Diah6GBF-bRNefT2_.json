@@ -17,9 +17,9 @@
   "fileName": "Blueprint (9).png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Blueprint%20(9).png?alt=media&token=2ad0e8c4-1f5f-4ac6-84e2-1e69e4e4cfec",
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/electronic circuit (green)/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/"
+  ],
   "favorites": {
     "045KdRXaUxRheTe5vlrxfvnZlC22": true,
     "jtSu6Om1Q3O6AAZyQYAmb4uQpyk2": true

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/SfDxiqa",
   "lastUpdatedDate": 1734419427958,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/planets/space-platform/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Cargo Pod Stack Requester",
   "favorites": {
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,

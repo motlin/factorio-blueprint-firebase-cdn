@@ -7,11 +7,11 @@
     "width": 666,
     "height": 672
   },
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "Ojh0Lmt8dPMoyeQpyF1qE5VblFI3"
   },

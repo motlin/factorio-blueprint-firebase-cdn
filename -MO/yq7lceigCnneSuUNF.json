@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1637436919100,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Refinaria de petróleo avançado",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true

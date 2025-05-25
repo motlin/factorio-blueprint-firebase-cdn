@@ -42,12 +42,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mallllll.png?alt=media&token=397f4339-6c70-4afa-b26f-3bb0a7c59582",
   "lastUpdatedDate": 1540468060404,
   "numberOfFavorites": 48,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/version/0,16/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/production/logistic (bot) based/",
+    "/version/0,16/"
+  ],
   "title": "UA Compact Mall v0.7"
 }

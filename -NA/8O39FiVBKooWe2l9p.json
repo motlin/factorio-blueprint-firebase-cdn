@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1690227197066,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/general/tileable/",
+    "/mods/vanilla/"
+  ],
   "title": "Tileable Kovarex Enrichment Process"
 }

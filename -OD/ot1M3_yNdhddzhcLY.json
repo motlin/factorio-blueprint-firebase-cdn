@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/n560nRP",
   "lastUpdatedDate": 1734100409821,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Engine speed control / Управление скоростью двигателя",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

@@ -10,11 +10,11 @@
   "fileName": "w00w07lq1kl21.png",
   "lastUpdatedDate": 1552339108901,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,17/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/production/science/"
+  ],
   "title": "Exclamation Mark",
   "author": {
     "userId": "ybE1UTPTgTOfcq6k5L9c6JXPCJN2"

@@ -16,11 +16,11 @@
   "authorId": "nKvHiMVdw2fXqYHUjcW2FEVufp72",
   "createdDate": 1552933050231,
   "descriptionMarkdown": "Train road, junction and stations.",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/version/0,17/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/version/0,17/",
+    "/train/right-hand-drive/"
+  ],
   "favorites": {
     "ZYy9Z0bqRTek5QV2hES3pd6KFDU2": true,
     "xCBpZdXAdZgfy555ezZv4gDjGy53": true,

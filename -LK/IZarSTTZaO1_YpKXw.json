@@ -353,11 +353,11 @@
   },
   "lastUpdatedDate": 1553939897576,
   "numberOfFavorites": 391,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/production/mall (make everything)/",
-    "2": "/general/compact/",
-    "3": "/version/0,16/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/production/mall (make everything)/",
+    "/general/compact/",
+    "/version/0,16/"
+  ],
   "title": "Starter Base in a Box"
 }

@@ -22,10 +22,10 @@
   "fileName": "20180914120316_1.jpg",
   "lastUpdatedDate": 1537291544322,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/"
-  }
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ]
 }

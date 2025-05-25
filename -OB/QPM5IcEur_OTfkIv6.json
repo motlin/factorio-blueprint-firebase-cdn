@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/b6ISeqG",
   "lastUpdatedDate": 1731331715537,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/production/mall (make everything)/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Parameterized Logistic Malls with Quality",
   "favorites": {
     "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,

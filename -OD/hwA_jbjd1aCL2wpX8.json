@@ -13,18 +13,18 @@
   "imageUrl": "https://imgur.com/mxLXW6j",
   "lastUpdatedDate": 1733796868467,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/mid game/",
-    "1": "/mods/vanilla/",
-    "2": "/mods/space-age/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/fulgora/",
-    "5": "/planets/aquilo/",
-    "6": "/planets/vulcanus/",
-    "7": "/planets/space-platform/",
-    "8": "/planets/gleba/",
-    "9": "/version/2,0/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/mods/vanilla/",
+    "/mods/space-age/",
+    "/planets/nauvis/",
+    "/planets/fulgora/",
+    "/planets/aquilo/",
+    "/planets/vulcanus/",
+    "/planets/space-platform/",
+    "/planets/gleba/",
+    "/version/2,0/"
+  ],
   "title": "Cargo Landing Pad Requester v.1",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

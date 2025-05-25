@@ -14,12 +14,12 @@
   },
   "lastUpdatedDate": 1601661387582,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/version/1,0/"
+  ],
   "title": "Endgame Plastics (45/s) - Beacons",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

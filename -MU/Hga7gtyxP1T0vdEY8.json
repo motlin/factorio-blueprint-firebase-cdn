@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/smelting/"
+  ],
   "favorites": {
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true
   },

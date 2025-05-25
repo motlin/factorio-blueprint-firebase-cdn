@@ -3,12 +3,12 @@
   "createdDate": 1574247465331,
   "descriptionMarkdown": "Beaconised for Steel Smelting like Version002",
   "fileName": "2019-11-20 11_56_42-Factorio Blueprint Editor.jpg",
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/late game (megabase)/",
-    "3": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/late game (megabase)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "lastUpdatedDate": 1574247465331,
   "numberOfFavorites": 4,
   "favorites": {

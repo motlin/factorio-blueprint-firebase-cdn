@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/coal liquification/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/coal liquification/"
+  ],
   "title": "coal and iron ore to sulfuric acid",
   "favorites": {
     "1YrUvw2bLBQIFrkAe3UIxPqnHLl1": true

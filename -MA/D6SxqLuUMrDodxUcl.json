@@ -23,12 +23,12 @@
   },
   "lastUpdatedDate": 1592687150730,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/general/mid game/",
-    "3": "/general/compact/",
-    "4": "/version/0,18/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/compact/",
+    "/version/0,18/"
+  ],
   "title": "Science 32/min (no space) normal 0.18.32-1"
 }

@@ -9,11 +9,11 @@
     "width": 1732
   },
   "lastUpdatedDate": 1560827344012,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/mall (make everything)/",
+    "/mods/other/"
+  ],
   "title": "Stacking Beltboxes module for Fully Modular Mall",
   "author": {
     "userId": "kBdRe4NhePMkiJ7ePeWHZkJfAwB3"

@@ -12,9 +12,9 @@
     "width": 634
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/"
-  },
+  "tags": [
+    "/power/solar/"
+  ],
   "title": "12 Meg Solar Stepping Stone",
   "favorites": {
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true

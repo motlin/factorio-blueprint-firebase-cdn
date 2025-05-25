@@ -58,10 +58,10 @@
   },
   "lastUpdatedDate": 1550502596776,
   "numberOfFavorites": 42,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Intelligent Mall V2"
 }

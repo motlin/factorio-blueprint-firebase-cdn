@@ -14,11 +14,11 @@
   "lastUpdatedDate": 1724134119512,
   "numberOfFavorites": 2,
   "title": "Kovarex Enrichment",
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/circuit/counter/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/circuit/counter/",
+    "/version/1,1/"
+  ],
   "favorites": {
     "DDATVObozBOtqtSn2YDdDJPDogJ2": true,
     "fzMWjlMXQ5gUUhEaz3NzlUE6IZl2": true

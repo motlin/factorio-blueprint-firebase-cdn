@@ -21,8 +21,8 @@
   },
   "lastUpdatedDate": 1555573511910,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/ltn/"
-  },
+  "tags": [
+    "/mods/ltn/"
+  ],
   "title": "Ore splitter to LTN"
 }

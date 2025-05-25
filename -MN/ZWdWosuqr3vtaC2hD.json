@@ -601,15 +601,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factori.png?alt=media&token=6133e318-7be6-49c7-a2dc-1f4ac0ee7ccf",
   "lastUpdatedDate": 1747933028368,
   "numberOfFavorites": 386,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/power/nuclear/",
-    "2": "/production/research (labs)/",
-    "3": "/production/rocket parts/",
-    "4": "/general/late game (megabase)/",
-    "5": "/general/mid game/",
-    "6": "/mods/other/",
-    "7": "/version/2,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/power/nuclear/",
+    "/production/research (labs)/",
+    "/production/rocket parts/",
+    "/general/late game (megabase)/",
+    "/general/mid game/",
+    "/mods/other/",
+    "/version/2,0/"
+  ],
   "title": "Self-Building Mega-Factory "
 }

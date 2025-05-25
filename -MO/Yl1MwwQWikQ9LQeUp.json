@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1638020717650,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/production/other/",
-    "2": "/version/1,0/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/production/other/",
+    "/version/1,0/",
+    "/general/mid game/"
+  ],
   "title": "Oil refinery [repeatable]",
   "favorites": {
     "AZuW8eycEnSFG58dG6SiNWUwQ6D3": true,

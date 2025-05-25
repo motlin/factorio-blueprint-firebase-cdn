@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/y0pZxzw",
   "lastUpdatedDate": 1729995143433,
   "numberOfFavorites": 214,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/2,0/"
+  ],
   "title": "The AutoMall - Factorio 2.0",
   "favorites": {
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,

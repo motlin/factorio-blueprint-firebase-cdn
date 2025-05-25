@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1708462377526,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/1,1/"
+  ],
   "title": "Nano Constructors & Nano Termites fabric",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_OdCugsHeTI.png?alt=media&token=252e18de-2e03-4d97-8ed9-a86094a8829e",
   "favorites": {

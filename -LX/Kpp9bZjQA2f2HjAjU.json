@@ -137,11 +137,11 @@
   },
   "lastUpdatedDate": 1572168217608,
   "numberOfFavorites": 130,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/unloading station/",
-    "2": "/version/0,16/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/unloading station/",
+    "/version/0,16/",
+    "/version/0,17/"
+  ],
   "title": "4 Way Fast UNLOAD Station v02 (with controlled-circuit to send train to lower resource station)"
 }

@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1652929355937,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/",
-    "5": "/production/science/",
-    "6": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/general/compact/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/",
+    "/general/late game (megabase)/"
+  ],
   "title": "1k SPM green science",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blueprint%20(3).png?alt=media&token=06250f69-0737-49eb-af4c-df04432f0094",
   "favorites": {

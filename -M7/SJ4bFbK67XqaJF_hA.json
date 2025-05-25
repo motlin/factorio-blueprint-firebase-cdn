@@ -21,9 +21,9 @@
     "id": "r1jX8f9"
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/power/nuclear/",
-    "2": "/mods/bobs/",
-    "0": "/version/0,18/"
-  }
+  "tags": [
+    "/power/nuclear/",
+    "/mods/bobs/",
+    "/version/0,18/"
+  ]
 }

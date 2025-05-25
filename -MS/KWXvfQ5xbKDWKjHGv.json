@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1656669573334,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/right-hand-drive/",
-    "2": "/train/junction/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/right-hand-drive/",
+    "/train/junction/"
+  ],
   "title": "City blocks 100x100 V3"
 }

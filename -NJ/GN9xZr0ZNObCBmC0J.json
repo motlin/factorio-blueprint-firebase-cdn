@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1671033827225,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/aai/"
+  ],
   "title": "Logistics Network Train System"
 }

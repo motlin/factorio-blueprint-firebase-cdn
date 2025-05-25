@@ -18,9 +18,9 @@
   "createdDate": 1537889333011,
   "descriptionMarkdown": "33/s enough to make 2 red belts of circuit 2 constantly",
   "lastUpdatedDate": 1537976411130,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "py mods diodes "
 }

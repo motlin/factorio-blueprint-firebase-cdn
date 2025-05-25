@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/LDeh37B",
   "lastUpdatedDate": 1743282959307,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/circuit/indicator/"
+  ],
   "title": "Signal Displayer "
 }

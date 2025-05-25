@@ -8,9 +8,9 @@
     "type": "image/png",
     "width": 674
   },
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Macroservice 2/3 (Wascocio)",
   "author": {
     "userId": "H6ecVh7OJuPLz6Ts0I3GwJk2N5L2"

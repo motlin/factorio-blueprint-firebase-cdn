@@ -45,11 +45,11 @@
   },
   "lastUpdatedDate": 1573898066741,
   "numberOfFavorites": 26,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Furnace set-ups - Bazinga Blueprint"
 }

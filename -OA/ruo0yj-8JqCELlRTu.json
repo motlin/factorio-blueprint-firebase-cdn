@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/kM2TJDC",
   "lastUpdatedDate": 1730736242854,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "All The Concrete.",
   "favorites": {
     "RsgUSGm7O8fnMtchMQtTAkwAnUQ2": true,

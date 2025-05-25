@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "1.2 GW Power station",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/power/steam/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/power/steam/"
+  ],
   "author": {
     "userId": "hq4wHBlzo1WX0mJZZBv0wOlwkVX2"
   },

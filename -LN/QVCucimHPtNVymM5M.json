@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1538059722743,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/production/mall (make everything)/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/mall (make everything)/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "full mall blue belt"
 }

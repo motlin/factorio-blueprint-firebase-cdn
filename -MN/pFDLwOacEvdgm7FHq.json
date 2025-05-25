@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1636202243690,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Weapon science production",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,

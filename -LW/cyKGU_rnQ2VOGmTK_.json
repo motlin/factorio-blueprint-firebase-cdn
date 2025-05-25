@@ -1,9 +1,9 @@
 {
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "6G0XWbwkI2cGSBOZQqaVoF8Akfo1": true,
     "bMdIb7T9nkh25QBffr6H8BlQrIG2": true

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1631742960232,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/left-hand-drive/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/left-hand-drive/",
+    "/mods/vanilla/"
+  ],
   "title": "2 lane, left hand drive, chunk sized, snap to grid rail book",
   "favorites": {
     "UMErRJOjy4eJ8FXdTp5rCncFrLQ2": true

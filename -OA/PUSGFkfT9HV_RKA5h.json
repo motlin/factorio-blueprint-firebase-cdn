@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/eX2Ylah",
   "lastUpdatedDate": 1730356188677,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Heating Tower Power Plant",
   "favorites": {
     "63cO4TAoi9RsNcKaWUj6ljPbfQ93": true,

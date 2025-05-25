@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/9tMSQWp",
   "lastUpdatedDate": 1731716757705,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/version/0,15/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/version/0,15/",
+    "/general/beaconized/"
+  ],
   "title": "40 Biolabs setup",
   "favorites": {
     "TWOm1ShS8WSm7S4XOUOQhdAhGiM2": true,

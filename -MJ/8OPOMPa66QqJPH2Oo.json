@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/belt/balancer/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/belt/balancer/"
+  ],
   "title": "Science Lab Setup",
   "author": {
     "userId": "pP3p8sMzfoSxh5LJgqBiAFqJ4SE3"

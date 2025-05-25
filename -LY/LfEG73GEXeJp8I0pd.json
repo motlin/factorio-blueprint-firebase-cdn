@@ -22,8 +22,8 @@
   "authorId": "wiqA8EIIG5e1IxZ7g43spJ3OfLg2",
   "createdDate": 1578780915316,
   "lastUpdatedDate": 1578780915316,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/version/0,17/"
-  }
+  "tags": [
+    "/production/oil processing/",
+    "/version/0,17/"
+  ]
 }

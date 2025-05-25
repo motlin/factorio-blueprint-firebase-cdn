@@ -27,12 +27,12 @@
   },
   "lastUpdatedDate": 1613472253411,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/train/junction/",
-    "2": "/train/roundabout/",
-    "3": "/mods/other/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Blocks 012: Electronic Circuits"
 }

@@ -2,12 +2,12 @@
   "createdDate": 1603833932418,
   "fileName": "Red Green.png",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "Early Red - Green Science",
   "favorites": {
     "TN6ewrEhqUbGr70NzE4KpYoIzjB2": true,

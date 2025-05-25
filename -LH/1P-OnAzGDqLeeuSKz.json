@@ -2,11 +2,11 @@
   "title": "27x9 Compact and tileable smelting array",
   "descriptionMarkdown": "The screenshot shows the core blueprint, but the string itself contains the tileable ore/coal loading configuration. The setup itself is pretty expensive, however the red splitters and underground belts are not required (they only make the loading setup more compact).\n\nOriginal post and more discussion is here: https://www.reddit.com/r/factorio/comments/8jqo90/is_this_a_good_early_smelter_array/",
   "fileName": "ssa.png",
-  "tags": {
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "createdDate": 1560187242233,
   "image": {
     "height": 548,

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/JGVGKy3",
   "lastUpdatedDate": 1745583987721,
   "numberOfFavorites": 98,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/mods/quality/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/mods/quality/",
+    "/general/compact/"
+  ],
   "title": "Quality Grinder Parametrized",
   "favorites": {
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,

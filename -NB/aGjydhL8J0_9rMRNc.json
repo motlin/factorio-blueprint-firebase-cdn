@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1691785560258,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Atomic bomb 0.9/minute",
   "favorites": {
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true

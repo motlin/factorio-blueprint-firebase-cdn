@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Hfn1uGy",
   "lastUpdatedDate": 1735293881679,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/planets/aquilo/",
-    "1": "/general/tileable/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/aquilo/",
+    "/general/tileable/",
+    "/version/2,0/"
+  ],
   "title": "Tileable quantum processors",
   "favorites": {
     "VifiQQlz1jUvzgQwRb7HbeojfQ92": true,

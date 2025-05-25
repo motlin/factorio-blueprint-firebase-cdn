@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/JvDqcBf",
   "lastUpdatedDate": 1731468186566,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "Carbon for vulcanis",
   "favorites": {
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,

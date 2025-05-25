@@ -16,11 +16,11 @@
     "width": 1920
   },
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/version/0,16/",
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "mfUaOi3cQ7gRPUL5raCfdewGzMe2": true
   }

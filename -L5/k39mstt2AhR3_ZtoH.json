@@ -15,11 +15,11 @@
     "id": "GCVkigC",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/mods/factorissimo/",
-    "1": "/production/smelting/",
-    "2": "/general/mid game/"
-  },
+  "tags": [
+    "/mods/factorissimo/",
+    "/production/smelting/",
+    "/general/mid game/"
+  ],
   "title": "Mk1 Mid-Game Furnace",
   "favorites": {
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true

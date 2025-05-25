@@ -21,8 +21,8 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Power%20Plant.jpg?alt=media&token=314b8a5d-17fc-4c42-99f8-87fc258a9416",
   "lastUpdatedDate": 1594574974413,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/"
-  },
+  "tags": [
+    "/power/nuclear/"
+  ],
   "title": "Pipeless nuclear power"
 }

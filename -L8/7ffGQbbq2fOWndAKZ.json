@@ -4,12 +4,12 @@
   "fileName": "snipaste20180321_212028.png",
   "title": "Two track intersection",
   "numberOfFavorites": 11,
-  "tags": {
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "0": "/train/junction/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/train/junction/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "JQ4wEmh69wUwpn5bjQfrvv2R3K92"
   },

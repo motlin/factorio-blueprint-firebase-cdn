@@ -74,13 +74,13 @@
   "imageUrl": "https://imgur.com/UqCXgqH",
   "lastUpdatedDate": 1733985775089,
   "numberOfFavorites": 21,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/fulgora/",
-    "3": "/circuit/counter/",
-    "4": "/circuit/indicator/",
-    "5": "/belt/balancer/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/fulgora/",
+    "/circuit/counter/",
+    "/circuit/indicator/",
+    "/belt/balancer/"
+  ],
   "title": "4 Belt Recycling Station (Quality+Dashboard)"
 }

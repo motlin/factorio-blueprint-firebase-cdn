@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1622680226415,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/circuit/indicator/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/circuit/indicator/",
+    "/mods/vanilla/"
+  ],
   "title": "Multiplex SR latch",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

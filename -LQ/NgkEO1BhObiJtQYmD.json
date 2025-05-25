@@ -13,11 +13,11 @@
     "width": 149
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/belt/fast transport belt (red)/",
-    "2": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/"
+  ],
   "favorites": {
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true,
     "M76bmksp1vVT8lWLyyVOlPT1LKU2": true,

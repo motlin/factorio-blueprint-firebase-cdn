@@ -17,10 +17,10 @@
   "descriptionMarkdown": "Late Game Blank Tech Card Production with Transport Drone connection",
   "lastUpdatedDate": 1591550852905,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/version/0,18/"
+  ],
   "author": {
     "userId": "5qrjkEEArcWk81gQ3X9gZbwZb2j1"
   },

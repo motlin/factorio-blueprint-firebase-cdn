@@ -23,8 +23,8 @@
     "height": 1736
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/version/0,17/",
-    "0": "/production/oil processing/"
-  }
+  "tags": [
+    "/version/0,17/",
+    "/production/oil processing/"
+  ]
 }

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/TXsUu7J",
   "lastUpdatedDate": 1731194181027,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/roundabout/",
-    "1": "/version/2,0/",
-    "2": "/train/crossing/"
-  },
+  "tags": [
+    "/train/roundabout/",
+    "/version/2,0/",
+    "/train/crossing/"
+  ],
   "title": "2.0 Compact 4-lane paperclip roundabout (Legacy rails used)",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

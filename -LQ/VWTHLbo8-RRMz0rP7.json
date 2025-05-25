@@ -2,12 +2,12 @@
   "authorId": "TY2dCLNWnye3C99881s6EqzGU6b2",
   "lastUpdatedDate": 1570356192611,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/production/logistic (bot) based/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/",
-    "0": "/production/belt based/"
-  },
+  "tags": [
+    "/production/logistic (bot) based/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/production/belt based/"
+  ],
   "fileName": "print.png",
   "image": {
     "height": 453,

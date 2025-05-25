@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/lOOp9ty",
   "lastUpdatedDate": 1733834380140,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Space science 100 SPM. Space science pack",
   "favorites": {
     "6kZKM4Kxx6UvPJoSPJFF2qhAL1n2": true,

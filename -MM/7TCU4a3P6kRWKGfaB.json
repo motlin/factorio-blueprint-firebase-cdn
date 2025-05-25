@@ -25,9 +25,9 @@
   },
   "lastUpdatedDate": 1605405948267,
   "numberOfFavorites": 8,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/production/smelting/"
+  ],
   "title": "Heavy Belter Bus Smelter"
 }

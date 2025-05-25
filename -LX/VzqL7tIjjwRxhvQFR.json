@@ -34,11 +34,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Capture%20d%E2%80%99%C3%A9cran%202021-09-08%20233828.png?alt=media&token=3702bc2f-0594-4234-af2c-34036ab7f9d2",
   "lastUpdatedDate": 1631448739657,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/version/1,0/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/general/late game (megabase)/"
+  ],
   "title": "500 SPM factory - 6 sciences"
 }

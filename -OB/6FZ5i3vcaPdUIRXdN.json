@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/AXiaSkX",
   "lastUpdatedDate": 1731831015566,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/vulcanus/",
-    "2": "/version/2,0/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/vulcanus/",
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
   "title": "AutoFoundry",
   "favorites": {
     "dLuaj7RTnnYQwFy2LAYUgoWofbR2": true,

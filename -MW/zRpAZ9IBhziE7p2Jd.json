@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1617050868807,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "title": "12-Beacon Full Blue Belt Ore to Plate Smelter",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Flood's%20Smelting%20Stack%201.0.png?alt=media&token=cd9176c2-8dec-4561-af0c-ceffdf7126e4",
   "favorites": {

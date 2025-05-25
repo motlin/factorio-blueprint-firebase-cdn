@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/l83411P.png",
   "lastUpdatedDate": 1738276913326,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Fusion Plant Regulator",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true

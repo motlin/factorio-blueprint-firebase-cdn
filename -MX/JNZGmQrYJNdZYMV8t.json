@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1617397171461,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/production/science/"
+  ],
   "title": "Blue science 1200  spm",
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true

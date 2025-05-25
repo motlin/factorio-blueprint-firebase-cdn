@@ -130,13 +130,13 @@
   },
   "lastUpdatedDate": 1584571640513,
   "numberOfFavorites": 96,
-  "tags": {
-    "4": "/general/mid game/",
-    "5": "/version/0,18/",
-    "0": "/production/mall (make everything)/",
-    "1": "/general/storage/",
-    "2": "/mods/vanilla/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/mid game/",
+    "/version/0,18/",
+    "/production/mall (make everything)/",
+    "/general/storage/",
+    "/mods/vanilla/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Huge Mall - Builds Everything"
 }

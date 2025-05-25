@@ -16,10 +16,10 @@
   },
   "lastUpdatedDate": 1545576115929,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/bobs/",
-    "2": "/mods/angels/",
-    "3": "/version/0,16/"
-  }
+  "tags": [
+    "/production/science/",
+    "/mods/bobs/",
+    "/mods/angels/",
+    "/version/0,16/"
+  ]
 }

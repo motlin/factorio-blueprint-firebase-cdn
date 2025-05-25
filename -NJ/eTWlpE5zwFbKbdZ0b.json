@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1700445953189,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/1,1/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/1,1/",
+    "/mods/vanilla/"
+  ],
   "title": "2x3 Nuclear (800MW)",
   "favorites": {
     "XBYfT4aHG3SI5BdFwc502l0dRy13": true,

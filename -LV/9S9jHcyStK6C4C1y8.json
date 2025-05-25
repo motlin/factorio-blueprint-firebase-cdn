@@ -7,9 +7,9 @@
     "type": "image/png",
     "width": 313
   },
-  "tags": {
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/version/0,16/"
+  ],
   "favorites": {
     "gUTOVSU8PCZ16v0awlqJTIYIqM12": true
   },

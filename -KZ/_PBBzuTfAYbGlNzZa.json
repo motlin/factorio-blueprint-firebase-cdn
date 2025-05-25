@@ -16,9 +16,9 @@
   "fileName": "20171122212116_1.jpg",
   "authorId": "hlpDLH798ATs4IDUUyZdas9xlF23",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/tileable/"
-  },
+  "tags": [
+    "/general/tileable/"
+  ],
   "favorites": {
     "sc5e8itCDxMsK6qY4AWKzwQrjuT2": true
   }

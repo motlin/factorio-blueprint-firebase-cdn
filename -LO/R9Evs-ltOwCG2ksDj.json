@@ -25,11 +25,11 @@
   "authorId": "B7ydZy2xJxfShcHPMc24WjSOI9g2",
   "descriptionMarkdown": "A city block that you can actually see when zoomed out. Ultracompact lanes and junctions.",
   "lastUpdatedDate": 1541950629976,
-  "tags": {
-    "0": "/train/right-hand-drive/",
-    "1": "/train/junction/",
-    "2": "/version/0,16/",
-    "3": "/general/chunk aligned/",
-    "4": "/mods/other/"
-  }
+  "tags": [
+    "/train/right-hand-drive/",
+    "/train/junction/",
+    "/version/0,16/",
+    "/general/chunk aligned/",
+    "/mods/other/"
+  ]
 }

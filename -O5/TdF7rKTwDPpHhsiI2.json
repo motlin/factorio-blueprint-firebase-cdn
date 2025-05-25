@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/GpVt76d",
   "lastUpdatedDate": 1724943500043,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para fabricação de enxofre (S.E. + Exotics)"
 }

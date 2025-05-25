@@ -30,12 +30,12 @@
   },
   "lastUpdatedDate": 1559482658498,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/warehousing/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/",
-    "4": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/warehousing/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,17/"
+  ],
   "title": "LTN Copper Ore Warehouse 2-4-2 to 1-4-1"
 }

@@ -104,19 +104,19 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/earlyv4.PNG?alt=media&token=1b520d6b-ba4b-47dc-986d-6197f7cc5d9e",
   "lastUpdatedDate": 1640339957207,
   "numberOfFavorites": 80,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/version/1,0/",
-    "2": "/production/science/",
-    "3": "/power/steam/",
-    "4": "/mods/vanilla/",
-    "5": "/production/electronic circuit (green)/",
-    "6": "/production/belt based/",
-    "7": "/production/plastic/",
-    "8": "/production/batteries/",
-    "9": "/production/advanced circuit (red)/",
-    "10": "/production/oil processing/",
-    "11": "/production/smelting/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/version/1,0/",
+    "/production/science/",
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/production/electronic circuit (green)/",
+    "/production/belt based/",
+    "/production/plastic/",
+    "/production/batteries/",
+    "/production/advanced circuit (red)/",
+    "/production/oil processing/",
+    "/production/smelting/"
+  ],
   "title": "Pyro Early v7"
 }

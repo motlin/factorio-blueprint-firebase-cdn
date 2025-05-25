@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/r4suQCR",
   "lastUpdatedDate": 1724979841426,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Generic core fragment processing"
 }

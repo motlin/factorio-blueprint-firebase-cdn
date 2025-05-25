@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/oIYDOfW",
   "lastUpdatedDate": 1735041989973,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta para Estação de descarregamento de Ácido Sulfúrico"
 }

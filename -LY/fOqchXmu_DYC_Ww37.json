@@ -9,13 +9,13 @@
     "id": "0YdIBfq",
     "type": "image/jpeg"
   },
-  "tags": {
-    "3": "/production/research (labs)/",
-    "4": "/version/0,16/",
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/production/modules/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/version/0,16/",
+    "/production/science/",
+    "/general/beaconized/",
+    "/production/modules/"
+  ],
   "author": {
     "userId": "vhyWy4KiZFTfLJVSTISmKzp7Yx43"
   },

@@ -28,9 +28,9 @@
   },
   "lastUpdatedDate": 1575741008858,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/track/",
+    "/train/left-hand-drive/"
+  ],
   "title": "Rails LHD Quad Full Option by SwAkE v1.0"
 }

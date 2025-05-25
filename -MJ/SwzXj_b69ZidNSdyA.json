@@ -12,10 +12,10 @@
   "descriptionMarkdown": "A modification of ElderAxe's Vanilla Robot factory\n\nIt comes with labeled inputs and a seperate blueprint for extension.\n\nI would list the amount it needs per second but they are so small it doesn't really matter. If you add multiple extensions it might get pricy.\n\n",
   "fileName": "Screenshot 2020-10-12 105356.png",
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/krastorio/"
+  ],
   "favorites": {
     "VvZBf38pRHhEIc6buzjNS88fVor1": true,
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,

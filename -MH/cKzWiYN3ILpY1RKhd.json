@@ -23,15 +23,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Icarus%20mit%20Traingrid.png?alt=media&token=b7dd3148-ace9-481a-a33e-79382af9ea52",
   "lastUpdatedDate": 1600688172015,
   "numberOfFavorites": 5,
-  "tags": {
-    "1": "/mods/krastorio/",
-    "2": "/train/junction/",
-    "3": "/train/roundabout/",
-    "4": "/power/nuclear/",
-    "5": "/mods/other/",
-    "6": "/version/0,15/",
-    "7": "/version/1,0/",
-    "0": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/power/nuclear/",
+    "/mods/other/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/general/late game (megabase)/"
+  ],
   "title": "5.6 GW ICARUS Anticrist Module With GigaGrid By Thego90"
 }

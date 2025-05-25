@@ -16,12 +16,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Tram%20Crossing.png?alt=media&token=e6cba5cd-0c6c-4b4d-9736-630268c6e512",
   "lastUpdatedDate": 1504233020113,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/pax/",
-    "2": "/version/0,15/",
-    "3": "/train/left-hand-drive/",
-    "4": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/pax/",
+    "/version/0,15/",
+    "/train/left-hand-drive/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Center Line Tram Station with Integrated Crosswalk V6"
 }

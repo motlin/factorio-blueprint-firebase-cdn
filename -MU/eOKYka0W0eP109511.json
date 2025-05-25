@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1643666842089,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "FIFO Queue",
   "favorites": {
     "emoHeBAnYQcVcY2zlU38xVnS68m2": true

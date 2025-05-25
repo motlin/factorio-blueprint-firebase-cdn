@@ -16,8 +16,8 @@
   "imageUrl": "https://imgur.com/kRua41d",
   "lastUpdatedDate": 1731370232092,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Saturn Six"
 }

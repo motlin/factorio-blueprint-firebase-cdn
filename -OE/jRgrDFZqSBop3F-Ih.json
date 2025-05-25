@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/V79KR9Y",
   "lastUpdatedDate": 1734889099035,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/modules/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/production/modules/",
+    "/general/beaconized/"
+  ],
   "title": "Legendary Speed and Quality Module Creator",
   "favorites": {
     "q0pvCWiULlSEjtUUpNhJnk6pea42": true,

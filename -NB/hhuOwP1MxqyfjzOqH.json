@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1691910383300,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/0,15/",
-    "2": "/train/unloading station/",
-    "3": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/0,15/",
+    "/train/unloading station/",
+    "/train/loading station/"
+  ],
   "title": "LTN Cleanup and Provider station",
   "favorites": {
     "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,

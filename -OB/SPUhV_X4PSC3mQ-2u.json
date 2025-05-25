@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/BC7cNIt",
   "lastUpdatedDate": 1731365305239,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/power/solar/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/power/solar/"
+  ],
   "title": "Kestrel 4 - early space ship",
   "favorites": {
     "MI1J4RVCzzWHKMVCQHNMEI06xBE3": true,

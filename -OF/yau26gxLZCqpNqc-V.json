@@ -80,9 +80,9 @@
   "imageUrl": "https://imgur.com/ayMZJcQ",
   "lastUpdatedDate": 1743851231154,
   "numberOfFavorites": 24,
-  "tags": {
-    "0": "/planets/space-platform/",
-    "1": "/version/2,0/"
-  },
+  "tags": [
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "The Rook: Promethium Platform/Ship (End Game)"
 }

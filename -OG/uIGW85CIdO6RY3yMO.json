@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/yzCw0PS",
   "lastUpdatedDate": 1737218660585,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/accumulator/"
+  ],
   "title": "Power switcher",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,

@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "2 Train - 4 Cargo Wagon Stop - can be expanded as large as you need.  \n\nAllows trains with two different ores, (2 cargo wagons - in each direction) to be unloaded, or the same ore to go 2 different ways.  ",
   "fileName": "20181108180029_1.jpg",
-  "tags": {
-    "0": "/train/unloading station/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/unloading station/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "jfpzH6ARL8dOvtG7vWBkvbYWrqC2"
   },

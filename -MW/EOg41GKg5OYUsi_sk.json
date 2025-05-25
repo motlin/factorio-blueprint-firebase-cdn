@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1616386428475,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/production/research (labs)/",
-    "3": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/production/research (labs)/",
+    "/production/rocket parts/"
+  ],
   "title": "100 SPM Base in a box military fix"
 }

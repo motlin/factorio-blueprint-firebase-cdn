@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/1AQ2Epz",
   "lastUpdatedDate": 1730598968367,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "4 Planets Runner - Low Research quick and 'compact' spaceship",
   "favorites": {
     "xoJ2jDLezVZwdTMf6DVkVaLOOlW2": true,

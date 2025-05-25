@@ -6,11 +6,11 @@
     "type": "image/jpeg"
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/angels/",
-    "2": "/production/mining/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/angels/",
+    "/production/mining/"
+  ],
   "title": "[Clown's processing] Midgame Ores from Water",
   "author": {
     "userId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2"

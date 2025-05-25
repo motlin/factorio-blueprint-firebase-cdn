@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/3xEzaqK",
   "lastUpdatedDate": 1745980485736,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/other/",
-    "2": "/belt/fast transport belt (red)/",
-    "3": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/other/",
+    "/belt/fast transport belt (red)/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "Construction robot Blueprint 27*25",
   "favorites": {
     "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true

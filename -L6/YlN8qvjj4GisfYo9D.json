@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/track/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/track/"
+  ],
   "title": "train counter (v1.2)",
   "author": {
     "userId": "WsBWK3cen8ShwxfNuGkEIiFa0k23"

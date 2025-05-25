@@ -27,11 +27,11 @@
   },
   "lastUpdatedDate": 1664206025081,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/production/belt based/",
-    "3": "/version/0,18/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/version/0,18/"
+  ],
   "title": "Duplicat's Starter Base Pack"
 }

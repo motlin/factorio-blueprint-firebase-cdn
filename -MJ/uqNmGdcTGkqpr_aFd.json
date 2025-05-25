@@ -20,12 +20,12 @@
   },
   "lastUpdatedDate": 1632002348728,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/general/tileable/",
-    "2": "/mods/vanilla/",
-    "3": "/general/mid game/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Smart infinitely tileable nuclear reactor"
 }

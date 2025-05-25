@@ -7,10 +7,10 @@
     "width": 549
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "1": "/general/tileable/",
-    "0": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Tileable Blue Circuits - Bus Green & Red",
   "favorites": {
     "Usv28d3YpMYemN69vWiJOUvI2qg2": true,

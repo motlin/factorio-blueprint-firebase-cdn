@@ -133,12 +133,12 @@
   "imageUrl": "https://imgur.com/jZiSNKH",
   "lastUpdatedDate": 1734447297682,
   "numberOfFavorites": 72,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/fulgora/",
-    "2": "/mods/quality/",
-    "3": "/version/2,0/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/mods/quality/",
+    "/version/2,0/",
+    "/general/tileable/"
+  ],
   "title": "Tileable Quality Scrap Sorter/recycler "
 }

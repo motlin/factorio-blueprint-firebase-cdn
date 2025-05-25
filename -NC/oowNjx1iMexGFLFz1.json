@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1708395627694,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/bobs/"
+  ],
   "title": "LTN Stations Pro 2.0",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ltn_stations_.png?alt=media&token=ba032284-a637-4325-a223-997d8c91ff5d",
   "favorites": {

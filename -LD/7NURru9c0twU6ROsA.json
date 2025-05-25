@@ -19,10 +19,10 @@
   "authorId": "GhQ0teFwKjeKTgm59og7zWdAudt1",
   "descriptionMarkdown": "Smelting 0.17",
   "lastUpdatedDate": 1555993442330,
-  "tags": {
-    "1": "/general/beaconized/",
-    "2": "/version/0,17/",
-    "0": "/production/smelting/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/version/0,17/",
+    "/production/smelting/"
+  ],
   "title": "Smelting 0.17"
 }

@@ -1,10 +1,10 @@
 {
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/robots/",
-    "2": "/general/mid game/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/robots/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Hypers Artillery Defence Square",
   "author": {
     "userId": "ALSl1kuLowTHQLijBH1IbraRRVB3"

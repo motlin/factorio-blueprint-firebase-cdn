@@ -34,14 +34,14 @@
   },
   "lastUpdatedDate": 1584741062740,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/mining/",
-    "3": "/general/late game (megabase)/",
-    "4": "/general/beaconized/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,18/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/mall (make everything)/",
+    "/production/mining/",
+    "/general/late game (megabase)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "title": "MegaBase Blueprints"
 }

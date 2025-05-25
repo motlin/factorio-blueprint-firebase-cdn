@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1642385733304,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Bi-directional Interlocking",
   "favorites": {
     "dKODuSYcovXizxj35jj50cbJWlz2": true,

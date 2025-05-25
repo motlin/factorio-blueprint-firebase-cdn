@@ -31,11 +31,11 @@
   "imageUrl": "https://imgur.com/BdFkxOA",
   "lastUpdatedDate": 1740257925523,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/belt based/",
-    "3": "/mods/quality/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/mall (make everything)/",
+    "/production/belt based/",
+    "/mods/quality/"
+  ],
   "title": "Production mall for all legendary products"
 }

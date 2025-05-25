@@ -55,14 +55,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Bildschirmfoto%202022-05-17%20um%2013.47.25.png?alt=media&token=0e5dc35a-4ec4-4c63-9343-a8675136491f",
   "lastUpdatedDate": 1675331522186,
   "numberOfFavorites": 22,
-  "tags": {
-    "0": "/train/track/",
-    "1": "/version/1,0/",
-    "2": "/train/junction/",
-    "3": "/train/roundabout/",
-    "4": "/general/early game/",
-    "5": "/general/mid game/",
-    "6": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/train/track/",
+    "/version/1,0/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Mini City Blocks extended"
 }

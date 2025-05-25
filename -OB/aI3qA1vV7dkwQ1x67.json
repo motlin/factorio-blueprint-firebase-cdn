@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/yC2huWD",
   "lastUpdatedDate": 1731514355303,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "My first spaceship"
 }

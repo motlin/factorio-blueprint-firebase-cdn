@@ -45,15 +45,15 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/BASE%202.6.1%20blueprint%20bot.png?alt=media&token=b03c2976-0d9e-4523-88ef-d43e3484a3e9",
   "lastUpdatedDate": 1556749342407,
   "numberOfFavorites": 28,
-  "tags": {
-    "6": "/production/science/",
-    "7": "/production/robots/",
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/0,16/",
-    "3": "/general/early game/",
-    "4": "/general/compact/",
-    "5": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/general/early game/",
+    "/general/compact/",
+    "/production/mall (make everything)/"
+  ],
   "title": "BOT rush BASE [_[____]_]"
 }

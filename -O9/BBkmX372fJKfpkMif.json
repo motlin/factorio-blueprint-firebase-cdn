@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/84QgyVp",
   "lastUpdatedDate": 1728929037302,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/power/solar/",
+    "/mods/vanilla/"
+  ],
   "title": "Accumulator + Solar panel assembler"
 }

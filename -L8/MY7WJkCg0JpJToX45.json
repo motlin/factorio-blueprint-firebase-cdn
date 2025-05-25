@@ -13,9 +13,9 @@
   "fileName": "simple_concrete.jpg",
   "lastUpdatedDate": 1521947575507,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/general/early game/"
-  },
+  "tags": [
+    "/general/early game/"
+  ],
   "favorites": {
     "Bjse76JoUKeLOuLmWbhUKyWG7wJ2": true
   },

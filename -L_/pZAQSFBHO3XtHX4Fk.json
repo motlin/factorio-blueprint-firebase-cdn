@@ -1,9 +1,9 @@
 {
   "fileName": "num.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,15/"
-  },
+  "tags": [
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "MC2Jcy7ELGeSqQaGtlI4kLpUXif1"
   },

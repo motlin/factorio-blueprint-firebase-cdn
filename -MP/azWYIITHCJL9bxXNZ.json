@@ -19,9 +19,9 @@
   },
   "authorId": "IbvrHIkVr7aLNTbY6okcaaLBtGF2",
   "lastUpdatedDate": 1609119439093,
-  "tags": {
-    "0": "/production/robots/"
-  },
+  "tags": [
+    "/production/robots/"
+  ],
   "title": "Bot Manufactorum V4.0 with labels",
   "author": {
     "userId": "IbvrHIkVr7aLNTbY6okcaaLBtGF2"

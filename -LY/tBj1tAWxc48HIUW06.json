@@ -20,10 +20,10 @@
   },
   "lastUpdatedDate": 1550369092626,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/belt based/",
-    "1": "/general/late game (megabase)/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/production/belt based/",
+    "/general/late game (megabase)/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "My First Rocker 0.17 book 1"
 }

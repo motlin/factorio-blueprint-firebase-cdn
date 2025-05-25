@@ -1,10 +1,10 @@
 {
   "lastUpdatedDate": 1614139178122,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/"
+  ],
   "title": "single side 7 potion lab array",
   "author": {
     "userId": "e7sMfIqIovgjcun74Pj1hDGSUJy1"

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1517182454486,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/smelting/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/production/belt based/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/belt based/"
+  ],
   "title": "Super Smelter (Yellow/Stone Furnace)"
 }

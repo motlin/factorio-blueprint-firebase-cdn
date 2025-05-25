@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/vSHkK4j",
   "lastUpdatedDate": 1740402763042,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/circuit/indicator/"
+  ],
   "title": "Emboss Designs: Science Display"
 }

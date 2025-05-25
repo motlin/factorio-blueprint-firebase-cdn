@@ -16,12 +16,12 @@
     "width": 1645
   },
   "numberOfFavorites": 3,
-  "tags": {
-    "3": "/version/0,17/",
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/modules/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/modules/"
+  ],
   "title": "Modules for Science - 1050/min Prod1, 2100/min Speed1",
   "authorId": "V9Tj5X5ApvRAldjQLdQbp5um8EF3",
   "createdDate": 1582471629208,

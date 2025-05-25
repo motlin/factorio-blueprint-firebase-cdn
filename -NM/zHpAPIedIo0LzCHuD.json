@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1675025404668,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/circuit/counter/"
+  ],
   "title": "Train Loader with Nixie Tube Display",
   "favorites": {
     "1QnI3FxqTFX33pPsWbghmrQjrCd2": true,

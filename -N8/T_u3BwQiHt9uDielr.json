@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1659453655803,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/general/compact/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/general/compact/",
+    "/mods/other/"
+  ],
   "title": "Krastorio 2 Compact 72 Matter/s from water (4320/min)",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true

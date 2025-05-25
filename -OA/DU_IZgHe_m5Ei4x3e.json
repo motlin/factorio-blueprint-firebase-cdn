@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/KCw7x3f",
   "lastUpdatedDate": 1732944736555,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/mods/vanilla/"
+  ],
   "title": "Self sustain minimal space plataform",
   "favorites": {
     "kcRuexny20RE5gVWwzjns5PyZvH3": true,

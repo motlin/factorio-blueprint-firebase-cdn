@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1619468967401,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/version/1,0/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/version/1,0/",
+    "/mods/other/"
+  ],
   "title": "Krastorio 2 new patch biomethanol generator near 14 MW all the time ",
   "favorites": {
     "wUM2PE41XwMSrt0fW9WdKuYBJxX2": true,

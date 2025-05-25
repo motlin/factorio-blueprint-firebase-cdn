@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1627511261530,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/0,15/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Marquee lights",
   "favorites": {
     "e4ZOPvvVfgZTyTyS3PJN4m9I5263": true

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5ewNtce",
   "lastUpdatedDate": 1743569239885,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/"
-  },
+  "tags": [
+    "/production/oil processing/"
+  ],
   "title": "Processamento de Petróleo Avançado",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true

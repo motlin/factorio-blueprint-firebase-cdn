@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/vED2OLy",
   "lastUpdatedDate": 1732404362406,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Black Science Factory",
   "favorites": {
     "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,

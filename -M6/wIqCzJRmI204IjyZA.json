@@ -1,11 +1,11 @@
 {
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/",
-    "3": "/general/tileable/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "Compact Tileable Red Science 1.5/sec",
   "author": {
     "userId": "jinkWw4kCxTnL37ycs7TjGymgdE3"

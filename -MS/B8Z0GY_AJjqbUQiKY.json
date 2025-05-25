@@ -89,9 +89,9 @@
   },
   "lastUpdatedDate": 1679679965392,
   "numberOfFavorites": 31,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/general/early game/"
+  ],
   "title": "Organized book of all favorites"
 }

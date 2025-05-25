@@ -13,14 +13,14 @@
   "imageUrl": "https://imgur.com/fvfkvQY",
   "lastUpdatedDate": 1735499709446,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/space-platform/",
-    "3": "/planets/nauvis/",
-    "4": "/planets/vulcanus/",
-    "5": "/planets/fulgora/",
-    "6": "/planets/gleba/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/planets/nauvis/",
+    "/planets/vulcanus/",
+    "/planets/fulgora/",
+    "/planets/gleba/"
+  ],
   "title": "Inter-platetary transport - Small"
 }

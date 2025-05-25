@@ -52,11 +52,11 @@
   "imageUrl": "https://imgur.com/vmnZnn2",
   "lastUpdatedDate": 1731777499662,
   "numberOfFavorites": 19,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/train/track/",
-    "2": "/train/junction/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/train/track/",
+    "/train/junction/",
+    "/general/mid game/"
+  ],
   "title": "Mini City Blocks 2.0"
 }

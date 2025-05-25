@@ -9,11 +9,11 @@
     "id": "gAFXmda",
     "type": "image/jpeg"
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/science/",
-    "2": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/science/",
+    "/general/early game/"
+  ],
   "title": "Sea Block зеленые и красные колбы",
   "author": {
     "userId": "LaXDTIKD0Ib90tbC4w0n38WqBCi2"

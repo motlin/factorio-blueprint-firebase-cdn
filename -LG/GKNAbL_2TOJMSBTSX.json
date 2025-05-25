@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1530372941221,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/power/solar/",
-    "3": "/power/steam/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/power/steam/"
+  ],
   "title": "PowerSetups -Book"
 }

@@ -13,13 +13,13 @@
   "descriptionMarkdown": "It pulls off a 7 lane science bus. It uses productivity modules to get most research out of each science pack, and speed modules to research faster.\n\nThis blueprint book includes a blueprint to extent the labs and beacons horizontally if you wish to do so. \n\nTo remove beacons/modules or downgrade the blue belts for different belts, use autotorio.\n\n",
   "fileName": "asdasda.png",
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "xY9rEKNEQMbXOOplxstm479GMBc2": true,
     "rmFkkIW27nVbkKJJHheZ4jQFtrK2": true,

@@ -10,11 +10,11 @@
   },
   "fileName": "E404mall_1.png",
   "lastUpdatedDate": 1578152162484,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "image": {
     "height": 395,
     "id": "PSC6m70",

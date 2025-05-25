@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1664491600229,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Solar Panel and Accumulator 18 per minute",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

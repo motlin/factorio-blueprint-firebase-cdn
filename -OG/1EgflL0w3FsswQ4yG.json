@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/cWfsff1",
   "lastUpdatedDate": 1736278199320,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/production/coal liquification/",
-    "2": "/production/plastic/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/production/coal liquification/",
+    "/production/plastic/"
+  ],
   "title": "Vulcanus - Coal liquefaction - plastics, fuel"
 }

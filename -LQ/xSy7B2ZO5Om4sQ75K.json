@@ -4,15 +4,15 @@
   "fileName": "red_circuits.PNG",
   "lastUpdatedDate": 1541851099592,
   "title": "Red circuits",
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,16/",
-    "4": "/general/late game (megabase)/",
-    "5": "/production/belt based/",
-    "6": "/general/tileable/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/general/late game (megabase)/",
+    "/production/belt based/",
+    "/general/tileable/"
+  ],
   "author": {
     "userId": "Td8p8fRophbP4n3uqhwWWmQMsHy2"
   },

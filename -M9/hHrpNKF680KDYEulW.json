@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1592046379178,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/junction/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/junction/",
+    "/version/0,18/"
+  ],
   "title": "rails without planning v2.0"
 }

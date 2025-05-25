@@ -32,14 +32,14 @@
   },
   "lastUpdatedDate": 1549661733054,
   "numberOfFavorites": 19,
-  "tags": {
-    "5": "/general/tileable/",
-    "6": "/power/accumulator/",
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "4": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/power/accumulator/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/general/late game (megabase)/"
+  ],
   "title": "140 MW tileable solar array"
 }

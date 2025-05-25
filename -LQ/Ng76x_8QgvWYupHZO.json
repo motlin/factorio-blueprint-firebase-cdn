@@ -10,10 +10,10 @@
     "type": "image/jpeg",
     "width": 927
   },
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/general/early game/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/general/early game/"
+  ],
   "favorites": {
     "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,
     "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,

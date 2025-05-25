@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/QHsqKqP",
   "lastUpdatedDate": 1735622120081,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/gleba/",
-    "1": "/general/mid game/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/planets/gleba/",
+    "/general/mid game/",
+    "/mods/space-age/"
+  ],
   "title": "Nutrient Generator",
   "favorites": {
     "FZBtFEpS13N87hKr26AjNJlgda92": true,

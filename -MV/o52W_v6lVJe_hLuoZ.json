@@ -22,9 +22,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2022-02-13_144554.png?alt=media&token=ee77b472-9d3b-4c3b-8953-300e2afc70ee",
   "lastUpdatedDate": 1644781563818,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Artillery shells (30/s)"
 }

@@ -27,12 +27,12 @@
   },
   "lastUpdatedDate": 1598757114845,
   "numberOfFavorites": 9,
-  "tags": {
-    "1": "/production/research (labs)/",
-    "2": "/general/beaconized/",
-    "3": "/version/1,0/",
-    "4": "/mods/ltn/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/version/1,0/",
+    "/mods/ltn/",
+    "/production/science/"
+  ],
   "title": "1k SPM / Belt Fed (LTN)"
 }

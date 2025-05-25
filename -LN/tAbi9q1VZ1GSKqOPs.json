@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1567548988296,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/0,17/"
+  ],
   "title": "10k Red Science Production"
 }

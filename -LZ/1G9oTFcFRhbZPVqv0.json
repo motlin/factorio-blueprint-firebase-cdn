@@ -7,11 +7,11 @@
     "width": 1676
   },
   "lastUpdatedDate": 1550521249218,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/power/solar/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/power/solar/",
+    "/version/0,16/"
+  ],
   "favorites": {
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "kOht14bSMCc1Lz86TALpXSERIdV2": true,

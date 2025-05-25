@@ -13,10 +13,10 @@
   "imageUrl": "https://i.imgur.com/4epq8tW.png",
   "lastUpdatedDate": 1737385046054,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/"
+  ],
   "title": "Constitution",
   "favorites": {
     "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,

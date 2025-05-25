@@ -9,10 +9,10 @@
     "width": 1205
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/moderation/uncropped screenshot/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/moderation/uncropped screenshot/"
+  ],
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"
   },

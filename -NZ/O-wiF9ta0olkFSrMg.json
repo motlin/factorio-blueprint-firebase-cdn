@@ -15,15 +15,15 @@
   },
   "lastUpdatedDate": 1688341826478,
   "numberOfFavorites": -1,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/",
-    "4": "/version/1,1/",
-    "5": "/general/tileable/",
-    "6": "/production/belt based/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/1,0/",
+    "/version/1,1/",
+    "/general/tileable/",
+    "/production/belt based/"
+  ],
   "title": "Rocket Control Units - 2700 science per minute",
   "favorites": {
     "TCh8CfP1ybhKOjs3C0NNtDEuX8B3": true

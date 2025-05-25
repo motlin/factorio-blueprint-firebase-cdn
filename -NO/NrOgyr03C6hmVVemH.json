@@ -24,14 +24,14 @@
   },
   "lastUpdatedDate": 1705594974102,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/",
-    "4": "/general/tileable/",
-    "5": "/general/compact/",
-    "6": "/version/0,15/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/tileable/",
+    "/general/compact/",
+    "/version/0,15/"
+  ],
   "title": "T15 Green Circuits"
 }

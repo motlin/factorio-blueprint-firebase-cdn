@@ -13,19 +13,19 @@
   "imageUrl": "https://imgur.com/mT5Lk4z",
   "lastUpdatedDate": 1730817280276,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/space-age/",
-    "2": "/planets/fulgora/",
-    "3": "/production/logistic (bot) based/",
-    "4": "/production/robots/",
-    "5": "/production/belt based/",
-    "6": "/version/2,0/",
-    "7": "/production/electronic circuit (green)/",
-    "8": "/production/plastic/",
-    "9": "/general/tileable/",
-    "10": "/general/compact/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/space-age/",
+    "/planets/fulgora/",
+    "/production/logistic (bot) based/",
+    "/production/robots/",
+    "/production/belt based/",
+    "/version/2,0/",
+    "/production/electronic circuit (green)/",
+    "/production/plastic/",
+    "/general/tileable/",
+    "/general/compact/"
+  ],
   "title": "Simple Auto Recycler (Fulgora)",
   "favorites": {
     "NEaS1HMSHWYX4jYMK5JIbrthZFD3": true,

@@ -20,11 +20,11 @@
   "imageUrl": "https://imgur.com/hj7FAAb",
   "lastUpdatedDate": 1741884414464,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/",
-    "2": "/planets/aquilo/",
-    "3": "/power/steam/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/",
+    "/planets/aquilo/",
+    "/power/steam/"
+  ],
   "title": "Aquilo Power City Block"
 }

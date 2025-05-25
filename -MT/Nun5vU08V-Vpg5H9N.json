@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1642169317009,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,15/",
-    "2": "/version/1,0/",
-    "3": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/circuit/indicator/"
+  ],
   "title": "Music circuit addons"
 }

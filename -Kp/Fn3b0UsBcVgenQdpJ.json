@@ -14,11 +14,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170717154306_1.jpg?alt=media&token=234212a0-b137-48ea-a1d8-76e7f7d882d4",
   "lastUpdatedDate": 1500377311111,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "battery shaped accumulator charge state indicator",
   "authorId": "FmBLyS8ofBeJ2YuaPscssOYVtPm1",
   "descriptionMarkdown": "3 color charge indicator",

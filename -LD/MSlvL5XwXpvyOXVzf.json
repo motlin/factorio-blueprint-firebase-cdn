@@ -22,10 +22,10 @@
   "authorId": "P3QwV2QPhVeVvBKhKCiclLL89CX2",
   "descriptionMarkdown": "This LTN Universal Provider Station provides exact amounts of items to 1-1 trains.",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/0,17/",
-    "2": "/train/loading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/0,17/",
+    "/train/loading station/"
+  ],
   "title": "LTN Universal Exact Provider"
 }

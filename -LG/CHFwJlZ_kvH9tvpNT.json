@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1530304991250,
   "numberOfFavorites": 1,
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/power/accumulator/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/power/accumulator/",
+    "/mods/bobs/"
+  ],
   "title": "Bobs Big Accu Farm"
 }

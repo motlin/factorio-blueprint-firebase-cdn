@@ -11,9 +11,9 @@
     "width": 1204
   },
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,17/"
+  ],
   "favorites": {
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "6qMGOony8zUmpYDuOCSBqFxqhkm2": true,

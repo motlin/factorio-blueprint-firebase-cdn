@@ -24,11 +24,11 @@
   },
   "lastUpdatedDate": 1621203950876,
   "numberOfFavorites": 7,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/krastorio/",
-    "2": "/general/early game/",
-    "3": "/general/mid game/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/krastorio/",
+    "/general/early game/",
+    "/general/mid game/"
+  ],
   "title": "Krastorio early/mid game modular mall"
 }

@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/dt36Yrd",
   "lastUpdatedDate": 1743882946821,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/",
-    "2": "/version/0,15/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Eval's Logistic Trains",
   "favorites": {
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,

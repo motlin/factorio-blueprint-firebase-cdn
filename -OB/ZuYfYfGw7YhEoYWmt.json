@@ -13,19 +13,19 @@
   "imageUrl": "https://imgur.com/YslZrw2",
   "lastUpdatedDate": 1731502270863,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/production/science/",
-    "2": "/version/2,0/",
-    "3": "/mods/space-age/",
-    "4": "/planets/space-platform/",
-    "5": "/production/plastic/",
-    "6": "/production/oil processing/",
-    "7": "/production/smelting/",
-    "8": "/production/research (labs)/",
-    "9": "/production/electronic circuit (green)/",
-    "10": "/production/advanced circuit (red)/",
-    "11": "/production/processing unit (blue)/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/production/science/",
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/plastic/",
+    "/production/oil processing/",
+    "/production/smelting/",
+    "/production/research (labs)/",
+    "/production/electronic circuit (green)/",
+    "/production/advanced circuit (red)/",
+    "/production/processing unit (blue)/"
+  ],
   "title": "Stackable factories"
 }

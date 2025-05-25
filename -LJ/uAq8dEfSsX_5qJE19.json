@@ -33,17 +33,17 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/arata8.jpg?alt=media&token=3fda10cd-cd4b-4e42-892b-51947ea847ee",
   "lastUpdatedDate": 1535142262625,
   "numberOfFavorites": 34,
-  "tags": {
-    "3": "/general/late game (megabase)/",
-    "7": "/train/right-hand-drive/",
-    "8": "/version/0,16/",
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/belt/express transport belt (blue)/",
-    "4": "/mods/vanilla/",
-    "5": "/train/loading station/",
-    "6": "/train/unloading station/",
-    "9": "/general/tileable/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/train/right-hand-drive/",
+    "/version/0,16/",
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/",
+    "/general/tileable/"
+  ],
   "title": "YAMATO's Smelter"
 }

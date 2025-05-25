@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1659981935864,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/production/mall (make everything)/"
+  ],
   "title": "All-In-One Early-Game Robot Factory",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Q2WT2PwivZ.jpg?alt=media&token=0e534e58-0f72-4bbf-b5b8-cbdb9125db70",
   "favorites": {

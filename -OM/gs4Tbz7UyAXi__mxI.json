@@ -19,9 +19,9 @@
   "imageUrl": "https://imgur.com/bQIUyoj",
   "lastUpdatedDate": 1743436727660,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/mods/aai/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/mods/aai/"
+  ],
   "title": "Depot for LTN - Parametric Factory Blueprint"
 }

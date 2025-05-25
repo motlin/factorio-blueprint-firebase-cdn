@@ -46,10 +46,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Unbenajugrfiutrhjrhhufzwuinnt.PNG?alt=media&token=a6211712-e376-4132-8f43-3f67d088c342",
   "lastUpdatedDate": 1712502007052,
   "numberOfFavorites": 11,
-  "tags": {
-    "0": "/mods/lighted-electric-poles/",
-    "1": "/mods/space-exploration/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/lighted-electric-poles/",
+    "/mods/space-exploration/",
+    "/version/1,1/"
+  ],
   "title": "SE Blueprint Collection"
 }

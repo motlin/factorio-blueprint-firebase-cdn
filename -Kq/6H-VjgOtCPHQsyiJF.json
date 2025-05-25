@@ -1,14 +1,14 @@
 {
   "authorId": "BRJi2QoNKZVJEjubdoNIO30floF2",
   "createdDate": 1501213231217,
-  "tags": {
-    "1": "/production/plastic/",
-    "2": "/production/oil processing/",
-    "3": "/general/beaconized/",
-    "4": "/mods/vanilla/",
-    "5": "/version/0,15/",
-    "0": "/production/batteries/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/production/oil processing/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/batteries/"
+  ],
   "favorites": {
     "2QicHzlu6zWAh4eGlEp6mxOkSRR2": true,
     "rTspefedmvMsDpaHKUY1Tbnostv2": true

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1632319504786,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/production/belt based/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/production/belt based/"
+  ],
   "title": "Space Exploration Production Hub",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Space%20Exploration%20Production%20Hubv2.jpg?alt=media&token=42a093df-cd1b-45ee-9ebd-1c1a28695650",
   "favorites": {

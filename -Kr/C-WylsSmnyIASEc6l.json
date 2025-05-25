@@ -1,12 +1,12 @@
 {
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/coal liquification/",
-    "1": "/version/0,15/",
-    "2": "/mods/creative/",
-    "3": "/mods/vanilla/",
-    "4": "/production/rocket parts/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/version/0,15/",
+    "/mods/creative/",
+    "/mods/vanilla/",
+    "/production/rocket parts/"
+  ],
   "title": "Small scale Rocket Fuel from Coal Liquefaction",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,

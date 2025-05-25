@@ -13,11 +13,11 @@
   "imageUrl": "https://i.imgur.com/4Zjnt4y.png",
   "lastUpdatedDate": 1737846530431,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/version/2,0/",
-    "2": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/",
+    "/planets/gleba/"
+  ],
   "title": "Pentapod egg production",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,

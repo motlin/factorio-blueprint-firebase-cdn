@@ -12,13 +12,13 @@
     "width": 1739
   },
   "lastUpdatedDate": 1539049756482,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/general/beaconized/",
-    "2": "/general/compact/",
-    "3": "/mods/vanilla/",
-    "4": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/general/beaconized/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Compact(ish) 3-Belt Output Smelter Line (Beaconed)",
   "author": {
     "userId": "OZHRdhCql1QI0IlFF9ZuX3Hqtay2"

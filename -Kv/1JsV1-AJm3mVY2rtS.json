@@ -55,11 +55,11 @@
     "type": "image/jpeg",
     "width": 2000
   },
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/belt/express transport belt (blue)/"
-  }
+  "tags": [
+    "/production/rocket parts/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/belt/express transport belt (blue)/"
+  ]
 }

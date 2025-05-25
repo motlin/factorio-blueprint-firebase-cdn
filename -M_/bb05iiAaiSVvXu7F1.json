@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1621006519643,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/production/science/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/production/science/"
+  ],
   "title": "Basic tech card e Automation tech card",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,

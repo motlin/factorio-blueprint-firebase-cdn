@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1702393519654,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Solar Plant 1050 KW",
   "favorites": {
     "a5UXS0uHCwZqffqHUZLUeaHMGgp2": true

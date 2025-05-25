@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/CDiOD7i",
   "lastUpdatedDate": 1733148104460,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/production/research (labs)/",
-    "2": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/production/research (labs)/",
+    "/circuit/indicator/"
+  ],
   "title": "DISCO SCIENCE (modless)",
   "favorites": {
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,

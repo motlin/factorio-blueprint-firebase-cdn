@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/YzW10Lo",
   "lastUpdatedDate": 1731767537120,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/belt/balancer/",
-    "2": "/planets/space-platform/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/belt/balancer/",
+    "/planets/space-platform/",
+    "/version/2,0/"
+  ],
   "title": "Belt storage for asteroids",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,

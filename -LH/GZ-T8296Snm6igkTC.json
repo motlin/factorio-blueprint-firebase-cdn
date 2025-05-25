@@ -3,10 +3,10 @@
   "fileName": "Screenshot (25).png",
   "lastUpdatedDate": 1560441522117,
   "numberOfFavorites": 1,
-  "tags": {
-    "1": "/train/crossing/",
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/mods/vanilla/"
+  ],
   "authorId": "MdsObc4VrZNF8Sa30uad1unwZph2",
   "blueprintString": "0eNqlUtFqwzAM/JWiZweajrabYc/9iFGCk6itwLGDrJSF4n+fnXSlrBts7MUgSz7dne8CtR2wZ3IC+gLUeBdAv10g0NEZm+9k7BE0kGAHCpzpcsWGbHGdiQrItfgOuox7BeiEhHCGmYqxckNXI6eBbwEU9D6kN97lfQmnWCsYQS8TckuMzdzaKEj0hL2tajyZM3nO8w1xM5BUjfUBq0/eB2MDqluT0bS3nvCAcQJzM3bIOGU+jozo7plTC3oV9zFG9aBm9Ts1/xeTCf+g5YvOhNnedh+Ig1QPP3kmlmEiemU/TxSMLcy2BDE5D8tcdL1hI5kdvEL8i23lZFtKxBQdfZc0BdbUmDjB7oQifpH9WzTsQyB3TO0zcphEbJ+W5Xb9/LLdrGL8AOnm7hM=",
   "descriptionMarkdown": "A simple set of signals that make trains slow down as they go by to help you stay alive. ",

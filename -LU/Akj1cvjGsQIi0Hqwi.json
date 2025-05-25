@@ -6,9 +6,9 @@
   "favorites": {
     "XapKJxfpaCOr004b6kXVsc5wZzd2": true
   },
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "authorId": "rixzCYhAzCZQqgAtxQYHlbIbZZT2",
   "createdDate": 1545311809847,
   "descriptionMarkdown": "put 8 plastic bars on te belt and enjoy the fireworks. you can change the color by changing the color in the constand combinators in the middle of the belt and the one on the right.",

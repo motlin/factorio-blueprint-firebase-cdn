@@ -10,11 +10,11 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mike's%20Mall%20-%20Black%20%26%20Blue.png?alt=media&token=eca15538-ccd0-4ca3-8774-417bc2b09610",
   "lastUpdatedDate": 1505733842952,
   "numberOfFavorites": 45,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Mike's Mall - Black & Blue",
   "author": {
     "userId": "hpw1NMh8YdfSq7thiijuET7lnEl2"

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/aG1N1QX",
   "lastUpdatedDate": 1714005405877,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/mods/other/"
+  ],
   "title": "Nullius Mining"
 }

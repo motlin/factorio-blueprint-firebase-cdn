@@ -25,10 +25,10 @@
   "imageUrl": "https://imgur.com/oUq4EU8",
   "lastUpdatedDate": 1732086805104,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/planets/space-platform/",
-    "2": "/planets/aquilo/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/planets/space-platform/",
+    "/planets/aquilo/"
+  ],
   "title": "SnowPiercer"
 }

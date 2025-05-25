@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/Fd1b7c5",
   "lastUpdatedDate": 1745661637580,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/space-age/"
+  ],
   "title": "Nuclear power ",
   "favorites": {
     "if0KvlQHynfuU1gZJTTBndH58b93": true,

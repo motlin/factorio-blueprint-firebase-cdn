@@ -17,10 +17,10 @@
   "numberOfFavorites": 0,
   "title": "Just a Arms's Mall",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/-NJno5ryS8uDkurzdq6z.png?alt=media&token=5294eb1a-4aee-4994-aeef-2fb9f3d4bf7e",
-  "tags": {
-    "0": "/production/inserters/",
-    "1": "/production/mall (make everything)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/production/inserters/",
+    "/production/mall (make everything)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

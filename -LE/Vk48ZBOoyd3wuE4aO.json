@@ -13,10 +13,10 @@
     "height": 912
   },
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/"
+  ],
   "createdDate": 1528484090555,
   "lastUpdatedDate": 1530137108636,
   "title": "Uranium processing with Kovarex"

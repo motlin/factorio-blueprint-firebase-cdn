@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/1dSBNC0",
   "lastUpdatedDate": 1731592597860,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/",
-    "2": "/planets/gleba/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba - Agricultural science pack",
   "favorites": {
     "pKPs0wKjioZJmux2tGk4hYYz6Cn1": true,

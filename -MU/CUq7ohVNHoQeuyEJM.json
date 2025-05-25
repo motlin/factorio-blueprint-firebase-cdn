@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1643139901159,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/general/beaconized/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/science/",
+    "/general/compact/"
+  ],
   "title": "1k SPM Blue Science ",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bs2.jpg?alt=media&token=519abf56-0cdb-4d31-bb7a-970856fcb299",
   "favorites": {

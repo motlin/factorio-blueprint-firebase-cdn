@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/qs4hAjZ",
   "lastUpdatedDate": 1735307457314,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Easier To Read Display",
   "favorites": {
     "UUXDX0aZFASvRFVULz0iamxj6yV2": true

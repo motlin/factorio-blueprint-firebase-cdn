@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/Wpvoy6k",
   "lastUpdatedDate": 1732161922997,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/version/2,0/",
-    "2": "/planets/fulgora/"
-  },
+  "tags": [
+    "/production/science/",
+    "/version/2,0/",
+    "/planets/fulgora/"
+  ],
   "title": "Electromagnetic Science 90 SPM",
   "favorites": {
     "Ctjsr2rFmbf7YfnVdiAbtf7rSdg2": true,

@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1624094651559,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/compact/",
-    "2": "/mods/vanilla/",
-    "3": "/version/1,0/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/1,0/"
+  ],
   "title": "relatively compact green circuits",
   "favorites": {
     "YI4Qs2SJ7XfyN9BNIFPSvWehYDz1": true,

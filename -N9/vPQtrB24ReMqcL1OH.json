@@ -15,17 +15,17 @@
   },
   "lastUpdatedDate": 1661001645872,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/mods/vanilla/",
-    "2": "/production/research (labs)/",
-    "3": "/production/inserters/",
-    "4": "/belt/transport belt (yellow)/",
-    "5": "/belt/fast transport belt (red)/",
-    "6": "/production/belts/",
-    "7": "/production/mall (make everything)/",
-    "8": "/version/1,0/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/production/research (labs)/",
+    "/production/inserters/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/production/belts/",
+    "/production/mall (make everything)/",
+    "/version/1,0/"
+  ],
   "title": "Starter Base - Small Scale Production",
   "favorites": {
     "16EyEGKEVZXe7noopJwq3CqOy612": true,

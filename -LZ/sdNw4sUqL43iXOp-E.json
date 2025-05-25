@@ -10,12 +10,12 @@
   "createdDate": 1580424597476,
   "descriptionMarkdown": "Here's my attempt at converting a coal patch directly into plastic.\n\nRequires 4.5 yellow belts of coal to produce 2 yellow belts of plastic.\nStartup needs some barrels of Heavy Oil; which can be supplied by the local logistics network.\n\nNo beacons, no speed modules, no productivity modules.\nLevel 1 efficiency modules optional to reduce energy usage and pollution.\n",
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/production/plastic/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,17/"
+  ],
   "title": "Coal to Plastic",
   "favorites": {
     "Bjse76JoUKeLOuLmWbhUKyWG7wJ2": true,

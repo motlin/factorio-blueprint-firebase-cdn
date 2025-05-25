@@ -1,14 +1,14 @@
 {
-  "tags": {
-    "5": "/version/0,15/",
-    "6": "/mods/warehousing/",
-    "7": "/mods/other/",
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/power/steam/",
-    "3": "/mods/bobs/",
-    "4": "/mods/angels/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/mods/warehousing/",
+    "/mods/other/",
+    "/production/science/",
+    "/production/research (labs)/",
+    "/power/steam/",
+    "/mods/bobs/",
+    "/mods/angels/"
+  ],
   "title": "Demon`s Book",
   "favorites": {
     "j099BfaxjlgSY5LxT4SGByYDH7J2": true,

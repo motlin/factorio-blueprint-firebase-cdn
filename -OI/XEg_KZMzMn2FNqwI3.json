@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/LKbUekX",
   "lastUpdatedDate": 1738963025347,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/left-hand-drive/"
-  },
+  "tags": [
+    "/train/left-hand-drive/"
+  ],
   "title": "Trains LHD 1-4 Roundabouts, Stations",
   "favorites": {
     "RMpS8VqCO3QCPWkDFzQSFflLOy63": true,

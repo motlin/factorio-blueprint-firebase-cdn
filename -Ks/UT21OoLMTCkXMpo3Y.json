@@ -6,11 +6,11 @@
     "width": 1920
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%200.15.33%202017-08-26%2012_52_35%20PM.png?alt=media&token=9519bf82-cc60-4c6a-99e1-68b695855069",
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "author": {
     "userId": "atLkXImYYEhYl4isXp7Q61MDy0p2"
   },

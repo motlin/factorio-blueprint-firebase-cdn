@@ -18,9 +18,9 @@
   "createdDate": 1544960153237,
   "descriptionMarkdown": "Artillery Fire base with roboports for repairs. Unloaded 100k Light Oil, after pressurizing the flamethrowers was at 83k in the tanks. After the train (LLAAAA) Auto unloaded (3 times) Light oil was only down to 77k. The Bugs Never reached the walls. Additional screenshot's:  Guns Firing & Cook out for the Local's: https://prntscr.com/lvlh0w The layout (Map View): https://prntscr.com/lvlgji and the Aftermath after the guns fall silent (Auto Range): https://prntscr.com/lvlgig Still lots of Red to get rid of.",
   "fileName": "20181216050935_1.jpg",
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/general/tileable/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/general/tileable/"
+  ],
   "title": "Factorio / Artillery w/Flame(Light Oil) & Laser Support"
 }

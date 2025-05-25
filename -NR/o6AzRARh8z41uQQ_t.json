@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1687816485578,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/",
-    "1": "/train/right-hand-drive/",
-    "2": "/version/1,1/"
-  },
+  "tags": [
+    "/production/mining/",
+    "/train/right-hand-drive/",
+    "/version/1,1/"
+  ],
   "title": "Ken's Trains"
 }

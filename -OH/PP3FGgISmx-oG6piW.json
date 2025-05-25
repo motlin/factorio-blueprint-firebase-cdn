@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/tL1uJvM",
   "lastUpdatedDate": 1737757312619,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/other/"
-  },
+  "tags": [
+    "/production/other/"
+  ],
   "title": "tungsten upcycle demo"
 }

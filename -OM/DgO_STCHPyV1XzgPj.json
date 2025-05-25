@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Kiposxz",
   "lastUpdatedDate": 1742929500695,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/other/"
+  ],
   "title": "Processamento de urânio e circuito vermelho"
 }

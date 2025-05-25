@@ -20,13 +20,13 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/04%EF%BC%9A06%EF%BC%9A53%20(2158).png?alt=media&token=37cc8deb-74ce-4bf6-9a3b-54aefbe353c0",
   "lastUpdatedDate": 1645326431466,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/",
-    "3": "/power/accumulator/",
-    "4": "/version/1,0/",
-    "5": "/version/0,15/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/power/accumulator/",
+    "/version/1,0/",
+    "/version/0,15/"
+  ],
   "title": "Tileable solar power | 150 MW blueprint"
 }

@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/44ZyNLv",
   "lastUpdatedDate": 1731356722830,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Aquilo Ship"
 }

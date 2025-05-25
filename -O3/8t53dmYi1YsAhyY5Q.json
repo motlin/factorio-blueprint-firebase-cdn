@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/leGones",
   "lastUpdatedDate": 1722447848095,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/mods/other/"
+  ],
   "title": "Refinaria Vanila"
 }

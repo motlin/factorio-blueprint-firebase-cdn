@@ -7,13 +7,13 @@
     "width": 1078
   },
   "lastUpdatedDate": 1624312228457,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/version/1,0/",
-    "4": "/production/uranium/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/version/1,0/",
+    "/production/uranium/"
+  ],
   "author": {
     "userId": "ub0iEtNIVqVuJDIIVHdezrooiVY2"
   },

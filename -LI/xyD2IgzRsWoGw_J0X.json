@@ -1,10 +1,10 @@
 {
   "fileName": "Ores.PNG",
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/version/0,16/"
+  ],
   "title": "Angels/Bob Ores",
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,

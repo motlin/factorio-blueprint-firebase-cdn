@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/iP8M1CO",
   "lastUpdatedDate": 1735991049064,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Asteroid Reprocessing",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

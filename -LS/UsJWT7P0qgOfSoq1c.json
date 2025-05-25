@@ -11,11 +11,11 @@
   "descriptionMarkdown": "A field of solar panels. Very modulair, very simple. Fields can be place next to one another without leaving space. Cables reach over to the next field. Accumulators fill up for power over night. If they do not charge, build extra fields (it means you are producing equal to what is being used).",
   "lastUpdatedDate": 1543501921397,
   "numberOfFavorites": 2,
-  "tags": {
-    "1": "/power/solar/",
-    "2": "/power/accumulator/",
-    "0": "/version/0,16/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/version/0,16/"
+  ],
   "title": "Solar Power (Day/Night - Modulair)",
   "author": {
     "userId": "25PhDOdvP6QXTlfkdULyTiPPY512"

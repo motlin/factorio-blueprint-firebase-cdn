@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/9WExcTf",
   "lastUpdatedDate": 1731872831940,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Reciclagem de sucata"
 }

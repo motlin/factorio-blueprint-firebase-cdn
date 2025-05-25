@@ -9,15 +9,15 @@
     "width": 1899
   },
   "lastUpdatedDate": 1687217898018,
-  "tags": {
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/tileable/",
-    "4": "/production/belt based/",
-    "5": "/version/1,0/",
-    "6": "/version/1,1/"
-  },
+  "tags": [
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/tileable/",
+    "/production/belt based/",
+    "/version/1,0/",
+    "/version/1,1/"
+  ],
   "author": {
     "userId": "HbQl7zEmPyRh8mfr7DhJe31yP6R2"
   },

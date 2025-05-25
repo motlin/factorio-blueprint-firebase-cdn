@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1619756514176,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/"
+  ],
   "title": "Noob Starter Builds",
   "favorites": {
     "OkAcs00iftUnlcGpDhErwNyyOmf2": true,

@@ -17,15 +17,15 @@
     "width": 2098
   },
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/",
-    "2": "/general/beaconized/",
-    "3": "/general/tileable/",
-    "4": "/production/belt based/",
-    "5": "/version/1,0/",
-    "6": "/version/1,1/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/",
+    "/general/beaconized/",
+    "/general/tileable/",
+    "/production/belt based/",
+    "/version/1,0/",
+    "/version/1,1/"
+  ],
   "favorites": {
     "3W81lziJULPXcOPam3x4pANeE7g2": true,
     "DsrFo30lDCYxn8mTxfO1ANTusw52": true,

@@ -18,8 +18,8 @@
     "width": 1920
   },
   "lastUpdatedDate": 1605064124129,
-  "tags": {
-    "0": "/circuit/indicator/"
-  },
+  "tags": [
+    "/circuit/indicator/"
+  ],
   "title": "Signal selection/switch on a timer"
 }

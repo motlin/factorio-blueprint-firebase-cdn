@@ -24,10 +24,10 @@
   },
   "lastUpdatedDate": 1616329322583,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/general/beaconized/",
-    "2": "/production/research (labs)/"
-  },
+  "tags": [
+    "/production/science/",
+    "/general/beaconized/",
+    "/production/research (labs)/"
+  ],
   "title": "*Final* 100SPM, 7 Science, Base in a Box."
 }

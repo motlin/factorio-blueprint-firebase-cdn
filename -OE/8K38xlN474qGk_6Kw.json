@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/2LFGonv",
   "lastUpdatedDate": 1734249562793,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/planets/fulgora/",
-    "1": "/general/mid game/"
-  },
+  "tags": [
+    "/planets/fulgora/",
+    "/general/mid game/"
+  ],
   "title": "Fulgora Garbage Scrapper",
   "favorites": {
     "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,

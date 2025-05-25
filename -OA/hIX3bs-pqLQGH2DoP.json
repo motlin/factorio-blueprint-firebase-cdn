@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/QJMKsUS",
   "lastUpdatedDate": 1730558173537,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/"
+  ],
   "title": "Vulcanus Simple Reinforced Concrete",
   "favorites": {
     "MDKlA6WufCgQjHDcTbRIfkzF2j82": true,

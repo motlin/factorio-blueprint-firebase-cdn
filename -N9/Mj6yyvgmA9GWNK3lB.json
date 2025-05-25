@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1660493836889,
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/general/early game/",
-    "1": "/general/compact/",
-    "2": "/production/belt based/",
-    "3": "/production/mall (make everything)/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/general/compact/",
+    "/production/belt based/",
+    "/production/mall (make everything)/"
+  ],
   "title": "Extended Starter Base (45 SPM / RGMB Science / Mall)",
   "favorites": {
     "4H9Ess6xjGOCrH5QdaB93FvQspS2": true,

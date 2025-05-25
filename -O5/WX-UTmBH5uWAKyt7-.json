@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/GFRPxvG",
   "lastUpdatedDate": 1725111557525,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/space-exploration/"
+  ],
   "title": "Stripblock Templates"
 }

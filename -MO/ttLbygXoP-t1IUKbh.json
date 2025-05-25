@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1637383354952,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/general/compact/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Compact 12 Beacon Research Labs",
   "favorites": {
     "3kOljLXzQ4UiOGRyNojqbMn5CVy2": true,

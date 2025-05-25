@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/7CyRFWe",
   "lastUpdatedDate": 1724709614244,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/combat/defense/"
-  },
+  "tags": [
+    "/combat/defense/"
+  ],
   "title": "Defense Node",
   "favorites": {
     "eAdBSeIoBrProxdQSuq0unNDSu63": true,

@@ -20,10 +20,10 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Straight_8x2_in_game_by_1x4x9.jpg?alt=media&token=85998f63-ed3b-4ac4-b504-87b521a0cb7c",
   "lastUpdatedDate": 1642972020388,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/power/nuclear/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "title": "2.4GW Smart 16-cell Nuclear Reactor by 1x4x9 (1 power grid version)"
 }

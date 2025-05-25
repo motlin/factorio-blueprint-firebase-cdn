@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/HWrF2rT",
   "lastUpdatedDate": 1745832428654,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/version/2,0/",
-    "3": "/general/late game (megabase)/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/version/2,0/",
+    "/general/late game (megabase)/"
+  ],
   "title": "Space Tanker to deliver 2mil liquid",
   "favorites": {
     "rwdAzBSYEVaQli2aL5WKEJMVqVN2": true,

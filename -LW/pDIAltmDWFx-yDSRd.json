@@ -19,9 +19,9 @@
   },
   "lastUpdatedDate": 1577147438332,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/power/nuclear/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/power/nuclear/"
+  ],
   "title": "18+ Nuclear Power Plant (3250MW)"
 }

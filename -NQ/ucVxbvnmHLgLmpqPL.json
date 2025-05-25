@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1679242170410,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/mods/krastorio/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/mods/krastorio/"
+  ],
   "title": "[VV] iridite ingots 5 p/s",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true

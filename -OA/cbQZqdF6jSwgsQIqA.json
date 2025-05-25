@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/twjiE5o",
   "lastUpdatedDate": 1730479503866,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Bulk freighter ",
   "favorites": {
     "swIjyuvaHNSfHkGoWybLDh1fVPb2": true,

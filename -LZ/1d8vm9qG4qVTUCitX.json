@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1550527536999,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/",
-    "2": "/train/stacker/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/train/stacker/"
+  ],
   "title": "Smart Stacker - Lane Addon"
 }

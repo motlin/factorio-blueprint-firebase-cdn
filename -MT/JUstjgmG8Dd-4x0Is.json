@@ -15,13 +15,13 @@
   },
   "lastUpdatedDate": 1642095152895,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/version/1,0/",
-    "1": "/mods/vanilla/",
-    "2": "/train/right-hand-drive/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/version/1,0/",
+    "/mods/vanilla/",
+    "/train/right-hand-drive/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Service Train",
   "favorites": {
     "ueNR3iTMlaYhMquZne8o8zweUDS2": true,

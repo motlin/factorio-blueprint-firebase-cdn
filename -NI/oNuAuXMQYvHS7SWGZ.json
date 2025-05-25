@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1699538631180,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/compact/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/compact/",
+    "/general/tileable/"
+  ],
   "title": "Compact Tileable Red Chip setup by ElderAxe",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-11-09%20170246.png?alt=media&token=ad1701c6-2257-4457-af8c-25c8e21277e7",
   "favorites": {

@@ -13,11 +13,11 @@
     "type": "image/png",
     "width": 496
   },
-  "tags": {
-    "0": "/production/robots/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/robots/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Robot Factory",
   "favorites": {
     "6osX1HvO3BYI5KK5fvQA4e0ejVT2": true,

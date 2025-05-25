@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/CP8r5DQ",
   "lastUpdatedDate": 1731356798120,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/version/2,0/",
-    "1": "/mods/space-age/"
-  },
+  "tags": [
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Promethium  gatherer"
 }

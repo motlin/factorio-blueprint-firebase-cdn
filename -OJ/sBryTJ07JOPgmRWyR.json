@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/0pn1JYq",
   "lastUpdatedDate": 1745518193583,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/space-age/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
   "title": "Emboss Designs: Science Dashboard",
   "favorites": {
     "nchtaBrTEoc0le9TM1Z6FU7v6Lk2": true,

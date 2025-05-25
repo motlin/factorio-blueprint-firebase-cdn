@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/3EK7b72",
   "lastUpdatedDate": 1744719608128,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/other/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/other/",
+    "/mods/space-age/"
+  ],
   "title": "Usina nuclear Fulgora"
 }

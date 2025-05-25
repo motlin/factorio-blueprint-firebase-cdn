@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/yU1OIBX",
   "lastUpdatedDate": 1731086630470,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Solar Winds"
 }

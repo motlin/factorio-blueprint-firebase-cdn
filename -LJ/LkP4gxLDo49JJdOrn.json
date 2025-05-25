@@ -14,11 +14,11 @@
   "createdDate": 1533685113246,
   "lastUpdatedDate": 1533685113246,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/production/science/",
-    "2": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/production/science/",
+    "/version/0,16/"
+  ],
   "title": "1 Science Pack 1 per Second in Pyanodon",
   "favorites": {
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,

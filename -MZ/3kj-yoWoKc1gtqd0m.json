@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1648273584294,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "title": "Green Circuit Modular",
   "favorites": {
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true

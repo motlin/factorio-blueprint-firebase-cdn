@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1626294410209,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/mods/other/",
-    "2": "/mods/aai/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/research (labs)/",
+    "/mods/other/",
+    "/mods/aai/",
+    "/version/0,15/"
+  ],
   "title": "Mercado (1ª Etapa)",
   "favorites": {
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,

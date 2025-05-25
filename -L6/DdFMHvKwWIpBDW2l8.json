@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1519591665452,
   "numberOfFavorites": 18,
-  "tags": {
-    "3": "/production/coal liquification/",
-    "0": "/production/plastic/",
-    "1": "/general/beaconized/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/production/coal liquification/",
+    "/production/plastic/",
+    "/general/beaconized/",
+    "/mods/other/"
+  ],
   "title": "5.9k/m plastics from coal liquefaction"
 }

@@ -34,14 +34,14 @@
   },
   "lastUpdatedDate": 1558911677367,
   "numberOfFavorites": 16,
-  "tags": {
-    "1": "/production/processing unit (blue)/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/",
-    "4": "/production/belt based/",
-    "5": "/general/late game (megabase)/",
-    "6": "/belt/express transport belt (blue)/",
-    "0": "/version/0,17/"
-  },
+  "tags": [
+    "/production/processing unit (blue)/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/production/belt based/",
+    "/general/late game (megabase)/",
+    "/belt/express transport belt (blue)/",
+    "/version/0,17/"
+  ],
   "title": "Blue Circuits 1 Compressed Blue Belt 0.17"
 }

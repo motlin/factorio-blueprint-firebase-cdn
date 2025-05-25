@@ -14,9 +14,9 @@
   "lastUpdatedDate": 1738676703254,
   "numberOfFavorites": 4,
   "title": "A platform for Gleba, Vulcan, and Fulgora",
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "favorites": {
     "gR39ksU0EjgyX490PLFY81d4sjB2": true,
     "l71M9Ok4CwQosRW1BuHBcIQ6Mco2": true,

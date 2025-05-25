@@ -19,8 +19,8 @@
   },
   "lastUpdatedDate": 1606424653599,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "8 bit ALU based on 74181 ALU"
 }

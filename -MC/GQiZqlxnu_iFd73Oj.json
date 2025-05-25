@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1623790119295,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/belt/transport belt (yellow)/",
-    "1": "/production/science/",
-    "2": "/mods/other/"
-  },
+  "tags": [
+    "/belt/transport belt (yellow)/",
+    "/production/science/",
+    "/mods/other/"
+  ],
   "title": "Space Exploration Modpack Production Science ",
   "favorites": {
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,

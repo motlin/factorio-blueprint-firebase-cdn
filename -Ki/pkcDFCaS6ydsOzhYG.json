@@ -68,14 +68,14 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Blueprint.png?alt=media&token=4e3c41c5-3055-424b-9cf7-12ccc9cb9adc",
   "lastUpdatedDate": 1498333331414,
   "numberOfFavorites": 113,
-  "tags": {
-    "4": "/general/early game/",
-    "5": "/mods/vanilla/",
-    "6": "/version/0,15/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/train/loading station/",
-    "3": "/train/unloading station/"
-  },
+  "tags": [
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/roundabout/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Early-Game Single-line Railway Compendium"
 }

@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/TOZjqGL",
   "lastUpdatedDate": 1734876238713,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/power/kovarex enrichment/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/"
+  ],
   "title": "Kovarex enrichment process",
   "favorites": {
     "CTblediMWRRHBQlEAJx31w80Pz83": true,

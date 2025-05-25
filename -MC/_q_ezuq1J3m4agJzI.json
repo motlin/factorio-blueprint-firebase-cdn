@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1624132705142,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Multi-item wagon (Proof of concept)",
   "favorites": {
     "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,

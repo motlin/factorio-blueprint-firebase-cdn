@@ -1,9 +1,9 @@
 {
   "authorId": "FkgcMKxcksWfacCqltdV3VlTfJm1",
   "descriptionMarkdown": "### English\n\nHi! Now the special one from SEP Series of course. It's an array of Panels and Accumulators, but what is essential is a ratio, it's 26 Panels to 20 Accumulators - the ideal ratio for Solars based on Factorio Wiki is 25 to 20 so we almost done - it's also repeatable.\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n### Polski\n\nWitajcie. Teraz speciał z serii SEP/SSE. Powtarzalny zestaw Paneli Słonecznych i Akumulatorów, w tym wypadku udało nam się uzyskać 26 Paneli na 20 Akumulatorów, gdzie na Wikipedii Factorio jest napisane, że odpowiednie zestawienie to 25 Paneli na 20 Akumulatorów, więc jesteśmy całkiem blisko idealnej proporcji - oczywiście schemat jest powtarzalny.",
-  "tags": {
-    "0": "/power/accumulator/"
-  },
+  "tags": [
+    "/power/accumulator/"
+  ],
   "author": {
     "userId": "FkgcMKxcksWfacCqltdV3VlTfJm1"
   },

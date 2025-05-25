@@ -22,10 +22,10 @@
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true
   },
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/0,17/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/0,17/"
+  ],
   "title": "Smart LTN Depot",
   "author": {
     "userId": "2BHFjzdzK8SULa5rRvF7b3Wm6cy1"

@@ -7,11 +7,11 @@
     "id": "SPEgzT9"
   },
   "lastUpdatedDate": 1555560174971,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "title": "Purple Science Embedded",
   "favorites": {
     "QXtKK3MQwLdmXrhR9UXHOnFr1zJ3": true,

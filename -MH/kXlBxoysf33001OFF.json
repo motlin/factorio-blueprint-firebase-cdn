@@ -22,14 +22,14 @@
   },
   "lastUpdatedDate": 1600690713131,
   "numberOfFavorites": 4,
-  "tags": {
-    "2": "/mods/other/",
-    "3": "/version/0,15/",
-    "4": "/version/1,0/",
-    "5": "/train/crossing/",
-    "6": "/general/late game (megabase)/",
-    "0": "/train/junction/",
-    "1": "/train/roundabout/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/version/0,15/",
+    "/version/1,0/",
+    "/train/crossing/",
+    "/general/late game (megabase)/",
+    "/train/junction/",
+    "/train/roundabout/"
+  ],
   "title": "GigaBaseTrainGrid Radar+Roboports"
 }

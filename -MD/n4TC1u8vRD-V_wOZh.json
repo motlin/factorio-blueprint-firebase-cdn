@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1625428647902,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Fast cargo loading and unloading (plus make artillery wagon rarely fire automatically!).",
   "favorites": {
     "ScB8E40grLSqtGfMZe7CYXbyPkv2": true,

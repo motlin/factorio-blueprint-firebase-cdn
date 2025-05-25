@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1546409628558,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/uranium/"
-  },
+  "tags": [
+    "/production/uranium/"
+  ],
   "title": "NUC Fuel Production, (4 blue belts of Uranium ore input) Also creates Rocket Fuel for Trains"
 }

@@ -14,13 +14,13 @@
     "type": "image/jpeg"
   },
   "lastUpdatedDate": 1594962099280,
-  "tags": {
-    "0": "/production/batteries/",
-    "1": "/general/beaconized/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,17/",
-    "4": "/general/tileable/"
-  },
+  "tags": [
+    "/production/batteries/",
+    "/general/beaconized/",
+    "/mods/vanilla/",
+    "/version/0,17/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "VFh1c0NEWmdA2t4uUPIXttfL8hF3": true,
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,

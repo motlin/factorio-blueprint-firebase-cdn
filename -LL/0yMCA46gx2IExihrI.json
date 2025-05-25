@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/general/beaconized/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/general/beaconized/",
+    "/general/tileable/"
+  ],
   "favorites": {
     "8N4gXv7KWGM29n1nFeTivQv6EO32": true
   },

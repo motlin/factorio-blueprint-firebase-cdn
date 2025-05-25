@@ -17,10 +17,10 @@
   "descriptionMarkdown": "A mall that outputs products into two rows with items grouped by category (belts, inserters, rail...). Requires gear wheels pre-belted. Contains a few chest inputs.\n\nThis is the early-game version. The late-game version is here: https://factorioprints.com/view/-KpeI4_QA_J4hqnb-Hki",
   "fileName": "DoofMall asdfghjkl.jpg",
   "lastUpdatedDate": 1501193819624,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/general/early game/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  }
+  "tags": [
+    "/production/mall (make everything)/",
+    "/general/early game/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ]
 }

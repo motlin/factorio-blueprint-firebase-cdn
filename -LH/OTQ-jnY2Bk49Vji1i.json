@@ -7,14 +7,14 @@
     "width": 2014,
     "height": 492
   },
-  "tags": {
-    "3": "/version/0,16/",
-    "4": "/general/chunk aligned/",
-    "5": "/general/tileable/",
-    "0": "/train/track/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,17/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/general/chunk aligned/",
+    "/general/tileable/",
+    "/train/track/",
+    "/mods/vanilla/",
+    "/version/0,17/"
+  ],
   "numberOfFavorites": 6,
   "title": "Gigarail Basics v1.0",
   "favorites": {

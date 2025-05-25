@@ -30,10 +30,10 @@
   },
   "lastUpdatedDate": 1623337922301,
   "numberOfFavorites": 12,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/mods/vanilla/",
-    "2": "/general/chunk aligned/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/mods/vanilla/",
+    "/general/chunk aligned/"
+  ],
   "title": "3x3 Vanilla Factory Stamps v1.0"
 }

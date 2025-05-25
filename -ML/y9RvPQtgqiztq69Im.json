@@ -16,9 +16,9 @@
     "width": 1502
   },
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "authorId": "lY419ovaJhWRN4Qz3kJddNh688h1",
   "descriptionMarkdown": "Simple bp for flowers",
   "fileName": "Ras.PNG",

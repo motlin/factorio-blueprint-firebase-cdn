@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1688322240751,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/version/1,1/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/version/1,1/"
+  ],
   "title": "Basic 6x LTN depot"
 }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1637611413572,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/late game (megabase)/",
-    "1": "/general/tileable/",
-    "2": "/production/other/"
-  },
+  "tags": [
+    "/general/late game (megabase)/",
+    "/general/tileable/",
+    "/production/other/"
+  ],
   "title": "Max Speed Rails Production",
   "favorites": {
     "5M3fosoNf0SiL1Z6Df0eNGa3Kaf2": true

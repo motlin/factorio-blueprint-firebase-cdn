@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1669291337251,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/vanilla/",
-    "2": "/general/compact/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/general/compact/"
+  ],
   "title": "Double Smelter",
   "favorites": {
     "fSAiWMVNJ3QfN80f02k0MQemEay1": true,

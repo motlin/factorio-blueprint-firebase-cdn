@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/tzXnnyQ",
   "lastUpdatedDate": 1734277852210,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/version/2,0/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/2,0/",
+    "/mods/space-age/"
+  ],
   "title": "Fusion Reactor 1.4GW compact",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,

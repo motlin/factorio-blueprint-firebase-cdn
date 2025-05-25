@@ -9,11 +9,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170521080722_1.jpg?alt=media&token=97a29c97-0572-44d4-9a04-220d91e98009",
   "numberOfFavorites": 13,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Red science pots",
   "author": {
     "userId": "LjatVpOxUCTnFDuqQ6O93iVUT643"

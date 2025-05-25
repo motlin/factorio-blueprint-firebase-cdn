@@ -21,10 +21,10 @@
   "imageUrl": "https://imgur.com/vSeqH8C",
   "lastUpdatedDate": 1735737410225,
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/space-platform/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/space-platform/",
+    "/production/science/"
+  ],
   "title": "Nauvis Orbital"
 }

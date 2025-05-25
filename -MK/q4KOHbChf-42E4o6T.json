@@ -24,9 +24,9 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bild_2020-10-30_121903.png?alt=media&token=dff202f4-3089-42c1-ba14-e56663508ff1",
   "lastUpdatedDate": 1604057567674,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/general/compact/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/general/compact/"
+  ],
   "title": "Compact Green Circuits (update)"
 }

@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1552739974216,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/0,17/",
-    "1": "/production/modules/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/version/0,17/",
+    "/production/modules/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Simple Modules - Bots"
 }

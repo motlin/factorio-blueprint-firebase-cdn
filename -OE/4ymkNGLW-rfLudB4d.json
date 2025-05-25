@@ -19,8 +19,8 @@
   "imageUrl": "https://imgur.com/TxzoB4w",
   "lastUpdatedDate": 1734193392724,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/version/2,0/"
-  },
+  "tags": [
+    "/version/2,0/"
+  ],
   "title": "SS Foothold"
 }

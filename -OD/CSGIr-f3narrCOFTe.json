@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/n9fSXlv",
   "lastUpdatedDate": 1733245080928,
   "numberOfFavorites": 9,
-  "tags": {
-    "0": "/mods/quality/",
-    "1": "/version/2,0/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/quality/",
+    "/version/2,0/",
+    "/production/mall (make everything)/",
+    "/mods/space-age/"
+  ],
   "title": "Electromagnetic plant Quality Upcycling",
   "favorites": {
     "8h1Xh91rsRVkrLqhmAqCN4cgxuw1": true,

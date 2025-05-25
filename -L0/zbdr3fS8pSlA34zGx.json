@@ -1,11 +1,11 @@
 {
   "fileName": "SteamPowerBP.png",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/version/0,15/",
-    "2": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/steam/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "vbx9CwcdPkUAhgTWGSuSLIgydW93"
   },

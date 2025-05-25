@@ -25,12 +25,12 @@
   },
   "lastUpdatedDate": 1610099908583,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/belt/balancer/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "4": "/version/1,0/"
-  },
+  "tags": [
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/1,0/"
+  ],
   "title": "Blue conveyor (Convoyeur bleu)"
 }

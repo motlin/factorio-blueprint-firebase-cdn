@@ -16,8 +16,8 @@
   "authorId": "F7KHVdsQ2GYB2nKs7jWw7id6Tb72",
   "fileName": "pack 100 in 1 min.png",
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/research (labs)/",
-    "1": "/general/early game/"
-  }
+  "tags": [
+    "/production/research (labs)/",
+    "/general/early game/"
+  ]
 }

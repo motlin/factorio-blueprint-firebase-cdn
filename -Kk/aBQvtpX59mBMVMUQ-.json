@@ -11,12 +11,12 @@
     "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20170520155450_1.jpg?alt=media&token=d171c7a7-60fb-4dc1-9030-17f2c9d8b40e",
-  "tags": {
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/",
-    "0": "/train/junction/",
-    "1": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/train/junction/",
+    "/train/right-hand-drive/"
+  ],
   "title": "8 x 8 Rail intersection (RHD)",
   "author": {
     "userId": "2cUC2fW2vVP7NwkgeQXRNVJfA9U2"

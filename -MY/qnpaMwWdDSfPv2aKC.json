@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1648039516733,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/general/tileable/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/general/tileable/"
+  ],
   "title": "Tileable solar"
 }

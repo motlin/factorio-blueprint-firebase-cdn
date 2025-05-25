@@ -16,9 +16,9 @@
   "imageUrl": "https://imgur.com/N9Mb28T",
   "lastUpdatedDate": 1745847225778,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/general/tileable/",
-    "1": "/general/beaconized/"
-  },
+  "tags": [
+    "/general/tileable/",
+    "/general/beaconized/"
+  ],
   "title": "Heavy Oil tileable Beaconed 2 stack "
 }

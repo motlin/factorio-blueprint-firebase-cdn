@@ -4,9 +4,9 @@
   "createdDate": 1614344184768,
   "descriptionMarkdown": "Connect to belt and the belt's throughput will be displayed on the green network on the power pole in one minute intervals. ",
   "numberOfFavorites": 3,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Belt Throughput Manager",
   "favorites": {
     "LgGL9TUK96McJ2srlvLumqTUOs83": true,

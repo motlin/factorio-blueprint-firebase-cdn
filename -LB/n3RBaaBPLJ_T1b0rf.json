@@ -15,14 +15,14 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2018-05-05-21-39-23.jpeg?alt=media&token=75bda18a-b97a-484a-9292-63335fca6c4a",
   "lastUpdatedDate": 1658718226853,
-  "tags": {
-    "2": "/circuit/indicator/",
-    "3": "/version/0,15/",
-    "4": "/mods/vanilla/",
-    "5": "/mods/creative/",
-    "0": "/version/0,16/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/version/0,15/",
+    "/mods/vanilla/",
+    "/mods/creative/",
+    "/version/0,16/",
+    "/circuit/counter/"
+  ],
   "title": "Timer/Stopwatch",
   "favorites": {
     "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,

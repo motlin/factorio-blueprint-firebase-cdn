@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/fOBaQjb",
   "lastUpdatedDate": 1726518115238,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Planta fabricação de placas de neodymium e cryodust condensado(S.E. + Exotics)"
 }

@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/ilWahgB",
   "lastUpdatedDate": 1736898166948,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/other/",
-    "1": "/planets/space-platform/",
-    "2": "/general/art/"
-  },
+  "tags": [
+    "/production/other/",
+    "/planets/space-platform/",
+    "/general/art/"
+  ],
   "title": "Darth Vader the Starship.  Or Dark Helmet"
 }

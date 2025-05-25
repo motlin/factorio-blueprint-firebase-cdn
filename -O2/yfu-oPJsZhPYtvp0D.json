@@ -13,8 +13,8 @@
   "imageUrl": "https://imgur.com/Fn8rRML",
   "lastUpdatedDate": 1722259989760,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/other/"
-  },
+  "tags": [
+    "/mods/other/"
+  ],
   "title": "Automatic Rocket Builder"
 }

@@ -1,9 +1,9 @@
 {
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/mods/vanilla/",
-    "2": "/power/steam/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/power/steam/"
+  ],
   "favorites": {
     "SKFETf26LTRYzpF18AfTGVsWj782": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true

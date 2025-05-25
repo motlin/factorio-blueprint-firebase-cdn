@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1654140614872,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/"
+  ],
   "title": "Logic Circuits",
   "favorites": {
     "HJf3XvBw1YcrswZK6GJg3AwKgCG3": true,

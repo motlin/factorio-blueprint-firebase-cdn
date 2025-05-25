@@ -1,8 +1,8 @@
 {
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Cool Science",
   "favorites": {
     "w0Ce9dFrlnVxDADCb49BTBNSlN43": true,

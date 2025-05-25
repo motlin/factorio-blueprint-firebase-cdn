@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1633388805107,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/counter/"
-  },
+  "tags": [
+    "/circuit/counter/"
+  ],
   "title": "Self Resetting Circuit Network Timer",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20211004160356_1.jpg?alt=media&token=8b0dc948-ef6c-4ceb-aab4-885a270d09f4"
 }

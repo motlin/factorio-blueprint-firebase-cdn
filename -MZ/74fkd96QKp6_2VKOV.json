@@ -18,11 +18,11 @@
   },
   "lastUpdatedDate": 1619338434882,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/belt/balancer/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Science Production Throttler/Ratio-er (book)"
 }

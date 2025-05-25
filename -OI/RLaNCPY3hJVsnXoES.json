@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/5bITZGX",
   "lastUpdatedDate": 1738873440490,
   "numberOfFavorites": 8,
-  "tags": {
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/production/science/"
+  ],
   "title": "Green Science",
   "favorites": {
     "2xa3HX1bj1XXmX0PDaEoTbTiRzW2": true,

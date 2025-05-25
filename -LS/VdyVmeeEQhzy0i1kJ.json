@@ -1,14 +1,14 @@
 {
   "fileName": "Belt4-Yellow.png",
   "numberOfFavorites": 2,
-  "tags": {
-    "3": "/belt/tap/",
-    "4": "/belt/transport belt (yellow)/",
-    "5": "/version/0,16/",
-    "0": "/mods/vanilla/",
-    "1": "/belt/balancer/",
-    "2": "/belt/prioritizer/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/belt/transport belt (yellow)/",
+    "/version/0,16/",
+    "/mods/vanilla/",
+    "/belt/balancer/",
+    "/belt/prioritizer/"
+  ],
   "authorId": "VdlW6mvTuyTILdb5Tv4wlmu6cPy2",
   "createdDate": 1543514876052,
   "descriptionMarkdown": "**Features**\n\nA more complete set of 4 belt patterns used for main bus, check the book's blueprint list!\n\n**Credit**\n\nMany of these items were developed in collaboration.  Some of them don't even belong to me (4-belt balancer and flip corner for example).  We're building on the shoulders of giants here.",

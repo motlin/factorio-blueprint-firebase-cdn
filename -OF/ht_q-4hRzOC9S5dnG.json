@@ -13,10 +13,10 @@
   "imageUrl": "https://imgur.com/mkZ7Ytr",
   "lastUpdatedDate": 1735936956607,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/vanilla/"
+  ],
   "title": "Parameterized Bot Mall",
   "favorites": {
     "ZNkQtueHLZW8a72pFLP0xL1XpTh2": true,

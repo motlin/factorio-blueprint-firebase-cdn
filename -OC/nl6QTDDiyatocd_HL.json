@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/yciRih3",
   "lastUpdatedDate": 1732843236885,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/planets/space-platform/",
-    "2": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/planets/space-platform/",
+    "/mods/space-age/"
+  ],
   "title": "Spaceship Aquilo. 12 cargo compartments. 400 km/s stable",
   "favorites": {
     "xn9VsXbjq1ZG8ipiqdl4VXkcAV23": true,

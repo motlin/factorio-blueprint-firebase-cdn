@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/i9VTeKJ",
   "lastUpdatedDate": 1730822540544,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Gleba Transport ship"
 }

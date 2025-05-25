@@ -63,14 +63,14 @@
   "imageUrl": "https://imgur.com/n8lQ5L9",
   "lastUpdatedDate": 1732585407904,
   "numberOfFavorites": 14,
-  "tags": {
-    "0": "/belt/fast transport belt (red)/",
-    "1": "/belt/express transport belt (blue)/",
-    "2": "/combat/offense/",
-    "3": "/general/ups friendly/",
-    "4": "/power/solar/",
-    "5": "/version/2,0/",
-    "6": "/planets/space-platform/"
-  },
+  "tags": [
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/combat/offense/",
+    "/general/ups friendly/",
+    "/power/solar/",
+    "/version/2,0/",
+    "/planets/space-platform/"
+  ],
   "title": "Large Space Ships + more"
 }

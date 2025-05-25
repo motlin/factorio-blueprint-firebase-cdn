@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "Intended for use with https://factorioprints.com/view/-LCXwXzaWLG_QIDsZitd  It was loosely based on the Water Pickup Hex designed by Guy Albertelli, but I modified it to be less directional.  You can collect oil from this hex and up to three adjacent ones.\n\nTo use with larger or awkwardly-placed oil fields relative to your hex grid, simply place down a Quad-Hex around the oil, then either stamp this down one hex to the south, or remove train tracks and stamp it against the northernmost edge of the Quad.\n\nHas the following features:\n- Each station has at least 2 fluid inputs from each of the adjacent hexes.\n- All inputs connect to each other via a central \"circulatory system.\"  When one tank fills up, fluid remains accessible to all other tanks.\n- Each tank has one small electric pump feeding into it from the main line.\n- Tanks act as crude oil buffers for each station.\n- Designed for use with Fluid Wagons.\n- Empty hex center to increase the odds that you can an entire oil deposit in this one hex.\n- Buildable without Red Circuits, so you can start working with trains and hexes before building any Oil infrastructure.",
   "fileName": "Hexlandia2CrudeOilPickup.png",
-  "tags": {
-    "0": "/mods/vanilla/",
-    "1": "/version/0,16/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
   "title": "Hexland 2 Crude Oil Pickup",
   "createdDate": 1526641308733,
   "authorId": "6423V8885QVqOubr0uH1rhvPkmJ3",

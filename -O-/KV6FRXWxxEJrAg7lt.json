@@ -19,10 +19,10 @@
   "imageUrl": "https://imgur.com/sGgNQl2",
   "lastUpdatedDate": 1718347659594,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/loading station/",
-    "1": "/train/junction/",
-    "2": "/train/track/"
-  },
+  "tags": [
+    "/train/loading station/",
+    "/train/junction/",
+    "/train/track/"
+  ],
   "title": "Ring Roads"
 }

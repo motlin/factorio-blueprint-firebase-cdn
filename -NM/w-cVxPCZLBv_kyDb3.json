@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1674970302579,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-exploration/",
-    "1": "/general/beaconized/",
-    "2": "/production/logistic (bot) based/"
-  },
+  "tags": [
+    "/mods/space-exploration/",
+    "/general/beaconized/",
+    "/production/logistic (bot) based/"
+  ],
   "title": "Space Exploration Logistic Assembly Machine Block",
   "favorites": {
     "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,

@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/wjwG8mD",
   "lastUpdatedDate": 1747234319122,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/"
+  ],
   "title": "Cloudiboy’s Kovarex Blueprint Book Normal / Beaconed / LEGENDARY!",
   "favorites": {
     "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,

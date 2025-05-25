@@ -17,10 +17,10 @@
   "imageUrl": "https://imgur.com/lV7FRrT",
   "lastUpdatedDate": 1722044375256,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/other/",
-    "2": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/other/",
+    "/mods/space-exploration/"
+  ],
   "title": "Bloco para fundição de lingote de cobre, ferro e aço vers. 1.0"
 }

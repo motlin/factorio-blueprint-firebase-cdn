@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/Z8Lbk7x",
   "lastUpdatedDate": 1730287564197,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Halcyon Mk 2",
   "favorites": {
     "b4ccsf03ZifakAm0jVGF6kCFlOr2": true,

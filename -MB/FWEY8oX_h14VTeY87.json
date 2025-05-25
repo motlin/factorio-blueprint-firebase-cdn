@@ -19,12 +19,12 @@
   },
   "lastUpdatedDate": 1622701046274,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/angels/",
-    "2": "/general/early game/",
-    "3": "/train/loading station/",
-    "4": "/train/unloading station/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/angels/",
+    "/general/early game/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "Furnace Stations with concrete and Circuit network"
 }

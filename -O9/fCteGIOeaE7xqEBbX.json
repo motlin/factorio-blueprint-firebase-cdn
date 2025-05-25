@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/BElWecZ",
   "lastUpdatedDate": 1729449401106,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/vanilla/"
-  },
+  "tags": [
+    "/mods/vanilla/"
+  ],
   "title": "Train Stuff",
   "favorites": {
     "Ew4m2RvkgIVErDCOEhmbxTf22yq2": true

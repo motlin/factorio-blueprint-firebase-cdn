@@ -8,9 +8,9 @@
     "width": 663
   },
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/train/loading station/"
-  },
+  "tags": [
+    "/train/loading station/"
+  ],
   "title": "Load Station Logic",
   "authorId": "ZgM108VnA7Wovj3Mdd56SPAZoz03",
   "createdDate": 1533753248174,

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1698287558283,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/oil processing/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/oil processing/",
+    "/mods/vanilla/"
+  ],
   "title": "MODULO DE REFINARIA BASICO",
   "favorites": {
     "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true

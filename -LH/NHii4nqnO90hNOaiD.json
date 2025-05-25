@@ -1,12 +1,12 @@
 {
   "lastUpdatedDate": 1533373210972,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/power/solar/",
-    "1": "/power/accumulator/",
-    "2": "/power/nuclear/",
-    "3": "/power/steam/"
-  },
+  "tags": [
+    "/power/solar/",
+    "/power/accumulator/",
+    "/power/nuclear/",
+    "/power/steam/"
+  ],
   "title": "Electricity",
   "favorites": {
     "jx1WuPgXOHMj4SIFHfdxj1uAoQ32": true,

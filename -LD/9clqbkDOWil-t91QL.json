@@ -11,14 +11,14 @@
   },
   "lastUpdatedDate": 1556030365325,
   "numberOfFavorites": 9,
-  "tags": {
-    "5": "/production/mall (make everything)/",
-    "0": "/version/0,17/",
-    "1": "/mods/vanilla/",
-    "2": "/general/early game/",
-    "3": "/general/compact/",
-    "4": "/production/science/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/version/0,17/",
+    "/mods/vanilla/",
+    "/general/early game/",
+    "/general/compact/",
+    "/production/science/"
+  ],
   "title": "KoS Modified Starter Base",
   "favorites": {
     "MsTDhe73rahbHiOTBqso96EUmls2": true,

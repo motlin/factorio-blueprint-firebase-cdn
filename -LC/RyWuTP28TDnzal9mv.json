@@ -30,9 +30,9 @@
   "createdDate": 1555264315339,
   "lastUpdatedDate": 1555264315339,
   "numberOfFavorites": 11,
-  "tags": {
-    "2": "/production/research (labs)/",
-    "0": "/version/0,17/",
-    "1": "/production/science/"
-  }
+  "tags": [
+    "/production/research (labs)/",
+    "/version/0,17/",
+    "/production/science/"
+  ]
 }

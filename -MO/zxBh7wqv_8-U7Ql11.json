@@ -19,7 +19,7 @@
     "type": "image/png",
     "width": 1268
   },
-  "tags": {
-    "0": "/train/right-hand-drive/"
-  }
+  "tags": [
+    "/train/right-hand-drive/"
+  ]
 }

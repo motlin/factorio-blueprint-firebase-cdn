@@ -13,9 +13,9 @@
   "imageUrl": "https://imgur.com/eady1HJ",
   "lastUpdatedDate": 1730850569060,
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/planets/gleba/"
-  },
+  "tags": [
+    "/planets/gleba/"
+  ],
   "title": "Gleba Copper Ore",
   "favorites": {
     "63cO4TAoi9RsNcKaWUj6ljPbfQ93": true,

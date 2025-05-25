@@ -12,13 +12,13 @@
   "createdDate": 1569693183972,
   "lastUpdatedDate": 1569693183972,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/power/kovarex enrichment/",
-    "2": "/general/tileable/",
-    "3": "/mods/vanilla/",
-    "4": "/version/0,15/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/power/kovarex enrichment/",
+    "/general/tileable/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Kovarex 3x9",
   "author": {
     "userId": "oMDvg2kOdEYh3ydv8N31faq27f22"

@@ -33,10 +33,10 @@
   },
   "lastUpdatedDate": 1582467825722,
   "numberOfFavorites": 16,
-  "tags": {
-    "0": "/mods/ltn/",
-    "1": "/train/loading station/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/ltn/",
+    "/train/loading station/",
+    "/train/unloading station/"
+  ],
   "title": "LTN Balanced Stations"
 }

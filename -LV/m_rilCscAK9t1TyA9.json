@@ -26,10 +26,10 @@
     "type": "image/jpeg",
     "width": 2101
   },
-  "tags": {
-    "0": "/power/steam/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/"
-  }
+  "tags": [
+    "/power/steam/",
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/"
+  ]
 }

@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1633031462550,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/science/",
+    "/mods/vanilla/"
+  ],
   "title": "60spm, no splitter, no underground belt",
   "favorites": {
     "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,

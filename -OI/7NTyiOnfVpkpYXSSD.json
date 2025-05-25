@@ -13,8 +13,8 @@
   "imageUrl": "https://i.imgur.com/8jO7rmh.jpeg",
   "lastUpdatedDate": 1738528649156,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/planets/space-platform/"
-  },
+  "tags": [
+    "/planets/space-platform/"
+  ],
   "title": "Hunter-Lavalee"
 }

@@ -41,11 +41,11 @@
   },
   "lastUpdatedDate": 1680012180774,
   "numberOfFavorites": 20,
-  "tags": {
-    "0": "/mods/aai/",
-    "1": "/mods/other/",
-    "2": "/production/mall (make everything)/",
-    "3": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/mods/aai/",
+    "/mods/other/",
+    "/production/mall (make everything)/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Exploration Space mall "
 }

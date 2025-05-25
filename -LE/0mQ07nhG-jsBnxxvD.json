@@ -1,11 +1,11 @@
 {
   "lastUpdatedDate": 1527971026444,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/circuit/counter/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/circuit/counter/",
+    "/production/science/"
+  ],
   "author": {
     "userId": "hO3xbnwAPmcSnKdbG3C2jJxMJnp1"
   },

@@ -8,11 +8,11 @@
     "width": 1360
   },
   "lastUpdatedDate": 1500376805073,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "0": "/production/science/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/production/science/"
+  ],
   "title": "red science pack",
   "author": {
     "userId": "7sQtFroCgmcgizw6FD7w0LQfvok2"

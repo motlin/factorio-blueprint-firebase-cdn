@@ -13,11 +13,11 @@
   "imageUrl": "https://imgur.com/36yNXG0",
   "lastUpdatedDate": 1730853234667,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/combat/offense/",
-    "1": "/combat/defense/",
-    "2": "/version/2,0/"
-  },
+  "tags": [
+    "/combat/offense/",
+    "/combat/defense/",
+    "/version/2,0/"
+  ],
   "title": "Easy Demolisher Killer",
   "favorites": {
     "asniM5Gx2ROkxEtUF2DWlY9JLUz1": true,

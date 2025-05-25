@@ -15,10 +15,10 @@
   },
   "lastUpdatedDate": 1674412033894,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/krastorio/",
-    "1": "/circuit/indicator/"
-  },
+  "tags": [
+    "/mods/krastorio/",
+    "/circuit/indicator/"
+  ],
   "title": "Signal Prism ",
   "favorites": {
     "PuElJsUlrbVfeRMLi3Qxa8sum7X2": true

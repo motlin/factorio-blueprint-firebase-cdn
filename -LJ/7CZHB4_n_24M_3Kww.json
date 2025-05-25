@@ -1,10 +1,10 @@
 {
   "descriptionMarkdown": "just my own setup to make ingots using pellets.",
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/"
+  ],
   "lastUpdatedDate": 1533441098951,
   "title": "Angels Iron ignots with pellets",
   "author": {

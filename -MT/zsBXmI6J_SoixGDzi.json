@@ -15,12 +15,12 @@
   },
   "lastUpdatedDate": 1642822945089,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/power/solar/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Train chunk + crossing",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true

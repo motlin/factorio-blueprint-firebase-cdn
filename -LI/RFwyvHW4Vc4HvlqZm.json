@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1532703789433,
   "numberOfFavorites": 6,
-  "tags": {
-    "0": "/version/0,16/",
-    "1": "/production/science/",
-    "2": "/mods/vanilla/",
-    "3": "/belt/transport belt (yellow)/"
-  },
+  "tags": [
+    "/version/0,16/",
+    "/production/science/",
+    "/mods/vanilla/",
+    "/belt/transport belt (yellow)/"
+  ],
   "title": "45 SPM modular factory"
 }

@@ -5,10 +5,10 @@
   "title": "GK Block of Nuclear 1.1 GW 8-Core Power on Demand",
   "lastUpdatedDate": 1522812760538,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/power/nuclear/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/nuclear/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "mNHFAiP6izStsOhbaEKjOewCujs2": true
   },

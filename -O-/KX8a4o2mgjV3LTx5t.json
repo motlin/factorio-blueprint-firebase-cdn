@@ -17,14 +17,14 @@
   "imageUrl": "https://imgur.com/4pB468n",
   "lastUpdatedDate": 1718348193677,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/production/rocket parts/",
-    "1": "/production/belts/",
-    "2": "/production/mining/",
-    "3": "/production/modules/",
-    "4": "/production/other/",
-    "5": "/belt/balancer/",
-    "6": "/belt/express transport belt (blue)/"
-  },
+  "tags": [
+    "/production/rocket parts/",
+    "/production/belts/",
+    "/production/mining/",
+    "/production/modules/",
+    "/production/other/",
+    "/belt/balancer/",
+    "/belt/express transport belt (blue)/"
+  ],
   "title": "Just drawings of everything"
 }

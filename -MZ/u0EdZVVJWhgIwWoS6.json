@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1620176397413,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/industrial revolution/",
-    "1": "/production/electronic circuit (green)/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/mods/industrial revolution/",
+    "/production/electronic circuit (green)/",
+    "/version/0,15/"
+  ],
   "title": "IR2 Basic Circuits",
   "favorites": {
     "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true

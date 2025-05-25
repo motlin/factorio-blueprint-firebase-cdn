@@ -4,12 +4,12 @@
   "descriptionMarkdown": "A much improved version of my previous design. This facility has a high Uranium output that quickly filters out U235 and puts it on a priority belt straight to the Kovorax refineries.\n\nThe Kovarex Sushi belt has an inbuilt anti-clogging feature that filters U238 onto one side of the belt so the Kovarex plants can unload unhindered, it also only allows fresh Uranium onto the belt if it reads that there is room for more.\n\nOnce there is over 100 units of U235 the belt will start to empty into a logistics container.\n\nTo kick start the process it is recommended that the Sushi belt is used for producing Uranium based ammo in order for the facility to start off the Kovarex chain.\n\nThis facility is large enough to provide fuel for a mega base and/or material for a large amount of Nukes!",
   "fileName": "K0V.png",
   "numberOfFavorites": 5,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/mods/vanilla/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/mods/vanilla/"
+  ],
   "author": {
     "userId": "vZuqItzdzkX1lDgkiL0m7hCvaXz2"
   },

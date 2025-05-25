@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1703080386934,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/train/unloading station/"
-  },
+  "tags": [
+    "/train/unloading station/"
+  ],
   "title": "\"Bufferless\" Train Unload System -- Logic and Example Blueprints",
   "favorites": {
     "0N1Rcyg4GGdzUKSIMZZDbzhzuiH2": true

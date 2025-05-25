@@ -15,13 +15,13 @@
     "width": 512
   },
   "fileName": "Double automated factories.png",
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/production/mall (make everything)/",
-    "2": "/production/modules/",
-    "3": "/production/guns and ammo/",
-    "4": "/production/other/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/production/mall (make everything)/",
+    "/production/modules/",
+    "/production/guns and ammo/",
+    "/production/other/"
+  ],
   "title": "Double automated factories",
   "authorId": "12IFcKmT8NggJEFMWV0GNifYmgg2",
   "createdDate": 1609585265765,

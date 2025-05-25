@@ -16,11 +16,11 @@
   "fileName": "screenshot for bp.jpeg",
   "lastUpdatedDate": 1551639203583,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/science/",
-    "1": "/production/research (labs)/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/production/science/",
+    "/production/research (labs)/",
+    "/version/0,15/"
+  ],
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true
   }

@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1706779394464,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/train/crossing/",
-    "1": "/train/roundabout/",
-    "2": "/train/right-hand-drive/"
-  },
+  "tags": [
+    "/train/crossing/",
+    "/train/roundabout/",
+    "/train/right-hand-drive/"
+  ],
   "title": "Rail system",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,

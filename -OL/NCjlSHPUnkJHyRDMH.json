@@ -13,12 +13,12 @@
   "imageUrl": "https://i.imgur.com/oVvnTc8.png",
   "lastUpdatedDate": 1742016317198,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/power/kovarex enrichment/",
-    "1": "/production/uranium/",
-    "2": "/general/beaconized/",
-    "3": "/version/2,0/"
-  },
+  "tags": [
+    "/power/kovarex enrichment/",
+    "/production/uranium/",
+    "/general/beaconized/",
+    "/version/2,0/"
+  ],
   "title": "Nuclear Fuel Processing",
   "favorites": {
     "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true

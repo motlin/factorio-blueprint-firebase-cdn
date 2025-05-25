@@ -30,9 +30,9 @@
   },
   "lastUpdatedDate": 1673806397659,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/mall (make everything)/",
-    "1": "/mods/space-exploration/"
-  },
+  "tags": [
+    "/production/mall (make everything)/",
+    "/mods/space-exploration/"
+  ],
   "title": "Space Engineering Malls"
 }

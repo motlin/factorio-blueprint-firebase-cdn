@@ -15,9 +15,9 @@
   },
   "lastUpdatedDate": 1616476839740,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Perfect tileable electric miner",
   "favorites": {
     "ycg5bNpyxXVmq6cywvmHQq0pWH02": true,

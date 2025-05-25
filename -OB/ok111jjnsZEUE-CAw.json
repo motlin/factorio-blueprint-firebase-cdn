@@ -23,8 +23,8 @@
   "imageUrl": "https://imgur.com/lzm5nJY",
   "lastUpdatedDate": 1731756827178,
   "numberOfFavorites": 4,
-  "tags": {
-    "0": "/mods/space-age/"
-  },
+  "tags": [
+    "/mods/space-age/"
+  ],
   "title": "Sapce Ship Edge of Galaxy"
 }

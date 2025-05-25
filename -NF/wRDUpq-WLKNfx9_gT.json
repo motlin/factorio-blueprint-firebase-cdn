@@ -19,11 +19,11 @@
   },
   "lastUpdatedDate": 1667461343519,
   "numberOfFavorites": 2,
-  "tags": {
-    "0": "/train/junction/",
-    "1": "/train/roundabout/",
-    "2": "/power/solar/",
-    "3": "/mods/other/"
-  },
+  "tags": [
+    "/train/junction/",
+    "/train/roundabout/",
+    "/power/solar/",
+    "/mods/other/"
+  ],
   "title": "City Blok With Robotport MK3 And Solar"
 }

@@ -16,12 +16,12 @@
   },
   "lastUpdatedDate": 1530197342929,
   "numberOfFavorites": 12,
-  "tags": {
-    "1": "/mods/vanilla/",
-    "2": "/version/0,15/",
-    "3": "/version/0,16/",
-    "0": "/train/junction/"
-  },
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,15/",
+    "/version/0,16/",
+    "/train/junction/"
+  ],
   "title": "Quar's Rails",
   "author": {
     "userId": "Dpao822gmUMHlnAiFtlAA14dovo1"

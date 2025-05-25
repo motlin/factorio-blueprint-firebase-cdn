@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1584676351900,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/circuit/indicator/",
-    "1": "/mods/vanilla/",
-    "2": "/version/0,18/"
-  },
+  "tags": [
+    "/circuit/indicator/",
+    "/mods/vanilla/",
+    "/version/0,18/"
+  ],
   "title": "Text Display Book 0.18"
 }

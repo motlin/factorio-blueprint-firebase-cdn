@@ -15,11 +15,11 @@
   },
   "lastUpdatedDate": 1625362935199,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/power/accumulator/",
-    "1": "/mods/other/",
-    "2": "/version/0,15/"
-  },
+  "tags": [
+    "/power/accumulator/",
+    "/mods/other/",
+    "/version/0,15/"
+  ],
   "title": "Spaceship Millennium Falcon",
   "favorites": {
     "mhro0TpyCASStzSKeOUtiYgKNXB2": true,

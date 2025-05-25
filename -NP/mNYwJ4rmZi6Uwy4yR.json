@@ -41,17 +41,17 @@
   },
   "lastUpdatedDate": 1707022317842,
   "numberOfFavorites": 10,
-  "tags": {
-    "0": "/production/smelting/",
-    "1": "/mods/krastorio/",
-    "2": "/general/compact/",
-    "3": "/general/early game/",
-    "4": "/general/mid game/",
-    "5": "/general/late game (megabase)/",
-    "6": "/belt/transport belt (yellow)/",
-    "7": "/belt/fast transport belt (red)/",
-    "8": "/belt/express transport belt (blue)/",
-    "9": "/belt/balancer/"
-  },
+  "tags": [
+    "/production/smelting/",
+    "/mods/krastorio/",
+    "/general/compact/",
+    "/general/early game/",
+    "/general/mid game/",
+    "/general/late game (megabase)/",
+    "/belt/transport belt (yellow)/",
+    "/belt/fast transport belt (red)/",
+    "/belt/express transport belt (blue)/",
+    "/belt/balancer/"
+  ],
   "title": "Iron, Copper - Smelting to Bus - Krastorio 2"
 }

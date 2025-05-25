@@ -1,10 +1,10 @@
 {
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/electronic circuit (green)/",
-    "1": "/mods/vanilla/",
-    "2": "/production/science/"
-  },
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/production/science/"
+  ],
   "favorites": {
     "HW9dSlTeuMbCnaEmzJodbb9hDM33": true
   },

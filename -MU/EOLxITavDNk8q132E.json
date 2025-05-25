@@ -14,10 +14,10 @@
     "width": 420
   },
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/production/advanced circuit (red)/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/"
+  ],
   "favorites": {
     "4F2J03PL7TfZKIg0d7dKsQ7CzwP2": true
   },

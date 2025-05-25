@@ -14,11 +14,11 @@
   "author": {
     "userId": "h0PANcdPidfQwmCTWg7q6oTAKus1"
   },
-  "tags": {
-    "2": "/version/0,15/",
-    "0": "/train/loading station/",
-    "1": "/mods/vanilla/"
-  },
+  "tags": [
+    "/version/0,15/",
+    "/train/loading station/",
+    "/mods/vanilla/"
+  ],
   "numberOfFavorites": 9,
   "title": "Oil Base - for train system",
   "favorites": {

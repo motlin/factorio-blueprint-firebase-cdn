@@ -18,10 +18,10 @@
   },
   "lastUpdatedDate": 1565384609384,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/mods/angels/",
-    "1": "/mods/bobs/",
-    "2": "/train/unloading station/"
-  },
+  "tags": [
+    "/mods/angels/",
+    "/mods/bobs/",
+    "/train/unloading station/"
+  ],
   "title": "BALANCED TRAIN STATION`(circuit)"
 }

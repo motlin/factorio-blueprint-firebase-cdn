@@ -15,12 +15,12 @@
     "width": 1615
   },
   "lastUpdatedDate": 1511442791009,
-  "tags": {
-    "0": "/belt/tap/",
-    "1": "/belt/balancer/",
-    "2": "/mods/vanilla/",
-    "3": "/version/0,15/"
-  },
+  "tags": [
+    "/belt/tap/",
+    "/belt/balancer/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
   "title": "Main bus splitters",
   "favorites": {
     "lPwPVK5Z07bgzrcQqsXJ1q8I3hp2": true,

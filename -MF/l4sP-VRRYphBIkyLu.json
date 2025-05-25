@@ -15,8 +15,8 @@
   },
   "lastUpdatedDate": 1627622498429,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/production/mining/"
-  },
+  "tags": [
+    "/production/mining/"
+  ],
   "title": "Mining Base Test 1.0"
 }

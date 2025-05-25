@@ -13,12 +13,12 @@
   "imageUrl": "https://imgur.com/5ibMlea",
   "lastUpdatedDate": 1731488316155,
   "numberOfFavorites": 1,
-  "tags": {
-    "0": "/planets/vulcanus/",
-    "1": "/mods/space-age/",
-    "2": "/version/0,15/",
-    "3": "/production/smelting/"
-  },
+  "tags": [
+    "/planets/vulcanus/",
+    "/mods/space-age/",
+    "/version/0,15/",
+    "/production/smelting/"
+  ],
   "title": "Molten Iron/Copper Foundry with Automatic Junk Stone filter - 1.2k/s",
   "favorites": {
     "vtF0Xg6apweW5EnLXeE5mYH2UGg1": true,

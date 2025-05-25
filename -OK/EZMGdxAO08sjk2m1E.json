@@ -13,9 +13,9 @@
   "imageUrl": "https://i.imgur.com/1gEOK8m.png",
   "lastUpdatedDate": 1740796687594,
   "numberOfFavorites": 0,
-  "tags": {
-    "0": "/mods/space-age/",
-    "1": "/planets/gleba/"
-  },
+  "tags": [
+    "/mods/space-age/",
+    "/planets/gleba/"
+  ],
   "title": "Smart Biochamber"
 }
