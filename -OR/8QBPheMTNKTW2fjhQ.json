@@ -1,0 +1,17 @@
+{
+  "author": {
+    "userId": "vfdAmIqLgwYs6RM43GbHLUmit8H2"
+  },
+  "authorId": "vfdAmIqLgwYs6RM43GbHLUmit8H2",
+  "blueprintString": "0eNrtm21vIjcQx7+LX10lc1o/7QNSK8G1Uis1uejUd7kIEXByVmGXLkuuUcR3vxl7WbhrILWVwIJQpOw/Y3vW/nm8jL3kidxOFnpWmrwi3Scy1vNRaWaVKXLSJX9cfnjXo+ynz7lTHNSvv31416eSitoKulGqKY9p0rRC9Xvvz78+5/hzFdFeRPsRKEZ7DC6c9jhcpLsouNA+2hOrIkKJGRX5nHSvn8jc3OfDCfa0epxp6OKDKasFWCjJh1M0uBqdC7KEdvlY/0u6bEkDW/LlDSU6r0xltOuA/eNxkC+mt7oE101r7GI1zKvOqJjemnxYFSW4nhVz42A+EfDXSaP3ipJH0o3VewX3gVZVWUwGt/rL8MFAE6g31yNsMv9ew71Xw6HkzkwqXf5ofWFgn8DyDxRA/8GYF+XUVoL+zoal7W+X/GwNCwwGtryBnyWy+2HQvPE81iMz1uXuMSfZ5ojHpnRjIl35/PhrpwMoG5uGxOZfMOo7U86rwf+e1E9k+Z+R4twWi2q2qDxjSz/o8rH6YvJ7styCSDRtpnpsFtOOnsCoSzPqzIqJfg6S2gyMZzxKT+jJyl/6PfR0f9CvHHS3LqBPbK9ToDyBydYAex1EF87Z7HFgF/TgriymA5ODI9K9G07megu32JMba12gscNDTPwgxmnrIPLDQ0w9IarWQRSHh5h5QhStgygPD5FFnhSj1lFULaDI/Ciq9uUwcQsoeqbfqn2PxaQFFP0z9KzmiBnPsy5DU/Qker2J2WOCzZTn5rfZ4yTR3je/V76bX9o45y86773WzprFgZuWNoZQjyy9Dl762yMtCdyTnDiW1HcBss1HWKsXID/QAsw8kcbZ0SCV2w/0fNPb7A3Wl2dK0X/Ns5KQNelT/zIwS+G+58txcjThKLxWeN/PeWfH6bVn/hwnbQz2X9ob7B9Dg134Brs6omfvGwb7jliXgUdop504cRV4KHbiWGLfBSiOZgGqAy1A3xcB7JxZ7Sez8t07xcezd4q3h6Pn2wCVnXOfveQ+IvIMR3U8+87kQIm+8N08qeREmb7a8YjggW9wTjtxEiLwlcyJY5G+C/B4NnS7njuh3zxKxME+ZC/e7Bs0my+SoExXX4vyb9vjUo/rD0VK7kutYcRVudBboyn0i0lnrDuxJqFnv23GSr19Xr7kc2XQg9rTMB+3Yf7S0OPM05q/j8c6f1noEd35sbYDq4xCj/jOWHdhZaHnWedPizY8bSQPPQA6f1q0Yv5E6Ab8/FjbhVWGbuDPWBuscLuvQAJvds0oo5yyG3rN8Soot1JSp+A36JVStVJYUYHEakza5lBGY1uOiq2koLDLxnIw0MQaUbGVhPLYloOBptaIikdryWsJVZO6KsjUSmhBM1uOistaQnlmyzO8l/OFkqtaCgp5B1bAQsqYNVvNkw2drTTUZ6v6oB0xZtG57lktGg11hKuDWIWDCRrsDheSRnRypQGT1TU9q2OcB9dlAAYN07UWjjDLHC2sjxdkZKeQOXTWbufTteXCcbJ2iXY3RiAD8OK1lo4ax3vxdK2lYwVooG201tKNXdQc0D9ekIO1C6wv11rWWrmx2Pqx67/Vieuz1anrp9WZ6xtqvGB/rGauD1bX97W6vpe8gag3lZ7C6ln/Iy0lsILm9oGgYp7JLFNxyjOWyuXyG4rI+o8=",
+  "createdDate": 1748209813295,
+  "descriptionMarkdown": "INC(A,1)\nINC(A,2)\nDEC(B,4,3)\nINC(B,4)\nINC(B,5)\nDEC(B,6,7)\nINC(A,7)\nHALT\n\n\nP0,A0,B0\nP1,A1\nP2,A2\nP4,A2\nP5,A2,B1\nP7,A2,B0",
+  "image": {
+    "id": "9feQxNi",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/9feQxNi",
+  "lastUpdatedDate": 1748209813295,
+  "numberOfFavorites": 0,
+  "title": "Minsky Machine Demo"
+}

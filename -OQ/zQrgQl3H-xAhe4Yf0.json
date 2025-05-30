@@ -12,11 +12,15 @@
   },
   "imageUrl": "https://imgur.com/t03cJ6W",
   "lastUpdatedDate": 1748043090523,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 2,
   "tags": [
     "/circuit/indicator/",
     "/mods/vanilla/",
     "/version/2,0/"
   ],
-  "title": "PWM Item Quantity Indicator"
+  "title": "PWM Item Quantity Indicator",
+  "favorites": {
+    "w4h2FQr4DKXoK13k2Am49566ZqT2": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+  }
 }

@@ -12,9 +12,12 @@
   },
   "imageUrl": "https://imgur.com/Z4oDjAr",
   "lastUpdatedDate": 1738014001614,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "[item=radar]Radar Outpost"
+  "title": "[item=radar]Radar Outpost",
+  "favorites": {
+    "G8a1gDMx5dRj7rOJ1MMa9EYvIz33": true
+  }
 }

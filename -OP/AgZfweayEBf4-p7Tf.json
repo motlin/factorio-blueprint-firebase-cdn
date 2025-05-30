@@ -12,10 +12,13 @@
   },
   "imageUrl": "https://imgur.com/Cg9Lotv",
   "lastUpdatedDate": 1746100439984,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/smelting/",
     "/mods/vanilla/"
   ],
-  "title": "simple smelting"
+  "title": "simple smelting",
+  "favorites": {
+    "QXujORvDUlXBIAQ0pgjTeWufgSG2": true
+  }
 }

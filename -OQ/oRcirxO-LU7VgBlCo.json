@@ -7,11 +7,11 @@
   "createdDate": 1747857870032,
   "descriptionMarkdown": "10 tiles by 388 tall.\nCan put 16.6 units in a row before the water will not flow fast enough through the inbuilt pumps.\nThis book contains A) the plant itself, and  B) an external control unit. \n\nSet this constant combinator on the external control unit to the number of times you pasted the blueprint side by side, then connect the steam pipeline into the tank on the control unit. If you do not, it will still work, but may power on when steam reserves are full or near full, potentially wasting power. \n\nI think this design is 100% efficient, as in, will not go over 1000 degrees and waste fuel. \n\nMust be connected to a logistics network with nuclear fuel available. It has buffer chests built in, and a fair bit of a fuel buffer to make sure it never misses when it needs a fresh cell. email me @ lunavixen23@protonmail.com for any queries or fixes to it, this is only my second reactor build, and the first wasnt in sandbox but under the pressure of a power crunch on my save, this design is likely not that space efficient but it has redundancy built in and is my first \"proper\" reactor build. Best of luck out there engineers. :3",
   "image": {
-    "id": "MXmXNgo",
+    "id": "AWvrEOK",
     "type": "image/png"
   },
   "imageUrl": "https://imgur.com/MXmXNgo",
-  "lastUpdatedDate": 1747857870032,
+  "lastUpdatedDate": 1748358632464,
   "numberOfFavorites": 0,
   "tags": [
     "/power/nuclear/",
