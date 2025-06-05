@@ -12,9 +12,13 @@
   },
   "imageUrl": "https://imgur.com/CIexq9f",
   "lastUpdatedDate": 1748516998972,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/science/"
   ],
-  "title": "Purple Science"
+  "title": "Purple Science",
+  "favorites": {
+    "KF434v09jCMvGg8cnoOJuedk3aa2": true,
+    "kArEaPV5nOSSh4XivUF5iM7eMkB3": true
+  }
 }

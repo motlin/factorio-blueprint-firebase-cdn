@@ -8,7 +8,8 @@
   "descriptionMarkdown": "Factory layout for creating large amounts of logistic and constructions robots. Output averages at roughly 900 robots/m (each).\n\nInput is:\n* Iron Plates (2.2k/m)\n* Steel (1.9k/m)\n* Lubricant (14k/m)\n* Batteries (2.6k/m)\n* Green Circuits (7.5k/m)\n* Red Circuits (1.8k/m)\n\nAlso since the Lubricant Input is relatively high, I'd recommend to stay away from train transportation and use on-site production. By using a blueprint for self powered lubricant factories, you can run this rather cheap. E.g. use 2x the blueprint from this site: https://factoriobin.com/post/3hqrGbtp and you can run the entire lubricant production for this whole factory with 1/2 water pumps + 1.3k/m Coal.",
   "favorites": {
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
-    "GF9TuIBPvjSERDMZqufGed2rmcv2": true
+    "GF9TuIBPvjSERDMZqufGed2rmcv2": true,
+    "o87zD9kBpAagaCDS0eHOr6xX8Mb2": true
   },
   "fileName": "robots_production_large.png",
   "image": {
