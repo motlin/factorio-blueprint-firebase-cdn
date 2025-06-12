@@ -12,12 +12,15 @@
   },
   "imageUrl": "https://i.imgur.com/f70P9OV.png",
   "lastUpdatedDate": 1747947393805,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/uranium/",
     "/power/nuclear/",
     "/version/2,0/",
     "/mods/vanilla/"
   ],
-  "title": "Обогащение Урана"
+  "title": "Обогащение Урана",
+  "favorites": {
+    "K8o6xlCL8RMM1DcXfuNDYl1hVTF3": true
+  }
 }

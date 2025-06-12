@@ -1,0 +1,20 @@
+{
+  "author": {
+    "userId": "TuCuTnE3GJPIpWc2znvM3pi0AiG3"
+  },
+  "authorId": "TuCuTnE3GJPIpWc2znvM3pi0AiG3",
+  "blueprintString": "0eNrtmE1v2zgQhv8KwVMXoALrq62N9rKLxfZSYLFA0UMTCLQ0solIpEJSbt3A/71D0R9yrLr2OmguRi7SiPPMcMgZv8gjnVYtNFpIm02VuqeTx53F0MmX3qv7VoDJtWisUJJO6F+al9YQLpdEWKiJkAQXCA0F4bVqpb2VnwwYouGhBWNJqTQxluf3xIjvQFRJgOdz7ysBCvRDhIYcGgG38tU/ShWdUyVmc4uubYmP90CmUFnDcLEBbUEbArm9+YMyKnIlfdpGzCSvXM6S14DJcmOgnlZCzoIaowoJQURX6CIL+EYn4Yr1neyycU4LoW2LFrah+BUBbtkiYtYDRKs7RkFaYQX4FLqXZSbbegoaI7CjqTDaKCN8ZR8pAoMwvkkZXbqn8CbFSLg5q1WVTWHOF0JptzAXOm+FzUDyaQUFnVjdAtua0aXYQkuhjc0OKtNwjQ9Yx2BEfRQ8JHfeI/dSu8/WBaPv3GcNvHBYC90NceE6ay6ap7CNOXvAGmIp8LNUusbgrthPyhNty1NyY4PN2Q7VJdnUZYxlGUDFbLc1Y8QCgkarhSgwqXyOF/Eo8+0vS72t6a7oJa8MDKWSnL6ruL8rRgvso9wveDsATrfgdXcd21y8v7m1R1aKynWPW2Z8LH9xNy3B6HbFnvXg3oQY9OCMn1ye952hdfeq67VN2wzgovNwUQ8XD+Di83BxD5cM4JLzcEkPlw7g0vNw6eoO/9ys+YoXxJ3Ml5CFLGbhHdq2WH9k6ykmit0A+zznllhFcje73cQsDpp2nU2wNzt+nWJ3/dcR17eUbR4mdLRL4YP6Suo2n6NlwbVwLYRWn1CP0WX9JL3wgvTcpJ7hb5PATgpUeTD4jgaOXipw/FKBk5cKnP6OwIcX1F0t1Bp1W3HnFmYGDQU0gK3rGs//0B0BRPuA6GxAvA+IzwYk+4DkbEC6D0gHAThmnGLDBTtpyGjFUZSh7T+n3lAP4jH0tJ5rdRxK3UGmr6NxMh6nb0ZR+mYc7RTUyOX2zHITvvHcEr9BJzidozkuNufAF8ue2NQqvwdUn6JSV6F5FZpXoXkVmleheRWaV6F5FZrPITRHmQgvU5r/gxBfTEguJqQnEU5Xm14DnqQ0wyFs0P0DdMf+m5vln8p+5FXV5dWXov/6w9YobQs/4TCFTj1OlSW1dzmiESs1E8aKPNAKHX6uDk+TlNGlkjJ29UChjAom24jxI3Vc/QC6V3PH",
+  "createdDate": 1749628958550,
+  "descriptionMarkdown": "Uses parametrized prints for easy botmall setup. Read the description of the prints in the book to choose what to use in your case.\n\nHave 2 recipes: \n- For heavy stuff like rocket silos requests amount needed in craft\n- For light stuff like belts and intermediates requests, the stack size of the item in the recipe is required\n\nI'll try to update it in the future. ",
+  "image": {
+    "id": "RM4rSpy",
+    "type": "image/png"
+  },
+  "imageUrl": "https://imgur.com/RM4rSpy",
+  "lastUpdatedDate": 1749629360798,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/production/logistic (bot) based/"
+  ],
+  "title": "EasyBotMall"
+}
