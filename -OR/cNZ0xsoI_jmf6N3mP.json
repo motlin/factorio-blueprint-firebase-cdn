@@ -12,10 +12,13 @@
   },
   "imageUrl": "https://i.imgur.com/WIldZVx.jpeg",
   "lastUpdatedDate": 1748729217365,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/"
   ],
-  "title": "Inner Planets shuttle spaceship"
+  "title": "Inner Planets shuttle spaceship",
+  "favorites": {
+    "shnHLBZ2zvPN9XQDEtni9BH0y3x2": true
+  }
 }
