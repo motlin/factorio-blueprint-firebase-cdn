@@ -12,12 +12,15 @@
   },
   "imageUrl": "https://i.imgur.com/C6JZoXk.jpeg",
   "lastUpdatedDate": 1749315459939,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/",
     "/version/0,15/",
     "/train/junction/",
     "/train/crossing/"
   ],
-  "title": "Bidirectional Rails"
+  "title": "Bidirectional Rails",
+  "favorites": {
+    "ASp3yjDdeOdezgPcsyVIii0uvIk2": true
+  }
 }

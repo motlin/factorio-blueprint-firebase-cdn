@@ -7,7 +7,8 @@
   "createdDate": 1741610167349,
   "descriptionMarkdown": "WIP\n\n!!! Feel free to leave ideas or suggestions for improvement in the comments !!!\n\n![Book](https://imgur.com/VOJyhnI)\n__________________________________________________\n\nChangelog\n\nv1.0.0\n   - inital\n\n__________________________________________________\nVersioning x.y.z\n\nx (Major)\n   new Blueprintbook\n\nx (Minor)\n   new Blueprint\n\ny (Patch)\n   Bugfixes",
   "favorites": {
-    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true
+    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
+    "ASp3yjDdeOdezgPcsyVIii0uvIk2": true
   },
   "image": {
     "id": "w6MKTk2",
@@ -15,7 +16,7 @@
   },
   "imageUrl": "https://imgur.com/pahBpVM",
   "lastUpdatedDate": 1741615399710,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/general/tileable/",
