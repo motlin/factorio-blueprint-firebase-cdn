@@ -7,7 +7,8 @@
   "createdDate": 1748798137120,
   "descriptionMarkdown": "A collection of Train Stations for 1-4 trains.",
   "favorites": {
-    "rJXcbDtu2ugtVCQkV6m2JmxTRdp2": true
+    "rJXcbDtu2ugtVCQkV6m2JmxTRdp2": true,
+    "EcF5TTzEdSZdGHX889aFIbNqdN42": true
   },
   "image": {
     "id": "4MILGrv",
@@ -15,7 +16,7 @@
   },
   "imageUrl": "https://i.imgur.com/4MILGrv.png",
   "lastUpdatedDate": 1748798137120,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/",
     "/version/0,15/",

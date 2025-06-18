@@ -12,11 +12,14 @@
   },
   "imageUrl": "https://i.imgur.com/UHqDbit.png",
   "lastUpdatedDate": 1749671240618,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/",
     "/general/early game/",
     "/production/scrap processing/"
   ],
-  "title": "Early Scrap Recycler and Sorter"
+  "title": "Early Scrap Recycler and Sorter",
+  "favorites": {
+    "EcF5TTzEdSZdGHX889aFIbNqdN42": true
+  }
 }

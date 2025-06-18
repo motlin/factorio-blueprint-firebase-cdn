@@ -12,11 +12,14 @@
   },
   "imageUrl": "https://imgur.com/cHa8sEu",
   "lastUpdatedDate": 1747776564485,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/",
     "/version/0,15/",
     "/train/junction/"
   ],
-  "title": "Non-Elevated 4 Way Intersection"
+  "title": "Non-Elevated 4 Way Intersection",
+  "favorites": {
+    "EcF5TTzEdSZdGHX889aFIbNqdN42": true
+  }
 }
