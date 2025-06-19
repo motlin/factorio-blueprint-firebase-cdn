@@ -12,10 +12,13 @@
   },
   "imageUrl": "https://i.imgur.com/zjgehtb.png",
   "lastUpdatedDate": 1750100811407,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/",
     "/version/2,0/"
   ],
-  "title": "Simple TDMA Radar Network"
+  "title": "Simple TDMA Radar Network",
+  "favorites": {
+    "8ZSFoC1WwKVymSzWDF0syztAhA73": true
+  }
 }
