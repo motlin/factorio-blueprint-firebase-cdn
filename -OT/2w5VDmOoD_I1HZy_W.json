@@ -12,9 +12,12 @@
   },
   "imageUrl": "https://i.imgur.com/jVNZDQ4.jpeg",
   "lastUpdatedDate": 1750265260172,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/smelting/"
   ],
-  "title": "Smart Foundry"
+  "title": "Smart Foundry",
+  "favorites": {
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true
+  }
 }
