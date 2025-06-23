@@ -12,12 +12,15 @@
   },
   "imageUrl": "https://i.imgur.com/2RoVeZO.png",
   "lastUpdatedDate": 1750368131004,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/",
     "/version/2,0/",
     "/train/loading station/",
     "/train/unloading station/"
   ],
-  "title": "Multi Station Load/Unload Balancer/Selector"
+  "title": "Multi Station Load/Unload Balancer/Selector",
+  "favorites": {
+    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true
+  }
 }

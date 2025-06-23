@@ -12,10 +12,13 @@
   },
   "imageUrl": "https://i.imgur.com/N7aLnS6.png",
   "lastUpdatedDate": 1749470393793,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/planets/space-platform/",
     "/planets/aquilo/"
   ],
-  "title": "Aquilo automated runner."
+  "title": "Aquilo automated runner.",
+  "favorites": {
+    "zREjx9P90uQeQusejTN6Xrd7d0x1": true
+  }
 }

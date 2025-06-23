@@ -41,7 +41,8 @@
     "6Gj5PmIVReOLyKkuu1PWXO8KEIZ2": true,
     "xnwWqWWKOyayKtgUwDTHk7ueQc33": true,
     "WRHArC9HWPejoXLRTWuU42CiQgn2": true,
-    "cdOAN7igeSMRCNQ84OcjnKXOTlw1": true
+    "cdOAN7igeSMRCNQ84OcjnKXOTlw1": true,
+    "ZbFyCCXfClXJdZar7BrtMYtPW3f2": true
   },
   "descriptionMarkdown": "This is a modification of one of my favourite blueprints https://factorioprints.com/view/-LGzh1rL3S0dU-eJHfcr Unfortunately, that blueprint will not work in factorio v0.17 because some of the colored wires go missing.\n\n**HOW TO USE**\n\n1. Place the blueprint\n2. Connect the pipes at the bottom of the screenshot to 6 offshore pumps\n3. Make sure that none of the medium power poles are connected to your main base\n4. Connect one of the substations to your main base\n5. Wait until all four of the requesterc chests contain nuclear fuel\n6. Switch it all on using the combinator labelled 'ON'\n\n**NOTES**\n\n1. The 4 blue lights at the bottom of the build indicate how much stored steam there is to power the turbines. \n2. The green lights by the heat exchangers light when the rectors have been switched on\n3. The design from which this build is based used a clock to decide when to insert fuel. The long row of green lights in that build displayed a clock 'countdown'. I found that it was error prone.\n4. This build does not use a clock. Instead, the reactors only remove spent fuel when stored steam falls below certain levels, different levels for each reactor. When spent fuel is removed, new fuel is added.\n5. Don't worry if any of the reactors start flashing with a 'No fuel' icon. This is because there is enough stored steam for the reactors to be idle.\n6. There are programmable speakers for 3 events.\nFirst when the amount of nuclear fuel in the requester chests falls below 100 cells. You will receive this alert when you first place the build.\nSecond when the spent fuel is backing up in the passive provider chests. If these chests are never emptied, then the reactors will stop\nThird if the solar powered network runs out of power. This may happen if you've accidentally connected it to your main base, it should be kept separate at all times.\n7. If EVER a reactor ejects the spent fuel and there is no new new fuel ready to be inserted from the requester chest, that reactor will shut down forever. If that happens, wait until there is fuel in the requester chest, then use the combinator to switch the build off then on again. :D\n\n",
   "fileName": "477.PNG",
@@ -51,7 +52,7 @@
     "height": 973,
     "id": "cF4c93K"
   },
-  "numberOfFavorites": 37,
+  "numberOfFavorites": 38,
   "author": {
     "userId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3"
   },

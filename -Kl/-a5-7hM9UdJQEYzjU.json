@@ -20,7 +20,7 @@
   "createdDate": 1495732346948,
   "descriptionMarkdown": "A power indicator with an alarm. Each row lights up with 10% more power. An audio alarm is triggered once when the power dips below 20%. The alert threshold can be configured in the top combinator. The colors can be configured in the constant combinators. It's possible to use fewer constant combinators at the cost of configurability.\n\nCombines the audio alarm from https://factorioprints.com/view/-KjcT8FkYRMzsnu9Qguq\n\n...with the light indicator from https://factorioprints.com/view/-KkvU0W4_ayHgU8XV1cf and simplifying the circuit network stuff.",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Power%20Indicator%20with%20Alarm.PNG?alt=media&token=6b11d76a-d9ab-42b1-aa93-ea0fd6527ce2",
-  "numberOfFavorites": 894,
+  "numberOfFavorites": 895,
   "title": "🔌 🔊 Power Indicator with Alarm",
   "favorites": {
     "8kpEjLfhEgOXJWcncjMv7J2PcXz1": true,
@@ -601,6 +601,7 @@
     "9TQkD3KwkChrakowQctLMnvzVph2": true,
     "w4h2FQr4DKXoK13k2Am49566ZqT2": true,
     "tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true,
-    "Qz8ku3yB2UfpOeP4HELHwoL427d2": true
+    "Qz8ku3yB2UfpOeP4HELHwoL427d2": true,
+    "i4CYjo6zgdaFW5sAEFqzbAFLleA3": true
   }
 }
