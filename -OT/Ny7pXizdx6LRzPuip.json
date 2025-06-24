@@ -12,9 +12,12 @@
   },
   "imageUrl": "https://i.imgur.com/p7NFkVU.png",
   "lastUpdatedDate": 1750618115505,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/train/junction/"
   ],
-  "title": "The Design Book of Rails"
+  "title": "The Design Book of Rails",
+  "favorites": {
+    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true
+  }
 }
