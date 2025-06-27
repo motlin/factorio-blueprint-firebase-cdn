@@ -7,11 +7,11 @@
   "createdDate": 1731266820010,
   "descriptionMarkdown": "This Book contains a rocket builder blueprint with different extensions. \n\nEach of this extensions need it's own “Basic Rocket Builder”. Place a “Basic Rocket Builder” and place the extension behind the Rocket silo. If the extions requires additional resources, the inputs should be placed on the same hight as the inputs for the „Basic Rocket Builder“. It dependes on the extension you want to use but all of them are fitting perfektly in to the “Basic Rocket Builder” blueprint.\n\nConnect the extensions to the \"Basic Rocket Builder\" and start building your space plattform!\n\nExtension:\n- Space plattform foundation\n- Cargo bay\n- Asteroid collector\n- Crusher\n- Thruster\n\nDeveloped by SlappingTree\n\nVisit me here:\n\nTwitch: https://www.twitch.tv/theslappingtree\n\nX: https://x.com/SlappingTree",
   "image": {
-    "id": "pFFQ7qK",
+    "id": "JUTi6yn",
     "type": "image/png"
   },
   "imageUrl": "https://imgur.com/4xmP2fw",
-  "lastUpdatedDate": 1748893852062,
+  "lastUpdatedDate": 1750906945704,
   "numberOfFavorites": 15,
   "tags": [
     "/mods/space-age/",

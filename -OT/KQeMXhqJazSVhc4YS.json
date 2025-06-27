@@ -7,11 +7,11 @@
   "createdDate": 1750558746298,
   "descriptionMarkdown": "A set of tileable solar array designs optimized to fit within roboport coverage. Each layout offers a different solar-to-accumulator ratio depending on your priorities—whether it's energy storage, ease of use, or balance.\n\n11.8 MW Tileable Solar Array Within Roboport Range 0.8418 ratio Output: 11.8 MW\n\nOptimized solar array design with a tileable layout that fits entirely within a single roboport coverage\n\n23.6 MW Tileable Solar Array Within Roboport Range 0.8375 Ratio 23.6MW This one is almost the perfect 25:21 ratio — it just needs one more accumulator per usage. If you can fit it anywhere, it'll be perfect.\n\n23.6 MW TLDR Tileable Solar Array Within Roboport Range 0.8447 Ratio 23.6 MW This one has more accumulators than solar panels. If you just want something easy to copy and use, pick this\n\njeffersonjpr on github",
   "image": {
-    "id": "mSENiN1",
+    "id": "8YIExoE",
     "type": "image/png"
   },
   "imageUrl": "https://imgur.com/mSENiN1",
-  "lastUpdatedDate": 1750558746298,
+  "lastUpdatedDate": 1750901306536,
   "numberOfFavorites": 0,
   "tags": [
     "/power/solar/",
