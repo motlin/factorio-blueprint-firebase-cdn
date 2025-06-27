@@ -1,7 +1,7 @@
 {
   "createdDate": 1562780471675,
   "fileName": "20190713110558_1.jpg",
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 4,
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20190713110558_1.jpg?alt=media&token=43cba7fd-8f08-4222-9989-c8e9992bbab2",
   "author": {
     "userId": "uup7PnZ6aUS0cnq5FRVwQvUaXBp1"
@@ -23,7 +23,8 @@
   "favorites": {
     "cSYB9xVe8oc8r8AswBRnpWRuCBp2": true,
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
-    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true
+    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
+    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true
   },
   "authorId": "uup7PnZ6aUS0cnq5FRVwQvUaXBp1",
   "descriptionMarkdown": "Compact setup for coal liquification.\n\nInput:      45 coal per sec, water\n\nOutput:   20 plastic per sec"
