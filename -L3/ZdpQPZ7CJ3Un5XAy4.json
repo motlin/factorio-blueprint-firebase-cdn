@@ -3,7 +3,7 @@
   "createdDate": 1516738402067,
   "descriptionMarkdown": "Want to only use a power source when your accumulator drops below a certain percentage? Well now you can!\n\nSimply set the L (lower level) constant combinator and U (upper level) constant combinator to your thresholds and paste this puppy in there. Your reserve power connects to the right-most pole and your main power to the left substation. \n\nIntended for use for large solar/accumulator arrays. When accumulator power drops below %L it will enable your reserve power (steam/nuclear) until it reaches %U",
   "lastUpdatedDate": 1516738402067,
-  "numberOfFavorites": 18,
+  "numberOfFavorites": 19,
   "tags": [
     "/version/0,15/",
     "/circuit/indicator/"
@@ -34,6 +34,7 @@
     "U9ZonLeEsNO1YAbGAWYDoXEFpuh2": true,
     "ge5BhUMBa2gGzgl5vN43SSNBVci2": true,
     "IOCsC7tozeU9CiUf7j1MZkSowXD2": true,
-    "OPPD9p4bulVMw9fQXs0CvnxbImP2": true
+    "OPPD9p4bulVMw9fQXs0CvnxbImP2": true,
+    "uKy0U0vXIwQ6nMGaBeLltZRkFBw1": true
   }
 }
