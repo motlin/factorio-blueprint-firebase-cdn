@@ -8,10 +8,10 @@
   "createdDate": 1752238579785,
   "descriptionMarkdown": "CSMA/CD controller.\nCan receive any signal excluding {[virtual-signal=signal-check],[virtual-signal=signal-lock],[virtual-signal=signal-white-flag],[virtual-signal=signal-info]} in the form of a pulse or a hold signal.\nIf a trigger is received while there exists a message in memory, the new trigger will be dropped.\nThe top power pole is the connection to the network. ",
   "image": {
-    "id": "SHUou4l",
+    "id": "nKlfbG1",
     "type": "image/png"
   },
-  "lastUpdatedDate": 1752238727436,
+  "lastUpdatedDate": 1752345877101,
   "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
