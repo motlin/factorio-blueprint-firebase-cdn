@@ -28,7 +28,7 @@
   "authorId": "lEPYdC58rvhWCgVGvgeoUBREKXf2",
   "descriptionMarkdown": "Thanks to wrathyy Vita and Sam Beach, this has been fixed.\n\nAll Oils Refinery can you guess what it does? \nYou will never have to worry about balancing your oils again with this blueprint! \nHow does it work?\nIt converts oils into fuels to power itself so you will never have too much of any oil.\nPlastic and fuel are in locations where they can be extracted, in high quantities, manually with belts or automatically with bots.\n(Don’t forget, when deconstructing a tank, you lose all its acquired content. However, here you can save those oils from oblivion. You can cut off oil supply, withdraw oil barrels, and let it dry itself out.)\n\n**It is tileable in all four directions, with water and oil flow.** https://imgur.com/a/L94j7Eb\n\nInput:\n* Everything in the blueprint\n* At least 100 empty barrels per refinery\n* Bots\n* 30 MW of power\n* (Optional for Max Input) Water (two 100/s), Oil (100/s), Coal (500/m), and Copper/Iron Plates (600 & 400/m)\n\nHere is where to input oil https://imgur.com/a/hOCGCgz and two water pipes https://imgur.com/a/LVS0qaS\n\nOutput:\n\n* Plastic (1500/m)\n* Batteries (250/m)\n* Sulfur (400/m)\n* Fuel (2400/m)\n* Petroleum (11K/m)\n* Sulfuric Acid (4K/m)\n\nCredit:\nhttps://factorioprints.com/view/-LwAqS18vXPAhqSZR-TO",
   "fileName": "All Oils Refinery.PNG",
-  "numberOfFavorites": 131,
+  "numberOfFavorites": 132,
   "title": "All Oils Refinery (for 0.18+)",
   "favorites": {
     "XJMOoG1yeJgTeuJd9E724ecxbxR2": true,
@@ -108,6 +108,7 @@
     "2s0kG2UruPgJUzh4YT5WxF7aLJo1": true,
     "Sivgrn4E09NpvsGPGDu17peiZxi2": true,
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "WRHArC9HWPejoXLRTWuU42CiQgn2": true
+    "WRHArC9HWPejoXLRTWuU42CiQgn2": true,
+    "qaZRVxdsYOQEHwE3tlKQdXtlwwh2": true
   }
 }
