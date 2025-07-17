@@ -1,5 +1,5 @@
 {
-  "numberOfFavorites": 39,
+  "numberOfFavorites": 40,
   "author": {
     "userId": "gV45wzv9r7Rlc6uUCElRvxOjzZu2"
   },
@@ -53,7 +53,8 @@
     "9aBhrKqwPMOwKnCZrAEDD2xX4Tz1": true,
     "fwuffGNqBEfPutpP76Y10qbCfOZ2": true,
     "zVVk7GVeblcAwWqO9OFmYlDiuh32": true,
-    "ZApGdU20WUR5pfu15161hYEtghI2": true
+    "ZApGdU20WUR5pfu15161hYEtghI2": true,
+    "gDgX4de49wbL7ASlahMaidkarNG3": true
   },
   "descriptionMarkdown": "A compact LLCCCC train unloader. Can compress four blue belts and works with red belts/red undergrounds. Due to the compact nature, this is capable of creating a complete main bus (4LanesBelt-2LanesEmpty-4LanesBelt-...). It uses circuit conditions to achieve the full belt compression and keep the chest usage evenly. This is more ups intensive than using stack limits, so if that is a concern you'll have to change it.",
   "fileName": "compactUnloader.jpg",
