@@ -12,7 +12,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1751389733580,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/",
@@ -26,5 +26,8 @@
     "/general/tileable/",
     "/general/late game (megabase)/"
   ],
-  "title": "Modular Production Complex – Scalable Smart Factory"
+  "title": "Modular Production Complex – Scalable Smart Factory",
+  "favorites": {
+    "nchtaBrTEoc0le9TM1Z6FU7v6Lk2": true
+  }
 }
