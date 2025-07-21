@@ -8,7 +8,8 @@
   "createdDate": 1751405783735,
   "descriptionMarkdown": "📝 Description:\n\nThis blueprint provides a modular city block layout designed as a foundation for large-scale production setups, with built-in recycling logic and optional logistics isolation.\n    Size: 100×100 tiles (City block)\n    Includes base structure for a mega factory layout\n    Recycling system for unused base materials (no quality filtering)\n    Return loop logic integrated for closed-cycle material flow\n    Logistics network is monitored inside the block, but network wires are not connected to the frame – full isolation\n    Optionally, the logistics hangar (roboports) can be disconnected from the main network\n    Comes with a pre-built double production setup, ready to be duplicated and expanded\n    Important points are marked with info icons (i) for guidance\n    For a full working example, see the companion blueprint in this collection – showing the block completely filled and functional\nUse this as a high-end blueprint template for organized megabases with efficient layout, monitoring, and modular expansion.\n\nRequierd:\n\nhttps://factorioprints.com/view/-OU5wnZHDgA_zdh301ay\n\n",
   "favorites": {
-    "7MPPiIO9CwOfAzdgxhxmR1qau0k1": true
+    "7MPPiIO9CwOfAzdgxhxmR1qau0k1": true,
+    "DIEQxE8Vbmf3ptBdY2Y6SRKlRrV2": true
   },
   "image": {
     "id": "nEg9KRD",
