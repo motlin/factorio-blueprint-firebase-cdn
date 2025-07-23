@@ -1,6 +1,6 @@
 {
   "descriptionMarkdown": "This is a mall to give you pretty much everything you need early game that is pre-steel/oil. It isn't meant to produce everything at once; it's meant for you to take a couple items at a time as you need them, and will refill most resources in a few minutes while you work elsewhere. I use it at the start of a new game; you can just slap the blueprint down where space allows, and then as soon as you finish researching Logistics 2 and Automation 2 you can start building onto the template as you need items.\n\nThere is a clean vertical gap between the eastward item output and all of the research, so if you want to do research elsewhere you can just cut it out of the mall. Regardless, it uses resources last, so any empty chest slots will take priority.\n\nAs in the screenshot, provide copper to the belt to the far left, and iron to the other three belts. You don't need them to be full; again, the mall isn't meant to produce every item simultaneously. Stone input at the south end will make some extra furnaces, boilers, and finally landfills. You can also throw extra raw wood in the northwest corner, and the factory will make it all into wooden poles. \n\nList of products:\n\nWest side: Wooden poles, shotgun shells, turrets, firearm magazines, iron chests, radars, lamps\n\nSouth side: Repair packs, landfills, stone furnaces, boilers\n\nEast side: Inserters (yellow, red, blue, purple), yellow/red belts, yellow/red tunnels, yellow/red splitters, assembly 1 and 2, pipes, pipes-to-ground, electric drills, steam engines, labs\n\nResearch: 2/s red and green",
-  "lastUpdatedDate": 1498606033051,
+  "lastUpdatedDate": 1753242588272,
   "tags": [
     "/production/research (labs)/",
     "/general/early game/",
@@ -15,10 +15,8 @@
   "createdDate": 1498435898887,
   "fileName": "Mall.PNG",
   "image": {
-    "width": 1109,
-    "height": 1042,
-    "id": "qNcTlRt",
-    "type": "image/jpeg"
+    "id": "XpXbHBJ",
+    "type": "image/png"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mall.PNG?alt=media&token=86d814bf-ef47-4595-b40c-999c7c31385d",
   "numberOfFavorites": 52,
