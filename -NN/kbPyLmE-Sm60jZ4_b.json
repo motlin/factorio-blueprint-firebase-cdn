@@ -8,11 +8,11 @@
   "descriptionMarkdown": "<hr style=\"border: 1px solid #FF5555;\">\n\n#### <span style=\"color: #FF5555\">⚠ Check [my Patreon](https://patreon.com/elderaxe) for the latest versions of my blueprints.</span>\n\n<hr style=\"border: 1px solid #FF5555;\">\n\n##### <span style=\"color: white\">TL;DR</span>\n- Pre-made cargo trains that are compatible with my **Train Stations**. \n- Hopefully this book will be deprecated with new features on Factorio 2.0\n\n##### <span style=\"color: white\">Features</span>\n- Same trains are compatible with both [EARN 2](https://www.patreon.com/collection/585336) and [EARN 3](https://www.patreon.com/collection/585319)\n- Trains are categorized to match with Loading and Unloading Stations on my [Train Stations](https://www.patreon.com/collection/587826) book.\n- Each train has 1-1 and 1-4 versions. \n- You can use 1-1 and 1-4 trains on the same network. But placing 1-1 and 1-4 trains and stations for the same item can cause problems.\n- I prefer to use 1-1 for Science Packs, Modules, Solar Panels, Accumulators, Satellites, and Uranium Fuel Cells and 1-4 for the rest.\n\n<span style=\"color:#00FFFF\">PS: FactorioPrints doesn't notify me about the new comments on blueprints. <br/>\nPlease use [our Discord community](https://dsc.gg/elderaxe) for your feedback and suggestions. <br/>\nYou can also [become a patron](https://patreon.com/elderaxe) to support me, get early access to the latest versions, and more.</span>\n\n##### <span style=\"color: white\">Changelog</span>\n###### v2.1.1 ( June 9, 2024 )\n- Stopped pre-loading solid fuel to trains.\n\n###### v2.1.0 ( June 9, 2024 )\n- Added trains for wood and satellite.\n\n###### v2.0.1 ( February 26, 2024 )\n- Fixed wrong schedule conditions for Accumulator trains.\n\n###### v2.0.0 ( January 9, 2024 )\n- Separated from Outposts Book.\n\n<details><summary>Old versions</summary><p>\n</p></details>",
   "fileName": "cargo trains cover.png",
   "image": {
-    "id": "vFEChsn",
+    "id": "slYkves",
     "type": "image/png"
   },
-  "lastUpdatedDate": 1733756742003,
-  "numberOfFavorites": 11,
+  "lastUpdatedDate": 1753387248744,
+  "numberOfFavorites": 12,
   "tags": [
     "/train/right-hand-drive/",
     "/train/left-hand-drive/"
@@ -45,6 +45,7 @@
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
     "lzOsOognvaNy6KC0YYjxAPaWxTJ2": true,
     "3ZKyNmdCaTgfEuxtN6RVfaSKoyf2": true,
-    "mTHT5L8629Pl1zsHBd7nefEL7rT2": true
+    "mTHT5L8629Pl1zsHBd7nefEL7rT2": true,
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true
   }
 }

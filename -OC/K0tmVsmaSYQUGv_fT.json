@@ -7,11 +7,11 @@
   "createdDate": 1732298382692,
   "descriptionMarkdown": "Crafting unit for legendary tungstene plate\n\n~ 50 leg tungstene plate /min\n\n~ 120 non-leg/leg item conversion rate\n\nCurrent blueprint set for 25% throughput. You will need 178 foundries producing Tungstene Plate to reach 100%.\n\nOnly require Vulcanus basic ingredients (tungstene ore, liquid iron and lube).\n\nCircuitless loop breaker when tungstene plate chest is full, most circuit are for ratio control.\n\nOutput overflow go to void-recycler unit directly, feel free to add a sub-unit to recycle into ingredient component (or dump to lava).\n\nA lot of building material are set to lenegendary, use the best you have, but USE THE SAME 4 QUALITY MODULES in all the ingredient production units, or the ratio will be off and you might clog the system.",
   "image": {
-    "id": "3FYY2YO",
+    "id": "ANKceNK",
     "type": "image/png"
   },
   "imageUrl": "https://imgur.com/3FYY2YO",
-  "lastUpdatedDate": 1732302867194,
+  "lastUpdatedDate": 1753326755483,
   "numberOfFavorites": 3,
   "tags": [
     "/version/2,0/"

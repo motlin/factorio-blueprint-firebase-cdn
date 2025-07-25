@@ -7,11 +7,11 @@
   "createdDate": 1732379845153,
   "descriptionMarkdown": "Simple legendary stack inserter upcycler. Currently set to stop where there is 100 leg stack inserter in the chest.\n\nTake as inputs stack inserter of any quality.\nOutput spoilage of any quality, so beware of your filter down the line.\n\nI got a ratio of 1 leg for 250 non leg with this build, assuming the input one are made from assembler with 4 leg quality module tier 3.\nWith an input of 4 inserter/s (2 assembler full on quality module tier 3), I manage 1 leg stack inserter/min.\n\nCan support ingredient overflow if you want to grind some stuff like carbon fiber.\n",
   "image": {
-    "id": "2q1yur3",
+    "id": "CaFWw8D",
     "type": "image/png"
   },
   "imageUrl": "https://imgur.com/2q1yur3",
-  "lastUpdatedDate": 1732393225838,
+  "lastUpdatedDate": 1753326848667,
   "numberOfFavorites": 7,
   "tags": [
     "/version/2,0/"
