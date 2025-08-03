@@ -1,0 +1,21 @@
+{
+  "author": {
+    "displayName": "Quait Gore",
+    "userId": "rszaB0mfbyQ5Z2U9Kv2babhVpe52"
+  },
+  "authorId": "rszaB0mfbyQ5Z2U9Kv2babhVpe52",
+  "blueprintString": "0eNrtWVtu4zYU3YrBrxagBnpYdmx02t9+9j9IBVq6tolIlIaknLqBF9CFdGNdSS8pWbIVOtEYM4AzSAzYFB/3ce6TyjNZ5TVUkgtNls+Ep6VQZHn/TBTfCJabOcEKIEvC6k0BQpeSHCjhIoO/yDI4PFCCk1xzaI7Zh30i6mIFEjfQ7rjkeluA5qmXlsWKC2ZIUVKVCk+XwnBCipH/KaZkT5ZeOEc+GZeQNst3lKBwWpZ5soIt23E8jmd6ugkuZ5aWMgtrLpVOejX0vjJy7LjUNc50gjU7PGDp1mimwJAxtJRmBhSfkrICyRopyJ94sqx1VX81bfyjLwAKe4BQzx14lSx3PAPppVtQ2gFQ0AE0+xS7SEY9e4SYbWAEqTmSokTClxp3Jmuea5AWRdXA3xj3aHVKuh1nsy3bikkc4LrnI9MviAiKh/M5bEBkTO6JMWVhthkfWJLPdqI2aKNH4ceh1bQjv2ZKe1wokMjCoVV4BtCZD00vSd4LWQsUrcDNAxn/++dfYry9VtDjo2UNDlnj3gIFy3MvZ0X1qqAN/GmZNz7dBM7Gfq/sNzPIODjNevdRCopVzsXGK9DduAAvcvCcDsBBaHj10mjNdNLDIkpZWM/mGooWvewkO7Q7vaLM6rxh7TL8oSNg0E+42NmUsm/N0T2hoTD80kcMP6O1cyW4uBJeXImMcz04gJx3QOYlQrhl6BrZa17Wx8506GV3Dvp3Hf02yEZFeOyO8EXvX5Aj11KOzanxqJx6mu8aDoS2g6RgSHHNcgVtFRifBpnYe0encCbDwO+OZOiANgu+pld0yQJTt14t0UGhOH26f1k3HEntMMgNvxKjzIiDzkTzTahJJuHbUIKKpy5KD8e6N+wP3rB6BmLf0Kv2ic3yyVqWBcY+0mpdyUSlyx/6mrKq88dxST8eOkMQur0h5TKtuU5AsFUOWZPNaTfducUVzUSv80kXMSh5uJyXG67OOhcXr9FV9YxhPOT4i11vlZPAssQkOcNaI+xqqL5dtNswpcOF8hOEo6tyPMiXt2kRXBYmy+ky6YwjQD+V8vEozfsy2tsNT1fZh2iMbHaCvt8sION14dlCIbHRr8ocXu1BGldww/KS0fgWsOcQjSwNTh+72fBVoM/t8n2c5A3Rv8pzsHrsQEqsv4ntxRChv6Ft4oaGjq8wdPhh6Pdn6Nnoq2o8MPQo0/aFpOkyvvsN99LlccwFN5hfAUZ0w2Bc8poRUPS3pf6tk6PnO3rE4dJbhh/0shosrkiQ/keCfHcJMvSvMHTwYej3Z+jgiuTv33Dyt28Rrkj9YXgFEMENA2FfzLwJBLrPEwasoX0f0JAGPg0fKA6ndGFHCxqZychM+mbDvNngm3l8NGP8oXhJsuOpGcfNGH8oZhI7np2cNWPE244X/Z4wOM6jVJ1ajdrtLbu1Fj0OliT2+yv37+XTpGBiPzkGOgf1m73RtcexGHeb/5BYhFM9+al5vzhZMQWTFr6fTQnPLoHrneWgETFqUDYF3bxO6v7phTmNrSA3rw5MH4ABqyzFeBYupotFPI/iaDoPD4f/AR67Qtk=",
+  "createdDate": 1754184310985,
+  "descriptionMarkdown": "Design for low demand items upcycling, like Space Platform items, a few Buildings. \n\nIt will craft items automatically. Adjust the requester chest to request needed items (shift click copy paste recipe). Switch assembling machine to another machine if needed.\nRemove or replace assembling machine as needed.\n\nSelect the Item (in base quality) when placing the Blueprint. Input the number of Quality Items you want.\n180° rotated it can support two products, but the crafting speed of the machine might be too slow depending on the products it needs to handle.\nYellow chests of different qualities automatically store and input items.\n\nHigher quality items will be processed first to try to reduce overproduction of base quality item.\n\nIf no other yellow chest set to the same item and quality is in the network items will automatically be returned to the upcycler and automatically upcycled.",
+  "image": {
+    "id": "I2JW4Tb",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1754189625002,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/mods/space-age/",
+    "/version/2,0/"
+  ],
+  "title": "Bot Automatic Quality Augmentor "
+}
