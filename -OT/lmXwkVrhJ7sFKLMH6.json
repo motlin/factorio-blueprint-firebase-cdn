@@ -12,7 +12,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1751052093528,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/factorissimo/",
     "/planets/fulgora/",
@@ -21,5 +21,8 @@
     "/version/2,0/",
     "/mods/other/"
   ],
-  "title": "Recycling Factory 3 v2"
+  "title": "Recycling Factory 3 v2",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
+  }
 }

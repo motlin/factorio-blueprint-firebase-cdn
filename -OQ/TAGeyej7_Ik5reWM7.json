@@ -12,7 +12,7 @@
   },
   "imageUrl": "https://imgur.com/8rTuHjA",
   "lastUpdatedDate": 1747484609572,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/general/early game/",
     "/mods/vanilla/",
@@ -21,5 +21,8 @@
     "/version/2,0/",
     "/planets/space-platform/"
   ],
-  "title": "SmallShip early game"
+  "title": "SmallShip early game",
+  "favorites": {
+    "H2dAN2cIZhUptX5dzWLNzakitXo2": true
+  }
 }
