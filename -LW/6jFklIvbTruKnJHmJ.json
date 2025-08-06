@@ -2,7 +2,7 @@
   "createdDate": 1547391798598,
   "descriptionMarkdown": "### This is a Blueprint Book of train unloaders.\n\nEach is full side balanced and will __*unload the buffer chests evenly.*__\n\nCause of this there is __no need for circuit network__!\n\nYou can __downgrade__ the higher variations by the 0.17 Upgrade planer!\n\n#### __Update:__  May 1, 2019: deleted most variations. only 6 left\n\n## Upgrade- and Downgradeable\n* Use the upgrade planer to change the output speed\n\n![Downgradeable](https://s18.directupload.net/images/190501/zlluxpzp.jpg)\n\n## Easy Expandable\n* Just drop the blueprints above the other\n\n![Expandable](https://s18.directupload.net/images/190501/e7l6gzvc.jpg)\n\n## Variable\n* It unloads 1 or 2 or 3 of 4 Wagons independent\n\n![Variable](https://s18.directupload.net/images/190501/i94zbu72.jpg)\n\n## Fast\n* Just replace the 4-to-2-Side-Balancer by a 4-to-4-Lane-Balancer\n* Get an output up to 8 x Blue Lanes (45 items/s) = 21.6K Items per minute\n\n![Fast](https://s18.directupload.net/images/190501/dfi5edou.jpg)\n\n\n\n#### __Update:__  March 17, 2019\n\n* Now full downgradable!\n\nJust create an upgrade planer like this:\n![upgrade planer](https://s17.directupload.net/images/190317/m84bqo4b.jpg)\n\n#### __Update:__ March 17, 2019: only 16 variations needed in 0.17\n* Added Lamps\n* Belt correction\n* better power pole placement\n* Storage of the chests are now limited to the storage size of 1 wagon\n* Removed: \n ~~1Wagon 1yBelt 2Side 8Chest R~~,\n ~~1Wagon 1yBelt 2Side 8Chest L~~,\n ~~1Wagon 2yBelt 2Side 12Chest R~~,\n ~~1Wagon 2yBelt 2Side 12Chest L~~,\n ~~2Wagon 2zBelt 2Side 24Chest R~~,\n ~~2Wagon 2zBelt 2Side 24Chest L~~ \n __Reason:__ Just stick a R and L with an underground(+splitter!) together to generate a doubeled belt version\n* Removed:\n ~~4Wagon 2yBelt 1Side 16Chest R~~,\n ~~4Wagon 2yBelt 1Side 16Chest L~~,\n ~~4Wagon 4yBelt 2Side 32Chest R~~,\n ~~4Wagon 4yBelt 2Side 32Chest L~~,\n ~~4Wagon 2yBelt 1Side 24Chest R~~,\n ~~4Wagon 2yBelt 1Side 24Chest L~~,\n ~~4Wagon 4yBelt 2Side 48Chest R~~,\n ~~4Wagon 4yBelt 2Side 48Chest L~~\n__Reason:__ In 0.17 you can ez downgrade the the higher versions with the implemented upgrade planer!\n* Changed:\n 2Wagon 1zBelt 1Side 12Chest R; \n 2Wagon 1zBelt 1Side 12Chest L;\n 4Wagon 2zBelt 1Side 24Chest R;\n 4Wagon 2zBelt 1Side 24Chest L;\n 4Wagon 4zBelt 2Side 48Chest R;\n 4Wagon 4zBelt 2Side 48Chest L\n__Reason:__ corrected some bad construktion mistakes\n\n\n#### __Update:__ Jan 13, 2019: \n* Train Unloader with 32 variations\n\n---\n\nThe book contains the following blueprints:\n\nWagons | Output | Side | Direction | Chests | Name\n------------ | ------------- | ------------- | ------------- | ------------- | -------------\n|||||\n1 | 1 yBelt | 1 | R | 6 | Unloader 1Wagon 1yBelt R\n1 | 1 yBelt | 1 | L | 6 | Unloader 1Wagon 1yBelt L\n2 | 1 zBelt | 1 | R | 12 | Unloader 2Wagon 2yBelt R\n2 | 1 zBelt | 1 | L | 12 | Unloader 2Wagon 2yBelt L\n4 | 2 zBelt | 1 | R | 24 | Unloader 4Wagon 2zBelt R \n4 | 2 zBelt | 1 | L | 24 | Unloader 4Wagon 2zBelt L\n|||||",
   "fileName": "Unbenannt2.jpg",
-  "numberOfFavorites": 199,
+  "numberOfFavorites": 200,
   "tags": [
     "/train/unloading station/",
     "/belt/balancer/",
@@ -228,7 +228,8 @@
     "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
     "ZodxLC02hsdOAX8K1s0ahf13AAE3": true,
     "cKWRPdZ488e0aAQFkCeaKZ1Q6933": true,
-    "rlyHBgrIbMQkyIWgOqY785GcofI3": true
+    "rlyHBgrIbMQkyIWgOqY785GcofI3": true,
+    "xU9pLdakh8PwoIQqgWFfAZngasz1": true
   },
   "image": {
     "id": "l2i43BH",
