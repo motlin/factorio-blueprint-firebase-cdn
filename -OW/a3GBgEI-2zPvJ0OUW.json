@@ -12,7 +12,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1754142239244,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/circuit/counter/",
@@ -21,5 +21,8 @@
     "/mods/vanilla/",
     "/version/0,15/"
   ],
-  "title": "A General Purpose Computer, without tiles"
+  "title": "A General Purpose Computer, without tiles",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
+  }
 }
