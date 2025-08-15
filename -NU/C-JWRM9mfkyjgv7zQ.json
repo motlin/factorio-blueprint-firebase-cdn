@@ -7,7 +7,8 @@
   "createdDate": 1682771626485,
   "descriptionMarkdown": "##### A delivery system to easily build and resupply my [Wall defense system](https://factorioprints.com/view/-NUC-BvjdJF1jNbii56F)\n\nIt´s by default turned on to build any wall segment but when turned off ( thru the constant combinator ) the station for the resupply train is activeded and all the leftover from the \"builder\" train is delivered back to the train/ requester chests, when there is leftover materials in the requester chests a third station is aslo activated and the \"trash\" train deliveres back any builder materials to the supply stations. \n\nThe supply station has a trash station each for the three trains to go thru, this is for the trains not contain any unnecessary items that can be used else where. When a builder train has leftover items in it and the builder station is turned off, a timer is activated to enable the builder train to go to the trash station. The timer mechanism can be found in my [circuit book](https://factorioprints.com/view/-NT55U7UJw9NvHF9I-OH) ( Countdown timer )\n\nThe number of items and which items the supply station delivers to the trains can be changed thru the requester chest, but if the items is changed the mini loaders connected to the green wire network must be changed to, there is also here the number of item is changed. \n\nEach of the four slots the trains go to ( + the trash station ) to pick up building materials / supply items has my [fuel changer](https://factorioprints.com/view/-NSolhzCkQWXHWyrIvOp) blueprint to easily deliver fuel to the trains.\n\n\nMod used : [Miniloader](https://mods.factorio.com/mod/miniloader) \n",
   "favorites": {
-    "K7Uaemqxb6dFLdNq1pVlx8aUcLG3": true
+    "K7Uaemqxb6dFLdNq1pVlx8aUcLG3": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
   },
   "fileName": "Skärmavbild 2023-04-29 kl. 14.11.05.png",
   "image": {
