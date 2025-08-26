@@ -7,6 +7,7 @@
   "createdDate": 1755417137961,
   "descriptionMarkdown": "This is roughly a few months worth of play testing and improvements on a train network system. It uses a set of pre-configured trains & Train stop names to keep thing consistent and easy to use. Its fairly consistent without train network jams. Although there are edge cases where things can get stuck if you have to narrow a path where the intersections are not properly pasted. The different sub-books are\n\n>Rail Stops: All of the standard types of stops I have preset\n\n>Raised Diagonal - Straight: These books are just rail segments with power poles, and alternating signals. There should be a constant red circuit connection throughout to allow for large network connections when not using some form of wireless circuit network. \n\n>Player Transit: Just stops setup with a different name for player use across your base.\n\n>Drone & City Segments: These are the base segments for my city grids. \n\n>Intersections: Self explanatory, These are all of my intersection types as well as a couple of other markers. \n\n>Train Loading & Unloading: This is some of my default unloading and loading templates with logic. This variation of the book uses AAI Loaders to save on UPS when building massive bases. No arm variations are included. \n\n>Intersection Bypass: A book template for fixing damaged fly through corners. Seems pointless but helps fix some weird pasting edge cases.\n\n>Exploration Segments: Raised Very long segments of rail for exploring across land & Sea to find distant resource patches. Should include Radar.\n\n>Train stop Name Bank: Literally just pasting this allows for easy selection of train stop names on a planet. \n\n>Train Ghosts: Ghosts of the basic train layouts I use. 2 Locomotive + 2 Cargo or Fluid, and 2 Locomotive + 8 Cargo or Fluid.\n\n>Pre-Configured Trains: This is 90ish % of my trains, there might be some errors in settings as there are quite a few. \n\n>Lower to Upper change is a template because I am lazy and hate using Rail Supports when I dont need to. \n\nThat is everything in my Railroad book. This has been something I have worked on and updated almost since I started playing Factorio. I figured it would be nice to see what players other than my friends think of the designs. *BTW The Rail waiting yards were removed due to them requiring AAI warehouses and a couple other bits to work properly. ",
   "favorites": {
+    "7wZIoMmR7GPG1u031QvQnrIbLIq2": true,
     "DIEQxE8Vbmf3ptBdY2Y6SRKlRrV2": true
   },
   "image": {
@@ -14,7 +15,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1755417637986,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/",

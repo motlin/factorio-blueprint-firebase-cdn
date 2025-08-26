@@ -7,7 +7,6 @@
   "createdDate": 1642355305250,
   "descriptionMarkdown": "# Matter Generator\n## Generates  ~900 matter/sec from thin air!\n### Details\n* Generates its own water, so no water needs to be pumped in.\n* Fully contained power and fertilizer generation.\n* Matter is turned into matter cubes and sent out via train.\n* Train station is only enabled when matter is ready for pickup or more matter stabilizers are needed\n\n### Requirements\n* The train the collects matter cubes should have at least 200 charged matter stabilizers\n* Requires some matter to kick-start the process (also a charged antimatter fuel rod to start power)\n* Requires connection to a railroad network to allow pickup of matter\n\n### Notes\nMatter plants are surrounded with efficiency modules to reduce power consumption. These are needed to allow self-powering as they reduce power consumption of the matter plants from 15 GW to just over 1 GW. These can be removed if desired. They also prevent pollution from spreading outside the structure.\n\nWarning: I have no idea how to optimize for UPS, so this could very well be terrible.\n",
   "favorites": {
-    "we7GMANN5SYFeddgkztRoERAX3n2": true,
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "C0XcnzAm5iM9Ma4oz9HgyPlm0Od2": true
   },
