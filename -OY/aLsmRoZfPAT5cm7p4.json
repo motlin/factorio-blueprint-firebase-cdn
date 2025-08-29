@@ -8,7 +8,10 @@
   "createdDate": 1756211417493,
   "descriptionMarkdown": "For early game mall, see my [second Gleba mall](https://factorioprints.com/view/-OFa_ZWh1hQypFqucMTy). \n\n\n### Mid-Game Gleba factory\n\n##### Features\n- Creates all Gleba unique items \n- 2,000 SPM\n- Mall with all items you need to build more outposts\n- Seeds management\n- Self-Powered\n\n##### Tech level\n  - 5 Planets Tech, no quality\n  - Artillery, Tesla Turrets are needed\n  - Stack inserters and biochambers\n\n##### Power-up:\n- Connect ~5,000/min from each fruit from any side.\n- Start the electric network. It is on a seperate network that will power everything once it started.\n- 250 logistics bots\n- Add 2,000 spoilage to the network\n- 1 egg\n\n##### Important Note:\n- **As the factory stores the seeds in buffer chests, seed requesters in the farms must check \"Request from buffer chests\"**\n\n##### About the design\n- Each component processes the fruit it needs; there is no central processing area\n- Each component makes its own nutrients\n- One module creates the initial nutrients for all the other modules for simplicity and sends it via bots\n- Lots of buffer chests - bots will arrange everything, no need for 10000 storage chests.\n\n**As this massive blueprint is new, I consider it as a beta. Please report about any issue you find. Thanks!**",
   "favorites": {
-    "Vx9R519Xg6TJDNtA74BzorAre3I3": true
+    "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
+    "1IbymY0bDHZw7phmia4XQxqRY0t2": true,
+    "YmU6PWOzCwfEnE5TurlT0MKCNO53": true,
+    "8bE1N1aRJ1PzTdBERvbW7lsYdvn2": true
   },
   "image": {
     "id": "gukHUNh",
