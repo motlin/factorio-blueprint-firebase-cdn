@@ -8,10 +8,16 @@
   "createdDate": 1756748641197,
   "descriptionMarkdown": "Self powered, needs priming with ~200 rocket fuel => heat.\n\nIce platform: 2 platform/s\n\nExcess rocket fuel as a byproduct: 12/min\n\nMost important efficiency modules on cryo plants.  assembeling machines are much less important",
   "image": {
-    "id": "kRua41d",
+    "id": "5spEULb",
     "type": "image/png"
   },
-  "lastUpdatedDate": 1756748641197,
+  "lastUpdatedDate": 1756912576865,
   "numberOfFavorites": 0,
-  "title": "Ice platform maker"
+  "title": "Ice platform maker",
+  "tags": [
+    "/planets/aquilo/"
+  ],
+  "favorites": {
+    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true
+  }
 }
