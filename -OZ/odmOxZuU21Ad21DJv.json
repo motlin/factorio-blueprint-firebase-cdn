@@ -8,14 +8,16 @@
   "createdDate": 1757524994249,
   "descriptionMarkdown": "All in one rail book. Designed for mid- to early-end game. Main features:\n- 4 lane rail system for 1-4 trains\n- Flexible rail blocks\n- Intersections with loops for better train navigations to/from stations\n- Semi-detailed description of blueprints that are not self explanatory\n- Smart trains using interrupts (with auto-refuel)\n- Loading stations automatically set train limit from item count\n- Unused trains go to depot\n- Visual aid for station status\n\nPlease make sure to check the example book if you are confused. WIP on a video tutorial.",
   "favorites": {
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
+    "G6xDPT7F1sNHedVPyGwEvpzCRO83": true
   },
   "image": {
     "id": "ycDcv13",
     "type": "image/png"
   },
   "lastUpdatedDate": 1757541480061,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/elevated-rails/",
