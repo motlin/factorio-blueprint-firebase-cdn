@@ -11,7 +11,8 @@
     "8h4IJgxNSReiCyoWDH6XzBe1GcQ2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,
-    "SuksnOSIGJWrv99JtTkzG3sOnVV2": true
+    "SuksnOSIGJWrv99JtTkzG3sOnVV2": true,
+    "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true
   },
   "createdDate": 1605114937700,
   "descriptionMarkdown": "Tile-able advanced circuits. each row spits 42 red circuits per sec and eats almost 2 full blue belts copper.\nCould stack up to 20 rows if you double the petroleum pumps above. 7 should be enough for 2700spm base unless you want to feed processing units as well. \n\nStats **each row**:\n\nOutput: 42 red circuits / sec<br>\nInput: 461.6 petroleum gas (0.5 pumps) + 88.8 copper plates + 42.9 metal plates + 23.1 coal\n\nKnown issues: there is a bottleneck because it seems 4 stack inserters with full bonus are not enough to fill a red belt with copper wire. need to investigate further",
