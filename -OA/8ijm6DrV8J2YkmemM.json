@@ -1,0 +1,20 @@
+{
+  "author": {
+    "displayName": "Scott Willis",
+    "userId": "LH7L78W7nVVKqKez287Cq4u9x8q2"
+  },
+  "authorId": "LH7L78W7nVVKqKez287Cq4u9x8q2",
+  "blueprintString": "0eNrtWl2PqzYQ/SuIZ9hiYwhE6mvf+tS+Xa0iEpzEumBzbbPbaJX/3jEkIR8mG5PVVatWWq2MPcwZ2+Mzwzgf/rJqaSMZ1/78wy+pWknWaCa4P/f/3FLvN9HyUjKqPL0ttKfFZlNRbyWahkqvqQoNI5zSEka8JfXEeg2C1GvEO4xvJCtfPA/07LxCUjMC/wWvdkZ8XbVq20lX7EfLSuUp4W2LN8Y3nmh10+ojgKrEuxGsvVK88xc/8NlKcOXPv334im14URnjeVFTsHrdWbwDoR9tUTG9g76KbigvC+jdw7u8pH/5c7R/DXzKNdMwu05V97Bb8LZeUgkCwVFlTUvW1iGt6EpLtgobUVHQ3wjF+qX68EFhmBD8kgQ+AIYYWvt9cKMTn3Q2bd1YdcwOGiLQEPglkwDaCSA8NqUbmHiAYY3dVHIyNbKbSj7XkXymIznpAMdQWyFpODbvOLtQdjFz8vDE0+DWDW6gkugIhXLbIoNvaSmqxZIabxTSvKioXoCQWYm5li0NfEmLcmFEwQR10QkOLMFjhv693X5wRU3r3vdYeebCjRRlCwa9wRthDe2KhvGFQ7d8JeoaDN6flIAODtBvACtAead0eIIlVLpYfffnkVk26wgaHcGjI/H+dQ9/tzsxe9jTUfaEp2cOnt4BWXTkLjpyuw4UORyXMUMQclEyZgl+5AwQ5H4GLB4/6tnHs+LXogL5sI8Y4VqKOqyKt+Ikshje50LWQOWjx0I1EGjs5+GS4P+RBwLFU8jw9nA8ToZooPAS1rqE9QfWWDJegNF3T+TsUZc46DVeUXa6unU/f4JVXzOp9GII1HrXeQbEf9jeIcieO4rZRhPidWESExR1e3St5+gWWnB69QKOzGPdQNaxOMAVvPRNyO9Ti+vk4SB0cNuTUatCaaDzC6uaHUy35XphnBkcDLT583VRKWqMnKCSU/0u5HfVn7HyGEsgiFB+1Gy8yrbFiXuSMnDZbIRB0gsaCrUIN9JQySeENKZuCAXdGQkZV1RqKu+nUCjtnVCKZjGIfYsC9ILyHKNslliPWeaCFj+AhqMYYTtW7oKFnsLCkQtW9OQqYvfk94yz0pHkd4hMy7a6P4M4v57BQEbZwwyIB87VrVyKUMuCq0ZIHS5ppa3J4eASyS0L2jCIOwZ2xUjcMZArRuqOEblizJwxSOaKkblj5K4YuTtG6ogRR+4YM1cMdIWhGjhWY6QyMH16mx2sWWXeG8IypAYmHsu2EwrhU57zTrEl4etDdZeWzP1fTUzso/SikZBo9MKSbbba+rGL3ReK3Fsoe6qzYnLVMvMVCFnwFrKJm4+/o8SxvxeFfJWahNFmeTwtMhILI94yfHif4mMyLVB+Dbg7oRFX0ozdCY24kn98TWiQJVHZZ0vjKNF97zskjv0RsHp8Ni0X+Jqtm5j0fAk4mUCKroGQPJX7kJFqmjtJxa5RicST8qt+Yx7MqAiZ4PBx9qTDk4EulrQAfrWiJFcoTjW3Ly0uoNHiAjorLowUCkj6eOkMP1E6I7Op5YH4314eiP4j5QGSPVMeiEeoLJ9WHrjxmsx2YxC5FGNHblkSpzrqmBI8qV6Hp9frktjx9gLZzmHNpDSn75CT/qS7DNt0yOM89sxlV5K4uAwa2e3URcnYddfMxe/GLMlclIxZkjteAkx0pf+vBJ65EkijSRTzzP3oM5fa3a0VhMh3QDZ78Q0FSYDh32vQNVHSNdMABYgEcdfEpomNAIFu+FRHpp2cvWjaEKdM23QFpO83ogHwg5E3XUHa93ftgzwM4wBYE/ft2LQ7+ewo/9pvvckbT79zCPyqgEwV+v4wqYH3e8HbdbGCdNb88gBH0S8KZN6oVN0yJCnOSZ4nsxlJ0yzf7/8G+CzaQg==",
+  "createdDate": 1758952357043,
+  "descriptionMarkdown": "The Foundries that toggle copper plates need to be off the power grid.  They are there only to flush the liquids so having to handle output plates slow them down.  When their fluid inventory is full, they reset their recipe and flush the ingredients.  Because they are direct-fed by pumps, they can't push back out and the fluid is discarded.\n\nTurbo-belt in with calcite and stacked Stone out.",
+  "image": {
+    "id": "jq6Efgq",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1758952357043,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/"
+  ],
+  "title": "Stone Manufacturing ~200/s"
+}
