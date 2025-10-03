@@ -15,7 +15,8 @@
     "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
-    "AhzNkdqg1bPe05cValFQwlJDXVG3": true
+    "AhzNkdqg1bPe05cValFQwlJDXVG3": true,
+    "6VQh1k5U6PRMjVayjvVbU2xwGfr2": true
   },
   "createdDate": 1547037015024,
   "descriptionMarkdown": "Dedicated Crude Oil Power facility. Train in oil fluid wagons (L-C) and it does the rest.\n\nTotal Generation Capacity: 216MW\n\nIntegrates a programmable backup switch which by default is set to enable when accumulators drop below 10%. Autofuels incoming oil trains with rocket fuel.",
