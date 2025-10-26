@@ -22,6 +22,7 @@
   "descriptionMarkdown": "This is a Unloading train station for all ore types.  The Circuits Conditions will ensure that the belts are not clogged on the way to the final belts.  The order I have it set up to filter is Coal > Iron Ore > Copper Ore > Stone > Uranium.  You can switch the order by changing the filters on the splitters (just make it the same on both sides!)\n\nCoal for the trains comes in at the bottom (try to keep that full).\nNext to the train there is a red circuit and a Constant Combinator (bottom left most one).  Make sure that the red circuit has the total amount of resources you have in your base.  The Combinator is how much of each resource you want.  For example: I have 12 chests of coal as a buffer, I which means I want 28,800 coal.  I set that much coal for the Constant Combinator, and connect the coal chests to the red circuit network.  \n\nThe reason for the circuits is that it allows you to 'fire and forget' trains.  They will make their loops, but the station will only unload if the factory needs the resources.  \n\nEnjoy :D",
   "lastUpdatedDate": 1531070142501,
   "favorites": {
-    "CSjv9HKKz5f2aMXGyV4KkENrali2": true
+    "CSjv9HKKz5f2aMXGyV4KkENrali2": true,
+    "D8VNS46cr1QM2cSX9vQGGsyfhAI2": true
   }
 }
