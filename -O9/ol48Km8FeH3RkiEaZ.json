@@ -7,11 +7,11 @@
   "createdDate": 1729609618116,
   "descriptionMarkdown": "Automatically crafts most items in the game (and any required prerequisites). Needs exceptions adding for items that cannot be crafted in assemblers and for items that cannot be crafted on the current surface.\n\nNote that automatic fluid input can waste lots of fluids and requires the fluids to be in barrels. There is a group in the combinator that will allow you to toggle recipes with fluid inputs.\nNote that there is a buffer chest for the items used in crafting (to speed up robot traveling) and the requester chest is set to request from buffer chests.\n\nI don't claim the groups in the combinator are exhaustive but should include many of the basics. The design can definitely be made more compact but this was originally just a proof of concept that ended up eating more of my time than it should have.\n\nChanges for v1.1:\n- Added buffer chest with automatic ingredient tracking\n- Added lock for target recipe so it won't switch when the top requested items change order due to item deliveries.\n\nChanges for v1.2:\n- ???\n\nChanges for v1.3:\n- Removed bots from mod used to build blueprint.\n- Added more power poles\n\nChanges for v1.4:\n- Handles quality automatically. Now you can request items of any quality and as long as you have all of the ingredients in your logistics network it will automatically be crafted.",
   "image": {
-    "id": "XGixYK5",
+    "id": "Ry2NSF1",
     "type": "image/png"
   },
   "imageUrl": "https://imgur.com/cg1GJor",
-  "lastUpdatedDate": 1730142502319,
+  "lastUpdatedDate": 1763326899877,
   "numberOfFavorites": 14,
   "tags": [
     "/production/mall (make everything)/",
