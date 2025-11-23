@@ -9,7 +9,8 @@
   "descriptionMarkdown": "Prometium science ship, Takes the eggs with it and processes them into science on the fly.\nAutomatically will dump eggs when there are 2 many, this depends on time and number of eggs left so it drops them in batches if it does not find enough prometium. No eggs will remain in the lab. \nCan store up to 500astroid chunks for later processing if it runs out of eggs.\nAsteroid chunks do not get processed if ship is in orbit.\nAutomatically turns around after 19 minutes ( or ammo/eggs are low )\nAutomatically modified speed based on distance past the edge.\nCurrently flying with Damage +280% Rockets +730%, railgun+240% and 105% speed\n\nRequired from user: \nModify the M(for minutes ) and S ( for seconds ) in the constant combinator to the right of the hub. It only has those 2 constants. This should reflect the remaining time on the First batch of eggs upon arival -10seconds for safety. Feel free to play with this safety net but dont blame me if you mess up.\nSpeed might need ajustment if using less damage upgrades, this can be done near the trusters.\n\nLamps and info pannels are pure for information, If the lamp is red its not a good thing.\n",
   "favorites": {
     "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true
   },
   "image": {
     "id": "lMr4SmH",
