@@ -12,11 +12,14 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1758814020293,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/planets/gleba/",
     "/production/smelting/"
   ],
-  "title": "Gleba Bootstrap"
+  "title": "Gleba Bootstrap",
+  "favorites": {
+    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true
+  }
 }
