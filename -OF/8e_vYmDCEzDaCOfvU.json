@@ -8,14 +8,15 @@
   "createdDate": 1764319977293,
   "descriptionMarkdown": "A space platform designed produce Quantum Chips.\n\nDoes a full circuit of all planets starting at Nauvis, gathering necessary materials at each planet.\n\nBy default, its stops and requests are:\n\nNauvis: Fusion Fuel (100)\n\nVulcanus: Tungsten Carbide (5000), Processing Units (5000)\n\nGleba: Carbon Fiber (5000)\n\nAquilo: Lithium Plates (5000), Fluoroketone Barrels (500)\n\nFulgora: Superconductor (5000)\n\nNotes:\n\n* I didn’t include a mechanism for ejecting empty barrels because I deliver those back to Aquilo so that they can be reused. If you don’t want to do that, there is plenty of room to add a ‘trash chute’ for them on the right side of the hub.\n\n* I’ve included an ammo-check circuit to prevent it from leaving without enough magazines and rockets to survive, but this is only to make sure there is a sufficient buffer for the maiden voyage. Afterwards, the platform will always produce more than enough of both to keep pace with usage, even without stopping at any planet for more than the 5s minimum.\n\n",
   "favorites": {
-    "dNUvbKyC3AQymaBHmydMgOZ4QEP2": true
+    "dNUvbKyC3AQymaBHmydMgOZ4QEP2": true,
+    "CLo7WMqppKYymyc3gWFtST9eUQJ3": true
   },
   "image": {
     "id": "8VnhP3V",
     "type": "image/png"
   },
   "lastUpdatedDate": 1764319977293,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/"
   ],

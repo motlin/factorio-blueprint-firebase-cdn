@@ -12,12 +12,15 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1763608349810,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/",
     "/train/loading station/",
     "/train/unloading station/"
   ],
-  "title": "Logistic Train Network"
+  "title": "Logistic Train Network",
+  "favorites": {
+    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true
+  }
 }

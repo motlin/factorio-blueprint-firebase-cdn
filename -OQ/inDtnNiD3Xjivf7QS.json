@@ -12,11 +12,14 @@
   },
   "imageUrl": "https://i.imgur.com/mGYL5yTl.png",
   "lastUpdatedDate": 1750941720822,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/circuit/indicator/",
     "/mods/vanilla/",
     "/version/0,15/"
   ],
-  "title": "Test Display"
+  "title": "Test Display",
+  "favorites": {
+    "q2nT2i6whtPNOdaNRNkm1OQ38l22": true
+  }
 }

@@ -9,14 +9,15 @@
   "descriptionMarkdown": "Cybersyn loading and unloading stations, made with compact circuits. After placing the station, open the compact circuits user-defined properties (default: Ctrl+Left-click on the processor) and select at least the cargo or fluid as well as the network you're transporting. If all settings are to your liking, you can enable the station. Additionally you need to merge the chests to one big chest.\n\nTwo blueprint books are provided. One for vanilla trains, one for pY trains.\n\n### Initial setup\n- Import the blueprint book from Factorio Prints.\n- Move the relevant compact circuits sub-book which contains the model library to your inventory.\n- Place an empty processor into your world.\n- Enter the circuit editor (default: Left-click on the processor), then click on the Models button.\n- Take the model library blueprint book from your inventory in your hand.\n- Click on the BP Import button.\n- Exit the editor. The stations are now ready to be placed freely.\n\n## Needed mods:\n- [Compact circuits](https://mods.factorio.com/mod/compaktcircuit)\n- [Diode Combinator](https://mods.factorio.com/mod/diode-combinator)\n- [Display Plates - Ground Signs & Map Markers - Forked](https://mods.factorio.com/mod/DisplayPlatesForked)  >= 1.6.0\n- [Filter Combinator (Reimagined)](https://mods.factorio.com/mod/filter-combinator-improved)\n- [Long Storage Tanks](https://mods.factorio.com/mod/nco-LongStorageTanks) (mod settings: `tank sizes: \"2; 4\", size of train fluid wagon: 25000/pY: 75000, storage multiplier: 10`)\n- [Merging Chests](https://mods.factorio.com/mod/WideChests)\n- [Project Cybersyn - Logistics Train Dispatcher](https://mods.factorio.com/mod/cybersyn)\n- [Schall Virtual Signal](https://mods.factorio.com/mod/SchallVirtualSignal)\n- [Stack Combinator (Redux)](https://mods.factorio.com/mod/stack-combinator-redux)\n\n### Needed mods for pY:\n- [AAI Loaders](https://mods.factorio.com/mod/aai-loaders)\n- [Cranes Pyanodon](https://mods.factorio.com/mod/cranes_pyanodon)",
   "favorites": {
     "b21yAvx8TEUgt1XgbeWAYWSEKNg1": true,
-    "UwRb9RolbBOEGmiNuRGieDImfAB3": true
+    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
+    "rDeCvoPhh7cLmCWthwnw5vNQwL43": true
   },
   "image": {
     "id": "laHNoYT",
     "type": "image/png"
   },
   "lastUpdatedDate": 1758005243765,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 3,
   "tags": [
     "/version/2,0/",
     "/train/loading station/",
