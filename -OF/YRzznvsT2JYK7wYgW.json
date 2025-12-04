@@ -1,0 +1,20 @@
+{
+  "author": {
+    "displayName": "EmpressPandora",
+    "userId": "WNYiuAg9vZdRYZ12q3fdNWaRJCu1"
+  },
+  "blueprintString": "0eNrFlktu2zAQhq9CcNWidGBLlhILSTbJxouiBboMAoGSRjERiVQpyqkR6AC9Rc/Wk3RIWX7bgQO0RTbUkPP6+HOcV5oUDVRaSEOjVypSJWsaPbzSWjxJXlib5CXQiHItzKwEI9JBqspESG6Upi2jQmbwg0ajlh3wyiAVGejDLl77yChII4yALqv7WMSyKRPQGJP1cWxdhkuzGYjRStXoq6RNaEsYBhcBowsahZcXAeZBL6NVEScw43OBLniuhtS61NtrzN33wWguCgN612oWla1kLrRpsMdVaV3PgylavuMG1o9GqXTpDmG9Fdeu3ojeOENjWV8Gw/YR/7DKquAL0HEGdapF1fVDp7JqDJlzvB2SgHkBkGRIuMzIaOj55IOQadHUYg4fqQW/A85jJy7gALfLFbcj1JZhYtzLxIrf5heyyoWuTbzWwBvE7qwU8AowyJlOW1BvKdvKHEvEpfSzq1BDRiOjG2D0SSNDGuW8qGE38b6PO7ZyshFaq1bVGLyX3SfyRs1fupqrRewuP861KmNhL7gv57gO7maQPhOREzODpRzUHHReqBfIyM0t6SqyJ4QhmcgOycE/Uw7h/5AD8HS2d7m/f/6i7+beRTwB9x7Q6sh2HiRZECWB4JB7JrnSbqvHTTIw3bw4hHi8Rixqm2xQcQnFIbpXbw8pCwBnbT+EVmDt3plYl+LrxieNhnuvx87jtAvde+LoKgYFL6slvb1uA3b6Z+HUiJkc6XkdaUdW/2KsTK2TqgCxdNL4RHvRnZX5+Du2L580lZWYE1zKC3zAYj3mD6kqPJ9zuMk5E3op2ejq71KfblBfq83ztqleX78D6/QE1m8zkZslRaMIJ7nmrmGiupFZ8h+ibErSSBsNifveIBHWxcAT6B49jpgXZGWf28OIeSxk3iN78NiI+cx3K48FbOxWPhuzEa78lS3Ac6E7FyxtGE8YKLHC9f9XjBY8wZEQ0a/3n/EL50rtughCbzKeTIKrkT+ZDMdt+wdwD0qt",
+  "createdDate": 1764752621700,
+  "descriptionMarkdown": "Basic PDM controller utilizing integer overflow to achieve full 32-bit precision at 60 hz resolution. just replace the first shift combinator to get whatever input range you want.",
+  "image": {
+    "id": "225RSm3",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1764752621700,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/",
+    "/mods/vanilla/"
+  ],
+  "title": "PDM controller"
+}
