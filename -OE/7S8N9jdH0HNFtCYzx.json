@@ -12,7 +12,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1763225933464,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/general/mid game/",
@@ -23,5 +23,8 @@
     "/belt/fast transport belt (red)/",
     "/general/beaconized/"
   ],
-  "title": "Modules production"
+  "title": "Modules production",
+  "favorites": {
+    "lii9FzzLVZOHaYqrNOcFpcrwblH3": true
+  }
 }
