@@ -10,9 +10,13 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1764745367632,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Thruster PID"
+  "title": "Thruster PID",
+  "favorites": {
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
+    "MxDUneKZH7T8ltsURkvSh5D9vpz1": true
+  }
 }

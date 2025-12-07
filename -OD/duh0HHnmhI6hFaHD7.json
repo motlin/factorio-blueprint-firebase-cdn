@@ -12,9 +12,12 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1762713801414,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Train automation V3"
+  "title": "Train automation V3",
+  "favorites": {
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+  }
 }

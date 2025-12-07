@@ -11,10 +11,13 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1764752621700,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/"
   ],
-  "title": "PDM controller"
+  "title": "PDM controller",
+  "favorites": {
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+  }
 }
