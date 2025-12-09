@@ -11,7 +11,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1765012943931,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/general/early game/",
@@ -19,5 +19,8 @@
     "/planets/space-platform/",
     "/production/science/"
   ],
-  "title": "First Science Platform"
+  "title": "First Science Platform",
+  "favorites": {
+    "s9CSmS10dDfJ58wum6a8Y30Ksno1": true
+  }
 }

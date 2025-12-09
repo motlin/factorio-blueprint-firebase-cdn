@@ -7,12 +7,12 @@
   "createdDate": 1730293976253,
   "descriptionMarkdown": "This spaceship uses uncommon and rare elements to stay effective, and uses asteroid reprocessing to balance out planets that are poor on one resource.  If you don't have that yet, just ignore it - it works fine without it.\n\nI've tested it to Vulcanus and Fulgora, where it works great. A few interesting features:\n* It stores 500 ammmo \"inside\" as production sometimes can't keep up during space flight\n* The level of ammo is shown with white lights on the left\n* The velocity is shown in green lights on the right\n* The fill level for thruster fluid and oxidant are shown near the engines\n* The 3 engines use around 28k fuel/minute, and the ship only produces around 8k/minute, so leaving with a full tank is important. A Ready indicator is used to signal this.\n\nA few other warning/info lights that you can discover on your own :)",
   "image": {
-    "id": "jWy66YI",
+    "id": "xwLdHZf",
     "type": "image/png"
   },
   "imageUrl": "https://imgur.com/jWy66YI",
-  "lastUpdatedDate": 1730293976253,
-  "numberOfFavorites": 3,
+  "lastUpdatedDate": 1765228164201,
+  "numberOfFavorites": 9,
   "tags": [
     "/planets/space-platform/",
     "/mods/space-age/"
@@ -26,6 +26,7 @@
     "GKMMCr8TWbg5zUXjO6fA2Vwl3MN2": true,
     "wgNucoRYjEVgk6MxJh6r32O3aHh1": true,
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
-    "ojjy6M90aTbRQa5WeKMShJwRrvQ2": true
+    "ojjy6M90aTbRQa5WeKMShJwRrvQ2": true,
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true
   }
 }
