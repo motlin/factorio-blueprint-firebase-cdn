@@ -12,7 +12,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1764377459189,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/",
@@ -22,5 +22,8 @@
     "/train/crossing/",
     "/train/junction/"
   ],
-  "title": " Chunk-Aligned Railway System 2.0"
+  "title": " Chunk-Aligned Railway System 2.0",
+  "favorites": {
+    "B8OXyrNssGTJYrTv5UMTvIWArrF2": true
+  }
 }
