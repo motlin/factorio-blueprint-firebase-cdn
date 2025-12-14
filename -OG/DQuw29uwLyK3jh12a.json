@@ -11,7 +11,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1765473759405,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/planets/fulgora/",
@@ -20,5 +20,8 @@
     "/production/robots/",
     "/general/tileable/"
   ],
-  "title": "Quality scrap recycling. Quality filter. Fulgora"
+  "title": "Quality scrap recycling. Quality filter. Fulgora",
+  "favorites": {
+    "z2nrljOr5uYxYxSq5GYiug4AJF22": true
+  }
 }
