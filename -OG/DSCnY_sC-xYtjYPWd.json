@@ -11,7 +11,7 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1765474098644,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/planets/fulgora/",
@@ -20,5 +20,8 @@
     "/general/tileable/",
     "/general/compact/"
   ],
-  "title": "Any ice smelting. Fulgora"
+  "title": "Any ice smelting. Fulgora",
+  "favorites": {
+    "RIHvYqjJL7OEiYP4dcMXHipUzAL2": true
+  }
 }
