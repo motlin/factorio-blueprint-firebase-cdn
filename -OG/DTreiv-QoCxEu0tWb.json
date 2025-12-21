@@ -11,12 +11,15 @@
     "type": "image/png"
   },
   "lastUpdatedDate": 1765474532429,
-  "numberOfFavorites": 0,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/planets/fulgora/",
     "/mods/space-age/",
     "/general/compact/"
   ],
-  "title": "Electromagnetic plant production. 4 / min"
+  "title": "Electromagnetic plant production. 4 / min",
+  "favorites": {
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+  }
 }
