@@ -1,29 +1,55 @@
 {
-  "lastUpdatedDate": 1496182388476,
-  "numberOfFavorites": 29,
-  "favorites": {
-    "wMViWqoPZ2ZsaGP93QiVjTrwskl2": true,
-    "2dJmUVNcozdxEEi0vherCgoe4Rn1": true,
-    "PNUfT9mjgkVeFZR6gsh6gtAkr603": true
+  "author": {
+    "userId": "RywQ5CvOsCVpBiNRQy658uqSBZ03"
   },
   "authorId": "RywQ5CvOsCVpBiNRQy658uqSBZ03",
+  "blueprintString": "H4sIAAAAAAAA/51Y7W6jMBB8lSi/cYTN56niWSoOrNQSMRGhp1aIdz9s07s4ATLLr0rpzK539sNr6vbQtFXZHN6LQepe9UreimHQ5UUWx1vfler80bPpT3MM\nru1t+n+ri+GriIPvgolwHIPXWB4+gqvP7o+sF6CRQfJkDGrVycr+miAu7HF4TjgOCHaGU4phDOwMxxTDGNhhw3sJM5wn7nkRHoigBIKBmTDgfDkQA2c3ddbl\nE+uUOAVOXhlx3KUvHkEEpMJ/GWRGLnAewh5YZqBe8AIKPn7SO/L1rj5KpRdVn0XPJs1huSjdeod9mfnkRI/dHojS5Rh2KnUDjum5cF52EPOdvHQnL97grZYo\nN6SI3GX2jII82eYjwh7ijRZYKrzc1V10ot9bP2l+7YTzRS8xJjbf1xH7boOQPHdnZ/+gv9WZyWay0KmKXdtG+nA74PhdQi9l07CmvFwXEyO8qbSCzQjY2S4H\np928/8AFGO5af7BdzNgXK/nZVCbEhSFAWUjREAvRDV1BHEn21qSPJDeoV5y9mtM7aE/5w6c0neZY2E6TPMyw9V3BZZ77cwwSe9YajjhdLvQX55v3iIdBm6KC\nEVZ6DGqX0pQ8Eywt31BgfY9LCGscYWlK8SUu98WHHzA5WSbD4vtuLMICmwNdZN6+PIKF54THN4i1ZgkvORBrzRLaAsRas4TyIzzMKV8SDHYMVNVq8+HE1XQx\n9N/Xiat6eTkG/0v+OAF1Lb9sja1Dn9efH57Y5HkuIhw66T2+dbL/7PTh/U3q+i/n539CFhIAAA==\n",
+  "createdDate": "2016-12-11T03:56:30.878Z",
+  "descriptionMarkdown": "A simple 3 way intersection for a right hand drive railroad.",
+  "favorites": {
+    "1gkrnWUJU7RPwQaB2NzqHqK1T9G3": true,
+    "0EfRg67xIDY56qQ3GbCmUNtzLHg2": true,
+    "HwBUN1bsafPudOIV8RPuXDPZPwG2": true,
+    "hvN3auhFCEQt89Wd46r8isqQ4mv1": true,
+    "PNUfT9mjgkVeFZR6gsh6gtAkr603": true,
+    "cboBx2dX5vSR00OOHnE8GUe1ttg2": true,
+    "hETbn8MPdLS4KEjFDFg4hP6gOXt1": true,
+    "Dk2aUZdJXwQ1VHR7gbdIeho7bDk2": true,
+    "FuLqzZAWKqdioZRc5YZ9pZEiB623": true,
+    "2dJmUVNcozdxEEi0vherCgoe4Rn1": true,
+    "I4w6ILk7bueANtYmm2dsxgw2Jwk2": true,
+    "0NpZPdI3Qec0lIHK4RTEXdgvnh42": true,
+    "c1c9moWiNCaS2uZSbIooQHs17Xy2": true,
+    "n5ytW6j893gWziWikDs7FvrETIt1": true,
+    "BDBKS7yWSOPLvLcITYLYEXADZ9L2": true,
+    "3ljsOlTzfUgKVxvHR1htFAhULjy1": true,
+    "LEYVTHtHL4X35GcltnDrqFOk2dA3": true,
+    "0Ek4cFDzYNgH7ScHN24KOo0foRu2": true,
+    "8UtFmZr8sDWMwBVtvqLld8XlXZr1": true,
+    "0I1cPpFJm3bZYRexRJkbHVdsz5W2": true,
+    "aUAphRoH9dNqcyprCoZgWe4apmC2": true,
+    "VjQKBjnonCMhsYXKgQOSGm97xz62": true,
+    "qalzXkCASjZfm9nkkm8otRjrkT73": true,
+    "wMViWqoPZ2ZsaGP93QiVjTrwskl2": true,
+    "4r6s5gcg0ySAAGBwQZXwSwvP6oR2": true,
+    "bmWAGbUxJiNpTEFGzrDrtSsGVQ93": true,
+    "p09lW5GIFqPBL5l3QAmZh6Bc3353": true,
+    "IsbhMPeVEKdruws7yqTZeHcMYV73": true,
+    "DSfesHRklLgDXyoRuKA27fvkeHT2": true
+  },
   "image": {
-    "width": 789,
     "height": 521,
     "id": "9STrBDa",
-    "type": "image/png"
+    "type": "image/png",
+    "width": 789
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/3%20way%20intersection.png?alt=media&token=af344cf5-d639-4d7d-8513-7513033272ca",
-  "descriptionMarkdown": "A simple 3 way intersection for a right hand drive railroad.",
+  "lastUpdatedDate": "2017-05-30T22:13:08.476Z",
+  "numberOfFavorites": 29,
   "tags": [
     "/train/junction/",
     "/mods/vanilla/",
     "/version/0,14/"
   ],
-  "title": "T Junction Rails",
-  "author": {
-    "userId": "RywQ5CvOsCVpBiNRQy658uqSBZ03"
-  },
-  "blueprintString": "H4sIAAAAAAAA/51Y7W6jMBB8lSi/cYTN56niWSoOrNQSMRGhp1aIdz9s07s4ATLLr0rpzK539sNr6vbQtFXZHN6LQepe9UreimHQ5UUWx1vfler80bPpT3MM\nru1t+n+ri+GriIPvgolwHIPXWB4+gqvP7o+sF6CRQfJkDGrVycr+miAu7HF4TjgOCHaGU4phDOwMxxTDGNhhw3sJM5wn7nkRHoigBIKBmTDgfDkQA2c3ddbl\nE+uUOAVOXhlx3KUvHkEEpMJ/GWRGLnAewh5YZqBe8AIKPn7SO/L1rj5KpRdVn0XPJs1huSjdeod9mfnkRI/dHojS5Rh2KnUDjum5cF52EPOdvHQnL97grZYo\nN6SI3GX2jII82eYjwh7ijRZYKrzc1V10ot9bP2l+7YTzRS8xJjbf1xH7boOQPHdnZ/+gv9WZyWay0KmKXdtG+nA74PhdQi9l07CmvFwXEyO8qbSCzQjY2S4H\np928/8AFGO5af7BdzNgXK/nZVCbEhSFAWUjREAvRDV1BHEn21qSPJDeoV5y9mtM7aE/5w6c0neZY2E6TPMyw9V3BZZ77cwwSe9YajjhdLvQX55v3iIdBm6KC\nEVZ6DGqX0pQ8Eywt31BgfY9LCGscYWlK8SUu98WHHzA5WSbD4vtuLMICmwNdZN6+PIKF54THN4i1ZgkvORBrzRLaAsRas4TyIzzMKV8SDHYMVNVq8+HE1XQx\n9N/Xiat6eTkG/0v+OAF1Lb9sja1Dn9efH57Y5HkuIhw66T2+dbL/7PTh/U3q+i/n539CFhIAAA==\n",
-  "createdDate": 1481428590878
+  "title": "T Junction Rails"
 }

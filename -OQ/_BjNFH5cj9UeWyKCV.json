@@ -4,26 +4,28 @@
   },
   "authorId": "iqbTwDSS3UTavZge9ydB1NvADQh1",
   "blueprintString": "0eNrtWluPozYU/isjXiqtoOWaSaL2oWq7z/NejRABk7EW7Kwxaaer/PceQ7gkMQkGskmnkUYjLj6fffzZPh/n5Ju2SnK0YZhwf0XpF235rXmSacs/W7fiHQ4pKR9neE2CRDwjQYq0pRa+oRSHQWJskgAa73QNkwj9rS2t3auuIcIxx6i0LW7efZKnK8Sggd6BoWsbmoEZJaIfAfU8+9HTtff9FfQRYYbCsoVl6xoMjzOa+Cv0FmwxZcIuxCzMMffhXVSDCT+46GP5LKzSTcACLtprP4uhJ3SNM47DQ6MYs4z7J54L2xRxxAxT2DbQlmmegkMLGDLeHFtWj/2veZDA9MBrQlkKPcFMcpSWU4ejVscojnGIEQnfjZRGeYIMu5j3sjU0Jj4mW5htyt5L6+bO1TUYZQiMmzu94w0wt4M//YQxu2ZslSdfDEwyxMALGWFeTdi8IGwqhuA1AeZ9Tv2aLIL4X5TBwDnL0XVJlEyKU09KBu2CNTJgOWf8/KQsiklh6GsOTf0YJzCCgrusXNZ71vc7SdfqFgdPJT7ommQdHbjxS/EgL3wEll9lPrn9iX4+Irq1M+d3tzH7MerV3u8JAqROTp+POD3nMexW5NPYpxsEQyhPL/10PnxEglWCYMvHQZIhfcCMXWNxWaqLS6/hbAmcrQZnt+AcCZyjBue04FwJnKsG57bgPAmcpwbniY2pa5wF2ZtPKPerhRhVh1zNLqOpv8rjuCBQvNsJy7rnklX+XsQdiCJ6EUqOtsjZBoJ2TNYMRRByuEFjNXN7nLkzztwdZ+71N98fHnp1sdQggsBtDFznSQD3M/PTxvQzeBahDYK1IpguGDuLIsHA1k/wnysi2TIkewiSI0NyhiC5MiR3CJInQ/K6kF5LuSQCXK1zIcoEKwSBRHupKMb/oOjpt706fXrZq9MtbKviEPZm9sJdLLyZZ1qe6Tbat9BWfRU0SuBYhm0crEHI4HCMkJZDyZRIpab/Z7LU7SNLv5vEtB1XVWMqC++2Hjur9HponavrV2u4JphAYjjTSgx3WonhTSsxZl3a3+v/PePe5/fMcP0jCb+wRw8iiwjhn+yzwemhoiZUUfZk+seZTP+4k+kfbzL9M7ua/vnjUFQoyCBLRQbFsIcjiPiDhM+FsGhY1VHlHQdF99YioG+eqR3gsgxvkbFhdIuj7oBtWF7L67Oyopp8CYZ1MHOKYnFMbqkhTZLzHZe2aWZmdhdC5pErGZkrUQ76dRfGwe693O9O6Zt/hFoYOr4xGYuBsbZLsdzAhaFJji7VdAMXhmZXupTbDVwYmtbpUo83cOF6+aTPday9rKBsFQUFsgClqwRcNtIgfMMEwRIeJKekSKcfgPNKG1izWWc65a5qqqOyR3OzdvceskfTFyhbDn6YAuXcPiLtcoHyO/OjUm5sebN4KNdHle9R5bu3Kl8Pxf8o8t1fke/XUvGIrdRHlznqBT4cGnHOSBCiMbW9FsppdHDrhIlZBIf/bqHOdSpP7A+ptBr/nI8itJrFZ/cpPKqongbauRPRM7LONDIC94tCV41B6gUEHD59rk+uyyesK+vCKH6s3PTzO0I/ZE+Hvb0wONPKhadrAVxskV/9LONMx7t/AZPDArs=",
-  "createdDate": 1747602044496,
+  "createdDate": "2025-05-18T21:00:44.496Z",
   "descriptionMarkdown": "Includes:\nAssembler 3\nFoundry\nChemical Plant\nElectromagnetic Plant\nElectric Furnace\n\nVery easy to use. All you have to do is pick the recipe!\n\nRequesters will request whatever is needed for 1 minute of production. \n\nOutput will be restricted to 2 stacks.",
+  "favorites": {
+    "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,
+    "i6AcHdJ8S4UTPHLMZm2s9K7cOA43": true,
+    "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
+    "rDeCvoPhh7cLmCWthwnw5vNQwL43": true,
+    "tsj8ODl2rkdgF9qT1j2q7S2D92w2": true,
+    "dJtLKfcM2YTMrBS6QGHyuvQ4eDp2": true
+  },
   "image": {
+    "height": 0,
     "id": "rYjAjxg",
-    "type": "image/png"
+    "type": "image/png",
+    "width": 0
   },
   "imageUrl": "https://imgur.com/rYjAjxg",
-  "lastUpdatedDate": 1747762397657,
-  "numberOfFavorites": 2,
+  "lastUpdatedDate": "2025-05-20T17:33:17.657Z",
+  "numberOfFavorites": 6,
   "tags": [
     "/production/logistic (bot) based/",
     "/production/mall (make everything)/"
   ],
-  "title": "Dee's Easy Parameterized Production ",
-  "favorites": {
-    "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,
-    "i6AcHdJ8S4UTPHLMZm2s9K7cOA43": true,
-    "dJtLKfcM2YTMrBS6QGHyuvQ4eDp2": true,
-    "tsj8ODl2rkdgF9qT1j2q7S2D92w2": true,
-    "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
-    "rDeCvoPhh7cLmCWthwnw5vNQwL43": true
-  }
+  "title": "Dee's Easy Parameterized Production "
 }

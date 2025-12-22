@@ -1,17 +1,18 @@
 {
-  "authorId": "nI78W5qPA5YQo4KCjJTu1qfgOM52",
-  "blueprintString": "0eNrVV93OojAQfZVNryGB8iN6sXd7tY+wMabCqM1CYVswnzG8+07pJ7rKt1IiF96I0PbM6cyZ6fRMtnkDleSiJqsz4WkpFFn9OhPF94Ll+lt9qoCsCK+hIA4RrNBvW2A4lbQO4SKDD7LyW+fpohRELfmu2cPNQtquHYIDvOZgTHcvp41oii1IRL436pCqVDgd/6IlhPAcciIrN9KgaFDpz6oCyNyizJoc3ECb0QTvoOkQtQd4NzD4AeJLSHm3s9/lkUn4cEFInh4KXO5WskxBKWLLIhjFYmYSYU9ix1TtcqFA1jjw6A3fEKFIJONIxYzRAcyox1QFy3MXcpyNTN2qzOHLMAZD9OIeKi/3XNUIkh4AiUr40+BziKl3JYqyEYZp5xFf/+wlgLgVHM9QbGG7bjsXd7CbHc8R2+jyovSeSiOZ4E3h0iAh2kajkyjyEOFxA4ux/h3v3uRpYrhRB+ZZJ8bSLnKfGeINQfneaGVRs3V/EObqdhOT5xL1/nVh3MmglmW+2cKBHXkp9fyUy7Th9QbHsh5kxyUG/0k5u4Y/IkZjqmZGAvqtqJhktTZCvpPWSoTUiHCk+ND6kOJ8OiFnPmPgWdH1Z8oZP/hqBxVTih9BV7sjz75O/mFFhuOl5F0k+TbiiV+inWi8iwaTjb5PsiUvcVg8tsrRq6Ju/BUOYS7sqvD/inAyoRZMKQXRXKVg+fSwm3rWUc+mC5yr/6K+ZQN21yDEQ5jU8ugdPHlpYNe6jCEWTm7nrLo5OpccaWR7hNzn+9vURxq+oj7S2OKSM1uOLeyK9IgaTZORt9MJl9PllOsT3p7WxpKm1N/tHZKzLaB8yE/jz28/RHpxKI4eMbQmXZMF9ZMg9oKwbf8Cpf1rbw==",
-  "createdDate": 1527560392933,
-  "lastUpdatedDate": 1527560671996,
-  "tags": [
-    "/mods/vanilla/",
-    "/version/0,16/",
-    "/power/kovarex enrichment/"
-  ],
   "author": {
     "userId": "nI78W5qPA5YQo4KCjJTu1qfgOM52"
   },
+  "authorId": "nI78W5qPA5YQo4KCjJTu1qfgOM52",
+  "blueprintString": "0eNrVV93OojAQfZVNryGB8iN6sXd7tY+wMabCqM1CYVswnzG8+07pJ7rKt1IiF96I0PbM6cyZ6fRMtnkDleSiJqsz4WkpFFn9OhPF94Ll+lt9qoCsCK+hIA4RrNBvW2A4lbQO4SKDD7LyW+fpohRELfmu2cPNQtquHYIDvOZgTHcvp41oii1IRL436pCqVDgd/6IlhPAcciIrN9KgaFDpz6oCyNyizJoc3ECb0QTvoOkQtQd4NzD4AeJLSHm3s9/lkUn4cEFInh4KXO5WskxBKWLLIhjFYmYSYU9ix1TtcqFA1jjw6A3fEKFIJONIxYzRAcyox1QFy3MXcpyNTN2qzOHLMAZD9OIeKi/3XNUIkh4AiUr40+BziKl3JYqyEYZp5xFf/+wlgLgVHM9QbGG7bjsXd7CbHc8R2+jyovSeSiOZ4E3h0iAh2kajkyjyEOFxA4ux/h3v3uRpYrhRB+ZZJ8bSLnKfGeINQfneaGVRs3V/EObqdhOT5xL1/nVh3MmglmW+2cKBHXkp9fyUy7Th9QbHsh5kxyUG/0k5u4Y/IkZjqmZGAvqtqJhktTZCvpPWSoTUiHCk+ND6kOJ8OiFnPmPgWdH1Z8oZP/hqBxVTih9BV7sjz75O/mFFhuOl5F0k+TbiiV+inWi8iwaTjb5PsiUvcVg8tsrRq6Ju/BUOYS7sqvD/inAyoRZMKQXRXKVg+fSwm3rWUc+mC5yr/6K+ZQN21yDEQ5jU8ugdPHlpYNe6jCEWTm7nrLo5OpccaWR7hNzn+9vURxq+oj7S2OKSM1uOLeyK9IgaTZORt9MJl9PllOsT3p7WxpKm1N/tHZKzLaB8yE/jz28/RHpxKI4eMbQmXZMF9ZMg9oKwbf8Cpf1rbw==",
+  "createdDate": "2018-05-29T02:19:52.933Z",
   "descriptionMarkdown": "Simple kovarex enrichment setup.  Four centrifuges cycle the uranium through four requester chests.  Once there is more than fifty uranium 235 in any chest it overflows into the center passive provider chest.  This ensures only the extra uranium is pulled from the system.  This design requires the use of logistic bots for continuous uninterrupted operation.",
+  "favorites": {
+    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
+    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
+    "pocQb1EV4IQsVPcxZE0apBAO1vj1": true,
+    "kcpRFoBAMxS1ZzplQbyiJKc3Suy1": true,
+    "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true
+  },
   "fileName": "Kovarex Enrichment NC70.PNG",
   "image": {
     "height": 620,
@@ -19,6 +20,12 @@
     "type": "image/png",
     "width": 635
   },
+  "lastUpdatedDate": "2018-05-29T02:24:31.996Z",
   "numberOfFavorites": 5,
+  "tags": [
+    "/mods/vanilla/",
+    "/version/0,16/",
+    "/power/kovarex enrichment/"
+  ],
   "title": "Simple kovarex enrichment setup"
 }

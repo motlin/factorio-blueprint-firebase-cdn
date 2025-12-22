@@ -4,23 +4,26 @@
   },
   "authorId": "zgiZyWJPcdfnHmGxoFjNqOuOOCM2",
   "blueprintString": "0eNp9jzEOwjAMRe/iOSAKLZCeoWJjQgglxQJLrYOStAJVuTsOHRALm+1vv/89ge0GfHjiCPUE1DoOUJ8mCHRj0+UZmx6hhqxEw3HRut4Sm+g8JAXEV3xCXaSzAuRIkXAGfJrXhYfeopcF9Q+k4OGC3DrOjsJb7HbrZaXgJaUuymUlVlfy2M47pcqY6F13sXg3IwlDDsOsh99awnxTppSTUsReonx/V9AZi/IvHI5NI+2IPnysqu1al1pX+2Kj9apM6Q3DdGcM",
-  "createdDate": 1730972522643,
+  "createdDate": "2024-11-07T09:42:02.643Z",
   "descriptionMarkdown": "Part of Tileable factories at <a href=\"https://factorioprints.com/view/-OBdq3vJ2slIWEDAXEeM\">Factorioprints</a> and <a href=\"https://www.factorio.school/view/-OBdq3vJ2slIWEDAXEeM\">Factorio.School</a>.",
-  "image": {
-    "id": "z5M9wdk",
-    "type": "image/png"
-  },
-  "imageUrl": "https://imgur.com/ffF86jP",
-  "lastUpdatedDate": 1763240901807,
-  "numberOfFavorites": 7,
-  "title": "Green Circuit (240/sec)",
   "favorites": {
-    "oW9wOroMOrZmGJT4GmDmG06xxc92": true,
-    "TzhqBW7fIDglhIrnqyTPGdmnluq1": true,
-    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
     "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
     "r1NoxSYNSSYWYWVJ9fTl7kDauI22": true,
+    "TzhqBW7fIDglhIrnqyTPGdmnluq1": true,
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
-    "XH3znheELIcgeG9wX4PBJEP5Kh42": true
-  }
+    "oW9wOroMOrZmGJT4GmDmG06xxc92": true,
+    "XH3znheELIcgeG9wX4PBJEP5Kh42": true,
+    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true
+  },
+  "image": {
+    "height": 0,
+    "id": "z5M9wdk",
+    "type": "image/png",
+    "width": 0
+  },
+  "imageUrl": "https://imgur.com/ffF86jP",
+  "lastUpdatedDate": "2025-11-15T21:08:21.807Z",
+  "numberOfFavorites": 7,
+  "tags": [ ],
+  "title": "Green Circuit (240/sec)"
 }

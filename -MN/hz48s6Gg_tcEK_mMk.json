@@ -4,8 +4,9 @@
   },
   "authorId": "W4XNtkx9NbXW46ksJ8qrmb6jJys1",
   "blueprintString": "0eNqFj8EOwiAMht+lZ5boJE55DY/GA3N1aYKFQGdcDO8ubJcdTDy1hf7f//cDvZswRGIB84HENjTimzHSUOc3mL1WMNeSFdg+eTcJNnUvEI9gJE6ogO6eE5hrIdDI1lWtzAHBAAk+QQHbZ51SoAGjRM9QeMQDVous/gqd5eFBzm1kbb4pEHK4OgefSKiA19zdEvuYfxCKbIGbzfGq/PdY/OGyREyCoTy+Srcw29Ned+e20/qw00ed8xeXImcK",
-  "createdDate": 1636080309720,
+  "createdDate": "2021-11-05T02:45:09.720Z",
   "descriptionMarkdown": "Extremely simple snapping blueprint that will place a single landfill creating the farthest gap that a spidertron can step across.\n\nMakes crossing large bodies of water a breeze.",
+  "favorites": { },
   "fileName": "Spiderstep2.png",
   "image": {
     "height": 814,
@@ -13,13 +14,13 @@
     "type": "image/jpeg",
     "width": 1357
   },
-  "lastUpdatedDate": 1636081756459,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Spiderstep2.png?alt=media&token=fa432fe9-0103-4345-8822-ab239d5fa023",
+  "lastUpdatedDate": "2021-11-05T03:09:16.459Z",
   "numberOfFavorites": 0,
   "tags": [
     "/general/mid game/",
     "/general/late game (megabase)/",
     "/general/tileable/"
   ],
-  "title": "Spiderstep",
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Spiderstep2.png?alt=media&token=fa432fe9-0103-4345-8822-ab239d5fa023"
+  "title": "Spiderstep"
 }

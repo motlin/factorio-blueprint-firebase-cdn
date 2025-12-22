@@ -1,28 +1,32 @@
 {
-  "createdDate": 1533872110480,
-  "descriptionMarkdown": "A simple Solar Array I built, because sometimes want to get into Solar Power early. Can be expanded upon as needed.",
-  "fileName": "SimpleSolarArray.PNG",
-  "image": {
-    "width": 585,
-    "height": 586,
-    "id": "Y0QiVqE",
-    "type": "image/png"
-  },
-  "numberOfFavorites": 5,
-  "tags": [
-    "/power/solar/",
-    "/mods/vanilla/",
-    "/version/0,16/"
-  ],
-  "title": "Simple Solar Array",
   "author": {
     "userId": "0mFMFSQyeXYRWvv676YNegV08Kz2"
   },
   "authorId": "0mFMFSQyeXYRWvv676YNegV08Kz2",
   "blueprintString": "0eNqV1t1qgzAYxvFbKe+xLSZ+RD3bNfRwjBG7MAIaxY8xKd77omOssFfnc1Rsm18x/9TkTmU1mrazbqDiTvbWuJ6K5zv19t3panlvmFpDBdnB1BSQ0/Vy1TeV7s6tdqaiOSDr3swnFWJ+Cci4wQ7WfDPrxfTqxro0nf8CCwTUNr0f07jl97xzzgKalpd5Dv4Y8qCR7BjRQUPuGPExQ+wQyTEi3iHSY4TaIRQWJeGMDIvCGjkWhTVECFXhDQFl4Q0JdeGNCAsjWSTGyvDI70LVt9tYj5Uemo5Lc/lhLvwtpQeh8D9IHYPEf04GteZnJ4das4YModaCNQSUmjckWjrkJ1Y+LN6x7Ae9Dt4JveXEYOgtB3rW8nMDPWt5QoHTKzbuJgP/R1tOjs3uBhNhqzdmDWz18oaEthDeiJAdhCdiZK3xRIKsNZ5IoSiKNRQUhTcyKApv5EgUlohDJApPCCSKJ/xpeD02Fw+n7IAqXfpRBV1t3VbmdF2o01PX6cl/+GG6fpXSTEmZiTxUfsP4AlXQz0I=",
-  "lastUpdatedDate": 1533872136378,
+  "createdDate": "2018-08-10T03:35:10.480Z",
+  "descriptionMarkdown": "A simple Solar Array I built, because sometimes want to get into Solar Power early. Can be expanded upon as needed.",
   "favorites": {
+    "5NfISUzURdcdGaieL8bIihgJ60I2": true,
+    "5nD12KAH3mWwh6Jw9rr7OtATv3C3": true,
+    "aOO2FL3VxbONK58zCniQ1Susrpu1": true,
     "K8CrK0BsiOPJTwJTKjPJ6emX1ag2": true,
+    "wG4mRwr7D1fzalAmsSUqzTpN5VN2": true,
     "bqSNV5KeldNHhmw6ZRE34ZycNut2": true
-  }
+  },
+  "fileName": "SimpleSolarArray.PNG",
+  "image": {
+    "height": 586,
+    "id": "Y0QiVqE",
+    "type": "image/png",
+    "width": 585
+  },
+  "lastUpdatedDate": "2018-08-10T03:35:36.378Z",
+  "numberOfFavorites": 6,
+  "tags": [
+    "/power/solar/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
+  "title": "Simple Solar Array"
 }

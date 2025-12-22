@@ -1,18 +1,17 @@
 {
-  "tags": [
-    "/production/smelting/",
-    "/mods/vanilla/",
-    "/version/0,15/"
-  ],
   "author": {
     "userId": "7sQtFroCgmcgizw6FD7w0LQfvok2"
   },
   "authorId": "7sQtFroCgmcgizw6FD7w0LQfvok2",
   "blueprintString": "0eNqdmOtum0AQhd9lf0PEzl64vEoVVdjZVivBgmBd1bJ49+KitFG8mDP5FdkRH2c4c2a83MSpu7hx8iGK5ib8eQizaL7dxOx/hra7fxevoxON8NH1IhOh7e+f4tSGeRymmJ9cF8WSCR/e3G/RyCU7vHiOQ3D5j8sU2rP7cC0tr5lwIfro3abi74fr93DpT25a4Xv3z8Q4zOtlQ7jfdEXlJhPX9Y9e6W9+cuftf/qu7hOU/kF9mN0U1+8ecTqJowRO7ZT5yKSXd5EvZkmQNFxtsXHMcbEGKVbCxVquRMCPEpCYVmgTtAq148iNGpClYVmygJ8c3smSnw8CqMSmKoCqGLGj406U/9My923X5V3bjwmieleYYphPDNett5z8OR+HLpngZzDLHwQy3Xqy5MYMsbXiQhFXa8Z8AVylAnL1mQ8k8XlCx8ElYg+UHVdJ8brtWeeSxqcTUqThTieg4chyoUDDUckdTgUArdgTTwLUmj0QinTnqIIZXaBmJbnjAChZscOyV7Fi9g5Sseb2I1Kx4bYOkBxluVBEaYkvYAn87K04+5eSJtdfWr9JluZGBLBBcyMCuKAJX5iAC1ox9mX6wWl4XcrjRaLNV3ZcWpiFVxwirGSGH+mPislE+qPmRh84J5iCCwU2sZH4PAFOlobY21Kld4dRzNgiT1DjsUWKNUyJiB8WDjJwXjUld5PvuVHBMUZk1czIAd5a7tEcMMOyT+bAuxxLTKEPzNdsezPXfHgLmIlfbpq3J641WV0aQ3JZ/gBGFqnw",
+  "createdDate": "2017-07-17T22:18:22.744Z",
   "descriptionMarkdown": "beginner smelting set up",
-  "numberOfFavorites": 3,
-  "title": "beginner smelting",
-  "createdDate": 1500329902744,
+  "favorites": {
+    "CGficKPhh6ejjQNQIA8lv9Qjlur2": true,
+    "aUAphRoH9dNqcyprCoZgWe4apmC2": true,
+    "ILWGoR3tNTN9mwzqh8BRYBS2D1t2": true,
+    "YtU45OeQyrMzJ0DCCUlZh85p4662": true
+  },
   "fileName": "bignnersetup.png",
   "image": {
     "height": 768,
@@ -21,8 +20,12 @@
     "width": 1360
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/bignnersetup.png?alt=media&token=81926cdf-1489-48c3-88f2-abba2196bc66",
-  "lastUpdatedDate": 1500376815088,
-  "favorites": {
-    "CGficKPhh6ejjQNQIA8lv9Qjlur2": true
-  }
+  "lastUpdatedDate": "2017-07-18T11:20:15.088Z",
+  "numberOfFavorites": 4,
+  "tags": [
+    "/production/smelting/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
+  "title": "beginner smelting"
 }

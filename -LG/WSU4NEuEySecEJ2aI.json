@@ -1,10 +1,20 @@
 {
-  "numberOfFavorites": 7,
   "author": {
     "userId": "qTyT3Vejb2RERY9xPQ63p4HQ6M23"
   },
   "authorId": "qTyT3Vejb2RERY9xPQ63p4HQ6M23",
+  "blueprintString": "0eNqV1NtqhDAUBdB/Oc9xMMbLjL8ylJLRQwnkRoylIvn3qgPTQqM1T6LE5XYbzwwPOaJ1QntoZxCd0QO09xkG8aG5XK/5ySK0IDwqIKC5Ws8GI7nLLNcoIRAQuscvaGl4I4DaCy/wyWwn07se1QPdsiAKELBmWO4xen3e4mQ1gWk5sBDIH6M4Z+QHBDtHHKUok94kjxHVi+BdN6pRcm9chCgu1TMIvVQxp345jvfc7VURzdCcy/BfhGtKodEgtx9BcSkzyZWNdFHuCzR/EQp7MaoMJXbeiS6zRuIuRqMYTfw4ebwYWqQVvMewU/UctVMmtnNUTpW0+aP/D61PGuzAaFJGQZw4uXOPUtxSNv9CLDNyG6btr9lL4BPdsC2ur01RNBWrWB3CN03x2S4=",
+  "createdDate": "2018-07-03T18:44:36.980Z",
   "descriptionMarkdown": "Automatic radar",
+  "favorites": {
+    "IPDUyihGTtcOG0jjPNIAScEUQO83": true,
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "5WBwlfihhCOj517eiGyCycwP1Wx1": true,
+    "Vx9pXAy1nxNB9R8O1jLDUVWeZDS2": true,
+    "h0AzzeskQxbUzDFHygRqKOTLnuc2": true,
+    "crI6zzSiYqUk4Wfe0jYmQa3mYc52": true,
+    "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true
+  },
   "fileName": "radar.png",
   "image": {
     "height": 1080,
@@ -12,12 +22,8 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "favorites": {
-    "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true
-  },
-  "blueprintString": "0eNqV1NtqhDAUBdB/Oc9xMMbLjL8ylJLRQwnkRoylIvn3qgPTQqM1T6LE5XYbzwwPOaJ1QntoZxCd0QO09xkG8aG5XK/5ySK0IDwqIKC5Ws8GI7nLLNcoIRAQuscvaGl4I4DaCy/wyWwn07se1QPdsiAKELBmWO4xen3e4mQ1gWk5sBDIH6M4Z+QHBDtHHKUok94kjxHVi+BdN6pRcm9chCgu1TMIvVQxp345jvfc7VURzdCcy/BfhGtKodEgtx9BcSkzyZWNdFHuCzR/EQp7MaoMJXbeiS6zRuIuRqMYTfw4ebwYWqQVvMewU/UctVMmtnNUTpW0+aP/D61PGuzAaFJGQZw4uXOPUtxSNv9CLDNyG6btr9lL4BPdsC2ur01RNBWrWB3CN03x2S4=",
-  "createdDate": 1530643476980,
-  "lastUpdatedDate": 1530643476980,
+  "lastUpdatedDate": "2018-07-03T18:44:36.980Z",
+  "numberOfFavorites": 7,
   "tags": [
     "/general/mid game/"
   ],

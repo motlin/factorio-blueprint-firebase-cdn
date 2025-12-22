@@ -1,17 +1,22 @@
 {
   "author": {
-    "displayName": "Benjamin Storbjörk",
     "userId": "PTead45DiGOl4DNN2e237p8gKXr1"
   },
   "authorId": "PTead45DiGOl4DNN2e237p8gKXr1",
   "blueprintString": "0eNrVm91umzAUx18FWdqd2+EvEiJt0i53sxeooogEt7VGgIHTrqry7js2+WBp1ISCktOb1NjH5/ztGP+OoXkl82yly8rklkxeSarrRWVKa4qcTMjPvFzZIAmeErAJwKQI7KMOMn1vl0Vtg1QvTKqrYFEs5yZPbFHdBj/yNDA2eDZZFqSmLrPkBTolduOkyL2LTUtNKDGLIq/J5O6V1OYhTzInI0+WGuInlbGPS23N4mYfgqyhT57qv2TC1vRIr43vmzLJdday5uspJTq3xhrdBPQXL7N8tZzrCtzR4y4oKYvaNHPySpyn0a2i5IVMbtStggCpqfSiaR9TAuOxVZHN5voxeTIgGDqVSQWera6awGCS7hzem6q2s/0w7EvpNDyZyq4SF30jqrG4idyQ3JzZxH1nobtYOv9ubibkmx/xonF9wlVI1m4GB1TDeqhhg6vhPdTwwdWIHmrE4GpkDzVycDWqhxo1uJqoh5pocDWjHmpGg6sZ91AzHlxN3ENNDGqmXtABB/jOchuojZ+3NIi3NJCHNJDHaVA37fX/ZeDClmsUpiXb0WJfe3I/p+QPNMBgoDIvqqU3OpghV7Hym3XoBr+lIz29P3f03nYv6OkNt6v7tn9JT2+hnf23Ayh6elfsHqAdIaKnd7oPRGiHGNHT99dHQoRwI8GtdOReEmfnVOMr5lQKVU6lUOVUClVOpVDlVApVTqVQ5VQKVU6lUOVUClVOpS6QU8mzORBfkQMSFQckKg5IVByQqDggUXFAouKARMUBiYoDEhUH5AU4oPYcaB4ev3+0Hnc7WG98znaz4I/Y7au7zrOik8VjMzGtufhO3MPkYmXLlT18eH0eGM62Zx3teUd70dFedrRXHe2jZukcWTsRff/FwJvlI1i35bN3e7CCPrhkau3cdO9XlBoWWvMO5gvZrrPuftqyZ7m2z0X124+n0imZ2GqlKXmotIY490lW60PJb/t4s10n52F99KsanZvuifCK6Z5Ale4JVOmeQJXuCVTpnkCV7glU6Z5Ale4JVOmeQJXuiQuke+OzOcCuyAGOigMcFQc4Kg5wVBzgqDjAUXGAo+IAR8UBjooD/AIciDsf3QSKo1trGw7/P5d9/ZTnMjeKM4EsrgjkEBWQQ1RADlEBOUQF5BAVkENUQA5RATlEBeQQFZDDCwCZnf3PzoJfEQQMFQgYKhAwVCBgqEDAUIGAoQIBQwUChgoEDBUI2CVAwDsfzeQOCOvP8x7tM5zXppQ8A10dNu8YZVRQNqV3HErxpsRpRDmUoIVKXwefdORLCuwjX4pcT+6L0ETHvgSfFKjvirHry70jOBDuqt0fVy+mIMRYvYSZ2P86jJIsmUOCMCG//NLZ/oYLGp4A9X6WVcRjGcdqJJSQI75e/wMutUuu",
-  "createdDate": 1754323576198,
+  "createdDate": "2025-08-04T16:06:16.198Z",
   "descriptionMarkdown": "Input a value into the leftmost decider combinator. And it will display that value on the displays",
-  "image": {
-    "id": "G0TF5EP",
-    "type": "image/png"
+  "favorites": {
+    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
+    "q2nT2i6whtPNOdaNRNkm1OQ38l22": true
   },
-  "lastUpdatedDate": 1754323576198,
+  "image": {
+    "height": 0,
+    "id": "G0TF5EP",
+    "type": "image/png",
+    "width": 0
+  },
+  "lastUpdatedDate": "2025-08-04T16:06:16.198Z",
   "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/",
@@ -19,9 +24,5 @@
     "/version/0,15/",
     "/circuit/indicator/"
   ],
-  "title": "7 digit display",
-  "favorites": {
-    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
-    "q2nT2i6whtPNOdaNRNkm1OQ38l22": true
-  }
+  "title": "7 digit display"
 }

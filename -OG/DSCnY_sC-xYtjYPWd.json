@@ -1,16 +1,22 @@
 {
   "author": {
-    "displayName": "Space Ghost",
     "userId": "HnO4U7Oy9ugtG0TSt4c2gMIKilp1"
   },
   "blueprintString": "0eNrNWNuO2zYQ/RWBjwXttWxp1zLaAOlLGhRFHrZ5yi4EWhpbRCRKIandOAt/QD+kP9Yv6ZC6WY58W6Son0xR5JmZwzPDsV7IMi2hkFxosnghMahI8kLzXJAFuc+Y1A6PwMkg1Vysx85HzVP+DZSdzVcOExvnS8lSrjfOKpfdwreOghQijXNRni25YGb4zHXiMBWBiHGVg3ZzabaqXJptDle4Wqz4upQQOwlIoAjJhHmX8DVOjBprxoFnnqbOsnIP16+4VJqiH2maP+PzcuOYgaw95KDGzvuVIwBiiKmj0JsocXSCAHkMjs4bhzDCJpIKoWfVmhk/iAfxa8OdMXVfMHz5LsmVfhCJ1oVa3NysmKGA53aVGiMVN6UCefOb+OB9vPuwCcq1fjf581570XT9x/vfeVq4hBKOLCiy+PRCFF8Llpqz0ZsC8FAkRBwHlAiWmWf0aFT7Sra4U8TwlSzcLR3Y+8SlxkC6zdWKEZ5iE+EOxnT7SAkIbZmzztiHTSjKbAkSjbQ4K6b0iAuMTOMLSopc8UpEL8QgeXdjn5INWZgBWog5hlEt8Iyne8DTFrhgSvEnGBUyf+IxHkSUgNJDFm53LQxgzlrMGBm0UK0uh/D8Bm/e93dOCR6OlnkaLiFhTyiYKnMsaIjvYgukzOzuE/JnlROefSzAosScBzpaMGkdXZA3xBxLXuqi1Ackchqv2KCjpdDhSuZZyAVikcWKpQq2j9sh9rwWyyhTM6FP0Nce+Hz/wA8QqKr3qj/G8BpFU6QP01zuz56RF5Q06l4QkcvMctNj9Rc7UZoqaFOnSYGL4UuBuBnGedjAdMfA7GIDkkk4Aj7bAfcuBoeCR0fAvR1w/2LwFNZY95ncHLHgo/6GFeifX2xud7U3AHX7iroV7MvYnQ7rOOIyKrkOQbBlCjFZaFkCbafbimDWXloPnkBudFJX+iYRrUp7fP5MMGqS42qJNSnEVdFntPINanHv0XHX2pHwpcTyelaZrQg5xkAbasdFVWJoYyhsM/rCnO+Udllu+5N+ch/AOSOJe0izg0gnsrWH4h1EOZGWPRT/IMpZ+Tcxt0tWYvYWKbd3scnH70Uz7y6EBDIeoTyL1KhxQDNB/y4Yrv46rOtInTASWGwkpNGwaia5iNISJc1FGEm2siWmElW9ASewc+TdHiu2CnevMFXT4d5ZDYQatKEy7A2TDDSPzmwezMmccfd1uHv9wysbBswlhAm7CjGbYD0oAA+86ux/Ik0LcSn4YG12Jxc2V3c1O981gz+wudrJgl619Cd78v/nr78J7W0PBejnXH62ZmRXxFFbIJoqZnh4dUPXOOMOpOJxT2q1167UEq8wIKztMxGTIfdOlbvr5Wl6DTzVBeJaOZpdA0f2qrpejrxr4Ki7iK+XKP+/I+p/+Pvqdj1j81nqxA0VXHZD7V6ulQVC60GYsa8tO7ZJC09+1MEenGUjc8GBUBUuxoXEPaMnhrZPM+rSOXUfKY5mNLAjj04pXsVTHN62r+9whJNmODfvXerhMMBN9Sz+zMy0+4j4XEOG9ruPgpSkbAnoK3krqs9fqmuh8B+GsjH7t9PACwJ/7s6CYOJtt/8Clcz6ag==",
-  "createdDate": 1765474098644,
+  "createdDate": "2025-12-11T17:28:18.644Z",
   "descriptionMarkdown": "Smart ice melting. Utilizes ice of any quality for melting. A selector combinator with ascending priority sorting is configured here, meaning higher-quality ice will be melted first, followed by lower qualities. If needed, switch the mode to prioritize melting lower-quality ice first.",
-  "image": {
-    "id": "Rw3Oa8O",
-    "type": "image/png"
+  "favorites": {
+    "RIHvYqjJL7OEiYP4dcMXHipUzAL2": true,
+    "fNdd8qE2wecgn6If2ooiunqwtsC3": true,
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
   },
-  "lastUpdatedDate": 1765474098644,
+  "image": {
+    "height": 0,
+    "id": "Rw3Oa8O",
+    "type": "image/png",
+    "width": 0
+  },
+  "lastUpdatedDate": "2025-12-11T17:28:18.644Z",
   "numberOfFavorites": 3,
   "tags": [
     "/version/2,0/",
@@ -20,10 +26,5 @@
     "/general/tileable/",
     "/general/compact/"
   ],
-  "title": "Any ice smelting. Fulgora",
-  "favorites": {
-    "RIHvYqjJL7OEiYP4dcMXHipUzAL2": true,
-    "fNdd8qE2wecgn6If2ooiunqwtsC3": true,
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
-  }
+  "title": "Any ice smelting. Fulgora"
 }

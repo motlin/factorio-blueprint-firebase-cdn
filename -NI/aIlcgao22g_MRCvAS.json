@@ -4,8 +4,11 @@
   },
   "authorId": "gU1AQHZW7mR9AeDgdMCxFcJGK4u1",
   "blueprintString": "0eJydlNGOgyAQRf9lnqERamv1cX9j02y0TtxJAA3iZpvGf19sG+Ou25TyCMycS7iXuUClBuwsGQfFBejUmh6K9wv01JhSTXvu3CEUQA41MDClnlbVYA1arsmQaXhtSSkYGZCp8RsKMR4ZoHHkCG+4exsqPDlLp9+NDLq297WtmfR8P5ebHYOzB212nlqT9W3XY3nnnj/MoCu0kxZ7FS8e0fcrulzQnS1N37XW8QqV++fWySNusuJuY7jJc24aw5XPubvXX3k2kQe4uI93cY1f25gt8BprGjSfVbpW4Zq+DX/zg/8VSM1n1Q52Snt+fFmNp+Fy+R+5wzHGcx6gJJIockD8hYgiBwRVyGn2XIdVsZhtDL7Q9rfwHUSa5TJLZZ5vc8FAlV7XV7/N1eP4Ay9CrIM=",
-  "createdDate": 1699302283844,
+  "createdDate": "2023-11-06T20:24:43.844Z",
   "descriptionMarkdown": "early mining with electric drills",
+  "favorites": {
+    "lHiI9H0J8rMr6LuA1yF3eC06b1h2": true
+  },
   "fileName": "Screenshot 2023-11-06 142359.png",
   "image": {
     "height": 354,
@@ -13,14 +16,11 @@
     "type": "image/png",
     "width": 473
   },
-  "lastUpdatedDate": 1699302283844,
-  "numberOfFavorites": 0,
+  "lastUpdatedDate": "2023-11-06T20:24:43.844Z",
+  "numberOfFavorites": 1,
   "tags": [
     "/production/mining/",
     "/general/early game/"
   ],
-  "title": "Early Mining",
-  "favorites": {
-    "lHiI9H0J8rMr6LuA1yF3eC06b1h2": true
-  }
+  "title": "Early Mining"
 }

@@ -3,7 +3,15 @@
     "userId": "fpMYKbQOGURcc8zioeTj86Emt4a2"
   },
   "authorId": "fpMYKbQOGURcc8zioeTj86Emt4a2",
+  "blueprintString": "0eNqtldtqwzAMht9F1zbEjpNteZVRRtqIYvAJH0pDybvPabeW0cMa0ytjx9In/b9FDrBWCZ2XJkJ3ALmxJkD3eYAgt6ZX81kcHUIHMqIGAqbX8w4VbqKXG6qlkWZLBy+VgomANAPuoWPTigCaKKPEU8LjZvwySa/R5wv/pCLgbMjR1sw15IxUEBjzwjNkkD7HHL/l07myMN8KDnGg2g5JIa2hq6eJXIH5YjB7DbheCuav4YoLd+88hkBT9shvvc0rXaOKd8Wu/qJzQb+PwbgU4QasKbR1bnJZW+2ZFHSvFFW9djfS1z+N3MjwViIMfyyMTfGOMu+F7265Mh8lfbFCw1l1pmkcZNL03J6zCq9J1X1DGCuonJUawngBjZfKVDj9y91n4qnBeDAXrCkQRjxnw+rUTj65/HcI7NCHY0ArBG8bwaqmnaZvsOU4Ug==",
+  "createdDate": "2017-08-13T21:48:03.224Z",
   "descriptionMarkdown": "Blueprint for mining",
+  "favorites": {
+    "H1P9QVsm6AMSnsGkc6FYGEo4gmX2": true,
+    "zEyzhwnROKUOEC9PIUBa2qDLElJ3": true,
+    "WvzpBbEL0RWx70SFbEh2QfJlALA2": true
+  },
+  "fileName": "factorio_2017-08-13_22-47-24.png",
   "image": {
     "height": 545,
     "id": "f0GEUr4",
@@ -11,15 +19,12 @@
     "width": 783
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_2017-08-13_22-47-24.png?alt=media&token=e8d4b711-472d-4806-88e9-c46d6483cac5",
-  "lastUpdatedDate": 1502662985945,
+  "lastUpdatedDate": "2017-08-13T22:23:05.945Z",
   "numberOfFavorites": 3,
   "tags": [
     "/version/0,15/",
     "/production/mining/",
     "/mods/vanilla/"
   ],
-  "blueprintString": "0eNqtldtqwzAMht9F1zbEjpNteZVRRtqIYvAJH0pDybvPabeW0cMa0ytjx9In/b9FDrBWCZ2XJkJ3ALmxJkD3eYAgt6ZX81kcHUIHMqIGAqbX8w4VbqKXG6qlkWZLBy+VgomANAPuoWPTigCaKKPEU8LjZvwySa/R5wv/pCLgbMjR1sw15IxUEBjzwjNkkD7HHL/l07myMN8KDnGg2g5JIa2hq6eJXIH5YjB7DbheCuav4YoLd+88hkBT9shvvc0rXaOKd8Wu/qJzQb+PwbgU4QasKbR1bnJZW+2ZFHSvFFW9djfS1z+N3MjwViIMfyyMTfGOMu+F7265Mh8lfbFCw1l1pmkcZNL03J6zCq9J1X1DGCuonJUawngBjZfKVDj9y91n4qnBeDAXrCkQRjxnw+rUTj65/HcI7NCHY0ArBG8bwaqmnaZvsOU4Ug==",
-  "createdDate": 1502660883224,
-  "fileName": "factorio_2017-08-13_22-47-24.png",
   "title": "Mining Blueprint"
 }

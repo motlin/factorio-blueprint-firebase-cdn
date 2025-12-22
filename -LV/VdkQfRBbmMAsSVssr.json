@@ -2,25 +2,27 @@
   "author": {
     "userId": "IFeEXDG62tW2X55Qo6xVMEFBOtL2"
   },
+  "authorId": "IFeEXDG62tW2X55Qo6xVMEFBOtL2",
+  "blueprintString": "0eNql1EtrhDAQAOC/InOOsNF1dT323lMvhVKKj8EOxESSKBXxvzdauki7dXV7CknIl5k8ZoBctNhokhbSAahQ0kD6MoChSmZiGrN9g5ACWayBgczqqYcCC6up8GuSJCu/1CQEjAxIlvgBKR/ZTUOoiox1RvGOxvpNZgx16DdadVSiXmjBBq3GktravwTWKIELIhxfGaC0ZAm/Mpw7/Zts69xtlvIbuTFolHGrlZxCcKIfM+hd41KFkrRbM88dp1h/2MFuO9xsh3ttvpk+7qWjzXS0fm+/D+RCX8FOezG+gsU7sXDFSnZa8Yp13vxv/nqpV1l++Icbrrj8fpevsMH9bPTNukow1450UfwYiCxHMY0VmfUelPUe57fuPT+5yQ61maVTEgdBws+HOBjHT2RFxcU=",
+  "createdDate": "2019-01-06T00:54:03.832Z",
   "descriptionMarkdown": "Not meant to be efficient, just needed a place to upload",
+  "favorites": {
+    "Ql65HCEd9lYi4tHwa1DlDOrQoZH3": true,
+    "bJyuVONMkORJNOcN9P8uyCuL0Js2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+  },
+  "fileName": "Screen Shot 2019-01-05 at 4.53.35 PM.png",
   "image": {
-    "width": 1122,
     "height": 394,
     "id": "qOQ2XSd",
-    "type": "image/png"
+    "type": "image/png",
+    "width": 1122
   },
-  "lastUpdatedDate": 1546736043832,
+  "lastUpdatedDate": "2019-01-06T00:54:03.832Z",
+  "numberOfFavorites": 3,
   "tags": [
     "/production/mining/",
     "/mods/vanilla/"
   ],
-  "title": "bcat Bot Mining XS",
-  "favorites": {
-    "Ql65HCEd9lYi4tHwa1DlDOrQoZH3": true
-  },
-  "authorId": "IFeEXDG62tW2X55Qo6xVMEFBOtL2",
-  "blueprintString": "0eNql1EtrhDAQAOC/InOOsNF1dT323lMvhVKKj8EOxESSKBXxvzdauki7dXV7CknIl5k8ZoBctNhokhbSAahQ0kD6MoChSmZiGrN9g5ACWayBgczqqYcCC6up8GuSJCu/1CQEjAxIlvgBKR/ZTUOoiox1RvGOxvpNZgx16DdadVSiXmjBBq3GktravwTWKIELIhxfGaC0ZAm/Mpw7/Zts69xtlvIbuTFolHGrlZxCcKIfM+hd41KFkrRbM88dp1h/2MFuO9xsh3ttvpk+7qWjzXS0fm+/D+RCX8FOezG+gsU7sXDFSnZa8Yp13vxv/nqpV1l++Icbrrj8fpevsMH9bPTNukow1450UfwYiCxHMY0VmfUelPUe57fuPT+5yQ61maVTEgdBws+HOBjHT2RFxcU=",
-  "createdDate": 1546736043832,
-  "fileName": "Screen Shot 2019-01-05 at 4.53.35 PM.png",
-  "numberOfFavorites": 3
+  "title": "bcat Bot Mining XS"
 }

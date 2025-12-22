@@ -4,25 +4,27 @@
   },
   "authorId": "CV5ZEWKU9CMklj03udZ93HFiT323",
   "blueprintString": "0eNqlVV1P2zAU/SuWnwC5HQkU1GzwsknTnjbB9gRV5CS3xSKxM9spVFX++66dL0gjENpL5Ti+555zz6mzp0leQamFtDTa0wxMqkVphZI0on8MkC9krTTJFc+E3DBy7R8r2W7M7+W9vIGMrLUqCNfCPhRgRUpUZYlVpFRPoPE3B0OOhFE5t3hYgj12bw3IjGgwqtIpkBPy45tHT1VRIpRR8jV8BqnIEK7FNpY7ng2QJahBYf+dr/muAeQn3VUm1XqNhZnQkNp850pecBWybNlqtcUOAyVeqEpaj/hbcyGRmsyE6xqRo+7UMbkip4Tcy69KIidpCUhT4VtixEbynMCzMNZ8JlJ1O4kG/mhwqhuRevRbFDB0xako7ZQebYW2FRY0dcekxM1W95wyKpCPodHdnjYHnIWSF4DeDfpmOM9ESG6VpjXWyAyeaRTUbKKqHfF0SVivGAVpcQDQdPUPu1hWRQIaMdkbOIyWyogmWXvq4EJGdzSaLS7nC2zSmONfB/gGlVmt8jiBB75FZ5t0etS4d8G43ZdPyGkttLHxoMzuSseonSTtKTYnZsDTB6fRgMOJDyaCScSFRS2n7liTTS8ooteI9rJdjMF+UvrR08Lw0cjqChjduDTSaM1zA+NWhzX+WF/kEGo3eEw9xnTs9jvqfjWcyx3ODJMcu39D7PPe0VnVtUvCyMmwB0rbUL9t5fl80Zp54c2ccs809prXa1TTJdINM8dJj3cPnAiQwV+Ui4xxXypdeOmvvLnyG5W71gIUOS3zjL39d5kQ+tHMDsCj2I5zOqFyyErngp+HwluAt1f0Ce2S8W50P5zU2ufuCTU6R+4CFrAzdrZiuApxdY6r0O8FKzzXd2vsa4MpsiGTP92d5m6tbESud3PWj8jxet9i7+lEp5v2Kj1sFvxPM1QpLBT4NHw0Gc15Ajh2ett+j24hx1D49GxxGh5/cREuz5fLxeVpuLhchnX9D4URmBo=",
-  "createdDate": 1750368043176,
+  "createdDate": "2025-06-19T21:20:43.176Z",
   "descriptionMarkdown": "A set of combinators to in order to ensure loading and unloading are balanced. IE., When a station of a same name has more resources than another, this combination will ensure that a station buffer containing more resources for loading or fewer resources for unloading has a higher priority over others. Works best with multiple stations in close proximity.\n\nInstructions as follows:\n\nUse < for loading, > for unloading.\n\nRed from arithmetic out to power poles (isolated net) to send resource * ID for comparison.\n\nRed from decider out to station to set priority.\n\nGreen/red from buffer direct to arithmetic input to provide resource amount.\n\nConstant combinator ensures signal exists; no signal breaks logic.\n\nSet resource and order (virtual signal) per station.\n\nTrain condition: (resource) = 0  ",
+  "favorites": {
+    "VvRsZCs69DXwoX9Axr0L17XYLGn1": true,
+    "as8ZhHsZ2yPgXj17EzswhONg8Iu2": true,
+    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true
+  },
   "image": {
+    "height": 0,
     "id": "2RoVeZO",
-    "type": "image/png"
+    "type": "image/png",
+    "width": 0
   },
   "imageUrl": "https://i.imgur.com/2RoVeZO.png",
-  "lastUpdatedDate": 1750368131004,
-  "numberOfFavorites": 2,
+  "lastUpdatedDate": "2025-06-19T21:22:11.004Z",
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/vanilla/",
     "/version/2,0/",
     "/train/loading station/",
     "/train/unloading station/"
   ],
-  "title": "Multi Station Load/Unload Balancer/Selector",
-  "favorites": {
-    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true,
-    "as8ZhHsZ2yPgXj17EzswhONg8Iu2": true,
-    "VvRsZCs69DXwoX9Axr0L17XYLGn1": true
-  }
+  "title": "Multi Station Load/Unload Balancer/Selector"
 }

@@ -4,29 +4,32 @@
   },
   "authorId": "zgiZyWJPcdfnHmGxoFjNqOuOOCM2",
   "blueprintString": "0eNp9jzEOwjAMRe/iOSAKLZCeoWJjQgglxQJLrYOStAJVuTsOHRALm+1vv/89ge0GfHjiCPUE1DoOUJ8mCHRj0+UZmx6hhqxEw3HRut4Sm+g8JAXEV3xCXaSzAuRIkXAGfJrXhYfeopcF9Q+k4OGC3DrOjsJb7HbrZaXgJaUuymUlVlfy2M47pcqY6F13sXg3IwlDDsOsh99awnxTppSTUsReonx/V9AZi/IvHI5NI+2IPnysqu1al1pX+2Kj9apM6Q3DdGcM",
-  "createdDate": 1731010135454,
+  "createdDate": "2024-11-07T20:08:55.454Z",
   "descriptionMarkdown": "Part of Tileable factories at <a href=\"https://factorioprints.com/view/-OBdq3vJ2slIWEDAXEeM\">Factorioprints</a> and <a href=\"https://www.factorio.school/view/-OBdq3vJ2slIWEDAXEeM\">Factorio.School</a>.",
-  "image": {
-    "id": "z5M9wdk",
-    "type": "image/png"
-  },
-  "imageUrl": "https://imgur.com/8Fed2vQ",
-  "lastUpdatedDate": 1763240809772,
-  "numberOfFavorites": 5,
-  "title": "Green Circuit (480 / sec)",
   "favorites": {
+    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
+    "t1hnOjslYsYvo0dj52RDzmewFV73": true,
     "TzhqBW7fIDglhIrnqyTPGdmnluq1": true,
+    "jOyXw79flpdPQ0qvay1UIgLKT252": true,
     "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "Yxj5xkQIxLTfMNdR1sNaEERcKsC2": true,
-    "jOyXw79flpdPQ0qvay1UIgLKT252": true,
-    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
-    "t1hnOjslYsYvo0dj52RDzmewFV73": true,
-    "D8VNS46cr1QM2cSX9vQGGsyfhAI2": true,
-    "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
     "mh8kkya4AuO3oWCOYT6G6tgjsom2": true,
-    "RUHlEQzgczXHiIPVELjKhVHiCDm2": true
-  }
+    "Yxj5xkQIxLTfMNdR1sNaEERcKsC2": true,
+    "RUHlEQzgczXHiIPVELjKhVHiCDm2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
+    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "D8VNS46cr1QM2cSX9vQGGsyfhAI2": true
+  },
+  "image": {
+    "height": 0,
+    "id": "z5M9wdk",
+    "type": "image/png",
+    "width": 0
+  },
+  "imageUrl": "https://imgur.com/8Fed2vQ",
+  "lastUpdatedDate": "2025-11-15T21:06:49.772Z",
+  "numberOfFavorites": 13,
+  "tags": [ ],
+  "title": "Green Circuit (480 / sec)"
 }

@@ -4,17 +4,20 @@
   },
   "authorId": "r1uOPW0pLKMoa5xTs8ZjqrXuO313",
   "blueprintString": "testing self",
-  "createdDate": 1740703811131,
+  "createdDate": "2025-02-28T00:50:11.131Z",
   "descriptionMarkdown": "test for Research line",
-  "image": {
-    "id": "aWXV8VC",
-    "type": "image/png"
-  },
-  "imageUrl": "https://i.imgur.com/aWXV8VC.png",
-  "lastUpdatedDate": 1740703811131,
-  "numberOfFavorites": 1,
-  "title": "Research line",
   "favorites": {
     "8ArPI86JiwVp86TvEBXPa3Bxiw03": true
-  }
+  },
+  "image": {
+    "height": 0,
+    "id": "aWXV8VC",
+    "type": "image/png",
+    "width": 0
+  },
+  "imageUrl": "https://i.imgur.com/aWXV8VC.png",
+  "lastUpdatedDate": "2025-02-28T00:50:11.131Z",
+  "numberOfFavorites": 1,
+  "tags": [ ],
+  "title": "Research line"
 }

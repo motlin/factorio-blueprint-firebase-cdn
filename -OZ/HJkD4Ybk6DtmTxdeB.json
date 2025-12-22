@@ -1,24 +1,25 @@
 {
   "author": {
-    "displayName": "Joshua Horst",
     "userId": "eOaF3vo9nONFmePeQqUCwHdNgRg2"
   },
   "authorId": "eOaF3vo9nONFmePeQqUCwHdNgRg2",
   "blueprintString": "0eNrdWOFuIjcQfhXLv1ppQVkWQkDqVblcpVPVX81JvTZElnd3AOd27a3tJVlFPEDfos/WJ+nYXuBICASqqlH/IO94/M3MN+OxzSNNixoqLaSl40eag8m0qKxQko7pBzBiJiEnU6VJwS2QGS+B3PGSVDz7ghMpFLZLIyoyJQ0d3zxSt4IXDkuiLoLYWqeqYzWXplLadtwSusQlMocHOu4tbyMK0gorICD4j4bJukxB03Ec7UWKaKWMCA4/UgQcxHF3ENEGoZNRd4CWcqEhCxr9ZfTMQO9oA8keAxFFKqxWBUthzhdCabcsEzqrhWUaeM7mXObMaaEjGLLVNURrjZU8qJYqR8fi5Q63k6Pd7r0Ft/tHuz04Lp2Dow303wIv52u3c8hEDrqTqTIVkls0uYuV4HI/fqXLLapzKPdIxgfy1RduvanQxrLNFrZN5TxaCG1rlKxdDBod4NncbWW3+S13HaQTu6+y4tr7PabvqNvfqrZVbZ82iAPon+lyebvcxdXwRK56/1uufn2Rq4u1KtfCzkuwInslXckr6doAP2HsSIo+O34MOAx2TOTIWQVIYji0OnTF4etBfkP6dpE3OrHQBv9hoV1uV1lydva8zKJ/itpB2JOL9SpgVQ3GXUvLplqVTEgEouMpLwy8UMrx2Ynp6L+Jff9VCv76489TkvD+GdB3dCUA1i7G0+j0PnL5Yh+JN/ewSquZ5mXJ0wI6pgL+BfTea1L/3Cdg30m6JvmEvnG1XZvxM46Wm/PYibFVgfapDQBswfEOzIRhlbCYrVCE2IqsqlhV8EbIGTNYqrlZzwm0pusSSWIib9lRFsJHggTSbUsOJsU7M1uoonbO44K1LFwLaKEyHx0vCnXPKlU01VzJZm0zLGUtjQXkLG3WLIWN4xaDfhbmHPH8xOp64iVKspJXK5G7wrdoPoqDF/hgqQRj+Mzp0Z1ls7ld58K4iDsVl1Dsr5ehrxcLD+gw/RkMWHJ973JDOu8m8nKKgZGpeMC8uMdIRKyazQogShKsfqKm0+5E/gR8AURI90lWtlCTcF3i9C9zkCSbK5xAFBeTcZOlkgLLJiK1AYIp5mI2t+30N1KRTGmJxoMAX0UlphBIqux8a+p7go0NjIX824m8UlJi50H4irQthmwaF/GdzztGTG3mwiMQAzNXXd3N8h6GdhACGcjveIYrd4NdI5XeWy9vo/WRT5BonpP3Tn7V3lon1BM6oR9VkU8orv8oLNE+IYHzLvmEYZK0QR/cEuQYy7dxaSlXxHbJD/JONV0ykRPZPhZfsa15gZkKhXbPG8NczYZi3VVnm+eQKdGDTsHLau9roi2yfU0JpGtx+Y47/b/Yq/x8ERwJz98ZHePJl/pf/sLzId68q1bohw7HJ9358PFowrzZHuPx0j7l0dWpKELT2ZIePNYi+jtOYDwolEqXXmnHQVd7zvCEunV/IBjmnA2Nz5149xiBM33Ti+LoPIpvo5sER0M/Oo+S6MKPhuvRRdSP8FLRw+EIFXGY+CGuSryCH8Z+iJM46K/GPafdv0WrwkKJDm7+RolowbHsUXbtd6DfUT/yknzAhpyFbCyQJE/14Lw36o9Gg2EySPrD3nL5N9utB8s=",
-  "createdDate": 1756949054413,
+  "createdDate": "2025-09-04T01:24:14.413Z",
   "descriptionMarkdown": "Designed for late game Fulgora recycle belts. (mixed belts) Check display panel for information. You should probably update the values to around +/- 10,000 since the variables wobble around a lot and give some false positives. ",
-  "image": {
-    "id": "dCA9B19",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1757147258400,
-  "numberOfFavorites": 1,
-  "tags": [
-    "/version/2,0/"
-  ],
-  "title": "Sushi Belt Jam Detector",
   "favorites": {
     "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
     "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
-  }
+  },
+  "image": {
+    "height": 0,
+    "id": "dCA9B19",
+    "type": "image/png",
+    "width": 0
+  },
+  "lastUpdatedDate": "2025-09-06T08:27:38.400Z",
+  "numberOfFavorites": 2,
+  "tags": [
+    "/version/2,0/"
+  ],
+  "title": "Sushi Belt Jam Detector"
 }

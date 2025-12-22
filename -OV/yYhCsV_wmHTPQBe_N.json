@@ -1,17 +1,22 @@
 {
   "author": {
-    "displayName": "Current Rex",
     "userId": "r8v29VDtl8PNnF9aUfJsHxwEHUj1"
   },
   "authorId": "r8v29VDtl8PNnF9aUfJsHxwEHUj1",
   "blueprintString": "0eNq1mV9vozgUxb8K8tOuBG3AmD+R9mGkediX3ZVWo750osoQt/UMGAZMO90q331N0qRJy62v0UR9aELg5+Prcy4meSZFNYi2k0qT5TNZi77sZKtlo8iSfLmXvXfFh6rkaug986G8Ux5Xa69uOuGZo14hvNtmMEek8r6Sf8VPc8H+/IL3YjzOvaJpvn8l3qcHLiteVMLj2rvXuu2Xl5e3vNRNJ5uthv6ibOrLBykeL4N/rp6+3BTfqPr8149SBos/ryjxiSwb1ZPl9TMZxfBqVK2fWmHkdqKU5oVPFK/H97yU60CJQXe8kj3fTmpjCGotfpJluPERjF4LXgdmzLVQ7xDRJOK2GuT6lfDIteiOLqKblU+E0lJLsZvI9s3TjRrqwpy5DA+XjlPVXGkzfl1IxU2dDLdterlboGdieAFNL5hPnshyccHMMOYi3TXVTSHu+YM0V5jTelGOV/Snr83Q+1r45FZWRufbo3shvCqlHsvyYzC11GYwopquNvMeB6xb3m3FLckf2wPD6KZwszJ/m7FGb2YYHcBmaVTfNp0OClHpqcklJ5Nby24nnyyzCTA9gG95rwOpetGN1f+AGxruBCk+kGqxlkMdiMoM3MkyaJtKTAHZx0B2ALbGYIFugrtuDM4UKj5CWeecHHm16fidYXP1fQqbvWDpW2w8gU1fF/9e1NI4IGgr48WPpr4Dv0RoOn/7j2/eGWlCQ4aeWnikYAKUnxR/AhAvXgDxNCBcoAkMIIQ2wsGSECGyEmILgTqYkB2xTtwSRlPo2AG9gNBTRgyZbdpRblm8BE2ACpeilz8BCBmakAKE3CGR2ZGa0wof5XPi3uYUz2iBtjRQlQgfCqAqET4UkAaKJkAaYiuBWTSw2bcbSFPi4JYIcsvYcn6dXawhopYIRPgQZQABfyfIpwl0MSOG+TljSPEhAqpCIzQBqgo+RJCGGE2ANLAZls/PanmaoC0PlQUfGqgs+NCECwCBT00I7afx9wpIRYz3OagCf7cAVeCdDqqI0WsKqmB4BKQiwS9qBCDw26IQ2JnH2Yx2utVztn4a53ifAYVhDm4HCsNCvM8gFQ5uh1TQGT31/fL80qbKHOIDVcYhPlBlHOIDPJcwh/gADyZsVnzYOePDHOIDFCZxiA9QmMQhPpAKh/hAKuj8r5EgZDwnkeysiUwc4gQVG79TAivjECfgOSxx2CsBzyiJg/0BFamD/QEVqYP9IRUO9odUUPyiQiocmj2kguEXFdiFpw7NHtiGp+mcTp2ds1On2ZxWkp21laQ5fr2BxcoWeASwWFmIXu8I2KFn9vhkNoQ9PrkNEaNbCYiwN/fUhkjQrQREpOjv2ECEtbkfTA4i7O6kFkSOdyeIsDf38ASx8smjyev449517DM/Yj5b+dfjP99sUdjKnCC1qA3w9ddgn1S8EJU59qmUa+9vwXc/5Py3TbX32/5n3t/NmQ+i67fDsyTK4zxnKWU0TqPN5n+4orIA",
-  "createdDate": 1753396204521,
+  "createdDate": "2025-07-24T22:30:04.521Z",
   "descriptionMarkdown": "This Vaulcanus design and more can be found in \"Rexs Vulcanus base in a book\" Available at https://factorioprints.com/view/-OVyT_bj3nDMqci-0HV3",
-  "image": {
-    "id": "Zw7jOGb",
-    "type": "image/png"
+  "favorites": {
+    "CxLSOoE5qaSdW1GdRw2b4Oav9Xy1": true,
+    "r8v29VDtl8PNnF9aUfJsHxwEHUj1": true
   },
-  "lastUpdatedDate": 1753396204521,
+  "image": {
+    "height": 0,
+    "id": "Zw7jOGb",
+    "type": "image/png",
+    "width": 0
+  },
+  "lastUpdatedDate": "2025-07-24T22:30:04.521Z",
   "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/",
@@ -19,9 +24,5 @@
     "/power/steam/",
     "/mods/space-age/"
   ],
-  "title": "Acid Neautralization (Vulcanus)",
-  "favorites": {
-    "r8v29VDtl8PNnF9aUfJsHxwEHUj1": true,
-    "CxLSOoE5qaSdW1GdRw2b4Oav9Xy1": true
-  }
+  "title": "Acid Neautralization (Vulcanus)"
 }

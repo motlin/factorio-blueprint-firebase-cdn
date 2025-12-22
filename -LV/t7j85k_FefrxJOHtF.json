@@ -1,10 +1,12 @@
 {
-  "numberOfFavorites": 0,
-  "title": "Your basic line of turrets",
   "author": {
     "userId": "nHtFJSobJohSXTWK9f1QFUtROof1"
   },
-  "createdDate": 1576137848987,
+  "authorId": "nHtFJSobJohSXTWK9f1QFUtROof1",
+  "blueprintString": "0eNqN0sEKgzAMBuB3ybmKrVpZX2WMoVuQgkZp65hI333VXTY2aG9Nyf/lkGzQDQvORpMDtYG+TWRBnTewuqd22P/cOiMo0A5HYEDtuFf9QplbjEEHnoGmOz5BcX9hgOS00/hWjmK90jJ2aELDvzyDebIhMtE+LTCZaPKawRpeRV57z34ckebwOuKUaU6MqZKYKqLUSQqPMTKJEfKLCXs79qs+zoHBA409Ik1Z8JMUvGyk9y/l5rXz",
+  "createdDate": "2019-12-12T08:04:08.987Z",
+  "descriptionMarkdown": "It's just a line of turrets.  Saves time when you've got a bunch of land to cover, and if you can get your bots to do it- even better!",
+  "favorites": { },
   "fileName": "2019-12-12 03_03_18-Greenshot.png",
   "image": {
     "height": 1080,
@@ -12,8 +14,8 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "authorId": "nHtFJSobJohSXTWK9f1QFUtROof1",
-  "blueprintString": "0eNqN0sEKgzAMBuB3ybmKrVpZX2WMoVuQgkZp65hI333VXTY2aG9Nyf/lkGzQDQvORpMDtYG+TWRBnTewuqd22P/cOiMo0A5HYEDtuFf9QplbjEEHnoGmOz5BcX9hgOS00/hWjmK90jJ2aELDvzyDebIhMtE+LTCZaPKawRpeRV57z34ckebwOuKUaU6MqZKYKqLUSQqPMTKJEfKLCXs79qs+zoHBA409Ik1Z8JMUvGyk9y/l5rXz",
-  "descriptionMarkdown": "It's just a line of turrets.  Saves time when you've got a bunch of land to cover, and if you can get your bots to do it- even better!",
-  "lastUpdatedDate": 1576137848987
+  "lastUpdatedDate": "2019-12-12T08:04:08.987Z",
+  "numberOfFavorites": 0,
+  "tags": [ ],
+  "title": "Your basic line of turrets"
 }

@@ -1,24 +1,25 @@
 {
   "author": {
-    "displayName": "NoSimpleWayOfPOE",
     "userId": "F4RS1DELtqQt7qtj0dNWhgbgUA02"
   },
   "authorId": "F4RS1DELtqQt7qtj0dNWhgbgUA02",
   "blueprintString": "0eNrNnN1u2zgQRt9F13KgITkix5f7GkUQyC6TCJB/VpK3mwZ+90p25BSwm5rfGE2v7Mg5IkXNmTDBp7xmi2YXt2297rP5a1YvN+sum395zbr6aV0147F1tYrZPGs3i8120/bZPs/q9df4fzan/X2exXVf93U8UocvXh7Wu9UitsM35BPdraqmmTXVapvl2XbTDchmPZ59OM2MjL/jPHsZgEB3PAyw3DSbdvz4eJKnbF7chdJ4x1SUxhTGsS3JmkBmABfjx1YMcRlKIW8LJ2JKz/74eTVOdXhpvlUv3cM4bt/u4j4/m685zXdRP81iE5d9Wy9n200TL06bpknvL5zMXnnx5P6Oi3f52a2+dM3TXN1w0jb+u4td//BYN31su/GbumHN6qmI3uvk0gLxdQPSzQYsrxqQ/M0G9NfWvzmVQPmZJRCuLVn5O+Yrib6Gt0mHSzeLijQBgro8iNLrQz5zvem9QXa7RddXh1l+JO3llbbpdfa51+3SOscNSoPTSnuc4QcLXiaVthj9/H1Sc7/FiCHpHt1iREne3oj71O1Nge1vhC9dvqHkDc6fvPxha/qtbg/70i8m53wwiu/zw1s5vRsa2vh2OJAPizO9fTs6vkyH6adTjC/H48MYfd287X0vdO3jVXvZv69Uv1nH2bbqn7NxSX+55EnM1HaKBKYEGAYYBzAWYMw581x9r9qvs+FXmmUb+zhr4mP/8aqDdJE+37F3JDMBYIDaIKQ2wulXofS6JWjVSxXNKtqpaKuijYomFV1o6FPNY3RQ0apaI1WtEQNuTGtlAAcNdG/9Od3Gx3od3/HfmJhOMkw6mLQwaWCSYLJASRKYDDAJ1xDBNUSsqXpygGfTylrATaty08JuWthNC7tpYTct7KaF3bSwmxZ208JuWthNC7tpYTetyk0LuOkAN53KTQe76WA3Heymg910sJsOdtPBbjrYTQe76WA3Heymg910Kjcd4CYDbrLKTYbdZNhNht1k2E2G3WTYTYbdZNhNht1k2E2G3WTYTVa5yYCbJeBmqXKzhN0sYTdL2M0SdvODVWrrp+ff/bkHxEmHFyqcBF01CjAJ1xXBdUWsMYFcunt2ujEecNxDvgYV7c/pRNs9bLuHbfew7V5nu4d/HHv4x7HXOe5hxz3suIcd97DjXuU4Rtt0208dIgAdIqg6RFB1iAB3iAB3iAB3iAB3iKDrEAHuEAHuEEHXIQLcIQLcIQLcIQLcIYKqQwRVh0BsF2DPLyrHBXZcYMcFdlxgx0XnuOj2/KLb84vOdoFtF9h2gW0X2HZR2S7pvgqQy5BC4+vPdJqvAMkw6WDSwqSBSYLJAiVJYDLAJFxDBNcQsabqyQGeTStLgJukcpNgNwl2k2A3CXaTYDcJdpNgNwl2k2A3CXaTYDcJdpNUbgJZKgGyVKLKUgmcpRI4SyVwlkrgLJXAWSqBs1QCZ6kEzlIJnKUSOEslcJZK4CyVqLJUAmSpBMhSiSpLJXCWSuAslcBZKoGzVAJnqQTOUgmcpRI4SyVwlkrgLJXAWSqBs1SiylJBnrn0TL84TaYfpFlFOxVtVbRR0aSiCw19ss9pMv0grao1UtUascINTn9OK4lhgHEAYwHGnDNApbOq0jn9Oa0kJgAMUBtUKta/TH8m8VfMfZ7VfVyNT5We/pdInjXVIjbDsX+q7u0p8f9i2x3Oy6URJ8LesnXe7Pc/AB/kl8Q=",
-  "createdDate": 1756078290927,
+  "createdDate": "2025-08-24T23:31:30.927Z",
   "descriptionMarkdown": "Star-shaped 8 roboport stations\n\n- Only deffaul quality\n- Can charge 32 drones",
-  "image": {
-    "id": "qyuMZ0A",
-    "type": "image/png"
+  "favorites": {
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true
   },
-  "lastUpdatedDate": 1756078631762,
-  "numberOfFavorites": 0,
+  "image": {
+    "height": 0,
+    "id": "qyuMZ0A",
+    "type": "image/png",
+    "width": 0
+  },
+  "lastUpdatedDate": "2025-08-24T23:37:11.762Z",
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/production/robots/"
   ],
-  "title": "\"Bastion\"- the roboport station",
-  "favorites": {
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true
-  }
+  "title": "\"Bastion\"- the roboport station"
 }

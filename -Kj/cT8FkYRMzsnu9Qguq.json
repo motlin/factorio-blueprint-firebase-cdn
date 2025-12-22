@@ -1,42 +1,61 @@
 {
+  "author": {
+    "userId": "cMexP6bEEeaBZkfwqpD1ZAEa1mH3"
+  },
   "authorId": "cMexP6bEEeaBZkfwqpD1ZAEa1mH3",
   "blueprintString": "0eNqlVNtu2zAM/Rc9DvYQp2mBGttDvmMoBNpmbKG6QZLTGoH/fZTUpLl2a/tiSLwcHvJY3LFGjmid0IHVOyZaoz2r/+yYF70GGW1hsshqJgIqVjANKt6sM70DpaCRWHqL8IyOzQUTusNXVlfzU8FQBxEEZrx0mbgeVUORdXVAAifCoDCItmyNaoSGYBwVssZTttGRAiEuCjaxulz8vKcqnXDYZueqYMQ5OCN5gwNsBSVTxjsqJ3eXkHx0bITzgV90txUujGQ50MoRJUI7xL7iXALEIZVE3Vh0kOuzH5RjxmDHT6POGVfnVhK7Kn56h6iPhyY6Vi8pVrh2FCFf5yfKXsZwh90/g4sT9x0lz0e2vSjLA88OW9Gh+1CR6nOKvEF+Tw7QUxiE7k8lqRbxpiy4xLRmv76gyTpj2okYjjrwjTOKC00YrN6A9HhFrlvzry7EKq6rehZY3RDm7uN3dyFNmbWp5utS7EsepPiCEuszCc4U+J3cb3Wimd4iujS0DMC3QIuHC8+tCPQa8ozjAvHBjYoGkCZCymoTMJ9vPZj/UiAmnxKxEqYG2me+NXKMvVHSwdZL04CUNEWiQ7zobF64NXKyg9HT/p+IDnQXLQ4Umxz79GQxmiuw74gxUaH30MfB0kKg3ySt2fpoKxdMQoMkCVtLcHEFb6lKEu1htVreLx4flw+ref4L5FcD7A==",
-  "image": {
-    "type": "image/png",
-    "width": 565,
-    "height": 506,
-    "id": "TSPr5ly"
+  "createdDate": "2017-05-08T14:31:08.138Z",
+  "descriptionMarkdown": "Simple adjustable alarm for resource depletion, also works for accumulators ",
+  "favorites": {
+    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
+    "NYlpkomM4ScQ0oenu81lkb9AUFg2": true,
+    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "jdG942UYPRTZmxxPyHpUtgjWFnj1": true,
+    "vlU0MZRyNpUUD6cwIureCeiM2Ab2": true,
+    "ves66Dv1FrTaxK4IhYckn2PLsvz2": true,
+    "3jp4k3KUARWmg2JSgFXwsiV6YqL2": true,
+    "MPXpep5GQKWLMp1V90CfgkAupAA2": true,
+    "vNEO2WnecNfbfmURCEVsg4JBCMA2": true,
+    "sUJxDEQvaJUjQ5z1nT88FfcwBTA3": true,
+    "7N2X7HnNLFhOMRi1F7Dyq0hnEDL2": true,
+    "3XJceWwrm9em2Ne6A0MLz6ggkGB2": true,
+    "W7jLWG8JtVctAdA4ZujYiIOBkNi1": true,
+    "IIm81OUOkfMlXA59xQxDzkt3AbP2": true,
+    "crI6zzSiYqUk4Wfe0jYmQa3mYc52": true,
+    "JqnSNBzi8jdrkdFRMcAjFXI3xZI3": true,
+    "P3R7zmfiN5V6ehUI1WJnmxJs7Zg1": true,
+    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
+    "qwz6UcnJj9PAxHC0kE8sfkweirH2": true,
+    "WPuKQqpHoxg8TfsFqdX2XAr0Y553": true,
+    "GGiUa1netHQjDH0dT9rR8dvt2162": true,
+    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
+    "nZu7w3k8RPVVQopjwGBZIJv0bRf1": true,
+    "wJTgxTSUSTW8pxP8gHJORPznqE52": true,
+    "FfOAITTFxQXzxTt2i1aePyzIg2y1": true,
+    "UKrff2MBjoWCuwkJnCthUTucLJl1": true,
+    "7UQDTpiF2Wd9JSV12aVGDNiCC5m1": true,
+    "d9cxVoqlLJQMV1xwo8a5LcwM08e2": true,
+    "IzCQ23ENByRiGNwGf6Y3Cb8hfPk1": true,
+    "VOaztJBuhIbQ7IJrAPnfcmeiCAg2": true,
+    "VXKPmCDy9wSwBCReYyriFnYN5To2": true,
+    "tYQGObRXw9MQ8DeZti8NvIR46k93": true,
+    "kOht14bSMCc1Lz86TALpXSERIdV2": true
   },
-  "lastUpdatedDate": 1497703041130,
+  "fileName": "Screenshot 2017-05-08 10.29.00.png",
+  "image": {
+    "height": 506,
+    "id": "TSPr5ly",
+    "type": "image/png",
+    "width": 565
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202017-05-08%2010.29.00.png?alt=media&token=626f28f2-3797-4db3-a9c6-8d8c678ecd2b",
+  "lastUpdatedDate": "2017-06-17T12:37:21.130Z",
+  "numberOfFavorites": 34,
   "tags": [
     "/circuit/indicator/",
     "/mods/vanilla/",
     "/version/0,15/"
   ],
-  "title": "Resource Alarm Systems",
-  "author": {
-    "userId": "cMexP6bEEeaBZkfwqpD1ZAEa1mH3"
-  },
-  "createdDate": 1494253868138,
-  "descriptionMarkdown": "Simple adjustable alarm for resource depletion, also works for accumulators ",
-  "fileName": "Screenshot 2017-05-08 10.29.00.png",
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202017-05-08%2010.29.00.png?alt=media&token=626f28f2-3797-4db3-a9c6-8d8c678ecd2b",
-  "numberOfFavorites": 34,
-  "favorites": {
-    "kOht14bSMCc1Lz86TALpXSERIdV2": true,
-    "wJTgxTSUSTW8pxP8gHJORPznqE52": true,
-    "sUJxDEQvaJUjQ5z1nT88FfcwBTA3": true,
-    "JqnSNBzi8jdrkdFRMcAjFXI3xZI3": true,
-    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
-    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
-    "GGiUa1netHQjDH0dT9rR8dvt2162": true,
-    "crI6zzSiYqUk4Wfe0jYmQa3mYc52": true,
-    "ves66Dv1FrTaxK4IhYckn2PLsvz2": true,
-    "tYQGObRXw9MQ8DeZti8NvIR46k93": true,
-    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
-    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
-    "jdG942UYPRTZmxxPyHpUtgjWFnj1": true,
-    "vNEO2WnecNfbfmURCEVsg4JBCMA2": true,
-    "nZu7w3k8RPVVQopjwGBZIJv0bRf1": true
-  }
+  "title": "Resource Alarm Systems"
 }

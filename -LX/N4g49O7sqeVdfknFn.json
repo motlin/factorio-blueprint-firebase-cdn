@@ -2,7 +2,11 @@
   "author": {
     "userId": "1xVvPyMFDohrlDVyQEaxAOukK3u2"
   },
+  "authorId": "1xVvPyMFDohrlDVyQEaxAOukK3u2",
   "blueprintString": "0eNqdltFu4yAQRX9lNc9GMuDYid+rfsSqWhFnlCBhbAHdNor874uTNmobNmH8FJlozgx3hgsn2JpXHJ22AdoT6G6wHtrfJ/B6b5WZ18JxRGhBB+yhAKv6+Ut5j/3WaLtnveoO2iLjMBWg7Q7foeVT8RARnLJ+HFxgWzThS7CYXgpAG3TQeCnm/HH8Y1/7LbpI/x+jgHHwMWywc9aIYlUBx/kn0nfaYXf5r5rL+wEV9/d2i+YXtIzoCNaXHbrBsj0qx94OiAYSeeQ1j++VMQxNrMrpjo2Dwds0H1lWUwJVXVHaenQhrt3Ey8/4bwLUCdoqW1Vxp6aaSqlSlOZKeRuGHVrWHdAnGNWdStYZ6rAPecRjeTbkoROPh46XZKrMoPKMrfPsnXNB7alM9YNLKkYkMRXtAH22mCdhK6r+ZYb8NbmpPIPaLDOokuhPfL3IoNLybqgtT2JEScSUSQrPNwT++FQIkY/LOGRCUocmw15ERYVmDKJYLRtE6kUp6mwXy9G3yablNH9NnMj0XFOPR9IQZbnIEJMeLclPq4zrSIoljpKuj3qHREp8TJ4fnu2Xp24BRsWwuPaknDn+eo6T6OPqX3T+jGhkyTe14LKpp+kfwlSzcw==",
+  "createdDate": "2019-12-30T18:34:43.985Z",
+  "descriptionMarkdown": "Very simple 3 assemblers making gears.",
+  "favorites": { },
   "fileName": "gears.JPG",
   "image": {
     "height": 415,
@@ -10,10 +14,8 @@
     "type": "image/jpeg",
     "width": 389
   },
-  "lastUpdatedDate": 1577730883985,
+  "lastUpdatedDate": "2019-12-30T18:34:43.985Z",
   "numberOfFavorites": 0,
-  "title": "Early Gears",
-  "authorId": "1xVvPyMFDohrlDVyQEaxAOukK3u2",
-  "createdDate": 1577730883985,
-  "descriptionMarkdown": "Very simple 3 assemblers making gears."
+  "tags": [ ],
+  "title": "Early Gears"
 }

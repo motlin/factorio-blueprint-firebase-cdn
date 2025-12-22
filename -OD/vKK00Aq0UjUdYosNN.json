@@ -4,22 +4,24 @@
   },
   "authorId": "px1RBsO6VjfCMzs22gdULdHTxYD2",
   "blueprintString": "0eNrNWFtunDAU3UpkqX+mwjxm8Ej9aLuF9iuKRh5wZqyCTY1JG0WzgO6ia+tKeg0hpAEGQ9SqikTMxT73fWzPAzrkNS+1kAbtHpBIlazQ7voBVeIoWW5lkhUc7ZCp9UF5RjNZlUob78Bzg84YCZnx72hHzjcYcWmEEbxFaF7u97IuDlzDBNwhVYbz3EtPvDIIo1JVsEZJqwpwovhtjNE9zA9gdD7jAVDwBHSo8y+ekBXXBj5cgorGocInqIJnoi48nvPUaJF6pcr5CGI0Z1zk6OVmDih2BNrOAW2cw7WZC9fWGWo7B5U4upfMuUcdgegcEPGdvUvmvCPEGYvOYgVuHsb+rIehq1XPsKasiha2TkxmzYtXNPZmAquv+pa3amApfdQK/rfMdQkUqheILRMaPGomQLWa+9KiqdqUteW9ocq+OyyJGiaNl6riICQzSl/kklYfrDJa5fsDP7E7AUtgXtVaUP05BnLtWBejW5FDkF5KH829E9rUQON9CTW07r0HyVf4AA6AUCpdNJPA3pLpxt4detcIarsxALnD32igkxX0MpU0ii9uNpcgBykjwdjW4a9gsAlrA7K8xLavK7EgWEFRU+aHS4OdLA12tIIEp6yNlwebvjLYmxVsOWX+dmGwn0E6BjtZms6e7pJBeMYU0PUKqIuCsO9NpoU5FdzAZuLIoHSQ3zE27XH38DkTT9R6K3Rl9v2Rd5Y9QR3QMWDsO65vDpOq5MCejQnoDSxrq2sR8CjLhmRp8LfLshsG6xUMshuNKVhMN3Tag1EF0XoFbh68pKCqhO1zjhBeFGY0tc2bvZBtqWSgweia25uVleT81vTlurZa+zINBtv8uVOlxfH0V3X9+vETKrxTB7dOpdsTSKN5jIXDzVLmJBdoZzz6qdBpLcB9zrL9ibVNbcCQqstEN6OTt1MLZXPljzbsdjVbhr5TNSarz0qOCuhqRnBTEPnO/dQfPUL/v+sn8g/7ibj2k3VyrJ0isrqdhllN7E8+3+DdXj6uCQ5whIMbfB3iGMP9MIYhCODFCuGJk2YET0ybETwxXG/tEG5PBMMRgNj1fjsO23GIo0c5wLZj0CsML+zR7OnXK4xyBj6A7GPbrVcfWM5kyrOrT5oJefVZ5oplQh5h6h3cmBof4k1AI0rjhISU+tH5/Bu7Qkjj",
-  "createdDate": 1763005780071,
+  "createdDate": "2025-11-13T03:49:40.071Z",
   "descriptionMarkdown": "Uses a circuit clock to cycle the input priorities of splitters to balance the outputs of a train station.",
-  "image": {
-    "id": "QYTo21t",
-    "type": "image/png"
+  "favorites": {
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "mbv0XZR5rhVyoBc7JoIa16XuDvg2": true,
+    "qXJhFRlGtQbkKduGPLvvipmGZ9v2": true,
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
   },
-  "lastUpdatedDate": 1763005780071,
+  "image": {
+    "height": 0,
+    "id": "QYTo21t",
+    "type": "image/png",
+    "width": 0
+  },
+  "lastUpdatedDate": "2025-11-13T03:49:40.071Z",
   "numberOfFavorites": 4,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Circuit Controlled Balanced Train Unloading",
-  "favorites": {
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
-    "mbv0XZR5rhVyoBc7JoIa16XuDvg2": true,
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
-    "qXJhFRlGtQbkKduGPLvvipmGZ9v2": true
-  }
+  "title": "Circuit Controlled Balanced Train Unloading"
 }

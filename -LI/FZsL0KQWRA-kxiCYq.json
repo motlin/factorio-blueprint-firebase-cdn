@@ -1,22 +1,25 @@
 {
-  "tags": [
-    "/version/0,16/",
-    "/mods/vanilla/"
-  ],
-  "title": "Carved 3x5 font",
-  "favorites": {
-    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
-    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-    "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true
-  },
   "author": {
     "userId": "LcyzIj31B9Sg0lJU46rVlz81Xr33"
   },
   "authorId": "LcyzIj31B9Sg0lJU46rVlz81Xr33",
   "blueprintString": "0eNrt2t1ugjAUAOBXWXoNSVvk925z20ssiwGtWzMEApVoDO8+0Cx4Ma3Fg5PRK7XAIbQfp0fKDkXxmmU5T8QsStMvFOzalgIFb0c/m218niaH5oJ/JGHctIltxlCASp6Ldd1ioCRcNQ2HPUyMKgPxZME2KKDVu4EEj9khRpYWXPA0aaLUW01ioG39Qas2hkgTZmah+KyjnDyAKB6AFfdXjX/xBWDFC8Zq4VX7U7U7FXtTsTPP9mXtiAu2qltbnwaKw4jVJhGuv5csL/bBHM+l1CM+dmkrETcnvJY2OaJNeqHds6TLhxqrDTVWG+pOrjvJIFIZBEIG7V3GwHMYHlPK6ySVSqVSCKnW0HMY1pMnLDxLCs+CgDfpHV5/dSHuMnYjpDSRUppAULIHTGmMSfIOpdpSqTaEVGf4UnUhOSzZjlS2AyHb7U/2TWCQ/1hGnpfhSmW4EDI8nfP0X577zpGe9E7wIO4EX9epWvZtZftS2T6E7EdV2ToDa6fHTkP5c3mQJZsnXYz8Ke07pBfJ6YGsCU1HRK9bViX9pknSRcdcrgNkHeZ54DOonhGB09JCDg9kHeZFz4i6OLz2URKTYwVZ6XnVWG+D9fxwL+XDbf8Wwty/Y9jGmYZ5yRYP1sZ+WKb7M4RzwUs2+3lL68Rpqm+E3ggi",
-  "createdDate": 1532507686251,
-  "numberOfFavorites": 12,
+  "createdDate": "2018-07-25T08:34:46.251Z",
   "descriptionMarkdown": "<img src=\"https://wiki.factorio.com/images/Stone_brick.png\"/>-based numeric font for carving into <img src=\"https://wiki.factorio.com/images/Concrete.png\"/><img src=\"https://wiki.factorio.com/images/Hazard_concrete.png\"/><img src=\"https://wiki.factorio.com/images/Refined_concrete.png\"/><img src=\"https://wiki.factorio.com/images/Refined_hazard_concrete.png\"/>\n\nA-F included since hexadecimal is God's own numeral system.",
+  "favorites": {
+    "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
+    "WoYxBrvtsyXlHxLTL8ftQww63yl2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "CxjbcexNZtOfTqPNjjHv5rTnDmy2": true,
+    "vna5iVRoFHSaVilB2dBl4rxBxjD3": true,
+    "1VRefTVLLIPXGQlvBRnDTOVwW2w2": true,
+    "ojRAiJiCuXZpw1YiDOKX3of7wMf1": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true,
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "WsBWK3cen8ShwxfNuGkEIiFa0k23": true,
+    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true
+  },
   "fileName": "carved3x5.png",
   "image": {
     "height": 855,
@@ -24,5 +27,11 @@
     "type": "image/jpeg",
     "width": 921
   },
-  "lastUpdatedDate": 1532507810540
+  "lastUpdatedDate": "2018-07-25T08:36:50.540Z",
+  "numberOfFavorites": 12,
+  "tags": [
+    "/version/0,16/",
+    "/mods/vanilla/"
+  ],
+  "title": "Carved 3x5 font"
 }

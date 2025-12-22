@@ -4,17 +4,20 @@
   },
   "authorId": "2AmIXzMChVVH4iaxnqzuLbLMvdG2",
   "blueprintString": "dadadadafafafafafa",
-  "createdDate": 1743569812141,
+  "createdDate": "2025-04-02T04:56:52.141Z",
   "descriptionMarkdown": "vavavavavavavava",
-  "image": {
-    "id": "5ewNtce",
-    "type": "image/png"
-  },
-  "imageUrl": "https://imgur.com/5ewNtce",
-  "lastUpdatedDate": 1743569887379,
-  "numberOfFavorites": 1,
-  "title": ".dadadafafafa",
   "favorites": {
     "tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true
-  }
+  },
+  "image": {
+    "height": 0,
+    "id": "5ewNtce",
+    "type": "image/png",
+    "width": 0
+  },
+  "imageUrl": "https://imgur.com/5ewNtce",
+  "lastUpdatedDate": "2025-04-02T04:58:07.379Z",
+  "numberOfFavorites": 1,
+  "tags": [ ],
+  "title": ".dadadafafafa"
 }

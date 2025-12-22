@@ -1,4 +1,40 @@
 {
+  "author": {
+    "userId": "bwj8XCBccPh7q9cZJ9LMogmSwsw1"
+  },
+  "authorId": "bwj8XCBccPh7q9cZJ9LMogmSwsw1",
+  "blueprintString": "0eNqV09tqxCAQBuBXKXNtFs1hN/VVllJMdiiCh6CmNIS8e01CS+jKrr0Shfkcf3WGTo04OGkC8Blkb40Hfp3Byw8j1LoWpgGBgwyogYARep15q4QrBmFQwUJAmht+AWcLeVop+n7UoxLBukNlubwRQBNkkLg3sE2mdzPqDl2kk1sTGKyPNdas+0WnqAhM67CsrfwxyjyDPiCqPOJRF3UyivuTsFOzK/TUpJwmz6FPmPN/TkRTwiXzathGlCmi/SU03uSoC1TYByf7YrAK762dYinqNS+Wn3TLdCqM5jHVkYlPeHvr/PCpCCjRxTi2cNC9+Mnv3+ETnd+cc12XF1bRto3pfgOOyiyo",
+  "createdDate": "2018-02-12T18:01:30.783Z",
+  "descriptionMarkdown": "solar panel : accumulator = 5:4  \n\nThis ratio is the optimum ratio of solar and accumulator. Actually the accumulator is a little short.  \nThis blue print is the pattern that arranges this ratio at the highest density.",
+  "favorites": {
+    "30zH8cZUM2ZbHn2mk2T8qLccDTs2": true,
+    "jn6hw84msxZzReQZU52ox8nmAyg1": true,
+    "TyDDXUIOA2ZMiPNOU9ls00bBRmL2": true,
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "AzGGBSolHZW4s57XC28yJjBlzDi1": true,
+    "Kp4K3TlzgKdsVaLtVwMo20bgNH93": true,
+    "OOZ2GywnJ4X2N52aXX8l4JhMssJ3": true,
+    "bFjMzKzgPrR5ouWM2aw1HLcA5n83": true,
+    "GVGmO05l4ibRwSgRUyAnz5iQu2x2": true,
+    "9T4n9PrtMcbeb3Mji0pmWzndKse2": true,
+    "gzlqHtZj6ycci2BZ0RmUJdp6Uhx1": true,
+    "i3NFwLiBLVQORBVX1x6wnPBlIMA2": true,
+    "sZl2s6MmvrSvpTMNcQnkPgM7PaI3": true,
+    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
+    "v1SeQRdbZbVIHdqTD9XgXVpK98S2": true,
+    "ZDpk7kq5Y4RULwL1BSiv8whzPs22": true,
+    "vD3BS94FIATJaUWLbhYId5PjdGv1": true,
+    "0XzDbiRokAO0JU2B0Wzzm5aIyoD3": true,
+    "cfcjNxozIlYgv1RF6fTDKQsA6dE3": true
+  },
+  "fileName": "path3692-47.png",
+  "image": {
+    "height": 837,
+    "id": "Non0UqF",
+    "type": "image/jpeg",
+    "width": 1072
+  },
+  "lastUpdatedDate": "2018-02-12T18:03:21.769Z",
   "numberOfFavorites": 19,
   "tags": [
     "/power/accumulator/",
@@ -6,25 +42,5 @@
     "/version/0,15/",
     "/general/compact/"
   ],
-  "title": "tiny solar and accumulator",
-  "favorites": {
-    "jn6hw84msxZzReQZU52ox8nmAyg1": true,
-    "30zH8cZUM2ZbHn2mk2T8qLccDTs2": true,
-    "Kp4K3TlzgKdsVaLtVwMo20bgNH93": true
-  },
-  "createdDate": 1518458490783,
-  "descriptionMarkdown": "solar panel : accumulator = 5:4  \n\nThis ratio is the optimum ratio of solar and accumulator. Actually the accumulator is a little short.  \nThis blue print is the pattern that arranges this ratio at the highest density.",
-  "lastUpdatedDate": 1518458601769,
-  "fileName": "path3692-47.png",
-  "image": {
-    "id": "Non0UqF",
-    "type": "image/jpeg",
-    "width": 1072,
-    "height": 837
-  },
-  "author": {
-    "userId": "bwj8XCBccPh7q9cZJ9LMogmSwsw1"
-  },
-  "authorId": "bwj8XCBccPh7q9cZJ9LMogmSwsw1",
-  "blueprintString": "0eNqV09tqxCAQBuBXKXNtFs1hN/VVllJMdiiCh6CmNIS8e01CS+jKrr0Shfkcf3WGTo04OGkC8Blkb40Hfp3Byw8j1LoWpgGBgwyogYARep15q4QrBmFQwUJAmht+AWcLeVop+n7UoxLBukNlubwRQBNkkLg3sE2mdzPqDl2kk1sTGKyPNdas+0WnqAhM67CsrfwxyjyDPiCqPOJRF3UyivuTsFOzK/TUpJwmz6FPmPN/TkRTwiXzathGlCmi/SU03uSoC1TYByf7YrAK762dYinqNS+Wn3TLdCqM5jHVkYlPeHvr/PCpCCjRxTi2cNC9+Mnv3+ETnd+cc12XF1bRto3pfgOOyiyo"
+  "title": "tiny solar and accumulator"
 }
