@@ -4,7 +4,7 @@
   },
   "authorId": "vfdAmIqLgwYs6RM43GbHLUmit8H2",
   "blueprintString": "0eNrdVstu2zAQ/Jc900H1tgWkQN32mMeht8AQJGttE5UolaKcGgb/vUtKthM3riujQJJehOVyOeTMjihtIStarCUXCuIt8HklGogfttDwpUgLk1ObGiGGNZeqpQwDkZYm0VWMpqAZcJHjT4gdzQasLLlomyerXT1jgEJxxbE7hB1sEtGWGUqC3yPkOOc5ytG8KjMuUlVJQq+rhpZWwmxNcKNwfBUw2EAcjmmTnEucd9NjBsRTyapIMlyla07LaU0PmtBcboEak306oiMtuGxU8tcc7w0/I6pKjcKuGZR1Ku2RY7gGw7lqVd2qgbrfdMj1hs7bCpUsZFUmXBAQxIu0aFDPtDb9OBLR3QPtjnVGxUmvYuRcBfpl5ZpO2eZ5TGx2vmCkW6FQHmfPqsfgB03Q+SkpKlnaoiMJTaI16npE+WXS3kDn7Dl/eDXnTLv+/huzfAI96NWcDqy/vdCM/lAzRu/GjL6hu7vZ2HnBB4GPnJNWDwZaPXqLVv/4dq1+d6HVw0uvIO/V+nLz/OPl/H4fscGYt+cwdwlMeqRU5Je7AdcoN2rFxdLsK1A9VvK7lUZi3jeMwVIikrRKtqhPtC+69LX6v9p39y7aR9s9kuRmsweHucxj7ozZKOgjj4XM6aPIRq6t8ymiJ82aOt+uMDl6Up3JhTbyZ7SH4V3i/kvSc+kdw3ZBDO6B1/1nq/rJUu9Q+m1FpP5Y7B+Kv5IQVmausKTx4a+eQZFmSGLDdPQF5zQmTRvrxSB0J/5kEoRjd+KMfa1/AZ6SEUc=",
-  "createdDate": "2025-05-25T21:38:51.851Z",
+  "createdDate": 1748209131851,
   "descriptionMarkdown": "A conditional decrementer/jump for a 2-register Minsky Machine.\nThis blueprint is for the second register (B).",
   "favorites": { },
   "image": {
@@ -14,7 +14,7 @@
     "width": 0
   },
   "imageUrl": "https://imgur.com/H6vB2Jh",
-  "lastUpdatedDate": "2025-05-25T21:38:51.851Z",
+  "lastUpdatedDate": 1748209131851,
   "numberOfFavorites": 0,
   "tags": [ ],
   "title": "Minsky Machine B Decrement"

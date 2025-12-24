@@ -4,7 +4,7 @@
   },
   "authorId": "nApcf3ORtlMklhR78e4uj2J4BZE2",
   "blueprintString": "0eNqlVFtu2zAQvEqxQL8qBSL1cK3f3CC/QWBQMlMToEiCDzuGoQPkILlYT9IlHViqrSJN+yNoVzuzuzMiT9DJwI0VykN7AtFr5aB9PIETPxSTMeePhkMLwvMBMlBsiJHTktncMMUljBkIteUv0JIx+xBp2ZbZGYaOTxlw5YUX/Nw6BceNCkPHLZJeoEYfuM3dQfh+h4RGOwRpFVshUV7c1Rkc8YXc1ciPq3ir5abjO7YX2sayXtg+CL/Bb9sL9llY5zc3Y++F9QEz086pIn+AM7nzLIpG6mbVNGXRlDE7GGaZj83g5+sbjOdSxfvYzEV2Eh+Wb+erCowi/H26GJLxCbH3obiuqzI4CMvTexG1uw/kumb1e80YbblSlV7WYn0fhiDT1DeikrmmCzTlRGOF3w3ciz5HGTqhlgnLjyyaeCaX3P/bVK3rsqbf1xlow9GiNBF8Q5gO3oTPEf+7rXSm4WQz/ft/YsmEahpxYFLmXOJgFo0wWvKFg1IlD4olqvrqnN6CSQKTJXCzeD3cUNA/M6w+t8llETwG6ZZpZ9dZBpJ12L+Fh7jKF1IUXzG559YlhqaqaLMuK7qi4/gLsYKukw==\n",
-  "createdDate": "2019-03-30T22:39:22.475Z",
+  "createdDate": 1553985562475,
   "descriptionMarkdown": "Clever Radar setup that turns on _only long enough to get map coverage_. Then gets powered down only long enough _not to lose_ the map coverage.\n\nAverage Radar consumption ~45 kW.\n\nCreators: [Lav](https://forums.factorio.com/memberlist.php?mode=viewprofile&u=38997) and [DaveMcW](https://forums.factorio.com/memberlist.php?mode=viewprofile&u=1868) \nNot my idea, found on forums:\nOriginal source: https://forums.factorio.com/viewtopic.php?t=53659\n\n",
   "favorites": {
     "H99DxSEod5X7fPcc5DV4mypq9K13": true,
@@ -49,7 +49,7 @@
     "type": "image/png",
     "width": 517
   },
-  "lastUpdatedDate": "2019-03-30T22:39:22.475Z",
+  "lastUpdatedDate": 1553985562475,
   "numberOfFavorites": 34,
   "tags": [
     "/general/compact/",

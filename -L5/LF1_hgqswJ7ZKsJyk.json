@@ -4,7 +4,7 @@
   },
   "authorId": "rEuvuuVHTxbuiTMrKXMaONw8c5N2",
   "blueprintString": "0eNqdlsGKgzAQhl+lzFnBjKm13suyh+4LLMti21ACMUqMZaX47hsr23ZLSp2cxNH5J//k08kZdqoTjZHaQnEGua91C8XnGVp51KUaY7ZvBBRwksZ2LhKBLqsxML0Rb2GIQOqD+IGCDREh8/0uE0mZH3eZKSlzc5fJh68IhLbSSjGZvtz037qrdsI4O7fsqlQqFkrsrZH7uKmVcNJN3brcWo91nV4SQQ9FzPgwLulBC69anatujqZ213gnlH0utHRrPUjjil6e8ejPndRNZ8FTJb1Wua61klrqY3wwUqnnpfChlEebU7VjnMTX/7XRo70M6E7yrDt1Z5+0J6Na8DvIPNIruoM1eXvzICBzH4/rQFKy16CwJJSU9DUpjNEbzemkMAxEJX2NCkvpFlIyK4wHwYI+WNgyjJZkBixZICxzWKF/lBiASh6GyhxS1mQDdFAwCQHFP+RYGCczfiqIgZzMmD5I/yBzOifIwziZMXyQPj/pwwezEE7cmPZprcJAmXNOwZzcDPZyQriTorSicpHbeTkCVTpVF9uURvWLN1d0sZV67MVJmHbaLs5xxdIkz10jfgEvFdA0",
-  "createdDate": "2018-02-14T21:37:22.847Z",
+  "createdDate": 1518644242847,
   "descriptionMarkdown": "A tileable array of miners using small power poles and yellow belt.\n\nIt is impossible to fit any more miners in the blueprint, as I use one square for a pole, and two undergrounds to send the ore away. The rest are miners.\n\nAs you get later in the game, you can upgrade the belts to blue, and put modules in the miners, and it will still work fine.\n\nIt’s easy to place as well, because Factorio refuses to place a miner where there isn’t an ore patch. This means you can tile it easily without placing miners where ore isn't.\n\nAn adaptation of this blueprint for early game:\nhttps://factorioprints.com/view/-L0AA-VH9GlXbgWAffhU",
   "favorites": {
     "CBF79Lc1P9P5dAXMNGLWDotAaRu1": true,
@@ -90,7 +90,7 @@
     "type": "image/png",
     "width": 630
   },
-  "lastUpdatedDate": "2018-02-14T21:41:06.937Z",
+  "lastUpdatedDate": 1518644466937,
   "numberOfFavorites": 75,
   "tags": [
     "/general/early game/",

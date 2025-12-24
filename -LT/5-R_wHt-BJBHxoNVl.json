@@ -4,7 +4,7 @@
   },
   "authorId": "wavzxQni1sZGhbyTS266PA4uKRr1",
   "blueprintString": "0eNqdUtFuwjAM/Bc/B0SLGCzanyBUpW0AS61TJS4aQvn3Oc2EEFs3bS+Rk/h8vrNvUHejHTwSg74BNo4C6P0NAp7IdOmNr4MFDci2BwVk+nQbxrrDcLZ+wd4gLQK7AaICpNa+gy6i+rVEBjZuJLb+AVvGgwJLjIw29zJdrhWNfS2Zuvi5CwWDCwJ2lKil4ErBVU5haNHbJv+8KAhscgyQ2n1iKWca/VK+WG4ywXIjFGIge9dVtT2bCzqfko7YCXLG1wt6HuVl3pcpnGTf3T1kJspqQipXpOPkraVHz7AFvZb0+I3C9RPl3c15jYt5kQ36ZkSu5K+9Q4/oA1f/0kwynk/ZjesH4w0nIniD+Bfx5SReNmpaPv2w7gouMpS8DLttWe6K19W2jPEDIFIMCg==",
-  "createdDate": "2018-12-07T00:12:03.554Z",
+  "createdDate": 1544141523554,
   "descriptionMarkdown": "Using the Train Supply Manager mod this is the setup for always calleing one train.  A train in the station counts towards the number, so a new train is not called until the existing one departs.",
   "favorites": {
     "fSogiiSwkFS9rANVMlhtEAuE9772": true,
@@ -25,7 +25,7 @@
     "type": "image/png",
     "width": 224
   },
-  "lastUpdatedDate": "2018-12-07T00:12:33.396Z",
+  "lastUpdatedDate": 1544141553396,
   "numberOfFavorites": 10,
   "tags": [
     "/mods/other/"

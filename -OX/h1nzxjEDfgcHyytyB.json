@@ -4,7 +4,7 @@
   },
   "authorId": "JcOZPtlw1PVTb0Ltl8rseMgkCCV2",
   "blueprintString": "0eNrtWt2O20QUfpVoJCRYjbf+zZ9YLnmJKLLseLIZ1fG443G2q2ol2ghakIDlpqLSInFRCW7KFQguQLxL03bLFa/AGXtjZxPnx7QOW+GNtJqMPd+c75wz9jmfcg+5fkxCTgNhu4zdRt17+UyEur2Fr/IaHbAgnY7oceD4ci5wxgR1kRNFZOz6NDhWxs5gRAOiGOgMIxp45C7qame4YFEIq+iEKCFnE+oRrgxGJBILy/SzPkYkEFRQkm6cfDm1g3jsEg64ODOAUzEaE0EHyoCNXRo4gnGEUcgiWM0Cua00RO1gdIq6iqa1Dy3YyaOcDNIbNB0jYCg4822XjJwJBQRYlkPbcNlL4CJ5YUh5JOycljgNpSkTykUMM5lt6R0KAcdIchGRMBIrEo70rIURCwl3UjPQAaxksQjj0tjwh1d8pOONQSpy0aE1d1Jz2UntYh8NKB/EVNgkcFyfeKgreExwNp35rchtWTZwGAhIA1V6KXePrqry61jeIIPaRc8/fypv8dkxja6FZQM85SxQjonDlZMRIf7SFksbfJjGSdjAm0rHp3Q4cTwb3MeJR0lyRObz8i57SAMajYi3e9gAiQQQtznEkhsy5DuwGGIKlwPGx460fiXORgbu0Sj0nVMldALiFwW4nQfYTAJcFNLMkPTkvVEINVVdCeJHyUEfpIDFAILchcWoNwTzjjwydGJfKB51IPCKGwvBgn5vwHzGj1SsWxZW+88f/9D4OPb93q1kvt+7Jdf2E3+9EYNOxQSaZsbgYaOjvvfWCbQrJqDp7YzBZ412BQxaVTPoaBmDTxutChg098qgWQEDq2IG0vo5g2nDqoCBuVcGZgUMjD0wkJkkGTxoGBUw0PfBAJ5HKQO9AgbaHhioif33G1oV9u/D+L9//7NhVW/7USWOv/i2UeD3PoA5/olzGtnRiJ2kBWBBMWZmxZgb+7cVGkSEgzVbqu31xViZ+nq5ki1qCqyd7dPUZfsWu4EC6GYGPQ/Zlo5soRo1dmw3ovR6dH0MVeq838SQVX5Wu+azBemB0Up1vZJgciJOcg8yoF/o0Rbe0tZuDr2xNfRZjPMkGDp+RIqMaWfGcHInht03WLEY4O1WjJlHbDa0FxpWDW+3Ec8NsbO4rImcbPkFd6KRHTDZf6Xme3mrdQXD2dh24+EwwUpOoVx5Aqkj8XpQCMlPH8PIxO1kpGMNN7EGIyMbwX/cghGsXWp4rlq3K5fi+aCLrLyNe/HHxatH55c/f//qu/PZ/Z9efvLl5VcPkyfc1WrqLd/8+sdnLx88gVm4tCYRlWvHeXt2ni1suGouvGyXbXjx2xd/PTmH2YnDqYyT7EjRRpSkg4OJIdgQ+06yAE4qCQnETZ6M+YNwLUJnBeBAPeyUBGkXgbRLgrSKQFolQZpFIM2SIFYRiFUSxCwCMUuCGEUgRkkQvQhELwmiFYFoBSBwZKkgY/kOy1RKjHzHJVBGoNn02Wx6MZtOZ9NHs+nXs+nj91//8vQDmfRwwpOzZTX1jtnpWC3DMsyWnuuOqjSwUukzfXLtQ/DUjLVa3n8meGrqzVI85XtvfY1TK57vvOKp6XmA9VrxrBXPWvGsFc9a8awVz1rxrBXPWvHcr+K5WG3rN1HxNJft21nxvNbWbWau/XvBb3cxrSoZtAPv9VQJ3SSE7qb/Ltbm2rur/5aSXM0yefCuS66tTHJt7Sa53gDRVFNLiLy15lprrv8TzXVjsjWXQELVjg7M9tuQbi9//WY36VYrwlaSX7fmGzRWd0B4k8bLmctCxsVWXXcu0ClyxXVlF5fXjo01P5u9Vuld3WtK4g483SfEnsvYGxx29g8p/woz",
-  "createdDate": "2025-08-15T09:24:12.854Z",
+  "createdDate": 1755249852854,
   "descriptionMarkdown": "作成設備、作成上限、作成素材の倍率を入力するだけでロボット用のハブが作れます。<hr>\n作成した後に入れるチェストを赤チェストと緑チェストのにパターン用意してあります。<hr>\n作成済みの設備が作成上限の何%溜まっているかも表示してくれます。",
   "favorites": {
     "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
@@ -16,7 +16,7 @@
     "type": "image/png",
     "width": 0
   },
-  "lastUpdatedDate": "2025-08-15T09:24:12.854Z",
+  "lastUpdatedDate": 1755249852854,
   "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/",

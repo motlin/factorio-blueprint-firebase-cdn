@@ -4,7 +4,7 @@
   },
   "authorId": "4POMqXHwmtatNNqubcNRuFoCYml2",
   "blueprintString": "0eNrdWttumzAYfhXka6iwMZDkMhfTbqo9wDRFpPEqq8QgDlWjinefSdSELiT+f8CjWqQIYeDzMd/B5J1s01rkhVTVZptlL2T1fikpyepn57S9Jp8ydSou5bNK0rasOuSCrIisxJ64RCX79qwqElXmWVF5W5FWpHGJVDvxRla0+eUSoSpZSXFCOp4cNqreb0Whb7iF4ZI8K/VjmWpr1VAec8lBH6hG38lCPJ2usca9AmVn0DJPZVXpsis4/4TmP4RmvADeSHqCZU0PDEfD0D6YEAxDwSMWYacBgBljMX0z5gI7hIB2LsGYPhSS+th2AvpOKXLiIQ1lSExIOwPsxDMAKPrHAwENkVMPwYyQI3qFqRnzyK6rDhm7JE00iC7jD85jIpWzrkvHc77VaeqkUgl9x6soyiNExDmLAq4/ywsT+21b52P320R85joIEzMbchFYIFSOXFn9ihFOLGSRBfqMLVDdwoIcLS3IEYLn4ZRMLVAys6BxgQ1G5ja0IxxLyaNo3h9P89+T9DeM5qkVmneND5/56fIYm9n7jyHeAItC7xv+Wg9J8Vxk+mi0/J+76J7HW+V1Oyt3RMJci6mSrK5u1BJh+tJPoOauxBZ4fwHWUJADwaYFv7mvG0ZjBBJ2y9kAurB8/Lr6L9PCBM7+Ue52qUAwP5vX4AN5Mmj+vaufKHtwCzFhPoN/T/1ibE//WunRl9u5gcvF3Fs3iPAx794NXEe4hfAR2iD4yIYUxRbCx2KW8OH80N9S7sTOKEbBV4oh5seu/E23J9OlmKCXLYe+wfA4QryGvML4BMrHvdBg4K6HI8VnnCzC2xkDpihAzBAkp3ysIB+XVIxrCJYx5lZGuK1CRZfBabUjluBaBuR7ysfpPJ8iy/RvcHQUcxr/2lFL85CywZlzga5lyJYJXYIpAjQ4zMdKDWS/jOKNeR8Ms+DFmQU3yjhSC+gY78TfuLNO0kQ9Hef+vmnifdDe8Y8aF/x1UgpPKi/x1vqC06lO35ToRr6KzccrvxsVNn8AJKZH0Q==",
-  "createdDate": "2017-07-11T13:55:27.695Z",
+  "createdDate": 1499781327695,
   "descriptionMarkdown": "Sample Blueprints of how to split of the Main Bus and how to balance it\n- Full line split\n- Half line split\n- Middle half line split\n- Half line One sided split\n- 4x4 balancer\n\nThis blueprint is part of the \"Base-in-a-Book\" Tutorial series by Nilaus: https://goo.gl/rGdWWV",
   "favorites": {
     "gdstRP495uYFFEiJBS6Fh0Aoaf93": true,
@@ -159,6 +159,7 @@
     "hGqyaEOhkGPS7gjjmImGE4rGmD62": true,
     "kJ1Eg3v7GzUFDx8nPcgSV6kqQMW2": true,
     "7N2X7HnNLFhOMRi1F7Dyq0hnEDL2": true,
+    "6ojAPCoTRteZTla8brLY0De0gIa2": true,
     "PXNkjxpQXwY54ZrfRoH0QCsuOxX2": true,
     "J6MZ7tkBRjROOAIB949vCOgDQlT2": true,
     "baSH3cg98OZu3Rtv9JVWHeOh2Yn2": true,
@@ -847,6 +848,7 @@
     "PQxYLq2EVrX94bnLpLvDwwfYeag1": true,
     "bFEGUZKtF7MVSHs1hii9gzeEYKd2": true,
     "4rU3REYQF0MTC9yvfbbte6rxad83": true,
+    "NvkHp9g9UJdIDJN4qvlYwlRYj3m2": true,
     "Q4JYk2nLp7UwiM5zhuQvFrwDPo42": true,
     "cDxhXQxDyDRExy5cCiDfXfKIsNH2": true,
     "UofLAuf9CebjwNQxx2dj7iw6MQJ2": true,
@@ -1029,8 +1031,8 @@
     "width": 1373
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4.%20Main%20Bus.PNG?alt=media&token=22d4e85e-864c-40a4-81bb-42cde148fbfc",
-  "lastUpdatedDate": "2017-07-12T23:19:17.726Z",
-  "numberOfFavorites": 1013,
+  "lastUpdatedDate": 1499901557726,
+  "numberOfFavorites": 1015,
   "tags": [
     "/belt/tap/",
     "/belt/transport belt (yellow)/",

@@ -4,7 +4,7 @@
   },
   "authorId": "0MJlxoHxOfWdp1YWTRqoiQC34Wt1",
   "blueprintString": "0eNrlmMtu4jAUhl8FeR2j2I4Dza5sZtMVzG40QgE81BpwUG4aVOXdx7lQAjWxTVK1VTdIsXP+HDvf+Y/DC1jtMnaIuUiXqyj6C4KX80gCgl+ty3KOryNRDyd8K8JdOZYeDwwEgKdsDxwgwn15FYd8BwoHcLFh/0CAit8OYCLlKWd1fHVxXIpsv2KxvOE1Mkll7PY5hZWEAw5RIqMiUT5KKrkOOIIATovCeSOCLUV8lQixFPFUIt7FRsBms95IoDFtRMZUbtaGx2xdT3sKUWqZGVZl5tuJuCqNiZ2GMo+pnYZylx/sNOTrlhRWnAYtrB2wC1dMogwWjYocylmcVPET4qKJTyl+mJ5xdstkBioMRxGS8zjNKmBO66vugE+tSGxeUussztnmxt5AUtNCLgEk/evLvVREncVmVifouk5IZ/F1LrxeN9FB8cT+pKOfWSy0VKAPomL+DlSoofAHh2LSCYUJuERPmaEbuw1l7jVkVIPIvFy1GSP4gxhZgKsc7vIcYhX52Ir0BjsAQK+jeWM7z0P6pmvoUPAmPD0cClWK1MihFs9c/j5qASTfCMDZfQAaoWNwXsM2bxkV98N3Yg9iO/g0lYbNTk0t/GZa/Lwvh9/8k/kf7m9/SOl+tHcrpoO3YnxfKzY1Q/qNaHwPM0RKL6S9GzMa7MvhtS9Dxamuhzc2pxCtObZ51Lujr1KD1R8zZ8kffBuWSY1mYcLXyShHY1dOh3JZOVuevlBvPKr4Dyyv43g=",
-  "createdDate": "2019-06-15T04:51:15.779Z",
+  "createdDate": 1560574275779,
   "descriptionMarkdown": "This is a [Gigabase-compatible][gigabase] blueprint book containing the building blocks of a rail system. Each rail blueprint contains a single track of rail and is half the width and height of a chunk. By mixing and matching blueprints, you can produce Gigabase-compatible designs for many different kinds of a rail systems including junctions, stations, and complex crossings with either left-hand or right-hand drive. This book does not include such a system, it is only meant to provide a small set of simple components.\n\n[gigabase]: https://factorioprints.com/view/-LY5Lm5wbvM1gwtE1cSc",
   "favorites": {
     "ou7Xe1QLsvW84fMfmi21u2wbY6x1": true,
@@ -21,7 +21,7 @@
     "type": "image/png",
     "width": 2014
   },
-  "lastUpdatedDate": "2019-06-15T05:17:28.662Z",
+  "lastUpdatedDate": 1560575848662,
   "numberOfFavorites": 6,
   "tags": [
     "/version/0,16/",

@@ -4,7 +4,7 @@
   },
   "authorId": "15CvaV4JYfMwro6cbAPBLhqs6c43",
   "blueprintString": "0eNrtW11v2yAU/SsT0t7IZsAfcaTtYb+gUqW9RJHlJDRF8pcwbhdV+e+74DlO2lQKbty5jftQHQP3YO7hcgG3T2iZVLyQIlNo9oTEKs9KNJs/oVJssjjRZVmccjRDa74Say4nqzxdiixWuUQ7jES25n/QjOwWGPFMCSV4bW8etlFWpUsuoQFueGIp1H3KlVgdUmFU5CVY55nuEhgZczDagqETfvOgo7WQfFXXuxjBayqZJ9GS38cPAuzBqCWOoHptyEpdcSdkqaJ2QGpb6Bd5EFJVULJ/s7rF5LceV8k1hyYqVax9AwPICy7j+hXQdzDLK1VUFsQ3aAc/+IVvqL1v6H/yzc1p3zjHzvnawTm3rziHtQ3TOEkmSZwWJzxCwRO1TwgxPjnlhZWQq0qo1gVWHriPCw6yyIybmd8O39EPaRFLo9YM/dTVVcmhnySX4GYlK46R5Ovz3fFLc2wk55mljQ5nSxO5WXYaPwwuSvM1VFJ4jpPHeFtG2ql6vCekdM+TkpG9lE6fUqrrVVF1E9A7U0BnFHCYAvpnCkjfczGd0GtfThsP2MoZWOdGOubGYebGqXVuZL1KKfOyvGIl2+HbChla58hRyEEKqQ81lsmSjslyuMmSEOts6b2Dnu7V6+l21JNa6+mOeg5YT2a93r5HfLKr15N11NO11tMd9Rywnu3tz4lPAa/f35PgzDvqf6zPLqgPn+bW99W3x2rTZ2r/QHqgb+NkPXC6PXB6PXD6PXBOe+AMX3Iumk8Uzz93nX2gKLYwVatMRXcyTyORARea3cVJyQ+7Jn4QBJR4u8XJzxvEtz74+73eqV7zAqk6r42B9al/VHF4Kk47ZrhwOBmOjBlu8Bku+LhZszPnZZLv0Qb2Mvk37Bjz08+9qx36zu6S88m94HyijuV8osPLIePp4yrW0UvOetJx1k/Hu4FxlzNG56m/7blMYNJu2xvqDCcw+wgiOqa4Tx5EFz0lUNYtvw0pjD5KfiMf5LZhzG9vO3XRzvEJ/T5CROle5wQzTDFZ4DkF5BrEMMHeHgUGufsyjXyD4DcmjoHQCIcGTY/Qv2oDa/JQw7pHQp7jui/C2uY1rvsjnsZhg9m+vcEhZg2G7bQp9w84pwe2GlPa4NZWYyjXGM6hpOGpMWuw4Wd7zGpMa06DWd2eLcDTQvEUpGv/SwijJF5y0BkFJd+ksFJ+WYuN0BUPXJZmlfN8Grph6AUO9YKQ7nZ/Afjmr8A=",
-  "createdDate": "2025-06-07T07:48:57.768Z",
+  "createdDate": 1749282537768,
   "descriptionMarkdown": "This seven segment display extracts a certain digit from a number, and displays it.\n\nUsage:\n\n1. aquire a continuous number signal, e.g. 3626, convert it to signal V\n\n2. connect V to the input decider combinator ( V / number -> P )\n\n3. set the number that is the devisor of V the digit you want to display.\n    example, you want to display \"2\" (tens) from the number 3626 -> set the devisor number 10 -> ( V / 10 -> P )\n    display \"3\" (thousands) from the number 3626 -> set the devisor number 1000 -> ( V / 1000 -> P )\n",
   "favorites": { },
   "image": {
@@ -14,7 +14,7 @@
     "width": 0
   },
   "imageUrl": "https://i.imgur.com/D1I7o4A.png",
-  "lastUpdatedDate": "2025-06-07T07:48:57.768Z",
+  "lastUpdatedDate": 1749282537768,
   "numberOfFavorites": 0,
   "tags": [
     "/circuit/indicator/"

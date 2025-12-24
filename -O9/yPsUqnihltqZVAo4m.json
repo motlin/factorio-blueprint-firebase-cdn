@@ -4,7 +4,7 @@
   },
   "authorId": "i1TO3Arpcra42iTxL1sX103ptQn2",
   "blueprintString": "0eNrdWM1u4jAQfpWVz04V2wkQpN3jvkCPVYUMMWDJcVLb6S6qePcdJzRAa0riU7XigGPG38x84/kJb2itWtEYqR1aviG5qbVFy6c3ZOVOc+X3NK8EWiJnuLZNbVyyFsqhI0ZSl+IvWpIjDojbRknnhLkQpEHBhhtYgGSSXsiyMKirDd+JZLMX9tKE7PiMkdBOOil687uHw0q31RpsWBJ8ww2MmtrCsVp7NQCV0Hz2kGN0gCXL04cctJTSiE0vs/B2fQCnU8CzL8AJIEEAnKnVai32/FXWxp/cSLNppVsJzddKlGjpTCvwsA1HykHLVhrrVmfm3KHxlr1K41rYGUztJRKuD24v9c6T6WPvuL8ILE1T/1z54DhvBPrVSZw0GsHL1Z7r0ut2QAeQvuXKXhvV/dDLVnUJStNjgD02hb38S/YC6NkUdHaNHoDLB7gtty6R2grjL/nX1ygrwmizuIuTLT66ngXA53Ged+ABuAX+lNlBKy9dxqhuXdO6FdSX2gAanDZyt/ep+0lBMYHaCy5mYzKUpAN4CxXD7EwN36O4nnf4pyzq3QlZT84VBiw5bNStSzHgjrCaTqCETaWETaOETafknHu24kolilfNvUzJOuxvUQRpES6CrRWgTdXG9jaEsoXkcVXt5P+92M3icmUc+LlwXLfbO+D53cgNITrHsGsacMyIlxZ0rLZSgR/Wn7K9kX07fx81MBokrnYDswRGLxDrvujo2lRd3K+i+bPbaH2syfEZPiE2FnE5OI7qYgLV7H+nmqYR9YJ9n3rBSKheBD0lkdWBjRpHaSQ6HYXOolspu+wbUt9oGzSLbkwjFeQTRxkanojoLO6lIkvHjG90HhlFMgp9EYk+zvZiJMMXVn9Afa8+N14Ux1Sc4PipxNb72F2OUWMpSyPnaBK+NYxE4gWYh5feP/DsK/QTxRRD66bP+AkGr+s1VNZuPff7Bazh4MBmX9/fk6b05JS32E6uquaIEHgCTtAnAvD7Yon8WybyTkgnKng+/xOBkeLACez9btUOOuOPx9bu5Y/H+tR7X8Huzop8RousKPIsJYSw+fH4D0+2hTo=",
-  "createdDate": "2024-10-24T12:06:11.239Z",
+  "createdDate": 1729771571239,
   "descriptionMarkdown": "Lower input is for use with a sushi belt, and upper output is for the desired item to go wherever you need it. By default it attempts to hold 3k of whatever item is set as the parameter, then the rest is scrapped and sent back out onto the main line. Base products will be looped and voided, any other components get sent down the rest of the sushi line.\nThe two lamps are for warning indication, top lamp is at 2.9k items to show its full, lower lamp is at 3.1k to show a warning that it can't scrap fast enough to keep up with overflow.",
   "favorites": {
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
@@ -43,7 +43,7 @@
     "width": 0
   },
   "imageUrl": "https://imgur.com/95kVoh4",
-  "lastUpdatedDate": "2024-10-24T12:08:05.162Z",
+  "lastUpdatedDate": 1729771685162,
   "numberOfFavorites": 28,
   "tags": [
     "/general/tileable/",

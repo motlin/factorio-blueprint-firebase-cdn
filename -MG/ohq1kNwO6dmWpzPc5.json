@@ -4,7 +4,7 @@
   },
   "authorId": "Van39hhfMBewyp3OnNyYmLCzKGx2",
   "blueprintString": "0eNrFVdtunDAQ/RXkxwq2C8sl4bE/0YcqQsbMhmnBRrbZdLXi3zuG7iVb6CZNlL4g28ycmXNmPD6wsumh0ygtyw+sAiM0dhaVZDn7whsuBRjP1uAJJS1Iazy19eyT8nj1nQs68J64hlr1BsyK+QzJzrD824EZfJS8cah23wHBoYWWLCRv3e7kFpTcoGAD+coKfrI8HPyb3sZy8SPYYmNBBygNaFpcYETvgLF5AcYyi3h48BnpgxZhEmTc7AvZtyXFycNFEJ91yuBUhAMjrCBeZz7b0yKJUgpBGksQzsA4i9B9HjWAvIyDFcvT4WEYHI2r2NGrYq//KXZCtqhFj3bchgupbG7UYy6hzSo5pnS3SiipCvWU00jNtapWTVFCzXeotHM8ptKqCgq1LVQHmk8e4TnRmsuq0MCr0W5sxZcTjp8TjhYIxyfCXKOtW7AoAqHaEiW36ibhbJgneAYr6HeFp4S3qI0t/ujjHWrb08lZ/tEiAC5q18YGHIzDorq46RBElPmFbOwz+aredv2r0YcFWTVUMx3sL/e2z6LFcmwW9E/epn/83/QPn8v/6d3ln5UxOss8X55ZkdO33erk+lanH3GrZ/jF10PM/9uMixab9doxnhuO5Dy+LvnFo+yzhpdAtWVfj5Pa+/0uOxV3oM009u7COIvvszQL12mSDsMv2OavoA==",
-  "createdDate": "2020-09-09T21:13:29.085Z",
+  "createdDate": 1599686009085,
   "descriptionMarkdown": "Balances the contents of two adjacent warehouses.\n\nEdit the top combinator if you use a mod to increase the inserter stack size limit. Blueprint has `* / -24` for a vanilla stack inserter maximum of 12.\n\nWill also work with other mods' warehouses (Bob's, Py, etc), or even any other two-tile chests if you rearrange the inserters to be adjacent.",
   "favorites": {
     "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,
@@ -19,7 +19,7 @@
     "width": 774
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_blueprint_warehouse_balancer_0004.png?alt=media&token=b35b02cf-591e-4cbd-9db5-b0855fc0b6f1",
-  "lastUpdatedDate": "2020-09-09T21:43:18.380Z",
+  "lastUpdatedDate": 1599687798380,
   "numberOfFavorites": 3,
   "tags": [
     "/mods/warehousing/",

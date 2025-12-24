@@ -4,7 +4,7 @@
   },
   "authorId": "CIOuMG6EpTclW43KO7jIkXKzj8o2",
   "blueprintString": "0eNqVlN1qhDAQhV9F5lrBqF13vVwofYhSSnSHNqCjJLFUxHfv6Ja2sNmaXIXJz5eZc5iZoW5HHLQiC9UMqunJQPU8g1FvJNt1z04DQgXKYgcxkOzWyGpJZui1TWpsLSwxKLrgJ1RieYkBySqr8EragumVxq5GzRfuMWIYesPPelp/ZVSSxzDxkjH9ojQ21zMOb6BZMFQsDkz+g6lHTagTRQa15aNbjviHU/inI5w1Fg7ogz808xbuECpc6qq3DKU4VTsGqy/2VTuFWpHuiyZSb6g/078vUm+mf1tk3sw81OvM5bUoAszOvjn7yf32iNI9Jc07mvtOc2I8q7a5Vv0ZgzG0kgvivUep2yl6YmB05gqjs2wlNVuKH6jNBizzVBzz8iBOxbJ8AeQ3xCI=",
-  "createdDate": "2019-07-31T11:51:37.594Z",
+  "createdDate": 1564573897594,
   "descriptionMarkdown": "A little design I made while trying to figure out how to make a load balancer in early game on a new world.\n1. Place down the blueprint and assemble the parts\n2. Put the items you want in the chest (leading to a main bus, boilers, etc.) or have them filtered in from another chest or miner\n3. Profit! You now have a load balancer without the use of splitters and the like. Enjoy!\n\n(Personally I use this for my coal line, so the burner inserters can self fuel. You can replace the burners with electrical powered inserters if you like, for other things)",
   "favorites": {
     "xUKUZVOuWERQlRnBnE0wJdd7K9F2": true,
@@ -19,7 +19,7 @@
     "type": "image/jpeg",
     "width": 1920
   },
-  "lastUpdatedDate": "2019-07-31T11:52:40.266Z",
+  "lastUpdatedDate": 1564573960266,
   "numberOfFavorites": 4,
   "tags": [
     "/version/0,17/",
