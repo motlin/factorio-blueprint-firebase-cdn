@@ -7,7 +7,6 @@
   "createdDate": 1554431345573,
   "descriptionMarkdown": "A city block from Nilaus's welcome to factorio series filled with solar panel and accumulators. \n\n664 solar panels\n\n559 accumulators\n\n1.1878 solar : accum Vs 1.1905 ideal\n\nThe bot network isn't perfect, but it should tile well if you pay attention to the rotation. (one corner does touch the next)\n\nYou need a radar about every other city block, so there are radar and non radar variants.\n\nExpansion variants are for bot build-out and have the minimum power grid and bot network. I should remove lights from those too...\n\nNilaus is keeping his blueprints on his confluence website: https://nilaus.atlassian.net/wiki/spaces/PM/pages/894369794/Factorio+S27+-+Welcome+to+Factorio",
   "favorites": {
-    "dVyevTaCF7bV2uZOKqX1Lz4jDu12": true,
     "hd2q4QDHOoOmMuc7Sr9iHsPfrD02": true,
     "55PTP6BaNGWGoSPnJH5gooDk9pq1": true,
     "RxqXYaITWjSHdLWqZeNC8nDXknv1": true
@@ -20,7 +19,7 @@
     "width": 1121
   },
   "lastUpdatedDate": 1554431345573,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/vanilla/",
     "/power/solar/",

@@ -8,7 +8,6 @@
   "descriptionMarkdown": "This is a tileable solar radar array blueprint that allows you to cover an almost-maximum amount of area with radar coverage. While a very slight improvement in radar coverage is possible it would not be tileable. Use this to cover large areas of land with radar coverage to observe biter expansions in areas you haven't yet blocked-off with turret coverage. This blueprint exists in a 1x3 format to simplify expansion, simply place the blueprint so the central radar overlaps onto one that already exists and move either north or south to build the next radar in the array.\n\nThis blueprint is intended to be combined with the \"Vanilla Tileable Solar Radar Array 3x1\" blueprint, neither of which should be rotated if you intend to retain the ability to tile them. Link below:\n\nhttps://factorioprints.com/view/-KxzU0RyLSljy3GOlDUc",
   "favorites": {
     "0Ek4cFDzYNgH7ScHN24KOo0foRu2": true,
-    "x5uIm5hbtpY7qla4NcIwUT4ffua2": true,
     "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
     "M0lsezyUlFNrw5YP93viX8uyBMD3": true
   },
@@ -20,7 +19,7 @@
     "width": 498
   },
   "lastUpdatedDate": 1509714028902,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/tileable/",
     "/mods/vanilla/",

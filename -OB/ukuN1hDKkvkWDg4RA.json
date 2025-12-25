@@ -7,19 +7,18 @@
   "createdDate": 1731857720945,
   "descriptionMarkdown": "Tileable cryogenic science for Aquilo\n\nEach building produces up to 0.62/s with +80% production",
   "favorites": {
-    "b36X8IK0l2Tgl1Uvd4SSszykb5k2": true,
-    "fNdd8qE2wecgn6If2ooiunqwtsC3": true,
-    "xMUFINAX04XiVyHcTOFAdyrDlUt1": true,
-    "oYMP8g0fHERU718uu2yQLbBjkG23": true,
-    "alp6VSzGVmTNholTLDaZFFANeyP2": true,
-    "FqFYb3qb85YNxVpqt4x3AM8aTkT2": true,
     "9dyl2G4vrpXFcZjhozx3idzIIx32": true,
     "W8PRLHP70XfHLC6ssogMxzwVzNs1": true,
     "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,
     "XpW4mF3DqhTkFR1oCcRy45KCDzb2": true,
+    "fNdd8qE2wecgn6If2ooiunqwtsC3": true,
+    "xMUFINAX04XiVyHcTOFAdyrDlUt1": true,
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "QUM9TtUvsnWwqJOc58IiQKxCYER2": true,
-    "RGcy9OtUrZMEodlGTupgOCchNDp1": true
+    "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
+    "oYMP8g0fHERU718uu2yQLbBjkG23": true,
+    "alp6VSzGVmTNholTLDaZFFANeyP2": true,
+    "FqFYb3qb85YNxVpqt4x3AM8aTkT2": true
   },
   "image": {
     "height": 0,
@@ -29,7 +28,7 @@
   },
   "imageUrl": "https://imgur.com/6hQTXRu",
   "lastUpdatedDate": 1731859086938,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 12,
   "tags": [
     "/planets/aquilo/",
     "/general/tileable/",

@@ -8,7 +8,6 @@
   "descriptionMarkdown": "Central Nuclear de 2 Reactores con sistema inteligente de dos cotas de vapor (inferior y Superior) y entrada en Stand By que permite el mínimo  de consumo.  \n\n*Alarma de baja cantidad de Agua  \n*Carga automática de combustible al reactor aun desde el inicio del ciclo.  \n*Indicador de entrada en Stand By.\n\nPotencia Max: 160MW  \nStand By: Cota inferior: *8K<vapor\nCota Sup: *20K>Vapor *Estos valores son configurables y fueron seteados en base a un consumo promedio del 80% del total generado (130MW)\n\nCréditos:\n\nIdea Original: Fmillo  \nDiseño: Fmillo/Uriel  \nProgramación: Uriel  \nTesting: Uriel/Fmillo",
   "favorites": {
     "fCpTebjOEPhZAup9FUxwnJnNjYf2": true,
-    "0SuW0de3uFaGqkuxpaFptB9mFqq2": true,
     "ranfRMAo7mOt6fHVhhYvFtEjm7a2": true
   },
   "fileName": "Central nuclear.png",
@@ -19,7 +18,7 @@
     "width": 852
   },
   "lastUpdatedDate": 1601047190573,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/version/0,17/",
     "/power/nuclear/",

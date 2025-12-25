@@ -8,7 +8,6 @@
   "descriptionMarkdown": "THE BOTTOM LINE OF INSERTERS AND THE DIVIDER ARITHMETIC UNITS NEEDS TO BE SET TO THE ITEM YOU WANT TO STORE!\n\n\nBalanced mass storage buffer. There is a non throughput limited 8-8 balancer in it so when there is no input to the storage the output is still maxed out. If there is no input the belts are halted so the inserters wont work needlessly, only when it has to store the stuff. Each column of chests will contain equal amounts of stuff. The output is compressed and balanced too. (The inserter circuit idea comes from Madzuris smart loaders, with a few tweaks)\n\nStorage space: 614400 (if the item stacks to 100)",
   "favorites": {
     "VROz9oPGcBS5DAE3KTBhp2HS3Uj2": true,
-    "1mWNpXvBKWel5dpejdaG7pdDQbs2": true,
     "wM6YQykFLSUdasCqgXHvfVXeTau1": true,
     "1eUO2n4OtqgqbxyABQESOiGL69Q2": true,
     "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
@@ -119,7 +118,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/2017-05-04%2010_00_48-Factorio%200.15.6.png?alt=media&token=5ad4caf9-ce26-4155-8ecd-8909cff5de99",
   "lastUpdatedDate": 1499900753403,
-  "numberOfFavorites": 102,
+  "numberOfFavorites": 101,
   "tags": [
     "/general/storage/",
     "/mods/vanilla/",

@@ -8,7 +8,6 @@
   "descriptionMarkdown": "This book is the outpost pickup and drop off stations that I modified from the YouTube video by Infer A Good Time\nhttps://www.youtube.com/watch?v=h5jFUncUZCU.\n\nFeatures:\n1. It is completely self sustained it will make sure the train only contains the requests and no more so it is efficient for cargo space.\n2. Has a display indicating what items are missing so the station can be enabled.\n3. 5 chest buffer so it can handle filling multiple empty trains.\n4. Has second wagon as a fluid can be any fluid but will require changing the Arithmetic combinator (located to the right of the station) that filters out the fluid signal from the train.\n5. Indicates how many trains can be serviced at a glance.",
   "favorites": {
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "qRJbA4lnZWfSAwCnPfNCiMRJ9U42": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true
   },
   "image": {
@@ -19,7 +18,7 @@
   },
   "imageUrl": "https://imgur.com/AtuxeqX",
   "lastUpdatedDate": 1735793110262,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/train/loading station/",
     "/train/unloading station/"

@@ -8,7 +8,6 @@
   "descriptionMarkdown": "robo rush but it's SUSHI.\n\n- will slowly produce robots and feed them in your network.\n- only requires basic materials (Iron plates, Copper plates, Coal, Crude oil, Water)\n- has fully beacon + module version, with an update planner. (produce a handful of robots per minute when updated)\n- sushi belt is managed by circuit network. everything added/withdrawn from the belt tracked.\n- pipe spaghett' will ensure no deadlock comes from oil processing\n- does NOT require more than necessary blue science\n- have a special \"build-it yourself\" chest that contains all necessary materials for crafting modular armor + 11 solar panels + 3 personal batteries MKI + 2 portable roboports\n\nnotes : \n- do not feed the sushi belt until the blueprint is fully built. otherwise IT WILL NOT WORK :)\n- use of separate power (solar) for combinators, they are sensitive to black-outs, do NOT connect them to the power grid.\n\n",
   "favorites": {
     "rOf2UdMQ2fOUVMX2Pf6mzRQmbx22": true,
-    "eJU58zAmn2bNmzq1KbVvlKmXy9a2": true,
     "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true
   },
   "fileName": "Untitled-1.jpg",
@@ -19,7 +18,7 @@
     "width": 1750
   },
   "lastUpdatedDate": 1622130947086,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/production/robots/",
     "/general/beaconized/"

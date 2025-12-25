@@ -8,7 +8,6 @@
   "descriptionMarkdown": "Uses 'Bob's Adjustable Inserters' mod.\nWithout the mod some arms wont place items on right side of belts or reach at the right angle causing blockages on belts.\n\nFully Solar power budget Space Platform for cargo transport between all planets including Aquillo.\n\nProduces its own Rockets and firearm ammo for turrets. Giving it the ability to stay in orbit above any planet (Vulcanus Foundry required)\n\nBuilt in emergency ammo backup system installed for rockets and firearm ammo. Will only use stored ammo if production belts empty out. So should waist less ammo and resources from planets.\n\nIf used as an express space platform for automated travel between planets add a ammo request section under logistics to support current production or add wait conditions\n\nSince it doesn't use sushi belt, please note it does take time to get it to function at 100% but once it does you never have to worry about it.\n\nIts deadly with a ton of cargo space. \n\n200km/s (Experimental speed take care)\n\nIt's a large ship and can take a while to build if preplaced cargo expansions were not added.\n\nNot added to blueprint but some mods to think about \"MK2 storage tank\" and \"Solar productivity research\".\nGreat mods and compatible with the ship design.",
   "favorites": {
     "BMbr3u14ITaxo16fWERJChsrR3f1": true,
-    "f7NhGtgxrqhTGezlKCR5JgDX54U2": true,
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
     "oLrbxQYm3NM576lxxSmxHbjKcEE2": true,
     "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true,
@@ -39,7 +38,7 @@
   },
   "imageUrl": "https://imgur.com/s8masxi",
   "lastUpdatedDate": 1732608546373,
-  "numberOfFavorites": 23,
+  "numberOfFavorites": 22,
   "tags": [
     "/mods/other/",
     "/production/guns and ammo/",

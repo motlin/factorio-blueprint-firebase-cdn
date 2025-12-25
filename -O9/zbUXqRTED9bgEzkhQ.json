@@ -8,7 +8,6 @@
   "descriptionMarkdown": "# Most important info:\n- Produces 0.75 Engines Per second.\n- Can be tiled up to **6 times**, before it runs out of iron plates.\n- Can optionally act as a mall\n## Requires (PER TILE)\n- 0.15 Red belts of Iron plates (4.5/s)\n- 0.025 Red belts of Steel (0.75/s)\n\nYou'll be asked a question when placing the blueprint. This will determine whether or not chests are filled to be used as a mini-mall for early game. You would only want it to do that on the first tile, since otherwise, every tile would have a full chest of Pipes and gears which is why it uses circuits to determine this.",
   "favorites": {
     "Gkqn7lcP2KNC8t1ADBgjXdZrmmo2": true,
-    "Yw2jyiwSvJVh9PayVeG70c2N9PE2": true,
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
     "mtdraQ8BDGXsxRX0lGKe4uPM25F2": true,
     "vnMibAlJ4Yf26PY2ak6VPs1VHoJ2": true,
@@ -22,7 +21,7 @@
   },
   "imageUrl": "https://imgur.com/kW6R2IB",
   "lastUpdatedDate": 1729848277447,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/tileable/",
     "/version/2,0/",

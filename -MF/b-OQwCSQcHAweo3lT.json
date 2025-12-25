@@ -8,15 +8,14 @@
   "descriptionMarkdown": "A 2 to 8 lane upgradeable RHD Train blueprint book. All blueprints fit on top of each other so you can easily upgrade a 2 lane to a 4/6/8 lane and use the new global grid so are easy to fit together!\n\nIncludes;\n* Straight\n* 4 Way Intersection\n* T Junction\n* Turn\n* Y Split\n* Lane Interchanges\n* Lane Exchanges (2->4, 2->8, 4->6 etc)\n\n*I personally don't use the Interchanges but have included them for the sake of completeness*\n\nThis is a RHD drive version of Kyosuta's LHD system from Reddit (https://www.reddit.com/r/factorio/comments/80r5ef/upgradeable_train_tracks_from_2_lane_to_8_lane/)\n\nThere are some signals missing from the 4 way intersection as I found it very very hard to fit them all in for the RHD system.\n",
   "favorites": {
     "ODcanrJ5m0RKMQ4p8mjPnlmsck42": true,
+    "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,
     "qMIRRwuzbfeh9NCKGgpk5IXhOMM2": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
     "3x9Ets1cRiT92sqqLVFTZryVdgA3": true,
-    "efnb9hghA2aQNZQ7fB9yZGGR2iS2": true,
-    "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,
-    "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "PWNw36Xw0gVEyy3IPRDB2zugjW62": true,
+    "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,
     "FxbA3iMZAxhvQmd4M4n06qkN2UV2": true,
     "J7isgknfXIMeIKxYRR0jCo6rhhC2": true,
     "5IwoeIhvzQdgPZ3KnDT2PbUV4VF3": true
@@ -29,7 +28,7 @@
     "width": 825
   },
   "lastUpdatedDate": 1598459372321,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 12,
   "tags": [
     "/train/junction/",
     "/train/track/",

@@ -7,18 +7,17 @@
   "createdDate": 1731768515832,
   "descriptionMarkdown": "Launch platform for planetary exploration. Completely independent. Can be in orbit of planets and cope with asteroids. It is necessary to wait for all turrets to be filled with ammo and engines to travel.\n\nUpdate 2.0: Fixed potential pipeline jam and added automation example transfer fulgora science packet.\n\nUpdate 3.0: Using more complex logic with a timer to track when the main pipeline stops.",
   "favorites": {
-    "jUNDG6HxzXMkALg83sBtvcecRXz2": true,
-    "tEeieFObdzXtlRzIPGMN3HlAiqj1": true,
-    "lgxwQedwX6fXnAOiIwUKTVTyYYB2": true,
-    "QpAiNh79AsVkgU31fhrGNOC9Ah42": true,
-    "sYPoawEorIRKVkoqv2mEEe8cD3L2": true,
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,
     "u1H3Ptz9JVRdtL9GP5YBSyE9r5r1": true,
+    "jUNDG6HxzXMkALg83sBtvcecRXz2": true,
+    "tEeieFObdzXtlRzIPGMN3HlAiqj1": true,
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
     "ihUsgcmYdKXuPsKSa1hi9pkjApx1": true,
+    "lgxwQedwX6fXnAOiIwUKTVTyYYB2": true,
     "11o67rL7N1dLaULE2eBjzVXoldK2": true,
-    "pt5kmIRbmDY7yudfyvtadIvyBKL2": true,
     "igxg4cSgC9aRfQi4DSxLB4MdXwC2": true,
+    "QpAiNh79AsVkgU31fhrGNOC9Ah42": true,
+    "sYPoawEorIRKVkoqv2mEEe8cD3L2": true,
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
   },
   "image": {
@@ -29,7 +28,7 @@
   },
   "imageUrl": "https://imgur.com/PfWW6qJ",
   "lastUpdatedDate": 1733341949292,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 12,
   "tags": [
     "/planets/vulcanus/",
     "/planets/fulgora/"

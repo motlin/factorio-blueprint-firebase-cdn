@@ -7,7 +7,6 @@
   "createdDate": 1754932263263,
   "descriptionMarkdown": "This train allows different robot networks to request items from your main base. The train will be loaded accordingly, and each requester filters out the items needed at the outpost. There are two versions currently with two engines or tank waggon.\n\nWhen the train leaves the provider, further requesters can’t activate. If requested items aren’t availiable, the train will wait two minutes and supply what it can. If a requester isn't fully supplied, it will still deactivate until the train is back at the provider.\n\nYou can also call a train to your location to get anything you need from your base!\n\nSetup:\n\n- Place the provider station in you main base, and requester stations in your outposts.\n- Connect all stations with red wire. Define the items you want to request and M value for each requester station at the front combinator (If anything falls below M, a train is requested). Don’t forget to activate the combinator!!\n- The train uses a refuel stop with the new refuel station symbol.\n- The second combinator at the requester lets you define the robot amount in the network and items to bring back to base. By default that's wood, stone and coal.\n- To use the personal requester anywhere you want, connect the provider to radar.\n- The tank waggon can be loaded with crude oil or light oil.\n\nNote:\n\nIf you want to use multiple supply trains (only works in different networks), station names need to be different for each network, or trains will be confused.\n\nIf you like it consider buying me a coffee: https://buymeacoffee.com/jebediah",
   "favorites": {
-    "LQdRSCAgo4Z9NcSY1JKKVB85bEV2": true,
     "asTgOC5GCSSjZMFXxkV3dqnPzux1": true,
     "Nz6iENlDANfoDxe49LSN8FsqVoD2": true,
     "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
@@ -20,7 +19,7 @@
     "width": 0
   },
   "lastUpdatedDate": 1755192762984,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/",

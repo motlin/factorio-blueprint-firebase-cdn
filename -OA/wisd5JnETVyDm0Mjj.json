@@ -7,7 +7,6 @@
   "createdDate": 1759808031442,
   "descriptionMarkdown": "### SPゲージメーターディスプレイ\n- これは誰だかわかりませんが、他人が作ったブループリントです。\n- 少し手を加え、日本語に直しました。\n\n### [上級者]ゲージメーターディスプレイ\n1. このBPを設置したあと、設置したディスプレイをBPにし、[Factorio BP デコード/エンコード サイト](https://factorio-blueprint.vercel.app/decode-encode )などでデコードしjsonにしてください。\n\n2. 変換したjsonをメモ帳や[VS Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code )などのテキストビュワーで開き、必要な箇所を適宜編集してください。\n   - 「[item＝parameter-0]」を適切なnameに置き換え。例：「[item＝speed-module-3]」\n   - 「[color＝#ffffff]」を適切なカラーコードに置き換え。例：「[color＝#0291c2」\n\n3. 完成したjsonを改めて[Factorio BP デコード/エンコード サイト](https://factorio-blueprint.vercel.app/decode-encode )などでエンコードしBPのコードにしてください。\n\n4. コードを正常にインポートできたら完了です。",
   "favorites": {
-    "H2HcR1QNgrQjgh8BJQ50duhlsUG3": true,
     "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
     "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
@@ -21,7 +20,7 @@
     "width": 0
   },
   "lastUpdatedDate": 1759955822060,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/version/2,0/",
     "/mods/space-age/"
