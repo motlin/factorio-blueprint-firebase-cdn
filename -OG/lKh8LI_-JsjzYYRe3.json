@@ -6,9 +6,13 @@
   "createdDate": 1766059332607,
   "descriptionMarkdown": "\n#### Vulcanus Mall\n\n**v1.0.2**, by Jepakazol\n21/12/2025\n\nA compact, high-throughput Vulcanus mall designed for mid-to-late game progression.\nProduces **100+ different items**, keeps storage clean and organized, and actively recycles the junk you accumulate while clearing Vulcanus- turning it into useful production instead of clutter.\n\n**Key features**\n\n* Produces over 100 items required for sustained expansion\n* Integrated **solar panel upcycler** as part of the mall\n* Outputs sorted into **buffer chests** for clean logistics\n* Automatically requests and consumes Vulcanus cleanup junk, keeping storage chests tidy\n\n##### Getting started\n\n* Connect all required inputs\n* Connect to the power network\n  * **Peak power demand:** ~4 GW\n\n##### Requirements & notes\n\n* **4-planets tech** required\n* Plastics bar productivity **10+ recommended** (not mandatory)\n* *Editor Extension* mod is **only required for testing**; the blueprint runs without it\n\n---\n\n### Changelog\n\n#### v1.0.2\n\n**Fixed**\n\n* Missing speed modules on a beacon in stone production\n\n**Changed**\n\n* Landing pad request configuration\n* Beacon buffer increased from **200 → 600** (beacons are usually needed in large batches)\n* Foundry buffer increased from **100 → 200**\n* Electric furnace buffer increased from **100 → 200**\n\n**Added**\n\n* Buffer chest for **refined concrete**, for exporting\n\n**Rocket silo production improvements**\n\n* Switched to **quality modules** (higher-quality silos are always preferable)\n* Storage increased to **3 silos instead of 1**\n* Inserter adjustments to better match actual demand",
   "favorites": {
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
     "I7RkewXRzmbak9cV93stf78f9Tk2": true,
+    "KtXA8rhZMASghQdyonlxXp5HD112": true,
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true,
+    "N5XCP0K0s6TKoMGS8azZ3qGiRNv2": true,
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
@@ -20,7 +24,7 @@
     "width": 0
   },
   "lastUpdatedDate": 1766392762792,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 10,
   "tags": [
     "/version/2,0/",
     "/production/mall (make everything)/",
