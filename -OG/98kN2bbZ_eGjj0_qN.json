@@ -6,7 +6,8 @@
   "createdDate": 1765401888733,
   "descriptionMarkdown": "Hello everyone, I present to you a new, absolutely unique spaceship for flights to Aquilo and between all other planets.\n\nThe ship runs exclusively on solar panels and is of COMPLETELY COMMON quality. It is designed and capable of flying 24/7 non-stop without refueling and without taking damage. It can also be parked on any planet indefinitely. Combined with its low cost, this is what makes it so unique.\n\nHow to use it?\n1. Build the ship.\n2. Once the fuel and ammo indicators reach at least 10-20%, you can gradually send it on flights between the inner planets.\n3. Upon accumulating a moderate number of rockets, you can fly to Aquilo.\n4. For stable operation, all damage level 7 technologies must be researched. If you haven't researched these technologies yet, remove one or more engines. Otherwise, there is a risk of sustaining damage.\n5. In most cases, nothing else is required. However, there are two settings you can adjust:\n   *   The constant combinator in the top right corner controls the number of asteroids to be collected by the asteroid collectors.\n   *  The combinator located to the right of the main hub next to the crushers with the signals H (300) and L (200) manages asteroid maintenance via crushers, setting the upper and lower limits. This means the ship will always maintain a minimum of 200 asteroids of each type.\n\nInteresting features:\n*   It has a dual asteroid control system. Primarily, asteroid collectors try to maintain the required amount. If that's insufficient, smart crushers activate to precisely sustain the necessary level. This achieves incredible operational stability.\n*   The ship is equipped with dynamic displays for monitoring ammo, fuel, and water levels.\n\nI will be very glad for your support, you can also check other bluepronts in my profile",
   "favorites": {
-    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
+    "dNUvbKyC3AQymaBHmydMgOZ4QEP2": true
   },
   "image": {
     "height": 0,
@@ -15,7 +16,7 @@
     "width": 0
   },
   "lastUpdatedDate": 1765401888733,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/",
     "/planets/space-platform/",

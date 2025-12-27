@@ -7,7 +7,8 @@
   "descriptionMarkdown": "The name is taken from one of my favorite games \"System Shock 2\", and of course, named after Wernher Von Braun - the father of Rocketry.\n\n10 Common quality cargo bays, 5 turbines and four Collectors. The only things that use modules are the ammo machines, fuel plants and crushers. These are standard, level 1 modules.\n8 Rocket launchers and 10 turrets- only needs \"Physical Projectile Damage\" level 5 or 6..\n\nSpeed is regulated(needs priming- ie: Just disable and re-enable by clicking \"Enable/Disable\" on the pumps, for your first launch). The 2 indicator lights are set to alert when fuel or oxider is below 10K(Might want to increase it to 12K)\n\nShip tanks fill about 15K, in 5 minutes, ammo is everpresent(680 for turrets and 580 for rockets) + 150 of each on the belt and they get filled in ~5 minutes.\n\nNOTHING gets thrown overboard(I did leave a Recycler and mechanism for that, if you want to be so inclined- suit yourself, if you want to be \"messy\". Justrotate the first inserter) and you will never have shortage of anything, cause of re-crushing and auto-crushing, you see. Auto-crushing also has Hysteresis, so your crushers don't \"go crazy\".\n\n(Note that the outputs of the 2 Oxide Deciders aren't connected to the 2 oxide crushers anymore... it's not needed, since we have normal Oxide crushing dediacted to the water tanks(the ice-output inserter for the belt is rotated, so it's \"disabled\" basically- turn it towards the belt, if you need it in future).. but you may want to use them in future, so just re-connect the outputs same way as the carbo-crushers are connected, but of course- to the oxide crushers instead)\n\nEverything stays in perfect harmony and even at Aquilo, you can be totally out of everything(for whatever reason- God help you) and still be filled and stocked within 10/15 minutes - ready to go again!",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
+    "dNUvbKyC3AQymaBHmydMgOZ4QEP2": true
   },
   "image": {
     "height": 0,
@@ -16,7 +17,7 @@
     "width": 0
   },
   "lastUpdatedDate": 1766672684953,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 3,
   "tags": [
     "/version/2,0/",
     "/general/mid game/",
