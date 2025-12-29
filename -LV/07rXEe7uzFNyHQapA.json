@@ -7,38 +7,22 @@
   "createdDate": 1546207329483,
   "descriptionMarkdown": "In preparation for the much anticipated 0.17 patch I have created a series of modular science arrays utilising the new recipes.  The recipes were taken from [the official FFF #275](https://www.factorio.com/blog/post/fff-275) and were implemented ingame by a user named SuperSandro2000 on [mods.Factorio.com](https://mods.factorio.com/mod/017-science).  **This mod is required to use these blueprints.**  Once 0.17 proper is released this will not be required.  These blueprints reflect the upcoming science and Low Density Structure changes.\n\nEach blueprint creates 90 science bottles per minute (1.5 per second), and is repeatable by placing more blueprints above the first.  All inputs are denoted by constant combinators.  Where one resource icon is displayed on the combinator, both sides of the belt should be filled with is.  Where 2 different resource icons are displayed, these should be given a half belt each.  It doesn't matter which side of the belt each resource is on.  Where 1 resource and a letter (L or R) are displayed on the combinator, the displayed reource goes on either the left or right, as indicated by the letter (if an L is displayed, the resource must be on the left of the belt).  This assumes blueprint is build in the default orientation with the combinators at the bottom of the screen / south.\n\n**Output 180m**\n\nThis is the output of 2 of each science module.  Half it for a single 'stamp'.  It takes some time for the blueprints to reach this point due to the length of the crafts and the time it takes for resources to build up.\n\n![Image of Output180m](http://www.coldsteelwarriors.com/Factorio/stats180m.jpg)\n\n**All Science 90/m**\n\n![Image of AllScience90m](http://www.coldsteelwarriors.com/Factorio/allscience90m.jpg)\n\n**All Science 180/m**\n\nEach module can be stacked multiple times using the same inputs.  Simply stamp more blueprints above so the belts line up.\n\n![Image of AllScience180m](http://www.coldsteelwarriors.com/Factorio/allscience180m.jpg)\n\n**1. Automation Science**\n\n![Image of Automation Science](http://www.coldsteelwarriors.com/Factorio/automation.jpg)\n\n**2. Logistic Science**\n\n![Image of Logistic Science](http://www.coldsteelwarriors.com/Factorio/logistic.jpg)\n\n**3. Chemical Science**\n\n![Image of Chemical Science](http://www.coldsteelwarriors.com/Factorio/chemical.jpg)\n\n**4. Military Science**\n\n![Image of Military Science](http://www.coldsteelwarriors.com/Factorio/military.jpg)\n\n**5. Production Science**\n\n![Image of Production Science](http://www.coldsteelwarriors.com/Factorio/production.jpg)\n\n**6. Utility Science**\n\n![Image of Utility Science](http://www.coldsteelwarriors.com/Factorio/utility.jpg)",
   "favorites": {
-    "SpZQMBCZeBOdOjFgQD79f5fjGSc2": true,
-    "cVfZC5XeUQS9SgyWYeQHlFMmK6x1": true,
-    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
-    "l0l7Q91POeUe0maM2fFFzVi7zni1": true,
-    "wzNhid5ulXa4nYwhOCG3Ani6GC72": true,
-    "DpH4k6f0YnSKZAnLeBMMoMjXBdn2": true,
-    "8NEvdEbGNrXO8YvfEynxVjbdqEU2": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "IBpHNi1I1DOGbDBG1yqmgVULcp72": true,
+    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
+    "kOht14bSMCc1Lz86TALpXSERIdV2": true,
     "361i4YDTrENIAYIc8FypEECrZSA2": true,
     "9cuxOBfUuOZENn5nKlLjVNxFXYo2": true,
-    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
-    "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
-    "Rl6CICs726S4403veEi3cEfgPoH2": true,
-    "JgTR8wW0S9YynzWPATKZdAhk8Iz1": true,
-    "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
-    "fOAsuJ9iFeVlEvb1TFUS8P8LOl93": true,
-    "VJxhIDseUcPyEOhpZgmywGQNkR72": true,
-    "06BuTBSY81e5KJpy7Kha18KDOEs1": true,
-    "6hSr30scT7WhMd0zGhvkHY56gTF2": true,
-    "IBpHNi1I1DOGbDBG1yqmgVULcp72": true,
-    "kOht14bSMCc1Lz86TALpXSERIdV2": true,
-    "wKdDKlTwFZfOtpqQSyAPH2u3LLh2": true
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true
   },
   "fileName": "allscience90m.jpg",
   "image": {
-    "height": 819,
     "id": "Tk4t1Bt",
     "type": "image/jpeg",
-    "width": 1799
+    "width": 1799,
+    "height": 819
   },
   "lastUpdatedDate": 1546208248525,
-  "numberOfFavorites": 22,
+  "numberOfFavorites": 23,
   "tags": [
     "/production/science/"
   ],

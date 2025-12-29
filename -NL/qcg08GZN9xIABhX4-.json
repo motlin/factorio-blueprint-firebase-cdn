@@ -7,19 +7,19 @@
   "createdDate": 1673806397659,
   "descriptionMarkdown": "A Mall for all the (vanilla) production products using the Space Engineering mods and the new recipees introduced via AAI (Also, this setup includes the loaders from the Miniloaders mod, but they are easily removable).\nThese malls are based off the framework of Nilaus' malls present in his video here: https://www.youtube.com/watch?v=PLnv0O3cAnI\nbut they've been modified to use the AAI recipes. The three different kinds of products in the 3 malls (logistics, power poles and assemblers, reactors/refineries/misc) are changed slightly but mostly the same. They come in 2 levels, red belts/assembler 2, and blue belts/assembler 3.",
   "favorites": {
-    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
     "Pw7XXRu6AZfCwtNPUIE4KinjTax1": true,
     "J98cZ4MquZc3OSNkFmyjuqaPgwg2": true,
+    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
+    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
+    "Akl6pgVXYhPe1izhYXqnNhcLqe23": true,
     "i8fKg0kPRoOQUZULMoJJPSh433m1": true,
-    "gDgX4de49wbL7ASlahMaidkarNG3": true,
+    "96scKksgGvSLlD12ApyoyA6CEFC3": true,
+    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
+    "9vvmvb14pcRBjKrJMuGLokNkmVz1": true,
     "H3vveI2W2Cg4Rkt66nC4wnHNsPs2": true,
     "qjPYnSFUKLgdK6ipbi6stG7b79B3": true,
-    "jef3ZuydhnVZAPGViu8eQXB8xHC3": true,
-    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
-    "96scKksgGvSLlD12ApyoyA6CEFC3": true,
-    "Akl6pgVXYhPe1izhYXqnNhcLqe23": true,
-    "9vvmvb14pcRBjKrJMuGLokNkmVz1": true,
-    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true
+    "gDgX4de49wbL7ASlahMaidkarNG3": true,
+    "jef3ZuydhnVZAPGViu8eQXB8xHC3": true
   },
   "fileName": "THINGYMALLTHINGY.png",
   "image": {
@@ -29,7 +29,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1673806397659,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 10,
   "tags": [
     "/production/mall (make everything)/",
     "/mods/space-exploration/"

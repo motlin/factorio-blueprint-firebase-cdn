@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Саша Синкель",
     "userId": "maU7je24W6cqfu9R5pdiHbhkmHA3"
   },
   "authorId": "maU7je24W6cqfu9R5pdiHbhkmHA3",
@@ -7,17 +8,15 @@
   "createdDate": 1761405596705,
   "descriptionMarkdown": "Requires editor extetion mod as it's not finished yet",
   "favorites": {
-    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-    "T76GnRDPH7b9Jx0dUXbXMhKMoWS2": true
+    "T76GnRDPH7b9Jx0dUXbXMhKMoWS2": true,
+    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true
   },
   "image": {
-    "height": 0,
     "id": "IaCaOKH",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1761405596705,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

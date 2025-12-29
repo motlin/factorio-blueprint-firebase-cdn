@@ -8,29 +8,29 @@
   "descriptionMarkdown": "Heavily WIP. Feedback welcome.\n\nBase hex cell by Lord Hailstorm, with a couple signals and power poles adjusted to allow cells to fit together properly. https://factorioprints.com/view/-LCVWnv28WBNwQ6f9CPx  \n\"Starter base\" hex is a modified version of Hasi's update of Ranzolger's design, adjusted to fit inside the hex cell, as well as integrated Steam Engines for power add a few recipes missing from the original. https://factorioprints.com/view/-LZnvfhjmTqgTFnbWaWZ\n\nMods used:  \nDeadlock's Stacking Beltboxes & Compact Loaders https://mods.factorio.com/mod/deadlock-beltboxes-loaders  \nNanobots: Early Bots https://mods.factorio.com/mod/Nanobots  \nRepair Turret https://mods.factorio.com/mod/Repair_Turret  \nLTN - Logistic Train Network https://mods.factorio.com/mods/Optera/LogisticTrainNetwork  \nLTN Combinator https://mods.factorio.com/mod/LTN_Combinator\n\nBased around 1-2 trains mostly on LTN. The only stations currently not designed for LTN are the wall resuply stations, which turn them selves off when full and should all be fed from a single ammo/repair pack loading station (not yet designed).\n\nI *think* I have wall ammo and depot fuel set up so it should always use the best available, but they have not been tested properly yet.\n\n2 copies of the Starter Base hex. The \"Logistics Upgrade\" one is designed to be printed over the original, and includes logistics setting for Buffer chests on all Mall outputs and circuit settings on the relevant inserters, as well as bot-fed Laser Turret and Flamethrower Turret assemblers.\n\nAdvanced Oil Processing hex can stamp directly over Basic Oil Processing to directly upgrade.\n\n\"Side\" wall segments feed from adjacent \"Horizontal\" ones, and are designed to be placed backward from the Horizontal. I couldn't find any situation that would benefit from having side segments that go out forward, but can add them if there is demand.",
   "favorites": {
     "g7TJnzthuybZoJk84sCoULcZuGV2": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
-    "HKciyRWBwvNd2IiY9P33koIEty63": true,
-    "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,
-    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
-    "9qoIyNumPAVcAef04BtJRASu9e62": true,
-    "EtByybUWN9SnmOLAFVAYTTHXxl62": true,
     "4x3FiHGpbjOLt9JjvcIZrfgaO9i2": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "VSXRSZWrb1XIxOxw4rUlEM7aaae2": true,
+    "EtByybUWN9SnmOLAFVAYTTHXxl62": true,
+    "bDJMmaOFWifCciP1nFzKHWhjDIb2": true,
     "nzv7UR1jaWYQKLqTd5rmWMjL4AE2": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
-    "bDJMmaOFWifCciP1nFzKHWhjDIb2": true
+    "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,
+    "VSXRSZWrb1XIxOxw4rUlEM7aaae2": true,
+    "9qoIyNumPAVcAef04BtJRASu9e62": true,
+    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
+    "HKciyRWBwvNd2IiY9P33koIEty63": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "Factorio Hex.png",
   "image": {
-    "height": 822,
     "id": "fTSqZfE",
     "type": "image/png",
-    "width": 1359
+    "width": 1359,
+    "height": 822
   },
   "lastUpdatedDate": 1579396318938,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 13,
   "tags": [
     "/general/early game/",
     "/general/mid game/",

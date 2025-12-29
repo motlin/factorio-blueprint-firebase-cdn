@@ -8,10 +8,10 @@
   "descriptionMarkdown": "## Goal\n\nBuild ~120 items for your inventory you can ask for using logistic bots, including:\n* production, logistic, power buildings\n* nuclear plant buildings\n* defense buildings\n* ammo, bots, weapons\n* MK2 armor and spidertron\n\n## Inputs\n\n### On North\nFrom left to right:\n* metal ore and rocks\n* coal\n* steal and bricks\n* metal plates (twice)\n* copper plates (twice)\n\n### On South East\n\nFrom top to bottom: \n* Lubricant\n* Sulfuric Acid\n* Petroleum Gas\n* Water\n\n### From logistic blue chests\n\n* Fish (for Spidertron)\n* Wood (for Shotgun)\n* few other advanced components, but the blueprint might be in capacity to provision them\n\n\n## Outputs\n\nAll items are provided in red chests and almost all of them have a limit set (from a couple of items for most expansive, to several hundreds for most useful).\n\nYou can always tune this limit based on your needs.\n\n## Metrics\n\nNot available yet (maybe for a later version)\n",
   "favorites": {
     "MbfjmAX4JvfaitiptC3Y57HQeQ73": true,
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
-    "rDUnG9Igf2TvdK8q3v5FmzY7ogy1": true,
     "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
-    "6vcOE83nwZfUONZYZnuptrW5kbo2": true
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
+    "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
+    "rDUnG9Igf2TvdK8q3v5FmzY7ogy1": true
   },
   "fileName": "screenshot-tick-4480350.jpg",
   "image": {
@@ -21,7 +21,7 @@
     "width": 2229
   },
   "lastUpdatedDate": 1689293470906,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/mall (make everything)/",
     "/mods/vanilla/"

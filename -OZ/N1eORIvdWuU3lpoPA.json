@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "LXIX",
     "userId": "uQZNEMRwMzaPzrl5Jwh0fMBCchq2"
   },
   "authorId": "uQZNEMRwMzaPzrl5Jwh0fMBCchq2",
@@ -7,20 +8,18 @@
   "createdDate": 1757044976370,
   "descriptionMarkdown": "- All blueprints are rotable and exansable, stations are parameterized\n- You have 2 scopes of wires: [item=red-wire]local, [item=green-wire]global (inter-block)\n[font=default-bold]Designations:[/font]\n- Stop type: [virtual-signal=signal-P](provider)/[virtual-signal=signal-C](consumer)\n- Vertical pos: [virtual-signal=signal-T](top)/[virtual-signal=signal-B](bottom)\n- Horizontal pos: [virtual-signal=signal-L](left)/[virtual-signal=signal-R](right)",
   "favorites": {
-    "gGYAQxfNLLgzENZJJSX1Yt4ans53": true,
-    "h5jOxKhYCwM0aItRnKDo8Kp7vjZ2": true,
-    "kFlwSgioBXhLqziMH9tsPgiGRto2": true,
     "WP4RamUnvqfp2MZK5dtHVZ3zfJi2": true,
-    "rDeCvoPhh7cLmCWthwnw5vNQwL43": true,
-    "HG42hRL4IWfd7vtPeHHFHkIy5x52": true,
+    "gGYAQxfNLLgzENZJJSX1Yt4ans53": true,
     "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
-    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+    "h5jOxKhYCwM0aItRnKDo8Kp7vjZ2": true,
+    "HG42hRL4IWfd7vtPeHHFHkIy5x52": true,
+    "kFlwSgioBXhLqziMH9tsPgiGRto2": true,
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
+    "rDeCvoPhh7cLmCWthwnw5vNQwL43": true
   },
   "image": {
-    "height": 0,
     "id": "6BAYmyP",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1761507211719,
   "numberOfFavorites": 8,

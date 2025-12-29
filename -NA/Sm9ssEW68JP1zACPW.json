@@ -7,15 +7,15 @@
   "createdDate": 1661578293539,
   "descriptionMarkdown": "Raw minerals in! Products out!, Making everything from RAW\n\nThis is a collection of builds to make Science, Turrets, Tanks, Malls and more from RAW materials!\n\n**27/10/2022** Update.\n- Fixed a range of mistakes and other things including:\n - White science missing a length of red belt stopping 2 red circuits from working, also modified modules to work better.\n - Blue science missing pipe to link together.\n - Red science T2 had wrong input identifier.\n - Big mall missing one output for red circuit.\n - Laser wall now 15 squares away to stop spitters, and redid power and ability to tile\n - Re did corner wall lasers to be 15 squares and setup power to better link big poles\n - Also added full tilable corner laser\n-Added a Early red and green bare minimum(ish) starter base.\n-Added a Big starter base and Big Mall with Red, Green and Blue Science for a big start build.\n-Added Super highway with pipes power and roboports for the immense RAW resources!\n\n**29/09/2022** Update.\n- Fixed Error in Yellow science (woops steel accidentally making copper!)\n\n**24/09/2022** Update.\n- After testing decided to Add a full Starter base full with Red and Green Science and Mall, made a stepping stone to big mall\n\n**23/09/2022** Update.\n- Re-Created the Yellow science build with x3 the output\n\n**22/09/2022** Update.\n- Added Alternate Black Science tile build, Outputs 8x the original build but much less space horizontally, and better balance. left original build in the book as its much easier to build manually to get through the science faster early game.\n\n**21/09/2022** Update.\n- Updated Green Science to be more efficient. (although its a lot bigger now its way more compact when tiling over longer distance)\n- Updated Purple Science to be more efficient.(slightly bigger footprint but 4x the output of last build)\n- Updated Early mall to have Flame Tower\n\n**19/09/2022** Update.\n- After a early build test didn't like the early mall, too many belts in different directions, rebuilt it with more straight runs of belts.\n\n**18/09/2022 Update**.\n- Added All science from RAW\n-Builds Designed to work with what tech items you should have at the time of that specific tech! ie.. No Steel in Red science or No Elec Furnaces until later science\n-Balanced builds a bit as was too much overkill on some\n-Added Combinator with input resource for each build\n-Added Ability to Tile Drag each science build (Not White)\n\n**Future Things**\n- ~~More efficient science setups~~(~~Red~~, ~~Green~~, ~~Black~~, ~~Blue~~, ~~Purple~~, ~~Yellow~~)\n- Tilable Addon block for white science\n- Full build with trains\n- \"Why not a build with only iron, copper and steel in?\" ... ok! ill give it a shot!\n- ~~Add flame tower automation~~\n",
   "favorites": {
+    "a0dYpep1dsWYHwMvrOhKQWwg7J92": true,
     "CG9FHu20YBMFrzJ8l47DkfsvLx02": true,
     "4zZAl7jOquQV8O11N7DUfviD3MH3": true,
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "a0dYpep1dsWYHwMvrOhKQWwg7J92": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
     "H7qmT6ebR5NfOrAk4EtA5QLr3nw1": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "fileName": "white science.png",
   "image": {
@@ -26,7 +26,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/white%20science.png?alt=media&token=cdd4b759-3fb1-43df-92fd-297939df1834",
   "lastUpdatedDate": 1666932271727,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 8,
   "tags": [
     "/general/early game/",
     "/production/mining/",

@@ -7,8 +7,8 @@
   "createdDate": 1671659584244,
   "descriptionMarkdown": "Train Station setup.\n\n* To use the requesters/providers, simply set the constant combinator 'S' to the value of the stack size of the item you wish to transport.\n* Name the loading/unloading station name to the value of what it is providing or requesting. I typically use the image of the item with a '<' for requesting or a '>' for providing, for example \"[Coal]>\" would provide coal and \"[Coal]<\" would request coal. As long as you name all your requesters and providers with the same convention the whole thing works well.\n* Name the stations within the stackers to match the requesting/providing stations within the same block, for example \"[Coal] > Waiting\" or \"[Coal] < Waiting\", your trains will rest at the stations in the stackers like they are depots until the actual requester/provider stations are ready for trains.\n\nInstructions on train use.\n\nIt is important that you don't have more trains for a particular resource than there are stackers for them to wait at. If you only have 6 \"[Coal] < Waiting\" stations then you can only have 6 trains providing that resource.\n\nThe trains should come preconfigured in the example city blocks provided but the basic rule is that the order of stations is:\n\n* [Item] > Waiting\n* [Item]>\n   * cargo full\n   * Inactivity\n* [Item] < Waiting\n* [Item]<\n  * cargo empty\n  * Inactivity\n\nOther things to configure\n\n* Fuel\n  * The fuel stations are fed by a single cargo wagon and then delivered to each of the stations via logistics robot, you need to add 3 to 6 logistics robots to one of the roboports on each side of a city block unless you link the middle of the city block with further roboports.\n\n\n* Roboport Network\n  * The city blocks were not configured to be connected together by roboports and it might be unproductive to link them into one big logistic network, they should ideally be kept separate but if you do want to link them go ahead.\n\n\n* Actually stamping the block\n  * Due to the size of the city block you will probably want to actually stamp the blueprint down whilst in map view unless you are using a custom zooming mod.",
   "favorites": {
-    "UWSFXCpjuxXa90iCyCxea1dg4J62": true,
-    "OFAojdH7uGYCPQhGSuxPHBFRp042": true
+    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
+    "UWSFXCpjuxXa90iCyCxea1dg4J62": true
   },
   "fileName": "2022-12-21 21_51_51-WDADesktopService.png",
   "image": {
@@ -18,7 +18,7 @@
     "width": 1657
   },
   "lastUpdatedDate": 1671799484879,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/train/loading station/",
     "/train/unloading station/",

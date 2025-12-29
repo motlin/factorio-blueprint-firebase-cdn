@@ -7,12 +7,12 @@
   "createdDate": 1669799181534,
   "descriptionMarkdown": "Each top level book is a different configuration of buildings; some have roboports, some concrete, etc. Each of these books is otherwise an exact copy.\n\nThese blueprints support trains that are 6 long, one way, RHD. \n\nThe blueprints are chunk-aligned, with 3 possible alignments. One of them is D, Diagonal. Diagonal rails connect to each other on the intersection point of two chunklines, by overlapping the substations. The other two alignments, A and B, are different ways of aligning with the chunks going straight (north/south or east/west). A rails are centered on chunklines between two chunks, whereas B rails are centered within a single chunk. \n\n1. A + B - all of these blueprints can align with both A and B\n\n2. A // B - all of these blueprints align with either A or B, not both, and are labeled as such\n\n3. A x B - these blueprints convert between A rails and B rails\n\n4. D - these blueprints only align diagonally\n\n5. DAB - these blueprints convert between D and A or D and B, no intersections\n\n6. D Y - these blueprints go from D to two A's or two B's, or from 2 D's to an A or a B",
   "favorites": {
-    "s8kghtX0mjMjlDPYu3CGC1Z9apg1": true,
     "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
-    "ISlIx598w0Y2bI6M6NKKdUzHONw2": true,
-    "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true,
     "cQ5U257BopUDmELJoPvUmcHI0Cp2": true,
-    "1v6Ja7M59KORPB8z6APCENuYJ982": true
+    "1v6Ja7M59KORPB8z6APCENuYJ982": true,
+    "ISlIx598w0Y2bI6M6NKKdUzHONw2": true,
+    "s8kghtX0mjMjlDPYu3CGC1Z9apg1": true,
+    "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true
   },
   "fileName": "asdf.png",
   "image": {
@@ -23,7 +23,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/asdf.png?alt=media&token=b0c97f31-81db-43c3-ae96-a454e95ee052",
   "lastUpdatedDate": 1672740315788,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/train/right-hand-drive/"
   ],

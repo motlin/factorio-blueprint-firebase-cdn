@@ -7,25 +7,23 @@
   "createdDate": 1735508684774,
   "descriptionMarkdown": "a little bit of circuitry going on for the crushers and cargo inputs and outputs but nothing crazy. Haven't gotten around to any thruster throttling or anything like that yet but this ship will work fine for anything as far as Aquilo.",
   "favorites": {
-    "4Q7QcPItnlZW6SgMW3tAWtFyprI3": true,
-    "xlH6slOns0SZLZoqLeaxErOPanj2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "x2m6WGaPvYQVtVttYAdjDDTHgXR2": true,
     "HP8CUpgTFFXxpafifHYFOQD6O2l1": true,
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "xlH6slOns0SZLZoqLeaxErOPanj2": true,
+    "4Q7QcPItnlZW6SgMW3tAWtFyprI3": true,
     "v5faxeJfayM61SXThgIOyxb90wt1": true,
+    "QUM9TtUvsnWwqJOc58IiQKxCYER2": true,
+    "x2m6WGaPvYQVtVttYAdjDDTHgXR2": true,
     "u9otYPfN9OY0XUVkvgwiZxTUNsg1": true,
-    "QUM9TtUvsnWwqJOc58IiQKxCYER2": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "PlQELnL",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/PlQELnL",
   "lastUpdatedDate": 1735508684774,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/"

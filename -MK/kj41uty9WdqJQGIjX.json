@@ -7,13 +7,13 @@
   "createdDate": 1632905220535,
   "descriptionMarkdown": "Улучшаемая линия обороны с лазерами, огнеметами и артиллерией (возможно слишком с артиллерией).  Плюс станция для доставки на стены всего нужного, с логикой для ее отключения, когда всего хватает.",
   "favorites": {
-    "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,
-    "1Lx6R5oCJSPHT789r8QVMBfL39z2": true,
-    "j0MLH9TUGuPmy96D4IUkLoavKpp2": true,
-    "7M9DY64EchMmJnUjcf6EWPXC43w1": true,
     "WS6mFPHoO4SkWe7LkBLcUctjcEr1": true,
     "67G9TmALSfazXmtaxYMDd9ez8OB3": true,
-    "9T1ofj2M1eRIXZZjeMOl5hsxf7a2": true
+    "j0MLH9TUGuPmy96D4IUkLoavKpp2": true,
+    "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,
+    "9T1ofj2M1eRIXZZjeMOl5hsxf7a2": true,
+    "7M9DY64EchMmJnUjcf6EWPXC43w1": true,
+    "1Lx6R5oCJSPHT789r8QVMBfL39z2": true
   },
   "fileName": "defenceSBbvsadBSF.png",
   "image": {
@@ -24,6 +24,5 @@
   },
   "lastUpdatedDate": 1633221009700,
   "numberOfFavorites": 7,
-  "tags": [ ],
   "title": "Оборона (Space Exploration)"
 }

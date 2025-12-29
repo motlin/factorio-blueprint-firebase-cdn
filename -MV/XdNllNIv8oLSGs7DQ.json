@@ -7,16 +7,16 @@
   "createdDate": 1615488978745,
   "descriptionMarkdown": "Requires Text Plates mod\n\nPut science signals on the bottom green wire, modify as needed. By default the battery level signal is \"B\", the science indicators are maxed out at 400 per minute.",
   "favorites": {
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
-    "s5KhWKIJu3QfhBoJpHqLzNFIWE63": true
+    "s5KhWKIJu3QfhBoJpHqLzNFIWE63": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
   },
   "fileName": "screenshot-tick-43952947.png",
   "image": {
+    "width": 1920,
     "height": 1080,
     "id": "NJxQQhc",
-    "type": "image/jpeg",
-    "width": 1920
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1615489065197,
   "numberOfFavorites": 3,

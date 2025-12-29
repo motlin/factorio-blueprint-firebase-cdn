@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "IGR RS",
     "userId": "1Bcsss8Gs9cfZO2kwCe0NTJJ5CZ2"
   },
   "authorId": "1Bcsss8Gs9cfZO2kwCe0NTJJ5CZ2",
@@ -7,15 +8,13 @@
   "createdDate": 1757634112809,
   "descriptionMarkdown": "Продолжение идеи авто крафта  https://www.factorio.school/view/-OKDAuIhutnt3cITqfE5\n\nСделал новую систему авто сборки с новыми типами сборщиков  Space Age\n\nВидео https://youtu.be/oibwNlFINto",
   "favorites": {
-    "ukhnjD4Ms9RKJheRaJ8zi6Y9jQG3": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "ukhnjD4Ms9RKJheRaJ8zi6Y9jQG3": true,
     "dNUvbKyC3AQymaBHmydMgOZ4QEP2": true
   },
   "image": {
-    "height": 0,
     "id": "mRAMogG",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1757880152702,
   "numberOfFavorites": 3,

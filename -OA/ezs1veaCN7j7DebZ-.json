@@ -7,20 +7,18 @@
   "createdDate": 1730519466708,
   "descriptionMarkdown": "This is a train logistics system that works similar to LTN, but has its drawbacks due to the limited capabilities of Factorio 2.0",
   "favorites": {
-    "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
-    "j4jskFYpP9bp0hMsdZN3bm2eWrr2": true,
     "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "j4jskFYpP9bp0hMsdZN3bm2eWrr2": true
   },
   "image": {
-    "height": 0,
     "id": "ygkWYbi",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/ygkWYbi",
   "lastUpdatedDate": 1730519466708,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/train/loading station/",
     "/train/unloading station/",

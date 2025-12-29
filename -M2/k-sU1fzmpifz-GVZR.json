@@ -7,8 +7,8 @@
   "createdDate": 1584574728246,
   "descriptionMarkdown": "Factorio 0.18 - Vanilla\n\nIron Ore trained in, smelted into Iron Plate then Steel Plate. [Kirk McDonald calculator per lane](https://kirkmcdonald.github.io/calc.html#data=0-17-60&min=4&belt=express-transport-belt&dm=p3&db=s3&dbc=16&items=steel-plate:f:16&modules=iron-plate:s3;s3:12).\n\nBuilt for 2-8 Nuclear-fuelled trains supplying any size megabase. Easy to reconfig.\n\n<b>\"Steel - t2t - 19.9k/m\"</b> includes (Nuclear) fuel station (deposit a few Logi bots pls), PAX station (I call them 'Visit X'), and dummy stations to prevent silly train issues. Includes a bunch of Iron Ore trains with inventory filters so they don't run away with your steel. Includes 2x13 = 26 cells, to be expanded to your and my contents.\n\n<b>Regarding circuitry:</b> Red Wires run locally with each lane, counting items and relaying info to that lane's Combinators and Rail Signal. Please do not mix the Red Wires! Green Wires run globally, gathering number of stations available and signalling this to the Staging stacker for arrivals awaiting their circuit conditions.\n\nNote: 32k count / 676.8 rate = 47.28. That means each lane makes 32k Steel in 47 minutes and 17 seconds. Have plenty of lanes!\n\nUpdate: Now tiles steel furnace to steel furnace. Reclaimed dead space. Improved lights.",
   "favorites": {
-    "9rq0ApnZNafVwZTpBlucmpn0y532": true,
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "9rq0ApnZNafVwZTpBlucmpn0y532": true,
     "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true
   },
   "fileName": "Steel - t2t-horz.jpg",

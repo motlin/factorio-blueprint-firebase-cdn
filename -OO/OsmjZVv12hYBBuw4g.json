@@ -7,20 +7,18 @@
   "createdDate": 1745264782882,
   "descriptionMarkdown": "(EN)\n\nMALL - classic, combined (belts + drones). Everything you need. This is an addition to \"GSXR - MALL Lite Nauvis\" (https://www.factorio.school/view/-OOFWLeHxh5lChL1Ag5X). The book contains 5 blueprints (numbered) - CONSTRUCTION Strictly by blueprint numbers. All items - are stored in storage chests - yellow chest (after researching the technology - Robotics). Very convenient and good. Any items moved from your inventory to the Garbage slots - Drones will automatically place them in their chests. Created by GSXR.\n\n(RU)\n\nMALL - классический, комбинированный (ремни + дроны). Все, что вам нужно. Это дополнение к \"GSXR - MALL Lite Nauvis\" (https://www.factorio.school/view/-OOFWLeHxh5lChL1Ag5X). В книге 5 чертежей (пронумерованных) - СТРОИТЕЛЬСТВО Строго по номерам чертежей. Все предметы - хранятся в сундуках для хранения - желтый сундук (после исследования технологии - Робототехника). Очень удобно и хорошо. Любые предметы, перемещенные из вашего инвентаря в слоты Мусора - Дроны автоматически поместят их в свои сундуки. Создано GSXR.",
   "favorites": {
-    "jjfRZ7qJLAbBEpfQC4rw2JR0SwQ2": true,
     "sYPoawEorIRKVkoqv2mEEe8cD3L2": true,
-    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true,
-    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true
+    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
+    "jjfRZ7qJLAbBEpfQC4rw2JR0SwQ2": true,
+    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true
   },
   "image": {
-    "height": 0,
     "id": "LGgYKDg",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/LGgYKDg",
   "lastUpdatedDate": 1745264782882,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/belt/transport belt (yellow)/",
     "/belt/fast transport belt (red)/",

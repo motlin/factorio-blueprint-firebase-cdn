@@ -7,29 +7,27 @@
   "createdDate": 1730690416377,
   "descriptionMarkdown": "The AutoRail was created and maintained by DocJade and DrCats\n\nThis is a mere modification to that to update how train requests functioned as I found that I would get dozens of trains with the same item idling in depots. This is not a perfect solution but it is what I made for myself. It requires a bit more work on the users end. Reminder to connect your wires!\n\nThe original blueprint can be found here: https://blueprints.docjade.com/",
   "favorites": {
-    "BWOmKiFOBDWq02m3KrLMXMof2uy2": true,
-    "gbC7yyvxVXZU0q9lvHwlfMNI5Zm1": true,
-    "WjkDLe5XwZgpuGZSteFstXUPP8x2": true,
-    "XgTOK8fTzVbSIxG4sThzippYiz03": true,
-    "AIMyjVLP4CQDZVEeMaI6JT2qzng2": true,
-    "aYB2yefWJXaSTlzFj0sE6csteGj2": true,
-    "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
     "gunOWAzCrwTCywpfk0Z0x0KZSGO2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "GgVV85XTS4h1Pu95J7hvqiieUxY2": true,
+    "BWOmKiFOBDWq02m3KrLMXMof2uy2": true,
     "sn3QM62ITaXPQ5buIRdcIOtvWt12": true,
+    "GgVV85XTS4h1Pu95J7hvqiieUxY2": true,
     "1v6Ja7M59KORPB8z6APCENuYJ982": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "AIMyjVLP4CQDZVEeMaI6JT2qzng2": true,
+    "WjkDLe5XwZgpuGZSteFstXUPP8x2": true,
+    "aYB2yefWJXaSTlzFj0sE6csteGj2": true,
+    "XgTOK8fTzVbSIxG4sThzippYiz03": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "gbC7yyvxVXZU0q9lvHwlfMNI5Zm1": true
   },
   "image": {
-    "height": 0,
     "id": "WtrBR4q",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/WtrBR4q",
   "lastUpdatedDate": 1730692569282,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 5,
   "tags": [
     "/train/loading station/",
     "/version/2,0/",

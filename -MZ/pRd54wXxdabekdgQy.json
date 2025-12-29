@@ -7,22 +7,22 @@
   "createdDate": 1620099371584,
   "descriptionMarkdown": "<h5>Starter Base</h5>\n\nThe goal of this print is to get you up and running with five  sciences. It is [based on Starter Base (to robots) - QuickStart](https://factorioprints.com/view/-LM4wBxeno99kepyTzDt\"). I have removed the dependency on having robots up and running before military science and sequenced the print.\n\nThe Solar Farm is based on [Accumulator/Solar Panel](https://factorioprints.com/view/-LcM_84YSiRnKDH_nnR8)\n\n<h5>Foot print</h5>\nPlace the footprint for the base and start clearing the area. The Stage prints all key off the corner markers for placement.\n\n<p>\n<h5>Stage 1</h5>\n<li> Smelt Copper Plate, Iron Plate, Steel, Stone Brick\n<li> Iron Gear Wheel\n<li> Assembler 1 & 2\n<li> Inserter, Long Arm Inserter and Fast Inserter\n<li> Electronic Circuits\n<li> Electric mining drill\n<li> Automation and Logistic Science Pack\n<li> pipe and pipe to ground\n<li> Steel Chest\n<li> Medium and Big Electrical Poles\n<li> Gun Turret\n<li> Firearm Magazine\n<li> Engine Unit\n<li> Repair pack\n\n<p>\n<h5>Stage 2</h5>\n<li> Smelter Expansion Iron and Steel\n<li> Steel Furnace\n<li> Solar Panel\n<li> Rail, Rail Signal, Rail Chain Signal\n<li> Military Science Pack\n<li> Piercing Round Magazie\n\n<p>\n<h5>Stage 3</h5>\n<li> Basic Oil processing\n<li> Chemicale Science Pack\n<li> Battery\n<li> Plastic bar\n<li> Advance Circuits\n<li> Explosives\n<li> Cliff Exposives\n\n\n<p>\n<h5>Stage 4</h5>\n<li> Advance Oil Processing\n<li Production Science Pack\n<li> Electric Engine Unit\n<li> Electric Furnace\n\n<p>\n<h5>Stage 5</h5>\n<li> Smelter Expansion Copper Plate\n<li> Processing Circuits\n<li> Utility Science Pack\n<li> Passive, Requester and Storage Chest\n\n<p>\n<h5>Defense</h5>\nPerimeter wall and gun turret. Gun turrets are auto loaded by belt. Additional radar units are placed in each corner.\n\n<p>\n<h5>Power Plant</h5>\nThis print is based on maximuin steam enginr/boilers to water pump. Put the bluprint down outside of foorprint and start with two boilers and four steam engines. As power demand increase add in increments of two boiler and four steam engines. You will not need all the boilers.   \n\n<p>\n<h5>Solar Farm</h5>\nI removed the robot port in the center and put additional accumulator. Build a solar farm as soon as you have the Substations available. This will reduce the power plant demand.\n\n\n",
   "favorites": {
-    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
-    "NqHLXTSzRbYXUlY4bxB87bvQPmM2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "lP4jaXnTiiQGH1g8A29e8dh8Ml53": true,
-    "RNQKhmN5VtPYk5nmq6lhpXah09q2": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
     "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
     "KfbDRv67nlVIqDg7mkq8W1wjpd03": true,
-    "TbOkLLzL19WbvBilPAXFoga7aQG2": true,
     "VM0vXNCq5RXsU14YfU1TXZCQGPK2": true,
-    "P1cOg8kcZsUebytRnFWopTbQe6L2": true,
-    "jL2yjtbKjpTGTWpC7Ce7RwGwPUB2": true,
-    "NPvX83sZKEXnc64Kfk8z7xdI3yO2": true,
+    "RNQKhmN5VtPYk5nmq6lhpXah09q2": true,
+    "NqHLXTSzRbYXUlY4bxB87bvQPmM2": true,
     "meLDhriS8KX2MlqVw7INlGuT6yJ2": true,
+    "Kr5hYcGLQLQIGhUZczi0kMg3SLA2": true,
+    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
+    "TbOkLLzL19WbvBilPAXFoga7aQG2": true,
     "yL6ajJSLtOURTN3DO1ycraUsvkV2": true,
-    "Kr5hYcGLQLQIGhUZczi0kMg3SLA2": true
+    "lP4jaXnTiiQGH1g8A29e8dh8Ml53": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
+    "jL2yjtbKjpTGTWpC7Ce7RwGwPUB2": true,
+    "P1cOg8kcZsUebytRnFWopTbQe6L2": true,
+    "NPvX83sZKEXnc64Kfk8z7xdI3yO2": true
   },
   "fileName": "FactStarter.png",
   "image": {
@@ -32,7 +32,7 @@
     "width": 809
   },
   "lastUpdatedDate": 1620151602048,
-  "numberOfFavorites": 16,
+  "numberOfFavorites": 15,
   "tags": [
     "/version/0,15/",
     "/production/science/",

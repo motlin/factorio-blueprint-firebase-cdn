@@ -7,14 +7,14 @@
   "createdDate": 1574943342354,
   "descriptionMarkdown": "Modified bp https://factorioprints.com/view/-LQg9FbDlOMiiAZ4OIRB.\nAdded LTN Stations. Needs 800-1000 bots. Changed Copper station, added 8x8 balancer and more chests.",
   "favorites": {
-    "XWZFJkzhVrYVJR0nfDoLtSu2hTC3": true,
     "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
-    "o3RlakDgveUdxRYHpnGCRsCXheb2": true,
-    "ESmSdqwV73ZpxHGMnKec6qGTz6G2": true,
-    "nXWEE1cr1paatsuIc6xPDCZg89s1": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "XWZFJkzhVrYVJR0nfDoLtSu2hTC3": true,
+    "TmJWKXeJ7ceUtM5qoFJ4Os1PA8J3": true,
+    "nXWEE1cr1paatsuIc6xPDCZg89s1": true,
+    "o3RlakDgveUdxRYHpnGCRsCXheb2": true,
     "JyRNJw4S6VVxjtpeNyH9NZep3UE3": true,
-    "TmJWKXeJ7ceUtM5qoFJ4Os1PA8J3": true
+    "ESmSdqwV73ZpxHGMnKec6qGTz6G2": true
   },
   "fileName": "modules_14s.jpg",
   "image": {
@@ -25,7 +25,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/modules_14s.jpg?alt=media&token=9a7ec1ab-bc0d-4647-b1f7-c98e15ea781f",
   "lastUpdatedDate": 1575028244876,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 9,
   "tags": [
     "/production/modules/",
     "/general/beaconized/"

@@ -7,14 +7,14 @@
   "createdDate": 1641048961796,
   "descriptionMarkdown": "Note: I do realize there are more compact smelting methods, but I find them a bit boring in their repetitiveness. It is possible to build similar throughput smelting with about half the amount of furnaces, by using more dense beaconing strategy, which ends using about half the furnaces as this build, but somehow more beacons. The ends result is build that is 70% the size of one presented here, but using almost exactly the same amount of power. My build also has roboports places better than most compact possible build. If you have a lot of beacons and speed modules, you can still try other methods.\n\nBack to this blue print.\n\nI spend many many many hours optimizing this build, finding minor improvements here and there.\n\nThe primary goal was to be close to square size, waste little space as possible, and have 2x \"Productivity modules 3\". And to not be too boring and repetitive.\n\nSo we use Electric furnaces with Productivity modules 3, Beacons with Speed module 3, reuse them for multiple smelting lines, and various tricks to get it running.\n\nBuild is semi-modular. Up to 3 smelting columns can be used, but 1 is also fine. Each column is slightly different. You can start with one column (I suggest the left most one), and expand later. Also the 3rd column, can be moved about 10 tiles lower, which makes it a little nicer in terms of connecting to 2nd column. You will need to modify the bp for this.\n\nIf more than 18 belts are needed, multiple builds can be staggered one under each other, with an offset of 18 tiles.\nI use two builds, one under each other, all feeding from one side, and outputting on the other side. Two such copper build would be enough for 1k SPM factory,\n\nThe weird balancers at the end each smelting row, are required otherwise it will not produce exactly 6.00 output belts, but often slightly less (5.99).\n\nThe basic idea is to fill the 5 belts fully, then taken an excess, route it down, and merge it until it is another full belt, and route it back, without wasting any extra space.\n\nThere are few roboports in the print, but of course you can remove them.\n\nPriming of all the belts can take many minutes, but I did run this build for 12 hours at 64x speed, and none of the input belts backed by even a single ore. So it is full throughput. The output belts are compressed at least 99.999% of the time (I do not guarantee it, there might be sporadic small gaps about once an hour).\n\nNote. Number of entities is not absolutely minimal. A lot of belt stretches can be replaced by underground, and vice versa. Depending what you want to achieve. I prefer to use undergrounds in some places, even if not needed, but also not to use in some other places, where I can use them. This is so the build is cleaner, and I see the flow of ore and plates easier, and understand the build easier without hovering over undergrounds every time.\n\nNote. All inserters and belts can be upgraded to higher versions and it will still work. But NOT ALL undergrounds can be updated to higher version, as this will break things!\n\nRequires 543MW of electric power to power everything at peak.",
   "favorites": {
-    "XpaG7mC0YJUv7eCMRr5xF1CeMha2": true,
-    "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,
-    "WRHArC9HWPejoXLRTWuU42CiQgn2": true,
+    "rTdHd4AIdCXW368sj2fdd6EeaQr1": true,
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
     "gNT96JpWYlUW5XTHcdPYZhxLMql1": true,
+    "XpaG7mC0YJUv7eCMRr5xF1CeMha2": true,
     "sJXXbMLBU2NZwoY119QC2xf9IQF3": true,
-    "rTdHd4AIdCXW368sj2fdd6EeaQr1": true,
-    "SgrhmMrDamhOR5rANrbYyqcQOUG3": true
+    "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,
+    "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,
+    "WRHArC9HWPejoXLRTWuU42CiQgn2": true
   },
   "fileName": "big-smelting.png",
   "image": {
@@ -25,7 +25,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/big-smelting.png?alt=media&token=a3d2d916-c5f9-4de6-855b-c0121c2415ea",
   "lastUpdatedDate": 1642333313962,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 7,
   "tags": [
     "/belt/express transport belt (blue)/",
     "/general/late game (megabase)/",

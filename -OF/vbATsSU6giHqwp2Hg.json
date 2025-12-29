@@ -7,30 +7,28 @@
   "createdDate": 1736166914541,
   "descriptionMarkdown": "An Orbital Ore Station for supplying space resources to the planet below.\n\nOS1 is my first orbital platform design to sit in orbit above an inner planet and passively supply materials, though the E variant is modified for Aquilo.\n\n- The A variant used filtering splitters which would get clogged up too much.\n- The B variant moved to separate conveyor lines for each asteroid type.\n- The C variant reduced the size considerably, while leaving some extra space for future requirements.\n- The D variant removes the extra space in C to save about 500 tons.\n- The E variant is based on the C variant and is specifically for Aquilo orbit. \n\nThe Aquilo modifications include Rocket Turrets, Rocket production, Piercing round production, and some asteroid reprocessing to account for the high amount of oxide asteroids around Aquilo. It also includes significantly more solar panels to account for the poor energy production above Aquilo. This design has a modified booster attached, which when full can make it from Nauvis to Aquilo (via Gleba). The booster is made to be deconstructed when in place above Aquilo.\n\nPlease note this uses UNCOMMON solar panels, though it 'might' be OK with common panels, there only seems to be strain on the power when a lot is happening at once, and the station is above Aquilo.\n\nI am unhappy with the piercing rounds magazine production. Around Aquilo, it uses all copper produced, and most of the iron. Regular firearm magazines will be fine, and so won't need copper or steel. F variant is on a to-do list.\n\nThese were designed to be build above Nauvis, and boosted into orbit above other planets with a temporary SS Propultion module.\n\nCurrently in use with space-age vanilla 2.0.28\n",
   "favorites": {
-    "SsExX09sJoN6VDxYVePRdWmRdIw1": true,
-    "tyUda5pcwuVFJjD0xEXewxdkMao1": true,
-    "6rBEfpVKWyTnxJ56kRJ5gNtlgxk2": true,
-    "9q7d0gDebihj4ebsiQSZ0g9aE8m1": true,
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "UUXDX0aZFASvRFVULz0iamxj6yV2": true,
-    "999xUtKBaaP9J1Pwu5YbfqGYcJf2": true,
-    "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
-    "fuuwDmYRtyQqT6ETliDsiqKn6AK2": true,
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
+    "9q7d0gDebihj4ebsiQSZ0g9aE8m1": true,
     "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,
-    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
-    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+    "SsExX09sJoN6VDxYVePRdWmRdIw1": true,
+    "fuuwDmYRtyQqT6ETliDsiqKn6AK2": true,
+    "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
+    "6rBEfpVKWyTnxJ56kRJ5gNtlgxk2": true,
+    "UUXDX0aZFASvRFVULz0iamxj6yV2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "tyUda5pcwuVFJjD0xEXewxdkMao1": true,
+    "999xUtKBaaP9J1Pwu5YbfqGYcJf2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true
   },
   "image": {
-    "height": 0,
     "id": "YRDzRxU",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/YRDzRxU",
   "lastUpdatedDate": 1736611619076,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 5,
   "tags": [
     "/planets/space-platform/",
     "/mods/space-age/"

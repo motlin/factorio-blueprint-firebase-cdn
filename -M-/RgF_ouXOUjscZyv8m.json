@@ -7,21 +7,21 @@
   "createdDate": 1581029329878,
   "descriptionMarkdown": "# Bot Bootstrap base 0.18+\nGets you to bots as soon as possible. Depending on early-game setup and Alien attacks, you can have bots about 2 1/2 hours into the game.\n\n## Why use this blueprint?\n\nWhile there are a few blueprints here that get you to bots step-by-step I always felt like those super-compact bases are neither pleasing to the eye nor easy to put down. So I made my own version of a Bot-Bootstrap base that not only looks a lot better but also is easier to manually paste, as the layout is very simple.\n\n## Startup\nDo your usual early game setup. There are blueprints for miners and power plants in the book that can help you to get things setup properly. You must research  _Automation_ and _Logistics_ preferably in this order. There is am optional blueprint named \"P0 Kickstart\" to get you the early game steel plates, belts and some science done, just insert copper by hand into the marked chest. This can be erased later once you have the real base setup.\n\nThe base (including the recommended amount of miners) will consume about 10 MW of power.\n\n## Phase 1\nGives you red and green Science and a mall.\n\nThe combinators at the edge of the blueprint tells you the final boundary of the factory. Make sure the space inside is free.\n\n### Smeltery\nThe setup starts with a basic smeltery which you should be able to paste right after researching Logistics to get some fast and easy resources. The inputs for the base are marked, the number is the approximate amount of miners you need to get the initial science started. Later you will probably want to upgrade those numbers, but for the first few phases that should be sufficient.\n\n### Red Science\nYou will have to place yellow inserters until you can build fast inserters. Remember to change them back later.\n\nNext to the science labs are several combinators that tell you the best order to research this print. Weapons, walls and Rails are optional.\n\n### Mall\nThis mall will contain most items that are used in this blueprint. You will still have to build a few items by yourself, but those should be easy to craft once the mall is ready.\n\nThe chests are limited with a cable, if you want to change the limits you need to change them on the inserter. This allows to easily replace those chests with yellow storage chests once you have bots (don't forget to set the filter!) so you can easily request and trash items and they get sorted into the right places.\n\nTurret, ammunition and walls have a very low limit. If you play with aggressive aliens you might want to increase those limits.\n\nGreen chips and gears are on a single belt for easy pickup in case you want some.\n\n### Green Science\nNothing special here, just paste and build.\n\nYou can later upgrade the inserters of the belt and inserter factory to fast ones, but that won't be necessary until you have blue science available.\n\n## Phase 2: Steel Furnace\nA simple extension to get steel furnaces and the blue factory. Steel plates are prioritized towards steel, this is intentional to get you the upgraded furnaces (and therefore better throughput) as fast as possible.\n\nMake sure to upgrade iron plate smelting first, then steel, then copper plates. You will also want to add more miners at this point, as the upgraded setup is now capable of processing a full yellow belt of iron ore.\n\n## Phase 3\nWill get you oil and blue science. Make sure to prepare a lot of either underground pipes or rails to get the oil.\n\n### Basic Oil Processing\nThis adds the basic oil processing, yet no machine that uses it, as you probably will take some time to get the oil connected to the base. The setup will need 40 oil/s, which can be done with as little as 4 pumps.\n\nThis part also adds the optional railway factory, which you can use if you want, or simply ignore.\n\n### Blue Science\nAdds blue science factories. It is recommended to paste this even before you have the necessary research and re-paste once you unlock a new one. This will allow the production to prefill and you can grab some engines from the machines for either trains or pumps.\n\n## Phase 4: Bots\nThis will add Advanced Oil Processing and subsequently bots.\n\nThe setup contains auto-cracking of overflowing resources and adds a few tanks for later use or as visual indicators.\n\nCongratulations you have bots now!\n\n## Aftermath\n\nThis setup does not contain military science, but you can add it easily near the steel production. \n\nRails and bots should allow you to easily setup your main base afterwards.",
   "favorites": {
-    "VFh1c0NEWmdA2t4uUPIXttfL8hF3": true,
-    "IUQ232nBYrRViNCB0iJCnbX3mAC3": true,
-    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "4mWWunqgWndfqqqYugmHFRtKJnV2": true,
-    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
-    "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
-    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
-    "JSCy0xVvUJSkkhnyucM73pab5Z23": true,
-    "r2qon0j9rfcxPJP3hHgFpUXNutv2": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "tQSpUW2HI7ac9uWHnn56coKvK4F3": true,
     "t1CqYYbO0dPbiOLbBAhrt9PkrrS2": true,
+    "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
+    "JSCy0xVvUJSkkhnyucM73pab5Z23": true,
+    "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
+    "IUQ232nBYrRViNCB0iJCnbX3mAC3": true,
+    "VFh1c0NEWmdA2t4uUPIXttfL8hF3": true,
+    "r2qon0j9rfcxPJP3hHgFpUXNutv2": true,
+    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
     "UDjiuZAWQagSwSfivz2hE3peqZj2": true,
-    "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true
+    "4mWWunqgWndfqqqYugmHFRtKJnV2": true
   },
   "fileName": "Factorio_Autobot.jpg",
   "image": {
@@ -31,7 +31,7 @@
     "width": 1304
   },
   "lastUpdatedDate": 1581422228104,
-  "numberOfFavorites": 15,
+  "numberOfFavorites": 14,
   "tags": [
     "/production/robots/"
   ],

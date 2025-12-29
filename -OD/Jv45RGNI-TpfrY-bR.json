@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Nir Adar",
     "userId": "I6YX1Ar1cWUwhbQgMcW4nyZkDs52"
   },
   "authorId": "I6YX1Ar1cWUwhbQgMcW4nyZkDs52",
@@ -7,23 +8,21 @@
   "createdDate": 1762361365281,
   "descriptionMarkdown": "### Legendary Electromagntic Planet Factory\n\nRequirements & Notes:\n- All items are normal quality, except for quality modules. The idea is to be able to rush legendary electromagntic planet right when we start the legendary race.\n- Input: 8 full stacked green belts of scraps.\n- It needs power to start, but after the factory is working, it produce its own electicity.\n\nTo start:\n- Connect inputs\n- Connect to power\n- Add 50-100 logistics bots\n\n\nIf you want the factory to create Holmium instead of EMPs, change the switch in the constant combinator\n\n**Update 9/11/2025**: Fixed a possible deadlock in the blue circuits recycler",
   "favorites": {
-    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
-    "rTspefedmvMsDpaHKUY1Tbnostv2": true,
-    "ZGSeDXgTlMYBram4gbC9C4m5fgT2": true,
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "D7hUYHCWoBfMKHBoRzcQlTxKJLT2": true,
-    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
-    "AEDDKViBgIdIL4XL4Kils8k0hc42": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
-    "uRNxi2W1Swh6s25Qy7TcPrh5Te42": true
+    "D7hUYHCWoBfMKHBoRzcQlTxKJLT2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "AEDDKViBgIdIL4XL4Kils8k0hc42": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
+    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
+    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
+    "ZGSeDXgTlMYBram4gbC9C4m5fgT2": true,
+    "rTspefedmvMsDpaHKUY1Tbnostv2": true,
+    "uRNxi2W1Swh6s25Qy7TcPrh5Te42": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true
   },
   "image": {
-    "height": 0,
     "id": "R2QMSaB",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762722284414,
   "numberOfFavorites": 11,

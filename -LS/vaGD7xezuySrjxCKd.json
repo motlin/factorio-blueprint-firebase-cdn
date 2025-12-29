@@ -7,23 +7,21 @@
   "createdDate": 1543966889045,
   "descriptionMarkdown": "Stcckers__",
   "favorites": {
-    "SpZQMBCZeBOdOjFgQD79f5fjGSc2": true,
-    "m07C5mwI17acIxJ8phHH9WSsqsZ2": true,
-    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
     "baSH3cg98OZu3Rtv9JVWHeOh2Yn2": true,
-    "x737lAhQ3Fcc8KAF6f2NLu8kWlm2": true,
-    "OcDokt6GSnNYuvqP9Dwj10J2WYb2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "m07C5mwI17acIxJ8phHH9WSsqsZ2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
+    "OcDokt6GSnNYuvqP9Dwj10J2WYb2": true
   },
   "fileName": "Stcckers.jpg",
   "image": {
-    "height": 585,
     "id": "wn8XnLr",
     "type": "image/jpeg",
-    "width": 431
+    "width": 431,
+    "height": 585
   },
   "lastUpdatedDate": 1543966889045,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 5,
   "tags": [
     "/version/0,16/",
     "/train/stacker/"

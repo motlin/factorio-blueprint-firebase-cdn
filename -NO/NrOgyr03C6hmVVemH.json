@@ -7,13 +7,13 @@
   "createdDate": 1705519193107,
   "descriptionMarkdown": "*Build once early on and upgrade as soon as you unlocking new tech!*\n\nProduce **1 full belt of green ECs**. Produces 1 full belt throughout upgrades from yellow to red to blue belts and assemblers and modules, width-compact, mainbus friendly. \n\n### Blueprint description\n```\nSIZE: 10x103\nOUTPUT: 1 belt/s Green Circuits\nINPUT: [1 / 1 / 0.93 / 0.90 / 0.82] belt/s iron plates\nINPUT: [1.5 / 1.5 / 1.29 / 1.20 / 0.99] belt/s copper plates\nPOWER: [3 / 7.8 / 13 / 17 / 65] MW\nPOLUTION: [2.5 / 2.5 / 4.9 / 6.6 / 7.4] per second\n\nUPGRADE: up to T5 as per standard, except:\nT1: FYI last 10 assemblers (below 2 lights) are not used yet.\nT5: circuit assemblers require 1 productivity module 1 instead.\n```\n\n### Bigger picture\nI'm making a series of blueprints that are:\n- **reliable** to always output 1 full belt at any upgrade level, and doesn't jam with fluctuating input.\n- **width-compact** with one-sided inputs and outputs, perfect for main bus.\n- **upgradable in-place**, organized in 7 tiers. Just replace with new belts/assemblers/modules and it's ready.\n  - tier 0: early-game for hand-crafting\n  - tier 1: early-game with early red science (assembler 1, belts 1, fast inserters)\n  - tier 2: mid-game with early green science (assembler 2, belts 2, furnace 2)\n  - tier 3: mid-game with late green science (modules 1, inserter capacity 2)\n  - tier 4: mid-game with early blue science (modules 2, provider chests, advanced refinery)\n  - tier 5: late-game with early purple science (belts 3, assemblers 3)\n  - tier 6: late-game (modules 3, beacon, coal refinery, inserter capacity 7)\n\nNames of blueprints indicate viable tiers, e.g. \"T15\" means throughout tiers 1 to 5. In picture combinators are informative only to display what inputs are required on which lanes (1 icon equals 25% of line throughput, rounded up).",
   "favorites": {
+    "vn3R666dBbQnGfQkbt2yGLU6wvl1": true,
+    "D5MQ8qRNH4WWb0YVaFC290Q8IJM2": true,
+    "75H3rlL5hqU5SvY2KrlQbI99EVk2": true,
     "CrVW5NutdOh7I07JRTX5v24CQ043": true,
     "cduzKLApmNRPda4A3eTbx6b7XRj1": true,
     "whRZSEdzupMC2x8usCsLtM1VLXz2": true,
-    "vn3R666dBbQnGfQkbt2yGLU6wvl1": true,
-    "D5MQ8qRNH4WWb0YVaFC290Q8IJM2": true,
-    "vjob7Xdt5hT8ULtPs5PRmUYpRIo2": true,
-    "75H3rlL5hqU5SvY2KrlQbI99EVk2": true
+    "vjob7Xdt5hT8ULtPs5PRmUYpRIo2": true
   },
   "fileName": "T15 greens.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 812
   },
   "lastUpdatedDate": 1705594974102,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/electronic circuit (green)/",
     "/mods/vanilla/",

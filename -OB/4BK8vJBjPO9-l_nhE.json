@@ -7,24 +7,22 @@
   "createdDate": 1730958938768,
   "descriptionMarkdown": "# UNTRA 2.0 tileable megabase parameterized blueprint\n## Outdated use v0.2 instead: https://factorioprints.com/view/-OBYY5lAxXl2Uk4qPgQK\nv0.1 - 8/11/2024\n\nThis is a tileable parameterized megabase blueprint for use in Factorio 2.0. It is purpose built to be small and efficient, with 1 chunk borders and 2x2 block interiors. It accepts a primary supply of up to five inputs and configures trains to run in defined groups.\n\nI am currently building and testing this in a playthrough with the intent to use in Factorio 2.0 and space age, and eventually with Recursive Blueprints to demonstrate the complete solution. It has a lot of features not everyone needs and is intentionally Too Much; I am working on an accompanying blueprint book with supply/demand stations and helpful starting blocks to bootstrap Nauvis megabase.\n\n## Features\n\n**Please modify this blueprint to suit your needs. HMU for support**\n\n* 96x96 blueprint with a 64x64 city block interior, ripe for the decorating.\n* red/green power poles with dedicated electric power poles.\n* lights attached to power circuit network read from color-components; use this to totally control the mood lighting of the factory.\n* additional lights connect to rail signals on the block, highlighting passing trains\n* supply station lights are red when limit = 0, and blue when limit > 1 . Ideally each block has one supply station, but may have multiple for additional output supply stations like spoilage.\n* demand station lights are green when a train is parked, and yellow when empty. Ideally each block has N stations for each ingredient, but entire blueprint pieces aren't conditional\n* blueprint sides have roboports requesting 10 construction/1 logistic robots.\n* rail system uses RHD 1-1 trains with supply/demand stations set to train limit 2. Trains run supply/demand in parameterized groups, with interrupts to refuel when low fuel and depot when no path. starts with 50 coal.\n* for use on gleba; replace with 1-1-2 train-cargo-trains and rocket fuel, and fight the spoilage with speedy delivery\n* for use on fulgora and vulcanus; replace with double headed trains and interface with challenging terrain.\n* rail system interchange has dedicated left-hand turn around edges that can be linked together\n* hazard, bricks and concrete identify different areas safe for building around the block.\n* interchange sides have laser defenses and walls that can be optionally removed\n* spacing for elevated rails around the interchanges, marked with bricks. ideally set up elevated express routes for spoilage or primary resource trains.\n* every city block has guaranteed access to fresh water and oil. Two fluid networks are spaced with pumps in either direction and spaced intentionally, so you can connect oil to the megabase fluid network and it arrives where it's needed.\n* parameterized with a supply station and up to five demand stations, each with two trains. This is extra wasteful but good to show the system in full affect. Select crafting a foundry this way, and see it _just work_.\n\n## [X][P][R][T] stations\nEach rail in the blueprint has a set of two [X][P][R][T] stations. These stations are for use with the Recursive Blueprints mod, and are currently under development with accompanying blocks that supply them. you can remove them if you dont want to use them.\n\n#### [X] - eXtermination \n* rail with roundabouts, electric network sufficient to power logistics network. Expands across 9 chunks\n\n#### [P] - exPansion\n* rail for stations in a defined block. fluid network and power generation\n\n#### [R] -eRection\n* buildings for an interior defined city block\n\n#### [T] exTraction\n* builds for mining and resource extraction from this city block",
   "favorites": {
-    "SvtonDLrHZbrwhtYdUrQfEGTLG43": true,
     "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
-    "QFcuWBuROKRLvcaX9UdHrIZkS693": true,
-    "vRL969Yuwobs6bbx04KBseqskNb2": true,
-    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
+    "aDP1vJACvUc94AQymQ45sAifgL22": true,
     "pbQmSn4c6eg7oyLzBf3CjqolCO52": true,
+    "QFcuWBuROKRLvcaX9UdHrIZkS693": true,
+    "SvtonDLrHZbrwhtYdUrQfEGTLG43": true,
     "duyVfOlUlrhRmtZ7pPgCEfjZfXo1": true,
-    "aDP1vJACvUc94AQymQ45sAifgL22": true
+    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
+    "vRL969Yuwobs6bbx04KBseqskNb2": true
   },
   "image": {
-    "height": 0,
     "id": "6jn5OMo",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/6jn5OMo",
   "lastUpdatedDate": 1731468351450,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 2,
   "tags": [
     "/general/late game (megabase)/",
     "/general/tileable/",

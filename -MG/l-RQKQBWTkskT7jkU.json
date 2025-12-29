@@ -7,25 +7,25 @@
   "createdDate": 1599623780949,
   "descriptionMarkdown": "These are my megabase blueprints, which I uses on my recent 0.18 Megabase game that I uploaded to Youtube.  All bluepints build items from raw materials supplied on 1-4 trains using 12 beaconed designs. Factories are belt based, using only a few logistics bots each to supply fuel to trains (10 bots per factory should be fine). The kickstart factory makes nuclear train fuel which it supplies to other factories using a 1-1 train to stations that are only enabled when the factories need more fuel. Factories have stacker space and needed trains, just connect the in and out tracks to your rail network, and point the trains to the mining outposts that they need.  You should only need one of each factory, except for the science factory. \n\nThe science factory stations build with a number '0' at the end of their name; renumber this to '1' or the next higher unused number to prevent trains from going to the wrong science factory. (Renaming the stations will automatically update the trains going to that station as well, as long as there is no other station with the same name, so only build one science factory at a time, and rename the stations before building another).\n\nMy recent series using these blueprints:\nhttps://www.youtube.com/watch?v=uuBLcdXd8cQ&list=PLKzNR4pPqUAmNaZ2UaxBUnuCPzxofzB-v&index=126\n\nIncluded blueprints:\n* 250 Science Per Minute Factory - does what is says, all 7 sciences, 4 copies will be about 1.1K spm.\n* Kickstart Factory - Builds items needed for making most other factories, supplies nuclear fuel for trains - original and v2\n* Module Factory - Makes 32 speed 3, 16 productivity 3 and about 2 efficiency 3 modules a minute - original and v2 (v2 includes efficiency)\n* Solar Factory - make materials for an included solar blueprint, v2 includes cliff explosives and radars\n* 26 Reactor Nuclear Power - for about 4GW of power.\n* Outpost Build and Supply Factory - build all materials for building self-powering, self-defending mining outposts\n* 4 different outpost blueprints, single and dual train loading, with and without defense walls.\n\n",
   "favorites": {
-    "9aBhrKqwPMOwKnCZrAEDD2xX4Tz1": true,
-    "cM3Daw8ZbWQMo2nyvkR6a43aHMu1": true,
-    "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
+    "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
+    "xnlgTu0McNS11pTHXU1OOoaQYi03": true,
     "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true,
+    "9aBhrKqwPMOwKnCZrAEDD2xX4Tz1": true,
+    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
+    "cM3Daw8ZbWQMo2nyvkR6a43aHMu1": true,
     "tabtFwwY2mQqS76Qc1KJnRDUvI02": true,
-    "xnlgTu0McNS11pTHXU1OOoaQYi03": true
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "fileName": "20200908234157_1.jpg",
   "image": {
+    "width": 1680,
     "height": 1050,
     "id": "CSWvoli",
-    "type": "image/jpeg",
-    "width": 1680
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1674973130342,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 7,
   "tags": [
     "/power/solar/",
     "/version/1,0/",

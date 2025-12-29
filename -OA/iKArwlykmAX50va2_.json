@@ -7,21 +7,19 @@
   "createdDate": 1730575384118,
   "descriptionMarkdown": "blueprint from https://old.reddit.com/r/factorio/comments/hx57ex/ive_made_many_nuclear_power_designs_in_my_time/",
   "favorites": {
-    "RMpS8VqCO3QCPWkDFzQSFflLOy63": true,
-    "Kj7GsBD4zSRlTEpWnnIFalJA10v2": true,
-    "3iB6YJMTBgSQ2ab48NRT32KrQky1": true,
     "ulUoR4z6mlf5n1zP6y4lCSsFGNi1": true,
+    "RMpS8VqCO3QCPWkDFzQSFflLOy63": true,
+    "3iB6YJMTBgSQ2ab48NRT32KrQky1": true,
+    "Kj7GsBD4zSRlTEpWnnIFalJA10v2": true,
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
   },
   "image": {
-    "height": 0,
     "id": "pZMlF50",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/pZMlF50",
   "lastUpdatedDate": 1730575384118,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 3,
   "tags": [
     "/power/nuclear/"
   ],

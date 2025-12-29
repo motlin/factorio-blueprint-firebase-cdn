@@ -7,10 +7,10 @@
   "createdDate": 1597609176916,
   "descriptionMarkdown": "Uses LTN + LTN Combinator. Designed for 1-2 trains. RHD.\n\nIncludes Provider, Requester, Fluid and Fluid Mining Stations. Includes 21 Train Depot and Single Depots.\n\nMod Settings are included in the Blueprint Notes. Follow the settings for best performance.\n\nLTN Settings:\nDispatcher Enabled: ON\nUpdate Frequency: 2\nUpdates per Tick: 1\nMessage Level: 1\nMessage filter timeout: 18000\nEnable Debug Log: OFF\nRequest Treshhold: 999M\nProvide Treshhold: 999M\nSchedule curcuit conditions: OFF\nDepot inactivity: 5\nStop timeout: 0\nDelivery timeout: 18000\nDelivery completes at requester: OFF\nFinish loading: OFF\nDepot resets filters: ON\n\nLTN Combinator Settings: \nDisable mod on version mismatch: OFF\nHigh Provider Threshold for Requester: ON\nProvide/Request Type: Normal and Stack thresholds\nShow Network ID: ON\nShow Priorities: ON\nShow Min/Max Train Length: ON\nShow Limit Trains: ON\nShow Locked Slots per Wagon: OFF\nShow Disable Warnings: ON\n",
   "favorites": {
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true,
     "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
-    "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   },
   "fileName": "LTN_Combi.png",
   "image": {

@@ -7,19 +7,19 @@
   "createdDate": 1682213406452,
   "descriptionMarkdown": "a series of blueprints to get all science production up and running quickly. every stage plops on top of the previous, the only exceptions being a switch to passive provider chests in later stages.",
   "favorites": {
-    "dDH5MGz2OwSvNcQkW0fvFsZgOly1": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "1vKFO4FV7DcWicQenktIb6rfSgG3": true,
     "opb7bULCrIRMJ51Me4t13a4FKne2": true,
     "zxxXFlEErjaUzsjhnv0BhCJv1Bm2": true,
-    "aIdYfYQHiMdVaZuYKAgBBzi9G0K2": true,
+    "dDH5MGz2OwSvNcQkW0fvFsZgOly1": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
     "TbOkLLzL19WbvBilPAXFoga7aQG2": true,
-    "nMxet4tbheU3tLIdVKHsVQmY46g2": true,
-    "bIPFXW9cXPZIFpj31lDO1Dfj1Fs1": true,
     "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true,
-    "YnpsCDBggTRWgHbCQCon4LyT7973": true,
-    "1vKFO4FV7DcWicQenktIb6rfSgG3": true,
     "opHTfqliofUUUE1R2DTaKcnTpSu2": true,
-    "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true
+    "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
+    "aIdYfYQHiMdVaZuYKAgBBzi9G0K2": true,
+    "YnpsCDBggTRWgHbCQCon4LyT7973": true,
+    "bIPFXW9cXPZIFpj31lDO1Dfj1Fs1": true,
+    "nMxet4tbheU3tLIdVKHsVQmY46g2": true
   },
   "fileName": "bus.png",
   "image": {
@@ -29,7 +29,7 @@
     "width": 1865
   },
   "lastUpdatedDate": 1682213406452,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 6,
   "tags": [
     "/production/science/",
     "/version/1,1/"

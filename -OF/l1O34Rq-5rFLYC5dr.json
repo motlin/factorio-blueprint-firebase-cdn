@@ -6,24 +6,22 @@
   "blueprintString": "0eNqtV9GOoyAU/ZWGZ5woiNX+wyabzONkMkHLdMkgMoC70zT990U7a9stbRX7VIp6zr3nHrnXHShFy5Tm0oLVDvCqkQasXnbA8I2kotuTtGZgBagxrC4Fl5uoptUvLlmEwR4CLtfsC6yS/SsETFpuOTsg9H+2b7KtS6bdDfAfEvtSmhkTte5JvdGN+41KJiyAQDXGATSy43WgeZw9EQi2YJUi8kQc25prVh3uyCGwW9UBcqla62K54ERBnMUsTnzBaTWVRjXaXmNM4huMHoo0JK0knZUWGTjLVnxEXBqmrbtws2ZutfdgZQNWzda8rSMmXCSaV5FqBPNB5vcgl7NUz8aongepfiRZBqheTFUqQfeUSuLRlTyxzDWw41vtPR9uuiPvBXFy8F6EqlGK6aiiZZ/ZYf/ts6XCMbrrstG1O5F8UaDx5jw6qfi/HgnyYePxcsVnqfnA0vFg6HqgqQ+aTK3ESXUfV4ks3A84eVgUywA/fNPf9UM+WefBFjg+z9AoWrFICWrfXS7Re3eQ0P7RaekWAa66TNfnKhSHu+px9URJQPPBeMyhjiYcHcNcgJH/9UZ43rzhCXloEU1rrw05aXg77Rl9mCTg1Otlua94Nq+PBoq0DO+kV0XKAzrpSFsW86ZlnIaIhOPpU9SJe9MxmeFkzqQ2kgPNG5DHqOe+dv64692nzksGCSwgeYX9yr2P3bLolst+2e0c1u4pblndOWb47IJAUBeS2/vRrFtB9eK56wuLn999YXHWF34zbfqQSIaKtCgIQSTDKNnv/wIhzYAS",
   "createdDate": 1735989498275,
   "descriptionMarkdown": "Modular production of Space platform foundation",
-  "favorites": {
-    "fQl0g3gm0KYf1Ok9SWv5B35E6Z22": true,
-    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true
-  },
   "image": {
-    "height": 0,
     "id": "h9McCyV",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/h9McCyV",
   "lastUpdatedDate": 1735989498275,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/",
     "/mods/vanilla/",
     "/version/0,15/"
   ],
-  "title": "Space platform foundation"
+  "title": "Space platform foundation",
+  "favorites": {
+    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
+    "fQl0g3gm0KYf1Ok9SWv5B35E6Z22": true
+  }
 }

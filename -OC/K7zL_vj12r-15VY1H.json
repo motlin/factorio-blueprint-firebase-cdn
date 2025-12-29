@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Peter Bozovic",
     "userId": "JxFR3ujSzfaCDQl7cajmO1rmfds2"
   },
   "authorId": "JxFR3ujSzfaCDQl7cajmO1rmfds2",
@@ -7,17 +8,15 @@
   "createdDate": 1761291270037,
   "descriptionMarkdown": "My friend didn't like how our first platform looked square in space, so he launched me the challenge to build a platform in form of Enterprise ! ... And voila ...\n\nEnterprise MK1\n- It can be build right after basic space sciences are done.\n- Asteroid collectors will filter and collect specific types of asteroids only if they are missing on the sushi belt.\n- Sushi belt is half used for the ressources and other half for the ammunition.\n- Asteroid processing is producing just enough what is needed for the fuel processing and ammo creation.\n- In some specific case, if the ammo production can't keep up and gets low on belts, fuel production will stop, platform will slow down, so that ammo production can catch up, and get back to speed when ready.\n- This first version can be used for any activity between Nauvis, Vulcanus, Fulgora, and Gleba.\n\nEnterprise MK2\n- It uses new buildings and all advanced technologies that are obtained from all other planets to make fuel and ammo.\n- It has rocket turrets that can hanlde big asteroids for the trip to Aquilo !\n- This version takes in all types of asteroids and then reprocess them if there is too much of some type.\n- Power can get low around Aquilo so Foundries are disabled at 20% of accumulators. The belt buffer is sufficient to handle the trip with lower production.\n- There are rocket turrets all around the ship to defend it if stationary on Aquilo, but rear ones are disabled when the ship starts moving to avoid waisting rockets.\n- Everything is without quality so that anyone can use it.\n- If upgrading, remove everything except the hub and cargo bays from the old version before placing the new one !\n\nPlatform weight is around 608 tons with storage space for 240 stacks of items and can achieve max speed of 194km/s.\n\nEnjoy ! ;-)",
   "favorites": {
-    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
-    "uMw2umSK3oRGbq68p8fE8xJLsmO2": true,
     "CLo7WMqppKYymyc3gWFtST9eUQJ3": true,
     "fCzOQFsJHYf7cn8pKJIAXPEZdjj2": true,
+    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
+    "uMw2umSK3oRGbq68p8fE8xJLsmO2": true,
     "gfmyQ0ffDMUcNXre92se2U7zZ2D3": true
   },
   "image": {
-    "height": 0,
     "id": "g9aHkTC",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1765712508291,
   "numberOfFavorites": 5,

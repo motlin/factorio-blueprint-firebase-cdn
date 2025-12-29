@@ -7,24 +7,24 @@
   "createdDate": 1590378636583,
   "descriptionMarkdown": "2-4 RHD Train Red Circuit Sub-factory (360 i/s)\n * Non-beacon.\n\nTrain stations are named\n* IRON PLATE UNLOAD\n* COPPER PLATE UNLOAD\n* GREEN CIRCUIT UNLOAD\n* RED CIRCUIT LOAD\n\nIncludes\n* 360 items per sec output (8x blue belts)\n* roboport coverage so the blueprint can be built with bots\n* circuit logic to disable the station unless it can accept a full train load and disable the station when a train is present.\n* entrance stacker for input trains\n* entrance stacker for empty output trains\n* exit stacker for full output trains\n* bypass rail for both input / output rails",
   "favorites": {
-    "JFUJeO0PJ2Ph9rNGa9rUlDtyfzc2": true,
-    "eav5eh4PPGfWR1ihTQtgY7qd7xz2": true,
-    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
-    "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "3x9Ets1cRiT92sqqLVFTZryVdgA3": true,
-    "10ModK5hcvYxWzoY10gE9fPRzP32": true,
-    "1W5Hm16wyBgppps1sUTg66CHojw2": true,
     "t1CqYYbO0dPbiOLbBAhrt9PkrrS2": true,
+    "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,
+    "Xm1fKyqX6Neb5GzNlMfdeVF9M0w2": true,
+    "JFUJeO0PJ2Ph9rNGa9rUlDtyfzc2": true,
+    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
+    "eav5eh4PPGfWR1ihTQtgY7qd7xz2": true,
     "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
-    "Xm1fKyqX6Neb5GzNlMfdeVF9M0w2": true
+    "10ModK5hcvYxWzoY10gE9fPRzP32": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "1W5Hm16wyBgppps1sUTg66CHojw2": true,
+    "3x9Ets1cRiT92sqqLVFTZryVdgA3": true
   },
   "fileName": "8gKSxsAnjm6VGD59X6Th.png",
   "image": {
-    "height": 2730,
     "id": "lFNVgxe",
     "type": "image/jpeg",
-    "width": 1638
+    "width": 1638,
+    "height": 2730
   },
   "lastUpdatedDate": 1590378636583,
   "numberOfFavorites": 11,

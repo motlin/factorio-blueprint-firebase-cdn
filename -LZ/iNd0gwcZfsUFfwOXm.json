@@ -7,8 +7,8 @@
   "createdDate": 1580252434652,
   "descriptionMarkdown": "v0.17\n\n2x10 Reactor setup, makes 1.44 GW of power\n\nSimple logic bot feed to a fuel supply train\n\nCircuit controlled inserters - disables empty fuel cell until the steam tanks are half empty.\n\nInputs:\n- 12x water pump sources.\n\nEDIT:\n(previous config:  https://imgur.com/wi9b8XW)  \n- I've edited the blueprint so that I can tile them more efficiently. \n- I also fixed some pump flow issues.\n\n ",
   "favorites": {
-    "TBeUXJVOAGNzAVTVzfP1DSr5ZsY2": true,
     "ymtWHEbKOoZQH4l0qIoAt60GuCA2": true,
+    "TBeUXJVOAGNzAVTVzfP1DSr5ZsY2": true,
     "JFPyqzZU1vT6FPVW7M33a34MNWs1": true,
     "VNP1SlJxc9ROzYH3bBRG11bc7eT2": true
   },

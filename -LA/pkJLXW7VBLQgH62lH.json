@@ -7,23 +7,16 @@
   "createdDate": 1524541507074,
   "descriptionMarkdown": "This is a blueprint book that has blueprints for a text display system.\nThis allows you to display messages from a set of preset messages (which you can change), or you can add some circuitry to have messages update in real time based off other signals in your factory.\n\nVideo of display in action: https://youtu.be/BLQjU02DN9o\n\n# Text Display Example\nThis is a text display that displays a set of example messages, switching through the messages based on a timer.  The messages are stored in the constant combinators along the bottom of the blueprint. Each combinator has signals 0-9 and A-F designating the ASCII code (0-127) of the character to display in each character position. A color can also be specified for each message to color the characters.\n\n# Text Display Blank\nThis is similar to the example version above, but there is no timer (instead there is a constant combinator choosing the message to display), and all the message combinators are set to blank.  This is what you probably want to use if you are making your own messages to display.\n\n# Text Display Font and Color\nThis is just the font and color circuit for a display, use this with the two different character size blueprints to make your own display. You can connect the signal wire with the message to display to the input of any of the decider combinators.\n\n# Text Display Single Character 5x7 and 10x14\nThese are two blueprints of an individual character that you can use to build your own display.  Tile them with other character to build a display by overlapping the medium power poles on the left and right. Then just set the input signal on the two upper left arithmetic combinators (mod and divide) to be the signal that you want the character to display.\n\n# Text Item Display and Text Item Display Count-To\nThese are two blueprints that are set up to display all item amounts in gave, for ever item / recipe / fluid.  One switches between items every 5 seconds.  The other switches a bit slower, but 'animates' the number, counting up or down to the new value as it switches.  It will read from logistics by default, and/or you can connect a red while to the pole by the roboport to have it read values from the wire (such as from fluid tanks, chests or train stops).",
   "favorites": {
-    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
-    "5dree0jIyHaSRqZ14iC4Jo3MhYu1": true,
-    "oGS6uVXLqyWW0PvfOIMM0U956le2": true,
-    "tqSOWmf0FlXT37Vr69wf2Mi5ugj1": true,
     "M0VBKD3Eqdg3VTw8JYghHssY3mo1": true,
-    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
-    "TPonfvHLqiTzDbdJg0Sv7KZglAA3": true,
-    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
-    "Vpoqth2NDYhlGzaGkECIGi0pqep1": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
+    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true
   },
   "fileName": "Factorio Prints.jpg",
   "image": {
-    "height": 496,
-    "id": "6UEY2j3",
     "type": "image/jpeg",
-    "width": 1658
+    "width": 1658,
+    "height": 496,
+    "id": "6UEY2j3"
   },
   "lastUpdatedDate": 1524541507074,
   "numberOfFavorites": 10,

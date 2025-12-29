@@ -7,13 +7,13 @@
   "createdDate": 1657371836542,
   "descriptionMarkdown": "Updated version of [Kraksna83's \"all-in-one\" mall](https://factorioprints.com/view/-MVAzSC4PfpNxkzGqjX2\n). This update only covers the \"all in one\" blueprint\n\nUpdates:\n- updated to latest version of K2/SE\n- replaced/removed some deprecated buildings\n- added speed module and productivity assembling (tier 2 max because 3 requires imersite)\n- sped up some assemblers that were making ingredients for other assemblers with speed modules\n- fixed outdated recipes\n- added input belts for wood (greenhouses), solid fuel (speed module), and quartz (laser turrets)\n- added belt to input Repair Packs into Roboport\n- switched back to inserters for storage chests :) also added filters to chests\n- added red/green status indicators for input belts\n- included upgrade planner to upgrade to blue belts\n\nthere are still a couple of empty spots where deprecated buildings were. I don't know what recipes they were crafting so I've left them empty. If you know, please comment and I'll add it to the blueprint.",
   "favorites": {
-    "9v81AZLyW6Ux7gVWvz42bJRZMtp2": true,
-    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
-    "EHq6ScQTiEQ5eA17OCvRtoZzC323": true,
+    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
     "iJIJsNu9eAXEg9Hr6sR8TIUButI2": true,
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
-    "6WuVyfoHcERbN2BUGLXv4IxDvar2": true
+    "EHq6ScQTiEQ5eA17OCvRtoZzC323": true,
+    "6WuVyfoHcERbN2BUGLXv4IxDvar2": true,
+    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
+    "9v81AZLyW6Ux7gVWvz42bJRZMtp2": true
   },
   "fileName": "k2se mall v3.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 4736
   },
   "lastUpdatedDate": 1657372111475,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 8,
   "tags": [
     "/general/early game/",
     "/production/mall (make everything)/",

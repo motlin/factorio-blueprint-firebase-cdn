@@ -7,17 +7,17 @@
   "createdDate": 1604116392372,
   "descriptionMarkdown": "This is a memory cell that can store up to 1023 bytes of data (0 is reserved as a \"void\" address).\n\nI/O is done through the green wire that connects to any of the substations. INFO should contain the address to read from, and 0 otherwise; likewise, DOT is the address to write to. M is the data signal - if INFO is non-zero, the contents of the corresponding address are added to the wire, and if DOT is non-zero, contents of M are written. It is valid for both to be non-zero, in which case memory will be copied (and adjusted accordingly if M is also input). Signals other than M, DOT, and INFO are ignored.\n\nAddresses go from 0 to 1023 inclusive, with 0 being reserved - reading from it will always yield zero. Each address stores 4 bytes of data (contents of one signal, i.e. a 32-bit signed integer).\n\n1-tick inputs work fine. Reads take 2 ticks from the moment INFO is set until M is updated, assuming a value was already stored at the address. Writes take 3 ticks from the moment DOT is set until the value can be read with INFO.\n\nIf you want more RAM, use the following Python script: https://pastebin.com/MiaX3Ve7",
   "favorites": {
-    "KHYeyqAvq0aTJLImH1gW3sG4atB3": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
+    "KHYeyqAvq0aTJLImH1gW3sG4atB3": true,
     "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
     "Cl7iZEP3OoaMKxkAKOZhfLAwHRW2": true
   },
   "fileName": "screenshot-tick-3747921.png",
   "image": {
-    "height": 1452,
-    "id": "XhW3xem",
     "type": "image/png",
-    "width": 1444
+    "width": 1444,
+    "height": 1452,
+    "id": "XhW3xem"
   },
   "lastUpdatedDate": 1606637227926,
   "numberOfFavorites": 4,

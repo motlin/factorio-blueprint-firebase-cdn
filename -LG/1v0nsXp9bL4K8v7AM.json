@@ -7,8 +7,8 @@
   "createdDate": 1559122156925,
   "descriptionMarkdown": "Ratio Math for 12 Nuclear Reactors, 16 equal sections of:\n- 1 Offshore Pump supplies 11 Heat Exchangers fully\n- 11 Heat Exchangers make 1,133.99 steam per second\n- 19 Steam Turbines require 1,140 steam per second at max load (only 6.01 steam per second difference between heat exchangers and steam turbines)\n - (Extra Steam Turbines have been added to take advantage of any extra steam being produced while not at full load.)\n- 176/11 = 16 Equal Sections with 11 Heat Exchangers in each section\n - (12 Nuclear Reactors support up to 176 Heat Exchangers)",
   "favorites": {
-    "kzemT7l62Od5fvXMuuqRz2ThQEr2": true,
     "MYYTyt3uQJMaJxB56V0KiG2L5t03": true,
+    "kzemT7l62Od5fvXMuuqRz2ThQEr2": true,
     "fvIxjOHvS8dXJe6l6dRHKZCoUEs2": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
   },

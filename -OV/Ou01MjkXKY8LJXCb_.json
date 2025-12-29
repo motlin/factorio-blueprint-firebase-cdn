@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Jun J",
     "userId": "UmJF1ZvrkMQfighIcBMvvMgmXTI3"
   },
   "authorId": "UmJF1ZvrkMQfighIcBMvvMgmXTI3",
@@ -7,17 +8,15 @@
   "createdDate": 1752781295806,
   "descriptionMarkdown": "These are infinitely tileable designs for Space Age, a bit smaller due to the exclusion of steam buffers.\n\nComes with 2x1, 2x2, 2x4 setup with 160MW, 480MW, 1.1GW output respectively.\nMake sure you prime the system with water before turning on.\n\nAll blueprints have more than the needed Heat Exchangers and Steam Turbines for their output(when placed by itself), but when tiled more and more, they will become online.\n\nThere is one belt dedicated for fuel input, and one dedicated for fuel output. They go opposite ways since you probably want the spent fuel sent back to where it came from for reprocessing.\n\nYou may decrease the temperature on the decider combinators, as long as you are not consuming more power than you can produce(lowest recommended is 650 degrees Celsius).\nIF you are consuming more than you produce, since the design does not have any steam buffers, you will experience periodical \"dips\" whenever the reactors need new fuel. A higher temperature threshold on the decider combinator will reduce the dips.\n\nThere are 2 types of blueprints for each setup : one with Roboports and one without.\nBased on vanilla coverage, you will need 1 setup WITH Roboports and 4 setups WITHOUT Roboports for full coverage when you do not want to waste Roboports.\n\nThere are enough gaps between the underground pipes(ones right above/below the belts) for you to plug in a pump whenever pipeline extends beyond the limit.\n\nYou should have enough space for logistic chests if you would like a bot-based fueling system. Just remove the belts and place logistics chests.\n\nThis design's based on this one by Kingdud : https://factorioprints.com/view/-OA4gcfXynl7cftYwtxE\nIf you are Kingdud and want this design gone, please let me know.",
   "favorites": {
+    "DxcHjN4nG1RqTAhr725nsbtbYlI3": true,
     "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
     "7El66SoblkMPufIlrPMB1UYvNkp2": true,
-    "DxcHjN4nG1RqTAhr725nsbtbYlI3": true
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true
   },
   "image": {
-    "height": 0,
     "id": "p8sq0Y7",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1752781295806,
   "numberOfFavorites": 5,

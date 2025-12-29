@@ -1,19 +1,12 @@
 {
-  "author": {
-    "userId": "VGRLvT7cEdUzA1ojUzWGmqgsz4e2"
-  },
+  "numberOfFavorites": 6,
   "authorId": "VGRLvT7cEdUzA1ojUzWGmqgsz4e2",
   "blueprintString": "0eNqdmG1vsjAUhv+K6WdY+grIX1mWJ+i6pQkCwbLMGP/7g7IZMzHct5+IlV49PT0vdzmKTT34rg9NFOVRhG3b7EX5ehT78NlU9XksHjovSvEV+jiMI4loqt15YHojteKUiNC8+29RqlMyMzNEv7uZ1tUhRt/fTNOnt0T4JoYY/LT65cfhXzPsNuObpbqfnYiu3Y8T2ua80vflnYMoU/3iRvB76P12+lOfbfrD01de7Ktm37V9TDe+jvdUPVHNMtNcmcO4q/6zb8fnA6qZpdrk12PtELshiplVLGx5mk+LqGXTHQ3Vy9CM8Efq5m29OiQ0D/yR46Y72PQCCLc0+zEZibc1bqWFT01Jmvpn73aOiuRa+hPAEtm8wrMt1b+7n+MYmgOctSIySuFUx0S/Woj+x+VAZbD1Ejc+B0JAMhFQEN5Qz5YCteYr8HmVRSdrPNEM7GSt2B4EJK+mGxtQZzTT2ezToazxRLS4lx0Qyo6o5BpPOLz/6pyFIlsvYGiGQ9csFNi+kaz+kABUsVDEUo0rA6gyGsOrJElXRmNZlYT4wrHyAzm1jIXOSgWTs1JBLhdXU/A9XfJ10KxZQQIclpWsQxAofi2DaqvVpJhBbDS09ODzy1pSIACZYB3ZyhFmRjJnk8vmhEvds2lgC1IOIMGApxZcBp2k1ZHkr/0OSTWi7zhNKg7EE4ZkAhHrLBmxgIZxjsxWhJnRUaDvrx5vyfStrLz5KJeIuhox45hdfQx1vaqrxq821fjYXoLgy/f7Czsrcq0LtZa5Pp3+A/SHljw=",
   "createdDate": 1530255586609,
   "descriptionMarkdown": "This ensures that all 8 input lanes (from 4 belts) are pulled from equally.  Each output is not necessarily round-robin on the input belts, but inputs are consumed at identical rates.\n\n13x6",
-  "favorites": {
-    "iH4952CJYZfCc5UOfj8r0BX6R3R2": true,
-    "TpXnPrHsYrTD6eoEWvS9KVGOUWC2": true,
-    "mut2zFqs3daDhWJ5Y3UxIXFl0xd2": true,
-    "OcBvLHMi5QRbuSul7nFtRgG5uZG2": true,
-    "dVqqwtEJdUT0XpGI2qfp14RjiQE2": true,
-    "cgsSEVKsdrMduNk7m88D8pKLAQ32": true,
-    "b1E2T6w2XSWHqUC3CrrEN8RT9I53": true
+  "lastUpdatedDate": 1530255586609,
+  "author": {
+    "userId": "VGRLvT7cEdUzA1ojUzWGmqgsz4e2"
   },
   "fileName": "4balance.jpg",
   "image": {
@@ -22,8 +15,6 @@
     "type": "image/jpeg",
     "width": 579
   },
-  "lastUpdatedDate": 1530255586609,
-  "numberOfFavorites": 7,
   "tags": [
     "/belt/transport belt (yellow)/",
     "/belt/balancer/"

@@ -1,27 +1,26 @@
 {
   "author": {
+    "displayName": "Mark Taylor",
     "userId": "NCQFbXT2ykb7gzfR3EXDIoevb6i1"
   },
   "authorId": "NCQFbXT2ykb7gzfR3EXDIoevb6i1",
   "blueprintString": "0eNrVWcuOmzAU/ZWR1zACY/PItuuuu6iiiAQPtUoMNWbaaMS/18AoQ4I9Y+NskCKRYOec+7DPxZc3cKw60nDKBNi9AXqqWQt2P99AS0uWV8M9lp8J2IEjLf0zZZSVfsFpVQEP/OnyioqLHKxISViR8wvoPUBZQf6BXdh7CphTzsva/5uXNZvNhf3eA4QJKiiZ+McflwPrzkfCJZh3tYPk0kjJ3tStnC6/SnAJ4WdZ+ow9IM1JouQZ92r7JKUg54mDFjPD2oaQwj/XRVcRPxptmybKeexA2au0qJYA4x8/fknDWpGffoNdMPirHAn7fS8/3sIraOIV3ppXkYlXcGteoatXouPH2hc8Z21Tc+EfSSVUPqbxjY8KTGyPmdzFraCcnKYpSMEQWzNkwZUhNWFIXBgydVxS+7hkN1YrMDN7zFQfiRAqKMLgjqNt5JoWckhp8SwGHqg70XTiIJW45tM+4LT8JYCKJrShSW5cWNJU5EXNAl0WvCaxYeSy4nWgK7YmvgE1SC02EbWrqSjYhqiFLvowOqkC/ZCEkd+nrCVcsz5ncOF9JlLdI8aS0kUxtH64SIYOFAYWwZnZ6BAcGNpQpg+hdBGP983zRd2BLlKizQ6yCVXykFBhG8r4IZT3u76TT+G85LW8Gkjme37EpRkQpoqipLHRgRm8i2cfOqA4ryzFJ7qSwsWas5Rv8vJCT5Sw08Vew6FWw+FMw3UjUDsSaQ8e2Sw1PB+eNHx5qT57UEHR15syCixwEwvc0K78oo2clKBL+cWLfaKiiNYVY30EVSTIpfya+YFdirEZRbyuNNuFKllXjO1I0jUCH38SLgO5jzKXgmyUIRSsK89WwUPhuoJsRwIdzizLYCnPLChaV3/tHEFWnTm0lW4PtmrNbcat2Ko3txm3XJpQKDaSntSFwqhXhzKXKpqYeIEDlyqaGMkODld0wRRJsGlWYbiiJWaWeBy5HGXNsoJcKqdibe2nTTfs8uvbHQ9UuUST974Nr2CefgyvYJ6+jyckOfhKeDv+G8cwQ1LaEhmfOM36/j/x25X7",
   "createdDate": 1759101994088,
   "descriptionMarkdown": "Large Miner into wagon that then pulls off four belts of ore. Meant for high throughput mining once high productivity is achieved.",
-  "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "DDCOcFeqhpZAnIGkWDb0Tf3lS4V2": true,
-    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
-    "Vx9R519Xg6TJDNtA74BzorAre3I3": true
-  },
   "image": {
-    "height": 0,
     "id": "YquqdBz",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1759101994088,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Cargo Wagon Mining"
+  "title": "Cargo Wagon Mining",
+  "favorites": {
+    "DDCOcFeqhpZAnIGkWDb0Tf3lS4V2": true,
+    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "Vx9R519Xg6TJDNtA74BzorAre3I3": true
+  }
 }

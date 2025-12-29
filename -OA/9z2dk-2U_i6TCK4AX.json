@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "MrGergoth",
     "userId": "QGsXGhqE2vOOK3t95f2B5hVRBcm2"
   },
   "authorId": "QGsXGhqE2vOOK3t95f2B5hVRBcm2",
@@ -7,26 +8,24 @@
   "createdDate": 1758973409924,
   "descriptionMarkdown": "Expandable blueprints with examples for common Gleba production.\n\nv1.0 and short guide inside",
   "favorites": {
-    "lAtz5zE9taMJW8EzZkzjuaoYds53": true,
     "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
     "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true,
     "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
-    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
-    "9rHsoMr2E3htFHLsPNzORgx5R603": true,
-    "V03cbTg2aiY28qnVwCnWgUoRjPx1": true,
-    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true,
-    "zF5Qt2qpLzQo2WDacyNGQLrYfab2": true,
-    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true,
-    "eZsE7LXsHvXdE2MTiVv9S3QaK8Y2": true,
-    "gYtM8373tVUHJMzhnUPiRnHQOHP2": true,
     "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+    "V03cbTg2aiY28qnVwCnWgUoRjPx1": true,
+    "9rHsoMr2E3htFHLsPNzORgx5R603": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
+    "lAtz5zE9taMJW8EzZkzjuaoYds53": true,
+    "gYtM8373tVUHJMzhnUPiRnHQOHP2": true,
+    "eZsE7LXsHvXdE2MTiVv9S3QaK8Y2": true,
+    "zF5Qt2qpLzQo2WDacyNGQLrYfab2": true,
+    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true
   },
   "image": {
-    "height": 0,
     "id": "WK9aoFI",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1759497362817,
   "numberOfFavorites": 14,

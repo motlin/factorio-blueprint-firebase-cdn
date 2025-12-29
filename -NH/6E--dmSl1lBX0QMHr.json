@@ -7,14 +7,14 @@
   "createdDate": 1697707200536,
   "descriptionMarkdown": "My personal rail-way blueprint book. Revision 10,2.  \nUploaded on request from reddit. This version wasn't meant for actual publishing, so names, descriptions and train station names are in German.  \n\n# Content\n\n-  Straight rails, curves, T intersection, 4-way intersection\n   - 4-way can be constructed by pasting the T intersection rotated 4 times on itself.\n   - Both T- and 4-way intersection can be placed directly on top of any 90° curve\n- Loading stations\n    - 8 & 16 blue belts\n-  Unloading stations\n    - 8 & 16 blue belts\n    - 2* 8 & 2* 16 blue belts (unloading 8/16 blue belts each of 2 different items)\n    - 3* 8 and 4* 8 blue belts (unloading 8 of each of 3/4 different items)\n    - A crude oil distribution station\n    - A somewhat space efficient, modular multi-station for low-volume stuff, for example for delivery to the mall. Designed for situations where continuous unloading isn't required\n\n### Mini dictionary:  \nBeladestation = Loading station  \nEntladestation = Unloading station  \nVersand = Distribution/Export  \nAnlieferung = Delivery/Import\n\n### How to use (un-)loading stations\n\nThese stations use train interlacing, so all train stops work in pairs. Each station alternates between the waiting trains.\nStations have set name including an X in name. Replace X in both stops of a pair with something, like a resource icon.  \nReconfigure the constant combinator near the train stop from the \"I\" signal to the resource to load/unload. That will configure the filter inserters at stations and the mixed output alarm for loading stations.\n\nTrain stations emit an E signal for each populated pair of stations, you can use to enable/disable builds, if something is missing.\nUnloading stations also have a disabled combinator set to E=1. If you use the built-in enable/disable feature, you can use this as an on/off switch for the entire build, by setting the switch to enable at E=x where x is the number of imported goods + 2.\n\nLoading stations contain an upkeep/maintenance station, for delivery of things like train fuel, etc. The station is configured to deal with air filters from the [Better Air Filtering](https://mods.factorio.com/mod/better-air-filtering) mod, but those blueprints will work in a completely vanilla world. It'll just contain unused inserters and chests. It requests a train whenever a requested good falls below 20% of the configured threshold, and then top it up to 100%.",
   "favorites": {
-    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true,
-    "51yGR0WvmyS9sexp506alZYhS5U2": true,
-    "9Cvwg7P0jyLxTdYnipjUE1pFgm33": true,
     "10ModK5hcvYxWzoY10gE9fPRzP32": true,
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true,
-    "IHXSZrh3HRO5rDrq9tgysSdIVXO2": true,
+    "51yGR0WvmyS9sexp506alZYhS5U2": true,
     "5vIicesU8vPlTOBqxf6Zf5Z0H6a2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "9Cvwg7P0jyLxTdYnipjUE1pFgm33": true,
+    "IHXSZrh3HRO5rDrq9tgysSdIVXO2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true
   },
   "fileName": "Screenshot_20231019_110220.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1108
   },
   "lastUpdatedDate": 1701894974254,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/",
     "/mods/other/",

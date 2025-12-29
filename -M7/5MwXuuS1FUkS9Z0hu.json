@@ -7,26 +7,26 @@
   "createdDate": 1589244840385,
   "descriptionMarkdown": "Not my design, but I'm putting it here anyway. Includes lane balancers for 1-1 and multiples of two, and belt balancers up to 8, and some 2^n balancers.",
   "favorites": {
-    "GwlVvGCMKygPvifQpxafUsZCMtq1": true,
-    "HjoONgfjeZRy42UBzDAg5RNWMmn2": true,
-    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
-    "E5qTtQ8X2Rdbdw9tNriimhvHinG2": true,
-    "erdWzKwaMCW5c97a0OvnZJSLDDS2": true,
     "TKtsPVsnE3OuvEMurkOUQwtU8Pl2": true,
     "TxV1I7MvUgRGBzzBb3J9cQnSOR73": true,
     "WqSdkhME7GbpgB2ETn8Hiu2XWgA3": true,
     "v1SeQRdbZbVIHdqTD9XgXVpK98S2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
+    "GwlVvGCMKygPvifQpxafUsZCMtq1": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "HjoONgfjeZRy42UBzDAg5RNWMmn2": true,
+    "erdWzKwaMCW5c97a0OvnZJSLDDS2": true,
+    "E5qTtQ8X2Rdbdw9tNriimhvHinG2": true
   },
   "fileName": "Balancers.png",
   "image": {
+    "width": 1187,
     "height": 424,
     "id": "4Ncsy8I",
-    "type": "image/png",
-    "width": 1187
+    "type": "image/png"
   },
   "lastUpdatedDate": 1589245421971,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 8,
   "tags": [
     "/belt/express transport belt (blue)/",
     "/mods/vanilla/",

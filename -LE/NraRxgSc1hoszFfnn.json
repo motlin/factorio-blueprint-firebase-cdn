@@ -7,18 +7,11 @@
   "createdDate": 1528351844513,
   "descriptionMarkdown": "# Introduction\nThis blueprint combines production of Speed Module 3 and Blue Circuits/Speed Module 1 in a single production setup. End game requires producing blue circuits and speed modules 1 for crafting RCU (Rocket Control Unit). This blueprint is able to conditionally produce Blue Circuits/Speed Modules 1 or Speed Modules 3. \n\nSpeed Modules 3 are produced when requested by logistic network else it produces Blue Circuits and SM1. \n\n# How it works?\nSome simple logic blocks belts  conveying Speed Module 1 and Blue Circuit if chest containing Speed Module 3 has not at least 50 items in. Once this threshold has been reached, the belts are unlocked. Speed Module 1 and Blue Circuits are now free to flow to the outside for RCU production. Those Blue Circuits and Speed Modules 1 can then be used to produce RCU for rocket.\n\n# How to use?\nFeed it. The Speed Modules 3 chest is a passive provider chest. Link the roboport to your logistic network for automatic installation of Speed Module 3.\n\n# Requirements for maximum output\n\nThere is two versions of the blue print: one with integrated oil processing for plastic and acid and one without integrated oil processing.\n\nThe oil processing blue print has to be fed with:\n- Copper Plate (about 6.7K/mn or about 3 blue belts)\n- Iron Plate (about 4.7K/mn or about 2 blue belts equivalent)\n- Coal (about 850/mn)\n- Oil (13k/mn)\n- Water (18k/mn)\n\nThe non oil processing one has to be fed with:\n- Copper Plate (about 6.7K/mn or about 3 blue belts)\n- Iron Plate (about 4.7K/mn or about 2 blue belts equivalent)\n- Plastic (about 2k/mn)\n- Acid (1K/mn)\n\n# Production rates\nBoth designs produce at about the same rate. \n\n- Speed Modules 3: 8 per minute\n\nor\n\n- Speed Module 1: ~230 per minute\n- Blue circuits: ~230 per minute\n\n\n\n\n",
   "favorites": {
-    "045KdRXaUxRheTe5vlrxfvnZlC22": true,
-    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
-    "esfltOaBosc6y52j0lE06bYSfaz1": true,
-    "i2pfS67GgwhdEKhFrV5INAHP2Ps2": true,
-    "KFXE0rDdT7ThUhyn2hfNPWpbhS82": true,
-    "PSkAdYzU8if4O4R02cy6YYlXBtY2": true,
+    "XJMOoG1yeJgTeuJd9E724ecxbxR2": true,
     "GEP7lYulJvTQodsLyvIkwUYoJSi2": true,
+    "045KdRXaUxRheTe5vlrxfvnZlC22": true,
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,
-    "GHaDjHfDFgQVbRwiR5VlDsdVwbq1": true,
-    "nOf4vW1Fc8ZUrWqBr7QB6a44UrU2": true,
-    "HcvCvQ5nbmWb2sHKxHGMUUclDkW2": true,
-    "XJMOoG1yeJgTeuJd9E724ecxbxR2": true
+    "GHaDjHfDFgQVbRwiR5VlDsdVwbq1": true
   },
   "fileName": "factorio-SM3_randomeseed.png",
   "image": {
@@ -28,7 +21,7 @@
     "width": 569
   },
   "lastUpdatedDate": 1528351844513,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 13,
   "tags": [
     "/production/modules/",
     "/general/beaconized/"

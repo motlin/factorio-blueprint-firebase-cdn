@@ -7,13 +7,13 @@
   "createdDate": 1676402697790,
   "descriptionMarkdown": "To use: Five required inputs are labeled with the Output signal of Constant combinators\n\nModified from: 'Rocket Factory' blueprint by Ryan and Kimberly Peterson (https://factorioprints.com/view/-Km1lkj01tpm3xAupmp_) to include:\n1. Supply pipes with light oil for the Rocket fuel assemblers (required since v0.17.60)\n2. Simplified resource inputs\n3. Cleanup of unused underground belts\n\nTested with: v1.1.76",
   "favorites": {
-    "sABywJGllROKgW7XWgjQwy96Jb03": true,
-    "pyA72hRJ9CNMQXyv3bHmjBimGQr1": true,
-    "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
-    "xn9VsXbjq1ZG8ipiqdl4VXkcAV23": true,
+    "9RxLVYS9qHfpjGSUqAobhyBauJN2": true,
     "Hs39fi80NTdEu4AQqOGpLwM4OwB2": true,
     "fwuffGNqBEfPutpP76Y10qbCfOZ2": true,
-    "9RxLVYS9qHfpjGSUqAobhyBauJN2": true
+    "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
+    "pyA72hRJ9CNMQXyv3bHmjBimGQr1": true,
+    "sABywJGllROKgW7XWgjQwy96Jb03": true,
+    "xn9VsXbjq1ZG8ipiqdl4VXkcAV23": true
   },
   "fileName": "image (3).png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 2172
   },
   "lastUpdatedDate": 1676402697790,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 5,
   "tags": [
     "/production/rocket parts/",
     "/general/beaconized/",

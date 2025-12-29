@@ -7,27 +7,27 @@
   "createdDate": 1612994122155,
   "descriptionMarkdown": "I've been working on a city blocky blueprint book using VTN by haphollas for train control and no stackers. VTN is vanilla train network, it uses the in game logic to control trains and stations, making it fast UPS wise and I have to say it works quite well.  I'm at the point where i would like to share it. Included is a train for iron ore as an example, solar and nuclear block, and a basic wall defense. All rail is grid locked and symmetrical.\n\nVTN is a system where the trains go do a depot to fill fuel and wait for provider station having a full load of stuff. Once the train arrives at the provider, it fills up and waits till a requester needs a full train load and has room for it, only then will the train leave the provider station. Threshold is customizable, as is wagon count and cargo room.\n\nWall, nuclear and solar is scaled for Krastorio 2. Trains use nuclear fuel and depot will unload the spent fuel cell. ",
   "favorites": {
-    "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,
-    "MZ06ZK4feKUIg1K6KPD2DjrvE5n2": true,
-    "H0OVd48PdpR5tnvLJ9W33wNaN612": true,
+    "a0Ug6rccqrOicl4YYgTIixV6lOK2": true,
+    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
+    "GXGsziPDIFSKVR2cd7YLJFXFiqN2": true,
     "2nwJipH6d1P5oD0L44kgFmSQ9Pp2": true,
     "apot99FcYSQNL8oLlSYQ4xpnj8n1": true,
-    "GXGsziPDIFSKVR2cd7YLJFXFiqN2": true,
-    "a0Ug6rccqrOicl4YYgTIixV6lOK2": true,
     "7kpEoeB766dOOixiid4z0wW78rI2": true,
+    "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,
+    "e2Yptj7aQmOWhgPibyc9vZP4c972": true,
+    "MZ06ZK4feKUIg1K6KPD2DjrvE5n2": true,
     "ro9d31Zv6vW5F2SyfTa0bP6zwfi2": true,
-    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
-    "e2Yptj7aQmOWhgPibyc9vZP4c972": true
+    "H0OVd48PdpR5tnvLJ9W33wNaN612": true
   },
   "fileName": "Screenshot 2021-02-10 225225.png",
   "image": {
-    "height": 610,
     "id": "vlDKBpC",
     "type": "image/png",
-    "width": 762
+    "width": 762,
+    "height": 610
   },
   "lastUpdatedDate": 1612994122155,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 9,
   "tags": [
     "/mods/krastorio/",
     "/general/tileable/",

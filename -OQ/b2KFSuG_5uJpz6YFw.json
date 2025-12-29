@@ -7,22 +7,20 @@
   "createdDate": 1747633132849,
   "descriptionMarkdown": "quality asteroid reprocessing space platform",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "3JXn7fgig5T8gdPO3Lr3hewZkQR2": true,
     "qO48gwmkE5WHm0RWhcLecLYb6lJ3": true,
-    "UBN0ZOOgGbMYCjYq2dg6LCxQyCw1": true,
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
-    "trWv1wAzqteajsouFPXqsQIbXjZ2": true
+    "trWv1wAzqteajsouFPXqsQIbXjZ2": true,
+    "UBN0ZOOgGbMYCjYq2dg6LCxQyCw1": true,
+    "3JXn7fgig5T8gdPO3Lr3hewZkQR2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "LxWRCmn",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/LxWRCmn.jpeg",
   "lastUpdatedDate": 1747633132849,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 3,
   "tags": [
     "/planets/space-platform/"
   ],

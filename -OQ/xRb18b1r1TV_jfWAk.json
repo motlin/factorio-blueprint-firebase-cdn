@@ -7,25 +7,23 @@
   "createdDate": 1748008858422,
   "descriptionMarkdown": "My Spaceship for reaching the shattered Planet.\n\nEnjoy.",
   "favorites": {
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-    "zFw7ietpHdPBw4vi3Ax7U6fiNj82": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
-    "gcG0qJUF01hARlScdBTkc9oOXbF3": true,
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,
-    "ouppqqHlrvaPTJhpUy9vBT8EEjR2": true
+    "gcG0qJUF01hARlScdBTkc9oOXbF3": true,
+    "zFw7ietpHdPBw4vi3Ax7U6fiNj82": true,
+    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
+    "ouppqqHlrvaPTJhpUy9vBT8EEjR2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
+    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true
   },
   "image": {
-    "height": 0,
     "id": "Xvdc9BA",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/Xvdc9BA",
   "lastUpdatedDate": 1748008858422,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/",

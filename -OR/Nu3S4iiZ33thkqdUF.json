@@ -7,25 +7,23 @@
   "createdDate": 1748469565532,
   "descriptionMarkdown": "Endgame ship capable of mass producing promethium or reaching the shattered planet at full speed. Attempting the latter may melt your CPU.\n\nEach wing has ammo and fuel production, which ensures redundancy in the event of damage.\n\nEmergency egg purge can be activated if too many biter eggs spoil before they can be consumed.",
   "favorites": {
-    "wwlqho5gWbeZ1Rbst6DHtQ40M2g2": true,
     "aPMMdjJ4F4QV6Hresn0UmhXUc4j2": true,
-    "FSUQDhQJYCWupZMjcQbAd0f28xN2": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
-    "5bqVPjDJSeUFKwSjyfOFgo7QaGP2": true,
-    "UBN0ZOOgGbMYCjYq2dg6LCxQyCw1": true,
-    "yaT1NaqrrahrlGN6ZzDO08XDnlc2": true,
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,
+    "wwlqho5gWbeZ1Rbst6DHtQ40M2g2": true,
+    "UBN0ZOOgGbMYCjYq2dg6LCxQyCw1": true,
+    "5bqVPjDJSeUFKwSjyfOFgo7QaGP2": true,
+    "yaT1NaqrrahrlGN6ZzDO08XDnlc2": true,
+    "FSUQDhQJYCWupZMjcQbAd0f28xN2": true,
     "uRNxi2W1Swh6s25Qy7TcPrh5Te42": true
   },
   "image": {
-    "height": 0,
     "id": "fRkPFvk",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/fRkPFvk",
   "lastUpdatedDate": 1748469565532,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 6,
   "tags": [
     "/planets/space-platform/",
     "/production/science/"

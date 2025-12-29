@@ -7,11 +7,11 @@
   "createdDate": 1682105613976,
   "descriptionMarkdown": "Handles 1-6 trains (tertiary use, no fluid stations for this type), 1-4 trains (primary use), and 1-1 trains (secondary type).",
   "favorites": {
+    "Ohb4SvhurNO7rZRBjTb22exZuMZ2": true,
+    "MXaM4k8Fv3cnaiymMtE3b5poyv32": true,
     "Mv0Ca8MtZ5O6FEZDPv8MwDPGlAE2": true,
     "ReVPGpPIwpggiIaTRDgIhFJrrLz2": true,
-    "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,
-    "Ohb4SvhurNO7rZRBjTb22exZuMZ2": true,
-    "MXaM4k8Fv3cnaiymMtE3b5poyv32": true
+    "ASp3yjDdeOdezgPcsyVIii0uvIk2": true
   },
   "fileName": "Q-CHARV3.png",
   "image": {
@@ -21,7 +21,7 @@
     "width": 517
   },
   "lastUpdatedDate": 1682105613976,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 1,
   "tags": [
     "/general/chunk aligned/",
     "/train/right-hand-drive/"

@@ -6,16 +6,9 @@
   "blueprintString": "0eNrtWMtu4zYU/RWBy0JKLUqyLQNdDLroB3TRRWAYlMTExEikhqKcBoH/vZfUw3JMJpKnQFHMIAFM8XF4eR+Hl/cNZWVLa8m4Qrs3VNAml6xWTHC0Q3j7a+N7FZNSSI9woY5UelK8QLvwclFljFPvhamjR7ymLplSMP4Ec9WL8DJaquYB+ajhpA6UCJ4lK/Qef6NdGProFX6is49YLniDdo9vqGHPnJR6CicVhf1pSXMlBWd5kDOZt0whvYAXVGOcfcuSJ9HyQr5O5mHrvB66Is+cKsCvS8Kn6NF57yPKFVOMdtKZj9cDb6uMStjeH6BqVtPufHpvOHAtGtZpsDvsQ2JOu3pIAL9gEnY2o1st2TtYfAXrBoPfs2V5NC5vFKVlkB9po25RthORLCjxiJK15deA8YZKMK0bxyFNMhdn41JRiC2w6xFWu44CwwWdMxIlPgAPDTgsAbuXh4weyYnBfJjUdNs1122w+eBqPnpiJUj+vncUo66pDHKSldpk31oCsQA7Ii5kBW6nd61qIo18O/Sb6Wh1xEUrfb7BU0dABk6vXVIthAN17eHPZovNxDNI/pExwtWVwqYOa1dfH5sHSUlxOAI3HPQs2B/UpWRL/XGGGTTTKlFQHcMWSbejpKqVmQiUJLyphVSBppRbedMl8ZUuBB+VMc81w9U7fGAEKjtm+ER8m7bVa23cgdetJqfb7eaz0HAOPEdL4Wc0NKBF9sAPo8XsiB1I8UxCdEly4aDhariBiF2qgb27y2/0Yyt5aM/PtXD9LOPgL0J+Zfx56Os/D5eLqLftiUnVmqAewtPMCP5CcBw0AKOcNArWB5oZ0NB/sFADU7TqaaqY3HdNTWkRQNS1JQ0ic9F1EzX7HBg/gd4EKKfjt/ELNGDowlyIRr9XqLUEQFDWCYT4HvCeBS0joXNEUx38W0y+XhwUscN5JqQJ2i2DklS12wVdKBdCs2cdt5TQwU3tb0mF7vCC/9ZevtO1XCOx08YXHs8oyU1MvFNi1FtlbaL63w2L0KmJcKIJh+x4Ncur1r38G7tX4Qv1N20Ge5qltyidDqwIF5InEpL4yrjkR5nUdqLQq5vQzowXVJ0QFGzMsZ6YbNR8KgQDH7VpIDUTXXJhkj60C0AHAjIv0r9XfoGlolVwWS4Ft6ZMOFqqIH39/1AaihdT7XbWKyiZmX+kjuBYLyLurQNlMzP3cElxJ/GnP4nfSfw4XexxoeOVG60WJ6nhrDdGFM59xLte8Xh+0norUvwzT/1f5KlRdGcdY+67/Ecoa0TLa1XhrBhO7qiXuCtMn5VIrEdb319L+KCY0F3/tmpCtFlOiI5ne7RdWvoL8awCS5Quq3C6BIxX9xaCZgoah3eWsUJLhWYPxAzfOk4fIx/7kLrjvf+4hmaYjE3ojaGJ9QzQE+7asQ9Eo9twq+Cuve+ITxtnLP77qCQgGPT9+cX7Q1LKvd87p21g7AQkYWRJ1jiN0zTZrHCySfH5/A8SPhtf",
   "createdDate": 1750119256342,
   "descriptionMarkdown": "One section makes 28/s, and has a relative grid to easily make a production line.",
-  "favorites": {
-    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "RzXli701yYf2TmxaxLKVpj0Rwkj1": true
-  },
   "image": {
-    "height": 0,
     "id": "YIPRJBR",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/YIPRJBR.png",
   "lastUpdatedDate": 1750119256342,
@@ -24,5 +17,10 @@
     "/production/electronic circuit (green)/",
     "/version/0,15/"
   ],
-  "title": "SA Compact Green Chips"
+  "title": "SA Compact Green Chips",
+  "favorites": {
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "RzXli701yYf2TmxaxLKVpj0Rwkj1": true,
+    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true
+  }
 }

@@ -6,12 +6,6 @@
   "blueprintString": "0eNqVlMFqxCAQQP9lznbZGI3GX1nKkm2HIiQmRLdtCP77JimFQld0jorzfIfHrHDr7zjN1gUwK9i30XkwlxW8/XBdv9+FZUIwYAMOwMB1w37yYXT48tX1PUQG1r3jN5gqvjJAF2yw+EM5DsvV3YcbztuDZ/MMptFvI6Pbf9sx9UkyWMAIcZIxsn8YXobhvxj5HFOXYWTGRpRhRMZGlmFUxqYpwzQZG1WGaTM2ugyjMzZtEYafM5jqTOyvSXAqYoAqweHEAlM+NTHBlI8gNpjykcQIUz4NscKUjyJmmPLRxA4PzrYTj91p/qxaBp84+2OE60qolitVq1ZqEeMDEwvIsg==",
   "createdDate": 1691784839663,
   "descriptionMarkdown": "The wall is a maze of enemies",
-  "favorites": {
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
-    "oPp0wVqswhY6nq2tupAreJt2bhe2": true,
-    "XH6aLBASVpPjvq2pdwhkvACk4Jw1": true,
-    "lyPTlzDER9ei9oDJhzTCkoQHFY52": true
-  },
   "fileName": "ScreenShot_20230811231259.jpeg",
   "image": {
     "height": 188,
@@ -20,10 +14,16 @@
     "width": 450
   },
   "lastUpdatedDate": 1691784839663,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/vanilla/",
     "/version/0,15/"
   ],
-  "title": "the wall of enemies"
+  "title": "the wall of enemies",
+  "favorites": {
+    "oPp0wVqswhY6nq2tupAreJt2bhe2": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
+    "XH6aLBASVpPjvq2pdwhkvACk4Jw1": true,
+    "lyPTlzDER9ei9oDJhzTCkoQHFY52": true
+  }
 }

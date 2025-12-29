@@ -7,27 +7,25 @@
   "createdDate": 1733092719500,
   "descriptionMarkdown": "Credit to the OP Kyoshi: https://factorioprints.com/view/-LdmDZfDeM-ElByLLEwT\nI just fixed some copper wire delivery issues, removed nanobots and moved a power pole or two. \n\nOG Description: \nFor me, a lot of Starter base is way too big for \"early\" game. Hardly a starter, many of them required me to build a smaller base.\nI won't call it starter base at all.\n\nSo..the idea is to built the base as you went through basic tech.\nYou built one segment one at a time, NO NEED FOR DECONSTRUCT the previous base, simply plop the new blueprint on top the previous one.\n\nYou don't built this on one go. Just follow the order. And it's only one chunk in size, really small both in footprint and in resources.\n\nI don't claim this as the most performance (ratio) base ever, hardly the case, but it's decent enough for me. After all, it's one chunk base, don't expect a otherworldly performance obviously.\n\nWHAT you produce in this Book :\n\nYellow Logistic (Belt, Underground, Splitter)\nPipe & Underground Pipe\nElectric Mining Drill\nYellow, Red, Blue and Green Inserter\nAmmo (Normal & Piercing)\nWall\nRail\nMedium & Big Electric Pole\nNanobot (If you're not using the mod, there's obviously will have empty space to built whatever you like)\nAlso another thing, the chain production is set in a way so that a dependency item will reach certain threshold first before the next item get built.\n\neg : Basic Inserter have to reach 50 in a wooden box before the next tier inserter started to built.\n\nPriority goes like this :\n\nYellow Belt 200 -> Underground Belt 100 ->Splitter 50\nAll must reach 50 : Yellow -> Red -> Blue -> Green Inserter\nPipe 100 -> Underground Pipe 50\nNormal Ammo 200 -> Piercing Ammo 400\nMedium Electric Pole 50 ->Big Electric Pole 50 ->Rail 500\nThe only thing that didn't depend on previous item stockpiles is the wall, but i limit to 1 K (due inventory player reason)\n\nSo, if you see an assembler didn't produce anything, it's because the previous item get stockpiled first.\n\nHere's the image all the base \"module\" in sequence :\nIn gif : https://i.imgur.com/g1sG4od.gifv\n\nIn Album : https://imgur.com/a/GUr7y9f",
   "favorites": {
-    "jn6hw84msxZzReQZU52ox8nmAyg1": true,
     "G7AVZTGORqhmzYxCvvkPZNWxZ303": true,
-    "hvNdjEvEeLSSyd3IOMw8rhapJoN2": true,
-    "dLuaj7RTnnYQwFy2LAYUgoWofbR2": true,
-    "alnedRAkieWc89Ijb4bjQ9WHxaF3": true,
-    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
-    "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,
-    "DOmhyRLBb6YK8sTdqUddd9EmDFC3": true,
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "DOmhyRLBb6YK8sTdqUddd9EmDFC3": true,
+    "IsH912NLkYh0gaUC7P4t3aDb0Uv1": true,
+    "alnedRAkieWc89Ijb4bjQ9WHxaF3": true,
+    "dLuaj7RTnnYQwFy2LAYUgoWofbR2": true,
+    "hvNdjEvEeLSSyd3IOMw8rhapJoN2": true,
     "9SdpPOmgVLVPuEwudErphhaXzga2": true,
-    "SkqFbXXF95TtIy2W3SQjNj0UAyr1": true
+    "jn6hw84msxZzReQZU52ox8nmAyg1": true,
+    "SkqFbXXF95TtIy2W3SQjNj0UAyr1": true,
+    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true
   },
   "image": {
-    "height": 0,
     "id": "XOuox2y",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/XOuox2y",
   "lastUpdatedDate": 1733092719500,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/compact/",
     "/general/early game/",

@@ -7,11 +7,11 @@
   "createdDate": 1628437727105,
   "descriptionMarkdown": "6 lane rail system (3 in one direction, 3 in the other)\n\nIncludes straight track, lane switching track, 4 way intersection, Merging off ramp pieces (I don't really know what to call them, you'll see what they are in the picture), track cap, and adapter track to single lane track. Additionally contains armoured external straight track and intersection pieces protected by 4 lanes of laser turrets.\n\nI know it is inefficient, I'm working on fixing that.\n\nIt snaps into place to fit in my world. It may snap off center in your world. You may have to either disable grid snapping or modify it to fit to your factory.",
   "favorites": {
-    "5p0E6xfD8NMBxe6XfURuge4g9oq1": true,
-    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "XoCxLqSLEkOOcsnzT6izq3XWptr2": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "5p0E6xfD8NMBxe6XfURuge4g9oq1": true
   },
   "fileName": "Screen Shot 2021-08-08 at 9.41.50 AM.png",
   "image": {
@@ -21,7 +21,7 @@
     "width": 2868
   },
   "lastUpdatedDate": 1628437727105,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/train/junction/",
     "/train/track/"

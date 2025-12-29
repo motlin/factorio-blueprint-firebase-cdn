@@ -7,8 +7,8 @@
   "createdDate": 1638114882029,
   "descriptionMarkdown": "found that most current roundabouts would make my train crash into its own rear if a station opening up meant the train would make a 270 degree turn. so yeah mostly just a small case situation.\n\nContains: roundabout, straight, crossover and a converter for prior rails that use a 2 land interchange between inner lanes.\n\nUpdate 1: \n\nAdded straight to 45 degree converter, 45 degree straight and crossover and a T junction.\n\nRemoved some rail signals on straights that were causing dual signals when chaining rails.\n\nUpdated some of the icons of the blueprints\n\nUpdate 2:\n\n1 track length difference between t-junction and regular straights fixed\n\nNo current plans to add more variants unless requested\n",
   "favorites": {
-    "n9aVDCGTHFYoE5FX0pOOeyzYzpf1": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "n9aVDCGTHFYoE5FX0pOOeyzYzpf1": true
   },
   "fileName": "3-8train junction.PNG",
   "image": {
@@ -18,7 +18,7 @@
     "width": 911
   },
   "lastUpdatedDate": 1659059042665,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/train/junction/",
     "/train/roundabout/",

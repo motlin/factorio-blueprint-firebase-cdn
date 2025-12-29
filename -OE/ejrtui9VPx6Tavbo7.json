@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Andreas Ekstrand",
     "userId": "yaT1NaqrrahrlGN6ZzDO08XDnlc2"
   },
   "authorId": "yaT1NaqrrahrlGN6ZzDO08XDnlc2",
@@ -7,20 +8,18 @@
   "createdDate": 1763801268016,
   "descriptionMarkdown": "Tileable designs for Vulcanus",
   "favorites": {
+    "SJTfmXGvYueBly6OnM37psCajF82": true,
+    "8ZSFoC1WwKVymSzWDF0syztAhA73": true,
+    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true,
     "NW4YQxc1ePW1nK46PZuHygEg7Xs2": true,
     "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-    "e9C8YWan8SQ3HuODx60vcp8bWB82": true,
-    "DOmhyRLBb6YK8sTdqUddd9EmDFC3": true,
     "YJMDD2DSaLeK3N1Mao06xz3NW1A3": true,
-    "8ZSFoC1WwKVymSzWDF0syztAhA73": true,
-    "SJTfmXGvYueBly6OnM37psCajF82": true,
-    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true
+    "e9C8YWan8SQ3HuODx60vcp8bWB82": true,
+    "DOmhyRLBb6YK8sTdqUddd9EmDFC3": true
   },
   "image": {
-    "height": 0,
     "id": "tw7oyor",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1763801878915,
   "numberOfFavorites": 8,

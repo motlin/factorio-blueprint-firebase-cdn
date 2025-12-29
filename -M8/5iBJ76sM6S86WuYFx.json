@@ -7,18 +7,18 @@
   "createdDate": 1590324414132,
   "descriptionMarkdown": "An all beacon and bot 151spm module for megabase construction. Fed only by raw ingredients, (Ores, Stone, Coal, Water and Crude Oil). Produces all science and tested using the Follower Robot Count research which uses all 7 science flasks. Uses aprox 4500 logistics robots at Worker Robot Speed level 10. Produces excess Rocket fuel at 70 units per minute to fuel delivery trains. Uses just under 1.9 GW of power. Takes about 10 minutes to stabilise after construction to allow science buffers to fill up. \n\nWorks best if raw ingredients are fed by bots from the left hand side. Made in version 0.18.22",
   "favorites": {
-    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
-    "CLDba7IUmhNcDPYpx44cd6D4q183": true,
     "cMy9R11g4aQyNd7DuWRDfTtRkHN2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "CLDba7IUmhNcDPYpx44cd6D4q183": true,
     "7y8w3vjjzLOjADeQW8v3qtzxkaJ2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true
   },
   "fileName": "MBU02.jpg",
   "image": {
+    "width": 1472,
     "height": 1479,
     "id": "Bjhr4DU",
-    "type": "image/jpeg",
-    "width": 1472
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1590328870585,
   "numberOfFavorites": 5,

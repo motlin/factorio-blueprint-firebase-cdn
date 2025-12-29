@@ -7,29 +7,27 @@
   "createdDate": 1746235060662,
   "descriptionMarkdown": "I take no credit for the vast majority of this base. It started off as a blueprint titled, 1k SPM / Belt Fed (LTN). I have looked for the original author to credit them, but to no avail. After 2.0 and the removal of the Rocket Control Unit and Satellite from Space Age, I was able to cut off about a quarter of the base dedicated to building rockets and satellites to produce Space Science from 4 silos. I repurposed some of the existing raw material lines into making all the necessary Space Platform parts (using blueprints from the book Modular Rocket Builder by Slapping Tree https://www.factorio.school/view/-OBMXnR3t08j7OxyN5kV) as well as feeding a Rocket Silo factory (by Gabriel Santos https://factorioprints.com/view/-OGgq2YFTrjfZaKm73w0).\n\nAgain, I want to point out that I am not the creator of the main components of this blueprint. The only thing I did other than fix the broken rail lines, was add a small rail stop to bring Solid Fuel for refueling the trains as they stop to unload materials.",
   "favorites": {
+    "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,
     "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
+    "WV5dTP2A7GaBekQdNc1k98CrE9C3": true,
+    "G8a1gDMx5dRj7rOJ1MMa9EYvIz33": true,
+    "FAwJq9XFowfA7eZymvwWT9alVfn2": true,
+    "b9mDJAyeOiRNbl82africXrpMA02": true,
+    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
+    "mWNnSX7gZNZ3HSBKATOad3FzKic2": true,
     "7El66SoblkMPufIlrPMB1UYvNkp2": true,
     "CBD6AMehCReeOQ2j90JGChYZf7E2": true,
-    "wlfm3eTxjCMv6cvVL4iSIcOqRvI2": true,
-    "b9mDJAyeOiRNbl82africXrpMA02": true,
-    "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,
-    "G8a1gDMx5dRj7rOJ1MMa9EYvIz33": true,
-    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
-    "WV5dTP2A7GaBekQdNc1k98CrE9C3": true,
-    "FAwJq9XFowfA7eZymvwWT9alVfn2": true,
     "gKTk9JmYsxVTWc6fQMpNBaTyyYy1": true,
-    "mWNnSX7gZNZ3HSBKATOad3FzKic2": true
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
+    "wlfm3eTxjCMv6cvVL4iSIcOqRvI2": true
   },
   "image": {
-    "height": 0,
     "id": "f28bUiM",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/OOyG2WK.jpeg",
   "lastUpdatedDate": 1753241988042,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 7,
   "tags": [
     "/production/rocket parts/",
     "/production/science/",

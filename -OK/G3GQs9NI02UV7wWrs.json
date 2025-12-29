@@ -7,20 +7,18 @@
   "createdDate": 1740821829466,
   "descriptionMarkdown": "Includes 4 stations that can be added seemlessly to the cat ",
   "favorites": {
-    "3BZ3WemRkbTrHLkAUy4ElNa2Aqx2": true,
     "eemzpJH02OU0JBfK3fuUlagWM0j2": true,
+    "fjiDOvTIwuZynsDOq75Kf3qcG2n2": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
-    "fjiDOvTIwuZynsDOq75Kf3qcG2n2": true
+    "3BZ3WemRkbTrHLkAUy4ElNa2Aqx2": true
   },
   "image": {
-    "height": 0,
     "id": "tGoOjmz",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/tGoOjmz",
   "lastUpdatedDate": 1740821829466,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/tileable/",
     "/train/track/",

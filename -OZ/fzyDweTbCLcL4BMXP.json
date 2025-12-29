@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "GERWVN",
     "userId": "NsOYZA0L0UOhPA2rzFjFM7bJ36H2"
   },
   "authorId": "NsOYZA0L0UOhPA2rzFjFM7bJ36H2",
@@ -8,19 +9,17 @@
   "descriptionMarkdown": "✈️ B-2 Spirit Inspired Space Station By @GERWVN\n\nThis space station blueprint is inspired by the iconic B-2 Spirit stealth bomber. (All normal items notated by 'N' version 1)\n\n    •    Silhouette: Wide, angular wings with 10 embedded thruster bays that mimic the dual-engine layout split 5 per wing.\n\n    •    Nuclear Power Core: Up to 46MW of Nuclear power\n\n    •    Hybrid Solar Grid: Scales up to 70 MW solar capacity\n\n    •    Adaptive Turret System: Active only when ammo count > threshold.",
   "favorites": {
     "mmUTooTWTFgUI2mLDQ2Nm3PciZt1": true,
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "WV5dTP2A7GaBekQdNc1k98CrE9C3": true,
-    "j4jskFYpP9bp0hMsdZN3bm2eWrr2": true
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
+    "j4jskFYpP9bp0hMsdZN3bm2eWrr2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "EL9YYDc",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1757380147853,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/planets/space-platform/",

@@ -7,22 +7,20 @@
   "createdDate": 1738558578368,
   "descriptionMarkdown": "A station for the production of iron plates of legendary quality. Capacity 1300/m",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true,
-    "AG9IMHY98Ie01rZVvISMDUbcbGr1": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
+    "AG9IMHY98Ie01rZVvISMDUbcbGr1": true,
     "kYvAjsaiG2aMCZOiqFDnQluPUEc2": true,
-    "x7rFcsfZydeaL7n39h7uxItkZpK2": true
+    "x7rFcsfZydeaL7n39h7uxItkZpK2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true
   },
   "image": {
-    "height": 0,
     "id": "hKXc29Z",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/hKXc29Z",
   "lastUpdatedDate": 1738558578368,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/quality/"
   ],

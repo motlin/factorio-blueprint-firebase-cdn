@@ -7,25 +7,25 @@
   "createdDate": 1582576364006,
   "descriptionMarkdown": "Książka schematów, którą wykorzystuje w swojej serii Inteligentna Megafabryka:\nhttps://www.youtube.com/playlist?list=PL3vWpMYdnAKU1pErIvlbiSNOfiYl5jF9h",
   "favorites": {
-    "a4yUn9TrwpeNaNLrWpVbMmMLpOi2": true,
-    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
-    "SKntgQi8wWVOj4tTaZH5Fn6uzJp2": true,
-    "7TLzE7qzxmcl0rxOwrY9WgcGM8K2": true,
     "deG4vVlZ3UWJpgzJMxXMvmZTT3v1": true,
-    "mrc2AeDExTQtRXSRqzqmYSzRsxB2": true,
-    "PuElJsUlrbVfeRMLi3Qxa8sum7X2": true,
-    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
     "Ow2rrshMQzQmlyow5dyD2vnB3qy1": true,
+    "ZL3Vpem8z0SoGs0QBAeyoyoUtVG3": true,
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,
     "FxMzmqKm8qYyBIf9Nm7sQA6M1HX2": true,
-    "ZL3Vpem8z0SoGs0QBAeyoyoUtVG3": true
+    "PuElJsUlrbVfeRMLi3Qxa8sum7X2": true,
+    "mrc2AeDExTQtRXSRqzqmYSzRsxB2": true,
+    "SKntgQi8wWVOj4tTaZH5Fn6uzJp2": true,
+    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
+    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
+    "a4yUn9TrwpeNaNLrWpVbMmMLpOi2": true,
+    "7TLzE7qzxmcl0rxOwrY9WgcGM8K2": true
   },
   "fileName": "megafabryka.jpg",
   "image": {
-    "height": 1080,
     "id": "0q6mjo3",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080
   },
   "lastUpdatedDate": 1615920001715,
   "numberOfFavorites": 12,

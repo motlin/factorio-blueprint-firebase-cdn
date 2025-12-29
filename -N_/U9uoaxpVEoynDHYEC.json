@@ -7,11 +7,11 @@
   "createdDate": 1689518848203,
   "descriptionMarkdown": "For use with other blueprints, changes will need to be made within the combinators and other systems.\n\n[Note from Author] This was not really meant to be easily placable or tilable, and was a passion project of mine. This is included for those who wish to study it and/or figure out how to use it themselves. I cannot guarantee that it will work out of the box by any means. I encourage you to try! I should also state that you may have to fiddle with the clock timings.",
   "favorites": {
-    "iK2kVinIQQP3vx2H1Q2yKX62JEB2": true,
-    "VvRsZCs69DXwoX9Axr0L17XYLGn1": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
     "yaT1NaqrrahrlGN6ZzDO08XDnlc2": true,
-    "xL8OB7w2o6brkJGDuCEwSwMTzBI3": true
+    "iK2kVinIQQP3vx2H1Q2yKX62JEB2": true,
+    "xL8OB7w2o6brkJGDuCEwSwMTzBI3": true,
+    "VvRsZCs69DXwoX9Axr0L17XYLGn1": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "20230716104634_1.jpg",
   "image": {
@@ -21,7 +21,7 @@
     "width": 2560
   },
   "lastUpdatedDate": 1689518848203,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 2,
   "tags": [
     "/circuit/indicator/",
     "/power/accumulator/",

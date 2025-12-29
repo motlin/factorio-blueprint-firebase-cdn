@@ -7,14 +7,14 @@
   "createdDate": 1598964782441,
   "descriptionMarkdown": "I got this idea from a YouTube video and got inspired to make it a public blueprint.\nversion 0.0:\nThis is in it's beginning stages. I have the rails matching, but the signals may not match. I have not gotten to balancing the loaders yet or improving the stations. This is meant for 1-1 trains but the hexes could still be used in other configurations. \nVersion 0.1:\nAdded loading and unloading stops, unloaders, fuel stops. Stackers are not properly sized, signals are not perfect yet. Fuel inserter logic isn't quite right yet.\nVersion 1.0:\nFinalized hexagon tesselation, added some blueprints for how hexagons look when in-use.\nVersion 1.1: \nFixed the transfer location logic.\nAdded tiling for hexes with refined concrete.\nAdded red and green wires to each big power pole on the hexagons.",
   "favorites": {
-    "clPIPUDST6bu0tk7op5YNCPvIdT2": true,
-    "jUpWwmrWkmbaVl9qXGW0Kf5Qfs92": true,
-    "THLPFEC5KMXGBojVsr1a2mNaMpU2": true,
-    "gDPxXsMTxpSaNoeAv932oN5QZUE3": true,
-    "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
-    "HKciyRWBwvNd2IiY9P33koIEty63": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "THLPFEC5KMXGBojVsr1a2mNaMpU2": true,
+    "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
+    "gDPxXsMTxpSaNoeAv932oN5QZUE3": true,
+    "jUpWwmrWkmbaVl9qXGW0Kf5Qfs92": true,
+    "clPIPUDST6bu0tk7op5YNCPvIdT2": true,
+    "HKciyRWBwvNd2IiY9P33koIEty63": true
   },
   "fileName": "HexBase.png",
   "image": {
@@ -25,7 +25,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/HexBase.png?alt=media&token=f562bf3c-03be-4434-b387-da21c05f1642",
   "lastUpdatedDate": 1611685424721,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 7,
   "tags": [
     "/train/right-hand-drive/",
     "/train/track/"

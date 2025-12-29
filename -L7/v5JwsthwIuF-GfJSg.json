@@ -7,28 +7,14 @@
   "createdDate": 1521409937719,
   "descriptionMarkdown": "This blueprint book contains a set of tileable blueprints for right hand drive rails. They are designed around 1+4 trains, with some segments of track within junctions stretched to accommodate a single 1+4 train without blocking other routs. It has lights and green and red wires. This pack includes:\n\n* 4 lane (2+2) straight (5 electric poles)\n* 4 lane with lane swaps\n* the swaps stand-alone\n* 4 -> 2 (which is also 2 -> 4)\n* 4 lane cross roads\n* 4 lane T junction\n* 4 lane T junction out to a 2 lane exit\n* 4 lane corner\n* 2 lane long (5 electric poles)\n* 2 lane short (3 electric poles)\n* 2 lane cross (3 electric poles)\n* 2 lane T junction (3 electric poles)\n* 2 lane corner\n* 2 lane wall segment with artillery station\n* as above, with a T junction from inside the wall\n* as above, with train turning\n* 2 lane rightwards wall segment, tiles to right of artillery station\n* 2 lane leftwards wall segment, tiles to left of artillery station\n* 2 lane rightwards wall segment with a T junction into the interior\n* 2 lane leftwards wall segment with a T junction into the interior\n* 2 lane rightwards wall segment with a T junction exiting through the wall\n* 2 lane leftwards wall segment with a T junction exiting through the wall\n* 2 lane corner with cross roads, 2 exits out through the wall\n\nAll the rail segments without walls are designed to tile, and to work however you rotate them. There are signals only on the 'incoming' rail(s), so that they usually can snap together. The 4 lane segments are based around a 5 electric pole spacing, and most of the 2 lane segments are based around 3 electric poles. The modular wall lets you build isolated roboport logistics areas that each can be serviced from a single artillery train station.\n\nI've made my best attempt at signalling it efficiently, but if you can find ways to improve it please let me know.",
   "favorites": {
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "Ck6KGcdyaxOSVVIx5KaS97hEZx93": true,
-    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
-    "6WHPOPuu7SQPFogg50CRzJoVJ9i2": true,
-    "FHBmlbRQyQfCXEqoofKWmZ7fuPm1": true,
-    "JW8HmjK143Noq0aGNSXcuskVu4Y2": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
-    "N7jNJZLvOvRbjQWqkjhtolNFvmP2": true,
-    "lPwPVK5Z07bgzrcQqsXJ1q8I3hp2": true,
-    "sx8Sm843k6T2ljctG7sT6SIIO9F3": true,
-    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
-    "yYQgKaC9fkOs7nhSKe7ojLkOtV02": true,
-    "sWFZXFp0NRSAgOdGrnieG9eYSul1": true,
-    "LglB9xiq0AVAqWr3dXyNomNrDuA3": true,
     "tOhRqw1oIhO1kKIYxMUK5rt200V2": true,
-    "L7752qlD13PesqZfw62onELz9g52": true,
-    "pJiREWyNejfygrSucr8RSjJ3GcP2": true,
-    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
-    "mfUaOi3cQ7gRPUL5raCfdewGzMe2": true,
+    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
+    "FHBmlbRQyQfCXEqoofKWmZ7fuPm1": true,
     "Vf7IkRSAp1fxYfGgZXlvXkLgZsE3": true,
-    "xbd9Pwpn3Aax9nsBzIhAiC2J3YO2": true,
-    "kBKSDdujCIhXomumEznDsEjuCiA2": true
+    "mfUaOi3cQ7gRPUL5raCfdewGzMe2": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "lPwPVK5Z07bgzrcQqsXJ1q8I3hp2": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "Screenshot_20180318_214410.png",
   "image": {
@@ -38,7 +24,7 @@
     "width": 2263
   },
   "lastUpdatedDate": 1525976396820,
-  "numberOfFavorites": 22,
+  "numberOfFavorites": 21,
   "tags": [
     "/train/right-hand-drive/"
   ],

@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "クべ",
     "userId": "nIXOLXDky8MKMQnYc3y0u5Pidzx1"
   },
   "authorId": "nIXOLXDky8MKMQnYc3y0u5Pidzx1",
@@ -7,19 +8,17 @@
   "createdDate": 1760446365037,
   "descriptionMarkdown": "ナウヴィス～ヴルカヌス間を常時運航しているアステロイド品質向上用プラットフォームです。\n機構及び増築の簡易化を最優して設計しました。",
   "favorites": {
-    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "HShqmSxkwIW0bNaRy1eUj73AOLA3": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "9nAa03m",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1760456897054,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

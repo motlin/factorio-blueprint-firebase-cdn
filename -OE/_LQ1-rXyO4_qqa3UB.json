@@ -7,20 +7,18 @@
   "createdDate": 1734719680917,
   "descriptionMarkdown": "First attempt at a Starcraft Battlecruiser, it's not optimized but will get you to the next planet. \n\nThe Nuclear Reactor is wired to use minimal fuel if and when necessary but the solar panels and accumulators should be enough. \n\n\"I will rule this sector or see it burned to ashes around me\" \n\nYamato cannon not included.\n",
   "favorites": {
+    "eXxKxSFldIZwQtfsZ2Dk2JinepG2": true,
     "twSThkJF4jZcIPGprsTjhPnLjam2": true,
     "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
-    "eXxKxSFldIZwQtfsZ2Dk2JinepG2": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true
   },
   "image": {
-    "height": 0,
     "id": "QAhdYPk",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/QAhdYPk",
   "lastUpdatedDate": 1734719680917,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 1,
   "tags": [
     "/planets/space-platform/",
     "/general/mid game/"

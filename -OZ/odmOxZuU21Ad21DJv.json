@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Klavin",
     "userId": "U2VNySTkEnazvbHTax4v7FngFNK2"
   },
   "authorId": "U2VNySTkEnazvbHTax4v7FngFNK2",
@@ -7,31 +8,29 @@
   "createdDate": 1757524994249,
   "descriptionMarkdown": "All in one rail book with auto trains for mid- to early end game. Main features:\n- 4 lane rail system for 1-4 trains\n- Intersections with loops for better train navigations to/from stations\n- Semi-detailed description of blueprints that are not self explanatory\n- Smart trains using interrupts (with auto-refuel)\n- Loading stations automatically set train limit from item count\n- Unloading stations set stop priority from item count\n- Unused trains go to depot\n- Visual aid for station status and priority\n\nFeel free to use any other station or intersection designs. Example book has some outdated stuff, ignore it, i was too lazy to update it.",
   "favorites": {
-    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
-    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
-    "ZMxkibQw1qbyRcrnCsyKqMjMj7x1": true,
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "G6xDPT7F1sNHedVPyGwEvpzCRO83": true,
-    "zRa0VHv1BxY2cp6z2c2OTHI1mRj1": true,
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "FFY7dVcqrgMo0gxqEyZ4DV4Knya2": true,
-    "QwK3N64ieveYhXMxUO4dthDxvq82": true,
-    "YmU6PWOzCwfEnE5TurlT0MKCNO53": true,
-    "ukhnjD4Ms9RKJheRaJ8zi6Y9jQG3": true,
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
-    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
-    "Y1VAtoTPZAN7FhkmeVBxhYSSs1C3": true,
-    "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
-    "j4jskFYpP9bp0hMsdZN3bm2eWrr2": true,
+    "G6xDPT7F1sNHedVPyGwEvpzCRO83": true,
     "8ZSFoC1WwKVymSzWDF0syztAhA73": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "Y1VAtoTPZAN7FhkmeVBxhYSSs1C3": true,
+    "ZMxkibQw1qbyRcrnCsyKqMjMj7x1": true,
+    "ukhnjD4Ms9RKJheRaJ8zi6Y9jQG3": true,
+    "FFY7dVcqrgMo0gxqEyZ4DV4Knya2": true,
+    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "j4jskFYpP9bp0hMsdZN3bm2eWrr2": true,
+    "YmU6PWOzCwfEnE5TurlT0MKCNO53": true,
+    "zRa0VHv1BxY2cp6z2c2OTHI1mRj1": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
+    "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
+    "QwK3N64ieveYhXMxUO4dthDxvq82": true
   },
   "image": {
-    "height": 0,
     "id": "GeH8ZSX",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758378807975,
   "numberOfFavorites": 19,

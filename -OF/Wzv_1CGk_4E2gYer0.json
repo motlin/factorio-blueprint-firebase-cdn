@@ -7,23 +7,21 @@
   "createdDate": 1735737194919,
   "descriptionMarkdown": "Pretty end-game stationary ship. Produces 4.2k space science per minute (expandable too), 500 calcite per mite, and processes promethium science if you ship up the ingredients.\n\nI don't recommend the promethium science. It currently uses solar + fusion but you could make it 100% solar.",
   "favorites": {
-    "crdms7uLrJT64lIbTMV2nzdyl6H2": true,
     "2SKkUgIGqAMUnmM5chUzBhH8itO2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "qvWI1rR1kBOPoBkcfChQHQaJEW13": true,
-    "LUMAQmeBstVfs2DSwfcDIrzxk9j2": true,
+    "crdms7uLrJT64lIbTMV2nzdyl6H2": true,
     "25LmVNSF4ZcnENYOyspGnJqewmV2": true,
-    "O9li76R3sgh5NwmDi1zZIerM6vg1": true
+    "LUMAQmeBstVfs2DSwfcDIrzxk9j2": true,
+    "O9li76R3sgh5NwmDi1zZIerM6vg1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "lkzLoSg",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/vSeqH8C",
   "lastUpdatedDate": 1735737410225,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/",

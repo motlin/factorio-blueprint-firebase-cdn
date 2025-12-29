@@ -7,18 +7,18 @@
   "createdDate": 1610317282428,
   "descriptionMarkdown": "## Maximally compact, infinitely tileable nuclear plant \"paladin\".\n\n### Important:\n* If you are building this with landfill without water mods, before placing the main tile, make sure to place the \"Tileable 2x6 landfill\" BP first! Overlap the two offshore pumps to tile. \n* For the main tile, Shift+left click to place landfill first, then shift+left click to build the main structure.\n\n### Features:\n* Infinitely tileable. Tested tiling up to 276 reactors for 44.0 GW, sustained\n* As compact as it gets\n* Water pump near the core: only require narrow, tall lake to build on\n* UPS friendly\n* Full roboport coverage\n* Symmetrical\n\n### Notes: \n* This is an endgame megabase targeted design, thus it does not have any fuel conservation circuits or steam buffers.\n* Each tile is 2x6 or 12 reactor cores, which adds around 1.76 GW of power. It is thus less flexible than a lot of other tileable designs.\n\n### My other designs:\n* If you want a compact 1.1 GW nuclear with smartness features, checkout my other design \"little witch\":\n      \n  https://factorioprints.com/view/-MQ9-6LlT_g5PGsGXkyX",
   "favorites": {
-    "5Q98cef213SViXKkgWsAtiC8htj2": true,
-    "Hf33mFexf0Np9KmFdaVd4jfG24Y2": true,
-    "qMpmibT7eBZIR6SVAPRUkVW0JQm1": true,
+    "V4WsDq6V30WXfIrdw14F75phOky2": true,
     "bLpQK4aEDtTLwi7cqxxJpa5xD1T2": true,
-    "V4WsDq6V30WXfIrdw14F75phOky2": true
+    "Hf33mFexf0Np9KmFdaVd4jfG24Y2": true,
+    "5Q98cef213SViXKkgWsAtiC8htj2": true,
+    "qMpmibT7eBZIR6SVAPRUkVW0JQm1": true
   },
   "fileName": "Screenshot 2021-01-18 205659.jpg",
   "image": {
+    "width": 1407,
     "height": 1221,
     "id": "Lt76q08",
-    "type": "image/jpeg",
-    "width": 1407
+    "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202021-01-18%20205659.jpg?alt=media&token=020d99af-54f3-42b2-b083-2f3e99f40e21",
   "lastUpdatedDate": 1611076997513,

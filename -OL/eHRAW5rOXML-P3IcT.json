@@ -7,22 +7,20 @@
   "createdDate": 1742318715693,
   "descriptionMarkdown": "Simple hauler/shuttle that can speed to Aquilo and back without issue. Requires resupply from Nauvis for each trip: 2k Piercing rounds, 2k Explosive rockets, Water barrels to top off steam supply, repair packs, and 200 uranium fuel recommended. ",
   "favorites": {
-    "l93PlYAvlnhLXABSxI4TKSR5EoO2": true,
     "r14ziXVdSINBLObQU1tcwxhWCYw2": true,
-    "OGfpHtZz7hPUVW8yijZBKCcZFTt2": true,
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
+    "l93PlYAvlnhLXABSxI4TKSR5EoO2": true,
     "ZhrfA5aheMcvmX5WEC7zDtOs90H3": true,
-    "xRB2aDKxjrUKYuonqMj6EULeXnU2": true
+    "xRB2aDKxjrUKYuonqMj6EULeXnU2": true,
+    "OGfpHtZz7hPUVW8yijZBKCcZFTt2": true
   },
   "image": {
-    "height": 0,
     "id": "rubolgk",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/rubolgk.png",
   "lastUpdatedDate": 1742319391871,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/",

@@ -7,17 +7,17 @@
   "createdDate": 1677800375370,
   "descriptionMarkdown": "- 100% tileable.\n- When tiling, merge the 4 substations in the middle near reactor pairs, and the entire last side rows of substations and roboports, mistake free. \n- Never start by the body. \n- Smart feed, with alarm for no fuel. \n- Must be placed entirely in water ponds. \n- Robot feed, ultimate ups friendly, the monster never storage steam, all steam turbines at 100% with no leftovers. \n- The entire system is controlled by the constant combinator near solar panels, change T going for decider combinator for anything u want.\n- This is super expensive but optimally and solely designed for ups optimization in megabases (tested and playing with vanilla megabase, 200 hours, 8GW, 3k spm, with rampant + bobs enemies in deathworld, when theres no room for solar fields.\n- Let it in a separate network together with your kovarex processing plant.\n- Each blueprint consumes fuel as 40 reactors, the remaining reactors act as heat pipes for ups optimization.\n- UPDATE 1.1:\n- Made a better ratio of heat exchangers : steam turbines, for ups efficiency and optimization. (thx guys in reddit and discord).\n- Improved working reactors : steam turbine ratio, even less ups too.\n- Improved tiling.\n- Improved circuit nertwork build.\n- UPDATE 1.2:\n- Added an alarm and Accumulator Field for brownout prevention, with demand at abit over 100% it will give u 7 in game days to tile another reactor, (or cut demand till u tile).\n- Added my Kovarex plant 12 beacon UPS optimized \\o/.\n- Made an extra BP of circuit network thats in the reactor, if u wanna reverse engine it (not necessary to build this to start the reactor!).\n- Edit: minor fixes.\n- UPDATE 1.3:\n- Made a better ratio of kovarex plant. 4:1:1:2.\n- Fixed Grid energy cables, reactor feed now run in a separate grid.",
   "favorites": {
-    "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
-    "xJ8VBqWQOufbtXlulp8JgbXQ3Qm1": true,
-    "GNbsWDnsFZXKep3FNDDr43QdULx2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "OUVlUjrRp4Nu39DoVvKhI4qNEys2": true,
-    "G9t2Hdlp1KZ9P9Mt8t7q07r9x4q2": true,
-    "mvqJBjcYmLQexIPyFuQYMN5xtc72": true,
+    "op9eFxcJACXdiTQ3W4KSOIz5tGB3": true,
     "bDPjZ5TZDKcEdXZWeqFpz0cvkXe2": true,
     "1QnI3FxqTFX33pPsWbghmrQjrCd2": true,
-    "op9eFxcJACXdiTQ3W4KSOIz5tGB3": true
+    "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,
+    "OUVlUjrRp4Nu39DoVvKhI4qNEys2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
+    "mvqJBjcYmLQexIPyFuQYMN5xtc72": true,
+    "GNbsWDnsFZXKep3FNDDr43QdULx2": true,
+    "G9t2Hdlp1KZ9P9Mt8t7q07r9x4q2": true,
+    "xJ8VBqWQOufbtXlulp8JgbXQ3Qm1": true
   },
   "fileName": "screenshot-tick-38905652.png",
   "image": {
@@ -28,7 +28,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/screenshot-tick-38905652.png?alt=media&token=c2373d1c-09fd-4779-ad6c-9662f1904a39",
   "lastUpdatedDate": 1710305096190,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 6,
   "tags": [
     "/general/late game (megabase)/",
     "/general/tileable/",

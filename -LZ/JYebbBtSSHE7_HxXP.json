@@ -7,17 +7,17 @@
   "createdDate": 1579819117177,
   "descriptionMarkdown": "Factorio 0.18 - Vanilla\n\nIron Plates, Steel Plates, Stone, Stone Bricks, Advanced Circuits and Prod 1 Modules delivered by 2-8 Nuclear-fueled trains, smushed into grape juice, belted back to train.\n\nIncludes fuel station, PAX station (I call them 'Visit X'), and color-coded trains with solid wait conditions.\n\n<b>Note:</b> Prod 1's are not made here because I use a [combined Green/Red Circuits/Speed 1/Prod 1 facility](https://factorioprints.com/view/-M03UazzKl2UVTNeE5G8).\n\n<b>Regarding circuitry:</b> Red Wires run locally with each lane, counting items and relaying info to that lane's Combinators and Rail Signal. Please do not mix the Red Wires! Green Wires run globally, gathering number of stations available and signalling this to the Staging stacker for arrivals awaiting their circuit conditions.\n\nBuilt to slightly exceed demands of my 2.7k SPM megabase. Production holds at 3k/m after a short warmup period.\n\nUpdate 1: Reconstructed train station.\n\nUpdate 2: Lane balanced Advanced Circuits. Adjusted Advanced Circuit's chest constraints.",
   "favorites": {
-    "l556BHVKI2PFsp8vWZXjdATtGWg2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "l556BHVKI2PFsp8vWZXjdATtGWg2": true,
     "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true
   },
   "fileName": "purpleSci1.jpg",
   "image": {
-    "height": 1080,
     "id": "U0I1bFV",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/purpleSci1.jpg?alt=media&token=986c7683-4957-4e49-afea-141b9f1cab35",
   "lastUpdatedDate": 1582414435739,

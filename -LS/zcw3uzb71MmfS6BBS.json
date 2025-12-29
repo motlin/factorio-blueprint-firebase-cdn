@@ -7,20 +7,15 @@
   "createdDate": 1544034697701,
   "descriptionMarkdown": "**Objective:**\n\nThis setup was designed to achieve direct insertion, almost-perfect ratio, almost-1-BC, almost-perfect-belt-ratio, and almost-perfect-UPS and has been discussed at length and run past a bunch of guys.\n\n**Features:**\n\n* 2290 blue circuits/minute.\n* Excellent belt efficiency using a carefully constructed set of prioritized taps.  Only the outermost lanes of iron and copper will stall from perfect throughput, and only by a fraction of a lane.\n* Kirk McDonald ratios are here: \nhttps://kirkmcdonald.github.io/calc.html#cp=3&min=3&belt=express-transport-belt&dm=p3&db=s3&dbc=16&items=processing-unit:r:2290&modules=copper-cable:;s3:18,processing-unit:;s3:18\n* Carefully considered each inserter and optimized behavior.  https://wiki.factorio.com/Inserters#Belt_to_Chest_.28facing_inserter.29\n\n**Bottlenecks:**\n\n* Coil ASM > Green ASM currently has 1 stack inserter pair, and a 1 stack, 1 long inserter pair.  The long inserter can't quite keep up.  This causes a ~4.6% slowdown from 1 full BC.\n* Plastic requires 2.041 belts for 1 belt of BC.  This causes a ~2.1% slowdown from 1 full BC.\n* UPS consumption is 53% inserters, 22% crafting machines, 9.6% pipe.\n\n**Possible Future Exploration:**\n\n* It's possible that a 12-beacon setup may outperform this for UPS, but it won't be by much because of the increased inserter requirements to move material between ASMs.  All of the 12-beacon setups we tested performed worse.",
   "favorites": {
-    "fv604BAjysacB6w5l2l5fpEpy0r1": true,
-    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "C5aiRQzuT2el5d3MAKWqZs1PZDj1": true,
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "mBOWy4VgnzfVZ55jqVy1zePWUcd2": true,
-    "hBVvULy9JdNZA5WG9OhcpiqMbXl2": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "GmqXaRk4yeX4IrTlsJbyWB6WUzr2": true,
-    "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true,
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,
+    "GmqXaRk4yeX4IrTlsJbyWB6WUzr2": true,
     "Go854jwTWUX8k2pyBjXMj5XgAN12": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "Hkgm5APVI4dSNbIzgEMBNf7oxtR2": true,
-    "bDJMmaOFWifCciP1nFzKHWhjDIb2": true
+    "bDJMmaOFWifCciP1nFzKHWhjDIb2": true,
+    "hBVvULy9JdNZA5WG9OhcpiqMbXl2": true,
+    "fv604BAjysacB6w5l2l5fpEpy0r1": true,
+    "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true
   },
   "fileName": "Blue Circuits_pebble.png",
   "image": {
@@ -30,7 +25,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1545421665493,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 11,
   "tags": [
     "/production/processing unit (blue)/",
     "/general/beaconized/",

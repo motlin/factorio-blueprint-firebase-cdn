@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "BLACK LOTUS",
     "userId": "R2dDxhlI4xWlt06lXqkL0zwarOM2"
   },
   "authorId": "R2dDxhlI4xWlt06lXqkL0zwarOM2",
@@ -8,20 +9,18 @@
   "descriptionMarkdown": "my city block adapted for aquilo and a power plant using oil will add other stuf later maybe",
   "favorites": {
     "5rH3pfkC6pT0hmozDsBZuKP1yRi1": true,
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
+    "8GCiA8FuGJNknMWG9MK08gHkfMd2": true,
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
-    "i4CYjo6zgdaFW5sAEFqzbAFLleA3": true,
-    "8GCiA8FuGJNknMWG9MK08gHkfMd2": true
+    "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
+    "i4CYjo6zgdaFW5sAEFqzbAFLleA3": true
   },
   "image": {
-    "height": 0,
     "id": "xh5E5AE",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1751839830546,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/planets/aquilo/",
     "/mods/space-age/"

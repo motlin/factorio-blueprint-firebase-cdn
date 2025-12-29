@@ -7,10 +7,10 @@
   "createdDate": 1664893775961,
   "descriptionMarkdown": "This is my latest 2xN reactor. It's probably my last, I can't think of anything else to improve. You have to flip it 180 degrees after every print, hence the name. \n\nIt's basically a 2x2 tileable reactor, with an additional cutdown 1x2 at the top and bottom. Usually, a 2xN reactor either has too many turbines and heat exchangers, because the ends lack 80MW of heat due to the missing neighbour bonus. This design has a custom start and end section integrated into the blueprint, which fixes the ratios without ruining the tile ability.\n\nFacts and Features:\n- Perfect Ratios at every build step, thanks to cut down bottom and top end (fourth image)\n- Tested at 100% throughput for at least 1 hour\n- 1120 MW with the initial plant plus 640MW with every additional print\n- As compact as a 2xN can be (prove me wrong I dare you)\n- No pumps, no external power required to start or restart after brownout\n- Landfill errors are pretty much impossible thanks to the 20x10 global grid alignment\n- Offshore pumps are located at the center to allow placement close to the shore or on small lakes\n- Full roboport and radar coverage\n- Version with additional landfill included to prepare the next print\n- Space exploration compatible ([not self evident](https://i.imgur.com/BsyG2iv.jpeg))",
   "favorites": {
-    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
+    "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true,
     "72tHVLllYuS11sOEqHJvBFGWsxt2": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
-    "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true
+    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "FullReactorLargeLQQ.jpg",
   "image": {
@@ -20,7 +20,7 @@
     "width": 2400
   },
   "lastUpdatedDate": 1665765705464,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/power/nuclear/",
     "/general/tileable/"

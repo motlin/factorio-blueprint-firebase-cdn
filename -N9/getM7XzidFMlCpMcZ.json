@@ -7,22 +7,22 @@
   "createdDate": 1660754302557,
   "descriptionMarkdown": "Pros:\n+ 99.999% of potential power!\n+ Exact heat exchanger counts, almost exact turbine counts (Maximum 3 redundant turbines)\n+ Circuitry to save on cells (My perfectionism demands it).\n+ No pumps at all, only fluid mechanics magic!\n+ Roboport coverage.\n+ The reactor's inserters are on a separate solar-powered grid so they can always restart themselves.\n+ Very simple setup, only 2 blueprints: A starter blueprint and one for expanding.\n+ Blueprints snap to grid so they're easy to place.\n+ Blueprints include the landfill for the next slice so you don't have to wait for your bots to put landfill in.\n+ Does not rely on landfiling over offshore pumps, so if you accidentally remove a pump you can put it back down.\n+ Offshore pumps are in range of the power, so it works for mods where they need power like SE.\n\nCons:\n- You gotta place this on top of water (at least the center line).\n- A new slice adds 4 reactors, you can't just add 2 reactors.\n- Realistically you're only gonna get 99.9% of potential power. The last 0.1% needs the heat pipes to completely stabilize which can take hours.",
   "favorites": {
-    "O8PeA32MkAPVwpBxxT7aRa8Orw02": true,
+    "CgnMPFU2VcfwydRpRAjmsneDXAU2": true,
+    "jbvu7KqXNxZIaAIZjRNtOULyRVs2": true,
     "997f3trXZPWP0beItjgxsKRRHeM2": true,
-    "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true,
     "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true,
+    "bhGfMaYhjMPFYZLPkTJbFRjbiQJ2": true,
+    "u9otYPfN9OY0XUVkvgwiZxTUNsg1": true,
+    "ndm9apDCsMenRsBxfcPz0TeFyex2": true,
+    "NZAEMcEQKdWJuoBYzM6jBpEp9jg1": true,
     "PQMjitmJxAb30HdUAWxgkYmiwBL2": true,
     "YMO4RuPRs6VInVsWqFs6bB7CsOQ2": true,
-    "bhGfMaYhjMPFYZLPkTJbFRjbiQJ2": true,
     "H8uZHHb5RXeV7yfOFd5yxs7OJqh2": true,
-    "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true,
     "h1XOCmEyrHPHxo6z9ZyVoi14fgr2": true,
-    "LjVH9jRjEaPGhO7TOfMHxOGSeLp1": true,
-    "ndm9apDCsMenRsBxfcPz0TeFyex2": true,
-    "u9otYPfN9OY0XUVkvgwiZxTUNsg1": true,
-    "jbvu7KqXNxZIaAIZjRNtOULyRVs2": true,
-    "CgnMPFU2VcfwydRpRAjmsneDXAU2": true,
-    "1jnnOIJpNENH18mEmlcEu4YFIDl1": true
+    "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true,
+    "O8PeA32MkAPVwpBxxT7aRa8Orw02": true,
+    "1jnnOIJpNENH18mEmlcEu4YFIDl1": true,
+    "LjVH9jRjEaPGhO7TOfMHxOGSeLp1": true
   },
   "fileName": "screenshot_3786827_1760x1440.png",
   "image": {
@@ -32,7 +32,7 @@
     "width": 1760
   },
   "lastUpdatedDate": 1660754915024,
-  "numberOfFavorites": 16,
+  "numberOfFavorites": 15,
   "tags": [
     "/power/nuclear/",
     "/general/tileable/"

@@ -1,4 +1,11 @@
 {
+  "fileName": "Display.PNG",
+  "numberOfFavorites": 6,
+  "tags": [
+    "/version/0,15/",
+    "/version/0,16/",
+    "/circuit/indicator/"
+  ],
   "author": {
     "userId": "lEPYdC58rvhWCgVGvgeoUBREKXf2"
   },
@@ -7,14 +14,11 @@
   "createdDate": 1497038229272,
   "descriptionMarkdown": "This is a repost of two redditor's works to create in game clocks. https://www.reddit.com/r/factorio/comments/5l2knq/my_time_of_day_clock_in_factorio/ https://www.reddit.com/r/factorio/comments/5qnmv5/ingame_digital_clock_using_combinators_and_lamps/",
   "favorites": {
-    "PW5lRNMUSEgKcE45NPPch7b85gi1": true,
-    "2O3C3vVib6fAn8nrWNVF0OfKmTm2": true,
     "V515dCjEUngAzrK44nUMwDHWagn1": true,
+    "p82L3nPDewhtBituaewiic3Nqwl1": true,
     "oDs7ZPRTUob2eeaRdBX2qXN9LGI2": true,
-    "ik1ATVu8mjU6YgcRI37kJMP9pCF2": true,
-    "p82L3nPDewhtBituaewiic3Nqwl1": true
+    "ik1ATVu8mjU6YgcRI37kJMP9pCF2": true
   },
-  "fileName": "Display.PNG",
   "image": {
     "height": 826,
     "id": "e0rApxX",
@@ -23,11 +27,5 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Display.PNG?alt=media&token=1cfd3adb-6ef3-428f-b9d0-1c6b27f141f9",
   "lastUpdatedDate": 1516209898489,
-  "numberOfFavorites": 6,
-  "tags": [
-    "/version/0,15/",
-    "/version/0,16/",
-    "/circuit/indicator/"
-  ],
   "title": "Light Display Clock"
 }

@@ -1,25 +1,24 @@
 {
   "author": {
+    "displayName": "Griim",
     "userId": "grsdrfL4TiWmaJ6xjYb9JnNiZDu1"
   },
   "authorId": "grsdrfL4TiWmaJ6xjYb9JnNiZDu1",
   "blueprintString": "0eJzVV9uSozYQ/RVFD7lUiQnYeMZQldu+JHnYl828zbgoAe1FZZBYqbGXmvIH5C/ybfmSlMCAzWJ7nFSylTchWt2nT5/W5YXGeQWlFhJp+EJTMIkWJQolaUgfMyBSkYwbkwMjGj5UYJBwSQRCQbhMyQagJAJJkisDjMQVklTJr5AkShrkEvO6XyeQrLUqCGZASq22IgVtSJKBwS+e5bN0HPKmDsnPWoiCfL19rGLQ3zzLx51ABB2SH99ogcJkv9UyFQl/lu8gTQWGpPr2MYPTnwiUUWFB0PDphRrxXvLcZih5ATSka27QQc2lKZVGJ4Yc6Z5RIVP4SENvzybWpJBYyE6iilhIjkofLZntV4yCRIEC2pjNRx3JqohB09Bjl2IzWiojWt5f6EcaOgt3drdgtKahM18s7xZ7RlOhIWltfItwFGF2cwT3QoTlRIT5zRG8SzkwmiiJWuVRDBnfCqXtwkTopBIYaeBplHGZRtYKJBoaoq6A9RbdfGtaqBRsHSZw+z3uuMo3jpAGNIK+xvrDJ5xcRgySxzmkEzDTPshaaIPRoC2sS4trKzRWPKc90NbCSTJINlZmXT/R0LUfRcl1o8CQftf8fjVpzc8jwrwpwhYDDgRoYJirIr2/W0z5ur+BfO/U2y1y+Tzk//n7H3Q/lfXDDVm7Y8n9s7Z4VYWXPb6SGyO24HRb8oViu+PyXALaMz+UZs1zA1Noglez5QfB/00j3/8LDeq5PZDD8XqhcH6wvKVwNmyk1pEqQfPWjzdB1risrEMSrUWOoI31adrKtCdif7quJlMaTsiJk/bKbnEup4OnAXWD6vjr6eaSA08yW1ID1s/t60biYCfxIwm4U3rT4NSDVt9rADlQfRL70zWNWb/Ietjb+4mqsKxwfCV6vcLLOkpUJTGy97hIyLLCDtJqchf0hjtJ1x/Xinq0x/hnpTrI6ozELKkHEZ7M9nue5gXYnnEpox8qngusaUil0kVDweiEtROV7e2Z6+5X55Kd3ybgk7b8HAIe71J/VyGtv3OsDJcvrgVmBaBIrhETXCdmcDbiZkzGRMmnmnfa7GgPpA7t+Lm67L/p6Kand0I3D46nOZsxz2ezFXvy7dBj/mH40Ewuhv/3w/+HYXY5DD3XjueNhecxj3kz5rXjwWZm5/12ft6O56sVG7hoZXQQj0gH3diH5a/2CVmriuy4RIKKvOuflykp+AYI33KR2yPG/rWPxgMpP9inXXqui52T0/x6azeaPWA8aJZ1g5DOXHeA/YvakYLLmqg1wUyY9hmcqiGN85Btqay5veL0L25Gcx5DTkPaJf8leWtT/6nzQxndgjZNNov7WeAHwWLpzYPA9ff7vwAwimCj",
   "createdDate": 1762643166956,
   "descriptionMarkdown": "The no hassle, request an item and keep it close, but don't constantly request it from the providers chest!\n\n-- By: Griim (vTuber)\nTwitter: @BritishSyndica\nReddit: u/TheBritishSyndicate",
-  "favorites": {
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
-    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true
-  },
   "image": {
-    "height": 0,
     "id": "hyoZXIq",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762645568157,
   "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Request & Make Available"
+  "title": "Request & Make Available",
+  "favorites": {
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
+    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true
+  }
 }

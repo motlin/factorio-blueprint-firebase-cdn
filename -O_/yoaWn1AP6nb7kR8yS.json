@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Leonard Amador",
     "userId": "894XZkRAt6gJsMYW7Oja9eEe8Wf1"
   },
   "authorId": "894XZkRAt6gJsMYW7Oja9eEe8Wf1",
@@ -7,20 +8,18 @@
   "createdDate": 1758769342868,
   "descriptionMarkdown": "Many of these ships were made without any external info or sources, just a lot of eyeballing, guesstimations and overkill to ensure they fly well without much issue.\n\nhttps://imgur.com/gallery/abels-space-platform-collection-1st-run-6haXyvb <- The actual image collection.",
   "favorites": {
-    "aaZS70N6oEbPt62DD5mWeV1aemg2": true,
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
     "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "TTBh2hK3Uya5xv4bGGYHbZiIzwX2": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+    "aaZS70N6oEbPt62DD5mWeV1aemg2": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true
   },
   "image": {
-    "height": 0,
     "id": "O7NRr1m",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758769394155,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

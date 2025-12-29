@@ -1,25 +1,24 @@
 {
   "author": {
+    "displayName": "Calvin Smith",
     "userId": "S4jIKsJ063h6giL8z2q5FZPY19x1"
   },
   "authorId": "S4jIKsJ063h6giL8z2q5FZPY19x1",
   "blueprintString": "0eNrlXF1v4ygU/SsVz2Rkvk0eV/s48wuqapQ0KLLWcbKO092qyn9fbM+01TSu4XhfGKQqxgHfC+deuDHn0heyrS/u1FZNR9YvpHo8Nmeyvn8h52rfbOr+u2ZzcGRNttV+daiaqtmvdm1V1+RKSdXs3L9kza4PlLimq7rKjU8PN8/fm8th61rfgL5KcRuvglByOp59c1/0GryIFWNfFCXPvq39onrRnTuMsqrdu16cT87tVofj7lK7lfBy/r5saq/KV9Vu75rdpn0mb4/7p5vvVfPk+3P0FYO4tzvfrXO3efyLrIsrnajxY7v6P/phTPx1TAe3qy6HlavdY9dWj6vTsXY3RmjfD/CGQDEPkk4MIxmLkZzBSAU4UmIY6UiMihmIzCxEIjGEykiE1AxCdhahMjGEWBEJEZvzIja/ZLPU/IjFLtlszpPY/JrNkvOlt0W7u7Tb4+rig3y7b4/+utq6urux5v4cIy+GMe6q1uM61Hth3fOpF1Y1p0tHbilU8QptgMLjpZvSqOM1ymUaTbxGsQjUMlohW6TPRusrFiHKi2iFaplCFq1QL0GU83gLLjIhF/EKF9owfqlhC40Yv9awZVZ8W2o+vEB9so6Kz2LFqfVhwnfhySv6v0IGnwwZ/F3ImKrhkzVi8vXJxAAjMgKmjACGZYSLjcBF54OLKGL8JSOHESwGmJw8hkMxqfw1/JW/OUwCilDZwSSReJUdSgqJXtmhpKFYlh1MBops2cH06x5I126a8+nYdnP7WIJ9gOqWfBsrX0TJl0WkfBYnnkWK13HieWzvI7svYuVH9l9GkJaCJ0LIKXxzVwhg/0NqeA7yICsZlIYd5N+SWOLb0Z9BNL0pJW0485uKo6kCpX6n7KIYvmmP2UVxeH0P8l0lcFIAmoxKhtPnyTiaQoNkmI00zKNgJjIwjwI6eQnmH0zOUxucgJCKj2mca8KMohmY8jBlFM1h8gpyYy3Q35ZBs1LL4BSOZHxM4XQfZiIN/z4Ps5FBc1ImnbjECUpwHtrwLJhUHM0UaBbMlF0Mw2lczC6G4zQuNFkM/rIZNFmMDE8kSsbRFEIzCP3b8y9GI8RCDsAYgErIAZcSIA9ywMUidEEGwJQFQhDkAAxDYpJkmTEnJUciVH4wCSBe5YeSBKJXfigpJJblB5NGIlt+MJkI8lKqRM6BwXz+jxHOvISXFpYvQ+TbAuUqh/7fksjCmcNUrGw5yhxOoiRQHi/QrhKWH+SXNuLUazJW1iBtF2gSg4oPswhKmk26aDhploqFWVGAJNYUSKxAM5bCrMoKjsqXYfJFMG2VjpUlSiOFGkXBCgKtolGiatpRTThvlI6lS5Q4msbJorRKoPOwAlYQ5jwh5+STm9OM4ylwUiOnh5nAk7s+0/jJiWzknLtYNkgF5xKBCjWcTISCauBMGVRjCWe2gKBaPFED0wgcdWcL7cgXUPqoygWcfgCuD5T846v7hfeeU0UlVQ/03n9SPZT8Jy2Hkv+kPm70xf5C/Wo4NDW+rMbv+wtVY/P+QjUbhbC+bMZy396M7W3f3o5y+gu147N21PVT2aCt0D/u9HDXN3wYV/0+xrz+sy5K6o1HxX/3R7W/+zbsg9392e+D3X3ddH00fnLtecBCaW6ltcoIJaTh1+t/8M07Cg==",
   "createdDate": 1753988568629,
   "descriptionMarkdown": "This is a layout for big mining drills for the late game.",
-  "favorites": {
-    "x116iHju47YnnxylWFqbyoWR5GA2": true,
-    "I7RkewXRzmbak9cV93stf78f9Tk2": true
-  },
   "image": {
-    "height": 0,
     "id": "DaNB5dE",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1753988568629,
   "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Big Mining Drill Late Game"
+  "title": "Big Mining Drill Late Game",
+  "favorites": {
+    "x116iHju47YnnxylWFqbyoWR5GA2": true,
+    "I7RkewXRzmbak9cV93stf78f9Tk2": true
+  }
 }

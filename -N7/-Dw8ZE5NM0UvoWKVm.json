@@ -7,22 +7,22 @@
   "createdDate": 1657861292761,
   "descriptionMarkdown": "# Darklaser72's SE Modular Mall\n\n<br>\n\n## Overview\n\nA tiered, modular mall for **vanilla Space Exploration v6.0+**.\n\nThis blueprint contains the following books:\n- Assemblers\n- Belts\n- Inserters\n- Power poles\n- *(more to come...)*\n\n## Description\n\nEach book contains successive tiers of production for a certain category of item (belts, inserters, etc.), from burners all the way up to the highest tier. Generally, the point at which you unlock the item(s) that will be _created_ at a certain tier dictates the upper bound (in terms of research) of items _used_ in that tier.\n\nAll high-tier, SE-specific additions to a category (such as space assemblers) will get their own production block in the future.\n\nThe tileable \"Utility Belt\" blueprint contains the electric, fluid, and logistics frame for the mall. This is provided separately in order to optimize power pole, roboport, and pipe usage since most modules differ in length.\n\n## TODO\n- ...\n\n---\n\n## Changelog\n\n**v1.3**\n- Removed rogue undergrounds in Belts blueprints\n- Fixed missing power pole in Tier 1 Assembler blueprint\n- Other minor bugfixes\n\n**v1.2**\n- Removed leading undergrounds in buses for each module\n- Added trailing belts in buses for each module to mark the border (i.e., where you can place the next module)\n- Downgraded red belts in \"Assemblers/Tier 1\" to yellow belts\n\n**v1.1**\n- Fixed pipe bus spacing in \"Design Template\"\n- Removed outside power poles, roboports, and pipe buses in all modules in favor of single blueprint (see next point)\n- Added tileable \"Utility Belt\" blueprint containing electric, fluid, and logistics for the mall\n\n**v1.0**\n- Released (contains \"Assemblers\", \"Belts\", \"Inserters\", \"Power Poles\", \"Design Template\")",
   "favorites": {
-    "PWLp9XkcAOSIsLIpKPAdVvl1aQd2": true,
-    "WjTWs0aKqWWu8v5RSd7heMphkLJ3": true,
-    "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true,
+    "DnVdqxjl7iaAGaYWkJ7My6pO8Af2": true,
     "w9BaTCxfuCQpoSgGK4Bf20HsonI3": true,
-    "JE47OxK2v5YDWIeRxkh2iNwqkbI2": true,
-    "WmNS8bWegTY1Lb653p7wdB5E5Ox2": true,
-    "5vLzBAXdfJWO68IkX53q3oHvjMn2": true,
-    "HpxwuRE9p0UvNEK2XcMFIXbvT8L2": true,
-    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
     "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,
+    "HpxwuRE9p0UvNEK2XcMFIXbvT8L2": true,
+    "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true,
     "EHq6ScQTiEQ5eA17OCvRtoZzC323": true,
-    "QdRYQzOrABV0fRWezdMxH9Ebdti2": true,
-    "qMpmibT7eBZIR6SVAPRUkVW0JQm1": true,
+    "WjTWs0aKqWWu8v5RSd7heMphkLJ3": true,
+    "hxTZuEEgETSkPjmuO9llg2T7bQe2": true,
+    "PWLp9XkcAOSIsLIpKPAdVvl1aQd2": true,
     "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
-    "DnVdqxjl7iaAGaYWkJ7My6pO8Af2": true
+    "qMpmibT7eBZIR6SVAPRUkVW0JQm1": true,
+    "5vLzBAXdfJWO68IkX53q3oHvjMn2": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
+    "QdRYQzOrABV0fRWezdMxH9Ebdti2": true,
+    "JE47OxK2v5YDWIeRxkh2iNwqkbI2": true,
+    "WmNS8bWegTY1Lb653p7wdB5E5Ox2": true
   },
   "fileName": "dl72_se_modular_mall.png",
   "image": {
@@ -32,7 +32,7 @@
     "width": 436
   },
   "lastUpdatedDate": 1658113349088,
-  "numberOfFavorites": 16,
+  "numberOfFavorites": 14,
   "tags": [
     "/mods/aai/",
     "/production/mall (make everything)/",

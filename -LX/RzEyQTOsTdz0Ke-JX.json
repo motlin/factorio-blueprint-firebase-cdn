@@ -7,21 +7,21 @@
   "createdDate": 1577813078695,
   "descriptionMarkdown": "Furnace blueprints book based on blue belts, no beacons.\n\nFurnaces for iron or copper plates\n--\n- 1 full belt in 1 full belt out model A, no modules\n- 1 full belt in 1 full belt out model B, the same as model A but with modules\n- 2 full belts in 2 full belts out\n- 4 full belts in 4 full belts out\n- 8 full belts in 8 full belts out\n- 16 full belts in 16 full belts out\n- Bot input for 16 full belts\n\nFurnaces for Steel beams\n--\n- 5 full belts of iron ore in and 1 belt of steel out, no modules\n- 10 full belts of iron ore in and 2 belts of steel out, the same as above with modules\n\n\nFurnaces for bricks\n--\n- Furnace 16 stone in and 8 belts of bricks out \n- Furnace 32 stone in and 16 belts of bricks out \n\nv1.1",
   "favorites": {
-    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
-    "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "mBceYG4ttWZiAWGaSGAnzTFQxe32": true,
     "IvVoKzGUcdWx5fVRJ1vZU7hUos13": true,
-    "mBceYG4ttWZiAWGaSGAnzTFQxe32": true
+    "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true
   },
   "fileName": "stone 32x16 Furnace.JPG",
   "image": {
-    "height": 1206,
     "id": "cINxYaz",
     "type": "image/jpeg",
-    "width": 2684
+    "width": 2684,
+    "height": 1206
   },
   "lastUpdatedDate": 1577824223665,
   "numberOfFavorites": 8,

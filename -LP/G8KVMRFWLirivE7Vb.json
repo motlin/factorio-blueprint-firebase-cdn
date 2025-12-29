@@ -7,29 +7,29 @@
   "createdDate": 1569024465036,
   "descriptionMarkdown": "**Designed for v.16 but should work for v.17**\n\n**Inputs:**\n<br>use 2-4 RHD trains\n<br>4x belt coal\n<br>1.8k/sec crude oil\n\n**Outputs:** <br>8x belt plastic (320 i/s)\n\n**Features:**\n<br>Visual indicator of tank levels using lights\n<br>4x integral refineries to provide petroleum (uses optimal ratios from wiki)\n<br> 1x refinery can support 2x belts of plastic; (pipe through put maxes out around ~1.2k flow/s\n\n![Factorio calculator](https://i.imgur.com/IY4WRtv.png)\n\n",
   "favorites": {
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "hHo5bw2p6GSaEqCZXrelbpacuAY2": true,
-    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
     "iAXsCz6USoN8Fo8LrRQcjJMFMuj2": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
-    "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,
-    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "ddEGs4a0W8PuSrEYSZJ35nkztvq2": true,
+    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
     "kmo8Yyi5ICNRrUQflqr3SFrKyQN2": true,
     "rg6aVBrY4RTCFH0AFK9ECHbVoK62": true,
-    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
     "k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
-    "ddEGs4a0W8PuSrEYSZJ35nkztvq2": true
+    "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
+    "hHo5bw2p6GSaEqCZXrelbpacuAY2": true
   },
   "fileName": "end-game-plastic.png",
   "image": {
-    "height": 2162,
-    "id": "GkYcEAv",
     "type": "image/jpeg",
-    "width": 1930
+    "width": 1930,
+    "height": 2162,
+    "id": "GkYcEAv"
   },
   "lastUpdatedDate": 1569024465036,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 14,
   "tags": [
     "/general/beaconized/",
     "/mods/vanilla/",

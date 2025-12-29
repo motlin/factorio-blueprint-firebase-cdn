@@ -8,23 +8,21 @@
   "descriptionMarkdown": "The beauty of this game lies in the expansion, the thrill of building bigger, pushing the boundaries, and at last, crafting something beautiful. This design blends all of those dreams together; it is here to inspire, to be built, to stand tall without fear of the cost. Imagine your factory, a marvel seen from above, gleaming with pride from a ship in the stars. Look down and savor the elegance. Take this concept, make it your own, turn it any way you like, and if you do, please share with me ! =]\n\nModular, Tileable Copper and Iron Smelting Complex\n\nThis complex is designed with pre-set train stops, making setup straightforward—just configure the train schedule as follows:\n\nProvide Station\n\nAdd station: Provide\nCondition: Full Cargo Inventory\nInterrupt Station - Stack Yard\n\nTrigger: Destination full or no path\nTargets: Provide & Request stations if not full\nInterrupt Station - Request\n\nCondition: Item parameter > 0, Empty Cargo Inventory\nThis design is relatively resource-intensive, but it's ideal for exporting materials to a new base. Building one of these at your factory enables the export of four fully loaded 4-stack trains of copper and iron to any location. Combined with my rail blueprint, this setup is highly efficient. I also have other blueprints for different production ratios at various game stages, let me know in the comments if you need those too.",
   "favorites": {
     "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,
-    "QI81FLgXd3YPwWbMRu9huk2s2L83": true,
-    "EmLs4bLrUFVIx7oIA3CYPreKiwo1": true,
-    "CD64b01RcGcAg1X2GaiKeMbmbnv1": true,
-    "IK4TW0q9NzYoPUf7Vnce8U0XiKi1": true,
-    "OMt4L67RCBXa9qyrB8fiPDLuFMj2": true,
     "mWNnSX7gZNZ3HSBKATOad3FzKic2": true,
-    "UCsP0wCaoOS6qnQc4dimOcjmVVz1": true
+    "EmLs4bLrUFVIx7oIA3CYPreKiwo1": true,
+    "UCsP0wCaoOS6qnQc4dimOcjmVVz1": true,
+    "CD64b01RcGcAg1X2GaiKeMbmbnv1": true,
+    "OMt4L67RCBXa9qyrB8fiPDLuFMj2": true,
+    "QI81FLgXd3YPwWbMRu9huk2s2L83": true,
+    "IK4TW0q9NzYoPUf7Vnce8U0XiKi1": true
   },
   "image": {
-    "height": 0,
     "id": "zPy3gsf",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/zPy3gsf",
   "lastUpdatedDate": 1731323615922,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 5,
   "tags": [
     "/production/smelting/",
     "/train/loading station/",

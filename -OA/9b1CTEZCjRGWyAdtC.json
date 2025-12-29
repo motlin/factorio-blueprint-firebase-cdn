@@ -1,24 +1,23 @@
 {
   "author": {
+    "displayName": "MrGergoth",
     "userId": "QGsXGhqE2vOOK3t95f2B5hVRBcm2"
   },
   "authorId": "QGsXGhqE2vOOK3t95f2B5hVRBcm2",
   "blueprintString": "0eNrVVk2P2jAQ/SuWT+3KVATyAZGo1GOvPVVCUeQkA7h1nMh22EUo/73jhCUsm+1CD1V7G1szb+bNe45ypJlsoNZCWRofqcgrZWi8PlIjtopLd6d4CTSmfKtF3kjbaC4ntnoETVtGhSrgicZemzAKygoroK/vDodUNWWGmbHHfoPDaF0ZLK2U64dwk3nofwoYPdA4CjDCRjiY1ZVMM9jxvai0y8yFzhthU1A8k1DQ2OoG2PkaS4oz6kZoY9OBlT3Ubpq90LbBm/N4fcYk30H+k/Z9jeVuO1N3KGuuuXXt6Wfati17xXR2J9Ng8b8ynZ+hCshFAXqCVZlQXdWopieeUcezEBryPsGbjdM+4Q78TLeMi9P6br5bDaBe8vXC6dQZuGps3dhr/9++v/qAkzbKphtdlalQCEbjDZcG2gQXSGvJD8imAJNrUffU6dcNWZ+wJz3k6nLShAhF1sJCuTIWoOtnbEIkGEPsjivynUxIP/lbQN2ICbHVCei1MRM6oq8/UB06jwobni2MZh6zSjA8Ci3srgQr8lvdsrh2iz9ulgH5yi93GgR4vnN6GnAw6YVN0CE14KPohXugz46523xvmuEb8IK4AciHXqofIOVBNTZhzyaoKyH5FpKP5IF4ZPWOecZ0DW/WdfqertGdn4Bgcaeof/QFOI30vLt/7LG/1PVvPW9k/IjbdnzXHvPYnM0Ttp5hFHXRnM1YwHyM/C6aYRRiFGGEtQ4Y5x9+FhiVPAPcGf1y0Y507QzJms0GNIEnXtZIBbP3eN3tIAhnS3+5DKLID8PFsm1/ASQX8js=",
   "createdDate": 1758967112592,
   "descriptionMarkdown": "Agricultural towers buffer: enable if buffer less than X",
-  "favorites": {
-    "LAIb7Jh389YLF74Jb6ZhhG4LH4C2": true
-  },
   "image": {
-    "height": 0,
     "id": "iCZ5DF2",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758967112592,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Agricultural towers buffer example"
+  "title": "Agricultural towers buffer example",
+  "favorites": {
+    "LAIb7Jh389YLF74Jb6ZhhG4LH4C2": true
+  }
 }

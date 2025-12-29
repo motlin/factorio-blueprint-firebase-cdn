@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "João Silva",
     "userId": "m6moUeEH5KYjmx89jFkaDQosYsz2"
   },
   "authorId": "m6moUeEH5KYjmx89jFkaDQosYsz2",
@@ -7,19 +8,17 @@
   "createdDate": 1751777239708,
   "descriptionMarkdown": "Melhores projetos para fazer tudo.",
   "favorites": {
+    "qvJITA9uHpTF7vPdSMwaBJaFdgi2": true,
     "5rH3pfkC6pT0hmozDsBZuKP1yRi1": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
     "GrhIyn3m3BXyvFg6iGXSZhsemP72": true,
-    "qvJITA9uHpTF7vPdSMwaBJaFdgi2": true
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true
   },
   "image": {
-    "height": 0,
     "id": "D2zEpRp",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754180487761,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/mall (make everything)/"
   ],

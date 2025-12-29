@@ -7,15 +7,15 @@
   "createdDate": 1572409794504,
   "descriptionMarkdown": "1 Million Plates per minute \"compact\" beltbased Megasmelter, just wanted to know if its possible :D",
   "favorites": {
-    "0c8wXa7FvhbMGKxcG1qVgwZ30jq2": true,
-    "i01nDDQTvah8Iq9aaAprdzj5wvn1": true
+    "i01nDDQTvah8Iq9aaAprdzj5wvn1": true,
+    "0c8wXa7FvhbMGKxcG1qVgwZ30jq2": true
   },
   "fileName": "Megasmelter.jpg",
   "image": {
-    "height": 1011,
     "id": "0gEsBxb",
     "type": "image/jpeg",
-    "width": 1905
+    "width": 1905,
+    "height": 1011
   },
   "lastUpdatedDate": 1572409794504,
   "numberOfFavorites": 2,

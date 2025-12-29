@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "jason yck",
     "userId": "Zl1mtHByI5aVdtD8H2fTdPECViw1"
   },
   "authorId": "Zl1mtHByI5aVdtD8H2fTdPECViw1",
@@ -8,17 +9,15 @@
   "descriptionMarkdown": "Spaceship that can travel to end of shattered planet, complete 4 millions KM",
   "favorites": {
     "eCi7Fq36i5gHJSmkfq8p9nrwUhz1": true,
-    "gKTk9JmYsxVTWc6fQMpNBaTyyYy1": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "gKTk9JmYsxVTWc6fQMpNBaTyyYy1": true
   },
   "image": {
-    "height": 0,
     "id": "Jv7BLlc",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1756313885359,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

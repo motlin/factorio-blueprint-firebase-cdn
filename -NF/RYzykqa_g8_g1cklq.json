@@ -7,9 +7,9 @@
   "createdDate": 1695917539364,
   "descriptionMarkdown": "Main Bus City Block based on ChaosDoggo's [City Block](https://www.factorio.school/view/-Nac1TfJqudXCDg3rwLV) \n\nFeatures 40 belts in 10 groups of 4, plus 6 pipes on each side. The pipes are connected at the \"north\" end so they're effectively mirrored. There would be room in the middle for 2 additional pipes, which would let this block effectively transport all types of fluids.\n\nYou will probably need to add pumps, but that will depend on the direction your fluids go in.",
   "favorites": {
-    "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
-    "sfWfBYcq26UJUZg9lyxGjBHsdqn2": true
+    "sfWfBYcq26UJUZg9lyxGjBHsdqn2": true,
+    "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true
   },
   "fileName": "Capture d’écran, le 2023-09-28 à 12.10.19.png",
   "image": {
@@ -19,7 +19,7 @@
     "width": 1444
   },
   "lastUpdatedDate": 1695918200207,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/",
     "/train/junction/"

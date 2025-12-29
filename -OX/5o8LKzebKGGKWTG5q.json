@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "しーωー",
     "userId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3"
   },
   "authorId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3",
@@ -7,17 +8,15 @@
   "createdDate": 1754608474021,
   "descriptionMarkdown": "離れ鉱床の防衛などに",
   "favorites": {
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true
   },
   "image": {
-    "height": 0,
     "id": "ZfeShbe",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758217004581,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

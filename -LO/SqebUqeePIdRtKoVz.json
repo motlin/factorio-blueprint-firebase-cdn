@@ -7,20 +7,9 @@
   "createdDate": 1539172903865,
   "descriptionMarkdown": "This my friends is a labour of love. I have created for you not only just a functional piece of work, it has been created with aesthetics in mind.\n\nThis requires 64 belts of ore coming in.. (I know right, but this is for a megabase ok ;) ), these then feed 32 refinaries which have been optimised with productivity modules and beacons with speed modules.\n\nEach refinary has a raw ore throughput indicator, if throughput drops below 5 ups it goes red, otherwise its green.\nAt the top of the array, if all 8 buffer containers are not full they will show as red otherwise its Aqua blue, the same as the rest as the background lights. The colour can be adjusted by tweaking the colour value in a decider combinator in the middle.\n\nI have included Solar panels and accumulators in the array to help it negate its power requirements.\n\nHope you enjoy. Any positive feedback welcome.\n\n![Better pic](https://i.factoriomaps.com/aotfz/Mega-Base-Refinary.png)",
   "favorites": {
-    "SpZQMBCZeBOdOjFgQD79f5fjGSc2": true,
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
-    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "9m0aOdzN1KMygMhAODbflOZfS0G2": true,
     "DjYNvGesC5N1c9aGVkw7uZSZIcn1": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "Ojh0Lmt8dPMoyeQpyF1qE5VblFI3": true,
-    "IFeEXDG62tW2X55Qo6xVMEFBOtL2": true,
-    "6o3zCYWVnuekQSWRC4KdskDSBI02": true,
-    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
-    "x737lAhQ3Fcc8KAF6f2NLu8kWlm2": true,
-    "ZNWRNCg7olMaumXcFIf7AABolVg1": true
+    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true
   },
   "fileName": "64 Refinary.PNG",
   "image": {

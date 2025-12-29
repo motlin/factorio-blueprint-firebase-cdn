@@ -7,26 +7,24 @@
   "createdDate": 1734408005021,
   "descriptionMarkdown": "A modular science setup consuming 480 science per second. Plop down as many as you need for however much spm you're interested in. (Each lab consumes 900 spm on average. Kelvin (in factorio's official discord) did help to compact the design from the original, so massive shoutout for the help! Meant for two science on each belt. Actually consumes 480 science per second now. Agriculture science on the left/right side of the belt above/below the labs. If not on the correct side spoilage builds up.",
   "favorites": {
-    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
     "8KxnOemithR6yOG1iW1Ltk4jHoh2": true,
-    "IxOPoS1DkuMx2YzTaKIcTmZrSQ02": true,
-    "zFw7ietpHdPBw4vi3Ax7U6fiNj82": true,
-    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
-    "KF434v09jCMvGg8cnoOJuedk3aa2": true,
-    "gR39ksU0EjgyX490PLFY81d4sjB2": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
+    "IxOPoS1DkuMx2YzTaKIcTmZrSQ02": true,
+    "KF434v09jCMvGg8cnoOJuedk3aa2": true,
     "SnZ9TRHcs3R7UlJQlXGz5Ox62kN2": true,
-    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
+    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
+    "gR39ksU0EjgyX490PLFY81d4sjB2": true,
+    "zFw7ietpHdPBw4vi3Ax7U6fiNj82": true
   },
   "image": {
-    "height": 0,
     "id": "rSz4riO",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/2i7A9DG",
   "lastUpdatedDate": 1751827221829,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/beaconized/",
     "/production/research (labs)/",

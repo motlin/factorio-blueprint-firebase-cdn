@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Orange Juice",
     "userId": "fQl0g3gm0KYf1Ok9SWv5B35E6Z22"
   },
   "authorId": "fQl0g3gm0KYf1Ok9SWv5B35E6Z22",
@@ -7,18 +8,16 @@
   "createdDate": 1759353843755,
   "descriptionMarkdown": "My favorite blueprints",
   "favorites": {
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
     "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true
   },
   "image": {
-    "height": 0,
     "id": "RybDR5K",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1759353843755,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

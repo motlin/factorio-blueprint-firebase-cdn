@@ -7,8 +7,8 @@
   "createdDate": 1642969258415,
   "descriptionMarkdown": "This is my single power plane version of my largest design of a Factorio nuclear reactor to date.  It also follows ratios very closely.  After catching some bugs in the proverbial net, I'm ready to get squashing again in more testing.  This design has been load tested for a 12h continuous 100% full load without faults.  Version history below:\nv1.0 - Initial Release\nv1.0.1 - Replaced a missing automation wire on the long inserters for nuclear fuel cells on the reactors\nv1.1.0 - Fixed incorrectly wired and set automation on the nuclear fuel rod inserters\nv1.1.1 - Replaced a missing underground pipe segment on the water intake\nv1.2.0 - Fixed a 1 tile mismatch in width between the left side and the right\nv1.3.0 - Fixed incorrectly wired automation on the steam tank level lights from the previous fix\nv1.3.1 - Fixed an overwritten-by-a-radar water pipe underground\nV1.4.0 - Removed over 270 heatpipes from the design without significantly affecting performance.\nv1.4.1 - Fixed a missing automation wire destroyed by bad placement of a new object\n\n",
   "favorites": {
-    "V7CD5u5SRyd54czIx20eiB5QZh42": true,
-    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true
+    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
+    "V7CD5u5SRyd54czIx20eiB5QZh42": true
   },
   "fileName": "Straight_8x2_in_game_by_1x4x9.jpg",
   "image": {

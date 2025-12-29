@@ -7,9 +7,9 @@
   "createdDate": 1578593634147,
   "descriptionMarkdown": "Factorio 0.17 Vanilla\n\nWater + crude delivered by train :: processed into rocket fuel :: belted to train.\n\n<b>About the circuits:</b> Red Wires run locally with each lane, keeping counts for station enable/disable and talking to rail signal. Please do not mix the red wires!\n\nGreen Wires run globally, gathering the number of stations available and signalling this to the Staging area for circuit wait conditions.\n\nBuilt to slightly exceed [demands of my 2.7k spm grid base](https://kirkmcdonald.github.io/calc.html#zip=dVJbagMxDLzNfsWwaUoCCz6MYitbUVs2ktzX6eslpSWpA8ZgjWZGGhzBwM9uf3LHecrE/nk6YzKPH1VQ1ZkAay1ibitPMft6mOLZ63YHvz9OZJjVQ7OSwaiw00DIAV2F8LrI8nSa510qK6lRGIKZEhnI5xAML5gpQBqCVUps4aFrs015rKv9gSNkyl0zYV8phJZbAiuycEvp7tphwmDSd7o04S42bLqQIEh2GVb4IsZFD79ntwoyxDGRWFEMx9aVUALx6qQ0jvqnPm6uD4Cf9N62jK5b34wnEGHsL0D3tSugYJh65mNDLQmkZ834gF0R42gStcLo3uEf5cq7/aSjlm8=) for 2-8 trains running on nuclear fuel. That is the train configuration I use here but the included tile blueprint makes it easy to adjust for your base.\n\n[Kirk McDonald calculator for 128 A3's with 9 or 10 Beacons each](https://kirkmcdonald.github.io/calc.html#data=0-17-60&min=4&belt=express-transport-belt&dm=p3&db=s3&dbc=16&items=rocket-fuel:f:128&modules=advanced-oil-processing:;s3:22,rocket-fuel:;s3:19). He expects me to get 2307 but production data never sustains it.\n\nGoes with [my 50k Plastic/10k Sulfur/19k Lube Factory](https://factorioprints.com/view/-LyA26lVB6FMj4UzxlMv) to complete train-based Oil processing.",
   "favorites": {
-    "fOcyhtywgXgoS81ajBomIJFmoco2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
     "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "fOcyhtywgXgoS81ajBomIJFmoco2": true
   },
   "fileName": "rocketFuel2280pm-vert.jpg",
   "image": {

@@ -1,24 +1,23 @@
 {
   "author": {
+    "displayName": "David McDonough",
     "userId": "jZDMYC24BbRMPKGTo745mEJ9qsF2"
   },
   "authorId": "jZDMYC24BbRMPKGTo745mEJ9qsF2",
   "blueprintString": "0eNrtWd2OszYQfRXL1xCBISFEbaWqUm8q9QW2q8iBycZaMHy2yX7RinfvGLKwPySBdG+2GyUXdmzOzBzPHBvnmW6yCkolpKGrZ5qCTpQojSgkXdHfSQo8JVrkZQbkr2LPFfwkGkxVzv6RfxcSSLElZic0kQCpJqYgGyAZPIBMuTqQHxXPhDnYWUlRKQ0O0TyHFoI8FepRE45fog1XBhSi/sGlxTAig3RG/hRGY9c8AUg0BGRT4IDSREgiqyQDrkiZcWlm1KEiKaSmq7tnqsWD5JkNyBxKwEgUJAIbDpVoHvuPbSwuSCWSXQ7SuKUqEtCa1ggkU/hJV35971AcEkZAi9t0DmtZ5RtQOKHDS3BEiW31YG2UhRYtg88UYdwons0desCW74WzORo48oIPdlzhc0cnz3r3MmvdQ8hC5Rgsum0gb/0UqbV99A0fTavEiD1Od3NsZ+AGdNiJukNBELkWco/GCxxoUPte6FBcsuSRrrzaOTGC9NX4dT7QxkbSFtxoe01b0NG2AY6pPkDZkvWUBWcoOxGyLrGKPytW/2Ss/uVYwz7WKnt0hdRg9WEoZK8PmTUhIzVGFdl6Azu+F4WyMxOhkkqYNY6l3eNbobRZ91pxtFgpLkWVuyyY0xYOvbXy6HueZ/t5yRU3Fpj+Quv6FE0fgpqPDipavg8qFZjA7ZTlaIOLyxkTLf4nGRONJzf8MhmzHB8U+5SMiTuDJdda7MEq6F6koNxkB9pc0By/sbzhdm/0BuB9r8NX8KNCwHPA3nvgUeu0Bsk3eHigqy3PNPT+OC8211uRoeEmH3XL0TG1j/u+Q7sZb379sNzLNxnf7ShvFvzX5ofqmA5tYjeAzBnKn0mAoYe1gAUxwLR/lYJ6JyVgyEYfwZZrc9aG/34tX6VneH5lu/U0qgLncwoz+FCXvzV1OXLdxy2TPT5WGvp0swEM8RhMqIrXW8OtKqZWRX+u0IiRuRnPywsndkvyENR1u7l3vTb7i+ni/Hp7vyjO0ehyjqIz5Wxl4XvX83I8kfObLp7mMZ6ii+FNF6/WReZddXqedFpg/kjtDS5qL2NTEoN9UmJ8p3wIrnrx+A+bGwvHa6Z/23xOiyabX3FK8MafEthiyjVUHH/lOwUWTb3gjZe3i8oVW065d/riKRJPvcz+himC0vWEEm0du8OTFXNQpdm9c4cvvtiO2vbStuOmjfs7fkJs37fO2Ezq/qZyaMY3gMpMX/6R2hWGlIVBrcTBPapjQ/x8weIwjudRHAYsXtT1vw0dAJU=",
   "createdDate": 1760899747411,
   "descriptionMarkdown": "A dead simple Kovarex setup.\nNone of this needs to be legendary quality of course, same setup works as a starter.",
-  "favorites": {
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
-  },
   "image": {
-    "height": 0,
     "id": "NPE8nDD",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1760899747411,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Kovarex hot potato"
+  "title": "Kovarex hot potato",
+  "favorites": {
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+  }
 }

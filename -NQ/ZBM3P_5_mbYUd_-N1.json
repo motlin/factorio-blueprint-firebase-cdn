@@ -7,9 +7,9 @@
   "createdDate": 1707856720747,
   "descriptionMarkdown": "печи на маяках",
   "favorites": {
-    "aLrJU6HZVudNmiPhg5fexRzL7Aw1": true,
     "3Ale5Q8jxrPOa25cc0Rd66cgd072": true,
-    "7EC33FHdgcZbGFGjlQScBUZNnKJ2": true
+    "7EC33FHdgcZbGFGjlQScBUZNnKJ2": true,
+    "aLrJU6HZVudNmiPhg5fexRzL7Aw1": true
   },
   "fileName": "iron.png",
   "image": {
@@ -19,7 +19,7 @@
     "width": 1223
   },
   "lastUpdatedDate": 1707856720747,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/smelting/"
   ],

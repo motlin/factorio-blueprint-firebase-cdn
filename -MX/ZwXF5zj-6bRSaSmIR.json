@@ -7,19 +7,19 @@
   "createdDate": 1617675035869,
   "descriptionMarkdown": "Mods needed for operation: Space Exploration + https://mods.factorio.com/mod/space-exploration-pipes. \n5,000 integrity is also required.\nIt is necessary to unblock the antimatter reactor.\nIn this version I added a remote monitoring system.\n\nNOTE: First assemble the floor of the ship, then place the entities on top.\nVersion ship: 2.0\n\nSpace-exploration 0.6.101\nMap version: 1.1.84-4",
   "favorites": {
-    "syIDVqmK0tO7raZbBgmLfIe2lF33": true,
-    "GXGsziPDIFSKVR2cd7YLJFXFiqN2": true,
-    "G8S6aGezMwSbVHSKGQz0bSOxWIC3": true,
-    "4PPqpXg805QyLWkEfeDQNQrpGZq2": true,
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
-    "Qz8ku3yB2UfpOeP4HELHwoL427d2": true,
-    "uDYppjISbSa21DvQD9atxQ1gLmY2": true,
-    "s5PnC1JZNeZDWP8YctgHkC44xBA3": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "VLA4KH9lgBcyONZsyTHAeDRFufk1": true,
+    "GXGsziPDIFSKVR2cd7YLJFXFiqN2": true,
     "e66LaJ4r2lZGH5RfUmF1eEOLdIg2": true,
-    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
+    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
+    "4PPqpXg805QyLWkEfeDQNQrpGZq2": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
+    "s5PnC1JZNeZDWP8YctgHkC44xBA3": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
+    "G8S6aGezMwSbVHSKGQz0bSOxWIC3": true,
+    "syIDVqmK0tO7raZbBgmLfIe2lF33": true,
+    "uDYppjISbSa21DvQD9atxQ1gLmY2": true,
+    "Qz8ku3yB2UfpOeP4HELHwoL427d2": true
   },
   "fileName": "spaceship victory.jpg",
   "image": {
@@ -30,7 +30,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/spaceship%20victory.jpg?alt=media&token=06c6391f-a0bd-4f70-aa35-59459ba40c09",
   "lastUpdatedDate": 1698064483671,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 10,
   "tags": [
     "/mods/other/",
     "/version/0,15/"

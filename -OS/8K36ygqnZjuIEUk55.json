@@ -6,12 +6,9 @@
   "blueprintString": "0eNrNWFtvmzAU/i9+3MzGnYDUvax/oH3YSxUhAk5jFWxmTLOo4r/v2JBLKXSBZc0UKTocfG7fuTl5Qau8JqWgTKLoBdGUswpFDy+ooo8syRWPJQVBEUoElZuCSJoaKS9WlCWSC9RgRFlGfqHIavCAVEZSmhExLGI3S4wIk1RS0lrVD7uY1cWKCNCJ93qUXzJh8lQRRiWvQJYzZVDpC4MvHkY7FIX+Fw/sgJQUPI9XZJM8UxCBcxVJlUj1mgbb+zgwWtNcEtHnyl2pPHmmQtYQ48G1NmbjFjg/4QX4D0zGRaEPgb9lIrS/EbrRjFph7TVL+DQKtF7Q9tSg/esFneY8fdrSihgpFWlOjEQIvp2GhOOb5igYDn6//oZqoAUj0GBkVLThosgdhuaoN4bXGT3gtKaikvGxov8AxXdV2IAt6Ij3idMQ8pJA1NoF9BnEeC3LepriQWjc6dCE14fmbKF7JXSK3acLYufNxs7/YOxGOmwGoLd9QL/OAHTcndO4YkbklosnHbAgGYrWSV4RjB4FIWBaipr0I3gro04dRLSC4WT6U5PpmM51GuHuInmb0wg/RhohwO9s6vHhGp4JXKe0h9rp08NkEEmSblDT2yff0IwKVHhMNH7fWj4Z72/W2vtuDBT1XgeJO+MJy5C6GrVJ7t/Hzqmxs6If3riLeRWxuGJFzNovY5NsNvBdaZS7WF9s4rXgRUwZKNonehjwcCLg4f/TglMxH2zdm/m13uobwdUyZy/5xWX2wqs58df3H2PG2L8fGfuWNX1nWtPq7qo78yKXx7sx8OxJHXu4bVyzY+9mbMyh+xf+EMsX3dVvfnVedNeODR9n1hq1TPNfFknnERWcGWWeSDLYW4Onzh7ZA9IaIxDYQlTq+IOFLexha4mBsrGPbaBsoDxNOUC52O2oRccDjqZczVNvPewApbT4oA+60gEyAHLRUTYO9EFFQUJa0sWh1gOHMKwIJR4CEyai4gLHUaqslj7yrRO+chW+3CXERCUpINzjv2gY5cmKABRIbgSvHzeAkcENmIREJf6ZiErn1fPt0A1DLzBtLwjtpvkN6dStxA==",
   "createdDate": 1749281947962,
   "descriptionMarkdown": "This circuit sends a continuous output signal of item / game minute.\n\nExample: \n\n    - turbo belt, fully stacked with stack height 4, full flow -> 14400\n    - yellow belt, fully stacked with stack height 1, full flow -> 900\n\nUsage:\n1. aquire a pulse-like input signal (belt, read contents, pulse)\n\n2. connect it (red or green) to the input decider combinator ( currently: iron = iron -> iron)\n\n3. set the input decider signals to the desired signal\n    example for green circuits:          ( greencircuit = greencircuit -> greencircuit )\n\n4. set D -> it is a time divisor. higher D equals higher frequency, but less precision. \n    example values: \n    - 3600 - update every tick (no precision, not recommended)\n    - 60 - update every second (fluctuating values, not recommended)\n    - 5 - update every 12 seconds (stable values, frequent updates, this is what I use usually)\n    - 1 - update every minute (high precision, but long update time)",
-  "favorites": { },
   "image": {
-    "height": 0,
     "id": "IpQgZzA",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/IpQgZzA.png",
   "lastUpdatedDate": 1749282008892,

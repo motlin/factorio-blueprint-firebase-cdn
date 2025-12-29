@@ -8,10 +8,10 @@
   "descriptionMarkdown": "503spm by bots\n\n12 beacon design, only bots\n\nRequires ~4-5k bots with robot speed level 13\n\nInput - pipes at the top: \n- water (101k / min = 1.41 pump)\n- oil (63k / min)\n\nInput - logistic network:\n- copper plates - 29.6k / min = 11 blue belts\n- iron plates - 38.3k / min = 14.3 blue belts\n- stone - 7.1k / min = 2.61 blue belts\n- coal - 5.1k / min = 1.9 blue belts\n- steel - none - produced from iron plates \n\nTests:\n- sustained 503spm for 30 minutes\n- more extensive stability and ramp-up tests TBD\n\nVersion 1.1:\n- improved gear production rate as required",
   "favorites": {
     "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
+    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
     "TUVHGQIzEpXOXx4HJTxE4elf1Aj1": true,
-    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true
+    "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
   },
   "fileName": "500spm-bots.png",
   "image": {

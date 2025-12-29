@@ -7,20 +7,16 @@
   "createdDate": 1537477204822,
   "descriptionMarkdown": "Factorissimo 2 - Power Book - Bob's Logistics & Power required\n\nI made this blueprint book because there where not many options to choose from here.\nThese blueprints are based on Zisteau's gameplay. I have tried to make the ratios for boiler to steam engine as close as possible to 1:2.\nAll these powerplants can be used with coal. The Mk2 and Mk3 Factory buildings need blue belts however, otherwise you wont have enough coal throughput.\n\nPlease let me know if something is not working and I will try to fix it ASAP.\n\n*IMPORTANT*\nFor these blueprints to work you need these mods installed\n* [Factorissimo 2](https://mods.factorio.com/mod/Factorissimo2)\n* [Bob's Functions Library](https://mods.factorio.com/mod/boblibrary)\n* [Bob's Logistics](https://mods.factorio.com/mod/boblogistics)\n* [Bob's Power](https://mods.factorio.com/mod/bobpower)\n* [Bob's Adjustable Inserters](https://mods.factorio.com/mod/bobinserters)\n\n*Optional*\n* [Bluebuild](https://mods.factorio.com/mod/Bluebuild)\n\n#### Mk1 Factory building\nAmount of boilers/steamers: 20/40\n* Mk1 Boilers & Steam engines (basegame).\n  * Poweroutput : 36 MW\n* Mk2 Boilers & Steam engines\n  * Poweroutput : 72 MW\n* Mk3 Boilers & Steam engines\n  * Poweroutput : 108 MW\n* Mk4 Boilers & Steam engines\n  * Poweroutput : 144 MW\n* Mk5 Boilers & Steam engines\n  * Poweroutput : 180 MW\n\n#### Mk2 Factory building\nAmount of boilers/boilers: 49/90\n* Mk1 Boilers & Steam engines (basegame).\n  * Poweroutput : 81 MW\n* Mk2 Boilers & Steam engines\n  * Poweroutput : 162 MW.\n* Mk3 Boilers & Steam engines\n  * Poweroutput : 243 MW\n* Mk4 Boilers & Steam engines\n  * Poweroutput : 324 MW\n* Mk5 Boilers & Steam engines\n  * Poweroutput : 405 MW\n\n#### Mk3 Factory building\nAmount of boilers/steamers: 80/160\n* Mk1 Boilers & Steam engines (basegame).\n  * Poweroutput : 144 MW\n* Mk2 Boilers & Steam engines\n  * Poweroutput : 288 MW\n* Mk3 Boilers & Steam engines\n  * Poweroutput : 432 MW\n* Mk4 Boilers & Steam engines\n  * Poweroutput : 476 MW\n* Mk5 Boilers & Steam engines\n  * Poweroutput : 720 MW\n",
   "favorites": {
-    "LhBd0yWlPxN6Sh0Gu2rU3Da94B53": true,
-    "SnawBTUiGGNSW7pnRLJ6wNIfKWx2": true,
     "EtByybUWN9SnmOLAFVAYTTHXxl62": true,
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
-    "Ob5UHSkQXzdFqrP54dEAzNCt4652": true,
-    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
-    "exmQIOxgTKXSy67MFnzi9CiYpyL2": true
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true
   },
   "fileName": "Screenshot_1.png",
   "image": {
+    "width": 1900,
     "height": 850,
     "id": "AU5cgVz",
-    "type": "image/jpeg",
-    "width": 1900
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1537477204822,
   "numberOfFavorites": 7,

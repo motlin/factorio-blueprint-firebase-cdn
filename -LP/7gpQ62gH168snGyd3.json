@@ -7,15 +7,10 @@
   "createdDate": 1539891746832,
   "descriptionMarkdown": "Hello,\n\nI present my take on the late game module production ( fully beaconized). This thing produces any Module 3 at rate 80 per minute (you never have enough modules). The blueprint book also contains separate builds to produce Module 1/2/3, in case you dont want the compact version, or if you only need lesser modules.\n\nIt comes with great material drain, to feed this you will need:\n\n* Green circuits - 8000/min\n* Red circuits    - 10 400/min\n* Blue circuits   - 2400/min\n\n[PRODUCTION STATS](https://imgur.com/T8rcLEH)\n\nAs a bonus I included Combined Speed/Production module factory with ratio switching. Just plop this thing down, set the ratio in constant combinators and enjoy the production (beware, this is capped on 80 modules per minute, no matter which one you produce). \n\nEdit: Updated for 1.0 ; improved the design so no manual fiddling is required (hopefully).",
   "favorites": {
-    "o5ZZh36wUnhHbRSyk2XJGjv0Yqr1": true,
-    "ub0iEtNIVqVuJDIIVHdezrooiVY2": true,
-    "fZcqlQRI7wbMDzewMJyIFmGc9iR2": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "x737lAhQ3Fcc8KAF6f2NLu8kWlm2": true,
-    "QNAwysxNhWQxKlFdFsXHzixSf6y2": true,
-    "1crsjb7MxXOnqbJn9Qe2h7fo5uu1": true,
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
-    "vBbav5pKujbdDMGrhgplgVJfgjt1": true
+    "fZcqlQRI7wbMDzewMJyIFmGc9iR2": true,
+    "ub0iEtNIVqVuJDIIVHdezrooiVY2": true,
+    "1crsjb7MxXOnqbJn9Qe2h7fo5uu1": true
   },
   "fileName": "module factory.png",
   "image": {
@@ -25,7 +20,7 @@
     "width": 1481
   },
   "lastUpdatedDate": 1606060202212,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 8,
   "tags": [
     "/production/modules/",
     "/general/beaconized/",

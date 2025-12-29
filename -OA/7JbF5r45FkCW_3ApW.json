@@ -7,21 +7,19 @@
   "createdDate": 1729937700421,
   "descriptionMarkdown": "可能是最简单的星际飞船。\n\n只需要280块地板就能往返火星，500块地板就能往返玄冥星\n\nPerhaps the simplest interstellar spaceship.\n\nOnly 280 floor tiles are needed for a round trip to Vulcanus, and 500 floor tiles for a round trip to Aquilo.",
   "favorites": {
+    "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,
+    "kX0dqmz8uSVx2G2Wjn6XX59OQC73": true,
     "gb6oqlNHNoP3pxggQBubS6r2tfx1": true,
     "6cdp71TnFOdgyR7n9HA5G54Wxtw2": true,
-    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
-    "ph81bAKnzSTPWTcokY5pLF0j6zi2": true,
-    "kX0dqmz8uSVx2G2Wjn6XX59OQC73": true
+    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true
   },
   "image": {
-    "height": 0,
     "id": "zvaeIFQ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/zvaeIFQ",
   "lastUpdatedDate": 1729945294420,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/",

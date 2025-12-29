@@ -7,25 +7,17 @@
   "createdDate": 1546319258200,
   "descriptionMarkdown": "https://youtu.be/-TtA0chzLac",
   "favorites": {
-    "9bCWREjAU2eFHTyJAhwDVU9hdpV2": true,
-    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
-    "5dree0jIyHaSRqZ14iC4Jo3MhYu1": true,
-    "J8IrtcxxqDSbqQT8cdAQNCAmKIg1": true,
-    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
-    "0eVR6HWgYNT5MeZDbttstuAbRBf1": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "Puk8h8K8n1XUxaHSiSPHULT2Ed22": true,
-    "irBBZNtRzEa9GaVTiD4WNJVFAMg2": true,
-    "gwKhsvFLfEf6mRjDQWa2B2eyD7q1": true,
     "hlpDLH798ATs4IDUUyZdas9xlF23": true,
-    "KHiVNgd8hhOuc9SwS2OqGYE00JA3": true
+    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
+    "gwKhsvFLfEf6mRjDQWa2B2eyD7q1": true,
+    "Puk8h8K8n1XUxaHSiSPHULT2Ed22": true
   },
   "fileName": "ayy.jpg",
   "image": {
-    "height": 720,
     "id": "2XLvAnN",
     "type": "image/jpeg",
-    "width": 1280
+    "width": 1280,
+    "height": 720
   },
   "lastUpdatedDate": 1546319258200,
   "numberOfFavorites": 12,

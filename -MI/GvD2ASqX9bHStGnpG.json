@@ -7,14 +7,14 @@
   "createdDate": 1601249797516,
   "descriptionMarkdown": "The entire Blueprint Book to print:\n- 1kSPM Quadrant, in steps\n- Patches to address minor build corrections\n- The center piece (rocket silos)\n\nIncludes are control switches:\n- Green signal allows rocket part ingredients to flow from the quadrants to the rocket silos and the science packs to flow back into the laboratories\n- In the center are constant combinators that send a combined \"I\" signal:\nat '2', the rockets launch at 1 per minute\nat '4', the rockets launch at 1 per 2 minutes\nat '8', the rockets launch at 1 per 4 minutes\n\nWith both signals, one can reduce consumption and production to allow shutdown of one or more quadrants and still allow the \"open\" quadrants to produce at full capacity.",
   "favorites": {
-    "G5Btk2R15waQJBxt7vS4DR1onSn2": true,
-    "ZorWneah7EaKSAsLrCLx2lsR4Ds2": true,
-    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
-    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
-    "K557JJgy80PJT1mADgbu6zvbTaT2": true,
-    "mgzaB559GKQRL7QtiME6MluIubD2": true,
     "4MT7V13r61Pua3WS8GUBa13Qlo23": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "K557JJgy80PJT1mADgbu6zvbTaT2": true,
+    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
+    "mgzaB559GKQRL7QtiME6MluIubD2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "ZorWneah7EaKSAsLrCLx2lsR4Ds2": true,
+    "G5Btk2R15waQJBxt7vS4DR1onSn2": true,
+    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true
   },
   "fileName": "Quadrant-1024 - Copy.png",
   "image": {

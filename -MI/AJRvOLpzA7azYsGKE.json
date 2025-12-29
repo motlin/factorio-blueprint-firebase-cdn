@@ -7,8 +7,8 @@
   "createdDate": 1601138970438,
   "descriptionMarkdown": "Here's my train rail system - I'm calling it Hydra Wide.  It's based on a simple circle of rails with tracks off of that instead of just building rails three, four, or five tiles wide.  This is version 2.1.  It is best used with trains of at least 11 cars counting either locomoties or wagons.\nI used to use 2-8-0 trains and I have encountered deadlocks with a train turned off inside some of the roundabouts.  So, 11 cars or more.\nThis is designed to move lots of trains over a rail system with intersections that allow for use by multiple trains that are going different directions.  My current project is a 10k spm mega base.\n- Chunk Aligned\n- Right Hand Drive\n- Gridded to 32x32 tile layout so will snap to the proper location on your map\n- Has red & green wires on big electric poles\n- Landfill underneath items (on water you'll need to place again after the landfill is placed by bots)\n\nVersion 2.1:  Fix a grid location problem with one of the 45 degree turns",
   "favorites": {
-    "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true,
-    "5Rblzwz5WpakRdsteZQ19sk9cTT2": true
+    "5Rblzwz5WpakRdsteZQ19sk9cTT2": true,
+    "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true
   },
   "fileName": "HWS20.PNG",
   "image": {

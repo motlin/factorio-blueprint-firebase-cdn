@@ -7,11 +7,11 @@
   "createdDate": 1625798976678,
   "descriptionMarkdown": "This is an Secure mining outpost, it will request train when have enough ores to fill a train designed as 1-8-1 (Locomotive - Wagon - Locomotive), just keep in mind to fuel the roboports to maintenance itself, logistic resources:\nLaser Turrets\nWalls\nRepair Kits :)",
   "favorites": {
+    "ScB8E40grLSqtGfMZe7CYXbyPkv2": true,
     "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
-    "pYT1DqOk8cTytMrjipa8Et3BUZE3": true,
-    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "ScB8E40grLSqtGfMZe7CYXbyPkv2": true
+    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
+    "pYT1DqOk8cTytMrjipa8Et3BUZE3": true
   },
   "fileName": "defense_blue_print.jpg",
   "image": {
@@ -21,7 +21,7 @@
     "width": 769
   },
   "lastUpdatedDate": 1625798976678,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/vanilla/",
     "/version/0,15/",

@@ -7,18 +7,18 @@
   "createdDate": 1651204027850,
   "descriptionMarkdown": "no Beacon: 90/min\nWith beacon: 500/min\n\nUpdate 25/05/22:\nProblem with yellow science where it was stuck at 350/min because half a steel belt is insufficient.\n\nThe next update will try to compact the yellow science.",
   "favorites": {
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
-    "zLbUTheVtSSs5uYTNcbTk9eZ05z1": true,
-    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
-    "6dcPLdGroDVJ8Jw0Jf91lBZQQq23": true,
-    "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,
-    "RJFjlIFAfdQwWAs8Yl8TOUJDXmm1": true,
-    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
     "15gC6sqdiBVjWHro8hmUv9af80r2": true,
-    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
+    "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,
+    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
+    "pTE5GluQp1R31Yry7XZP1hARdJr1": true,
+    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
     "doogt4CYwWe3eJVatdCjuGImNfX2": true,
-    "pTE5GluQp1R31Yry7XZP1hARdJr1": true
+    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
+    "zLbUTheVtSSs5uYTNcbTk9eZ05z1": true,
+    "RJFjlIFAfdQwWAs8Yl8TOUJDXmm1": true,
+    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
+    "6dcPLdGroDVJ8Jw0Jf91lBZQQq23": true
   },
   "fileName": "20220428234433_1.jpg",
   "image": {
@@ -28,7 +28,7 @@
     "width": 2560
   },
   "lastUpdatedDate": 1653474625632,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 10,
   "tags": [
     "/production/science/",
     "/general/beaconized/"

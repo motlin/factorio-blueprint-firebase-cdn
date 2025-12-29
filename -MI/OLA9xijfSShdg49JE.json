@@ -7,22 +7,22 @@
   "createdDate": 1601374304010,
   "descriptionMarkdown": "Starter Base designed to be built in stages (for use with Nanobots mod).\nStarer base makes Automation and logistic science packs and most things needed to help the factory grow; including:\nTransport Belts, Underground Belts, Splitters, Assembling Machines mk1/2, Burner Inserters, Inserters, Long Inserters, Fast Inserters, Boilers, Steam Engines, Off-shore Pumps, Stone Furnace, Steel Furnace, Lamps, Oil Pumps, Oil Refineries, Chemical Plants, Walls, Gates, Small/Medium/Large Electric Poles, Trains w/Cargo&Fluid Wagons, Train Stations,Tracks, Signals\n\n*Nanobots mod not required but highly recommended QOL mod",
   "favorites": {
-    "SASgRmzwUfdqLDzmpCX3OHHKzBJ3": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "IJjb8wNDiVMHmJcNkKEpY1c0cic2": true,
-    "ndlUEyi1k3OsKJZ2DrUElBRk2fJ2": true,
-    "qrgtx5USMSOT9ZM3UoFzNaueh883": true,
-    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
-    "NYbsGYFRP0OBxoCttJAWEdlUF4i2": true,
-    "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,
     "Fu2XktNYXTbARRod2pl5pQkRjmb2": true,
-    "0LplOO9VaTMPC1YfBNuvBlxF1Rw2": true,
-    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
-    "sBdlWpGoeJTaaBrklNzvfHxupih1": true,
-    "f0kFXGkCPbh38qiIc8E9ZUQ1iNb2": true,
-    "5Rblzwz5WpakRdsteZQ19sk9cTT2": true,
+    "NYbsGYFRP0OBxoCttJAWEdlUF4i2": true,
     "yL6ajJSLtOURTN3DO1ycraUsvkV2": true,
-    "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true
+    "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true,
+    "ndlUEyi1k3OsKJZ2DrUElBRk2fJ2": true,
+    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
+    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
+    "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,
+    "f0kFXGkCPbh38qiIc8E9ZUQ1iNb2": true,
+    "qrgtx5USMSOT9ZM3UoFzNaueh883": true,
+    "5Rblzwz5WpakRdsteZQ19sk9cTT2": true,
+    "SASgRmzwUfdqLDzmpCX3OHHKzBJ3": true,
+    "IJjb8wNDiVMHmJcNkKEpY1c0cic2": true,
+    "sBdlWpGoeJTaaBrklNzvfHxupih1": true,
+    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
+    "0LplOO9VaTMPC1YfBNuvBlxF1Rw2": true
   },
   "fileName": "Starterbase.PNG",
   "image": {
@@ -32,7 +32,7 @@
     "width": 1212
   },
   "lastUpdatedDate": 1601374304010,
-  "numberOfFavorites": 16,
+  "numberOfFavorites": 14,
   "tags": [
     "/general/early game/"
   ],

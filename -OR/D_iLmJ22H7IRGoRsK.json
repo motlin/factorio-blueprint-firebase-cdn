@@ -8,22 +8,20 @@
   "descriptionMarkdown": "Biolab (No Quality, No Modules)\n\nБиолаборатория (Без Качества, Без Модулей)\n\nIt only works with turbo pipelines\n\nРаботает только с турбо-конвейерами\n\nAll 12 types of scientific packages\n\nВсе 12 видов научных пакетов\n\n@googlegun",
   "favorites": {
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
     "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,
-    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
-    "lM9fcEzS7iQtcikyp5Aw3wMbdzW2": true,
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "lM9fcEzS7iQtcikyp5Aw3wMbdzW2": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
+    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true
   },
   "image": {
-    "height": 0,
     "id": "Bz1suvn",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/HG2ZncC",
   "lastUpdatedDate": 1748345369569,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 5,
   "tags": [
     "/production/science/",
     "/production/research (labs)/",

@@ -7,17 +7,17 @@
   "createdDate": 1630328786866,
   "descriptionMarkdown": "Sorts mixed cargo trains (3-8) with LTN stops available for recycling the ores back into the system.\n\nJust send your mixed cargo train to the sorting stop, then to the Depot once empty (do this manually, one stop at a time).\n\nBased on one of BobAAAces blueprints.",
   "favorites": {
-    "1jVY0bwiqmandgCmxgg8ZhlXDvS2": true,
-    "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,
-    "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
-    "5YJiyuozrYhMurmEwjDZ9vAJYaa2": true,
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
+    "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,
+    "5YJiyuozrYhMurmEwjDZ9vAJYaa2": true,
+    "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
-    "mNHFAiP6izStsOhbaEKjOewCujs2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "1jVY0bwiqmandgCmxgg8ZhlXDvS2": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   },
   "fileName": "LTN Sorter.PNG",
   "image": {
@@ -27,7 +27,7 @@
     "width": 2408
   },
   "lastUpdatedDate": 1630328786866,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 8,
   "tags": [
     "/mods/ltn/",
     "/train/unloading station/",

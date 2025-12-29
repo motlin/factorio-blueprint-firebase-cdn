@@ -1,29 +1,28 @@
 {
   "author": {
+    "displayName": "Alien",
     "userId": "EMhmhbzPJMPKk4PrMltoJCZR6cx2"
   },
   "authorId": "EMhmhbzPJMPKk4PrMltoJCZR6cx2",
   "blueprintString": "0eNrtWUtz4jgQ/isqXXIRE2wgDw5z2dqaOW3tYW9JipLtBlSRJa8eJGyK/74t2eYVMgNDditQuUDbbn3u/tQS/aEXmkkPlRHK0eELLcDmRlROaEWH9DetnNHSEjcFYrgDMvYgCVcF0c+iEP+AIcKSXCvrSyhINo+ebmq8dWAu7ZA8CSmJM/hAk0eAqnbQ+M3VI5lyOUZMKe/Vvfqun4KXtzAMkApyF70nBkAhkAHC3Wq8jubUZ/jITePFRalnQk3I2OjyIobZ3nH6glgxUVzae7UEb8KwASxkdrnMqjK68HmgIcJk2jld1u9sc6OMipA5Hd690Bo7MKh4CUhd60cX6KYKeKbDZMH2c0w3Hd28Co4zYZzHO6wdWXt0QuBrg3s73wISEzZaibyTC5N74daG9BcPjIJywgmo04kX85HyZYaRDZPVO502fAKdQBtGUmkr6lp5oQjUSb8MGJ3jgOsvg0UIZAsoXQJhuQhfduq4MKpKS3gN2G3xrnbj9fYMbCMuRguspbx+3N+B2l+iVr6sdqSZNHBpdxPshtG8XjKjDKZ8JrQJQxrGR6B4JqGgQ2c8sOVtHFIs4cfCWDfae/LzKeSPYSpDJWLuuIi74aKsOK7X8Hr6lS52UTdYQhWQiwJMB0dlQsVRr1PuHpZyg7nKzUYi1q7u3szVVjyHjtQ5j69Yxqm4nwm7mWyvTRZGzWhcrjSkewT4BnmHvmAsvShWuO3yXi5TC4GF0cHL+33SnHmZc+W3WTwa6Ywpw5+nCe4txzO2AXTGhE0kZO9A1xrMGZPF//ZC6uPZWsc5Y7rslDuMBopOJbkCdzxxuxHPmUItuenYOYaE/VcxgXfgcDfkyZCI7a/2rvJuu5nfv/uq5tjreOVGQXuMhEIwOhyj3IDFA7ZfFItrjv3Qpr76yxtlCWqMKKtCs0mepqh1gpaJt6QohUOVZNWFI1mQQSW4qEiCC2K6sTZl0GC1zgky6g+Awu4vh+LT6P4dpRS3pI59R8d4tUo/tu36xy1jt+4Xk1cd9+6OUVdgeMNLjU9ZY4xK/tyQ2WiW0Vq7+xa5vxujo5DLwdqQdIeMcXBNjdRPYF0tQnHqiR7H20v911LcVM0rLq5/IhHOQSHcHKQQPgXCkRtbW3ufIuFEaTshofBxSDsRsfBxCDsZwfBxKDtp0fCBaDxt4fBfEfkpHvYRD7eHHiGk6T5/1Sfd1YZmhJtihuGI4+eypLenLFmhbrWqB7bh39bKbrVmkpRtCJ9L2hbTobX5Zpn8aXSlTbjgkuA6KFEH2ZxLqKcZokqacenDsRqZQH3CpuBpvYji813TmiS/yH/6P/MPPJ++MQWDbndzFjq/MAvffjAF20r0XiHNtuEXZvhZiPEYf05UDvWKsjgN8clOztMDT70i2WGfCmeoYZe6S1jKeix9YHcpWjfRwmt2Fa0+S9iA9dAaoHXDkmi1fsG6jdYVQ88kmtfRMQxBJ4YRpq3ZZX008SsNvv0HDEPgbo/Brw6eGZU8w2RxU2t265qceOTcVIWEUEwzMDYmOLhKb/u3t4Pr3qDXv04Xi38BJOSqUQ==",
   "createdDate": 1754129210119,
   "descriptionMarkdown": "Controls the rate fuel and oxidizer is consumed by the thruster/s: will try to keep the top tanks half full\n\nHow to use: connect the green wire at the top to the hub with the 'moving from' and 'moving to' signals\nconnect top tanks to fuel/oxidizer production and bottom to thruster/s\nYou may need to prime the system by pumping a tiny amount of fuel and oxidizer into the thrusters.",
-  "favorites": {
-    "dKODuSYcovXizxj35jj50cbJWlz2": true,
-    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "h8EwJk0BwQbfqo2Em7miDPLIci03": true
-  },
   "image": {
-    "height": 0,
     "id": "OIShNpd",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754132331996,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/space-age/",
     "/planets/space-platform/"
   ],
-  "title": "Thruster fuel rate controller"
+  "title": "Thruster fuel rate controller",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
+    "dKODuSYcovXizxj35jj50cbJWlz2": true,
+    "h8EwJk0BwQbfqo2Em7miDPLIci03": true
+  }
 }

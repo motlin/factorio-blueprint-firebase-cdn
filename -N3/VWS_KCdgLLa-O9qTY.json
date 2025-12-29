@@ -7,10 +7,10 @@
   "createdDate": 1654108052067,
   "descriptionMarkdown": "Factory for making 45 rocket science per minute from raw resources.",
   "favorites": {
-    "26i54FAUW4SeMyjvmHoPjGUBCnE2": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
     "FOkeJ5l45uPJGFwA7revwCBouVP2": true,
-    "bDJMmaOFWifCciP1nFzKHWhjDIb2": true
+    "bDJMmaOFWifCciP1nFzKHWhjDIb2": true,
+    "26i54FAUW4SeMyjvmHoPjGUBCnE2": true
   },
   "fileName": "45rocketscience.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 1096
   },
   "lastUpdatedDate": 1654108052067,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 2,
   "tags": [
     "/general/compact/",
     "/production/rocket parts/",

@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Mike “DerAtem” Thornback",
     "userId": "UrWZ6KC37GRnzA0mCQTgpSt53162"
   },
   "authorId": "UrWZ6KC37GRnzA0mCQTgpSt53162",
@@ -7,17 +8,15 @@
   "createdDate": 1753863581316,
   "descriptionMarkdown": "From my abandoned 1.1 K2SE Run",
   "favorites": {
-    "zF5Qt2qpLzQo2WDacyNGQLrYfab2": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
+    "zF5Qt2qpLzQo2WDacyNGQLrYfab2": true
   },
   "image": {
-    "height": 0,
     "id": "xz1HtL3",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1753863581316,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/1,1/",
     "/mods/space-exploration/",

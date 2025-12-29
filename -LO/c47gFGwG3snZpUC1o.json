@@ -7,19 +7,10 @@
   "createdDate": 1539344469363,
   "descriptionMarkdown": "An oil Refinery build with production in mind but also visuals the ratios will probably be off with the added beacons but the setup is very visually pleasing with basic circuit conditions added. Produces Lube Sulphuric Acid batteries Plastic and Explosives. \n\nEdited slightly to increase production in larger bases.\nChanges. \n*Added another half a row of speed beacons\n*Because of space constraints added a power box to turn off the light oil cracking when light oil is less than 10k some rewiring of power polls may be required for the limiter on light oil to function as intended.\n*Changed the Concrete to also encompass the bottom belts.",
   "favorites": {
-    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
-    "aGRZVaEL5kX199TBKlLfFOYVy0n2": true,
-    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
-    "CIgyZfPORSRB5pxYYkB9PEMujUG3": true,
-    "Q7lnIJLfLfdHacx4BX2xH5OTzfJ3": true,
-    "7VLIYwSGBZSascdFit6Zw5EqzOe2": true,
-    "J06RbJ6eN0ZQBWpvj5m7sMPDA1N2": true,
-    "IFeEXDG62tW2X55Qo6xVMEFBOtL2": true,
-    "TZLiDwJAi9ZAHyAyKN5AN8qblsz2": true,
-    "esfltOaBosc6y52j0lE06bYSfaz1": true,
-    "o5ZZh36wUnhHbRSyk2XJGjv0Yqr1": true,
     "WbU4JKXLvCb9sH6MroBgl3JqxjT2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "7VLIYwSGBZSascdFit6Zw5EqzOe2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "aGRZVaEL5kX199TBKlLfFOYVy0n2": true
   },
   "fileName": "Factorio Oil Refinery fin.PNG",
   "image": {
@@ -30,7 +21,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Factorio%20Oil%20Refinery%20fin.PNG?alt=media&token=e47e2319-d9da-45eb-b493-a8a4a2b772a2",
   "lastUpdatedDate": 1540221554562,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 12,
   "tags": [
     "/general/compact/",
     "/mods/vanilla/",

@@ -7,20 +7,20 @@
   "createdDate": 1551260111886,
   "descriptionMarkdown": "The Book contains also a print without Beacons/Modules to be able to use it right from the scratch with basic oil.\n\nThe concrete is to show how much space the final Blueprint will be using. Keep in mind i only have added space for trainloading! No space for turning, trainbuffer or whatever. \nDont forget to calculate some space at the left side for crude oil/water-trainstations  \n\nThe final print produces enough oil to launch a Rocket every minute even if using full Lubricantproduction while only fed with 1 pipe of crude oil. \n\nI added Trainstations for left/right hand drive, Possible train/wagon ratios are 1/2 and 2/4. Just delete unwanted stations and its combinators.\n\nLube can be taken from both sides. Just remove the storage tank you dont want or double the numbers in the pumps. Else the storagetank you dont drain fill up and lubeproduction stops as the logic have a full storagetank of lube.\n\nRocketfuelproduction should be enough for 10+ trains but may need a while to build a big enough buffer. It just takes laughable 300petrol/m. Feeding Fuel with requesterchest would be more efficient but wont be avaliable at start and can easily be adjusted. Also i dont like bot based blueprints as i mostly place stuff in remote locations and forget about taking bots with me...\nI didnt create a foolproof production of solid fuel with a automatically switch to rocketfuel for trains becasue you will be using nukefuel anyway.\n   \nThe upper/ lower part each can work as a standalone only sharing connections in lube production and trainstation for petrol loading. So just build one half to save some ressources.\n   \nHere some raw data:\n182k petrol/m @ 0 Lubricant/m\n167k petrol/m @ 23k Lubricant/m\n\nif feeding both sides with 1 pipe of crude oil\n150k petrol @ 0 Lubricant/m\n137K petrol @ 18k Lubricant/m\n\nIt can sustain a 2/4 Train every 35-45 seconds with 100k petrol.\n\nWithout Beacons/Modules production is around 20k petrol/m and 2,5k Lube. \n\nIt requires 3500 solar panel in electric power to run smooth (a bit over 200MW)\n",
   "favorites": {
+    "3iJoiA7eJKRiUQz8MNsxuSWiSpI2": true,
+    "sYRbanRtEIf9CP1q0an4YDQeAFx2": true,
+    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "TMLWJ05n1kUuMjemLD4gIUwLF9f1": true,
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,
-    "sYRbanRtEIf9CP1q0an4YDQeAFx2": true,
-    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
-    "3iJoiA7eJKRiUQz8MNsxuSWiSpI2": true
+    "GkEsSqiY1lRQruvdtBBYG3hTD402": true
   },
   "fileName": "Refinery 182k petrol.jpg",
   "image": {
-    "height": 609,
-    "id": "7GFsmiA",
     "type": "image/jpeg",
-    "width": 1576
+    "width": 1576,
+    "height": 609,
+    "id": "7GFsmiA"
   },
   "lastUpdatedDate": 1551260111886,
   "numberOfFavorites": 7,

@@ -6,15 +6,9 @@
   "blueprintString": "0eNqtlc2O4yAMx19lxZmMSpP0I9Je9rIPUY0QTdwGDQEEpN2oyruvSdt0V21nGmluxMY/238cOJGtasE6qQMpTkSWRntSbE7Ey70WKtq0aIAUxAmpSE+J1BX8IQXr3ykBHWSQcI4YPjqu22YLDjfQa6RvhFIJKCiDk2VijQJCiTUeY42OKZC3Ym85JR0pEpat3vK+p3fE+Ui0zuydaBqxVZB4C+ID/ffI2Q25RCQl2F1wRvEt1OIgjYsbS+nKVgaOvmqM3knnA79pEDob8x6kCy1abq0NO5Lf5Az3QUQdWfxorHAixBzk5+C+5InmBgI4H8FnAD8IPAUuPbcylDUpdkJ5oMQHY7lVopN6z71pdeVHn8Rsrm1QIy4rUsywJhPgvEb1yP95ImQryg9+MKqNpWONo60xVWxGmXLoDU/LHDkeU2dro7sx4zmUX0RUUPFtN2o07OljMLi7JmvkDQ5SYM2xsWgxmjfCXk1x9C60oYkvRa9BIHBM2YD3Yh/9v6KGPyKPPBqjdNpgLte3KcoeD2Z2IwajITki9vNxzL8cR2NB870IMMp/9TgQFfegfQw4a/cdMyz1znw5xo+6z0fSUO6nfT8RcPGPgHjP7OuQDNfN/WEsr6QUS62kw6MbvNkD6vJl6noCdfUqdcUmUNcTRJw/FpHNJjDSJwz2cnfphO7YfPIfMntSYDqhSRYZ+Ewdsbr4Rm0YzWlK83e6mVNGM8pwlV5WuE8GaBB8exHxzsMrbIDni/k6W6/zRT5j+Szr+7/X6Gqp",
   "createdDate": 1746982434331,
   "descriptionMarkdown": "Sure! Here's a description in the same style as the [MyFactorySucks GitHub repo](https://github.com/olegsemiashkin/MyFactorySucks), for the setup you showed:\n\n---\n\n### 🚨 Train Gate Siren\n\n**Trigger a siren when a train crosses the gate.**\n\nThis blueprint uses a **train stop**, **circuit network**, and a **programmable speaker** to detect when a train enters a specific section and triggers a siren.\n\n#### 🛠 Components:\n\n* 1× Train stop (positioned on the track)\n* 1× Programmable speaker\n* 1× Decider combinator\n* Red and green circuit wires\n\n#### 🧠 Logic:\n\n1. The **train stop** is configured to output the **Train ID** when a train is present.\n2. The **decider combinator** checks if any train ID is present (`Train ID > 0`).\n3. When the condition is met, the **combinator sends a signal** to the **programmable speaker**.\n4. The **speaker** plays a sound (siren or custom tone) and displays an alert.\n\n#### 🔌 Circuit:\n\n* **Train stop** → red wire → **decider combinator** (`Train ID > 0 → Output A = 1`)\n* **Decider combinator** → green wire → **speaker**\n\n#### 📦 Use case:\n\n* Alert players of incoming trains at crossings\n* Automate safety barriers or lights\n* Add immersion or realism to train stations\n\n---\n\nWould you like a blueprint string or a diagram to go with this?\n",
-  "favorites": {
-    "K8o6xlCL8RMM1DcXfuNDYl1hVTF3": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true
-  },
   "image": {
-    "height": 0,
     "id": "HEdZl1q",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/HEdZl1q.png",
   "lastUpdatedDate": 1746982434331,
@@ -22,5 +16,9 @@
   "tags": [
     "/production/logistic (bot) based/"
   ],
-  "title": "🚨 Train Gate Siren"
+  "title": "🚨 Train Gate Siren",
+  "favorites": {
+    "K8o6xlCL8RMM1DcXfuNDYl1hVTF3": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
+  }
 }

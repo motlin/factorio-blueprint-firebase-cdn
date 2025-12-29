@@ -7,14 +7,14 @@
   "createdDate": 1632904675557,
   "descriptionMarkdown": "Блочные модульные рельсы с красными и зелеными проводами и привязкой к сетке в 100х100 клеток. Плюс разметка для блоков. Если нужно строить не по сетке - можно снять галочку \"Абсолютная опорная точка\" и ставить как угодно",
   "favorites": {
-    "I8Fqc3wLhgfwAYqRsSckPTqMWMA3": true,
-    "1Lx6R5oCJSPHT789r8QVMBfL39z2": true,
-    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "gYy0jUcKRNgxpqaOhC1oDiMecdB2": true,
-    "7M9DY64EchMmJnUjcf6EWPXC43w1": true,
-    "EYs2TfcMcQNhm1DnyaLNexXCIZL2": true,
     "WS6mFPHoO4SkWe7LkBLcUctjcEr1": true,
-    "Jf7ZZC4BVDXYnjIxMEUU74PZUcw2": true
+    "7M9DY64EchMmJnUjcf6EWPXC43w1": true,
+    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
+    "I8Fqc3wLhgfwAYqRsSckPTqMWMA3": true,
+    "Jf7ZZC4BVDXYnjIxMEUU74PZUcw2": true,
+    "1Lx6R5oCJSPHT789r8QVMBfL39z2": true,
+    "gYy0jUcKRNgxpqaOhC1oDiMecdB2": true,
+    "EYs2TfcMcQNhm1DnyaLNexXCIZL2": true
   },
   "fileName": "rails8vhnd7s8vhb87ds.png",
   "image": {
@@ -24,7 +24,6 @@
     "width": 1357
   },
   "lastUpdatedDate": 1632904675557,
-  "numberOfFavorites": 8,
-  "tags": [ ],
+  "numberOfFavorites": 7,
   "title": "Рельсы Mk.2 (ситиблоки с проводами)"
 }

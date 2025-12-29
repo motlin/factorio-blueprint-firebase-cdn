@@ -7,10 +7,10 @@
   "createdDate": 1673624480812,
   "descriptionMarkdown": "Templates will really only need following to work\nRename Stations (I like to use Import *item* and Export *item*, import is used for the incoming materials for item and export for the finished product)\nSet materials needed at the Import stations Math Constant unit, use positive values. This is used for auto balancing the belt and the buffer boxes from the Import train.\nSet Filter Inserters to finished item on the Export side\nPull in the Export Stations so the Train can pick up materials, also set reservation spots in cargo for materials. I like to use the math of stack size (Electronic Circuits, 1 Iron and 3 Wire. Iron stacks in 100 and Wire in 200 so 2 Iron reservation and 3 Wire will net me a perfect 200 build of Electronic Circuits)",
   "favorites": {
-    "rJCjovdfpGOSCE273JbyQKOafl03": true,
-    "R4amZe6swuPqcKwC9daDIs3RZh93": true,
+    "rKXwycxs3APymiQr644tYwfnKPG3": true,
     "S4QZi1blMqei2M7vyStE9F3Im7y1": true,
-    "rKXwycxs3APymiQr644tYwfnKPG3": true
+    "R4amZe6swuPqcKwC9daDIs3RZh93": true,
+    "rJCjovdfpGOSCE273JbyQKOafl03": true
   },
   "fileName": "96x96-Templates.png",
   "image": {
@@ -21,7 +21,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/96x96-Templates.png?alt=media&token=5412498e-2b40-4967-be3c-dc12ceac9dc9",
   "lastUpdatedDate": 1674429859774,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/late game (megabase)/"
   ],

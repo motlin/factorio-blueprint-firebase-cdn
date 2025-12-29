@@ -7,11 +7,8 @@
   "createdDate": 1549047648165,
   "descriptionMarkdown": "This large production area can produce 254,000 plastics per min if you can supply it with 1.9 Million PG and 98k Coal per min\n\n16x small plastic production areas each supplying almost 16k plastics per min to 8 blue belts.  There are 8 loading stations for trains with 2 engines and upto 8 cargo wagons and each station is supplyed by 16 blue belts.  The production blocks get supplied with coal by 2x 2-8 trains at a time and a 4-16 for PG.  The waiting area for each production block can can hold another 3 coal trains and a 2nd PG train to provide minimal downtime between trains being unloaded and the current track layout allows this to easily be extended and allow more waiting trains.\n\nThe current track layout is setup so each production block has it's own entrance rail on the east side and the exit rails come together after a bit of distance (to allow for trains to fully leave stations) and combine to 4 rails that exit to the south.  How/if you combine the entrance and exit rails to hook them up to your main line is up to you.  For plastic pickup, there is 1 entrance rail and 2 exit rails on the west side.",
   "favorites": {
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
-    "Tlmqm5NibCbBCErj3rquZDzRTHr2": true,
     "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
+    "Tlmqm5NibCbBCErj3rquZDzRTHr2": true,
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true
   },
   "fileName": "254kplastics.jpg",
@@ -22,7 +19,7 @@
     "width": 876
   },
   "lastUpdatedDate": 1549047648165,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 7,
   "tags": [
     "/mods/vanilla/",
     "/production/plastic/"

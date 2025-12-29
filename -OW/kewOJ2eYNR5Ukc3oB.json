@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "staek",
     "userId": "7hiRrAqircWGRxFMEEJmobDhYGU2"
   },
   "authorId": "7hiRrAqircWGRxFMEEJmobDhYGU2",
@@ -7,21 +8,19 @@
   "createdDate": 1754236963338,
   "descriptionMarkdown": "Supreme Leader Snoke's Imperial Flagship",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
-    "7El66SoblkMPufIlrPMB1UYvNkp2": true,
     "kRRG15mAHYeR6DC9qWhZZbb7Bmu2": true,
+    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
     "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+    "7El66SoblkMPufIlrPMB1UYvNkp2": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "2R6YBzm",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754237613629,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/",

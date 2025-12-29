@@ -7,24 +7,24 @@
   "createdDate": 1555941212813,
   "descriptionMarkdown": "Uses 1-4 trains.\n\nTrain stations (from left to right):\n- blue circuit **output**\n    - activates when it has more than 16k blue circuits\n- sulfuricacid **input**\n    - activates when it has less than 40k sulfuricacid\n- copperplate **input**\n    - activates when it has less than 16k copperplates\n    - deactivates when it has more than 90k\n- ironplate **input**\n    - activates when it has less than 16k ironplates\n    - deactivates when it has more than 90k\n- red circuit **input**\n    - activates when it has less than 32k red circuits\n    - deactivates when it has more than 90k",
   "favorites": {
-    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
-    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
-    "vNI80FwpQeWj5b4PwRMSvj8SCPM2": true,
     "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "Nr5YvkYoMmeAIZaN44zC6W49hBr1": true,
-    "vXTmVfu2hdOkC9c3160cG3OA4py2": true,
-    "5vLzBAXdfJWO68IkX53q3oHvjMn2": true,
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
     "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true,
+    "wDRA5pN0x8atGx4ehfkkf7Pq73Z2": true,
+    "vXTmVfu2hdOkC9c3160cG3OA4py2": true,
+    "vNI80FwpQeWj5b4PwRMSvj8SCPM2": true,
     "9LEFNqGqSMQWeD0fPomXkmftGo22": true,
-    "wDRA5pN0x8atGx4ehfkkf7Pq73Z2": true
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
+    "5vLzBAXdfJWO68IkX53q3oHvjMn2": true
   },
   "fileName": "XEDLh1n.jpg",
   "image": {
+    "width": 1853,
     "height": 1053,
     "id": "viDtCs8",
-    "type": "image/jpeg",
-    "width": 1853
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1555941300555,
   "numberOfFavorites": 11,

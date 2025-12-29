@@ -7,24 +7,24 @@
   "createdDate": 1587096214395,
   "descriptionMarkdown": "2-4 RHD Train Green Circuit Sub-factory (720 i/s)\n * Non-beacon.\n * Click [here](https://factorioprints.com/view/-M5593-LUkPMWTkgNY2o) for the non-beacon version\n\nTrain stations are named\n* IRON PLATE UNLOAD\n* COPPER PLATE UNLOAD\n* GREEN CIRCUIT LOAD\n\nIncludes\n* 720 items per sec output (16x blue belts)\n* roboport coverage so the blueprint can be built with bots\n*  circuit logic to disable the station unless it can accept a full train load and disable the station when a train is present.\n* entrance stacker for iron / copper plate\n* entrance stacker for empty trains for green circuit\n* exit stacker for full trains for green circuit\n* bypass rail for both input / output rails",
   "favorites": {
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true,
-    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
+    "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,
+    "Xm1fKyqX6Neb5GzNlMfdeVF9M0w2": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "j49Pn7VTRlWJs1bOjo6im2EEnpC3": true,
-    "Xm1fKyqX6Neb5GzNlMfdeVF9M0w2": true
+    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true
   },
   "fileName": "rZmcCcXCfpXaBrhqJeVGMzFpEdxztS.png",
   "image": {
-    "height": 2538,
     "id": "4HWppjs",
     "type": "image/jpeg",
-    "width": 1720
+    "width": 1720,
+    "height": 2538
   },
   "lastUpdatedDate": 1587096535947,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 17,
   "tags": [
     "/production/electronic circuit (green)/",
     "/general/beaconized/",

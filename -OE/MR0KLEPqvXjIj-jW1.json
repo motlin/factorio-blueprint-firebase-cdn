@@ -8,21 +8,19 @@
   "descriptionMarkdown": "The slimest ship I could make, that can travel to Aquilo. Top speed is 360 km/s. With current config it doesn't seem to use nuclear power at all. Replenishes fuel almost as fast as expends. Ammo not so much, but stocks a lot.\n\nUpdate: forgot foundries exist, so now ammo can keep up\n\nUpdate 2: Needed more defense on the front",
   "favorites": {
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "l986Mn2VdQV9fqWLdLctP5B3pos1": true,
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
     "wM8z2IORYrTGcyIXS4rECbwlw2Q2": true,
-    "aupV2uAdSYcVh6lWONqdlOfJYeL2": true
+    "l986Mn2VdQV9fqWLdLctP5B3pos1": true,
+    "aupV2uAdSYcVh6lWONqdlOfJYeL2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "FbL7Ydo",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/FbL7Ydo",
   "lastUpdatedDate": 1736962546560,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/space-age/",
     "/planets/aquilo/",

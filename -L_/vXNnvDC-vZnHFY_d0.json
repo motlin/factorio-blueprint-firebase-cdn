@@ -7,14 +7,14 @@
   "createdDate": 1552555806041,
   "descriptionMarkdown": "Here is my moduled science BP. you will need to kickstart the coal liquefaction using one barrel of heavy oil in the assembler near the top right.\n\nInputs are in combinators along the bottom.",
   "favorites": {
-    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
-    "cHdqFmKKAVRA2IDr6qOGeedKVlB3": true,
-    "V7baK30sx3QMhbxUF6YxypFdWDC3": true,
     "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,
     "sYRbanRtEIf9CP1q0an4YDQeAFx2": true,
-    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
     "sx8Sm843k6T2ljctG7sT6SIIO9F3": true,
-    "06BuTBSY81e5KJpy7Kha18KDOEs1": true
+    "cHdqFmKKAVRA2IDr6qOGeedKVlB3": true,
+    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
+    "06BuTBSY81e5KJpy7Kha18KDOEs1": true,
+    "V7baK30sx3QMhbxUF6YxypFdWDC3": true,
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true
   },
   "fileName": "factorio_2019-03-14_04-26-05.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1417
   },
   "lastUpdatedDate": 1552555806041,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 9,
   "tags": [
     "/mods/vanilla/",
     "/version/0,17/",

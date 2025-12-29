@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "PraxDev",
     "userId": "f7NhGtgxrqhTGezlKCR5JgDX54U2"
   },
   "authorId": "f7NhGtgxrqhTGezlKCR5JgDX54U2",
@@ -7,14 +8,12 @@
   "createdDate": 1756234411950,
   "descriptionMarkdown": "20 000 ton+ ship ready to go anywhere you want.\nModular ship with plenty of open building room.\n\nNot Finished or perfect by any means but functional and available for anyone that wants a 20k ton ship for no reason but resource sink.",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "uKDxZ5Y5CLO3mgb3iuumwXmqQMd2": true
+    "uKDxZ5Y5CLO3mgb3iuumwXmqQMd2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "9BGjAJU",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1756234596351,
   "numberOfFavorites": 2,

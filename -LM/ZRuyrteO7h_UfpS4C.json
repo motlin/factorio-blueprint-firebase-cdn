@@ -8,21 +8,21 @@
   "descriptionMarkdown": "This factory only needs 4 full inputs of: \n1. Iron plates\n2. Copper plates\n3. Plastic bars\n\nand the rest will be done automatically, the blue request chests note what should go in where, you don't have to place those only look at the description. \n\n[CTN]",
   "favorites": {
     "JFUJeO0PJ2Ph9rNGa9rUlDtyfzc2": true,
-    "zRZ569azMxcT2b0Fbw8qkJaBQyl1": true,
-    "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "zRZ569azMxcT2b0Fbw8qkJaBQyl1": true,
+    "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true
   },
   "fileName": "Advandced circuit fac cover.jpg",
   "image": {
+    "width": 585,
     "height": 680,
     "id": "ktG5Hck",
-    "type": "image/jpeg",
-    "width": 585
+    "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/e8c8071798586d9408cc953ea164b9a2.png?alt=media&token=a5834af6-9426-45a7-ab1d-93798ba5109f",
   "lastUpdatedDate": 1566127808925,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/vanilla/",
     "/general/compact/",

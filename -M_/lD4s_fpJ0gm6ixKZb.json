@@ -7,12 +7,12 @@
   "createdDate": 1621102190879,
   "descriptionMarkdown": "It's power production scales between 1.120 MW - 4.960 MW or between 8 and 32 active reactors according to demand with 2 additional reactors being activated at each step. Maximum fuel saving possible is 75% while only 4 storage tanks are used for fuel saving. You can just remove the arithmetic combinator if you don't want any fuel saving to occur.\n\nStats:\n32 Nuclear Reactors\n1.202 Heat Pipes\n496 Heat Exchangers\n852 Steam Turbines\n\nCompared to my previous reactor here: \nhttps://www.youtube.com/watch?v=LqyHiqm7ouk\n\nthis one makes extensive use of pumps to direct the fluids better in order to not have any orientation/order placement issues, you can place the blueprint in any orientation you want and it will work at it's full capacity no matter what! It is also quite cheaper to make, about 20.000 less iron plates and 3.000 less copper plates are needed mainly due to a more compact design and the use of less heat pipes.",
   "favorites": {
-    "V7CD5u5SRyd54czIx20eiB5QZh42": true,
     "H8VgjmTSj8XE75X9t95YVmxyjB62": true,
-    "d5E6YHHvycaJQKdJfXVjcs2OnlG2": true,
     "gG7xH7EnjLfCvoUcrPX5SOMa3il2": true,
+    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true
+    "d5E6YHHvycaJQKdJfXVjcs2OnlG2": true,
+    "V7CD5u5SRyd54czIx20eiB5QZh42": true
   },
   "fileName": "Factorio Screenshot 2021.05.15 - 21.06.32.16.png",
   "image": {

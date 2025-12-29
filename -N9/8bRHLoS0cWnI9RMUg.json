@@ -7,12 +7,12 @@
   "createdDate": 1660166194931,
   "descriptionMarkdown": "Don´t you find a way to control almost every corner of your base in one simple click?\n\nI have designed what i call a City Watch, here can you monitor and control segment of your production and see how much resources each item has ruffly produced. 170 / 187 items ( if i have counted correctly ) can be controlled thru the City Watch, i have  with purpose chosen to not include every item in the game. \n\nAll of the item count ( not raw materials other then wood ) is based on a full provider chest and tanks. The circuit chests must be covered by the robotport network to show any signals. If there is more then one chest in the network with the same item, the arithmetic combinators a top of the indication lamps of the specific item must also be changed or the lamps will show an incorrect amount of items. See the informations guide in the blueprint for more information. \n\nEach item and the segment the item is located in can be turn on/off to enable the production of the specific item. Read more below. \n\n\n\nThe indication of the raw material is based on the circuit read content belt function. \nConnect all of the belts with raw materials with the green network to give the indicators signals. How many belts can of course be change, but then the calculation in the arithmetic combinators must also be changed. Here is how many belts i have counted on.\nIron Ore = 32 belts\nCopper Ore =16 belts\nCoal = 8 belts\nSand = 4 belts\nUranium Ore = 4 belts\n\n\nThe indication of the fluid material is also based on the circuit read content function. \nConnect all of the tanks in your factory with the green network to give the indicators signals. How many tanks can of course be change too , but then the calculation in the arithmetic combinators must also be changed. Here is how many tanks i have counted on. \nWater = 10 tanks\nCrude Oil = 20 tanks\nLight Oil = 8 tanks\nHeavy Oil = 4 tanks\nPetroleum = 8 tanks\nLubricant = 4 tanks\nAcid = 4 tanks \n\n\nIn the blueprint example you can see how the City Watch can turn on and off the production of specific items. The lamps under the specific item in the City Watch must be green to activate the production otherwise the production is off. To turn the item lamps on and off is thru the constant combinators belonging to the specific item and segment the item is located in. \n\nThere is also two power monitors to indicate how much power there is in the factory and a science monitor.\n\nAll of this information can be located in the blueprint for easy access. \n\nMod used: https://mods.factorio.com/mod/Dectorio\nCan be changed back to vanilla colors. \n\nFeel free to comment if you run into any problems.",
   "favorites": {
-    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
-    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
-    "dO3vjoZhYBeMj1UDBIFAFqHGieJ3": true,
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
-    "1QnI3FxqTFX33pPsWbghmrQjrCd2": true
+    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
+    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
+    "1QnI3FxqTFX33pPsWbghmrQjrCd2": true,
+    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
+    "dO3vjoZhYBeMj1UDBIFAFqHGieJ3": true
   },
   "fileName": "Skärmavbild 2022-08-10 kl. 22.48.11.png",
   "image": {

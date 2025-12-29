@@ -7,11 +7,11 @@
   "createdDate": 1644589586482,
   "descriptionMarkdown": "This is a Mall.",
   "favorites": {
-    "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,
     "bCKpUJBzrjRn8AdxxXv9bOmO7oU2": true,
-    "Ot9hwFiWw6S9MkrRuw5GXKDvPBy1": true,
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "Ot9hwFiWw6S9MkrRuw5GXKDvPBy1": true
   },
   "fileName": "v6DFdt7l.jpeg",
   "image": {
@@ -21,7 +21,6 @@
     "width": 640
   },
   "lastUpdatedDate": 1644589586482,
-  "numberOfFavorites": 5,
-  "tags": [ ],
+  "numberOfFavorites": 4,
   "title": "KoS MallKos KoS KoS"
 }

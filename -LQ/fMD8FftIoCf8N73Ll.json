@@ -7,23 +7,16 @@
   "createdDate": 1541547025322,
   "descriptionMarkdown": "A set of standardized rail segments.  T Junctions, 360 degree turns, roundabout junction, 4 way junction, loading station entrance and exit, as well as large 4 engine 20 car loading and unloading stations (end game).  2 to 1 and 1 to 2 interfaces.  The roundabout can handle up to 4 trains in the junction at a time as long as their paths do not conflict and will allow trains to turn around.  The standard 4 way junction will only handle 1 train at a time, but is a little more compact and no turnaround. There are a few more pieces not shown, I couldn't fit it all on one screenshot.\n\nRight hand drive, but parts are easily converted to left hand drive.\n\nADDED - Added Format change interfaces.  Standard to Wide, Standard to Narrow, Standard to Micro.  Added Stacker Entry Control Circuit (See Below).  Added Left Hand Drive to Right Hand Drive Interface.\n\nVarious Pieces for the Micro Format.  4 Way, Roundabout, T Junction, 90 turn and 180 turn.\n\nRail separation is exactly enough so a blue underground can cross it in a single segment.\n\nThe smart loading station is intended for mines.  There is an expandable addition to add more inputs to the loading area, generally I use 1 for each mine output, but you \"can\" double them up 2 per input splitter if you are low on belts/splitters etc.  The loading area will handle everything you can throw at it, up to the limit of the inserters to load the train.  It also features an overflow and loopback so trains in the waiting area also get loaded while they wait for the main loading area.\n\nThere are 2 stations in the loading area.  The one closest to the major circuitry is the primary loading area, and should be named e.g. Iron Mine, or whatever  you name all your iron mines etc.  The outer one is the waiting area, which should be named e.g. \"Iron Mine Waiting Area\".  A train schedule should be set to go to the unload station, then the waiting area, then the primary area.  it should wait at the waiting area until circuit condition BLUE = 1.  On the exit, there is a gate latch that will force trains trying to leave the waiting area and go to another iron mine to wait a few seconds before proceeding.  Trains leaving the primary loading area get flagged through.  This should prevent trains heading to the loading area en masse. \n\nStacker Entry Controller.  This circuit will force incoming trains to stack as close to the bottom of the stacker as possible.  Thus speeding up exit times if the unloading station is aso below the stacker.  It forces a new train to enter the first available slot by closing all signals to all other slots.  It is tileable and should be used as is on the first slot.  Additional slots should have the lower half overlaid with the previous slots upper half sot he proper interconnections are made to the circuits.",
   "favorites": {
-    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
-    "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
-    "zGYCy54ImCX6qRjvFj1ucjT2LSp1": true,
-    "8DQakCo5e9UamMfMPeFkd8SQQaj1": true,
-    "V515dCjEUngAzrK44nUMwDHWagn1": true,
-    "df5Qxi6zf4UqQeFdApyRhi3RvNY2": true,
-    "ye5gtruRXrYNm1cCzc4mUNfb6gW2": true,
-    "IFeEXDG62tW2X55Qo6xVMEFBOtL2": true,
-    "AHDdzEFoXcgJl1atSHNVbiGcmi53": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
-    "sUJxDEQvaJUjQ5z1nT88FfcwBTA3": true,
-    "5gDW4XcEo6aVX5oqXAE1uP8H3mC2": true,
-    "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true,
-    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
-    "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
-    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true
+    "5gDW4XcEo6aVX5oqXAE1uP8H3mC2": true,
+    "AHDdzEFoXcgJl1atSHNVbiGcmi53": true,
+    "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true,
+    "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
+    "V515dCjEUngAzrK44nUMwDHWagn1": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "df5Qxi6zf4UqQeFdApyRhi3RvNY2": true,
+    "sUJxDEQvaJUjQ5z1nT88FfcwBTA3": true,
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true
   },
   "fileName": "Choo Choo Book.jpg",
   "image": {
@@ -34,6 +27,5 @@
   },
   "lastUpdatedDate": 1564598749406,
   "numberOfFavorites": 17,
-  "tags": [ ],
   "title": "Cwhizard's Choo Choo Book"
 }

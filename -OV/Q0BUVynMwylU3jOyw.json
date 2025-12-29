@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Andrew Webberley",
     "userId": "UVY70PZrakfiCduWRlHAXFEQ10K2"
   },
   "authorId": "UVY70PZrakfiCduWRlHAXFEQ10K2",
@@ -7,23 +8,21 @@
   "createdDate": 1752799955006,
   "descriptionMarkdown": "# Vulcanus Base Blueprints\n\nA growing collection of blueprints designed specifically for a main base on **Vulcanus**, which—let's be honest—is way better than Nauvis. These blueprints are optimized for the unique progression and resources of Vulcanus and currently require access to **Electromagnetic Plants**. (Assembler-based versions may come later.)\n\n---\n\n## 🔧 Changelog\n\n### \\[v0.2.0] – Up to Utility (Yellow) Science\nThis release includes:\n\n* All Nauvis Sciences\n* LDS Production\n* Robot Frame Production\n* Vulcanus Intermediatory Item Production (Tungsten & Carbon)\n### \\[v0.1.0] – Up to Production (Blue) Science\n\nThis early release includes:\n\n* Red, Green, and Blue Science setups\n* All Circuit production lines\n* A few helpful utility blueprints\n\nI'm releasing this version early to gather feedback and suggestions. More science packs and full base progression blueprints are on the way—stay tuned!",
   "favorites": {
-    "5rH3pfkC6pT0hmozDsBZuKP1yRi1": true,
-    "egTX1gANZ3Pjrwo4iSSEXyPZA092": true,
-    "Ee84CzIaJuWfDacqDguizh9qH753": true,
-    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
     "SQdq1JOUJugdWvnn76gHof4MO062": true,
     "lYPmNGP2ZZd0IlkZKrCOEU0svf62": true,
+    "egTX1gANZ3Pjrwo4iSSEXyPZA092": true,
     "jh4kjUmGi6RcsXOQuUZLU5raKIA3": true,
-    "SnZ9TRHcs3R7UlJQlXGz5Ox62kN2": true
+    "5rH3pfkC6pT0hmozDsBZuKP1yRi1": true,
+    "SnZ9TRHcs3R7UlJQlXGz5Ox62kN2": true,
+    "Ee84CzIaJuWfDacqDguizh9qH753": true,
+    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true
   },
   "image": {
-    "height": 0,
     "id": "qAmiyjQ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1753224205073,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/planets/vulcanus/",

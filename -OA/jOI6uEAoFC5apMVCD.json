@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Jiawei Wang",
     "userId": "8ZSFoC1WwKVymSzWDF0syztAhA73"
   },
   "authorId": "8ZSFoC1WwKVymSzWDF0syztAhA73",
@@ -7,29 +8,27 @@
   "createdDate": 1759584269051,
   "descriptionMarkdown": "### Introduction\n\nA comprehensive mall that can be built at a very early stage, producing a wide variety of logistics and production items on Navuis.\n\nI created this as a compact construction yard for my tiny train grid (64x64) but found it's also convenient for starting the game.\n\nBecause it uses a single belt for delivering mixed ingredients, it is very easy to change/extend the items to be made.\n\n### Starting Requirements\n- Yellow belts\n- Yellow inserters\n- Assembly Machine 1\n- Small electric pole\n- Some assembly machine 2 (for handling fluids) and one electric furnace can be built later\n\nUpgrading to better belts, assembly machines, and inserters will improve production rate.\n\n## What It Builds\n\n### Logistics\nEverything on Navuis, except:\n- Wooden chest\n- Iron chest\n- Burner inserter\n- Small electric pole\n- Artillery wagon\n- Spidertron\n- Ice platform\n- Foundation\n- Cliff explosives\n\n### Production\nEverything on Navuis, except:\n- Burner mining drill\n- Agricultural tower\n- Biolab\n- Lightning rod\n- Tier 1 Quality module\n- Tier 2/3 modules\n\n### Changelog\n[2025-10-10] V2: Downgraded to small electric poles, boosted production rate (5x for some items, V1 was too slow) by dividing the mall into four areas. No longer building iron chests and Tier 1 Quality modules due to limited space. Limits chest inventory to 5 stacks of items by default.\n\n[2025-10-11] V3: Further boost production rate by moving iron plate from global loop to area loops.",
   "favorites": {
-    "lAtz5zE9taMJW8EzZkzjuaoYds53": true,
-    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
-    "fNdd8qE2wecgn6If2ooiunqwtsC3": true,
-    "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,
-    "bwyKad8IAWSN5h4hnvhO1Eqo6Fb2": true,
-    "V7k9GA57qMYQgIsnqXrohvS1P7m2": true,
-    "wYZz2f47LqZcxYvrizW3BVjgYwI2": true,
-    "Zcooui2F3WRvxUmMcPgWzay3oB83": true,
-    "cPZovKSLb6hiyvpW1KmlYu6fQHv2": true,
-    "q0pvCWiULlSEjtUUpNhJnk6pea42": true,
-    "Yxj5xkQIxLTfMNdR1sNaEERcKsC2": true,
     "CZLrNgU51qauVDklKOqBY3YXPwW2": true,
+    "cPZovKSLb6hiyvpW1KmlYu6fQHv2": true,
+    "lAtz5zE9taMJW8EzZkzjuaoYds53": true,
+    "wYZz2f47LqZcxYvrizW3BVjgYwI2": true,
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
     "lOrPsaUcpYUA9jKMn7CEFxj3pHk1": true,
+    "Yxj5xkQIxLTfMNdR1sNaEERcKsC2": true,
+    "q0pvCWiULlSEjtUUpNhJnk6pea42": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
+    "Zcooui2F3WRvxUmMcPgWzay3oB83": true,
     "lVpixLA0VhbtLqkO8QwwnSreuEG2": true,
+    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
+    "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,
     "OvcA0qwkoobqDOop02tKHvp4TKi2": true,
-    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true
+    "V7k9GA57qMYQgIsnqXrohvS1P7m2": true,
+    "bwyKad8IAWSN5h4hnvhO1Eqo6Fb2": true,
+    "fNdd8qE2wecgn6If2ooiunqwtsC3": true
   },
   "image": {
-    "height": 0,
     "id": "mBoUmc1",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1760158543567,
   "numberOfFavorites": 17,

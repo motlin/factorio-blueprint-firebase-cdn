@@ -7,25 +7,23 @@
   "createdDate": 1744868477247,
   "descriptionMarkdown": "The shape is strictly for function of course. Ship uses minimal logic and will never jam. Promethium science crafting and promethium asteroid storage are built in. During testing ship was comfortable flying towards the shattered planet at 150km/s. \n\nMost of the relevant infinite techs were around level 18 at the time of testing, probably not required.\n I'm sure a lot of the ship could be downgraded and still function. It's crude and inefficient, but it works. \n\nMake sure to enable fluoroketone barrel inserter to kickstart the fusion reactor \n\nSet the speed limit by changing the number in the selector combinator at the back of the ship (between the fuel tanks) top speed is around 350km/s\n\nhttps://imgur.com/a/7E582ha\n\n\n\n ",
   "favorites": {
-    "imUR3ZdmKeOOfombgK9dNS3zfy12": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "KAkEws2DmJRMASWJjNbsjDTB3Pu1": true,
-    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
-    "D0FYD2Mc21huLExbuXPmkRAk9Bk2": true,
-    "aPq54HGCcddE38GuMS96f6ZEXZk1": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
-    "2ouNNgKOl4NwMUMaeYt73jlwnP33": true
+    "imUR3ZdmKeOOfombgK9dNS3zfy12": true,
+    "aPq54HGCcddE38GuMS96f6ZEXZk1": true,
+    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
+    "KAkEws2DmJRMASWJjNbsjDTB3Pu1": true,
+    "2ouNNgKOl4NwMUMaeYt73jlwnP33": true,
+    "D0FYD2Mc21huLExbuXPmkRAk9Bk2": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "ezHceIY",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/ezHceIY",
   "lastUpdatedDate": 1758671392584,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/space-age/",
     "/production/guns and ammo/",

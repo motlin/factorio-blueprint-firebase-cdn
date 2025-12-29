@@ -7,25 +7,16 @@
   "createdDate": 1527946434510,
   "descriptionMarkdown": "This little City produces around 250 science per minute from only the raw ressources.\nWe build this to minimize ups impact per spm and so far it works great.\n\nWater and raw oil are getting railed in in barrels, all trains are 2x6.\nThe city takes some of the rocket fuel to fuel the trains, we feel like nuclear fuel wasn't worth the extra import, but feel free to add it.\n\nRight next to the labs is a little circuit contraption of mine. It measures the used science packs per (ingame)  minute on over an intervall of 30 minutes via to identical circuits which measure the spm with an offset of 15 minutes. Only the circuit with more than 15 minutes of measurement gets to output.\nWhen the output falls below 240 spm an alarm gets triggered.\n\nThis isn't fully optimized, but if you want to spent some extra time with it I would be happy to hear, how much you could squeeze out of this general layout.\n\nHave fun!",
   "favorites": {
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "GE6dWRZP5ocPZDzAiXVkaSpyJzi2": true,
-    "5dree0jIyHaSRqZ14iC4Jo3MhYu1": true,
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "H01acHfCAzSaIBqid9tmpD0h9xJ2": true,
-    "RJq2YteQZveSSQH7MMl0BIKN1Nh2": true,
+    "uVuwRRKv5CVGjIWVC8q1IVzft2K2": true,
     "BrOOY4b0elcZztHl7UwHL2oPsO92": true,
-    "uuLx9wPrTtfIDl2YoRbZzjn4rLQ2": true,
-    "4r6s5gcg0ySAAGBwQZXwSwvP6oR2": true,
-    "EleSgBuuJ0YjCIIAUoJAvlF6zSf1": true,
-    "PDDIAr2VMZaTQ9l8VjmnrRza9Og1": true,
-    "uVuwRRKv5CVGjIWVC8q1IVzft2K2": true
+    "EleSgBuuJ0YjCIIAUoJAvlF6zSf1": true
   },
   "fileName": "city_5MB.jpg",
   "image": {
-    "height": 1600,
-    "id": "TV4ZY9L",
     "type": "image/jpeg",
-    "width": 2000
+    "width": 2000,
+    "height": 1600,
+    "id": "TV4ZY9L"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/city_5MB.jpg?alt=media&token=d8395487-a894-4ddf-b74e-0a894ba470c2",
   "lastUpdatedDate": 1679669303912,

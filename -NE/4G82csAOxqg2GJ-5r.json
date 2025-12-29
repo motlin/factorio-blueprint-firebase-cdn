@@ -7,8 +7,8 @@
   "createdDate": 1665461948783,
   "descriptionMarkdown": "Includes 187MW, 375MW, 1.125MW and then additional \"slices\" you can add.  Also includes a LTN Train Stop configed to bring in Uranium and Water.\n\nWill conserve fuel rods at under 95% steady utilization, and is capable of steady output up to 98.5% load.  Over 90% utilization is not recommended if your reactors explode at 1000 degrees.  There are two combinators that can be turned on, one will force the reactor to cool down and not load any more fuel. The other will tell it to ignore the amount of fuel used and operate anyway.  \n\nCan completely restart from dead cold with no input.  \n\nFeatures some Korvax and fuel cell reprocessing, enough to support up to about 1GW.  Beyond that you will need to adjust the beacons and modules for your use case.  \n\nIt is not recommended to adjust the water and steam storage, you may end up with water deadlock. Extra energy is stored as HEAT, storing steam requires more water storage as well.  dd\n\nNot recommended on saves that do not include K2, the ratios will be wrong.  ",
   "favorites": {
-    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
     "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
+    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
     "vv8MEv9yt6UozrFExcWmyWNs6vf2": true
   },
   "fileName": "1.1GW.PNG",
@@ -19,7 +19,7 @@
     "width": 1513
   },
   "lastUpdatedDate": 1665461948783,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/power/nuclear/",
     "/mods/krastorio/"

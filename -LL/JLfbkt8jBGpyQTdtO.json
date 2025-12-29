@@ -7,23 +7,23 @@
   "createdDate": 1564783328234,
   "descriptionMarkdown": "Hello and welcome to the Self Expanding Factory project. To save you time I'll tell you as of right now this is still a work in progress project, it's just been awhile since I released the last version so I figure I show you all how far the project has come. I'm currently on  my 4th gen version 29 and do note this has not been field tested yet. So please share what you're results have been. Also if you wish to reach me quickly try reaching me through my discord server: https://discord.gg/Prmfrav\n\nAnyways with that out of the way. HOW DO YOU START?! \n\nWARNING: Do not have any other blueprint books in your logistic system. Also you must be able to supply the starter factory with up to 300MW to 500MW till the factory builds enough power to supply itself. (This will take a few hours). One more thing do not fill it's accumulators past 84% else it will not make any power plants at all. (It uses it's accumulator percentage to gage on if it needs to build more power or not.)\n\nWell that's easy as now you just plop Blueprint 81.3 (the one with a GREEN DOT) down near a water source. Than you can either drop the blueprint book off in the blueprint copier or the simpler method of just putting two copies of the book into any of it's logistic output or storage chest and than watch the magic happen.\n\nPS: It just occurred to me that I should inform you all this project uses the Recursive Blueprint Mod: https://mods.factorio.com/mod/recursive-blueprints",
   "favorites": {
-    "tC2bOVEhyibAKR2EZNKhykC5tXE2": true,
-    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
-    "mY4UhbPxldfjSGTg70yCTiAtu383": true,
     "FGtFh1qcXUViLZKkfOfero4F70E3": true,
     "crI6zzSiYqUk4Wfe0jYmQa3mYc52": true,
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
     "rCugX4X9IFQZE605dPTAacYRvcP2": true,
-    "yuOBtFcr0KXhOuQnIjjOzWsL6eP2": true
+    "mY4UhbPxldfjSGTg70yCTiAtu383": true,
+    "yuOBtFcr0KXhOuQnIjjOzWsL6eP2": true,
+    "tC2bOVEhyibAKR2EZNKhykC5tXE2": true
   },
   "fileName": "Cell Belt system corner shot.jpg",
   "image": {
-    "height": 1080,
-    "id": "t03vCQD",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080,
+    "id": "t03vCQD"
   },
   "lastUpdatedDate": 1564929315311,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/other/"
   ],

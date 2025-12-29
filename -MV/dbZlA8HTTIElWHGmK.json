@@ -7,8 +7,8 @@
   "createdDate": 1644596973237,
   "descriptionMarkdown": "最小構成で作成しました。\n（構築をし易いように、インサータの位置を多少融通しています。）\n\n注意事項：\n青基板の制作用の緑基板はバッファに依存しています。\n\nこのBPの取扱説明書\n\n・1種類でも早く製造を始め、増設していくことが肝要。\n・中央の緑基盤を早めに作成し、バッファを貯蓄する。\n・緑赤青の基板周りと、鉄と銅の入力周りを赤ベルトに変更しないと、毎分45個のパック生産になります。\n\nこのBPだけ持ち込んだ、デフォルト設定でクリアタイムは5時間33分48秒でした。",
   "favorites": {
-    "mgMfSWnWTzaNYmsKnuJV7PxgVVi1": true,
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
+    "mgMfSWnWTzaNYmsKnuJV7PxgVVi1": true,
     "2V1a7dINrDTjky8MJ9xp2levOXJ2": true
   },
   "fileName": "0.9P毎分で6時間切り(最終版2).png",

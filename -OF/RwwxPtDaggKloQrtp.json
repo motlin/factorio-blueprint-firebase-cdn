@@ -7,22 +7,20 @@
   "createdDate": 1735652528048,
   "descriptionMarkdown": "Ship capable of reaching the Shattered Planet. Throttles down to much more conservative speeds upon taking damage. Asteroid processing line is impossible to clog.\n\nNeeds the `Fusion bootstrapping` supply group enabled until it receives a fluoroketone shipment, after which you can turn it off and turn on `Fusion`. `Onsite Promethium` supply group sends up ingredients to make science packs once you have promethium chunks in your hold. `Spaceship` loads up various stocks of commonly-destroyed resources at Nauvis.\n\nPower plant can accommodate extended surges as long as mean power draw is <100MW over a 2-minute period or so (common on shattered planet runs, since small Promethium asteroids take a lot of laser fire to destroy). Higher quality reactors can mitigate this.\n\nShip will periodically be attacked by biters as eggs spoil in batches (necessary for on-board science pack manufacturing, and there's no way to make supply groups conditional, so they have to go out with the ship). This should be safely handled by the turrets, but you should always keep spare turrets in cargo to replace any destroyed by biters.",
   "favorites": {
-    "2Hl5u9dqFpQS221UfO5O0j4b2Fk2": true,
-    "r5dPxcCZl1aHlbVdPeMcQDWSIuw2": true,
-    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
     "25LmVNSF4ZcnENYOyspGnJqewmV2": true,
+    "2Hl5u9dqFpQS221UfO5O0j4b2Fk2": true,
+    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "r5dPxcCZl1aHlbVdPeMcQDWSIuw2": true,
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
   },
   "image": {
-    "height": 0,
     "id": "Sf6QM14",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/Sf6QM14",
   "lastUpdatedDate": 1735652740945,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/",

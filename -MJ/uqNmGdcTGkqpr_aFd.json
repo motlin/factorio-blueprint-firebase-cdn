@@ -7,10 +7,10 @@
   "createdDate": 1632001166952,
   "descriptionMarkdown": "This nuclear reactor setup is basically perfect if you don't care about the space it takes.\n\nPros:\n+ Smart: Only consumes as much fuel as it needs\n+ infintely tileable: Want more power? Just add another one of these\n+ Roboports for easy expansion and fuel supply: This blueprint book contains two blueprints: The only difference is that only one includes Roboports, because you don't need them that often.\n+ Includes Landfill\n+ Includes solar panels for easy startup\n+ Has relative grid enabled for easy placement\n\nCons:\n- Extremely long (512 x 11 tiles)\n\nDepends:\n- Has enough storage to store all the steam from 200 seconds of runtime (the time it takes to consume one fuel.)\n- If you have extreme differences (a few 100MW difference) in power consumption with very high power spikes after almost no power use for a longer period of time, this might take a few seconds or even minutes to produce enough power again. To mitigate this, either place more batteries or you can add more storage tanks to this design between the turbines and the current storage tanks (but that will make it even longer)\n\nHow to use:\n1. Place the blueprint and wait until it's all built and supplied with fuel.\n2. Click on the constant combinator and turn it on and off again (fast) once. You need to turn it off again fast because otherwise the inserter will keep inserting fuel to the reactor. (This isn't THAT bad, but you'll either have to take it out manually from all 4 reactors or live with the fact that you potentially wasted 4+ fuel.)\n\nIf for whatever reason you need to restart the reactor just repeat the second step.\n\nThis was made in 1.1. It should also work for lower and higher versions but I can't guarantee it.",
   "favorites": {
-    "TVZWS5AYvBOlW0qF5nlVQOtJXsl1": true,
+    "UMErRJOjy4eJ8FXdTp5rCncFrLQ2": true,
     "iy3MqjRAq3MQEFvtCyY0XBZxgii2": true,
     "rTdHd4AIdCXW368sj2fdd6EeaQr1": true,
-    "UMErRJOjy4eJ8FXdTp5rCncFrLQ2": true
+    "TVZWS5AYvBOlW0qF5nlVQOtJXsl1": true
   },
   "fileName": "screenshot-tick-2106476.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1632002348728,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/power/nuclear/",
     "/general/tileable/",

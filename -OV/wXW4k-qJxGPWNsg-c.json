@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Supreme One",
     "userId": "2YwuT2K1uRfY5L40yx23m33p4Q02"
   },
   "authorId": "2YwuT2K1uRfY5L40yx23m33p4Q02",
@@ -7,19 +8,17 @@
   "createdDate": 1753362338493,
   "descriptionMarkdown": "Nuke has to be manually started once by quickly toggling combinator.",
   "favorites": {
+    "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,
     "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
-    "jh4kjUmGi6RcsXOQuUZLU5raKIA3": true,
-    "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true
+    "jh4kjUmGi6RcsXOQuUZLU5raKIA3": true
   },
   "image": {
-    "height": 0,
     "id": "Eg8AXLm",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1753363433631,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/space-age/",

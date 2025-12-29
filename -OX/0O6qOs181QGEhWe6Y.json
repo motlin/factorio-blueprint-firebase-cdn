@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Consomme",
     "userId": "zTZpNFKj7Ic32N4z9j8syEN6gut1"
   },
   "authorId": "zTZpNFKj7Ic32N4z9j8syEN6gut1",
@@ -12,13 +13,11 @@
     "u5r7kHdYIFRqyWglJkbzbalQS7m1": true
   },
   "image": {
-    "height": 0,
     "id": "fDLZsZg",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754539076189,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/"
   ],

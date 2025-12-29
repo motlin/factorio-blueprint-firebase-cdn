@@ -7,9 +7,9 @@
   "createdDate": 1679765605814,
   "descriptionMarkdown": "This system monitors steam in the tanks and adds only one unit of fuel to each reactor when the steam gets too low.  It will then wait long enough to burn that fuel before possibly adding more.  This prevents dumping maximum fuel into the reactors every time steam is a little low, which means the steam tanks never completely fill and the reactors never quite hit 1000°, reducing waste.  Steam is stored and used only as quickly as needed, so you can build this system at any time, long before you actually need the kind of power it can produce at maximum, and you're not wasting fuel.  You could build a dozen of these in preparation for a major expansion, and they wouldn't waste fuel.\n\nCaution: The game says the turbines will produce a maximum of 3.3 GW.  However, load testing shows the system will only produce enough steam to maintain around 3.0 GW.  Beyond this threshold, the system runs constantly but will eventually run out of steam and power generation will drop off quite a lot.  I've added an alarm to the system to warn you if steam continues to drop.  You would then need to either generate more power, or reduce power consumption to avoid over-running your power grid.  Personally, I'll be building switches into the system so I can instantly shut down production areas until the power grid has been expanded.\n\nIn order to prevent the low-steam alarm from sounding before the system is first activated, this blueprint includes a constant combinator that gives the alarm a false reading for steam pressure.  Once the system is online and you have steam above 8 million you must remove or disable this constant combinator for the alarm to work.\n\nAlso, to prevent the reactors from burning fuel during construction, I have disabled the timer that triggers the system.  When construction is complete and you are ready to bring the system online, activate this timer by clicking on the southern-most constant combinator and turn it on.  The timer must run up to 12k before it begins feeding the reactors.\n\nI've labeled these combinators in the screenshot provided.\n\nYou'll notice the steam turbines at the northeast corner of the grid have been clipped.  This is so the design fits inside my train-based city block design.  Of course, it would be easy to fill in the missing turbines, but there is no reason because the system won't run that many at full-capacity.  In fact, it might be more logical to remove some turbines.",
   "favorites": {
-    "5p8g3ZKHjJh40KHdKoDOMK10Q6t1": true,
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
     "TvidagDacaeX7tL0Uq6jSwHz37x1": true,
-    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+    "5p8g3ZKHjJh40KHdKoDOMK10Q6t1": true
   },
   "fileName": "Nuclear Power Block.jpg",
   "image": {
@@ -19,7 +19,7 @@
     "width": 2227
   },
   "lastUpdatedDate": 1679766272025,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/power/nuclear/",
     "/mods/vanilla/"

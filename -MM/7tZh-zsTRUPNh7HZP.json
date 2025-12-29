@@ -7,10 +7,10 @@
   "createdDate": 1605393337777,
   "descriptionMarkdown": "Hi everyone, wanted to share a megabase that we are working on that is easily tileable and allows for easy expansion. This base requires no mods and requires some logic to set up.\nThe logic is as follows:\n\n- Build a starter base to get resources going until late game\n- Build the train grid using the provided blueprint to get started\n- Now start building load and unload depots for resources where trains can go. These have memory cells that need to be set to the appropriate resources and loading depots are connected via green wires and unloading depots are connected via red wires.\n- The trains will have the following logic:\n1. Go to load depot: Wait for circuit condition I = 1 (numeric value)\n2. Go to refuel station: Wait for circuit condition F > 30 (numeric value)\n3. Go to load station for resource when requested and wait for cargo to be full\n4. Go unload depot: Wait for circuit condition I = 1 (numeric value)\n5. Go to unload station when requested and wait for cargo to be empty\n\nThis requires a refuel or multiple refuel stations to be built (as many as you like). These are also connected to the network via a green wire.\nSince the stations will send signals, care should be take when setting them up before connecting them. Sometimes you will need to retrigger the memory cell while setting up such that a train will be dispatched to the unload station or such that the load station will send a new signal when full enough for a train to arrive.\n\nWe will rework this with the 1.1 patch as may of these systems will become obsolete (yay :)). I do not claim all blueprints to be designed by us but included them for your ease.\n",
   "favorites": {
-    "ch3PwKFBWveZRxB7MQsEBLB0cmB3": true,
     "tFwC0nWFwyaNbSV3TEEWhJOZ6dC2": true,
-    "QRwjyZjFHcgoJuvDj3d0oujMtb53": true,
+    "ch3PwKFBWveZRxB7MQsEBLB0cmB3": true,
     "wy1phRzu68NuP0ofN7tF8TtCdUJ2": true,
+    "QRwjyZjFHcgoJuvDj3d0oujMtb53": true,
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true
   },
   "fileName": "20201114165240_1.jpg",

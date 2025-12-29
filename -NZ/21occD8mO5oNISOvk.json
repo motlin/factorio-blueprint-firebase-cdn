@@ -8,12 +8,12 @@
   "descriptionMarkdown": "Mainly looking nice, some updates still to be able to easily change 90 degree for a T or 4 way junction, but that's for later...\n\nI have not looked much at the throughput of any of the junctions, more looked into not causing deadlocks, at least not easily.",
   "favorites": {
     "5oPlaxYavoMSuOPvqBWhrsGAgYV2": true,
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
     "TA1TuRCRI1PozZCSc38yJMVQWch2": true,
-    "70TINqLGYlZZpFvTWVr61jOa2lI3": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
     "GyKU3YkUQxRAyINyQfFGWnL9kdh2": true,
-    "ZKxGwHdxlzdTeEZncjf29ZDa7bZ2": true
+    "ZKxGwHdxlzdTeEZncjf29ZDa7bZ2": true,
+    "70TINqLGYlZZpFvTWVr61jOa2lI3": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   },
   "fileName": "Dark_RHD_rails.PNG",
   "image": {
@@ -23,7 +23,7 @@
     "width": 1240
   },
   "lastUpdatedDate": 1687973219075,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 3,
   "tags": [
     "/train/junction/",
     "/train/track/",

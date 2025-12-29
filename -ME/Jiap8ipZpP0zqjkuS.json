@@ -7,21 +7,21 @@
   "createdDate": 1597001854427,
   "descriptionMarkdown": "At our railworld multiplayer map we use 2-6 cargo trains to deliver all raw materials from the mining outposts to our central hub. With this configuration we have 18 trains driving from an to the outposts and it doesn't matter what the deliver, it get sorted to 1 of the five outputs.\n\nOutputs:\n* iron ore (bottom right)\n* copper ore (top right)\n* uranium ore (bottom left)\n* stone (top left)\n* coal (top)\n\nIron and copper smelting is placed right next to this sorting station. Uranium enrichment is placed above the waiting docks and coal and stone are handled above this.",
   "favorites": {
+    "vMdd9uhEVzMDCmpM5Gdta01H3ar1": true,
     "6sePdt17UVO6DUD4zz27xe7Imtu1": true,
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
     "jU4LREy6RqeaK0Koqgq4G37vwsp1": true,
-    "vMdd9uhEVzMDCmpM5Gdta01H3ar1": true,
     "CSjv9HKKz5f2aMXGyV4KkENrali2": true
   },
   "fileName": "Screenshot from 2020-08-09 21-35-23.png",
   "image": {
-    "height": 1065,
-    "id": "XA4m7wA",
     "type": "image/png",
-    "width": 822
+    "width": 822,
+    "height": 1065,
+    "id": "XA4m7wA"
   },
   "lastUpdatedDate": 1597001854427,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 3,
   "tags": [
     "/version/0,18/",
     "/mods/vanilla/"

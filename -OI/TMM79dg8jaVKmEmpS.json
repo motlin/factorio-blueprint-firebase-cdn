@@ -8,23 +8,21 @@
   "descriptionMarkdown": "# One Assembler, All Qualities v2\nProductivity is accounted for! 3 products for the price of 2!\\\nEDIT 0.5.1rc1: Removed the buildings that should be removed after placing a blueprint\n## Usage:\n\n1. Choose which building to use\n2. Set the parameterized item and buffer limits\n3. Set the unlocked qualities in the constant combinator\n\n## Variants\n\nThere are four main variants of this design: **Set Each Stack, Set Every Stack, Decreasing Stacks,** and **Ray's Preferred Stacks**. Each variant changes the buffer limit of items produced in the assemblers.\n- **Set Each Stack**: Each product quality can have different maximum buffer sizes.\\\nEx: 5 Normal Stacks, 0 Uncommon Stacks, 3 Rare Stacks, 1 Epic Stack, and 0 Legendary Stacks\n- **Set Every Stack**: Every product quality has the same buffer size. You only have to set one number!\n- **Decreasing Stacks**: You set the number of normal quality stacks to buffer, and each rarer quality has its buffer limit set to half the number of stacks of the previous rarity or 1 stack.\\\nEx: 16 Normal Stacks, 8 Uncommon Stacks, 4 Rare Stacks, 2 Epic Stacks, and 1 Legendary Stack\n-**Ray's Preferred Stacks**: Similar to Decreasing Stacks, but uncommon items only get one stack buffered, and rare products get half the buffer size of normal.\\\nEx: 16 Normal Stacks, 1 Uncommon Stack, 8 Rare Stacks, 4 Epic Stacks, and 2 Legendary Stacks\n## Upgrading\nEach building can be replaced by a building of higher quality as long as they have the same base productivity. Each module can be replaced by a quality module of higher quality. Each recycler can be replaced by a recycler of higher quality. Each inserter can be replaced by a better inserter or an inserter of higher quality. If you really want, each combinator can be replaced with a combinator of higher quality too...\n\n## How This Works\n\nThe heart of the design is the four single combinator Set/Reset (SR) latches deciding when to request a higher quality recipe. The set conditions check the number of ingredients, buffer status, and other recipe requests. The reset condition checks for a *craft done* pulse and other recipe requests. Another combinator requests the normal recipe when no higher quality recipe is requested and any buffer is not full. The final combinator translates the buffer status to a binary value and forwards the *quality enable* signals to the SR latches.\n\n## Other Information\n\nAt some point, I realized adding this many conditions to a combinator on top of filling its description box was going to result in a very large blueprint string for such a small blueprint. I am quite happy with how it turned out but now I am beginning to wonder how dense can a blueprint be.\nPlease share this design with your friends, I would like to see this design on someone's lets-play one day!\nIf people wish for a more in-depth explanation of how this design works, I can make a video explanation if I get enough requests!",
   "favorites": {
     "bbIkboS1cZUrYG6bR6v2h2NKlU32": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "PSQbYc9j0MSaHQKDyApf2ls71YU2": true,
-    "oQ5vPX5uWYgdcYhZbfjgkQ3eFY92": true,
     "jzVNozVJCigYEPTDqF1i8glSLfe2": true,
+    "PSQbYc9j0MSaHQKDyApf2ls71YU2": true,
+    "CdHIlh0v9ZbsawZ6PxjQTVucTEO2": true,
     "jRMMiYTQxGgJ3m7VtIR5Un4pxxj1": true,
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
-    "CdHIlh0v9ZbsawZ6PxjQTVucTEO2": true
+    "oQ5vPX5uWYgdcYhZbfjgkQ3eFY92": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   },
   "image": {
-    "height": 0,
     "id": "kyjAzYE",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/kyjAzYE",
   "lastUpdatedDate": 1738972861364,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 6,
   "tags": [
     "/general/mid game/",
     "/mods/vanilla/",

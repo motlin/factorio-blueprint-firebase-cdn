@@ -7,11 +7,11 @@
   "createdDate": 1560998809512,
   "descriptionMarkdown": "A collection of blueprints for turning belts that look like this:\n\n```\nAAAABBBBCCCC\nAAAABBBBCCCC\nAAAABBBBCCCC\nAAAABBBBCCCC\n```\n\nInto something that looks like this:\n\n\n```\nABCABCABCABC\nABCABCABCABC\nABCABCABCABC\nABCABCABCABC\n```\n\nVery useful for sorting items that are dropped off by train stations and sending them to assembler arrays.",
   "favorites": {
-    "ESaAdXYo09QCteAeUOuOARPskL92": true,
-    "rbWHB8UrYZf1YPo14F5Ng7ukNiE2": true,
-    "8x3mu9FFMDND5wPV1H6P9ct2dtf2": true,
     "VxDGZsthNAhD7Hr1CQ59tBwFKub2": true,
+    "ESaAdXYo09QCteAeUOuOARPskL92": true,
+    "8x3mu9FFMDND5wPV1H6P9ct2dtf2": true,
     "XapKJxfpaCOr004b6kXVsc5wZzd2": true,
+    "rbWHB8UrYZf1YPo14F5Ng7ukNiE2": true,
     "cNXF60istQMDL5lKvu73wKSU2TH3": true
   },
   "fileName": "3x4.png",
@@ -22,7 +22,7 @@
     "width": 1067
   },
   "lastUpdatedDate": 1560998809512,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/belt/balancer/",
     "/mods/vanilla/",

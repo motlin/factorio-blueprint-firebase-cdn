@@ -7,20 +7,18 @@
   "createdDate": 1726767330630,
   "descriptionMarkdown": "Basic city block blueprints.\n\nTrain system\n\nStart to Megabase with raw materials only\n\nDefense\n",
   "favorites": {
-    "QI81FLgXd3YPwWbMRu9huk2s2L83": true,
-    "mhky6mtdzzfJqC5tbkK6rvmwDN22": true,
     "hPfJTQYrkvZmVu4O0oN7GJeK6t22": true,
-    "6vF6OauWuVg82BqvPnxrgcxRrmr1": true
+    "6vF6OauWuVg82BqvPnxrgcxRrmr1": true,
+    "mhky6mtdzzfJqC5tbkK6rvmwDN22": true,
+    "QI81FLgXd3YPwWbMRu9huk2s2L83": true
   },
   "image": {
-    "height": 0,
     "id": "vBmjDBW",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/vBmjDBW",
   "lastUpdatedDate": 1726767330630,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 2,
   "tags": [
     "/general/late game (megabase)/",
     "/general/beaconized/",

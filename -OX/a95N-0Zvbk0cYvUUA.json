@@ -1,27 +1,26 @@
 {
   "author": {
+    "displayName": "aegis720",
     "userId": "xMemSf7LsmVtYP4NAffytqDxjtC3"
   },
   "authorId": "xMemSf7LsmVtYP4NAffytqDxjtC3",
   "blueprintString": "0eNrtWFtv3EQU/ivGj8gbZS8JyUpFQvwDxANSWFmz9mx2FHvGzNhJl2qleF1UpWnFRQ0V8NALLfQG5aIiehH8F4ZN2if+AueMvd7ddJM2UBBFUaRofObMuXznmpyy20FCI8l47LaFWLObp8YUZTdXJj7xjnmC52TFVjkJkBb3Imo37XUm4wQojs1JiISco0ICIkO779iM+/Sk3az2W45NecxiRnNR5qPn8iRsUwkMpYRIilVJwpC0A1pRESVrcO/YkVDwWHBUDgLrS3MLjt2Dh9W5BdADJsZSBG6bdsk6ExLZPCa9hMUu3Pnl2w6TKnaf2xEvEN6anStQMUFA6ovz8/gdRkSSGFXZv21dNzyFQrwIaUylQg25JHedAKYuU27EYq9rNzskUNSxVSwiNwpIj/FVV4mE+6q8Y6BSJiFA5TLfboJWLmKan/ugb1oPCmkTb81dF0GCPgB/SQuFj16tBqJtvCRBIDbcSAS9qCt4r1SZv3ULOAPqu+1eiZbh6eNjKp/ysgvyzIXdBKPRM6QI7oYkGnsEggtxxo1TI7gD0rZLySFViqwi+S2qKJFe10KYIuq/YoPfTyVPrYzaKEoVCE+bcROep3KnUZ3OHZ9J6uX31drsVFI5g5o+QxqP8tuBxApyLKaoz0gvMBYNfA/uwCGgcyFDwzeVXycMIcHsa9T6LfgBKJWLFo9igpGm0vWp8iSLcm/stxPJLdHpWLGwfKawpCxIIdZhHjE+zNkz4KyXVvrUYz6Vh6M5f0QsC6HjsjSoTn6tHLlMDY79fai9XsJI3eI94b7xeL/4QhpJYhEaZCrKY5R7tBKRUf3vi8ekCJfTeEPINeOJpP6oBFYlpRMxOpoxIYOcILL3r5kCLVokcZTER2z2RY9EV/5KX416rslttyNF6DIOBpR2HkEiFxXIY9l7ltDJVr44D6V0UPGsFJoquYIT+/S0LKYsYvlJGPasHDerI6RVtkX2vsmkmSXWKK1vJ8FaBRo99D16aK+qPW99jaaQpMR3uxBZ082pGe2YC30M9AbIwTCvVJ2qU3fqLWelZk5VOMFvp1GcakBrtFrTw2aljEbhkDM6NO3F+XFo3sB2bm10KbfkZCdXBql3LGilAgcezB0iGbYneHTSAHagfBy/mPPQKJOAIP+rRqVPIwptlxfzB51kMQ0R4nKZcXDO0ACDi3cn4KtVjhjmQ3fMFxewB/w0KC8s1pYby8sLr9UX6o3XauOVZh6tfHn2pKXjNen/uybtXb6wd/MnnZ7b/eaqTn/R6Zc6/Uqnp835sz8epS90bVp6abemg1q9HtzS2Y5ObwNaerCt0xtPNj/fu3RdDz7ZO31lePb+8NynOr2Yw6k3By9sa1r6Dy5Nx/vR8X70IvYjnd7V2cc6u6mzKzp7pAe/Dq9t7e58t3fhhk6/1dmmzi4BfXjmwfDsFzr9+uDSOvq2tHy8LP0jy1I+aJ5s/rB7/qIeXDXBfaSzy8+1MVVnqamY/0CNdZXrmIHDmDqZdG8KziGmsHjnRkEFVzA8LcDMt/CEf+vGXVrcTyUMrOzFCTgIrOuU+qpgPKC1tazxhQXpUXDP7D0ta0S2CrKFZAVap2xCIC34Nfcu34/s7tamTn8+3KLDLHh85tZwewenVfbw8cPzvz/Y1oN7enBND27o7Ec9uG8qMtODuzDadj+6M/zgej7yZqGF7/DRvbx6YTzuw1xnd1BYtqUH35s8ALW3cWbe3zbLB5T0hzq9rNMd/ITadmbuyNO7TZkszt/Yo2uYagRqfx32wGJfPyRF+38CsUW7yw==",
   "createdDate": 1755134322343,
   "descriptionMarkdown": "Notifies when no science packs are delivered to labs for the specified time.\n指定された秒数、研究所へのSPの搬入が行われなかったときに通知を行います。",
-  "favorites": {
-    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true
-  },
   "image": {
-    "height": 0,
     "id": "b54OXa9",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1755135798386,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/"
   ],
-  "title": "Research Alert | 研究進捗アラート @takumanch"
+  "title": "Research Alert | 研究進捗アラート @takumanch",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true
+  }
 }

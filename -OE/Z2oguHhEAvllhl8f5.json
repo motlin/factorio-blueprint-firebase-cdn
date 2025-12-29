@@ -7,20 +7,18 @@
   "createdDate": 1734698028808,
   "descriptionMarkdown": "A ship made for rocket part for Aquilo and Gléba.\n\nProvide after a travel beetween Aquilo and Gléba 1,5k of blue circuit and 1.4k low density structure. Enough to send rocket without importing blue and low density from another planet.\n\nAt start this product low, but with research you upgrade the production/hour.\n\nI recommand disable the auto buidling. Send storage first. Otherwise you will have problem during construction?\n\nBook include updgrade quality blueprint for the building and the defense.",
   "favorites": {
-    "MxDUneKZH7T8ltsURkvSh5D9vpz1": true,
     "2SKkUgIGqAMUnmM5chUzBhH8itO2": true,
-    "zcd8Ov17e6OOvJjhgStXTgZblqI2": true,
-    "UjaFUukMdEfQUuJheNOiq0GuBQA2": true
+    "MxDUneKZH7T8ltsURkvSh5D9vpz1": true,
+    "UjaFUukMdEfQUuJheNOiq0GuBQA2": true,
+    "zcd8Ov17e6OOvJjhgStXTgZblqI2": true
   },
   "image": {
-    "height": 0,
     "id": "449J9PD",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/449J9PD",
   "lastUpdatedDate": 1734699186488,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 2,
   "tags": [
     "/production/rocket parts/"
   ],

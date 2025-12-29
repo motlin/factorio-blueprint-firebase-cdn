@@ -7,12 +7,12 @@
   "createdDate": 1703962971846,
   "descriptionMarkdown": "Quick starting block that I whipped up for K2 + SE colonies. Provides all 3 circuit types, bricks, glass, polymer and all 5 primary liquids. The light oil can  be redirected to a rocket fuel block next to the liquid rocket fuel creation assuming you don't want to fuel it purely through rockets. The initial rocket is there purely to provide a way back as well as capture rocket parts overflow and send them back to base.\n\nUnlikely to be fully spatially efficient, and is used by me together with the Water Well mod, so you'll have to figure out your own approach to providing it with water. If you prefer to play fully legit, there is some empty room reserved for a ice rocket.\n\nSome known errors that i'll fix later:\n\nBlue circuits incorrectly use modded long inserters, and are not connected properly to the sulfuric acid supplies\nWater, light oil and heavy oil aren't properly linked between the two refineries.\nThe pump buffer at the end of the block got partially cut off.",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "LDSPhy30E8W4NKaT7U1SAQNQVMJ2": true,
-    "lP4jaXnTiiQGH1g8A29e8dh8Ml53": true,
-    "bth1HpzeY3fjEm63NObNb2dfyNb2": true,
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,
+    "LDSPhy30E8W4NKaT7U1SAQNQVMJ2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
     "QpAiNh79AsVkgU31fhrGNOC9Ah42": true,
+    "bth1HpzeY3fjEm63NObNb2dfyNb2": true,
+    "lP4jaXnTiiQGH1g8A29e8dh8Ml53": true,
     "yRe0lTpK3JgK0zY39Rb5Ox1HWqB2": true
   },
   "fileName": "colony.png",
@@ -23,7 +23,7 @@
     "width": 976
   },
   "lastUpdatedDate": 1704023924296,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 2,
   "tags": [
     "/mods/space-exploration/",
     "/mods/krastorio/"

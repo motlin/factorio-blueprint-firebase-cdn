@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "John Shepard",
     "userId": "Ii7MlrzNzqXtVJSoAkqh6dvMwwf1"
   },
   "authorId": "Ii7MlrzNzqXtVJSoAkqh6dvMwwf1",
@@ -8,14 +9,12 @@
   "descriptionMarkdown": "for reddit ",
   "favorites": {
     "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "pehRmNuQphSBCMpNKRwo4Sj2loA3": true,
-    "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true
+    "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
+    "pehRmNuQphSBCMpNKRwo4Sj2loA3": true
   },
   "image": {
-    "height": 0,
     "id": "oQrfmvm",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1759139985271,
   "numberOfFavorites": 3,

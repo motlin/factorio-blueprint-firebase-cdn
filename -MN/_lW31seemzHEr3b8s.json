@@ -7,12 +7,12 @@
   "createdDate": 1635942535640,
   "descriptionMarkdown": "Factorio Version 1.1\n\nBlueprints:\n-\n- <b>Empty Tile</b>\n- <b>Mall Tile</b>: Full-fledged mall  _[ICS + PSCB + SBC + RGB Circuit + Lubricant Trains]_\n- <b>Furnace Tile</b>: Homogenous / Isolated 4-cargo trainloads\n- <b>Science Tile</b>: RGB+Black [ICS + PSCB trains]\n- <b>Yellow Science Tile</b> [ICS + RGBCircuits + Lubricant + PSCB trains]\n- <b>Circuits Tile</b>   [ICS + PSCB trains]\n- <b>Iron, Copper, Steel Refinery</b>: uses 2x Iron ore per train-full compared to copper\n- <b>Solar Tile</b>: 45 MW per tile (May need to quadruple up on batteries)\n- <b>Filter Tile</b>: Converts full trains to ICS/PSCB/SBC trains, usually not needed and has bottlenecks\n\nTrains Layouts:\n-\n- <b>ICS</b>: Iron, Copper, and Steel\n- <b>PSCB</b>: Plastic, Sulfur, Coal, and Batteries\n- <b>SBC</b>: Stone, Brick, and Concrete\n- <b>RGB Circuits</b>: Green, Red, Blue Circuits\n- <b>RGB Research</b>: Green, Red, Blue Research\n- <b>Yellow Research</b>: single-car\n\nNotes:\n-\nSome tiles like the Mall and RGB+Black Science require extra space in-between the rails for an 5th rail.\n\n\nAttribution:\n-\n\nUses blueprints from other authors such as Nilaus, Rahbek, Vinnie Falco/Yupswing.",
   "favorites": {
-    "XpaG7mC0YJUv7eCMRr5xF1CeMha2": true,
-    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
     "9qoIyNumPAVcAef04BtJRASu9e62": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
     "juALYjDo1jUB1eKgMsDA6U3Zwv83": true,
-    "DMcA8AeeETRkpTjW5pNqqsiiHGd2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
+    "XpaG7mC0YJUv7eCMRr5xF1CeMha2": true,
+    "DMcA8AeeETRkpTjW5pNqqsiiHGd2": true
   },
   "fileName": "20211107151606_1.jpg",
   "image": {

@@ -1,15 +1,15 @@
 {
-  "author": {
-    "userId": "TVzv2GEuk6Qbjr7LgM0KcvpaxDX2"
-  },
-  "authorId": "TVzv2GEuk6Qbjr7LgM0KcvpaxDX2",
-  "blueprintString": "0eNqdld2OgjAQhd9lrmnCjyLLq2yMKWXUSaDtlmLWGN99W1AkKyp61ZROvzk90w4nKKoWtSFpIT8BCSUbyL9P0NBO8sp/s0eNkANZrCEAyWs/402DdVGR3LGaiz1JZAmcAyBZ4i/k0Tl4jSgPXAosmSAjWrKj7fF5HQBKS5awl9NNjhvZ1gUaxx8oW95YRrJBY91CAFo1bpeSPq0jsTiAox8cvCSDol+Lvb5/zHhgVmpHjSXBxB4dXbvD0gGZNupA5WSW5Jplgps8N+0OFvYsZyE4vaQfeHWXZzHXk2lL0gnk8nNLnjmSDtgaS2prhpVTYRxdqwofFzGagq1mX4XkZuzo3IsJZvZmyS7ot0v29aYRz3yIwjdFf6g5mv325vsdxbOLGHXQGc85SuYyw8GIVzIXj96DwZ/WjY/pcWdzF7TZUuUi+7527ZcDWFe84xbcs4RqfWNOusd5bY5DrFBao2GCF91luQRHYTiKvrnQ3y0lvehLeccJ1lMHXs71cLIsqW/jXdPPR7+ZAA7u9H1AtorjNMtCJ/n8BxbRMHo=",
   "createdDate": 1535739594688,
   "descriptionMarkdown": "red circuits on bots ",
-  "favorites": {
-    "BO1NbmsQ0GXUqiy2MMKObnYtwkx1": true,
-    "Vdfyg4Lk98QAUnrC2jpl5De4uFw1": true
-  },
+  "lastUpdatedDate": 1535739594688,
+  "tags": [
+    "/production/advanced circuit (red)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
+  "title": "red circuits on bots ",
+  "blueprintString": "0eNqdld2OgjAQhd9lrmnCjyLLq2yMKWXUSaDtlmLWGN99W1AkKyp61ZROvzk90w4nKKoWtSFpIT8BCSUbyL9P0NBO8sp/s0eNkANZrCEAyWs/402DdVGR3LGaiz1JZAmcAyBZ4i/k0Tl4jSgPXAosmSAjWrKj7fF5HQBKS5awl9NNjhvZ1gUaxx8oW95YRrJBY91CAFo1bpeSPq0jsTiAox8cvCSDol+Lvb5/zHhgVmpHjSXBxB4dXbvD0gGZNupA5WSW5Jplgps8N+0OFvYsZyE4vaQfeHWXZzHXk2lL0gnk8nNLnjmSDtgaS2prhpVTYRxdqwofFzGagq1mX4XkZuzo3IsJZvZmyS7ot0v29aYRz3yIwjdFf6g5mv325vsdxbOLGHXQGc85SuYyw8GIVzIXj96DwZ/WjY/pcWdzF7TZUuUi+7527ZcDWFe84xbcs4RqfWNOusd5bY5DrFBao2GCF91luQRHYTiKvrnQ3y0lvehLeccJ1lMHXs71cLIsqW/jXdPPR7+ZAA7u9H1AtorjNMtCJ/n8BxbRMHo=",
+  "authorId": "TVzv2GEuk6Qbjr7LgM0KcvpaxDX2",
   "fileName": "131232131231415.png",
   "image": {
     "height": 536,
@@ -17,12 +17,8 @@
     "type": "image/png",
     "width": 744
   },
-  "lastUpdatedDate": 1535739594688,
   "numberOfFavorites": 2,
-  "tags": [
-    "/production/advanced circuit (red)/",
-    "/mods/vanilla/",
-    "/version/0,16/"
-  ],
-  "title": "red circuits on bots "
+  "author": {
+    "userId": "TVzv2GEuk6Qbjr7LgM0KcvpaxDX2"
+  }
 }

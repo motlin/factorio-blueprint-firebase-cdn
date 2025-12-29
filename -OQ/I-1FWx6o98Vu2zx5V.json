@@ -6,23 +6,21 @@
   "blueprintString": "0eNqtl02PozYYx7+K5Uu3I5OCwbAT7R7aQ6UeKlW9rkaIgJlYCzZrm5mNRvnufcAZwgzeZJNUygHM49/fz5sdv+BN0/NOC2nx+gVX3JRadFYoidf4j140lUGF3NmtkI/wgApjeLtpuEYlvG0GgxU62DFkbFF+NUjVSPNvPTeWV6jTqupLu0L/uiGDkvCUIRIS2S0Hdl0PMlv4OptcoFbI3vJfDHpW2m4HBqxN80pwaQ2BeRZJhVqlOXBgkXSmxotyu0J/Nr2o5rNQ2xuLNiCqVf+4tehZALkTHTcrTLAolTR4/eUFG/Eoi2aIlCxaDiE6xANYQQtsIXlA8R6myIp/x+to/0AwKAgruCOML7tc9u2GazAgJ0kEd8oIl44XDEDKVozgHV4HSbhiIARLs1o1+YZviyeh9GBXCl32wuZcFpCqCq+t7jmZhmFKNTFroY3NF351hYYHy3UQYqcCQRxqJArD4bUdDOwghz/hPVhoXkK43s18Hc6/9UUDbsNnqXQLShAhy1sXElHNhHldixKSUu6CFuqh4WM0nS2YylzIJ4ih0js39/iWEDwmGq/DPfnBF8jHHn5kkQc65aEujA2ENFyDD54EZFMCojEBlQAfnUFEPeT4CnL4npx4wMkEdq0SjK3i4X58t+JTJTPVxrF46qIxfMzw2IJ5LRpY/5gO49Z3SOOh5AmeLN6MeiqLYE9hvCmuz+NAP1ReEkLmIH3LSLAJ/rqb/EwwXJD/d6+iy7yKXK2OOOrB0ctwdIaLPbj4Mlw8wyUeXHJhCmc45sGxy3Bshks9uPQyXDrDZR5cdhkuG8qVYKsLs82lsvl01L1uyFPtadXmromN++ar8qOHLRxbfRvwBgpVizLoFGyTJ/aT+B5K3UM8OmnAlSZoirY71TKOAz49w840NMKXiFCSEPoAY1OcXIfY3XgawN4+ifzjDvhh768WR4x3xl/TEY2i5bRxaLIIVH0xlC6h9GZovITGN0OTJTS5GcqWUHYzNF1C05uh2RKa/Tz0UO/k9WGNo6PK7+3Qrm//Ro7VVkOD900x9JuQH7owF9FdGv4GD5agLsrNHf0VzCrecdgzho4fO/eULD0jS72ydCZLr5GNz8jGXtl4JhtfI5uckU28sslMNrlGlp2RZV5ZNpNl18imZ2RTr2w6k02vkc3OyGZe2Wwmm10jC9eAo/DfxXdklbsNDvLdtNEflUHM3LFLK2gpcjgzT8qM097rPLhrxPB3ebrxEtwUG96M9K+j9BOcX+PRx1J6n9zfs5SFEQuT/f4/U+0AzQ==",
   "createdDate": 1747296724128,
   "descriptionMarkdown": "Builds anything an assembler can build. Builds 5 stacks of requested product. Requests 40 stacks of requested product in the buffer chest. Requests a minute's worth of ingredients, but no more than 2 stacks of each. Fluid ingredients must be brought with pipes.",
-  "favorites": {
-    "q6fLPJtwfGYWy9yvdgNhS0zfo8x1": true,
-    "tCN0oTbIYGM18hBsTBjn8Y1w3Ra2": true,
-    "uwTpzZdaPpOjEdLkFNU3FjnrxI62": true,
-    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true
-  },
   "image": {
-    "height": 0,
     "id": "ZQ1FYVC",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/ZQ1FYVC",
   "lastUpdatedDate": 1747296724128,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 2,
   "tags": [
     "/general/mid game/"
   ],
-  "title": "Maker of Anything (blue assembler variant)"
+  "title": "Maker of Anything (blue assembler variant)",
+  "favorites": {
+    "q6fLPJtwfGYWy9yvdgNhS0zfo8x1": true,
+    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true,
+    "uwTpzZdaPpOjEdLkFNU3FjnrxI62": true,
+    "tCN0oTbIYGM18hBsTBjn8Y1w3Ra2": true
+  }
 }

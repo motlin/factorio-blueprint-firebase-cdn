@@ -7,22 +7,20 @@
   "createdDate": 1724196192407,
   "descriptionMarkdown": "Original concept was by u/bromy2004, re-packed by yellowblood, and finally repacked by me into this form. I present to you: a super compact 216 MW Steam power plant blueprint.\nBrownout/blackout resistant with an independent small plant that only handles the inserters feeding fuel to the main plant, and maybe the initial coal patch. and has burner inserters as additional brownout protection.\nHas super compact boiler setup, a manifold so that ALL steam engines can get steam from ANY boiler on its side of the plant, and can last you well into the game before you need solar or nuclear options.  can just build a little at a time, as your power needs increase, just keep building the rest of this plant.\nI have gone over everything from the boiler placement, steam engine layout, ease of building starting from early game only using small power poles,  yellow belts and inserters, to how long it lasts before needing to upgrade to the next set of power, to how neat and uniform the electrical grid is from map view.\nUnless feeding water from BOTH sides, this is literally the MOST power generating capability in the smallest footprint that I have seen from ANYONE else.",
   "favorites": {
-    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
-    "OSv1G5ktXXO8u40nyMUZs2kPI5B2": true,
-    "rTvsNPsxHMPKmMGd9TM2vsxR34J3": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
     "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,
+    "OSv1G5ktXXO8u40nyMUZs2kPI5B2": true,
+    "rTvsNPsxHMPKmMGd9TM2vsxR34J3": true,
+    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
     "cjhiFdbiUIX4VtXXSDAfCsWxwKw2": true
   },
   "image": {
-    "height": 0,
     "id": "kiBPlx7",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/rYClx6U",
   "lastUpdatedDate": 1726430605169,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/general/compact/",
     "/power/steam/"

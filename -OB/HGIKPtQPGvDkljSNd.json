@@ -7,30 +7,28 @@
   "createdDate": 1731178346399,
   "descriptionMarkdown": "This is my late-game cargo ship among the five planets with 69 cargo bays in total and an avg speed of 460km/s (with high quality engines).\n\nNo need for any infinite technology. Easy to kickstart. Totally self-sustained except for fusion power cells, and once started, it doesn't need to stop (etc. to produce ammunition) any more.\n\nOnly the engine-related parts require quality upgrades, but it's not necessary. \n\nIf you use the blueprint with five-star quality, the avg speed is about 460 km/s; you can use the upgrade planner to downgrade the 5-star parts, and after downgrading to normal quality the avg speed is about 280 km/s. \n\nTo kickstart the ship, set the number M at the front to a small number, and gradually enlarge it. For example, my usual way to fully start it is like this:\n\n1. Apply the first blueprint and enable the \"starting\" requirements group and wait until the fusion power station starts working;\n\n2. (ctrl+shift)Apply the second blueprint, set M to 1, head towards Vulcanus(it might take 2 to 3 minutes to start off);\n\n3. Head towards Aquilo;\n\n4. When passing Gleba set M to 40, keep going;\n\n5. At Aquilo set M to 400, let it shuttle between Fulgora and Aquilo and leave it alone. soon it'll be fully started.",
   "favorites": {
+    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
+    "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
+    "hSFHSywOjCeNYhrMkGI84MSW1Cx1": true,
     "75M4yrnMgqfrb7Qd1Ueh2jb0lcd2": true,
     "ivaURRZin0hfcFIVNjNqDW8TfSa2": true,
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
+    "TvV8InW5ARaPlvWSgFL9rjiJbZt1": true,
+    "AcFYDaMx1aYTTYJBfJAHXAq5Dco2": true,
     "vKbTHeLcYhUJHochteU8H1L8IEx2": true,
     "aDCgn9vO5ZPHvwA4OlYRJ1SRjOx2": true,
-    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
-    "23WCcSYBpuZ1XBIqplqsIZXdSso1": true,
-    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
-    "TvV8InW5ARaPlvWSgFL9rjiJbZt1": true,
-    "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
     "ySfJe5xQV9ehnq35Ttkj2gFx7Jt1": true,
-    "AcFYDaMx1aYTTYJBfJAHXAq5Dco2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
-    "hSFHSywOjCeNYhrMkGI84MSW1Cx1": true
+    "23WCcSYBpuZ1XBIqplqsIZXdSso1": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
   },
   "image": {
-    "height": 0,
     "id": "E65vEVY",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/E65vEVY",
   "lastUpdatedDate": 1731207292096,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/"

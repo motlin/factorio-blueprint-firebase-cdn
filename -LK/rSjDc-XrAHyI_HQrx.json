@@ -7,24 +7,24 @@
   "createdDate": 1564298638436,
   "descriptionMarkdown": "8 Fully beaconed rows (12 Beacons with 24 Speed Mod3 for each assembler); each row includes:\n- 2 Pipe assemblers\n- 28 Engine unit assemblers\n- 48 Chemical science assemblers\n- Fun Fact: It takes 11 seconds for a single nuclear fuel powered locomotive with no cargo wagons to traverse the length\n\n\n\nEach row produces approximately 2,500 Chemical science packs a minute. With all 8 rows this setup produces just over 20k/min Chemical science packs.\n\n\nReddit Post:\nhttps://www.reddit.com/r/factorio/comments/ciryt1/rip_my_20kmin_chemical_science_pack_factory",
   "favorites": {
+    "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
     "kzemT7l62Od5fvXMuuqRz2ThQEr2": true,
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
-    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
-    "WV5dTP2A7GaBekQdNc1k98CrE9C3": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "fvIxjOHvS8dXJe6l6dRHKZCoUEs2": true,
-    "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true
+    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
+    "WV5dTP2A7GaBekQdNc1k98CrE9C3": true
   },
   "fileName": "20k checm science 4.jpg",
   "image": {
-    "height": 1081,
     "id": "QnqC6cR",
     "type": "image/jpeg",
-    "width": 1919
+    "width": 1919,
+    "height": 1081
   },
   "lastUpdatedDate": 1564502097891,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 7,
   "tags": [
     "/version/0,17/",
     "/production/science/",

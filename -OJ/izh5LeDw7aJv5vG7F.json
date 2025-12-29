@@ -7,26 +7,24 @@
   "createdDate": 1740250206700,
   "descriptionMarkdown": "Space platform that turns available resources from space into all possible items / materials. Is not very efficient, and is very slow, but it gets the job done and is basically printing free items from space rocks. Slowly fills storage with rocket ingredients over time. Oil processing is available on the platform but you have to mess around with the pipes a bit to use different oils.\n\nOne assembler that is connected to the platform hub is programmed (mostly) to craft any item that is entered into the \"crafting request\" logistics group. If you enter an item like engine units, the assembler will craft any necessary ingredients that are unavailable, like iron gears, before crafting the engine units.\n\nI think that this is fun to have, but really it is best for having float over a planet to drop small items that you don't have available on say Gleba, or Aquilo. Items like combinators that really aren't very expensive resource wise, but aren't really worth launching an entire rocket for.",
   "favorites": {
-    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "5mUhChpdKES8mFiSOWagyYwbGVo1": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,
-    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
-    "KF434v09jCMvGg8cnoOJuedk3aa2": true,
     "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "KF434v09jCMvGg8cnoOJuedk3aa2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "5mUhChpdKES8mFiSOWagyYwbGVo1": true,
+    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
+    "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
   },
   "image": {
-    "height": 0,
     "id": "CSKHsrg",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/gaHYpea",
   "lastUpdatedDate": 1740320902127,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 7,
   "tags": [
     "/planets/space-platform/"
   ],

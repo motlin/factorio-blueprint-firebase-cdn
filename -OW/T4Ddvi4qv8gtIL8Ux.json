@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "João Vitor",
     "userId": "V2HC9pUS8pflpjsbSwGcaoU6cxF3"
   },
   "authorId": "V2HC9pUS8pflpjsbSwGcaoU6cxF3",
@@ -10,13 +11,11 @@
     "6hpzKttlhqQLshhQl8LPk9cVeBo2": true
   },
   "image": {
-    "height": 0,
     "id": "FtRl6Id",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1753925086041,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/"

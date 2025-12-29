@@ -7,10 +7,10 @@
   "createdDate": 1687294362420,
   "descriptionMarkdown": "3x1 City Block, Artillery W/ Train pickup, Red Missile w/ Spiderton area to reload, Right Hand Drive, Solar fill",
   "favorites": {
-    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true,
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
+    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true
   },
   "fileName": "cb art.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 2830
   },
   "lastUpdatedDate": 1687294490415,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 1,
   "tags": [
     "/train/right-hand-drive/",
     "/general/beaconized/",

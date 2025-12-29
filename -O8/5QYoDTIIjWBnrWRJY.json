@@ -7,29 +7,27 @@
   "createdDate": 1727758482809,
   "descriptionMarkdown": "EDIT: Not for space age. This is for base game only - pre-space age!\nHere is the new one: https://factorioprints.com/view/-OB4PHj7LAmdtnSPx0ne\n\nInputs are 1 or 2 copper plates, 1 or 2 iron plates, 1 coal, 1 water and 1 crude oil. Copper and Iron second lanes are optional but highly recommended. \n\nInputs are marked with constant combinators that are safe to remove once you've connected each input. \n\nBelts are interweaved so do not mass upgrade. \n\nIf you'd like to jumpstart this so you don't have to wait too long before any progress is made, I recommend filling the 3 storage boxes for each of the 3 types of circuits respectively. \n\nBased on https://www.factorio.school/view/-NOGNmB8EFZmOjbYIPzM to fix some issues.  \n\nChanges:\n- Fixed issue with left half of rocket fuel makers not working because of being blocked\n- Fixed a problem where solid fuel would end up going to the rocket instead of only rocket fuel\n- Slightly improved walkability\n- Removed unnecessary things like the random boxes in the middle and the two extra roboports all clumped together\n- Added an option to jump start this by including 3 storage boxes, one for each type of circuit (blue, red and green). You can replace these with requester chests if you already have some circuits stored elsewhere and don't want to manually transport them.  ",
   "favorites": {
-    "kArEaPV5nOSSh4XivUF5iM7eMkB3": true,
     "34okMiKwJ6ZkegRFvQsd6hTNQuZ2": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "AsMr9styVwRwvNbG5jeLxoyaDsZ2": true,
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "DRs4fFesokedFZG3er6wTvyYFhg2": true,
-    "sfRnxFoxGjPvyPxLEoh754u6Dnk2": true,
     "whRZSEdzupMC2x8usCsLtM1VLXz2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
     "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
+    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
+    "5W0NjYZ121gLB3gCH0l12MLfIUm2": true,
+    "sfRnxFoxGjPvyPxLEoh754u6Dnk2": true,
+    "AsMr9styVwRwvNbG5jeLxoyaDsZ2": true,
     "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "5W0NjYZ121gLB3gCH0l12MLfIUm2": true
+    "kArEaPV5nOSSh4XivUF5iM7eMkB3": true
   },
   "image": {
-    "height": 0,
     "id": "lw41rGZ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/lw41rGZ",
   "lastUpdatedDate": 1730963038491,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 9,
   "tags": [
     "/production/rocket parts/",
     "/general/beaconized/",

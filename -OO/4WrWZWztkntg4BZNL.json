@@ -7,22 +7,20 @@
   "createdDate": 1744923228812,
   "descriptionMarkdown": "Self powered legendary accumulators factory using mostly common items.\n\nIs it needed? Does it solve a real problem? I don't know, but it works, and it was fun to create.\n\nRequirements:\n- 4 planets tech (stack inserters, Green belts, heat towers and more) \n- Required Tech: Transport belt capacity (Maxed)\n- Most of the items are in common quality. When you see uncommon item, it means \"use the best quality you have here, and it should be fine\".\n- ~200 logistics bots\n- Huge Island :)",
   "favorites": {
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "K6e4bUrdX2YGgkmGacGm7KbFFSL2": true,
-    "lM9fcEzS7iQtcikyp5Aw3wMbdzW2": true,
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,
     "zcd8Ov17e6OOvJjhgStXTgZblqI2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "lM9fcEzS7iQtcikyp5Aw3wMbdzW2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "K6e4bUrdX2YGgkmGacGm7KbFFSL2": true
   },
   "image": {
-    "height": 0,
     "id": "1Lr5hTc",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/1Lr5hTc",
   "lastUpdatedDate": 1745855294016,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 3,
   "tags": [
     "/power/accumulator/",
     "/planets/fulgora/",

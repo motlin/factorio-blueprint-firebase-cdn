@@ -8,13 +8,13 @@
   "descriptionMarkdown": "A collection of blueprints for Bob's modules crafting. \n<br><br><b>Required mods:</b>\n<li>Bob's Adjustable Inserters</li>\n<li>Bob's Modules</li>\n<br>Blueprints are independent and each part (exclude research) can be replicated or adjusted to increase output volume. \nBlueprints can help you from early to mid game.\n<br><br>\n<i>Update: 29.3.2021</i><br>\nAdded more blueprints for types of modules; Added some changes; Added Upgrade planner for modules",
   "favorites": {
     "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,
-    "tC7v3vGlnoeLFNKu2HDXSsDvWRf2": true,
-    "efHewnxTJqS2Ym0Edfa4LLy2yyb2": true,
-    "KAs9myDf7Ma0PR9rFZ004ovoaad2": true,
     "qznsoKzpPLMm195XqWr912sGVuE3": true,
-    "kY9N0Vzx4efQdkay3D8m9qJqQPa2": true,
+    "KAs9myDf7Ma0PR9rFZ004ovoaad2": true,
+    "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "i8fKg0kPRoOQUZULMoJJPSh433m1": true,
-    "mNHFAiP6izStsOhbaEKjOewCujs2": true
+    "efHewnxTJqS2Ym0Edfa4LLy2yyb2": true,
+    "kY9N0Vzx4efQdkay3D8m9qJqQPa2": true,
+    "tC7v3vGlnoeLFNKu2HDXSsDvWRf2": true
   },
   "fileName": "bobsModules.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1438
   },
   "lastUpdatedDate": 1617120437982,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/bobs/",
     "/production/modules/",

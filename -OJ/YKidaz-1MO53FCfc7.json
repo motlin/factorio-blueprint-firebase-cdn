@@ -7,27 +7,25 @@
   "createdDate": 1740054653838,
   "descriptionMarkdown": "This block here makes a cool 14k on its own and can be vertically tiled (assuming a suitable lava patch is found)\n\nThe design is intended to be pasted directly on a coastal tungsten patch (which I noticed happened quite often, and inspired me to make the design.) You will need to supply the trains with calcite, coal, Sulfuric acid and Rocket parts.\n\nFactorio dislikes blueprints with pumps so close to foundations, So you have to add the lava pumps manually or the factory will not work!",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "UbVMO7fHqwPMkPPqTl2hqTjFu692": true,
-    "f96Af8c7GsNW0W3M8MEbDNTfTds2": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "p7n3FBUGEwN7AYPCzAsfJ63Je4s2": true,
     "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
-    "OGfpHtZz7hPUVW8yijZBKCcZFTt2": true,
-    "xK01DzhHAWgcvtbTCdMGw1aZAs02": true,
     "6rBEfpVKWyTnxJ56kRJ5gNtlgxk2": true,
-    "HKciyRWBwvNd2IiY9P33koIEty63": true
+    "UbVMO7fHqwPMkPPqTl2hqTjFu692": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "HKciyRWBwvNd2IiY9P33koIEty63": true,
+    "p7n3FBUGEwN7AYPCzAsfJ63Je4s2": true,
+    "xK01DzhHAWgcvtbTCdMGw1aZAs02": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "OGfpHtZz7hPUVW8yijZBKCcZFTt2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "f96Af8c7GsNW0W3M8MEbDNTfTds2": true
   },
   "image": {
-    "height": 0,
     "id": "63yLbsc",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/63yLbsc",
   "lastUpdatedDate": 1740056391883,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/space-age/",
     "/planets/vulcanus/",

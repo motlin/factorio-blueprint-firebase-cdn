@@ -7,21 +7,18 @@
   "createdDate": 1524265349096,
   "descriptionMarkdown": "Book with some Production Plants designs specialy designed to use with Sea-Block modpacks including Angel's and Bob's mods. Normally designed at perfect ratios without beacons or modules. Those are specially useful at early-mid game...",
   "favorites": {
-    "QPOdsIfLvOV0oZUBSG7PODybjLe2": true,
-    "wy1phRzu68NuP0ofN7tF8TtCdUJ2": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "xN0TbL8vr3Wm1WQU1YvHkihFHyU2": true,
-    "Xz2hVO3xEXXcOchfvdKpzu6s3xD2": true
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true
   },
   "fileName": "SB.jpg",
   "image": {
-    "height": 769,
-    "id": "57mFO6M",
     "type": "image/jpeg",
-    "width": 853
+    "width": 853,
+    "height": 769,
+    "id": "57mFO6M"
   },
   "lastUpdatedDate": 1525446597784,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/angels/",
     "/mods/bobs/",

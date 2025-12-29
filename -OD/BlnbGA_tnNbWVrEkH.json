@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Bening632",
     "userId": "UsODHsNLQ5eOALwAYooT4gL94aw2"
   },
   "authorId": "UsODHsNLQ5eOALwAYooT4gL94aw2",
@@ -7,20 +8,19 @@
   "createdDate": 1762224717440,
   "descriptionMarkdown": "My first legendary ship\n\nWill produces\n\n- Legendary Iron Plate\n- Legendary Copper Plate\n- Legendary Coal\n- Legendary Carbon\n- Legendary Sulfur\n- Legendary Ice\n- Legendary Calcite\n\nFeatures\n\n- Top speed 200 km/s\n- Fuel control, make sure fuel consumption is at 40-50%\n- Large cargo bay for asteroid, can hold up to 6k each asteroid type\n- Self-sustained, can produce enough fuel and ammunition to continue exploring without needing to orbit to refuel. **but still need a continuous supply with fusion power cell**\n- Have 6 lines of asteroid reprocessing. All controls with circuits to ensure the belt does not jam.\n\nNotes\n- For starters, you can use non-legendary parts",
   "favorites": {
+    "GWoAiTyBMRO1qOsDZbNsFP228hy1": true,
+    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
     "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-    "GWoAiTyBMRO1qOsDZbNsFP228hy1": true
+    "wYZz2f47LqZcxYvrizW3BVjgYwI2": true
   },
   "image": {
-    "height": 0,
     "id": "f2jKgxI",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762224855561,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/space-age/",
     "/mods/quality/",

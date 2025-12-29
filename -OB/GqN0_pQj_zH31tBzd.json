@@ -7,22 +7,20 @@
   "createdDate": 1731171287309,
   "descriptionMarkdown": "This is a translated re-upload of **SEO-master's** original blueprint book for the Logistics Train Network (LTN) in *Factorio*. All instructions and blueprint names have been translated into English for easier use. Let me know if I have missed any translations. For setup details you can refer to the original video [here](https://www.youtube.com/watch?v=u1-7yc_wGRY&t=1s), however it is in Russian.\n\n### Blueprint Features:\n- **Build Depot**: Establish the central station for idle trains.\n- **Build Autotrain**: Set up the automated train for resource transport.\n- **Provider Station**: Configure resource type and cargo quantity.\n- **Request Station**: Configure resource type and cargo quantity.\n- **Auto-mode**: Once configured, set trains to Auto-mode for full automation.\n\n> **Note**: The original blueprint included mods for the demo blueprint please see original.\n\n### Details about the Original Blueprint Book  \n- **Original Author**: SEO-master  \n- **Original Blueprint**: https://factorioprints.com/view/-O9qNP2SMXdyIspXp8Y3 \n",
   "favorites": {
-    "CuFcb5PuAxTTV4mqBe0B5wMWl523": true,
-    "K1O1gwsYsZdYArU0Qkr210mFxQL2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
     "TpUqfzHD3NcZ5kCTLgQ903EWoy93": true,
-    "0uKJ8vrnbbOelxPpJu5unLqelly1": true,
     "dGlYJYfJm4hu23prdYTKQhGIhhI2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "0uKJ8vrnbbOelxPpJu5unLqelly1": true,
+    "K1O1gwsYsZdYArU0Qkr210mFxQL2": true,
+    "CuFcb5PuAxTTV4mqBe0B5wMWl523": true
   },
   "image": {
-    "height": 0,
     "id": "25kgWFH",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/25kgWFH",
   "lastUpdatedDate": 1731171805970,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/vanilla/",
     "/version/2,0/"

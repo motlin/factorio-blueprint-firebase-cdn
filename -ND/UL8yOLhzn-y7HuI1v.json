@@ -7,16 +7,16 @@
   "createdDate": 1664825730430,
   "descriptionMarkdown": "Rail-Block design that allows to scale from green science to mega base with the same pattern.\n\nBased on https://facorio-blueprints.firebaseapp.com/view/-LzSes2rdAKsj-HSO_jU\n\nBased on Nilaus Masterclass Builds.\n\nStill lots of potential for optimization.\n\n(This version does not require LTN).",
   "favorites": {
-    "1jVY0bwiqmandgCmxgg8ZhlXDvS2": true,
-    "GF9TuIBPvjSERDMZqufGed2rmcv2": true,
-    "6OmVRBXbFibEwRsWd7JXmzPZn8C2": true,
-    "NccTZW4SjvhKiXQlfmazRXNa84h2": true,
-    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
-    "cM3Daw8ZbWQMo2nyvkR6a43aHMu1": true,
-    "dzp5b3PRSEhkGnLeEf8No6dsY4r2": true,
     "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
     "H7qmT6ebR5NfOrAk4EtA5QLr3nw1": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "GF9TuIBPvjSERDMZqufGed2rmcv2": true,
+    "NccTZW4SjvhKiXQlfmazRXNa84h2": true,
+    "dzp5b3PRSEhkGnLeEf8No6dsY4r2": true,
+    "cM3Daw8ZbWQMo2nyvkR6a43aHMu1": true,
+    "6OmVRBXbFibEwRsWd7JXmzPZn8C2": true,
+    "1jVY0bwiqmandgCmxgg8ZhlXDvS2": true,
+    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true
   },
   "fileName": "RailBlocks(fulz).png",
   "image": {
@@ -26,7 +26,7 @@
     "width": 1810
   },
   "lastUpdatedDate": 1664825730430,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 6,
   "tags": [
     "/general/mid game/",
     "/mods/vanilla/",

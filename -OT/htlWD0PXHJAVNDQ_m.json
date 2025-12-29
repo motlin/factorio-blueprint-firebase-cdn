@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Eggs Are Liquid Chicken",
     "userId": "Me28NGQ8RZOQUNhTUmLwsP25rQq2"
   },
   "authorId": "Me28NGQ8RZOQUNhTUmLwsP25rQq2",
@@ -7,23 +8,21 @@
   "createdDate": 1750969293041,
   "descriptionMarkdown": "Train Stations for single lane train networks on Fulgora. Includes scrap recycling and science.",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
-    "vpKF8AGaOMeanbKNY6IWlcaNYka2": true,
-    "wFk6W3QRYWSBV7Tt5GSoVHrjsc32": true,
-    "9a7GxA4nmFRGE522kRiso9VW7yj2": true,
-    "VCT5NnSAhRNOyHfaZMHPlOQRNOm2": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
     "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,
     "8GCiA8FuGJNknMWG9MK08gHkfMd2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "VCT5NnSAhRNOyHfaZMHPlOQRNOm2": true,
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
     "t5ad2mcsaIXhoBsRO1cxPaYf0R42": true,
-    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true
+    "vpKF8AGaOMeanbKNY6IWlcaNYka2": true,
+    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true,
+    "wFk6W3QRYWSBV7Tt5GSoVHrjsc32": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "9a7GxA4nmFRGE522kRiso9VW7yj2": true
   },
   "image": {
-    "height": 0,
     "id": "PZ0lVaT",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1751147745795,
   "numberOfFavorites": 11,

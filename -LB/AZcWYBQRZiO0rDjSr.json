@@ -7,18 +7,18 @@
   "createdDate": 1553898572265,
   "descriptionMarkdown": "Oil refinery producing enough products for 1kSPM base, and then some. Beacons+Modules. \n\n## Produces:\n\n* 17k/m plastic bars\n\n* 960/m battery\n\n* 867/m rocket fuel\n\n* 2k/m solid fuel (not counting solid fuel used for rocket fuel)\n\n* ~5k/m sulfuric acid\n\n* some lubricant\n\n## Consumes:\n\n* 156k/m oil (2 pipes) \n* 181k/m water (2 pipes)\n* 6.8k/m coal (3 blue belts)\n* 1k/m iron plates (half a belt)\n* 750/m copper plates (half a belt)",
   "favorites": {
-    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
-    "spzKhCVZrFPB7v600KgV8dLAFD73": true,
-    "zocoBQPCLTNuBPkhDqNFiKkm8Zc2": true,
-    "7VLIYwSGBZSascdFit6Zw5EqzOe2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
     "2fYD8ybNNgVhE9633NSE3KCQ8ym2": true,
-    "QIE2KWG9txYWeZcZtcboDUSME8G2": true,
     "6xpJkBb1CcahGsWJ9s65vzViYms2": true,
-    "EI18ukBCwARYCRYbxcloVpkq9Zd2": true,
+    "spzKhCVZrFPB7v600KgV8dLAFD73": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
-    "JKk1Ebi6aRPwduV6BbETvkKrWIQ2": true
+    "EI18ukBCwARYCRYbxcloVpkq9Zd2": true,
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
+    "zocoBQPCLTNuBPkhDqNFiKkm8Zc2": true,
+    "QIE2KWG9txYWeZcZtcboDUSME8G2": true,
+    "JKk1Ebi6aRPwduV6BbETvkKrWIQ2": true,
+    "7VLIYwSGBZSascdFit6Zw5EqzOe2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   },
   "fileName": "refinery.png",
   "image": {
@@ -28,7 +28,7 @@
     "width": 1924
   },
   "lastUpdatedDate": 1553931780409,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/production/batteries/",
     "/general/beaconized/",

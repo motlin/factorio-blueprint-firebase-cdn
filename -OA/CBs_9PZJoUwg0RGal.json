@@ -7,26 +7,24 @@
   "createdDate": 1730019559957,
   "descriptionMarkdown": "Spacecraft - Μορφεύς ",
   "favorites": {
-    "EmLs4bLrUFVIx7oIA3CYPreKiwo1": true,
-    "bRvnA21whLeSkYGasItm6M9x6h82": true,
-    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
-    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
-    "pjnVAdWsCuU8b5Qk31vTGHTlCBB2": true,
-    "GBNGmTTXmxZBrNmvnfUMNjT4kR52": true,
     "FcQDvwwdSxXlMBRfxbol1yLb7qF2": true,
-    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "GBNGmTTXmxZBrNmvnfUMNjT4kR52": true,
+    "bRvnA21whLeSkYGasItm6M9x6h82": true,
+    "EmLs4bLrUFVIx7oIA3CYPreKiwo1": true,
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,
-    "rjX1jyDqfuYBfhHV0XmmPo56SG73": true
+    "rjX1jyDqfuYBfhHV0XmmPo56SG73": true,
+    "pjnVAdWsCuU8b5Qk31vTGHTlCBB2": true,
+    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true
   },
   "image": {
-    "height": 0,
     "id": "RsP1xc1",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/2xL17Fd",
   "lastUpdatedDate": 1730683137578,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 7,
   "tags": [
     "/version/2,0/",
     "/planets/nauvis/",

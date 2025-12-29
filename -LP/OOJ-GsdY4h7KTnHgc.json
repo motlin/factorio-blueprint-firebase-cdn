@@ -7,18 +7,14 @@
   "createdDate": 1540171841679,
   "descriptionMarkdown": "A blueprint book to help you build a rail main line to support high throughput of trains.\n\nLatest Notes:\n- Screenshot shows a simple example of how you could use it, for well planned as well as rushed temporary connections like the coal one.  Please ignore ridiculous deposit sizes, this map was a 0.17 test.\n- 2019.04.11 update:  Major improvements to simplify and make easier to use.  Slightly wider than original version.  Original blueprints kept for those who want them.\n\nBasic Principles:\n\n- Intersections, no matter how well designed will cause trains to occasionally stop or slow down.  It is best to avoid intersections as much as possible.\n- Ore deposits become larger as you get further away from the spawn point.  Larger deposits means more efficient mining.\n- Therefore one of the most efficient designs is to build your base along a straight rail main line, with the various factories laid out in an order that facilitates transport of materials.\n\nDesign:\n\n- Optimized for the above principles.\n- Left hand drive (LHD) to take advantage of exit position and signal placing that make it a better choice in Factorio.  \n- Optimized for up to 8 wagon trains.  Best train sizes for it:  1-4-2-4-1SD, 1-4-1SD and 1-2 (SD=Same direction locomotive).\n- 5 Blueprints, radars included, room in the middle for the occasional roboport or anything else you want to place there:\n--- M6 is the primary blueprint.  6 lanes:  2 inner for turnarounds, 2 outer ones for exit to stations, the other 2 (between turnaround and exit lanes) is for high speed travel.   Dummy unnamed stops on exit lanes discourage their use by other trains.\n--- M4 is for high speed with no returns.\n--- M2 is for long-haul segments.\n--- M42 is for connections between the first 2 and M2.  Simply delete that chunk and replace it with M42.\n--- Artillery End of Line.   Place it at the end of the line and use it to beat up on nests as you expand.\n- Each \"M\" segment is 5 chunks long.  They connect end to end and can be simply overlaid on each other.\n- Lane changes and turnarounds happen at the ends of the blueprints.\n- Pathfinder should be smart enough to route trains to avoid slowdowns.  Please report any observed slowdowns on the Factorio Forum discussion thread (https://forums.factorio.com/viewtopic.php?f=194&t=63070) and I will adjust the blueprints to prevent it.\n- For optimal throughput, plan the order of your factories along the main line well.  Keep the travel distances as short as possible and in the right direction.\n- There is no reason to have raw ore trains (except perhaps coal and maybe some stone) on the main line.  Ore trains are best left on their own ore loop that goes straight into the smelter train station, never touching the main line.\n- If you want even better throughput, setup a 2nd main line on the opposite side of the factories.  In full through one main line and out empty through the other.\n\nNote that I left out many common sections that you typically see in rail blueprint books.  There is no curve.  There are no T-junctions.  There are no further intersections.   All of that is absolutely intentional, to remove the temptation.  All you should ever really need is a trivial Y-split/merge from the exit/entry lanes, and that is so simple that it does not require a blueprint.\n\nFactorio Forum main discussion page:  https://forums.factorio.com/viewtopic.php?f=194&t=63070\n\nUpdate history:\n\n2018.10.29:  Updated the blueprints for the mainline segment (added unnamed stops to prioritize traffic in the lane outside the center one if free) and the intersection (improved performance).\n2019.04.11:  Major improvements to simplify and make easier to use.  Slightly wider than original version.  ",
   "favorites": {
-    "j099BfaxjlgSY5LxT4SGByYDH7J2": true,
-    "U9ZonLeEsNO1YAbGAWYDoXEFpuh2": true,
-    "SOvRIpJ9wRTBCNhLCYb6krqgn4U2": true,
-    "b45UlVH0keP8D7ftN7VQxsjSnfG2": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
-    "H01acHfCAzSaIBqid9tmpD0h9xJ2": true,
-    "VCKgtSSNxDT6eLrPmRRW149laW12": true,
     "nsqbTJFIcPZHfvv52ASLbc3mrnB3": true,
-    "SiBwPDX9c4UnjoGIxmQJELwsmU63": true,
-    "Ybt58soZyTceQKtqt9pPCtzkmtI3": true,
     "MF4LJqVrHwbHkWS2TAbyPAvlAkf2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "SOvRIpJ9wRTBCNhLCYb6krqgn4U2": true,
+    "Ybt58soZyTceQKtqt9pPCtzkmtI3": true,
+    "j099BfaxjlgSY5LxT4SGByYDH7J2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "VCKgtSSNxDT6eLrPmRRW149laW12": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "0.17base.2019.04.10.jpg",
   "image": {
@@ -29,7 +25,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/0.17base.2019.04.10.jpg?alt=media&token=7f423134-c84d-4012-82b4-4e6a16bab0bf",
   "lastUpdatedDate": 1554993298944,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/train/junction/",
     "/train/track/",

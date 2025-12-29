@@ -7,22 +7,20 @@
   "createdDate": 1738961284033,
   "descriptionMarkdown": "Upgradable defence walls\n\nClockwise or Anti-clockwise\n\nStraight and Corner\n\n1. Gun Turrets connected with Long Inserters, spaced apart\n2. More Gun Turrets\n3. Flame Turrets\n4. Laser Turrets",
   "favorites": {
-    "K1O1gwsYsZdYArU0Qkr210mFxQL2": true,
-    "DxcHjN4nG1RqTAhr725nsbtbYlI3": true,
-    "RmD3iK6gVxOQfQYp0Pz4ejpz8L82": true,
-    "x7rFcsfZydeaL7n39h7uxItkZpK2": true,
     "Pvfvl23qUId68UEiepqyK8Gl6OD2": true,
-    "Zhi9X9TL33TNkwprBPOJwBixQie2": true
+    "Zhi9X9TL33TNkwprBPOJwBixQie2": true,
+    "x7rFcsfZydeaL7n39h7uxItkZpK2": true,
+    "RmD3iK6gVxOQfQYp0Pz4ejpz8L82": true,
+    "K1O1gwsYsZdYArU0Qkr210mFxQL2": true,
+    "DxcHjN4nG1RqTAhr725nsbtbYlI3": true
   },
   "image": {
-    "height": 0,
     "id": "s0Yp6Hz",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/s0Yp6Hz",
   "lastUpdatedDate": 1738961284033,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/combat/defense/",
     "/general/tileable/"

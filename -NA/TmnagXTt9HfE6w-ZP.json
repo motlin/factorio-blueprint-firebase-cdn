@@ -7,13 +7,13 @@
   "createdDate": 1661595236993,
   "descriptionMarkdown": "An entry and exit point for the car with refueling for any disired items. \n\nSet the constant combinators connected to the requester chest for requesting any desired items, When the loading of the items is completed turn off the constant combinator that stops the car. The car moves to the next stop and repeat the loading process. The lights indicates if the cars stops or not. \n\nThis is a part one of my other blueprint: https://factorioprints.com/view/-NAUXjOrUn-b-jdJyXCa",
   "favorites": {
-    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
     "UMG3bcP1KrRLH8j2XQZsCXNNLaG2": true,
-    "uiiJROniXhRsFwGKEhHu14HowvA2": true,
-    "Kn5Hrs6sktOGlADNJHy4wyJnKzX2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
     "RftY0icQgLUu6yfkIZ8W4aZeEGf1": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "uiiJROniXhRsFwGKEhHu14HowvA2": true,
+    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "Kn5Hrs6sktOGlADNJHy4wyJnKzX2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
   },
   "fileName": "Skärmavbild 2022-08-27 kl. 12.04.02.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 1062
   },
   "lastUpdatedDate": 1661644521803,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 6,
   "tags": [
     "/version/0,15/",
     "/mods/vanilla/"

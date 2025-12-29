@@ -7,15 +7,15 @@
   "createdDate": 1578098596223,
   "descriptionMarkdown": "512 centrifuges so about the same per minute in U-235 output once fully kickstarted.<br>\nUses my recirculator idea.\nLTN enabled. \nTakes *A LOT* of U-235 to kick start it (~42k or so). Can start with less, but will take a long time to produce.\nSimple circuit lets LTN preload all the U-235 to saturate the system until output occurs. Then the U-235 request turns off. It self sustains from there, just feed it U-238.",
   "favorites": {
-    "K08QDWPCfkeG6i7DX3r44i8Zof82": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "K08QDWPCfkeG6i7DX3r44i8Zof82": true
   },
   "fileName": "Kovarex_Large.PNG",
   "image": {
-    "height": 800,
     "id": "YBmpUN9",
     "type": "image/png",
-    "width": 776
+    "width": 776,
+    "height": 800
   },
   "lastUpdatedDate": 1578098596223,
   "numberOfFavorites": 2,

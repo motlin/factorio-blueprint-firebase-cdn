@@ -7,24 +7,11 @@
   "createdDate": 1511468702710,
   "descriptionMarkdown": "Train system for 4-lane right-hand drive. Mostly optimized for 3-8-3 trains. Fluid wagons are arranged in a 3-6-3 configuration.\n\nIncludes\n* Basic track\n* 4-lane \"parenthesis\" intersection\n* Loading/unloading stations for chest-based items (robots and inserters) and fluids \n* On/off-ramps\n* Stackers\n\n4-lane Stackers can be tiled next to one another to give 8 lanes, etc. (or overlapped for 6 lanes, etc).\n\nThe station on/off ramps expect to take trains inbound from the exterior (local service) rails, and feed outbound trains to the interior (express lane) rails. The intersection includes a switchover from interior-to-exterior rails at all four sides. If you have a single straight length of track where you expect to feed trains from one station to another, you'll need to add crossovers yourself between the two stations. \n",
   "favorites": {
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "nQfAZHqfdedgCdivt9okfzA4XZB2": true,
     "oBlRLEtuzJS0B1VjsIZbVdtyaEW2": true,
     "OPfYyTsgEvTDerCr7I3uoWiwMcW2": true,
-    "eTuUi2DLRiU3kbyFkU3Yu3z78Va2": true,
-    "TTkIMZhtcaUVAmnDwila2vEYBkv1": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
-    "2QicHzlu6zWAh4eGlEp6mxOkSRR2": true,
-    "u1UjUSzix2OzpKEdUXOsUV3pKMi1": true,
-    "nlm30IcxwRZvDo0WGOi6nV2dIq72": true,
-    "WsBWK3cen8ShwxfNuGkEIiFa0k23": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
-    "34G96NZMMHQxZbWlKKWDnVtx50F2": true,
-    "JbdDQuQYJPYwfEQ1pRzibSrok8g1": true,
-    "nQfAZHqfdedgCdivt9okfzA4XZB2": true,
-    "d9cxVoqlLJQMV1xwo8a5LcwM08e2": true,
-    "vu9x82xA5HaId4IpOEpJvnbOHDz2": true,
-    "zC5MyQdIwueOWJM5obOWpBTTEW83": true,
-    "H7qmT6ebR5NfOrAk4EtA5QLr3nw1": true,
-    "RWrGNoogcpUhRFFuAd5LNgNTpMf2": true
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "trains.png",
   "image": {

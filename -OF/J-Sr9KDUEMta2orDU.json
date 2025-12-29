@@ -7,30 +7,28 @@
   "createdDate": 1735502455068,
   "descriptionMarkdown": "Это старая версия, когда мины работали. Новую версию см. тут https://factorioprints.com/view/-Oan5GoonCtaAEX1Lh54\nThis is the old version, from when the mines were working. See the new version here. https://factorioprints.com/view/-Oan5GoonCtaAEX1Lh54\n\nFull speed 400 km/s max and 200 km/s min at 18 damage technology level. Modules and item class can be changed as they are manufactured. Collectors of at least rare are required.\n\nScreensot is here:\nhttps://imgur.com/a/cMNE7Lo\n\nThe speed is regulated by the value on the constant combinator between the chemical plants for fuel from below. At the damage technology level of 18, the minimum speed near the destroyed planet is 210 km / s. Explosive production in excess with the legendary productivity module. The ship can be downgraded to normal levels, but this will affect the maximum speed of movement. Collectors are required not lower than the rare level, since there will not be enough resources and the collection area behind the minefields is too small. Minefields in front of the railguns are destroyed by each shot, their number must be adjusted from the speed of mine production during downgrade or just reduce the speed so that the asteroids do not reach the railguns. Two side railguns are powered from the central hub, since there were a lot of shells there during the restructuring, so you can simply delete them or extend a separate path :) Solar panels and batteries can be omitted, since the reactor is enough. Reactors can be installed completely ordinary - there is enough power.",
   "favorites": {
-    "GJNYZRL6O6ZkLMGFQIGmNdRbsaJ2": true,
     "2Hl5u9dqFpQS221UfO5O0j4b2Fk2": true,
-    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
-    "4eDZ8qdjczcQMJBaB1ydjsKAdn43": true,
-    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
-    "K07TQaU9qNMlX5c8SLg1Vpw8LP73": true,
-    "sdanSzkXBig7qeEi7QxC12y0ui43": true,
-    "JZSvmqQLjCe5x09S2BOD2Ou17zS2": true,
-    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "M7syl4343PWRo3WcG8qxY9MylnR2": true,
+    "4eDZ8qdjczcQMJBaB1ydjsKAdn43": true,
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
+    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
     "e7OqWlkF3qUcgIosPI10FZIBxut2": true,
-    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
+    "sdanSzkXBig7qeEi7QxC12y0ui43": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "GJNYZRL6O6ZkLMGFQIGmNdRbsaJ2": true,
+    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true,
+    "K07TQaU9qNMlX5c8SLg1Vpw8LP73": true,
+    "JZSvmqQLjCe5x09S2BOD2Ou17zS2": true
   },
   "image": {
-    "height": 0,
     "id": "K5llZlD",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/cMNE7Lo",
   "lastUpdatedDate": 1759661874530,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/",

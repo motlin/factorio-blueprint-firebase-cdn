@@ -7,22 +7,20 @@
   "createdDate": 1731193153113,
   "descriptionMarkdown": "A ship for reqular transportation between all planets except edge",
   "favorites": {
-    "ivaURRZin0hfcFIVNjNqDW8TfSa2": true,
-    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
-    "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,
+    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
+    "ivaURRZin0hfcFIVNjNqDW8TfSa2": true,
     "KhHD1NcrxmNddUMeDhLvBmqXsku1": true,
-    "Vf7IkRSAp1fxYfGgZXlvXkLgZsE3": true
+    "Vf7IkRSAp1fxYfGgZXlvXkLgZsE3": true,
+    "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true
   },
   "image": {
-    "height": 0,
     "id": "WoqVSYC",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/sqLfAQT",
   "lastUpdatedDate": 1731267035773,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 3,
   "tags": [
     "/combat/defense/"
   ],

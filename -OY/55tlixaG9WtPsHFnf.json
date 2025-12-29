@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "nekozukibird",
     "userId": "vNb38mibGTNRCPLHadayEJJxDi73"
   },
   "authorId": "vNb38mibGTNRCPLHadayEJJxDi73",
@@ -7,17 +8,15 @@
   "createdDate": 1755670355817,
   "descriptionMarkdown": "end game super beautiful space platform",
   "favorites": {
-    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true
   },
   "image": {
-    "height": 0,
     "id": "l0yWw1G",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1755670355817,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

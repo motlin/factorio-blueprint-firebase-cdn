@@ -1,27 +1,4 @@
 {
-  "author": {
-    "userId": "LRj46rdhBARdn4WQi89DtMHDN2u1"
-  },
-  "authorId": "LRj46rdhBARdn4WQi89DtMHDN2u1",
-  "blueprintString": "0eNq9VduOmzAQ/Zd5xhK3pAlS+yPVChEzSUYLhtoGbRrx7x3DLqEEuhtF6ksSx55zjs9cfIVD0WCtSVlIrkCyUgaSn1cwdFJZ4f6zlxohAbJYggcqK91KorKajs0JofOAVI5vkASd92ngATPmmASF3YsHjEaWcKDuF5dUNeUBNaPOYz2oK8PH+SezMISIPLhA4jtQJhtQetoETI2Yi7LKmwJFxLGyatxdmdapnXGFSxe84/NHOo2S+ku+Vm2m8U2g0iTPJQeLWlcSjYGnRUWjKGMRCyHPaOy9qsEEwUlgOKVQuj3jNgP3oTGfuku82k3I3Drwmb9bUBBPFGTyVZAyqC3v3IkIbyJy0oMGSLYLmJsRs6hOZCzJ4WIi46AWnX0t5Uscmw+OBdTtiHrMGGtdaLwstPfO6qpID3jOWqq0Oy9Jy4Zsynv5CHIkbWz6Sbk3OlPUlCKMNjAkhh10qY59tyrrTGfWkcB36L6euf1Kor6NxCXmjhcLRuOSFHVVLFSyGLxctHI3S/qRCnbyH5beuvA/eRjMLPzxiIWRs9CD4Vbv3fk+xpaZeUxVLWrNRZn2jrDu33xqs+Dd/pGWfaBjtyt5D/wHO3RW9+HzOWtJ24b/uQnpTwhkzy72TOr0d/Keqv9ozYdgMlXUSZwzTmn+qRv+zI0l5PDB1orXOyuI1mafxl8Nf68PrOHR6Q+lXyzd3eR9cQP+xft4hm5PvwecJTOMwDgON/5+H27jrvsD7x3AhQ==",
-  "createdDate": 1494266832989,
-  "descriptionMarkdown": "This plant is perfect to do a fast Kovarex enrichment process, it's beaconed, and it only takes 20 sec in every cicle and it's fully connected to the logistic network. A perfect ready-to-use, you only need the 40 units of 235, and 5 units of 238 to start.",
-  "favorites": {
-    "1W7UveBgEsN574xSN5hcvszQSIn1": true,
-    "5XR1guaUQ6NfUTkDuvDpkfQWenS2": true,
-    "KXBhIsPCsne3fkc7LKfw1Ozd0CE3": true,
-    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
-    "HwBUN1bsafPudOIV8RPuXDPZPwG2": true,
-    "izPPSiRs1LTv22BT46JsLkLBblI2": true,
-    "7zv3iO27cBgasbu0SO4u8BRwGE72": true,
-    "zxj5kFw2Eef5TyhXDfGNx4UWwa32": true,
-    "aYVPVaripRf5Nk28I4OFJ3JZ5Va2": true,
-    "Q2FctAqeyMW6wd8NE9Fyr3afmpv2": true,
-    "ywlOvhX2mZS8RgA8Ly0UN2c99tu2": true,
-    "7N2X7HnNLFhOMRi1F7Dyq0hnEDL2": true,
-    "DOgur1JR9IbyBQ7ca5zpofliz753": true,
-    "wj6N97iOm0aP8O4PiohpjUbHmIx1": true
-  },
   "fileName": "1.jpg",
   "image": {
     "height": 223,
@@ -29,14 +6,25 @@
     "type": "image/jpeg",
     "width": 494
   },
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1.jpg?alt=media&token=4fb2bc6c-f2ac-409f-b032-a3a1f4cef840",
-  "lastUpdatedDate": 1498620183868,
   "numberOfFavorites": 14,
+  "author": {
+    "userId": "LRj46rdhBARdn4WQi89DtMHDN2u1"
+  },
+  "authorId": "LRj46rdhBARdn4WQi89DtMHDN2u1",
+  "createdDate": 1494266832989,
+  "lastUpdatedDate": 1498620183868,
   "tags": [
     "/mods/vanilla/",
     "/version/0,15/",
     "/power/kovarex enrichment/",
     "/general/compact/"
   ],
-  "title": "Compact Kovarex enrichment process plant (to version 0.15)"
+  "title": "Compact Kovarex enrichment process plant (to version 0.15)",
+  "blueprintString": "0eNq9VduOmzAQ/Zd5xhK3pAlS+yPVChEzSUYLhtoGbRrx7x3DLqEEuhtF6ksSx55zjs9cfIVD0WCtSVlIrkCyUgaSn1cwdFJZ4f6zlxohAbJYggcqK91KorKajs0JofOAVI5vkASd92ngATPmmASF3YsHjEaWcKDuF5dUNeUBNaPOYz2oK8PH+SezMISIPLhA4jtQJhtQetoETI2Yi7LKmwJFxLGyatxdmdapnXGFSxe84/NHOo2S+ku+Vm2m8U2g0iTPJQeLWlcSjYGnRUWjKGMRCyHPaOy9qsEEwUlgOKVQuj3jNgP3oTGfuku82k3I3Drwmb9bUBBPFGTyVZAyqC3v3IkIbyJy0oMGSLYLmJsRs6hOZCzJ4WIi46AWnX0t5Uscmw+OBdTtiHrMGGtdaLwstPfO6qpID3jOWqq0Oy9Jy4Zsynv5CHIkbWz6Sbk3OlPUlCKMNjAkhh10qY59tyrrTGfWkcB36L6euf1Kor6NxCXmjhcLRuOSFHVVLFSyGLxctHI3S/qRCnbyH5beuvA/eRjMLPzxiIWRs9CD4Vbv3fk+xpaZeUxVLWrNRZn2jrDu33xqs+Dd/pGWfaBjtyt5D/wHO3RW9+HzOWtJ24b/uQnpTwhkzy72TOr0d/Keqv9ozYdgMlXUSZwzTmn+qRv+zI0l5PDB1orXOyuI1mafxl8Nf68PrOHR6Q+lXyzd3eR9cQP+xft4hm5PvwecJTOMwDgON/5+H27jrvsD7x3AhQ==",
+  "descriptionMarkdown": "This plant is perfect to do a fast Kovarex enrichment process, it's beaconed, and it only takes 20 sec in every cicle and it's fully connected to the logistic network. A perfect ready-to-use, you only need the 40 units of 235, and 5 units of 238 to start.",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1.jpg?alt=media&token=4fb2bc6c-f2ac-409f-b032-a3a1f4cef840",
+  "favorites": {
+    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
+    "7zv3iO27cBgasbu0SO4u8BRwGE72": true
+  }
 }

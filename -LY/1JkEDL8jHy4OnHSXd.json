@@ -7,23 +7,23 @@
   "createdDate": 1578439476309,
   "descriptionMarkdown": "  This setup is balanced to produce exactly 450/m Advanced Circuits. Now you can dedicate belts of ore to red circuits without having to use ore from other parts of your factory. You’ll know exactly how much ore you need and what you will get out of it. Build the rest of your main BUS in addition to this dedicated blueprint for Red Chips.\n\n- Inputs: 2.5 belts of Copper Ore, 1 Belt of Iron Ore, 154/sec Crude Oil, Water, and Coal\n- Outputs: Half a yellow belt of Advanced Circuits (450/min or 7.5/sec)\n-  Research Advanced Oil Processing with your first set of Chemical Science Packs (Blue Science) to unlock this blueprint\n- Make sure to keep the assembling machines at lvl 2, not lvl 1\n- No need to add splitters to the belts, just ensure you feed the belts with Iron and Copper Ore, Crude Oil, Coal, and Water",
   "favorites": {
-    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
-    "yjc8uK71U9bALcsrdlMdMj5AXw72": true,
-    "l2h7ZmuLEZMqSScnjJAHwoBs3Ni1": true,
     "U5vJgPCp0aXR2EgQZhpPa2BzGU13": true,
+    "yjc8uK71U9bALcsrdlMdMj5AXw72": true,
+    "BBXghHH55xNEPpHSed0ddjBgpu63": true,
     "fvIxjOHvS8dXJe6l6dRHKZCoUEs2": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "BBXghHH55xNEPpHSed0ddjBgpu63": true
+    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
+    "l2h7ZmuLEZMqSScnjJAHwoBs3Ni1": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "fileName": "Red Block.jpg",
   "image": {
-    "height": 965,
     "id": "AfyJqtq",
     "type": "image/jpeg",
-    "width": 1185
+    "width": 1185,
+    "height": 965
   },
   "lastUpdatedDate": 1578506581658,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 8,
   "tags": [
     "/production/electronic circuit (green)/",
     "/mods/vanilla/",

@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Nir Adar",
     "userId": "I6YX1Ar1cWUwhbQgMcW4nyZkDs52"
   },
   "authorId": "I6YX1Ar1cWUwhbQgMcW4nyZkDs52",
@@ -7,36 +8,34 @@
   "createdDate": 1756408561620,
   "descriptionMarkdown": "### Legendary Quality Module 2\n**To start:**\n- Connect inputs\n- The factory will bootstrap itself and will take care of its power needs\n\n**To make it work faster:**\n- Replace quality modules with better modules once you have it\n\n**Update 10/10/2025:**\n-  Yet another bug fix\n\n**Update 9/10/2025:** \n- Bug fixes",
   "favorites": {
-    "GJNYZRL6O6ZkLMGFQIGmNdRbsaJ2": true,
-    "ZGSeDXgTlMYBram4gbC9C4m5fgT2": true,
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-    "EM3NgREI81fYyNjvrH3MxgNUvSh2": true,
-    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
-    "HShqmSxkwIW0bNaRy1eUj73AOLA3": true,
-    "7sSQw3hqBRQs2E5lFk5JmQz8r873": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
-    "K07TQaU9qNMlX5c8SLg1Vpw8LP73": true,
-    "xugTPCj4ZKMSBmBFMPYKbfAlyyV2": true,
-    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true,
-    "aRQcGO93FTTKEls0wser6Oknm1v2": true,
-    "noYOuqvqhvgvDjkfhuXJ3105DS92": true,
-    "RVYYJVWBsmPZ0NuKOkDFhIK7dUS2": true,
-    "e4ZOPvvVfgZTyTyS3PJN4m9I5263": true,
     "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
     "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
     "zmewZonnG4hn5NyHhdPVN8qLqBH2": true,
-    "gbK9YY9amibNzF2nUfoF46y8zt53": true
+    "xugTPCj4ZKMSBmBFMPYKbfAlyyV2": true,
+    "HShqmSxkwIW0bNaRy1eUj73AOLA3": true,
+    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "RVYYJVWBsmPZ0NuKOkDFhIK7dUS2": true,
+    "GJNYZRL6O6ZkLMGFQIGmNdRbsaJ2": true,
+    "EM3NgREI81fYyNjvrH3MxgNUvSh2": true,
+    "e4ZOPvvVfgZTyTyS3PJN4m9I5263": true,
+    "noYOuqvqhvgvDjkfhuXJ3105DS92": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
+    "aRQcGO93FTTKEls0wser6Oknm1v2": true,
+    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true,
+    "gbK9YY9amibNzF2nUfoF46y8zt53": true,
+    "7sSQw3hqBRQs2E5lFk5JmQz8r873": true,
+    "K07TQaU9qNMlX5c8SLg1Vpw8LP73": true,
+    "ZGSeDXgTlMYBram4gbC9C4m5fgT2": true
   },
   "image": {
-    "height": 0,
     "id": "GRBTy7R",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1760048348540,
-  "numberOfFavorites": 21,
+  "numberOfFavorites": 2,
   "tags": [
     "/version/2,0/",
     "/mods/quality/",

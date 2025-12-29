@@ -7,19 +7,16 @@
   "createdDate": 1731310501787,
   "descriptionMarkdown": "A 4-way intersection with minimal intersections, maximizes througput of trains. Each lane of trains is also completely independent from the others as a result, meaning that you can have 4 seperate train networks on the same grid using this type of design.",
   "favorites": {
+    "5aQNGj6xgTVQylmuwympV5zED6j1": true,
     "d7swk9hgzYfoyf0U8ZI4jhYk5P82": true,
-    "SWr75dB8qBcMNt78cfDMbUTOjkZ2": true,
-    "5aQNGj6xgTVQylmuwympV5zED6j1": true
+    "SWr75dB8qBcMNt78cfDMbUTOjkZ2": true
   },
   "image": {
-    "height": 0,
     "id": "XjJxvS9",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/XjJxvS9",
   "lastUpdatedDate": 1731362757716,
-  "numberOfFavorites": 3,
-  "tags": [ ],
+  "numberOfFavorites": 2,
   "title": "Boneless Intersection (8 Lanes)"
 }

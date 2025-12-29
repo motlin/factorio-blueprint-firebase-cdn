@@ -7,13 +7,13 @@
   "createdDate": 1609538016650,
   "descriptionMarkdown": "500 SPM cell (~450 military) high UPS DI design with train unloaders for all raw resources. Mainly belts and a few bots used internally. \n\nTo make it easier to build this, you can just build the big power poles, radars and roboports to build a scaffold to build everything else. \n\nUsing this BP I was able to build a 10K megabase that ran at about 90 UPS on my laptop in benchmark mode. ",
   "favorites": {
+    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "E0l5bKYCxBSwwvkSk5n1ployxGn1": true,
     "tjUDqGOkqed6EfFJYg5sur81sdt1": true,
     "i3tuKk4UukVWjIFlGXzeO8RTwmf1": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "ub0iEtNIVqVuJDIIVHdezrooiVY2": true,
-    "5kolbNQUQUQowOOZEC35YiB5GYj2": true,
-    "E0l5bKYCxBSwwvkSk5n1ployxGn1": true,
-    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true
+    "5kolbNQUQUQowOOZEC35YiB5GYj2": true
   },
   "fileName": "500SPM_cell.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 709
   },
   "lastUpdatedDate": 1609538016650,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/science/",
     "/production/smelting/",

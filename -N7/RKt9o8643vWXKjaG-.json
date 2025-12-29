@@ -8,10 +8,10 @@
   "descriptionMarkdown": "Huge, steam throughput limited reactor.",
   "favorites": {
     "d5E6YHHvycaJQKdJfXVjcs2OnlG2": true,
-    "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,
-    "G9t2Hdlp1KZ9P9Mt8t7q07r9x4q2": true,
     "FOkeJ5l45uPJGFwA7revwCBouVP2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,
+    "G9t2Hdlp1KZ9P9Mt8t7q07r9x4q2": true
   },
   "fileName": "screenshot-tick-70488012.png",
   "image": {
@@ -21,7 +21,7 @@
     "width": 2600
   },
   "lastUpdatedDate": 1658334488486,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 6,
   "tags": [
     "/power/nuclear/",
     "/mods/vanilla/"

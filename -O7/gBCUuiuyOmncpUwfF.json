@@ -8,18 +8,16 @@
   "descriptionMarkdown": "This blue circuit factory is sized to create 1600 circuits per minute, which should use nearly full belts of copper and iron plates.",
   "favorites": {
     "NyfKm70pLKZhylSlG4FyAKUUEvt2": true,
-    "wMOHZ7lMkRfvIuBDF1leBfC7PBe2": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "wMOHZ7lMkRfvIuBDF1leBfC7PBe2": true
   },
   "image": {
-    "height": 0,
     "id": "mgmTrLS",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/mgmTrLS",
   "lastUpdatedDate": 1727318251613,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/production/processing unit (blue)/",
     "/mods/vanilla/",

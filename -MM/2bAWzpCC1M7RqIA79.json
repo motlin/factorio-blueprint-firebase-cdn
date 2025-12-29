@@ -7,9 +7,9 @@
   "createdDate": 1605304629506,
   "descriptionMarkdown": "Everything -- including the stations -- are tileable. The unload stations have a train yard for trains waiting on the offload stations.\n\nEach \"Unload Station Tile\" blueprint adds a \"train yard\" and an unloading station. Adding additional tiles will increase the number of both and allow them to work in harmony.\n\nWhen programming trains the first few steps of each train should be similar\n1. Stop at \"[Item] Yard\" with no condition\n2. Stop at \"Wait\" with no condition\n3. Stop at \"Recalculate Path\" with no condition\n4. Stop at \"[Item] Unload\" with condition to wait until empty.\n\nTrain stops at 1 and 4 should be renamed to match the item they are unloading. Train stops 2 and 3 do not have to be renamed and can exist with the same name for however many different unloading stations you choose to have.\n\n\n**Changelog**\n\nDecember 10th 2020 - Large refactor of unload station. The circuits failed easily. This new blueprint scales better\n\nDecember 15th 2020 - Changed rail pieces to include chain signals at places.",
   "favorites": {
-    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
+    "f0kFXGkCPbh38qiIc8E9ZUQ1iNb2": true,
     "3K52cmQW58M3G4RchACZcLLfG5D2": true,
-    "f0kFXGkCPbh38qiIc8E9ZUQ1iNb2": true
+    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true
   },
   "fileName": "sdajcnhfadsjlcnhsacdhlnscadf.PNG",
   "image": {

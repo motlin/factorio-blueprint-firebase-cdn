@@ -7,22 +7,20 @@
   "createdDate": 1713624911878,
   "descriptionMarkdown": "Originally shared [on reddit](https://www.reddit.com/r/FactorioBlueprints/comments/1c6p4b9/i_think_im_more_addicted_to_blueprinting_than/) by [alexja21](https://www.reddit.com/user/alexja21/).\n\n> Whenever I start a new game, I seem to always get to launching a rocket, then give up before transitioning to any kind of a megabase. So this time I'm actually working on the blueprints first, then planning a methodical transition to an actual megabase- mining outposts, then smelting grids, then green/red/blue chip grids, then a mall, then start working on science grids. I'm working with chunk-aligned 96x96 blocks.\n\n> The iron smelting works for iron, copper, and bricks, and is designed to take multiple 2-8 trains of ore and output ~16 blue belts of plates for 1-1 trains for delivery. The steel smelting also takes 2x8 trains of ore and outputs ~8 blue belts of steel plates for delivery to 1-1 trains.\n\n> This is my first time making anything of this scale, so I'd love to hear any feedback about ways it can be tweaked better (or fixed if I left something out).",
   "favorites": {
-    "wIduvKRLeBhmNAiDW198fgAyYdf1": true,
-    "z34Jm4WBR7Mmj8jz4gS60FT4v7g2": true,
     "424jNGDhcmMUZYc5dYXtvzkJRw62": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "z34Jm4WBR7Mmj8jz4gS60FT4v7g2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "wIduvKRLeBhmNAiDW198fgAyYdf1": true
   },
   "image": {
-    "height": 0,
     "id": "EqjRuww",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/EqjRuww",
   "lastUpdatedDate": 1713639286406,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/vanilla/",
     "/production/smelting/"

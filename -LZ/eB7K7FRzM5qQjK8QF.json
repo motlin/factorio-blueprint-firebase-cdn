@@ -7,13 +7,13 @@
   "createdDate": 1580182046108,
   "descriptionMarkdown": "0.17 Ratios, Beaconed\nIncludes: Advanced Oil Processsing, Lube, Heavy Cracking, Light Cracking.\n\nShould be enough for a 4K SPM base. Just needs trains unloading and loading.\n\nHas excessive tank storage, mainly used for pipes/fluid throughput - needs circuitry applied to cracking pumps to limit ratios\n\nInputs:\n- 8x Pipes Crude Oil (8700 units/second)\n- 11x Pipes Water (more than enough)\n\nOutputs (in theory):\n - 10x Pipes Petroleum (10K /second)\n - 8x Pipes Light Oil (7700 /second)\n - 1x Pipe Lube (>131/second)\n\nEDIT:  I forgot to put the production modules on the cracking chemical plants.  My bad. Blueprint string is updated, but not the picture.",
   "favorites": {
+    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "o84J2EtwXAMWytkGagfGyL2cYso1": true,
     "WOxfQOzEsPf8xQjCmfRDM2q0Pda2": true,
-    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
-    "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true,
-    "mBceYG4ttWZiAWGaSGAnzTFQxe32": true
+    "mBceYG4ttWZiAWGaSGAnzTFQxe32": true,
+    "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true
   },
   "fileName": "E404_OIL.PNG",
   "image": {

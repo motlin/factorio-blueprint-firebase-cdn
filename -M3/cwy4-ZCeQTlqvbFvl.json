@@ -7,18 +7,18 @@
   "createdDate": 1585530003988,
   "descriptionMarkdown": "This is not meant to actually be used. It is more so, a visual display of the proportions of items per science pack. \nAll science pack outputs are 2.5/s \nI used Factoriocheetsheet.com as a guide and rounded up for all assembly machines.",
   "favorites": {
-    "Lq5Er5d4PLYiahCKjEkwD3BZjoy1": true,
-    "Hkgm5APVI4dSNbIzgEMBNf7oxtR2": true,
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
+    "Lq5Er5d4PLYiahCKjEkwD3BZjoy1": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
-    "N382F0QaJFU620TkYGXjAHPQqeM2": true
+    "N382F0QaJFU620TkYGXjAHPQqeM2": true,
+    "Hkgm5APVI4dSNbIzgEMBNf7oxtR2": true
   },
   "fileName": "Capture01.PNG",
   "image": {
-    "height": 526,
     "id": "Q8qznQO",
     "type": "image/jpeg",
-    "width": 1802
+    "width": 1802,
+    "height": 526
   },
   "lastUpdatedDate": 1585530003988,
   "numberOfFavorites": 5,

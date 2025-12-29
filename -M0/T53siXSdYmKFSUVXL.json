@@ -7,24 +7,24 @@
   "createdDate": 1582126616671,
   "descriptionMarkdown": "everything is produced locally using different designs, direct insertion as much as possible, designed to please the eye ;) \n\nsome red undergrounds used in yellow and white science\n\nalso uses logistic bot for satellite delivery\n\n(in this blueprint, stackers are used to throw science into void chests also substations/roboports along the main bus arent nessesary)\n\ntakes a while to fill buffers since ratios are really close or perfect",
   "favorites": {
-    "5fD9ZOBOJNUfMHRVyGZVNXpttib2": true,
     "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
-    "rUC050Fe8uaVaztj0xSiPkA8VE32": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
     "VsqE9yREfAetCTQKB7VFzOZahdm1": true,
+    "5fD9ZOBOJNUfMHRVyGZVNXpttib2": true,
+    "rUC050Fe8uaVaztj0xSiPkA8VE32": true,
     "10ModK5hcvYxWzoY10gE9fPRzP32": true,
-    "D8VNS46cr1QM2cSX9vQGGsyfhAI2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "D8VNS46cr1QM2cSX9vQGGsyfhAI2": true
   },
   "fileName": "0.png",
   "image": {
-    "height": 1020,
-    "id": "jgaxdMD",
     "type": "image/png",
-    "width": 1382
+    "width": 1382,
+    "height": 1020,
+    "id": "jgaxdMD"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/0.png?alt=media&token=0800cc9e-e32e-4de9-be7c-64ae23a69926",
   "lastUpdatedDate": 1582127823666,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 6,
   "tags": [
     "/production/belt based/"
   ],

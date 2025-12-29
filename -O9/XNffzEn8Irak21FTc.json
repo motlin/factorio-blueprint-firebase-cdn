@@ -7,28 +7,26 @@
   "createdDate": 1729301232497,
   "descriptionMarkdown": "## <b><ins>Info</ins></b>\nAll of these designs are tileable.\n### Chunk Aligned\n* Chunk Aligned by 32x32 chunks - use in the case that your solar array needs to be arranged by chunks. Particularly useful to get maximum use out of radars.\n* 4.8 MW per chunk\n* Roboport coverage for bot building\n* 0.85 accumulator / solar panel ratio (68/80). Not the perfect 0.84 but being barely over still provides full night coverage\n* Chunk aligned allows for perfect radar coverage blocks. Full 7x7 chunk radar block included. 235 MW per radar block.\n* No empty tiles\n* \"Snap to Grid\" is set so it forces chunk alignment, but it's actually not necessary except for the radar block (so radar has exact coverage of the block). Just unset the grid snap if you don't care about chunk alignment.\n### Substation Aligned\n* Substation aligned by 18x18 (or 36x36) - use for the case that your solar array needs to be arranged by max ranged substations \n* Easiest to design for the 0.84 perfect ratio - most of the designs in the substation book are perfect ratio (but sacrifice space and empty tiles for it)\n* A good choice for early/midgame or manual or spidertron building. Just tack on some blocks whenever you need more power.\n* Also has a roboport design in case the substation range fits best in your base for your solar farm and you can go larger scale with it.\n### Roboport Aligned\n* Roboport aligned to the 50x50 roboport range. \n* Use for the case that your solar array needs to be arranged by max ranged roboports.\n* Good power density for decent power per tile ",
   "favorites": {
-    "DuykYHtYmzUDYAJ1x9bMgMsnR1r2": true,
-    "zhFPyvJ9BmWIbdAUXE3zD7ONvCp1": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "005uJ56npQfNGd6jIZAy03VU8hh2": true,
     "suPCDFZlv3Mw6y5SoPNzf1AAgSc2": true,
-    "Y5LJYEi6pPTtzqY8AJlDhQ5lvkC2": true,
+    "005uJ56npQfNGd6jIZAy03VU8hh2": true,
     "MnWN1iHNpgM9yLbo5S36kYV3RmG2": true,
-    "Uw9PJOWeiXUa1VbEJaI55VLYMof1": true,
     "HusEaZosA2gerZwgxPsGJs6x5Ni2": true,
-    "7UhVbeMgoJaMQJKP5W4Mudh4FQD2": true,
+    "y8TSRf3Sa1XS0GSLYSiarouRM1U2": true,
+    "zhFPyvJ9BmWIbdAUXE3zD7ONvCp1": true,
+    "DuykYHtYmzUDYAJ1x9bMgMsnR1r2": true,
     "ylmx5Ta7JyMMWcuyD6BEeTPko2W2": true,
-    "y8TSRf3Sa1XS0GSLYSiarouRM1U2": true
+    "7UhVbeMgoJaMQJKP5W4Mudh4FQD2": true,
+    "Y5LJYEi6pPTtzqY8AJlDhQ5lvkC2": true,
+    "Uw9PJOWeiXUa1VbEJaI55VLYMof1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "n8mkZN2",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/u9rme2Q",
   "lastUpdatedDate": 1729305999562,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 7,
   "tags": [
     "/power/solar/",
     "/mods/vanilla/"

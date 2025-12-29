@@ -7,21 +7,19 @@
   "createdDate": 1746441623701,
   "descriptionMarkdown": "Collect approximately 6200 iron plates, 2100 copper plates, and 1200 coal",
   "favorites": {
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
     "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
     "lM9fcEzS7iQtcikyp5Aw3wMbdzW2": true
   },
   "image": {
-    "height": 0,
     "id": "8T9jFsb",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/8T9jFsb.png",
   "lastUpdatedDate": 1746441623701,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 1,
   "tags": [
     "/planets/space-platform/",
     "/mods/quality/"

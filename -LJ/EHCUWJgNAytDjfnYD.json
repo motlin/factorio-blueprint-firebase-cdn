@@ -7,17 +7,17 @@
   "createdDate": 1562550786118,
   "descriptionMarkdown": "This is a rotationally symetric rail grid system for 1-1 trains & Train Supply Manager. Designed for a Seablock map. It would also work with LTN. It is a LHD system. I prefer RHD, so I tried this first, but could not fit as many gridlock-proof station turnoffs in the same space. So I guess I'm another LHD convert...\n\n**Features:**\n* Grid system 6 stations per block\n* Grid size customization (lower height of the rail block if smaller cells are desired)\n* Roll on, roll off\n* Buffered T junctions; no 4 ways\n* Buffered station turnoffs\n* Highly gridlock resistant (but every rail system has its breaking point)\n\n**Cons:**\n* Not intended for long trains",
   "favorites": {
-    "TMLWJ05n1kUuMjemLD4gIUwLF9f1": true,
-    "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
     "JYcbnCGuBraAFPZJETWx9g1oRtA2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true,
+    "TMLWJ05n1kUuMjemLD4gIUwLF9f1": true
   },
   "fileName": "The Fongs Rail Grid.png",
   "image": {
+    "width": 1549,
     "height": 869,
     "id": "hd2xkHu",
-    "type": "image/png",
-    "width": 1549
+    "type": "image/png"
   },
   "lastUpdatedDate": 1694868888876,
   "numberOfFavorites": 4,

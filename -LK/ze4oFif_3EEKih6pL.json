@@ -7,15 +7,11 @@
   "createdDate": 1535445065352,
   "descriptionMarkdown": "Logic Analyzer by KnightElite\n\nGif of this in action: https://gfycat.com/AdoredConcreteAsiaticlesserfreshwaterclam\n\nTo use:\n\n- Stamp down blueprint for the demonstration.\n- If you want to do more than view the demo, remove the combinators to the immediate right of each large power pole.\n- Connect inputs that you want to graph to the large power poles.\n- Adjust combinator to immediate left of power pole to change which signal is displayed on that row.\n- Connect one of your input signals to the trigger logic in the bottom lane, and set the trigger condition.\n- Adjust the combinator containing \"A\" for how many ticks to wait until locking the capture.  Turn this combinator off to immediately freeze the waveforms.\n- Turn the green combinator (far right) off to disable or reset the trigger logic, turn it on to rearm the trigger.\n- Top LED will be green if the trigger is enabled, red if disabled.\n- Bottom LED will be red if disabled, amber if armed, green if triggered.\n\nTo add more signals to the graph, do the following:\n\n- Add as many additional rows as desired, using one of either the \"Logic analyzer - Linear\", \"Logic Analyzer - Log4\" or \"Logic Analyzer - Log10\" blueprints.\n- Delete the combinator containing just Signal Black just below the power pole on each of the new lanes (make sure you leave it on the lane with the trigger logic though!)\n- Overlap the blueprint called \"Lane control signaling (overlap at edge)\" with the substations on each row, starting at the trigger row (bottom) and going through all the rows you've added.\n- Connect up input signals to the new rows you've added.\n\nSee video for more information and detailed explanation: https://youtu.be/Yy7ZmEqczXc\nSee tutorial/demo video of debugging a real broken circuit using this here: https://www.youtube.com/watch?v=uubSxeb4gfQ\n\nBlueprint updated to Version 1.1 on September 20, 2018.  This added the \"Lane control Signaling (overlap at edge)\" blueprint to the book.  Instructions on adding new lanes were added at the same time.",
   "favorites": {
-    "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "gnW2jvVo1lhjTg55fjh6bHNB8KA3": true,
-    "J06RbJ6eN0ZQBWpvj5m7sMPDA1N2": true,
+    "TaL8bgh0AHN78X6tDS10fsI0drj2": true,
     "zR082GLWBDUFFOPqlIYoxbN49Kz2": true,
     "fhLPBRATSaaWEsMLSu2mCkT6ns13": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "TaL8bgh0AHN78X6tDS10fsI0drj2": true,
-    "fOAsuJ9iFeVlEvb1TFUS8P8LOl93": true
+    "gnW2jvVo1lhjTg55fjh6bHNB8KA3": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
   },
   "fileName": "logic_analyzer_screenshot.png",
   "image": {

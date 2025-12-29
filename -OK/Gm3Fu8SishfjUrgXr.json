@@ -7,30 +7,28 @@
   "createdDate": 1740833834545,
   "descriptionMarkdown": "What is this?<br>\nA huge belt-based, circuit-controlled mall with an integrated logistic storage.\n\n5/03/25 5.3 Updated to fix a issue with low density and blue circuits mixing.<br>\n1/03/25 EDIT: Updated the blueprint to work with spaceage originally built by author Taxiservice.<br>\nMade some changes added more items added up to level 2 modules\n\nNotable features<br>\nGoods are outputted into specific filtered storage chests.<br>\nUses combinator logic to manage item production. Control how many and which items are crafted all from one place!<br>\nLogistic storage chests <br>\nHas an integrated kovarex centrifuge to slowly but efficiently make U-235. Circuit designed originally by doctrosix.<br>\nWill recycle used up uranium fuel cells.<br>\nMakes almost everything.<br>\nWill make a small amount of fuel upto Nuclear<br>\n<br>\nNotes,<br>\nSome items will only come to the mall via bots eg Superconductors lvl 2 Personal Roboport and Tungsten Plate for Artillery. These will only be requested if you are requesting those items to be built. <br>\nMaster switch will need to be activated to start the mall labelled ABCG <br>\nNuclear items are off to start you will need to turn the constant combinator on to get those started.<br>\nIntermediate products such as batteries, engines, explosives and so on will be crafted for internal usage only and won't be made available on the logistic network.\n\n<h3>Required inputs</h3>\n\n\n1 water pipe<br>\n1 crude oil pipe<br>\n1 petroleum gas pipe<br>\n1 lubricant pipe<br>\n5 iron plate belts<br>\n2 electronic circuit belts (green)<br>\n1 advanced circuit belt (red)<br>\n1 processing unit belt (blue)*(Half Belt)<br>\n1 steel plate belt<br>\n1 copper plate belt<br>\n1 coal belt*(Half Belt)<br>\n1 iron ore belt*(Half Belt)<br>\n1 stone belt*(Half Belt)<br>\n1 stone brick belt*(Half Belt)<br>\n1 uranium-238 belt<br>\n\n(whenever you see an iron chest you should leave its contents alone, as they are to be used internally by the mall)",
   "favorites": {
+    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
+    "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,
+    "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
     "X2h9M0p2qBWjQ67yBiiulcV4XeN2": true,
+    "I2sBSpAuWmafuwdoazHY1iWf5DU2": true,
     "FTzJiLt93WPSmFni9Sns8nvDMQj2": true,
     "tyUda5pcwuVFJjD0xEXewxdkMao1": true,
-    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
     "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,
-    "uuLBBlmPR9eJ0W5prRiFTLvk7s73": true,
-    "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,
-    "1szW71HcllbGdQVjz3Zn6FIEp222": true,
     "OIJHrM9nalegVOxIXYEViLYE3W32": true,
-    "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
-    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
+    "uuLBBlmPR9eJ0W5prRiFTLvk7s73": true,
     "N3wUaojlGzOGrGLJJrzIknfmhxJ3": true,
-    "I2sBSpAuWmafuwdoazHY1iWf5DU2": true
+    "1szW71HcllbGdQVjz3Zn6FIEp222": true
   },
   "image": {
-    "height": 0,
     "id": "WlYnbG5",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/WlYnbG5.png",
   "lastUpdatedDate": 1741152313387,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 10,
   "tags": [
     "/production/mall (make everything)/",
     "/version/2,0/"

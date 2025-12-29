@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "HellMore",
     "userId": "xWwL5iUmAUWaraHPIukqegQbRBr2"
   },
   "authorId": "xWwL5iUmAUWaraHPIukqegQbRBr2",
@@ -7,17 +8,15 @@
   "createdDate": 1761457134968,
   "descriptionMarkdown": "it`s all used blueprint for factorio",
   "favorites": {
-    "JifcWaGLoGgOFc2CKKO8Man0KZu2": true,
     "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "cwPHRo9YTpQzbNluXupwy4qk7lV2": true,
     "T76GnRDPH7b9Jx0dUXbXMhKMoWS2": true,
+    "cwPHRo9YTpQzbNluXupwy4qk7lV2": true,
+    "JifcWaGLoGgOFc2CKKO8Man0KZu2": true,
     "sYPoawEorIRKVkoqv2mEEe8cD3L2": true
   },
   "image": {
-    "height": 0,
     "id": "MMCNg5l",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1761457134968,
   "numberOfFavorites": 5,

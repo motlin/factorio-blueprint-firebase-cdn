@@ -7,15 +7,15 @@
   "createdDate": 1675728133084,
   "descriptionMarkdown": "Tileable 200x200-unit city blocks that are outlined in hazard concrete and contain radar, roboports, and power. Book also has blueprints allowing 1-4 RHD trains to be run in between city blocks; each block can have up to 6 LTN-equipped (provider / requester for one type of solids / liquids) train stations, which enter in the middle of one edge of the block. Also has landfill blueprints.",
   "favorites": {
-    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
-    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
-    "U3SFw7yOaWeekLA1wnadQ4M1ePM2": true,
-    "czT984gM6bb0iJyoZd0QIbLIX2p2": true,
+    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
     "i8fKg0kPRoOQUZULMoJJPSh433m1": true,
-    "UWSFXCpjuxXa90iCyCxea1dg4J62": true,
-    "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
     "icQkKRR7JvaQOUXXFZaOOnxESTi1": true,
-    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true
+    "UWSFXCpjuxXa90iCyCxea1dg4J62": true,
+    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
+    "czT984gM6bb0iJyoZd0QIbLIX2p2": true,
+    "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
+    "U3SFw7yOaWeekLA1wnadQ4M1ePM2": true,
+    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true
   },
   "fileName": "48px-Blueprint_book_.png",
   "image": {
@@ -25,7 +25,7 @@
     "width": 48
   },
   "lastUpdatedDate": 1676327504581,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/ltn/",
     "/general/late game (megabase)/",

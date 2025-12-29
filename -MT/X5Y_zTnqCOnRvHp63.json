@@ -7,10 +7,10 @@
   "createdDate": 1613332363824,
   "descriptionMarkdown": "The original Science River. A relatively inefficient but exceptionally beautiful way to deliver science packs into the labs.\n\nVideo- https://gfycat.com/MeaslyGlossyEnglishpointer\n\nHow to use it:\n\n1. put it down\n\n2. populate with robots. The higher your bot speed research is, the fewer bots you need, but 2,000 on each side is more than adequate for bot speed 6 (last non-infinite research)\n\n3. provide science to the bottom station via the belts\n\n4. provide fuel for the trains - there's two inserters facing the locomotives on the bottom station, if you place chests there with 48 nuclear fuel each, it'll run for over 200 hours before you need to fill them up again\n\n5. set trains to automatic. I've set the schedules up so that they will have their desired station at the top of their schedule when it's blueprinted.\n\n6. Sit back and wait. The river will slowly fill up and then stabilize once it's reached it's peak capacity.\n\n_________\n\nAt the left-side station, science packs are unloaded from the train and then distributed evenly amongst the requester chests that load the belts. This is done with a circuit system that counts up science packs that are unloaded from the train, subtracts from that value the packs that are moved to the belts, and divides it by the number of chests to assign the requester filters. The filter inserters are set to pick a different science pack each time they reach into the box, using a circuit network counter that assigns the filter to a different pack each frame. \n\n**Science River doesn't care what happens in between the left and right stations.** The blueprint is designed for 2.7kspm, but you can take out the labs and put in whatever quantity of labs you want. It will always balance itself regardless of how many or how few labs you have. If your science production is greater than or equal to the number of labs you have, then it will fill the river and work continuously like in the GIF. If your production is inadequate to fully saturate the labs, then it will stabilize into an oscillating pattern where it will flow for about 3 minutes, and then \"dry up\" for a period that is equal to the ratio of (production/consumption). You can see this happening [here](https://www.youtube.com/watch?v=obQ9Q1b4YMs) - in this example, there's enough labs to consume 2k SPM, but I'm only feeding the river with yellow belts, which limits production to 900SPM. You can see the full \"flow\" cycle and the dry periods on either side of it. You can see [here](https://imgur.com/iIeuihb) that over 50 hours, the consumption of the labs is an average of exactly 900 SPM.\n\nAt the right side station, the same balancing system is implemented as the left, which evenly distributes picked up packs into the train loading chests. Since the trains are all released from their stations at the same time, the amount of science packs that's loaded into this train is equal to however many packs were *not* used in the cycle. \n\nAt the bottom station, the difference is made up with new science packs. Any science pack that is not being used (in the GIF, production is not being used) will be cut off because the train car is already full.\n______\n\n**POTENTIAL COMPLICATIONS**\n\nThe stations may start behaving erratically if any science packs are introduced to the system by any means other than being unloaded from the train. If you walk nearby the left or right stations with science packs in your character logistics trash slots, it will throw things slightly out of balance.\n\nIf you pull apart the stations and space them out too far apart, you may need to add additional trains to the system. It relies on certain periodic timings that are dependent on the maximum rate that the train can be loaded/unloaded. Copy/pasting any of the three trains and then assigning it to queue at any of the stations will allow for much more space between those stations.\n",
   "favorites": {
-    "5Q98cef213SViXKkgWsAtiC8htj2": true,
-    "Pow2Zpqe0zgYevOQnenOx0CjkuO2": true,
     "Hf33mFexf0Np9KmFdaVd4jfG24Y2": true,
-    "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true
+    "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true,
+    "5Q98cef213SViXKkgWsAtiC8htj2": true,
+    "Pow2Zpqe0zgYevOQnenOx0CjkuO2": true
   },
   "fileName": "Screenshot from 2021-02-14 13-43-03.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 1917
   },
   "lastUpdatedDate": 1613332438022,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/research (labs)/"
   ],

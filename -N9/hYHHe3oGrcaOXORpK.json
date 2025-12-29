@@ -7,12 +7,12 @@
   "createdDate": 1660769084911,
   "descriptionMarkdown": "Everything you need to start a base using the space exploration mod. Does not inclued all late game production lines but it does have pretty much everything you need to get off world and start refining alien ores. all input and output belts/pipes are marked with a constant combinator filtered to what needs to be put in/out of the system for example if a recipie requires iron plates and puts out gears the the input belt will have a constant combinator set to iron plates and the output belt will have a costant combinator set to gears. The only reqired mods are space exploration and log hand fast inserters plus have waterfills will make thing much easier.",
   "favorites": {
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
     "0nKVwVFBl2esbvux8RcpNuHDi2C3": true,
-    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
-    "JE47OxK2v5YDWIeRxkh2iNwqkbI2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
     "VIjpHWltOIXviHbWTtgleef5yek2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
+    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
+    "JE47OxK2v5YDWIeRxkh2iNwqkbI2": true
   },
   "fileName": "Factorio 1.1.61 8_17_2022 4_42_30 PM.png",
   "image": {
@@ -22,7 +22,7 @@
     "width": 1600
   },
   "lastUpdatedDate": 1660769229523,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/rocket parts/",
     "/production/belts/",

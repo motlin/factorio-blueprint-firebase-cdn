@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "相澤昂拓",
     "userId": "x7h2Fszy61bXLAEC3be4WcdalAf1"
   },
   "authorId": "x7h2Fszy61bXLAEC3be4WcdalAf1",
@@ -7,18 +8,16 @@
   "createdDate": 1758197205044,
   "descriptionMarkdown": "アクィロまで行けます（充電池消費によるバッファーもあって安心）\n\n基盤を作りながら高速で周回\n要求素材の発射準備待ちのために基盤の素材が切れてからじゃないと次の星に迎えないのが玉に瑕",
   "favorites": {
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
-    "GJNYZRL6O6ZkLMGFQIGmNdRbsaJ2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+    "GJNYZRL6O6ZkLMGFQIGmNdRbsaJ2": true
   },
   "image": {
-    "height": 0,
     "id": "LdijBlO",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758197205044,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

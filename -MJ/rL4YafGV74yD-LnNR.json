@@ -7,22 +7,22 @@
   "createdDate": 1602951338301,
   "descriptionMarkdown": "This outpost takes raw resources as input and runs a whopping two Speed Module 3 factories.\n\nI wanted to make a design that (1) didn't use beacons, modules, or bots; (2) used space as efficiently as my brain would allow; (3) processed everything from raw resources on-site; and (4) could load modules onto a building train. (The loading for the building train is missing because I haven't designed those stations yet, but this way adds the bonus that you can just slap down a station that works for your building train.)\n\nI'm a bit sad I couldn't find a way to use the empty space over on the right",
   "favorites": {
-    "7LAcoEipbUWAtfS15LTVlDlTZui1": true,
     "i3tuKk4UukVWjIFlGXzeO8RTwmf1": true,
-    "0brSiKWRFCS7JtivjZsIbZmYzP62": true,
-    "ub0iEtNIVqVuJDIIVHdezrooiVY2": true,
-    "7yPTEpIYRhNVyPpYH8H5Yfs9oCg2": true,
+    "wJT2pPjryDNJSmrMXrUCx7eHfGw1": true,
+    "7LAcoEipbUWAtfS15LTVlDlTZui1": true,
     "DeQgxVkj85PGmQYrf0tZKPTOEop1": true,
     "HwBUN1bsafPudOIV8RPuXDPZPwG2": true,
-    "wJT2pPjryDNJSmrMXrUCx7eHfGw1": true,
-    "bC1wY6caofd5ybBBCxZhYw5Njrk2": true
+    "7yPTEpIYRhNVyPpYH8H5Yfs9oCg2": true,
+    "bC1wY6caofd5ybBBCxZhYw5Njrk2": true,
+    "0brSiKWRFCS7JtivjZsIbZmYzP62": true,
+    "ub0iEtNIVqVuJDIIVHdezrooiVY2": true
   },
   "fileName": "Speed module 3 outpost.jpg",
   "image": {
-    "height": 1468,
-    "id": "ZBvY6xy",
     "type": "image/jpeg",
-    "width": 2492
+    "width": 2492,
+    "height": 1468,
+    "id": "ZBvY6xy"
   },
   "lastUpdatedDate": 1602951338301,
   "numberOfFavorites": 9,

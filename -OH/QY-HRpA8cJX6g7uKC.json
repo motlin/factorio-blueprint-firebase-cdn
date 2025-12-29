@@ -7,18 +7,15 @@
   "createdDate": 1737776432412,
   "descriptionMarkdown": "Aquilo and inside only",
   "favorites": {
-    "dVt7hBoLDWXPycU20L6YsZrvIiv1": true,
-    "6YmBUyczYuezl0b3F5gLcwxYxvJ2": true
+    "6YmBUyczYuezl0b3F5gLcwxYxvJ2": true,
+    "dVt7hBoLDWXPycU20L6YsZrvIiv1": true
   },
   "image": {
-    "height": 0,
     "id": "BWSLVdy",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/BWSLVdy.png",
   "lastUpdatedDate": 1737776432412,
-  "numberOfFavorites": 2,
-  "tags": [ ],
+  "numberOfFavorites": 0,
   "title": "Brick Ship"
 }

@@ -8,12 +8,12 @@
   "descriptionMarkdown": "CME Protection System\n- \nBrought to you by Saschahi\n\n\nEats around ~ 50MW passively, only eats power when there's power to spare on your main grid. Can be \"fully charged\" in about 70-80 Minutes if it gets 50MW constantly.\n\nThe constant 10MW drain of the Umbrella is supplied by optimal solar power (Only for Nauvis)\nFor other Planets you can hook up the Umbrella to your base for passive draw, and then make a circuit condition to connect the Umbrella to the steam battery when a CME starts\n\nOnly connect electricity on the big power pole next to the accumulator on the right. and supply water. that's all. Make sure it connects nowhere else to your main base\n\nThe AIO Version only works for Nauvis\n\nUpdate Version 1.1\n- \n- Updated Medium powerpole routing to be symectrical\n- moved the substation for the electric boilers 1 block to the right\n- Made the blueprint tileable to be usable on other planets (110MW draw per tile, so 19 tiles for Nauvis as an example)\n\nUpdate Version 1.0\n-\n- Created the first version of the AIO Blueprint",
   "favorites": {
     "G7t3hwb4OwbWsPLhPLYvnMniWPD2": true,
-    "WHT6U6aD4lYQ2PxMDGKW6Zv8Fpj1": true,
     "zXNhotLkQHWryqz2ektrsygnJlx2": true,
-    "aI9AmaZjrJT50rl5N9Lmyd4TRfr1": true,
+    "00c8BwcMlla5WdiSbWmn98SAYDl2": true,
+    "WHT6U6aD4lYQ2PxMDGKW6Zv8Fpj1": true,
     "96scKksgGvSLlD12ApyoyA6CEFC3": true,
-    "O3cy9soHN5dhech1R1ZWO08f1Sw2": true,
-    "00c8BwcMlla5WdiSbWmn98SAYDl2": true
+    "aI9AmaZjrJT50rl5N9Lmyd4TRfr1": true,
+    "O3cy9soHN5dhech1R1ZWO08f1Sw2": true
   },
   "fileName": "umbrella1.1.PNG",
   "image": {
@@ -24,7 +24,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/umbrella1.1.PNG?alt=media&token=f32dd23d-bbaa-4444-958b-58728d376c73",
   "lastUpdatedDate": 1680288791572,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 2,
   "tags": [
     "/mods/space-exploration/",
     "/power/steam/",

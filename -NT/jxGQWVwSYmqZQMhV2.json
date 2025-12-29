@@ -8,11 +8,11 @@
   "descriptionMarkdown": "City block",
   "favorites": {
     "5p0E6xfD8NMBxe6XfURuge4g9oq1": true,
-    "GNbsWDnsFZXKep3FNDDr43QdULx2": true,
-    "7rro2Azax0dLYRNPRGa2DJ7jM8r1": true,
-    "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,
     "vYxxr7DuVzL7C2ZytjgA5SIxCv62": true,
-    "9LEFNqGqSMQWeD0fPomXkmftGo22": true
+    "9LEFNqGqSMQWeD0fPomXkmftGo22": true,
+    "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,
+    "7rro2Azax0dLYRNPRGa2DJ7jM8r1": true,
+    "GNbsWDnsFZXKep3FNDDr43QdULx2": true
   },
   "fileName": "bleb.png",
   "image": {
@@ -22,7 +22,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1682284287790,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 1,
   "tags": [
     "/train/track/"
   ],

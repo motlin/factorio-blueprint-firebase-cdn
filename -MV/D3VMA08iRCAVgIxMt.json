@@ -8,27 +8,27 @@
   "descriptionMarkdown": "# Early game mall producing start items.\n## Produces:\n* Pipes\n* Inserters\n* Assemblers\n* Radars\n* Rail\n* Efficiency and speed modules 1\n* Miners\n* Steam power\n* Furnaces (all 3)\n* Red ammo(and yellow)\n* Solar(panel and accumulator) \n* Oil\n* Lights (and copper wire)\n* Walls\n* Labs\n* Repair packs\n* Engines\n* Vehicles (Car, Tank, Train and Artillery Wagon)\n\n### Early version uses wooden chests and everything is circuited to limit output. Second version has yellow storage chests, filtered so that they will feed back from the logistics network. Power poles in blueprint",
   "favorites": {
     "MsvijdKJ6fWWBCx2JDxH6fVL4Kk2": true,
-    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "soFIikr23jR5Iu4zYvWdyAtwaTw1": true,
-    "JbijSaTGHkNgHDUABprJcIqrG1r2": true,
-    "B07QPYS9lVTbNhPVAoSlp8AUZjj2": true,
     "3Dnulhg7YzM68eaqqDQicars9DA3": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "B07QPYS9lVTbNhPVAoSlp8AUZjj2": true,
     "NzinW3ImrSOidr50COVDjViOqUk2": true,
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
+    "unWHWAerMhM8TEzDj0Ns3KuBrBj1": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "JbijSaTGHkNgHDUABprJcIqrG1r2": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "XpbVDF3rW7ez96gBvvAlC1qhTOF2": true,
-    "unWHWAerMhM8TEzDj0Ns3KuBrBj1": true
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "soFIikr23jR5Iu4zYvWdyAtwaTw1": true
   },
   "fileName": "Base mall.png",
   "image": {
-    "height": 900,
     "id": "tiNVih5",
     "type": "image/jpeg",
-    "width": 1440
+    "width": 1440,
+    "height": 900
   },
   "lastUpdatedDate": 1615143765793,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/production/mall (make everything)/",
     "/general/early game/"

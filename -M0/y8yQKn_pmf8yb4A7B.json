@@ -7,10 +7,10 @@
   "createdDate": 1582664509236,
   "descriptionMarkdown": "Factorio 0.18 - Vanilla\n\nIron Plate, Steel Plate, Advanced Circuits, and Sulfur delivered by 2-8 nuclear-fueled trains, processed into blue drink, belted to train.\n\nIncludes fuel station (deposit a few Logi bots pls!), PAX station (I call them Visit 'X'), and color-coded trains with good wait conditions. Combinator values and chest constraints have kept trains flowing smoothly and production above 2.8k for a few hours now. [Kirk McDonald calculator for facility](https://kirkmcdonald.github.io/calc.html#zip=dYpBCsIwEAB/k5MLja0VIvuYdLPqYrIN2RT6fCniRfAyh5lJsUccwF9hHlwRxcktnDvyXhubQW9Rra6tw6FdKlhHlxa0g4R+dtK5GNKTi1DMYCSsxFAjvcI9XLwra9oy/1tuNobzdGJ9iDJsKv2rqlQOuuX8g09+Aw==).\n\n<b>Regarding circuitry:</b> Red Wires run locally with each lane, counting items and relaying info to that lane's Combinators and Rail Signal. Please do not mix the Red Wires! Green Wires run globally, gathering number of stations available and signalling this to the Staging stacker for arrivals awaiting their circuit conditions.\n\nBuilt to slightly exceed demands of my 2.7k SPM megabase.",
   "favorites": {
-    "l556BHVKI2PFsp8vWZXjdATtGWg2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "l556BHVKI2PFsp8vWZXjdATtGWg2": true,
+    "JmZDbQTTorT5wVCvtJW24dyIZrD3": true
   },
   "fileName": "Chem Sci.jpg",
   "image": {

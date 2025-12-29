@@ -7,10 +7,10 @@
   "createdDate": 1619487451952,
   "descriptionMarkdown": "3x3 Chunk Solar Array\n---\n- 30,386 KW (net sustained)\n- 30,786 KW (gross sustained)\n- 3x3 chunks (96x96 tiles)\n- 303.30 tiles/MW\n- 3.37 MW/chunk\n\nAfter building one tile of this solar array, this blueprint can be placed entirely from the map screen. The solar array can be extended in all 8 directions, including diagonals. Only one click is necessary to place this blueprint unless building over water. Radar and roboport coverage and landfill are included. When tiled, each tile has only 1 radar and 2 roboports.\n",
   "favorites": {
-    "rOf2UdMQ2fOUVMX2Pf6mzRQmbx22": true,
-    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
+    "YI4Qs2SJ7XfyN9BNIFPSvWehYDz1": true,
     "rJCjovdfpGOSCE273JbyQKOafl03": true,
-    "YI4Qs2SJ7XfyN9BNIFPSvWehYDz1": true
+    "rOf2UdMQ2fOUVMX2Pf6mzRQmbx22": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true
   },
   "fileName": "3x3ChunkSolarArray.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 933
   },
   "lastUpdatedDate": 1620309622857,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/power/solar/",
     "/mods/vanilla/",

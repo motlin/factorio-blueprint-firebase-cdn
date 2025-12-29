@@ -7,14 +7,14 @@
   "createdDate": 1685911836784,
   "descriptionMarkdown": "Mash up of different BP books made by other people and some of those are made by me. I'm not claiming any ownership, just decided to put them all here so others can maybe benefit from it or make their own variantions. I made them all more or less fit each other better for my own SE + K2 playthrough. If you see any problems or potential beneficial changes, contact me.\n\nBe careful with signals, I haven't thought it through so there may be a deadlocks\n\nNotes:\n1. Some bps need resignalling (deadlocks)\n\nContains:\n- City block segments 100x100 grid aligned\n- (RHD) City block rail segments 100x100 grid aligned\n- LTN stations using Krastorio 2 loaders\n\nWill try and keep it updated if it will get some attention.",
   "favorites": {
-    "K1O1gwsYsZdYArU0Qkr210mFxQL2": true,
-    "AvgfLfpEHASioDLs7N95kY0V12i1": true,
-    "OEaRT8YoEuV2n4Eu8DHUSZhFs032": true,
-    "q2nT2i6whtPNOdaNRNkm1OQ38l22": true,
-    "AB6WWe2irigM40zXFcVQifW3bu52": true,
     "AqJb1V8y4zYKgvtoECNSBOjbU4Q2": true,
+    "AvgfLfpEHASioDLs7N95kY0V12i1": true,
+    "q2nT2i6whtPNOdaNRNkm1OQ38l22": true,
+    "OEaRT8YoEuV2n4Eu8DHUSZhFs032": true,
+    "AB6WWe2irigM40zXFcVQifW3bu52": true,
+    "5PawYgXHnhZXsdmoQj79yW3qSBq2": true,
     "CJISuag3zeO0xSFqqToqFgbDtUj2": true,
-    "5PawYgXHnhZXsdmoQj79yW3qSBq2": true
+    "K1O1gwsYsZdYArU0Qkr210mFxQL2": true
   },
   "fileName": "image_2023-06-04_224924531.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 399
   },
   "lastUpdatedDate": 1686150825615,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 2,
   "tags": [
     "/train/loading station/",
     "/train/crossing/",

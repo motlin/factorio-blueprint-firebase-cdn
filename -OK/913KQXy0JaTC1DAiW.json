@@ -6,18 +6,15 @@
   "blueprintString": "testing self",
   "createdDate": 1740703811131,
   "descriptionMarkdown": "test for Research line",
-  "favorites": {
-    "8ArPI86JiwVp86TvEBXPa3Bxiw03": true
-  },
   "image": {
-    "height": 0,
     "id": "aWXV8VC",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/aWXV8VC.png",
   "lastUpdatedDate": 1740703811131,
   "numberOfFavorites": 1,
-  "tags": [ ],
-  "title": "Research line"
+  "title": "Research line",
+  "favorites": {
+    "8ArPI86JiwVp86TvEBXPa3Bxiw03": true
+  }
 }

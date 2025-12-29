@@ -7,14 +7,14 @@
   "createdDate": 1640820427543,
   "descriptionMarkdown": "A one and done base blueprint.  Uses KOS Mall 1.7 (updated for a few new recipes, and broken recipes removed), as well as Base In A Box (Updated for new recipes and cleaned up a little).\n\nUpdate 1.1 - 2024-06-08\n\nUpdated the blueprint for recipe changes over the last years.\n\nAdded Modular/RoboPort Solar and Nuclear Blueprints.\n\nFixed a few mistakes in the blueprint.\n\nUpdated Modules in Production Machines\n\nAdded Mid and High level versions of the Blueprints.\n",
   "favorites": {
+    "0qdXEWIS68X4gTTZ0TvgzxbKBGw1": true,
+    "C0L6va50LwPFZ4SCwQhdaPuNeD03": true,
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,
     "dJht8GzCJHUKkQZx2I5mZsThLCg1": true,
-    "0qdXEWIS68X4gTTZ0TvgzxbKBGw1": true,
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "C0L6va50LwPFZ4SCwQhdaPuNeD03": true,
-    "tHmMdZr98kMW0nUBFVNJhrOhmKd2": true
+    "tHmMdZr98kMW0nUBFVNJhrOhmKd2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "fileName": "dmawbase.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1717871686896,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 7,
   "tags": [
     "/general/late game (megabase)/",
     "/power/nuclear/",

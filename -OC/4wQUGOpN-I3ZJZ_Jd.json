@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Martin Kuckert",
     "userId": "8DZXFkj7SoZq6dZGe06wNwqtyPo1"
   },
   "authorId": "8DZXFkj7SoZq6dZGe06wNwqtyPo1",
@@ -7,16 +8,14 @@
   "createdDate": 1761036319011,
   "descriptionMarkdown": "Building blocks to create city bricks – rectangular shaped city blocks, leveraging 3-way-intersections only.",
   "favorites": {
-    "tpSQBPPXeuQqrEwUmMGIJC4VmOa2": true,
-    "tmDYhrNMnZTBMbLeWi0t1wAheew2": true,
     "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+    "tpSQBPPXeuQqrEwUmMGIJC4VmOa2": true,
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
+    "tmDYhrNMnZTBMbLeWi0t1wAheew2": true
   },
   "image": {
-    "height": 0,
     "id": "zey3ZAI",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1761036319011,
   "numberOfFavorites": 4,

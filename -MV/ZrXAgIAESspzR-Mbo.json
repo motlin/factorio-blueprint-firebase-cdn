@@ -7,18 +7,18 @@
   "createdDate": 1615526241273,
   "descriptionMarkdown": "Artillery ammunition factory\n\nThe production rate is 1 artillery shell per second, 60 per minute. The factory is specialized and separated, so it doesn't need to be directly connected to main base's bus, because it has its own railway stations and own smelters. What needs to be supplied? Only copper ore, iron ore and coal via trains and water from one offshore pump (connection marked with a constant combinator). Also, don't forget to deliver a few barrels of heavy oil, because the whole refining is based on coal liquefaction in order to simplify and reduce the entire process.\n\nLast update: iron fully rebalanced, train unloading stations completely reworked, fewer blue belts, fewer pipes and balancers, cleaner overall design.",
   "favorites": {
-    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "ScB8E40grLSqtGfMZe7CYXbyPkv2": true,
-    "0ekdrPMgbMgOWrAMQnOgENR1sHe2": true,
-    "pjnVAdWsCuU8b5Qk31vTGHTlCBB2": true,
-    "3Dnulhg7YzM68eaqqDQicars9DA3": true,
     "mgzaB559GKQRL7QtiME6MluIubD2": true,
+    "3Dnulhg7YzM68eaqqDQicars9DA3": true,
     "mFr5kDlk4nNm9EmPpg02HX3ixX82": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "0ekdrPMgbMgOWrAMQnOgENR1sHe2": true,
     "6I7YiLOFw5VIiIrhZjmzOaIcKsx2": true,
-    "KfbDRv67nlVIqDg7mkq8W1wjpd03": true
+    "KfbDRv67nlVIqDg7mkq8W1wjpd03": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "ScB8E40grLSqtGfMZe7CYXbyPkv2": true,
+    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
+    "pjnVAdWsCuU8b5Qk31vTGHTlCBB2": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true
   },
   "fileName": "municni-tovarna-new.png",
   "image": {

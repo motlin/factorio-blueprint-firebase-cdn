@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "ヨーヨー二号",
     "userId": "vNb38mibGTNRCPLHadayEJJxDi73"
   },
   "authorId": "vNb38mibGTNRCPLHadayEJJxDi73",
@@ -7,18 +8,16 @@
   "createdDate": 1754989938887,
   "descriptionMarkdown": "スーパーかっこいい研究所",
   "favorites": {
-    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
+    "7El66SoblkMPufIlrPMB1UYvNkp2": true,
     "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "7El66SoblkMPufIlrPMB1UYvNkp2": true
+    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true
   },
   "image": {
-    "height": 0,
     "id": "mYDkpCL",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754989938887,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/",

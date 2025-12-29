@@ -7,14 +7,14 @@
   "createdDate": 1610087015204,
   "descriptionMarkdown": "100 SPM base with\n\n* No beacons\n* No blue belts.\n* Belt based (some bots are used to store excess and recycle science)\n* Assembly machines use 3 prod modules 1 speed module wherever possible. Same for Oil refineries and chemical plants (but 2 prod modules 1 speed). Rocket silo and labs are all prod modules.\n* No underground belt mixing (i.e. 2 underground belts of different colors criss-crossing).\n* Similarly, no underground-belt and underground pipe mixing.\n* Also, no mods :-)",
   "favorites": {
-    "PqNaA3HYYVVKj65LdoDPIoEi0Oz1": true,
-    "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
-    "yShQsJCdsbYPpw2XMpRezsYrWBz1": true,
-    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
-    "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
     "Uz4kTxkXmvf5oHNtGtCZWVTTJPB3": true,
+    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
+    "PqNaA3HYYVVKj65LdoDPIoEi0Oz1": true,
+    "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true,
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
-    "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true
+    "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
+    "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
+    "yShQsJCdsbYPpw2XMpRezsYrWBz1": true
   },
   "fileName": "factorio_100spm_no_beacon.png",
   "image": {
@@ -25,7 +25,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio_100spm_no_beacon.png?alt=media&token=aa10c531-6d79-4f4a-8a1f-c822c7010e46",
   "lastUpdatedDate": 1610161127379,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 6,
   "tags": [
     "/production/science/"
   ],

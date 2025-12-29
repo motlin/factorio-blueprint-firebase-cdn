@@ -7,18 +7,15 @@
   "createdDate": 1737747669579,
   "descriptionMarkdown": "so testando umas coisas aqui sacou",
   "favorites": {
-    "tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true,
-    "oYeLA1sZTLVCMegZpiJL1w0Fe3y2": true
+    "oYeLA1sZTLVCMegZpiJL1w0Fe3y2": true,
+    "tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true
   },
   "image": {
-    "height": 0,
     "id": "aWXV8VC",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/aWXV8VC.png",
   "lastUpdatedDate": 1737747669579,
   "numberOfFavorites": 2,
-  "tags": [ ],
   "title": "first test"
 }

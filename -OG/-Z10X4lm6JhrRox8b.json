@@ -7,23 +7,21 @@
   "createdDate": 1736249974987,
   "descriptionMarkdown": "Small fast ship: 789 tons, 445km/s average speed depending on gravity with a good amount of storage. Easily expandable by upgrading storage rarity. I use this for supplying planets and transport. Has a lot of epic and legendary components keeping size minimal. Only has guns for defense. Stores a stock of 3k iron/copper, 2k calcite/steel, and 4k ice for supplying planets. More than enough production to stock and fill ammo depending on needs of planet. Relatively easy to remove this or limit amount if you want. Plenty of power and battery if you need to up production of any resource by replacing efficiency mods. \n\nThere is a Nauvis symbol set in a constant combinator below and to the left of the hub. If any asteroid chunk reserve falls below this value the hub receives a Nauvis signal of 1. You can use this to have the ship go grab materials if you are using it for persistent supply over a planet.",
   "favorites": {
-    "4Q7QcPItnlZW6SgMW3tAWtFyprI3": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "WHT6U6aD4lYQ2PxMDGKW6Zv8Fpj1": true,
+    "Yv8fBKdLvXc3zRnYPMFzCRV262E3": true,
     "4dk5L21uQVZx5TjvUsnJTLU8evw2": true,
     "4PSlHvyT6lbsXgGcwKXfaBHYhwi2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "4Q7QcPItnlZW6SgMW3tAWtFyprI3": true,
     "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,
-    "Yv8fBKdLvXc3zRnYPMFzCRV262E3": true
+    "WHT6U6aD4lYQ2PxMDGKW6Zv8Fpj1": true
   },
   "image": {
-    "height": 0,
     "id": "q3T1GkL",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/q3T1GkL",
   "lastUpdatedDate": 1736249993693,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 2,
   "tags": [
     "/planets/space-platform/",
     "/version/2,0/"

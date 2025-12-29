@@ -7,13 +7,13 @@
   "createdDate": 1694956414879,
   "descriptionMarkdown": "Cityblock based RHD train network blueprints\n\nall grids have red/green wires. based on a 3x3 chunk layout.\n\n2/4 Lanes tracks setup\n\nLoading/Unloading Stations with vanilla and LTN variants 4/8 belts. any belts or blue belts only sub-variants\n\nVanilla Stations featuring a train limiter (stack size and item types need to be setup (iron plates by default). cargo max slot can be changed too)\n\nLTN Stations requires LTN Combinator Modernized for the constants (can be replaced)",
   "favorites": {
-    "iK2kVinIQQP3vx2H1Q2yKX62JEB2": true,
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
-    "9jtyR92DBAd13hltvZ6YoJcFf792": true,
-    "RIHvYqjJL7OEiYP4dcMXHipUzAL2": true,
+    "vlJErdsCggW6NSkfFrMkDR3dNM73": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
     "MxUBiOdmCrRbkiZUAauMEgdfF6t2": true,
-    "vlJErdsCggW6NSkfFrMkDR3dNM73": true
+    "iK2kVinIQQP3vx2H1Q2yKX62JEB2": true,
+    "9jtyR92DBAd13hltvZ6YoJcFf792": true,
+    "RIHvYqjJL7OEiYP4dcMXHipUzAL2": true
   },
   "fileName": "Train Main image.png",
   "image": {

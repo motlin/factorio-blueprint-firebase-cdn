@@ -7,10 +7,10 @@
   "createdDate": 1662326474155,
   "descriptionMarkdown": "Space and land-based condenser nuclear power plant blueprints with steam storage. Max output is 2.4 GW with steam storage option off. Steam storage is stable at ~1.9GW Output",
   "favorites": {
-    "ah1bYcVp3GWVjJxSuByw3HluGuE2": true,
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
-    "4qCpggCt7OhoLVrsStG3lukWuxE2": true
+    "ah1bYcVp3GWVjJxSuByw3HluGuE2": true,
+    "4qCpggCt7OhoLVrsStG3lukWuxE2": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "screenshot_light_small.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 1520
   },
   "lastUpdatedDate": 1662326474155,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 2,
   "tags": [
     "/power/nuclear/"
   ],

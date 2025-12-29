@@ -7,21 +7,14 @@
   "createdDate": 1545718964132,
   "descriptionMarkdown": "This unloader station will show the train's unloading progress\n\nThis station is built for 2-4-2 trains.",
   "favorites": {
-    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
-    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "78H2kadyj0cdigv7rjQFxXPbdXx1": true,
-    "rAkZKBdRTwRQVE36EhKY0IWctwt2": true,
-    "bGXGRyHszUgSkKXqUBL9Ha4hZeP2": true,
-    "Zh5f7b3ahWQ5gk31Wwvm3mC2Aao1": true,
-    "af3odY84QSbmSPE2o8gWxDi4rW92": true
+    "78H2kadyj0cdigv7rjQFxXPbdXx1": true
   },
   "fileName": "Smart Unloader-Blue Belt.png",
   "image": {
-    "height": 526,
     "id": "MjqDFsX",
     "type": "image/jpeg",
-    "width": 1517
+    "width": 1517,
+    "height": 526
   },
   "lastUpdatedDate": 1545718964132,
   "numberOfFavorites": 8,

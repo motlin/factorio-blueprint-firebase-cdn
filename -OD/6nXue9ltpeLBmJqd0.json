@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Вася Кулешов",
     "userId": "FmPatCM16cM9RBofnAWHH4LFPRO2"
   },
   "authorId": "FmPatCM16cM9RBofnAWHH4LFPRO2",
@@ -10,13 +11,11 @@
     "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
   },
   "image": {
-    "height": 0,
     "id": "ZNzhvQx",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762141286715,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

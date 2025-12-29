@@ -7,20 +7,18 @@
   "createdDate": 1733179984561,
   "descriptionMarkdown": "Initial design of an autobalanced ship which attempts to process resources into whats needed at the time.\nMeant to serve as a reliable cargo ship for inner planets, do not attempt to take this to solar system edge.\nDoes not require missile turrets for first 3 planets, replace missile turrets as needed.\n\nPros/Features\n* Makes everything needed to self sustain onboard, no refueling needed. Can keep a full fuel tank for quite some time, idling will eventually bring equilibrium.\n* Efficiency circuits, prioritize resources for self sustain first.\n* Minor thruster controls, operates with low fuel on less rockets automatically.\n* Relatively compact\n* Moderate cargo space, can be upgraded.\n* Small belt buffer for recycle grinders to reprocess asteroids at a later time if not currently needed.\n\nCons\n * Inefficient belt throughput from grinder output leads to excess resources being thrown off to ensure continuous belt flow.\n * Tentacular belts make it hard to modify the current design.\n * Priority circuits to control grinder ingredient recipes not implemented yet. Circuits may not be as simple as possible.\n * Wasted space, one could argue steam and water buffer tanks are excessive, but provide much safety for life support in sticky situations.\n * Construction and reaching initial equilibrium takes a lot of time if idling, for best results get a small amount of ammo and fuel, then make a few small trips monitoring, to help resolve this, there are control constant combinators around the ship to help control startup ingredients into what's most needed (primarily ice).\n\nLove/Hate\n * Comes with Notifications to help understand ship state. Notifications are muted by default.\n * Uses advanced asteroid reprocessing by default, can swap with normal if not unlocked yet.\n\n",
   "favorites": {
-    "oq5pjOP0jQOjzGVxi2y9DPzXdYs1": true,
     "MJ2F75tLqUaB9fWQxc6Vw0Ai0qf1": true,
+    "VXKPmCDy9wSwBCReYyriFnYN5To2": true,
     "eqmiBs18xYc8Lg0O5n4Wh1ofx9q1": true,
-    "VXKPmCDy9wSwBCReYyriFnYN5To2": true
+    "oq5pjOP0jQOjzGVxi2y9DPzXdYs1": true
   },
   "image": {
-    "height": 0,
     "id": "9ERBj4o",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/cHmqw34",
   "lastUpdatedDate": 1733181794327,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/planets/space-platform/"
   ],

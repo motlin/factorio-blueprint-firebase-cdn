@@ -1,4 +1,5 @@
 {
+  "numberOfFavorites": 2,
   "author": {
     "userId": "LaXDTIKD0Ib90tbC4w0n38WqBCi2"
   },
@@ -7,8 +8,8 @@
   "createdDate": 1581253468880,
   "descriptionMarkdown": "Чертеж на производство пластмассы из дерева https://www.youtube.com/watch?v=TVkCnx_rO2o",
   "favorites": {
-    "DMcA8AeeETRkpTjW5pNqqsiiHGd2": true,
-    "zvvA0mvuf3XSrxZxNgIai4FGpIk1": true
+    "zvvA0mvuf3XSrxZxNgIai4FGpIk1": true,
+    "DMcA8AeeETRkpTjW5pNqqsiiHGd2": true
   },
   "fileName": "пластмасса.jpg",
   "image": {
@@ -18,7 +19,6 @@
     "width": 1737
   },
   "lastUpdatedDate": 1581253468880,
-  "numberOfFavorites": 2,
   "tags": [
     "/mods/other/",
     "/version/0,17/"

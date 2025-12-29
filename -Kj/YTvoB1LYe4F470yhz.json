@@ -1,37 +1,15 @@
 {
-  "author": {
-    "userId": "RJq2YteQZveSSQH7MMl0BIKN1Nh2"
-  },
-  "authorId": "RJq2YteQZveSSQH7MMl0BIKN1Nh2",
   "blueprintString": "0eNrNV9uOmzAQ/Rc/YwmbSwK/UkUrx0yzVo2h2ESNIv69BjaX7jrIJlspT4jEnDlz5uoz2sse2k4og8ozErxRGpU/zkiLg2Jy/M2cWkAlEgZqFCHF6vGNaQ31Xgp1wDXj70IBTtAQIaEq+INKMuwiBMoII2DGm15Ob6qv99DZA8tIEWobbT9u1MjAAmIaoZN9pNZGB1xMlGRzENoIjvk7aIMZN+IIuO2ao6iskWjiPJuf2JdItwAVrpuql7MZ3vSj5+mwG6IvJOmVpK6ZlFiyuv1KLZ6ZZYMDIbki1FCJvsYggZvOUm4bCQ+xUhdWGiiZh2KtRfpeybKbZIbxX1goDZ2ZkD9HNJn5UcuvEpbh/F/qAM39QekF1AGz8YaJF1C2V5RPYnbwu7fPBbxkCsV06u2nkPboh9IfRXPHD0DiVjIDN8FpHDslL/zVId6Sk9gbdUlyQrxhArhRb1D/HCPJirhecpj4BpZVR6a4rScuOt4L8290o+sXNw/nhtGokY7rG1dGkPSRL46Cf1BBo0t7NoK5DGSBvWgugPi+Fc05PtF6vu2QfL3HXg5vVmTHiybHNrRFuyu7WF8vL6YIjUPni0c/oeTpGlzMSEoDp5kP5yR0lDhTg6aBs8OHWvZsgS+rmQfOKbfjm8DB5EbZru41r1ZYxbotf2llvdfgyaGRxKu2c+dynpDVa+H/2QoTuuq6sCS9Nk3HDvANwicBFyt7r9pFFzu3y2qEjlao6XCepjSLi4LmNjR/Acz999o=",
+  "fileName": "factorio chests.png",
+  "numberOfFavorites": 23,
+  "tags": [
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
+  "title": "all *smart chests* fully automated, input=steel, input and output with robots.",
+  "authorId": "RJq2YteQZveSSQH7MMl0BIKN1Nh2",
   "createdDate": 1494170189196,
   "descriptionMarkdown": "for all the *smart chests*, input is steel.\nin- and output need to be done by robots. the design is 7 by 11",
-  "favorites": {
-    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
-    "6T7CkKTY36RIOmp2jYiC8nedF6q1": true,
-    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-    "rmtaI5JcXqhlpzIa7fHn4ZLwkou1": true,
-    "u5Vn97sKB3csWhB0188gTAoOueE3": true,
-    "5bXrHpG7GBTvxFV8pPNsFrrrVID3": true,
-    "w3ZbgmRovrO2Pa6V35lFGo71BCT2": true,
-    "9qM1saL3vlcSD10tPFaFkJSgDJe2": true,
-    "bFEGUZKtF7MVSHs1hii9gzeEYKd2": true,
-    "oTBhaxpvSKQPULLahOz8K6Jpi1a2": true,
-    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
-    "WvzpBbEL0RWx70SFbEh2QfJlALA2": true,
-    "cEyKA4c3sKTxIIJXzxFkJjpn2Hf2": true,
-    "wV6ShTbYLzcQzYHThx2k64g1DV22": true,
-    "1RoQ69IL29ZsOPK9HnWofY9qSzj2": true,
-    "i2pfS67GgwhdEKhFrV5INAHP2Ps2": true,
-    "JWqTndQx8gYnuNgH4NIWtTMHpW62": true,
-    "rJr4C213O4RhWoWaLLy2gdcCf4u2": true,
-    "C4EtKlBgS6XiWXMqer38XE6bcM73": true,
-    "bCtD1LMeIdf1Ow4IT0VXQlMcgoX2": true,
-    "HghmOhbtzIgCPndTu4o6PFQG7Jz2": true,
-    "2xE8qjsXfccb5KV8yEPgeYcj0EH2": true,
-    "EqBEV9LSSWNcgpnjqVamAS90qqf2": true
-  },
-  "fileName": "factorio chests.png",
   "image": {
     "height": 632,
     "id": "892jtrT",
@@ -40,10 +18,11 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/factorio%20chests.png?alt=media&token=ce2e71c6-8a4e-4c8b-b1ba-f8cb6392c8e4",
   "lastUpdatedDate": 1498690734813,
-  "numberOfFavorites": 23,
-  "tags": [
-    "/version/0,15/",
-    "/mods/vanilla/"
-  ],
-  "title": "all *smart chests* fully automated, input=steel, input and output with robots."
+  "favorites": {
+    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true
+  },
+  "author": {
+    "userId": "RJq2YteQZveSSQH7MMl0BIKN1Nh2"
+  }
 }

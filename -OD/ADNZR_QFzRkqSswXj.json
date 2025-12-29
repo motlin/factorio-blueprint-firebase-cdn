@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "ASFRedstone - Minecraft",
     "userId": "t1UOFpshzMe6mnWeQfuL3FG2Nl93"
   },
   "authorId": "t1UOFpshzMe6mnWeQfuL3FG2Nl93",
@@ -7,19 +8,17 @@
   "createdDate": 1762198653568,
   "descriptionMarkdown": "Just a ship design I made in a standard world",
   "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "fCzOQFsJHYf7cn8pKJIAXPEZdjj2": true,
+    "LAIb7Jh389YLF74Jb6ZhhG4LH4C2": true,
     "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
     "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "LAIb7Jh389YLF74Jb6ZhhG4LH4C2": true,
-    "fCzOQFsJHYf7cn8pKJIAXPEZdjj2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
     "gLJbRLrjtLXDAlZxlhMpn35Jsxr1": true
   },
   "image": {
-    "height": 0,
     "id": "1NI3vg8",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762868660801,
   "numberOfFavorites": 7,

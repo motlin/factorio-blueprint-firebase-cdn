@@ -7,11 +7,11 @@
   "createdDate": 1683914473151,
   "descriptionMarkdown": "Red Science Book",
   "favorites": {
-    "W5srOBIVu1crYUIL21XFHbYPlIc2": true,
-    "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
-    "dMSvS2gH1RYPXMozLeIzUQicEg52": true,
     "qtCtD6N6IPVllLvNhjxbJgVK7eD2": true,
-    "EBBAfvcwLCS9NQ3H2xHvqPxfaEj2": true
+    "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
+    "EBBAfvcwLCS9NQ3H2xHvqPxfaEj2": true,
+    "dMSvS2gH1RYPXMozLeIzUQicEg52": true,
+    "W5srOBIVu1crYUIL21XFHbYPlIc2": true
   },
   "fileName": "1 Red.PNG",
   "image": {
@@ -21,7 +21,7 @@
     "width": 78
   },
   "lastUpdatedDate": 1683914473151,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/beaconized/"
   ],

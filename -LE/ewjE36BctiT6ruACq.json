@@ -7,28 +7,18 @@
   "createdDate": 1528655180995,
   "descriptionMarkdown": "### Balanced discharge of two trains with cache\nInput:\n* 2x iron with stack for 6 trains\n* 2x copper with stack for 6 trains\n* 2x coal\n* 2x oil\n\nOutput:\n* 12 lanes iron\n* 12 lanes copper\n* 4 lanes coal\n* 2 pipes crude oil",
   "favorites": {
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "LBXRUnKdqHM856wIfhYVrVeeevz2": true,
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
-    "imutXci9Y6OQd8ptyOVoPRQAPce2": true,
-    "chZ2tb6IrkRVFI3IuHQqemil8h62": true,
-    "VWLRKEAf5rXYUs57cbHpV5OtIWq1": true,
-    "VSXRSZWrb1XIxOxw4rUlEM7aaae2": true,
     "sIEJNDOKVPVClCJp5C5lT5oRFlr1": true,
-    "vu9x82xA5HaId4IpOEpJvnbOHDz2": true,
-    "pLOICaq6gKOwhKjnQWY2er3YOD73": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
   },
   "fileName": "LTN.PNG",
   "image": {
-    "height": 828,
     "id": "y6zPqSl",
     "type": "image/jpeg",
-    "width": 908
+    "width": 908,
+    "height": 828
   },
   "lastUpdatedDate": 1528655180995,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 13,
   "tags": [
     "/general/early game/",
     "/train/loading station/",

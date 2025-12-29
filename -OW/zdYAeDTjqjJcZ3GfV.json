@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Thomas Paine",
     "userId": "LKS9G5M1daflrQucuAPiKMMAIkv2"
   },
   "authorId": "LKS9G5M1daflrQucuAPiKMMAIkv2",
@@ -7,28 +8,26 @@
   "createdDate": 1754488255581,
   "descriptionMarkdown": "Latest Version: 2<br>\nCreator: Thomas<br>\nGitHub: <a href=\"https://github.com/tpaine/factorio-modular-train-base\">Factorio Modular Train Base</a>. <br>\nSave File: <a href=\"https://drive.google.com/file/d/1-XwcL-X-ORCbey7n6AinENSQeze2Z6ib/view?usp=sharing\">Modular Base Blueprint Builder</a><br>\n<br>\nA Space Age 2.0 compatible version of Erinch's amazing <a href=\"https://factorioprints.com/view/-Nnw3ZYyhVsJmbl7Ug6w\">Modular Train Base</a>.\n\n\nKey Changes:\n- Roundabout intersections\n- 2.0 Recipe Changes\n- Parameterized Mines and Trains Blueprints\n- Trains removed from individual blueprints\n- Logistic storage and mine grids (great for base conversion)\n- Modular Wall system for isolating landmasses.",
   "favorites": {
+    "HdOVYMDv3CgMeW8mok2TU8wgOPp1": true,
+    "Yp3jhkxFtINi9Bq4K1Q7jmZ09Hm2": true,
+    "c1wVae8PYfd9gZeNYVlGgiKMl0o2": true,
+    "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
+    "enphKuUGROeBFBfVZH40SffH3662": true,
+    "kdTK0kJ8kYaVUoysf5xOo2yCBhf2": true,
+    "ouppqqHlrvaPTJhpUy9vBT8EEjR2": true,
+    "A27hcVNyOhajvXRPD0AL9s0zIzt2": true,
+    "x8O1hbyYoYUs72GSmPEVMZyCcbH3": true,
+    "u6xBzdJ1vmeLr89DrwJChAc8C2H2": true,
+    "bhQSYWHkWgWdwYdQQXAzmeYKZnf2": true,
     "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
     "b81GFYBMQLVfo4HKh8R4mQvoXX02": true,
-    "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
-    "OyyaO2pJlaSpSoEvm0PIPCNvQ7n2": true,
-    "ouppqqHlrvaPTJhpUy9vBT8EEjR2": true,
-    "Yp3jhkxFtINi9Bq4K1Q7jmZ09Hm2": true,
     "xRB2aDKxjrUKYuonqMj6EULeXnU2": true,
-    "enphKuUGROeBFBfVZH40SffH3662": true,
-    "A27hcVNyOhajvXRPD0AL9s0zIzt2": true,
-    "HdOVYMDv3CgMeW8mok2TU8wgOPp1": true,
-    "kdTK0kJ8kYaVUoysf5xOo2yCBhf2": true,
-    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
-    "x8O1hbyYoYUs72GSmPEVMZyCcbH3": true,
-    "c1wVae8PYfd9gZeNYVlGgiKMl0o2": true,
-    "bhQSYWHkWgWdwYdQQXAzmeYKZnf2": true,
-    "u6xBzdJ1vmeLr89DrwJChAc8C2H2": true
+    "OyyaO2pJlaSpSoEvm0PIPCNvQ7n2": true,
+    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true
   },
   "image": {
-    "height": 0,
     "id": "5LFVZ05",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754492773539,
   "numberOfFavorites": 16,

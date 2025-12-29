@@ -7,13 +7,13 @@
   "createdDate": 1664994184410,
   "descriptionMarkdown": "Rail-Block design that allows to scale from green science to mega base with the same pattern.\n\nWatch the Nilaus \"Many to many train network\" on youtube to configure the requesters. Otherwise some blocks might starve until others are full.\n\nThese are the late game blueprints: https://facorio-blueprints.firebaseapp.com/view/-NDUL8yOLhzn-y7HuI1v\n\nBased on https://facorio-blueprints.firebaseapp.com/view/-LzSes2rdAKsj-HSO_jU\n\nBased on Nilaus Masterclass Builds.\n\nStill lots of potential for optimization.\n\n",
   "favorites": {
+    "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
     "GF9TuIBPvjSERDMZqufGed2rmcv2": true,
-    "6OmVRBXbFibEwRsWd7JXmzPZn8C2": true,
     "NccTZW4SjvhKiXQlfmazRXNa84h2": true,
     "ISoPedemzbb4blqipRj8El9xLJv1": true,
-    "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
-    "mXqu9fdT2egnrkI1jItaTZVPQIV2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "6OmVRBXbFibEwRsWd7JXmzPZn8C2": true,
+    "mXqu9fdT2egnrkI1jItaTZVPQIV2": true
   },
   "fileName": "railbocks_midgame.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 1823
   },
   "lastUpdatedDate": 1664994184410,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/mid game/"
   ],

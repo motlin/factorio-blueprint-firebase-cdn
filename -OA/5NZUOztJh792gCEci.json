@@ -1,27 +1,26 @@
 {
   "author": {
+    "displayName": "Travis VanKrause",
     "userId": "8ajpIPBQoTT0x7qcCHLIRL3WnfP2"
   },
   "authorId": "8ajpIPBQoTT0x7qcCHLIRL3WnfP2",
   "blueprintString": "0eNqtnP1uozgUxd+Fv8OID9vgSPMkqyoixJNaQ3AWSLtRlXdf03QaViXd4xOkkUYJ4ce519g+mOu+RdvmZI6dbYdo/RbZ2rV9tP7rLertvq2a8bu2OphoHQ1d1fZH1w3x1jRDdFlFtt2Zf6J1enlaRaYd7GDN9dz3D+dNezpsTed/sLrDWEVH1/vTXDtex6PK7IdcRedoHSspfkh/jZ3tTH39hbisvqAzHJ0HonMcLQLRAkfLQLTE0SoQrXB0EYgucHQZiC5xtA5Eaxitk0B0muDsNJSN90cd2h9TvEPq0A6Z4j1Sh/bIVFADiU/PZY4mKVoOKVXUaHpPaUHR8ju0khozMyhuTQ2aEDtLKN1Qe2UppRtjZ9Roj+Ukp4Z7jC0o3VhOJKUbYytqnsJyUlATFcYuKd1YTjSlG2LnCTXDQjnJU2qGxdgZpRvLSU7pxtiCcgZYTiTlDDC2onRjOSko3Ri7pBwNlhNNsSHdIqH8TTLvGkRK0dI7tIxyNPe05RTtnjbuwS+F2uTWv/qhqn/Htu1NN/hD33qY5At7Ff19qhqP9qTG7E27q7qzh/yyjaddH/D/PPnfLukau4t/nUwTTc9vXXeoxq9qdzhWXTU4rzT6GY0rBqfebD6ZQ3cyc0EpPCj5TVAlFZStzbLRFFQTpctEU7u27sywcEgl5bYS6I7WlEuEeotMKN0YO8WbWX2Tk/FZmumKgzFNfGyqhZtaZpSJhJpa5pSJxNiC0o01taR0Y2xFmUgsJwVlIjF2SenGcqIp3RBbJZSJhHKiUspEYuyM0o3lJKd0Y2xBGVQsJ5JiY7qpBTih5y2hCvAE+X9pC9g227k23puqi1+fzcLeTZWTyLrK7p+H2P/XzFm3z7BmU6SZuXomRXMvHigfIEqITfmAr2zaB7h2WQdQZFRAeqGAttXgD56XDSlnzAF4bwnGHIBsSenG7ltF6cbYBWMOwJyUjDkA2dS7PiwnJfWuD2RT7/qwnJTUuz6QnVO6sZwISjfGpowHmBNFsTHdk3556rYu/r8rFJPZsICuUMKTR6G/Yd+bPOYuqUODKgOD0reu6393rpvZuTD7bIovns0O5vAx3e0mtTb90ZhdfHC7U2PiPLoX8Z/Tx8lyY9sXr875A9fZ8/OTv8x7xqN1MoYweyS9eyS7eyS/PF38v5msTBadqm7v4tdq7+P9xveNiTFttW3MpnF72w+27jevz9Z/PrgX2+6j9a+q6c0qcp31V6uulPeRdqLtzXuEj1eAy9ve1ScoWwqULwUS9ELsjSEXYChytfFGKB4mlOHrt7eT9SMnT4p2ghfhJpR0EUrG+eYJIX+YIJiHkcn58sHzb7djtXup2tqPqbXt6pMdglHFcqhycosfj6aL63HgC8boRTCT0pdj52rT9360jU9teFyTQpdHSbd7t3Gv8c60fto4x71/hqv9RB4eY74w73ZfP7vmYE+H2BEUyVOe5tZJdBa+4FLMgqjSH9AxCYqtILak1ifUQusT4d0QXKTQioqrWCgubsBDY6NKf8F7jar9Bdma0q2w4t+EEg7CU2opo8DgGbWWAcJzSjmYFkEpB+GSWs4A06Ko9QwQXlDKwbSUlHIQThVAgWkJqc8XocpTqmRYgMX/GVNSI+Q7nJg9HnBc4BSSTp5UAupqPvJFhBRu19BAOHMksYantgahdxW1OQiFF5T/kQv5H+ppBm5yqjQbbXKqNhuEh2yaKEObPGTXhA6GU+XZaFqo+mwULijlYFokpRyEUyXaaFqoGm0UXlLKwbRoSjm4X44zKVhaQvZPiGDlGbMhS2Ab6AJ2UEwdEAintjahcGpvEwqnNjehcGp3EwqnKg5ROFVyCMIFVXOIwqmiQxSeUd1/Bv40vlB09e9N7dr2+vXHXyAYvx2zOv5kfNM5von4/GMFq+jFG6t3hlSZFlrLoiyKQiWXy7+U4hdL",
   "createdDate": 1758896212001,
   "descriptionMarkdown": "Way to split scrap components into belts using a cargo wagon and stack inserters.",
-  "favorites": {
-    "ABDcPVLT15dNukKWfuiNGqFnttE3": true,
-    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
-    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true,
-    "zRa0VHv1BxY2cp6z2c2OTHI1mRj1": true
-  },
   "image": {
-    "height": 0,
     "id": "TCJcsmq",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758896212001,
   "numberOfFavorites": 4,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Fulgora scrap sorter with cargo wagon"
+  "title": "Fulgora scrap sorter with cargo wagon",
+  "favorites": {
+    "zRa0VHv1BxY2cp6z2c2OTHI1mRj1": true,
+    "ABDcPVLT15dNukKWfuiNGqFnttE3": true,
+    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
+    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true
+  }
 }

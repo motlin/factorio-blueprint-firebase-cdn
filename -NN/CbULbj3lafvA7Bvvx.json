@@ -7,15 +7,15 @@
   "createdDate": 1704256730968,
   "descriptionMarkdown": "Hey this is just the 4 first space exploration sciences. It's meant to be built from right to left as incremental blocks. Build the iron, copper, stone lane first and the small mall plus original sciences. Then add the oil block bottom right then the blue science, then the bot module and finally the rocket science one. The smelting is part of the blueprint I just couldn't fit it in the screenshot. This is mostly designed by tsubodai#5272 on discord/youtube with a few bug fixes and mall improvements by me",
   "favorites": {
-    "LDSPhy30E8W4NKaT7U1SAQNQVMJ2": true,
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "Y0b3CAO5DFeo0buxvBmmiaHjh3w1": true,
     "GIRgdNTYSTfysKYAZMmmRJXOBN02": true,
-    "SO5IIj3CPMar3T5Hj6gxNABin6X2": true,
-    "5W5HqFNSp1X8q7JofnJ12GJwccH2": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
+    "bXqb3CgM9YYlPE9Og60HrFmhtI23": true,
     "gcG0qJUF01hARlScdBTkc9oOXbF3": true,
     "eiA7uAgbCLWPcGGMQL3xarALuxj2": true,
-    "bXqb3CgM9YYlPE9Og60HrFmhtI23": true,
+    "SO5IIj3CPMar3T5Hj6gxNABin6X2": true,
+    "Y0b3CAO5DFeo0buxvBmmiaHjh3w1": true,
+    "LDSPhy30E8W4NKaT7U1SAQNQVMJ2": true,
+    "5W5HqFNSp1X8q7JofnJ12GJwccH2": true,
     "OJiIZaHe1tbP0RiMjdmxbst2RKE3": true
   },
   "fileName": "StarterBase.png",
@@ -26,7 +26,7 @@
     "width": 824
   },
   "lastUpdatedDate": 1704259360570,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/science/",
     "/mods/space-exploration/"

@@ -7,22 +7,22 @@
   "createdDate": 1558463842982,
   "descriptionMarkdown": "# Enhanced Rail Compilation (2-Lane)\n\n## Description\n\nThis blueprint book merges several existing 2-lane rail blueprints (see credits) into one and makes them compatible.\n\n## Changelog\n\n###### 2019-11-04\n\n* Added mining outposts (8 and 12 lane).\n* Added belts to the outpost stations (two versions: Left / Right).\n* Shortened the single outpost station.\n* Tweaked the signals on all outpost stations.\n\n###### 2019-11-03 HOTFIX\n\n* Fixed the orientation of inserters on the new loading blueprints added in the previous version.\n\n###### 2019-11-03\n\n* Added loading (in addition to unloading) stops to the trainyard system.\n\n###### 2019-11-02\n\n* Added modular trainyard system\n* Added outpost loading stations (versions: 1 stop / 2 stops / 3 stops).\n* Fixed unnecessary items being included.\n\n###### 2019-05-22\n\n* Added crossing.\n\n## Credits\n\n* [Book: Trainstations > Trainyard Medium](https://factorioprints.com/view/-KvvSn0n4VDRCZxJlZbq)\n* [Chunk-Aligned Railway System with Wires\n](https://factorioprints.com/view/-Ko4Un71BhDDTUvorRv5)\n* [Modular Rail Network](https://factorioprints.com/view/-K_VpUtsGAlQeBuZ1oez)\n* [RHD Compact Celtic Knot Style Intersection](https://factorioprints.com/view/-KjYZyOEXtpW0OyjrC0D)",
   "favorites": {
-    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "e6JTXoFxTKVok5HSLRCPQUlMgLw1": true,
+    "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
     "L7752qlD13PesqZfw62onELz9g52": true,
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
-    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "K4UzHXqbSUVvuPWzb7OjCO08B8F3": true,
     "XapKJxfpaCOr004b6kXVsc5wZzd2": true,
+    "e6JTXoFxTKVok5HSLRCPQUlMgLw1": true,
     "sc5e8itCDxMsK6qY4AWKzwQrjuT2": true,
-    "K4UzHXqbSUVvuPWzb7OjCO08B8F3": true
+    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true
   },
   "fileName": "factorio_2019-05-21_20-37-09.png",
   "image": {
-    "height": 895,
     "id": "OTUKecB",
     "type": "image/png",
-    "width": 481
+    "width": 481,
+    "height": 895
   },
   "lastUpdatedDate": 1572798967895,
   "numberOfFavorites": 9,

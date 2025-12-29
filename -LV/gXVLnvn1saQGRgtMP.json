@@ -7,22 +7,22 @@
   "createdDate": 1575926498818,
   "descriptionMarkdown": "2,880 filtered, organized storage chests surrounded by roboports with a regulated bot population.  Upper left is logistics, upper right is production, lower left is intermediate, lower right is military.  Enough storage for a decent production buffer - 38k of 50-stacks (coal), 76k of 100-stacks (iron), 153k of 200-stacks (batteries).  Only solid items, including barrelled fluids.",
   "favorites": {
-    "Etq4IYnw9yOCi0fOeUxj8AY3BR33": true,
-    "jagPPcgsm0ar4vmWdS6WMOHRn393": true,
     "4x3FiHGpbjOLt9JjvcIZrfgaO9i2": true,
-    "CWkVUn7wTbWsjJCHG5AUVZETY812": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "jagPPcgsm0ar4vmWdS6WMOHRn393": true,
+    "CWkVUn7wTbWsjJCHG5AUVZETY812": true,
+    "Etq4IYnw9yOCi0fOeUxj8AY3BR33": true
   },
   "fileName": "LogiStor.jpg",
   "image": {
+    "width": 1246,
     "height": 957,
     "id": "RE7GXB6",
-    "type": "image/jpeg",
-    "width": 1246
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1575926498818,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/vanilla/",
     "/general/storage/",

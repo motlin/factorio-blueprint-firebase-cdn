@@ -7,15 +7,15 @@
   "createdDate": 1562430549253,
   "descriptionMarkdown": "This print can be used from mid to late game for refining of crude oil into sub oils and products.No mods are needed for this to work\nas I built it to work without any mods, there is also a large 48 tank storage each of the produced oils and a large crude storage as well.\n \n1. General production\n * 11 Refineries piped to work with Standard refining or advanced.\n * 7 Refineries for coal liquefaction process.\n * 10 Chemical plants for light oil cracking.\n * 4 Chemical plants for heavy oil Cracking.\n * 4 chemical plants for lubricant production.\n * 20 chemical plants for Solid fuel production spread across all oils.\n2.Fuel Depot for Train Refueling - The Fuel Depot is setup to handle single Locomotive trains and dual locomotive trains\n* to enable refueling of dual locomotive trains each train id will need to be setup in the memory bank to the right of the depot\neach train id needs to be entered into a single constant combinator and then it is turned on. The decider combinator then receives the incoming \ntrain ID from the train stop and checks to see if it matches one of the ID's in the memory bank. If the ID matches the signal is then \npassed on to the second decider which compares if the ID signals are the same thus enabling the second set of inserters to refuel the second \nlocomotive.Currently the memory bank can handle up to 28 dual locomotive trains however it can be expanded if needed.  ",
   "favorites": {
+    "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
+    "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "GtvC3PB7LSdqGZ6MBJR4h3LIZc42": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
     "7VLIYwSGBZSascdFit6Zw5EqzOe2": true,
-    "GtvC3PB7LSdqGZ6MBJR4h3LIZc42": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
-    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
-    "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
-    "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true
   },
   "fileName": "screenshot-tick-2596207.png",
   "image": {
@@ -25,7 +25,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1562433287543,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 8,
   "tags": [
     "/mods/vanilla/",
     "/production/coal liquification/",

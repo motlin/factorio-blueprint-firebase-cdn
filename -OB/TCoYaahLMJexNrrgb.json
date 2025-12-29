@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "117 gulgul",
     "userId": "HJfTQbkSjPR5rHGJjPja1vi2a302"
   },
   "authorId": "HJfTQbkSjPR5rHGJjPja1vi2a302",
@@ -7,17 +8,15 @@
   "createdDate": 1760369789470,
   "descriptionMarkdown": "申し訳ありませんが画像は適当なものとなっています。\n紹介できそうなものをピックアップしました。",
   "favorites": {
-    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true
   },
   "image": {
-    "height": 0,
     "id": "6Y3ZYSu",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1760369913970,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

@@ -7,9 +7,9 @@
   "createdDate": 1645010520368,
   "descriptionMarkdown": "Rectangular base, which produces 60SPM and does research.\n\n#### Inputs\n\n- Iron ore (train)\n- Copper ore (train)\n- Stone (train)\n- Coal (train)\n- Crude oil (train)\n- Water (pipe)\n\n#### Outputs\n\n- 60 science packs of each science per minute\n- The science packs are inserted into labs for research ",
   "favorites": {
-    "OzeVaCTDBHdoIWn75CUVTAXdKx52": true,
-    "AzV3JC1C87MkfjWZrxcBogzIbdT2": true,
     "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true,
+    "AzV3JC1C87MkfjWZrxcBogzIbdT2": true,
+    "OzeVaCTDBHdoIWn75CUVTAXdKx52": true,
     "OcDokt6GSnNYuvqP9Dwj10J2WYb2": true
   },
   "fileName": "60 SPM small.png",
@@ -20,7 +20,7 @@
     "width": 1176
   },
   "lastUpdatedDate": 1645010520368,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/science/",
     "/mods/vanilla/",

@@ -7,28 +7,19 @@
   "createdDate": 1501104456520,
   "descriptionMarkdown": "# Beacon Advanced Oil Production\nThis is a circuit network enabled advanced oil processing plant. The current conditions are simple, and set as follows:\n* IF flamethrower fuel < 200 -- make fuel (requires steel from, and provides fuel to logistics network)\n* IF lube in storage tank < 6k OR heavy oil > 6k -- make lube\n* IF heavy oil > 7k -- crack heavy oil --> light oil\n* IF light oil > 6k -- crack light oil --> petrol\n\n#### 1. *Outputs *\n* two saturated blue belts of plastic\n* one storage tank of lube\n* storage tank of sulfuric acid. \n\n#### 2. *Required inputs:*\n* Top right: Water + oil\n* Mid  right: Water\n* Low/Mid left: Coal - requires a near full saturated blue belt\n* Low right: Iron plates (can be on both sides of belt)\n\n#### 3. Production rates:\n* Petroleum: 49.5k / min\n* Sulfuric Acid: 15k / min\n* Lube: 6.9k / min\n* Plastic bar: 4.7k / min\n\n_Note: This oil setup output is about half of what you would need for the plastic required to produce 1 rocket per minute._",
   "favorites": {
-    "wMchWlrHcOYloFhLKZoIFWZigmv1": true,
-    "G2nHDD7XA0WP3p5cWOhqP4ldi5i2": true,
-    "iH4952CJYZfCc5UOfj8r0BX6R3R2": true,
     "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
-    "WvzpBbEL0RWx70SFbEh2QfJlALA2": true,
-    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
     "pXiRWLlhTldLGbCjxcguLkZh2lh2": true,
-    "GE6dWRZP5ocPZDzAiXVkaSpyJzi2": true,
-    "r5Q95ibfEXT0549qVUZnIfPbZJO2": true,
-    "M5teZ8UaDmhCx5gFeItyrAe0U5y1": true,
     "ykMYDczFuSdoSpgwo51FHB5DMLv1": true,
+    "wMchWlrHcOYloFhLKZoIFWZigmv1": true,
     "IvVoKzGUcdWx5fVRJ1vZU7hUos13": true,
-    "qSEQydqRXxYF0w3GshaNOF9lE5g1": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
   },
   "fileName": "smile.JPG",
   "image": {
-    "height": 719,
     "id": "kYCPUVJ",
     "type": "image/jpeg",
-    "width": 1534
+    "width": 1534,
+    "height": 719
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/smile.JPG?alt=media&token=90e7380b-5f79-4171-8787-f956e039c2c2",
   "lastUpdatedDate": 1501104456520,

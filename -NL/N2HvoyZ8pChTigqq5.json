@@ -7,12 +7,12 @@
   "createdDate": 1673293279042,
   "descriptionMarkdown": "I made this city block tile based on [Small city block by veger](https://www.factorio.school/view/-MCqByBKgkzlBa7gHHuU).\n\nThe changes are that I made are converting it to 1/4 train, expanding the size to the max length of the power poles, adding circuit lines, adding LTN stations and wiring those stations up, converting all of the poles to lighted electric poles, and fixing the signals. This was made for Space Exploration.\n\nI will be updating the design as I continue to use it.",
   "favorites": {
-    "o5JCUII699SM0pmY5b97gzavs3i1": true,
     "Mq1c2mtuWWZF0OHccB6B9iL6NcS2": true,
+    "29dbBeGThnZZBFKooiswLAiR53f1": true,
     "Pw7XXRu6AZfCwtNPUIE4KinjTax1": true,
     "J98cZ4MquZc3OSNkFmyjuqaPgwg2": true,
-    "29dbBeGThnZZBFKooiswLAiR53f1": true,
-    "rKXwycxs3APymiQr644tYwfnKPG3": true
+    "rKXwycxs3APymiQr644tYwfnKPG3": true,
+    "o5JCUII699SM0pmY5b97gzavs3i1": true
   },
   "fileName": "BlockShot.png",
   "image": {
@@ -22,7 +22,7 @@
     "width": 1024
   },
   "lastUpdatedDate": 1673293344721,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/tileable/",
     "/mods/ltn/",

@@ -7,20 +7,18 @@
   "createdDate": 1730819227221,
   "descriptionMarkdown": "This blueprint book it`s simple constructor that could help build railway network tying it to grid of roboports. I've seen city blocks and railroads with only electric poles, but none with a roboport network. So I did it. Please write your ideas for future updates and your thoughts about it.\n\nUpdate 1.1:\n* Re-linked the robotports grid to world coordinates (more correct way in my opinion)\n* Made all railroads more compact (including stations)\n* Fixed some logic issues with uniform loading and unloading",
   "favorites": {
+    "RPSmLhtvuYYZ3zU3egYdI0OykOo1": true,
     "EmLs4bLrUFVIx7oIA3CYPreKiwo1": true,
-    "Nkk2QNtSeaMMjmY8fjLEYZeMEPd2": true,
     "rTvsNPsxHMPKmMGd9TM2vsxR34J3": true,
-    "RPSmLhtvuYYZ3zU3egYdI0OykOo1": true
+    "Nkk2QNtSeaMMjmY8fjLEYZeMEPd2": true
   },
   "image": {
-    "height": 0,
     "id": "pTPiAxQ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/ntSVS9w",
   "lastUpdatedDate": 1730976493519,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/",

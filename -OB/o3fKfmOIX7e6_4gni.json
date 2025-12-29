@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Rocky Sims",
     "userId": "AGndiU0vcyQxqXhV21WrHnCclJ33"
   },
   "authorId": "AGndiU0vcyQxqXhV21WrHnCclJ33",
@@ -7,33 +8,31 @@
   "createdDate": 1760736491070,
   "descriptionMarkdown": "### This rail book contains:\n1. **Provider** and **Requester** Stations to make train logistics much easier.\n2. Simple set of rails (**T**, **straight**, **corner**, **U**).\n3. **Refuel** & **Depot** Stations.\n4. **Mobile Mall** that assembles requested items (configurable) and loads mall train.\n\n### Overview\n* Provider/Requester stations broadcast how many train loads of items/fluid are available/needed and the depots dispatch trains.\n* Provider/Requester stations are dedicated to a single item/fluid type.\n* Trains automatically refuel at the Refuel Station.\n* Made for 1-2 trains (locomotive, cargo, cargo).\n* Right hand drive.\n\n### Why use this rail system?\n* Setup is easy.\n\t* Depot blueprints include a train with its **schedule preconfigured**.\n\t* Provider/Requester stations will **prompt you to select an item/fluid** when placing the blueprint (no other configuration needed).\n\t* Snaps to **absolute grid** so all parts of the rail network will align.\n* Diagnostics.\n\t* Hovering over any big electric pole in the rail system shows how many **train loads** are **available** (green) and **needed** (red). This makes it easy to find the bottleneck (do I need more copper ore? or more smelters? etc.).\n* Mobile Mall.\n\t* Assembles the input items (directly or indirectly) into the requested items and un/loads the mall train to match requests.\n\t* By default, it is **configured** to produce the items needed to build any one station but can be easily reconfigured to include more/other items.\n\t* Easy to **add** more **wagons**, **assemblers**, and **input item** types.\n* Early game.\n\t* Requires **red**, **green**, and 50 **blue** science (for *advanced combinators*).\n\n### Additional features:\n- How many train loads a station should **buffer is configurable** at each station. *Hint: Look for the constant combinator with a low temperature symbol.*\n- Priority of provider/requester stations is the number of train loads available/needed (so the most **needy stations get service** first).\n- Requester stations **double as a dispatcher** so trains don't necessarily need to go back to the depot before being reassigned (which reduces traffic).\n- Each provider/requester station **train limit** is set to 3 (1 station + 2 parking spots) so you'll never have a waiting train blocking the main track.\n- Train **dispatching is smart** enough to prioritize the most in demand item/fluid first and only consider items/fluids where a full train load is both provided and requested.\n- **One click** to add a **new train** (paste depot blueprint over itself again).\n- Trains can be added/removed/destroyed without confusing the system.\n- Provider/Requester station's boxes are **balanced** (roughly) using circuit logic (since normal balancer would be too bulky).\n- Item/fluid provider/requester stations are only **8 tiles wide** and all fit in the **same form factor**.\n- A single Stations Base can have **several** provider/requester **stations**.\n- Refueling station can be supplied with wood, coal, solid fuel, rocket fuel, or nuclear fuel. Supplied **fuel can be changed later** by simply belting in a different fuel and the existing trains will be automatically switched over to the new fuel when they next refuel.\n- Mall will **produce breadth first** (some of everything) instead of depth first (all of one thing then start on the next).\n- Mall train can be **easily summoned** (immediately or once loaded) and doubles as personal transport.\n- Mall will produce a **spare copy** of requests and keep it on hand so the mall train can be quickly reloaded.\n- Mall will automatically **unload trash** you put in the mall train (such as wood and excess stone).\n- Mall has an optional **logistics hookup** to allow it to request items from the logistics network.\n- Mall will **alert** you if it **lacks** a necessary **input item** to produce a request.\n\n### Changes:\n\n10/31/2025\n - Fixed bug where, without space age, item trains were dispatched when fluid trains should have been.\n - Fixed bug where, without space age, the mall didn't produce anything.\n\n11/04/2025\n- Fixed issue where, when adding station to stations base, there were two places that looked right.\n\n---\nLegacy version available [here](https://factorioprints.com/view/-OBO8SUUaOTlahnaygRY).",
   "favorites": {
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "ranmpjdcHHPGhPtbrMllSKeEDQt2": true,
+    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
+    "mKyQTgcCY9cB3nc2BkOkM41cNpo2": true,
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
     "rPEM2ev6dufaQ2Un8MfUFikm7lK2": true,
-    "6J8Xlz2tcxMgTUD1jqIlF7QNQQn2": true,
+    "T76GnRDPH7b9Jx0dUXbXMhKMoWS2": true,
+    "D8VNS46cr1QM2cSX9vQGGsyfhAI2": true,
     "Wt4gjB3sDXfcZEAQvT0ftQyAzAY2": true,
     "M53oVgQkx6hT2BHbOCErmqU5tAk1": true,
+    "HG42hRL4IWfd7vtPeHHFHkIy5x52": true,
+    "6J8Xlz2tcxMgTUD1jqIlF7QNQQn2": true,
     "OHiaxZT3eaeJzygQXefs090XMCx2": true,
-    "T76GnRDPH7b9Jx0dUXbXMhKMoWS2": true,
-    "vHaWknHBJsh9n4ciIQmft0d7djl2": true,
-    "DLx7EQgytSSfT2W8U80HnZYimjE3": true,
-    "QwK3N64ieveYhXMxUO4dthDxvq82": true,
-    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
-    "ranmpjdcHHPGhPtbrMllSKeEDQt2": true,
-    "OqeTOKugQZO582vzOaYcOGp9ViH2": true,
     "GTOFlZIH2egqNUpcKlSiHLwTivl1": true,
     "KF434v09jCMvGg8cnoOJuedk3aa2": true,
-    "mKyQTgcCY9cB3nc2BkOkM41cNpo2": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "vHaWknHBJsh9n4ciIQmft0d7djl2": true,
+    "DLx7EQgytSSfT2W8U80HnZYimjE3": true,
+    "OqeTOKugQZO582vzOaYcOGp9ViH2": true,
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
     "rDeCvoPhh7cLmCWthwnw5vNQwL43": true,
-    "D8VNS46cr1QM2cSX9vQGGsyfhAI2": true,
-    "HG42hRL4IWfd7vtPeHHFHkIy5x52": true,
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+    "QwK3N64ieveYhXMxUO4dthDxvq82": true
   },
   "image": {
-    "height": 0,
     "id": "JbyuuKk",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762309086076,
   "numberOfFavorites": 21,

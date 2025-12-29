@@ -7,21 +7,19 @@
   "createdDate": 1735740052926,
   "descriptionMarkdown": "Built to manufacture space science packs and deliver them to the planet below.\n\n - Initial A variant was designed to dump waste resources to Nauvis, and had no defences.\n - B variant improved upon A with some defences and waste management so it could be deployed above Gleba.\n\nThis uses RARE SOLAR PANELS, everything else common, but is probably OK with common panels.\n\nI am aware this lacks some efficiency, but works 'good enough' so I've just left it as is.\n\nCurrently in use with space-age vanilla 2.0.28",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "HShqmSxkwIW0bNaRy1eUj73AOLA3": true,
     "WmNS8bWegTY1Lb653p7wdB5E5Ox2": true,
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,
-    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true
+    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "MNxFLD7",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/MNxFLD7",
   "lastUpdatedDate": 1735740052926,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/planets/space-platform/",
     "/mods/space-age/"

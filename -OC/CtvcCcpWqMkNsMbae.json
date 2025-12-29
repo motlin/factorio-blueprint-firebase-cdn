@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Simon Snider",
     "userId": "m9dzaGWXNMhWJga5gzUizyL3Fub2"
   },
   "authorId": "m9dzaGWXNMhWJga5gzUizyL3Fub2",
@@ -10,13 +11,11 @@
     "I7RkewXRzmbak9cV93stf78f9Tk2": true
   },
   "image": {
-    "height": 0,
     "id": "OVT2vgz",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1761169881732,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

@@ -8,8 +8,8 @@
   "descriptionMarkdown": "Two designs with 2.7GW / 1.7GW output. \n\nThe lights can be change to different colours. \n\nMod used: \n\n- [Waterfill](https://mods.factorio.com/mod/RitnWaterfill).\n\nUpdates:\n-  March 12 2023 Created a third design based on the powerplant with 1,7MG. Instead of having a provider and requester chest delivering fuel cells direct into the reactors, a simple circuit network will provide the belt which go around the reactors with fuel cells for drop off and pickup.\n",
   "favorites": {
     "TTNQCmIpbxejtnvZoqkNrvcnznU2": true,
-    "ZCdZvG7ntGbzG03U81dfaiGrInP2": true,
-    "xRGF6od82nY2kG6eqPYCybvakHY2": true
+    "xRGF6od82nY2kG6eqPYCybvakHY2": true,
+    "ZCdZvG7ntGbzG03U81dfaiGrInP2": true
   },
   "fileName": "Skärmavbild 2023-03-09 kl. 11.38.27.png",
   "image": {
@@ -19,7 +19,7 @@
     "width": 606
   },
   "lastUpdatedDate": 1678645735548,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/power/nuclear/",
     "/mods/vanilla/"

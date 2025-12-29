@@ -7,8 +7,8 @@
   "createdDate": 1694009333032,
   "descriptionMarkdown": "Compact plants that can fit nicely into most standard city block sizes, and can also tile.\nTwo designs are in this book and both use 192 turbines (1.117 GW of power). One is always on, one is circuited and never wastes heat. Both can sustain a maximum power draw and are robust against fluid quirkiness.\n\nBoth work on a logistics network, but all you need to do is simply add an active provider chest in range of a roboport that will be supplied with Uranium Fuel, and a requester chest in range of a roboport that requests spent uranium fuel to be pulled out of the system. If you tile these plants the roboports will connect so you only need a single input/output chest for a group of tiled plants.",
   "favorites": {
-    "vvAJFgIsslcbvBhElxqeVs5fXgS2": true,
-    "ugsQBdW9hOXZeARDHVO0ueRYZIz1": true
+    "ugsQBdW9hOXZeARDHVO0ueRYZIz1": true,
+    "vvAJFgIsslcbvBhElxqeVs5fXgS2": true
   },
   "fileName": "screenshot-tick-20486949.png",
   "image": {
@@ -18,7 +18,7 @@
     "width": 953
   },
   "lastUpdatedDate": 1694019323182,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/power/nuclear/"
   ],

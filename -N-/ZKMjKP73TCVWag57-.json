@@ -7,12 +7,12 @@
   "createdDate": 1649877023830,
   "descriptionMarkdown": "City Block Power Grid, Solar Cells, and Rail layouts for a 1-2 trains.\n\nStations contain logic for setting train limits based on chest contents and desired amount.\n\nT Intersections, Straights, and Inline stations can have the Straight Express stamped over them to add a 2 lane on the straight sides of intersections. Intended to allow long lower exit paths for trains to hopefully take to avoid areas with lots of intersections",
   "favorites": {
-    "cz5L6cstF5fZrx71mMJinvguSuy1": true,
-    "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
-    "17yYyUoWkZgcripeW9kXuYGiyxU2": true,
-    "tLqsMbQOE0UcXWMBgiUOXPNTnF03": true
+    "tLqsMbQOE0UcXWMBgiUOXPNTnF03": true,
+    "cz5L6cstF5fZrx71mMJinvguSuy1": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
+    "17yYyUoWkZgcripeW9kXuYGiyxU2": true
   },
   "fileName": "1-2book.png",
   "image": {
@@ -22,7 +22,7 @@
     "width": 1576
   },
   "lastUpdatedDate": 1670009400136,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/tileable/",
     "/power/solar/",

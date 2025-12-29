@@ -7,23 +7,8 @@
   "createdDate": 1531497840351,
   "descriptionMarkdown": "Mining Outpost with a little automation for Train calling.\n\nCopper, Iron, Coal and Stone can be mined all together.\nThere is a Filter for the Loading Stations for each Type.\n\nThe Amount of Ressources are Read and each TrainStation of that Ressource is activ.\nThe TrainStations is also activ, if there is Ressources in the loading -Chests.\nThe Stations are disabled, if there is a Train in the Station, or there arent Ressources left, or there arent Ressources in the Chest.\n\nThere are also a SUpply-Station for Building this and a Trash-Station for delivering back to Base.\nThe Trash Station is activ, if there are Items in the Chest.\n\nTHere is also a kombinator. If Turned on, all Items from Supply-Station are loaded to the Trash-Station for Turning back to Base.\n\nIf some1 likes it i uploud more.",
   "favorites": {
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
     "DjYNvGesC5N1c9aGVkw7uZSZIcn1": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
-    "VWLRKEAf5rXYUs57cbHpV5OtIWq1": true,
-    "k6FtjJzrImesAfGWmDGLOyhm9wu2": true,
-    "NCJujBif2qM3BxGgHXQSDFPf7OD3": true,
-    "esfltOaBosc6y52j0lE06bYSfaz1": true,
-    "GE6dWRZP5ocPZDzAiXVkaSpyJzi2": true,
-    "YhTViJRXbOchQ0GNRDKj1pOuBJI2": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "pLOICaq6gKOwhKjnQWY2er3YOD73": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
-    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true,
-    "sB00EhSsbMfQ9pPm4rtdZQjVlGm2": true
+    "YhTViJRXbOchQ0GNRDKj1pOuBJI2": true
   },
   "fileName": "Unbenannt56756756.png",
   "image": {

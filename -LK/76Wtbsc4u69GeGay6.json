@@ -7,28 +7,28 @@
   "createdDate": 1563504287587,
   "descriptionMarkdown": "This is my 20k/min red science factory. It uses trains, blue belts, and a sprinkling of copper requester chests to hit the 20k mark. \n- I originally created one perfect ratio column of red science that had 12 beacons. \n- I extended this until the copper on the blue belt ran out, to come up with around 19k/min red science.\n- I wanted to hit the 20k/min mark so I added in some requester chests for extra copper to boost the factory just a little bit.\n\nMore pictures in the Reddit post: https://www.reddit.com/r/factorio/comments/cf21t5/my_20kmin_automation_science_pack_red_science",
   "favorites": {
-    "JFUJeO0PJ2Ph9rNGa9rUlDtyfzc2": true,
-    "kzemT7l62Od5fvXMuuqRz2ThQEr2": true,
-    "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true,
-    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
-    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
-    "WV5dTP2A7GaBekQdNc1k98CrE9C3": true,
-    "fhhLAVugqpW8nWg5eW2pL1U7YsD2": true,
-    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "fhhLAVugqpW8nWg5eW2pL1U7YsD2": true,
     "fvIxjOHvS8dXJe6l6dRHKZCoUEs2": true,
-    "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
+    "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,
+    "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true,
+    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
+    "kzemT7l62Od5fvXMuuqRz2ThQEr2": true,
+    "JFUJeO0PJ2Ph9rNGa9rUlDtyfzc2": true,
+    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
+    "WV5dTP2A7GaBekQdNc1k98CrE9C3": true
   },
   "fileName": "0.jpg",
   "image": {
-    "height": 985,
     "id": "cAhLbrb",
     "type": "image/jpeg",
-    "width": 847
+    "width": 847,
+    "height": 985
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/0.jpg?alt=media&token=a9516325-6119-46ce-ab58-f523c0b428d2",
   "lastUpdatedDate": 1563510437729,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 10,
   "tags": [
     "/production/robots/",
     "/production/other/",

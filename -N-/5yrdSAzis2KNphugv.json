@@ -8,8 +8,8 @@
   "descriptionMarkdown": "1-2 Grid Aligned Block Layout.\n\nSet the Pink signal on the arthimetic combinator to the monitoring symbol for the station. Connect loading stations with green wire and unloading with red wire for monitoring. Probably some bugs! enjoy\n\nIncludes two solar blueprints. The regular leaves room between panels for walking, the other fills as much space as possible. \n\nThere are Express versions of the straights and T intersection that add a third rail on the straight through path. I will at some point probably add the necessary bits to hook them onto rails that aren't a buffered T or a T Express. Right now you need to onramp and offramp through T intersections.\n\nThe stations are designed to be stamped down over the existing stations. There is parking for at least 1 additional train. You will want to update the combinators to reflect the stack size of your items. For the train logic there is a constant combinator with a locomotive and a wagon. Set the locomotive signal to the train limit you want. Exceeding two will most likely cause issues. Set the Cargo Wagon signal to the amount of items that fill the train (8,000 for items in stacks of 100, 16,000 for items in stacks of 200 etc..).  The fluid unloading station is auto balancing. It uses the amount of fluid left in the tank next to the combinators to figure out when the other two tanks have fully emptied. Fluids are weird. Fluid loading also balances tanks so trains load quickly.",
   "favorites": {
     "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
-    "iKnJsM3tCzVeNypMnwElV7aGH7k2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "iKnJsM3tCzVeNypMnwElV7aGH7k2": true,
     "rKXwycxs3APymiQr644tYwfnKPG3": true
   },
   "fileName": "train_book_thumb (Large).png",

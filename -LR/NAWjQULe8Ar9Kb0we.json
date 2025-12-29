@@ -7,25 +7,11 @@
   "createdDate": 1542298935036,
   "descriptionMarkdown": "This is a MiniBase, setup ore processing -> Red -> Green -> rush to robot then leave the whole base for robot to build until Yellow Science Pack.\n\nOptimized setup for:\n- 0.75 item/s for every science packs type.\n- Craft basic items\n- 0.6 construction robots/s\n\nTo increase velocity, just need to upgrade belts and machines, to fit the input.",
   "favorites": {
-    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
-    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
-    "NoySjXy9wEc3DWl93k6ClBVpTSr1": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "kLsKsUcBmQeDjMv5qDIqoblPFqv1": true,
-    "zXNhotLkQHWryqz2ektrsygnJlx2": true,
-    "FHBmlbRQyQfCXEqoofKWmZ7fuPm1": true,
     "OXrpkGBcIQcLSjdO4NjHRItnsbx2": true,
-    "9m0aOdzN1KMygMhAODbflOZfS0G2": true,
-    "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
-    "flKCIjvvSkSir05w1njyXaeSzd23": true,
-    "KUafRsGImnQqqGD9L0EM5Lcn5CC2": true,
-    "gaAFyADxkGQUrULFhcskpNTo45O2": true,
+    "FHBmlbRQyQfCXEqoofKWmZ7fuPm1": true,
     "i3tuKk4UukVWjIFlGXzeO8RTwmf1": true,
-    "IG4sy8s4wdZpi89PgFRxRduE7Hp1": true,
     "ub0iEtNIVqVuJDIIVHdezrooiVY2": true,
-    "9pz4TMzGKNXdaIVUCbMQFf7Tob03": true,
-    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
-    "cRIBywe3TtgHMg6pVXGPdIbAJ253": true
+    "IG4sy8s4wdZpi89PgFRxRduE7Hp1": true
   },
   "fileName": "Rush Robot.bmp",
   "image": {
@@ -35,7 +21,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1542357085782,
-  "numberOfFavorites": 19,
+  "numberOfFavorites": 20,
   "tags": [
     "/production/science/",
     "/production/research (labs)/",

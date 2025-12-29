@@ -7,18 +7,16 @@
   "createdDate": 1732888112585,
   "descriptionMarkdown": "space ship with reactor 260km/h",
   "favorites": {
-    "dqQbDkei8XYkI8GbGi3lpXSkkE23": true,
-    "7UQDTpiF2Wd9JSV12aVGDNiCC5m1": true
+    "7UQDTpiF2Wd9JSV12aVGDNiCC5m1": true,
+    "dqQbDkei8XYkI8GbGi3lpXSkkE23": true
   },
   "image": {
-    "height": 0,
     "id": "D3cX6eq",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/D3cX6eq",
   "lastUpdatedDate": 1732888112585,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/"

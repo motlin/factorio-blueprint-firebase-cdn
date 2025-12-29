@@ -7,23 +7,21 @@
   "createdDate": 1744225393585,
   "descriptionMarkdown": "17,6 GW (was calculated for 18,33 GW)\n\nDoes not self start!",
   "favorites": {
-    "rDUnG9Igf2TvdK8q3v5FmzY7ogy1": true,
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
-    "G3nRjdjWPASkpkr5qbcqTwz0sS13": true,
-    "7ho1v3TsRAUgTtBxR5rIIwO0I5g2": true,
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,
-    "GWoAiTyBMRO1qOsDZbNsFP228hy1": true
+    "GWoAiTyBMRO1qOsDZbNsFP228hy1": true,
+    "rDUnG9Igf2TvdK8q3v5FmzY7ogy1": true,
+    "G3nRjdjWPASkpkr5qbcqTwz0sS13": true,
+    "7ho1v3TsRAUgTtBxR5rIIwO0I5g2": true
   },
   "image": {
-    "height": 0,
     "id": "2ocqWxg",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/2ocqWxg",
   "lastUpdatedDate": 1744225393585,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/space-age/",
     "/planets/aquilo/"

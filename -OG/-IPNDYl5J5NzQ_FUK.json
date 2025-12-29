@@ -7,27 +7,25 @@
   "createdDate": 1736245619103,
   "descriptionMarkdown": "This blueprint based on a blueprint by the author Riquid (https://www.factorio.school/view/-OB-AVMqeSJB3-6H4PYC)\n\nWhat's fixed:\n- increased cargo bay to 104k prometium\n- removed speed control by taking damage. now speed is set depending on where it is flying. speed is changed in the top combinators.\n- minor fixes.\n\nBefore launch:\n- you can put engines/manipulators/blue modules of initial quality. critically they have no effect.\n- improved engines are needed to fly through simple areas quickly. You don't have to improve them.\n- Turrets on the bow of the ship should be as good as possible depending on your capabilities. the distance to the start of the attack is very important and it is not difficult to do.\n- Use improved collectors too.\n\nStart:\nafter building the platform\n- bring fuel rods, barrels and solar panels. \n- Switch the right manipulator from fuel rods to barrels, remove the plants from the platform and replace them with solar panels. after the reactor starts up, put everything back in place and you can switch back the manipulator.\n- Bring back some ammo for the turrets. and make a few runs to the regular planets. \n\nP. S. The platform is designed for afk farming promethium science. it flies about 250k kilometres and comes back. Haven't tried launching it to a planet. I think we need a platform on other rockets.\n",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "ggxnyfv9muNUJ24YPlbYQuet1To2": true,
     "xlH6slOns0SZLZoqLeaxErOPanj2": true,
+    "QnBeGOzawEgqvN0b7MRXVR3EWyk2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
     "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
     "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
-    "TAv4rY2nKrh4OK2527v8R9i1eIq2": true,
-    "oCN86Ebth3Xjl5LMkBkbNYdXbxB3": true,
     "ZZpIPHL2YiPKOwnq6bivkLFdTDr1": true,
-    "QnBeGOzawEgqvN0b7MRXVR3EWyk2": true
+    "ggxnyfv9muNUJ24YPlbYQuet1To2": true,
+    "TAv4rY2nKrh4OK2527v8R9i1eIq2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "oCN86Ebth3Xjl5LMkBkbNYdXbxB3": true
   },
   "image": {
-    "height": 0,
     "id": "X79NLaW",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/X79NLaW",
   "lastUpdatedDate": 1736350600392,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 5,
   "tags": [
     "/production/science/"
   ],

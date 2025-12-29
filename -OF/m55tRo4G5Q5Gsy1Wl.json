@@ -7,19 +7,17 @@
   "createdDate": 1736007250012,
   "descriptionMarkdown": "a stingray shaped multifunctional 3-in-1 ship inspired by Nilaus's design.\n(stingray is really cute)\nuse interrupt autonomously travels between planets\nhead make legendary quantum chips,\nfins make legendary asteroids,\nmall in the center\nhttps://www.reddit.com/r/factorio/comments/1htgz4v/my_space_legendary_mall_stellar_stingray/",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "SS0ivWSelScggoritSCjMW2VOo32": true,
-    "ze9HZizJqFf5CHuJ7S5luTXU30F3": true
+    "ze9HZizJqFf5CHuJ7S5luTXU30F3": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "BEbPdSJ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/BEbPdSJ",
   "lastUpdatedDate": 1736007250012,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/circuit/indicator/",
     "/planets/space-platform/"

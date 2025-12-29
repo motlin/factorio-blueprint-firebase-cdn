@@ -7,14 +7,14 @@
   "createdDate": 1678872110087,
   "descriptionMarkdown": "##### This is a blueprint for a large nuclear power plant producing 9.6 GW of power. The main feature of the blueprint is that **a small water** is used for the power plant - you no longer need to spend hundreds thousands tons of stone to fill the oceans!\n\n#### **How to use:**\n1. Find water and build the \"Center\" blueprint. **IMPORTANT: Make sure all 88 pumps are built!**;\n2. Build a blueprint \"CRUSADER (min floor)\" or \"CRUSADER quadro (mf)\" (you need to arrange the necessary elements BEFORE the construction of buildings, as well as prepare the land for construction);\n3. Only after completing steps 1 and 2, use the power plant blueprint and build it;\n4. Start the power plant by turning on the combinator with the letters \"START\" (located next to the lower pumps);\n5. **ENJOY!**",
   "favorites": {
-    "r3ebPHV22tRvuAoEXBgtc7v1lpb2": true,
-    "HfQtrA6bbfXz10e5u4mQKd0fA9t1": true,
-    "iIukqxLIsnTiYZcnODr20VFgYhr2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "YhXqDOFfZVVobzpAbOVz0RwwNzO2": true,
+    "1QnI3FxqTFX33pPsWbghmrQjrCd2": true,
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
+    "r3ebPHV22tRvuAoEXBgtc7v1lpb2": true,
     "uIvFapZlHJf9YAeDrdQ7psjCmEg1": true,
-    "1QnI3FxqTFX33pPsWbghmrQjrCd2": true
+    "iIukqxLIsnTiYZcnODr20VFgYhr2": true,
+    "HfQtrA6bbfXz10e5u4mQKd0fA9t1": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "YhXqDOFfZVVobzpAbOVz0RwwNzO2": true
   },
   "fileName": "step5.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1541
   },
   "lastUpdatedDate": 1678872110087,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 3,
   "tags": [
     "/power/nuclear/",
     "/mods/vanilla/",

@@ -7,19 +7,15 @@
   "createdDate": 1526708713140,
   "descriptionMarkdown": "Acts a \"Virtual mine\" as fast large 4:8:4 trains fill up 16 stations for 1:1 ore supply trains to gather and move to where needed allowing for more predictable ore flow and easy of setting up dedicated long haul ore trains.\n\nNote this is a one way loop so all 8 engines face the same direction\n\nWorks with hexland v2: https://factorioprints.com/view/-LCXwXzaWLG_QIDsZitd",
   "favorites": {
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "k9RV6V6iYpTdJPsr8wKf38oPDUZ2": true,
-    "M76bmksp1vVT8lWLyyVOlPT1LKU2": true,
-    "vu9x82xA5HaId4IpOEpJvnbOHDz2": true,
     "eIyj5ZIPw1e437TbNXf2m56kwLr2": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true
+    "M76bmksp1vVT8lWLyyVOlPT1LKU2": true
   },
   "fileName": "Screenshot from 2018-05-18 22-44-11.png",
   "image": {
+    "width": 3140,
     "height": 1726,
     "id": "xXgMXzh",
-    "type": "image/jpeg",
-    "width": 3140
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1526814957305,
   "numberOfFavorites": 6,

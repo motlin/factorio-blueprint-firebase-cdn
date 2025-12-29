@@ -8,8 +8,8 @@
   "descriptionMarkdown": "Early game railway system for casual players, i.e. little bloat and not too convoluted (lights to indicate a station being open or closed is the least minimalist aspect of this book).\n\nContains single and double railways and stations ranging from bare-bones-blank to all-included. \nEarly defenses are available as well. \n\nDouble Railway is Right-hand drive.\n\nShould be simple and straightforward enough that it will be quick to understand.\nInformation is given within the blueprint to help.\n\nShould be efficient enough for casuals. Note that single railways and roundabouts are of-course slow, but viable in the early game. Can be upgraded to double railway somewhat easily. A hybrid system is also possible as you can see in the screenshot.\n\nA little hands-on learning will be necessary, such as remembering to set station limits and not mistakenly renaming stations which are already part of a train schedule (which would cause the name in the train schedule to change as well). \nAlso keeping in-mind when placing roundabouts that the rail signals on the straights connecting them leave enough space for the whole train. \nIf you are planning to add defensive walls to a stations remember not to curve the rails leaving the station immediately after the signal.\n\nEnjoy.",
   "favorites": {
     "s0QlP1gDMLT39QhgJbfXDmIQ0uw1": true,
-    "phSUDMDo2XOdHOwH9JLOPfBhKR43": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "phSUDMDo2XOdHOwH9JLOPfBhKR43": true
   },
   "fileName": "Untitltrae2d.png",
   "image": {
@@ -19,7 +19,7 @@
     "width": 1550
   },
   "lastUpdatedDate": 1662456275117,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/train/track/",
     "/train/right-hand-drive/"

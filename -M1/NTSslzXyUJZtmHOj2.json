@@ -7,12 +7,12 @@
   "createdDate": 1583106088675,
   "descriptionMarkdown": "Always felt annoyed at the 'small' size of city block rail blueprints, both in block size and expected train length, so I decided to build out one in the mindset of 'enough space' in both early and end stages of a base.\nChunk-aligned to surround 6x6 chunks, with all power poles centered in their chunk. (Krastorio, Big Pole length of 32 tiles)\nIf you remove all internal rails and bits, the 6x6 chunks inside will be empty, not even a train signal on them.\n\nThis is big enough to fit a train starter base in one block, so you can build with proper alignment from the beginning.\nA stone brick 2x2 aligns with central 4 chunk cross to ease initial chunk alignment.\nSecond blueprint is 4 blocks with a radar in the center, for easily adding more blocks to existing ones.\nCenter spacing between rail directions allows a lot of build options, for those that like things like solar in the gaps.\n\nDesign goal was based around minimizing trains crossing a track and maintaining speed if they do.\nIf a train needs to turn right, it pulls onto a dedicated pass lane, with enough room to stop and wait without blocking following traffic.\nHave not had a chance to test out whether or not the concept pans out as intended.\n\nBased the design around a 1-8 system aimed at efficiency, rather than immediate speed.\nShorter distances within the city blocks will get 1-4 trains as needed.\nWith an eye for top tier fuels becoming the permanent speed level, slower startup issues from weaker fuels are ignored.\nLarger trains also sets some limits on UPS eaten by trains through needing less of them.\nReview this Reddit post for data on train math:\n\nhttps://www.reddit.com/r/factorio/comments/dktywi/maximizing_trains_with_spreadsheets_or_how_i/\n\nEasy to convert to other configurations, so long as total train length is 9 or less in combined length.\nA more common 2-4 or 2-6 system could slip right in.\nIf you prefer LHD, get a blueprint mirroring mod, but I do not know if the signals would convert properly.\n\nStill working on the full complement, and plan to eventually build additional rail blueprints to accommodate links beyond the city block placements for distant outpost connections and defensive wall supplies.\nNot sure if I want to bother with pretty-fying more versions with tiles yet, but this is the starter before automation is ramped up.",
   "favorites": {
+    "EvcjgNswgqNDyooPcdJ3msMCkOW2": true,
+    "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true,
     "TTmsz4Rgo4QJeG0Rtc14xwh7ir52": true,
     "U3SFw7yOaWeekLA1wnadQ4M1ePM2": true,
-    "N3qLG9Oqrld2fkDUB9jpT0cqGXE3": true,
-    "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true,
-    "EvcjgNswgqNDyooPcdJ3msMCkOW2": true,
-    "fLtVs2Va0mZPAW8mJ0Fz7HKrW5j1": true
+    "fLtVs2Va0mZPAW8mJ0Fz7HKrW5j1": true,
+    "N3qLG9Oqrld2fkDUB9jpT0cqGXE3": true
   },
   "fileName": "6x6 Chunk Aligned Rail Block.PNG",
   "image": {

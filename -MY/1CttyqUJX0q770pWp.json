@@ -8,10 +8,10 @@
   "descriptionMarkdown": "Three stages to the build, First is the minimal build for it to be self-building. Second is fully beaconized. Third has all the sciences.\n\nAlso has an build designed for multiplayer games to minimize the chance someone connects the robo-ports.",
   "favorites": {
     "XpaG7mC0YJUv7eCMRr5xF1CeMha2": true,
-    "2YnotwJC1xSI4FmOYinNljsjHbI3": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
     "mfUaOi3cQ7gRPUL5raCfdewGzMe2": true,
-    "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true
+    "2YnotwJC1xSI4FmOYinNljsjHbI3": true,
+    "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "fileName": "2022-03-12-science-60.png",
   "image": {
@@ -21,7 +21,7 @@
     "width": 511
   },
   "lastUpdatedDate": 1647157157607,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/version/1,0/",
     "/production/science/",

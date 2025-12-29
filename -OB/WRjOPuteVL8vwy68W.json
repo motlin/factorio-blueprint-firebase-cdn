@@ -7,24 +7,22 @@
   "createdDate": 1731433002903,
   "descriptionMarkdown": "Welcome to the \"Factory for everything\"\n\nIt is a system that allows you to craft any item. The system compute every intermediate products and craft them in the right order to produce the desired item.",
   "favorites": {
+    "8CiRU5xanCVCp6uc7Wl9CUkp0S02": true,
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
+    "RPPrcbzSmTN6S8XhOO0sZUgzfqP2": true,
+    "QZg6963ItmX86snGUbOmTLW01h62": true,
     "CD64b01RcGcAg1X2GaiKeMbmbnv1": true,
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
-    "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true,
-    "8CiRU5xanCVCp6uc7Wl9CUkp0S02": true,
-    "QZg6963ItmX86snGUbOmTLW01h62": true,
-    "RPPrcbzSmTN6S8XhOO0sZUgzfqP2": true,
-    "uchEp5BFQ3e749acSwSSunmLIAA2": true
+    "xnDczljc7leQ8J0Hxm8nXnD6HPB3": true
   },
   "image": {
-    "height": 0,
     "id": "wUZfQSP",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/wUZfQSP",
   "lastUpdatedDate": 1731433002903,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/mall (make everything)/"
   ],

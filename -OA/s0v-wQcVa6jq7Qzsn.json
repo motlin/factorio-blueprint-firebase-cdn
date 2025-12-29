@@ -7,28 +7,26 @@
   "createdDate": 1730738106809,
   "descriptionMarkdown": "Uses Beacon Rebalance mod.\nThis takes hefty amout of resources to boot up for first launch, after that it should collect everything it needs.",
   "favorites": {
-    "W8PRLHP70XfHLC6ssogMxzwVzNs1": true,
-    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true,
-    "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,
-    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
-    "Jzk2nMYHfNMCAJuIxYKXvhkMPUi2": true,
-    "pbQmSn4c6eg7oyLzBf3CjqolCO52": true,
-    "11o67rL7N1dLaULE2eBjzVXoldK2": true,
     "ycH6D3Oqaxe6DoyP0maSSY5oH9g1": true,
-    "DVxrkwdEnPY3C0MZxK7RgLeh8oH2": true,
+    "2QpV8vxNl3h6ujc7i3RWosoHABu2": true,
+    "pbQmSn4c6eg7oyLzBf3CjqolCO52": true,
+    "Jzk2nMYHfNMCAJuIxYKXvhkMPUi2": true,
     "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
+    "DVxrkwdEnPY3C0MZxK7RgLeh8oH2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "11o67rL7N1dLaULE2eBjzVXoldK2": true,
+    "W8PRLHP70XfHLC6ssogMxzwVzNs1": true,
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
+    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true
   },
   "image": {
-    "height": 0,
     "id": "VbvAemZ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/VbvAemZ",
   "lastUpdatedDate": 1730738106809,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 3,
   "tags": [
     "/planets/space-platform/"
   ],

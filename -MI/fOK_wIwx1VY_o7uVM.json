@@ -7,22 +7,22 @@
   "createdDate": 1601677122002,
   "descriptionMarkdown": "I was getting frustrated trying to fill in large bodies of water in vanilla, so I came up with this Roboport Grid that I can spam over water.\n\nIt will still be a slow process, but now instead of manually placing roboports and landfill, I can just check the map and continue the expansion in a few seconds.\n\nA version with landfill tile and without are both included, in case you have parts of the water you don't want to fill in 100x100 at a time.\n\nThe buffer chest allows your construction bots to construct with short paths while your logistic bots move landfill from the source to the edge. ",
   "favorites": {
-    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
-    "ZNfC9P7oyrVpdn3XUESxRuyCiPw1": true,
     "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
     "4MT7V13r61Pua3WS8GUBa13Qlo23": true,
-    "GepJGRDFcTWYMhe6mCuYkdsbz2e2": true,
-    "6vcOE83nwZfUONZYZnuptrW5kbo2": true
+    "ZNfC9P7oyrVpdn3XUESxRuyCiPw1": true,
+    "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
+    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
+    "GepJGRDFcTWYMhe6mCuYkdsbz2e2": true
   },
   "fileName": "20201002151136_1.png",
   "image": {
+    "width": 2226,
     "height": 1453,
     "id": "4IGhMN3",
-    "type": "image/jpeg",
-    "width": 2226
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1601677122002,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/chunk aligned/",
     "/version/1,0/",

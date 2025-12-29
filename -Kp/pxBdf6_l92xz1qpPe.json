@@ -7,31 +7,19 @@
   "createdDate": 1500922563552,
   "descriptionMarkdown": "A massive build which is the latest in the 1 Rocket per minute series. To launch 1 rocket per minute, if the silo has 4 Productivity 3 modules, you need 715ish rocket control units per minute. This build will produce around 730 and a satellite. It buffers very few intermediate products, so resource usage is efficient.\n\nIt is a bot-based build featuring 14 stations (to reduce bot flying distances, and the number of bots needed). From top to bottom of the build these are:\n\n- Plastic\n- Iron Plate\n- Copper Plate\n- Copper Plate\n- Iron Plate\n- Iron Plate\n- Copper Plate\n- Plastic\n- Copper Plate\n- Iron Plate\n- Steel Plate\n- Rocket Fuel and Low density Structures\n- Rocket Control Unit and Satellite Loader\n- Sulphuric Acid\n\n**Notes**\n\n- You decide the type of unloader for the sulphuric acid, either tanker wagons or barrels. You'll need to build the station for this.\n- You could use bots to bring in the raw materials instead of trains, but it's recommended that bring them into the station locations\n- Similarly, you could use bots to take the rocket control units and satellite away to the rocket silo\n- You will need 2,000 logistics bot at worker robot speed 7\n",
   "favorites": {
-    "WQcqiFwdrocZZgxHDn4ak33gZQm2": true,
-    "aIyK611EV9eebtn49m0BxPbdkpi2": true,
-    "qrC1hQuMZKf4Hu4Dc5MKKiypN9x1": true,
-    "ye5gtruRXrYNm1cCzc4mUNfb6gW2": true,
     "E0l5bKYCxBSwwvkSk5n1ployxGn1": true,
-    "WvzpBbEL0RWx70SFbEh2QfJlALA2": true,
-    "iAuWaxNP1xfRzcAbOgeZNLayagk1": true,
-    "nQfAZHqfdedgCdivt9okfzA4XZB2": true,
-    "qg21dgZLYCe3O56kho54iw8p1U32": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
-    "pJiREWyNejfygrSucr8RSjJ3GcP2": true,
-    "bqxI3oEVCcRXUkcgiHf3uO252wz2": true,
-    "4MT7V13r61Pua3WS8GUBa13Qlo23": true
+    "qg21dgZLYCe3O56kho54iw8p1U32": true
   },
   "fileName": "720 Rocket Control Units and 1 Satellite per minute.png",
   "image": {
-    "height": 4112,
-    "id": "WpPCWXA",
     "type": "image/jpeg",
-    "width": 691
+    "width": 691,
+    "height": 4112,
+    "id": "WpPCWXA"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/720%20Rocket%20Control%20Units%20and%201%20Satellite%20per%20minute.png?alt=media&token=d6ee1cb4-8f03-44ff-9347-48eef438d38c",
   "lastUpdatedDate": 1500950693403,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 15,
   "tags": [
     "/version/0,15/",
     "/production/rocket parts/",

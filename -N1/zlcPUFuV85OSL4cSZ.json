@@ -7,12 +7,12 @@
   "createdDate": 1652484900651,
   "descriptionMarkdown": "This is a megabase design I came up with that does not use LTN,  I generally find it innefficient in terms of how many trains it uses but it has some squares I didn't add to my LTN book.\n\nStill using magic water, still using long chests",
   "favorites": {
-    "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
-    "OhuJKsSKwkgzVEZuqI9BEJ0By8r2": true,
-    "hK6VxIzfJGRr2Kl981tEFBjv7FI2": true,
     "lMPRklTqYjWsHuLAiXuT390ESuP2": true,
     "nrYyiX2fwVXiZ9UZ2lq6foWvCr52": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "OhuJKsSKwkgzVEZuqI9BEJ0By8r2": true,
+    "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "hK6VxIzfJGRr2Kl981tEFBjv7FI2": true
   },
   "fileName": "megabase.PNG",
   "image": {
@@ -22,7 +22,7 @@
     "width": 1942
   },
   "lastUpdatedDate": 1652484900651,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/late game (megabase)/",
     "/mods/other/",

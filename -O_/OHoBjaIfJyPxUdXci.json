@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "sma4niki",
     "userId": "HEcwxlbIsZMcRMgvYGABn1J52GJ2"
   },
   "authorId": "HEcwxlbIsZMcRMgvYGABn1J52GJ2",
@@ -7,17 +8,15 @@
   "createdDate": 1758139729620,
   "descriptionMarkdown": "This crazy thing design by belorusian. Its made out of 222k of space platform foundation and contains a litle factory for you space explorations. Cant go to the solar system.",
   "favorites": {
-    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "hbidJdCRkpWdiEsbcmFUN9ys6M32": true
   },
   "image": {
-    "height": 0,
     "id": "jookz5S",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758139729620,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/planets/space-platform/",

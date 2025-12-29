@@ -8,16 +8,16 @@
   "descriptionMarkdown": "When you suddenly get the urge to fill your screen with logistics (and robots) this is for you. This blueprint was based of the Factorio Calculator and does NOT use beacons. The holes you see (image) is just for ratio, so if you want to make excess anything, you can build there.\n\nThe top side makes logistic robots while the bottom makes construction robots. The top side is separated from the bottom side, so if you want to combine the oil and water input(left) you can. There is also a row of chemical plants(left) making solid fuel from excess petroleum gas that you can remove (I only dislike things going to waste and not working, you know?)\n\nThe following inputs are for both sides combined and individual and are meant to be supplied by your logistics system. Note: Actual blueprint is rotated 90 counterclockwise.\n\nLeft (Logistic Robot) Input\n--\n- 900/min Steel plate\n- 7.1k/min Iron plate\n- 8.8k/min Copper plate\n- 49.6k/min Crude oil\n- 118.6k/min Water ≈2 pumps\n\nRight (Construction Robot) Input\n--\n- 900/min Steel plate\n- 6.2k/min Iron plate\n- 5.6k/min Copper plate\n- 31.2k/min Crude oil\n- 94.2k/min Water ≈2 pumps\n\nCombined Input\n--\n- 1,800/min Steel\n- 13,320/min Iron\n- 14,400/min Copper\n- 80,769/min Oil\n- 212,768/min Water ≈3 pumps\n\nThe factory at max performance will have about 1.2k logistic robots roaming about (not counting input).\nTo start injecting pure raw robot energy into your logistics, simply turn on the combinators near the factory ~ HakureiSmugfest",
   "favorites": {
     "vkmcYHS2yxdzWkDazGYhAiHWLxE3": true,
-    "VobTRLmGmWeNbbpkvPYs96XxRzi1": true,
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,
-    "EVRITsSHPPTvzLqZmJR9OBc6xhC3": true
+    "EVRITsSHPPTvzLqZmJR9OBc6xhC3": true,
+    "VobTRLmGmWeNbbpkvPYs96XxRzi1": true
   },
   "fileName": "robot_factory_thumbnail.png",
   "image": {
+    "width": 1850,
     "height": 681,
     "id": "nsj1cR9",
-    "type": "image/jpeg",
-    "width": 1850
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1594945232668,
   "numberOfFavorites": 4,

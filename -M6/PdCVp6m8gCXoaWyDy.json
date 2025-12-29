@@ -7,12 +7,12 @@
   "createdDate": 1588511169043,
   "descriptionMarkdown": "Beinhaltet alle möglichen Elemente für ein LTN basiertes System\n\nDie Konfiguration des LTN erfolgt bei den \"Entladern\" dadurch, dass man einen EINEN VOLLEN Stack des gewünschten Items in die Kiste legt. Die LTN Bahnhöfe werden dadurch automatisch konfiguriert.\n\nUpdate 04.05.20 - 09:27:\nVerzicht auf \"LTN Combinator\". Verschiedene Fehler behoben.\n\nUpdate 04.05.20 - 00:44:\nDie Entlader konfigurieren sich selbst. Der Entlader liefert volle 8 Belt Ausgänge (Update bis Blau möglich).",
   "favorites": {
-    "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "N7vK5HH19aXdL17sCp3M9y4rWWc2": true,
     "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
-    "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true
+    "N7vK5HH19aXdL17sCp3M9y4rWWc2": true,
+    "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,
+    "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true
   },
   "fileName": "DarkWolf_LTN.jpg",
   "image": {

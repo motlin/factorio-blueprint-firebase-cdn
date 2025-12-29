@@ -7,31 +7,31 @@
   "createdDate": 1567562040773,
   "descriptionMarkdown": "- NOTE: Game may lag when placing.\n- Buildable by bots without interaction.\n- Fully expandable\n- Tested over 40GW",
   "favorites": {
-    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
     "ZUsUX6xYrYMNmaFxQWwlprMIoyS2": true,
-    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
+    "ge61ee0MGiaYXODzS4vQanEyhtV2": true,
+    "eIyj5ZIPw1e437TbNXf2m56kwLr2": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
     "V515dCjEUngAzrK44nUMwDHWagn1": true,
-    "eIyj5ZIPw1e437TbNXf2m56kwLr2": true,
-    "G8S6aGezMwSbVHSKGQz0bSOxWIC3": true,
-    "ge61ee0MGiaYXODzS4vQanEyhtV2": true,
-    "mBceYG4ttWZiAWGaSGAnzTFQxe32": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
     "AWXVB0E6gfQeIrVuS5OWi4XSVXn1": true,
-    "mNHFAiP6izStsOhbaEKjOewCujs2": true
+    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "mBceYG4ttWZiAWGaSGAnzTFQxe32": true,
+    "G8S6aGezMwSbVHSKGQz0bSOxWIC3": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   },
   "fileName": "1GW Solar Block.JPG",
   "image": {
-    "height": 679,
     "id": "eu86Wjb",
     "type": "image/jpeg",
-    "width": 616
+    "width": 616,
+    "height": 679
   },
   "lastUpdatedDate": 1567562040773,
-  "numberOfFavorites": 15,
+  "numberOfFavorites": 17,
   "tags": [
     "/power/solar/",
     "/version/0,17/"

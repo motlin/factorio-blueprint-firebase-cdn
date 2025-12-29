@@ -7,13 +7,13 @@
   "createdDate": 1555458105405,
   "descriptionMarkdown": "This is my previous text display book, re-exported for 0.17 as apparently the 0.16 version doesn't import properly. ( https://factorioprints.com/view/-LApkJLXW7VBLQgH62lH )\n\nThis is a blueprint book that has blueprints for a text display system. This allows you to display messages from a set of preset messages (which you can change), or you can add some circuitry to have messages update in real time based off other signals in your factory.\n\nVideo of display in action: https://youtu.be/BLQjU02DN9o\n\n# Text Display Example\n\nThis is a text display that displays a set of example messages, switching through the messages based on a timer. The messages are stored in the constant combinators along the bottom of the blueprint. Each combinator has signals 0-9 and A-F designating the ASCII code (0-127) of the character to display in each character position. A color can also be specified for each message to color the characters.\nTo turn on the example, set the bottom left decider combinator to output to 'Z' (it should be empty when initially placed.  This will cycle through the messages.  Or you can manually cycle them by turning on the constant combinator three rows below and one location to the right, and setting the 'Z' value there to the message you want to display.\n\n# Text Display Blank\n\nThis is similar to the example version above, but there is no timer (instead there is a constant combinator choosing the message to display), and all the message combinators are set to blank. This is what you probably want to use if you are making your own messages to display.\n\n# Text Display Font and Color\n\nThis is just the font and color circuit for a display, use this with the two different character size blueprints to make your own display. You can connect the signal wire with the message to display to the input of any of the decider combinators.\nText Display Single Character 5x7 and 10x14\n\nThese are two blueprints of an individual character that you can use to build your own display. Tile them with other character to build a display by overlapping the medium power poles on the left and right. Then just set the input signal on the two upper left arithmetic combinators (mod and divide) to be the signal that you want the character to display.\n\n# Text Item Display and Text Item Display Count-To\n\nThese are two blueprints that are set up to display all item amounts in gave, for ever item / recipe / fluid. One switches between items every 5 seconds. The other switches a bit slower, but 'animates' the number, counting up or down to the new value as it switches. It will read from logistics by default, and/or you can connect a red while to the pole by the roboport to have it read values from the wire (such as from fluid tanks, chests or train stops).\n",
   "favorites": {
-    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
-    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
-    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
-    "XapKJxfpaCOr004b6kXVsc5wZzd2": true
+    "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
+    "XapKJxfpaCOr004b6kXVsc5wZzd2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
+    "xY9rEKNEQMbXOOplxstm479GMBc2": true
   },
   "fileName": "Factorio Prints 0.17.jpg",
   "image": {

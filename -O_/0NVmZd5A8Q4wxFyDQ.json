@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "永井拓実",
     "userId": "gIVzW5rs0RRoltioqAgIH9ODdn52"
   },
   "authorId": "gIVzW5rs0RRoltioqAgIH9ODdn52",
@@ -7,17 +8,15 @@
   "createdDate": 1757738569099,
   "descriptionMarkdown": "The Fulz Rail Blocks (SpaceAge) tile",
   "favorites": {
-    "VgUcfPzOlwMlGFZxrGdpGapyuKj1": true,
-    "Wt4gjB3sDXfcZEAQvT0ftQyAzAY2": true,
     "x116iHju47YnnxylWFqbyoWR5GA2": true,
+    "VgUcfPzOlwMlGFZxrGdpGapyuKj1": true,
     "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,
-    "I7RkewXRzmbak9cV93stf78f9Tk2": true
+    "I7RkewXRzmbak9cV93stf78f9Tk2": true,
+    "Wt4gjB3sDXfcZEAQvT0ftQyAzAY2": true
   },
   "image": {
-    "height": 0,
     "id": "UX2GoW4",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1757738569099,
   "numberOfFavorites": 5,

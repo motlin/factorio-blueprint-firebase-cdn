@@ -7,10 +7,7 @@
   "createdDate": 1529251043311,
   "descriptionMarkdown": "This is a 26 reactor nuclear power plant. It is designed to be build over a lake, land-filling in most of the lake, but leaving a 5 wide strip of water for the offshore pumps that provide water to the heat exchangers.  This has no circuitry to have it run slower than full power to save fuel; if you can build this, you likely have koverex processing going already and so can easily provide the fuel cells to run all 26 reactors. This removes any need for steam storage (and therefore reduces UPS impact). One set of steam tanks is provided for steam balancing purposes, but even they can be removed if you want.\n\nRadars and roboport coverage is provided (and robots are designed to provide and take away fuel cells), but this can easily be switched to belts if you want.\n\nThe image is of a bit more than 1/2 of the reactor. It is basically mirrored across the water canal.\n\nThe reactor should not get hotter than about 820 degrees when running at full power.",
   "favorites": {
-    "sYRbanRtEIf9CP1q0an4YDQeAFx2": true,
-    "O4f0CQyHwCZejCU2VuWfeJTtV5A3": true,
-    "n87XMdzsh4Uw1AaxWEhwqErWk7H2": true,
-    "XUV45mLEL9Zvo1qLUIosdVjpwP52": true
+    "n87XMdzsh4Uw1AaxWEhwqErWk7H2": true
   },
   "fileName": "20180617113942_1.jpg",
   "image": {

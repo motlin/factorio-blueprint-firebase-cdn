@@ -7,26 +7,24 @@
   "createdDate": 1732229398049,
   "descriptionMarkdown": "A standalone version of the cityblock from my main [railbook](https://factorioprints.com/view/-MFIYLSH60wmZ-pNvcL_)\n\nThe main distinguishing feature is that one lane always is elevated while the other stays on the ground - north track for horizontal and west for vertical in this case. This allows us to pull out elevated stackers over the grounded track making for relatively compact setups despite the stackers. Note that while ground stackers are still technically smaller due to the elevated ones requiring a ramp to get down to the station, you can pull belts from stations under the elevated stacker, online with a grounded one.\n\nGrid size: 182x182\n\nShape: Square\n\nStations per block: up to 8.\n\nStacker bays per station: 2+\n\nSupported train lengths: 6, 3, 2",
   "favorites": {
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "tEeieFObdzXtlRzIPGMN3HlAiqj1": true,
-    "ZPyA1G5wKdYOk0IR50CMfknd3f82": true,
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,
-    "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
     "t4vpLXFdreYbGMLu9qPZJaUzZj92": true,
-    "vpS7DnPPLyOYZw2qJa4UQwIqKsU2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "vpS7DnPPLyOYZw2qJa4UQwIqKsU2": true,
     "xu0SFX8Tv5b0AniwZ8H2tivfBgB2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "ZPyA1G5wKdYOk0IR50CMfknd3f82": true,
+    "tEeieFObdzXtlRzIPGMN3HlAiqj1": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true
   },
   "image": {
-    "height": 0,
     "id": "Qvts3m4",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/Qvts3m4",
   "lastUpdatedDate": 1732393545472,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 6,
   "tags": [
     "/train/track/"
   ],

@@ -1,26 +1,25 @@
 {
   "author": {
+    "displayName": "しーωー",
     "userId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3"
   },
   "authorId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3",
   "blueprintString": "0eNplUT1PwzAQ/SvoWNMS0priSCwU8idKhNLUAkupExK3IooyEE9dWGBmYOGjSAxZGPg3JyR+BnYTlArOy/nuvXenewVMowVLUi4kuAXMWBamPJE8FuDCJIyjOD3aPfbM81HdovpE9YBqPdnb9PydNlrMmfjlDJ3TEzL2sXpEVWNVozLJFq1FdAznkFLPTHnTpL/6XbS4jjce2bbhVc+o7lEprN7/bddgOo7nUWrbzawPrJ7Mjmq1vV2DAAt4GIsM3EkBGb8QQWTOJPOE6fsseSoXumKBCOam0CB6gch7V7rBZQ6lVhAzdg3ufulbwITkkrNGcPPJz8ViPmWpBnQ6krGoF16yTGrxJM5440gBRscmfWJBbrI+KY0ql2yuaZ2VFkTBlOld4evu5rt+xWqN6sW4Z5zQHq40ZMnSbCNLDhw6pJSMBmQwHDll+QOCGMI0",
   "createdDate": 1754607336291,
   "descriptionMarkdown": "|品質|カラーコード|\n|---|---|\n|<span style=\"color: #BFBFBF;\">Normal</span>|<span style=\"color: #707070;\">#</span>BFBFBF|\n|<span style=\"color: #42ED5C;\">Uncommon</span>|<span style=\"color: #707070;\">#</span>42ED5C|\n|<span style=\"color: #2899FF;\">Rare</span>|<span style=\"color: #707070;\">#</span>2899FF|\n|<span style=\"color: #C700FF;\">Epic</span>|<span style=\"color: #707070;\">#</span>C700FF|\n|<span style=\"color: #FF9900;\">Legend</span>|<span style=\"color: #707070;\">#</span>FF9900|\n",
-  "favorites": {
-    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
-  },
   "image": {
-    "height": 0,
     "id": "CbKlOSU",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758216469509,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/space-age/"
   ],
-  "title": "品質カラーコード@Ctyann [taku]"
+  "title": "品質カラーコード@Ctyann [taku]",
+  "favorites": {
+    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+  }
 }

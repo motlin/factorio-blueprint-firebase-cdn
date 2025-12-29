@@ -7,19 +7,14 @@
   "createdDate": 1526002817438,
   "descriptionMarkdown": "This is a blueprint boot that contains seven segment displays with minimal combinators (4 per digit). They come in two sizes and have a version of each that also supports coloring the display. Either use the provided chest for the items to count, or remove the chest and connect the combinator to the chest or storage tank you want to count. Depending on you use case, you may need to adjust the combinator to only accept the signal you want to display, instead of summing all signals as it is currently set.\n\nAdditionally, I have included a copy of my item text display, which, while it can display numbers, is a lot more complex. There is a second version of the item text display set up to read the contents of a train.\n\nA tutorial for how these displays were built can be found at: https://youtu.be/93KZPZSkgjE\n",
   "favorites": {
-    "uKt0HxNSF5gxJkUGWyJITZLTCLJ2": true,
-    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
-    "oGS6uVXLqyWW0PvfOIMM0U956le2": true,
     "HRaC82vHbJfW7UyxvLHGyoSexmR2": true,
-    "tqSOWmf0FlXT37Vr69wf2Mi5ugj1": true,
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
-    "SS0ivWSelScggoritSCjMW2VOo32": true,
-    "pryV3vaX1ZgSJLgFcWBSjQ7AkIk2": true,
-    "b2DCQgYFTMUjmlzHtmik11jSnQh2": true,
-    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
+    "dc23CnC0kOPtsqgexHp47HcGm7s2": true,
     "OnHsPNPYhNf9cS89tJuQQIOEVs93": true,
-    "dc23CnC0kOPtsqgexHp47HcGm7s2": true
+    "SS0ivWSelScggoritSCjMW2VOo32": true,
+    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
+    "b2DCQgYFTMUjmlzHtmik11jSnQh2": true,
+    "pryV3vaX1ZgSJLgFcWBSjQ7AkIk2": true
   },
   "fileName": "Factorio Seven Segment Displays.jpg",
   "image": {
@@ -29,7 +24,7 @@
     "width": 1122
   },
   "lastUpdatedDate": 1526003460518,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 12,
   "tags": [
     "/circuit/indicator/",
     "/mods/vanilla/",

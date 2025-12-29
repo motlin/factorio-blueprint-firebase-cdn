@@ -1,32 +1,9 @@
 {
-  "author": {
-    "userId": "RvEbG5NvyCTU7i46jXYURkkYjh23"
-  },
-  "authorId": "RvEbG5NvyCTU7i46jXYURkkYjh23",
+  "numberOfFavorites": 19,
+  "title": "Blue belt of green circuits (6 assemblers)",
   "blueprintString": "0eNq1Wttum0AQ/ZVon1rJVHtfyA/0I6qqwnibrooBAa4aRf73LjFurHiBmZHy5Bg7Z+d2ZufiF7avT77rQzOyxxcWqrYZ2OO3FzaEp6asp2fjc+fZIwujP7Ida8rj9K4cBn/c16F5yo5l9Ss0PlPsvGOhOfi/7FGcd5sQvvbV2LdNqLIq9NUpjDcAEgCw92UU9+afFOTUv13vhyEb+7IZurYfs72vb0/W5+875psxjMFfTPH65vlHczrufR91ey/AjnXtEL8e/4ynRois2LHn+GIm1Hj6MD0fOu8P2bE9nOrJVlHDSdp32HIb21Kx1Ta2omLrTWxOhTab0GSp7SY02dhuE5ocI/lWLN/7VYjLYZEg7BD6yLvXD3UCvbhDP0Ve9E99G18X8WUSPz69crDpThPJ7snESefN+kj8eW/sHcay+p2FZvD9GD9aZLHcNpqQBJ/wpM1sCl7h4Qs4+ht5j/4QTsfskpljXu7a2iew3dUwKTRDcajdiJ/2NC451FLOM+R4fSP2z3IY18LHrlkph4ehWcMh0VVtsGfZ2pLjI1GuyC8RdBRgOkpJlvJ9RKTQCWwUcHRN8ChPm2Y7nKVB68LBV4m0yMQi1iLFEewiyWlF4m9ZBfdxAU0ia9xRHMwdtQYj0JpqsKYKz0QDB1dQM+o1/TXYjGuZWOGZ5OCaYpm0dvcoB1bYgVOuwvMlh6t/f8sNXR3GpMzXqu2L2QbWcArlYFNoPKEEPKlqSciDgnxBaIXN4WtJXGt67yKSgNvd4RVA4JtaiyhO+FXK7aBz61OUe/BL7PEIHYFDtzA8uVGv66NmUYQ/8dwbLXVSyxwrjrkXp2q7zvdZVe5fY4ImSIEVRH6kXQw8N8B9bwRSR/kxtjYSqRwH6KaQun1QHBmNlOND6WW2M9ScoDh+NGbBzejlVgTcXgZeHcx5CQKKaHcdGLTAzi3sDJ0aBXJsQ56GEViZ9AqYBLtXQY1mFbbhTosGL5rnLA2RDV9CixR2KjlZS2x0IdiO3LKLpYJsuTO1ObkRxo9LbYFsjtLDcE5qX9JYAtm9AALPgYkGzngOzjNwanaaXvpLfKA5yiRXiPVIWznOIpq8eeEAavKcIzQdF3xAb+ro6xgIekFeLADQc07dK0DAwXtSwgqM0gTP5Qp+5p/fctn7Oqt++WFcLF2mA/ZlPy/B32Np6IaXYBUDv5Qt2I0WqLwBKO/o2wrCDDfPoRtvgq0L6hIAYPOCtBSVxPAuBHB5j7dSIYlVF8RIilgtqqSkmlxVESKzoFytiupfC/wFBcG/DpYcALmhyIE/xiBICS9ik2kxuTTnHKY64E4QXBDCIacGn+B4VhbLzBFcAX/rgvec4Jo6SwdkEMEJDedCEv9+UW2ywf/f0+1YXUaU+Oxr733zME+ShodP9mGeTPl++By/9ye+XkItd5IXIjeyOJ//Ae/mO7E=",
   "createdDate": 1517828073525,
   "descriptionMarkdown": "This setup produces a perfectly compressed blue belt of green circuits using 6 assemblers in 25x10 tiles footprint (stacks vertically reusing beacon rows, as usual). If it's necessary to have inputs and output on the same side, just reverse input underground belts and rotate the setup if needed.",
-  "favorites": {
-    "IyoS9hXFliZqh23ZqFlz36nn87I2": true,
-    "aXnje1oVjWXv8v8qcXBkvl5RGzD2": true,
-    "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
-    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
-    "YYOTSGIFexVh41sUt47grylfvdl2": true,
-    "9j39oqXfOBXWyiQSdjpChCycuAF3": true,
-    "Z0wznCV262f4l76PteXbBfZGvIN2": true,
-    "vna5iVRoFHSaVilB2dBl4rxBxjD3": true,
-    "En7kXfRyH7NZja9LJEwPCr95HvV2": true,
-    "7Y5lGUMjGgS9lAxZKBi0JHfWkJL2": true,
-    "eDDclr8SAcbBjTitIPYqGs0qCJv1": true,
-    "jzVNozVJCigYEPTDqF1i8glSLfe2": true,
-    "tl5lt0IRfqNzqP0qOtcetewz8dp1": true,
-    "LffwooMyp2fzlMLiBwoCkBOcDrv2": true,
-    "27fDsWbxDBXvWsF8edexXZXbGaE2": true,
-    "Tjoi252AAaWjLgmaCtCBRB09o1g1": true,
-    "IsbhMPeVEKdruws7yqTZeHcMYV73": true,
-    "W7JSus0WLyQIHtcf3S72kHaBLYe2": true,
-    "RsaLET3pJQQQZ0KDQsXpgzxozSB2": true
-  },
   "fileName": "gc6.png",
   "image": {
     "height": 1216,
@@ -35,13 +12,15 @@
     "width": 1920
   },
   "lastUpdatedDate": 1517828073525,
-  "numberOfFavorites": 19,
+  "author": {
+    "userId": "RvEbG5NvyCTU7i46jXYURkkYjh23"
+  },
+  "authorId": "RvEbG5NvyCTU7i46jXYURkkYjh23",
   "tags": [
     "/general/compact/",
     "/production/electronic circuit (green)/",
     "/general/beaconized/",
     "/mods/vanilla/",
     "/production/belt based/"
-  ],
-  "title": "Blue belt of green circuits (6 assemblers)"
+  ]
 }

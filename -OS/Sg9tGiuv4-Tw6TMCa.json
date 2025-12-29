@@ -7,23 +7,21 @@
   "createdDate": 1749623550749,
   "descriptionMarkdown": "bad apple, 15 fps, 2500 lamps",
   "favorites": {
-    "wJkldPvZDhWNoOu14dpNrrFCahR2": true,
-    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
-    "xC7dMaYIIHNTrxGEfKEgrFcpYKF3": true,
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,
-    "whYHW2oWpeTNEHlwIDQAN1U8Tem2": true,
+    "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
     "JmF6PWJVJecrhHKZlLJFzvrFM9H2": true,
-    "uRNxi2W1Swh6s25Qy7TcPrh5Te42": true
+    "uRNxi2W1Swh6s25Qy7TcPrh5Te42": true,
+    "wJkldPvZDhWNoOu14dpNrrFCahR2": true,
+    "whYHW2oWpeTNEHlwIDQAN1U8Tem2": true,
+    "xC7dMaYIIHNTrxGEfKEgrFcpYKF3": true
   },
   "image": {
-    "height": 0,
     "id": "ns16nb5",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/ns16nb5.jpeg",
   "lastUpdatedDate": 1749623550749,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 2,
   "tags": [
     "/circuit/indicator/"
   ],

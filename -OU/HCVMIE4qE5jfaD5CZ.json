@@ -1,20 +1,15 @@
 {
   "author": {
+    "displayName": "83Ramy",
     "userId": "uup7PnZ6aUS0cnq5FRVwQvUaXBp1"
   },
   "authorId": "uup7PnZ6aUS0cnq5FRVwQvUaXBp1",
   "blueprintString": "0eNqVmNGKozAUhl9lybUOxhhjfImBvR3KkrZhEDRK1J0dSt9903YHB9bT5L+s1K+nxy8n+b2wY7/ayXduYe2FdafRzax9u7C5e3emv11zZrCsZd6cjWfXjHXubP+wll8PGbNu6ZbOPm65f/j85dbhaH34QvZ167yMzuYfpu9ZxqZxDreM7oYOmFK8yIx9slbyF3m9Zv9hShBT7GNEGqaKYKo0jIxgZBqmjmDqNIyKYFQapolgmjSMjmB0EkYUEQwv0jg8xknzWJQxTprIIiYyTzNZxEzmaSqLmMo8zWURc5mnySxiMnMFcoi5wxtw8AiCo0FOSczBbz6PvfH5ZJx9Onso0Cb0++ryZfXeLnvL/R9ll1GmFbOtUqoYkVSMEM+KqRKLiXZGgupQHFRlQp1SgepIgoOqXBEcjSpIFCS+uTyEWvLeDNOzjYvibCoP9tytQ257e1p8d8qnsbfP9jCKuIltTqd1WHuzjJ5eHdUuZJP6cWp6si6oOqqkDonYoxcS7NC2j1HEOq1DX0t2v0MKXbJUNQ241Ai1hQY5RD1VAS41RXDQ03NNcECf1S5EYI98H1KBHab+ETqkqQ7XYIc1wUGHdENwGnS4UiCNPXK9G1AKdIMnqpEcc2e/mhIdF1Q1ApSH4qAyE/JIiclTU3myxnIpyVFYTCY5DZZMSY7GgjLFqQssm5IcjkVlklNi4ZTkCCwsk5wKC6ckR2JhmeTUWDglOQoLyyQHPGaQHI2F5QfnkLGPzt/fsr2FI6/MwqlOHsLVbrFDQG2v8DLWm2OYjC37eTt4/nhdl4C+Xf9t/Xz/AVmXutJaqqKUSodA9ReaKWb5",
   "createdDate": 1751578445372,
   "descriptionMarkdown": "Small Radar Outpost for exploration in early game.\nThe defense is only for expansion partys or stragglers. ^^",
-  "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "SlreOgoxMQUVhXclkOpxA3nHK943": true
-  },
   "image": {
-    "height": 0,
     "id": "vW0nlEa",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1751578445372,
   "numberOfFavorites": 2,
@@ -22,5 +17,9 @@
     "/general/early game/",
     "/version/2,0/"
   ],
-  "title": "Radar Outpost"
+  "title": "Radar Outpost",
+  "favorites": {
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "SlreOgoxMQUVhXclkOpxA3nHK943": true
+  }
 }

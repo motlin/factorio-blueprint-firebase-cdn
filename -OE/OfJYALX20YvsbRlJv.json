@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "T-nm",
     "userId": "AVulOMRN1FTpOY4J0Y3sg9Sbpzt1"
   },
   "authorId": "AVulOMRN1FTpOY4J0Y3sg9Sbpzt1",
@@ -7,20 +8,18 @@
   "createdDate": 1763514862024,
   "descriptionMarkdown": "I tried for a long time to make vanilla smart trains, and was never satisfied, so this uses the mod <a href=\"https://mods.factorio.com/mod/cybersyn\">Cybersyn</a>, save yourself headaches.\n\nThis blueprint was made for my own playthroughs, from early game to late game, but I decided to share it as is.\n\n- All sciences\n- Smelters\n- Circuits\n- Defenses, Artillery, Lasers, etc\n- Rockets, silos, etc\n\nHere's an album with pictures and clips: https://imgur.com/a/JZtkZNl\n\nEverything is chunk-aligned, this is foolproof and impossible to deadlock. It's also efficient even though it uses small trains, don't worry about that, Space Age doesn't require as much materials as vanilla.\nIt's also made so that you can make your own city blocks very easily, everything is covered with roboports.\n\nReminder that you need to build at least 1 of the depot included, so that Cybersyn can start dispatching. You'll also need a standard Cybersyn refuel station, you can fit one at the top the depot blueprint.",
   "favorites": {
-    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
-    "I6YX1Ar1cWUwhbQgMcW4nyZkDs52": true,
-    "RXa1gS3v65P77k7hjcnEFXbBEEp1": true,
-    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "I6YX1Ar1cWUwhbQgMcW4nyZkDs52": true,
+    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
+    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
     "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
-    "8ZSFoC1WwKVymSzWDF0syztAhA73": true,
-    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+    "RXa1gS3v65P77k7hjcnEFXbBEEp1": true,
+    "8ZSFoC1WwKVymSzWDF0syztAhA73": true
   },
   "image": {
-    "height": 0,
     "id": "EPyQOhk",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1766808231269,
   "numberOfFavorites": 8,

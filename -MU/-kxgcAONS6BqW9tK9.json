@@ -8,10 +8,10 @@
   "descriptionMarkdown": "This is a book of blueprints I designed to protect the rails between my base and outposts.\n\nThere is a requester chest sticking out of one end of each segment, make sure that connects to an existing segment or your main base. There are two constant combinators sending a signal to the requester chest, modify only the ammo signals. Make sure the requester chest for the first segment (connected to your base) is supplied with all the items needed to build and maintain the following segments.\n\nI recommend using at least one straight segment between each corner, T, or X segment for better throughput.\n\nThis is still a work in progress, I'll update it as I fix any issues I come across.",
   "favorites": {
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "00ke8f5vbWaOd10pdcCWPe9xwXI2": true,
     "0qdXEWIS68X4gTTZ0TvgzxbKBGw1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
     "q9VzeT3cMeVAfsx8wDfWfjJ03h12": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "00ke8f5vbWaOd10pdcCWPe9xwXI2": true
   },
   "fileName": "screenshot-tick-526045.png",
   "image": {

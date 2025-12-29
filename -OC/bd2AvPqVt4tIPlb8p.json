@@ -7,23 +7,21 @@
   "createdDate": 1732610634940,
   "descriptionMarkdown": "Space Ship / Aquilo / Transport",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "lmIQfGSCjbO1TMqDFqrauDE9uVd2": true,
-    "tWOI9GHidgXbh9i9JftUFklYAPj1": true,
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,
     "RmD3iK6gVxOQfQYp0Pz4ejpz8L82": true,
-    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true
+    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "tWOI9GHidgXbh9i9JftUFklYAPj1": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
+    "lmIQfGSCjbO1TMqDFqrauDE9uVd2": true
   },
   "image": {
-    "height": 0,
     "id": "BEqc5xm",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/dKjmNl6",
   "lastUpdatedDate": 1743071843250,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/space-age/",
     "/power/nuclear/",

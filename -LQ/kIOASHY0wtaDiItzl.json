@@ -7,29 +7,22 @@
   "createdDate": 1541629908029,
   "descriptionMarkdown": "A very large LTN train depot with 80 train parking lots plus a PAX and a refueling station. The whole length of the station is glowing in the color, the signal in front shows (red, green or yellow).\n\nThere are only two inbound tracks immediately splitting up to eight segments that have an equal station count of ten and the PAX and fuel stations. Every segment has two outbound tracks that can and should be scattered around the depot.  \nUsed mods:\n\nLogistic Train Network (LTN)\nthis is a improved version of   https://factorioprints.com/view/-LDc3JSNq_m8MxU1vW9b\nit includes vanilla unloading with combinators that make switching fuels later on easy .\nit also includes safety circuitry that prevents contaminated trains from leaving (there is also an alarm that alerts the player).",
   "favorites": {
-    "ZTth6KDFe8PKzoKEtHb5YU2yt0y1": true,
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
-    "Sn4ri4RXh9RWhgapP5j4CdpQGF33": true,
-    "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
-    "VWLRKEAf5rXYUs57cbHpV5OtIWq1": true,
     "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "ZTth6KDFe8PKzoKEtHb5YU2yt0y1": true,
     "EtByybUWN9SnmOLAFVAYTTHXxl62": true,
-    "4r6s5gcg0ySAAGBwQZXwSwvP6oR2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "t4Fgb71keMSlky1xDxJ8BnIArys2": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
-    "t4Fgb71keMSlky1xDxJ8BnIArys2": true
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
   },
   "fileName": "factorio 2018-11-08 00-24-43-88.jpg",
   "image": {
-    "height": 1080,
     "id": "FK8Jdd2",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080
   },
   "lastUpdatedDate": 1542145664314,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 12,
   "tags": [
     "/mods/other/",
     "/version/0,15/",

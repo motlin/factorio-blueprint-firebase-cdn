@@ -7,19 +7,19 @@
   "createdDate": 1651695840420,
   "descriptionMarkdown": "working explaination\nhttps://imgur.com/a/U5aBQSj\nor \nhttps://www.reddit.com/r/factorio/comments/uifogq/supply_fuel_trash_train_system_v80/\n\nusage explanaition\n\nif your low on items in the outpost the train  will bring you more if items are present in the main base. A fuel wagon is also possible, it will bring the highest tier of fuel available to all al outpost and bring lower tier of fuel back to the base, and when items are more then 20 over the set amount it will be brought back to the main base. \n\n\nThis train allows multiple different robot networks to request items from your mall/main base. Each requester station can request up to 40 different items per wagon. The train will be loaded accordingly at the provider station and delivers the items to active requester stations. If multiple stations activate before the train left the provider station, the train will supply the active stations in one go. You can also load the train at the requester e.g. to recycle wood and rocks. \n\nSetup:\n\n    Connect all stations (power poles) with green wire. Set items and quantity at the constant combinator for each requester station. \n    Set the combinator with the KEEP signal with items that you don't want to trash at that station.\n    The inserters inserting into the roboports (requester stations) regulate the amount of robots in the network.\n\n",
   "favorites": {
-    "zlWoMkrAG3MBbJInEDNlFP5WWIa2": true,
-    "UbTloi4tokYXvEQiICasdBdNEp72": true,
+    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
+    "oze12jqqGNPBaRHVyEruuC94eyw2": true,
     "OhuJKsSKwkgzVEZuqI9BEJ0By8r2": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
-    "1QnI3FxqTFX33pPsWbghmrQjrCd2": true,
-    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true,
-    "oze12jqqGNPBaRHVyEruuC94eyw2": true,
     "YY7MjrW8UKewDHdc9kQ1McG9dq23": true,
-    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
-    "CD4ew1eBLkTIvESKljfTZM7BBOm1": true,
+    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
     "UfI0eZikVUVkKmmB9fUww9voe5w2": true,
-    "QdRYQzOrABV0fRWezdMxH9Ebdti2": true
+    "1QnI3FxqTFX33pPsWbghmrQjrCd2": true,
+    "QdRYQzOrABV0fRWezdMxH9Ebdti2": true,
+    "UbTloi4tokYXvEQiICasdBdNEp72": true,
+    "CD4ew1eBLkTIvESKljfTZM7BBOm1": true,
+    "zlWoMkrAG3MBbJInEDNlFP5WWIa2": true,
+    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true
   },
   "fileName": "supply v8 base station - explaination 1 - kopie.png",
   "image": {
@@ -29,7 +29,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1651696383749,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 8,
   "tags": [
     "/version/1,0/",
     "/version/0,18/",

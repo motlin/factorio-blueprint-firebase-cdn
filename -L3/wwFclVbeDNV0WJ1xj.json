@@ -7,36 +7,22 @@
   "createdDate": 1517145885507,
   "descriptionMarkdown": "- RHD train grid system\n- one cell has place for:\n - 6x6 18x18 tiles (https://steamcommunity.com/sharedfiles/filedetails/?id=871502255)\n - 4 roboports\n - 4 stations\n- it is the basic for an automated LTN grid system",
   "favorites": {
-    "l0l7Q91POeUe0maM2fFFzVi7zni1": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "eNQYJc3lHSXbMUiL3upBwXgnvmi2": true,
     "UxP9qQNOa8XH7EevhxlA35kO74i1": true,
-    "1MVHVj8oQffq7WMa0BpkAgyvVJu1": true,
-    "ISlIx598w0Y2bI6M6NKKdUzHONw2": true,
-    "IHYir4Kx4ed0dCWSuekjU4jjXxs2": true,
-    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
-    "knHtxh4wDXaumqgful47NygduO93": true,
-    "SVRl8AsuvTU2WurhrYymSYRAlhc2": true,
-    "j49Pn7VTRlWJs1bOjo6im2EEnpC3": true,
-    "IqRQ4SceYMTg23JL7iQAggFuQww2": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
-    "rLW2mHKR5DgkIFzZDzlGuhKZrcz1": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
-    "SS0ivWSelScggoritSCjMW2VOo32": true,
-    "FETjioy3sFMHMy7axIUAid7S19Y2": true,
-    "2VYVtJdM5KO7EK3KJPgYIFGZbEH3": true,
-    "vD3BS94FIATJaUWLbhYId5PjdGv1": true,
-    "0XzDbiRokAO0JU2B0Wzzm5aIyoD3": true
+    "j49Pn7VTRlWJs1bOjo6im2EEnpC3": true,
+    "SS0ivWSelScggoritSCjMW2VOo32": true
   },
   "fileName": "PRS RHD train grid system.png",
   "image": {
+    "width": 1920,
     "height": 1080,
     "id": "kqeAbTN",
-    "type": "image/jpeg",
-    "width": 1920
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1517145885507,
-  "numberOfFavorites": 20,
+  "numberOfFavorites": 21,
   "tags": [
     "/train/right-hand-drive/",
     "/train/junction/",

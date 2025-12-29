@@ -7,18 +7,16 @@
   "createdDate": 1736618323718,
   "descriptionMarkdown": "Defenses are tied to chunks by default, so if you play space age. You can switch the grid binding to “relative”.\n\n\n\n[item=construction-robot]https://github.com/sonnyton/\n\n[item=logistic-robot]https://pastebin.com/u/dfjhskj\n\n",
   "favorites": {
-    "3ZKyNmdCaTgfEuxtN6RVfaSKoyf2": true,
-    "5VEwOtFxMahrrxxXOpQ8Cep3iVm1": true
+    "5VEwOtFxMahrrxxXOpQ8Cep3iVm1": true,
+    "3ZKyNmdCaTgfEuxtN6RVfaSKoyf2": true
   },
   "image": {
-    "height": 0,
     "id": "xLeS7ZI",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/xLeS7ZI",
   "lastUpdatedDate": 1736618399020,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/combat/defense/"
   ],

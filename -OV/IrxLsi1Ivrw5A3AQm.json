@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "SCHWEINEHUND",
     "userId": "mzjpC5YgX6RN5ELOYfoWay3GeyB3"
   },
   "authorId": "mzjpC5YgX6RN5ELOYfoWay3GeyB3",
@@ -7,18 +8,16 @@
   "createdDate": 1752680093455,
   "descriptionMarkdown": "My first try at making a ship that can go to Aquilo and back indefinetely or at least at a fast rate.",
   "favorites": {
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true
   },
   "image": {
-    "height": 0,
     "id": "Rfl4bjU",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1752680093455,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/space-age/",

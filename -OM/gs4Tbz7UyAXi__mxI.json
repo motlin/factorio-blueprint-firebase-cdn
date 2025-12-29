@@ -7,20 +7,18 @@
   "createdDate": 1743435880722,
   "descriptionMarkdown": "This blueprint is designed to be fully parametric and customizable. To configure it, you will need to answer the following three questions:\n- What is the first digit of a garage number between 00 and 99?\n- What is the second digit of a garage number between 00 and 99?\n- What type of fuel do the trains use?\n\nThis blueprint requires the following mods to work correctly:\n- AAI Containers& Warehouses\n- AAI Loaders\n- LTN (Logistic Train Network)\n- Text Plates\n\nhttps://factorioprints.com/view/-OLQZkcjwsGLU7bdLo8D\nInspiration for this blueprint comes from the post titled \"Railway Package for Space Age ver. 1.1\" by Nytromance games.\n\nOnce these parameters are set, the factory will adjust accordingly to meet your requirements. Make sure to have the listed mods installed for optimal functionality.\n\n",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
     "ASp3yjDdeOdezgPcsyVIii0uvIk2": true,
-    "trWv1wAzqteajsouFPXqsQIbXjZ2": true
+    "trWv1wAzqteajsouFPXqsQIbXjZ2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true
   },
   "image": {
-    "height": 0,
     "id": "bQIUyoj",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/bQIUyoj",
   "lastUpdatedDate": 1743436727660,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/ltn/",
     "/mods/aai/"

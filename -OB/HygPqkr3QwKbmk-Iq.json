@@ -7,20 +7,18 @@
   "createdDate": 1731190245421,
   "descriptionMarkdown": "Made this while playing the space age. Me and my friends wanted to get rid of the usual \"box\" downtime from transferring science packs between the labs, so I came with this design. Science packs are delivered by drones and splitted into four lanes. Each biolab is affected by eleven beacons. There's a logistic network thingy to get the possible rot our of the labs. I don't think this will be popular, but if you'll find it helpful - I will be glad to hear about it. Thanks in advance.\n\nIf my calculations are correct - you should have 37.59 speed with 3 tier speed modules in beacons and 4 productivity modules. \n\nMaking this was an experience. Hope you find it useful.\n\n0.2v - fixed one underground conveyer having wrong direction. \n\n0.3v - added lights.\n\nThis setup doesn't use anything quality related. If you are a professional or obsessed, you can change almost everything to the quality version and get better results than i did.  It's just that there's three of us, and I chose Gleba as my planet of operations. And it kinda got through me. I don't have the mental capacity for quality thing. That's why I have friends, they can do that for me. And I can do gleba science packs for them. It's not too much, but it's honest work.",
   "favorites": {
-    "EbxTgRLm06TujPHnXQqFk9cwsxI3": true,
-    "YPb2FkgBJdYN69lQV3D0JHCIhRU2": true,
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
+    "YPb2FkgBJdYN69lQV3D0JHCIhRU2": true,
+    "lWO1jwAhWxf3Dgb0vn5fUUpBpeI3": true,
+    "EbxTgRLm06TujPHnXQqFk9cwsxI3": true,
+    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
     "eXxKxSFldIZwQtfsZ2Dk2JinepG2": true,
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true,
-    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
-    "lWO1jwAhWxf3Dgb0vn5fUUpBpeI3": true,
     "T9EGMbJXe4fzL6MfwNXp1KKXXCE3": true
   },
   "image": {
-    "height": 0,
     "id": "7uVrFzZ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/7uVrFzZ",
   "lastUpdatedDate": 1731240068191,

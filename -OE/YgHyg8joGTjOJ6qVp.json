@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Robert Smith",
     "userId": "F5tlYICvJNeyZyK9q8i2JZdrX8E3"
   },
   "authorId": "F5tlYICvJNeyZyK9q8i2JZdrX8E3",
@@ -10,13 +11,11 @@
     "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true
   },
   "image": {
-    "height": 0,
     "id": "UYhuUmG",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1763682889691,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

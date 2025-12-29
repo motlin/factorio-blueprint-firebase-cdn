@@ -7,12 +7,12 @@
   "createdDate": 1691096713273,
   "descriptionMarkdown": "##### A wall design containing several blueprint such as:\n- Straight wall\n- 2x Corner walls\n- Train track wall\n- Entry and exit wall\n- Refueling wall\n\nAll the design have an on/off function for the laser turrets. When the power drops in the accumulators the power switches connect to the global power grid start working. When there is efficient power restored in the accumulators the power switches disconnect again. \n\nThe refueling wall design are designed in a way to transfer magazine rounds in two different directions hence the (R) and (L) of the five other wall designs. There is also an ammo filter changer that changes the filter of the inserter based on available ammo type in the logistic network.\nHighest priority uranium rounds, lowest firearm rounds. Can be found in my [Circuit book](https://factorioprints.com/view/-NT55U7UJw9NvHF9I-OH).",
   "favorites": {
-    "ovJD6hAXo9hSba4l3bmn9goxzkK2": true,
-    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
-    "pjnVAdWsCuU8b5Qk31vTGHTlCBB2": true,
-    "QjswOTEvDnP7EqPwKQg7CjB6Sr13": true,
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "QjswOTEvDnP7EqPwKQg7CjB6Sr13": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
+    "ovJD6hAXo9hSba4l3bmn9goxzkK2": true,
+    "pjnVAdWsCuU8b5Qk31vTGHTlCBB2": true
   },
   "fileName": "Skärmavbild 2023-08-03 kl. 22.42.45.png",
   "image": {
@@ -22,7 +22,7 @@
     "width": 1143
   },
   "lastUpdatedDate": 1691142347606,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/train/crossing/",
     "/power/solar/",

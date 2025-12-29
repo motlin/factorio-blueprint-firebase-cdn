@@ -7,19 +7,19 @@
   "createdDate": 1604568700584,
   "descriptionMarkdown": "Self-sustained antimatter power plant for Krastorio 2 late game. Provides 114 GW sustained and up to 120 GW peak power.\n\nThis is an improvement over the previous version:\n- no more fertilizer made locally, which makes the plant startup way easier;\n- better power grid separation: it does not require editing the connections between the power poles, now that the external grid is physically separated - by distance - from the internal grid;\n- a power switch that allows the \"internal\" reactors to supply the main grid if the matter plants are idle (not actively converting wood into matter). This is decided by the RS latch at the matter medium tank (15k set / 45k reset).\n\nThe plant requires power to jump-start, i.e. you need to supply external power in order to start making the wood and convert it into matter. It can be built with just the top half of greenhouses (1600) that supply the top 6 matter plants, which can cope with 20 reactors for 60 GW of power (sustained 57 GW). The rest can be installed if you find out you need more than that (e.g. you want to power the intergalactic transceiver from the main grid, which this setup can easily cope with).\n\nThe recommended supply is 6 (preferably 7) empty AM fuel cells per reactor.",
   "favorites": {
+    "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,
+    "NOIL8TOlqGMG3yqB8rA8o31TFbQ2": true,
     "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,
     "oze12jqqGNPBaRHVyEruuC94eyw2": true,
     "ipQFF8hfc1U4PIdrqyHv7TF4bf73": true,
-    "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,
-    "NOIL8TOlqGMG3yqB8rA8o31TFbQ2": true,
     "Wn8iEMlmEUUmvIWGDOTtMZOoLMT2": true
   },
   "fileName": "AM-120GW.png",
   "image": {
-    "height": 783,
-    "id": "EqOKQdX",
     "type": "image/jpeg",
-    "width": 1039
+    "width": 1039,
+    "height": 783,
+    "id": "EqOKQdX"
   },
   "lastUpdatedDate": 1604568700584,
   "numberOfFavorites": 6,

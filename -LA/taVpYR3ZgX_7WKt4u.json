@@ -1,23 +1,4 @@
 {
-  "author": {
-    "userId": "p8vXT6jTaCZMJRIGwN5YppKJhJx2"
-  },
-  "authorId": "p8vXT6jTaCZMJRIGwN5YppKJhJx2",
-  "blueprintString": "0eNqV1N1ugyAYBuBbWb5jugj+1HIZ2+GyLGjJQoJoAJcZw70PbbOZjlY4A5Pv8c0rMkMjRz5ooSzQGUTbKwP0bQYjPhWTyzM7DRwoCMs7QKBYt+xML5k+DExxCQ6BUGf+DRQ7tDup2ZnpzQyJmGFtO3ajZLbfTubuHQFXVljBL6HXzfShxq7h2sf5izs2xjIreuXRoTdiXfrXeeZQPJcIpsvCLWluGBLM8d8hO04e6WQ7ThHn4B2mjIzzWw8JO1XwUATquSoh4xhn4AdEHUcUD4hTaiNZuBGcJVWCgwa++WPulBEeJillhIk8sQx8p4siqYsiaJQpxyNMVCmNeMJfLesdRDcXJALJGj9F4XUxnl6uH+aLa7MSVX0k+JThsqqd+wEMh7/J",
-  "createdDate": 1524606045566,
-  "descriptionMarkdown": "Just a small solar powered radar station i like to spread around my maps for all your free radar needs!\n\nNumber of solar panels and accumulators  perfectly balanced so that your radar never stops working.",
-  "favorites": {
-    "Ix7fA88glcTBNmkOAwFS1Jy4zky1": true,
-    "g7TJnzthuybZoJk84sCoULcZuGV2": true,
-    "qgXGjfiIVahqCh23We8WaZbneaW2": true,
-    "vZuqItzdzkX1lDgkiL0m7hCvaXz2": true,
-    "P1cOg8kcZsUebytRnFWopTbQe6L2": true,
-    "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true,
-    "Y7JipAsSRAShT2mPn4ZxWr15MZG2": true,
-    "cWTQxx5dSQMDCzkq5e7HGhGt7IW2": true,
-    "qSEQydqRXxYF0w3GshaNOF9lE5g1": true,
-    "Q2FctAqeyMW6wd8NE9Fyr3afmpv2": true
-  },
   "fileName": "solar radar.PNG",
   "image": {
     "height": 736,
@@ -26,9 +7,19 @@
     "width": 764
   },
   "lastUpdatedDate": 1524606045566,
-  "numberOfFavorites": 10,
   "tags": [
     "/version/0,16/"
   ],
-  "title": "Solar Radar Station"
+  "title": "Solar Radar Station",
+  "author": {
+    "userId": "p8vXT6jTaCZMJRIGwN5YppKJhJx2"
+  },
+  "createdDate": 1524606045566,
+  "descriptionMarkdown": "Just a small solar powered radar station i like to spread around my maps for all your free radar needs!\n\nNumber of solar panels and accumulators  perfectly balanced so that your radar never stops working.",
+  "favorites": {
+    "Y7JipAsSRAShT2mPn4ZxWr15MZG2": true
+  },
+  "authorId": "p8vXT6jTaCZMJRIGwN5YppKJhJx2",
+  "blueprintString": "0eNqV1N1ugyAYBuBbWb5jugj+1HIZ2+GyLGjJQoJoAJcZw70PbbOZjlY4A5Pv8c0rMkMjRz5ooSzQGUTbKwP0bQYjPhWTyzM7DRwoCMs7QKBYt+xML5k+DExxCQ6BUGf+DRQ7tDup2ZnpzQyJmGFtO3ajZLbfTubuHQFXVljBL6HXzfShxq7h2sf5izs2xjIreuXRoTdiXfrXeeZQPJcIpsvCLWluGBLM8d8hO04e6WQ7ThHn4B2mjIzzWw8JO1XwUATquSoh4xhn4AdEHUcUD4hTaiNZuBGcJVWCgwa++WPulBEeJillhIk8sQx8p4siqYsiaJQpxyNMVCmNeMJfLesdRDcXJALJGj9F4XUxnl6uH+aLa7MSVX0k+JThsqqd+wEMh7/J",
+  "numberOfFavorites": 10
 }

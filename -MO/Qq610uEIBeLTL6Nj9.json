@@ -8,16 +8,16 @@
   "descriptionMarkdown": "So a recent addition are the hidden **linked-chests**. \nThey can be acquired via \n\n/c game.player.insert{name=\"linked-chest\", count=10}\n\nor some mods that either enable them or add chests with all items. (Creative mod or similar)\n\nLinked chest with the same link-number are connected throughout the world which can be used for very fast transportation supply or other weird ideas.\nThe link number is basically a binary number between 0 and 4294967295 (so there can be many chests systems linked up.\nHowever, you tick 4 \"circles\" to add up the number in binary which is a pain in the butt and hard to remember.\n\nSoooo I made blueprints which can be pasted over a linked-chest already placed with all the items in the game based on the following system:\n\n* First circle = 1-4 are the tabs (logistic production etc.)\n* Second Circle = row of the item\n* Third Circle = position of the item in that row\n* Fourth Circle = Jack shit. There are so many possible combinations we can't ever possibly use them all.\n\nThe Blueprints are all named so it's easy to find them. There is a collection blueprint of all of them in one place, so you can see and easily adapt the system and there is a version with the \"Creative mod\" that adds an infinite matter source to each chest.\n\nThis way linking up chests is easier than ever. All chests come with a \"constant combinator\" that shows the item. It is not needed - just for visuals.\n\nWhen you place a linked chest it will be at **_link number 0_**  with means no boxes are checked and my system does not use that link-number so it should always be empty. You just shift+click and paste the blueprint over your linked-chest -> the checkboxes will be set -> a number for the link is thereby chosen and you are all set.\n\nNext time you need items from that chest just plant down another linked-chest and do the same thing and those chests are now connected.\n\nEnjoy.\n\nedit: Now in alphabetical order",
   "favorites": {
     "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true,
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
     "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
   },
   "fileName": "Dennkind_Dock_EX6mtbJ3o5.png",
   "image": {
-    "height": 1068,
     "id": "Vly26qt",
     "type": "image/jpeg",
-    "width": 1244
+    "width": 1244,
+    "height": 1068
   },
   "lastUpdatedDate": 1607947288337,
   "numberOfFavorites": 4,

@@ -7,26 +7,26 @@
   "createdDate": 1599626229467,
   "descriptionMarkdown": "A set of wall blueprints for base defense, and a factory to make all the needed items to build the wall.\n\nThis is a multi-layers wall that use flame turrets and laser turrets for defense, while building stations for artillery trains.  Laser turrets are kept unpowered until an attack is detected, at which point they are powered a small section at a time as needed.  As the lasers are powered, construction bots are pulled out of roboports, to prevent time from attempting to repair while an attack is progress and getting damaged. About a minute after an attack ends, bots will be returned to the roboports an allowed to repair any damage.\n\nSections of wall require one build / supply section, while has two train stops.  One stop requests materials to build or repair the wall, and will only enable when items are below a certain threshold. The other train stop is for an artillery train to visit periodically, so that it can remove any biter bases in the area. \n\nYou can then build other sections on to the sides of the supply section by placing down other wall blueprints with the roboports directly over the roboport of the previous section. there are different section types: cannon train station sections, plain sections, sections with radars, sections that allow trains to pass through the wall, inside and outside corners and a section to break a large wall into tow parts supplied by different supply stations.\n\nI used these blueprints my recent m 0.18 Megabase  game play which I uploaded to Youtube.\nhttps://www.youtube.com/watch?v=uuBLcdXd8cQ&list=PLKzNR4pPqUAmNaZ2UaxBUnuCPzxofzB-v&index=126\n\nBlueprints included:\n* Smart Wall Factory - build all items needed for the smart wall and loads them on a train. You will need one factory to build an supply walls. supply with raw materials on 1-4 trains (provided). Connect to your rail network and point trains to to mining outposts.\n* Smart Wall Supply - starts a smart wall, and contains a supply station and an artillery train station (rename the artillery train station and assign a train to visit it).  You just need to build the rails and the supply station with the one roboport next to the rails and power it, the supply station will call the supply train and build the rest of the blueprint and all connected wall sections.\n* Smart Wall Cannon - a wall section with a station for an artillery train. \n* Smart Wall - a standard smart wall section.\n* Smart Wall with Radar - a smart wall section with a radar for visibility. - gives visibility to about two wall sections on either side.\n* Smart Wall Gate - a smart wall section with a pair of rail lines going through the wall protected with gates.\n* Smart Wall Inner Corner - a smart wall that makes a 90 degree turn to the inside.\n* Smart Wall Outer Corner - a smart wall that makes a 90 degree turn to the outside.\n* Smart Wall Separator - breaks a large smart wall into two sections, both of which will require a supply section. This is to prevent robots from having to travel a long distance to make repairs. When placed, this should block a roboport from built on one of it's sides, however, build coverage from surrounding roboports should cover the whole blueprint.\n\nThe smart wall supply blueprint has a constant combinator that controls a few settings for the section of smart wall. The default values should be fine for most uses, but you can adjust them if needed.  The 'B' signal controls how many construction bots are delivered to the wall section. The 'R' signal controls how many repair packs are requested. Setting 'D' over 1000 should prevent robots from being removed from roboports.  'T' controls how much time the bots are removed for, in seconds.\n\nEach wall section is broken into at least two sub-sections that detect and respond to attacks.  the detection is done by 3 laser turrets powered by 3 solar panels and 3 accumulators.  If the power level of the accumulators drops below a reference power level ( one solar panel powering an accumulator and laser turret at the supply station), and an attack is assumed to have occurred.  When building a partial wall section (say, next to a body of water). make sure you landfill so that these detection turrets, accumulators and solar panels are all built, along with the power switch and arithmetic combinator. Otherwise, you can remove the power switch and arithmetic combinator, and just make sure to always power the last partial section of laser turrets from the large power poles.\n\n",
   "favorites": {
-    "IvpGa3mgKtPHiaJboSZSeKC04MF3": true,
     "HmZFoditLuMb6rjGbugGEALnBNx2": true,
-    "SS0ivWSelScggoritSCjMW2VOo32": true,
-    "XUy3arC3veZC6MePr58RDAIkRyk1": true,
-    "SQdq1JOUJugdWvnn76gHof4MO062": true,
-    "kzhckKh394R4w81HUF2qkc3exd92": true,
-    "6HNJY49YBdVUVlO9yl6VmSmvAtS2": true,
-    "J4GSJEWVHnM2bNERE732KXhPqXU2": true,
     "Hkgm5APVI4dSNbIzgEMBNf7oxtR2": true,
-    "zC5MyQdIwueOWJM5obOWpBTTEW83": true,
-    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
     "4MT7V13r61Pua3WS8GUBa13Qlo23": true,
-    "gikbOCGvWwY7hiFgsIoZrxMh4x93": true
+    "IvpGa3mgKtPHiaJboSZSeKC04MF3": true,
+    "J4GSJEWVHnM2bNERE732KXhPqXU2": true,
+    "XUy3arC3veZC6MePr58RDAIkRyk1": true,
+    "zC5MyQdIwueOWJM5obOWpBTTEW83": true,
+    "SQdq1JOUJugdWvnn76gHof4MO062": true,
+    "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
+    "6HNJY49YBdVUVlO9yl6VmSmvAtS2": true,
+    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
+    "SS0ivWSelScggoritSCjMW2VOo32": true,
+    "kzhckKh394R4w81HUF2qkc3exd92": true
   },
   "fileName": "Smart Wall.jpg",
   "image": {
-    "height": 677,
     "id": "20UsArK",
     "type": "image/jpeg",
-    "width": 1680
+    "width": 1680,
+    "height": 677
   },
   "lastUpdatedDate": 1599626326783,
   "numberOfFavorites": 13,

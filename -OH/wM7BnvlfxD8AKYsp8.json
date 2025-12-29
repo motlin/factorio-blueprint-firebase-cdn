@@ -7,22 +7,20 @@
   "createdDate": 1738326967270,
   "descriptionMarkdown": "It's a Big boy. This is roughly enough [item=electronic-circuit] to support \n[[item=logistic-science-pack],[item=chemical-science-pack],[item=production-science-pack],[item=utility-science-pack]]x10,000p/m and still have about 3k left over to use for whatever. (Side note: Did you know that with the +50% production from the Eletromagnetic Plant [item=electromagnetic-plant] makes the [item=copper-cable] to [item=electronic-circuit] 1/1...neat.)",
   "favorites": {
-    "bbIkboS1cZUrYG6bR6v2h2NKlU32": true,
-    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
-    "UoHt51cXntTMBgnGEUarrPdphn23": true,
     "D54CYoPLypajjXa3ogAT2nQCVG12": true,
+    "UoHt51cXntTMBgnGEUarrPdphn23": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
-    "gR39ksU0EjgyX490PLFY81d4sjB2": true
+    "bbIkboS1cZUrYG6bR6v2h2NKlU32": true,
+    "gR39ksU0EjgyX490PLFY81d4sjB2": true,
+    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true
   },
   "image": {
-    "height": 0,
     "id": "LFxLTYU",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/LFxLTYU",
   "lastUpdatedDate": 1738326967270,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/electronic circuit (green)/",
     "/general/beaconized/"

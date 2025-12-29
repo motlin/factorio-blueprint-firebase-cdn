@@ -7,18 +7,16 @@
   "createdDate": 1742331077019,
   "descriptionMarkdown": "I'm testing it in AFK for now",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true
   },
   "image": {
-    "height": 0,
     "id": "c6wknJb",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/JMZGahk",
   "lastUpdatedDate": 1742391321527,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/planets/nauvis/",
     "/planets/gleba/",

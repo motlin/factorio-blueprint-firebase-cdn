@@ -7,14 +7,14 @@
   "createdDate": 1686778598453,
   "descriptionMarkdown": "В книге чертежей представлен вариант компоновки ситиблока и все сопутствующие материалы для создания своей конфигурации ситиблока. Присутствует станция погрузки и разгрузки как обычных материалов так и жидкостей, станции работают на моде LTN, станции и прилагающиеся варианты депо спроектированы для двух видов конфигурации поездов: 1 локомотив 4 вагона и 1 локомотив 1 вагон. Станции настроены на доставку железной руды и нефти (как пример), назначение станции можно поменять в постоянном комбинаторе, станции разгрузки заранее выключены для избавления ошибок сети, как достроится станция их нужно включить. Ситиблок и все его составляющие спроектированы с дронстанциями для автоматического строительства. ",
   "favorites": {
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
-    "E76cmbMmiNPJbYBwtH5MtAoHbLv2": true,
-    "IBf01TSA1EatNdXCXcAl8wq2Dof2": true,
-    "tPugSW8JamY9x743f1mXZfly6L52": true,
     "qNMD2RJpIDRv09oSz6w7pYYEOdy1": true,
+    "tPugSW8JamY9x743f1mXZfly6L52": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
+    "ZKxGwHdxlzdTeEZncjf29ZDa7bZ2": true,
     "DDATVObozBOtqtSn2YDdDJPDogJ2": true,
-    "ZKxGwHdxlzdTeEZncjf29ZDa7bZ2": true
+    "IBf01TSA1EatNdXCXcAl8wq2Dof2": true,
+    "E76cmbMmiNPJbYBwtH5MtAoHbLv2": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
   },
   "fileName": "Gimliy.jpg",
   "image": {
@@ -24,7 +24,7 @@
     "width": 846
   },
   "lastUpdatedDate": 1686779069938,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/ltn/",
     "/train/loading station/",

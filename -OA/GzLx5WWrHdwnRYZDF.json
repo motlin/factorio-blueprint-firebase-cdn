@@ -1,29 +1,28 @@
 {
   "author": {
+    "displayName": "Andrew Scharbarth",
     "userId": "24Ovc8lqMMcVhxwQpIfNFuuQXjK2"
   },
   "authorId": "24Ovc8lqMMcVhxwQpIfNFuuQXjK2",
   "blueprintString": "0eNqlVNtugzAM/Rc/B4lwh8/Ya4UqaL0qEk1YErpVFf8+J63o1IEE6lOOgznHx458g7YbsNdCWqhuYGTTB1YFJy2OLv6BKs4YXN0xMmhao7rBYuDyeiFPUFk9IINeGWGFkoHGrrHigq8koSfhIZGIg5IGqh2piZNsOpcimzNCBWZojW0cEbhEeUT6l49sJlWrVvVK2z+J0VgzQGmpErwL+OC6l8O5RU1MbEboWfyj1siXGo1O9oUgWkcQLjPEqxjiYpkhYf9asGAhpdZo/BrQ2P2n6Cxq42eMB5d679DU43pOK12h9aj1fbFsy3TCOYZ803hmKYpN85mlKDf4iIs5Bh5uMbLAwbc4WeCIVr+1hL89fx6vf22b5WgzfAvt18KOs5RFLK2ZR5lHFLN4QrlHFLPCo2y6c6j0KJ++OkQjc7BwkHtYPm/dcb+mMoTFM1l8rl0GXdMi7Tb4INt+aTK4kCHvOs2iMinLNM+TLCvKcfwFXrbbng==",
   "createdDate": 1759090929503,
   "descriptionMarkdown": "Tool to quickly lay down a power / robot grid with perfect spacing.\n\nMy other blueprints will be designed to work with this.",
-  "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "ABDcPVLT15dNukKWfuiNGqFnttE3": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "2Eb2ni7isjddYgvNYotqO7BYQA72": true,
-    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true,
-    "8mK8xWXOOeUiTIO3zMpZ8ul3enx2": true
-  },
   "image": {
-    "height": 0,
     "id": "oVJyL3T",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1759090929503,
   "numberOfFavorites": 6,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Robogrid Tool"
+  "title": "Robogrid Tool",
+  "favorites": {
+    "ABDcPVLT15dNukKWfuiNGqFnttE3": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "8mK8xWXOOeUiTIO3zMpZ8ul3enx2": true,
+    "2Eb2ni7isjddYgvNYotqO7BYQA72": true,
+    "SnHvtPX0esTcaFQLq8USkdhwkUO2": true
+  }
 }

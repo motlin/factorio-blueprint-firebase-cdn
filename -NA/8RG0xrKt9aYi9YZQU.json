@@ -7,14 +7,14 @@
   "createdDate": 1690228036443,
   "descriptionMarkdown": "By (somehow?) popular demand, the most popular Kisser of Boys is here to infect your solar grid.\n\nI made this while trying out a new city block design so I can't guarantee it'll work for the size of your own base, but the blueprints for the boykisser himself are there if you want to waste a couple hours doing it yourself, just like I did. Or don't, I'm not your dad.\n\nMostly made using https://mlctrez.github.io/imgtofactbp/ but with slightly larger outlines due to the whole \"solar ratio\" thing.\n\nProduces 52.5 MW if I did the math right.\n\nobligatory \":3\"",
   "favorites": {
-    "f6v9U7fV7ker5fErsyVpjIDIQSJ3": true,
-    "Xl5H5gowUKYRDzQicqKd83htlP32": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "58b3dEYpKdeIuSB6g8sipzHhFRo1": true,
-    "bF9qbyoXLeT2v5GSAFkRwGPGFop1": true,
-    "kL4hZyp3jvadoCH8sDbtpUvpQFr1": true,
     "PRq88kxha4Zjyyru1IhscQrjxXA3": true,
-    "1v6Ja7M59KORPB8z6APCENuYJ982": true
+    "58b3dEYpKdeIuSB6g8sipzHhFRo1": true,
+    "1v6Ja7M59KORPB8z6APCENuYJ982": true,
+    "f6v9U7fV7ker5fErsyVpjIDIQSJ3": true,
+    "kL4hZyp3jvadoCH8sDbtpUvpQFr1": true,
+    "bF9qbyoXLeT2v5GSAFkRwGPGFop1": true,
+    "Xl5H5gowUKYRDzQicqKd83htlP32": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "fileName": "20230723213229_1.jpg",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1075
   },
   "lastUpdatedDate": 1690228263744,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 2,
   "tags": [
     "/power/solar/",
     "/power/accumulator/",

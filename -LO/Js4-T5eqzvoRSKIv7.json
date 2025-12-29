@@ -7,10 +7,8 @@
   "createdDate": 1539022279130,
   "descriptionMarkdown": "This is a big Solar-blueprint, that is placeable from the minimap.\nIn this video you can see how to make use of it: https://youtu.be/gkuSeKy0Bxo\n",
   "favorites": {
-    "eav5eh4PPGfWR1ihTQtgY7qd7xz2": true,
-    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
-    "ft1VkkZug9gi7c0AUJRgwJCtBhy2": true,
-    "9PqE6g68yweUFvW7zuyvvbDxorv2": true
+    "9PqE6g68yweUFvW7zuyvvbDxorv2": true,
+    "eav5eh4PPGfWR1ihTQtgY7qd7xz2": true
   },
   "fileName": "SOLAR.png",
   "image": {
@@ -20,7 +18,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1539027659605,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/power/solar/",
     "/mods/vanilla/",

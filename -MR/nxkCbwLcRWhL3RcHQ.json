@@ -7,9 +7,9 @@
   "createdDate": 1611484563088,
   "descriptionMarkdown": "https://factorioprints.com/view/-MEuCSGavOuRCOolelx0\nFirst-In-First-Out (FIFO) Train Stacker With Display\nAuthor: cabooble\n\nThis Blueprint was Created after modifing the above mod.\n\nThis is a Left Hand Drive (LHD) Station.\n\nit allows 20 trains to wait until the first station is empty before the next train enters.\nall trains waiting are refueled by the coal trains that unload.\n\nthis is part one off three.\n\nLoco setup\n\nStacker.\ncircuit green = 1\nand\ncircuit blue = 1\n\nDropoff.\nempty cargo inventory\n\nStacker Two.\ncircuit green = 1\nor\ncircuit blue = 1\n\nPickup One.\nWait for full Cargo\n\nOnce Trains are programed and sent on there way you can get on to other things.",
   "favorites": {
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
     "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
-    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true
   },
   "fileName": "LHD 4 Lane 20 Stacker 3 x 1-4-0 Station Loading with Fuel Train Unloading.jpg",
   "image": {

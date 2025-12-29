@@ -7,10 +7,10 @@
   "createdDate": 1707293001565,
   "descriptionMarkdown": "Книга с моими рецептами, и кучей чужих, но очень полезных.",
   "favorites": {
+    "JEptd7s5qJNNwE5wo1U29yXV1ia2": true,
     "mnFYGGit9KfJKpNOgPSHzwLXOkm1": true,
-    "wlXVn1GmxNTLNtaD6wFV2wwjnDy2": true,
     "spVwDZiVH7TtaLaFkmgu0SlNH2t2": true,
-    "JEptd7s5qJNNwE5wo1U29yXV1ia2": true
+    "wlXVn1GmxNTLNtaD6wFV2wwjnDy2": true
   },
   "fileName": "StudBOOK.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 500
   },
   "lastUpdatedDate": 1707293001565,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 0,
   "tags": [
     "/mods/vanilla/"
   ],

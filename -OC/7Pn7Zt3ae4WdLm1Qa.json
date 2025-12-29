@@ -7,26 +7,24 @@
   "createdDate": 1732086805104,
   "descriptionMarkdown": "A midgame ship designed to collect promethium crystals on its way to and from the shattered planet with no human intervention or support.",
   "favorites": {
-    "eeK13ksO87hJ3NagYGjQSCk0owB2": true,
-    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
-    "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,
-    "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,
-    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
-    "zLcY31ks1sTvLNZI9FwwGBHT7o43": true,
-    "8UEHa678eXgMr2VnScyu5AdEP1s1": true,
-    "23WCcSYBpuZ1XBIqplqsIZXdSso1": true,
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,
+    "eeK13ksO87hJ3NagYGjQSCk0owB2": true,
+    "zLcY31ks1sTvLNZI9FwwGBHT7o43": true,
+    "23WCcSYBpuZ1XBIqplqsIZXdSso1": true,
+    "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,
+    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
+    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
+    "8UEHa678eXgMr2VnScyu5AdEP1s1": true,
     "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true
   },
   "image": {
-    "height": 0,
     "id": "oUq4EU8",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/oUq4EU8",
   "lastUpdatedDate": 1732086805104,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/space-exploration/",
     "/planets/space-platform/",

@@ -7,12 +7,12 @@
   "createdDate": 1645820100731,
   "descriptionMarkdown": "Archosphere Balancer for Space Exploration. Uses some warehouse mods, so you might need to replace the chests.  'AAI Containers and Warehouses'\n\nThis balancer calculates the deviation from your target value. The target value is derived from your orb totals in your chests divided by 8. Then each formula gets a deviation score calculated to determine which formula brings the deviation lower to reach our target. That formula is then ran. \n\nWorks pretty well, I haven't had any jam ups running for multiple hours at higher load. The inserters will pause if the deviation value gets too high to allow the balancer to catch up. I advise not removing that, but the value can be increases depending on the number of spheres you have. Minimum for this is probably around 120, though I built it for twice that. \n",
   "favorites": {
-    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
-    "fhyUr6SILtSl4NfWrmBtX4uOKz63": true,
     "ULGsnnBu64W3B0ZmTeyuMMjYDMT2": true,
     "gZvyF5YBjehb4dj7cjJKr29cIHw2": true,
     "6ZbyDvdTP0f23EbyH6V23BXtM9n1": true,
-    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true
+    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
+    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
+    "fhyUr6SILtSl4NfWrmBtX4uOKz63": true
   },
   "fileName": "factorio_archosphere_balancer.png",
   "image": {

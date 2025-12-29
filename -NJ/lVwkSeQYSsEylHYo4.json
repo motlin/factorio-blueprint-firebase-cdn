@@ -7,19 +7,19 @@
   "createdDate": 1671573000223,
   "descriptionMarkdown": "A massive compilation of interesting and functional blueprints for Krastio 2. Some are my own creastion, some are co-creations and some are rip offs from other people, whom I found to have interesting designs, that I could improve on. Now, I can't remember any of them, with the exception of Nilaus. If you find this massive compilation usefull, please go and visit his channels on the social platforms, like youtube.\n\nAnd yes, you have been thinking about going overboard from the start. This is your chance. No more tiny and pathetic factories. Make everything in bulk and transport it by supersized trains. When you think you have enough, you add more mining areas, smelters, powerplants and factories. What are your limits? physical space and your settings for stacksizes (use K2 setting for up to 400 items pr stack on most things). If a factory doesn't support what you are trying, build another.\n\nSuggestion and information: When/if you use coal liquification, remember to use it for petroleum and lubricant only, and don't use 1 plant for both. make 2 standalone plants. 1 for petroleum and 1 for lubricant (expand with even more when needed). For light oil production, I highly recommend changing it to a cokes liquification plant (make a new one near some coal, build wood and smelters nearby to make cokes). Remember to make chemical plants to convert it into what you need, and burn off any biproduct.\n\nHappy playing, and may the enemy drown in your pollution. -Something this BP book provides in absurd amounts.\n\nVer 1.04.\n\nDouble checked that solar panels and accumualtors have been added. Also added more factories after space science, but is still WIP.\n\nVer. 1.03.\n\nStarter base is updated to Ver. 2.1\n-Minor cleanup of waterpipes\n-Added production and 2k stockpiling of solar cells and accumulators\n\nCan be added onto previous version.\n\nVer. 1.02.\n\nAdded Advanced Tech cards and supportive factories (electric engines and blank tech cards)\n\nver. 1.01.\n\nAdded fusion power and corresponding factories.\nAdded Matter research and corresponding and seperate production.\nRenamed >salpetersyre< to >Nitric Acid<.\n\nDependencies:\nKrastorio 2\n\nOptional:\nMining Drones, Water fill\n",
   "favorites": {
-    "I1OUSoAtvvPRldvHQ0FxbbevdOF3": true,
-    "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,
     "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
+    "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,
     "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,
-    "IXiMovwOumegqmm6j6w2zi5e50i1": true,
-    "V7CD5u5SRyd54czIx20eiB5QZh42": true,
-    "DaxOUn5Np8WyKQLxKKUbBQXGy4H3": true,
     "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,
     "EHq6ScQTiEQ5eA17OCvRtoZzC323": true,
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
-    "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,
+    "I1OUSoAtvvPRldvHQ0FxbbevdOF3": true,
+    "IXiMovwOumegqmm6j6w2zi5e50i1": true,
     "q6szEyQgjSPmtfqfO7xa86No1dE3": true,
-    "1v6Ja7M59KORPB8z6APCENuYJ982": true
+    "1v6Ja7M59KORPB8z6APCENuYJ982": true,
+    "V7CD5u5SRyd54czIx20eiB5QZh42": true,
+    "DaxOUn5Np8WyKQLxKKUbBQXGy4H3": true,
+    "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true
   },
   "fileName": "K2 starter.png",
   "image": {
@@ -29,7 +29,7 @@
     "width": 1663
   },
   "lastUpdatedDate": 1728477110962,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/krastorio/"
   ],

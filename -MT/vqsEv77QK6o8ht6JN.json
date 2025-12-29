@@ -7,28 +7,28 @@
   "createdDate": 1613764461751,
   "descriptionMarkdown": "I think the problems I've been having with this has been because it is too big. So I split it into six pieces. This took a lot more work than I expected it to, and life threw some unusual curve balls my way. I haven't tested it yet either. This is for Bob's mod. However Deadlock's Stacking is also supported (and no longer mandatory) Also supported is Text Plates. Both of these are built into the various malls.\n\nDue to internet problems I cannot update the image. It was hard enough just getting this site to accept the blueprint string.\n\nAlso due to internet problems I can't seem to post the other parts. I'm sorry for that. This has... a version of the book, but is lacking all the extras and every upgrade past the first rank.",
   "favorites": {
-    "5XKEKasy1jY1ugaOu98M1U9EgH13": true,
-    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
-    "IU70TmR7MzeyPUOBwAqJSQ0hKpN2": true,
-    "mY4UhbPxldfjSGTg70yCTiAtu383": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "7rEF87zzuPV5KQw452hZTA3hfjP2": true,
     "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
     "SRuuxbXNc5WYUceVKhqfQgWDu062": true,
+    "mY4UhbPxldfjSGTg70yCTiAtu383": true,
+    "IU70TmR7MzeyPUOBwAqJSQ0hKpN2": true,
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "H5lymY5ep2bcFjb6fHU8E5RcURK2": true,
+    "5XKEKasy1jY1ugaOu98M1U9EgH13": true,
+    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
     "lP8NM573vLazsK7gj3eskq5Xsp03": true,
+    "7rEF87zzuPV5KQw452hZTA3hfjP2": true,
+    "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
     "OAJW983B4scOXY44eha567dkxUs1": true
   },
   "fileName": "Factorio Screen grab.PNG",
   "image": {
-    "height": 717,
-    "id": "ou3NaH5",
     "type": "image/jpeg",
-    "width": 1074
+    "width": 1074,
+    "height": 717,
+    "id": "ou3NaH5"
   },
   "lastUpdatedDate": 1654634354503,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 8,
   "tags": [
     "/mods/bobs/",
     "/version/1,0/"

@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Rebecca Eve",
     "userId": "QNhgK7QBxhfSSQ90NDBKxQjX3TN2"
   },
   "authorId": "QNhgK7QBxhfSSQ90NDBKxQjX3TN2",
@@ -7,23 +8,21 @@
   "createdDate": 1754641065875,
   "descriptionMarkdown": "Made this one for myself to use.",
   "favorites": {
+    "xYVBprFBHWh5kEPsutixnD0vfZn1": true,
+    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
+    "7El66SoblkMPufIlrPMB1UYvNkp2": true,
+    "msDMrUEVEyP891ad5munUpKN6lB2": true,
     "V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
     "f96Af8c7GsNW0W3M8MEbDNTfTds2": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
-    "xYVBprFBHWh5kEPsutixnD0vfZn1": true,
-    "7El66SoblkMPufIlrPMB1UYvNkp2": true,
-    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
     "O4tmkl3tWeXGeWIt3myfUTxAxfS2": true,
-    "msDMrUEVEyP891ad5munUpKN6lB2": true
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true
   },
   "image": {
-    "height": 0,
     "id": "0P0ugNh",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754735458162,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

@@ -7,18 +7,18 @@
   "createdDate": 1601799276279,
   "descriptionMarkdown": "A blueprint book I built for developping my grid base. It contains :\n - base grid\n - junctions\n - LTN requester & provider stations\n - LTN parking\n\nIMPORTANT : when adding a Requester or Provider station, setup a stack of the item you want in the constant combinator (ex : if you want iron plates, setup 100 iron plates in the constant combinator). Everything else should be automated. Have fun !",
   "favorites": {
-    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
     "SIune8tADRd1TGwhaXws0F3x1J32": true,
-    "aAWz8yaxVmTPhFKaIFZSOZQiCj23": true,
     "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,
-    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
-    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
-    "nQfAZHqfdedgCdivt9okfzA4XZB2": true,
-    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
     "WRNEnlQW8VdqZF4SHxsW9rNwsSI2": true,
-    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
     "J7isgknfXIMeIKxYRR0jCo6rhhC2": true,
-    "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true
+    "aAWz8yaxVmTPhFKaIFZSOZQiCj23": true,
+    "nQfAZHqfdedgCdivt9okfzA4XZB2": true,
+    "Y45Jz95z5dWhJ7nNpMOxLMjSpVw2": true,
+    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
+    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
+    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true
   },
   "fileName": "khanut_grid.png",
   "image": {

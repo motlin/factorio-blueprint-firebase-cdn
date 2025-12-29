@@ -7,13 +7,13 @@
   "createdDate": 1569521743718,
   "descriptionMarkdown": "I made this blueprint as an attempt to fix the issue of depleting the resources of my main bus. Thanks to big chests you can request huge amounts of material, use 1 or more belts of every resource, etc. On default the station is configured to use 1_1 trains, but there is enough space to fit a train of total length of 8, it's also pretty easy to extend stops with cut & paste. You can also easily add 13th and consecutive stations to bring in more resources. ",
   "favorites": {
-    "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true,
-    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
-    "9JLFC4LbNSdSjz3VD1hQWXtYgBT2": true,
     "kkrFwss1xhNuLPlDeknf4M1RqWJ3": true,
-    "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true,
     "Uc5je0C7SKhJMdptwBwhkvmJGUK2": true,
-    "KfbDRv67nlVIqDg7mkq8W1wjpd03": true
+    "KfbDRv67nlVIqDg7mkq8W1wjpd03": true,
+    "9JLFC4LbNSdSjz3VD1hQWXtYgBT2": true,
+    "MQGQOXuFw3NhP6GVyJzC2cM71dg2": true,
+    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
+    "1rZVGkHs2VPTNLcwCz6r8BlyyMN2": true
   },
   "fileName": "Krastorio train station.png",
   "image": {

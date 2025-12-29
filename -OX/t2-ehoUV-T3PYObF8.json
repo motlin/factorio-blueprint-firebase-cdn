@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Tivi Box",
     "userId": "I9lMTdH3sBY8jpZLY454jqGVRGq2"
   },
   "authorId": "I9lMTdH3sBY8jpZLY454jqGVRGq2",
@@ -10,13 +11,11 @@
     "J6bAhBydwzVKX73HhRWi5JUcoPN2": true
   },
   "image": {
-    "height": 0,
     "id": "lSJ0NbN",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1755451232425,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

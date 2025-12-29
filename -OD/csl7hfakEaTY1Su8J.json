@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Раиль Fifa",
     "userId": "1KiMHqz2VpWtw5vJuuowZv5GdyE2"
   },
   "authorId": "1KiMHqz2VpWtw5vJuuowZv5GdyE2",
@@ -7,17 +8,15 @@
   "createdDate": 1762696303339,
   "descriptionMarkdown": "Blueprints crafted by Ollie Toms, guides writer for Rock Paper Shotgun.",
   "favorites": {
-    "XH3znheELIcgeG9wX4PBJEP5Kh42": true,
-    "8h5ajI4QNla7bVslJrJXOgRiNbz1": true
+    "8h5ajI4QNla7bVslJrJXOgRiNbz1": true,
+    "XH3znheELIcgeG9wX4PBJEP5Kh42": true
   },
   "image": {
-    "height": 0,
     "id": "iaegYwm",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762696303339,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/0,18/"
   ],

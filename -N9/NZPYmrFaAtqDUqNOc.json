@@ -7,8 +7,8 @@
   "createdDate": 1660417059725,
   "descriptionMarkdown": "ほぼ最小構成で作成しました。 \n\n・コンクリートのために、鉄鉱石を手動で搬入する必要があります。\n\n・生産モジュール３のために、制御基板を120枚手動で搬入する必要があります。\n\n4種の素材を入力し続けるだけで、生産のバランスが取れるようにしています。（鉄、銅、石炭、石）\n\nRTAをする場合、不要な備蓄用のチェストを外し、制御基板の備蓄を２００にしてください。\n\n変更点は下記のとおりです。\n\n１、制御基板の制作のための電子基板のバッファを廃止しました。\n（むしろ生産過剰気味ですが、衛星の打ち上げを見据えた構成です）\n\n２、サイエンスパック毎に必要なラインをほぼ分離しました。\n（各基板、鋼鉄など。唯一の例外は電子基板）",
   "favorites": {
-    "x1ZS3o753QXoZnAba710cSGbIly1": true,
-    "hup2892iZiTimCRiE0vjmMs2mB13": true
+    "hup2892iZiTimCRiE0vjmMs2mB13": true,
+    "x1ZS3o753QXoZnAba710cSGbIly1": true
   },
   "fileName": "1.0P毎分でほぼ全自動ver5.png",
   "image": {
@@ -18,7 +18,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1660418817952,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/science/"
   ],

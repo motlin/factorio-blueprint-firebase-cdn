@@ -7,26 +7,24 @@
   "createdDate": 1732103059402,
   "descriptionMarkdown": "Ultra-reliable Inner-planetary transport ship (Max Speed ~250km/s). Tested on a Loop from Vulcanus -> Gleba -> Fulgora -> Nauvis for 5 hours without damage. \n\nIt is Overkill for the Inner-Planets and it is mostly meant to look cool.",
   "favorites": {
-    "bspAiAuvOaQU4AkAaHy8IT0AZy52": true,
-    "u4FOXGbrnrWAs2p6oefwlWjTuot1": true,
     "KAs9myDf7Ma0PR9rFZ004ovoaad2": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "pKPs0wKjioZJmux2tGk4hYYz6Cn1": true,
-    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
-    "6rBEfpVKWyTnxJ56kRJ5gNtlgxk2": true,
-    "G8S6aGezMwSbVHSKGQz0bSOxWIC3": true,
     "wIpjLE7DMhVrNAJcgbdcg4j1I7k2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "G8S6aGezMwSbVHSKGQz0bSOxWIC3": true,
+    "bspAiAuvOaQU4AkAaHy8IT0AZy52": true,
+    "pKPs0wKjioZJmux2tGk4hYYz6Cn1": true,
+    "u4FOXGbrnrWAs2p6oefwlWjTuot1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "6rBEfpVKWyTnxJ56kRJ5gNtlgxk2": true
   },
   "image": {
-    "height": 0,
     "id": "WkRr7Gn",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/WkRr7Gn",
   "lastUpdatedDate": 1732103059402,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 7,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/",

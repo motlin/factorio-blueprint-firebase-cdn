@@ -7,25 +7,25 @@
   "createdDate": 1565574827362,
   "descriptionMarkdown": "1000spm from ore, belt based (v17.64)\n\nBuild for BC and LDS is taken here https://www.reddit.com/r/factorio/comments/bdkrwz/10k_spm_belt_megabase_benchmarked_83ups_with_way/\n\nExample usage (savefile v17.64): https://yadi.sk/d/38m-E_DzzjAQOg",
   "favorites": {
-    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
-    "3ZydwwbLYbUlsgwn7BHouOmfBAo2": true,
-    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "SiXnaVdwJyZBsKIRathtqoWYFTQ2": true,
-    "zC5MyQdIwueOWJM5obOWpBTTEW83": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
+    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
+    "zC5MyQdIwueOWJM5obOWpBTTEW83": true,
+    "3ZydwwbLYbUlsgwn7BHouOmfBAo2": true,
     "IA7HUJzaLgY7qq0zySa9gJSPqrc2": true,
-    "RPPrcbzSmTN6S8XhOO0sZUgzfqP2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
+    "SiXnaVdwJyZBsKIRathtqoWYFTQ2": true,
+    "RPPrcbzSmTN6S8XhOO0sZUgzfqP2": true
   },
   "fileName": "1000spm.jpg",
   "image": {
-    "height": 1080,
-    "id": "hxjiMvr",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080,
+    "id": "hxjiMvr"
   },
   "lastUpdatedDate": 1565574908140,
   "numberOfFavorites": 12,

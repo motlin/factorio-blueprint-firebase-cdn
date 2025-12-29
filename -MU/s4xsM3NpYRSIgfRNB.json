@@ -7,16 +7,16 @@
   "createdDate": 1614775049958,
   "descriptionMarkdown": "I think this power plant is a good option, if you need much energy for a big City Block base. The build fits perfect in a 100x100 City Block tile. Exept the offshore pumps.\n\nThe power plant produces ca. 1.12 GW.\nIt run perfect at full capacity, but yet there is no control for fuel cell insertion. Maybe I'll update this later on. You should also know that you could build one more steam turbine but I wouldn't do that, because of the symmetry.\n\nTo feed this setup you'll need:\n - 10 water pipes input\n - Robots to bring in nuclear fuel cells\n - nuclear fuel cells, obviously\n\nLeave a comment if you have any suggestions for improvement or other stuff like that. :)",
   "favorites": {
-    "MsvijdKJ6fWWBCx2JDxH6fVL4Kk2": true,
     "7fSyJDSKXwY1InNj78jgw4QnzLv1": true,
+    "MsvijdKJ6fWWBCx2JDxH6fVL4Kk2": true,
     "FzJgeQeObOdqoYRKBf5G2DNHhVB3": true
   },
   "fileName": "427520_screenshots_20210302194610_1.jpg",
   "image": {
-    "height": 1208,
-    "id": "exORhju",
     "type": "image/jpeg",
-    "width": 1208
+    "width": 1208,
+    "height": 1208,
+    "id": "exORhju"
   },
   "lastUpdatedDate": 1616601217584,
   "numberOfFavorites": 3,

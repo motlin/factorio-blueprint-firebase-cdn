@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Eli Lebo",
     "userId": "eu814ATq5lhqhPM0OHPCIOxEoRt1"
   },
   "authorId": "eu814ATq5lhqhPM0OHPCIOxEoRt1",
@@ -7,17 +8,15 @@
   "createdDate": 1764368229982,
   "descriptionMarkdown": "\nA pretty rough all in all-in-1 blueprint for 80spm on Rubia.\n\nThere are some rough edges, but it ran smoothly on a 1-hour test. All overflows are managed (needed to keep red ammo production up). Speaking of ammo, if you expanded the area covered by sniper turrets by a significant amount, the ammo production may not keep up.\n\nRequirments: \n   - Operation Iron Man, Sniper Turrets\n   - 800 cupric scrap/minute\n   - 600 ferric scrap/minute\n   - 60k bacterial sludge/minute\n\nLet me know if you find any problems or make major improvements!\n",
   "favorites": {
-    "SWvOCAf1zLgYE5ZKsK2gF6YwEbX2": true,
     "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-    "sS4OTcBowabSIRKeAUaTto3Sdtt1": true,
+    "SWvOCAf1zLgYE5ZKsK2gF6YwEbX2": true,
     "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "sS4OTcBowabSIRKeAUaTto3Sdtt1": true,
     "6AldBsnMEtdMpVrfdMVUtM5eKoP2": true
   },
   "image": {
-    "height": 0,
     "id": "wmPjB8c",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1764368229982,
   "numberOfFavorites": 5,

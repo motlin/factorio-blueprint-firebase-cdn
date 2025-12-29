@@ -7,26 +7,24 @@
   "createdDate": 1734730861026,
   "descriptionMarkdown": "A simple ship that can travel to the Shattered Planet safely",
   "favorites": {
+    "vNxmhmWkjGTkLBMIcRlQ5CeVb272": true,
     "iO05h9DQJ6NbuLAngYLvEBUXDav1": true,
-    "jH9Yw0JCUGSWLg5rXuWW8r96DhP2": true,
-    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true,
-    "xn9VsXbjq1ZG8ipiqdl4VXkcAV23": true,
-    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
-    "55zQfiq5xYYVdDJ8Bsns4LrU5LX2": true,
     "ocV9ibG8mVVnvwjTVLYZf6Rq0jD3": true,
+    "xn9VsXbjq1ZG8ipiqdl4VXkcAV23": true,
+    "jH9Yw0JCUGSWLg5rXuWW8r96DhP2": true,
+    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
     "HShqmSxkwIW0bNaRy1eUj73AOLA3": true,
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,
-    "vNxmhmWkjGTkLBMIcRlQ5CeVb272": true
+    "55zQfiq5xYYVdDJ8Bsns4LrU5LX2": true,
+    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true
   },
   "image": {
-    "height": 0,
     "id": "GQjPZHb",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/GQjPZHb",
   "lastUpdatedDate": 1734730861026,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 5,
   "tags": [
     "/planets/space-platform/"
   ],

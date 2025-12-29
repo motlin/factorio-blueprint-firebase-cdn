@@ -7,21 +7,19 @@
   "createdDate": 1737410139198,
   "descriptionMarkdown": "Tilable city blocks\n* Enter parameter item when placing block to define what the block will produce.\n  * Automatically sets station names.\n  * Stations automatically request trains and set priority of station.\n* Loading and unloading station blueprints make adding more input/output easy.\n* Solar and accumulator blueprints fill up dead space in ovals.",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
     "i34hVYC3H2admh0ozRV4oe2dNsp1": true,
     "kEuEnJeS0eg5baQ5JfFhTrbWyH33": true,
+    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true,
     "4MIDyGpYpEgpSGKVAuKGt120n9w2": true,
-    "EI3tF9oSIKSjQtWf7gpur1WtFuD2": true
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true
   },
   "image": {
-    "height": 0,
     "id": "vyoKZ6f",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/vyoKZ6f.jpeg",
   "lastUpdatedDate": 1737410139198,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/train/loading station/",
     "/train/unloading station/",

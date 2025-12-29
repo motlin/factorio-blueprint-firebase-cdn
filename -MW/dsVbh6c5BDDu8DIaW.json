@@ -7,13 +7,13 @@
   "createdDate": 1616684125707,
   "descriptionMarkdown": "This is an  Automated Wall Defence for Factorio game made by NAD4X4, takes inputs directly from the main bus and transform them in resources for the wall.\n\nIt has artillery train but doesnt have artillhery shell production, or cliff explosives, or uranium ammo yet, but works like a charm even wihtout those, since you can just make artillhery elsewhere and feed the arty train that it has,\n\nThis bp is made by NAD4X4, he has a youtube channel if you like the bp make sure to visit his channel and show support for his awesome work.\n\n25/03/2021 - Works only on factorio 1.1 or greater.",
   "favorites": {
-    "SASgRmzwUfdqLDzmpCX3OHHKzBJ3": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
     "mgzaB559GKQRL7QtiME6MluIubD2": true,
-    "tabtFwwY2mQqS76Qc1KJnRDUvI02": true
+    "SASgRmzwUfdqLDzmpCX3OHHKzBJ3": true,
+    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
+    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "tabtFwwY2mQqS76Qc1KJnRDUvI02": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
   },
   "fileName": "asduahdijaspdoksapok.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 465
   },
   "lastUpdatedDate": 1616684549518,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 5,
   "tags": [
     "/belt/fast transport belt (red)/",
     "/production/mall (make everything)/",

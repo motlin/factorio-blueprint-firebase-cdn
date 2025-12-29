@@ -7,14 +7,14 @@
   "createdDate": 1635196246773,
   "descriptionMarkdown": "Stations are ready to use from the get go. You just need to setup your requests.\n\nUsed mods: \n* Train Supply Menager\n* TSM Outpost Builder Redux\n* Bulk Rail Loaders \n* Large Storage Tanks \n* Miniloaders\n\nHow to use:\n1) Place Waiting Yard in the designated spot\n2) Delete/Replace straight rail piece for T or X junction\n3) (Optional) Place quad rail adapter\n4) Place TSM Supply Station Module (Cargo or Fluid) and next Supplier Train Stop\n5) Set Train Schedule to:\n 1) (vanilla) train station form the placed module (full cargo),\n 2) Supplier Train Stop (circut condition)\n6) Add new entry to supply source priority GUI with newly added train stop\n7) Place TSM Request Station Module (Cargo or Fluid)\n8) Change wagon amount in the constant combinator (cargo or fluin wagoon icon) (max 4)\n9) Change how many trains station has to expect (train icon) (must be at least 2)\n10) Change Priority Schema in the Train Requester\n\nChangelog:\n* ver 1.0\n * RHD version of bluprints\n * everyting is 4x\n * big train stations (1x4)\n*ver 1.01\n * corrected signaling on exits\n * corrected requestor circuts\n * corrected grid snapping\n * added fluid station samples and depots\n * redesigned yard area for easier expansion\n * redesigned fuel depot and added fuelstop sample\n* ver 1.1\n * general redesign\n * corrected rails for better modularity\n * name changes\n * seperate books for supply and requst\n * added new Builder Train book (check used mods section)\n* ver 2.0\n * redesign for custom rail book (rail book availeble seperately)\n * added new mod for tanks (check used mods section)\n * shortened overal module width\n * extended length of waiting yard to better fit new rail design\n * added constatnt combinator to request modules for easier train setup (max 4 wagons)\n * simplified book contents\n",
   "favorites": {
-    "7AxO7fl28PeZ0mU31MBSwPED6jW2": true,
-    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
     "qznsoKzpPLMm195XqWr912sGVuE3": true,
     "u62gXRdkkqZDsp8l9Kz3fZvKyZa2": true,
-    "ISoPedemzbb4blqipRj8El9xLJv1": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
     "WJzVBcDMBUc2IEdsS9nvAC3GbBK2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "7AxO7fl28PeZ0mU31MBSwPED6jW2": true,
+    "ISoPedemzbb4blqipRj8El9xLJv1": true,
     "1QnI3FxqTFX33pPsWbghmrQjrCd2": true
   },
   "fileName": "logo.png",
@@ -26,7 +26,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/logo.png?alt=media&token=d1d5d1f0-8b73-4c23-b056-6b6d879a4de0",
   "lastUpdatedDate": 1664801068020,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 8,
   "tags": [
     "/mods/other/",
     "/version/1,0/",

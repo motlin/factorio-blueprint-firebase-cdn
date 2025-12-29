@@ -7,27 +7,25 @@
   "createdDate": 1729893665585,
   "descriptionMarkdown": "Two sets of prints, \"Peak Load\" that includes steam Storage Tanks as buffers along with circuits to control when fuel is inserted into the reactors. It should never waste fuel, if it ever does, it will be minimal. All designs are in-place tileable. Meaning you can start off with a single 40MW reactor and in-place upgrade it to 160, 480, 1.1GW, etc.\n\n\"Base Load\" designs are meant to provide just that -- base loads. No steam buffers or circuits for these. They are meant to run 24x7 and supply the power which your base never drops below. For example, say your factory is using 10GW of power, and in the last 5 hours of play, you've never dropped below 3GW, you'd build 3 GW of 'base' power, and 7 GW of 'peak load' power. Base load can waste a lot of fuel if power draw drops below base supply, so only ever build base load when you're sure you'll use it! Base load designs can be in-place upgraded, but only come with 8-core designs, as base load only ever makes sense at large scale.\n\nOn water needs: Pipes now have infinite capacity, so long as they are full. Always build enough offshore pumps to supply reactors BEFORE on-lining new reactors.",
   "favorites": {
-    "8Myo9tPkflfEpMHNSZ6YpJtaM8J3": true,
-    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
-    "sff6JsX6nsclaQLBhSL6hx4pVi22": true,
-    "dOaVEItpfjMLpnKS1uoDSLNY3HB3": true,
-    "xMUFINAX04XiVyHcTOFAdyrDlUt1": true,
     "fmAdDodJpJSGCV8RLpnYaX2Jafk1": true,
-    "NAIBk8AtXhRxRMbIa297Q5Y6AF43": true,
+    "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true,
+    "7cbaZC0zCFOhWYCpU5ephyALu6E2": true,
+    "8Myo9tPkflfEpMHNSZ6YpJtaM8J3": true,
+    "dOaVEItpfjMLpnKS1uoDSLNY3HB3": true,
     "gunOWAzCrwTCywpfk0Z0x0KZSGO2": true,
-    "DxcHjN4nG1RqTAhr725nsbtbYlI3": true,
+    "xMUFINAX04XiVyHcTOFAdyrDlUt1": true,
+    "NAIBk8AtXhRxRMbIa297Q5Y6AF43": true,
     "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true,
-    "fg9zwm2nNCZWSk8h17VgB2vSmsw2": true
+    "sff6JsX6nsclaQLBhSL6hx4pVi22": true,
+    "DxcHjN4nG1RqTAhr725nsbtbYlI3": true
   },
   "image": {
-    "height": 0,
     "id": "DVxx4Oc",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/DVxx4Oc",
   "lastUpdatedDate": 1729893665585,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 5,
   "tags": [
     "/power/nuclear/",
     "/mods/vanilla/",

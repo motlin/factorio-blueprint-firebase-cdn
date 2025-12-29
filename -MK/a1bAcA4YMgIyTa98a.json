@@ -7,15 +7,15 @@
   "createdDate": 1632725791537,
   "descriptionMarkdown": "This blueprint is part of the \"Dense City Blocks\" blueprint book. ([HQ Album](https://photos.app.goo.gl/kkHRgdKJk7AE9yLy5), [Complete Book String](https://pastebin.com/raw/UDCQ6JEU)).\n\nRemniscent of Nilaus' hub blueprints. Makes everything under the logistics tab except burner inserters, everything under the production tab except burner mining drills, and modular armor/spidertron + all accessories except discharge defense and personal solar panels.\n\nThat's everything except science packs, sulfur/plastic/fuel, low-density structure, rocket parts, and some intermediate armor items.\n\nOutput (explosive) rocket and Module 3 quantities are small. You may still want some of the pieces of the military hub, although most of it is replicated to this blueprint. You will still need dedicated speed/productivity module production.\n\nThis design bootstraps logistics/construction bots; build that part by hand to have the rest built automatically. A book containing reduced-size versions of this blueprint to help with the bootstrapping process is forthcoming.",
   "favorites": {
+    "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,
     "lk2rUGXu6UUqpcXDkZWdIfjDrlk2": true,
-    "6OmVRBXbFibEwRsWd7JXmzPZn8C2": true,
+    "jdG942UYPRTZmxxPyHpUtgjWFnj1": true,
+    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
+    "RZzCNWMZ9AY9rwcmK1HqAw6wH022": true,
     "wI7gVxxVx3edBO26E28Ao4SN97u2": true,
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
-    "RZzCNWMZ9AY9rwcmK1HqAw6wH022": true,
-    "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,
-    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
-    "jdG942UYPRTZmxxPyHpUtgjWFnj1": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "6OmVRBXbFibEwRsWd7JXmzPZn8C2": true
   },
   "fileName": "Hub-City-Block-s.jpg",
   "image": {
@@ -25,7 +25,7 @@
     "width": 1600
   },
   "lastUpdatedDate": 1632806451720,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 8,
   "tags": [
     "/production/mall (make everything)/",
     "/mods/vanilla/"

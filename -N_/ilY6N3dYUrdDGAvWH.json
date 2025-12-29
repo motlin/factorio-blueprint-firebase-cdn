@@ -7,14 +7,14 @@
   "createdDate": 1689780631025,
   "descriptionMarkdown": "It's a block, it's big, it takes 2x6 trains of iron and copper on the right (As per station names) and 2x4 oil, water, stone and coal trains on the left. You give it enough trains to saturate the damn thing and ~7GW of power to boot, and it will do consistent 1.35k SPM including military tech (fully saturated blue belt sides of each science). Lab setup included. Productivity modules in every single entity that will take them.",
   "favorites": {
-    "M99RJFp41cYIsG0mws6TYwUaE103": true,
-    "UO7nFbLvu8cuQYmhJ5ZyUe2df5i2": true,
-    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true,
     "CGGxAb53RnZmicEgxS0P3eC6RWq2": true,
     "IRU7QeROU9TotND7H5KRe9na4gs2": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "M99RJFp41cYIsG0mws6TYwUaE103": true,
+    "UO7nFbLvu8cuQYmhJ5ZyUe2df5i2": true,
+    "bDJMmaOFWifCciP1nFzKHWhjDIb2": true,
     "seEu6snZN5dlDdYOXjo2VKiSJRE2": true,
-    "bDJMmaOFWifCciP1nFzKHWhjDIb2": true
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true
   },
   "fileName": "A tile.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1229
   },
   "lastUpdatedDate": 1689780631025,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 4,
   "tags": [
     "/general/late game (megabase)/",
     "/mods/vanilla/",

@@ -7,14 +7,14 @@
   "createdDate": 1622266015805,
   "descriptionMarkdown": "##### UPDATE: My new solar arrays blueprint book has a new solar array that is slightly more compact/efficient than this design. https://factorioprints.com/view/-Mb-8ayzNVvhbV3UmGwa\n\n# Compact Solar Array\n\nThis is a compact solar array that includes roboport and radar coverage. This is one of the most efficient tileable solar arrays of reasonable size (7 x 7 chunks or smaller) with roboport and radar coverage in terms of power per area.\n\nThis blueprint can tile horizontally, vertically, and/or diagonally. When building over water, it is highly recommended to place landfill by hand.\n\n##### 198 x 199 tiles\n##### 131.49 MW net sustained\n##### 0.840382 ratio\n##### 299.658 tiles / MW (2nd best/lowest ever <sup>1</sup>)\n\n### Entity Count <sup>2</sup>\n* 3145 solar panels\n* 2643 accumulators\n* 102 substations\n* 6 roboports\n* 1 radar\n\n<sup>1</sup> Formerly the lowest tiles / MW number of any tileable solar array with full radar and roboports construction coverage of tile size 224 x 224 tiles or under. My Solar Arrays Book includes a 198 x 200-tile design with a slightly lower number, and I have a 198 x 199-tile design (not shared) with a slightly lower number than this design, but higher than the 198 x 200-tile design.\n\n<sup>2</sup> Substation, roboport, and radar counts only apply when blueprint is tiled in all 8 directions",
   "favorites": {
-    "V7CD5u5SRyd54czIx20eiB5QZh42": true,
-    "RoJE2O397gZ3ShXLSECFtln0OuM2": true,
     "pfpXdzNlanQLqRbvmUgaZak96TD2": true,
+    "rI6gfEm67gdFPrrLqz57zpEMIRp2": true,
+    "V7CD5u5SRyd54czIx20eiB5QZh42": true,
     "HShqmSxkwIW0bNaRy1eUj73AOLA3": true,
-    "QdRYQzOrABV0fRWezdMxH9Ebdti2": true,
     "0OFSl2aJFYd97Lxj7xvrdubNL0s2": true,
+    "RoJE2O397gZ3ShXLSECFtln0OuM2": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
-    "rI6gfEm67gdFPrrLqz57zpEMIRp2": true
+    "QdRYQzOrABV0fRWezdMxH9Ebdti2": true
   },
   "fileName": "CompactSolarArray.png",
   "image": {

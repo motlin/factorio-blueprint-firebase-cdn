@@ -7,9 +7,9 @@
   "createdDate": 1660814631638,
   "descriptionMarkdown": "How to use:\nStart the setup by feeding 40 uranium 235.\nUranium 238 is requested (only if a surplus of Uranium 238 is ready).\nAfter one process turn, the bottom green inserter puts everything into a chest.\nThe filter inserter puts 40 uranium 235 into the top chest but there is always 1 unit left in the bottom chest (the produced uranium 235).\nWhen the top chest got 40 uranium 235, the bottom chest is emptied.\nThere we get 1 uranium 235 every round + uranium 238.\nWhen the bottom chest is empty, the top green inserter returns 40 uranium 235 for the next round.\nMake sure the inserter stack size bonus of the stack filter inserter is set to even numbers.\n\nSteam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=920967372",
   "favorites": {
-    "pvp39evJUJS2JPcQ6M6tSAzsKh63": true,
     "29dbBeGThnZZBFKooiswLAiR53f1": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "pvp39evJUJS2JPcQ6M6tSAzsKh63": true
   },
   "fileName": "20220818110929_1.jpg",
   "image": {

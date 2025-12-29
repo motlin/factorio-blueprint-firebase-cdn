@@ -7,18 +7,18 @@
   "createdDate": 1653084659839,
   "descriptionMarkdown": "# Mixed Mining\nThis is an advanced multi-ore mining block for [Brian's Self-Building Mega-Factory](https://factorioprints.com/view/-MNZWdWosuqr3vtaC2hD) (SBF). This design starts from that book's Mine blueprint, copying its multi-ore LTN provider station.\n\nMixed Mining provides all mined ores continuously. There are blueprints for mining with and without fluids. Mined uranium ore is routed to a dedicated 4-wagon provider station.\n\n## Structure\nThe mine is composed of thousands of electric mining drills working in groups of 4. This splits the block into hundreds of small patches which allows the block to control which ores get mined.\n\nEach drill group shares a short primary belt (yellow) which empties into a secondary belt (blue) through a splitter. In the Wet Mining block, this junction is rate-limited when the blue belts are full so that each drill group is able to contribute. This helps prevent uranium shortages when that ore is farthest upstream from the station, at the cost of UPS.\n\nThere are 15 secondary belts (blue) bringing ores downstream to the station. In the wet/dry blueprint, splitters at the end of the secondary belts push uranium onto dedicated belts which terminate at the 4-wagon station. The remaining ore is loaded into the 8-wagon station at a rate of up to 8 blue belts.\n\nThe dry mining block's secondary belts run in pairs that are combined into single belts at the end. In case any of the 8x8 balancer inputs are running dry, you can re-route the second half of any backed-up belt pairs into those empty inputs to improve throughput.\n\n## Wet Mining\nUranium mining is enabled by a network of pipes and a station requesting sulfuric acid. The drills are never used as pipes. Each drill is served directly by a pipe. There is no need to manually fix up the block after construction.\n\nThe fluid network can hold over 500k fluid (40 wagon loads!) even before considering what the drills can hold. So it's going to request a lot of acid. But don't worry! It won't go to waste. The wet drills can suck those pipes dry. \n\n## Control Logic\nBack on the primary belts (yellow), just before the splitter, there is a wire reading the yellow belt's contents and enabling the belt when `everything <= 10`. Since the belt is stopped whenever `anything > 10`, we can stop a coal-producing group of drills by putting `coal:10` on the wire. When `coal on belt AND coal:10 on wire`, the belt is disabled and the coal sits there--along with any other ores that happen to be produced in that small patch--until `coal:10` goes away.\n\nWet Mining has an additional set of signals that can stop a primary belt. This is used to even out the contribution of ores from different groups, preventing the closest groups from doing the majority of the mining and allowing the more distant ores to reach the station. The signals 1-6 are used for this. They are emitted by the race track in the middle of the station. They use the same logic as above: when any signal's value exceeds 10, the yellow belt is disabled.\n\nEach drill group is assigned a number from 1 to 6. A combinator adds the sum of the blue belt's contents to the value of the assigned signal coming from the block. The block keeps these signals at a value of 4 for 95% of the time. The value drops to 0 for 5% of the time, with each numbered signal dropping at a different interval. When the blue belt has 6 or fewer ore, the sum is not greater than 10 and the yellow belt is enabled. When the blue belt has 7 or 8 ore on it, the total exceeds 10 and the yellow belt is stopped for 95% of the time. The effect is that downstream drill groups are only allowed to contribute 5% to the splitter's output.\n\n## Supply Management\nThe block has a storage quota for each type of ore. When the station reaches its quota of any ore, the primary belts supplying that ore are stopped until that ore falls below quota again.\n\nThis block is reliable. It keeps providing at all times, regardless of demand, and always produces more of whatever is in demand. When some resources are in low demand it is common to see them stay above their quotas. This leaves more space on the belts which results in faster production of the high-demand ores.\n\n## Ore Quotas\n96 steel chests can hold 230,400 ore in stacks of 50. For each ore produced by the mine, the block reserves an equal fraction of 160k. The quota is therefore 40k (2.5 loads) when all 4 dry ores are produced. This leaves about 70k of slack space to accommodate the ores that were already on the secondary belts before the quota was met.\n\n## Power Management\nTo save power, the block disconnects drill power whenever all of its quotas are met or its accumulator drops below 50%.\n\nConstruction requires powered roboports. A switch wired to the construction site keeps the power connected until construction is complete.\n\n## Information Display\nColored lamps indicate the status of each ore.\n* PROD is lit when the mine has produced that ore. The color cycles through white and cyan at one cycle per 100 ore produced.\n* Train loads of each ore ready for pickup are indicated by green lights.\n* FULL is lit red when the quantity of ore in the station exceeds the quota.\n",
   "favorites": {
-    "424jNGDhcmMUZYc5dYXtvzkJRw62": true,
-    "OhuJKsSKwkgzVEZuqI9BEJ0By8r2": true,
-    "wOKd2dNKNcTedCuoHekwAafywLu2": true,
-    "aI9AmaZjrJT50rl5N9Lmyd4TRfr1": true,
-    "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,
-    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
-    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
-    "0q0ujwCFNpVLhBSOFVdjq4laiyy1": true,
-    "7qSwM9lq5cPhvcgBgj7SXzGrbAk2": true,
-    "BCRmbzwLNgQJeikdFAZxOAj9pA42": true,
     "DpbmHNzr49OCzxrGJq0inggICcg2": true,
-    "q9VzeT3cMeVAfsx8wDfWfjJ03h12": true
+    "OhuJKsSKwkgzVEZuqI9BEJ0By8r2": true,
+    "7qSwM9lq5cPhvcgBgj7SXzGrbAk2": true,
+    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
+    "q9VzeT3cMeVAfsx8wDfWfjJ03h12": true,
+    "0q0ujwCFNpVLhBSOFVdjq4laiyy1": true,
+    "aI9AmaZjrJT50rl5N9Lmyd4TRfr1": true,
+    "wOKd2dNKNcTedCuoHekwAafywLu2": true,
+    "BCRmbzwLNgQJeikdFAZxOAj9pA42": true,
+    "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,
+    "424jNGDhcmMUZYc5dYXtvzkJRw62": true,
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true
   },
   "fileName": "Screenshot 2022-05-25 200003.png",
   "image": {
@@ -29,7 +29,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202022-05-25%20200003.png?alt=media&token=872da91f-f89d-4ffd-81c8-9ca2e1fb9270",
   "lastUpdatedDate": 1713670773564,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 10,
   "tags": [
     "/production/mining/"
   ],

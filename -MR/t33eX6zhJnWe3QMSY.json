@@ -7,22 +7,22 @@
   "createdDate": 1640561134804,
   "descriptionMarkdown": "# DaviAMSilva's Rail City Block\nA very simple to use set of blueprints to make a rail network using the city block design.\nIt supports trains up to length 8 and includes blueprints of stations for trains of length 6 and length 8.\n\nThe entire layout is **customizable** and not every section needs to be a perfect square. Grids and junctions connect **seamlessly** and can even be upgraded.\n\nAlso includes a roboport blueprint that makes each city block a separate logistic network.\n\n- Edit 1: Added a concrete design blueprint\n- Edit 2: A single chain signal was offset by 1 tile in every intersection\n- Edit 3: Added extra signals to **[Junction 2-Way Straight Simple]** for better upgradability",
   "favorites": {
-    "5p0E6xfD8NMBxe6XfURuge4g9oq1": true,
     "7cEFFkpGI2SyrJKWNHJS3gK8xeg1": true,
-    "JPDsgDKYYCeo9Kh6bBNncELUXdU2": true,
+    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
     "e0h4SEWRIIdkuUVeDpEfjqOmwkG2": true,
     "5WBwlfihhCOj517eiGyCycwP1Wx1": true,
-    "FeTE7FmwQiWHtTZS1xoVv7uj8Xb2": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "Vw1Q2sr54gUJz0oiO1JIjRwmw9w1": true,
-    "dysVqvmcWnT4HrBSDPP6gJzQy2E3": true,
-    "FOkeJ5l45uPJGFwA7revwCBouVP2": true,
-    "py87bEXUR3PtRv50bVActU1D3Tp1": true,
-    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
-    "SS0ivWSelScggoritSCjMW2VOo32": true,
     "11o67rL7N1dLaULE2eBjzVXoldK2": true,
+    "JPDsgDKYYCeo9Kh6bBNncELUXdU2": true,
+    "FOkeJ5l45uPJGFwA7revwCBouVP2": true,
     "Hh8wbdR5utcMTwYXKNRWUxxqHgn2": true,
-    "QFJ4SyBbw2TJeJ2hbH16JUbLqQL2": true
+    "dysVqvmcWnT4HrBSDPP6gJzQy2E3": true,
+    "5p0E6xfD8NMBxe6XfURuge4g9oq1": true,
+    "FeTE7FmwQiWHtTZS1xoVv7uj8Xb2": true,
+    "py87bEXUR3PtRv50bVActU1D3Tp1": true,
+    "SS0ivWSelScggoritSCjMW2VOo32": true,
+    "QFJ4SyBbw2TJeJ2hbH16JUbLqQL2": true,
+    "Vw1Q2sr54gUJz0oiO1JIjRwmw9w1": true
   },
   "fileName": "DaviAMSilva's Rail City Block.png",
   "image": {
@@ -32,7 +32,7 @@
     "width": 1584
   },
   "lastUpdatedDate": 1647221878534,
-  "numberOfFavorites": 16,
+  "numberOfFavorites": 14,
   "tags": [
     "/train/track/",
     "/train/right-hand-drive/",

@@ -7,10 +7,10 @@
   "createdDate": 1653369617305,
   "descriptionMarkdown": "3 Power plants that uses each of the respective oil processing recipes to generate fuel",
   "favorites": {
-    "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,
     "lMPRklTqYjWsHuLAiXuT390ESuP2": true,
-    "DLgHWCGow1U6cHn5hVJyF7IzxDm2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "DLgHWCGow1U6cHn5hVJyF7IzxDm2": true
   },
   "fileName": "Oil power.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 1276
   },
   "lastUpdatedDate": 1653369617305,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/coal liquification/",
     "/power/steam/",

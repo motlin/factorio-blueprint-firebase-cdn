@@ -7,10 +7,10 @@
   "createdDate": 1660840929354,
   "descriptionMarkdown": "This is my take on a hex city block,<br>\n**still a work a progress** <br>\nEach blueprint has a description inside of it, be sure to also give this a read.\n\n## Mods:\nI also use Transport & Mining drone mods<br>\nso that's what the roads are for, if you aren't using it, look into the Vanilla variant <br>\nThere are also Concrete variant if you are using Dectorio mod\n\n## To do list:\n* Need to add a train stations\n* make the Hex block Grid Aligned and tillable\n\n## change log:\nv 0.3:\n* 2 New train stations, loading and unloading, still a work in progress\n* New solar tile, not to ratio but almost kind of close. at least it looks neat\n\nv 0.2:\n* rearrange the book\n* updated the picture, icons and descriptions\n* fix the problem where power poles not getting red & green wire between blocks\n\nv 0.1:\n* initial\n\n## Credit and annotations:<br>\nXYF - a lot of this is based on _[his book](https://www.factorio.school/view/-MircKEFM3_ptDqVci4H)_, be sure the check it out<br>\n[Factorio.tmin10.ru](https://factorio.tmin10.ru/) - Encode/Decode blueprint strings fast\n\n\nWant to talk? [Telegram link](T.me/SM_26)\n",
   "favorites": {
-    "3JvviRFMx3XsnSWFjSeHdV0zPXt1": true,
     "YTLEUsYCJMXxLb7cLC5L97dOS033": true,
-    "yhNezz31bjSEYrcVL8atEjByilM2": true,
+    "3JvviRFMx3XsnSWFjSeHdV0zPXt1": true,
     "fjiDOvTIwuZynsDOq75Kf3qcG2n2": true,
+    "yhNezz31bjSEYrcVL8atEjByilM2": true,
     "xHosaycsVGNwhrwpk5AYs3OHMgB2": true
   },
   "fileName": "render-EXPIRES-ddd9f1c3be0be4aa.jpg",
@@ -22,7 +22,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/render-EXPIRES-ddd9f1c3be0be4aa.jpg?alt=media&token=7445d57d-5afa-405e-b5e5-cd407cbc9d55",
   "lastUpdatedDate": 1661724681081,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/version/1,0/",
     "/mods/transport drones/",

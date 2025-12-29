@@ -7,27 +7,27 @@
   "createdDate": 1582812158915,
   "descriptionMarkdown": "Blueprint for 1, 4 and 8 belt storage. Use an input signal to request items from the storage, connected e.g. to another storage or train stations. Use the output signal to activate miners, train stations, or the previous production line.   \n\n* 375 slots per belt.\n* Balances input and output.\n* Outputs full belts.\n* If items are demanded and the belt is full already, the storage won't output.\n* If the belt is not full the storage will fill it up.\n\n\nSetup:\n* Connect the input (IN) with red wire.\n* Set the output conditions at the near combinators. One combinator will output a [1] signal activating the output depending on incoming [1] signals. The previous two combinators output [1] and define the actual conditions. A train stop e.g. would require two conditions, the amount of requested items and if a train is waiting. If you only use one condition or you need more than two, change the condition of the first combinator from \"if [1] = 2\" to the number of conditions you use.\n* Connect the output (all power poles beside input) to the feed with red wire.\n* If you want to upgrade the belts, instead replace the blueprint. Output inserter settings are tweaked for each belt type to output full belts while the output is balanced.\n\n\nRS latch:\n* The RS latch included in the book is useful to control the feed, especially to avoid activation and deactivation every few seconds. It outputs a signal when the item amount falls below x until the storage is restocked to y. The upper combinator sets x, the middle one y, the last one outputs [S] until the storage is restocked. So use \"if [S] > 0\" to activate the feed.",
   "favorites": {
+    "9THnMdZSMyeT9PdOstFZXWBxeTP2": true,
     "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "fOcyhtywgXgoS81ajBomIJFmoco2": true,
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
-    "K8CrK0BsiOPJTwJTKjPJ6emX1ag2": true,
     "V515dCjEUngAzrK44nUMwDHWagn1": true,
+    "TrxKGPvYyJdarpyiQzZmQ3JNI4j2": true,
+    "fOcyhtywgXgoS81ajBomIJFmoco2": true,
+    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
+    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
+    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
     "H0OVd48PdpR5tnvLJ9W33wNaN612": true,
     "UJbcn3OpTnWnl5FTCLOiTXCtj8H2": true,
-    "OmVR4eEVQrNICPUptQo3rfkjgf53": true,
-    "TrxKGPvYyJdarpyiQzZmQ3JNI4j2": true,
-    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
-    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
-    "9THnMdZSMyeT9PdOstFZXWBxeTP2": true
+    "K8CrK0BsiOPJTwJTKjPJ6emX1ag2": true,
+    "OmVR4eEVQrNICPUptQo3rfkjgf53": true
   },
   "fileName": "20200227140628_1.jpg",
   "image": {
+    "width": 1920,
     "height": 1013,
     "id": "aMVOY0w",
-    "type": "image/jpeg",
-    "width": 1920
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1673610792022,
   "numberOfFavorites": 14,

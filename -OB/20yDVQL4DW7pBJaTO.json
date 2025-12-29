@@ -7,16 +7,14 @@
   "createdDate": 1730922669101,
   "descriptionMarkdown": "Aquilo Worthy ship.\nAstroid chunks are held in collectors and will jettison chunks to ensure a ballanced buffer of chunks.\nChunks are released to grinders based on demand.\nSulfer/Calcite jettisoned as required to prevent resource starvation to ammo/fuel production.\nThrusters are pump controlled for good fuel efficiency (~90% at max speed and current clock configuration).\n\nIt even comes with RGB lighting because no ship is complete without it!\n\nUpdated on 11/15 to make it a bit easier to cold start as well as fix a few issues it had over time",
   "favorites": {
-    "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
     "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
-    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
-    "UQJD7Zd3nChS589kuPwvOhFocQn2": true
+    "UQJD7Zd3nChS589kuPwvOhFocQn2": true,
+    "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
+    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true
   },
   "image": {
-    "height": 0,
     "id": "oTWOWqC",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/oTWOWqC",
   "lastUpdatedDate": 1731708945447,

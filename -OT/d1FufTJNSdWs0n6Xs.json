@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "CT",
     "userId": "khpdVqYcjxUgGWU9LbJEiyZ4j8x1"
   },
   "authorId": "khpdVqYcjxUgGWU9LbJEiyZ4j8x1",
@@ -7,16 +8,14 @@
   "createdDate": 1750887633839,
   "descriptionMarkdown": "\"Federal Network Broadcast\"\n1. Place over water (deselect offshore pumps if placed over land)\n2. Liberate farm outpost (Yamako left/Turbines, Jellynut Right/Rocket)\n3. Hand feed spoiledge to kickstart bioflux\n4. Service Guarantees Citizenship\n5. WOULD YOU LIKE TO KNOW MORE?",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
-    "rymhZBLbJsPfWDTCpIBfdWIBXFa2": true
+    "rymhZBLbJsPfWDTCpIBfdWIBXFa2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   },
   "image": {
-    "height": 0,
     "id": "DDcfxdr",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1751335107185,
   "numberOfFavorites": 4,

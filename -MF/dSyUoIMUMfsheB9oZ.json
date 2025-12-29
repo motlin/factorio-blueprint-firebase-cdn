@@ -7,15 +7,15 @@
   "createdDate": 1598423558165,
   "descriptionMarkdown": "12 x 2 Belt fed nuclear reactor. 3.68 GW Sustained output 4.08 GW maximum output. Core must be built over water and reactors must be hand loaded on cold startup.",
   "favorites": {
-    "v0Ects3LexekV88yeJabf7i1hJF2": true,
-    "NzinW3ImrSOidr50COVDjViOqUk2": true
+    "NzinW3ImrSOidr50COVDjViOqUk2": true,
+    "v0Ects3LexekV88yeJabf7i1hJF2": true
   },
   "fileName": "Reactor 2.png",
   "image": {
-    "height": 798,
     "id": "r1nahyn",
     "type": "image/jpeg",
-    "width": 2496
+    "width": 2496,
+    "height": 798
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Reactor%202.png?alt=media&token=f54f7558-6c4a-48a2-a335-8e3b2c382573",
   "lastUpdatedDate": 1598434477310,

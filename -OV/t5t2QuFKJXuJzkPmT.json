@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Pestilence",
     "userId": "i5zy0pqlsUeUgwQ4UYRuyKpJvWJ3"
   },
   "authorId": "i5zy0pqlsUeUgwQ4UYRuyKpJvWJ3",
@@ -10,13 +11,11 @@
     "c07KdhP3sjX26DXJ6X9HCAAhAEW2": true
   },
   "image": {
-    "height": 0,
     "id": "7NhHv2e",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1753304766082,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Stas Korchagin",
     "userId": "NUbCWfwImgfzWeLqvxinFq9EYss1"
   },
   "authorId": "NUbCWfwImgfzWeLqvxinFq9EYss1",
@@ -7,15 +8,13 @@
   "createdDate": 1761239501878,
   "descriptionMarkdown": "Preview:\nnauvisNavusFullBasenauvis",
   "favorites": {
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
     "sEqWV1NZb6cZ19oaKQXjNl28YXI2": true,
-    "4jHhBSlkxTY91wWv5NfGYnTtovs1": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true
+    "4jHhBSlkxTY91wWv5NfGYnTtovs1": true
   },
   "image": {
-    "height": 0,
     "id": "qh3qXqI",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1761239501878,
   "numberOfFavorites": 3,

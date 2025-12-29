@@ -7,20 +7,20 @@
   "createdDate": 1613981356851,
   "descriptionMarkdown": "Nefrums any% wr base, seperated in steps.\nThe base is designed to be run a very specific map and to complete the first rocket in 100 minuttes.\n\nI have updated some of the blue prints in the start to use absolut grid so they are eazy place correctly and some at the end because they get very large. I have also made some other minor adjustments to make it slightly easier to use, for example a heavy oil cracking for rocket fuel.\n\nWhen starting each: steel, plastic, batteries and frames. A splitter is replacing a belt, doing this correctly is critical. \nWhen blue science is built, turn of the second steel smelter.\nWhen adding stone to the stone brick belt,  turn the stone brick buffer around.\nWhen starting large steel for purple, turn the coal buffer from the original steel.\nWhen the 10th mix build is built by bots, turn the iron buffer around.\n\nYou need to hand carry 8-9 stacks of robot frames from bots to yellow science. Production module assemblers in the mix build needs to be switched to speed modules when total production exceeds 1k.",
   "favorites": {
-    "rrCJCHpB6NMrlG3dTkgMV3xdyDj1": true,
-    "FxRdIREw6QcIz83oEpVPJ9ThMeR2": true,
     "fhLPBRATSaaWEsMLSu2mCkT6ns13": true,
-    "pCWMdD7kHUOYd7Tz2kjiv7aHgjy2": true,
-    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
-    "mgMfSWnWTzaNYmsKnuJV7PxgVVi1": true,
-    "ib4zexKfs5UQvFeYB0yrJTpYJaE3": true,
     "ub0iEtNIVqVuJDIIVHdezrooiVY2": true,
-    "F7whjK6587ZcbqyqF02B9caLoww1": true,
-    "YHIxhQTIuzLCR5autFjx2hNbBfS2": true,
-    "7fZJw6U2IuNkODcVttXvTOopf5G3": true,
+    "t1CqYYbO0dPbiOLbBAhrt9PkrrS2": true,
     "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
-    "swLByFp4Y9XI8VNCv1n3POTnPOL2": true,
-    "t1CqYYbO0dPbiOLbBAhrt9PkrrS2": true
+    "YHIxhQTIuzLCR5autFjx2hNbBfS2": true,
+    "FxRdIREw6QcIz83oEpVPJ9ThMeR2": true,
+    "ib4zexKfs5UQvFeYB0yrJTpYJaE3": true,
+    "mgMfSWnWTzaNYmsKnuJV7PxgVVi1": true,
+    "rrCJCHpB6NMrlG3dTkgMV3xdyDj1": true,
+    "F7whjK6587ZcbqyqF02B9caLoww1": true,
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "pCWMdD7kHUOYd7Tz2kjiv7aHgjy2": true,
+    "7fZJw6U2IuNkODcVttXvTOopf5G3": true,
+    "swLByFp4Y9XI8VNCv1n3POTnPOL2": true
   },
   "fileName": "Nefrums__any_end.png",
   "image": {
@@ -30,7 +30,7 @@
     "width": 842
   },
   "lastUpdatedDate": 1613982511162,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 13,
   "tags": [
     "/production/belt based/",
     "/production/science/"

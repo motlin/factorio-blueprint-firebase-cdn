@@ -7,26 +7,24 @@
   "createdDate": 1731266225493,
   "descriptionMarkdown": "## Elevated rails train city system\n\n#### Background\nThe development of this book started together with my Space Age adventures. Before that I have played vanilla several times, finished IR3, and reached Naquitite in Space Exploration.\nAlmost in all mega base scenarios I've been using train blocks of different sizes and some parts of Brain's Trains.\nElevated rails in Factorio 2.0 broke all rail blueprints and brought superior opportunities to maximize efficiency together with a new interrupts system and parameterized blueprints.\n\nHalf way through Space Age it was time to grow Nauvis and I wanted a new train city system that would be as easy to setup, that would have all nice features of my previous train experience, would have efficient interesctions utilizing elevated rails, etc.\n\nAfter some research, trial and error and experiments I've ended up with the following:\n\n#### Features\n- A Double rail track system with one being on the ground and one elevated _(I was struggling a bit with a modular configuration like that but figured out some solution)_ \n\t- The benefit of a system like that is that not only intersection can be made effective but double sided station can be placed to minimize train paths and disruption they cuz.\n\t- To ensure consistency and modularity the book contains 2 block (with inner lifter and outer lifter track). These blocks have to be placed in a checkmate pattern.\n- 4 way intersection that can be placed in 2 different rotation to match the checkmate pattern created by the grid.\n- 2 options of a T intersection. (basically 2 variants of a cut 4-way interaction so that it can also match to any location on the grid)\n- 2 options of an L turn that is made in a similar way and can be used for corners\n- 2 options of a straight pass (which are needed to match the possible future larger intersection placed on them)\n\n\n### Credits\nBlueprints and ideas used in this book are recreations/inspirations from the following creators:\n- [Brian White](https://factorioprints.com/user/RNRy11ePrQRDlqu6AwY4QDQi26l2) (City grid from city blocks, half of the stations logic)\n- [Burgled](https://www.youtube.com/@DSBrekus) (A nice 4 way intersection that I cut into different pieces)\n- [Nilaus](https://www.youtube.com/@Nilaus) (Unloading to splitters and probably a lot more ideas)\n- [Faith](https://www.youtube.com/@farazsth98) (Native LTN system, _(System of interrupts and signaling logic to have trains dynamically choose tasks)_)\n- [Factorio Elevated trains post](https://www.factorio.com/blog/post/fff-378) (2-directional station is taken from the image in the post)\n- [Makskornakov](https://github.com/makskornakov) (Me)\n",
   "favorites": {
-    "wdSusraLSWMRsvXCgJejDgzsvA93": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
-    "0OQbM9EAc5fArzCkYpzqZnOjW0L2": true,
     "96scKksgGvSLlD12ApyoyA6CEFC3": true,
-    "jUYfhQSF0caqqFUh2Rd7gJYvtSS2": true,
-    "16SHlunI3Ag190N2cWpQLqH50VS2": true,
-    "2rCcX2kFr0f112vM1hay2F0aPQ22": true,
     "ieQeWJ7c4kddgMIxnJErKCdRcVm1": true,
-    "D368nbXqFWVpmp0yldoUT8mdAbx1": true
+    "M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
+    "16SHlunI3Ag190N2cWpQLqH50VS2": true,
+    "D368nbXqFWVpmp0yldoUT8mdAbx1": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "jUYfhQSF0caqqFUh2Rd7gJYvtSS2": true,
+    "wdSusraLSWMRsvXCgJejDgzsvA93": true,
+    "2rCcX2kFr0f112vM1hay2F0aPQ22": true,
+    "0OQbM9EAc5fArzCkYpzqZnOjW0L2": true
   },
   "image": {
-    "height": 0,
     "id": "i06U10T",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/i06U10T",
   "lastUpdatedDate": 1731269298331,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/elevated-rails/",
     "/version/2,0/",

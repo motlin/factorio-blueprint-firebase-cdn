@@ -7,32 +7,17 @@
   "createdDate": 1529025887611,
   "descriptionMarkdown": "The objective of this project is to construct a smelting area that is capable to reserve space in the map and have a forge that you get in the early game, and can use it until the late game.\n\nSo, with all ghosts marks in the map, you can begin the forge with a train system with only 2 wagons, and as production grows, you can build things on demand. Begin with only two lines of forge, and finish with all sixteen lines, working with beacons and speed modules, or, with efficiency modules.",
   "favorites": {
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "sd1Phz4lAQSbFhUd0s3KV894Trz1": true,
-    "E9f9uNDeyycwsBpbUtagxUNsRf53": true,
-    "jKwRYJaVJJRfUkTo6BmEAs2iLVw1": true,
-    "uchEp5BFQ3e749acSwSSunmLIAA2": true,
-    "k6FtjJzrImesAfGWmDGLOyhm9wu2": true,
-    "IFeEXDG62tW2X55Qo6xVMEFBOtL2": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
-    "0hl206XAZDYNRafblxoYAZbgj9W2": true,
-    "UfQKF6ygRkahT3xNNXyLVpUqVn42": true,
-    "EI3PDjzQJhZQjGXBUzFKtakZmLH3": true,
-    "7yPTEpIYRhNVyPpYH8H5Yfs9oCg2": true,
-    "8xnY0rwy5CMNZkVeYefhIS8pT0K3": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "goTwXW9UgwMFY9lAIYZB98spntS2": true
+    "uchEp5BFQ3e749acSwSSunmLIAA2": true
   },
   "fileName": "20180614220838_1.jpg",
   "image": {
+    "width": 1920,
     "height": 1080,
     "id": "G3YIm86",
-    "type": "image/jpeg",
-    "width": 1920
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1529025887611,
-  "numberOfFavorites": 16,
+  "numberOfFavorites": 15,
   "tags": [
     "/production/smelting/",
     "/general/beaconized/",

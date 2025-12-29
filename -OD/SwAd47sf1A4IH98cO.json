@@ -7,18 +7,16 @@
   "createdDate": 1733521619782,
   "descriptionMarkdown": "Cell sized Train-provided Blue Circuit megaprinter. Requires Plastic, Copper, Iron inputs. Autobuilds trains. Also needs acid, has a producer for it which calls in Sulfur to melt down or can be fueled on Vulcanus directly. Automatically requests sulfur crystals with no or low input flow.",
   "favorites": {
-    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true
   },
   "image": {
-    "height": 0,
     "id": "LElOKk3",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/LElOKk3",
   "lastUpdatedDate": 1733521619782,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/processing unit (blue)/",
     "/mods/space-age/"

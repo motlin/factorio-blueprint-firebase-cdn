@@ -1,18 +1,14 @@
 {
   "author": {
+    "displayName": "Drac00n",
     "userId": "o14g7QVUXXaZRef2uC0k5bo4Yw53"
   },
   "blueprintString": "0eNrNWG1vmzAQ/iuWP0MVCCQh2n7AtI/VPrUoMnBJrYBhtkkbVfnvO+MkJA2sZNo0pEqF8709j+27I+80yWuoJBeaLt9pBiqVvNK8FHRJXfJNKJCaBBPyw/Wn4RPXUHytJRO8LowgJgUTNcvzPSkl2XFGklLjYwbyWbjksa4qXDK2i4+2i7jRz8sNV1xviQD9WsptY/bKKlKUWZ2DsmaqAshcK3KnsRVWEt9TzXdc79s1wteE7RjPWZLDs3gWj7qsFGGaeJNJP45kTzJYszrXDtEvXJGUCZIASV+Y2EBGuEAxEAVac7FRZI14jWDNlMZFQxNI69eI3JMoRo0ULay1LiXbGKeg9BGZFbmNKH4g1KFKsMrVpbuRPDOb8kaX3sShe/Pv4FCelkLR5dM7VXwjWG5UBCsANywFoSVf1xugRlFkYGwPzqWq3ldGVULK8cE5mW7LHZPw5oKQPH0p0JGL/Kag1IUr/xA7FJe45mBTaF72K1EXCUiMdfaXAMM80X9V4vY258kieQgtlIfQ+EUKrCML9Wh8td0+bRVRT6y42GHYUu6tYfuG0ZVm6ZYuJwZz54p3iA/459yk7n+aejDW1Kefpr4Ya+rB5wdmtCcmHHzYg7GlPjunflWsbhHMjgimDYKMY9mwq57f4XY+1G14RcyF24VD1zxHmyNRxxJ29nvRP9DrT2w9GB/lopQF1jeHpmVRMcmQCZR+paZg1QpWZ6da1tCR+eIcAd4qiVXP1RhJVaXUbgK57odww0zQ4T4aSsz8gpgOP6YPHB1J+FljywBpW0e/K5vgUb0lAnuCzfgj03+VfyOozWyBzRdPYtwJqnWv6gSPbgPiBk9kien04A8vI6O7i15bvi/6d+9NnDX5I0Yty3yVwAvbcUP2O24xy1ZmAb2cT/qp0f+2w5+0Vh0b2sNU1/A1nLCgl7BgAGHB4MK7GN1mt03javLrnzbmvfudcpnWXJstzxrLFQgz9CLGNcsV/ItbH95563vv/OAOFFxt5XWr+B0rZy7MPXBuyTK6ay6RnJsx+hKu5R639VjEJh/AfqGHTnxtK0zqfDugFY4BX9CBrnXd1Bf8HPpYZFqNZrFRw1sFZvu7qFkMpWZ+Rc1fPaFD5wIvGt5ZRlds/MndU83ptkWD5j3f++OxaWAA/+4As/sCTO8OML8vwPBm5Y3vmzgc/lE8vuRnwz+Lx5f8/I4P4/+cPZbSV7wFJvYTDrO+g83Pj50nnHXweYbPsQ1qwJx/bXRozvCCoeyxYFKT73Y8RfkOC3IDM5z5URBF4cKbRtEEJ/9ffhLz+A==",
   "createdDate": 1765567859598,
   "descriptionMarkdown": "- Insert 40 U-235 manually or via bot order \n- Supply U-238 via logisitk network \n- Swap modules if available \n\nStops at 1000 U-235 by default, this can be changed in the settings for the fast inserter facing the storage chests. ",
-  "favorites": {
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
-  },
   "image": {
-    "height": 0,
     "id": "dRj3bwq",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1765567859598,
   "numberOfFavorites": 1,
@@ -20,5 +16,8 @@
     "/version/2,0/",
     "/power/kovarex enrichment/"
   ],
-  "title": "'Simple' and smart kovarex"
+  "title": "'Simple' and smart kovarex",
+  "favorites": {
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+  }
 }

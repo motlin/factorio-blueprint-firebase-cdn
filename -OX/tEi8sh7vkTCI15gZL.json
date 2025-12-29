@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Tivi Box",
     "userId": "I9lMTdH3sBY8jpZLY454jqGVRGq2"
   },
   "authorId": "I9lMTdH3sBY8jpZLY454jqGVRGq2",
@@ -7,19 +8,17 @@
   "createdDate": 1755454564014,
   "descriptionMarkdown": "City Blocks - raw materials",
   "favorites": {
-    "J6bAhBydwzVKX73HhRWi5JUcoPN2": true,
-    "mY4UhbPxldfjSGTg70yCTiAtu383": true,
     "Ee84CzIaJuWfDacqDguizh9qH753": true,
-    "QDOqyIKlW6ZzOocAq9Jy6BXfnn42": true
+    "J6bAhBydwzVKX73HhRWi5JUcoPN2": true,
+    "QDOqyIKlW6ZzOocAq9Jy6BXfnn42": true,
+    "mY4UhbPxldfjSGTg70yCTiAtu383": true
   },
   "image": {
-    "height": 0,
     "id": "RfvIL3T",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1755454564014,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

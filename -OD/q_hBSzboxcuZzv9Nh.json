@@ -7,27 +7,25 @@
   "createdDate": 1733935158114,
   "descriptionMarkdown": "Uses asteroid chunk recycling + LDS shuffle to create legendary space and chemical science (white &. blue). ",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "M7syl4343PWRo3WcG8qxY9MylnR2": true,
-    "S7UVKMadqfhJMMuZoAHE95bfB3q1": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "ZIRzLwPXf1PCVgsjOgkkLBGc6pX2": true,
-    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "DYLSGiUsc3SwzbvEO7x6bapQG0U2": true,
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
-    "Whw7zXedy8UdgbPLVl0d4TVM9SO2": true
+    "M7syl4343PWRo3WcG8qxY9MylnR2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "Whw7zXedy8UdgbPLVl0d4TVM9SO2": true,
+    "ZIRzLwPXf1PCVgsjOgkkLBGc6pX2": true,
+    "DYLSGiUsc3SwzbvEO7x6bapQG0U2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "S7UVKMadqfhJMMuZoAHE95bfB3q1": true,
+    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true
   },
   "image": {
-    "height": 0,
     "id": "S9x1FhG",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/6FCSZnW",
   "lastUpdatedDate": 1733935219262,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 6,
   "tags": [
     "/production/science/",
     "/version/2,0/"

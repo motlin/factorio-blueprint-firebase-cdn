@@ -7,29 +7,29 @@
   "createdDate": 1559473574389,
   "descriptionMarkdown": "As my factory expanded I needed to expand my tracks towards far away patches of ore. As some of my outposts began to starve I needed a solution. Therefore the most sensible thing would be a warehouse of some sorts. Thus came this elegant solution.\n\nThe infeed of the warehouse is for 2-4-2 bidirectional trains, and it's on the ID#16 network-- same as my mining outposts. The outfeed is for 1-4-1 bidirectional trains for internal supply of your factory.\n\nThe warehouse has quite a limited buffer, but the request values of the infeed are high enough to balance that out.",
   "favorites": {
-    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
-    "jagPPcgsm0ar4vmWdS6WMOHRn393": true,
-    "424jNGDhcmMUZYc5dYXtvzkJRw62": true,
-    "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,
-    "hNokyvgSdaTJnA95YIWlkRQMtkJ2": true,
-    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
-    "pTE5GluQp1R31Yry7XZP1hARdJr1": true,
+    "xwdmPMi461SuovpV8pcIE1V1guB2": true,
     "XoCxLqSLEkOOcsnzT6izq3XWptr2": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
+    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
     "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
     "RPPrcbzSmTN6S8XhOO0sZUgzfqP2": true,
+    "hNokyvgSdaTJnA95YIWlkRQMtkJ2": true,
+    "jagPPcgsm0ar4vmWdS6WMOHRn393": true,
+    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
-    "xwdmPMi461SuovpV8pcIE1V1guB2": true
+    "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,
+    "pTE5GluQp1R31Yry7XZP1hARdJr1": true,
+    "424jNGDhcmMUZYc5dYXtvzkJRw62": true
   },
   "fileName": "screenshot-tick-38770463.png",
   "image": {
-    "height": 1080,
     "id": "CcieWS7",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080
   },
   "lastUpdatedDate": 1559482637612,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 14,
   "tags": [
     "/version/0,17/",
     "/train/loading station/",

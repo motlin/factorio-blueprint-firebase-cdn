@@ -1,4 +1,10 @@
 {
+  "lastUpdatedDate": 1615037708313,
+  "tags": [
+    "/train/right-hand-drive/",
+    "/mods/ltn/"
+  ],
+  "title": "24*6 long electric train LTN depot",
   "author": {
     "userId": "akvpSiLAFqM4YCOex00qBSpRI9x2"
   },
@@ -7,11 +13,11 @@
   "createdDate": 1614997830339,
   "descriptionMarkdown": "A second edition of my 24 6-long e-train LTN depot.\nRequired mods: LTN, Electric trains",
   "favorites": {
-    "6sjejoAPSxQlacoSw4UGw5UPlO93": true,
-    "AtPM8cr9kxdMEUvCOKG0oayvYB13": true,
+    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
     "j8vLizCP0rhLBVoUj1ZSjd18khi2": true,
     "pmUKxGbhJQZckhG2WfhhKsj2CEj2": true,
-    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
+    "AtPM8cr9kxdMEUvCOKG0oayvYB13": true,
+    "6sjejoAPSxQlacoSw4UGw5UPlO93": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true
   },
   "fileName": "20210306032927_1.jpg",
@@ -21,11 +27,5 @@
     "type": "image/jpeg",
     "width": 1403
   },
-  "lastUpdatedDate": 1615037708313,
-  "numberOfFavorites": 6,
-  "tags": [
-    "/train/right-hand-drive/",
-    "/mods/ltn/"
-  ],
-  "title": "24*6 long electric train LTN depot"
+  "numberOfFavorites": 6
 }

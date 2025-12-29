@@ -8,19 +8,17 @@
   "descriptionMarkdown": "Factorio 2.0 Nauvis Beaconed Science 30/s",
   "favorites": {
     "xRt3aHqZp9QL4o4meuiKwUsoRbx2": true,
-    "vtDxxoaYllMTGsFeZY4eALDMmDB2": true,
     "S0LzvZ5JJmcExIX99nuzsDnsPTD2": true,
-    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true
+    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
+    "vtDxxoaYllMTGsFeZY4eALDMmDB2": true
   },
   "image": {
-    "height": 0,
     "id": "V8KKfbF",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/V8KKfbF.jpeg",
   "lastUpdatedDate": 1739304377092,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 0,
   "tags": [
     "/production/science/",
     "/general/beaconized/",

@@ -7,19 +7,17 @@
   "createdDate": 1736312657051,
   "descriptionMarkdown": "Took around 2.5 hours to design, and my first nuclear power plant larger than 2x4. Ratio by factoriocheatsheet.com.\n\nRatio:\n64 Reactors\n9 Water pumps\n1008 Heat exchangers\n1732 Steam turbines\nTotal power: ~10 GW",
   "favorites": {
-    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
     "ocV9ibG8mVVnvwjTVLYZf6Rq0jD3": true,
+    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
     "wg2YWsR4FxMMGEW6Dm5Z88QusNv1": true
   },
   "image": {
-    "height": 0,
     "id": "1B246AH",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/1B246AH",
   "lastUpdatedDate": 1736313501475,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/power/nuclear/",
     "/mods/vanilla/"

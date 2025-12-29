@@ -8,13 +8,13 @@
   "descriptionMarkdown": "Refactor of No Spoon in a Box by Zorrm Found [HERE](https://factorioprints.com/view/-N1-ekMYWx_pPmZepQep):\n\n- Added Snap to Grid\n- Fixed tier two moduels and Filter inserters\n- Adjusted belt routing to not create conflicts or override existing belts\n- Added Buffer chest for Stone for endgame concrete crafting\n- Added Upgrade Panner for Passive Provider Chests before step 11\n\nThis does require a specific map seed found [HERE](https://pastebin.com/dN0R3PF1). Do not change or alter any settings.\nYou will not have an issue with biters; no need to worry about any military science or defenses.\nPlease ensure to read the notes on each of the blueprints steps; they'll help guide you with fixes and things that are upcoming.\n\n\nResearch Queue:\n\n1. Automation\n2. Logistics\n3. Electronics\n4. Fast Inserter\n5. Logistic Science\n6. Steel Processing\n7. Steel Axe\n8. Automation 2\n9. Advanced Material Processing\n10. Engine\n11. Fluid Handling\n12. Oil Processing\n13. Plastics\n14. Advanced Electronics\n15. Sulfur Processing\n16. Chemical Science\n17. Battery\n18. Modules\n19. Production Module 1\n20. Toolbelt\n21. Lab Speed 1\n22. Lab Speed 2\n23. Logistics 2\n24. Railway\n25. Speed Mod 1\n26. Flammables\n27. Concrete\n28. Advanced Oil Processing\n29. Lubricant\n30. Electric Engines\n31. Robotics\n32. Construction Robots\n33. Worker Robot Speed 1\n34. Worker Robot Speed 2\n35. Advanced Electronics 2\n36. Advanced Material Processing 2\n37. Production Science\n38. Low Density Structures\n39. Utility Science\n40. Rocket Fuel\n41. Production Module 2\n42. Speed Module 2\n43. Lab Speed 3\n44. Production Module 3\n45. Speed Module 3\n46. Rocket Control Unit\n47. Effect Transmission\n48. Rocket Silo",
   "favorites": {
     "tMFGswKVyOVgYWLtdN6Se0e98Xr2": true,
-    "S7UVKMadqfhJMMuZoAHE95bfB3q1": true,
-    "mW1ciOcur3OnUeP5KLaFvYBVhWG2": true,
-    "OgnwyxRPZsPNWbKLTFbgOY9liW03": true,
-    "TCh8CfP1ybhKOjs3C0NNtDEuX8B3": true,
-    "qMBnMiww3VcasF8C1EfEbjAPZGL2": true,
+    "PEdWodcdf1OYThDowGRLYZw7dRt2": true,
     "rDeCvoPhh7cLmCWthwnw5vNQwL43": true,
-    "PEdWodcdf1OYThDowGRLYZw7dRt2": true
+    "qMBnMiww3VcasF8C1EfEbjAPZGL2": true,
+    "TCh8CfP1ybhKOjs3C0NNtDEuX8B3": true,
+    "OgnwyxRPZsPNWbKLTFbgOY9liW03": true,
+    "mW1ciOcur3OnUeP5KLaFvYBVhWG2": true,
+    "S7UVKMadqfhJMMuZoAHE95bfB3q1": true
   },
   "fileName": "cLUJ5FWb.png.jpeg",
   "image": {
@@ -24,7 +24,7 @@
     "width": 160
   },
   "lastUpdatedDate": 1695677783877,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/early game/",
     "/general/mid game/",

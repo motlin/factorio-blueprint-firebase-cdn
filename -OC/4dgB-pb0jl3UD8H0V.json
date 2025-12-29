@@ -7,23 +7,21 @@
   "createdDate": 1732040377807,
   "descriptionMarkdown": "Contains a book with 6 rail blueprints and four station blueprints, intended for 1-2 generic trains.\n\nThe rail network utilizes elevated rails for the primary highway, weaving ground rails below the elevated sections to provide access to up to 14 stations per hex, making it very compact. The modular sections allow hexes with 4, 8, 12 or 14 stations, with up to 6 provider stations.\n\nThe included station designs require Green belts, but can be modified to work with blue belts.\n\n**Rail sections:**\n1. Full Hexway - Contains all 5 modules in one.\n2. Hexway Elevated - Contains only the elevated rail sections and nothing else.\n3. Hexway Base - Contains the ground section rails, 4 modular stations, the electric and logistics grids and two depots. Connects to the elevated section.\n4. Hexway Flooring - Concrete covering the stations and the main building area.\n5. Left Receiver Rail - Contains 4 additional modular stations.\n6. Right Receiver Rail - Contains 4 additional modular stations.\n\n**Stations**\n1. Generic Item Provider\n2. Generic Item Receiver\n3. Generic Fluid Provider\n4. Generic Fluid Receiver\n\nThe stations are very simple, feel free to come up with your own modular stations!",
   "favorites": {
-    "JcTdqWbKueahiWr6EtVSYwg9uIW2": true,
-    "zVVk7GVeblcAwWqO9OFmYlDiuh32": true,
-    "hWQeHGui6ZMPb2dYqUcxmjcTooR2": true,
-    "XoxQvUYQxTgjjeBNmbca9KYabEi2": true,
     "4WH6PhWcz2dOx8Z2LM9O7oP1UlH2": true,
+    "XoxQvUYQxTgjjeBNmbca9KYabEi2": true,
+    "bVwZZm78t7eLXjeWWXVLzJpPRuI3": true,
+    "JcTdqWbKueahiWr6EtVSYwg9uIW2": true,
     "rDeCvoPhh7cLmCWthwnw5vNQwL43": true,
-    "bVwZZm78t7eLXjeWWXVLzJpPRuI3": true
+    "hWQeHGui6ZMPb2dYqUcxmjcTooR2": true,
+    "zVVk7GVeblcAwWqO9OFmYlDiuh32": true
   },
   "image": {
-    "height": 0,
     "id": "o7O8EEF",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/o7O8EEF",
   "lastUpdatedDate": 1732040377807,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 2,
   "tags": [
     "/train/right-hand-drive/",
     "/mods/elevated-rails/"

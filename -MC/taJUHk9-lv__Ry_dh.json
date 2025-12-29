@@ -7,25 +7,25 @@
   "createdDate": 1595472955867,
   "descriptionMarkdown": "Bring uranium ore in by train and after some time for the enriching to begin, you'll have Power cells and nuclear fuel to boot.",
   "favorites": {
-    "N4jTW1wafPV8DbWwd0JuOywhDgT2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
+    "N4jTW1wafPV8DbWwd0JuOywhDgT2": true,
+    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
     "KwOnm7ZkjvhJ1NwCHMebf5hTXq23": true,
-    "H5lymY5ep2bcFjb6fHU8E5RcURK2": true,
+    "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
     "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
-    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "H5lymY5ep2bcFjb6fHU8E5RcURK2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   },
   "fileName": "uraniumflavouredbees.PNG",
   "image": {
-    "height": 673,
     "id": "BTXnPwM",
     "type": "image/jpeg",
-    "width": 1100
+    "width": 1100,
+    "height": 673
   },
   "lastUpdatedDate": 1604799512473,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 8,
   "tags": [
     "/power/nuclear/",
     "/power/kovarex enrichment/",

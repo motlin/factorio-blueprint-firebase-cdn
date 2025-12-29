@@ -7,20 +7,9 @@
   "createdDate": 1517018043374,
   "descriptionMarkdown": "This city block print is for manufacturing gears. I was trying to integrate gear factories in other builds, i.e. sciences but the requirements were so great it wasted most of the space just trying to arrange the factories for the gears. So I decided to just throw together a simple stand alone city block that is for nothing but gears. It uses the Noxys waterfill mod https://mods.factorio.com/mod/Noxys_Waterfill to dress up the blueprint itself. You can do without though if you don't want to go modded. The water is in no way critical to the setup itself, it just makes things look nicer in my opinion. \n\nIt has a double box buffer for the Iron plates on the input side at the north, as well as a double box buffer for the gears that output to the South. \n\nI did install lighting on this print as well. I personally run with day set to always true as a lot of lights make my little laptop work extra hard. But I'll try to remember to light my blueprints for others going forward.\n\nEither way I hope you enjoy it, more to come. I'm really loving the water being incorporated into the blueprint as well, and it also makes the walking paths actual walking paths (if you don't have the swimming mod installed that is)  One thing to note, where it's just a single water gap going across, you can walk over that. It has to be a two tile gap before you can't pass it.\n\nLet me know what you think, and if there are any obvious changes I could make to make it more efficient, please let me know.",
   "favorites": {
-    "l0l7Q91POeUe0maM2fFFzVi7zni1": true,
-    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
     "mSTM2FtTvdPYQPEZQkJA20eZAq72": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "0qNqTsQewgSiNusAfSVUzZzOXp53": true,
-    "SVRl8AsuvTU2WurhrYymSYRAlhc2": true,
     "Vj9ldtRDvoePKlK452U54vs5dJg2": true,
-    "FCvauQnO1OgAFX6zgCxM9Bdft8H3": true,
-    "OkX3MDPOeUehgnxLXNoqf1HDMz53": true,
-    "fhhLAVugqpW8nWg5eW2pL1U7YsD2": true,
-    "mKyQTgcCY9cB3nc2BkOkM41cNpo2": true,
-    "EoVlXTNmqHb2CbYOWbifbwLdlHG2": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
-    "ip7zHINKRyeIwoImVQJYY42sINw1": true
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true
   },
   "fileName": "Screen Shot 2018-01-26 at 19.44.24.png",
   "image": {
@@ -30,7 +19,7 @@
     "width": 1308
   },
   "lastUpdatedDate": 1517018043374,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 15,
   "tags": [
     "/general/beaconized/",
     "/mods/other/",

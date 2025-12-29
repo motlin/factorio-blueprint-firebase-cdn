@@ -8,19 +8,17 @@
   "descriptionMarkdown": "A simple collection of city blocks using [Bocian's solar rail designs](https://www.factorio.school/view/-MFIYLSH60wmZ-pNvcL_). Please give all support and credit to Bocian.\n\nI've added roboports to the parimeter, along with basic rail light indicators (untested) to give a slight heads up before you get squished crossing the tracks.\n\n\nBeing solar based and capacitor based rail designs, it can supplement your power grid:\n* The normal sized block with an interchange generates 18.5 MW and stores 2.5 GJ\n* The normal block generates 9.6 MW and stores 1.7 GJ\n* The 2x2 grid block generates 28.1 MW and stores 4.6 GJ\n* The large grid generates 20.6 MW and stores 3.2 GJ",
   "favorites": {
     "nchtaBrTEoc0le9TM1Z6FU7v6Lk2": true,
-    "zxu2EzZpsnYJEhZOVEpKgfXqqT13": true,
+    "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
-    "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true
+    "zxu2EzZpsnYJEhZOVEpKgfXqqT13": true
   },
   "image": {
-    "height": 0,
     "id": "jdJTipQ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/jdJTipQ",
   "lastUpdatedDate": 1732327578712,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/tileable/",
     "/power/solar/",

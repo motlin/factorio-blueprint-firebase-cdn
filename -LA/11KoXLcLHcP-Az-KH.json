@@ -1,37 +1,7 @@
 {
-  "author": {
-    "userId": "aQGtceSI1TcdVJsP5aHorGvuuNe2"
-  },
+  "title": "Simple Early Base",
   "authorId": "aQGtceSI1TcdVJsP5aHorGvuuNe2",
-  "blueprintString": "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",
-  "createdDate": 1523673816483,
   "descriptionMarkdown": "Basic quick to build early base with some chest buffers\n\nInputs: Iron and Copper <br>\n\nCreates & Stores:\n* Basic Inserters\n* Yellow Belt\n* Electric Miner\n* Pipes *(inc. underground)*\n* Gears\n* Green Circuits\n* Red & Green Science",
-  "favorites": {
-    "U9ZonLeEsNO1YAbGAWYDoXEFpuh2": true,
-    "6T7CkKTY36RIOmp2jYiC8nedF6q1": true,
-    "GLjS9LhKnSWppyV9vmBbFroIPOc2": true,
-    "E9f9uNDeyycwsBpbUtagxUNsRf53": true,
-    "pocQb1EV4IQsVPcxZE0apBAO1vj1": true,
-    "YWsmkcieRecCFQj3bqKztvK5Cde2": true,
-    "vwNdfAgX9wNDJX4WwAGjIMMNGD13": true,
-    "3gNBZUAMeWgTQ1vNWiSHv38BJaC2": true,
-    "ASlAxz3uUZTtSTWSyxI1hh8EwdZ2": true,
-    "1On26ApyRBfoTLbiO4AohDtONn42": true,
-    "tKbc9OCg5fQmrr0lHUS77ajQXIb2": true,
-    "cWjI29AjZpV6UIeHNVtFtHgNGAn2": true,
-    "xURtgCsBw5cMsYIzRVyo8hVjTeW2": true,
-    "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
-    "uDpd3hzVPna0u34G2yiCY1omgDh1": true,
-    "LqPXCaFcmHRM0VPXhEHqy2uLSKD3": true,
-    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
-    "w0lC2Nyda3YOO4CPBXoXtSUSjAw1": true,
-    "ZpdH3JvsbnhlCRaP43k32pWldXU2": true,
-    "jkUWWbKWJib17o2wtJgDJ55ac0Z2": true,
-    "LA9WnkRKJfhdGeM8om3ceO2i1H03": true,
-    "1vKFO4FV7DcWicQenktIb6rfSgG3": true,
-    "qSEQydqRXxYF0w3GshaNOF9lE5g1": true
-  },
-  "fileName": "simple_early.png",
   "image": {
     "height": 807,
     "id": "iL9AHD0",
@@ -39,7 +9,7 @@
     "width": 665
   },
   "lastUpdatedDate": 1524047128764,
-  "numberOfFavorites": 23,
+  "numberOfFavorites": 22,
   "tags": [
     "/production/science/",
     "/production/research (labs)/",
@@ -47,5 +17,13 @@
     "/mods/vanilla/",
     "/general/compact/"
   ],
-  "title": "Simple Early Base"
+  "author": {
+    "userId": "aQGtceSI1TcdVJsP5aHorGvuuNe2"
+  },
+  "blueprintString": "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",
+  "createdDate": 1523673816483,
+  "fileName": "simple_early.png",
+  "favorites": {
+    "jkUWWbKWJib17o2wtJgDJ55ac0Z2": true
+  }
 }

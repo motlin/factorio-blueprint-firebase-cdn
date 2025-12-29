@@ -7,20 +7,14 @@
   "createdDate": 1511482695152,
   "descriptionMarkdown": "A blueprint book containing a factory for every ingot.\n\nMore screenshots here:  https://imgur.com/a/eKava\n\nA- grade ratios, I'll explain.  The factories are designed so that they have the correct ratio without taking modules into account. There are a couple of MK3 beacons on each factory, but I might want to add extra later, so if I took the building level modules into account now then I'd have to redesign the factory when I want to add beacons.  This results in having the odd surplus liquifier in the build every now and then.\n\nAll fluids are barrel based, brought by bots.  I presume that you're already producing and barrelling most fluids somewhere else in your base.\n\nThe most complex and efficient recipes are used for each ingot type.\n\nThe whole thing is robot based.  At each stage in each factory, I try to pull the required resource from the logistic network rather than produce it.  I have a habit of moving stuff around a lot and have auto trash set up for almost everything that isn't immediately useful to me.  So it is sensible to check the network and pull in any ingredients that may have found their way into storage.  For example, if you have iron pellets in storage already, they'll be requested to the iron factory, once there, pellet production stops until the requester chest is empty of iron pellets.\n\nFor every factory, the ideal ratio of Ore Processing Machines to Pellet Presses is 3 to 2.  If there is a blueprint that has 2 OPMs and 1 PP, then the ratio between just those two buildings is a little off.  This is because I just didn't need the amount of production that doubling up every other building would provide me.  So for all blueprint's with just one Pellet Press ideally you'd have 1.5 Ore Processing Machines....\n\nYou can just slap down multiple of these if you need more production, or add beacons.\n\nA combination of warehouses from both bobs and angels are used.  Eh, who cares?\n\nI'll probably put up Casting and Refining blueprint books the coming week.\n\nEdit 20171125:\nGold and Silver Ingot had a little issue.\nRemember Also to add about 200 catalyst frames to the steel chests",
   "favorites": {
-    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
-    "cHe9js0vJhd7TbJD9SHGDV3JG6E2": true,
-    "ISlIx598w0Y2bI6M6NKKdUzHONw2": true,
-    "wy1phRzu68NuP0ofN7tF8TtCdUJ2": true,
-    "tucMIDyiWUP6TJrN0C1sq7gSPwn2": true,
-    "sx8Sm843k6T2ljctG7sT6SIIO9F3": true,
-    "9exdQd826EUmP6AJWaRny9R25p12": true
+    "v7YEnQSxeYS0S7azulrYxKWsxZ32": true
   },
   "fileName": "FactorioIngots.png",
   "image": {
-    "height": 542,
     "id": "y1HZcqR",
     "type": "image/png",
-    "width": 608
+    "width": 608,
+    "height": 542
   },
   "lastUpdatedDate": 1511624864817,
   "numberOfFavorites": 7,

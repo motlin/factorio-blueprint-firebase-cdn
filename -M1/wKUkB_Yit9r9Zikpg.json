@@ -7,21 +7,21 @@
   "createdDate": 1583707716902,
   "descriptionMarkdown": "*While testing these over time I started noticing that two chests were out of sync with the others.  This became worse over time as I let the game run.  The unloaders seem to work fine (I've even managed to make them more space efficient and made several more designs for getting belts out easier),  but the problem I'm running into is that trains do not unload evenly.  There will always be one or two chests that do not get the same as the other chests simply because a fully upgraded stack inserter takes 12 at a time.  I'm working towards a solution that doesn't involve adding combinators as I'm determined to solve this issue without adding them.  The solution will probably involve limiting items per swing on the inserters unloading the wagons so they each get the same amount.  I need to do some serious maths on this one.  Today is March 11, 2020.  I will work on a solution over the next few days as I have time and update the blueprints*\n\nFully Balanced and painstakingly tested unloading stations.  Will unload evenly even if only one side of the belt is consumed at the other end.  No more having to see half of the chests empty while the others are nearly full.  Blueprints are for unloading from both sides or single side.  Both 4 and 8 wagon trains.  Each lane will comfortably output a full compressed blue belt of materials.  The largest I have in this book is for an 8 wagon train with 16 lanes of output.  Works great for late game beaconed smelting.  If you need smaller or larger stations just slap down one of these and adjust the size as you see fit.  Filter inserters unload from the train to avoid contamination.  Don't forget to set them.\n\n** This is still very much a work in progress.  I am currently working on making these more space efficient with more designs coming shortly**\n",
   "favorites": {
-    "9rq0ApnZNafVwZTpBlucmpn0y532": true,
-    "hK4MnGxWDjQDdr8RNorhyet95S33": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "TrxKGPvYyJdarpyiQzZmQ3JNI4j2": true,
+    "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true,
     "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
-    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
-    "lNnOGyboF2fNJmtrQHoNXKNPRRk1": true
+    "TrxKGPvYyJdarpyiQzZmQ3JNI4j2": true,
+    "9rq0ApnZNafVwZTpBlucmpn0y532": true,
+    "hK4MnGxWDjQDdr8RNorhyet95S33": true,
+    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true
   },
   "fileName": "Balanced Unloading Stations.jpg",
   "image": {
-    "height": 915,
     "id": "dqmmOco",
     "type": "image/jpeg",
-    "width": 1164
+    "width": 1164,
+    "height": 915
   },
   "lastUpdatedDate": 1583947583294,
   "numberOfFavorites": 8,

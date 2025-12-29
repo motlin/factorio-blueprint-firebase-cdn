@@ -7,28 +7,26 @@
   "createdDate": 1746187350639,
   "descriptionMarkdown": "Supposed to be built in a train-based megabase.\nimport mostly basic resources, get science out (labs included).\neven has stops included for importing of sciences not produced on nauvis.\n\nhas multiple stages of building, but if u want u can just build the last stage all at once\n\n\nuses only t2 modules; no gleba stuff yet (havent bothered to go); will update with better parts later",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,
     "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-    "D54CYoPLypajjXa3ogAT2nQCVG12": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
     "EbxTgRLm06TujPHnXQqFk9cwsxI3": true,
-    "tWtUNrrcfyYllVXVI7mZjDC76Ve2": true,
-    "CBD6AMehCReeOQ2j90JGChYZf7E2": true,
-    "INBGnLg0ieZqKGnBJ3w7jpEcQsX2": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "GHaDjHfDFgQVbRwiR5VlDsdVwbq1": true,
+    "D54CYoPLypajjXa3ogAT2nQCVG12": true,
+    "sYPoawEorIRKVkoqv2mEEe8cD3L2": true,
+    "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,
-    "sYPoawEorIRKVkoqv2mEEe8cD3L2": true
+    "INBGnLg0ieZqKGnBJ3w7jpEcQsX2": true,
+    "GHaDjHfDFgQVbRwiR5VlDsdVwbq1": true,
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
+    "CBD6AMehCReeOQ2j90JGChYZf7E2": true,
+    "tWtUNrrcfyYllVXVI7mZjDC76Ve2": true
   },
   "image": {
-    "height": 0,
     "id": "PHz1PLZ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/UxYbzKF",
   "lastUpdatedDate": 1753241936461,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/science/",
     "/production/research (labs)/",

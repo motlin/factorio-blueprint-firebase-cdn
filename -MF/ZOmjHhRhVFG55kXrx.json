@@ -7,12 +7,12 @@
   "createdDate": 1627329604651,
   "descriptionMarkdown": "smart train unloader for even output/ train limit, trains are 2-4, but its not to bad to cut and past the stops down a bit to adjust to 1-4-1.\n\nOk so first off this is based off an old unloader from this place, but I changed it a bit so the underground bits don't connect if you change from red to blue belts otherwise its the same idea done before.  I also added in the loaders I use, it uses logic to set the train limit based on the amount of ore in the chests, its easy enough to remove it though by deleting the logic next to the stop and just using stackers going into the station.  There is a constant combinator that has a locomotive in set to a constant value,  what ever you change that will be the upper bound for that stop.  I removed the limiter for trains for the unload station to stack more trains going into the station so not to get any down periods.\n\nEDIT 8/2/21: ADDED IN LOADER/UNLOADER FIXED BALANCING ISSUES\n\nEDIT 7/27/21: This is broken ATM, I will work on fixing it\n",
   "favorites": {
-    "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,
+    "3vAmF5v8X1a39z6NLV9az3wUukE2": true,
     "GUyTuuVPrpgqyUAWeerwNA6dIcp1": true,
     "gMTTytdVSdQB3ALblnJFpz0dwpg2": true,
-    "K8CrK0BsiOPJTwJTKjPJ6emX1ag2": true,
-    "3vAmF5v8X1a39z6NLV9az3wUukE2": true,
-    "C2IGJNVyy9S8LRNaRMWjxmQoC833": true
+    "C2IGJNVyy9S8LRNaRMWjxmQoC833": true,
+    "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,
+    "K8CrK0BsiOPJTwJTKjPJ6emX1ag2": true
   },
   "fileName": "CXiiQ2c.png",
   "image": {

@@ -1,4 +1,18 @@
 {
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "id": "3JVBRAh",
+    "type": "image/jpeg"
+  },
+  "tags": [
+    "/power/nuclear/",
+    "/version/0,16/"
+  ],
+  "title": "Nuclear Reactor Control v2",
+  "fileName": "20180827204731_1.jpg",
+  "lastUpdatedDate": 1536339564677,
+  "numberOfFavorites": 7,
   "author": {
     "userId": "TaL8bgh0AHN78X6tDS10fsI0drj2"
   },
@@ -7,26 +21,7 @@
   "createdDate": 1535396385666,
   "descriptionMarkdown": "When running a nuclear reactor it is important to not waste fuel. Therefore you should use tanks to store steam and don't insert uranium fuel cells once the tanks are full.\n\nThis circuit logic controls the inserters of a reactor by monitoring the steam level in your tanks. It will start inserting fuel once steam is below a threshold (`A` in circuit) and stop once steam is above a threshold (`B` in circuit).\n\nThe circuit uses an RS latch to store the state, whether it's currently waiting for steam levels to rise or to drop, i.e. whether the reactor is being fueled or not. This is combined with a timer to only insert one fuel cell every 200 seconds (that's how long a fuel cell lasts).\n\nThe constant combinator with signals `A` and `B` is used to configure lower and upper steam limit. The constant combinator with `D` can be used to turn the reactor on and off. These inputs can also be attached to the green wire on the power pole.\n\nThe circuit pulses a `F` signal on the red wire to activate the inserters. **Set your inserters to stack size 1!** The `L` signal on the red wire can be used to control lights that indicate that the reactor was turned on (by the `D` switch). The `M` signal can be used to control lights that indicated that the reactor is currently actually running (i.e. fuel is being inserted).",
   "favorites": {
-    "4M0Tfuaa7RfeMudRtOtdCxFne7k2": true,
     "7vTV4Qik4lgHhPJJO8Rli0Ub9Y82": true,
-    "a0xIeG3wp6aBRZMULrcGQZorrzv1": true,
-    "OLhPSHKpf1ZTFd0tm0UUJaAoz0p2": true,
-    "iWDU9CZoRTaJjo6G5YiT6ryL6gz1": true,
-    "smkVzU5DlPRIvukZ92455A30YFy1": true,
-    "4MT7V13r61Pua3WS8GUBa13Qlo23": true
-  },
-  "fileName": "20180827204731_1.jpg",
-  "image": {
-    "height": 1080,
-    "id": "3JVBRAh",
-    "type": "image/jpeg",
-    "width": 1920
-  },
-  "lastUpdatedDate": 1536339564677,
-  "numberOfFavorites": 7,
-  "tags": [
-    "/power/nuclear/",
-    "/version/0,16/"
-  ],
-  "title": "Nuclear Reactor Control v2"
+    "iWDU9CZoRTaJjo6G5YiT6ryL6gz1": true
+  }
 }

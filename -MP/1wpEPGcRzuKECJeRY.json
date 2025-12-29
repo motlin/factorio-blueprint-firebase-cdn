@@ -7,13 +7,13 @@
   "createdDate": 1637505783266,
   "descriptionMarkdown": "I've created a few defences and factories for automated warfare with the biters.\n\nThe blueprints align with brians self building mega factory (https://factorioprints.com/view/-MNZWdWosuqr3vtaC2hD) and even use the automatic build system for the factory blocks.\n\nNote that this is still work in progress. I've yet to add the automatic artillery shell production block and the artillery resupply depot.",
   "favorites": {
-    "qv6u1GS87EcKInajObi2GsJag0L2": true,
     "zVVk7GVeblcAwWqO9OFmYlDiuh32": true,
-    "aI9AmaZjrJT50rl5N9Lmyd4TRfr1": true,
-    "0q0ujwCFNpVLhBSOFVdjq4laiyy1": true,
     "hPfJTQYrkvZmVu4O0oN7GJeK6t22": true,
-    "BCRmbzwLNgQJeikdFAZxOAj9pA42": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "0q0ujwCFNpVLhBSOFVdjq4laiyy1": true,
+    "qv6u1GS87EcKInajObi2GsJag0L2": true,
+    "aI9AmaZjrJT50rl5N9Lmyd4TRfr1": true,
+    "BCRmbzwLNgQJeikdFAZxOAj9pA42": true
   },
   "fileName": "Brians City Defences.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 3440
   },
   "lastUpdatedDate": 1637505783266,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/guns and ammo/"
   ],

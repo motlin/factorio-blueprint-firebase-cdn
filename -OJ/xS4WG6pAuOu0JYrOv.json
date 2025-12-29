@@ -7,24 +7,22 @@
   "createdDate": 1740492790535,
   "descriptionMarkdown": "Large platform for collecting asteroids",
   "favorites": {
-    "h82HvaDfjuTxCAcw0Eoi7CsnRy63": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "HKciyRWBwvNd2IiY9P33koIEty63": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
-    "GHaDjHfDFgQVbRwiR5VlDsdVwbq1": true,
     "ZhrfA5aheMcvmX5WEC7zDtOs90H3": true,
-    "HKciyRWBwvNd2IiY9P33koIEty63": true
+    "h82HvaDfjuTxCAcw0Eoi7CsnRy63": true,
+    "GHaDjHfDFgQVbRwiR5VlDsdVwbq1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "0SgsPDx",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/0SgsPDx",
   "lastUpdatedDate": 1740492790535,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 2,
   "tags": [
     "/mods/space-age/",
     "/planets/gleba/",

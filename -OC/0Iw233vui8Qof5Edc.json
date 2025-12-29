@@ -7,21 +7,19 @@
   "createdDate": 1731967566272,
   "descriptionMarkdown": "Green belts required. Uses combinators to set speed based on destination. Quality machines optional, but recommended (especially grabbers). Quality modules may be required for it to produce more ammo than it uses. Made it to 100km towards shattered planet at physical and explosive damage 13, railgun damage 3. Uses constant combinator to set amount of material on belts. has empty space so if you want to add more storage you can, or anything else that you feel is necessary. For best results let it stockpile a little ammo, then send it on a few inner planet trips to stockpile the rest.",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "9dyl2G4vrpXFcZjhozx3idzIIx32": true,
-    "OSZVpJaIBVgxcBMyEOQYNxyGPsN2": true,
     "ocV9ibG8mVVnvwjTVLYZf6Rq0jD3": true,
-    "VuSEdM7jIpU34xX3shJ3qH0bVrF3": true
+    "VuSEdM7jIpU34xX3shJ3qH0bVrF3": true,
+    "OSZVpJaIBVgxcBMyEOQYNxyGPsN2": true,
+    "9dyl2G4vrpXFcZjhozx3idzIIx32": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true
   },
   "image": {
-    "height": 0,
     "id": "UdAKDhP",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/UdAKDhP",
   "lastUpdatedDate": 1731967629288,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/space-age/",
     "/mods/quality/"

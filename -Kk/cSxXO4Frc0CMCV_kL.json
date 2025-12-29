@@ -7,29 +7,18 @@
   "createdDate": 1495327562130,
   "descriptionMarkdown": "Based on Gurk Gamer's design (https://factorioprints.com/view/-KajmXXV2zb9Yvv2nZGN). The conversion to 0.15 didn't work so I fixed it and made the display expandable. You can place as many center blueprints as you need. They will overlap and the left and right prints go on the ends. Input the signal you want to display as Z on the red wire at the top. An 8 digit display is included.",
   "favorites": {
-    "OWUhN72CGSZX7edbMuLyjcgNmi02": true,
-    "GpcM6ZUC8RVaxFbIGldanqcANO02": true,
-    "5dree0jIyHaSRqZ14iC4Jo3MhYu1": true,
-    "7N2X7HnNLFhOMRi1F7Dyq0hnEDL2": true,
-    "FYkgsQcqTnTdaIS8rx1LirV6AnF3": true,
-    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
-    "WsBWK3cen8ShwxfNuGkEIiFa0k23": true,
-    "wvHOvRrPF8Mt5gTkoMs8zTLGMds2": true,
-    "4adlWFr4hpcN7Oe5YzlBOZtoJ9Y2": true,
-    "HvDLCwByKHe3hGnr5ibnWBNUwDB2": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
-    "0r8Hez19x1UnyvDoNQoPoqJQxqE3": true
+    "FYkgsQcqTnTdaIS8rx1LirV6AnF3": true
   },
   "fileName": "FactorioDisplay.png",
   "image": {
+    "width": 1995,
     "height": 1033,
     "id": "V6DwNS6",
-    "type": "image/jpeg",
-    "width": 1995
+    "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/FactorioDisplay.png?alt=media&token=e20fc22b-3caf-43e5-b0d3-53bafc8afff3",
   "lastUpdatedDate": 1497704024821,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/circuit/indicator/",
     "/mods/vanilla/",

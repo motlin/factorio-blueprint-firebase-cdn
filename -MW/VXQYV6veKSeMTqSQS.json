@@ -8,10 +8,10 @@
   "descriptionMarkdown": "This is supposed to be midgame Plug&Play oil processing facility.\nIt produces everything that can be made from oil and coal, encapsulating management of intermediate products (mainly heavy and light oil, petroleum gas) away from user.\n\nFrom left to right:\n - Inputs: Coal, Coal, Iron Plates, Water, Water, Crude Oil\n - Outputs: Lubricant, Sulfuric Acid, Rocket Fuel, Plastic, Sulfur, Explosives\n\nThe idea is that all horizontal production lines are tile-able and can be extended as long as pipes and belts can keep up with increased flow.\n\nBottom row is crude oil refineries and coal liquefaction (enabled when low on petroleum gas).\nMiddle row is heavy/light oil cracking, each enabled when there is enough heavy/light oil stored in the tanks.\nEverything above is production lines for output items with some bus-like pipes arrangement in the middle for fluids transfer in and out of the intermediate storage tanks.\n\nRatios are way off but that's not what I was going here anyway.\nBiggest priorities were readability and scalability (to a degree), so the amount of refineries, cracking or certain productions can be easily adjusted.\n\nThere are no modules nor beacons used because I'm planning to build this facility as the part of my early midgame factory that should replace messy starter factory, so no purple tech, mass produced modules and other stuff yet.\n\nThis is the first time I'm trying to do oil processing \"right\", so have fun roasting this thing and pointing out my noob mistakes :)",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "h5jOxKhYCwM0aItRnKDo8Kp7vjZ2": true,
-    "5dTwIO24TWU0VmHalaFqLg2YkaS2": true,
+    "0OFSl2aJFYd97Lxj7xvrdubNL0s2": true,
     "wUM2PE41XwMSrt0fW9WdKuYBJxX2": true,
-    "0OFSl2aJFYd97Lxj7xvrdubNL0s2": true
+    "5dTwIO24TWU0VmHalaFqLg2YkaS2": true,
+    "h5jOxKhYCwM0aItRnKDo8Kp7vjZ2": true
   },
   "fileName": "arxen42-oil.jpg",
   "image": {
@@ -21,7 +21,7 @@
     "width": 2581
   },
   "lastUpdatedDate": 1616534956412,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/oil processing/",
     "/mods/vanilla/",

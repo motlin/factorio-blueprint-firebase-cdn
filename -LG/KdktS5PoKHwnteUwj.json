@@ -7,16 +7,16 @@
   "createdDate": 1559436398297,
   "descriptionMarkdown": "Working on some blueprints for my main factory on a separate creative world currently.\n\nThis is the working ratio for 1 blue belt of blue circuits. Takes 21 Full blue belts of Green Circuits, 2 Full Blue Belts of Red Circuits.\n\nThe design might be a bit inefficient, but our only priority is insuring there is always a fully compressed belt of output at the end.  Consumes 230MW. It takes the system a bit to fully start up and compress the belt 100%, but once up and running you should never have an issue.\n\nWe're actually trying to create a mega factory for 1 launch every 10 seconds (Pretty unrealistic, but we'll try! :P) \n\nThe reason for the center bit being so spaced out is so that troubleshooting is very easy to do visually. Instead of checking each machine it's easier in my opinion to simply stand still for a second and watch for which cells are not producing at the same speed as the others. If space is a premium for you then you can always modify it, but for us on a railworld we don't really have an issue.\n\n",
   "favorites": {
-    "Tlmqm5NibCbBCErj3rquZDzRTHr2": true,
     "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "Tlmqm5NibCbBCErj3rquZDzRTHr2": true,
     "RMxlxGorzyNXSP9CBkzCdiHZNjD3": true
   },
   "fileName": "1BB Blue Circuits V1.PNG",
   "image": {
+    "width": 1390,
     "height": 918,
     "id": "lPZOXRa",
-    "type": "image/jpeg",
-    "width": 1390
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1559437240348,
   "numberOfFavorites": 3,

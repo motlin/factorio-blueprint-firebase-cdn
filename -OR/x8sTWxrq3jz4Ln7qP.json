@@ -7,19 +7,17 @@
   "createdDate": 1749077690409,
   "descriptionMarkdown": "Aims to make Gleba a tad easier by leveraging Nauvis, Vulcanus, and Fulgora's resources. To this end, it refines uranium ore, allowing productivity modules to increase the effective Uranium per rocket sent from Nauvis. It has enough storage space to carry large interplanetary shipments. Makes basic supplies like iron plates, gearwheels, and circuits while reliably flying through the core worlds and picking up goods to ship to Gleba. Smoothly transitions from pre-Advanced Asteroid Refining once that is unlocked, and it collects both sulphur and carbon to ship down\n\nBlueprint uses normal quality items\n\nFeatures:\n- 6x2 Nuclear Reactor, with automatic shutoff. \n- Centrifuge with beacons and automatic recipe selection\n- A trickle of Uranium ammo to send down.\n- Controlled Thrusters for fuel efficiency\n  - Longer than it is wider for further thruster efficiency.\n- Uses asteroid reprocessing to compensate for high water needs. \n- Smooth Transition to Advanced Asteroid Refining-need only break three constant combinators to make the transition.\n- Lots of Storage Space\n- Automatic asteroid filtering and reprocessing, facilitated by a long-ass sushi belt.\n- Probably too many turrets.\n- Reliability-can move between the inner planets freely.\n\nIssues:\n- Overbuilt like a MF to compensate for lack of quality in the blueprint. \n- Requires imported copper ore until Advanced Asteroid Processing is unlocked\n- Requires a very long time/solar panel water wings to get itself going. \n- Inelegant, uncentralized circuitry-annotated to clarify things as well as possible.\n- The Generator isn't being pushed in the slightest. More Laser turrets?\n\nThis is the first blueprint I've constructed for use by others, so let me know if you have any issues or feedback! ^>^\n",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "4GJCZ6bAG0cMiEqtEQS4SZCGzHl1": true,
-    "8ZSFoC1WwKVymSzWDF0syztAhA73": true
+    "8ZSFoC1WwKVymSzWDF0syztAhA73": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "A9JP28F",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/A9JP28F",
   "lastUpdatedDate": 1749089709891,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 0,
   "tags": [
     "/mods/space-age/",
     "/power/nuclear/",

@@ -7,21 +7,19 @@
   "createdDate": 1707601575505,
   "descriptionMarkdown": "# One-way single rail blocks with roboports\n#### Now updated for Factorio 2.0 and with roboports!\n\nA simple, one-way city block / rail grid design for 1-2 or 1-1-1 trains. Grid size is based on max roboport reach.\n\n### Usage\nThe book contains four block blueprints which fit together:\n* Top Left\n* Top Right\n* Bottom Left\n* Bottom Right\n\nPlace these according to their name to form a complete square. The square can then be repeated infinitely by adding more blocks or complete squares. At least one complete square is required for the train to navigate correctly.\n\n### Credits\nDesign found in this Reddit post:\nhttps://old.reddit.com/r/factorio/comments/gfjwtr/playing_it_loose_with_the_definition_of_modular/?rdt=60003",
   "favorites": {
-    "nsnD4jNKZUV1GnDIr7eNmaMrEP12": true,
-    "ReVPGpPIwpggiIaTRDgIhFJrrLz2": true,
+    "KF434v09jCMvGg8cnoOJuedk3aa2": true,
     "YHrWAGD5jTNU49pLDcB9lWzcgtV2": true,
     "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
-    "KF434v09jCMvGg8cnoOJuedk3aa2": true
+    "nsnD4jNKZUV1GnDIr7eNmaMrEP12": true,
+    "ReVPGpPIwpggiIaTRDgIhFJrrLz2": true
   },
   "fileName": "screenshot-tick-2699678.png",
   "image": {
-    "height": 0,
     "id": "kRua41d",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1733898114016,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 2,
   "tags": [
     "/train/track/",
     "/mods/vanilla/",

@@ -7,8 +7,8 @@
   "createdDate": 1606082669462,
   "descriptionMarkdown": "A self building/unbuilding powered outpost with artillery station. Also includes automatic loading stations for Builder train, Supply train and Deconstruction train. Outposts can be built and controlled via map view with a Spidertron.\n\nOutposts:\n\n1) Spidertron builds a skeleton station (supplies are in the requester chests labelled Spider Supplies).\n2) Builder train loaded with materials comes as soon as station is built. Unloads bots and materials.\n3) Once the building phase is complete, copy and paste the combinators beside the stations to turn Builder Station OFF and Arty station ON. (Copy the \"G\" signal onto the blank combinator beside Arty Station to turn it on, copy the blank combinator onto \"G\" combinator beside Builder Station to turn it off)\n4) Enjoy the fireworks!\n5) Once Artillery barrage is completed, you can follow the 4 deconstruction steps to pack everything back into the boxes. (IMPORTANT move Spidertron before steps 1-4 or her robots will try to grab everything!)\n6)  Once the deconstruction is complete, copy and paste the \"Decons\" train stop to replace the Builder stop to bring the cleanup train. 7) Once the cleanup train is finished loading, use final deconstruction planner to pick up the skeleton station , and Spidertron is ready to move to the next outpost!\n\nLoading stations:\n\nNext to the builder station is a combinator labelled \"load\". You can copy and paste the other combinators onto this one to change the Builder train's loadout (I premade a few with miners, rail line supplies etc, you can put anything in and it will load the train up)\n\nAt the back of the builder train is a blank combinator labelled \"clear\". This combinator sets which items to remove from the requester chests supplying the train. Copy and paste combinators here to clear out the requester chests if they become clogged up.\n\n(Note: Behind the Builder Station is a dummy station, this is just to prevent the Builder's train's schedule from getting messed up when you change the  \"Builder\" train stops to \"Decons\" or \"Supply\")\n\nAlso includes BPs for a Permanent Outpost station, set up to call the Supply train to keep ammo and fluids topped up to use as small bastion or to begin building a new mine or depot. After the initial outpost is built and artillery is complete, change the recipe on the constant combinator labelled LOAD (Beside the Builder Loading station) to stock the Builder train with different materials, enabling you to build your entire outpost from map view. Once the outpost is complete, change the Builder stop to \"Supply\" and remove the \"G\" signal from the constant combinator beside the stop to allow the Supply Train to keep ammo and fluid stores topped up at your new outpost. (Rotate the three unloading inserters to load leftover building materials onto the Supply Train's empty wagon to be recycled)",
   "favorites": {
-    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true,
-    "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true
+    "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true,
+    "twSEqheFcBUCMW0Xvm6DWSZnGnB2": true
   },
   "fileName": "20201122134010_1.jpg",
   "image": {
@@ -18,7 +18,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1678549116946,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/train/loading station/"
   ],

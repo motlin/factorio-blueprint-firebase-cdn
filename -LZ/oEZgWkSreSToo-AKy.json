@@ -7,25 +7,25 @@
   "createdDate": 1580350720923,
   "descriptionMarkdown": "*This design is more or less obsolete because of my new reactor design located here:* \nhttps://factorioprints.com/view/-M-OneXO5-gNFrbkOKmB\n\n**Stats**\n\nMaximum power output of 1.4GW (up to 1.7GW when used with solar)\n\n**Setup**\n\nPlace this reactor down and supply each of it's 10 water intake pipes with the water from 2 offshore pumps, and pressurize this water with pumps (1 pump every 5 pipes the water travels through). That's it. The reactor requires no manual startup or initial fuel insertion. It starts itself up upon receiving fuel, and will be able to restart itself if it ever runs out.\n\n**Description**\n\nThis nuclear setup contains 10 reactors, all supplied with fuel by bots. The reactors are set up to automatically conserve fuel during times of low power consumption, only turning on when more power is needed. It also will warn the player of excessive power consumption with a notification icon of a copper wire saying \"Low Power\".\n\nThis reactor was designed to be used along with solar panels to provide a factory with even more power, up to 1.7GW. Excess steam is buffered in tanks during the day when the solar panels are active, and this steam is consumed for power at night. This makes accumulators unnecessary. With this reactor, you are now free to place only solar panels in your solar farms.\n\n**Controls**\n\nThe reactor comes with a single constant combinator that can be used to force the reactor to turn on or shut down. Set the white signal to 100k to force the reactor to consume fuel and turn on, or set it to 0 to force the reactor to shut down and not consume fuel. The white signal is 80k by default. It's value determines when the reactor will shut down to conserve fuel.\n",
   "favorites": {
-    "GzcyMSZHJQPbMsfhtFAQMTvLzar1": true,
-    "ClZKvf8P2KeGXNRJBDZZlVMnwf93": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
-    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
-    "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true,
     "H5lymY5ep2bcFjb6fHU8E5RcURK2": true,
     "TQj6LX4mlLWEJXczt4El9LQj3Mh2": true,
-    "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true,
+    "GzcyMSZHJQPbMsfhtFAQMTvLzar1": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "8ykp14LWlVUEgtFE9QcnxkIzRSi2": true,
     "dx6SR829ZTU4Gr0SZqWl6NxtCZ43": true,
-    "qz6z7NRBUidYzxtJE6ufpEe6Yym1": true
+    "qkeFa1DV9BS4lrpu3kRWxrIj2kh2": true,
+    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "ClZKvf8P2KeGXNRJBDZZlVMnwf93": true,
+    "qz6z7NRBUidYzxtJE6ufpEe6Yym1": true,
+    "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true
   },
   "fileName": "factorio_qDRpW3IK1J.jpg",
   "image": {
-    "height": 889,
     "id": "JmqSLoJ",
     "type": "image/jpeg",
-    "width": 1288
+    "width": 1288,
+    "height": 889
   },
   "lastUpdatedDate": 1580981206103,
   "numberOfFavorites": 12,

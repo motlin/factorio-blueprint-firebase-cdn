@@ -7,18 +7,18 @@
   "createdDate": 1584227756992,
   "descriptionMarkdown": "This is a module for producing electronic circuits. It takes in 16 copper plate and 16 Iron plate belts and converts them into 28 belts of green circuits. Each belt transports 30.8 green circuit/s (862.4 GC/s total) and is naturally balanced. The module produces 64000 green circuits(one 8 car train load) in approximately 75 seconds. In the loading station each car has 10,5 chests(11 chests, but the last one is half capacity), when summed gives 84 chests of capacity (3*28), on average 3 inserters per belt. The half chests have small circuit to ensure their equal filling.",
   "favorites": {
-    "0c8wXa7FvhbMGKxcG1qVgwZ30jq2": true,
-    "0toDbbJcWXSAxOc7ldflT9zCCA13": true,
+    "UQJD7Zd3nChS589kuPwvOhFocQn2": true,
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "0c8wXa7FvhbMGKxcG1qVgwZ30jq2": true,
     "yJOCC51rvlQL14z34Yyg5yhLPwk2": true,
-    "UQJD7Zd3nChS589kuPwvOhFocQn2": true
+    "0toDbbJcWXSAxOc7ldflT9zCCA13": true
   },
   "fileName": "Green module far away view.jpg",
   "image": {
-    "height": 768,
-    "id": "q2rjXdd",
     "type": "image/jpeg",
-    "width": 1366
+    "width": 1366,
+    "height": 768,
+    "id": "q2rjXdd"
   },
   "lastUpdatedDate": 1584227756992,
   "numberOfFavorites": 5,

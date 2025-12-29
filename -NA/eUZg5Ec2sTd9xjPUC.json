@@ -8,11 +8,11 @@
   "descriptionMarkdown": "With these books you can build a simple megabase that can scale to a few thousands of SPM without much effort.\n\nTo do that, you simply need to build 225 SPM modules around the map, while covering ore patches with the provided ore mining blueprints. These ore trains are the only requirement to keep the SPM rolling.\n\nNot included: Early/mid game stuff, defence, mall, T3 module production, electricity.",
   "favorites": {
     "HT9n0WVhiBhW7s3Pe6O2itORvE82": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
     "GBZ2ove6fCZIdwnZFn0cxIEniBh2": true,
     "oR3LOqG0EGPFkPsltnsSYOBT9FU2": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
     "H5cWXvui46U9ChDKOGHgxoFqnTr2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "fileName": "simple-ore-megabase.png",
   "image": {
@@ -22,7 +22,7 @@
     "width": 911
   },
   "lastUpdatedDate": 1667586417375,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/late game (megabase)/"
   ],

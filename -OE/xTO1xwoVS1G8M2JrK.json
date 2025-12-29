@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Thomas Paine",
     "userId": "LKS9G5M1daflrQucuAPiKMMAIkv2"
   },
   "authorId": "LKS9G5M1daflrQucuAPiKMMAIkv2",
@@ -7,15 +8,13 @@
   "createdDate": 1764115452280,
   "descriptionMarkdown": "Various Space Platforms for different stages of the game. I was never able to make the Cracked Planet platforms self sustaining though.",
   "favorites": {
-    "naIvG14OOpZY3eI2GCXxqGjIlUu1": true,
     "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
-    "6AldBsnMEtdMpVrfdMVUtM5eKoP2": true
+    "6AldBsnMEtdMpVrfdMVUtM5eKoP2": true,
+    "naIvG14OOpZY3eI2GCXxqGjIlUu1": true
   },
   "image": {
-    "height": 0,
     "id": "H2zVFUX",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1764115797424,
   "numberOfFavorites": 3,

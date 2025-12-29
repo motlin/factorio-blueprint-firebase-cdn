@@ -8,10 +8,10 @@
   "descriptionMarkdown": "2-4 RHD Train Green Circuit Sub-factory (720 i/s)\n * Non-beacon.\n * Click [here](https://factorioprints.com/view/-M55I_f_yHd6enhCZsG-) for the beacon version\n\nTrain stations are named\n* IRON PLATE UNLOAD\n* COPPER PLATE UNLOAD\n* GREEN CIRCUIT LOAD\n\nIncludes\n* 720 items per sec output (16x blue belts)\n* roboport coverage so the blueprint can be built with bots\n*  circuit logic to disable the station unless it can accept a full train load and disable the station when a train is present.\n* entrance stacker for iron / copper plate\n* entrance stacker for empty trains for green circuit\n* exit stacker for full trains for green circuit\n* bypass rail for both input / output rails",
   "favorites": {
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "j49Pn7VTRlWJs1bOjo6im2EEnpC3": true,
     "9f2E8PKle8M1BtCPX66jZxioIeE3": true,
     "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,
-    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
-    "j49Pn7VTRlWJs1bOjo6im2EEnpC3": true
+    "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true
   },
   "fileName": "sPyEVkTzkDNqWThPZpFCsrepsneFka.png",
   "image": {

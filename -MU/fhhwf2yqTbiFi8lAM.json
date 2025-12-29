@@ -7,11 +7,11 @@
   "createdDate": 1643558395967,
   "descriptionMarkdown": "This is my latest set of rail blueprints. It's making use of a pattern I'm calling planned traffic, which means that the lanes are seperated into right and left turners. Anyone on the left lane can only turn left or go straight and vice versa for the right lane. This is actually somewhat common in [real life car junctions](https://qph.fs.quoracdn.net/main-qimg-aa0a072efd92ba11cabd838b44185ae0). It's difficult to predict how much impact this has on traffic, but it's probably considerable.\n\nI had to modify the testbench to make it work with this design and it scored an impressive Set1:75 trains per minute with the other two sets being impossible to test. The trains were arriving presorted and forced to utilize both exit lanes equally for fairness. \n\nReddit post with demonstration video: https://www.reddit.com/r/factorio/comments/sgchgf/planned_traffic_4lane_intersection/",
   "favorites": {
-    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true,
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
     "QgXIBKnUmAUt73fzuifDsv2Hcbw2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "SuM4t2pLv2RHPSQs87MKMbEfRAx1": true
   },
   "fileName": "factorio_2022-01-30_16-39-25.png",
   "image": {

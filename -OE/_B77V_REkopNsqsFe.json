@@ -7,22 +7,20 @@
   "createdDate": 1734716982247,
   "descriptionMarkdown": "Odysseus - Ulysse 31 ship",
   "favorites": {
-    "tDeu9SLkGyaPFM0NXEyXSStBG2i1": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "YhXqDOFfZVVobzpAbOVz0RwwNzO2": true,
-    "L1qa40NafQUNYz1edY76MxUJrUz1": true,
     "v68t9V9wyCWibJgROF9Y0O89OaF2": true,
-    "TiuoAFvClFeE9Eep93yiiNZaCmA3": true
+    "tDeu9SLkGyaPFM0NXEyXSStBG2i1": true,
+    "TiuoAFvClFeE9Eep93yiiNZaCmA3": true,
+    "L1qa40NafQUNYz1edY76MxUJrUz1": true,
+    "YhXqDOFfZVVobzpAbOVz0RwwNzO2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "M7XqRBu",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/M7XqRBu",
   "lastUpdatedDate": 1734716982247,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 3,
   "tags": [
     "/planets/space-platform/"
   ],

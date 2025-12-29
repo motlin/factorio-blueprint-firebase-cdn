@@ -7,11 +7,11 @@
   "createdDate": 1683914336776,
   "descriptionMarkdown": "Purple Science Book",
   "favorites": {
-    "0hLtED1CmFVE97c2UC3a1YfY7hf2": true,
-    "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
-    "wJT2pPjryDNJSmrMXrUCx7eHfGw1": true,
     "qtCtD6N6IPVllLvNhjxbJgVK7eD2": true,
-    "EBBAfvcwLCS9NQ3H2xHvqPxfaEj2": true
+    "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
+    "EBBAfvcwLCS9NQ3H2xHvqPxfaEj2": true,
+    "0hLtED1CmFVE97c2UC3a1YfY7hf2": true,
+    "wJT2pPjryDNJSmrMXrUCx7eHfGw1": true
   },
   "fileName": "5 purple.PNG",
   "image": {
@@ -21,7 +21,7 @@
     "width": 71
   },
   "lastUpdatedDate": 1683914336776,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/beaconized/"
   ],

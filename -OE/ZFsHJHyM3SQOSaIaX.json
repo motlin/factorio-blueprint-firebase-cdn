@@ -7,27 +7,25 @@
   "createdDate": 1734701451090,
   "descriptionMarkdown": "**[fr]**\nPermet de créer un type d'élément au niveau de qualité choisi et de définir la quantité pour chaque qualité.\n\n**Informations de Contact et d'Utilisation**  \n\nN'hésitez pas à proposer des suggestions ou des améliorations pour le blueprint, ou à poser vos questions. Vous pouvez me contacter via ce serveur Discord : [https://discord.gg/qCft5xNeH2](https://discord.gg/qCft5xNeH2).  \n\nSi vous souhaitez utiliser ce blueprint dans un autre livre ou une vidéo, je vous serais reconnaissant de bien vouloir mentionner mon nom : **D2**. Merci pour votre considération, et amusez-vous bien ! 😊\n<br>\n**[en]**\nAllows creating an item type at the selected quality level and setting the quantity for each quality.\n\n\n**Contact and Usage Information**  \n\nFeel free to share any suggestions or improvements for the blueprint or ask questions. You can reach me through this Discord server: [https://discord.gg/qCft5xNeH2](https://discord.gg/qCft5xNeH2).  \n\n_Please note:_ I’m French, and my English isn’t the best, so thank you for your understanding!  \n\nIf you would like to use this blueprint in another book or video, I would greatly appreciate it if you could credit my name: **D2**. Thank you for your consideration, and have fun! 😊\n<br>\n**Changelog :**\n\nV0.1 :\n* Conceptualization of a level-upgrade module.\n\nV0.2 :\n* Reorganization of a model for chained processes.\n\nV0.3 :\n* Chaining of all quality levels.\n* Fixed issues in certain circuits caused by chaining.\n\nV0.4 :\n* Removal of elements at the legendary level.\n* Modification of the first tier.\n* Creation of a crafting plan for liquids.\n\nV0.5 :\n* Various fixes.\n* Created a version with single-belt input.\n\nV0.6 :\n* Revamped the first level to add two more crafters to the first tier.\n* Added a screen to display the requested item on the belt.\n\nV0.7 :\n* Added crafter arm locking to prevent the use of higher-quality resources.\n* Added a light signal when a chest is full.\n\nV0.8 :\n* Various fixes.\n* Updated the light signal to reflect fill rates at 30%, 60%, and 90%.\n\nV0.9 :\n* Fixes after stress testing.\n\nV1.0 :\n* Release version.",
   "favorites": {
-    "tyUda5pcwuVFJjD0xEXewxdkMao1": true,
     "MYtcPsoaM6Xa6waJ5TRhnsij7OR2": true,
     "60eXtahNWMVSyAxxWIeJ2HYgG1t2": true,
+    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
+    "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,
     "wMOHZ7lMkRfvIuBDF1leBfC7PBe2": true,
     "Nk5ePJ4obOaV6Gmv13SVBesEjbo2": true,
-    "cbbRGKQshbfmNxFsLT4OdWSCE6J3": true,
-    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
-    "WeCUyXc9X8cjU8i2thgLwdm5mRo1": true,
     "sfRnxFoxGjPvyPxLEoh754u6Dnk2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
-    "gYtM8373tVUHJMzhnUPiRnHQOHP2": true,
-    "SQdq1JOUJugdWvnn76gHof4MO062": true,
-    "5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,
     "Yv8fBKdLvXc3zRnYPMFzCRV262E3": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "gYtM8373tVUHJMzhnUPiRnHQOHP2": true,
+    "cbbRGKQshbfmNxFsLT4OdWSCE6J3": true,
+    "tyUda5pcwuVFJjD0xEXewxdkMao1": true,
+    "SQdq1JOUJugdWvnn76gHof4MO062": true,
+    "WeCUyXc9X8cjU8i2thgLwdm5mRo1": true
   },
   "image": {
-    "height": 0,
     "id": "HZLjeu4",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/HZLjeu4",
   "lastUpdatedDate": 1734701483725,

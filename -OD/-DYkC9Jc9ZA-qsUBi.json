@@ -7,21 +7,19 @@
   "createdDate": 1733023120699,
   "descriptionMarkdown": "Space platform to reach Shattered Planet",
   "favorites": {
-    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
-    "pZhuEIIEi1hc6iIjUVhv6oCohA62": true,
     "BCukzuwWhyPZOBFUw6tVheMg8xY2": true,
+    "DDATVObozBOtqtSn2YDdDJPDogJ2": true,
     "hPfJTQYrkvZmVu4O0oN7GJeK6t22": true,
-    "DDATVObozBOtqtSn2YDdDJPDogJ2": true
+    "z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
+    "pZhuEIIEi1hc6iIjUVhv6oCohA62": true
   },
   "image": {
-    "height": 0,
     "id": "eOWWBTq",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/eOWWBTq",
   "lastUpdatedDate": 1733023120699,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 3,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/"

@@ -8,24 +8,24 @@
   "descriptionMarkdown": "##### Basic info\n\nThis is my first blueprint book to share. I used Zylan's amazing 2/s science book to create an 8/s array, and a tileable 8/s array for each pack except for space. I took inspiration from various Modular Green Circuit builds for the belt arrangement, let me know if there is anything I missed as far as misplacing things, or if the ratio of the various belts needs changing!\n\n###### Features\n\n* Easy input of resources, just hook up to the main buses and i've done the hard work for you!\n* There is a basic array and a tileable array for each of the 6 science packs before space.\n* You can replace the basic array with the tileable array by deleting only the belts in the middle, and placing the tileable array on top of that.\n* Each tileable array supports two belts of output for each science pack, although i'm skeptical it would ever reach the point of 90 science packs per second before being input starved. Still, options.\n* Every additional array adds 480 science packs per minute of production, assuming they're fully fed!\n* Only the main buses need to be upgraded to increase bandwidth, you don't need to touch the merging or splitoff belts!\n* Smartly balanced main buses take products from center lanes and shifts them to the outside lanes where it makes sense, to ensure maximum possible throughput.\n\n###### Additional notes\nThis is a quick and dirty blueprint book. I did the best to polish it as I could in the timeframe I worked in, and I cannot guarantee it to be perfect in ratio of inputs to ensure equal consumption of resources. Please give any critique you deem appropriate!\n\nZylan's excellent science book can be found [Here](https://factorioprints.com/view/-LZmYPWmebsCYvbMcYTN), if you simply want the original small modules!\n\n###### **My Other Works**\n[Modular 1-8 Stations](https://factorioprints.com/view/-Ld5tEiCYn8KBt9LvuZk)\n\n[Modular 1-4 Stations](https://factorioprints.com/view/-Ldf99CNWNmCp9E6NVFt)\n\n[Modular 1-2 Stations](https://factorioprints.com/view/-Ldf9pvMXMHiq1jwagwB)",
   "favorites": {
     "Lfpy05C7AaccITL3Rkd8NClrGW82": true,
-    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,
-    "OfoacicOjmWUoaZtcC5Xnl9QFC53": true,
-    "nE5qYjXcnJVGFEfdPmjwYCCeWM22": true,
-    "6xpJkBb1CcahGsWJ9s65vzViYms2": true,
     "cRIBywe3TtgHMg6pVXGPdIbAJ253": true,
-    "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
+    "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,
+    "nE5qYjXcnJVGFEfdPmjwYCCeWM22": true,
+    "e9quzsWkqaTtNKW2e6nx2l5WVvl2": true,
+    "NECUCjOStQdiU4UQrXooDE6HBm62": true,
     "Qlg4c53YtmYEqVSDjTYSmLkj0rv2": true,
+    "6xpJkBb1CcahGsWJ9s65vzViYms2": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
-    "e9quzsWkqaTtNKW2e6nx2l5WVvl2": true
+    "OfoacicOjmWUoaZtcC5Xnl9QFC53": true,
+    "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
   },
   "fileName": "blueprint.png",
   "image": {
-    "height": 1748,
     "id": "qQdpby3",
     "type": "image/jpeg",
-    "width": 1840
+    "width": 1840,
+    "height": 1748
   },
   "lastUpdatedDate": 1556576381904,
   "numberOfFavorites": 12,

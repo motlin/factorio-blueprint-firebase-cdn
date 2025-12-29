@@ -7,11 +7,11 @@
   "createdDate": 1554708093249,
   "descriptionMarkdown": "On Right side input unsorted ore input it will automatically sort those three ores for you and they are ready to be moved by LTN mod with trains into your smelting machines.",
   "favorites": {
-    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
-    "jU4LREy6RqeaK0Koqgq4G37vwsp1": true,
     "a0Ug6rccqrOicl4YYgTIixV6lOK2": true,
+    "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
-    "X6rrsw6FG5O4AbE4goX8fwWWoJJ3": true
+    "X6rrsw6FG5O4AbE4goX8fwWWoJJ3": true,
+    "jU4LREy6RqeaK0Koqgq4G37vwsp1": true
   },
   "fileName": "OreSorter.png",
   "image": {
@@ -21,7 +21,7 @@
     "width": 2184
   },
   "lastUpdatedDate": 1554708093249,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/mods/ltn/",
     "/belt/balancer/",

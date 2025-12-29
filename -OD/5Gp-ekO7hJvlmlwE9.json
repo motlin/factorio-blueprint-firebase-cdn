@@ -7,21 +7,19 @@
   "createdDate": 1733124641298,
   "descriptionMarkdown": "A Space Ship for 2.0 that I made in the shape of the ship from Galaga.",
   "favorites": {
-    "twSThkJF4jZcIPGprsTjhPnLjam2": true,
-    "IzkZiupqHLZXGAz6hWq1sV1v0j62": true,
-    "dLuaj7RTnnYQwFy2LAYUgoWofbR2": true,
     "4PSlHvyT6lbsXgGcwKXfaBHYhwi2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "dLuaj7RTnnYQwFy2LAYUgoWofbR2": true,
+    "twSThkJF4jZcIPGprsTjhPnLjam2": true,
+    "IzkZiupqHLZXGAz6hWq1sV1v0j62": true
   },
   "image": {
-    "height": 0,
     "id": "s4usSY7",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/q3q6AjJ",
   "lastUpdatedDate": 1733152285969,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 0,
   "tags": [
     "/mods/space-age/"
   ],

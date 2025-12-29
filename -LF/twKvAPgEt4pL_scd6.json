@@ -7,18 +7,18 @@
   "createdDate": 1558971506640,
   "descriptionMarkdown": "\nThis is a blueprint book for 0.17 science production in a compact style. \n\nIt favours length over width, with some consideration of aesthetic balance. The book includes two production rates, roughly [0.25/s] and [0.5/s], in game testing provides the shown rates, rather than ratio calculations. \n\nAlso offered for purple and yellow are variations with intermediate parts inputted rather than produced. \nI try to be resource efficient, though compactness leads to overuse of inserters. Red level belts and medium pole are avoided until purple science when they’re commonly available. Good ratios are used but are imperfect. \n",
   "favorites": {
-    "65ama2kJn7PFFF80xNetM6RcdK42": true,
-    "7Uu75N26USdlmnMdwUNe5NvBoao1": true,
-    "93fbpaEiA4SJilO4kmvpeLka2z83": true,
-    "4O73WwcbzJVVyyrtqjZEwX2cvIo1": true,
-    "WRHArC9HWPejoXLRTWuU42CiQgn2": true,
-    "eroEvjGuHYN5ZZJfArjtqpAW57V2": true,
-    "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,
     "YugDKY1PV4Q1uvfW9JkSqzeLvow1": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "GtvC3PB7LSdqGZ6MBJR4h3LIZc42": true,
+    "LIKibBUM2ggS8zqXtt09PJoef592": true,
+    "93fbpaEiA4SJilO4kmvpeLka2z83": true,
     "189yZkTrakUxkuUIs1bFXgyrba62": true,
-    "LIKibBUM2ggS8zqXtt09PJoef592": true
+    "GtvC3PB7LSdqGZ6MBJR4h3LIZc42": true,
+    "7Uu75N26USdlmnMdwUNe5NvBoao1": true,
+    "dpfShkjHiGVEwwjOdR1byUGvAMq1": true,
+    "65ama2kJn7PFFF80xNetM6RcdK42": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "4O73WwcbzJVVyyrtqjZEwX2cvIo1": true,
+    "eroEvjGuHYN5ZZJfArjtqpAW57V2": true,
+    "WRHArC9HWPejoXLRTWuU42CiQgn2": true
   },
   "fileName": "y.png",
   "image": {
@@ -28,7 +28,7 @@
     "width": 1211
   },
   "lastUpdatedDate": 1558976317040,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 9,
   "tags": [
     "/version/0,17/",
     "/mods/vanilla/",

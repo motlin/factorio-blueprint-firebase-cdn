@@ -7,27 +7,25 @@
   "createdDate": 1735524840913,
   "descriptionMarkdown": "## Rail BPs Overview\n\n- **Drive Orientation:** Rail BPs are right-hand drive.  \n- **Grid Alignment:** Blueprints (BPs) are aligned to a 100x100 grid with roboport, power, and red & green wire connections.  \n\n### Blueprint Naming Conventions\n\n- **Directions Format:** Directions in BP names use the format: `North`, `East`, `South`, `West`.  \n  For example: `0,2,2,2` means:\n  - `0 lanes` to the **North**  \n  - `2 lanes` to the **East**, **South**, and **West**.  \n\n### Rail Blueprint Source\n\n- **Fork of:** Cedric's All You Can Rail V2.22  \n- **Original Link:** [View on Factorio School](https://www.factorio.school/view/-OBzpkU0GOt0w4zw_vv4)  \n\n### Change Log\n\n- **1.01:** Updates to some BP positioning relative to the grid.  Added 1-8-1 Stations.\n- **1.0:** Initial Release.",
   "favorites": {
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "ggxnyfv9muNUJ24YPlbYQuet1To2": true,
-    "3YrWivRAlEg2OOloUqFBWjyqpDG2": true,
+    "gstPZ1sMiiYE05SRRj4w51bjU8Q2": true,
     "HGJ5xLV645TjjqhpGStefP2Jaf93": true,
     "WHT6U6aD4lYQ2PxMDGKW6Zv8Fpj1": true,
+    "GlVBJF3hq6VtK1JF8O5SfqXizL72": true,
     "K8o6xlCL8RMM1DcXfuNDYl1hVTF3": true,
-    "gstPZ1sMiiYE05SRRj4w51bjU8Q2": true,
+    "ggxnyfv9muNUJ24YPlbYQuet1To2": true,
     "jntB2WmZR0NauDCDhVxVfCnAfld2": true,
-    "nzv7UR1jaWYQKLqTd5rmWMjL4AE2": true,
+    "3YrWivRAlEg2OOloUqFBWjyqpDG2": true,
     "trWv1wAzqteajsouFPXqsQIbXjZ2": true,
-    "GlVBJF3hq6VtK1JF8O5SfqXizL72": true
+    "nzv7UR1jaWYQKLqTd5rmWMjL4AE2": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true
   },
   "image": {
-    "height": 0,
     "id": "aEGEurX",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/aEGEurX",
   "lastUpdatedDate": 1735587064865,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 7,
   "tags": [
     "/mods/elevated-rails/",
     "/mods/vanilla/",

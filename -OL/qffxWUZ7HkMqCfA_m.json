@@ -7,21 +7,19 @@
   "createdDate": 1742526661126,
   "descriptionMarkdown": "## Single Assembler: Crafts All Science Packs (or Anything Else), Including All Required Components  \n\nA video showcasing the assembler in action can be found here:  \n- [https://youtu.be/57Jsz7rg62Y](https://youtu.be/57Jsz7rg62Y)  \n\nThe blueprint is designed for **high throughput**, utilizing **5 inserters for input** and **2 inserters for output**.  It also features a **compact footprint**, with the assemblers and control logic fitting within a standard **12-beacon design**, allowing for the use of speed modules.  \n\n### Scalable Production Rate  \nA single assembler can craft **4 units of each of the first 6 science packs** (red, green, blue, gray, purple, yellow) per minute.  \nWith **150 assemblers**, this blueprint produces roughly **6 * 600 science packs per minute** (using only raw materials as input).\nHowever, the design is **modular and scalable**, allowing for **infinite expansion**.\n\n### Input and Output  \n- **Input materials** are supplied by **three belts**, while the **final products** can be collected by **logistic bots**.  \n- The **input materials** can range from **raw resources** (iron plates, copper, etc.) to **intermediate products**.  It can for example be combined with **smelters** to produce **iron gears** or **low-density structures**.  \n\n### Liquid Handling  \nThe blueprint includes a **liquid system**, supplying **sulfuric acid** and **lubricant** to the assemblers.  \nAdditional liquids can be integrated if needed, but they are **not required** for crafting science packs.  \n\n### Adaptive Crafting System  \nDue to its design, each assembler **only crafts the science packs that are missing from its buffer**,  \nadding a layer of **adaptability**—it automatically produces whichever science packs are being consumed.  \n\n### Flexibility  \nAdding other recipes is easy, making this blueprint **highly flexible**.  \nIt can be used not only for science production but also as an **auto-mall, a circuit factory, or a general-purpose production setup**.  \n\n### How to Use  \nSimply **place the blueprint** and **supply the belts/pipes** with the required materials.  Or test it in a sandbox world.\nA more **detailed description** can be found within the blueprint itself, **inside the display panels marked with a star icon**.  \n",
   "favorites": {
-    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
     "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
+    "T9EGMbJXe4fzL6MfwNXp1KKXXCE3": true,
+    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
     "GHaDjHfDFgQVbRwiR5VlDsdVwbq1": true,
-    "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,
-    "T9EGMbJXe4fzL6MfwNXp1KKXXCE3": true
+    "SgrhmMrDamhOR5rANrbYyqcQOUG3": true
   },
   "image": {
-    "height": 0,
     "id": "Lb82aHS",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/xQKNX7c",
   "lastUpdatedDate": 1742531283996,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/science/",
     "/general/beaconized/",

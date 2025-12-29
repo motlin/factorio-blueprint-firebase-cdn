@@ -7,21 +7,19 @@
   "createdDate": 1745347635652,
   "descriptionMarkdown": "Modulo de produção de pacote  científicos de criogenia\n\nEsta blueprint é parte integrante da Série Space Age. Aprenda a usar essa blueprint assistindo o vídeo em: https://youtu.be/wQ_iEjgl1X4. Mods usados nessa serie e nesta planta: https://imgur.com/2dhDd0Z\n\nCryogenics Science Pack Production Module\n\nThis blueprint is part of the Space Age Series. Learn how to use this blueprint by watching the video at: https://youtu.be/wQ_iEjgl1X4. Mods used in this series and in this blueprint: https://imgur.com/2dhDd0Z",
   "favorites": {
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "aFATOEHKH5Z2swMuCNFL9smXqEF3": true,
     "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
-    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true
+    "aFATOEHKH5Z2swMuCNFL9smXqEF3": true,
+    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true
   },
   "image": {
-    "height": 0,
     "id": "455l2Nz",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/455l2Nz",
   "lastUpdatedDate": 1745347635652,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/smelting/",
     "/power/nuclear/",

@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Wazuki",
     "userId": "M9cbExavXYXVxSZFVcBult5zbph1"
   },
   "authorId": "M9cbExavXYXVxSZFVcBult5zbph1",
@@ -11,13 +12,11 @@
     "DaDOUJyJUIekBCw1ZZiHJ06tdbA3": true
   },
   "image": {
-    "height": 0,
     "id": "yzSbim1",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1751560636988,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/mods/krastorio/",
     "/mods/space-age/",

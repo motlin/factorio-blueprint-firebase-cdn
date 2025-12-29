@@ -7,21 +7,21 @@
   "createdDate": 1633720988922,
   "descriptionMarkdown": "These are chunk-aligned rail segments designed for the krastorio 2 big eletric poll spacing. They can be placed end-to-end in any combination. Most junctions will either print directly over others, or will have signals in identical positions that conflict so are easy to spot and fix. There are both nesw-aligned and diagonal segments, as well as all the combined intersections and junctions. There are also a variety of bulk rail loader two-head train stations and tains to fit them.\n\nIf you do not have k2 installed but want to use this book, then install one of the mods that sets large electric polls to a spacing of 32. For example, Power Pole 32.",
   "favorites": {
-    "RpzZ7sAqn2RWI90IIirdddtR0pe2": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
-    "ISoPedemzbb4blqipRj8El9xLJv1": true,
-    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
-    "sAlRudYZggfVBGk5v8AwioFz9j02": true,
     "uBQNVH94i2RWi23GoXc89hgOEsg1": true,
     "oze12jqqGNPBaRHVyEruuC94eyw2": true,
-    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
-    "czT984gM6bb0iJyoZd0QIbLIX2p2": true,
-    "wUM2PE41XwMSrt0fW9WdKuYBJxX2": true,
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "L1qa40NafQUNYz1edY76MxUJrUz1": true,
-    "OcDokt6GSnNYuvqP9Dwj10J2WYb2": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "OFAojdH7uGYCPQhGSuxPHBFRp042": true,
+    "ISoPedemzbb4blqipRj8El9xLJv1": true,
     "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "RpzZ7sAqn2RWI90IIirdddtR0pe2": true,
+    "wUM2PE41XwMSrt0fW9WdKuYBJxX2": true,
+    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
+    "sAlRudYZggfVBGk5v8AwioFz9j02": true,
+    "OcDokt6GSnNYuvqP9Dwj10J2WYb2": true,
+    "czT984gM6bb0iJyoZd0QIbLIX2p2": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
+    "L1qa40NafQUNYz1edY76MxUJrUz1": true
   },
   "fileName": "Screenshot_20211008_202204.png",
   "image": {
@@ -31,7 +31,7 @@
     "width": 2282
   },
   "lastUpdatedDate": 1672789546722,
-  "numberOfFavorites": 15,
+  "numberOfFavorites": 8,
   "tags": [
     "/mods/krastorio/",
     "/train/loading station/",

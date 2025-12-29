@@ -7,13 +7,13 @@
   "createdDate": 1616329322583,
   "descriptionMarkdown": "After several rounds of rework, we did it. Final dimensions 100x97. 1 hour production graph at https://imgur.com/gallery/jMhXeHz\n\nGoing to keep it running for a 10 hour average, but should be good to go.",
   "favorites": {
-    "NqHLXTSzRbYXUlY4bxB87bvQPmM2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
-    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
+    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
+    "NqHLXTSzRbYXUlY4bxB87bvQPmM2": true,
+    "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
     "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true,
-    "6vcOE83nwZfUONZYZnuptrW5kbo2": true
+    "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   },
   "fileName": "2021-03-21 08_21_15-Factorio 1.1.27.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 1198
   },
   "lastUpdatedDate": 1616329322583,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 6,
   "tags": [
     "/production/science/",
     "/general/beaconized/",

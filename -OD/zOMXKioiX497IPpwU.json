@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Kite Bowers",
     "userId": "teCSYwmzs8WGlKCpdTevaYCWgac2"
   },
   "authorId": "teCSYwmzs8WGlKCpdTevaYCWgac2",
@@ -7,18 +8,16 @@
   "createdDate": 1763073947936,
   "descriptionMarkdown": "This is a generalist shipping spaceship designed to be able to store up large amounts of asteroids, dumping raw material to planets, or for bulk shipping between the early game planets.\n\nIt is LARGE but you can basically just let it fly in a loop and stuff will get shipped wherever it needs to go securely.\nA few notes for how to more discretely control or configure it are left in note items distributed across the ship blueprint.\n\nThis should be a perfect early game (red belts, pre-vulcanis) ship which doesn't rely in any way on bonuses obtained later during the game, but is self-sustaining and needs no rest stops to function.",
   "favorites": {
-    "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,
     "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "DOmhyRLBb6YK8sTdqUddd9EmDFC3": true,
+    "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,
     "rDeCvoPhh7cLmCWthwnw5vNQwL43": true,
+    "DOmhyRLBb6YK8sTdqUddd9EmDFC3": true,
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true,
     "sYPoawEorIRKVkoqv2mEEe8cD3L2": true
   },
   "image": {
-    "height": 0,
     "id": "hIZuDTy",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1763876334717,
   "numberOfFavorites": 6,

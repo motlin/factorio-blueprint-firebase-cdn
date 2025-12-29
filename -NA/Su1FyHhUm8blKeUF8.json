@@ -8,16 +8,16 @@
   "descriptionMarkdown": "# Modular City Block 2.0\n\nBased on https://www.factorio.school/view/-LXatze8crbgeIP9kvNR\n\nI was looking for a good city block blueprint and settled for the above but quickly noticed that it had some problems, so i spent about 15 hours fixing everything. It should be good now but post below if there is a major problem somewhere, mostly because i want to fix it in my own factory.\n\n## Changes\n- All concrete and bricks removed, was too annoying to place it all\n- All recipes are correctly rotatable\n- The different orientations of all recipes removed since you can just rotate them\n- Fixed the wiring for the gates at all junctions\n- Fixed rail signals to be symmetrical\n- Removed all text and notes\n- Removed pumps that didn't do anything\n- Filters added to requester stations\n- Fixed wiring for the stations and the depot\n- All stations run on LTN network 1\n- The constant combinators are connected to the LTN input with red wires and the inventory with green wires\n- Added a solar array that is as close to the correct ratio as possible\n- Removed the power sensor circuit since it annoyed me\n- Changed station names from load and drop to the more widely accepted terms provider and requester\n-Removed PAX stations (personal access stations), never used them since i run like a missile anyways\n\nI did not touch the outposts since i do not use them, but i have fixed everything else that i felt needed fixing. I don't really use the PAX stations ~~but kept them anyways~~ so i remove them.\n\n## How to use\nBuild a frame with the vertical and horizontal parts, and plop down whatever stations you want on the sides and whatever you want on the inside. Track 1 is the outer track and track 2 is the inner track. This runs on LHD. Some other city block designs use a safe zone on the outer edges of the blocks but i wanted trains since they are very effective at moving things, even more so when using LTN. The walls raise up when trains a close and it would be safer if i made them raise even earlier but i cba right now. \n\nThe fluid and item stations require you to use different track layouts due to the fact that fluid stations need more room, and each fluid station can only handle one fluid. If you build a frame with only item layouts you will have to remove the other side if you later decide to place a fluid station. Be sure to actually remove all tracks and signals on the side where you want fluids instead so they are placed correctly. You also have to manually set the pumps on the fluid stations to whatever fluid you are handling, they do not have the same options as filter stack inserters so it can not be handled automatically with only an output  from the LTN station.\n  \nThe logistic networks are split for each city block if you use the first level of roboports, and imo it works better that way since the it is meant to be train based and not robot based on a larger scale.\n\nTrain length is 2-4-2 for item trains and 2-3-2 for fluid trains.\n\n## Mods used\n\n- Logistics Train Network (ain't no use doing this without it)\n- Bob's logistics mod (bigger storage tanks and stuff)\n- Electric Train (it is more convenient, but you can use ordinary trains if you build a simple refueling solution in the depot)\n- Lighted electric poles+ (lighted versions of all electric poles)\n- Inventory Sensor (starts making a super annoying alarm if items are detected in the depot)",
   "favorites": {
     "Y3bxY60AnQNwJ3jcTnoepdkD9mv2": true,
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
-    "NccTZW4SjvhKiXQlfmazRXNa84h2": true,
     "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "1SrSC4DlZJPQcrND9JYLIN4mVVE2": true,
+    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "xlYKEBi48SYS6GBIvMa7KIgpjex2": true,
+    "NccTZW4SjvhKiXQlfmazRXNa84h2": true,
+    "lqGRfXl6qNcDbkPlaJ1w0gO35DL2": true,
     "6qoVMNPklEhCG4TYXtCjv4Iy3YB3": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
     "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "lqGRfXl6qNcDbkPlaJ1w0gO35DL2": true
+    "1SrSC4DlZJPQcrND9JYLIN4mVVE2": true,
+    "xlYKEBi48SYS6GBIvMa7KIgpjex2": true
   },
   "fileName": "20220828054535_1.jpg",
   "image": {
@@ -28,7 +28,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20220828054535_1.jpg?alt=media&token=7b1b36d4-6322-40b0-8545-333c76f89c31",
   "lastUpdatedDate": 1662174077273,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 8,
   "tags": [
     "/general/mid game/",
     "/power/solar/",

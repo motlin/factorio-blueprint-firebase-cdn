@@ -7,23 +7,21 @@
   "createdDate": 1749236532314,
   "descriptionMarkdown": "book for basic base",
   "favorites": {
-    "Ee84CzIaJuWfDacqDguizh9qH753": true,
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
     "K8o6xlCL8RMM1DcXfuNDYl1hVTF3": true,
-    "M2oMHBGWWebc3SkXI1Q6mG2cG3v1": true,
     "bvde6NedKPPr4tBfvHVF4TcHOVy2": true,
-    "nchtaBrTEoc0le9TM1Z6FU7v6Lk2": true
+    "nchtaBrTEoc0le9TM1Z6FU7v6Lk2": true,
+    "M2oMHBGWWebc3SkXI1Q6mG2cG3v1": true,
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
+    "Ee84CzIaJuWfDacqDguizh9qH753": true
   },
   "image": {
-    "height": 0,
     "id": "2BBHxDK",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/4N6zIdn.jpeg",
   "lastUpdatedDate": 1750695812530,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/science/"
   ],

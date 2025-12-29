@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Андрій «OstinUA» Андрійкович",
     "userId": "0N1Rcyg4GGdzUKSIMZZDbzhzuiH2"
   },
   "authorId": "0N1Rcyg4GGdzUKSIMZZDbzhzuiH2",
@@ -7,17 +8,15 @@
   "createdDate": 1757417492475,
   "descriptionMarkdown": "Руководство по теме:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3546830823\nYouTube:  www.youtube.com/@FCT-Ostin\nTelegram:  https://t.me/FCTostin\nPatreon:  patreon.com/user?u=105745699\nBoosty:  boosty.to/ostinfct",
   "favorites": {
-    "hubYr9gocdNfnbODvn3gXCWdP6t1": true,
-    "EOqJNZlYmERUpofyJJxJ4n1UVkj2": true
+    "EOqJNZlYmERUpofyJJxJ4n1UVkj2": true,
+    "hubYr9gocdNfnbODvn3gXCWdP6t1": true
   },
   "image": {
-    "height": 0,
     "id": "qsPHwn4",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1757417492475,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/"

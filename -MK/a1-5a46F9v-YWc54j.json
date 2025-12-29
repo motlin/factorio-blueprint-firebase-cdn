@@ -7,13 +7,13 @@
   "createdDate": 1632725631451,
   "descriptionMarkdown": "This blueprint is part of the \"Dense City Blocks\" blueprint book. ([HQ Album](https://photos.app.goo.gl/kkHRgdKJk7AE9yLy5), [Complete Book String](https://pastebin.com/raw/UDCQ6JEU)).\n\nProduces 504 SPM of all craftable types of science packs and sends them to an array of heavily-beaconed research labs. Requests all science packs from the logistics network, including Space Science Packs. Uses as few express belts as possible (save for the input plumbing—you can tweak that as needed).\n\nNote: Batteries can be supplied to the system as the first input, or can be produced on-site by supplying sulfuric acid instead. Similarly, low-density structure can be supplied, or two express belts of copper, a red belt of plastic, and some additional steel can be supplied to build the needed quantity on-site.",
   "favorites": {
+    "67G9TmALSfazXmtaxYMDd9ez8OB3": true,
+    "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,
     "nXz8kWup0DX27Pt38nMMPLa42SC2": true,
     "wI7gVxxVx3edBO26E28Ao4SN97u2": true,
     "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
-    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
-    "dKfLsv9iWzdCAff2FlKJnxkmFPA2": true,
-    "67G9TmALSfazXmtaxYMDd9ez8OB3": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true
   },
   "fileName": "Science-City-Block-II-s.jpg",
   "image": {

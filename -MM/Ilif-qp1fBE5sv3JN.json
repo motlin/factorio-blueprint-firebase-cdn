@@ -8,12 +8,12 @@
   "descriptionMarkdown": "Rocket launch facility for your 2.7k spm megabase with 4 beaconed silos. Launches 2.8 rockets per minute in synchronized batches of four, producing a full blue belt of space science.\n\nSpeakers broadcast alerts whenever rockets are being launched with satellites, as well as when not enough space science is being produced. Also includes an optional 6-digit display counting the total number of rockets launched with satellites.\n\nExpected input:\n- 32.143/s × Rocket control unit\n- 32.143/s × Low density structure\n- 32.143/s × Rocket fuel\n- 0.045/s × Satellite (2.7/m)\n\nThe inserters loading the silos with rocket components are synchronized - they will only input components if there are at least 10 in _each_ buffer chest. Likewise, rockets will only be loaded with satellites if each of the four satellite buffer chests contains a satellite.  If the rockets launch out of sync anyway, one or more silos may contain less components than the others. In that case, all silos need to be emptied manually.",
   "favorites": {
     "B13g775iW3Xr3BUc3kLg2juZFxD3": true,
-    "uL7kL3p7n5gFkYfNav4FlZM7bWz2": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "8ggZYtIagiMXC0KhdeIVZCv8ixH3": true,
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
+    "uL7kL3p7n5gFkYfNav4FlZM7bWz2": true,
     "jdG942UYPRTZmxxPyHpUtgjWFnj1": true,
-    "kEu5Wr71dNNIxZUVsRHPuZZeV8l2": true,
-    "xL8OB7w2o6brkJGDuCEwSwMTzBI3": true
+    "xL8OB7w2o6brkJGDuCEwSwMTzBI3": true,
+    "kEu5Wr71dNNIxZUVsRHPuZZeV8l2": true
   },
   "fileName": "rockecounter2.png",
   "image": {
@@ -24,7 +24,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/rockecounter2.png?alt=media&token=0fa1348f-483d-4e62-ad6e-90e22ccec373",
   "lastUpdatedDate": 1634572623043,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/late game (megabase)/",
     "/production/rocket parts/",

@@ -7,15 +7,15 @@
   "createdDate": 1658679526008,
   "descriptionMarkdown": "This is a self-contained self-sufficient 100 sciences per minute block. Once started it doesn't need anything from the outside (except water) to output 100 spm.\n\nYou can tile them in any direction, they include a radar and laser artillery.\n\nNeeds 8 offshore pumps. The blueprint already contains <a href=\"https://mods.factorio.com/mod/Noxys_Waterfill\" target=\"_blank\">Noxy's Waterfill</a> so you can paste it in one left click.\n\nFeed it some power or put a couple of charged antimatter fuel cells and that's it. Takes some time to reach a stable 100 spm.\n\n<a href=\"https://imgur.com/VS4F5Co\" target=\"_blank\">Screenshot</a>\n",
   "favorites": {
-    "rLWA8SlJctSeo1QqxzOvyGqelfo2": true,
-    "Q6OecEH6j1PTvo1OSidt5N6QkAB3": true,
-    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
-    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
-    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
     "vjBOHYf5rNZ9pWCsI2nxcYRYoNI2": true,
-    "jW6CLzxEoKSUmTw0VZJCfTUtIM93": true,
+    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
     "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,
-    "0N8QVjzuanMaW4AjqMbH8qxTNnA3": true
+    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
+    "0N8QVjzuanMaW4AjqMbH8qxTNnA3": true,
+    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
+    "jW6CLzxEoKSUmTw0VZJCfTUtIM93": true,
+    "rLWA8SlJctSeo1QqxzOvyGqelfo2": true,
+    "Q6OecEH6j1PTvo1OSidt5N6QkAB3": true
   },
   "fileName": "k2100spm.png",
   "image": {
@@ -26,7 +26,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/k2100spm.png?alt=media&token=076a5a04-f846-40af-9547-54a841f4bcec",
   "lastUpdatedDate": 1679014688110,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 8,
   "tags": [
     "/mods/krastorio/",
     "/production/science/"

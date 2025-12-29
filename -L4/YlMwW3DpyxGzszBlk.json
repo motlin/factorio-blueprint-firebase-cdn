@@ -1,41 +1,5 @@
 {
-  "author": {
-    "userId": "S3xeVDkCTTe67t8ow1xdJTSk2C82"
-  },
-  "authorId": "S3xeVDkCTTe67t8ow1xdJTSk2C82",
-  "blueprintString": "0eNrdmN1umzAUx18l8jWZgISQRuuk7nqTpvZympABN7FqbGSbdFHFA+wt9mx7kh1DQiiFBtKmjXoT4a/j49/fPue0DyhkGUkl5RotHhCNBFdo8fMBKbrkmJk+vUkJWiCqSYIsxHFiWjiKsiRjWAuJcgtRHpPfaOHk1sGVqbgncqzuqY5WtaVu/stChGuqKSk9KBqbgGdJSCTYbrdgQVPBIsHNjmBo7H7yLLQpP8A+nEhLwYKQrPCagrswLaIyyqgOYCyu1t5SqXTwxPs1lTqDnmr7csb4BpXGlcaGnW0aSYplgWSBvqC8HOckMjsoY9IxP0tJCK+fkMZwuolVeWXagCPPDc0GBbdyI6TLMWFgXNJonApGWlDYdRQt1iY9mTpngfTyNEinrZf6KczJDoLdDtOr7MQkojHgBO9DyjvMVUzh0aCYyvJMhcJtfLc293zVKe6shUSm02yASUni0mi6Ad8yroNbKZKAcrCCFreYKfJi1Szkds6f15Qo1tsdMs+GybN7OvbbqXP1WB3fa8jz+Qh5bl5VnIu9GEb3A9I5HUr4g5Swz++dXB4hRMnzPV+K43XoMd9nASmWEicJDhkZq5TgO9KiiFM9jFMlgiqodCnw78/fYsJ2LzOQEE1kgaw0EqwxVDYBVUFaJLWSsKk3lJZZAgwKKmCZC03K70H8vZb0AqweuZIyvAlxdBesBcvMCYFd1bdkIsSMAUtwCDyDb3EfQCrfpCvBN7s7YQaIfHLIFcwtBnbLix7BgwSnuy5Tzm2pFz72K+bK7RKiFF6a4W8iwobHiKoR/H4F37N09MNUDKjtPl30S6huPZ+236Whj+xqWIUwa8arRiqZ9otnjr33IwERxwwnaUtKmRbHdc7g3WSKwD5MmKtkbsqLrn0DWiclpx8l90NQ6ixDHLeB4VANP9nyaLM1Oa6mcd84kypibPRfdF3K88LK9OjSp6W0mR249NOBqbixftJoe88HJr9nXJoedz2cdyt5L17jL5LrMyx5Ha9X8HNOHvtqZegJo59/4Ln4XZhmw4Kj+0xs9HsRn3wQ4tvi/pdVlnaL2r/1LMRwSMBVVK/cRt9FnBVM11BRFkebzX3X9uf+1Jvl+X8fSPNp",
   "createdDate": 1517797342996,
-  "descriptionMarkdown": "This module allows you to setup power generation on site that only activates when there's a power outage.  \nUnlike most modules which enable power generation and dump back into the grid, this isolates each site to only power local things allowing each location to be self sufficient.   \nThis prevents your backup system from overwhelmed. \n\nInstructions: \n\n1) Place Blueprint  \n2) Remove copper wiring between the small electric poles and the large electric pole  \n3) Connect the large electric pole to both switches  \n4) Connect main power to switch that the combinators are pointing towards  \n5) Connect backup power to the other switch  \n\nClick on the picture for a larger example",
-  "favorites": {
-    "ovJD6hAXo9hSba4l3bmn9goxzkK2": true,
-    "DWYJ8ez4P4fhX9M26Waw9zYOjnk1": true,
-    "EPzGx8kjd0UdGSssHH2rvbbmaMj1": true,
-    "TGpjDHtZXGMmyEsh2iqm9MocjOg2": true,
-    "a4yUn9TrwpeNaNLrWpVbMmMLpOi2": true,
-    "XM7y0B8i81dIrOKaj80YN5xMuYp2": true,
-    "KH2C640AqARUnex8o285ctvJxUm1": true,
-    "Z0wznCV262f4l76PteXbBfZGvIN2": true,
-    "H21LF3r3zcc1CZEgx6MZvmCfF9u2": true,
-    "NaQ5mNWcfjeKHdXH8QEaqBnnvDu2": true,
-    "ZDpk7kq5Y4RULwL1BSiv8whzPs22": true,
-    "CYCFZUse5fcF3jOyE364GK83GMl2": true,
-    "YiHwlHoJl6gMAoN7qjhtwkcLXAH3": true,
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "oGS6uVXLqyWW0PvfOIMM0U956le2": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "V6wx2tXh8SaGDWYGSfLSfEoxIKQ2": true,
-    "wJTgxTSUSTW8pxP8gHJORPznqE52": true,
-    "aYVPVaripRf5Nk28I4OFJ3JZ5Va2": true,
-    "3KQFqJAwSWhbnDc9Ssa2Uw7XqiP2": true,
-    "esfltOaBosc6y52j0lE06bYSfaz1": true,
-    "eKK1viX462T5hPUWPQRojhl7aJA2": true,
-    "TPonfvHLqiTzDbdJg0Sv7KZglAA3": true,
-    "BnUNWA0CXSPCcCY4vVmVfNOyDmk2": true,
-    "H7qmT6ebR5NfOrAk4EtA5QLr3nw1": true,
-    "YmGGLQqt1NRzkQ8lZ2YjF0rpJ0u2": true,
-    "ix52CIsBg8ejKGfVds9TyN1Zc4t1": true
-  },
-  "fileName": "Backup Power.png",
   "image": {
     "height": 848,
     "id": "Dt0uTCV",
@@ -43,11 +7,26 @@
     "width": 938
   },
   "lastUpdatedDate": 1517801215919,
+  "favorites": {
+    "wJTgxTSUSTW8pxP8gHJORPznqE52": true,
+    "CYCFZUse5fcF3jOyE364GK83GMl2": true,
+    "ix52CIsBg8ejKGfVds9TyN1Zc4t1": true,
+    "NaQ5mNWcfjeKHdXH8QEaqBnnvDu2": true,
+    "V6wx2tXh8SaGDWYGSfLSfEoxIKQ2": true,
+    "XM7y0B8i81dIrOKaj80YN5xMuYp2": true
+  },
+  "author": {
+    "userId": "S3xeVDkCTTe67t8ow1xdJTSk2C82"
+  },
+  "blueprintString": "0eNrdmN1umzAUx18l8jWZgISQRuuk7nqTpvZympABN7FqbGSbdFHFA+wt9mx7kh1DQiiFBtKmjXoT4a/j49/fPue0DyhkGUkl5RotHhCNBFdo8fMBKbrkmJk+vUkJWiCqSYIsxHFiWjiKsiRjWAuJcgtRHpPfaOHk1sGVqbgncqzuqY5WtaVu/stChGuqKSk9KBqbgGdJSCTYbrdgQVPBIsHNjmBo7H7yLLQpP8A+nEhLwYKQrPCagrswLaIyyqgOYCyu1t5SqXTwxPs1lTqDnmr7csb4BpXGlcaGnW0aSYplgWSBvqC8HOckMjsoY9IxP0tJCK+fkMZwuolVeWXagCPPDc0GBbdyI6TLMWFgXNJonApGWlDYdRQt1iY9mTpngfTyNEinrZf6KczJDoLdDtOr7MQkojHgBO9DyjvMVUzh0aCYyvJMhcJtfLc293zVKe6shUSm02yASUni0mi6Ad8yroNbKZKAcrCCFreYKfJi1Szkds6f15Qo1tsdMs+GybN7OvbbqXP1WB3fa8jz+Qh5bl5VnIu9GEb3A9I5HUr4g5Swz++dXB4hRMnzPV+K43XoMd9nASmWEicJDhkZq5TgO9KiiFM9jFMlgiqodCnw78/fYsJ2LzOQEE1kgaw0EqwxVDYBVUFaJLWSsKk3lJZZAgwKKmCZC03K70H8vZb0AqweuZIyvAlxdBesBcvMCYFd1bdkIsSMAUtwCDyDb3EfQCrfpCvBN7s7YQaIfHLIFcwtBnbLix7BgwSnuy5Tzm2pFz72K+bK7RKiFF6a4W8iwobHiKoR/H4F37N09MNUDKjtPl30S6huPZ+236Whj+xqWIUwa8arRiqZ9otnjr33IwERxwwnaUtKmRbHdc7g3WSKwD5MmKtkbsqLrn0DWiclpx8l90NQ6ixDHLeB4VANP9nyaLM1Oa6mcd84kypibPRfdF3K88LK9OjSp6W0mR249NOBqbixftJoe88HJr9nXJoedz2cdyt5L17jL5LrMyx5Ha9X8HNOHvtqZegJo59/4Ln4XZhmw4Kj+0xs9HsRn3wQ4tvi/pdVlnaL2r/1LMRwSMBVVK/cRt9FnBVM11BRFkebzX3X9uf+1Jvl+X8fSPNp",
+  "descriptionMarkdown": "This module allows you to setup power generation on site that only activates when there's a power outage.  \nUnlike most modules which enable power generation and dump back into the grid, this isolates each site to only power local things allowing each location to be self sufficient.   \nThis prevents your backup system from overwhelmed. \n\nInstructions: \n\n1) Place Blueprint  \n2) Remove copper wiring between the small electric poles and the large electric pole  \n3) Connect the large electric pole to both switches  \n4) Connect main power to switch that the combinators are pointing towards  \n5) Connect backup power to the other switch  \n\nClick on the picture for a larger example",
+  "fileName": "Backup Power.png",
   "numberOfFavorites": 27,
   "tags": [
     "/power/accumulator/",
     "/mods/vanilla/",
     "/version/0,16/"
   ],
-  "title": "Backup Power Module"
+  "title": "Backup Power Module",
+  "authorId": "S3xeVDkCTTe67t8ow1xdJTSk2C82"
 }

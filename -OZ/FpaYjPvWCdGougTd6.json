@@ -1,27 +1,26 @@
 {
   "author": {
+    "displayName": "Jose Maria Bastida",
     "userId": "lAtz5zE9taMJW8EzZkzjuaoYds53"
   },
   "authorId": "lAtz5zE9taMJW8EzZkzjuaoYds53",
   "blueprintString": "0eNqVl01uwkAMha+CvB7Q/HgSkjv0BFVVBRhVkcIEJaEtQrl7A0jtoli2l0T40/Pk2S9zhV13TqehzRPUV2j3fR6hfr3C2H7kprs9y80xQQ3j1Oe0/mq6DmYDbT6kb6jd/GYg5amd2vSou/+4vOfzcZeG5Q/mSb2BUz8uJX2+8ReMLzfRwAXqdfCbOM/mH8fLONtfTnjOCTJOxelBrR6CE0Wc4DhOIeN47nxKLYfQs5VxAsepZJzIcZyVgVgjOpmjQ8GdtPNaEKVI5unAetrJTI2WbU3mamRd7QqtIgok8zWyfnQyYyNvSJmzEbnD9lYLolaszNnI72qZs5E1pJc5G9mt71ELohRF7d53BKjQBpElQMKNbVlFW20UUYoqrSICFKw2jIjWgtOmEaVIuLORVRS0uUYpQq0iChS1cUS1VmiTllJUanONAgmdzQ5tqLQgQhFabUBSIKcNSKI1FO5sdtYwaJOWag21iihQ1AYk1VqhzX5KUalNWgok/BphhxYrLYhQFK02aQlF0SlT5BaVT0HanU2CgnL6SZDW2SQoKt/aA7Rc2dspHZeqv7u/ga7ZpeW+Dy/noR9Xh7Qa0pTy/oYx8JmG8Q6Mha+wqmIZYsDSz/MPkwgnLg==",
   "createdDate": 1756924111228,
   "descriptionMarkdown": "Retaining walls",
-  "favorites": {
-    "tzRiPxyHlYWuEXe42a8fglrZnuw2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
-    "GOTITqI19Hb4sL2Y8Q3ebVOsf7x1": true
-  },
   "image": {
-    "height": 0,
     "id": "1e8vWLI",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1756924232254,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],
-  "title": "Retaining walls"
+  "title": "Retaining walls",
+  "favorites": {
+    "tzRiPxyHlYWuEXe42a8fglrZnuw2": true,
+    "GOTITqI19Hb4sL2Y8Q3ebVOsf7x1": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+  }
 }

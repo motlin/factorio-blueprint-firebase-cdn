@@ -7,20 +7,20 @@
   "createdDate": 1611920119866,
   "descriptionMarkdown": "Moving all of my old mega base over to the new 1.1 was causing problems so I started over. Yay, a new reason to keep the factory growing! \n\nI've also cross posted this on the Factorio Reddit page:\nhttps://www.reddit.com/r/factorio/comments/l7qfnk/factorio_mega_base_beaconed_smelter_11/\n\nHosting the blueprint string on this page for ease of access. ",
   "favorites": {
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
     "bLpQK4aEDtTLwi7cqxxJpa5xD1T2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
-    "iSnc34s2rpOJ5x9N0FTHfMbBvGe2": true
+    "iSnc34s2rpOJ5x9N0FTHfMbBvGe2": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "Untitled-6.jpg",
   "image": {
-    "height": 1440,
     "id": "pSN3aOT",
     "type": "image/jpeg",
-    "width": 3250
+    "width": 3250,
+    "height": 1440
   },
   "lastUpdatedDate": 1611920442314,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/beaconized/",
     "/version/1,0/",

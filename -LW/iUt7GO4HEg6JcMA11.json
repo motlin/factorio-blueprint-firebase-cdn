@@ -7,17 +7,17 @@
   "createdDate": 1577033110224,
   "descriptionMarkdown": "3 chunk tall, many chunks wide, 180/s (4 blue belts) advanced circuit build.<br> Train based (LTN) input/output. <BR>Still needs some work but it's a cool start.",
   "favorites": {
-    "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
-    "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
     "Kc5le0UiDiUh2LxFgjxR6rEDyh83": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
+    "JmZDbQTTorT5wVCvtJW24dyIZrD3": true
   },
   "fileName": "BigRedCircuits.PNG",
   "image": {
+    "width": 1744,
     "height": 316,
     "id": "W8DedbR",
-    "type": "image/png",
-    "width": 1744
+    "type": "image/png"
   },
   "lastUpdatedDate": 1577033110224,
   "numberOfFavorites": 4,

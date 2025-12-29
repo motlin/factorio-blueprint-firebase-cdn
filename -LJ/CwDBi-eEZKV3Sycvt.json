@@ -7,10 +7,10 @@
   "createdDate": 1562528244957,
   "descriptionMarkdown": "1.12 GW continuous.\n\n1.48 GW Surge capacity, up to 200 seconds graceful degradation\n\nFully tiled for convenient placement in lakes\n\nAutofuel circuit is small and compact.  \n\nThere  are 2 user changeable settings.  \n   1. Steam <= SETPOINT - circuit on left upper side of control section   Controls the point when the reactors kick back on.  1000 by default.  25000 max.  A setting of 25000 will turn the reactor into an always run reactor.  Setting this too high will cause the reactor to waste fuel.  Setting it too low may cause brownouts.  Recommend leaving it at 1000.\n\n   2.  RED SIGNAL >= SETPOINT - upper right circuit in control section.  Timing delay.  A setting of 6000 equates to 200 seconds on a 60 FPS server.  It is dependant on the server FPS not the client FPS.  I have found that 6000 works on most servers, but if the reactor is fueling too early, change it to 12000.  Those are the only two settings I have ever needed, but if you have problem its 200 * FPS = SETPOINT",
   "favorites": {
-    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
-    "NugzVv6fNnaYycgV0yhMIj1zUAx2": true,
+    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
     "xkaxsPz0h5VAo6ka57I2nnkzN693": true,
-    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true
+    "JCDu19n05zTsCABLNroLXCi7gtv2": true,
+    "NugzVv6fNnaYycgV0yhMIj1zUAx2": true
   },
   "fileName": "Autofueling Zero Waste Reactor.png",
   "image": {

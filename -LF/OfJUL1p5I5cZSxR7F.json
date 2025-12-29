@@ -7,24 +7,15 @@
   "createdDate": 1529439144248,
   "descriptionMarkdown": "# Introduction\nGreen circuits require 3 copper wires which is 1.5 copper plate. It usually means that 3 assemblers has to be setuped for copper wire production for 2 green circuit assemblers to achieve proper ratio. This setup is pretty common. It would be really nice if the 3:2 ratio could be break earlier than end game...\n\n# Modules at the rescue\nThis book provides 3 alternative designs that make use of MK1 speed and production modules that are cheap to produce. The point is to get rid of the 3:2 ratio. End game green circuits are usually produced with speed/production modules MK3 with a 1:1 assembler 3 setup instead of the common 3:2 assemblers setup. Still, before getting to that step, you have to go thru multiple updates.\nWith the help of modules, the copper ratio requirement is met for green circuit assemblers. As a side bonus, some productivity gains is also present. \n\n# Flavors\nThe book has three variant of the design : yellow, red and blue belts. All those designs are 4 lanes. \n\n- Yellow design produces about 3.2K circuits per minute.\n- Red design produces about 6.4K circuits per minute.\n- Blue design produces about 9.6K circuits per minute. \n\nAll of them requires production modules MK1 and speed modules MK1 for providing maximum throughoutput. \n\nAnother interesting feature of those designs is that the input/output belts are the same for the 3 designs. It makes upgrading a breeze while you're progressing in the game.\n\n# Saving\nProduction modules provide some saving on resources. For yellow and red design, the production saving is 8% for iron and 4% on copper while for blue design, it is 16% for iron and copper. Blue design makes use of assemblers 3 allowing 4 modules while other designs make use of assemblers 2 allowing only 2 modules.\n\n# Yellow without modules\nEarly game is always a bit painfull to bootstrap and allocating resources for modules isn't always a priority. Still, the yellow design without modules produces about 2.8K green circuits per minute.\n\n\n",
   "favorites": {
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "HFi808Rqu8OCvCawNiUcKalQzcw1": true,
-    "ZgARpID1UwO7dwgUFB4dWn74SQO2": true,
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "qeW0Xd7nJxblv1K0hLJEu8y6Udq1": true,
     "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,
-    "1vKFO4FV7DcWicQenktIb6rfSgG3": true,
-    "wG4mRwr7D1fzalAmsSUqzTpN5VN2": true,
-    "qSEQydqRXxYF0w3GshaNOF9lE5g1": true,
-    "MR4ZFfWb86ddYxeKc2zBqwranQj2": true,
     "KJJqsDJgSUTWxLhZfyUFSjeOiHy2": true
   },
   "fileName": "green-modules.png",
   "image": {
-    "height": 789,
-    "id": "FkcFQHX",
     "type": "image/jpeg",
-    "width": 1586
+    "width": 1586,
+    "height": 789,
+    "id": "FkcFQHX"
   },
   "lastUpdatedDate": 1529485691987,
   "numberOfFavorites": 11,

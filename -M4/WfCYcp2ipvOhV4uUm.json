@@ -7,12 +7,12 @@
   "createdDate": 1586481650398,
   "descriptionMarkdown": "An independent antimatter power station setup, running just on water. :) Or actually electricity, if you wish to deploy atmosferic condensers (available in Krastorio) and not use a water mod or if you are far away from a water source.\n\nEach Stone Water Well supplies 800 water/s, enough for 4 purple belts of wood (16 greenhouse columns). Atmospheric condensers could be used (a fully beaconed one can deliver about 83 water/s, close to but short of the need of a row of 30 greenhouses - 100 water/s) but that would add some extra 25 MW per row and one AM reactor won't be enough anymore to power the whole plant.\n\nSteam is generated with an electric boiler, but any regular boiler will do.\n\nPlant requires \"priming\", or a \"manual start up\". Feed wood to the matter plants (to convert into matter) and you can assist with some iron ore, raw rare metals and coal (into the advanced furnaces and the refinery). Due to the way the coal liquefaction process is working, a small amount of heavy oil is required to start the process in the refinery (I use a stack of 10 barrells emptied by the assembler right above the stone well).\n\nThe power network around the reactors has been so defined that it connects the whole plant only to the FIRST reactor. The other 20 are to be separated in order to keep the external demand disconnected from the actual plant production, in order to avoid a full meltdown of your entire base. Please pay attention to the large power poles connections: could be a bug in the game code but when I did paste the blueprint I had to check and trim all the electric connections . As a rule, the power poles next to the reactors are the \"external\" network, delivering energy outside; the power poles further away from the reactors are there just to power the inserters managing the fuel canisters on the belt running around the reactors.",
   "favorites": {
-    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
-    "C0XcnzAm5iM9Ma4oz9HgyPlm0Od2": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
+    "pDED5f33sYbvGUo95pcdFtfaFZB2": true,
     "N7vK5HH19aXdL17sCp3M9y4rWWc2": true,
+    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
     "m8XPFvKQy8hq4H1AL4Pf1BULgye2": true,
-    "pDED5f33sYbvGUo95pcdFtfaFZB2": true
+    "C0XcnzAm5iM9Ma4oz9HgyPlm0Od2": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "K2_AM_PowerPlant.jpg",
   "image": {
@@ -22,7 +22,7 @@
     "width": 1274
   },
   "lastUpdatedDate": 1586481650398,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/krastorio/",
     "/general/late game (megabase)/"

@@ -8,8 +8,8 @@
   "descriptionMarkdown": "- City block (constructed from rail segments in [Chunk aligned rail system](https://factorioprints.com/view/-MXct5FbfMV_kdTw85r6))\n  - Optional roboport coverage\n- Stations \n  - can be used within city block or on 3-chunk straight piece\n  - four different stations, can be used in any combination based on individual space needs\n  - All stations are supposed to be single good stations, holding 3 trains each (one loading/unloading and two waiting). As such, no separate stacker required if 3 trains per station are enough.\n  - Optional Roboport coverage\n  - All stations are with LTN train stations but can be used with vanilla ones as well.\n\nInner city block size 3x3 chunks if used full stations on all sides.\n\nIt is designed to be used with https://mods.factorio.com/mod/WideChests and https://mods.factorio.com/mod/miniloader for the stations.\nThe blueprint for the boxes requires manual merging, otherwise, the blueprint is not rotatable.\n\nBuild from and designed to be used alongside [Chunk aligned rail system](https://factorioprints.com/view/-MXct5FbfMV_kdTw85r6)\n\n",
   "favorites": {
     "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
-    "Vf7IkRSAp1fxYfGgZXlvXkLgZsE3": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "Vf7IkRSAp1fxYfGgZXlvXkLgZsE3": true,
     "kBUxBpl8spO8R39VaNzge12girW2": true
   },
   "fileName": "2021-04-06_22:38:41_Capture.png",

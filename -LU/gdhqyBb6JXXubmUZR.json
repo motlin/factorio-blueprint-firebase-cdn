@@ -7,24 +7,24 @@
   "createdDate": 1574854647478,
   "descriptionMarkdown": "Square Nuclear Power Setup with Steam Buffer for use with Solar Power combined. 480MW nominal 838MW max Output (144*5.82MW).\n\nNuclear Reactors need for initial startup manual insertion of fuel, afterwards, given a steady flow of new fuel and/or no overflow of used fuel, the reactors operate completely automatic.\n",
   "favorites": {
+    "JyRNJw4S6VVxjtpeNyH9NZep3UE3": true,
     "JqlhbL7q6YaxEb65ch4afApwpUl2": true,
     "iob00nSOSwMTweH8A9xYK3CvKSn2": true,
-    "TRQQMQX1ueZFNb5ud5xD1GYkIq83": true,
-    "gGeG5cklsadYtq18zoOf5ANy6r82": true,
-    "JyRNJw4S6VVxjtpeNyH9NZep3UE3": true,
     "RLfp1ZGf16RFT2MSXVzB9eGTtmC3": true,
+    "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "kUJQGpD7hRfZQT3JngSqvyAltnh1": true,
-    "mNHFAiP6izStsOhbaEKjOewCujs2": true
+    "TRQQMQX1ueZFNb5ud5xD1GYkIq83": true,
+    "gGeG5cklsadYtq18zoOf5ANy6r82": true
   },
   "fileName": "FactorioNuclearDesign.PNG",
   "image": {
-    "height": 926,
     "id": "q0HOuNb",
     "type": "image/jpeg",
-    "width": 930
+    "width": 930,
+    "height": 926
   },
   "lastUpdatedDate": 1575289148843,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 7,
   "tags": [
     "/power/nuclear/"
   ],

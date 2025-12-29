@@ -7,13 +7,13 @@
   "createdDate": 1697865201127,
   "descriptionMarkdown": "Generic Mall book for K2SE, is divided into several components which are mostly few by raw resources or common intermediates like Small/Big Electric Motors and Automation Cores. Most things which are commonly used are expected to be mass produced elsewhere.\n\nMost will break without Bobs Inserters but can be fixed by placing long handers manually.\n\nIncludes malls for\n- Bots\n- Space Stuff (Satellites, Delivery Cannons etc)\n- Trains\n- Electricity and Beacons (No Modules)\n- Signals\n- Logistic Storage\n- Fluid Buildings\n- Mining\n- Smelting\n- Assemblers\n- 'Big Buildings' from K2 (Biolab, Crusher etc)\n- Labs\n- Combat (incl Meteor Defense)\n- Inserters\n- Belts\n\nAlso includes buildings from some other mods e.g. reverse building",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "lP4jaXnTiiQGH1g8A29e8dh8Ml53": true,
     "Q6OecEH6j1PTvo1OSidt5N6QkAB3": true,
-    "so9VoKzgW2TMCdeCYdmHzbopRMJ3": true,
-    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
-    "4qCpggCt7OhoLVrsStG3lukWuxE2": true
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "4qCpggCt7OhoLVrsStG3lukWuxE2": true,
+    "lP4jaXnTiiQGH1g8A29e8dh8Ml53": true,
+    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
+    "so9VoKzgW2TMCdeCYdmHzbopRMJ3": true
   },
   "fileName": "MallShot.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 737
   },
   "lastUpdatedDate": 1697865201127,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/mall (make everything)/",
     "/mods/krastorio/",

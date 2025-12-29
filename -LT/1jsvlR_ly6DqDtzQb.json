@@ -7,8 +7,8 @@
   "createdDate": 1573077881020,
   "descriptionMarkdown": "This is a power station that is meant as a backup for a large base.  \n\nThe plant takes 16 blue belts of fuel split into two groups of eight belts.  The group of belts that is marked with the wood constant combinators will be used first. and the second set of 8 belts will be burned second. This is useful to split higher priority fuels from lower priority fuels, only burning the higher priority when the lower priority fuel runs out.\n\nThe plant contains two storage tanks for backup steam per boiler, allowing the plant to keep running even without fuel.  At full load and no fuel, the backup steam will last 833 seconds. The Steam storage holds 1,080 GJ of power, equivalent to 216k accumulators.\n\nThe belts themselves are a short powerstore.  The time the plant can run at full load with full belts are 75, 151 and 453 seconds for wood, coal and solid fuel respectively.  Add this to the 833 second steam reserve for the worst-case-for-base run time at full load.\n\nThe plant does contain 255 lights, which consume 1.3MW of power.  This is for visibility reasons at night, but is not strictly necessary, and can be removed from the blueprint to reduce fuel consumption to zero.",
   "favorites": {
-    "KXQqYmA2r3d5eyAmnkqTo4naPV13": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
+    "KXQqYmA2r3d5eyAmnkqTo4naPV13": true,
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true
   },
   "fileName": "Backup Steam Power Generator.png",

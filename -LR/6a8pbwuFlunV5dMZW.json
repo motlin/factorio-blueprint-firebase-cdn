@@ -1,4 +1,11 @@
 {
+  "fileName": "SW-amazon.png",
+  "tags": [
+    "/train/unloading station/",
+    "/production/logistic (bot) based/",
+    "/mods/vanilla/"
+  ],
+  "title": "Amazon delivery station",
   "author": {
     "userId": "mIcdQkAHfjU1Lj68yt8PozMUOBw1"
   },
@@ -7,25 +14,18 @@
   "createdDate": 1571011731011,
   "descriptionMarkdown": "Deliver **everything** in your outposts with only one train stop!\n\n(this post is a test, may or may not be enhanced in the future)\n\n_by SteelWolf300_",
   "favorites": {
-    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
     "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
-    "PRpeczrrQHfDt2mwZRRmHwecHHN2": true
+    "PRpeczrrQHfDt2mwZRRmHwecHHN2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true
   },
-  "fileName": "SW-amazon.png",
   "image": {
-    "height": 605,
     "id": "v8tc18O",
     "type": "image/jpeg",
-    "width": 1290
+    "width": 1290,
+    "height": 605
   },
   "lastUpdatedDate": 1571012815661,
-  "numberOfFavorites": 5,
-  "tags": [
-    "/train/unloading station/",
-    "/production/logistic (bot) based/",
-    "/mods/vanilla/"
-  ],
-  "title": "Amazon delivery station"
+  "numberOfFavorites": 5
 }

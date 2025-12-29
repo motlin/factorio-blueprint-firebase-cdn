@@ -7,22 +7,20 @@
   "createdDate": 1743647549411,
   "descriptionMarkdown": "Promethium factory. Roughly 100/m<br>\nSmart egg drop with timed spoiled check. <br>\nWill stay at Nauvis not leave unless more science packs are needed and biter eggs are fresh and over 1K on the ship. While sitting at Nauvis it will still dump the eggs before they spoil.<br>\nSeparate speed setting depending on location.<br>\nQuality machines needed for required ammo ratio less quality may be used but will need some tuning.",
   "favorites": {
-    "n9ftwxC2nyPtePFFQZyJGzJy4n72": true,
-    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true,
-    "js0otm8YZyZsKYoPYUDxpPahJj63": true,
     "1vKFO4FV7DcWicQenktIb6rfSgG3": true,
+    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true,
     "GHaDjHfDFgQVbRwiR5VlDsdVwbq1": true,
-    "TYsrumjqZNaTPn10a8KLQeMPwAg1": true
+    "TYsrumjqZNaTPn10a8KLQeMPwAg1": true,
+    "js0otm8YZyZsKYoPYUDxpPahJj63": true,
+    "n9ftwxC2nyPtePFFQZyJGzJy4n72": true
   },
   "image": {
-    "height": 0,
     "id": "Z9cqv6Q",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/Z9cqv6Q.png",
   "lastUpdatedDate": 1743648094929,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 0,
   "tags": [
     "/production/science/",
     "/planets/space-platform/",

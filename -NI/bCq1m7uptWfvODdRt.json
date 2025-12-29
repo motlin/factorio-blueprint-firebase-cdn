@@ -7,8 +7,8 @@
   "createdDate": 1699317506679,
   "descriptionMarkdown": "Rest assured, those supposed empty slot in books do contain content when imported.\n\nThis is the rail book I developed for my Space Exploration run. It has 2 stages of blueprints for both normal and space rails. Included is instructions for using the book and any upgrade/decon planners you may need. Works well as the city block style or as the base rails included in each part, or any combination you can think of.\nRequires 3 mods to function as is, aside from SE:\n - Train Control Signals (Only loosely required. You may choose to use other methods, but this was what it was designed for)\n - Space Exploration Pipes and Belts Balance (Without this, you would need to adjust the added station heights to fit the belts)\n - Any mod that adjusts inserter drop off length (Bob's Adjustable Inserters and K2 both fulfill this need. Only required for the 3/4 belt requester)",
   "favorites": {
-    "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,
     "1La0aoLnXDRB1TCe9WAXffKjip42": true,
+    "8XMZ3od131e6GDoa9Apy1zuNxBZ2": true,
     "yRe0lTpK3JgK0zY39Rb5Ox1HWqB2": true
   },
   "fileName": "SE Rail Block.JPG",
@@ -19,7 +19,7 @@
     "width": 1333
   },
   "lastUpdatedDate": 1699449157761,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/train/right-hand-drive/",
     "/mods/space-exploration/",

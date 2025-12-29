@@ -7,29 +7,27 @@
   "createdDate": 1733789459158,
   "descriptionMarkdown": "Cargo Ship. Mid/endgame. Balanced. Fusion power.\nEdge of solar system. \nSpeed ​​control in the head of the ship through a constant combinator.",
   "favorites": {
-    "7lDJ7EsXFXZELGQIpaQj9ptYMur1": true,
-    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
-    "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
     "C8E5P2eMFLZ0Nno1ijNYrvOXbly1": true,
-    "6rBEfpVKWyTnxJ56kRJ5gNtlgxk2": true,
-    "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true,
-    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
-    "MXLbAObp20UDrE9GHSX3Dp5SQ4m1": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "OcN8Y3x0J3ZZuYxz1RWMRxVOHhQ2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "HfLgAbQCBqhEGqmG3CbmVnNNKuv1": true,
+    "7lDJ7EsXFXZELGQIpaQj9ptYMur1": true,
     "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
-    "e7OqWlkF3qUcgIosPI10FZIBxut2": true
+    "MXLbAObp20UDrE9GHSX3Dp5SQ4m1": true,
+    "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true,
+    "ASFGJ2uO7JXcK8jIAc0CxiqvO622": true,
+    "e7OqWlkF3qUcgIosPI10FZIBxut2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "6rBEfpVKWyTnxJ56kRJ5gNtlgxk2": true,
+    "OcN8Y3x0J3ZZuYxz1RWMRxVOHhQ2": true,
+    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "mAEqJAb",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/25OlL1n",
   "lastUpdatedDate": 1735914070745,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/space-age/",
     "/planets/aquilo/",

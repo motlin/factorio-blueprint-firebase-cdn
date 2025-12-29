@@ -7,23 +7,23 @@
   "createdDate": 1604986559266,
   "descriptionMarkdown": "Smelter setup that uses productivity modules in the smelter and speed modules in beacons.  Contains smelter for each level of modules.\n\nThe smelter setup can be overlapped to reduce the number of required beacons.\n\nVersion 05: Added more Krastorio 2 blueprints, started on some singularity beacon style blueprints\nVersion 04: Started to work on some beaconed blueprints for Krastorio 2\n",
   "favorites": {
-    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
-    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "npcpJ1JpHZTTrxFr8wtKPjphI812": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
+    "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
     "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
+    "npcpJ1JpHZTTrxFr8wtKPjphI812": true,
     "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,
-    "we7GMANN5SYFeddgkztRoERAX3n2": true,
-    "Y8EET1a1r8bMZUCAm0FWcIgquvs2": true
+    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
+    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
+    "we7GMANN5SYFeddgkztRoERAX3n2": true
   },
   "fileName": "jolenes-beaconed-smelters.png",
   "image": {
-    "height": 1280,
     "id": "SZSNTtd",
     "type": "image/jpeg",
-    "width": 2355
+    "width": 2355,
+    "height": 1280
   },
   "lastUpdatedDate": 1606528638247,
   "numberOfFavorites": 10,

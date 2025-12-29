@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "LiefSnuitje",
     "userId": "nAU1mUAfr3WLEw5KBGnDvYo3VJ23"
   },
   "authorId": "nAU1mUAfr3WLEw5KBGnDvYo3VJ23",
@@ -7,18 +8,16 @@
   "createdDate": 1759652290786,
   "descriptionMarkdown": "The quality up-cycle buildings craft when there are enough resources to guarantee productivity bonus\nAlso includes my factory to recycle scrap although it can be improved might help others.",
   "favorites": {
-    "zVVk7GVeblcAwWqO9OFmYlDiuh32": true,
     "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
-    "dNUvbKyC3AQymaBHmydMgOZ4QEP2": true
+    "dNUvbKyC3AQymaBHmydMgOZ4QEP2": true,
+    "zVVk7GVeblcAwWqO9OFmYlDiuh32": true
   },
   "image": {
-    "height": 0,
     "id": "G3F4Cvp",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1759689416952,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/quality/",

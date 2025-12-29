@@ -1,4 +1,19 @@
 {
+  "lastUpdatedDate": 1607405288510,
+  "numberOfFavorites": 7,
+  "title": "Early Game Wood Generator Setup for Bob's",
+  "fileName": "woodgenerator-bobs.PNG",
+  "image": {
+    "height": 555,
+    "id": "vlrV9jC",
+    "type": "image/png",
+    "width": 395
+  },
+  "tags": [
+    "/mods/bobs/",
+    "/general/early game/",
+    "/version/1,0/"
+  ],
   "author": {
     "userId": "gvzycsamCwP6sWsx0Gazslem71y2"
   },
@@ -7,27 +22,12 @@
   "createdDate": 1565094315124,
   "descriptionMarkdown": "Early Game Wood Generator Setup for Bob's",
   "favorites": {
-    "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true,
     "v7YEnQSxeYS0S7azulrYxKWsxZ32": true,
+    "HpEXxAqIyIOpLX2DqgvxTSNacZw2": true,
     "HHGyYHxGOXM9qHEPfJSSnpGToeN2": true,
     "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
     "wfCK7XFLhweOTHADjLKy2DCLDJs1": true,
-    "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
-    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true
-  },
-  "fileName": "woodgenerator-bobs.PNG",
-  "image": {
-    "height": 555,
-    "id": "vlrV9jC",
-    "type": "image/png",
-    "width": 395
-  },
-  "lastUpdatedDate": 1607405288510,
-  "numberOfFavorites": 7,
-  "tags": [
-    "/mods/bobs/",
-    "/general/early game/",
-    "/version/1,0/"
-  ],
-  "title": "Early Game Wood Generator Setup for Bob's"
+    "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true
+  }
 }

@@ -6,21 +6,19 @@
   "blueprintString": "0eNrdV9tu2zAM/ZVAz3IXy7k5wF73uB8oCkO2mUSoLHmynDYr/O+j7DROU8W5FBiwAXmwSOmQ4uVQeSOprKE0Qtkk1fqZLN96SUWWj0dLpxOZVp24EmvFpZMpXgBZEgPZLpNgSEOJUDm8kmXYUM9GW5tUB9ZwVZXa2CAFaY8OseaJElBWWAGdqXaxS1RdpAi/DOk7EryWBqrqFIuSUld4XCtnFSGD2YQ9TCnZ4ScLx/HDtHGeneCyr+Iu/LjRATet5XMgVAXGosIHF564SUkuMLDdppB50Cf0UwI8wFHcw34ExfOYU2u0TFLY8K3Qxp0ywPPEKaCtA2tqcBnKZJ1DIlSSGb6yQq3JcsVlhbr2wIs2z62w279fJn0J2F3pXN0KY2uUHHzvdgRrA6BI44vitN9rAWSQbaDypiSaXU717I5UR5OTVH8I48JjZf5VK/E1VhYHK9wIuynAiizIdJEKxa32V8Ps/EXO1EOP7aoib/Eqp1gJU9nrMww827hmr8DBOKzKcsct4ZgSXYLhnRvkGx7VtS3rm8G95RMflQ/Phrswmg53oT9CmTBZLdBbsMlKSMTe9w0eryv4KMO7bcEYgc3U+oN3/A0uv8h9L2jLEd/jlDK6oOyJPi7ohMb4hVphoXBUcmBlSiTHanIyWAulsOFGejWyGxit3Y0pQUtV6/p0xuJJHE/nYzadx6zn3LGL2M1ET8kvzAJGGYUS1qBybnZ/kf69SJ58skWfz3B8ifwvkjSbn8BdJunoWvJi7BO2P8YDc+BygbNw+Aa3F7jPyVvKfojvr07zeOhWi8ExcE8pnRsuPe1XBZcykLwoL9XRnmaGwg6KpxLy90C+iw9sfAcZ78dta/edht2iKLlpZ8eSfCd7+sq01IeED46hoXcIO8rQP/AOOVfYjoQ7chL5EbXtNweFzmsJQTTAkB0Anld4iy1eTqOiBexXGJK2S/b87NWEZzXsrCZqnhr8DQ3Je3ruuueKm/O3vlcYO2/jv3ivHE/9CKc+gruxP+k+J/g5378Fhl8AWGDXD/2w8YAF7b/AHvGntiM+Snk+KiVXo5U2ox+1XGvDXRvc+G8Q7XFM29Z1bica8LP5Ay3n5L4=",
   "createdDate": 1751833644812,
   "descriptionMarkdown": "Allows you to load items from the processor in stacks \nonto the conveyor",
-  "favorites": {
-    "FZBtFEpS13N87hKr26AjNJlgda92": true
-  },
   "image": {
-    "height": 0,
     "id": "PDc9YlQ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1751998579151,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/planets/fulgora/",
     "/mods/vanilla/",
     "/version/0,15/"
   ],
-  "title": "Not a bad plan for Fulgora"
+  "title": "Not a bad plan for Fulgora",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
+  }
 }

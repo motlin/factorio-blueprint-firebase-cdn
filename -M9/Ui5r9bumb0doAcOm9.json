@@ -7,12 +7,12 @@
   "createdDate": 1591817564277,
   "descriptionMarkdown": "A 66 Core Nuclear plant developed in the Pantecnoteia 17.79, 11GW atv capaciti, Alosso need 2 fishis.",
   "favorites": {
-    "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,
-    "GNbsWDnsFZXKep3FNDDr43QdULx2": true,
     "mgzaB559GKQRL7QtiME6MluIubD2": true,
-    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
     "0lqDvOWstyfCzc5SpBYkhwyqDs02": true,
-    "WBbQpHbV3IRsQc3tTnFd6PZ7YPc2": true
+    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
+    "WBbQpHbV3IRsQc3tTnFd6PZ7YPc2": true,
+    "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,
+    "GNbsWDnsFZXKep3FNDDr43QdULx2": true
   },
   "fileName": "pirohex.png",
   "image": {
@@ -22,7 +22,7 @@
     "width": 1366
   },
   "lastUpdatedDate": 1592064471666,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/power/nuclear/"
   ],

@@ -1,20 +1,14 @@
 {
   "author": {
+    "displayName": "LCStark",
     "userId": "6gwKLv5DH3cIeuDTWVUoctPEFhc2"
   },
   "blueprintString": "0eNrdmd2OqzYQgF9l5WuyBYMDRDqVqkq96kVVtVerCBFwEmsJcIzZdLXKA/RB+mJ9ko75CWzihCFHVaXuzU68ns+esT0/2Q+yyWpeSpErsvogKa8SKUolipysyE9ZLdKnOs+KOBX57qlSsf7LM7GISIq8IquXD1KJXR5nWjmPDxy0ZCwycoIpecr/ICvnZBkmbTV6cYx3sNAwlxrnKiDmi0oV5Wiq+3mqei/11DchVQ0jVq+bFsd8EUtZHEe63mltEZ4roQRvjWg+vEd5fdhwCXs+679KWJjzbFHWhxKwZVGJ1jsfRJOC5TOzyDtZLWFDBJyiZJFFG76P30Qh9axEyKQWKuJ5vMl4SlZK1tw6D4NKeiZuhaxUdOWAMpYgKC4Xtrai4lopmja+ndEqJcVBY5TeFPn7z7/I6aQ9eGE4xRrObP9/ZbiLPvHQbs1mzwzoqZA8af/sUAPXwzvUu8H1DFg2xu7rHdfPQ8bwW8X56917CoLJAcvZDvBRDvBnc5cobjDXA6E74YFwJpHZ9gTRsWefvo85fceZzV2iuHS2C/wpFwwPS8ZpLE1Xk/aM8AZjeESxFGoPEUEkC3jXG5E379rAbIm+c32XzMFqAA+Bqfr3ItOPWqkouYy7VLuAKUWtynp6rfGOopyrYyFfm61KHWS3cVZBlN1JzvM25F5u71qnDcydSgM4GYOkwwz3ToChhtfmPI+OwMSaEXD6l+vbRtKMEEPvkwK8fe6UfSGeRSdY1MZb6N21kDr4XbGpXVE8y5tizci/4X0LPfyuwqldzbjvwRRriY/Zzn0LfTzJvk9C3/fRnm7ZF+JZ9gTLtfGsqbfjDjd+1EcYMobbYlxcvmhYkWaVfEbc/61NFipq9KsoEweh+gA8HsMjf9ZIyeO0ZyZFnV8ym7FZ6UnvU/XZ6UUofvgyykPrp7Y3/P3cG1Jicv4QIqp60/Nup2vXeIJDbEh5IlJY/37u91sYxeb+jnqR+MefXrB1gO6KoVRSuvbTP7rRbNP6jWb5Sr987w5rK4tDJHJQ7XPy2ty5eI+5x/1P3DPqxb4nt72DufOP+IrNriS7rgR/m9CV5ISNPE72o9JyuFn0c+X4nalynG6Mzf6ZUZSdE4KOmM3XOdFWZEpjLo79ehn/gdrvgWUC/DLsG5YJcUEu9O8EOW9GiRc8vlfPeaB2eGCZGd8j0W9YZtxcimzR3X/DIsMtwvTBnoc6UWaH9050iDWVzsK7vVo0X43erj0wW1viqQxP9fFUH08N8NQQTw3R1NBBU5mNp+JPizl4Kv60GMVT8afFXDwVf1rMw1KhxcBTGZ5667Sg9jjCZ115vDiWYzHLWVsgUQuqBA9ECoOQ5J1GpBYEBQoiTLOCZpDBYNCMBa1SL4aNFA7qMKBFPeq4etizXC17IEN/4rQyMNxmYbfZhNfKFDYGGYZp2R3W0VP1nEZmWm5X1b/6rWo1LbM12HoOpW2p1RUIIh1qg6ai1//aSQ2Rt5vfHYDVCyvS1rkD5Vf+teYQ8dOnHw5NI3JXm400f5FQQcEpN2WhbjhgbPjnlEWyeMMz3Yx0VU0X7r90NU0mvsL+159aEou8gcHNgbMlDeHissBxw9D2Tqd/AF5L4Gg=",
   "createdDate": 1765094900894,
   "descriptionMarkdown": "Fluid unloading station.",
-  "favorites": {
-    "NlzOh2vaczd3rxF12ehvbEU1MiJ3": true,
-    "EgGhT5B9RFR7xsKOa6zSh0buJHn2": true,
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
-  },
   "image": {
-    "height": 0,
     "id": "9mK94MZ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1765094900894,
   "numberOfFavorites": 3,
@@ -22,5 +16,10 @@
     "/version/2,0/",
     "/mods/krastorio/"
   ],
-  "title": "[virtual-signal=signal-liquid] Unloading 2"
+  "title": "[virtual-signal=signal-liquid] Unloading 2",
+  "favorites": {
+    "NlzOh2vaczd3rxF12ehvbEU1MiJ3": true,
+    "EgGhT5B9RFR7xsKOa6zSh0buJHn2": true,
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+  }
 }

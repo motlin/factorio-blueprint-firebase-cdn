@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "しーωー",
     "userId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3"
   },
   "authorId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3",
@@ -7,17 +8,15 @@
   "createdDate": 1754607938405,
   "descriptionMarkdown": "東亜重工フォント風。\n無いものは無いです。",
   "favorites": {
-    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true
   },
   "image": {
-    "height": 0,
     "id": "CYhcfj3",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1758216485074,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

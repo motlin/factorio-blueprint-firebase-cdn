@@ -8,11 +8,11 @@
   "descriptionMarkdown": "I downloaded this nuclear power plant which consists of 28 reactors symmetrically aligned. And then because I thought it was great, I did some small changes to improve it, as follows:\n***\n1-I added pipes in all four sides, in a way that you don't have to waste your valuable time plugging it on water. all 40 pipes now can be plugged on the same side.\n\n2-Added water pumps in all 40 entries (10 per side) to allow me to enable them as I need\n\n3-There's one constant combinator that outputs one info signal. There's 6 levels, so you need to output any number from 1 to 6 on this signal, to generate the ammount of power as follows:\n***\nLevel 1 - 0.9 GW - 8 Active Reactors /12 Active water pumps (11.36 water pumps ideally)\n\nLevel 2 - 1.4 GW - 12 Active Reactors /16 Active water pumps (17.04 water pumps ideally)\n\nLevel 3 - 1.9 GW - 16 Active Reactors /24 Active water pumps (22.72 water pumps ideally)\n\nLevel 4 - 2.7 GW - 20 Active Reactors /28 Active water pumps (28.4 water pumps ideally)\n\nLevel 5 - 3.1 GW - 24 Active Reactors /32 Active water pumps (34,08 water pumps ideally)\n\nLevel 6 - 3.9 GW - 28 Active Reactors /40 Active water pumps (40.0 water pumps ideally)\n***\nKeep in mind that each level you increase will active things symmetrically, which enhances heat on the heat exchangers, because you don't have big dead ends and also will help one reactor to benefict from adjacent ones.\n",
   "favorites": {
     "nYTigzLf2ac9FF5Ny2fIHGnVMj12": true,
-    "YzFQmPNo7yQfhxFD773Hmg2E1gn2": true,
-    "O3cQgEJ0A9Zc8qBzvwSTjz9xcw33": true,
-    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
-    "oJRsSdsgUAeKc5S0pbjdOLVQc9x1": true,
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
+    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
+    "YzFQmPNo7yQfhxFD773Hmg2E1gn2": true,
+    "oJRsSdsgUAeKc5S0pbjdOLVQc9x1": true,
+    "O3cQgEJ0A9Zc8qBzvwSTjz9xcw33": true,
     "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
   },
   "fileName": "002.png",

@@ -7,19 +7,19 @@
   "createdDate": 1639123764747,
   "descriptionMarkdown": "### Circuited modular mall by maxf1re\n\n#### Copyrights:\n\tThis mall is inspired by Rahbek's modular mall and it's modifications.\n\t\n#### Features:\n###### - Specify exact amount for every item to store.\n - Each block containt a few containt combinators on top (as it placed in book) of it. Change value to a desired amount.\n**ALWAYS KEEP IT IN NEGATIVE!**\n\n###### - Shows status of stored items.\n- RED indicates that chest contains 0 items.\n- YELLOW indicates that amount is lower than desired.\n- GREEN indicates that there are the exact amount as desired.\n- CYAN indicates that amount is higher than desired.\n\n###### - Compact (There are always room for improvements)\n- Fully covered by 2 roboports (Check Example blueprint).\n\n###### - Cheap\n- You could implement this mall as soon as you research \"Electric energy distribution 1\", \"Circuit Network\" and \"Logistics 2\".\n\n###### - Logistic system ready.\n- Designed with buffer chests. Just reapply blueprints after \"Logistic system\" researched\n\n#### How to use:\nPlace \"[0] interface start\".\n\nThen (optional) \"[0.1] interface intermediate\" if you need moar gears.\n\nFinally, place \"[0.5] interface last\" which completes interface.\n\nAfter that you could place everything in any order.\n\n#### Content\n* Blueprints\n  * Interface\n    *\t[0] Interface Start\n    *\t[0.1] Additional Gears\n    *\t[0.5] Interface Finish\n  * Mall's modules\n    *\t[1] Belts\n    *\t[2] Inserters\n    *\t[3] Automation\n    *\t[4] Power Distribution\n    *\t[5] Circuit Network\n    *\t[6] Chests\n    *\t[7] Solar Power\n    *\t[8] Railway\n    *\t[9] Oil Processing\n    *\t[10] Bots\n    *\t[11] Cliff Explosives\n    *\t[12] Defence\n    *\t[13] Production Modules\n    *\t[14] Speed Modules\n    *\t[15] Efficiency Modules\n    *\t[16] Nuclear Power\n    *\t[17] Rocket Silo\n* Upgrade planners\n  *\t[U] Upgrade planner for belts, assembling machines and inserters.\n* Examples\n  *\t[E] Example blueprint of mall, features each of production blueprints.\n\n##### Requred technologies:\n- Logistics 2 (This mall requeires mixed underground belts)\n- Circuit network (I mean, why would you even need this type of mall without it?)\n- Electric energy distribution 1 (it would be very hard if possible at all to connect everything with wooden poles)\n\n##### Recomended technologies:\n- Construction robotics\n  - Placing everything could be annoying, if you're using nanobots mod,you are good to go\n- Logistic system\n  - It's quite hard to navigate around those combinators, so let bots do this for you\n\n###### Inputs\n- ([0] Interface blueprint provides resource routing scheme)\n  - Electronic circuit\n  - Advanced circuit\n  - Processing unit\n  - Iron plate\n  - Copper plate\n  - Steel plate\n  - Battery\n  - Explosives\n  - Coal\n  - Iron ore\n  - Stone\n  - Stone brick\n  - Water\n  - Lubricant\n\n##### TIPS:\n1. You could check exact lack or surplus (over desired amount) by hovering over power poles of block.\n2. This one is quite slow, consider parallel inputs and use more than one of production blueprints.\n\n##### Please, report any bugs, comment and share.\n##### Thanks.\n\n\n\nFull list of provided items:\n- Transport belt\n- Fast transport belt\n- Express transport belt\n- Undergroung belt\n- Fast underground belt\n- Express underground belt\n- Splitter\n- Fast splitter\n- Express splitter\n- Inserter\n- Long-handed inserter\n- Fast inserter\n- Filter inserter\n- Stack inserter\n- Stack filter inserter\n- Medium electric pole\n- Big electric pole\n- Substation\n- Pipe\n- Pipe to gound\n- Pump\n- Rail\n- Train stop\n- Rail signal\n- Rain chain signal\n- Locomotive\n- Cargo wagon\n- Fluid wagon\n- Artillery wagon\n- Logistic robot\n- Construction robot\n- Steel chest\n- Acitve provider chest\n- Passive provider chest\n- Storage chest\n- Buffer chest\n- Requester chest\n- Roboport\n- Lamp\n- Red wire\n- Green wire\n- Arithmetic combinator\n- Decider combinator\n- Constant combinator\n- Power switch\n- Programmable speaker\n- Concrete\n- Cliff explosives\n- Solar panel\n- Accumulator\n- Nuclear reactor\n- Heat pipe\n- Heat exchanger\n- Steam turbine\n- Electric mining drill\n- Offshore pump\n- Pumpjack\n- Electric furnace\n- Assebmling machine 1\n- Assebmling machine 2\n- Assebmling machine 3\n- Oil refinery\n- Chemical plant\n- Centrifuge\n- Lab\n- Beacon\n- Speed module\n- Speed module 2\n- Speed module 3\n- Efficiency module\n- Efficiency module 2\n- Efficiency module 3\n- Rocket silo\n- Wall\n- Gate\n- Gun turret\n- Laser turret\n- Flamethrower turret\n- Radar\n\n##### Known bugs:\n- Stored Concrete doesn't match desired amount.",
   "favorites": {
-    "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,
-    "ThXlezKEEhST36oc3PI860MEaLb2": true,
-    "eJvOoTMfUxSqvQEdsYhp6V8XVtj1": true,
+    "U4iVG3AXEEYYch6XqanPVzNJHKS2": true,
     "tC9pstdMSReruRls8L07OnODwWY2": true,
-    "YRe3Yw39HChM4CohVPZSNlW7sSL2": true,
-    "v3b6piP0B4fjnTxkHmE3xUPnexp1": true,
-    "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
-    "GYSXm1k2Waafr6Ydhpumbv0U9Ud2": true,
-    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
     "yDWJEO7vdjMZqouZRH09wY1fXr52": true,
-    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "eJvOoTMfUxSqvQEdsYhp6V8XVtj1": true,
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
-    "U4iVG3AXEEYYch6XqanPVzNJHKS2": true
+    "ThXlezKEEhST36oc3PI860MEaLb2": true,
+    "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
+    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
+    "YRe3Yw39HChM4CohVPZSNlW7sSL2": true,
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "GYSXm1k2Waafr6Ydhpumbv0U9Ud2": true,
+    "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,
+    "v3b6piP0B4fjnTxkHmE3xUPnexp1": true
   },
   "fileName": "screenshot_mall.jpg",
   "image": {
@@ -29,7 +29,7 @@
     "width": 2382
   },
   "lastUpdatedDate": 1639131905869,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 11,
   "tags": [
     "/mods/vanilla/",
     "/production/mall (make everything)/",

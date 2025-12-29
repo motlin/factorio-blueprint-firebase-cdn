@@ -7,19 +7,19 @@
   "createdDate": 1572169422395,
   "descriptionMarkdown": "### HEXLAND\nI feel like the original Hexland by Guy Albertelli and my later changes to it are a bit messy so i started organizing and making it stamp and go blueprint system <br><br>\nThis is first stage<br>\nMost of blueprints and general idea are from <br>https://factorioprints.com/view/-LCXwXzaWLG_QIDsZitd\n</br>HEXLAND V2.1 designed by Guy Albertelli<br>\n\nTried to spread blueprints to reasonable categories hope it will make sense also for you. <br>If  stationnames in some blueprints are missing let me know in coments.<br><br>\nCategories by final products <br>\n1. Rail Combinations<br>\n 1.1 Basic rails<br>\n <tab>&nbsp;&nbsp;1.1.1 hex formations <br>&nbsp;&nbsp;1.1.2 Rail Junctions<br>\n 1.2 Mainline <br>1.3 Stackers <br>1.4 Fake mines\n2. Smelting  & Mining\n3. Petrochem-Oil\n4. Assembly Lines<br>4.1 Mals<br>4.2 Circuits<br>4.3 Modules<br> 4.4 Basic Ingredients <br>4.5 Other <br>\n5. Power<br>\n 5.1 Coal<br>\n 5.2 Nuclear<br>\n 5.3 Solar<br>\n6. Science<br>6.1 Labs<br>6.2 Red Science<br>6.3 Green science <br>6.4 Military Science<br> 6.5 Blue Science<br>6.6 Purple Science<br>6.7 Yellow Science<br>6.8 Rocket Science<br>\n\n7. Uranium Procesing<br>7.1 Ore Processing<br>7.2 Kovarex enrichment<br >7.3 Nuclear Fuel<br>\n\nSome inspirations or partialy used blueprints<br>\nFishbook - Train Car Palette by thelonegoldfish https://factorioprints.com/view/-Lg_nTG4XZJ1ZThgfUdP <br>\nOre2Module by Devon Nekechuk https://factorioprints.com/view/-LgNc3oC3je1WOvzr6ZS\n#### Mainline\nIt's idea of Railline having priority over normal(1-1) trains but fitting the hexland grid and being crossable in reasonable distances.\nMainline is thougt for 4-8-4 trains(it will work with shorter trains) allowing you to delliver to Fake Mines and from them \n   \n#### Oil\nOil section is in progress, Fluid Grid already designed, Some blueprints already fitting, in near future other HEXLAND blueprints will be incorporated.\n#### Base in the box \nWork in progres, I like Idea that you could finish game using HEXLAND in like 4-6 hours \n#### Science from Raw\nHEXLAND includes a lot of buffering spots for intermediate products and it can slow you down significantly if aiming for fast finishing the game, Idea is to use the raw material for science production. making blueprints including even 3-5 hexagons(to maintain proper ratios) and making science packs from iron, copper plates and crude oil\n#### Log \n0.1 Initial release <br>\n0.2 Minor Fixes <br>\n0.3 Added missing science, Solar power, Minor problems fixed.<BR>\n0.4 [11-10-2019] Added Oil Grid, Ingredients hexes , rail  signals clean up, cattegories clean up <BR>\n",
   "favorites": {
-    "ccQqllOeBHcqR6xVw3CDAYmV67D3": true,
-    "g7TJnzthuybZoJk84sCoULcZuGV2": true,
     "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
+    "g7TJnzthuybZoJk84sCoULcZuGV2": true,
     "a0Ug6rccqrOicl4YYgTIixV6lOK2": true,
+    "v8QzMbISDUX0MxQythhI7KvishF3": true,
     "ieQeWJ7c4kddgMIxnJErKCdRcVm1": true,
-    "v8QzMbISDUX0MxQythhI7KvishF3": true
+    "ccQqllOeBHcqR6xVw3CDAYmV67D3": true
   },
   "fileName": "20191027184250_1.jpg",
   "image": {
-    "height": 768,
     "id": "y7NsedQ",
     "type": "image/jpeg",
-    "width": 1366
+    "width": 1366,
+    "height": 768
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/20191027184250_1.jpg?alt=media&token=7282ed6f-2d1a-4b4a-a98d-a3cc06d9e772",
   "lastUpdatedDate": 1573474018854,

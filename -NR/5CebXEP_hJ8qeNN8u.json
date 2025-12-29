@@ -7,19 +7,19 @@
   "createdDate": 1679436458918,
   "descriptionMarkdown": "Smelting arrays for ore and bricks. Includes a few variants, ranging from easiest to construct to most compact. I created all of these designs based on other people's early game books.\n\nIn each case I:\n\n* downgraded to the cheapest materials (red belts to yellow belts, blue inserters to yellow inserters, medium power poles to wood poles)\n* added or removed furnaces to consume all the inputs or saturate the output\n* made the blueprints tileable\n* straightened out the wires",
   "favorites": {
-    "uZkNdEj1hEOfMqmRivH8yjG9Ivz2": true,
-    "F2V5pkwdJ6fNgvT1oSElSAfgmc52": true,
-    "dKODuSYcovXizxj35jj50cbJWlz2": true,
     "WCdYq76bjZcOznCJvh6YB3DMY2U2": true,
-    "Wi5ewa5sSER3a9LFmvfS97ikpG82": true,
-    "dMSvS2gH1RYPXMozLeIzUQicEg52": true,
-    "h5jOxKhYCwM0aItRnKDo8Kp7vjZ2": true,
-    "N6P0MWM3mfPF87ahiPeLJcKiJIt2": true,
-    "OmVR4eEVQrNICPUptQo3rfkjgf53": true,
-    "cLC05YkeXGe0MFB9YA6XE1IvVj63": true,
     "wUM2PE41XwMSrt0fW9WdKuYBJxX2": true,
+    "uZkNdEj1hEOfMqmRivH8yjG9Ivz2": true,
+    "dKODuSYcovXizxj35jj50cbJWlz2": true,
+    "cLC05YkeXGe0MFB9YA6XE1IvVj63": true,
+    "N6P0MWM3mfPF87ahiPeLJcKiJIt2": true,
     "n0bvWepKqcOnnzBhWwlOHpvq7y73": true,
-    "pCO25578G6RTx79qeWSiMwU6Lap2": true
+    "dMSvS2gH1RYPXMozLeIzUQicEg52": true,
+    "OmVR4eEVQrNICPUptQo3rfkjgf53": true,
+    "Wi5ewa5sSER3a9LFmvfS97ikpG82": true,
+    "pCO25578G6RTx79qeWSiMwU6Lap2": true,
+    "F2V5pkwdJ6fNgvT1oSElSAfgmc52": true,
+    "h5jOxKhYCwM0aItRnKDo8Kp7vjZ2": true
   },
   "fileName": "Screenshot 2023-03-21 at 10.23.08 PM.png",
   "image": {
@@ -30,7 +30,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Screenshot%202023-03-21%20at%2010.23.08%20PM.png?alt=media&token=9163947a-426a-4f22-9a3d-f0e52e0d2534",
   "lastUpdatedDate": 1679689575464,
-  "numberOfFavorites": 13,
+  "numberOfFavorites": 6,
   "tags": [
     "/general/early game/",
     "/production/smelting/"

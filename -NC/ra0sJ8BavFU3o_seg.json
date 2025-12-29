@@ -7,13 +7,13 @@
   "createdDate": 1664158802245,
   "descriptionMarkdown": "City-Block constructor:\n- Chunk aligned.<br/>\n- Righ Hand Drive. 2 ways.<br/>\n- Block size: 6x6 chunks.<br/>\n- Variative sub-blocks.<br/>\n\nInstruction:\n- Place 4 crossways at corners. Distance 6 chunks.\n- Optional: If you want create subblocks, then use blueprints \"SubBlock\".\n- Place any parts. \"Lines\", \"Short/Long stations\", \"Depot\".\n- Optional: Place blueprint \"Roboports + Electric Poles\".\n- Or use completed design. (SubBook \"Presets\").\n\nUsed mods (Optional. Used by some blueprints):<br/>\n- Bob's: Roboports MK4. Big electric poles MK4.<br/>\n- Bob's: Locomotives MK3. LTN, LTN Combinator Modernized. (Used for depot)<br/>\n\nI recommend using this book together with LTN-Stations book: https://factorioprints.com/view/-NCoowNjx1iMexGFLFz1",
   "favorites": {
-    "5p0E6xfD8NMBxe6XfURuge4g9oq1": true,
     "NccTZW4SjvhKiXQlfmazRXNa84h2": true,
-    "2FuavxfG9qWs1eYxBoBmhflWzvm2": true,
-    "i8fKg0kPRoOQUZULMoJJPSh433m1": true,
     "atWkeZB6BucpKjGe2kKBAA3wntR2": true,
     "rYseOJtdblXP7w2OxLLlAYfBwRg1": true,
+    "i8fKg0kPRoOQUZULMoJJPSh433m1": true,
+    "2FuavxfG9qWs1eYxBoBmhflWzvm2": true,
     "dnXA9d8wN4acI290KpWkJxvgaF73": true,
+    "5p0E6xfD8NMBxe6XfURuge4g9oq1": true,
     "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
   },
   "fileName": "city_block.png",
@@ -24,7 +24,7 @@
     "width": 1080
   },
   "lastUpdatedDate": 1664161437456,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 6,
   "tags": [
     "/train/junction/",
     "/train/roundabout/",

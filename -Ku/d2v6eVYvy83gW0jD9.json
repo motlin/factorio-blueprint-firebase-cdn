@@ -7,31 +7,23 @@
   "createdDate": 1506074932261,
   "descriptionMarkdown": "Big solar blueprint for the late-game or simply high power demands.",
   "favorites": {
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
-    "7VLIYwSGBZSascdFit6Zw5EqzOe2": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "uoJTvNnpYeYjLZurfmHWAOawPzx2": true,
-    "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true,
-    "JPuXAHEeB8UxjBGF0rc2NvsVgOm1": true,
-    "v4iQSQ277IMTF8xN11atO7UUww62": true,
-    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
-    "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
-    "VzrGr0Ah2EeRHicrlLMmLxYbIGy2": true,
     "YnpsCDBggTRWgHbCQCon4LyT7973": true,
-    "TPonfvHLqiTzDbdJg0Sv7KZglAA3": true,
+    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
+    "7zO9MrFEYLWgdg2DZQ77xb6HPNu1": true,
+    "7VLIYwSGBZSascdFit6Zw5EqzOe2": true,
+    "SkyOTgyK5cbV96j0OlArnODVCJD2": true,
     "oANjqe5QDoRmx41PurwEpFes6uP2": true
   },
   "fileName": "solar.jpg",
   "image": {
-    "height": 398,
     "id": "ARp2piV",
     "type": "image/jpeg",
-    "width": 920
+    "width": 920,
+    "height": 398
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/solar.jpg?alt=media&token=049f4454-2656-42c3-99bc-b3fafceecf5a",
   "lastUpdatedDate": 1506074932261,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 13,
   "tags": [
     "/general/late game (megabase)/",
     "/power/solar/"

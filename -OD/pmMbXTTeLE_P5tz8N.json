@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Sascha975",
     "userId": "vaErgELR4aVL5OmkTo1IHlngWzH2"
   },
   "authorId": "vaErgELR4aVL5OmkTo1IHlngWzH2",
@@ -7,18 +8,16 @@
   "createdDate": 1762912729820,
   "descriptionMarkdown": "Inner Planet Laser Haulers\nTested with Laser damage lvl.11 and Asteroid Prod. 3.\nSpeed is controlled with a simple Circuit and is hovering around 178km/s and 200km/s. The residual fuel is pumped back to the tanks when the speed is below 20km/s.\n\nRanging from 24 to 54 Cargo bays.",
   "favorites": {
-    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
     "tpSQBPPXeuQqrEwUmMGIJC4VmOa2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
     "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
   },
   "image": {
-    "height": 0,
     "id": "WdLGQE6",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762912752338,
   "numberOfFavorites": 6,

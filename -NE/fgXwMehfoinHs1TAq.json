@@ -7,22 +7,20 @@
   "createdDate": 1666106667498,
   "descriptionMarkdown": "Compact minimal science for extreme conditions.\n\nThis bp was evolved through months of hardcore deathly deathworld conditions on the Comfy - Journey server.\nSpecial thanks for everyone contributing, testing and maintaining it.",
   "favorites": {
-    "iLsdUkjiiLeAmjDqnMMJpEyR2IF2": true,
     "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
-    "yqxUDqspHdcuAGqmsnCSZokhmS53": true,
     "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
-    "ylmx5Ta7JyMMWcuyD6BEeTPko2W2": true
+    "ylmx5Ta7JyMMWcuyD6BEeTPko2W2": true,
+    "iLsdUkjiiLeAmjDqnMMJpEyR2IF2": true,
+    "yqxUDqspHdcuAGqmsnCSZokhmS53": true
   },
   "fileName": "image_2022-10-18_211420681.png",
   "image": {
-    "height": 0,
     "id": "FTzHLEF",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/image_2022-10-18_211420681.png?alt=media&token=6f45eeff-8c50-40fa-ad49-e0a8aad8da2a",
   "lastUpdatedDate": 1729160790553,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/science/",
     "/production/research (labs)/"

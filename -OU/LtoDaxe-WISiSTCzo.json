@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Zathe Xandar",
     "userId": "0Kbbi0tOowaRY89Ej4C3INiAuKf2"
   },
   "authorId": "0Kbbi0tOowaRY89Ej4C3INiAuKf2",
@@ -7,17 +8,15 @@
   "createdDate": 1751657169976,
   "descriptionMarkdown": "Airport with runway and helipads.",
   "favorites": {
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "EVUlbc9zmLWtjeUHhRB5C9lfwoF2": true
+    "EVUlbc9zmLWtjeUHhRB5C9lfwoF2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
   },
   "image": {
-    "height": 0,
     "id": "L8uHMVx",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1751657169976,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/vanilla/"
   ],

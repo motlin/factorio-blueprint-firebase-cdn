@@ -7,16 +7,16 @@
   "createdDate": 1676582408085,
   "descriptionMarkdown": "These are my current blueprints for my K2 + SE run. The only additional mods I have installed from the \"recommended\" list are:\n\n* Project Cybersyn (only used on 3 of the BP's and can be done easily without)\n* Bob's Adjustable Inserters Mod (used in some of the BP's)\n* Fluid Must Flow (used for many of the fluid designs, but most prints can be modified to use traditional pipes)\n\nI do not claim these all as completely my own. Some are modified from others work to fit what I needed and to work with K2 + SE better.\n\nAs of right now, I have researched all sciences up to Astronomics 1, Material 2, and Energy 1.",
   "favorites": {
-    "H0OVd48PdpR5tnvLJ9W33wNaN612": true,
-    "Q6OecEH6j1PTvo1OSidt5N6QkAB3": true,
-    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
-    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
-    "wUM2PE41XwMSrt0fW9WdKuYBJxX2": true,
-    "BB8rOAqjoaNVfnF8eqhStHLPiqH3": true,
-    "lwIT9LAQeBVwGqMs7WoBEYGC4GF3": true,
-    "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,
     "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
-    "KfbDRv67nlVIqDg7mkq8W1wjpd03": true
+    "BB8rOAqjoaNVfnF8eqhStHLPiqH3": true,
+    "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
+    "tpZavJv6AqMaFRuBFMG44wpJIYo1": true,
+    "lwIT9LAQeBVwGqMs7WoBEYGC4GF3": true,
+    "KfbDRv67nlVIqDg7mkq8W1wjpd03": true,
+    "wUM2PE41XwMSrt0fW9WdKuYBJxX2": true,
+    "IFpVIpvhMaaLWG6REfVu3t6Atf12": true,
+    "Q6OecEH6j1PTvo1OSidt5N6QkAB3": true,
+    "H0OVd48PdpR5tnvLJ9W33wNaN612": true
   },
   "fileName": "Pap123.png",
   "image": {
@@ -26,7 +26,7 @@
     "width": 1677
   },
   "lastUpdatedDate": 1676582408085,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 6,
   "tags": [
     "/mods/space-exploration/",
     "/mods/krastorio/"

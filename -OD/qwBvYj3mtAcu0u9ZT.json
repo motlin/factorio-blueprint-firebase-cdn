@@ -7,20 +7,18 @@
   "createdDate": 1733941055465,
   "descriptionMarkdown": "This ship is made for the use to explore and supply Aquilo.\n\nTested for many hours and works perfectly without taking any damage at any time.\n\nFor power a mix of Solar and nuclear is used, Nuclear is only active if Solar is not enough, only on trips to Aquilo it is using nuclear power at all.\n\nTech you need is pretty low and cheap, you can even downgrade the asteroid Collectors but i recommend to upgrade them later again for a more even supply. Also solar and accumulators can be downgraded, but for efficiency i recommend not to.\n\n",
   "favorites": {
-    "11o67rL7N1dLaULE2eBjzVXoldK2": true,
     "B7LcrdsDPNVCAl4IFqbQFCewKne2": true,
-    "DU18C71dj8d75Im1xTxoFNbLqFR2": true,
-    "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true
+    "11o67rL7N1dLaULE2eBjzVXoldK2": true,
+    "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true,
+    "DU18C71dj8d75Im1xTxoFNbLqFR2": true
   },
   "image": {
-    "height": 0,
     "id": "MdoOyBk",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/MdoOyBk",
   "lastUpdatedDate": 1733941055465,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/planets/aquilo/",

@@ -7,25 +7,23 @@
   "createdDate": 1730255109539,
   "descriptionMarkdown": "A Logistic based train system using the new train interrupts and blueprint parameters to intelligently schedule train deliveries as they're needed throughout a factory. This is very close to the functionality of the Logistics Train Network (LTN) mod, but only working in full train loads. \n\nIncludes a sample central computing/depot area.\n\nChangelog:\n\n- Fixed Fluid train interrupts\n- Added Fluid Demand and Supply Stations",
   "favorites": {
-    "Drk0uLkRPYapqmkDmY53MSuGYI03": true,
     "ukhnjD4Ms9RKJheRaJ8zi6Y9jQG3": true,
-    "z5Gkz3ejlmYUrHrVYs5hbi7r9VG2": true,
-    "5oySituxX2aUNAZStAODR5EpKdo1": true,
     "vnZrg9gVKOVNggaZJ9TjIbjILzr2": true,
-    "IKN0pUsT4ZT2GyCKg7fC7POTQVk1": true,
+    "eVLJTv9nHFft96F1krFtxqsq5Or2": true,
     "uchEp5BFQ3e749acSwSSunmLIAA2": true,
+    "Drk0uLkRPYapqmkDmY53MSuGYI03": true,
     "9THnMdZSMyeT9PdOstFZXWBxeTP2": true,
-    "eVLJTv9nHFft96F1krFtxqsq5Or2": true
+    "5oySituxX2aUNAZStAODR5EpKdo1": true,
+    "z5Gkz3ejlmYUrHrVYs5hbi7r9VG2": true,
+    "IKN0pUsT4ZT2GyCKg7fC7POTQVk1": true
   },
   "image": {
-    "height": 0,
     "id": "DlKYeDH",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/DlKYeDH",
   "lastUpdatedDate": 1730488003642,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 6,
   "tags": [
     "/train/loading station/",
     "/train/unloading station/",

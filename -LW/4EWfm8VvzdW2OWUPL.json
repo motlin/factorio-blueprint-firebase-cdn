@@ -7,10 +7,10 @@
   "createdDate": 1576340954246,
   "descriptionMarkdown": "A beaconized geode washer setup. Features:\n\n* Stackable rows, with 2400 crushed ore per row.\n* Fully self-contained, including on-site sulfuric acid production. Excess sulfur can be redirected to other parts of your base.\n* Self-correcting when production outstrips consumption. Other geode washers tend to pile up geodes or ore until the pipeline gets clogged and stalls.\n* Can configure a single row to provide multiple kinds of ore (e.g. 1 row for all 6 ores, included in the blueprint book).\n\nNote: after force-placing the blueprint, you'll need to use blasting charges to open some water holes where all the water pumps belong.",
   "favorites": {
-    "B4VkEnok1JQDl7GRX91r0kBOcav2": true,
     "DjYNvGesC5N1c9aGVkw7uZSZIcn1": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "zrX4vJBYYOggDQWmufyzhM2OJrZ2": true
+    "zrX4vJBYYOggDQWmufyzhM2OJrZ2": true,
+    "B4VkEnok1JQDl7GRX91r0kBOcav2": true,
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true
   },
   "fileName": "screenshot-tick-16067278 - Copy.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 2000
   },
   "lastUpdatedDate": 1576341971076,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/general/beaconized/",
     "/mods/bobs/",

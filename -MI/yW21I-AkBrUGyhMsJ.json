@@ -7,27 +7,27 @@
   "createdDate": 1601997910646,
   "descriptionMarkdown": "# Goal\n\nI wanted to build a nicley structured minimalistic base that produces 45 science packs per minute from raw resources without using the robots. The resulting blueprint fits 2 merged city blocks used by [Nilaus](https://www.youtube.com/channel/UCD80bzqJh1N7lOqn7n0vKTg) in his great videos.\n\n# Result:\n\n* **Minimalistic**. It's only *200x100* tiles.\n* **Well structured**. \n * There are *2 mini buses* to avoid belt spagetti as much as possible. \n * Every block makes specific production (see the [screenshots](https://imgur.com/a/ElhbMHH)).\n* Supplied by **6 tiny train stations**. Uses two-headed trains with 1 wagon.\n* **Raw resources only**. You just need to provide:\n * *Iron ore* (2 trains)\n * *Copper ore* (2 trains)\n * *Stone* (1 train)\n * *Coal* (1 train)\n * *Oil* (1 train)\n * *Water* (1 train)\n* Produces **exactly 45** science packs per minute (but slightly more prerequesties)\n* **100% logistic network coverage** (however the bots are not used)\n* **Resource supply indicator** to monitor incoming resources\n* The book **contains every single factory component**, so you can **build mini base of your own design**\n\n# How to build and start production\n\nAlmost all the items needed for the base building are easy to make at late game. The most expensive are the modules. You need over 1000 of speed and  more than 250 of production modules. So make sure you have them or the factory will not work.\n\nCheck how far the resources the base needs are. It should take less than a minute for a train to go to grab a material, (loading a single wagon is very-very fast) and return back. If it takes longer, you just need more trains. The unloading stations can handle 3 trains at maximum.\n\nEnsure you have enough power. The base consumes a lot of energy (450-600 MW) because of many beacons (price of minimalism).\n\nPut the main blueprint on the ground and let the robots do their job. Meanwhile you can build your railway to supply the base when it's ready. The trains, provided by the blueprint are scheduled up to go to the stations named:\n\n* Iron - Load\n* Copper - Load\n* Stone - Load\n* Coal - Load\n* Oil - Load\n* Water - Load\n\nSo name your supply stations like this or change the schedule of the trains.\n\nWhen above is done it's time to run the trains. I recomend to do that in the following order to make the factory to warm up faster:\n\n* **Oil** and **water** to start refining proccess.\n* **Coal** to produce some plastic first. We need a lot of it for the circuits.\n* **Stone** to make the factory ready to produce millitary and production science packs\n* **Iron ore** to make some steel\n* **Copper Ore** to start circuit production\n\nThere is the resource indicator in the base so you can see how much of the resources you store.\n\nThat's all. You just need to start some research and wait about 20 minutes until the first rocket launches.\n\n# Screenshots\n\nhttps://imgur.com/a/ElhbMHH\n\n*PS:\nThis is my first base of this kind and my first blueprint book. I hope you like it. Please let me know about any mistakes you found, any optimization idias and criticism.*\n",
   "favorites": {
-    "DeQgxVkj85PGmQYrf0tZKPTOEop1": true,
-    "09IkvbFwuqXbAgocIbUXVCm3PBy2": true,
     "SQdq1JOUJugdWvnn76gHof4MO062": true,
-    "0VIZw1c6VkYkcPC9SfJALfDJRVK2": true,
-    "324WSbPsFgSzoL4GRLAAxRovxdo1": true,
-    "LNOePSYTnIh5hrAidkJr4o9Rfpg2": true,
-    "ZZri2N7MbmSwRA15esd7e8U7aHe2": true,
     "QvAAP0KkazgHSWK2m3JvemOxZQE3": true,
+    "DeQgxVkj85PGmQYrf0tZKPTOEop1": true,
     "b3DuhZXPiBWJXQlgYtXoPxHsNCd2": true,
-    "vjob7Xdt5hT8ULtPs5PRmUYpRIo2": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "ZZri2N7MbmSwRA15esd7e8U7aHe2": true,
+    "0VIZw1c6VkYkcPC9SfJALfDJRVK2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "324WSbPsFgSzoL4GRLAAxRovxdo1": true,
+    "09IkvbFwuqXbAgocIbUXVCm3PBy2": true,
+    "LNOePSYTnIh5hrAidkJr4o9Rfpg2": true,
+    "vjob7Xdt5hT8ULtPs5PRmUYpRIo2": true
   },
   "fileName": "Factorio - Mini 45 spm - World.png",
   "image": {
-    "height": 1507,
-    "id": "ETLhYtT",
     "type": "image/jpeg",
-    "width": 1926
+    "width": 1926,
+    "height": 1507,
+    "id": "ETLhYtT"
   },
   "lastUpdatedDate": 1602082699886,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 9,
   "tags": [
     "/production/rocket parts/",
     "/production/research (labs)/",

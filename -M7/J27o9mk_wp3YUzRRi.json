@@ -7,18 +7,18 @@
   "createdDate": 1589474266784,
   "descriptionMarkdown": "Oil Refinery - BIG 0.17.79\n\nProducing Plastic (8x), Solid Fuel (1x), Rocket Fuel (1x), Batteries (2x)\n\nNeeds Coal (4x) , Iron (2x), Copper (2x),  Crude Oil (3x), Water (3x)\n\nAlso takes in all other fluids for storage to be used in Prodcution.\n\nOriginal Autor unknown to me, cannot find it anymore here but I dont want to loose this great blueprint. If you know the original version/autor, let me know please.\n---> Found Original here! https://factorioprints.com/view/-LX0DrUrauJqH8cVAq6A\n\nHad to modify the rocket fuel production, because it now needs light oil, so I saved this as a blueprint.\n",
   "favorites": {
-    "7VLIYwSGBZSascdFit6Zw5EqzOe2": true,
-    "oUiGLHVg7lfyt4UHU9QAOynBHsv1": true,
     "uBCkJaetHMUdPzGqXpwfiv1xffh1": true,
+    "oUiGLHVg7lfyt4UHU9QAOynBHsv1": true,
+    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
     "6vcOE83nwZfUONZYZnuptrW5kbo2": true,
-    "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true
+    "7VLIYwSGBZSascdFit6Zw5EqzOe2": true
   },
   "fileName": "f017oilr.png",
   "image": {
-    "height": 1080,
     "id": "mnHdqeJ",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080
   },
   "lastUpdatedDate": 1589629884257,
   "numberOfFavorites": 5,

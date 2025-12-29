@@ -8,20 +8,18 @@
   "descriptionMarkdown": "An Orbital Ore Station for supplying space resources to the planet below.\n\nOS1 is my first orbital platform design to sit in orbit above an inner planet and passively supply materials, though the E variant is modified for Aquilo.\n\n- The A variant used filtering splitters which would get clogged up too much.\n- The B variant moved to separate conveyor lines for each asteroid type.\n- The C variant reduced the size considerably, while leaving some extra space for future requirements.\n- The D variant removes the extra space in C to save about 500 tons.\n- The E variant is based on the C variant and is specifically for Aquilo orbit.\n\nThese were designed to be build above Nauvis, and boosted into orbit above other planets with a temporary SS Propultion module.\n\nCurrently in use with space-age vanilla 2.0.28",
   "favorites": {
     "TxssEEX4FceznHOhiUxM5HORmEe2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
     "xlYKEBi48SYS6GBIvMa7KIgpjex2": true,
-    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true
+    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "2l0nWTL",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/2l0nWTL",
   "lastUpdatedDate": 1736166360488,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 1,
   "tags": [
     "/planets/space-platform/",
     "/mods/space-age/"

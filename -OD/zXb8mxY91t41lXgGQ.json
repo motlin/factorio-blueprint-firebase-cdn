@@ -7,25 +7,23 @@
   "createdDate": 1734085342156,
   "descriptionMarkdown": ">**This**\n\ncontains LTS blueprints of 1-4-1 loading and unloading stations. most circuits have descriptions so its definetly easy to modify this.\ntried my best to optimize it over the past 100h as much as possible. should be almost perfect now.\n\n>**Explanation**\n\nThe priority gets set from 0-255, and the amount of trains requested is calculated based on how many trains this station can fill or empty. \nin combination with the LTS network this means that there will always be the exact amount of trains handling a station needed. needed being either the maximum, or if the network is short on something, because of the priority control, it will always handle the stations that need it the most. \n\nAlso. these blueprints use RADARS (YESSSS) to never send more trains then the requesters can take -> meaning -> no clogging of depots with full trains :P. \n\n> **Advanced stuff**\n\nIf you want to read out current system diagnostics (to display with lamps or just to check whats going wrong, hook up to the radars red signal, \n\nSignal iron plates:\n\n*0 value of the signal means that supply and demand is handled perfectly.*\n\n*negative value of the signal means that requesters arent supplied enough, either a break in the train network, too low production of suppliers, or not enough trains avalible to handle the request.*\n\n*positive value of the signal means that something is going wrong, basically stating that there are too many trains at the providers (too many called for some reason. \nThis shouldnt happen at any point in time. \nA value of 0-4 is absolutely normal still. (if you see some higher value, please report in the comments or text me on discord (fucky_wucky)*\n\n> **Advancederer stuff**\n*A second arithmetic combinator can be added to for example the green signal of the radar, to read out excess production for reacting earlier when suppliers are close to underproducing (L*Param0) \n\n> **to other people who post here**\nthe only reason im sharing this is because its from my first and still current space age world (the first one i started) so it has insanely bad rail spacing which isnt compatible with any other popular rail blueprints lol.\n\nso by posting this i hope that this gets built into the other LTS blueprints which also include rails etc (inline stations etc) because they either set priority only + the L signal from the trains... which is quite frankly very suboptimal. or dont include a way to prevent sending of the maximum amount of trains, even when the requesters cant take that much (causing a bunch of filled trains to be idling in depot and clogging it) \n\n***TLDR***\nPrint this down and it works as is. ",
   "favorites": {
-    "tDeu9SLkGyaPFM0NXEyXSStBG2i1": true,
-    "M7syl4343PWRo3WcG8qxY9MylnR2": true,
     "bCAKLZ0IzAhYLgwmMN7Bsfe36Qw2": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "F7ggoG355bVy1nr66SBbq3WwsDi1": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
     "KivVYvRQTXP0gNOAKEtU9HSNJZ52": true,
-    "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true,
-    "JPNXGBZ0ylTnI6wrVxhHNiclsYL2": true
+    "F7ggoG355bVy1nr66SBbq3WwsDi1": true,
+    "JPNXGBZ0ylTnI6wrVxhHNiclsYL2": true,
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "M7syl4343PWRo3WcG8qxY9MylnR2": true,
+    "tDeu9SLkGyaPFM0NXEyXSStBG2i1": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "f3yBydSEjPSRE2kAW8F34KxEa7Q2": true
   },
   "image": {
-    "height": 0,
     "id": "8bKNKB5",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/8bKNKB5",
   "lastUpdatedDate": 1734092092829,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 4,
   "tags": [
     "/version/2,0/",
     "/train/loading station/",

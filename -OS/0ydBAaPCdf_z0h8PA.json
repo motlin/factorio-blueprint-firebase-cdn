@@ -7,18 +7,16 @@
   "createdDate": 1749158630213,
   "descriptionMarkdown": "Red Circuit Train Hex",
   "favorites": {
-    "qaZRVxdsYOQEHwE3tlKQdXtlwwh2": true,
-    "vnMibAlJ4Yf26PY2ak6VPs1VHoJ2": true
+    "vnMibAlJ4Yf26PY2ak6VPs1VHoJ2": true,
+    "qaZRVxdsYOQEHwE3tlKQdXtlwwh2": true
   },
   "image": {
-    "height": 0,
     "id": "tucy24b",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://i.imgur.com/tucy24b.png",
   "lastUpdatedDate": 1749158630213,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/advanced circuit (red)/",
     "/mods/vanilla/"

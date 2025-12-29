@@ -7,17 +7,17 @@
   "createdDate": 1600854124655,
   "descriptionMarkdown": "This blueprint contains two sets of stations, an unloader and a loader. Both contain 6 stations to receive or supply a single item type, they are balanced and have anti-stampede measures, see the description contained within the blueprint book for how to configure your train.\n\nUpdated [2020-09-28]:\n* Altered connection of 'white' constant combinator on the loader station as it was not being read by the deciders.\n\nUpdated [2020-09-28]:\n* Increased throughput further by only counting trains parked at stations that are enabled (Stations that become disabled after a train has parked there no longer count which allows another train to come in and park at another enabled station)\n\nUpdated [2020-09-28]:\n* Added missing elements to unloading stations\n* Added more circuit logic to increase throughput by allowing more trains into the stations based on how many trains are already in the station\n* Added lights to show which stations are enabled at any given time.\n\nKnown issues:\n* In some rare occasions a train might pass through the stations without loading/unloading if a train is also leaving one of the stations at the same time. In other cases this might also happen when A and F are roughly the same values; they will flip flop between which one should be open.\n",
   "favorites": {
-    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true,
-    "LTOlyVJmBBckQFDVZDbXQdQwmUn1": true,
-    "YiW6N6IzcpQ9Iyt9mLwCA52wLip2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "mc6UysDaSQVK1KRmGZctQJ9JK5Y2": true,
-    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
     "SS0ivWSelScggoritSCjMW2VOo32": true,
+    "H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
+    "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true,
+    "LTOlyVJmBBckQFDVZDbXQdQwmUn1": true,
+    "mc6UysDaSQVK1KRmGZctQJ9JK5Y2": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "YiW6N6IzcpQ9Iyt9mLwCA52wLip2": true,
     "rvV8cLlEYrSdLoQ1RJivKipkfAa2": true,
     "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true,
-    "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "5wSu2wrBTdanqyClOZmGGNyoEeq1": true
   },
   "fileName": "balanced-anti-stampede.jpg",
   "image": {

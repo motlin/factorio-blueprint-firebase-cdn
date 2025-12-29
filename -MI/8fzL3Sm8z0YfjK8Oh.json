@@ -7,20 +7,20 @@
   "createdDate": 1630102615772,
   "descriptionMarkdown": "There is an v8 https://factorioprints.com/view/-N1Fjabs3MgcG7obW_E_\n\nSupply train system v7: if your low on items in the outpost the train  will bring you more if items are present in the main base. A fuel wagon is also possible, it will bring the highest tier of fuel available to all al outpost and bring lower tier of fuel back to the base, and when items are more then 20 over the set amount it will be brought back to the main base. \n\n\nThis train allows multiple different robot networks to request items from your mall/main base. Each requester station can request up to 40 different items per wagon. The train will be loaded accordingly at the provider station and delivers the items to active requester stations. If multiple stations activate before the train left the provider station, the train will supply the active stations in one go. You can also load the train at the requester e.g. to recycle wood and rocks. \n\nSetup:\n\n    Connect all stations (power poles) with green wire. Set items and quantity at the constant combinator for each requester station. \n    Set the combinator with the KEEP signal with items that you don't want to trash at that station.\n    The inserters inserting into the roboports (requester stations) regulate the amount of robots in the network.\n",
   "favorites": {
-    "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true,
-    "V515dCjEUngAzrK44nUMwDHWagn1": true,
-    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
-    "aSy5BUuG4vUeyv7CefOWhXv6Zdx2": true,
-    "FKDDaCDdnQN1ucezZPqnIGp7Qkp2": true,
-    "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,
-    "QS2skONag6hP8YsgsqYDJsH32Y93": true,
     "SS0ivWSelScggoritSCjMW2VOo32": true,
     "edD3c21p5USPtTIgIdqW659UNPs1": true,
-    "UfI0eZikVUVkKmmB9fUww9voe5w2": true,
+    "UV2TL9zbiqVXbwF5hk1xPD4e5uj1": true,
+    "aSy5BUuG4vUeyv7CefOWhXv6Zdx2": true,
+    "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,
+    "vzwMkJ8hAJZ5mdgZoePMVoNw5ku1": true,
+    "FKDDaCDdnQN1ucezZPqnIGp7Qkp2": true,
+    "V515dCjEUngAzrK44nUMwDHWagn1": true,
     "cM5Vcyt9sRX2vBFnbJhQYi96ecK2": true,
-    "vzwMkJ8hAJZ5mdgZoePMVoNw5ku1": true
+    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
+    "QS2skONag6hP8YsgsqYDJsH32Y93": true,
+    "UfI0eZikVUVkKmmB9fUww9voe5w2": true,
+    "3vH7xJmofNZXtt0Et2Z4sN5kcNB2": true,
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true
   },
   "fileName": "factorio outpostv7.png",
   "image": {
@@ -30,7 +30,7 @@
     "width": 684
   },
   "lastUpdatedDate": 1651696185542,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 15,
   "tags": [
     "/version/1,0/",
     "/train/loading station/",

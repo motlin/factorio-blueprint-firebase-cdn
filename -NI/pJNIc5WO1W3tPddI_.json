@@ -7,9 +7,9 @@
   "createdDate": 1699554100633,
   "descriptionMarkdown": "Nuclear reactor designed with robustness in mind while saving fuel. Almost never haults even at high loads with multiple failsafes that will burn fuel to keep alive and an emergency switch.\n\nCan auto start via solar panels however some external power source to help it is recommended on planets with poor solar.\n\nReactor works at 100% fuel and water efficiency when there is at least 3m fluid in the system (both steam and water)\n\nTo turn it on you must flip the START constant combinator on the left at the top.",
   "favorites": {
-    "LDSPhy30E8W4NKaT7U1SAQNQVMJ2": true,
     "OmVR4eEVQrNICPUptQo3rfkjgf53": true,
-    "4qCpggCt7OhoLVrsStG3lukWuxE2": true
+    "4qCpggCt7OhoLVrsStG3lukWuxE2": true,
+    "LDSPhy30E8W4NKaT7U1SAQNQVMJ2": true
   },
   "fileName": "Annotation 2023-11-09 202029.png",
   "image": {
@@ -19,7 +19,7 @@
     "width": 1761
   },
   "lastUpdatedDate": 1699554379880,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/power/nuclear/",
     "/mods/space-exploration/"

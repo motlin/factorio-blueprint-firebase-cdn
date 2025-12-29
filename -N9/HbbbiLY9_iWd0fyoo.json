@@ -7,15 +7,15 @@
   "createdDate": 1660317235910,
   "descriptionMarkdown": "Early-midgame red circuit blocks.\nLate game beaconized blocks.\n\nSteam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=920967372\n",
   "favorites": {
-    "ghNFOZybFVUDdClZ0MV2et5aDSs1": true,
-    "tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
     "cuVi7tYABrXSmAYArdrG8uznZ6w1": true,
-    "w7xb170XW6h0a4jdOZ9geYBpDgu1": true,
     "5XkSYIsjaZVVSy2pfcHDSTQDBY83": true,
-    "AGbi6tcsGegAWODArMcwZgTnrh52": true,
     "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
-    "S0tMx9e1gGPwVRx5uOCtkxL5g5i2": true
+    "AGbi6tcsGegAWODArMcwZgTnrh52": true,
+    "ghNFOZybFVUDdClZ0MV2et5aDSs1": true,
+    "w7xb170XW6h0a4jdOZ9geYBpDgu1": true,
+    "S0tMx9e1gGPwVRx5uOCtkxL5g5i2": true,
+    "tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true
   },
   "fileName": "20220812170446_1.jpg",
   "image": {
@@ -25,7 +25,7 @@
     "width": 2335
   },
   "lastUpdatedDate": 1660755837248,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 10,
   "tags": [
     "/production/advanced circuit (red)/",
     "/general/beaconized/"

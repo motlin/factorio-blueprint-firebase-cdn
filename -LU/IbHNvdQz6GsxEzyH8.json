@@ -7,8 +7,7 @@
   "createdDate": 1545443551479,
   "descriptionMarkdown": "So ... 5 pages of notes and this monstrosity was born, like a cursed Athena from my Zeusian brain.\n\nRaw numbers:  \n\nOn a full, infinite push with creative mode:\n\nConsumes:\n\n~40 MW when in full operation\n\n~8 MW when idle.\n\n~1.5k iron plates per second\n\n~100k petrogas per second\n\n&nbsp;\n\nProduces:\n\n~7k Sulfur per second.  Consumed entirely with some excess capacity.\n\n~90k liquid acid per second.  Consumed slightly above capacity by barreling. Takes 4+ or so IRL hours to drain acid tanks when full.\n\n&nbsp;\n\nUses barrels for petrogas delivery, but can be easily retrofitted and set-up for empty barrel delivery and liquid petrogas train tanks.  Empty barrel delivery included in place for gigs and shibbles.\n\nBarrels from petrogas are entirely consumed by acid barreling with excess capacity being shunted to a trainyard for recycling back into the petrogas barreling system (or wherever you shove your empties)  Rate is 1.5 barrels of petrogas to 1 barrel of acid.\n\nPLCs to control shunting of spare barrels to an empty overflow.\n\nhttps://pastebin.com/776hGRVg\n\nBook includes full advanced acid plant pictured in a single blueprint, as well as \n\n* a complete small-scale prototype that only produces liquid acid from barreled petrogas.  No PLCs.\n\n\n* small-scale prototype parts in separate blueprints\n\n* advanced acid plant in separate blueprints\n\n\nAdditional notes:  I'm sure the PLCs could be tweaked and there's more than what's needed, so feel free to go nuts.\n_____\n\nI'm totally not addicted.  I swear on me mum!\n",
   "favorites": {
-    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
-    "DeQgxVkj85PGmQYrf0tZKPTOEop1": true
+    "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true
   },
   "fileName": "AcidFactoryStitch.jpg",
   "image": {

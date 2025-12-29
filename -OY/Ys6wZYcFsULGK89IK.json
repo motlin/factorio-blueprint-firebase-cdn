@@ -1,22 +1,18 @@
 {
   "author": {
+    "displayName": "King Of Souls",
     "userId": "SHpDlS501obkQbUcboWjgqpMCJ33"
   },
   "authorId": "SHpDlS501obkQbUcboWjgqpMCJ33",
   "blueprintString": "0eNrtWt2OozYUfpUR11Bh/gyRtve9rno1iiICzoy1/K2B2UajPEDfohd9sj5JjyFAEuzBZrXtTDeai3iM/fn4s8/ncwyvxj5rScVo0RibV4MmZVEbm8dXo6ZPRZzxuiLOibExDmVbpOxomMaXNs5oc4Q6FjNinEyDFin53digkynoyEhyTDLCLho6p61pkKKhDSX9cN0/x13R5ntouUHm0DsnKW1zi2QkaRhNrKrMCNhQlTV0Lgs+DgBajvOTbxrHc+nEDbmBdEbIilZCCHsJwl2EQEsQ3hIEipYgfF1ukL8EGVxZZTWl9cT4coum6I5gwBcsaUphgfsWoQAaa3CGxNaFGhC2GCIaIfZt9tmiRU1YAw/eJGs2P+QIoJG9BhvdYnsi6MkNGPnSkhpgreQZfkXg3g34ucvuQDPoV/N2dT9a73KD05rG2OKq9jxyEmcJbciV3xcly8HHTSMp8ypmcVOCtcanrqLlSuLbpy38iebkqNPl6C7F5KBNy/al1bC4qKuSNdaeZELSkN5uRov+OwkR92QhA/4ab0OhBC1YtMhdtEjDSaUYk5dOJ8WM7vAK5pru2cHCt3DC7QGlK2GHFhZlZWEdWJlbWfwSjw12gp0JWzY/7+j04jCqK0JSKy/TNiOW2x1JfUO+83e0eIFplWB77wrjf7DsdRMnn42NzecufIKkTxzpE5c7yVZEZ7TCTeakilTFsc3Z0SySkwFztkwK1F6pRVuATOTQ+d2y7aD1wiHYyaIRHO2IZgxHUCCJaBbjkQt/k2FoBCRSDA1B4xgXaMua7izqG8KLBmLtkMlbxAw1Ju3KJy300Ghxzs6Sfa6tp8eulh4ncd3Q4qkX5CcSM+vrMyHZGkU+t/wAmuwiFUrRm5TmlDEeLDWsJf8Jwe+YXvXI8EIb+7BNHMHO6L0JV3kW2tZkipD5qogsc7X1I7oyUITpqR/w4c1sIUlvWJnt9uQ5fqF8Mq9GQlnS0mZHinifkXTYYUM1dElH0ANlkBdMiXpz7PbcC2VN2+2k4UTvWlgM4PpRYQl5dI9umPz7jz+Nk8IqjIHArP9f6mvhq/OG77xNvAXqvAV33ibeviV2kPl+uP4KR4qpkTC49/WdLuTsNYnWnTcPqfOG7rxNvGkngshe8n3PVV6L6F8NnDxPN6+ers9ClbTa89cPoJS3e4H2AEg6gDDB9bD2CLbmCKF6YI2k9Iuhp1Ony1Rkl9OTyT3u7BXS/C2Hhi5Hbxj9Y6uNj1awOL9F/N464TtKV5L4bN98ja/TatGKMxKnfF0bGLoeGtIiydqUQBK8S1h84Bm3sTnEWU1O/4P7Ct9VYtUVsurdaRxo1MjUbakSeT+4EPkrSIxEcv6dlUj7vA/lsinC1z7tIz189bM+lO9VEbDiSR/pHvSBrcsI1goRA7QaXylCDKazKyUJTfkr+jLf06Lbe28FoFiSCp1hJufvNPHyv0dtMYiLY/PMdfl04xo/d65Rtk3VNrdf/qgKTHXcde/9d/zVLCg3QA36D5oq4mw6meou/SmXSENLpJUVgSl1XcazpXf26V3k2ft5c0V1ExrvrbinxkpbyV8RrSm9UQqCFbfNWPKxEF5/Gy6DDFdcTsqwohUXxBIsbK+4VJNhoRUXTTIsZ8Vpqva+Fbsr7nVkZnrr7zpkkL6mcoTvRzhwoH9No6QbGOsdQfh+AuFQJ+MMljLOD5/k4EgnVwxmuc0HIwA23Fewn1v8iEzfdBzT35qP/lTkP6brXpTDqezgvox5fV/mTc3gojzUeyYyXd9EQxniRZeXfV4f9PUcB8TSH8rnsbqy19vDq0b8CPp6dteX/5ge6svwY4IYcHyPt4E4i9f7vIx7G2D4rp63CS7Ghccu74u2236JuEqNn4abRhZDtAx1v/6SVxl5eORNPp0/g9g+/FYl2TEh7ME6P7n5bmELCC+Qd3XbxQ+cyIsiH7u+62HndPoHeM1zqQ==",
   "createdDate": 1756169797481,
   "descriptionMarkdown": "A simple upcycler on Vulcanus",
-  "favorites": {
-    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true
-  },
   "image": {
-    "height": 0,
     "id": "7C16KQA",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1756169797481,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/general/early game/",
     "/production/inserters/",
@@ -27,5 +23,8 @@
     "/version/2,0/",
     "/mods/quality/"
   ],
-  "title": "Simple upcycler - Gears "
+  "title": "Simple upcycler - Gears ",
+  "favorites": {
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true
+  }
 }

@@ -7,15 +7,15 @@
   "createdDate": 1651592145960,
   "descriptionMarkdown": "For use with [Brian's Self Building Factory](https://factorioprints.com/view/-MNZWdWosuqr3vtaC2hD).\n\nThis blueprint is a pared down version of the Self Building Factory's Red Mall. I found the concept of building only the parts needed to sustain the mall and let it build itself daunting. I created this to simplify that step as the Red Mall is where the Self Building Factory really takes off.\n\nInstructions are simple. Following the [Self Building Factory Doc](https://docs.google.com/document/d/1b7OT1-h5GWfey4rIVNbMCXX-dMkoWLmcURutqrliLYE) instead of placing the Red Mall from the book, place this blueprint adjacent to the \"home\" block and fill it out. There are no LTN train stops in this blueprint in order to prevent trains from trying to drop off materials with no infrastructure in place and going back to the depot full. Once you've completed this blueprint, overlay the Red Mall from the Self Building Factory book, place the LTN stops for Iron Plates, Copper Plates, Steel Plates, Electronic Circuits, Advanced Circuits, and Stone. (The train stops built out in this blueprint) Sneaker net some Construction Roberts from the bootstrap into the one Robertport built from this blueprint, and let it build itself out.\n\nIf you're having troubles, [join the Discord channel](https://discord.gg/pZpCCmTKGz).\n# Changelog\n## V 1.0.2\nFixed Assembler responsible for building roboports not having the recipe\n## V 1.0.1\nReplaced Fast inserters with Stack inserters for Red Logistics (Thank you ZuveanTest from Discord!)\n## V 1.0.0\nFirst public release.",
   "favorites": {
-    "jlN6bIxd7dMjfX7SMjVIG4J4GID2": true,
-    "BdWNZc1S16MJ7fqy2U17o9urs2h1": true,
     "3WYj6F3HOdMZVaPeq82wnIkPti02": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "jU4LREy6RqeaK0Koqgq4G37vwsp1": true,
     "96scKksgGvSLlD12ApyoyA6CEFC3": true,
-    "M6acPpcrZEcHdIFj0q6jxQiN58v1": true,
+    "BdWNZc1S16MJ7fqy2U17o9urs2h1": true,
+    "Ei4dp6pmuKRZmwc8NE4LZzjpSFI2": true,
     "LkBVep4nlrbw8oQPBi7nwryTZWj1": true,
-    "Ei4dp6pmuKRZmwc8NE4LZzjpSFI2": true
+    "M6acPpcrZEcHdIFj0q6jxQiN58v1": true,
+    "jU4LREy6RqeaK0Koqgq4G37vwsp1": true,
+    "jlN6bIxd7dMjfX7SMjVIG4J4GID2": true
   },
   "fileName": "RedMallHarness.PNG",
   "image": {
@@ -25,7 +25,7 @@
     "width": 509
   },
   "lastUpdatedDate": 1686532510474,
-  "numberOfFavorites": 9,
+  "numberOfFavorites": 4,
   "tags": [
     "/general/mid game/",
     "/production/mall (make everything)/"

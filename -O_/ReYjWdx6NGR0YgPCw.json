@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "しーωー",
     "userId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3"
   },
   "authorId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3",
@@ -7,17 +8,15 @@
   "createdDate": 1758196284994,
   "descriptionMarkdown": "自作の船たち。\\\n少し研究を進めてないと宇宙船v1は耐えれないかも・。・\n\n宇宙船v2は他の研究も進めつつ強化できる武装研究は進めたあたり。\\\n宇宙船v3はゲームクリアまでの研究を完了し、レジェンダリー品質の物が揃うまで無限研究を回していたのでそこそこ高かったと思います。\n\n各所にあるランプはそれぞれの準備が整ったら緑に点灯します。すべての準備が完了すれば中央のランプが緑になるので、それを確認してから出発してください。\n\n白ポ船v2はスラスターがありますが、白ポ船v2.1にはありません。これはフルゴラで白ポ船v2を製造し、ナウヴィスで白ポ船v2.1に改築したためです。最大1000個/分ほどの生産力がありますが、電力不足で400/分ほどに落ち着くと思います。",
   "favorites": {
-    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "AuJgOHCnBZcQxawRUexhkKSHX7I2": true
   },
   "image": {
-    "height": 0,
     "id": "4zpSoIM",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1760452982502,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/space-age/"

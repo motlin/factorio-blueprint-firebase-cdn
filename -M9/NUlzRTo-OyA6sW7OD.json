@@ -7,16 +7,16 @@
   "createdDate": 1591696368201,
   "descriptionMarkdown": "Rail fed science city block producing 1k science per minute, direct insertion where possible, beaconed.\n\nYou need to connect water to several points north and south. One of the water inputs is sort of hidden in a train station down south.\nI use a mod to create water to place water pumps in at the entry points.\n\nIn this BP I included my DiY train logistics system. Each station around the BP will output how many trains is needed to fill the station to red wires (for 3-8 trains) or green wires (for 1-4 trains). Each station also has a fill indicator led system that tells you at a glance how many % full it is. The output from each rail wagon is also balanced so that for the most part a train can come in and empty almost all wagons completely when it arrives. (This will drift over time, but works well enough)\n\nNeeds quite a few logistics bots to operate. 5-10k depending on tech levels.",
   "favorites": {
-    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
+    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
     "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
+    "eIyj5ZIPw1e437TbNXf2m56kwLr2": true,
+    "QFPQJle6KveMndWikzAMKEeWZ3D2": true,
+    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
     "TUVHGQIzEpXOXx4HJTxE4elf1Aj1": true,
     "vzti3PEQNXTKu5CQrg7DU1zCQkK2": true,
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "QFPQJle6KveMndWikzAMKEeWZ3D2": true,
-    "8h4IJgxNSReiCyoWDH6XzBe1GcQ2": true,
-    "eIyj5ZIPw1e437TbNXf2m56kwLr2": true,
-    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
-    "NBDWFj9AClPZh8J9sOsdgUBu9Ba2": true
+    "NBDWFj9AClPZh8J9sOsdgUBu9Ba2": true,
+    "8h4IJgxNSReiCyoWDH6XzBe1GcQ2": true
   },
   "fileName": "1k science with rail grid.jpg",
   "image": {

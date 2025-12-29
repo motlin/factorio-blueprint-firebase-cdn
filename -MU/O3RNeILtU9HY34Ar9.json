@@ -7,18 +7,18 @@
   "createdDate": 1614254557354,
   "descriptionMarkdown": "#### Book contains:  \n* 'Naked stations' book \n* Book of rail blocks or parts of it;\n* Separate decor book;\n* All blueprints with fixed grid; \n* Separate signals blueprint;\n\n*Update 05.03.21:* \n* Now only 4 stations, 2 belts\\pumps per train, except of crude oil;\n* Oil logic should be ok now\n* Red\\Blue stations;\n* 12 stacker inserters with blue belts; \n\n*Update 26.02.21:* \n* Small fix of naming.  \n\nBook from my not released (Yet I hope) city blocks book.  \nMaybe not so effective, but I like design. ",
   "favorites": {
-    "rdRVCfokaHPIhtzVM4C6Upr82My2": true,
-    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
-    "5Rypp6aWAdSa1io8LiF3dP7lCiP2": true,
-    "7fSyJDSKXwY1InNj78jgw4QnzLv1": true,
-    "gQVlYrnt9ZdYvoxzwsfKYvCmxax1": true,
-    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
     "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,
-    "XMxIePvgcmhg6S678pSsw0YHGyx1": true,
-    "YbSKRbCDM3T7JI8Z6i9b8qAWZnR2": true,
-    "pJ0xkpmI7ThrocmOVjeyOCqdNb22": true,
     "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
-    "Y7m6Ofh9rrc2Ew8ElpQ96c432RA3": true
+    "rdRVCfokaHPIhtzVM4C6Upr82My2": true,
+    "Y7m6Ofh9rrc2Ew8ElpQ96c432RA3": true,
+    "YbSKRbCDM3T7JI8Z6i9b8qAWZnR2": true,
+    "m83kx0kZ4Qhf0VtRj6iHhJTCkFw1": true,
+    "pJ0xkpmI7ThrocmOVjeyOCqdNb22": true,
+    "7fSyJDSKXwY1InNj78jgw4QnzLv1": true,
+    "XMxIePvgcmhg6S678pSsw0YHGyx1": true,
+    "gQVlYrnt9ZdYvoxzwsfKYvCmxax1": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
+    "5Rypp6aWAdSa1io8LiF3dP7lCiP2": true
   },
   "fileName": "Stations.png",
   "image": {
@@ -29,7 +29,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Stations.png?alt=media&token=307445f4-d8d7-49c9-a9e6-5d9cc1fdfe83",
   "lastUpdatedDate": 1614964753158,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/train/loading station/"
   ],

@@ -7,18 +7,18 @@
   "createdDate": 1578485421400,
   "descriptionMarkdown": "Factorio 0.17 - Vanilla\n\nThis is my train-to-train smelting tile with logistics added. [Click for tile](https://factorioprints.com/view/-Ly3xCHU435iMlia1IMF). <b>Three flavors in this book: 90k Copper/m, 60k Iron/m, AND 6k/m Tile</b> (for convenience).\n\nLogistics = 2x15 bow train stacker, (Nuclear) Fuel station, Passenger station (I call them 'Visit X'), lights and Roboports for moving fuel.\n\nRed Wires run locally with each lane, keeping counts for station enable/disable and talking to rail signal. Please do not mix the red wires! Green Wires run globally, gathering number of stations available and signalling this to the Staging stacker for arrivals.\n\n<b>Cargo wagons delivering ore must have inventory filters!!</b> Key = click mouse wheel on inventory slot. The trains provided have filters and their schedules from my planning file base.\n\nI built this for my 2.7k/m, train grid base for 2-8 trains running on Nuclear Fuel. The grids are large at 6x4 train lengths for dimensions.\n\nThese just barely fit the grid. Its beautiful.",
   "favorites": {
-    "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
     "vl8w3rfB0ZY3Bx1Jhbvv0CjEce03": true,
+    "0N9Sn3v2yzZ0njf3OatIfBm9fw93": true,
     "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
-    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
-    "0N9Sn3v2yzZ0njf3OatIfBm9fw93": true
+    "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
+    "6PonYNhVO4SkExbWRA4SLnNmEpX2": true
   },
   "fileName": "smelt_t2t90kpm.jpg",
   "image": {
+    "width": 1920,
     "height": 1080,
     "id": "hGnuFcJ",
-    "type": "image/jpeg",
-    "width": 1920
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1578593863705,
   "numberOfFavorites": 5,

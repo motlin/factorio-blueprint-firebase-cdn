@@ -8,14 +8,14 @@
   "descriptionMarkdown": "Contains five reactor setups. \n1) 4 Reactor 480MW rectangle\n2) 4 Reactor 480MW square\n3) 10 Reactor 1.4MW by WonderSpaceShip\n4) 2xN Reactor 1.12MW + 1.28MW per tile\n5) UPS optimized 400 MW reactor\n\n1)-4) have circuit controls so they don't waste fuel by wasting heat, 1) and 2) also check that water and fuel are connected. 5) is a simple UPS efficient design, use it if uranium isn't an issue but cpu time is.\n\nBe aware that in most scenarios nuclear fuel cells are relatively cheap, and circuit controls to reduce waste are very rarely worth the time investment. But at the time I made these they were a good excuse to mess around with the circuit network.\n\nDisclaimer: These are from 2018 and I grabbed them from my backups, so I'm not 100% certain that everything works, but I sure hope it does ;)\n\nAlso contains a kovarex setup and a (slightly outdated) uranium mining station.",
   "favorites": {
     "MsvijdKJ6fWWBCx2JDxH6fVL4Kk2": true,
-    "caq3ZK9SsEdQrHOAi986sQoCnIX2": true,
+    "s5KhWKIJu3QfhBoJpHqLzNFIWE63": true,
     "rbWHB8UrYZf1YPo14F5Ng7ukNiE2": true,
-    "tBP8lbPmTJcOiQKQSke6s4BWaK63": true,
     "gQVlYrnt9ZdYvoxzwsfKYvCmxax1": true,
-    "fxUUf9bmPocayvolviiJJjOozpW2": true,
     "3STF2xm2ajcU5fjncDeHnyesaz02": true,
     "YmHoyx5fHIax8CqDcTqMdyiIi4o1": true,
-    "s5KhWKIJu3QfhBoJpHqLzNFIWE63": true
+    "caq3ZK9SsEdQrHOAi986sQoCnIX2": true,
+    "fxUUf9bmPocayvolviiJJjOozpW2": true,
+    "tBP8lbPmTJcOiQKQSke6s4BWaK63": true
   },
   "fileName": "Screenshot 2021-03-23 190203.png",
   "image": {

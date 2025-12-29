@@ -7,12 +7,12 @@
   "createdDate": 1647519901117,
   "descriptionMarkdown": "最小構成で作成しました。 （構築をし易いように、インサータの位置を多少融通しています。）\n\nこのBPの取扱説明書\n\n・コンクリートのために、鉄鉱石を手動で搬入する必要があります。\n\n・生産モジュール３のために、制御基板を120枚手動で搬入する必要があります。\n\n4種の素材を入力し続けるだけで、生産のバランスが取れるようにしています。\n\n（鉄、銅、石炭、石）\n\nRTAをする場合、太陽電池パネルと蓄電池とレーザータレットの備蓄用のチェストを外し、精密基板の備蓄を２００にしてください。\n\n材料の供給を維持できる限り、このBPで5時間は切れます。\n\nこの時点で衛星の打ち上げの工程を組み込めていますが、まだ最適化の余地があります。",
   "favorites": {
-    "2YnotwJC1xSI4FmOYinNljsjHbI3": true,
-    "MYQwIsY0HANXRrajiDisG3mynJ52": true,
-    "uamkFHxaaxO9ko646ZNJcB4G5c32": true,
-    "psMyzVlknDWObkXMF8LoyflUXYn1": true,
     "4azqeSlhbPM4gVkTJpHsQ8bA6sr2": true,
-    "v17CEqmZeJOABs3YnDWHVBMmjgw2": true
+    "uamkFHxaaxO9ko646ZNJcB4G5c32": true,
+    "2YnotwJC1xSI4FmOYinNljsjHbI3": true,
+    "v17CEqmZeJOABs3YnDWHVBMmjgw2": true,
+    "MYQwIsY0HANXRrajiDisG3mynJ52": true,
+    "psMyzVlknDWObkXMF8LoyflUXYn1": true
   },
   "fileName": "1.0P毎分でほぼ全自動ver4.png",
   "image": {
@@ -23,7 +23,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/1.0P%E6%AF%8E%E5%88%86%E3%81%A7%E3%81%BB%E3%81%BC%E5%85%A8%E8%87%AA%E5%8B%95ver4.png?alt=media&token=f3534c9b-ae9f-49c8-87a1-d9e9c25eb1b8",
   "lastUpdatedDate": 1651892249808,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 3,
   "tags": [
     "/production/science/"
   ],

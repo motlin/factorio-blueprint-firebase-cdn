@@ -8,8 +8,8 @@
   "descriptionMarkdown": "Este libro de un centro de fabricación para armamento modular permite fabricar armas, munición, granadas, etc. para el juego temprano del mod Space Exploration.\n\nCuenta con 18 planos numerados del 00 al 18 y se debe implementar al principio el plano 00 que es el que fabrica los explosivos e indica los materiales que se deben proveer y a partir de ahí se pueden colocar hacia adelante cualquier otro plano del libro en cualquier orden dependiendo de las necesidades de la fábrica.\n\nTambién incluye un plano de mejora para las cintas, insertadores y máquinas ensambladoras para aumentar la rapidez de la entrada de recursos y mejorar el tiempo de fabricación. Nota: se debe aplicar una sola vez por plano colocado ya que contiene cintas subterráneas de diferente nivel que van sobre la misma línea.\n\nCada máquina ensambladora tiene una salida a un cofre de almacenamiento logístico con filtro para el elemento fabricado y para disposición de la red logística. Los insertadores cuentan con una condición para que sólo inserten cierta cantidad de elementos, la cual se puede modificar dependiendo de las necesidades.",
   "favorites": {
     "1qUbiyWaYmMhnBZEGaWPcdW3LFO2": true,
-    "UQJD7Zd3nChS589kuPwvOhFocQn2": true,
-    "HLFtoGxWIGdqGCVDgz90vhk9f9W2": true
+    "HLFtoGxWIGdqGCVDgz90vhk9f9W2": true,
+    "UQJD7Zd3nChS589kuPwvOhFocQn2": true
   },
   "fileName": "SE HUB Armamento.png",
   "image": {
@@ -19,7 +19,7 @@
     "width": 2051
   },
   "lastUpdatedDate": 1698090027635,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 0,
   "tags": [
     "/mods/space-exploration/",
     "/production/mall (make everything)/",

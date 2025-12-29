@@ -7,24 +7,22 @@
   "createdDate": 1743948537087,
   "descriptionMarkdown": "Give it a try. Worked hard on this one and took a lot of inspiration from StupidFatHobbit's own design, but his only produced about 5 legendary asteroid per second, where as this produces around 8 of each and is only slightly longer, but thinner - And thinner mean better for UPS. \n\n<b> # The bottom two asteroid collectors need to have \"set filter\" activated (forgot to do it) </b>\n\n<b> # Each ship produces (at 300% asteroid productivity):</b>\n\n- Legendary Iron: ~3.375k/m\n- Legendary Carbon: ~1.625k/m\n- Legendary Calcite: ~80/m\n\n <b> # You need lv 22 laser damage for the ship to not take any damage!</b>\n\n <b> # This is a endgame design and uses primarily legendary items. The legendary fusion reactor is not required. A normal quality one will be sufficient. </b>\n\nIt automatically stops producing specific materials once a curtain threshold is meet. Future iterations will allow the user to chose which materials to produce and have more UPS friendly thrusters. \n\nRunning 8 of these ships non-stop from Vulcanus to Gleba is an UPS increase of around ~1.2-1.6 UPS when looking at an empty Nauvis.",
   "favorites": {
+    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
     "if0KvlQHynfuU1gZJTTBndH58b93": true,
+    "tWOI9GHidgXbh9i9JftUFklYAPj1": true,
     "46wodjBn7OXiWKTKYFlc0KFyKEH2": true,
     "AzGGBSolHZW4s57XC28yJjBlzDi1": true,
     "goxFBbgELBVPL0IOup2g8oZIoVq2": true,
-    "tWOI9GHidgXbh9i9JftUFklYAPj1": true,
-    "nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
     "TYsrumjqZNaTPn10a8KLQeMPwAg1": true
   },
   "image": {
-    "height": 0,
     "id": "KmNPoOV",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/KmNPoOV",
   "lastUpdatedDate": 1744106313596,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 3,
   "tags": [
     "/planets/space-platform/",
     "/mods/space-age/",

@@ -7,28 +7,28 @@
   "createdDate": 1567293235591,
   "descriptionMarkdown": "This factory produces just over 20k/min production science packs.",
   "favorites": {
-    "kzemT7l62Od5fvXMuuqRz2ThQEr2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
-    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
-    "KqHt1IYOoPgBlouic3okeU2NBEk2": true,
-    "WV5dTP2A7GaBekQdNc1k98CrE9C3": true,
-    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
-    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "fvIxjOHvS8dXJe6l6dRHKZCoUEs2": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true,
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "GhZ6OynKe9dfqjprzvE8MEU2s0A2": true,
+    "KqHt1IYOoPgBlouic3okeU2NBEk2": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
     "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
+    "kzemT7l62Od5fvXMuuqRz2ThQEr2": true,
+    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
+    "WV5dTP2A7GaBekQdNc1k98CrE9C3": true
   },
   "fileName": "20k Production Science 1b.jpg",
   "image": {
+    "width": 859,
     "height": 945,
     "id": "tsM0L0Z",
-    "type": "image/jpeg",
-    "width": 859
+    "type": "image/jpeg"
   },
   "lastUpdatedDate": 1567293235591,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/mods/vanilla/",
     "/production/science/",

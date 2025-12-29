@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "not Staz",
     "userId": "YQx9jBTrKhM29HXLjZ5FcJNh2By2"
   },
   "authorId": "YQx9jBTrKhM29HXLjZ5FcJNh2By2",
@@ -9,18 +10,16 @@
   "favorites": {
     "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
     "HnO4U7Oy9ugtG0TSt4c2gMIKilp1": true,
+    "KF434v09jCMvGg8cnoOJuedk3aa2": true,
     "fCzOQFsJHYf7cn8pKJIAXPEZdjj2": true,
-    "OGfpHtZz7hPUVW8yijZBKCcZFTt2": true,
-    "KF434v09jCMvGg8cnoOJuedk3aa2": true
+    "OGfpHtZz7hPUVW8yijZBKCcZFTt2": true
   },
   "image": {
-    "height": 0,
     "id": "gqdzDM3",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1763380318901,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/vanilla/"

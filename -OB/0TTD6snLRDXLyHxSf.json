@@ -7,30 +7,28 @@
   "createdDate": 1730896586753,
   "descriptionMarkdown": "This ship hits 1200 Km/sec and survives the trip. You will reach a planet in about 10 secs.\n\nHighly impractical, but its a prototype where the idea could be applied somewhere else.\nThis ship design makes use of the following ideas.\n1. There is a height limit above, but no actual limit building downwards and sideways\n2. Engines look like they can't be stacked, but their no-build zone isn't actually that long\n3. Speed of a ship is primarily affected by width and other factors barely dent speed.\n4. Landmine reactive armor allows you to uncap your travel speed. (to a certain extent!)\n\nVideo of the ship in action: https://www.reddit.com/r/factorio/comments/1gkxgdq/1200_kmsec_ship/\n",
   "favorites": {
-    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
-    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
-    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
-    "A5AAHUknDuN8vcRtSjsFLfs0Cjn2": true,
-    "AyAFMcPCCGeI7hrcT6OXGFR9Ltu2": true,
-    "GgmRzIAUZ3PLoLhZuPLbDHSmDGm2": true,
-    "OcN8Y3x0J3ZZuYxz1RWMRxVOHhQ2": true,
-    "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,
-    "77fy0DdvICfOUZ8MvVi7q1pH6bo1": true,
-    "3XL5NrAPK6VU94a7EBN8qNKxM6y1": true,
-    "NPvX83sZKEXnc64Kfk8z7xdI3yO2": true,
     "mIpA6HQwHDTK5aM9CKqwz9tpAwI3": true,
+    "GgmRzIAUZ3PLoLhZuPLbDHSmDGm2": true,
+    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
+    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
+    "AyAFMcPCCGeI7hrcT6OXGFR9Ltu2": true,
+    "rjX1jyDqfuYBfhHV0XmmPo56SG73": true,
+    "kVmtkA9T47YmfAdAvk6WWjMKntx2": true,
+    "NPvX83sZKEXnc64Kfk8z7xdI3yO2": true,
+    "3XL5NrAPK6VU94a7EBN8qNKxM6y1": true,
+    "A5AAHUknDuN8vcRtSjsFLfs0Cjn2": true,
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
-    "rjX1jyDqfuYBfhHV0XmmPo56SG73": true
+    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
+    "OcN8Y3x0J3ZZuYxz1RWMRxVOHhQ2": true,
+    "77fy0DdvICfOUZ8MvVi7q1pH6bo1": true
   },
   "image": {
-    "height": 0,
     "id": "24PBxft",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/h4K0OLZ",
   "lastUpdatedDate": 1730898212523,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 9,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/"

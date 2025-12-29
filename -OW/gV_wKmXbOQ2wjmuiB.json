@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Potato_Hoarder",
     "userId": "pW6CtYbRpnNPbtEXLR7hvSPRgs92"
   },
   "authorId": "pW6CtYbRpnNPbtEXLR7hvSPRgs92",
@@ -7,21 +8,19 @@
   "createdDate": 1754167140206,
   "descriptionMarkdown": "A basic left-hand drive tileable grid, to fit a [Wagon Wagon Locomotive Wagon Wagon] setup, with a built-in balancer in the centre, basic circuits to adjust the priority of the station based on the inventory of the buffer chests and lastly 2 wall segments that clip with each other and themselves to give full coverage on any angle + the refueling station.\n\nhttps://imgur.com/7nE7tAR\nhttps://i.imgur.com/V5nh8yW.png\n",
   "favorites": {
-    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
-    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
     "TCMDqDELmlXoVeVd58dCDzd3t1j2": true,
+    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "XH3znheELIcgeG9wX4PBJEP5Kh42": true,
-    "ho8nC1GS9GRfovEj8fAXk42egor2": true
+    "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
+    "ho8nC1GS9GRfovEj8fAXk42egor2": true,
+    "XH3znheELIcgeG9wX4PBJEP5Kh42": true
   },
   "image": {
-    "height": 0,
     "id": "iHkfScu",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754199798404,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/train/roundabout/",

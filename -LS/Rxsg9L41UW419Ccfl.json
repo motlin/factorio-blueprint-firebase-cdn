@@ -7,10 +7,10 @@
   "createdDate": 1572444015760,
   "descriptionMarkdown": "I've been working for some time on my train station and now - at least with 2 stations - its working like a charm. \n\nI've decided to use 141141 trains (loc - 4 trailers - col - loc - 4 trailers - col). They can bring whatever they want (stone, coal, copper, iron) and the station will filter the material for the output. \n\nIn order to work, there is also a buffer for every output, so the flow wan't stop. If the flow is stoped, the filter inserter want put out that material. \n\nThe trains arrive at a triage station, where they are send to the station with the least amount of material. The triage also checks the load of the train, and decides that the train with the least amount of material at a station is released. \n\nSo if station 1 has 100k material, station 2 50k, the next train is send to station 2. \nIf station 2 has 30k stone, 30k iron, 30k copper and 10k coal, the triage will send only a train with coal to station 2. \n\n\nLike I said, it workd now with 2 outputs\n\nLooking forward for your remarks\n\ncheers",
   "favorites": {
+    "EBd3PSy5S9OEkvUiB4NePYogrkE2": true,
     "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
     "ZitjyEzMRLawAMlSQOUEVeNn6eH3": true,
-    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
-    "EBd3PSy5S9OEkvUiB4NePYogrkE2": true
+    "wYexbdihmdg9U8DOP5G0yV7HpHj2": true
   },
   "fileName": "Bildschirmfoto 2019-10-30 um 14.52.53.png",
   "image": {

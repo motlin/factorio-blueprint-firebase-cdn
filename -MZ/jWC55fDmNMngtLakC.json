@@ -7,13 +7,13 @@
   "createdDate": 1648990933528,
   "descriptionMarkdown": "Some nuclear designs I've been playing around with.  The 8-reactor version is fully self-contained and self-building, just stamp it down and hook up the water pump and it'll go.\n\nFor the 16 reactor version I went with belt loops instead of chests at each reactor.  It uses a split belt, so it's important that you only feed fuel cells on the bottom lane of the input belt.  \n\nWater comes in from the bottom, so although it you don't need to do precise waterfill/landfill, it does need a reasonably straight bit of costal area to pull from\n\nPower Output:\n\n8-reactor - 1.12GW sustained, peaks up to 1.2GW\n16-reactor - 2.33GW sustained, peaks up to 2.4GW",
   "favorites": {
+    "maU7je24W6cqfu9R5pdiHbhkmHA3": true,
     "QI81FLgXd3YPwWbMRu9huk2s2L83": true,
     "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,
-    "HxUjysrGJ6bMNA1bfY6MBHMrIB92": true,
     "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
-    "maU7je24W6cqfu9R5pdiHbhkmHA3": true,
-    "CsbFyOJIQWY7FCcgL5C5ZL9JcHe2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "HxUjysrGJ6bMNA1bfY6MBHMrIB92": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "CsbFyOJIQWY7FCcgL5C5ZL9JcHe2": true
   },
   "fileName": "20220402190513_1.jpg",
   "image": {
@@ -23,7 +23,7 @@
     "width": 2560
   },
   "lastUpdatedDate": 1648990933528,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 6,
   "tags": [
     "/power/nuclear/",
     "/general/tileable/",

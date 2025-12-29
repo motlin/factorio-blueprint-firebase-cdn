@@ -7,18 +7,16 @@
   "createdDate": 1750587468445,
   "descriptionMarkdown": "This ship is designed with aquilo transporting in mind, and uses technologies from Nauvis (obviously), Vulcanus, Fulgora and Gleba. \n\nThe maximum speed this ship is capable, before swapping quality, is 270 km/s, which is also the cap for security reasons. I've attached a number of display panels and sirens for status checking and systems monitoring. \n\nThe kickstarting module has a safety condition to prevent the ship from travelling if it still exists.\n\nStay efficient! <3",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "6KEKntTaU1eHcuwE940GWH6FtYz1": true
+    "6KEKntTaU1eHcuwE940GWH6FtYz1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "e4CHKHQ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/TlI63dL",
   "lastUpdatedDate": 1752490308600,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/planets/aquilo/",
     "/mods/space-age/",

@@ -7,18 +7,16 @@
   "createdDate": 1736592820651,
   "descriptionMarkdown": "A medium-sized mobile space platform (aka a space ship) for logistics between the 5 planets including Aquilo.\n\nThe S2 is larger than the S1 and is designed with Aquilo travel and nuclear power in mind.\n\nI built 4 of these and ran them between Nauvis and Aquilo on loop, with a 900 (15 min) stop each side. After 6 hours, no impact incidents.\n\nDesign history:\n - S2 Proto A - Initial S2 shape, thrusters, collectors, and turrets. Individual lines for each asteroid type took up too much space. Required frequent manual cleaning. Rocket and Piercing Magazine production too slow, required imports from Nauvis.\n - S2 Proto B - Moved to single line from collectors. Improved Rocket production, Piercing Magazine production improved, but still too slow, requiring imports.\n - S2 Proto C - Full redesign of internals. Fewer steam turbines on power plant (original was overkill), larger lines as buffers for asteroid processing, moved to regular ammo magazines so steel and copper no longer required, and put in some reprocessing to deal with the high number of oxide asteroids at Aquilo.\n - S2 Proto D - Moved factories around and replaced furnaces with foundries. Kept getting jammed after 3-4 trips though, so abandoned this design, but implimented the Foundries backwards into Proto C.\n\nThe S2-F requires Uranium fuel cells which are always being slowly consumed, even when completely under solar power. I have also used rare solar panels so as to not consume steam while completely idle, even at Aquilo, but feel free to remove these as water becomes pretty abundant after the first trip out there.\n\nYou will also need to set up a planet to request depleted uranium fuel cells from space.\n\nCurrently in use with space-age vanilla 2.0.28",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true
+    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "vybGbY4",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/vybGbY4",
   "lastUpdatedDate": 1736652508464,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/planets/space-platform/",
     "/mods/space-age/",

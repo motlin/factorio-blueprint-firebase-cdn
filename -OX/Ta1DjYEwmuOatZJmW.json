@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "James Doe",
     "userId": "u4wGF0ZeHeZa0ZxrvR5gIMGWcF02"
   },
   "authorId": "u4wGF0ZeHeZa0ZxrvR5gIMGWcF02",
@@ -7,26 +8,24 @@
   "createdDate": 1755007428235,
   "descriptionMarkdown": "Absolute insane Ship but highly functional:\n\n1. ~  2k Legendary Iron Plates per minute\n2. ~ 60 Legendary  Calcite  per minute\n3. ~ 100 Coal Legendary  per minute\n\nThe best thing - beside not looking like a p€n!s - is, that it's powered by nuclear so you can use it before Aquilo, you might need 10+ in Asteroid productivity to work properly. \n\nAll items can be downgraded, I haven't tested that but should work just much slower.\n\nCredits to abucnasty for the initial design, I just transformed it to this behemoth with nuclear power.\n\nCheck out his YouTube https://www.youtube.com/@abucnasty, or github (https://github.com/abucnasty/factorio-benchmarks/tree/master/docs/blueprints) he has some great designs and ideas.",
   "favorites": {
+    "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "GrhIyn3m3BXyvFg6iGXSZhsemP72": true,
+    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "YoiszhSYNDXcJVOiwKKV2QVvrfF2": true,
     "V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
     "tyUda5pcwuVFJjD0xEXewxdkMao1": true,
-    "YoiszhSYNDXcJVOiwKKV2QVvrfF2": true,
     "pGfXgEIJ2CYyF499wGKW8jbGRj83": true,
-    "Wt4gjB3sDXfcZEAQvT0ftQyAzAY2": true,
-    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
     "4MIDyGpYpEgpSGKVAuKGt120n9w2": true,
-    "GrhIyn3m3BXyvFg6iGXSZhsemP72": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "Vx9R519Xg6TJDNtA74BzorAre3I3": true,
-    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+    "Wt4gjB3sDXfcZEAQvT0ftQyAzAY2": true
   },
   "image": {
-    "height": 0,
     "id": "QABB7Ac",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1755251869875,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

@@ -7,13 +7,13 @@
   "createdDate": 1658912862688,
   "descriptionMarkdown": "5 part All-science build using mostly 8 beacons, designed to be easy to use and reasonable cheap. Which produces and consumes 462 science per minute (spm).\n\nInputs and outputs are marked with constant combinators. \nInputs combinators have their resource marked in items per second, across all belts. E.g. in the red-green-black-blue science build the two stone belts are marked with [46 stone] which means you need at least 46 stone per second between the two belts to run it optimally. \nAll inputs raw input inserters to furnaces are stack filter inserters, to prevent belt spill. These can easily be converted to regular inserters.\nThere is a Large electric pole in most corners for easy power connection, each build also have full radar coverage and is fully covered by roboport construction area.\n\nThe mixed science was originally 3 different builds: a red-green, a military and a chemical science setup. That was combined to make it easier to connect the belts.\nThe lab setup has capacity to hold 2000 of each science pack. The lab setup uses a 12 beacon setup and consumes up to 469 spm (or 938 if you research follower robot count).\n\nThe builds needs max research on [inserter capacity size] and [lab research speed].",
   "favorites": {
-    "jUpWwmrWkmbaVl9qXGW0Kf5Qfs92": true,
-    "hzYYLQjW3BdUfdJv5lHis6Tw2Gi1": true,
-    "cM3Daw8ZbWQMo2nyvkR6a43aHMu1": true,
     "djjyCGmvBBevGTIoyrFJa5hlhAV2": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "jUpWwmrWkmbaVl9qXGW0Kf5Qfs92": true,
     "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
-    "1IS9z2CeW6U5wY3ze0PzBYTBp2A2": true
+    "cM3Daw8ZbWQMo2nyvkR6a43aHMu1": true,
+    "hzYYLQjW3BdUfdJv5lHis6Tw2Gi1": true,
+    "1IS9z2CeW6U5wY3ze0PzBYTBp2A2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "fileName": "Mixed science.png",
   "image": {
@@ -24,7 +24,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Mixed%20science.png?alt=media&token=2fb843d3-ede0-453a-8741-e8205c7e3239",
   "lastUpdatedDate": 1658912905238,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/rocket parts/",
     "/production/science/",

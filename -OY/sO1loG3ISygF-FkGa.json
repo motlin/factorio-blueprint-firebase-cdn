@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Final-Fan",
     "userId": "NYSmZdZIjdcuoEoaeg0twvprbdV2"
   },
   "authorId": "NYSmZdZIjdcuoEoaeg0twvprbdV2",
@@ -7,21 +8,19 @@
   "createdDate": 1756513971437,
   "descriptionMarkdown": "Used for 7h35/8h speedrun, then bugfixed and 101/111 crafts (and 12h/15h). 1 coal YB worth of steam can get the job done but 1.5yb is safer. Build as able/needed (obviously start with stone furnaces/yellow belts not steel/red). Blue belts not used (leftover from source design). Final-Fan",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
     "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true,
-    "JE31JxG7X9Urt38NIEqIifJRWkk1": true,
+    "0e70SN2mtyScM50IDbkFsI8p97W2": true,
     "CZLrNgU51qauVDklKOqBY3YXPwW2": true,
-    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true,
-    "0e70SN2mtyScM50IDbkFsI8p97W2": true
+    "JE31JxG7X9Urt38NIEqIifJRWkk1": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "ThmGKWuHFvRbykypnsGSTeRQIUm1": true
   },
   "image": {
-    "height": 0,
     "id": "Fh3C6uB",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1756513971437,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/"
   ],

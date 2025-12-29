@@ -7,19 +7,17 @@
   "createdDate": 1736619176542,
   "descriptionMarkdown": "Engineer at TF2, art factorio",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
     "ocV9ibG8mVVnvwjTVLYZf6Rq0jD3": true,
-    "23WCcSYBpuZ1XBIqplqsIZXdSso1": true
+    "23WCcSYBpuZ1XBIqplqsIZXdSso1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "FFQaT7t",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/FFQaT7t",
   "lastUpdatedDate": 1736619176542,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 2,
   "tags": [
     "/general/art/"
   ],

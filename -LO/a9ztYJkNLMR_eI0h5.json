@@ -7,14 +7,14 @@
   "createdDate": 1568303480593,
   "descriptionMarkdown": "Todas las blueprints en un pack.\n\nCada blueprint está diseñada para admitir 1 cinta azul llena de cada material y dar un rendimiento completo.",
   "favorites": {
-    "5gDW4XcEo6aVX5oqXAE1uP8H3mC2": true,
-    "feYXDNft3XZBCg3u1fJrwuRjt283": true,
     "wYexbdihmdg9U8DOP5G0yV7HpHj2": true,
-    "5JEIbF24sURyBkBocLzcDIwTfWr1": true,
-    "HM9JD08FBTMKaXGSpFUBMoGoHO02": true,
-    "SMWhgqNEqoYJ7cMuHmguLhb2ZNt1": true,
     "etpwQHKQ0ZP5HzlTEpS4AGQjjHD3": true,
-    "kWSBPB3IuObDXGJ28LbNsNQsDYJ3": true
+    "5gDW4XcEo6aVX5oqXAE1uP8H3mC2": true,
+    "kWSBPB3IuObDXGJ28LbNsNQsDYJ3": true,
+    "5JEIbF24sURyBkBocLzcDIwTfWr1": true,
+    "feYXDNft3XZBCg3u1fJrwuRjt283": true,
+    "SMWhgqNEqoYJ7cMuHmguLhb2ZNt1": true,
+    "HM9JD08FBTMKaXGSpFUBMoGoHO02": true
   },
   "fileName": "libro1.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 549
   },
   "lastUpdatedDate": 1568303480593,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 5,
   "tags": [
     "/mods/vanilla/"
   ],

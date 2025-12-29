@@ -7,22 +7,22 @@
   "createdDate": 1607060513739,
   "descriptionMarkdown": "This massive base knocks out all of the production required from ore to research for 1000science/min.  Just add bots/raw inputs.\n\nYou'll need to add the inputs in provider chests within logistic network range.  Recommended that you build a train station around the base, which can be included at request.\n\nRequirements: 25k logistic robots -- 8 GW power -- 112k iron/min -- 92k copper/min -- 19k stone/min -- 15k coal/min -- 262k oil/min (barrels) -- 6 offshore pumps worth of water (barrels)",
   "favorites": {
-    "2m1rajnQgpalpgA4j7ICyWInP1F2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "zZzErqlvZZXdlNqMeLugoNIRaed2": true,
-    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
-    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
+    "SRuynXKmokUf9x7YaaKuamMYjkr2": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "2m1rajnQgpalpgA4j7ICyWInP1F2": true,
     "khWSFOP0xxP5Y9iYmcwcHgXZScq2": true,
     "rsD3RssFJhVX3AQ14FJKgvidUeT2": true,
-    "SRuynXKmokUf9x7YaaKuamMYjkr2": true
+    "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
+    "zZzErqlvZZXdlNqMeLugoNIRaed2": true,
+    "lEPYdC58rvhWCgVGvgeoUBREKXf2": true
   },
   "fileName": "rocketttst.png",
   "image": {
+    "width": 1922,
     "height": 1080,
     "id": "X44C0Vp",
-    "type": "image/jpeg",
-    "width": 1922
+    "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/rocketttst.png?alt=media&token=6881fe01-414c-48cc-85e2-216713b363ef",
   "lastUpdatedDate": 1608190121186,

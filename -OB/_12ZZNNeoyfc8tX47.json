@@ -7,20 +7,18 @@
   "createdDate": 1731493116487,
   "descriptionMarkdown": "Self-sufficient ship with fusion reactors and rail guns for Aquilo logistics",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "cIWY2aGAZbXixquLct2pf8ojPcM2": true,
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,
-    "PkNscCO2ERelflsczrJLsVsPQ9B2": true
+    "PkNscCO2ERelflsczrJLsVsPQ9B2": true,
+    "cIWY2aGAZbXixquLct2pf8ojPcM2": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "2Vi9Inv",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/2Vi9Inv",
   "lastUpdatedDate": 1731493116487,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 1,
   "tags": [
     "/planets/aquilo/",
     "/planets/space-platform/"

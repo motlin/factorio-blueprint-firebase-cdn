@@ -7,10 +7,10 @@
   "createdDate": 1690658386735,
   "descriptionMarkdown": "Mostly intended as a backup power unit.\n\nComes with fuel burn time, steam and battery power displays. Has a build in burn controller; it can be set up to run all the time, or only when accumulators and/or steam in the system are depleted to a certain value. It uses one steam storage tank to monitor the steam level.  Control functions can be adjusted on signal generators.\n\nIt recycles spent fuel, and will request from the bot network materials needed to produce fuel.\n\nSetup is unusual - for the burn control to work it requires all reactors to be manually filled up to the max with *used fuel*, as burn start is controlled by removal of the used fuel. Burn shutdown is controlled by pumps cutting off the water supply. This should allow for the system to drain of all the fluids for maximum UPS efficiency when not in use, while maintaining enough residual heat in the system to start up quickly.  ",
   "favorites": {
-    "WtHOWeFT5vTtLILTMAgIl6sFJjq2": true,
-    "k7HRfs3hBBWTWSHzwYlucqOg5hT2": true,
     "naBzbggDLpeTXnC6YlI5UH3U58y1": true,
+    "k7HRfs3hBBWTWSHzwYlucqOg5hT2": true,
     "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
+    "WtHOWeFT5vTtLILTMAgIl6sFJjq2": true,
     "fLKLefUiu4MC3PVuahueF5WNKtA2": true
   },
   "fileName": "obraz_2023-07-29_201912355.png",
@@ -21,7 +21,7 @@
     "width": 1413
   },
   "lastUpdatedDate": 1690658729648,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 0,
   "tags": [
     "/power/kovarex enrichment/",
     "/power/nuclear/",

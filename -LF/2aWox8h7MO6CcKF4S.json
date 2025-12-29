@@ -7,11 +7,11 @@
   "createdDate": 1558059819193,
   "descriptionMarkdown": "This is my attempt at a 800MW 3x2 Nuclear Reactor.  It needs to be fed by at least 7 offshore pumps (I use 8 to cover pipe flow losses).\nIt works by determining if there is water available, enough nuclear fuel and then if the steam is low then it will insert one nuclear fuel into each of the reactors.  A timer starts (300sec) and at the end of the timer then it will check again to see if there is a need for more steam.  So it will work optimally at any load - only using the fuel it needs.\nThere may be some fluid flow limits near full load which I haven't fully worked out yet.\nThe counter on the top right is the time left in the fuel burning cycle.\nThe counter on the top left is the time since the reactors have been off.\nThe number at the top right is then the percent load calculated from the duty cycle.  You may need to put a couple of substations around the displays to cover all the lights - I think a couple got left off the blueprint.\nThere are four roboports so if you place one corner within range of your network then it should self-build OK.\n\nEnjoy!\nMadDavo",
   "favorites": {
+    "K1qi0KKpophdLZNmrAkgwLv9Mut1": true,
     "bLSNBxaDOhgPGALrThBBVL7PoVK2": true,
-    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
-    "etnjWyJhgBPpWti8xS0wmqZdKvq2": true,
-    "K1qi0KKpophdLZNmrAkgwLv9Mut1": true
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "etnjWyJhgBPpWti8xS0wmqZdKvq2": true
   },
   "fileName": "800MW Reactor.jpg",
   "image": {

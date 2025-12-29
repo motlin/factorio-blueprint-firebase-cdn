@@ -8,18 +8,17 @@
   "descriptionMarkdown": "For Reddit use",
   "favorites": {
     "xzpFbvqX3Dh9tNPNTEB0EUzhvM13": true,
-    "GlABljA7Y8XOU5rOOU7oD3VpB182": true,
-    "OIJHrM9nalegVOxIXYEViLYE3W32": true
+    "OIJHrM9nalegVOxIXYEViLYE3W32": true,
+    "GlABljA7Y8XOU5rOOU7oD3VpB182": true
   },
   "fileName": "copper 28k.jpg",
   "image": {
-    "height": 1908,
-    "id": "oNTD8ZT",
     "type": "image/jpeg",
-    "width": 1073
+    "width": 1073,
+    "height": 1908,
+    "id": "oNTD8ZT"
   },
   "lastUpdatedDate": 1609375360743,
   "numberOfFavorites": 3,
-  "tags": [ ],
   "title": "Copper 28000/m"
 }

@@ -7,24 +7,17 @@
   "createdDate": 1530372916353,
   "descriptionMarkdown": "Includes several powersetups.\n\nOne nucular powerstation with extendable 2,4 or 8 Reactors.",
   "favorites": {
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "QHBzIs46BkNR0y2RjPg7m1tdPS63": true,
-    "BZphzBTg2TTnlvwJcA3oEjtzKCH3": true,
-    "xGnRG1D4JGP6Q2cVES72OyQOQE73": true,
-    "TPonfvHLqiTzDbdJg0Sv7KZglAA3": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
-    "gewP18YAizT9mF6OrobraYq0iFE3": true,
-    "b1E2T6w2XSWHqUC3CrrEN8RT9I53": true
+    "BZphzBTg2TTnlvwJcA3oEjtzKCH3": true
   },
   "fileName": "20180630173226_1.jpg",
   "image": {
-    "height": 997,
-    "id": "rCiD1QE",
     "type": "image/jpeg",
-    "width": 727
+    "width": 727,
+    "height": 997,
+    "id": "rCiD1QE"
   },
   "lastUpdatedDate": 1530372941221,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 7,
   "tags": [
     "/power/nuclear/",
     "/mods/vanilla/",

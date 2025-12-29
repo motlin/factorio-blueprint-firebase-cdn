@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "l3goo0",
     "userId": "fOB8TSahJKRmQh5tndWANyThfJu2"
   },
   "authorId": "fOB8TSahJKRmQh5tndWANyThfJu2",
@@ -7,26 +8,24 @@
   "createdDate": 1757836211477,
   "descriptionMarkdown": "Everything in the game in 1 book\n",
   "favorites": {
-    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
-    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true,
-    "V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
-    "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true,
-    "mY4UhbPxldfjSGTg70yCTiAtu383": true,
-    "5ZLs84NU6icyLFxLVkCgjV3iBCN2": true,
-    "tz3L63DyzlhXENOQQH9z2KomMxA2": true,
     "suU20duBL7eiCTLH8bimL4U9aH23": true,
+    "5ZLs84NU6icyLFxLVkCgjV3iBCN2": true,
+    "V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
+    "mY4UhbPxldfjSGTg70yCTiAtu383": true,
+    "4rfV7s1iBngVjmZxgA8kcTZh3HG2": true,
+    "0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true,
     "2rCcX2kFr0f112vM1hay2F0aPQ22": true,
+    "uCYgkdC5Txb7C5dgX0Cki37l2xh2": true,
     "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
-    "4rfV7s1iBngVjmZxgA8kcTZh3HG2": true
+    "tz3L63DyzlhXENOQQH9z2KomMxA2": true,
+    "FzgC7ZNFJiVhv4RBXNHco4FpjSu1": true
   },
   "image": {
-    "height": 0,
     "id": "RxS0tJT",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1757878192682,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/",
     "/mods/space-age/"

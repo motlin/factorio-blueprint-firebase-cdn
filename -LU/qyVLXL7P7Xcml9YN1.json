@@ -8,22 +8,22 @@
   "descriptionMarkdown": "Smelters taken from this bp: https://factorioprints.com/view/-LIx_tskaqaQCBitEUBH\n\nRails from this bp: https://factorioprints.com/view/-Lk7pa0J7Xj8gEoJbBkb",
   "favorites": {
     "XWZFJkzhVrYVJR0nfDoLtSu2hTC3": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "o3RlakDgveUdxRYHpnGCRsCXheb2": true,
     "ESmSdqwV73ZpxHGMnKec6qGTz6G2": true,
-    "nXWEE1cr1paatsuIc6xPDCZg89s1": true,
-    "aI9AmaZjrJT50rl5N9Lmyd4TRfr1": true,
-    "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true,
-    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
     "NP8vcDObOVbEiAsJaPEVofdPeII3": true,
-    "PzGzosjPBZSr5GBUGvcfYXvDjjx2": true
+    "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true,
+    "o3RlakDgveUdxRYHpnGCRsCXheb2": true,
+    "1sPvUkBfeLRMHhLyEjzZHtILxGt2": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "PzGzosjPBZSr5GBUGvcfYXvDjjx2": true,
+    "nXWEE1cr1paatsuIc6xPDCZg89s1": true,
+    "aI9AmaZjrJT50rl5N9Lmyd4TRfr1": true
   },
   "fileName": "smelter_c_i.jpg",
   "image": {
-    "height": 2000,
-    "id": "0Pec2ji",
     "type": "image/jpeg",
-    "width": 2000
+    "width": 2000,
+    "height": 2000,
+    "id": "0Pec2ji"
   },
   "lastUpdatedDate": 1575027869556,
   "numberOfFavorites": 10,

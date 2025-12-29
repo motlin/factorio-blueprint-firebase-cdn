@@ -7,11 +7,11 @@
   "createdDate": 1683914395084,
   "descriptionMarkdown": "Blue Science Book",
   "favorites": {
-    "0hLtED1CmFVE97c2UC3a1YfY7hf2": true,
-    "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
     "qtCtD6N6IPVllLvNhjxbJgVK7eD2": true,
     "FJOfvsn9HCM233JIl2TURRw9cJK2": true,
-    "EBBAfvcwLCS9NQ3H2xHvqPxfaEj2": true
+    "gVRgSZ9rSmZpOMGUJ0HoXrXwSOv1": true,
+    "EBBAfvcwLCS9NQ3H2xHvqPxfaEj2": true,
+    "0hLtED1CmFVE97c2UC3a1YfY7hf2": true
   },
   "fileName": "4 blue.PNG",
   "image": {
@@ -21,7 +21,7 @@
     "width": 70
   },
   "lastUpdatedDate": 1683914395084,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/general/beaconized/"
   ],

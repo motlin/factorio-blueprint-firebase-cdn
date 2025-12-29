@@ -7,26 +7,26 @@
   "createdDate": 1549520256986,
   "descriptionMarkdown": "This is a [Gigabase-compatible](https://factorioprints.com/view/-LY5Lm5wbvM1gwtE1cSc) blueprint book for a modular, extensible, and flexible main bus. Primary features include:\n\n- Bidirectionally unordered. When connecting factories to the bus, any arrangement or ordering of the factories works. There is no need to, for example, ensure the green circuit factory is on one particular side of the red circuit factory or that both are on the same side of the blue circuit factory. Inputs to the bus go all the way to one end of the bus before looping back around and splitting off to outputs, so no matter where an intermediate product factory is placed, its products will always be reachable from any output joint of the bus.\n\n- Extensible along both axes. The bus can be extended lengthwise (allowing for more factories) and extended widthwise (allowing for more lanes) arbitrarily far.\n\n- Buffered construction. A logistics buffer chest in each chunk requests belts, underground belts, and splitters, allowing construction robots to extend the bus quickly without crossing the entire map to a belt factory.\n\n- Backpressure-aware joints and balancers. Factories that consume items at a slower rate than the bus produces them will cause the bus to buffer until it reaches a joint that is upstream from the slow factory, causing the upstream factory to receive the extra items not consumed by the downstream factory. Bus input and output connectors should always be guarded with balancers, and a bus joint should always be preceded and followed by a balancer chunk. As long as factories consume or produce items in a lane-balanced manner (i.e. no favoring the left or right lanes of each belt), the bus will always be balanced even if factories don't consume or produce all 8 lanes of items.\n\n- Compatibility with the [Gigabase](https://factorioprints.com/view/-LY5Lm5wbvM1gwtE1cSc) framework. This provides roboport coverage, radar coverage, and power lines, allowing the bus to be built and extended by robots. Note that the bus can be built on top of already-built Gigabase framework chunks, so the player can expand their base before deciding how much of that space should be allocated to expanding their bus.",
   "favorites": {
+    "YHQD5Ha9yhWEHdoaJWoDlOYnEzz2": true,
+    "WIBaJ3dgD5SYUN6SssLi7gJ02C23": true,
+    "LsekH5un5nXmFrxkfUXTL0yBWck2": true,
+    "mwTpoIFBSVTzYUStC0tNay5QzoA2": true,
     "jpsdgPRUJAcXGHSAHDGIm9qy1WL2": true,
     "ou7Xe1QLsvW84fMfmi21u2wbY6x1": true,
-    "1gkrnWUJU7RPwQaB2NzqHqK1T9G3": true,
-    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
-    "9JLFC4LbNSdSjz3VD1hQWXtYgBT2": true,
-    "mwTpoIFBSVTzYUStC0tNay5QzoA2": true,
-    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
-    "YHQD5Ha9yhWEHdoaJWoDlOYnEzz2": true,
     "C6Q4wwKZ87Oo7naRekUK2S062iy1": true,
-    "LsekH5un5nXmFrxkfUXTL0yBWck2": true,
-    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
+    "9JLFC4LbNSdSjz3VD1hQWXtYgBT2": true,
     "tQSpUW2HI7ac9uWHnn56coKvK4F3": true,
-    "WIBaJ3dgD5SYUN6SssLi7gJ02C23": true
+    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
+    "GkEsSqiY1lRQruvdtBBYG3hTD402": true,
+    "1gkrnWUJU7RPwQaB2NzqHqK1T9G3": true,
+    "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true
   },
   "fileName": "Screen Shot 2019-02-06 at 9.43.05 PM.png",
   "image": {
-    "height": 1564,
     "id": "mA2VKgg",
     "type": "image/jpeg",
-    "width": 2326
+    "width": 2326,
+    "height": 1564
   },
   "lastUpdatedDate": 1549520318655,
   "numberOfFavorites": 13,

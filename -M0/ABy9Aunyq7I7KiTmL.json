@@ -7,11 +7,10 @@
   "createdDate": 1581809656543,
   "descriptionMarkdown": "This 3x3 chunk design can be expanded entirely from map view if chunk-aligned properly. In addition, the blueprint contains landfill to allow placing it on water from the map view (however, you will need to place it more than once, since entity ghosts cannot exist on top of landfill ghosts).\n\nThe net power output is 30.3632 MW when the buildings at the corners overlap with surrounding stamps of the blueprint.",
   "favorites": {
-    "rJCjovdfpGOSCE273JbyQKOafl03": true,
     "TpXnPrHsYrTD6eoEWvS9KVGOUWC2": true,
-    "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
     "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true,
-    "OcBvLHMi5QRbuSul7nFtRgG5uZG2": true
+    "ST2GJsNSStd3jPhlubAB1r2ebMY2": true,
+    "rJCjovdfpGOSCE273JbyQKOafl03": true
   },
   "fileName": "3x3 Chunk Solar Array small.png",
   "image": {
@@ -21,7 +20,7 @@
     "width": 1696
   },
   "lastUpdatedDate": 1581809776833,
-  "numberOfFavorites": 5,
+  "numberOfFavorites": 4,
   "tags": [
     "/power/solar/",
     "/mods/vanilla/",

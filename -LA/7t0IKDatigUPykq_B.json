@@ -7,18 +7,18 @@
   "createdDate": 1552779842852,
   "descriptionMarkdown": "High efficiency electric smelting arrays for both red and blue belts. Useful when trying to minimize pollution output and before beacons. Does not include a roboport, but there is space in the steel arrays to place one down if desired. All arrays have a balancer that will prevent uneven smelter output even if the output line backs up to the splitter due to uneven use downstream. See my <a href=\"https://factorioprints.com/view/-La7ns3faPtbqyeA4hyC\">Single-Line In/Out Balancer Book (link)</a> for more details on this feature.\n\n1. Red smelting array: 30 plates/second. Consumes 4.2MW. Generates 19.1 pollution/m.\n2. Blue smelting array: 45 plates/second. Consumes 6.3MW. Generates 28.8 pollution/m. 2 extra smelters over theoretical fill-count to smooth out belt compression.\n3. Single Red Steel lane. 6 steel/second. Consumes 10MW (rounded up for smoothing). Generates 38.4 pollution/m.\n4. Full Red Steel array. 30 steel/second. Consumes 40MW (rounded up for smoothing). Generates 191 pollution/m.\n5. Single Blue Steel lane. 9 steel/second. Consumes 12 MW (rounded up for smoothing). Generates 57.1 pollution/m. \n6. Full Blue Steel array. 45 steel/second. Consumes X MW (rounded up for smoothing). Generates Xa pollution/m. \n\n<strong>Changelog</strong>\n\n2019.03.17 : \n- Single lane and full array steel smelting for Fast and Express belts added.",
   "favorites": {
-    "Lfpy05C7AaccITL3Rkd8NClrGW82": true,
-    "ovJD6hAXo9hSba4l3bmn9goxzkK2": true,
-    "eNQYJc3lHSXbMUiL3upBwXgnvmi2": true,
     "gzlqHtZj6ycci2BZ0RmUJdp6Uhx1": true,
-    "udHlvZwtdRNAieUUoh09UDmXMqv1": true,
-    "bU7slhJtBsh8xOBdIN1f3TRixkl2": true,
     "u87RAeLIkFfiWxLfvxnIbcRBCDA3": true,
-    "LuonmNlVcaeeaqLhrUyNK6Yld7B3": true,
-    "Q5L5x1zFBNV3G3GFSi7gHFzy72z1": true,
+    "ovJD6hAXo9hSba4l3bmn9goxzkK2": true,
     "6nvml2YP2adY24rxfR3q4McsDti2": true,
+    "LuonmNlVcaeeaqLhrUyNK6Yld7B3": true,
+    "bU7slhJtBsh8xOBdIN1f3TRixkl2": true,
     "flKCIjvvSkSir05w1njyXaeSzd23": true,
-    "bpJ8fr93bUeSycGXSW1WdpZqzRy1": true
+    "bpJ8fr93bUeSycGXSW1WdpZqzRy1": true,
+    "Lfpy05C7AaccITL3Rkd8NClrGW82": true,
+    "Q5L5x1zFBNV3G3GFSi7gHFzy72z1": true,
+    "udHlvZwtdRNAieUUoh09UDmXMqv1": true,
+    "eNQYJc3lHSXbMUiL3upBwXgnvmi2": true
   },
   "fileName": "Efficient Steel Array.png",
   "image": {
@@ -29,7 +29,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Efficient%20Steel%20Array.png?alt=media&token=7ad2b692-1707-41ca-8061-2812961cde92",
   "lastUpdatedDate": 1552843339190,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/production/smelting/",
     "/mods/vanilla/",

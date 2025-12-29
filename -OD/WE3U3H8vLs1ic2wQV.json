@@ -7,18 +7,16 @@
   "createdDate": 1733576903179,
   "descriptionMarkdown": "A somewhat sus ship",
   "favorites": {
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "0BPXzQRKNWPjFno86E1T8vVDxtz1": true
+    "0BPXzQRKNWPjFno86E1T8vVDxtz1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "4Y4vLMM",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/4Y4vLMM",
   "lastUpdatedDate": 1733576940045,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/mods/space-age/",
     "/planets/space-platform/"

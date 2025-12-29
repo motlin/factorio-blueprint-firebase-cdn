@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "David McDonough",
     "userId": "jZDMYC24BbRMPKGTo745mEJ9qsF2"
   },
   "authorId": "jZDMYC24BbRMPKGTo745mEJ9qsF2",
@@ -7,21 +8,19 @@
   "createdDate": 1762731975628,
   "descriptionMarkdown": "should be good for about 10k/min of science\nBased off reddit post by poopiter_thegasgiant",
   "favorites": {
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
-    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
-    "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,
     "xsgANniFt0XomK4rBH91A4ce7cX2": true,
+    "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,
+    "Rn5P1lU4oHRx4HoWs2BREUZCZKO2": true,
     "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+    "Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
+    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   },
   "image": {
-    "height": 0,
     "id": "tZDjKBc",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1762731975628,
   "numberOfFavorites": 9,

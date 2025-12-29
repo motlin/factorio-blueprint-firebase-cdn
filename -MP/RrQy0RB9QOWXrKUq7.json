@@ -7,20 +7,20 @@
   "createdDate": 1608949547933,
   "descriptionMarkdown": "Old design: https://factorioprints.com/view/-MNVsIQa3oRywNNIjp7w\n\nThe new design uses 8 beacons, nearly twice efficient in terms of production rate, size, building cost, and entity update.\nEach unit produces 924 packs/min. The number may seems awkward, but it's the result of strictly following the 5:6:5:12:7:7 ratio.\nEverything I said to my old design applies to the new one. Left & right does not matter when having mixed belt/half belt input.\n\nHow to tile: Click and drag. The rows of beacons on both sides will be shared.\n\nNote: In the rocket block, the pipes are internally connected, so you won't need more pipe inputs if the existing ones can provide enough throughput.\n\nI have included the 504/min old design in the book as well, I guess it can be useful if you want a smaller factory, or use it as a stepping stone.\n\nUpdate 28/12/2020: Fixed dedicated rocket control factory not producing the right amount.",
   "favorites": {
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "7c8aYVJ9EQhfqIsFiyNGbytKF5B2": true,
     "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
-    "hSB9C9izavgEAXIAu3cPFZ4uFTo2": true,
-    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
     "W3SObEod8PVZM2Df2YH8ySJKtF02": true,
+    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
+    "nYAi8sVARjMdXYPb2EzW9U3YqAd2": true,
+    "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true,
+    "kpWw9bmXQ6dm2q0CMjz8PSfXiWq2": true,
     "Bg3gpLiJ4AcPPnoQTJG3yE6NrZn1": true,
     "6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
-    "BOIqg2z8ujg63YmEqQnvnQYi6Xv1": true,
-    "nYAi8sVARjMdXYPb2EzW9U3YqAd2": true,
-    "7c8aYVJ9EQhfqIsFiyNGbytKF5B2": true,
-    "PhX25s1CD6VRwRZxRNqdd3anLAl2": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
-    "kpWw9bmXQ6dm2q0CMjz8PSfXiWq2": true,
-    "OBuZV0NfcWYqE45Z5R31Kutv4dw1": true
+    "8BIgihRfQuSPH60G4RohF4NQ6a52": true,
+    "OBuZV0NfcWYqE45Z5R31Kutv4dw1": true,
+    "hSB9C9izavgEAXIAu3cPFZ4uFTo2": true
   },
   "fileName": "20201226150956_1.jpg",
   "image": {
@@ -30,7 +30,7 @@
     "width": 1920
   },
   "lastUpdatedDate": 1609144301267,
-  "numberOfFavorites": 14,
+  "numberOfFavorites": 13,
   "tags": [
     "/production/rocket parts/",
     "/production/research (labs)/",

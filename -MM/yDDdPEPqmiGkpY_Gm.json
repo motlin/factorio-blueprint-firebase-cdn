@@ -7,20 +7,20 @@
   "createdDate": 1606287944494,
   "descriptionMarkdown": "Блочные рельсы с привязкой к сетке в 100х100 клеток. Плюс разметка для блоков. Если нужно строить не по сетке - можно снять галочку \"Абсолютная опорная точка\" и ставить как угодно",
   "favorites": {
-    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
-    "5lNH10hkRDN6ZM70zQ4jmNaKd5O2": true,
-    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
-    "gYy0jUcKRNgxpqaOhC1oDiMecdB2": true,
-    "KuAiC8Q5yDSfZd6w3GDEYGWtKxY2": true,
-    "jUiBNpU45EW7s8r2km0Ik1ydcpa2": true,
-    "UCvvlaxkLQOoVgXniqEz2jrKZas2": true,
-    "j0MLH9TUGuPmy96D4IUkLoavKpp2": true,
-    "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true,
-    "WS6mFPHoO4SkWe7LkBLcUctjcEr1": true,
     "1J8pPdEeKnNKbM7emTorLFyVm7l2": true,
-    "1n0dMipPncOJsH2T0W0w0ZUz1zR2": true,
+    "2NiZfy8LZVSNhM0vsDT4RNuIUdh2": true,
+    "KuAiC8Q5yDSfZd6w3GDEYGWtKxY2": true,
+    "WCn9tslQsAOlumfr5JH4DhdK6Zi1": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
-    "J1DJTu2GpxTBQCHL84qQbYwnR6U2": true
+    "j0MLH9TUGuPmy96D4IUkLoavKpp2": true,
+    "WS6mFPHoO4SkWe7LkBLcUctjcEr1": true,
+    "MQXR5LDUsMXt6rDXuyMB24yFH4m1": true,
+    "5lNH10hkRDN6ZM70zQ4jmNaKd5O2": true,
+    "jUiBNpU45EW7s8r2km0Ik1ydcpa2": true,
+    "J1DJTu2GpxTBQCHL84qQbYwnR6U2": true,
+    "gYy0jUcKRNgxpqaOhC1oDiMecdB2": true,
+    "UCvvlaxkLQOoVgXniqEz2jrKZas2": true,
+    "1n0dMipPncOJsH2T0W0w0ZUz1zR2": true
   },
   "fileName": "rail_block_4_w.png",
   "image": {
@@ -30,7 +30,6 @@
     "width": 1082
   },
   "lastUpdatedDate": 1631472273911,
-  "numberOfFavorites": 14,
-  "tags": [ ],
+  "numberOfFavorites": 11,
   "title": "Рельсы (ситиблоки)"
 }

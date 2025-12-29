@@ -7,14 +7,14 @@
   "createdDate": 1647804722635,
   "descriptionMarkdown": "This Blueprint Book contains everything I needed to prepare to build up a massive base while defending from the biters. The core of the book is the \"Building Block\" system that provides a fully chunk aligned system to give plenty of building space that is defended from biters. \n\nTo be clear this is NOT a base in a box. You will still need to design your factory! All this does is give you neat orderly blocks for siloing various portions from each other.\n\nFrom the basic factory building \"block\" featuring a completely usable 5x5 square of chuncks in side the bounding rails and walls with plenty of space for activities, to the stupidly massive 11x11 \"block\" you will always have all the room you need and everything will always align perfectly so your map screen stays nice and clean!\n\nThe rail system is fully chunk aligned and configured for RHD with laser turrets and robo ports down the center of the rails. The robo port construction covers the entire perimeter. However if you need full constructor bot coverage of an entire block then you will need to add and power up one more robo port in the center of the block (for the 5x5, the larger blocks will need more).\n\nNOTE: The blocks have basic bricks down the rail lines for early game speed boost and concrete in the center. \nNOTE: Need power? There's a block FILLED with Accumulators and Solar Panels with a 0.86 ratio. Let those Laser Turrets free!\n\nThe only mods this setup uses is the loaders and bulk rail loaders and this is primarily out of a concern for space saving (the irony!). Don't wory though you don't have to use those mods to make use of the blocks though you will need to reconfigure the Bus loading zone a bit. ",
   "favorites": {
-    "oze12jqqGNPBaRHVyEruuC94eyw2": true,
-    "k218UOibx2envvHmgegzIJFIAng2": true,
-    "2FuavxfG9qWs1eYxBoBmhflWzvm2": true,
     "nKnIo8pmZjVuf336C2oaYTD4ofq1": true,
     "Sw9j44qGAHVHkYOVoPClW4j0KwJ2": true,
     "WK7gsdvK8qbgWsoZu8V8ar8Osy82": true,
+    "oze12jqqGNPBaRHVyEruuC94eyw2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "2FuavxfG9qWs1eYxBoBmhflWzvm2": true,
+    "k218UOibx2envvHmgegzIJFIAng2": true
   },
   "fileName": "1233-1235-max.jpg",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1233
   },
   "lastUpdatedDate": 1647804722635,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 6,
   "tags": [
     "/power/solar/",
     "/version/1,0/",

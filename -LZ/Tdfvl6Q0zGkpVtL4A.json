@@ -7,19 +7,19 @@
   "createdDate": 1579988467624,
   "descriptionMarkdown": "Factorio 0.18 - Vanilla\n\nIron Ore forged into Steel by 1.2k Furnaces (1:1 ratio) w/ 10 Beacons a piece. Built to exceed demands of my 2.7k SPM base running 2-8 Nuclear-fuelled trains. [Kirk McDonald Calculator for my little monster](https://kirkmcdonald.github.io/calc.html#data=0-17-60&min=4&belt=express-transport-belt&dm=p3&db=s3&dbc=16&items=steel-plate:f:600&modules=iron-plate:;s3:20,steel-plate:;s3:20).\n\nIncludes color-coded trains with schedules and wait conditions. Also includes (Nuclear) fuel station (deposit a few Logi Bots please!), PAX station (I call them 'Visit X'), and dummy stations to prevent silly train issues.\n\n<b>Regarding circuitry:</b> Red Wires run locally with each lane, counting items and relaying info to that lane's Combinators and Rail Signal. Please do not mix the Red Wires! Green Wires run globally, gathering number of stations available and signalling this to the Staging stacker for arrivals awaiting their circuit conditions.\n\n<b>Update:</b> Trimmed some belts and rails. Adjusted and trimmed a few electric poles. Added tile to screenshot and tags.",
   "favorites": {
-    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
-    "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
-    "pocQb1EV4IQsVPcxZE0apBAO1vj1": true,
     "JmZDbQTTorT5wVCvtJW24dyIZrD3": true,
+    "dVZRbO5knYfEwuYUATTQj8NqQjP2": true,
+    "pocQb1EV4IQsVPcxZE0apBAO1vj1": true,
+    "XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
     "V515dCjEUngAzrK44nUMwDHWagn1": true,
     "MeT1rD5U3ZX4EHudNlR2eau7KsI2": true
   },
   "fileName": "Steel Mega-vert.jpg",
   "image": {
-    "height": 1694,
-    "id": "9G9I3HN",
     "type": "image/jpeg",
-    "width": 1924
+    "width": 1924,
+    "height": 1694,
+    "id": "9G9I3HN"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Steel%20Mega-vert.jpg?alt=media&token=c7240d75-3cfc-4089-bffe-13aa777e8f03",
   "lastUpdatedDate": 1580137608517,

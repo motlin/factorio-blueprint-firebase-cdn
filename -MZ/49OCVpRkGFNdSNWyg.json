@@ -7,9 +7,9 @@
   "createdDate": 1619289281639,
   "descriptionMarkdown": "This is a RHD **smelter station** add-on to [Kano96](https://factorioprints.com/user/gV45wzv9r7Rlc6uUCElRvxOjzZu2)'s excellent [Foundation Rail Set LHD/RHD](https://factorioprints.com/view/-MCI-x5PWCYICIgr5MQ4).\n\nThe **emphasis** was on size and output, which is why the smelter has a decadent power consumption. The output matches the input, which is 12 fully compressed *Express Transport Belts* (blue) or 540 items per second.\n\nThe smelter is supposed to run **with the beacons**, but if you lack the power generation or the 1,000 *Speed Modules 3* you can choose to add them later. Which is why the blueprint book contains two blueprints:\n\n  - The smelter with station \n  - and the beacons.\n\n###### **Stats With Beacons**\n\n - Output: 540 items/second\n - Power consumption: 470 MW (satisfied by 44 [Solar Farms](https://factorioprints.com/view/-MH2Gl2ulm0qRO2SVGwj))\n\n###### Stats Without Beacons\n\n - Output: 67.5 items/second\n - Power consumption: 55 MW (satisfied by 5 [Solar Farms](https://factorioprints.com/view/-MH2Gl2ulm0qRO2SVGwj))\n\n\nVersion 1.0.0",
   "favorites": {
-    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "gV45wzv9r7Rlc6uUCElRvxOjzZu2": true,
-    "1e2633bSwcS1aKjghVUMb7mtl0v2": true
+    "1e2633bSwcS1aKjghVUMb7mtl0v2": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true
   },
   "fileName": "FoundationRailsSmelter.jpg",
   "image": {

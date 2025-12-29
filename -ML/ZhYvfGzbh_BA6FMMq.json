@@ -7,11 +7,11 @@
   "createdDate": 1633777238319,
   "descriptionMarkdown": "Ready for expansion to mega base",
   "favorites": {
-    "6vFsb2jNgrQhJm85cvFyjIke3J72": true,
     "63FrkF2o8xQ9iBVPSBfDcjJ3Lfw2": true,
-    "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,
     "PPZ3LAFehyN8eSL2L98RJvA4eem1": true,
-    "DQfX7SBbUzUhrYv3L7v6MGQm3Am2": true
+    "DQfX7SBbUzUhrYv3L7v6MGQm3Am2": true,
+    "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,
+    "6vFsb2jNgrQhJm85cvFyjIke3J72": true
   },
   "fileName": "crebs.PNG",
   "image": {
@@ -21,7 +21,6 @@
     "width": 972
   },
   "lastUpdatedDate": 1633777238319,
-  "numberOfFavorites": 5,
-  "tags": [ ],
+  "numberOfFavorites": 4,
   "title": "'Starter' Base"
 }

@@ -1,26 +1,25 @@
 {
   "author": {
+    "displayName": "Alien",
     "userId": "EMhmhbzPJMPKk4PrMltoJCZR6cx2"
   },
   "authorId": "EMhmhbzPJMPKk4PrMltoJCZR6cx2",
   "blueprintString": "0eNrtWt1u2zYUfhVCwBBgk1tL/jew3RRDe7NhQHqXFAYtHVtEJFIjKade4AfoW+xmL9Yn2SEpyT9RU8sJ0iQIchGKPx8Pv3MofjzyjTdPC8gl49qb3ngxqEiyXDPBvan3MZGF0iDJooCUSKqBRIJrKdIU5CW/5O/ckyI6AdeuyyHqjBQK7MC34jOL2T8IowXJqI4SkksRF5GZZUq0ZKBM0xVAboG0wP+UXymS0HSBGGlqJvsgrk03hJ0SnJhDpMlZJlaML7H+jFAe188LKbIzotiS09Q+kKSYm9FLCcDJNZNgrbcg+0YynhfadN2aYZDrhdkmtHIutEZc28OY5/keQ3aUN7248dzMhlFOM0Aqq+HeBrvxGD5702DjH9cx3O+o17npuGJSF1jjVyNdj45Zzc7gXuMskOLCpeAs6kRMRgXTO0P6m0++B1wzjZ6xy7EP6xkvsjlaNg3qOTOIWZF1HByC5SIFtCgXirkYuvHMAt4MfG+N4wZvBhtjzwFeuF2DFpIuoWNYvY3TqYFGzUC9GohKppMMtFmgyOaMU0S+jdh1cEOE870YoyJyjX3fKyN9NoeErhgOxhFb1Bk2xxZJmYYFk0rPjvZRlIroyjCuwOAYMIVL1pZakQNuJbcDf8GhotAYka3BkR8vT+ka5Gx/V78rJ7/FXv9E9kZPhr1Bd5++nx6TvsGRUbwXxPu8NaAO2zql03Pok0f2yvvmeA73PfL2BI+4N9o3HfKXFLmQ5gHf9fjmzEiHqIim4I4lkFJIsqJ4zNkDALSt5nDtjrWUZUy79iavjmprYohYDPKYHTE+kvsS8oD43aeL03cH2plTae2cer965qXumD88or4DeO7A8jWaWXA9M8fpzJ6S3nRBUwWbT+03y3g7iz08xN28tozp3Yhz+J5fFmYZ/VzaXR54O9Ha/dY6frdBhLIlAqWMwOiQBQ52EZaKa1DaKgGCDBOxsNW1onDywYmhJi4mrUKs3N9h9wfGGNAouRViX7/8d3qQOcQ7Iukc5ZhRYmvcuUv07crxSRbIfqVKiWNUkTlE1MhPnVBNrkWRxvxMo/a8AqKAq8aNHnTbuaFbvsbD7r4bxg/vBpXTCDq4lVxM13ZyWqyYco6oQrhXeQVm5WgMP7vee4DvePk3r+0Ei7Rg8Ra3Eri1UC3PjNYC92GWuSrSiPLikMV7I71gyvBCtkSBc3/G9oBeMGHLFOYPQNcOzAsmi/5dsFTcn61dnCdI18knZZRApe9OkmQfC8kVEdwdn3mR5eQ6AV4rlFIQJ1SZM3Nu0iV4O6hFDGLqhUCRzRRxyRaT/PgToBRD+xmY3ZyMydG4NSiXkjHdPxRzQpVLujSeyttcgzG14RwO2p3DZbpjBpzOU4i9qZYFKsGquj6QT7mXbj1TC8pb0bdpylsE4Qm3jDD4gQrw/CFvGLACudYJBsmdEvAPyIRck3dg8oGoB2V5w4sKKZHQHT1oQ7gxnHrtiH7VePd7R1Z3oFed90xpe0Za7+mQ9kz03tMh7NlovvtT9qr7jtN9/e/ovhch+wZtk/stc38Plduv8n0N6f1B9+CbS+eEDP/7O9L7h6nXS74ErcqQReWYkpgtFoAKMAIXXwrD1rY0Btaw7cfGMDzmO00wOu3rWdh7ZF+eNzqyc/Dh8ecTvHh+hxcfQruPT7kkhU/qkvT1y7/P4po0afkt09JsFmZ+WWGWdRH4oY+3rfCTfxFicWBL+Oz3/L4t9fHP1Jn/I1vCPv7YloZm8MB2HGLzxFaOcChelAMsjrEycJATU3Sjgq4fmDkDV67nd+VhVcYOgesTmv6jqhwa9L4r92qc0OHbemN+4IzBMnbouz4jgzOuymFtz6gai8QwDRnSuf21je+ldI7vqO/8zAb7oduVpXwwDCf9yWQw6g16/VG42fwPIwlbYA==",
   "createdDate": 1754123444997,
   "descriptionMarkdown": "Thruster fuel rate controller\n\nControls the rate thrusters' use fuel/oxidizer to match production: tries to keep the top tanks half full\n\nHow to use: Connect 'moving to' and 'moving from' signal from hub to green wire\nConnect fuel/oxidizer input to top tanks and thrusters to the bottom tanks\n\n",
-  "favorites": {
-    "FZBtFEpS13N87hKr26AjNJlgda92": true
-  },
   "image": {
-    "height": 0,
     "id": "LjuxbN6",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1754123480875,
-  "numberOfFavorites": 1,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/2,0/",
     "/mods/space-age/",
     "/planets/space-platform/"
   ],
-  "title": "Thruster fuel rate controller"
+  "title": "Thruster fuel rate controller",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
+  }
 }

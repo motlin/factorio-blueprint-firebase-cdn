@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "James Doe",
     "userId": "u4wGF0ZeHeZa0ZxrvR5gIMGWcF02"
   },
   "authorId": "u4wGF0ZeHeZa0ZxrvR5gIMGWcF02",
@@ -7,23 +8,21 @@
   "createdDate": 1755850054231,
   "descriptionMarkdown": "A ship to anger the UPS gods but it works rather well. The UPS thing is a joke it's not that bad.\n\nProduces around 20 - 50 legendary carbon fiber a minute. The recycler belts with quantum processors run full but don't clog because they are advanced sushi (it just works), but they empty out pretty quick while the ship is in for supplies. The production is deactivated while getting supplies otherwise the ship gets hard stuck.\n\nI am using the Bobs inserter mod, so I am able to use bulk inserters as inputs and stack inserters as outputs, you would have to change that to long handed inserters, what might break everything.   \nщ(゜ロ゜щ)",
   "favorites": {
+    "wFk6W3QRYWSBV7Tt5GSoVHrjsc32": true,
+    "MJIoHjR1atTQtUJP8jBTEc8Gl4C2": true,
+    "6Y0VqBRqunXXsqEUuGSKsjEDGqx2": true,
     "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
     "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
-    "6Y0VqBRqunXXsqEUuGSKsjEDGqx2": true,
-    "MJIoHjR1atTQtUJP8jBTEc8Gl4C2": true,
+    "5rALFOIR83WrBoD8Gcf2wTlBEZC3": true,
     "0zDglxsMsMdx3OqgFg2EoGQ6ch22": true,
-    "wFk6W3QRYWSBV7Tt5GSoVHrjsc32": true,
-    "dMCd9KszuPQfI3MtXLxOYrigkUv1": true,
-    "5rALFOIR83WrBoD8Gcf2wTlBEZC3": true
+    "dMCd9KszuPQfI3MtXLxOYrigkUv1": true
   },
   "image": {
-    "height": 0,
     "id": "LIPI0cj",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1755869999540,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/"
   ],

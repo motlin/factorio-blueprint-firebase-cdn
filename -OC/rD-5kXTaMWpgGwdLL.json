@@ -8,30 +8,28 @@
   "descriptionMarkdown": "This is a science factory that will output 120 Nauvis (home planet) science per minute.",
   "favorites": {
     "PimQSYKY0XNh5S1DjZ5qXN6SHB72": true,
-    "gOxcMGpjykZ6AWolc65tk9j0AZ12": true,
-    "oq5pjOP0jQOjzGVxi2y9DPzXdYs1": true,
-    "OSv1G5ktXXO8u40nyMUZs2kPI5B2": true,
-    "zFw7ietpHdPBw4vi3Ax7U6fiNj82": true,
-    "eiERPCnX18MjAD8HE407GzTcafO2": true,
-    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
-    "drp6SuBBtIeozhgSu69qZVpBw8C2": true,
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "IdZK1v8kXPc6CpZpn1PJywSvAJA3": true,
-    "TjesX2JYqJTkx7Dqp8hOnZLGX0J2": true,
     "rDeCvoPhh7cLmCWthwnw5vNQwL43": true,
-    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "drp6SuBBtIeozhgSu69qZVpBw8C2": true,
+    "OSv1G5ktXXO8u40nyMUZs2kPI5B2": true,
+    "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true,
     "x186I6iI1eMjbl5R1lTxM6Qa6Ay1": true,
-    "wt8C6rkmcgSvbcHB0Gve3ln7dWu2": true
+    "IdZK1v8kXPc6CpZpn1PJywSvAJA3": true,
+    "zFw7ietpHdPBw4vi3Ax7U6fiNj82": true,
+    "gOxcMGpjykZ6AWolc65tk9j0AZ12": true,
+    "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
+    "oq5pjOP0jQOjzGVxi2y9DPzXdYs1": true,
+    "TjesX2JYqJTkx7Dqp8hOnZLGX0J2": true,
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
+    "eiERPCnX18MjAD8HE407GzTcafO2": true
   },
   "image": {
-    "height": 0,
     "id": "QQJz4Yd",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/QQJz4Yd",
   "lastUpdatedDate": 1732871979640,
-  "numberOfFavorites": 15,
+  "numberOfFavorites": 9,
   "tags": [
     "/production/science/",
     "/version/2,0/"

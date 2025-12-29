@@ -7,12 +7,12 @@
   "createdDate": 1590379650661,
   "descriptionMarkdown": "Includes\n* 36 items per sec output (1x blue belts)\n* roboport coverage so the blueprint can be built with bots\n*  circuit logic to disable the station unless it can accept a full train load and disable the station when a train is present.\n* entrance stacker for input trains\n* entrance stacker for empty output trains\n* exit stacker for full output trains\n* bypass rail for both input / output rails",
   "favorites": {
-    "eav5eh4PPGfWR1ihTQtgY7qd7xz2": true,
-    "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,
-    "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
     "B3wH2EpwnbevCRrxuQtIkIaAQEg1": true,
-    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true
+    "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
+    "eav5eh4PPGfWR1ihTQtgY7qd7xz2": true,
+    "kp8VeiZpTEeubNoQWYebTNjEbdg2": true,
+    "mAZHAcjys3VIgV80xGBU9v57FTJ3": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true
   },
   "fileName": "uauBXn7cHgZ23d5564vC.png",
   "image": {

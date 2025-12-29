@@ -7,18 +7,16 @@
   "createdDate": 1724438211879,
   "descriptionMarkdown": "The blueprint book comes in 2 parts, the landfill, and the reactor/concrete. simply place the landfill down, then the reactor down, and make sure its hooked up to your bot network with some sort of fuel cell supply.",
   "favorites": {
-    "kcRuexny20RE5gVWwzjns5PyZvH3": true,
-    "ai4vogwPu9RPhXUDeIbczvhavKx2": true
+    "ai4vogwPu9RPhXUDeIbczvhavKx2": true,
+    "kcRuexny20RE5gVWwzjns5PyZvH3": true
   },
   "image": {
-    "height": 0,
     "id": "85owrmQ",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/85owrmQ",
   "lastUpdatedDate": 1724438211879,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 0,
   "tags": [
     "/power/nuclear/"
   ],

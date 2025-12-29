@@ -7,14 +7,14 @@
   "createdDate": 1601200122549,
   "descriptionMarkdown": "Hey all! This is my latest all in one science build that can run at 308 SPM. It's got a lot of work put into it to make it tileable and reliable. I've reduced the amount of logistics bots it takes to run. You can keep tiling this build, each build is a self-contained roboport network.\n\n\nTrains\n\nTrains are 3-8 and can enter the stacker from a 2 or 4 lane LHD or RHD rail system. Each raw ore input train has it's own dedicated path so it does not interfere with other trains as much. This also makes it more reliable to have the right kind of train ready to pull into a station at any time.\n\nThe trains stack behind each other and wait for an available station to open up. The stations always remain open and are never closed. I've added some penalty signals at each station so waiting trains will move on down the line to the next open station.\n\nThere's an escape rail going out on the south east corner if you want to exit some trains after each cell. There is also the main top rail pathway that keeps going eastward and can eventually be used as an exit.\n\n\n\nTrain Station Names\n\nStations are all named the same to allow for easy placement and tiling. Stations name example:\n\n[U] [item=copper-ore]\n\n[L] [item=copper-ore]\n\n\n\nOptional Steel Trains\n\nI added a steel unload and steel rail line as an optional input. The 308 SPM does not rely on steel being brought into the build, and can make it on its own from iron ore. Any steel trains used in these optional unload stations will reduce the number of logi bots being used at any given time. The steel unload is set for filtered storage chests (filtered yellow chests), these have priority for pickup over the built-in passive provider chests (Red chests).\n\n\n\nTimed Smelters\n\nThe smelters have been timed so the output stack inserters only take out stacks of 12 plates / bricks at a time. This helps tremendously with UPS optimization and end game speed. This also allows bots to pickup stacks of 4 units at a time, with only 3 bots going for a pickup. Overall the UPS gains are huge just from this one timing trick.\n\n\n\nBuilt-in Logistics Bots\n\nEach of these factory cells comes with a logistics bot assembler so it will top off any needed logistics bots on its own without too much input from the builder train.\n\n\n\nOther Details\n\nYou only need 1 input pump for water, which can be found at the top center marked with a constant combinator.\n\nI've included a scaffolding Step 1 build for this factory. You can build the step 1 blueprint first using a personal roboport, then lay down the main blueprint and the build train will take care of the rest.\n\nThere is a science build train to load up at base that is included in the blueprint book. This train will load up everything you need at base, then bring it to the scaffolded step 1 station.\n\nThere is a nuclear fuel train included in the blueprint book as well. This is used to fuel up trains while they are unloading in this factory. Place the nuclear fuel train near where you produce nuclear fuel for trains. The train will load up, and bring fuel to each of these factories. Only build one of these nuclear fuel trains or they will no-path.\n\nComes with blueprints for a train stacker to place at the left side entry, and special blueprints for the entry to the stacker itself from your normal rail network.\n\n\nSpecial thanks to darklich14 and all the fine people who had input on the \"AssemblyStorm Weekly\" multiplayer server!",
   "favorites": {
-    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
-    "SS0ivWSelScggoritSCjMW2VOo32": true,
-    "vroIsA7L1WTWYsoQx2e7N8s8v863": true,
     "r2qon0j9rfcxPJP3hHgFpUXNutv2": true,
+    "7vBooGqvixPtJCiDqNeRFAk401B2": true,
+    "mNHFAiP6izStsOhbaEKjOewCujs2": true,
     "l2h7ZmuLEZMqSScnjJAHwoBs3Ni1": true,
+    "vroIsA7L1WTWYsoQx2e7N8s8v863": true,
+    "SS0ivWSelScggoritSCjMW2VOo32": true,
     "11o67rL7N1dLaULE2eBjzVXoldK2": true,
-    "xM9GKOCCUZOBk0QaaZ0bhUGlq3p1": true,
-    "mNHFAiP6izStsOhbaEKjOewCujs2": true
+    "xM9GKOCCUZOBk0QaaZ0bhUGlq3p1": true
   },
   "fileName": "bbsoidghs3.jpg",
   "image": {
@@ -24,7 +24,7 @@
     "width": 511
   },
   "lastUpdatedDate": 1601200122549,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/late game (megabase)/",
     "/general/beaconized/",

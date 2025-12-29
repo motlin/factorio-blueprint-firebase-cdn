@@ -8,17 +8,14 @@
   "descriptionMarkdown": "A Factorio Cyclotron - Allows a branch line to merge into a main line with the main line taking priority over the branch. (Probably) requires maximum train braking research completed in order to function. Tested for trains between 1-2 and 4-8 length. Artillery trains and trains with a greater than 2 to 1 ratio of wagons to locos will almost certainly not be compatible with it (although it shouldn't matter which direction the locos are pointed in). Does not require any alterations to train schedule in order to work. Blueprint string provides a book containing blueprints for both a left hand merge and right hand merge.",
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
-    "M76bmksp1vVT8lWLyyVOlPT1LKU2": true,
-    "7fZJw6U2IuNkODcVttXvTOopf5G3": true,
-    "KtXA8rhZMASghQdyonlxXp5HD112": true,
-    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
+    "M76bmksp1vVT8lWLyyVOlPT1LKU2": true
   },
   "fileName": "20180908123457_1.jpg",
   "image": {
-    "height": 1080,
-    "id": "YXDBL5M",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080,
+    "id": "YXDBL5M"
   },
   "lastUpdatedDate": 1536426297748,
   "numberOfFavorites": 5,

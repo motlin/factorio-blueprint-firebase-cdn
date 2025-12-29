@@ -7,28 +7,24 @@
   "createdDate": 1543966714894,
   "descriptionMarkdown": "Stations.Pure",
   "favorites": {
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "m07C5mwI17acIxJ8phHH9WSsqsZ2": true,
-    "D3rJJEhuPpN96wN6paU9KPfHKz72": true,
-    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
-    "sRl86JWljkWy1SmRUxuRz33xi4p2": true,
-    "zGYCy54ImCX6qRjvFj1ucjT2LSp1": true,
     "3sghEqJPtzSYX3uhYkC600MSbOH2": true,
-    "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
-    "a0Ug6rccqrOicl4YYgTIixV6lOK2": true,
-    "OcDokt6GSnNYuvqP9Dwj10J2WYb2": true,
+    "D3rJJEhuPpN96wN6paU9KPfHKz72": true,
+    "xbienxQ9ANZkuLl8vDSItH3q1N52": true,
+    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
     "8DC1a9TvgJVcfFiR8P0UWu2LLfg1": true,
-    "xbienxQ9ANZkuLl8vDSItH3q1N52": true
+    "m07C5mwI17acIxJ8phHH9WSsqsZ2": true,
+    "OcDokt6GSnNYuvqP9Dwj10J2WYb2": true,
+    "sRl86JWljkWy1SmRUxuRz33xi4p2": true
   },
   "fileName": "Stations.Pure.jpg",
   "image": {
-    "height": 820,
     "id": "tMMan56",
     "type": "image/jpeg",
-    "width": 424
+    "width": 424,
+    "height": 820
   },
   "lastUpdatedDate": 1543966714894,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 10,
   "tags": [
     "/train/loading station/",
     "/train/unloading station/",

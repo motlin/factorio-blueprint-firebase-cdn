@@ -7,13 +7,13 @@
   "createdDate": 1658079452032,
   "descriptionMarkdown": "A few resource buffer blueprints with indicators.\nThe indicators shows total resources in the chests and if the buffer chests is adding resources or draining them.",
   "favorites": {
-    "bspAiAuvOaQU4AkAaHy8IT0AZy52": true,
-    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
-    "BR1wQJQElEdkY6uYh560VS9AYMf1": true,
     "7qSwM9lq5cPhvcgBgj7SXzGrbAk2": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "BR1wQJQElEdkY6uYh560VS9AYMf1": true,
+    "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
+    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true,
+    "bspAiAuvOaQU4AkAaHy8IT0AZy52": true,
     "xnwWqWWKOyayKtgUwDTHk7ueQc33": true,
-    "rREc7Udv6DUsHBMap2Xwd8JWkTi1": true
+    "FZBtFEpS13N87hKr26AjNJlgda92": true
   },
   "fileName": "Skärmavbild 2022-07-17 kl. 19.28.39.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 1232
   },
   "lastUpdatedDate": 1658079452032,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 4,
   "tags": [
     "/circuit/indicator/",
     "/belt/express transport belt (blue)/"

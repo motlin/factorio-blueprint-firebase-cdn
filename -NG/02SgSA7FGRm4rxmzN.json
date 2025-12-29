@@ -7,8 +7,8 @@
   "createdDate": 1696529767300,
   "descriptionMarkdown": "This blueprint book is for the mod \"Bob's Adjustable Inserter.\" It includes a blueprint and a nested blueprint book. The first blueprint includes all of the inserter configurations in a single blueprint. To get the configuration you want, first consider the empty spot at the center as where the inserter would be placed. Each inserter box is a tile. Select the inserter box corresponding to the pickup location. Focus on that box, and now consider the empty tile at the center as the place of the inserter. Select the inserter corresponding to drop location. That inserter is the one that you want. You can copy and paste, get a blueprint, or use an upgrade planner for other inserter types. This sounds more complicated than it actually is, but once you do it, it will take less than a second to find any configuration. The nested blueprint book has a similar process to get the configuration. Make sure you are in grid view. Since you can only have 6 blueprints in a row, the 6th is a extension blueprint book containing 2 blueprints. You first select the blueprint book corresponding to the pickup location, then select the blueprint corresponding to the drop location.",
   "favorites": {
-    "5iughbIAvTbepD0fU2saCTBGJHe2": true,
-    "LAYBVKeMOgc3lioqX5JZWwt5Lim2": true
+    "LAYBVKeMOgc3lioqX5JZWwt5Lim2": true,
+    "5iughbIAvTbepD0fU2saCTBGJHe2": true
   },
   "fileName": "InserterConfiguration.png",
   "image": {

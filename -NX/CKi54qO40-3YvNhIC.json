@@ -7,8 +7,8 @@
   "createdDate": 1685998461835,
   "descriptionMarkdown": "A Refinery capable of non-stop Producing \n- 10224 Petroleum Gas/Second\n\nwhich makes it capable to solo-support 1 thousand Science per Minute, also it waits with Processing till a threshold is reached in the Tanks. Max Tanksize is 3 Million per Fluid. Only Mod its using is Text Plates. Peak Power Consumption of 852 MW. \n\nInput: 6800 Oil/Second with 1-8-1 Trains\n\nOutput: Every Oil/Gas over 2 Stations, capped to 4 Trains (1-8-1) each",
   "favorites": {
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
-    "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true
+    "0ZhydnmD2bgIgXLcBYYEatFeq3p1": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true
   },
   "fileName": "Factorio - Refinery.jpg",
   "image": {
@@ -18,7 +18,7 @@
     "width": 2547
   },
   "lastUpdatedDate": 1685998461835,
-  "numberOfFavorites": 2,
+  "numberOfFavorites": 1,
   "tags": [
     "/production/oil processing/",
     "/general/beaconized/",

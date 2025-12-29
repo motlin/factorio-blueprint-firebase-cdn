@@ -8,17 +8,17 @@
   "descriptionMarkdown": "A few years ago, when first trying to develop my own rail schema, I discovered the Modular Rail System by u/Opiboble (https://www.reddit.com/r/factorio/comments/6ijd8e/modular_rail_system_mrs_update_now_with_more_2lane/?st=j46i04kt&sh=b4d302fe)\n\nOnce the grid-aligned update for blueprints dropped, I went and updated the MRS book I had to be grid-aligned on a 58x58 pattern. This required some small adjustments to many of the BPs, and a small size increase in the BPs overall. Still, the effort was worth it :) The BPs have been designed to connect anywhere you place them down at, due to the grid-aligned nature.\n\nI'm sure many of the signals aren't as optimal as possible, but it's good enough for my needs. I don't really use the Four Lane variant in the original post, but this work here could probably provide a good starting point if someone wanted to tackle it.",
   "favorites": {
     "Pc4EylZfiJVtX7btbfDiDOcLjSu1": true,
-    "hXRAvgVRulXnukohZKSdahVunf53": true,
-    "l2jhhMnqXudn7t9xj8OdpSrQJR03": true,
-    "0YkeZbxxNVdVQWAeREIj9vxrGWf1": true,
     "doFKe9zfXYbmzJTM5vjWrdgOzPO2": true,
-    "DMcA8AeeETRkpTjW5pNqqsiiHGd2": true,
-    "SQdq1JOUJugdWvnn76gHof4MO062": true,
     "w7xcx8QWxjYgvqHWjPsRBn3n8Qp2": true,
+    "l2jhhMnqXudn7t9xj8OdpSrQJR03": true,
     "mTiuvlps0JPVw3tHfnnB64K9LLf1": true,
     "PMtka9hzl8cxjPJjZrJc6OLMBK73": true,
-    "r1l3dFSI61fByzdWeAIXYygieAG2": true,
-    "ycacQQI5RYYrztdVyHPGEw20AMC3": true
+    "SQdq1JOUJugdWvnn76gHof4MO062": true,
+    "0YkeZbxxNVdVQWAeREIj9vxrGWf1": true,
+    "ycacQQI5RYYrztdVyHPGEw20AMC3": true,
+    "hXRAvgVRulXnukohZKSdahVunf53": true,
+    "DMcA8AeeETRkpTjW5pNqqsiiHGd2": true,
+    "r1l3dFSI61fByzdWeAIXYygieAG2": true
   },
   "fileName": "grid-aligned-bp.png",
   "image": {
@@ -28,7 +28,7 @@
     "width": 2016
   },
   "lastUpdatedDate": 1597798864381,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/general/chunk aligned/",
     "/train/right-hand-drive/",

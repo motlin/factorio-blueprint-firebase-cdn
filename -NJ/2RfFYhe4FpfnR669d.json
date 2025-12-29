@@ -7,17 +7,17 @@
   "createdDate": 1699791171921,
   "descriptionMarkdown": "## Diamond block mega base\n\n#### Contains almost all of the production items in the game. \n\nThe block sections is made for fitting only 1-1 trains. In the blueprint ”All trains” you can find all trains except the outpost delivery train, this can be found in its own blueprint.\n\n\nThere is a starter block that helps with the four first science packs and items needed to expand the rest of the base. This block has its own defense for easy early game protection. I recommend to place down the ”Crash site” blueprint first and expand the blocks from there. After the start base is up and running the mall should be built next.\n\n\nAll of the production blocks comes with its own waiting areas. The trains waiting here til there is a free station the trains can go to. The lights indicates if there is a train at the waiting station (Green), a train heading to the station ( Yellow ) and when the station is free ( White ).\n\nThis mega block base comes with a dashboard warning system.\nThe system is based on number of trains in the waiting areas and when there is too few trains at or heading to the stations a silent alarm goes off telling which trains you need more of. The dashboard also indicates the power levels ( with an alarm function as well), the amount of science trains in waiting areas and some indication of how many trains with items ( each of the blocks ) there is in the waiting areas.\n\nThe alarm will only activate or shows any indications after the block of that certain item is built. A constant combinator sends a signal telling the dashboard the block is built. Not all of the blocks has a constant combinator telling the dashboard this. The alarm goes of when the first train is in the waiting area ( all the ores, water and oil trains). \n\n\nThere is a number of blueprint with outer defences. This is designed to go in a loop ( like a huge diamond ) to make the magazine rounds to be delivered. \n\n\nIt´s almost all vanilla except for the [Waterfill](https://mods.factorio.com/mod/Waterfill_Fork) and [Dectorio](https://mods.factorio.com/mod/Dectorio ) mod.\n\n\nMy own blueprints used:\n- [Artillery outpost station](https://factorioprints.com/view/-NhCmWhGV7aG9_g4wHH-).\n\n#### [More pictures of the base](https://www.reddit.com/r/factorio/comments/17vqbha/so_proud_of_my_diamond_block_mega_base_so_i_share/)",
   "favorites": {
-    "wOKd2dNKNcTedCuoHekwAafywLu2": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
-    "Abnxd9DBB4OHwFkEQoXWGxJDpil2": true,
-    "QIov2nnHbLT4EH8KNIaImdAB1982": true,
-    "s5PnC1JZNeZDWP8YctgHkC44xBA3": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
     "H5lymY5ep2bcFjb6fHU8E5RcURK2": true,
+    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
+    "s5PnC1JZNeZDWP8YctgHkC44xBA3": true,
+    "1v6Ja7M59KORPB8z6APCENuYJ982": true,
+    "wOKd2dNKNcTedCuoHekwAafywLu2": true,
+    "Abnxd9DBB4OHwFkEQoXWGxJDpil2": true,
     "hPfJTQYrkvZmVu4O0oN7GJeK6t22": true,
+    "QIov2nnHbLT4EH8KNIaImdAB1982": true,
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
     "ouppqqHlrvaPTJhpUy9vBT8EEjR2": true,
-    "1v6Ja7M59KORPB8z6APCENuYJ982": true
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "Skärmavbild 2023-11-12 kl. 11.57.50.png",
   "image": {
@@ -27,7 +27,7 @@
     "width": 1127
   },
   "lastUpdatedDate": 1701519799447,
-  "numberOfFavorites": 11,
+  "numberOfFavorites": 4,
   "tags": [
     "/production/science/",
     "/production/research (labs)/",

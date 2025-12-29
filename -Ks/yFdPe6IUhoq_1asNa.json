@@ -1,39 +1,6 @@
 {
-  "author": {
-    "userId": "97wNiQRtfHdbQd0EBeS2zJrayiz2"
-  },
   "authorId": "97wNiQRtfHdbQd0EBeS2zJrayiz2",
   "blueprintString": "0eNqdk+1qhTAMhm9l5HcFPXa6eQ/bDYwx/AgSqKm0dUzEe1/1gIxz6sTzK6Qfz5u8JBNUasDeEDsoJqBas4XiYwJLLZdqOXNjj1AAOexAAJfdkqHC2hmqo46YuI0aQ0rBLIC4wR8okvlTALIjR3gFrsn4xUNXofEPDlACem39b81LDZ4YXQSMS/AiDRn/Z73z6R37cpYdRmcBdLqhB9+oaY32MapQuXtqHKRKsTnK/eAgICI3EduVSkVbF71WuKuTzAHU84M2J8cuZ6etiPec0IPbsSLfRJwp2fbauH8lbuqWAeTLY9ORHA/H68li0+Nik/gk83balj1cV7f4s+kCVOkh/uxt7fzpXTd+TQV8o7HX9qS8ZHmaZ5mc519AbmOT",
-  "createdDate": 1504283110280,
-  "descriptionMarkdown": "Basic tileable mining block; 85.7% mining efficiency;\n\nBased on design from http://imgur.com/a/Imfhz\n\nUranium compatible; Puzzle like in design - can be overlayed in  away that external belt is added to other side; Basic pole allows for early game use",
-  "favorites": {
-    "TXSq8gdoyJcv5q9rWec3NJHKUlv1": true,
-    "yUZBXmRSRlTxcEQADhr4Ygokpci2": true,
-    "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
-    "Xd4Vf5ocZuTTgFOwgBj849JvScw2": true,
-    "SqfqdQrkcnc9aNNpWI4wRJQkeX72": true,
-    "Wkx21uhXfHQzKdlmWTgH5m6cNkG3": true,
-    "7N2X7HnNLFhOMRi1F7Dyq0hnEDL2": true,
-    "qbF10zECsvNEhTbCJNXGNenXY1H3": true,
-    "dFwdvPrZwoR6qO6OITHdmyKKfr52": true,
-    "L85Vbj34MQd3aA4Z0MDXIiqw9G02": true,
-    "NUYhQ3EE2DWKNx5zhfKisyKRJ0C3": true,
-    "ZUx2asBf0JeEh4ySg5ppjL5fZjb2": true,
-    "rRnxzLbMa5YLxNQhlIx4vkBi2ga2": true,
-    "7px7UdvyXpbrI1MglOr2nVAztai2": true,
-    "ESmSdqwV73ZpxHGMnKec6qGTz6G2": true,
-    "qOCiHnlE4KPVMQ9yEBOP2oYO2Vl1": true,
-    "nn56QXxA5VbybmGYCq3DJHuHVux1": true,
-    "veH7LXOS86VWJ9rtWXXnN61gEmZ2": true,
-    "jdXC0qzNqXbaHHAXHQXCHpABc1F3": true,
-    "ywlOvhX2mZS8RgA8Ly0UN2c99tu2": true,
-    "2uZZRQKsu1Nc6Z3jboyaBXbIH4E3": true,
-    "vcFalJ1UoFRisD4EnWoXg8peoMm1": true,
-    "MYx3kXIdWdaB1Zsm9mvWF3sEY8J3": true,
-    "BX01zC4XDTMwBwV15gb5xSlyslZ2": true,
-    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
-    "ci1eK893dCOZntxKqh6dPmUeFeA3": true
-  },
   "fileName": "mining node.png",
   "image": {
     "height": 494,
@@ -42,13 +9,23 @@
     "width": 518
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/mining%20node.png?alt=media&token=b5c9ab3b-9534-43b8-bd50-5a70119eb2e7",
-  "lastUpdatedDate": 1504312364001,
-  "numberOfFavorites": 26,
+  "numberOfFavorites": 25,
   "tags": [
     "/production/mining/",
     "/general/tileable/",
     "/mods/vanilla/",
     "/version/0,15/"
   ],
-  "title": "Tileable Mining Node"
+  "author": {
+    "userId": "97wNiQRtfHdbQd0EBeS2zJrayiz2"
+  },
+  "favorites": {
+    "TXSq8gdoyJcv5q9rWec3NJHKUlv1": true,
+    "Qq0c9F2gAtSNE0AmnO96gz8NoTo1": true,
+    "NUYhQ3EE2DWKNx5zhfKisyKRJ0C3": true
+  },
+  "title": "Tileable Mining Node",
+  "descriptionMarkdown": "Basic tileable mining block; 85.7% mining efficiency;\n\nBased on design from http://imgur.com/a/Imfhz\n\nUranium compatible; Puzzle like in design - can be overlayed in  away that external belt is added to other side; Basic pole allows for early game use",
+  "lastUpdatedDate": 1504312364001,
+  "createdDate": 1504283110280
 }

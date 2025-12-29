@@ -7,14 +7,12 @@
   "createdDate": 1736395721932,
   "descriptionMarkdown": "This is the 3rd time i revamped this blueprint to convert it to \"Pure Vanillia\" I haven't fully tested it, but its functional. Even if it backs up it shoulden't pose a problem. You may need to empty some of the 238 chests until it starts running but once it does it \"should produce enough Fuel Cells and Uranium to use as you please. You can upgrade the Belts to turbo and the Inserters to stack to increase efficiency.",
   "favorites": {
-    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
-    "TiuoAFvClFeE9Eep93yiiNZaCmA3": true
+    "TiuoAFvClFeE9Eep93yiiNZaCmA3": true,
+    "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true
   },
   "image": {
-    "height": 0,
     "id": "4JwNPUj",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/4JwNPUj",
   "lastUpdatedDate": 1736395721932,

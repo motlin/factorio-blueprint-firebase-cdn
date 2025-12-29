@@ -7,12 +7,12 @@
   "createdDate": 1588805177932,
   "descriptionMarkdown": "Service Station System      by grain\n- provide wanted items (constant combinator)\n- provide needed items (GhostScanner detects ghosts)\n- recalls trash items\n- provide fuel\n\nUsage:\n- use this blueprint in Creative Mod (Ghost-Scanner Mod recommended) to show it in action\n- place the blueprint\n- wait until train ist filled from inifinty chest\n- set trains to automatic mode\n- place any blueprint in the constraction network of service station and look how its build :-)\n- then make your own blueprints (book) from the stations \n\nTrains\n- Service Train - here in the demo  4 cars with one stack of every usable item, with reserved slots\n- Trash Train\n- Fuel Train\n\nSERVICE:\n- set wanted items in constant combinator (min amount)\n- it will unload the double amount (if in the train)\n- the station dont call a train if all items more then min amount, this prevents calling a train if one repairpack is used in other strategies with strict amounts\n- in this blueprint is a ghostscanner (easy removable) if it detects ghosts it request the exact amount of the ghosted items\n- if robots in the first car, you dont need to put in, they are loaded automaticly\n- the unloading is in steel chest, if train leaves (no train at service station) the insert aktivated to put items in passiv provider chest\n- this prevents unload and then trashing more items as requested because the robots will immediately take item to build, but they will not count and unloading more items, now they can start building if train is leaved\n- the Service-Train has two Service Station scheduled, so he can satisfy faster with different item and dont ping pong only with one station the request a large amount of an item\n\nTRASH:\n- if there are unwanted  (not requested or more then double min amount) items, they will be called to a buffer chest and the trash train is called\n- if the item are needed until the trashtrain arrived, they can taken from the buffer chest easily\n\nFUEL:\n- simple concept: there is one box\n- if the box is empty, the fuel train is called\n- so you can have requester chest on the train station or a beld from the chest, in the moment the box is empty you have a little buffer until the fuel train is comming and refuelling\n- no logic for select fuel type, the idea is put the best fuel type in the fuel cargo waggon  thats its   \n",
   "favorites": {
-    "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
-    "ct8iBK0NO9WUrSsgBWjFDXRAUk52": true,
-    "NBDWFj9AClPZh8J9sOsdgUBu9Ba2": true,
+    "PzGzosjPBZSr5GBUGvcfYXvDjjx2": true,
     "UQJD7Zd3nChS589kuPwvOhFocQn2": true,
+    "NBDWFj9AClPZh8J9sOsdgUBu9Ba2": true,
     "JOk9LdcYJbX1SgIjK9FuW4c8bHn1": true,
-    "PzGzosjPBZSr5GBUGvcfYXvDjjx2": true
+    "V0Q4SJK58phP2jEreBbaRbNCWi92": true,
+    "ct8iBK0NO9WUrSsgBWjFDXRAUk52": true
   },
   "fileName": "Factorio-Service-Station-Demo.png",
   "image": {

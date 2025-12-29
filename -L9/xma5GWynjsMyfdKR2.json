@@ -7,22 +7,7 @@
   "createdDate": 1523602580182,
   "descriptionMarkdown": "Description is TODO.\n\n[United image](https://cdn.discordapp.com/attachments/403951402499440643/433987492425891851/blueprint.png)\n\n[Book Renderings Album](https://jsfiddle.net/ftxu5tzz/7/embedded/result/) (hand-made, working)\n\nInputs are shown with combinators.\n\nAll blueprints may be upgraded to 2nd SPM number by adding modules stated in combinators to corresponding assemblers/assembler columns, upgrading stated by combinators belts to blue and setting a single beacon near yellow science where it is stated by, again, combinators.\n\n*book version: 1.2*",
   "favorites": {
-    "5dree0jIyHaSRqZ14iC4Jo3MhYu1": true,
-    "rYQDupcFmoS8vJOI4iYGUDaV3pl1": true,
-    "tSarxQcqXiQJk6PwrG0YPOY5J213": true,
-    "E9f9uNDeyycwsBpbUtagxUNsRf53": true,
-    "zGYCy54ImCX6qRjvFj1ucjT2LSp1": true,
-    "sIEJNDOKVPVClCJp5C5lT5oRFlr1": true,
-    "GM0ew5lkXiMeBwNdoUxzZWaOHhA2": true,
-    "ye5gtruRXrYNm1cCzc4mUNfb6gW2": true,
-    "dPawHcZGiKOsq1sqhnTUh8JXl0I2": true,
-    "af3odY84QSbmSPE2o8gWxDi4rW92": true,
-    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
-    "b42oWhtuPmSaYmIONil4FiGtmn12": true,
-    "sU5vDKS4hMhLgBDuzWVI0PKOk0E2": true,
-    "77wwADcSvWb5pGg8UZYW2rX2QaD3": true,
-    "Jczgug2ybnVEHxdD9YxG3dJiL7y2": true,
-    "GYFV1JbquHSXI6BHm7emB5rbQ8n1": true
+    "tSarxQcqXiQJk6PwrG0YPOY5J213": true
   },
   "fileName": "blueprints.png",
   "image": {
@@ -33,7 +18,7 @@
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/blueprints.png?alt=media&token=594b99b1-4b72-4e55-8fbc-dbc3eeee4896",
   "lastUpdatedDate": 1523636532768,
-  "numberOfFavorites": 16,
+  "numberOfFavorites": 15,
   "tags": [
     "/production/research (labs)/",
     "/production/science/",

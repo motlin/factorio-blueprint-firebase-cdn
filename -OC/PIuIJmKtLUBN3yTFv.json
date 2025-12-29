@@ -7,28 +7,26 @@
   "createdDate": 1732386989624,
   "descriptionMarkdown": "A platform for collecting calcite on the planet Nauvys.\nThe ship is equipped with 84 asteroid harvesters.\nThe ship consumes about 6 megawatts at peak (produces 8 megawatts). \nSolar panels can be replaced with lower-quality ones. As a result, it consistently produces 2-4 calcite per second.\nI use one such ship and have completely switched to foundries—calcite is in abundance.",
   "favorites": {
-    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
-    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "u3mYmJmxLSOiBOGo3G0slSAhSB33": true,
-    "weczBPLCIbYPpiKk6E8gk4mRVY02": true,
-    "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,
-    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
     "Lt5dRUgbrHaYmGoeIN8K6e2ha3f2": true,
-    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
-    "cMy9R11g4aQyNd7DuWRDfTtRkHN2": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true,
-    "AG2KmeneJIg3ptHiamF2InaQmQx1": true
+    "AG2KmeneJIg3ptHiamF2InaQmQx1": true,
+    "u3mYmJmxLSOiBOGo3G0slSAhSB33": true,
+    "UwRb9RolbBOEGmiNuRGieDImfAB3": true,
+    "YrO08DEKLHhSIOUc7akSQYD79uH2": true,
+    "UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true,
+    "weczBPLCIbYPpiKk6E8gk4mRVY02": true,
+    "cMy9R11g4aQyNd7DuWRDfTtRkHN2": true,
+    "LDmC29ig7xa2XCTSeXV7OMUpBk32": true,
+    "zMLAB6r4XmaEdBcLZPr3rNX7xc92": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "image": {
-    "height": 0,
     "id": "VLjy4i0",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/gHdw9tt",
   "lastUpdatedDate": 1732601568696,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 5,
   "tags": [
     "/planets/nauvis/",
     "/version/2,0/",

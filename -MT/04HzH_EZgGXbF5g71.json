@@ -7,14 +7,14 @@
   "createdDate": 1612778386127,
   "descriptionMarkdown": "A module that takes stone, coal, iron ore, copper ore, and water and produces a balanced 94.5 SPM.  Includes a rocket silo and research labs.  Implements this in the factorio calculator https://bit.ly/3cU49Td\n\nAll trains are 4:1 cargo wagon to locomotive.  I typically build 2 x copper ore mine, 2 x iron ore mine, a coal mine, a stone mine before dropping down another of these.  The 1.1 train routes are simple - for example \"iron ore mine -> iron ore unload\", as soon as you buld the module the trains start appearing.\n\nUses 1.1 train limits to allow 2 trains for iron and copper ore to guarantee no breaks in production.  Connect up water to the bottom left and drop 10 barrels of heavy oil into the chest just above the boilers to jump-start coal liquifaction.  The space science from the first rocket launch will partially run out before the second launch, but after that it produces a steady 94.5 SPM.\n\nIncludes alarms at the stations for when buffers drop below 40k ore, or 30k coal or stone.  This gives you enough time to fix problems before production stalls.",
   "favorites": {
-    "ZIRzLwPXf1PCVgsjOgkkLBGc6pX2": true,
-    "ScB8E40grLSqtGfMZe7CYXbyPkv2": true,
     "a0Ug6rccqrOicl4YYgTIixV6lOK2": true,
+    "ZIRzLwPXf1PCVgsjOgkkLBGc6pX2": true,
+    "kpWw9bmXQ6dm2q0CMjz8PSfXiWq2": true,
     "lEPYdC58rvhWCgVGvgeoUBREKXf2": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "VPHmov95BDgeNTAtruq8HUqHP9H2": true,
+    "ScB8E40grLSqtGfMZe7CYXbyPkv2": true,
     "pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
-    "kpWw9bmXQ6dm2q0CMjz8PSfXiWq2": true
+    "VPHmov95BDgeNTAtruq8HUqHP9H2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true
   },
   "fileName": "science-module.png",
   "image": {
@@ -24,7 +24,7 @@
     "width": 1470
   },
   "lastUpdatedDate": 1612780979123,
-  "numberOfFavorites": 8,
+  "numberOfFavorites": 7,
   "tags": [
     "/production/science/"
   ],

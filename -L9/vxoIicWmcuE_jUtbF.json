@@ -7,22 +7,14 @@
   "createdDate": 1523571967324,
   "descriptionMarkdown": "Digitally balanced mass buffer system that fits inside Factory MK3s\n\nCan use stack inserters for higher throughput on the input side\n\nMods used: Factorissimo and full power coverage(Not sure if this one makes a difference here as I'm using substations)\n\nUpdate v.2: Adjusted the output for higher throughput and better balancing, fixed some belt routing issues\n\nUpdate v.3: Higher capacity, higher output - will nearly compress 8 blue belts",
   "favorites": {
-    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "4x3FiHGpbjOLt9JjvcIZrfgaO9i2": true,
-    "VWLRKEAf5rXYUs57cbHpV5OtIWq1": true,
-    "4r6s5gcg0ySAAGBwQZXwSwvP6oR2": true,
-    "zC5MyQdIwueOWJM5obOWpBTTEW83": true,
-    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
-    "k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
-    "wD5RAjKo4ph2rsXLPmn4iI0kLUi1": true
+    "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true
   },
   "fileName": "CaptureFactorissimoBufferV2.PNG",
   "image": {
+    "width": 915,
     "height": 933,
     "id": "fBmZOPe",
-    "type": "image/jpeg",
-    "width": 915
+    "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/CaptureFactorissimoBufferV2.PNG?alt=media&token=4c5501d4-33e3-49e3-8d07-18ac641bc90a",
   "lastUpdatedDate": 1523705719587,

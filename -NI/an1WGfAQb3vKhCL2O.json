@@ -7,10 +7,10 @@
   "createdDate": 1699310480007,
   "descriptionMarkdown": "2x4 1120MW nuclear power plant with independent solar power (1.5MW) for startup with circuit-based drain protection to avoid water pumps failure. The protection and *pumps* could be removed if *offshore pumps* are nearby.\n\nRequires *12 offshore pumps*, water load from right-hand side with pumps for each line of *heat exchangers*. Each heat exchanger line produces steam for its own independent block of *steam turbines* to avoid loops.\n\nHas full 100x100 *roboport* coverage and *buffer chests* for fuel cells.",
   "favorites": {
-    "OmVR4eEVQrNICPUptQo3rfkjgf53": true,
-    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true,
     "9ZE3tGIaUQh1jb7yxrtZNeMXTMa2": true,
-    "D9n1WT8ql4gaRx6G8XV2mwiqJYr2": true
+    "OmVR4eEVQrNICPUptQo3rfkjgf53": true,
+    "D9n1WT8ql4gaRx6G8XV2mwiqJYr2": true,
+    "PlWMNWnq9SW3pLmNVkpJaOxVOmU2": true
   },
   "fileName": "1GW-nuclear-redesign.png",
   "image": {
@@ -20,7 +20,7 @@
     "width": 1589
   },
   "lastUpdatedDate": 1699806972828,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 2,
   "tags": [
     "/power/nuclear/",
     "/mods/vanilla/",

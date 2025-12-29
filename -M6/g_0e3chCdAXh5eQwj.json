@@ -7,20 +7,20 @@
   "createdDate": 1588812061461,
   "descriptionMarkdown": "Blueprints for tech cards up to Optimization (Space Science) 450 per minute or one half yellow belt. Ideal for Mid-Game with a decent red belt bus. Constant combinators show inputs and amounts so you can subtract from bus belts. Connect all combinators with green wire to add up all the raw materials you would need for the bus. I assume Blank Tech cards should be on a bus, about 2 red belts worth.\n\nMilitary Science is for Peaceful Mode recipe.\n\nBuilds use appropriate tech levels for construction. I forget if adjustable inserters are part of Krastorio, so you may need Bob's Adjustable Inserters mod.",
   "favorites": {
-    "6sePdt17UVO6DUD4zz27xe7Imtu1": true,
-    "DBUqLgjtdfReESZIVrljZXXkxWK2": true,
-    "8ls3AUvwwphyb3MUSD3wgbAy9ot2": true,
-    "dNdWZEzaW7S6Ii5nOoEwyfmbTvp1": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
+    "DBUqLgjtdfReESZIVrljZXXkxWK2": true,
     "AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
-    "l54evwpJDXTXCGw3zbdZyuIHSTS2": true
+    "6sePdt17UVO6DUD4zz27xe7Imtu1": true,
+    "l54evwpJDXTXCGw3zbdZyuIHSTS2": true,
+    "dNdWZEzaW7S6Ii5nOoEwyfmbTvp1": true,
+    "8ls3AUvwwphyb3MUSD3wgbAy9ot2": true
   },
   "fileName": "Krastorio.png",
   "image": {
-    "height": 1080,
-    "id": "uS0XujK",
     "type": "image/jpeg",
-    "width": 1920
+    "width": 1920,
+    "height": 1080,
+    "id": "uS0XujK"
   },
   "lastUpdatedDate": 1588812061461,
   "numberOfFavorites": 7,

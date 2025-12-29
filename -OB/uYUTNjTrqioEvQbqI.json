@@ -6,20 +6,9 @@
   "blueprintString": "0eNqtl8uO2yAYhV+lYm1G4ebbrss+Q1WNiIMSJBs8GFeNIr97cdLxNCnE4OkuAfH5HDg/lwvYt6PojVQW1BcgG60GUH+/gEEeFW/nNnvuBajB0PNGwFY33EqtQAYU7+Z2/jbKVoMpA1IdxC9QoynzDDeike7HMkw6WCdaK9Xxr7F4+pEBoay0Utx0XP+cX9XY7YVx8AXQnEQnG97CvuVOfAZ6PcirNPfRGfXCMnAGNWTVC3NfOEgn4daPcAY6aYx2QGtGkb2ru5f13vz6NvLWiXDdSpvO2ZodPgjDi7D+5vNBDl3klE6OB0CineVhZ/T/G6OLrpPgFvrdoUVS7nfHFkqr1RGeuFvvA5RqEMa6/ifA4tFj6cHnMSLJHdNDKWIoeI1SplECE1bd5QlaDY9Gj+rwzFb+Txw8YLSLTmrAIEIxDtkqBkdbZGGLCPvQJNpjYPpRVOyLVUxq7ou03KOo4OerS1GkYUJuP6JvR7PX0C2mMLdFhXu3+Tyrc+bbpf8cHnq0/Wh9uxOq0iqf+ZXjXVrRhjAoTQ0NYHBagYXUkOgCo6ssmiYp5IzFYOgqJk8OWhEVNKkCOcOJFRKaxnLzOUgCxCotuQEM2aUlN4RJPBpCGLwhuSRmwyTxJwMOaKNpSQhZ3H4yhIj5hrsx8hXD5y+NpNhwm0We22yqFPd8kFZ0ruXjXZOBlrtNwbV9vb5Vvnxr5hX7Kcxw/QzLcUWrilFGGMXlNP0GueE1uw==",
   "createdDate": 1731854202886,
   "descriptionMarkdown": "Tileable ice melting for Aquilo",
-  "favorites": {
-    "1lCcBHS2U1bOrK1p3MvvUtHgzrG2": true,
-    "9dyl2G4vrpXFcZjhozx3idzIIx32": true,
-    "pAfKUDAS7qPVGbbyFD0xy7xRfN42": true,
-    "XpW4mF3DqhTkFR1oCcRy45KCDzb2": true,
-    "fNdd8qE2wecgn6If2ooiunqwtsC3": true,
-    "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
-    "a25GobB4QAeVyCccuBrllkfCSxG2": true
-  },
   "image": {
-    "height": 0,
     "id": "MUh5F9a",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/La6pC2O",
   "lastUpdatedDate": 1731854266315,
@@ -28,5 +17,14 @@
     "/planets/aquilo/",
     "/general/tileable/"
   ],
-  "title": "Aquilo tileable ice melting water"
+  "title": "Aquilo tileable ice melting water",
+  "favorites": {
+    "1lCcBHS2U1bOrK1p3MvvUtHgzrG2": true,
+    "a25GobB4QAeVyCccuBrllkfCSxG2": true,
+    "XpW4mF3DqhTkFR1oCcRy45KCDzb2": true,
+    "fNdd8qE2wecgn6If2ooiunqwtsC3": true,
+    "pAfKUDAS7qPVGbbyFD0xy7xRfN42": true,
+    "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
+    "9dyl2G4vrpXFcZjhozx3idzIIx32": true
+  }
 }

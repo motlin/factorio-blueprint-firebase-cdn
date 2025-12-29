@@ -7,12 +7,12 @@
   "createdDate": 1697309463195,
   "descriptionMarkdown": "These are some specialty grid blocks that don't get used all the time for the planetside bases and stuff.\n\nThis is a modular tiny grid (42x42) city block section with grid blocks at varying sizes and interconnecting rail. Used in combination with my modpack https://mods.factorio.com/mod/weplay_se_kr_bz which combines SE + KR2 + BZMods in weird ways. Definitely not useable without the modpack. Inspired by several city block and rail block designs on this site. Specifically that \"10 fully books of rails\" one which I ripped their 2-lane basic intersections for this first blueprint book. Thanks!",
   "favorites": {
-    "OmVR4eEVQrNICPUptQo3rfkjgf53": true,
-    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
-    "ilwo3yiqoweNQCMHzk3CQqMpuzh1": true,
-    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true,
+    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true,
     "lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
-    "DW19cEypOWf8MmrfKtdbqgw2Bux1": true
+    "ilwo3yiqoweNQCMHzk3CQqMpuzh1": true,
+    "iqyrdsnEZkgoiLeNbLkmFDPC9LJ3": true,
+    "OmVR4eEVQrNICPUptQo3rfkjgf53": true,
+    "kD0H6rQl9HMXxYT6EYwZOMB8N1l1": true
   },
   "fileName": "Factorio 1.1.91 10_14_2023 2_37_47 PM.png",
   "image": {
@@ -22,7 +22,7 @@
     "width": 2560
   },
   "lastUpdatedDate": 1697309463195,
-  "numberOfFavorites": 6,
+  "numberOfFavorites": 5,
   "tags": [
     "/general/late game (megabase)/",
     "/mods/ltn/",

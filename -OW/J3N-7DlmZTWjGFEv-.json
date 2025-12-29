@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "Aeyos",
     "userId": "j0YLPZzFIOfQEnxWCsvnqOQypcx2"
   },
   "authorId": "j0YLPZzFIOfQEnxWCsvnqOQypcx2",
@@ -7,18 +8,16 @@
   "createdDate": 1753757090252,
   "descriptionMarkdown": "This a spaceship focused on making legendary ore. It might be hard to bootstrap your first legendaries, so you downgrade everything to normal quality and work with what you got. It requires at least a fusion reactor.\n\nFeatures:\n- Doesn't get clogged. Tested with many hours and never had a single resource clog\n- Completely self-sufficient given enough fusion fuel\n- Extremely efficient\n- Smart item quotas:\n- Will throw away iron if missing copper, for example\n- Will use the simple crushing method if iron is in much higher demand than copper (more efficient)\n- Expandable: has enough space to fit more crushers, can be tiled indefinitely\n- Can make ~4 legendary ore/s when fully loaded with chunks\n- Throttled burners for 82-85% fuel efficiency while keeping a steady 190-200 km/s\n- Makes: Iron Ore / Copper Ore / Carbon / Sulfur / Calcite / Ice\n\nWhy's it called Creamery MK.II? Because that's my second iteration on the cheesy ship 🧀\n",
   "favorites": {
-    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
     "7El66SoblkMPufIlrPMB1UYvNkp2": true,
-    "I4C9zOSmPSOMnJXp7chqlTw5IDh2": true
+    "I4C9zOSmPSOMnJXp7chqlTw5IDh2": true,
+    "zREjx9P90uQeQusejTN6Xrd7d0x1": true
   },
   "image": {
-    "height": 0,
     "id": "eyZBhc0",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1753757090252,
-  "numberOfFavorites": 3,
+  "numberOfFavorites": 1,
   "tags": [
     "/version/2,0/"
   ],

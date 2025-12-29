@@ -1,5 +1,6 @@
 {
   "author": {
+    "displayName": "David McDonough",
     "userId": "jZDMYC24BbRMPKGTo745mEJ9qsF2"
   },
   "authorId": "jZDMYC24BbRMPKGTo745mEJ9qsF2",
@@ -7,15 +8,13 @@
   "createdDate": 1760895913790,
   "descriptionMarkdown": "1 block the size of 4 roboports contaiing 3 production loops.\nFully self-starting and stall proof. It's mainly belted but it will request items such as pentapod eggs as needed to start.\nOverstock gets burned to reduce spoilage.\nBring in fuits on the conveyors along the bottom (does not matter what order, they will get split to a shared belt). \nWill have to adjust water pumps according to terrain of course.",
   "favorites": {
-    "pehRmNuQphSBCMpNKRwo4Sj2loA3": true,
     "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true,
+    "pehRmNuQphSBCMpNKRwo4Sj2loA3": true
   },
   "image": {
-    "height": 0,
     "id": "56mX3k6",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "lastUpdatedDate": 1760895913790,
   "numberOfFavorites": 3,

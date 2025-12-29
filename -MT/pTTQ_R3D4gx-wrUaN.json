@@ -7,18 +7,18 @@
   "createdDate": 1613657401223,
   "descriptionMarkdown": "## Compact 2x5 Nuclear power facility\n\n**This blueprint is designed to be pasted in the middle of a lake**.\nThe blueprint also include the tiles for the landfilling so you'll need to paste it, wait for the landfill to be built and then paste again to make sure the rest of the entities get pasted.\n\n- 1.44 GW sustained\n- Perfect ratios (according to [Factorio Cheat Sheet](https://factoriocheatsheet.com/#nuclear-power))\n- Includes a circuitry to not insert fuel cells if there's enough steam stored. (every 100 seconds check if the steam is below 600k and if it is, will feed 1 fuel cell to every reactor)\n- Separated power circuits for fuel feeding to avoid overloading starve",
   "favorites": {
-    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
     "gfo40c7IuiaO589RzGpy334IcLW2": true,
+    "R2qpfQE9BTVXzhaw0OpBfpPxXyv2": true,
     "2UPl8OkyXiQwHYNRMTu84bclKtr2": true,
     "T9EGMbJXe4fzL6MfwNXp1KKXXCE3": true,
     "K28X0QEtP7aBtvV2ke1lWrnhLbq1": true
   },
   "fileName": "Nuclear 2x5-compactperfectratio-tiles.jpg",
   "image": {
+    "width": 2175,
     "height": 597,
     "id": "VISI6ND",
-    "type": "image/jpeg",
-    "width": 2175
+    "type": "image/jpeg"
   },
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Nuclear%202x5-compactperfectratio-tiles.jpg?alt=media&token=ce238a84-56ac-4e46-9272-ede8d36dcd23",
   "lastUpdatedDate": 1613677818110,

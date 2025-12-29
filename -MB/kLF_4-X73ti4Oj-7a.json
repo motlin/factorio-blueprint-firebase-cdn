@@ -7,18 +7,18 @@
   "createdDate": 1623235038840,
   "descriptionMarkdown": "This blueprint have 240 LTN Logistics Stations (Parking Station, with 10 Waiting/Parking Slots).\nIts allow atleast 480 Trains 3-8-3 per use.\n\nIn this blueprint the setup to all train station is for ID Network #2, but easly to change.\nYou can use for regular parking train stations too.",
   "favorites": {
-    "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,
-    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "GiM5aPBL3uhoIVmerWukQvEQIvF2": true,
-    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true,
-    "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,
-    "wrblBCQCyaVvwXDcVIdmd0XXq5v1": true,
     "GUyTuuVPrpgqyUAWeerwNA6dIcp1": true,
     "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
+    "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true,
+    "wrblBCQCyaVvwXDcVIdmd0XXq5v1": true,
+    "snMnQQzhg4doZihPXwfTbiOn5Kj2": true,
     "67G9TmALSfazXmtaxYMDd9ez8OB3": true,
+    "qTPHEehZxVd75yPR3mz7UOmRUGc2": true,
     "YTygdbyZ0HQrEtUS1RtXKswz6MP2": true,
+    "NtqVQ4BkKjNPe5YOW5BM8KcarnA2": true,
     "mNHFAiP6izStsOhbaEKjOewCujs2": true,
-    "3LQpMA9g8hXK3r2GuNMhFHa5gQd2": true
+    "SAdyANb3RLeFsiThWPK611ZH1Ke2": true
   },
   "fileName": "Bayoux LTN Parking.png",
   "image": {
@@ -28,7 +28,7 @@
     "width": 1616
   },
   "lastUpdatedDate": 1623235038840,
-  "numberOfFavorites": 12,
+  "numberOfFavorites": 11,
   "tags": [
     "/train/stacker/",
     "/train/track/",

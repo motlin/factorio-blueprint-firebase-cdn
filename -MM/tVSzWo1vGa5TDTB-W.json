@@ -7,11 +7,11 @@
   "createdDate": 1635199868976,
   "descriptionMarkdown": "I set out to design a starter base for my 4x4 chunk aligned block grid.  I set the following constraints:\n\n-The base must be contained fully within one block.<br>\n-The base must require only coal, stone, iron ore, copper ore, and water as inputs.<br>\n-The base must produce enough red and green science to complete early game research.<br>\n-The base must produce everything needed to make and defend itself and the block grid.<br>\n",
   "favorites": {
-    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
     "mY4UhbPxldfjSGTg70yCTiAtu383": true,
-    "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true,
     "cM5Vcyt9sRX2vBFnbJhQYi96ecK2": true,
-    "XpbVDF3rW7ez96gBvvAlC1qhTOF2": true
+    "XpbVDF3rW7ez96gBvvAlC1qhTOF2": true,
+    "XsDmsMdDHcYkzjk3rrEbmTpPAN52": true,
+    "8TUyd4Dm1TOQ6QkmHvXyhqhudc43": true
   },
   "fileName": "starter_base.PNG",
   "image": {

@@ -7,32 +7,31 @@
   "createdDate": 1732297169081,
   "descriptionMarkdown": "Crafting unit for legendary foundry and tungstene carbide crafting\n\n~ 1-2 leg fundry/min\n\n~ 20-30 carbide/min (nearly doubled when leg foundry chest is saturated).\n\n~ 100-120 non leg/leg items efficiency\n\n\nOnly require Vulcanus basic ingredients (coal, tungstene ore, sulf acid, liquid iron, liquid copper, water and lube).\n\nLoop breaker currently set to max carbide AND REINFORCED CONCRETE in chest.\n\nMost circuit are for ratio control.\n\nOutput overflow go to void-recycler unit directly, feel free to add a sub-unit to recycle into ingredient component (or dump to lava).\n\nA lot of building material are set to lenegendary, use the best you have, but USE THE SAME 4 QUALITY MODULES in all the ingredient production unit, or the ratio will be off and you might clog the system.\n",
   "favorites": {
-    "fVBBSPqZmxRxdO5tb64RjbdKPrJ3": true,
-    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
-    "r4h2IWoMD3ODqtU29pHEbf0Y34v1": true,
-    "V4SBYepJEEfE8rLX8KqhyCHU6bm2": true,
-    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
-    "DLx7EQgytSSfT2W8U80HnZYimjE3": true,
     "TvV8InW5ARaPlvWSgFL9rjiJbZt1": true,
-    "lAsD3QM033Sa7f40u3LNGPk6LkJ2": true,
-    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-    "YYOTSGIFexVh41sUt47grylfvdl2": true,
-    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
+    "fVBBSPqZmxRxdO5tb64RjbdKPrJ3": true,
+    "KF434v09jCMvGg8cnoOJuedk3aa2": true,
+    "xsgANniFt0XomK4rBH91A4ce7cX2": true,
     "M7syl4343PWRo3WcG8qxY9MylnR2": true,
+    "r4h2IWoMD3ODqtU29pHEbf0Y34v1": true,
+    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
+    "YYOTSGIFexVh41sUt47grylfvdl2": true,
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
     "ayameSoI6ZcHGWytkMBy52Gc4ag2": true,
-    "6AeaAjyEVagrZKIa3W3vIlIsOa82": true,
-    "KF434v09jCMvGg8cnoOJuedk3aa2": true
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "lAsD3QM033Sa7f40u3LNGPk6LkJ2": true,
+    "zREjx9P90uQeQusejTN6Xrd7d0x1": true,
+    "V4SBYepJEEfE8rLX8KqhyCHU6bm2": true,
+    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
+    "DLx7EQgytSSfT2W8U80HnZYimjE3": true,
+    "2tCV5Tf1SBdfxoL8EBuMENQD9VC2": true
   },
   "image": {
-    "height": 0,
     "id": "ANKceNK",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/PaVuUxA",
   "lastUpdatedDate": 1753326650196,
-  "numberOfFavorites": 16,
+  "numberOfFavorites": 17,
   "tags": [
     "/version/2,0/"
   ],

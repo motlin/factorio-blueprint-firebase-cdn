@@ -7,20 +7,18 @@
   "createdDate": 1731947627127,
   "descriptionMarkdown": "**Description:**  \nThis blueprint provides an infinitely expandable 4-belt buffer design optimized for spaceships in Factorio 2.0 Vanilla (no mods required). It is engineered for high throughput and efficiency, supporting seamless expansion using an additional blueprint for extending the system.\n\n**Specifications:**  \n- **Belt Count:** 4 Belts  \n- **Throughput (Unstacked):** 28,800 items per minute (total)  \n- **Throughput (Fully Stacked):** 115,200 items per minute (total)  \n- **Expansion Capability:** Unlimited, using the included expansion blueprint  \n- **Compatibility:** Designed specifically for spaceships in Factorio 2.0 Space Age  \n- **Mod Requirement:** None (Vanilla-compatible)",
   "favorites": {
-    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+    "SkqFbXXF95TtIy2W3SQjNj0UAyr1": true,
     "FZBtFEpS13N87hKr26AjNJlgda92": true,
     "1LML7TCc7OeMr16aQJRbx2JTjwe2": true,
-    "SkqFbXXF95TtIy2W3SQjNj0UAyr1": true
+    "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
   },
   "image": {
-    "height": 0,
     "id": "fCstgWC",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/fCstgWC",
   "lastUpdatedDate": 1731947627127,
-  "numberOfFavorites": 4,
+  "numberOfFavorites": 3,
   "tags": [
     "/belt/balancer/",
     "/mods/vanilla/",

@@ -7,13 +7,13 @@
   "createdDate": 1690819223266,
   "descriptionMarkdown": "A Senko shaped solar \"grid\". Solar ratio is wrong, ~0.675 instead of 0.84, but it's Senko",
   "favorites": {
-    "6GZuPw6JUhdbz3u7G9fQtwS9W2g1": true,
-    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-    "ltZLSGhUMkWpesdZpyW6chXZpl73": true,
     "8iDAnQCJq1bLKaTZ4w55sl5vvo33": true,
+    "6GZuPw6JUhdbz3u7G9fQtwS9W2g1": true,
+    "ltZLSGhUMkWpesdZpyW6chXZpl73": true,
     "gXHwo9P4V1NurJwDnZuYUFPiks72": true,
+    "gqRnsxp0knYEuhUveSXwuGAV9Cy1": true,
     "IRU7QeROU9TotND7H5KRe9na4gs2": true,
-    "gqRnsxp0knYEuhUveSXwuGAV9Cy1": true
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
   },
   "fileName": "Senko-Solar.png",
   "image": {
@@ -23,7 +23,7 @@
     "width": 898
   },
   "lastUpdatedDate": 1690819223266,
-  "numberOfFavorites": 7,
+  "numberOfFavorites": 3,
   "tags": [
     "/power/solar/",
     "/mods/vanilla/",

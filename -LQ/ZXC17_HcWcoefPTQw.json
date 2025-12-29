@@ -7,22 +7,8 @@
   "createdDate": 1541432463967,
   "descriptionMarkdown": "**Features**\n* Stacker\n* Designed for 2-4-2 LHD trains (pub server normal, adjust as you see fit)\n* Proper ratio unloads for 172 SPM using Kirk McDonald calculator using red belts, ASM2's and no modules.\n* Designed for the following belt balance: 16 Iron, 16 Copper (actually needs 13) 0.8 Steel belt, 6 GC, 2 Plastic, 1 RC, 1.1 Stone, 0.6 brick, 3 Coal (goes into plastic, smelt, grenades for blacksci), 1 uranium ore, 1 water, 1 crude.  Note that steel, GC, etc are from those 16 iron and 16 copper, not in addition to it.\n* Filters inputs properly so it's much harder to accidentally the bus.\n* Proper automatic selection and provision of best available fuel for trains.\n* Copper and Iron are at the outsides of the station for easy smelting.\n\n**Future Work**\n\nPlease let me know if there are any particular features or bugs in this project and I'll fix it and update.  Thanks.\n\n**Credit**\n\nBP is original, influenced by and to move forward the Unload Stations used on ExplosiveGaming servers.",
   "favorites": {
-    "t3Yf4AQSxDRCeXh8nBoYbSyKDAh1": true,
-    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
-    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
-    "Zau4lBCTpYOVGMfnImyZO5WPNE13": true,
-    "OzMyiw8qHid2HvSfNiKrYWckxBI3": true,
-    "ff2hVePDXAXFeBUXFefHk9xIONW2": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "8SvcOpTf6kMx7i6DWwnHMSUco0l1": true,
-    "k9RV6V6iYpTdJPsr8wKf38oPDUZ2": true,
-    "LsekH5un5nXmFrxkfUXTL0yBWck2": true,
     "UEMES89FrXd6hza2YGzHacfiGUP2": true,
-    "is21oXE74EQ0x6xjTcv28tMLm9M2": true,
-    "0KqcmX1S84WvyMK15qTySEK4NlA2": true,
-    "BfuETSntPtMtLm0KJnRMuwHQlu92": true,
-    "1JnuGI3XcYdMdQcvXLZGXuNqbDm1": true,
-    "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true
+    "BfuETSntPtMtLm0KJnRMuwHQlu92": true
   },
   "fileName": "Main Bus Unload.jpg",
   "image": {

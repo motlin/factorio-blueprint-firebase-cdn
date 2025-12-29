@@ -7,21 +7,21 @@
   "createdDate": 1675624065356,
   "descriptionMarkdown": "# Bloc64 (Work in Progress)\n\n64x64 is probably the smallest possible chunk-aligned size for city blocks. The aim of this book is to help you build easily a megabase 200 spm (including gray and white) with those blocks.\n\nThe work in progress is a second inner book for a starter base easy to integrate to the megabase.\n\n## What the blueprints book contain: \n- Blocks 64x64 (2x2 chunks), chunks-aligned, with 1-1 train system.\n- A book with all blocks blueprints for 200 SPM base.\n- Some other blueprints with the template.\n\n## 200 SPM Base:\n\n### Organisation :\n- The base is powered by a 1.1 GW (8 Nuclear Reactors) powerplant (uses 2 blocks but the train can go through).\n- The base take 88 64x64 Blocks (you can fit it into a 640x640 square (10x10 blocks), or a 512x704 rectangle (8x11 blocks)\n- Train loading/unloading are logical-balanced. (some other things are too, like nuclear/kovarex)\n- Unloading stations call a train (by setting the limit to 1) only when they have less than 1.5 wagon in stock.\n- Loading stations call a train only when they have enough material to fill a wagon.\n- The number of blocks of each sort needed for the base is given in the blueprint description.\n\n### Trains\nTo get this you need 111 trains (with refueling [inactivity 3s] -> load X [full cargo/fluid] -> unload X [empty cargo/fluid]).\n[![fact-list-of-train.png](https://i.postimg.cc/JnX8D0ZS/fact-list-of-train.png)](https://postimg.cc/MMzNgWsY)\n\n### Looks like:\n[![fact-02.png](https://i.postimg.cc/T3WBcwt9/fact-02.png)](https://postimg.cc/rDMhV8X0)\n\n### Other things:\n- Bluprints don't have lights in (i dislike the use of lights in factorio for other thing that displaying some numbers or information), but it's easy to light them all if you want.\n- All ratios are respected so you don't have bottle-neck issues.\n- Uses only few modules and no beacons (so this is for early/mid game).\n- Trains can't be stuck or have accident (of course).\n- All the blueprints have the landfill to easily deploy them on water chunks.",
   "favorites": {
-    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
-    "G8S6aGezMwSbVHSKGQz0bSOxWIC3": true,
     "rKXwycxs3APymiQr644tYwfnKPG3": true,
-    "2p06155cHpW4jZKZxXbC9Dyox8I2": true,
+    "iGOaQ1jd6Za9H8DUyhMwfabIA4s1": true,
     "te3OrZw61WVrDgLQgyxVRmUnyKv1": true,
-    "4xF02Q2JD0dgrdWBjbVdM3Nb6x32": true,
     "EtByybUWN9SnmOLAFVAYTTHXxl62": true,
-    "2FuavxfG9qWs1eYxBoBmhflWzvm2": true,
-    "Ohb4SvhurNO7rZRBjTb22exZuMZ2": true,
-    "11o67rL7N1dLaULE2eBjzVXoldK2": true,
-    "s5PnC1JZNeZDWP8YctgHkC44xBA3": true,
     "i3lsVQhsUQcId1KjN85jsMAA9LH2": true,
-    "8ZSFoC1WwKVymSzWDF0syztAhA73": true,
+    "2FuavxfG9qWs1eYxBoBmhflWzvm2": true,
     "PGmticASkqb7Dq0Fvf2WJJuFWbV2": true,
-    "9LEFNqGqSMQWeD0fPomXkmftGo22": true
+    "9LEFNqGqSMQWeD0fPomXkmftGo22": true,
+    "2p06155cHpW4jZKZxXbC9Dyox8I2": true,
+    "Ohb4SvhurNO7rZRBjTb22exZuMZ2": true,
+    "s5PnC1JZNeZDWP8YctgHkC44xBA3": true,
+    "11o67rL7N1dLaULE2eBjzVXoldK2": true,
+    "G8S6aGezMwSbVHSKGQz0bSOxWIC3": true,
+    "4xF02Q2JD0dgrdWBjbVdM3Nb6x32": true,
+    "8ZSFoC1WwKVymSzWDF0syztAhA73": true
   },
   "fileName": "Bloc64.jpg",
   "image": {
@@ -31,7 +31,7 @@
     "width": 862
   },
   "lastUpdatedDate": 1676382166430,
-  "numberOfFavorites": 15,
+  "numberOfFavorites": 0,
   "tags": [
     "/version/1,1/",
     "/production/science/",

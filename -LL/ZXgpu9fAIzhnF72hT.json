@@ -1,4 +1,19 @@
 {
+  "image": {
+    "height": 858,
+    "id": "yIX9wLh",
+    "type": "image/jpeg",
+    "width": 1237
+  },
+  "numberOfFavorites": 6,
+  "tags": [
+    "/production/electronic circuit (green)/",
+    "/mods/vanilla/",
+    "/version/0,16/"
+  ],
+  "fileName": "Green_Circuits_5k-min.PNG",
+  "lastUpdatedDate": 1537606586369,
+  "title": "Green Circuits - 5k/min",
   "author": {
     "userId": "PE2NuQvtQBZLoT00K9DSNCbbTKp1"
   },
@@ -7,26 +22,6 @@
   "createdDate": 1536063884804,
   "descriptionMarkdown": "### Factory producing 5k/min Green Circuits\n\n#### Input\n* Copper Plates: 7.5k/min - two blue belts\n* Iron Plates: 5k/min - two red belts\n\n#### Output\n* Green Circuits: 5k/min - one blue belt",
   "favorites": {
-    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
-    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
-    "VWLRKEAf5rXYUs57cbHpV5OtIWq1": true,
-    "06BuTBSY81e5KJpy7Kha18KDOEs1": true,
-    "SgrhmMrDamhOR5rANrbYyqcQOUG3": true,
-    "m5jEjKKYhES47HpHy05ZGx0I8zW2": true
-  },
-  "fileName": "Green_Circuits_5k-min.PNG",
-  "image": {
-    "height": 858,
-    "id": "yIX9wLh",
-    "type": "image/jpeg",
-    "width": 1237
-  },
-  "lastUpdatedDate": 1537606586369,
-  "numberOfFavorites": 6,
-  "tags": [
-    "/production/electronic circuit (green)/",
-    "/mods/vanilla/",
-    "/version/0,16/"
-  ],
-  "title": "Green Circuits - 5k/min"
+    "SgrhmMrDamhOR5rANrbYyqcQOUG3": true
+  }
 }

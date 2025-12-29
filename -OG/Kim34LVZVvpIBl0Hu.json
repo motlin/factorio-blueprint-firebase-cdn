@@ -7,26 +7,24 @@
   "createdDate": 1736605115092,
   "descriptionMarkdown": "Tilable Nuclear Reactor setup with regulation - will run only the amount of reactors needed for current power consumption.\n\nTheoretical limit is 24000 nuclear reactors connected this way (the belt throughput for fuel). After every 120 reactors a pump must be placed for water and steam or the pipe will be overextended.\n\nUsage:\n1. If you won't need more than 12 reactors - just slap \"Minimal Setup\" blueprint and you're done.\n2. If you need more - start with \"Starter\".\n3. Slap as many \"Tile\"s as needed. Blueprint is parametrized.  \n  3a. For each Tile enter number of already placed reactors. For example, after Starter, you'll have to enter 12. Next Tile will have to be 24, next - 36 and so on.  \n  3b. Connect green wires to the corresponding fuel loading inserters between tiles. All fuel loading inserters must be connected to a single green circuit.  \n  3c. If you need more than 120 reactors this way you'll need to incorporate pumps between tiles. It's easy for water, but for steam you'll have to sacrifice an entire row of tanks to split pipe into chunks.\n4. Attach \"Ender\" blueprint at the end.\n5. Make sure to load fuel into the inner lane of the belt.\n6. Do not connect solar panels to main grid - this is a backup for cold start.",
   "favorites": {
-    "od1OHdv9qlNiU8wmVYtZSsQ1Dlm2": true,
-    "RHaUn8wA8Bfck3HtnAegqYYH96D3": true,
     "Y44ghbpkwZXKV9kDnBGT17w6pxe2": true,
+    "TiuoAFvClFeE9Eep93yiiNZaCmA3": true,
     "3ZKyNmdCaTgfEuxtN6RVfaSKoyf2": true,
     "fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
-    "b0wb0HniSYOxvfOtED6Vr7p9x882": true,
     "6OG9WWu2xhTwrv9vaqB3G1Jvwy43": true,
     "RGcy9OtUrZMEodlGTupgOCchNDp1": true,
+    "b0wb0HniSYOxvfOtED6Vr7p9x882": true,
     "0BPXzQRKNWPjFno86E1T8vVDxtz1": true,
-    "TiuoAFvClFeE9Eep93yiiNZaCmA3": true
+    "RHaUn8wA8Bfck3HtnAegqYYH96D3": true,
+    "od1OHdv9qlNiU8wmVYtZSsQ1Dlm2": true
   },
   "image": {
-    "height": 0,
     "id": "qzUkNB8",
-    "type": "image/png",
-    "width": 0
+    "type": "image/png"
   },
   "imageUrl": "https://imgur.com/qzUkNB8",
   "lastUpdatedDate": 1736714566700,
-  "numberOfFavorites": 10,
+  "numberOfFavorites": 5,
   "tags": [
     "/power/nuclear/",
     "/version/2,0/"
