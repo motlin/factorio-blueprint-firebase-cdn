@@ -8,7 +8,19 @@
   "descriptionMarkdown": "Input and output are at the bottom of the system.\n\nAt this revision it will only input one fuel cell when it outputs 1 empty fuel cell, so you will have to prime each reactor with 1 fuel cell.  If you like you can remove the arithmetic combinators at each reactor and it will fill reactor queue without priming. \n\nI have a blueprint of a simple koravex system that is enough to run this system.\n\nUpdate 10/05/18\n   Seems I published this with some errors in my combinator logic.  It will only pick a uranium 235 if one is available, if not, you have to  manually feed \n   the reactor.  Sry.  However, if the belt is full, it will work as I had planned.\n\nI have a robot version available that may suit you needs better.\n",
   "favorites": {
     "gikbOCGvWwY7hiFgsIoZrxMh4x93": true,
-    "myKkEdt0hhOHWsNcLz8YB00q37B2": true
+    "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
+    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "S0oSZrFVGKbpqfsmHGmpW3xY68D3": true,
+    "VWLRKEAf5rXYUs57cbHpV5OtIWq1": true,
+    "Jex9tSwKAsSHlXTtd7X4qQzoKn12": true,
+    "jKwRYJaVJJRfUkTo6BmEAs2iLVw1": true,
+    "cxxPE5pbgjP5WpZHsVqf9fY6Z4H2": true,
+    "M1WxVkVoNuP3AFASuh14knMkFmS2": true,
+    "HKVY6CQ2NKN1d5Utj2IZP2kzYX53": true,
+    "GqgSn4HFVoaEDuHCiuQo0g7J6d42": true,
+    "lIMyoBFlJLZWL4U2iY6eyffWd573": true,
+    "06BuTBSY81e5KJpy7Kha18KDOEs1": true
   },
   "fileName": "10GW nuclear system.PNG",
   "image": {

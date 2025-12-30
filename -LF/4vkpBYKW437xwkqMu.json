@@ -18,5 +18,11 @@
     "type": "image/jpeg",
     "width": 1245
   },
-  "numberOfFavorites": 4
+  "numberOfFavorites": 4,
+  "favorites": {
+    "O0yWlNsq0PaIdUMVHrOrFFJpf9Q2": true,
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "W28IclsS0oWmHKZ3yHhSJsEpJmD2": true,
+    "EPRqYF4gPscvsRIOFtvMzazdOba2": true
+  }
 }

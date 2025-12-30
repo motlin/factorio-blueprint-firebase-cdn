@@ -22,5 +22,12 @@
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/all%20sciences%20complete.png?alt=media&token=1a007080-1084-47d9-a7fe-5e4f05623814",
   "numberOfFavorites": 5,
   "createdDate": 1506155739701,
-  "descriptionMarkdown": "A setup that produces all sciences (except the light grey ones). Just plug and play!"
+  "descriptionMarkdown": "A setup that produces all sciences (except the light grey ones). Just plug and play!",
+  "favorites": {
+    "4TtIroqPTgUEsqUbSOOX4I7elAt1": true,
+    "ZSnsZCTyfhNEYQDD7RFeWKP11Bs2": true,
+    "0oknhGQdG1VstUBS6liclfzlhYq2": true,
+    "OScuw39Hj5QGgLUCvhcCXvUKJPF3": true,
+    "krDOo1I1fSTcSwBaYg3VI9evPbH3": true
+  }
 }

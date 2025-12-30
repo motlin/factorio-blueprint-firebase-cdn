@@ -19,7 +19,13 @@
   "title": "8 Core Nuclear Reactor (865MW, Dumb)",
   "favorites": {
     "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
-    "K8HXnSnhbbQqU5QPvNbsp9jlS0Q2": true
+    "K8HXnSnhbbQqU5QPvNbsp9jlS0Q2": true,
+    "GSfG7zbFoDd2k8oMKF3hmEOJwI93": true,
+    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "HBaDj2FIQoSxVQrtwOz1cSziGrr2": true,
+    "0kWvZfXRIqTBuH9g1hoWNfRks5J3": true,
+    "PJ44lLtbQocuQ2vnGc3TN4AuSaz2": true
   },
   "authorId": "IauqB6lyz5RKBqaYYMUj3j88msk2",
   "descriptionMarkdown": "An 8 core (2x4) nuclear reactor which can supply 865MW. \n\nIt is a \"dumb\" setup, in that it will not \"smartly\" save nuclear fuel by throttling down when the maximum load is not met. This was a deliberate design choice: By the time you need an 8 core reactor, nuclear fuel will be plentiful due to Kovarex Enrichment. Additionally, smart setups require additional circuitry and steam storage (add complexity and UPS drain, additional parts required, more setup time...)\n  \nThis is not designed for maxing any particular aspect (i.e. efficiency, footprint etc.) but is intended to be nicely balanced between efficiency, simplicity and aesthetics. \n\nThe piping could be improved if you have a suitable body of water to allow pumps on either side. As it is, it is setup to take all 8 water feeds from the left side in default orientation.\n\nAll things considered: a decent, relatively easy to build, and decent power output reactor setup suitable for a late game base or transition to mega base.\n\nStress testing shows 865MW in Creative Mode (0.16.51). \n\n\n\n\n ",

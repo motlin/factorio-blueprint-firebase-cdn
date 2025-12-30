@@ -8,7 +8,9 @@
   "descriptionMarkdown": "Tired of Factorio telling you there is 19k steam in your storage tank when really there is 19567?  Want to know the exact amount of something with no notation?  Well here you go, a set of cascading (tileable) LCD displays.  The 5 segment display is the latest technology.  The others are included as placeholders until those are converted.\n\nRuns in real time, 60 frames per second. \n\nColor defaults to yellow.  To change the color change the 7 decider combinators on the right side of the logic for each digit to output whatever color you want.  I found yellow to be the easiest to see (highest contrast day and night).\n\nTo use, just input RED signal to any of the constant combinators.\n\nADDED - 3 digit display (for percentages).\n\n",
   "favorites": {
     "qJP1Pt2LIgOfWGVKnTNSRmOeeX42": true,
-    "th9Wik5CEOdid6pTuddvUze7qAj1": true
+    "th9Wik5CEOdid6pTuddvUze7qAj1": true,
+    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
+    "XWIpSrSmUUhOAHx6OjPsSZt4KfF3": true
   },
   "fileName": "Factorio - 5 digit LCD display.jpg",
   "image": {

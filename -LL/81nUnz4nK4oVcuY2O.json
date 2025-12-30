@@ -19,5 +19,9 @@
   "descriptionMarkdown": "Some red circuits",
   "fileName": "Reds.jpg",
   "numberOfFavorites": 2,
-  "title": "Red Circuits"
+  "title": "Red Circuits",
+  "favorites": {
+    "ndlUEyi1k3OsKJZ2DrUElBRk2fJ2": true,
+    "Vdfyg4Lk98QAUnrC2jpl5De4uFw1": true
+  }
 }

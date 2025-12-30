@@ -19,5 +19,12 @@
   "descriptionMarkdown": "Blueprint from [this](https://forums.factorio.com/viewtopic.php?f=193&t=19825&start=60#p282391) forum post.\n\n![](https://vgy.me/5qCYeT.png) ![](https://vgy.me/4i8gDC.png) ![](https://vgy.me/8M5T2Y.png)\n\nAssign per Index on Display:\n\n|0| 1| 2|\n|-|-|\n|Signal 0 < 0 | Signal 1 < 0 | Signal 0 < 0 |\n| Signal 2 < 0 | Signal 3 < 0 | Signal 4 < 0|\n| Signal 5 < 0 | Signal 6 < 0 | Signal 5 < 0|\n| Signal 7 < 0 | Signal 3 < 0| Signal 8 < 0|\n| Signal 9 < 0 | Signal A < 0 | Signal 5 < 0|\n\nConstant Combinator Signal Values:\n\n|Signal |Value |\n|--|--|\n|0|-1077936128\n|1|-138412032\n|2|-1900019712\n|3|1073741824\n|4|-1178599424\n|5|-1094713344\n|6|2143289344\n|7|-1551892480\n|8|-1631584256\n|9|-1212153856\n|A|-155189248\n\nSignal Value Calculation:\n\n<img width=\"650px\" src=\"https://vgy.me/odn59R.png\" />",
   "fileName": "factorio_2017-12-09_18-47-33.png",
   "lastUpdatedDate": 1512974989325,
-  "title": "Expandable Digit Display"
+  "title": "Expandable Digit Display",
+  "favorites": {
+    "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
+    "9bCWREjAU2eFHTyJAhwDVU9hdpV2": true,
+    "oGS6uVXLqyWW0PvfOIMM0U956le2": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "bvBzzXXCp5c3fZA7nUQZ57kJ5893": true
+  }
 }

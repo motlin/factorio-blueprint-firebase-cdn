@@ -18,5 +18,11 @@
   "createdDate": 1543780156112,
   "title": "Nice RED ones",
   "descriptionMarkdown": "Compact and extendable red chip production",
-  "numberOfFavorites": 4
+  "numberOfFavorites": 4,
+  "favorites": {
+    "4O73WwcbzJVVyyrtqjZEwX2cvIo1": true,
+    "DpH4k6f0YnSKZAnLeBMMoMjXBdn2": true,
+    "liNHVL9u6gg0KifHBW6eNxCdb7Y2": true,
+    "Pe6MPzkV81gqJj7jyOloHESKAmo2": true
+  }
 }

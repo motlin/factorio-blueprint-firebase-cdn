@@ -5,7 +5,18 @@
     "/general/tileable/"
   ],
   "favorites": {
-    "8N4gXv7KWGM29n1nFeTivQv6EO32": true
+    "8N4gXv7KWGM29n1nFeTivQv6EO32": true,
+    "8h61JwZfW0Ng4AlgXXQgsgDGJ0p2": true,
+    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
+    "nQfAZHqfdedgCdivt9okfzA4XZB2": true,
+    "QOnLZb7SNbcPgNrfRQOsjaT71PG3": true,
+    "sx8Sm843k6T2ljctG7sT6SIIO9F3": true,
+    "04EvLLA1HVRkkB39O4q8quYP9n23": true,
+    "Ojh0Lmt8dPMoyeQpyF1qE5VblFI3": true,
+    "de0YmBBe8YZk1RE6wc6E3IAL8Ef1": true,
+    "LIKibBUM2ggS8zqXtt09PJoef592": true,
+    "jKwRYJaVJJRfUkTo6BmEAs2iLVw1": true,
+    "gikbOCGvWwY7hiFgsIoZrxMh4x93": true
   },
   "descriptionMarkdown": "Tileable red circuit build. Each blueprint will produce one fully compressed blue belt of red circuits. The screenshot shows it tiled twice to produce 2 blue belts of reds - to give an idea of how the inputs would look on a larger build (the blueprint is now updated to include these neater inputs). If you are going to connect both the left and right hand side of the build to your power network the medium power poles can be omitted by updating the blueprint or passing a filtered deconstruction planner over it.\nThe filtered inserters in the blueprint are not part of the build and are purely to indicate how the inputs should be hooked up. ",
   "image": {

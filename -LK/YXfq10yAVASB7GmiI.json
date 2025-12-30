@@ -22,7 +22,12 @@
     "/general/beaconized/"
   ],
   "favorites": {
-    "G4ArQDmnOWhgV23j8M41eU3aX7C2": true
+    "G4ArQDmnOWhgV23j8M41eU3aX7C2": true,
+    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
+    "bjvZMJGH43cxmYlDUnj44AvFhBj2": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "olHreMmdioPKe5RlZPST8c63qfe2": true,
+    "98LiK71ZdAcTWXBuNscSgrKrbtj2": true
   },
   "descriptionMarkdown": "Electricity - 190MW During full throughput of Blue Circuits\n\nInputs:\n\n- Green Circuits - 12 Compressed Blue Belts (480/s)\n\n- Red Circuits - 4 Compressed Blue Belts (160/s)\n\n- Sulfuric Acid - 2 Full throughput pipelines (Not sure how to calculate exact amount)\n\n\n\nNotes: The Constant Combinators are used to indicate input lines. I've used the creative mod to design and test this, had a lot of fun figuring it all out. In the screenshot you'll see the line being emptied into void requester chests(not part of the blueprint) \n\nI haven't been able to find any blueprints that compress a blue belt with less assemblers but I'd love to see it =D. \n\nAny advice or tips are much appreciated, and if you can calculate the Sulfuric Acid per second for this, let me know and I'll update the Description. ",
   "fileName": "Blue Circuits by KetchupKid.png",

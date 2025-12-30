@@ -24,5 +24,9 @@
   "descriptionMarkdown": "This is bot-based and beaconed. It takes ~8MW of power on its own before expansion, so if you use a lot of them I recommend using a power switch to turn it on only when you need it.\n\nNote: Requires infinite research mod for maximum throughput and takes a LOT of iron, I think about 38,000 per minute to not have any bottlenecks (due to exact number of belts created being between 3.7 and 3.8k). Without the infinite research (specifically for stack inserters which goes to level 7 research in vanilla), you'll max out between 3.3-3.6k belts/minute even with two requester chests for gears.",
   "fileName": "belts.png",
   "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/belts.png?alt=media&token=2f6f284a-f995-4876-b01e-9e01eff38d1b",
-  "lastUpdatedDate": 1499562440238
+  "lastUpdatedDate": 1499562440238,
+  "favorites": {
+    "9gqFDiAFACRKi2dh3ix7mU9I1xt2": true,
+    "oGS6uVXLqyWW0PvfOIMM0U956le2": true
+  }
 }

@@ -22,5 +22,20 @@
   "authorId": "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3",
   "descriptionMarkdown": "This build allocates smelting according to how much copper and iron plate you would like in your logistics network, versus what you already have.\n\nThe build is based on one produced by Xeteth, but has some extra 'intelligence'.\n\nHOW TO USE\n\nSimply set the constant combinator to the amount of iron and copper plate you would like in your logistics network.\n\nThe smelters will be told what to make in proportion, to the amount you are short of each type of plate. If you are not short of either plate, the smelters will be idle, and produce nothing.\n\nFor example, if you are 5,000 iron plates short, and 3,000 copper plates short, then 5/8 of the smelters will produce iron plate and 3/8 of them will produce copper plate.",
   "fileName": "InrtelligentSmelter.PNG",
-  "numberOfFavorites": 13
+  "numberOfFavorites": 13,
+  "favorites": {
+    "51q70eEeD6SqCtvjUv2PXlWtOkH2": true,
+    "FUPNuTqREVUgdpLgGwKtyYv3iKH2": true,
+    "QOnLZb7SNbcPgNrfRQOsjaT71PG3": true,
+    "hvN3auhFCEQt89Wd46r8isqQ4mv1": true,
+    "xIR9waLbfPWHGLRfnTuGgDUJBbp2": true,
+    "fNMC0cPouCSh7biviv3NMH54PUf1": true,
+    "dOG2XXHyLLPtmxgp6MujJYvaIa32": true,
+    "g9lstdGYKUNp59262RucvvKw9gA2": true,
+    "VjQKBjnonCMhsYXKgQOSGm97xz62": true,
+    "MyAPs9B5XbWIdnG1218D2CGrJug2": true,
+    "YTN6PoAUPEhPpiRxZY6xXr9dmm13": true,
+    "vD3BS94FIATJaUWLbhYId5PjdGv1": true,
+    "AffPlmWJJNabbeMsT1mWoanZBj52": true
+  }
 }

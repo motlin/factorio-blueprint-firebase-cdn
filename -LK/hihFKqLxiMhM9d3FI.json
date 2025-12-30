@@ -22,5 +22,8 @@
   "numberOfFavorites": 1,
   "title": "Brown Algae",
   "authorId": "zxu2EzZpsnYJEhZOVEpKgfXqqT13",
-  "descriptionMarkdown": "Brown Algae to Lithium chloride, Sodium Carbonate, Alginic Acid"
+  "descriptionMarkdown": "Brown Algae to Lithium chloride, Sodium Carbonate, Alginic Acid",
+  "favorites": {
+    "wy1phRzu68NuP0ofN7tF8TtCdUJ2": true
+  }
 }

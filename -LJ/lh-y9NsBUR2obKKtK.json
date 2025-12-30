@@ -18,5 +18,10 @@
   "descriptionMarkdown": "this is a mall that makes everything that i don't need constantly. \nthis mall uses belts only",
   "lastUpdatedDate": 1534137209037,
   "numberOfFavorites": 3,
-  "title": "My first mall"
+  "title": "My first mall",
+  "favorites": {
+    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
+    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
+    "E9f9uNDeyycwsBpbUtagxUNsRf53": true
+  }
 }

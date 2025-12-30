@@ -24,6 +24,11 @@
   "createdDate": 1536457791790,
   "descriptionMarkdown": "A number display (adapted from another bigger, not tileable design from a long time ago).\nIt's tileable, and compact.\n\nTo use, there are two combinators on the top right, labelled 'colour' and 'input'. Pass in any colour signal into 'colour' to change the colour of every number on the display. Pass a 'black' signal to 'input' to set the number to display (IE: 1234 and 5678 in the thumbnail).",
   "favorites": {
-    "yH7pj1noRzfKZS1S7aBc8CQfFKs1": true
+    "yH7pj1noRzfKZS1S7aBc8CQfFKs1": true,
+    "KsxlwwfGD9Zx7vEWOJKMFIxycet2": true,
+    "x3wC2LCmBOSicFs5bJepNzVFgdw1": true,
+    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
+    "4MT7V13r61Pua3WS8GUBa13Qlo23": true,
+    "XWIpSrSmUUhOAHx6OjPsSZt4KfF3": true
   }
 }

@@ -16,5 +16,9 @@
   },
   "numberOfFavorites": 2,
   "descriptionMarkdown": "This is a pretty good beaconed oil design... I don't really know what else to say. Only use in rows of about 10 to ensure fluid throughput.",
-  "fileName": "Beaconed Oil.png"
+  "fileName": "Beaconed Oil.png",
+  "favorites": {
+    "9gqFDiAFACRKi2dh3ix7mU9I1xt2": true,
+    "WvzpBbEL0RWx70SFbEh2QfJlALA2": true
+  }
 }

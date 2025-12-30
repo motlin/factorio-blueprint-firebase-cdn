@@ -15,5 +15,9 @@
   "authorId": "iaFfR45oZ9ecOKKEmgr10H4zC8u1",
   "fileName": "deployed.png",
   "numberOfFavorites": 2,
-  "title": "BattleStation"
+  "title": "BattleStation",
+  "favorites": {
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true
+  }
 }

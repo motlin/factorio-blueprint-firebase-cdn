@@ -21,5 +21,11 @@
     "type": "image/jpeg",
     "width": 1290
   },
-  "numberOfFavorites": 4
+  "numberOfFavorites": 4,
+  "favorites": {
+    "uDpd3hzVPna0u34G2yiCY1omgDh1": true,
+    "JS3xB4ApyfeKYh0kVKvk0Wj9EXC3": true,
+    "XBhPvLSp1dU3gsMnsdiBNSyABBw2": true,
+    "fOAsuJ9iFeVlEvb1TFUS8P8LOl93": true
+  }
 }

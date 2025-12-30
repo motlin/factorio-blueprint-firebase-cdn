@@ -8,7 +8,24 @@
   "descriptionMarkdown": "Turns about 10.4k/m coal into 5.9k/m plastics. You need to supply water on the two underground pipes at the top.\nAbout 250 logistic bots should be enough to get the coal in. Have not tested getting plastics out. So you might want to add some more ;)\n\nThe big P up on the right lights up in red if buffers are below 20k, yellow if they are between 20k and 40k and green, if stock is 40k and above.\nThe lights to the left of that show a more granular amount of plastics. 1k each light, 5k each row - colors are the same as on the P :)\n\nRatios are not 100% perfect but enough to keep things running pretty smooth.\n\nUses about 194MW of power.\n\nAlso there is one blueprint with and one without concrete included.",
   "favorites": {
     "AWXVB0E6gfQeIrVuS5OWi4XSVXn1": true,
-    "phSUDMDo2XOdHOwH9JLOPfBhKR43": true
+    "phSUDMDo2XOdHOwH9JLOPfBhKR43": true,
+    "LhBd0yWlPxN6Sh0Gu2rU3Da94B53": true,
+    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
+    "vg8vqIt2brQbC5pG8Bo0iLa0PRh1": true,
+    "bLucYkSnspgyCUfTu6SEI0KimdA2": true,
+    "NLbM0BzWD0e1xQQzxupGjvql3Er1": true,
+    "as5JycMFf6P25DzNGcN4xRhqLE62": true,
+    "knHtxh4wDXaumqgful47NygduO93": true,
+    "cCLehxEXbMSOcXm03UHzdYWF15q1": true,
+    "aYVPVaripRf5Nk28I4OFJ3JZ5Va2": true,
+    "4G8WCdj7UKXy1LZaYBlbaDKXxcG3": true,
+    "CfP69eqp73QIUZF1JhnBdupp2uJ2": true,
+    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
+    "lKR1E3ePTQbsvJneZ1q8lQL11z82": true,
+    "O4f0CQyHwCZejCU2VuWfeJTtV5A3": true,
+    "gPqFJsV9mQSCYnpDKYG5xqrrrT23": true,
+    "zgQXuDcHxjNaMc38p1jChzNk5vt2": true,
+    "CHoh0Fn4DrX9N9BJoAwbJduiGT23": true
   },
   "fileName": "coalliquefaction.png",
   "image": {

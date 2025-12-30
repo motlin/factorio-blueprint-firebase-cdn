@@ -23,5 +23,9 @@
   "createdDate": 1502731758106,
   "descriptionMarkdown": "This book contains the blueprints required to place a steel smelting build which will produce one blue belt of steel with expensive recipes enabled.\n\nFirst of all use the tileable smelter blueprint three times to place the smelters in a standard layout fashion (the picture shows a complete row)\n\nNext repeat this row another 9 times to give you ten rows of smelters.\n\nUse the Ore Feed blueprint to add the Ore feeders to each row and connect them up to an iron ore source.\n\nFinally place the 10 to 1 balancer in an appropriate place on the output side of the smelters and connect the outputs to it.\n\nProvided it get's a full belt of iron ore to each smelting row this will now produce a full blue belt of steel.",
   "fileName": "ExpensiveRecipesSteelSmelter.PNG",
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ExpensiveRecipesSteelSmelter.PNG?alt=media&token=0a2cb935-decb-4afb-b19c-2e9c028d6669"
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/ExpensiveRecipesSteelSmelter.PNG?alt=media&token=0a2cb935-decb-4afb-b19c-2e9c028d6669",
+  "favorites": {
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "mqWh5l6HexT0BSlt8xXdM3Yc7LC3": true
+  }
 }

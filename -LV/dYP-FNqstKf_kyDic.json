@@ -7,8 +7,13 @@
   "createdDate": 1546885374366,
   "descriptionMarkdown": "This blueprint contains 128 electric smelters split into two groups to smelt ore from trains. Input(Ore unloading) is at top. Output(ingot loading) is at bottom. Circuit network set to enable/disable trains station accordingly depending on which section\n\nStations will only accept single headed trains with 2 locos and 4 cargo (2-4-0)\n\nThis Setup is still under testing...",
   "favorites": {
+    "LWGb30vdZnhUQOR3mBqnPdTI8NJ2": true,
     "NECUCjOStQdiU4UQrXooDE6HBm62": true,
-    "myKkEdt0hhOHWsNcLz8YB00q37B2": true
+    "Ojh0Lmt8dPMoyeQpyF1qE5VblFI3": true,
+    "jCE6Mi25ZgMl9ssfa50QBhRW5pv1": true,
+    "myKkEdt0hhOHWsNcLz8YB00q37B2": true,
+    "tdeLoqbEfianLsUq5W4XvuX6dgs1": true,
+    "xcTi6N7yOLcpHbZQCrCu8IRCdDW2": true
   },
   "fileName": "SekiTrainSmelting.PNG",
   "image": {

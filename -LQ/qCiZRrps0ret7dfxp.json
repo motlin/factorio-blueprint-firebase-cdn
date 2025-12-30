@@ -19,5 +19,12 @@
   "numberOfFavorites": 5,
   "title": "Multiple Ore Per Train - Expandable Station",
   "authorId": "jfpzH6ARL8dOvtG7vWBkvbYWrqC2",
-  "createdDate": 1541729085778
+  "createdDate": 1541729085778,
+  "favorites": {
+    "SpZQMBCZeBOdOjFgQD79f5fjGSc2": true,
+    "X7MYyVnmIBZkXbx5R7niXTwAQ672": true,
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "6TRYKzrrEvXuucBrD9zhFadgHwP2": true,
+    "zGYCy54ImCX6qRjvFj1ucjT2LSp1": true
+  }
 }

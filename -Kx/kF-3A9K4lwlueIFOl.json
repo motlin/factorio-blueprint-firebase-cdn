@@ -22,5 +22,10 @@
     "type": "image/png",
     "width": 1600
   },
-  "numberOfFavorites": 3
+  "numberOfFavorites": 3,
+  "favorites": {
+    "YohMbT8UH9PftA2uYUdruxl40n13": true,
+    "rQA5zgT8SmadTwK9AHdyr3TgHmr2": true,
+    "xNo1UN62wxRVy12lRwLAQk7CW0S2": true
+  }
 }

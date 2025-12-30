@@ -6,7 +6,15 @@
     "iknVlssYY1bmK75g45YQCCQvjjE3": true,
     "cgwuusc8KfVV5LXnjGAlGHb1orI3": true,
     "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
-    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true
+    "Y6PiIIHKMKhcVb1dI9gwdhVZfkl2": true,
+    "as5JycMFf6P25DzNGcN4xRhqLE62": true,
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "WvzpBbEL0RWx70SFbEh2QfJlALA2": true,
+    "GpcM6ZUC8RVaxFbIGldanqcANO02": true,
+    "Tlmqm5NibCbBCErj3rquZDzRTHr2": true,
+    "TdskFTIO3jZnvVunkJr5g90OCTw1": true,
+    "xY9rEKNEQMbXOOplxstm479GMBc2": true,
+    "XLql7t7Gp2hxWYB0iPx1FSBYZL83": true
   },
   "createdDate": 1502315627690,
   "descriptionMarkdown": "After the [balanced liquefaction build](https://factorioprints.com/view/-Kr03fSKDQqr6dK3e7xU), here's another based on 25 refineries and 3 heavy to light crackers. This time though, instead of converting everything to gas, it's solid fuel instead. This build produces around 975 solid fuel per minute.\n\n**Instructions for Use**\n\n- Place the Blueprint\n- Connect the build to water, coal and power at the top left. 3.1K of coal per minute is required. 1.5 blue belts is sufficient.\n- Insert at least one barrel of heavy oil into the assembler at the top left\n- Watch how the refineries start working one by one\n- The refineries are now running in a closed loop, with the only output being solid fuel on the right hand side, about two thirds down on the screenshot\n\n**Notes**\n\n- After bootstrapping the build with at least 1 barrel of heavy oil, it is safe to remove the assembler\n- The concrete in the screenshot is not part of the blueprint\n- The blueprint includes Creative Mode entities only to supply the coal, water and power and to consume the solid fuel. Without these entities, you can use the build in vanilla\n- At any one time, 2 of the plants making solid fuel from light, and 2 of the plants making solid fuel from gas are idle. A 'perfect' build would have 2 less Chemical Plants, but I like the symmetry",

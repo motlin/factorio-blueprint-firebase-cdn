@@ -7,7 +7,14 @@
   "descriptionMarkdown": "A storage block, which is in full range of the robo port.\n\nIt has a grid layout, with 4x25 storage chests per cell and each 25 chest cell is pre-connected with red/green wire for use in the circuit network.\nI also added a nice concrete design, to let it look better but if you prefere it without the Tiles, simple edit the BP and uncheck *Tiles*.\n\nThe total amount of storable items depends on the maximum stack size, while the total amount of chests is (8 x 8 x 25) - 4 = 1596 - This comes from the 4 missing chests, where the robo port sits but this shoulnd't be a problem after all.\n\nSome math for the max storage amount in total:\n\n* ss => 10 => 1596 x 10 = 15,960 (e. g. Barrels)\n* ss => 50 => 1596 x 50 = 79,800 (e. g. Ores)\n* ss => 100 => 1596 x 100 = 159,600 (e. g. Metal Plates)\n* ss => 200 => 1596 x 200 = 319,200 (e. g. Circuits)\n\nAfter this is placed, you can choose what should be in those 25-cells and you can hook it up to the circuit network todo some cool stuff with it ;).\n\nI hope you'll like it and that it helps you out to have a better storage place :)",
   "title": "25-8-8 Logistic Storage Cell (with circuit network pre-support)",
   "favorites": {
-    "26i54FAUW4SeMyjvmHoPjGUBCnE2": true
+    "26i54FAUW4SeMyjvmHoPjGUBCnE2": true,
+    "esfltOaBosc6y52j0lE06bYSfaz1": true,
+    "ojRAiJiCuXZpw1YiDOKX3of7wMf1": true,
+    "rsWbW9i1CsfvS09MmjZm2faUs1a2": true,
+    "VWLRKEAf5rXYUs57cbHpV5OtIWq1": true,
+    "a0Ug6rccqrOicl4YYgTIixV6lOK2": true,
+    "NCJujBif2qM3BxGgHXQSDFPf7OD3": true,
+    "a84jkpdudMTUnKUjgl07kL4Nd5H3": true
   },
   "authorId": "feCGCVpbYKUtWa9tuRSzzTZDpVy1",
   "fileName": "factorio_2018-08-16_20-27-15.png",

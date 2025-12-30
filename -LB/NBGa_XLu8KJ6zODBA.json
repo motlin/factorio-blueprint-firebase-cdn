@@ -18,5 +18,9 @@
   "fileName": "asdfasdfadfadfadf.PNG",
   "numberOfFavorites": 2,
   "authorId": "e5SRbQIXeqgtSHzEjUyojOs6fD03",
-  "createdDate": 1525119261591
+  "createdDate": 1525119261591,
+  "favorites": {
+    "g3Q4cbvCmZZZYXZLFjXz5ZedVFo1": true,
+    "GYFV1JbquHSXI6BHm7emB5rbQ8n1": true
+  }
 }

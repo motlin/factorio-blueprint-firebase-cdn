@@ -20,5 +20,9 @@
   "fileName": "ahoj.jpg",
   "numberOfFavorites": 2,
   "title": "Moving light arrow indicator",
-  "authorId": "Ck6KGcdyaxOSVVIx5KaS97hEZx93"
+  "authorId": "Ck6KGcdyaxOSVVIx5KaS97hEZx93",
+  "favorites": {
+    "oGS6uVXLqyWW0PvfOIMM0U956le2": true,
+    "vu9x82xA5HaId4IpOEpJvnbOHDz2": true
+  }
 }

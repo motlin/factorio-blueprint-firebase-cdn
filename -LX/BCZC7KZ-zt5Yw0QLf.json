@@ -24,5 +24,8 @@
   "title": "Compact tileable yellow science production",
   "authorId": "KHiVNgd8hhOuc9SwS2OqGYE00JA3",
   "createdDate": 1548540593093,
-  "descriptionMarkdown": "**Technology requirements:**\n\n* Maximum output with **Inserters capacity bonus 2**\n\n**Stats:**\n\nRatio|Input / min|Output / min\n---| ------------|---\nCopper plate|337.5|\nBattery|22.5|\nGreen circuit|112.5|\nRed circuit|112.5|\nBlue circuit|67.5|\nYellow science||45\n\n**Links:**\n\n* [Blueprint ratio calculations using Kirk McDonald's Factorio Calculator ](https://kirkmcdonald.github.io/calc.html#tab=graph&min=2&items=high-tech-science-pack:f:7&ignore=copper-plate,advanced-circuit,electronic-circuit,processing-unit,battery)"
+  "descriptionMarkdown": "**Technology requirements:**\n\n* Maximum output with **Inserters capacity bonus 2**\n\n**Stats:**\n\nRatio|Input / min|Output / min\n---| ------------|---\nCopper plate|337.5|\nBattery|22.5|\nGreen circuit|112.5|\nRed circuit|112.5|\nBlue circuit|67.5|\nYellow science||45\n\n**Links:**\n\n* [Blueprint ratio calculations using Kirk McDonald's Factorio Calculator ](https://kirkmcdonald.github.io/calc.html#tab=graph&min=2&items=high-tech-science-pack:f:7&ignore=copper-plate,advanced-circuit,electronic-circuit,processing-unit,battery)",
+  "favorites": {
+    "Vdfyg4Lk98QAUnrC2jpl5De4uFw1": true
+  }
 }

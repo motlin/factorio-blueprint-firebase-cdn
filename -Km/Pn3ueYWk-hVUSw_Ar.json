@@ -21,7 +21,10 @@
   ],
   "title": "Smart Unloading Station",
   "favorites": {
-    "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true
+    "qxdPChVG9kYAkr9QXgJy5xrw5ns2": true,
+    "AWlpVlK4Ivgv059cW9W5vzc8fiu1": true,
+    "6gfbNYgyzKhl4hGASCxF7195r1l1": true,
+    "smkVzU5DlPRIvukZ92455A30YFy1": true
   },
   "descriptionMarkdown": "allows for Intelligent unloading of more than 12 unique resources from a single carriage based selected presets. I use this design for setting up and maintaining defensive posts at distance from my main base but the theory could be used in other applications as well.\n\nNormally you can unload only 12 unique resources from a single carriage intelligently, however by using stack filter inserter's and dynamically setting the filter based on the following criteria you can have a single inserter intelligently handle multiple goods thereby increasing the limit to essentially 40(number of unique slots in a stock carriage as of 0.15.13)\n\nCriteria\n1. resource must be in carriage\n2. resource must be needed (ie less than set limit in station)\n\nIn addition when all required goods are fully stocked the station should disable so trains don't visit until goods are again needed.\n\nThe current blueprint is setup for my defense offload station so there are some unique sections (circled in red on the screenshot) that are not needed in a standard station and have be wired slightly differently. Specifically they relate to specifying the total combined ammo amount across all relevant ammo types. These sections can be removed without affecting the overall operation of the station however some rewiring on the ammo section may be required to get them operating as normal\n\nIt is also set up to request only 2 resources per output chest except for one segment on the right hand side where i am requesting 4. Adding more combinations per chain will allow for more resources per chest or multiple chests could request the same resources by chaining the green wire on the filter inserters together\n\nI have also included a return chest to get rid of wood and stone picked up by drones during construction, again this is not necessary\n\nIf people want a detailed explanation on how this works let me know in the comments and i will attempt to provide one.",
   "numberOfFavorites": 4

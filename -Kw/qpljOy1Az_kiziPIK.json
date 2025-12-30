@@ -21,5 +21,8 @@
   },
   "authorId": "FSI7JHXQKpbSXb5JSv971bm9SVM2",
   "descriptionMarkdown": "This blueprint takes just coal and turn into petroleum gas. Just need two manual things to start production: put some heavy oil in the respective tank (just look at the outputs) and some fuel in onde of the boilers. It produces about 130 /s and you can put one down the other.",
-  "fileName": "coal.png"
+  "fileName": "coal.png",
+  "favorites": {
+    "wKmACtuMfNPHBYQktZilp06U7Uq2": true
+  }
 }

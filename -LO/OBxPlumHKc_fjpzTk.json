@@ -29,7 +29,15 @@
     "mrc2AeDExTQtRXSRqzqmYSzRsxB2": true,
     "WIBaJ3dgD5SYUN6SssLi7gJ02C23": true,
     "wFhoY6aiHvShX3N7aZ1F3R5bguB3": true,
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "S0oSZrFVGKbpqfsmHGmpW3xY68D3": true,
+    "0xkjCPRtKAMFNPnQYxtJlTsnUkg1": true,
+    "dz6mWosYmjhHcWMrppOdR8DWUIB2": true,
+    "IFeEXDG62tW2X55Qo6xVMEFBOtL2": true,
+    "zVX8nJyh6QTIfqqVD6vB7YNqrv92": true,
+    "In1rtH2n5adyXitVm0jBWskj5WM2": true,
+    "NXMeV4URQ3UA4G4qyDvdFPDNjEt1": true,
+    "Xls0hfkV67NE1SsyMHNxlY8TdTG3": true
   },
   "authorId": "ye5gtruRXrYNm1cCzc4mUNfb6gW2",
   "descriptionMarkdown": "**All you have to do is provide water, Lot of coal and just 35 heavy oil after that the system will run automatically.**\n\n**You will need a lot of coal and if you don't spend it here I don't know where you will spend millions of coal**\n\nCoal liquefaction is your only option if you.\n 1. Somehow run out of crude oil.\n 2. Need more lube (Heavy oil)\n1. Basic oil processing give you 30H 30L 40G\n2. Advance oil processing give you 10H 45L 55G\n3. Coal liquefaction give you 35H 15L 20G by using 25H so you will get 10 more from each production.\n\nFor starting the system using pipe/barrel to put some heavy oil into bottom left tank(Where I've a lot of free space).\n\nIt will focus on producing Lubricant until your tank full after that will produce Heavy oil.\n\nLeft side tanks is for oils out put you can freely tap it at the end or expend the storage once tanks is full it will use oil to create byproduct such as plastic and solid fuel. You might not get heavy oil at all because it need to be used in Coal liquefaction but I created it just in case you have it extra.\n\n\nThe word \"smart\" is come from these condition.\n\n1. The system will have power when they can do the production to use minimal energy (except you lack coal, water I didn't do that condition).\n*Please connect your power source to outside grid (Big electric pole) or else system will not shut properly (Check cable at power switch your bots might mess it up, just alt+click pole and then use copper wire to place it manually)*\n\n2. When low on gas will convert it from light oil.\n\n3. If having too much of light oil or gas it will be used to create solid fuel (in case of you didn't take plastic out in time and belt was blocked).\n\n4. If belt was blocked  their production will stop.\n\n5. If lube and heavy oil or gas , light oil were full whole system will shut and ready to reopen.\n\nProduction (Maximum):\n\n* 9.3 k/m Lubricant \n* 27  k/m Petroleum Gas\n* 32  k/m Heavy Oil\n* 13  k/m Light Oil\n* 2.7 k/m Plastic\n\nConsumption (Maximum): \n\n* 11 k/m Coal\n* 56 MW Crazy amount of power (Speed module increase a lot of power needed and you don't need speed module too)\n\nYou might think that \"There's a lot of production on each one\" I did that because they will operate for briefly and then turned off not for constant 24/7.\n\nIf you put speed 3 like in my picture in plastic section machines will operate about half of them -> 1 full blue belt and a bit extra if set splitter to 1 side."
