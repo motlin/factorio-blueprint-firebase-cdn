@@ -1,25 +1,25 @@
 {
-  "author": {
-    "userId": "JtRthZFg6mX6gCk7k7Lm6DG9YPN2"
-  },
-  "authorId": "JtRthZFg6mX6gCk7k7Lm6DG9YPN2",
-  "blueprintString": "0eNrtWlFv2zYQ/iuEnjZAMkxKtiUD28Ne9jhg7dtaGJJFx0QlUqOoOEHg/74j1diOTDqi3SLFUiAIYJt3/O6+u+MdpaegqDraSMZVsHwKStquJWsUEzxYBh+3rEXwp7YUFfn6SyE4RUqgHClW0byoKBI1ZyWTdK1F8grVeVVNPnGm0DrnSNJ/O9oqxBStW7SRokaFUFujULK7rUI5L1FFNwqVtKG8ZPwOCY52W7beorXgrco5qBJ1wXiuhNRoupaWE/QRVNgWgPRB+y9a86+o6aqq33zwy8R88YHdAfIW7RgsKyhq8hZ2MD+BrZw+KGPupF/AhUItIH22rdWLGG+pVFSCUA6mCIBEH5g2vEfDqdoJ+WViHGE8A/tsqN4FvMkfzQYgt+NK0ryeoE/8AwXryoPPtFwjdlQ2AlYaNa3Bjf4GLcamEP0pKeXGnZ+4uAc4Vd4gjdVIIi3aTgC9MuABntHeEwGu04KTIAyY9muw/Ocp6LfQgaEeGwoRoTeGFTyv9ac8Z9Eul3QrgJNgD5K8pA/BEu9Di+w9k6qDbw7iLY14fh/lUopd1DWR3v9EC7lOizHnRE1sVfPSECkK0Qh5KpbsP4cB5YopRntnmA+PK97VBZVg5BGBgtyINqyCCIieQwGUN6JlfSY9BdorOJ7MwuAxWEbzdDKDrQ6JEyznYQBeV1JUq4Ju83smpBZbM7numFrVoqQrsVmJhsq8lwAnaxHea2j1aqz/3ekgOAXMSmPNfq8dMTCCOLi0gF98hT732RfPHBvH3t4j04P3FkPvkW/mPUnLoQ0uE5KDCTUtWVdHtAJtkq0jnWiX+Y+NBSMBLHQo2t17Akt/nmuoAItCDhSikzpwZ+HiswX9zBf9if+90McDjPiCOTb8SYitBsyvd/9s5mNAFh4CSX8kTvjJ0NLpmeSZdTi12ba4wbbEx7YhZOJiILQDTY/1QzK1rakCjMfT2IZ0dkT6MokTexIfFa/0icgONm2YbNXquQcIluDt1hyaqxGHhlkR0Xy91TX/pDAEEawSnWo65atn71UZ8XlwhAFxrh9EIXYUpewAraRrVkJJvcxG4snGV61WKrzd/oI7wNnk0uBcBr9fTYJW1DwCvo6rle5vVoyDmmC5gR6P7senBo6HBIVnxcpRCFIntZZ93GqG9cPFuV7nRfr8RRl8vQv5TqSTAem/vT3pZHSxz/zSd+7iDvty9zNh3TU1OU8Yd+KR85I6Lp+HXRdJR+Yp8eQ6deUpefd5Go/NU+JVjOOpi7vYk7vFu8lTJTsv6i4zMLLPwYl/55n+7DxtneewnJmZ/ULZJC5KvEdKnI2YWuxZPcScvGJTOnr2wvPrJ+ObBkv3+eO6gcCLG6B6zYmzgT/7OjnupgGn3nFxnEqIX1zgIVBsqycD3PMQxttZSOBvbjUgu2XKJfv3VV3SYXc09WrKXilOZOG6yZxefUC7GHpXrXPmZMlegJNx5zS5fr75/9Hi2SnhzKd1HbbETkaOU8iz8a9Qcjyl45EXBqxd6V/7MLz6xgW/csi7GhHi26tn77UUjCjAFyar5PIFmblLdsernobHtT/OoYzcNAS8s4OZTP1urEbXk9kNDyuwTxNqGeVdoTmi67N3/+SWx0rTb/NUz+r5cegXvrU9GVDx3Wp7NrJ2p1feZU/f9i77B6zksbuiXnj4ZMu7mVsRGVkksiuvPqdve/X5Iz6XGn9AX77IsTxech3ALlrj6Q0XEF7VchhoZPxbBZa7Yrsx+AZjbjrI8OiDrMcOq837S8uTl/fCoMoLCvEY/PH8pt5GSPTX4P28QqiKtq15Tw9k7qls+7RKcbLIyCJN03mGyX7/Hz+PsCg=",
-  "createdDate": 1760493525613,
-  "descriptionMarkdown": "This is the backbone to a tillable omnidirectional mall.\nIt can request items from both the right and left depending on which constant combinator is used. The constant combinator on the right(left) pull from the right(left). the Signals will be passed to the next tile. Signals requests to will not be send to inserter for items that don't exist in the network downstream from the requesting tile. Items can be inserted in any tile and will move upstream as needed. Can Handle Approximately 265 requests/item stacks per tile. May suffer clogs if exceeded.\nSecond from bottom power pole item inspection signal Red right, Green left.\nover lap end power poles. Set request for pulling right and/or left. ",
-  "image": {
-    "id": "gTwYpqu",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1760493525613,
-  "numberOfFavorites": 2,
-  "tags": [
-    "/version/1,1/",
-    "/mods/space-exploration/",
-    "/mods/aai/"
-  ],
-  "title": "Backbone for Omnidirectional botless mall",
-  "favorites": {
-    "eZsE7LXsHvXdE2MTiVv9S3QaK8Y2": true,
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
-  }
+	"author": {
+		"userId": "JtRthZFg6mX6gCk7k7Lm6DG9YPN2"
+	},
+	"authorId": "JtRthZFg6mX6gCk7k7Lm6DG9YPN2",
+	"blueprintString": "0eNrtWlFv2zYQ/iuEnjZAMkxKtiUD28Ne9jhg7dtaGJJFx0QlUqOoOEHg/74j1diOTDqi3SLFUiAIYJt3/O6+u+MdpaegqDraSMZVsHwKStquJWsUEzxYBh+3rEXwp7YUFfn6SyE4RUqgHClW0byoKBI1ZyWTdK1F8grVeVVNPnGm0DrnSNJ/O9oqxBStW7SRokaFUFujULK7rUI5L1FFNwqVtKG8ZPwOCY52W7beorXgrco5qBJ1wXiuhNRoupaWE/QRVNgWgPRB+y9a86+o6aqq33zwy8R88YHdAfIW7RgsKyhq8hZ2MD+BrZw+KGPupF/AhUItIH22rdWLGG+pVFSCUA6mCIBEH5g2vEfDqdoJ+WViHGE8A/tsqN4FvMkfzQYgt+NK0ryeoE/8AwXryoPPtFwjdlQ2AlYaNa3Bjf4GLcamEP0pKeXGnZ+4uAc4Vd4gjdVIIi3aTgC9MuABntHeEwGu04KTIAyY9muw/Ocp6LfQgaEeGwoRoTeGFTyv9ac8Z9Eul3QrgJNgD5K8pA/BEu9Di+w9k6qDbw7iLY14fh/lUopd1DWR3v9EC7lOizHnRE1sVfPSECkK0Qh5KpbsP4cB5YopRntnmA+PK97VBZVg5BGBgtyINqyCCIieQwGUN6JlfSY9BdorOJ7MwuAxWEbzdDKDrQ6JEyznYQBeV1JUq4Ju83smpBZbM7numFrVoqQrsVmJhsq8lwAnaxHea2j1aqz/3ekgOAXMSmPNfq8dMTCCOLi0gF98hT732RfPHBvH3t4j04P3FkPvkW/mPUnLoQ0uE5KDCTUtWVdHtAJtkq0jnWiX+Y+NBSMBLHQo2t17Akt/nmuoAItCDhSikzpwZ+HiswX9zBf9if+90McDjPiCOTb8SYitBsyvd/9s5mNAFh4CSX8kTvjJ0NLpmeSZdTi12ba4wbbEx7YhZOJiILQDTY/1QzK1rakCjMfT2IZ0dkT6MokTexIfFa/0icgONm2YbNXquQcIluDt1hyaqxGHhlkR0Xy91TX/pDAEEawSnWo65atn71UZ8XlwhAFxrh9EIXYUpewAraRrVkJJvcxG4snGV61WKrzd/oI7wNnk0uBcBr9fTYJW1DwCvo6rle5vVoyDmmC5gR6P7senBo6HBIVnxcpRCFIntZZ93GqG9cPFuV7nRfr8RRl8vQv5TqSTAem/vT3pZHSxz/zSd+7iDvty9zNh3TU1OU8Yd+KR85I6Lp+HXRdJR+Yp8eQ6deUpefd5Go/NU+JVjOOpi7vYk7vFu8lTJTsv6i4zMLLPwYl/55n+7DxtneewnJmZ/ULZJC5KvEdKnI2YWuxZPcScvGJTOnr2wvPrJ+ObBkv3+eO6gcCLG6B6zYmzgT/7OjnupgGn3nFxnEqIX1zgIVBsqycD3PMQxttZSOBvbjUgu2XKJfv3VV3SYXc09WrKXilOZOG6yZxefUC7GHpXrXPmZMlegJNx5zS5fr75/9Hi2SnhzKd1HbbETkaOU8iz8a9Qcjyl45EXBqxd6V/7MLz6xgW/csi7GhHi26tn77UUjCjAFyar5PIFmblLdsernobHtT/OoYzcNAS8s4OZTP1urEbXk9kNDyuwTxNqGeVdoTmi67N3/+SWx0rTb/NUz+r5cegXvrU9GVDx3Wp7NrJ2p1feZU/f9i77B6zksbuiXnj4ZMu7mVsRGVkksiuvPqdve/X5Iz6XGn9AX77IsTxech3ALlrj6Q0XEF7VchhoZPxbBZa7Yrsx+AZjbjrI8OiDrMcOq837S8uTl/fCoMoLCvEY/PH8pt5GSPTX4P28QqiKtq15Tw9k7qls+7RKcbLIyCJN03mGyX7/Hz+PsCg=",
+	"createdDate": 1760493525613,
+	"descriptionMarkdown": "This is the backbone to a tillable omnidirectional mall.\nIt can request items from both the right and left depending on which constant combinator is used. The constant combinator on the right(left) pull from the right(left). the Signals will be passed to the next tile. Signals requests to will not be send to inserter for items that don't exist in the network downstream from the requesting tile. Items can be inserted in any tile and will move upstream as needed. Can Handle Approximately 265 requests/item stacks per tile. May suffer clogs if exceeded.\nSecond from bottom power pole item inspection signal Red right, Green left.\nover lap end power poles. Set request for pulling right and/or left. ",
+	"image": {
+		"id": "gTwYpqu",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1760493525613,
+	"numberOfFavorites": 2,
+	"tags": [
+		"/version/1,1/",
+		"/mods/space-exploration/",
+		"/mods/aai/"
+	],
+	"title": "Backbone for Omnidirectional botless mall",
+	"favorites": {
+		"eZsE7LXsHvXdE2MTiVv9S3QaK8Y2": true,
+		"aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+	}
 }

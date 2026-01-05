@@ -1,24 +1,24 @@
 {
-  "author": {
-    "displayName": "LCStark",
-    "userId": "6gwKLv5DH3cIeuDTWVUoctPEFhc2"
-  },
-  "blueprintString": "0eNrdmc+O6jYUxl8FeVszjZ0/EKTbzZW6mkpd3N0IoUA8YN2QpI4zc0cjHqDv0Sfrk/Q4CUmGMRMfRqqqsuFg7J+dz8nxd+CVbLNalErmmqxeSSqqnZKllkVOVuTXrJbpLCuSVOb7WaUT035HKJG7Iq/I6uGVVHKfJ5kZmidHAWNUIjNygi55Kn6QFTtRS6dHA54/J3uYZujLrX01EPN5pYty1NV/21W/lKbrk1S6hhZ6HluX80Sp4nk0MjitKRG5llqK9hKaDy+bvD5uhYIV96O/K5hWiGxe1scSoGVRyVaZVwKkOQv8u5CSF4B6sCCSSiV2bYclJSCRVkW22YpD8iQLZUbtpNrVUm9EnmwzkZKVVrWgfTMMSfsZHqWq9OadHGWiINBCzT1zVZUwgzbTUrQ92kG74mgw2iyK/P3nX+R0MnpeCMHdheD8/yyEj7gjvE6G8C58K0RgAQcIhaNrYMYt5JAOz2OaKOtSF/2eQWS77mi8vEO9F+YpVAm86yT/PvFARC4CLG5QduECXt4AdlpxjNbEj3CaMA89BY/fTGGDshtutcjpVmP8BvTCDe3jpeCTUgxPXaKkPkAOkbs5ZIKtzJtMYL2vO2b8ft32BDegh2RW2bLZRJr6Ospt5tCF64aDGm6RohQq6c7pn2BYUeuynkqT1vTGQssGSliV7WZe9vLGV+SNELTFJG2BoEWTtCWCFk7SYgQtmKJxD0HzJmkMQWOTNO5O45N3CPcRtHiSFiBok/cbH56Fke+0np4tiDG3fNDQNoZWCoRL+dY+/nrTjK82mTxKfXZL4zZ35L1BKpGkZ+auqPNLZtOGylJmnfqckB6kFscvo9SznrW1xH1XS3BiE39IHVW9PdNs4oe9+DbMkDNSsZMpzO+W3Znnmt077kVqH396QGf6+9aQnlN8DK8Lg/oLMbVLm+gvqy83ePnS7eyjKo4bmQOIrB6TrBKXU5/W9ppgeau27L+tbWP+P6HuNb3iG8yGh5XM2Wx8WDoN+jDPvN56jJ9tHsNBF2tB5X1CFe/ftmAi2R2sMvHPK3TNk/kIvz54ssvDaGkjI+z64KicyIg6efBDTuTA8WDw/Y8OBj9ELJChFhghaqAYRUaUyIO9cSIv6fg3u3l3z1qrtoHrUsH6seN2GZd6fbuCIUtUxpbsD3re/Lr4kR3zHX51YQhuiOByBNdHcH0ElyG4gTvXbKkzN0RwMfsWIbiYfVsguJh9WyK4mH2L3bkcsW8h4nnjV/cNPNQzfDYO6oFRRiPK1hQiTuHUDyDk0Mj8ppWb1phyCEMIWdB0gBE0br6PoLH9OjZfe33otyG09CzzrYmb9gBiKOVMbN4o2NZm6oiGFA6T0MSLtp23cdD3WZr2uI1Hc5nVm7FNHAwLNzgTh2u48t5YtQayO/xlOpz7TRlk/kFJ3/mwvn+3IfQcrIgxrAPjt+TH7Jup02Zfm9Ltw6GhNwz8XYE1gi1vnK4p0aBt+PuHkizZisyUb51d6c6EL51ZyeQfsPj1qIij5Amutdn5MOJxEMfhEnJF7AWn0z8v15id",
-  "createdDate": 1765094823748,
-  "descriptionMarkdown": "Fluid loading station.",
-  "image": {
-    "id": "LIRO6XM",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1765094823748,
-  "numberOfFavorites": 2,
-  "tags": [
-    "/version/2,0/",
-    "/mods/krastorio/"
-  ],
-  "title": "[virtual-signal=signal-liquid] Loading 2",
-  "favorites": {
-    "EgGhT5B9RFR7xsKOa6zSh0buJHn2": true,
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
-  }
+	"author": {
+		"displayName": "LCStark",
+		"userId": "6gwKLv5DH3cIeuDTWVUoctPEFhc2"
+	},
+	"blueprintString": "0eNrdmc+O6jYUxl8FeVszjZ0/EKTbzZW6mkpd3N0IoUA8YN2QpI4zc0cjHqDv0Sfrk/Q4CUmGMRMfRqqqsuFg7J+dz8nxd+CVbLNalErmmqxeSSqqnZKllkVOVuTXrJbpLCuSVOb7WaUT035HKJG7Iq/I6uGVVHKfJ5kZmidHAWNUIjNygi55Kn6QFTtRS6dHA54/J3uYZujLrX01EPN5pYty1NV/21W/lKbrk1S6hhZ6HluX80Sp4nk0MjitKRG5llqK9hKaDy+bvD5uhYIV96O/K5hWiGxe1scSoGVRyVaZVwKkOQv8u5CSF4B6sCCSSiV2bYclJSCRVkW22YpD8iQLZUbtpNrVUm9EnmwzkZKVVrWgfTMMSfsZHqWq9OadHGWiINBCzT1zVZUwgzbTUrQ92kG74mgw2iyK/P3nX+R0MnpeCMHdheD8/yyEj7gjvE6G8C58K0RgAQcIhaNrYMYt5JAOz2OaKOtSF/2eQWS77mi8vEO9F+YpVAm86yT/PvFARC4CLG5QduECXt4AdlpxjNbEj3CaMA89BY/fTGGDshtutcjpVmP8BvTCDe3jpeCTUgxPXaKkPkAOkbs5ZIKtzJtMYL2vO2b8ft32BDegh2RW2bLZRJr6Ospt5tCF64aDGm6RohQq6c7pn2BYUeuynkqT1vTGQssGSliV7WZe9vLGV+SNELTFJG2BoEWTtCWCFk7SYgQtmKJxD0HzJmkMQWOTNO5O45N3CPcRtHiSFiBok/cbH56Fke+0np4tiDG3fNDQNoZWCoRL+dY+/nrTjK82mTxKfXZL4zZ35L1BKpGkZ+auqPNLZtOGylJmnfqckB6kFscvo9SznrW1xH1XS3BiE39IHVW9PdNs4oe9+DbMkDNSsZMpzO+W3Znnmt077kVqH396QGf6+9aQnlN8DK8Lg/oLMbVLm+gvqy83ePnS7eyjKo4bmQOIrB6TrBKXU5/W9ppgeau27L+tbWP+P6HuNb3iG8yGh5XM2Wx8WDoN+jDPvN56jJ9tHsNBF2tB5X1CFe/ftmAi2R2sMvHPK3TNk/kIvz54ssvDaGkjI+z64KicyIg6efBDTuTA8WDw/Y8OBj9ELJChFhghaqAYRUaUyIO9cSIv6fg3u3l3z1qrtoHrUsH6seN2GZd6fbuCIUtUxpbsD3re/Lr4kR3zHX51YQhuiOByBNdHcH0ElyG4gTvXbKkzN0RwMfsWIbiYfVsguJh9WyK4mH2L3bkcsW8h4nnjV/cNPNQzfDYO6oFRRiPK1hQiTuHUDyDk0Mj8ppWb1phyCEMIWdB0gBE0br6PoLH9OjZfe33otyG09CzzrYmb9gBiKOVMbN4o2NZm6oiGFA6T0MSLtp23cdD3WZr2uI1Hc5nVm7FNHAwLNzgTh2u48t5YtQayO/xlOpz7TRlk/kFJ3/mwvn+3IfQcrIgxrAPjt+TH7Jup02Zfm9Ltw6GhNwz8XYE1gi1vnK4p0aBt+PuHkizZisyUb51d6c6EL51ZyeQfsPj1qIij5Amutdn5MOJxEMfhEnJF7AWn0z8v15id",
+	"createdDate": 1765094823748,
+	"descriptionMarkdown": "Fluid loading station.",
+	"image": {
+		"id": "LIRO6XM",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1765094823748,
+	"numberOfFavorites": 2,
+	"tags": [
+		"/version/2,0/",
+		"/mods/krastorio/"
+	],
+	"title": "[virtual-signal=signal-liquid] Loading 2",
+	"favorites": {
+		"EgGhT5B9RFR7xsKOa6zSh0buJHn2": true,
+		"aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+	}
 }

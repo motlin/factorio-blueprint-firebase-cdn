@@ -1,30 +1,30 @@
 {
-  "author": {
-    "userId": "ZWi62ZfeBggtZ2I8UjYrlY3hRKH2"
-  },
-  "authorId": "ZWi62ZfeBggtZ2I8UjYrlY3hRKH2",
-  "blueprintString": "0eNq9VUtu2zAQvQrBVT60A8l1Egvtpot203bRpCvHMChrFBOgSIGknBqGD9CD9GI9SWckWYpdJ2hQNBuBnN/jexyONjzVFZROmcCTDc/AL5wqg7KGJ/wjGHBSKw8ZM0nBfKlVCODuzA2tPAtLYMqUVcBvsEwyJzGV2ZyZixNzXpwyaTJWNGvBHpbggBmmmkwNOSVe2CpgCdHE7pxO3S8feYd35oN1zEGOJcwCMJplkMtKh+5YlCpZlESdhQuuFtZ4nkw33Kt7IzWxDOsSkN5KuVChRXAjCzI0EYMvfIt5JoPvPIm24gWZnx9lxvuZbWCoXGoH3fn68NF2JjiYoIKC5rz1Zj03VZFiZBKJJ2oIXlqvmivbcEK+xtg1TwZRfDUcIwRKEJzV8xSWcqWsozgPYV5f3dyrDKsGVwEdhix0MXNMyrqquXKeIv9Sh1veoPogqa8uaVOUEruDwPmvHz8b5gRWX/T/RHtLbqLbdNIe39b0SoRbtNdg3KPh27YOGwntRJPvdD+0U7setFzc4WawQNXcAGFSZWqYI20XD8dd4z3Rdm2hnr0n6+Pd9F/VmBCTfhsfiPOO7/tHf/pnO/FeODhuSfeXxRN4uUY5KhPmubNF8yh5kkvtYTujiyy1XKNk+7P5vQ3BFiw8WNarxxbSsBSHJxR2BdmQfaPRnVU43u8ZUSwAJ4bysi5CPB+Uq8fNNBKRiMVoJqZxu0Jvl9II0dJp20PsFgmPe2qfaKjnTi5qCMFX0imZanLpWvkni4z6Il/r4X+8inu+yiVucuuKSksKPqOjZVACTlm6bXr2z+ZP9vJP9Lk7PYvZgEVH6qBCKkCBcf1PVHAtU9BUG/+YN/2QXqGK9dWNL+PJm8lkfHUdxTE+lO1vjcKUGA==",
-  "createdDate": 1758563665710,
-  "descriptionMarkdown": "Generalised n:m splitter  \nSplits the input into a ratio of n/(n+m) and m/(n+m), where n is the left in/output, and m is the right in/output.\nFor reference, a regular splitter is a 1:1 splitter.\n\nOnly guaranteed to work with fully saturated input",
-  "image": {
-    "id": "HtURkTy",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1758565067048,
-  "numberOfFavorites": 1,
-  "tags": [
-    "/circuit/counter/",
-    "/version/2,0/",
-    "/belt/balancer/",
-    "/belt/prioritizer/",
-    "/mods/vanilla/"
-  ],
-  "title": "n:m Splitter",
-  "favorites": {
-    "7ObP2J3dBgT8KHDgqaKpXI3rM9j2": true,
-    "96Hj5tKpDSW201HOwUaIPaSw7343": true,
-    "0TgYNJzUuybxtTulAkE0rOG9jEy1": true,
-    "Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
-    "NHOKwoBTRCPayuY4LuSXR3aUkih1": true
-  }
+	"author": {
+		"userId": "ZWi62ZfeBggtZ2I8UjYrlY3hRKH2"
+	},
+	"authorId": "ZWi62ZfeBggtZ2I8UjYrlY3hRKH2",
+	"blueprintString": "0eNq9VUtu2zAQvQrBVT60A8l1Egvtpot203bRpCvHMChrFBOgSIGknBqGD9CD9GI9SWckWYpdJ2hQNBuBnN/jexyONjzVFZROmcCTDc/AL5wqg7KGJ/wjGHBSKw8ZM0nBfKlVCODuzA2tPAtLYMqUVcBvsEwyJzGV2ZyZixNzXpwyaTJWNGvBHpbggBmmmkwNOSVe2CpgCdHE7pxO3S8feYd35oN1zEGOJcwCMJplkMtKh+5YlCpZlESdhQuuFtZ4nkw33Kt7IzWxDOsSkN5KuVChRXAjCzI0EYMvfIt5JoPvPIm24gWZnx9lxvuZbWCoXGoH3fn68NF2JjiYoIKC5rz1Zj03VZFiZBKJJ2oIXlqvmivbcEK+xtg1TwZRfDUcIwRKEJzV8xSWcqWsozgPYV5f3dyrDKsGVwEdhix0MXNMyrqquXKeIv9Sh1veoPogqa8uaVOUEruDwPmvHz8b5gRWX/T/RHtLbqLbdNIe39b0SoRbtNdg3KPh27YOGwntRJPvdD+0U7setFzc4WawQNXcAGFSZWqYI20XD8dd4z3Rdm2hnr0n6+Pd9F/VmBCTfhsfiPOO7/tHf/pnO/FeODhuSfeXxRN4uUY5KhPmubNF8yh5kkvtYTujiyy1XKNk+7P5vQ3BFiw8WNarxxbSsBSHJxR2BdmQfaPRnVU43u8ZUSwAJ4bysi5CPB+Uq8fNNBKRiMVoJqZxu0Jvl9II0dJp20PsFgmPe2qfaKjnTi5qCMFX0imZanLpWvkni4z6Il/r4X+8inu+yiVucuuKSksKPqOjZVACTlm6bXr2z+ZP9vJP9Lk7PYvZgEVH6qBCKkCBcf1PVHAtU9BUG/+YN/2QXqGK9dWNL+PJm8lkfHUdxTE+lO1vjcKUGA==",
+	"createdDate": 1758563665710,
+	"descriptionMarkdown": "Generalised n:m splitter  \nSplits the input into a ratio of n/(n+m) and m/(n+m), where n is the left in/output, and m is the right in/output.\nFor reference, a regular splitter is a 1:1 splitter.\n\nOnly guaranteed to work with fully saturated input",
+	"image": {
+		"id": "HtURkTy",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1758565067048,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/circuit/counter/",
+		"/version/2,0/",
+		"/belt/balancer/",
+		"/belt/prioritizer/",
+		"/mods/vanilla/"
+	],
+	"title": "n:m Splitter",
+	"favorites": {
+		"7ObP2J3dBgT8KHDgqaKpXI3rM9j2": true,
+		"96Hj5tKpDSW201HOwUaIPaSw7343": true,
+		"0TgYNJzUuybxtTulAkE0rOG9jEy1": true,
+		"Chl5EBOPc6WCopDo8noOcrI9oWm2": true,
+		"NHOKwoBTRCPayuY4LuSXR3aUkih1": true
+	}
 }

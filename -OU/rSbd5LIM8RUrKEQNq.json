@@ -1,31 +1,31 @@
 {
-  "author": {
-    "userId": "8tVZebBhbGUvkG9zmM4c0jSKUEd2"
-  },
-  "authorId": "8tVZebBhbGUvkG9zmM4c0jSKUEd2",
-  "blueprintString": "0eNqlVctu2zAQ/BWC11JGIlt2rEMPbY+5FT0FhkCTa4cIRbJ8ODUM/XuXkl9tFThBIcMSxd3hzM6SOtC1TuC8MpHWByohCK9cVNbQmn5JSkcSLWn5C5BH2IKR3O/J92gNkI237dXLr1wLFYF8Io98xxl5VVoTnqJteVSCa70nO6skic9AWqsjGCKsc+AJrm3714B/fkJ+uK3nEsjPxLWK+0xAGeGBByDBAcgJZVQJawKtnw40qK3hOrOPewdIe6OTkhhieJuHGunQDjOMhF+0vu/Ydc4xSAzsMeu4ak48abvKLkezQy7Izdzpf+TOuhWjYKKKCgbZ/WDfmNSuwaOss96NTUZiMqPOBjVYeaBZebWYVIziEtP5pEJsqTyIIeCBUSxo9FY3a3jmO2V9zsKiyyZP4Gq4bPQJMiWhk4RGmUZ4vonKbGm94ToAYiKi6l0YPC4Gj4vcLEXvxCmkGROM4BHaQSB6eKmS81Ym5LrDjKLFZw3FtK/PEI/hBgntkKdFnD7/MpoxLDMXL7S+yx6Mzty/OVO+OTPtVh3+2D9ulGc3JIqVWABh27UyHBHGjKmOxszu3mXLETQ7I3ugvgLXI9S/UT7E5tbu+MOmXFAk6rjvidb0M819Z1N0Kf69204AEHFzJ79VoghCgRFQuFydHsvtkWQysckNgAYhzrlXRrbusXvYZVuG3F6F8liNW4DoxYgV0zOYS60bK/78reKPoM3OaAE0Btpbzi4+5qxFF/jx+PXcSNvSMVHVTVEPHxA1/8jZMZuOnB2t8j4LGA6IMWEBYnM6G3JUlxvrFUFyWz3dszJfK/ZUshle+Snf5/i0GjY5srt8qhie6mvAzqHv/ip9UwE1YbcxugMfeubVvFzOlstqcVdWi2XZdb8BVnxqMg==",
-  "createdDate": 1752203426503,
-  "descriptionMarkdown": "Built to make Legendary Stone from Legendary Calcite + Lava, will automatically void the molten copper into the ether. Upgrade quality to increase speed and efficiency.",
-  "image": {
-    "id": "5102X9A",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1752203540459,
-  "numberOfFavorites": 7,
-  "tags": [
-    "/version/2,0/",
-    "/mods/space-age/",
-    "/mods/quality/",
-    "/planets/vulcanus/"
-  ],
-  "title": "Legendary Stone from Legendary Calcite + Disposal",
-  "favorites": {
-    "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,
-    "wFk6W3QRYWSBV7Tt5GSoVHrjsc32": true,
-    "OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
-    "8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-    "dMCd9KszuPQfI3MtXLxOYrigkUv1": true,
-    "uRNxi2W1Swh6s25Qy7TcPrh5Te42": true,
-    "pVv3hQA8IsRjQZg7M7dbtDG32bt1": true
-  }
+	"author": {
+		"userId": "8tVZebBhbGUvkG9zmM4c0jSKUEd2"
+	},
+	"authorId": "8tVZebBhbGUvkG9zmM4c0jSKUEd2",
+	"blueprintString": "0eNqlVctu2zAQ/BWC11JGIlt2rEMPbY+5FT0FhkCTa4cIRbJ8ODUM/XuXkl9tFThBIcMSxd3hzM6SOtC1TuC8MpHWByohCK9cVNbQmn5JSkcSLWn5C5BH2IKR3O/J92gNkI237dXLr1wLFYF8Io98xxl5VVoTnqJteVSCa70nO6skic9AWqsjGCKsc+AJrm3714B/fkJ+uK3nEsjPxLWK+0xAGeGBByDBAcgJZVQJawKtnw40qK3hOrOPewdIe6OTkhhieJuHGunQDjOMhF+0vu/Ydc4xSAzsMeu4ak48abvKLkezQy7Izdzpf+TOuhWjYKKKCgbZ/WDfmNSuwaOss96NTUZiMqPOBjVYeaBZebWYVIziEtP5pEJsqTyIIeCBUSxo9FY3a3jmO2V9zsKiyyZP4Gq4bPQJMiWhk4RGmUZ4vonKbGm94ToAYiKi6l0YPC4Gj4vcLEXvxCmkGROM4BHaQSB6eKmS81Ym5LrDjKLFZw3FtK/PEI/hBgntkKdFnD7/MpoxLDMXL7S+yx6Mzty/OVO+OTPtVh3+2D9ulGc3JIqVWABh27UyHBHGjKmOxszu3mXLETQ7I3ugvgLXI9S/UT7E5tbu+MOmXFAk6rjvidb0M819Z1N0Kf69204AEHFzJ79VoghCgRFQuFydHsvtkWQysckNgAYhzrlXRrbusXvYZVuG3F6F8liNW4DoxYgV0zOYS60bK/78reKPoM3OaAE0Btpbzi4+5qxFF/jx+PXcSNvSMVHVTVEPHxA1/8jZMZuOnB2t8j4LGA6IMWEBYnM6G3JUlxvrFUFyWz3dszJfK/ZUshle+Snf5/i0GjY5srt8qhie6mvAzqHv/ip9UwE1YbcxugMfeubVvFzOlstqcVdWi2XZdb8BVnxqMg==",
+	"createdDate": 1752203426503,
+	"descriptionMarkdown": "Built to make Legendary Stone from Legendary Calcite + Lava, will automatically void the molten copper into the ether. Upgrade quality to increase speed and efficiency.",
+	"image": {
+		"id": "5102X9A",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1752203540459,
+	"numberOfFavorites": 7,
+	"tags": [
+		"/version/2,0/",
+		"/mods/space-age/",
+		"/mods/quality/",
+		"/planets/vulcanus/"
+	],
+	"title": "Legendary Stone from Legendary Calcite + Disposal",
+	"favorites": {
+		"NHOKwoBTRCPayuY4LuSXR3aUkih1": true,
+		"wFk6W3QRYWSBV7Tt5GSoVHrjsc32": true,
+		"OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
+		"8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+		"dMCd9KszuPQfI3MtXLxOYrigkUv1": true,
+		"uRNxi2W1Swh6s25Qy7TcPrh5Te42": true,
+		"pVv3hQA8IsRjQZg7M7dbtDG32bt1": true
+	}
 }

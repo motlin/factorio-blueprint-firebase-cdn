@@ -1,26 +1,26 @@
 {
-  "author": {
-    "displayName": "Philipp",
-    "userId": "MqB2vVeq3eVRI3vEufkYmBSF2iR2"
-  },
-  "authorId": "MqB2vVeq3eVRI3vEufkYmBSF2iR2",
-  "blueprintString": "0eNrdWt1yqzYQfpWMrqFjJDB2pnmDXrTXGQ+DsRJrwt8RIieejB+g79G+WJ+kK4EB28L8xXHdyUXWQtpvd/WtpBV8onWY05SzWKDHT8SCJM7Q4/Mnythr7IeyLfYjih4R/Ug5zTJTcD/O0oQLc01DgfYGYvGGfqBHa29ohvlZRqN1yOJXM/KDLYupSZCBfuR+yMQOOoT0lcYbn+8aqvB+ZSAaCyYYLcxRP3ZenEdrygHL6DDLQGmSwfAklraASpNYvzgGAkTLAgmwNozToOhhS9NPIPAIiFk7xEIDQUZAOBUE7uOFPQmCAIRGqTNCqT3M7vkICDIMwh0BgYdBLCqIdf7yQrkZbGnWwRyiFEMeCp6E3ppu/XeWcNkxYDzImfDg2UaN9mjsr0O6QY8vfpjRvT6tDMTpjxxwvRcWCsozqSsrzC6S65DABqp6HLWWPmSC0tBMQ1/QowyOEx5Bzkujo9TnvpDmoifVkMt1xZrNZHAOyV0pTHkSQNzl2pDHTExR2kilEFzjLDBp/CpXm+Gandl+BX+a+VxOWnawPpusWYMl4ZvJ4oxymIXLNMGdNOHU33hbP95IwggAhWkVPKdG1UM9VN2iZEPlCq4zrybAhmUw+zsz9WMa6sybV+bZrebJkEe0YllFZvnshXGgqWbrSbI3mFeRxCZQmaUR2Ni+icg9TPhyJmdnkyz3mKAAE7tUKn9nXOSKDweaK3hz1g4g6AcoR89M0OhJa5xRjnyqxq2QjO1VvbUmeGvdnbd4grf47rwlE7wld+etPcFb++68dSZ469ydt/MJ3s7vzlt3grfu3Xm7mODt4u68XU7wdnl/p4vTw9Q/f/49wOE0zLMv93kFQ7Nt8tNjsRdsfS6KE67uFDumnK+Ps06fas+aVs/bLeXBtBLeadFa1/CX6g27PQKLjmqxm2g0ZQE6I9VfSF7+5Bmty9W2Oa0vCcCqXRDqfSCH+J7MYFu1LDlY+rRpJE7Z2YRSKQ8vX2IVCmRMgJjvYHUCD4ogVb8AHhIreIMipShjNU+s1ie49QmRletKFy13TJlpf1uZuZiUoPMWmi8naXX1WvGs972OfWThf/NepztTO69McMsNT7fqPAadEUSsr3IyQDn3Ob2ouKHXnrhyHettuUDCVv8kdE6oc7x2jZhRua4Ww8pEROsQ1oyQKer2WXExnrQXuad+WFgHQiZdL2tApi5gh/bmIoa102v3n15ycXovGVytDmdWfuPp71cEARjLwl5cc8bE0h0YyzG7162Srz7utLxUu3D3PGD3UY0nUw3HCyqDFTB5yC8CpGJyHLULO1UxspWARQdPs+X8T49juD6OHbLMhKivWayifvHd07InyevDwM0OBlaxE+oCUB/4NjD5G3mKuui/XXq/6Ol9qbUmdlYwu/713LpOnr6Z6lMJty+6ujdSx7e7Oo2HJuqVpTUsRJdgmq/njm/K+2uHRSrJRZqL1o8AtGubVJbuPDXn3gtPIkg0UHI4v7YQYDmSAMsbEEB7ZP16VnTDfDlVuiGvzp92EwaTitSlWaYinHSxyhrIqiSlEAfVo4RARil4kf9Rmld+yuI13kVqzbXG5QCe3TgHVGV1Xf6fQ1yV++dw38r7Gn445/FIElk3JpEqo69LonOIq5LoHO5bSVTDDycRGUkifGMSDXtdMZ5JbS/mr0mntk8fvpNTJzZ0EAvwfgIVJNrzwsAGHPLwylAi7HWVSGoRVyJUBFKEmavGKbkcWLSXfSwDGmeGJWW30d9t9HdrpELGtVzqwUqnXcik1qPkUk8hk4aMG/1LPU5jrNMY6zTGOo2xTmPsXPqyVL4oGcZWMvSp20lDxg15ZhApu4Ws2hcGqeRlLct/Uj+pZNKQwbzVqiiY1f3E4cNgA4X+mgJt0B8FLR5+S5L04XcOtbdK+gfo8g5lpMp/Z46X9nLpuMQhtov3+38BHO41oQ==",
-  "createdDate": 1752955497715,
-  "descriptionMarkdown": "Hi,\n\nThis is my loop production, which can be used for all items. One loop for everything.\n\nYou just need to replace the blueprint in the combinators and the constant combinator and enter the required resources correctly. At least the basic resources must be set in the requester chest. Depending on whether the required material is available, the highest possible quality is then automatically produced.\n\nIf the item doesn't meet the desired quality, it is recycled. My loop is designed for flexibility and small size. I've built the loop countless times in my safe game, and the items are simply produced on the side, without requiring a lot of resources.\n\nFor a loop with the EM factory, I'll add another blueprint, so you don't have to worry about the wiring.\n\nImportant: If the inserters' speed is too slow, replace the inserters with higher-quality ones, but under no circumstances use stacked inserters. It would freeze the loop.\n\nEnjoy,\nPhilipp ",
-  "image": {
-    "id": "6xFJuGJ",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1752955806379,
-  "numberOfFavorites": 1,
-  "tags": [
-    "/version/2,0/",
-    "/mods/vanilla/"
-  ],
-  "title": "Quality Loop Production ",
-  "favorites": {
-    "NHOKwoBTRCPayuY4LuSXR3aUkih1": true,
-    "mi1kC0gpaUWmCd2M272mD38R3bA3": true,
-    "VBwEOmrO0vaiBbkLimjXagDJrvg1": true
-  }
+	"author": {
+		"displayName": "Philipp",
+		"userId": "MqB2vVeq3eVRI3vEufkYmBSF2iR2"
+	},
+	"authorId": "MqB2vVeq3eVRI3vEufkYmBSF2iR2",
+	"blueprintString": "0eNrdWt1yqzYQfpWMrqFjJDB2pnmDXrTXGQ+DsRJrwt8RIieejB+g79G+WJ+kK4EB28L8xXHdyUXWQtpvd/WtpBV8onWY05SzWKDHT8SCJM7Q4/Mnythr7IeyLfYjih4R/Ug5zTJTcD/O0oQLc01DgfYGYvGGfqBHa29ohvlZRqN1yOJXM/KDLYupSZCBfuR+yMQOOoT0lcYbn+8aqvB+ZSAaCyYYLcxRP3ZenEdrygHL6DDLQGmSwfAklraASpNYvzgGAkTLAgmwNozToOhhS9NPIPAIiFk7xEIDQUZAOBUE7uOFPQmCAIRGqTNCqT3M7vkICDIMwh0BgYdBLCqIdf7yQrkZbGnWwRyiFEMeCp6E3ppu/XeWcNkxYDzImfDg2UaN9mjsr0O6QY8vfpjRvT6tDMTpjxxwvRcWCsozqSsrzC6S65DABqp6HLWWPmSC0tBMQ1/QowyOEx5Bzkujo9TnvpDmoifVkMt1xZrNZHAOyV0pTHkSQNzl2pDHTExR2kilEFzjLDBp/CpXm+Gandl+BX+a+VxOWnawPpusWYMl4ZvJ4oxymIXLNMGdNOHU33hbP95IwggAhWkVPKdG1UM9VN2iZEPlCq4zrybAhmUw+zsz9WMa6sybV+bZrebJkEe0YllFZvnshXGgqWbrSbI3mFeRxCZQmaUR2Ni+icg9TPhyJmdnkyz3mKAAE7tUKn9nXOSKDweaK3hz1g4g6AcoR89M0OhJa5xRjnyqxq2QjO1VvbUmeGvdnbd4grf47rwlE7wld+etPcFb++68dSZ469ydt/MJ3s7vzlt3grfu3Xm7mODt4u68XU7wdnl/p4vTw9Q/f/49wOE0zLMv93kFQ7Nt8tNjsRdsfS6KE67uFDumnK+Ps06fas+aVs/bLeXBtBLeadFa1/CX6g27PQKLjmqxm2g0ZQE6I9VfSF7+5Bmty9W2Oa0vCcCqXRDqfSCH+J7MYFu1LDlY+rRpJE7Z2YRSKQ8vX2IVCmRMgJjvYHUCD4ogVb8AHhIreIMipShjNU+s1ie49QmRletKFy13TJlpf1uZuZiUoPMWmi8naXX1WvGs972OfWThf/NepztTO69McMsNT7fqPAadEUSsr3IyQDn3Ob2ouKHXnrhyHettuUDCVv8kdE6oc7x2jZhRua4Ww8pEROsQ1oyQKer2WXExnrQXuad+WFgHQiZdL2tApi5gh/bmIoa102v3n15ycXovGVytDmdWfuPp71cEARjLwl5cc8bE0h0YyzG7162Srz7utLxUu3D3PGD3UY0nUw3HCyqDFTB5yC8CpGJyHLULO1UxspWARQdPs+X8T49juD6OHbLMhKivWayifvHd07InyevDwM0OBlaxE+oCUB/4NjD5G3mKuui/XXq/6Ol9qbUmdlYwu/713LpOnr6Z6lMJty+6ujdSx7e7Oo2HJuqVpTUsRJdgmq/njm/K+2uHRSrJRZqL1o8AtGubVJbuPDXn3gtPIkg0UHI4v7YQYDmSAMsbEEB7ZP16VnTDfDlVuiGvzp92EwaTitSlWaYinHSxyhrIqiSlEAfVo4RARil4kf9Rmld+yuI13kVqzbXG5QCe3TgHVGV1Xf6fQ1yV++dw38r7Gn445/FIElk3JpEqo69LonOIq5LoHO5bSVTDDycRGUkifGMSDXtdMZ5JbS/mr0mntk8fvpNTJzZ0EAvwfgIVJNrzwsAGHPLwylAi7HWVSGoRVyJUBFKEmavGKbkcWLSXfSwDGmeGJWW30d9t9HdrpELGtVzqwUqnXcik1qPkUk8hk4aMG/1LPU5jrNMY6zTGOo2xTmPsXPqyVL4oGcZWMvSp20lDxg15ZhApu4Ws2hcGqeRlLct/Uj+pZNKQwbzVqiiY1f3E4cNgA4X+mgJt0B8FLR5+S5L04XcOtbdK+gfo8g5lpMp/Z46X9nLpuMQhtov3+38BHO41oQ==",
+	"createdDate": 1752955497715,
+	"descriptionMarkdown": "Hi,\n\nThis is my loop production, which can be used for all items. One loop for everything.\n\nYou just need to replace the blueprint in the combinators and the constant combinator and enter the required resources correctly. At least the basic resources must be set in the requester chest. Depending on whether the required material is available, the highest possible quality is then automatically produced.\n\nIf the item doesn't meet the desired quality, it is recycled. My loop is designed for flexibility and small size. I've built the loop countless times in my safe game, and the items are simply produced on the side, without requiring a lot of resources.\n\nFor a loop with the EM factory, I'll add another blueprint, so you don't have to worry about the wiring.\n\nImportant: If the inserters' speed is too slow, replace the inserters with higher-quality ones, but under no circumstances use stacked inserters. It would freeze the loop.\n\nEnjoy,\nPhilipp ",
+	"image": {
+		"id": "6xFJuGJ",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1752955806379,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,0/",
+		"/mods/vanilla/"
+	],
+	"title": "Quality Loop Production ",
+	"favorites": {
+		"NHOKwoBTRCPayuY4LuSXR3aUkih1": true,
+		"mi1kC0gpaUWmCd2M272mD38R3bA3": true,
+		"VBwEOmrO0vaiBbkLimjXagDJrvg1": true
+	}
 }

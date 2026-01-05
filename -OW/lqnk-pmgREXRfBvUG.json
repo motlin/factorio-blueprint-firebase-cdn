@@ -1,22 +1,22 @@
 {
-  "author": {
-    "displayName": "Makoto",
-    "userId": "HKWANCYiTyc3ReDVEHwjMqwKc592"
-  },
-  "authorId": "HKWANCYiTyc3ReDVEHwjMqwKc592",
-  "blueprintString": "0eNqlmdtum0AURX8FzVMq4XSYK/ix39C3yKqwPU2QMCAYmkaW/71jO4lTZQJn20/4ghec5Q1n0NmzdT26rq8az5Z7tnXDpq86X7UNW7KfVe3Kde3SJOOJq93G99Um2fZVXQ/J3XPln5KmTcbusS/DD7+xlFWbthnY8mHPhuqxKesjsyl3LsAG3zZu8Xvsm3Lj2CHs22zdX7bMDquUucZXvnLnn57evPxqxt3a9WGHNI5IWdcO1flU9yyQCp2yF7ZcZIdD+okiyBQ7QZFkSjFBUVRKxrMJjKZj5ATG0DFTgi0dM2U4p2OmFBfvGN+XzdC1vV+sXe0j/5S6P5eV3euQym3Vh5yfvlYRbsbfwVUzuN6HDyNBfEXygIxBLpGu2+Zx8VSGS2G7mACqD8D/zjGP4QW9eA0VLynF25niFVq8gYrX9OItVLyhgw0EthSrxYzVHLWaQ1aB66lAihecDs4hcEawGu6v01qFALVmnCNehSSXfzlXWv0KIHOIrElm5YxZA5sVkFkL1C+h+nOALCByQTI7010kh81C7UVmQP1Qf5ECIENtW0qS2ZnWJRVsFupdUgP1Q81LGoAMdS9pSWZn2pfMYbNQ/5IFUD/UwBQHyFAHU/Aq8e1ikxQl6sMT0a6s68XbA96ia2s3QRfxv1BdLrExnGj/2LdhO7foFp9MpMy/dOc4daNnsSMpyoJJfZARg2jUroXsGnwZKkipsIhmM6+5Hf1XnnOKZzPjuUA9F4hnzcEUF9Mp1hmiN78hxVpQ7ObTdrWE75sZpFddsT4l5VhrQPRlhXpVkLUh9Sg+49rCriXkOseifMF/leUCUixuCLPhJMNi2rDJYMNQyzPiipUrKc1GQqrVLWk2iuR6pv8ZDbuGGqAxaJrtdJqNhRSbW9KckwzPdD5zzZqTlDaLP+FBTdVmkOr8ljRbQXI90wetBIcEcYoChwRxigaHBHGKQYcEcYxFhwRxTI4OCeKYAh0SRDE5R4cEAbNK2XOI5nHE9BCefXQalo56lT4cN2novafXYZOGO5dehb0r73bhCJf5WMrqMlwD4bMf5VBtktejJoPzY5fcSc6/745DsD+uH06noI0oVFFoK7VUVhwO/wCHb+17",
-  "createdDate": 1754256850103,
-  "descriptionMarkdown": "Tileable, 10 electric drills (with no upgrades)",
-  "image": {
-    "id": "xewArus",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1754927008176,
-  "numberOfFavorites": 0,
-  "tags": [
-    "/version/2,0/",
-    "/production/smelting/",
-    "/general/tileable/"
-  ],
-  "title": "Basic furnace setup (300/m)"
+	"author": {
+		"displayName": "Makoto",
+		"userId": "HKWANCYiTyc3ReDVEHwjMqwKc592"
+	},
+	"authorId": "HKWANCYiTyc3ReDVEHwjMqwKc592",
+	"blueprintString": "0eNqlmdtum0AURX8FzVMq4XSYK/ix39C3yKqwPU2QMCAYmkaW/71jO4lTZQJn20/4ghec5Q1n0NmzdT26rq8az5Z7tnXDpq86X7UNW7KfVe3Kde3SJOOJq93G99Um2fZVXQ/J3XPln5KmTcbusS/DD7+xlFWbthnY8mHPhuqxKesjsyl3LsAG3zZu8Xvsm3Lj2CHs22zdX7bMDquUucZXvnLnn57evPxqxt3a9WGHNI5IWdcO1flU9yyQCp2yF7ZcZIdD+okiyBQ7QZFkSjFBUVRKxrMJjKZj5ATG0DFTgi0dM2U4p2OmFBfvGN+XzdC1vV+sXe0j/5S6P5eV3euQym3Vh5yfvlYRbsbfwVUzuN6HDyNBfEXygIxBLpGu2+Zx8VSGS2G7mACqD8D/zjGP4QW9eA0VLynF25niFVq8gYrX9OItVLyhgw0EthSrxYzVHLWaQ1aB66lAihecDs4hcEawGu6v01qFALVmnCNehSSXfzlXWv0KIHOIrElm5YxZA5sVkFkL1C+h+nOALCByQTI7010kh81C7UVmQP1Qf5ECIENtW0qS2ZnWJRVsFupdUgP1Q81LGoAMdS9pSWZn2pfMYbNQ/5IFUD/UwBQHyFAHU/Aq8e1ikxQl6sMT0a6s68XbA96ia2s3QRfxv1BdLrExnGj/2LdhO7foFp9MpMy/dOc4daNnsSMpyoJJfZARg2jUroXsGnwZKkipsIhmM6+5Hf1XnnOKZzPjuUA9F4hnzcEUF9Mp1hmiN78hxVpQ7ObTdrWE75sZpFddsT4l5VhrQPRlhXpVkLUh9Sg+49rCriXkOseifMF/leUCUixuCLPhJMNi2rDJYMNQyzPiipUrKc1GQqrVLWk2iuR6pv8ZDbuGGqAxaJrtdJqNhRSbW9KckwzPdD5zzZqTlDaLP+FBTdVmkOr8ljRbQXI90wetBIcEcYoChwRxigaHBHGKQYcEcYxFhwRxTI4OCeKYAh0SRDE5R4cEAbNK2XOI5nHE9BCefXQalo56lT4cN2novafXYZOGO5dehb0r73bhCJf5WMrqMlwD4bMf5VBtktejJoPzY5fcSc6/745DsD+uH06noI0oVFFoK7VUVhwO/wCHb+17",
+	"createdDate": 1754256850103,
+	"descriptionMarkdown": "Tileable, 10 electric drills (with no upgrades)",
+	"image": {
+		"id": "xewArus",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1754927008176,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/production/smelting/",
+		"/general/tileable/"
+	],
+	"title": "Basic furnace setup (300/m)"
 }

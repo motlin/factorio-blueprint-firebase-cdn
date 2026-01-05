@@ -1,26 +1,26 @@
 {
-  "author": {
-    "userId": "pbvBJZF8WSVOiSh9ZQleV34n2bf1"
-  },
-  "authorId": "pbvBJZF8WSVOiSh9ZQleV34n2bf1",
-  "blueprintString": "0eNrVWNtu4zYQ/RWCfdkNaG+oi2/APu1T0BRtgQB9CAKDlsc2EYpSScq7buAP6H/0y/olHVK+rxLLeVjUWKwxGg2Hw3NmhqO80ImqoDRSOzp6oTIrtKWjxxdq5VwL5XVa5EBH1OZCqY4SeUnXjEo9hW90xNesydQBqE62AOsObKP1E6OgnXQS6j3Cw2qsq3wCBp2xrQMfhRPadbIin0gtXGEoo2VhcW2h/U7or8PjbsroCqWom+I+uMqZQo0nsBBLiUvQzkLml9hjGffeHoDRmVQOzKnWrUofyVIaV+HhdqHVh+3co+ZPfIHxo1IXJg9GGG8pTIh3RD8HReWR5dHt+gn/YZSlEisw4ynYzMiyPg/9ssoUEAV67hZEauJk9my75MtC6DkQt5CWuIJk20cgJRhZTEkxC0+eFTJTwi6knnepJ+UE24g1kfM9pr1DSBv8xC39pGf8JC39JGf8pC39xGf89Fr6ic746e/8TCGTUzBnUnjvD1NjKk2donQ0aE7njdMxvpvKXWIfPmESz6SxbryvyjOp/OBrFGsDnbRfdE/XvpyLypWVO+0Y5zd8oxR+Bigx243Inrfp7WQOoSSI0FNiwIIL9XDr32ry8Pm+KeUH724n/Ie3k4cL20ndTBoOPdx7BoUBFucS8PayBCyw8YgNU4hp9tyx8i+gr5H5a50fgcVgTrw5mRWGgMiw1TnIGbHF5gnTOPOBEux3pSnKwng/QnmyOQk1SWaVUnViCBfWN/Y7frsDQhjpFjlg/pyBgl8Gxd7vSTleWH/+6O8sQXbExw3dFuSlm79ajA/IW14pJ0vlmUElweTO/RX14SfPgifAkhtyTz6RXHyrnz8SQhpJ4ReTMrguTrbrDmn59G5a2FHYYw3ua2Gew3kMTOloJpQFRucGADdypoLTkL9f4612S4KDt9mfyqW0bXnvkgc/qszlEiyp6rKfSV/AS4Fj5m5cOZ5zfHU/Y9evm0CYZXA/7BHNlR1dnETD/0USbW8hHH4GP6ZwkZcatT1jR53Xt9kPB235hiSDj2QCmahsGDMNEIH/kwGxqsA2jowJEgakuhl3yd2MrIqKIHi7RgH1O3va5b1dJvR+ipW2meCDGXP/zfHGqPr6dZ1Jk1XSjUGLidpn/1a9Y/cd5DZPTRsbaQrdQV5cuBmPbvF///6HNt7cPGl37PQqjn04zlQaEchxu2YsvFLVgeMP3tvzMDFNgiz8sNOEVtoOreTq0DJYcRcgdRuQ4m8g1WuHVHx1SEEps1ZI8ZZI9dshFV0dUgrmoKfCrC6Bq9tLYh73o36P96Ne3B/GwySNeZQe1yZ+BX7FK9V/8Dxyxlmf8Sf2GLGIxSzaSDiNexEVLAkS/rI0SPjLekHChd6QBzFCP8lGGmxeJ4zXLod7l0PcBScCvwg1aMGDmvtIUB/XcuxXBpvY65OtHHk52Cden9Z6Hxyvo/MqhhXEaznyctD3vL4+qld5OXpCKPxVh7Du/6jGqBITQI7ob3/8Qu78rft7JULikbvt9w5aLfGbMSRE2ouGyXCY9gbRkA+S9fo/M0qQlQ==",
-  "createdDate": 1748042218370,
-  "descriptionMarkdown": "This blueprint will indicate how full a chest is of a specified resource using a blinking light, by varying the duty cycle of each light in proportion to the fullness. If a chest is full the light will be on 100% of the time, half full 50%, etc. Just set the signal of each light to the item you want to indicate. This can easily be expanded to as many chests as you want without adding any combinators; just add another lamp and chest, connect them as they are here, and set the lamp to the appropriate item. ",
-  "image": {
-    "id": "t03cJ6W",
-    "type": "image/png"
-  },
-  "imageUrl": "https://imgur.com/t03cJ6W",
-  "lastUpdatedDate": 1748043090523,
-  "numberOfFavorites": 2,
-  "tags": [
-    "/circuit/indicator/",
-    "/mods/vanilla/",
-    "/version/2,0/"
-  ],
-  "title": "PWM Item Quantity Indicator",
-  "favorites": {
-    "w4h2FQr4DKXoK13k2Am49566ZqT2": true,
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
-  }
+	"author": {
+		"userId": "pbvBJZF8WSVOiSh9ZQleV34n2bf1"
+	},
+	"authorId": "pbvBJZF8WSVOiSh9ZQleV34n2bf1",
+	"blueprintString": "0eNrVWNtu4zYQ/RWCfdkNaG+oi2/APu1T0BRtgQB9CAKDlsc2EYpSScq7buAP6H/0y/olHVK+rxLLeVjUWKwxGg2Hw3NmhqO80ImqoDRSOzp6oTIrtKWjxxdq5VwL5XVa5EBH1OZCqY4SeUnXjEo9hW90xNesydQBqE62AOsObKP1E6OgnXQS6j3Cw2qsq3wCBp2xrQMfhRPadbIin0gtXGEoo2VhcW2h/U7or8PjbsroCqWom+I+uMqZQo0nsBBLiUvQzkLml9hjGffeHoDRmVQOzKnWrUofyVIaV+HhdqHVh+3co+ZPfIHxo1IXJg9GGG8pTIh3RD8HReWR5dHt+gn/YZSlEisw4ynYzMiyPg/9ssoUEAV67hZEauJk9my75MtC6DkQt5CWuIJk20cgJRhZTEkxC0+eFTJTwi6knnepJ+UE24g1kfM9pr1DSBv8xC39pGf8JC39JGf8pC39xGf89Fr6ic746e/8TCGTUzBnUnjvD1NjKk2donQ0aE7njdMxvpvKXWIfPmESz6SxbryvyjOp/OBrFGsDnbRfdE/XvpyLypWVO+0Y5zd8oxR+Bigx243Inrfp7WQOoSSI0FNiwIIL9XDr32ry8Pm+KeUH724n/Ie3k4cL20ndTBoOPdx7BoUBFucS8PayBCyw8YgNU4hp9tyx8i+gr5H5a50fgcVgTrw5mRWGgMiw1TnIGbHF5gnTOPOBEux3pSnKwng/QnmyOQk1SWaVUnViCBfWN/Y7frsDQhjpFjlg/pyBgl8Gxd7vSTleWH/+6O8sQXbExw3dFuSlm79ajA/IW14pJ0vlmUElweTO/RX14SfPgifAkhtyTz6RXHyrnz8SQhpJ4ReTMrguTrbrDmn59G5a2FHYYw3ua2Gew3kMTOloJpQFRucGADdypoLTkL9f4612S4KDt9mfyqW0bXnvkgc/qszlEiyp6rKfSV/AS4Fj5m5cOZ5zfHU/Y9evm0CYZXA/7BHNlR1dnETD/0USbW8hHH4GP6ZwkZcatT1jR53Xt9kPB235hiSDj2QCmahsGDMNEIH/kwGxqsA2jowJEgakuhl3yd2MrIqKIHi7RgH1O3va5b1dJvR+ipW2meCDGXP/zfHGqPr6dZ1Jk1XSjUGLidpn/1a9Y/cd5DZPTRsbaQrdQV5cuBmPbvF///6HNt7cPGl37PQqjn04zlQaEchxu2YsvFLVgeMP3tvzMDFNgiz8sNOEVtoOreTq0DJYcRcgdRuQ4m8g1WuHVHx1SEEps1ZI8ZZI9dshFV0dUgrmoKfCrC6Bq9tLYh73o36P96Ne3B/GwySNeZQe1yZ+BX7FK9V/8Dxyxlmf8Sf2GLGIxSzaSDiNexEVLAkS/rI0SPjLekHChd6QBzFCP8lGGmxeJ4zXLod7l0PcBScCvwg1aMGDmvtIUB/XcuxXBpvY65OtHHk52Cden9Z6Hxyvo/MqhhXEaznyctD3vL4+qld5OXpCKPxVh7Du/6jGqBITQI7ob3/8Qu78rft7JULikbvt9w5aLfGbMSRE2ouGyXCY9gbRkA+S9fo/M0qQlQ==",
+	"createdDate": 1748042218370,
+	"descriptionMarkdown": "This blueprint will indicate how full a chest is of a specified resource using a blinking light, by varying the duty cycle of each light in proportion to the fullness. If a chest is full the light will be on 100% of the time, half full 50%, etc. Just set the signal of each light to the item you want to indicate. This can easily be expanded to as many chests as you want without adding any combinators; just add another lamp and chest, connect them as they are here, and set the lamp to the appropriate item. ",
+	"image": {
+		"id": "t03cJ6W",
+		"type": "image/png"
+	},
+	"imageUrl": "https://imgur.com/t03cJ6W",
+	"lastUpdatedDate": 1748043090523,
+	"numberOfFavorites": 2,
+	"tags": [
+		"/circuit/indicator/",
+		"/mods/vanilla/",
+		"/version/2,0/"
+	],
+	"title": "PWM Item Quantity Indicator",
+	"favorites": {
+		"w4h2FQr4DKXoK13k2Am49566ZqT2": true,
+		"7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+	}
 }
