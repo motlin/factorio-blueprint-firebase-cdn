@@ -1,20 +1,20 @@
 {
-	"author": {
-		"displayName": "Julian Haagsma",
-		"userId": "U89YAAiSIbQ1671HxBxhyX1pLd53"
-	},
-	"authorId": "U89YAAiSIbQ1671HxBxhyX1pLd53",
-	"blueprintString": "0eNrNmsuOmzAUhl9l5HUiBXwBIvURqq66qqrKBSdC4laHjBpFefc6aSOBh7EHn0OTHYFw+GI+m/zGZ3Ls9loW6kdXyaZRmmzP5KD6vmz2h+t2LbtOabP57Ux2uq2v+/pTp8iWlL2qyYo0sr5+6nRbHPO+fC3707o225UyB38dZWV2mONNq2tZmV15W3dSy7411yKfyGVF+ja46rEx5eq2uZYpm0L9JtvNZeVBPXRKFXiM75abgIu8cGq3K/NSNTliK7prTmDGXsx/p+MxOgpOAFIv4IfNQTZSS60GoCzcxlDCYcF1PGDhQPlCgd5UHVEJiGuhSI6S1g1MwKbdCsItM43m6RRpuGshjJZnHrgMKF8I4ZR4vgF6A9ExBHJcbtQ1oggsn+rKHF8+q49Ecbh5IYDzzIsoUL0QRJ96dgsyiHYhgC7tOFi7Su1VU0h9wnfv9mMHsCLcvWBKh4A2XgKUL5jRZ6ANmkIMDKZ8o6GvM2chblp10bKInzeeF0dQQOcNj3FAJkHBDHg6x3ODCQqoVZIOgSiCjohRxP2UiRlERqQ84uLjYBUxM4qLVMBExMktRkVfh0kQ/MQKMKOOk0JUBMeVEUoGtg4nnHjvJt3ArEOJJ47/EDRCsA0rsfhbM4YoCM4tfj4K9hInuVDXSEgZzEmE7OLm4whOosYZN66ASIkTaNyACdhKxEhD3yk84E1hfmIlmw+QhkUb+l+ijTXSs5mxhi4ba2y6kEhDHxNp2OxIQ/EjjZ+SIri5XM6Z6k6MQRRdIOxMQnKwqUslHrtPCZinSInHzZggWIqXdlykKUROhPjjYsvATi6RhyxKvoH5iJCF3HwRgovLZKGpgYjHECGRw9AkIAVbucR7nElUBlMTPRJNQvLnmRnyw4rHzqK7AhFPHvvqzt94T/XKxDVmis0jJwW9DSmip5j0dU5Mi6daGTVe6MMu31ekUIdcl11fmgtsyde/qw9fPt++/vJFF0rfTrlW3t4XJ67vixNXpJI/VXU/8XQqCrPvVenDrRwXccayjCcJEyLNLpc/AvWP7A==",
-	"createdDate": 1759365563985,
-	"descriptionMarkdown": "Attempts to upgrade from normal tier 1 modules all the way to legendary tier 3 modules, using quality steps. It tries to take into account the Quality 3 (rare)  limit for the earlier upgrades.",
-	"image": {
-		"id": "Pd6vspq",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1759365563985,
-	"numberOfFavorites": 0,
-	"tags": [
-		"/production/modules/"
-	],
-	"title": "Module upgrade plan with Quality"
+  "author": {
+    "displayName": "Julian Haagsma",
+    "userId": "U89YAAiSIbQ1671HxBxhyX1pLd53"
+  },
+  "authorId": "U89YAAiSIbQ1671HxBxhyX1pLd53",
+  "blueprintString": "0eNrNmsuOmzAUhl9l5HUiBXwBIvURqq66qqrKBSdC4laHjBpFefc6aSOBh7EHn0OTHYFw+GI+m/zGZ3Ls9loW6kdXyaZRmmzP5KD6vmz2h+t2LbtOabP57Ux2uq2v+/pTp8iWlL2qyYo0sr5+6nRbHPO+fC3707o225UyB38dZWV2mONNq2tZmV15W3dSy7411yKfyGVF+ja46rEx5eq2uZYpm0L9JtvNZeVBPXRKFXiM75abgIu8cGq3K/NSNTliK7prTmDGXsx/p+MxOgpOAFIv4IfNQTZSS60GoCzcxlDCYcF1PGDhQPlCgd5UHVEJiGuhSI6S1g1MwKbdCsItM43m6RRpuGshjJZnHrgMKF8I4ZR4vgF6A9ExBHJcbtQ1oggsn+rKHF8+q49Ecbh5IYDzzIsoUL0QRJ96dgsyiHYhgC7tOFi7Su1VU0h9wnfv9mMHsCLcvWBKh4A2XgKUL5jRZ6ANmkIMDKZ8o6GvM2chblp10bKInzeeF0dQQOcNj3FAJkHBDHg6x3ODCQqoVZIOgSiCjohRxP2UiRlERqQ84uLjYBUxM4qLVMBExMktRkVfh0kQ/MQKMKOOk0JUBMeVEUoGtg4nnHjvJt3ArEOJJ47/EDRCsA0rsfhbM4YoCM4tfj4K9hInuVDXSEgZzEmE7OLm4whOosYZN66ASIkTaNyACdhKxEhD3yk84E1hfmIlmw+QhkUb+l+ijTXSs5mxhi4ba2y6kEhDHxNp2OxIQ/EjjZ+SIri5XM6Z6k6MQRRdIOxMQnKwqUslHrtPCZinSInHzZggWIqXdlykKUROhPjjYsvATi6RhyxKvoH5iJCF3HwRgovLZKGpgYjHECGRw9AkIAVbucR7nElUBlMTPRJNQvLnmRnyw4rHzqK7AhFPHvvqzt94T/XKxDVmis0jJwW9DSmip5j0dU5Mi6daGTVe6MMu31ekUIdcl11fmgtsyde/qw9fPt++/vJFF0rfTrlW3t4XJ67vixNXpJI/VXU/8XQqCrPvVenDrRwXccayjCcJEyLNLpc/AvWP7A==",
+  "createdDate": 1759365563985,
+  "descriptionMarkdown": "Attempts to upgrade from normal tier 1 modules all the way to legendary tier 3 modules, using quality steps. It tries to take into account the Quality 3 (rare)  limit for the earlier upgrades.",
+  "image": {
+    "id": "Pd6vspq",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1759365563985,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/production/modules/"
+  ],
+  "title": "Module upgrade plan with Quality"
 }

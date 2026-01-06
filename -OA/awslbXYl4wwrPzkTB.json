@@ -1,28 +1,28 @@
 {
-	"author": {
-		"displayName": "Harald Stowasser",
-		"userId": "5rALFOIR83WrBoD8Gcf2wTlBEZC3"
-	},
-	"authorId": "5rALFOIR83WrBoD8Gcf2wTlBEZC3",
-	"blueprintString": "0eNrNVtuO2zYQ/ZUBn+lF7JW8KwMtkJc+F0jf0oVASWObCEUKvKwjLAz0I/qF/ZIeSl4lTY12N0WCvkhDcnjmzFV6Eo1JPHhto9g9iY5D6/UQtbNiJ3456kDLOfXO6uh8oNOR45E9KRrcCW/L8eT8B4J2iNoYOrBlr6K2B2Lr0uFIbLiNXrc6jhQd9cyROu6V7W7oLa45Z0kFAiyFMUTuqeGDtoE6r04zDvvDSHvv+kmrUTGy1xwkltlwr2A4cEwDqRRdD/MttkZSbdSPKnIgBRtdp7N3yly4B5d8yze/2nfatjxjNar9AJjPFah1NqQeINaR53kzR0IbJt3hcdLxSDqCCaT2SDF5yx25/V5iO8dmUB6cklEerFLgfTIEt39K5uC8oi757Gh2DsR7Go4qwESD4DJb7CfbsQ/IQB/++O33vfPEH1U/GJbUjJNnuK4ukbCpNaw8Qat1fZNC9vri0mAU0pkJu4S3ClOmokNekpBCZ1/F7v2TCPqASOXCsKpnVMR0fzV7KM5QBaWPYrc+P0jBNiK0PN+cFmNtU9+wh4J8RlBtm3rEAG7A1OCCnovtSQBntd7eSTGK3abYAh08onembvioHjUuQAuMhxTrT8ziOGTcR+1jws5iaNZYvRXn81n+jdDmxYTK70Po9sWEbr8PoeLVKbv/toTKRa/jVqMVVrmwtf3XzFU3JZh12mMETQrFdZ4X2Bpn85AIeffzFQp7r9GCr/JlMhaiyhN28+ZN9uy/gRRfBfJuBukxhaaI7cSP4nmD68tlzGORe3lO2ZdD4GUWhhERTDbWeVbX2gJI7PbKBD4/XE3sdgFq9GH1/KVYDc7wP+b1/hrY3SdWeQ6uDCbk9Ta6+Wt9XKuIVvs26VizVY3hTuyiTyyX7aU0su7XpeM5p+svcvMDekAKZU5qDHU2kC1fcff+1WPjG3dpJa9+K64xKmZG5fp/Gv2Zeg2dyEsFS3HCIMmd8X4t13Ij1w9ykopJwlreThKe8n6ScCLLSSqhX8pikgpZyc1FupukLc4qWT7AhsYfUO6H5d9MCqMahmvi5xzWJaqPkKcQlNtNVVRVeVcVt5tqez7/CR58ZU0=",
-	"createdDate": 1759442603246,
-	"descriptionMarkdown": "This blueprint monitors whether a power network is still generating enough electricity to meet demand. As soon as the system begins drawing energy from the batteries, this small setup automatically activates an additional power source.\nSince this backup power source consumes no resources while idle with its switch turned off, it is particularly useful on Fulgora during the calm phases between thunderstorms, for example, by adding a small nuclear or combustion power plant without wasting too much water.\nA built-in hysteresis circuit prevents the switch from rapidly toggling on and off, ensuring stable operation without flickering.\n\nhttps://i.imgur.com/MeFiByS.png",
-	"image": {
-		"id": "PHMntAN",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1759442719894,
-	"numberOfFavorites": 0,
-	"tags": [
-		"/version/2,0/",
-		"/power/accumulator/",
-		"/planets/fulgora/"
-	],
-	"title": "Powerswitch",
-	"favorites": {
-		"GTOFlZIH2egqNUpcKlSiHLwTivl1": true,
-		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
-		"CZLrNgU51qauVDklKOqBY3YXPwW2": true,
-		"eoI9vOUzouQaWFKtnTh924xv8zZ2": true
-	}
+  "author": {
+    "displayName": "Harald Stowasser",
+    "userId": "5rALFOIR83WrBoD8Gcf2wTlBEZC3"
+  },
+  "authorId": "5rALFOIR83WrBoD8Gcf2wTlBEZC3",
+  "blueprintString": "0eNrNVtuO2zYQ/ZUBn+lF7JW8KwMtkJc+F0jf0oVASWObCEUKvKwjLAz0I/qF/ZIeSl4lTY12N0WCvkhDcnjmzFV6Eo1JPHhto9g9iY5D6/UQtbNiJ3456kDLOfXO6uh8oNOR45E9KRrcCW/L8eT8B4J2iNoYOrBlr6K2B2Lr0uFIbLiNXrc6jhQd9cyROu6V7W7oLa45Z0kFAiyFMUTuqeGDtoE6r04zDvvDSHvv+kmrUTGy1xwkltlwr2A4cEwDqRRdD/MttkZSbdSPKnIgBRtdp7N3yly4B5d8yze/2nfatjxjNar9AJjPFah1NqQeINaR53kzR0IbJt3hcdLxSDqCCaT2SDF5yx25/V5iO8dmUB6cklEerFLgfTIEt39K5uC8oi757Gh2DsR7Go4qwESD4DJb7CfbsQ/IQB/++O33vfPEH1U/GJbUjJNnuK4ukbCpNaw8Qat1fZNC9vri0mAU0pkJu4S3ClOmokNekpBCZ1/F7v2TCPqASOXCsKpnVMR0fzV7KM5QBaWPYrc+P0jBNiK0PN+cFmNtU9+wh4J8RlBtm3rEAG7A1OCCnovtSQBntd7eSTGK3abYAh08onembvioHjUuQAuMhxTrT8ziOGTcR+1jws5iaNZYvRXn81n+jdDmxYTK70Po9sWEbr8PoeLVKbv/toTKRa/jVqMVVrmwtf3XzFU3JZh12mMETQrFdZ4X2Bpn85AIeffzFQp7r9GCr/JlMhaiyhN28+ZN9uy/gRRfBfJuBukxhaaI7cSP4nmD68tlzGORe3lO2ZdD4GUWhhERTDbWeVbX2gJI7PbKBD4/XE3sdgFq9GH1/KVYDc7wP+b1/hrY3SdWeQ6uDCbk9Ta6+Wt9XKuIVvs26VizVY3hTuyiTyyX7aU0su7XpeM5p+svcvMDekAKZU5qDHU2kC1fcff+1WPjG3dpJa9+K64xKmZG5fp/Gv2Zeg2dyEsFS3HCIMmd8X4t13Ij1w9ykopJwlreThKe8n6ScCLLSSqhX8pikgpZyc1FupukLc4qWT7AhsYfUO6H5d9MCqMahmvi5xzWJaqPkKcQlNtNVVRVeVcVt5tqez7/CR58ZU0=",
+  "createdDate": 1759442603246,
+  "descriptionMarkdown": "This blueprint monitors whether a power network is still generating enough electricity to meet demand. As soon as the system begins drawing energy from the batteries, this small setup automatically activates an additional power source.\nSince this backup power source consumes no resources while idle with its switch turned off, it is particularly useful on Fulgora during the calm phases between thunderstorms, for example, by adding a small nuclear or combustion power plant without wasting too much water.\nA built-in hysteresis circuit prevents the switch from rapidly toggling on and off, ensuring stable operation without flickering.\n\nhttps://i.imgur.com/MeFiByS.png",
+  "image": {
+    "id": "PHMntAN",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1759442719894,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/",
+    "/power/accumulator/",
+    "/planets/fulgora/"
+  ],
+  "title": "Powerswitch",
+  "favorites": {
+    "GTOFlZIH2egqNUpcKlSiHLwTivl1": true,
+    "9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+    "CZLrNgU51qauVDklKOqBY3YXPwW2": true,
+    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+  }
 }

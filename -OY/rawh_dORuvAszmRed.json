@@ -1,29 +1,29 @@
 {
-	"author": {
-		"displayName": "Jeff Byous",
-		"userId": "gGNW6Ij4vhggXgmH6hzFdnTf7R82"
-	},
-	"authorId": "gGNW6Ij4vhggXgmH6hzFdnTf7R82",
-	"blueprintString": "0eNrNWktv4zYQ/iuBznLApyn5UKC9F7toj4vAoGXGIaKHK8tpgyD/vaTkh2yL4jCbXW0OMS1xPo+G3zw41Fu0yvdqW+uyWa6q6jlavJ2v7KLFt95Xe29Xyu2sqWabWq/t9/+iBUZx9Go++Hsc6awqO6md3pQyt1NKWahoEVU6n9XqUZeqfo3s1HKtrPT7QxypstGNVp1k++V1We6LlarNhPiIsNVbFcXRttqZyVV5/Pl73v3+PX9/j2/ECVAcDYtTjzgaF2cX4p3hqn25vgUivceIo7WuVdbdZQOw3KMVHbfJPFgrdK0VJgO4wqMWG1cr8YjzcfHUIz4fF7c0BlpFuNZq0CoYBwMjCAmwj9rpODexj9uJR54B5V0GP7P4IjY4SciurWIIU+i6rgxYU+9VHJk7VpNFJNcvsszUemaRt3WVqd1Ol5voOGX5z17mRhkztazqwgSqIQXnQAXFiIKfrJIAxiPhsHkC5iLuIQFI7vM+Mq4YQUDnd8ljYOxxyfucSXjkKdAZXfLwTJG4FmYoSBAevOAJCDc8h6QgXAFMbanDjgmQh4lDPgU/F3XZa9BB6JnghVrrfTFTuRGodTbbVvkIYR2KUgx0GJc8Aco7DE0p0OFc8gzocC794cSehxCbzoNxUxgBRLCHA5mVBDLrmCOwIzHTsw9kT6rQmTQJK5dmA+CuWjE8N+d689S0WTCrZfYcnAMZAqvHx9T7PIUwWKFTSYTg9npS8uX1e9QjYOKdmEFAzGM0HJlCnJAx6KaPOvZd4B2SCyA8v90+2rDR4HGAhxktgW6/XM8M3kE5ADgCxnQnAIYCEAcACQ6ywGXj0ALPqVp4hXfrhoPNAB5OVQYCnkOdiDke+QNUZ7DVAHO9Ve0hjv41iLa/9M0UYjw2OZM/mKu6UYXBOLe44iiXK5Wba79/+Xr312HLd/dHXmXP5uaLqnftj/A5SVmackE5ZYKc+1nIanvRMhvpie2aqpYbYxhZPl/0xOL+5Oa1zQOP+V5byx1kT2mhJ0gggqd01xOkEMGtampTUJgCYyN3PWH23S28o1vPUlAXb3QXk15gAconn3KJTzkGR3C0UgI2aSesJPU19y7YNYbEIdFAAHEJPuGCokwCJkdCIY0/GDkSUErFoZu23g840kCvG7gzBVs+y2WxHV2dTlMTRKz3LVfqSb5oWya+RZmus71ulqqUq1ytj5Xj8bIRWZ8wH3W9a5ZBQcXGrcaWsQvCMEL2QrGVtWzsr0e/Re/tnLzTpXPzjQmAcbRq/0sbyMb7lkALkOktgAkHWADdz1H7R2jCcMJFihE2qYJ3lrknaYJoSogQhCHBKRY0IQm29z0280UpgrzEYyCz99z3Z5r9Iin9KOIFFErkygq+QAGNuoQFRqBeCbUfdJNzeCQ3O8qJgwYaXDt/W3r0KV2nEWloVMHTR5WE2jbaVEGl13MHmgz9AoF4Qnthjy/2gjCeyBedcRTsi4SE5gk8fZ74nPTsvOvhBQ21GJreYp8Sej5qMBZYVvfSsWuDyGFrwCZh7c3O+QdVOL1TOaAV0K9hBaD/Aq0gwNWEgB0jju4pz2Cwk9P0A5t9cXPGlIyfMfo6EcJ/rAiLZQfNpo3+UwUy7yHquSIQHz1H7UEk3qNUmNf/1DUb8XpYDoI5PQ1NAAdvnT70fZoF5h/ogwnQWyRUwEkqrhvu85jEGMfkIe6Goh0KO2SnIekmYNucN+UBt2Nsp5DuOrHjtBszO/9w3SIaP23HqR2jdmxvx6Yua8fmI6Ydvp0amyzZjq0s7VSwHzG1OP5Dgb8LWTd3f8rS7PIL1d72Hwu0r7leA8/aN2576IdXxO6+6Pzua/8VsaEzhAPTDufEpwVyvWd2pYs0y/2ilsdTi5FneP8fXbIdNw==",
-	"createdDate": 1756500839621,
-	"descriptionMarkdown": "<h2>🏭 Tileable Advanced Oil Processing Blueprint</h2>\n\n🛠️  Includes smart fluid balancing module<br/>\n📈  Scales up to 64 refineries (before hitting pipe limit)<br/>\n💡  Pretty lights indicate fluid levels at a glance<br/>\n🚨  Red emergency light warns of full tanks<br/>\n✨  Space reserved for beacons (above & below) to reach all buildings<br/>\n🔄  Fully rotatable and flippable in any direction<br/>\n",
-	"image": {
-		"id": "XEQi3kv",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1756500839621,
-	"numberOfFavorites": 0,
-	"tags": [
-		"/version/2,0/",
-		"/production/oil processing/"
-	],
-	"title": "Advanced Oil Processing",
-	"favorites": {
-		"qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
-		"CfJHTtczbgasGVoE5spGpIOQb1f2": true,
-		"GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
-		"EOqJNZlYmERUpofyJJxJ4n1UVkj2": true,
-		"M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
-		"wYZz2f47LqZcxYvrizW3BVjgYwI2": true
-	}
+  "author": {
+    "displayName": "Jeff Byous",
+    "userId": "gGNW6Ij4vhggXgmH6hzFdnTf7R82"
+  },
+  "authorId": "gGNW6Ij4vhggXgmH6hzFdnTf7R82",
+  "blueprintString": "0eNrNWktv4zYQ/iuBznLApyn5UKC9F7toj4vAoGXGIaKHK8tpgyD/vaTkh2yL4jCbXW0OMS1xPo+G3zw41Fu0yvdqW+uyWa6q6jlavJ2v7KLFt95Xe29Xyu2sqWabWq/t9/+iBUZx9Go++Hsc6awqO6md3pQyt1NKWahoEVU6n9XqUZeqfo3s1HKtrPT7QxypstGNVp1k++V1We6LlarNhPiIsNVbFcXRttqZyVV5/Pl73v3+PX9/j2/ECVAcDYtTjzgaF2cX4p3hqn25vgUivceIo7WuVdbdZQOw3KMVHbfJPFgrdK0VJgO4wqMWG1cr8YjzcfHUIz4fF7c0BlpFuNZq0CoYBwMjCAmwj9rpODexj9uJR54B5V0GP7P4IjY4SciurWIIU+i6rgxYU+9VHJk7VpNFJNcvsszUemaRt3WVqd1Ol5voOGX5z17mRhkztazqwgSqIQXnQAXFiIKfrJIAxiPhsHkC5iLuIQFI7vM+Mq4YQUDnd8ljYOxxyfucSXjkKdAZXfLwTJG4FmYoSBAevOAJCDc8h6QgXAFMbanDjgmQh4lDPgU/F3XZa9BB6JnghVrrfTFTuRGodTbbVvkIYR2KUgx0GJc8Aco7DE0p0OFc8gzocC794cSehxCbzoNxUxgBRLCHA5mVBDLrmCOwIzHTsw9kT6rQmTQJK5dmA+CuWjE8N+d689S0WTCrZfYcnAMZAqvHx9T7PIUwWKFTSYTg9npS8uX1e9QjYOKdmEFAzGM0HJlCnJAx6KaPOvZd4B2SCyA8v90+2rDR4HGAhxktgW6/XM8M3kE5ADgCxnQnAIYCEAcACQ6ywGXj0ALPqVp4hXfrhoPNAB5OVQYCnkOdiDke+QNUZ7DVAHO9Ve0hjv41iLa/9M0UYjw2OZM/mKu6UYXBOLe44iiXK5Wba79/+Xr312HLd/dHXmXP5uaLqnftj/A5SVmackE5ZYKc+1nIanvRMhvpie2aqpYbYxhZPl/0xOL+5Oa1zQOP+V5byx1kT2mhJ0gggqd01xOkEMGtampTUJgCYyN3PWH23S28o1vPUlAXb3QXk15gAconn3KJTzkGR3C0UgI2aSesJPU19y7YNYbEIdFAAHEJPuGCokwCJkdCIY0/GDkSUErFoZu23g840kCvG7gzBVs+y2WxHV2dTlMTRKz3LVfqSb5oWya+RZmus71ulqqUq1ytj5Xj8bIRWZ8wH3W9a5ZBQcXGrcaWsQvCMEL2QrGVtWzsr0e/Re/tnLzTpXPzjQmAcbRq/0sbyMb7lkALkOktgAkHWADdz1H7R2jCcMJFihE2qYJ3lrknaYJoSogQhCHBKRY0IQm29z0280UpgrzEYyCz99z3Z5r9Iin9KOIFFErkygq+QAGNuoQFRqBeCbUfdJNzeCQ3O8qJgwYaXDt/W3r0KV2nEWloVMHTR5WE2jbaVEGl13MHmgz9AoF4Qnthjy/2gjCeyBedcRTsi4SE5gk8fZ74nPTsvOvhBQ21GJreYp8Sej5qMBZYVvfSsWuDyGFrwCZh7c3O+QdVOL1TOaAV0K9hBaD/Aq0gwNWEgB0jju4pz2Cwk9P0A5t9cXPGlIyfMfo6EcJ/rAiLZQfNpo3+UwUy7yHquSIQHz1H7UEk3qNUmNf/1DUb8XpYDoI5PQ1NAAdvnT70fZoF5h/ogwnQWyRUwEkqrhvu85jEGMfkIe6Goh0KO2SnIekmYNucN+UBt2Nsp5DuOrHjtBszO/9w3SIaP23HqR2jdmxvx6Yua8fmI6Ydvp0amyzZjq0s7VSwHzG1OP5Dgb8LWTd3f8rS7PIL1d72Hwu0r7leA8/aN2576IdXxO6+6Pzua/8VsaEzhAPTDufEpwVyvWd2pYs0y/2ilsdTi5FneP8fXbIdNw==",
+  "createdDate": 1756500839621,
+  "descriptionMarkdown": "<h2>🏭 Tileable Advanced Oil Processing Blueprint</h2>\n\n🛠️  Includes smart fluid balancing module<br/>\n📈  Scales up to 64 refineries (before hitting pipe limit)<br/>\n💡  Pretty lights indicate fluid levels at a glance<br/>\n🚨  Red emergency light warns of full tanks<br/>\n✨  Space reserved for beacons (above & below) to reach all buildings<br/>\n🔄  Fully rotatable and flippable in any direction<br/>\n",
+  "image": {
+    "id": "XEQi3kv",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1756500839621,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/",
+    "/production/oil processing/"
+  ],
+  "title": "Advanced Oil Processing",
+  "favorites": {
+    "qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
+    "CfJHTtczbgasGVoE5spGpIOQb1f2": true,
+    "GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+    "EOqJNZlYmERUpofyJJxJ4n1UVkj2": true,
+    "M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+    "wYZz2f47LqZcxYvrizW3BVjgYwI2": true
+  }
 }

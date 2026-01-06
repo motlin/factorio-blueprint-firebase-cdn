@@ -1,21 +1,21 @@
 {
-	"author": {
-		"displayName": "Anton",
-		"userId": "13waGIVqhPcF0L4JM9bQUIPhuIZ2"
-	},
-	"authorId": "13waGIVqhPcF0L4JM9bQUIPhuIZ2",
-	"blueprintString": "0eNq9VW1u2zAMvcqg33IRO3a+sO0CO0IQGLLNpERkyaPkNFnhA+weO9lOMipevLVx0HbAigCxJT4+ko8S/SgK3UJDaLxYPQpnVBN5G+0Iq7A+ilUmxYn/OymwtMaJ1ZphuDNKB4BRNYiVKMF4wm27AxGApgL2jLuNFGxAj9D7nRen3LR1AcQAefEvWr2P0DggzwYpGuvYy5rfOcR3fRaTu5AHp+HJ6ryAe3VASwFUIpUt+hyMKjRw7p5akMM2u1QD4RbJ+fyqhpaUwbaOkulC9FGcV0GWLCzqRpHyIZj4KDq22wMQqwQ5o8o9031jkmknr6pM5IhKN0tMbpZIoKpQiGcWdykQTalbTgJNXpLaejQ7sdoq7dj2YGnP678q9acm5HFA8i3vDIn1iGhyLoygxDNsbw+K4BiBISzvaw4bNWRLcE5cUPlX5uFiGW0s1cw5IsB0iAPHhtg98iy1ayz5qADtr8VIn4hRIQfrrYsR+vSf6ePX0GevPaTTW6xx8g5nNnt6ZtPJs0P78/uPc3e3qDn7/jpe7qkco5PiqrfPKD+JbjMi2Oytgl11OR1hnb91VqTvMyte0v3z/1BditZBPpD2+Y8OpHhEysUQuYYqBAbNyvMdjxqr4Xaf+NmF2A/cqVDKOpZJ+G3kOjyz4W3Ob4xDD3Xo1/CBkUIrvpG896UfLR/+jBY2cv7uHDWbJct0uczmy3SaLGdd9wsAAkGX",
-	"createdDate": 1760322754553,
-	"descriptionMarkdown": "Simple kovarex enrichment process blueprint based on manipulator enable/disable logic. The lower manipulator can be replaced with a fast one, as it always carries only one item.\n\nU-238 input at the top, U-235 output at the bottom.\nTo start, you need to manually insert 40 U-235 to centrifuge. ",
-	"image": {
-		"id": "kRua41d",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1760322754553,
-	"numberOfFavorites": 0,
-	"tags": [
-		"/version/2,0/",
-		"/power/kovarex enrichment/"
-	],
-	"title": "Expandable kovarex enrichment process"
+  "author": {
+    "displayName": "Anton",
+    "userId": "13waGIVqhPcF0L4JM9bQUIPhuIZ2"
+  },
+  "authorId": "13waGIVqhPcF0L4JM9bQUIPhuIZ2",
+  "blueprintString": "0eNq9VW1u2zAMvcqg33IRO3a+sO0CO0IQGLLNpERkyaPkNFnhA+weO9lOMipevLVx0HbAigCxJT4+ko8S/SgK3UJDaLxYPQpnVBN5G+0Iq7A+ilUmxYn/OymwtMaJ1ZphuDNKB4BRNYiVKMF4wm27AxGApgL2jLuNFGxAj9D7nRen3LR1AcQAefEvWr2P0DggzwYpGuvYy5rfOcR3fRaTu5AHp+HJ6ryAe3VASwFUIpUt+hyMKjRw7p5akMM2u1QD4RbJ+fyqhpaUwbaOkulC9FGcV0GWLCzqRpHyIZj4KDq22wMQqwQ5o8o9031jkmknr6pM5IhKN0tMbpZIoKpQiGcWdykQTalbTgJNXpLaejQ7sdoq7dj2YGnP678q9acm5HFA8i3vDIn1iGhyLoygxDNsbw+K4BiBISzvaw4bNWRLcE5cUPlX5uFiGW0s1cw5IsB0iAPHhtg98iy1ayz5qADtr8VIn4hRIQfrrYsR+vSf6ePX0GevPaTTW6xx8g5nNnt6ZtPJs0P78/uPc3e3qDn7/jpe7qkco5PiqrfPKD+JbjMi2Oytgl11OR1hnb91VqTvMyte0v3z/1BditZBPpD2+Y8OpHhEysUQuYYqBAbNyvMdjxqr4Xaf+NmF2A/cqVDKOpZJ+G3kOjyz4W3Ob4xDD3Xo1/CBkUIrvpG896UfLR/+jBY2cv7uHDWbJct0uczmy3SaLGdd9wsAAkGX",
+  "createdDate": 1760322754553,
+  "descriptionMarkdown": "Simple kovarex enrichment process blueprint based on manipulator enable/disable logic. The lower manipulator can be replaced with a fast one, as it always carries only one item.\n\nU-238 input at the top, U-235 output at the bottom.\nTo start, you need to manually insert 40 U-235 to centrifuge. ",
+  "image": {
+    "id": "kRua41d",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1760322754553,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/",
+    "/power/kovarex enrichment/"
+  ],
+  "title": "Expandable kovarex enrichment process"
 }

@@ -1,22 +1,22 @@
 {
-	"author": {
-		"userId": "cX2b4DqzTxWKyD2E3unwQWUHOc43"
-	},
-	"authorId": "cX2b4DqzTxWKyD2E3unwQWUHOc43",
-	"blueprintString": "0eNrFl02P2jAQhv8K8nGVrMjnLlF7qnrYw6pVe6xWkZMYdrSJk7UdWrTiv3cckhCICYJWQhyAif3OPJ4PwwdJ8ppVArgi0QeBtOSSRL8+iIQVp7m2cVowEhEqJSuSHPjKLmj6CpzZLtlaBHjG/pDI2VqGTRUV+EExYTuDte72xSKMK1DAdt6aL5uY10XCBIpZk14tUpUSN5dcu0JB2/Hc+8AiG9RePN4H6ApBlCjzOGGvdA2l0CtTEGkNKmacJjnLSKREzazejFuyXnUJQqp4D6Q2lY5nDULVaOkD3K2wV4JtyM6tVFQfpqO/FPoAlPZOPrWPOUtVrMo4L1cgFaQxZ+p3Kd66aHr7ZDit92VZ84w2iw6c+2Pn+FywFKrDtMxJZ47fkQuTgI95KQp0ozN6lBi35xbsvWZSS6Sv+G7MidfmxJs7TU7aPfESctwo9UKJpwFdzXWlZJF+xYHVUFQWGYV9hP65MdRNSjRRV4MGOfcyOXcg5xnkvMvkvIGcb5DzL5PzB3KBQS64TC4YyIUGufAyuXD7gi9Dhe0PMqnzNxu4ZAL1z9TXvKmvDMSunEj0aJDeH+qSSjUt7RxJG8fJf27mYVcedPODoZsNfMMsSwlrZleiXEM22aPOQY/qwdyHsWu/dvBBtp95P3ZzxNLG42HS1oB9AHy+MBqe1lXLY3UfIuLvfT/xqlazJ44DNwM8gNlznSuo8mbDmgrQo12LkIHiMPjBVmeM4PwDgr7fOm27XI4yOgHomOObfWm6Bech+qxzqiXnMTizO47GjFUMG1JXiK6287zumNe9Da9rju8Er3slrzfm9W7D65njO8HrXcnrj3n92/D65vhO8PpX8gZj3uA2vIE5vhO8wZW84Zg3vA1vaI7vBG94jndyIH6rlR75PxVN37ppD8fjvpiO92EkZ4xUzu4KQ6B4KYJihf5N0v9ZwrudJgyvb/L9meb57GvOCtbY13hzNkkIQnfhLxbBo+MtFnN/u/0L1j53Rw==",
-	"createdDate": 1762017919820,
-	"descriptionMarkdown": "Copy of Parametrized Mall blueprint",
-	"image": {
-		"id": "WGW5Mlv",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1762017919820,
-	"numberOfFavorites": 0,
-	"tags": [
-		"/version/2,0/"
-	],
-	"title": "PMall Element",
-	"favorites": {
-		"LAIb7Jh389YLF74Jb6ZhhG4LH4C2": true
-	}
+  "author": {
+    "userId": "cX2b4DqzTxWKyD2E3unwQWUHOc43"
+  },
+  "authorId": "cX2b4DqzTxWKyD2E3unwQWUHOc43",
+  "blueprintString": "0eNrFl02P2jAQhv8K8nGVrMjnLlF7qnrYw6pVe6xWkZMYdrSJk7UdWrTiv3cckhCICYJWQhyAif3OPJ4PwwdJ8ppVArgi0QeBtOSSRL8+iIQVp7m2cVowEhEqJSuSHPjKLmj6CpzZLtlaBHjG/pDI2VqGTRUV+EExYTuDte72xSKMK1DAdt6aL5uY10XCBIpZk14tUpUSN5dcu0JB2/Hc+8AiG9RePN4H6ApBlCjzOGGvdA2l0CtTEGkNKmacJjnLSKREzazejFuyXnUJQqp4D6Q2lY5nDULVaOkD3K2wV4JtyM6tVFQfpqO/FPoAlPZOPrWPOUtVrMo4L1cgFaQxZ+p3Kd66aHr7ZDit92VZ84w2iw6c+2Pn+FywFKrDtMxJZ47fkQuTgI95KQp0ozN6lBi35xbsvWZSS6Sv+G7MidfmxJs7TU7aPfESctwo9UKJpwFdzXWlZJF+xYHVUFQWGYV9hP65MdRNSjRRV4MGOfcyOXcg5xnkvMvkvIGcb5DzL5PzB3KBQS64TC4YyIUGufAyuXD7gi9Dhe0PMqnzNxu4ZAL1z9TXvKmvDMSunEj0aJDeH+qSSjUt7RxJG8fJf27mYVcedPODoZsNfMMsSwlrZleiXEM22aPOQY/qwdyHsWu/dvBBtp95P3ZzxNLG42HS1oB9AHy+MBqe1lXLY3UfIuLvfT/xqlazJ44DNwM8gNlznSuo8mbDmgrQo12LkIHiMPjBVmeM4PwDgr7fOm27XI4yOgHomOObfWm6Bech+qxzqiXnMTizO47GjFUMG1JXiK6287zumNe9Da9rju8Er3slrzfm9W7D65njO8HrXcnrj3n92/D65vhO8PpX8gZj3uA2vIE5vhO8wZW84Zg3vA1vaI7vBG94jndyIH6rlR75PxVN37ppD8fjvpiO92EkZ4xUzu4KQ6B4KYJihf5N0v9ZwrudJgyvb/L9meb57GvOCtbY13hzNkkIQnfhLxbBo+MtFnN/u/0L1j53Rw==",
+  "createdDate": 1762017919820,
+  "descriptionMarkdown": "Copy of Parametrized Mall blueprint",
+  "image": {
+    "id": "WGW5Mlv",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1762017919820,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/"
+  ],
+  "title": "PMall Element",
+  "favorites": {
+    "LAIb7Jh389YLF74Jb6ZhhG4LH4C2": true
+  }
 }

@@ -1,23 +1,23 @@
 {
-	"author": {
-		"userId": "P5tgOQ2zpQMdvxVxKbQYMVvqGRE2"
-	},
-	"blueprintString": "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",
-	"createdDate": 1764741685892,
-	"descriptionMarkdown": "Top two Constant Combinators represent inputs into the system (manual or circuit-read).\n\nThe middle bank of combinators is the PI loop itself - Note the 2 Red Wires connecting to the Fuel and Oxidizer Pumps.\n\nThe bottom right Bank is a % readout of the output - Note the 1 Red Wire connecting to the Arithmetic Combinator.",
-	"image": {
-		"id": "0nwbtTn",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1764745367632,
-	"numberOfFavorites": 3,
-	"tags": [
-		"/version/2,0/"
-	],
-	"title": "Thruster PID",
-	"favorites": {
-		"MxDUneKZH7T8ltsURkvSh5D9vpz1": true,
-		"wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
-		"aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
-	}
+  "author": {
+    "userId": "P5tgOQ2zpQMdvxVxKbQYMVvqGRE2"
+  },
+  "blueprintString": "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",
+  "createdDate": 1764741685892,
+  "descriptionMarkdown": "Top two Constant Combinators represent inputs into the system (manual or circuit-read).\n\nThe middle bank of combinators is the PI loop itself - Note the 2 Red Wires connecting to the Fuel and Oxidizer Pumps.\n\nThe bottom right Bank is a % readout of the output - Note the 1 Red Wire connecting to the Arithmetic Combinator.",
+  "image": {
+    "id": "0nwbtTn",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1764745367632,
+  "numberOfFavorites": 3,
+  "tags": [
+    "/version/2,0/"
+  ],
+  "title": "Thruster PID",
+  "favorites": {
+    "MxDUneKZH7T8ltsURkvSh5D9vpz1": true,
+    "wEtbdOsTnmYyGrrw8Sc5yyLg9WS2": true,
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+  }
 }

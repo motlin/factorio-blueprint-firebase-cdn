@@ -1,20 +1,20 @@
 {
-	"author": {
-		"displayName": "LCStark",
-		"userId": "6gwKLv5DH3cIeuDTWVUoctPEFhc2"
-	},
-	"blueprintString": "0eNrFVk2PmzAQ/SvIZ1gBSTYh6va0x576cVpFyDGGjNbYyDbZRhH/vWNDPpoN6Xa7UnOA2B5m3rx5M7Ana9HyRoO0ZLknBTdMQ2NBSbIk35SAIrCaggyYkpIzy3GtArvhQQGmoZZtArMzltd3JCSARoYsn/bEQCWpcB4lrTm6EoqpWlnYctKhoSz4T7JMuvCKKaO6UtELrRDDyTbtViHh0oIF3sfwi10u23rNNToLr8QKSaMM9OnsCbqJ0mkWkh1ZTu6nnXNI14LnQlVgLDCTv2wA17XagqzIsqTC8JAoDRiM9m7ikDAllHYO8RLfZdPM/RaLeJ7F8ySeTrM0WcxnIam89dpfqUvX5XsBOw2v5X0D9zx5N26QW1wrjW5kK8QVNJO/RrP4MDRYX8M2vGjFUOBTHd06OTv33HOmdDHI7eCWfPdifeSNssHTFrRtqYh6iT30twjBWR6VglarICUubKVV2+DDIw+geR01VCMxlutV0LfFIxeIDNG7THBft43t0QwMvtcbNlHhye692V3jvJmGMyiB5diiFqTPN5fK5iVy55+q0SnPB3MqC9w88TICZri9gvNF0QJr5/gJ/xOEH1JcA8FAsxbsWLgjeU4iJWhj89OAGSwHHOSo9QECQ8E9u5HjxpilbiIm8+wQiFrX8+SBdE4yFtuD20v1vZvlkLxQsPn10o/Te8YL1oNhq2AzvzZF4IgY2DO6TdI47lZ+8H5EZW4C53VzDY5HvnIsgjRQ8PzYP8OscOiG0nzlZctF8OS65sG48JHbWI32iTvNnTViaqXN6bg0b2rlII1jyN+FMYsvdPHpli76qdTn4nh7lc6fJYBZvUkHb8rfC+Jf0k/iy/w/k+4MhYWaj9E+CHFy74V4QwUrz6ix2JX58Plx5MXv+pf+mro/aa9ov4mv1FIrD/NwPDk7nhyP/TeF4wqxnT6DQiLoGhM+fP/44uEujmfj2Zrdp+6dP1skkyyLp133C5fsOrw=",
-	"createdDate": 1765095767163,
-	"descriptionMarkdown": "Solid train connected to the dispatch system.",
-	"image": {
-		"id": "qOEZUKk",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1765095767163,
-	"numberOfFavorites": 0,
-	"tags": [
-		"/version/2,0/",
-		"/mods/krastorio/"
-	],
-	"title": "Solid Train"
+  "author": {
+    "displayName": "LCStark",
+    "userId": "6gwKLv5DH3cIeuDTWVUoctPEFhc2"
+  },
+  "blueprintString": "0eNrFVk2PmzAQ/SvIZ1gBSTYh6va0x576cVpFyDGGjNbYyDbZRhH/vWNDPpoN6Xa7UnOA2B5m3rx5M7Ana9HyRoO0ZLknBTdMQ2NBSbIk35SAIrCaggyYkpIzy3GtArvhQQGmoZZtArMzltd3JCSARoYsn/bEQCWpcB4lrTm6EoqpWlnYctKhoSz4T7JMuvCKKaO6UtELrRDDyTbtViHh0oIF3sfwi10u23rNNToLr8QKSaMM9OnsCbqJ0mkWkh1ZTu6nnXNI14LnQlVgLDCTv2wA17XagqzIsqTC8JAoDRiM9m7ikDAllHYO8RLfZdPM/RaLeJ7F8ySeTrM0WcxnIam89dpfqUvX5XsBOw2v5X0D9zx5N26QW1wrjW5kK8QVNJO/RrP4MDRYX8M2vGjFUOBTHd06OTv33HOmdDHI7eCWfPdifeSNssHTFrRtqYh6iT30twjBWR6VglarICUubKVV2+DDIw+geR01VCMxlutV0LfFIxeIDNG7THBft43t0QwMvtcbNlHhye692V3jvJmGMyiB5diiFqTPN5fK5iVy55+q0SnPB3MqC9w88TICZri9gvNF0QJr5/gJ/xOEH1JcA8FAsxbsWLgjeU4iJWhj89OAGSwHHOSo9QECQ8E9u5HjxpilbiIm8+wQiFrX8+SBdE4yFtuD20v1vZvlkLxQsPn10o/Te8YL1oNhq2AzvzZF4IgY2DO6TdI47lZ+8H5EZW4C53VzDY5HvnIsgjRQ8PzYP8OscOiG0nzlZctF8OS65sG48JHbWI32iTvNnTViaqXN6bg0b2rlII1jyN+FMYsvdPHpli76qdTn4nh7lc6fJYBZvUkHb8rfC+Jf0k/iy/w/k+4MhYWaj9E+CHFy74V4QwUrz6ix2JX58Plx5MXv+pf+mro/aa9ov4mv1FIrD/NwPDk7nhyP/TeF4wqxnT6DQiLoGhM+fP/44uEujmfj2Zrdp+6dP1skkyyLp133C5fsOrw=",
+  "createdDate": 1765095767163,
+  "descriptionMarkdown": "Solid train connected to the dispatch system.",
+  "image": {
+    "id": "qOEZUKk",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1765095767163,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/",
+    "/mods/krastorio/"
+  ],
+  "title": "Solid Train"
 }

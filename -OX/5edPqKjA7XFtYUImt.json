@@ -1,20 +1,20 @@
 {
-	"author": {
-		"displayName": "しーωー",
-		"userId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3"
-	},
-	"authorId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3",
-	"blueprintString": "0eNrtmOuK00AUx99lPsqM5Frdog/gM0gJaTrZHUwm3UlSLUtBt4KCCn5QBEH0k3hHQfGDj1O262N4ZpJts2a2a9pqvcFCm+nM71zmzOR/dg91o5z2BeOZ102SK6i9Nx9JUfty5VH+lnK/T7KEbAvWk8/XUNvGaIja7ggjFiS8WJOybe5HcgL3Y4rayE9TGncjxrdJ7Ac7jFNiI7mE9ygwzFEHI8ozljFaENTD0ON53KUCJuCFJIz6SQqLE146ZZ51lVvwCVYEDVhfLu77AigZFcRAR8Pebu5HYAt+5omIwW1wK6Nx4UcRZmmbhiELGOXBkMRJL48osVQQxWyYzD3GB+B6IobF6vmTg1Ga+QFk2BjhE36BNIzgD9fCt2bhC7qb01RGEOzAZz1yo4zcKSNX072QRbBGOZnSQE4vwyvzj9FsxrHR0uo8byZY1CQsSGI5BwKC0YtqIJcVYxaxKpylwVnNcFYFZ2twdjOcXcE5GpzTDOdUcK4G5zbDuRVcS4NrNcO1oLI6lYoQSex18zBUm56JnI40hTdPcuinGWE8pQJsn1x2tiq7HhNFlaH2eekAz0QSeV264w+Y9GsPBUwEOcs8yv1uRHuFB3g2DEt6M3zIBDhcu1Oqh3mkrMAxUlViGN+l4QIa6aKb73mRiJPOlHnsTC0KZ+b3PLDQj1L6M46i0Wz/t1qGIUtAlwj3R7fZrGyzrKarsNHS0cs2trCDrQ6MzTwsIsiG6uqFixSr21QfATm246eHpaJYgDZXQMvX0ragPbjpM5KEtVJbaNjalGF7U4adTRl2N2W49SsMl2cTH31pI1nTIXDzyJfLDI/JkR7tU7gk5BFXt/giglUjWA0Jdo1gNyQ4NYLTkODWCG5DQqtGaDXNpGF8z0gbIuSFXGOccc5rMJ1CZMoX1UyNYxT5XQovRHT46ebh6zvTl08n40eT8avJ/pfJeDwZ34YpA7iFVW26LWvL2dpyz9mu7Zyz5tJbqdH/Gv930vh/o9Syl1IYiyRbw06ooWprkKPygA+YyHJVWaWDxQxy6XjGTE2+Nt+nkTU3amTNnRpZc6tG1tyrkTU3a2Spbs39N/uZah9iYRP6ELOD4ZuF3VM7ktKLyfjNZP/zZPzg64u3B+8e//JWZcWGY8W2YUXxv6KEX1GIrySny+3/+vzG9MP+4cdn0yf3D67fmz58L7WTL5iseclk6WIW0WjzM3JVM0lINAJ9GYxGpS+D0Uj1ZTAavb4MRiPal8D8CcKdHFy/AzU4vXuruItOV/GmzhJR/9H/oT5hRVnvw70/oN5RS7HA49E3KhRIkg==",
-	"createdDate": 1754605983567,
-	"descriptionMarkdown": "作りたいレシピを選ぶだけで、素材要求とバッファー要求を自動設定します。<br>\nUpdate: https://factorioprints.com/view/-OX6-T2l_ZfZzJC9QQ5c",
-	"image": {
-		"id": "dPuUpeU",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1758211691786,
-	"numberOfFavorites": 0,
-	"tags": [
-		"/version/2,0/"
-	],
-	"title": "[旧作]自動設定できる組立機@Ctyann"
+  "author": {
+    "displayName": "しーωー",
+    "userId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3"
+  },
+  "authorId": "H2HcR1QNgrQjgh8BJQ50duhlsUG3",
+  "blueprintString": "0eNrtmOuK00AUx99lPsqM5Frdog/gM0gJaTrZHUwm3UlSLUtBt4KCCn5QBEH0k3hHQfGDj1O262N4ZpJts2a2a9pqvcFCm+nM71zmzOR/dg91o5z2BeOZ102SK6i9Nx9JUfty5VH+lnK/T7KEbAvWk8/XUNvGaIja7ggjFiS8WJOybe5HcgL3Y4rayE9TGncjxrdJ7Ac7jFNiI7mE9ygwzFEHI8ozljFaENTD0ON53KUCJuCFJIz6SQqLE146ZZ51lVvwCVYEDVhfLu77AigZFcRAR8Pebu5HYAt+5omIwW1wK6Nx4UcRZmmbhiELGOXBkMRJL48osVQQxWyYzD3GB+B6IobF6vmTg1Ga+QFk2BjhE36BNIzgD9fCt2bhC7qb01RGEOzAZz1yo4zcKSNX072QRbBGOZnSQE4vwyvzj9FsxrHR0uo8byZY1CQsSGI5BwKC0YtqIJcVYxaxKpylwVnNcFYFZ2twdjOcXcE5GpzTDOdUcK4G5zbDuRVcS4NrNcO1oLI6lYoQSex18zBUm56JnI40hTdPcuinGWE8pQJsn1x2tiq7HhNFlaH2eekAz0QSeV264w+Y9GsPBUwEOcs8yv1uRHuFB3g2DEt6M3zIBDhcu1Oqh3mkrMAxUlViGN+l4QIa6aKb73mRiJPOlHnsTC0KZ+b3PLDQj1L6M46i0Wz/t1qGIUtAlwj3R7fZrGyzrKarsNHS0cs2trCDrQ6MzTwsIsiG6uqFixSr21QfATm246eHpaJYgDZXQMvX0ragPbjpM5KEtVJbaNjalGF7U4adTRl2N2W49SsMl2cTH31pI1nTIXDzyJfLDI/JkR7tU7gk5BFXt/giglUjWA0Jdo1gNyQ4NYLTkODWCG5DQqtGaDXNpGF8z0gbIuSFXGOccc5rMJ1CZMoX1UyNYxT5XQovRHT46ebh6zvTl08n40eT8avJ/pfJeDwZ34YpA7iFVW26LWvL2dpyz9mu7Zyz5tJbqdH/Gv930vh/o9Syl1IYiyRbw06ooWprkKPygA+YyHJVWaWDxQxy6XjGTE2+Nt+nkTU3amTNnRpZc6tG1tyrkTU3a2Spbs39N/uZah9iYRP6ELOD4ZuF3VM7ktKLyfjNZP/zZPzg64u3B+8e//JWZcWGY8W2YUXxv6KEX1GIrySny+3/+vzG9MP+4cdn0yf3D67fmz58L7WTL5iseclk6WIW0WjzM3JVM0lINAJ9GYxGpS+D0Uj1ZTAavb4MRiPal8D8CcKdHFy/AzU4vXuruItOV/GmzhJR/9H/oT5hRVnvw70/oN5RS7HA49E3KhRIkg==",
+  "createdDate": 1754605983567,
+  "descriptionMarkdown": "作りたいレシピを選ぶだけで、素材要求とバッファー要求を自動設定します。<br>\nUpdate: https://factorioprints.com/view/-OX6-T2l_ZfZzJC9QQ5c",
+  "image": {
+    "id": "dPuUpeU",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1758211691786,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/"
+  ],
+  "title": "[旧作]自動設定できる組立機@Ctyann"
 }

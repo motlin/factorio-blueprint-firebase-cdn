@@ -1,0 +1,19 @@
+{
+  "author": {
+    "displayName": "Christopher Lewis",
+    "userId": "d5FT7aBafwY74tFM0DT2UOPOVoj1"
+  },
+  "blueprintString": "0eNqdWu1uozAQfBf/JhX22mDnVarolKa+O6SEREB7V1V594NWV+5aiGf8KyGQyeysZz+kvKqH41O8dE07qO2rag7ntlfb+1fVNz/a/XH6rN2fotqq7/t+2Azdvu0v527YPMTjoK6FatrH+Ftt9XVXqNgOzdDEd4C3i5dv7dPpIXbjA8UtoEJdzv343XM7/eKEV9+5Qr2orQl37notvuAZEq/6F69Qj00XD+/37QK6/I/eX47NMIw3vuL6d1S/zNKSLH0iakfihdWotVmArzh4I5SoNSqqcTdF9SRLlxA1kHg2gadLErDisqRJL4lOESbNJCWVdw27SczNxGvSTmJSgZN+EiEzRRpKak5Y2FESbgtLWkpSdUqTnpKQKvekp2zJZcqw/elvUZm8kM6U+eSwpu1jt9xQPoD1Z2C/BCyZffCN9xKgzWzUX4VYFtrBStScElVmb1xVos5s3uCR8LAQnhOC7Wcll0EpUeIzMkRcdOb4sZZBIfuaMVQGRWAhDCeEzZxI0Ay6zAkK1KWCdbGcLjUMzFVR8ZkT2+rJYz1IVlGLe5Cropb1YKCOhoX74AyM8ZbMEXYtg9ZmDtloBuE+OCNjSlSZM+2qEnXm1A0eCbgPCldFLTuDklXUwR4Ursw5nbk1rGXQsftdRWXQwX1wBsaEsJlrCZpBl7mlgLrAfVC4Cc/BfVC4Kup85pa1evJID1qyilawBy1XRavZg6f42DydNvE4Pt81h83lfIwLQ/qHx82yFNVswn6I8bg5/Iz9zc1yDUj4XVKgmC3IsE4xzNjxMIYVyNCnGNb88oUx9OS5MTpFNWAxz8vWClCdsbdBMdcaZGhSDA2/UGEMBWSYMnENWsSkTFw7fkfCQq34HQkDrsHQU9Wh9vzugjEMrPdSZcKXYMwhBaT5vQeK2YNdRVJlxgu/j2AMQctIqjp4xy8KGMOKPDeScrcHvSKpeuM9v2NgMYNdZZ7YVxiGkh/+IYYB7CqSMnFALZIycRB+nsdCtfw8jwE7LHSbqg6h4ufsBYa7Qv0ar6c/CNyPE7YrxnHJ7Yr76aUYy/f0fnopRku63fh0M8TT+JvzfxQK9Ry7/g3OVSbYEJzXEkJpr9c/P16kJQ==",
+  "createdDate": 1767651691343,
+  "descriptionMarkdown": "creates 8 even belts on materials from the train cars. Access material is unloaded into the boxes while the bulk onto the belts.",
+  "image": {
+    "id": "0UVo3OY",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1767651691343,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/"
+  ],
+  "title": "Basic Train Car Unloader with fast inserters"
+}

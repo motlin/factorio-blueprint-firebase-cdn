@@ -1,25 +1,25 @@
 {
-	"author": {
-		"displayName": "Vít Pavlík",
-		"userId": "sX4Udy2jyDOsniHdgkqsTEDDTcH3"
-	},
-	"authorId": "sX4Udy2jyDOsniHdgkqsTEDDTcH3",
-	"blueprintString": "0eNqll+1OwyAUhm/F8JuZ8dWvWzHGdBMNSUcbSo3L0nuXzqhVoXKOv9Z18PS8wHve9UIO3aQHZ6wnzYWYY29H0txdyGiebdst92x70qQh3rV2HHrndwfdeTJTYuyjfiUNm2lk+BR+dM+uD58/J/DohHHojPfarQaK+EDfW717mpxtj3o1Ws73lGjrjTf6XcP1y/nBTqdD4DaMJrRQMvRjmNbb5TEBtVPFraLkHK6YDJfhIY/G6eP7ELmU9YPNAWz1nR2hCQBNblTKeAQucaWW8VIVgCagpRYAOIfCSxo/UbHCP8hVbAkqQJX7jSqrCLumSUNF6GxzDSjx52FB9ZMfpsWRvy2yx2kpc7QwBhEj6zwxxqa0ADwpK+jpYQIkpvj3zgBsu2wHUI3KNoOsNs3ACtC6yP9ucglYlr8bL6twuERzZDD7rg6J+hU6f68F/zLvZ5hGnrI+HBnBBjLtOo02JKSPOUcGqYpvABc4nEzgJC7tVNZfCIVLuzx4gWvsMqex8xIHV1nwChuBKA/VuNDI2gSxxwYgykuC4SIjTwskXQsoXODacKILCInDJbqAABhVbjXEaBSLIqeLS5Hs4oEaXoSM16eA+Hq7o6RrQ5EL9hRqvbnCw90X7cbrPFXwWta1KvdclTWf5zd7pYv/",
-	"createdDate": 1752267741876,
-	"descriptionMarkdown": "split coal and ore for 2-tile furnaces",
-	"image": {
-		"id": "ilcrRKU",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1752345838561,
-	"numberOfFavorites": 0,
-	"tags": [
-		"/version/2,0/",
-		"/version/0,15/",
-		"/mods/vanilla/"
-	],
-	"title": "smelt split",
-	"favorites": {
-		"7MPPiIO9CwOfAzdgxhxmR1qau0k1": true
-	}
+  "author": {
+    "displayName": "Vít Pavlík",
+    "userId": "sX4Udy2jyDOsniHdgkqsTEDDTcH3"
+  },
+  "authorId": "sX4Udy2jyDOsniHdgkqsTEDDTcH3",
+  "blueprintString": "0eNqll+1OwyAUhm/F8JuZ8dWvWzHGdBMNSUcbSo3L0nuXzqhVoXKOv9Z18PS8wHve9UIO3aQHZ6wnzYWYY29H0txdyGiebdst92x70qQh3rV2HHrndwfdeTJTYuyjfiUNm2lk+BR+dM+uD58/J/DohHHojPfarQaK+EDfW717mpxtj3o1Ws73lGjrjTf6XcP1y/nBTqdD4DaMJrRQMvRjmNbb5TEBtVPFraLkHK6YDJfhIY/G6eP7ELmU9YPNAWz1nR2hCQBNblTKeAQucaWW8VIVgCagpRYAOIfCSxo/UbHCP8hVbAkqQJX7jSqrCLumSUNF6GxzDSjx52FB9ZMfpsWRvy2yx2kpc7QwBhEj6zwxxqa0ADwpK+jpYQIkpvj3zgBsu2wHUI3KNoOsNs3ACtC6yP9ucglYlr8bL6twuERzZDD7rg6J+hU6f68F/zLvZ5hGnrI+HBnBBjLtOo02JKSPOUcGqYpvABc4nEzgJC7tVNZfCIVLuzx4gWvsMqex8xIHV1nwChuBKA/VuNDI2gSxxwYgykuC4SIjTwskXQsoXODacKILCInDJbqAABhVbjXEaBSLIqeLS5Hs4oEaXoSM16eA+Hq7o6RrQ5EL9hRqvbnCw90X7cbrPFXwWta1KvdclTWf5zd7pYv/",
+  "createdDate": 1752267741876,
+  "descriptionMarkdown": "split coal and ore for 2-tile furnaces",
+  "image": {
+    "id": "ilcrRKU",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1752345838561,
+  "numberOfFavorites": 0,
+  "tags": [
+    "/version/2,0/",
+    "/version/0,15/",
+    "/mods/vanilla/"
+  ],
+  "title": "smelt split",
+  "favorites": {
+    "7MPPiIO9CwOfAzdgxhxmR1qau0k1": true
+  }
 }

@@ -1,25 +1,25 @@
 {
-	"author": {
-		"userId": "px1RBsO6VjfCMzs22gdULdHTxYD2"
-	},
-	"authorId": "px1RBsO6VjfCMzs22gdULdHTxYD2",
-	"blueprintString": "0eNrlV81u2zAMfhVBp61QWv/lxwZ62aG3AQOaW1sYsq0kQm3Jk+U0WZEH2HvsyfYko+zEqRcncQoMKDD4IlP6SIr8SNOvOEpLlisuNA5eMY+lKHDw8IoLPhc0NTJBM4YDnJdZjjcEc5GwFQ7szRPBTGiuOasR1cs6FGUWMQUHSIPkOcME57KAw1IYnaBg4F4PCV7jYHw93GzIAd5p8Akv8pSuBzkVLD1UZL3RQ7BmK7gJ/lKqQq/RN3Aa3aXyBWA0faHrIiwW8BZoVbIOo25fo26X0a9SMXSvaZSyiy17jWWTAk2FHsQyi7igWqqO6DlbB/zKgYQrFtfboAg0aCXTMGILuuQAB0xR7xftNaRtl0+CZzzVTP0t1evceLXkSpfURGLrZk2QwR1IvsMG3AWEQqqsOgS+51RVvgf4thKUhmLOcPMET1fCh+cIs7vypJswo76EO4Ifn8Pbp/GTM/gzcJ+0Ku2Q5g24T7pjruKS65AJw8akph1pxABJGuUzDrUS7gt+m/FZWvJkn2+9UGUB/BjIFU/4D3AZHAEmgaZD7DG2TA2oxY3fP3/hTjrY1pmAuP9bQM51VO80wezeHXWw02RbrfZWpprn6RppieZMoxl0NwRuMzSTCtE0RWPExJwLVlyDUvMt6RGBOxOBPh3S3jdnqrheZEzz+HSTrCli2z05sle750NxghAnr7Rlwq6bQ3+zLKC0zBmErPICXwFSljovL9PdzQ7vvdGxPkR0xv8wNPsvSwGRoHM2AJvPxyeJjpB0qR31VOtepnZ8eZk6b8s0o6vQdMywqs9bZDuW9SiM1AhC42MY05zGYBW2DS0fxadqzxTzTQv/GV2hbmj/Cp/2rvBJ76s3MXXfXn26YEhTZZrTksJci2IqUMRQRJ9ZgmDGlYgiIBxweHsAJIplcglHm1IpcJdv/nvry/kQ9WVY0C6xm3eU2PRIiTnWpYNzO3H3mtHk8nHdsc/MCE5jrZ2Cifl7eYF3M+0+eMQh0D+dJ/LgE5vA5GHvlj5xqyUcGFYHYBPWo3rt1kCvXnvmuPMEmrlmGfi0/7UiOKURhCPAzRWrHwWeVoMDwUsYvCvPhiPH93x/OLFd37e8zeYPfw2QcA==",
-	"createdDate": 1763060754600,
-	"descriptionMarkdown": "Stabilizes the flow rate of a pump to a specific value configured in the constant combinator. Useful for space platform engine efficiency.",
-	"image": {
-		"id": "TkO6XhT",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1763060754600,
-	"numberOfFavorites": 4,
-	"tags": [
-		"/version/2,0/"
-	],
-	"title": "Pump Flow Stabilizer",
-	"favorites": {
-		"MDP8oNLgAaNJXB7tOARivEIsjz43": true,
-		"aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
-		"7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
-		"IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
-	}
+  "author": {
+    "userId": "px1RBsO6VjfCMzs22gdULdHTxYD2"
+  },
+  "authorId": "px1RBsO6VjfCMzs22gdULdHTxYD2",
+  "blueprintString": "0eNrlV81u2zAMfhVBp61QWv/lxwZ62aG3AQOaW1sYsq0kQm3Jk+U0WZEH2HvsyfYko+zEqRcncQoMKDD4IlP6SIr8SNOvOEpLlisuNA5eMY+lKHDw8IoLPhc0NTJBM4YDnJdZjjcEc5GwFQ7szRPBTGiuOasR1cs6FGUWMQUHSIPkOcME57KAw1IYnaBg4F4PCV7jYHw93GzIAd5p8Akv8pSuBzkVLD1UZL3RQ7BmK7gJ/lKqQq/RN3Aa3aXyBWA0faHrIiwW8BZoVbIOo25fo26X0a9SMXSvaZSyiy17jWWTAk2FHsQyi7igWqqO6DlbB/zKgYQrFtfboAg0aCXTMGILuuQAB0xR7xftNaRtl0+CZzzVTP0t1evceLXkSpfURGLrZk2QwR1IvsMG3AWEQqqsOgS+51RVvgf4thKUhmLOcPMET1fCh+cIs7vypJswo76EO4Ifn8Pbp/GTM/gzcJ+0Ku2Q5g24T7pjruKS65AJw8akph1pxABJGuUzDrUS7gt+m/FZWvJkn2+9UGUB/BjIFU/4D3AZHAEmgaZD7DG2TA2oxY3fP3/hTjrY1pmAuP9bQM51VO80wezeHXWw02RbrfZWpprn6RppieZMoxl0NwRuMzSTCtE0RWPExJwLVlyDUvMt6RGBOxOBPh3S3jdnqrheZEzz+HSTrCli2z05sle750NxghAnr7Rlwq6bQ3+zLKC0zBmErPICXwFSljovL9PdzQ7vvdGxPkR0xv8wNPsvSwGRoHM2AJvPxyeJjpB0qR31VOtepnZ8eZk6b8s0o6vQdMywqs9bZDuW9SiM1AhC42MY05zGYBW2DS0fxadqzxTzTQv/GV2hbmj/Cp/2rvBJ76s3MXXfXn26YEhTZZrTksJci2IqUMRQRJ9ZgmDGlYgiIBxweHsAJIplcglHm1IpcJdv/nvry/kQ9WVY0C6xm3eU2PRIiTnWpYNzO3H3mtHk8nHdsc/MCE5jrZ2Cifl7eYF3M+0+eMQh0D+dJ/LgE5vA5GHvlj5xqyUcGFYHYBPWo3rt1kCvXnvmuPMEmrlmGfi0/7UiOKURhCPAzRWrHwWeVoMDwUsYvCvPhiPH93x/OLFd37e8zeYPfw2QcA==",
+  "createdDate": 1763060754600,
+  "descriptionMarkdown": "Stabilizes the flow rate of a pump to a specific value configured in the constant combinator. Useful for space platform engine efficiency.",
+  "image": {
+    "id": "TkO6XhT",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1763060754600,
+  "numberOfFavorites": 4,
+  "tags": [
+    "/version/2,0/"
+  ],
+  "title": "Pump Flow Stabilizer",
+  "favorites": {
+    "MDP8oNLgAaNJXB7tOARivEIsjz43": true,
+    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
+    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true,
+    "IqA7mqeukEdkGP4JOxzRRq7jxGs1": true
+  }
 }

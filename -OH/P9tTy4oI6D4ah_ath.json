@@ -1,22 +1,22 @@
 {
-	"author": {
-		"displayName": "Dominik Brzęcki",
-		"userId": "zrtuAEgfBUS5ZhXHrzRi7ZEJZh43"
-	},
-	"blueprintString": "braksznurka",
-	"createdDate": 1766744365393,
-	"descriptionMarkdown": "zautomatyzowana produkcja każdego składnika",
-	"image": {
-		"id": "lQ6Fshs",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1766744365393,
-	"numberOfFavorites": 1,
-	"tags": [
-		"/belt/prioritizer/"
-	],
-	"title": "zautomatyzowana produkcja ",
-	"favorites": {
-		"QUM9TtUvsnWwqJOc58IiQKxCYER2": true
-	}
+  "author": {
+    "displayName": "Dominik Brzęcki",
+    "userId": "zrtuAEgfBUS5ZhXHrzRi7ZEJZh43"
+  },
+  "blueprintString": "braksznurka",
+  "createdDate": 1766744365393,
+  "descriptionMarkdown": "zautomatyzowana produkcja każdego składnika",
+  "image": {
+    "id": "lQ6Fshs",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1766744365393,
+  "numberOfFavorites": 1,
+  "tags": [
+    "/belt/prioritizer/"
+  ],
+  "title": "zautomatyzowana produkcja ",
+  "favorites": {
+    "QUM9TtUvsnWwqJOc58IiQKxCYER2": true
+  }
 }

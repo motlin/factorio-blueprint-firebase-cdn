@@ -1,40 +1,40 @@
 {
-	"image": {
-		"width": 1280,
-		"height": 800,
-		"id": "uscIicW",
-		"type": "image/jpeg"
-	},
-	"lastUpdatedDate": 1502663070321,
-	"numberOfFavorites": 13,
-	"title": "Trains - roundabout",
-	"descriptionMarkdown": "No comment",
-	"fileName": "Snímek obrazovky 2017-08-13 v 19.26.16.png",
-	"blueprintString": "0eNqVlttqwzAMht9F1y5UduIcXmWM0YPpDK1bErcshLz7nGQra6cS6Srk4M/59cuSetger+7S+BCh7sHvzqGF+q2H1h/C5jg+i93FQQ0+uhMoCJvTeNds/BEGBT7s3RfUOLwrcCH66N28frrpPsL1tHVN+uC+cndtbm6/mgAKLuc2rTmHcaPEWeUKunRBk9h737jd/DIf1D+kFiLxEWkJpOEhDU00BDGTEZ9kZwQxvxPbmGCHz/hKeDlDy0dmQTCtlInrZekFF2ppJuV5KWQ+aUcCWTHTCH88yh+RmkDimstEkkn9JiLbo3F7QjzlEWoulU4myiNknqLqVzvFYJ6bFwGkchxzmSmMo4hWopRR0rCQJaNhOFyKImmWiyRW0ky0y+mt17JEtMuGaxRWNcvoOVrIZBQgbUSNrGIoF3Wdarmg6VxWdxktR1sZ0i6nui5EgUztm4KUktg9jwDTHDRNSvWfwUrBzTXtfKCyTFtbaNTVMHwDUiMd6g==",
-	"createdDate": 1502650026995,
-	"imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Sni%CC%81mek%20obrazovky%202017-08-13%20v%C2%A019.26.16.png?alt=media&token=f9ecb570-399d-48e4-b631-b4da6c63df28",
-	"tags": [
-		"/train/roundabout/",
-		"/mods/vanilla/",
-		"/version/0,15/"
-	],
-	"author": {
-		"userId": "6hzltI5ohhc1aFegbGXKwRMTVFl1"
-	},
-	"authorId": "6hzltI5ohhc1aFegbGXKwRMTVFl1",
-	"favorites": {
-		"PfuQMwXUTihdhSJBi8FoBZFgj9u1": true,
-		"XvAvwsOFPfdXDXrkoCp2DaXYQuR2": true,
-		"0brSiKWRFCS7JtivjZsIbZmYzP62": true,
-		"irBBZNtRzEa9GaVTiD4WNJVFAMg2": true,
-		"ndlUEyi1k3OsKJZ2DrUElBRk2fJ2": true,
-		"RvXzoBDUjGSddTjYqEOG2ThOtT22": true,
-		"WvzpBbEL0RWx70SFbEh2QfJlALA2": true,
-		"DCW234NSpsRZHXa3x9aeHEAB7om1": true,
-		"I9lYeKOc61TLFOvkbsTkWZC4sp73": true,
-		"MPXpep5GQKWLMp1V90CfgkAupAA2": true,
-		"H4dzNnqBIjYR6sh9VnBplU1f6t72": true,
-		"p09lW5GIFqPBL5l3QAmZh6Bc3353": true,
-		"uXxsaGAepffctiTgTRFnDGf0F1r2": true
-	}
+  "image": {
+    "width": 1280,
+    "height": 800,
+    "id": "uscIicW",
+    "type": "image/jpeg"
+  },
+  "lastUpdatedDate": 1502663070321,
+  "numberOfFavorites": 13,
+  "title": "Trains - roundabout",
+  "descriptionMarkdown": "No comment",
+  "fileName": "Snímek obrazovky 2017-08-13 v 19.26.16.png",
+  "blueprintString": "0eNqVlttqwzAMht9F1y5UduIcXmWM0YPpDK1bErcshLz7nGQra6cS6Srk4M/59cuSetger+7S+BCh7sHvzqGF+q2H1h/C5jg+i93FQQ0+uhMoCJvTeNds/BEGBT7s3RfUOLwrcCH66N28frrpPsL1tHVN+uC+cndtbm6/mgAKLuc2rTmHcaPEWeUKunRBk9h737jd/DIf1D+kFiLxEWkJpOEhDU00BDGTEZ9kZwQxvxPbmGCHz/hKeDlDy0dmQTCtlInrZekFF2ppJuV5KWQ+aUcCWTHTCH88yh+RmkDimstEkkn9JiLbo3F7QjzlEWoulU4myiNknqLqVzvFYJ6bFwGkchxzmSmMo4hWopRR0rCQJaNhOFyKImmWiyRW0ky0y+mt17JEtMuGaxRWNcvoOVrIZBQgbUSNrGIoF3Wdarmg6VxWdxktR1sZ0i6nui5EgUztm4KUktg9jwDTHDRNSvWfwUrBzTXtfKCyTFtbaNTVMHwDUiMd6g==",
+  "createdDate": 1502650026995,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Sni%CC%81mek%20obrazovky%202017-08-13%20v%C2%A019.26.16.png?alt=media&token=f9ecb570-399d-48e4-b631-b4da6c63df28",
+  "tags": [
+    "/train/roundabout/",
+    "/mods/vanilla/",
+    "/version/0,15/"
+  ],
+  "author": {
+    "userId": "6hzltI5ohhc1aFegbGXKwRMTVFl1"
+  },
+  "authorId": "6hzltI5ohhc1aFegbGXKwRMTVFl1",
+  "favorites": {
+    "PfuQMwXUTihdhSJBi8FoBZFgj9u1": true,
+    "XvAvwsOFPfdXDXrkoCp2DaXYQuR2": true,
+    "0brSiKWRFCS7JtivjZsIbZmYzP62": true,
+    "irBBZNtRzEa9GaVTiD4WNJVFAMg2": true,
+    "ndlUEyi1k3OsKJZ2DrUElBRk2fJ2": true,
+    "RvXzoBDUjGSddTjYqEOG2ThOtT22": true,
+    "WvzpBbEL0RWx70SFbEh2QfJlALA2": true,
+    "DCW234NSpsRZHXa3x9aeHEAB7om1": true,
+    "I9lYeKOc61TLFOvkbsTkWZC4sp73": true,
+    "MPXpep5GQKWLMp1V90CfgkAupAA2": true,
+    "H4dzNnqBIjYR6sh9VnBplU1f6t72": true,
+    "p09lW5GIFqPBL5l3QAmZh6Bc3353": true,
+    "uXxsaGAepffctiTgTRFnDGf0F1r2": true
+  }
 }

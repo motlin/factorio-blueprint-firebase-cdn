@@ -1,42 +1,42 @@
 {
-	"blueprintString": "H4sIAAAAAAAA/72T0WrDIBSGXyV4rdAm6VXxEfoMJdNDekA9QU3XIr77tIGxwBjLSnelyP/9/zl61NQYUoNpzjKhIhdkSug03OSeBxzdYGSK9wkkwwiWcTfY\nsgcDKnpUwqJDNwrt0RiWc+bgIkaEarNIDY0YYpGqC4QopiEEvIKYPF1Rg2d8olAIcjLdpOj5XYpD8Uk/BX3DdJnXAh/ll1WyMAFoYUnPBkTHuKLZRdnlbd77\n6t1mrtEXcT3tX5JTe9h9jWlfEdP+S8rj0trt77FtUpZe/gjv17AFjbMVn71NZGBN7J5I69fsb8ehe27qtv+7Q6UX+FSNB9+c0EFo3jFeGk9vFAPLRw9x9q45\nH8HpD/rHcFo+BAAA\n",
-	"numberOfFavorites": 16,
-	"title": "Modular Mines with Robots",
-	"authorId": "FUPNuTqREVUgdpLgGwKtyYv3iKH2",
-	"createdDate": 1481586950449,
-	"descriptionMarkdown": "Mining with Robots.\n\nThis design will tesselate with itself.",
-	"image": {
-		"width": 893,
-		"height": 893,
-		"id": "jJvE5ly",
-		"type": "image/jpeg"
-	},
-	"imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Modular%20Mines%20with%20Robots.PNG?alt=media&token=4ff5929e-9c7b-494b-b6f6-8fcae92ac1dd",
-	"lastUpdatedDate": 1497786840741,
-	"tags": [
-		"/general/compact/",
-		"/mods/vanilla/",
-		"/version/0,14/",
-		"/production/mining/"
-	],
-	"author": {
-		"userId": "FUPNuTqREVUgdpLgGwKtyYv3iKH2"
-	},
-	"favorites": {
-		"H3QlaVpvadfVuTpGGxs7016oR2K3": true,
-		"af3odY84QSbmSPE2o8gWxDi4rW92": true,
-		"MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
-		"9gqFDiAFACRKi2dh3ix7mU9I1xt2": true,
-		"jdXC0qzNqXbaHHAXHQXCHpABc1F3": true,
-		"7N2X7HnNLFhOMRi1F7Dyq0hnEDL2": true,
-		"KFXE0rDdT7ThUhyn2hfNPWpbhS82": true,
-		"0yAVPIiYOAgP3MRO5U14PktfrVj2": true,
-		"W5sMU6ALsLPdAj180IGEoCRpQLF3": true,
-		"j7Ep9QEpOhaBqhfLdJwR5h6qFWz1": true,
-		"mRt8RqiXYAO0jueiYhQFjU8meeO2": true,
-		"nY5BrJ9bMwb6dwspG42T2CnxVxO2": true,
-		"q4O7HqsaMTTYRSEdtZUd8kN4gIo1": true,
-		"fDsUrxNyCiPUPcVJwTJcPfqL1X33": true,
-		"vD3BS94FIATJaUWLbhYId5PjdGv1": true
-	}
+  "blueprintString": "H4sIAAAAAAAA/72T0WrDIBSGXyV4rdAm6VXxEfoMJdNDekA9QU3XIr77tIGxwBjLSnelyP/9/zl61NQYUoNpzjKhIhdkSug03OSeBxzdYGSK9wkkwwiWcTfY\nsgcDKnpUwqJDNwrt0RiWc+bgIkaEarNIDY0YYpGqC4QopiEEvIKYPF1Rg2d8olAIcjLdpOj5XYpD8Uk/BX3DdJnXAh/ll1WyMAFoYUnPBkTHuKLZRdnlbd77\n6t1mrtEXcT3tX5JTe9h9jWlfEdP+S8rj0trt77FtUpZe/gjv17AFjbMVn71NZGBN7J5I69fsb8ehe27qtv+7Q6UX+FSNB9+c0EFo3jFeGk9vFAPLRw9x9q45\nH8HpD/rHcFo+BAAA\n",
+  "numberOfFavorites": 16,
+  "title": "Modular Mines with Robots",
+  "authorId": "FUPNuTqREVUgdpLgGwKtyYv3iKH2",
+  "createdDate": 1481586950449,
+  "descriptionMarkdown": "Mining with Robots.\n\nThis design will tesselate with itself.",
+  "image": {
+    "width": 893,
+    "height": 893,
+    "id": "jJvE5ly",
+    "type": "image/jpeg"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Modular%20Mines%20with%20Robots.PNG?alt=media&token=4ff5929e-9c7b-494b-b6f6-8fcae92ac1dd",
+  "lastUpdatedDate": 1497786840741,
+  "tags": [
+    "/general/compact/",
+    "/mods/vanilla/",
+    "/version/0,14/",
+    "/production/mining/"
+  ],
+  "author": {
+    "userId": "FUPNuTqREVUgdpLgGwKtyYv3iKH2"
+  },
+  "favorites": {
+    "H3QlaVpvadfVuTpGGxs7016oR2K3": true,
+    "af3odY84QSbmSPE2o8gWxDi4rW92": true,
+    "MnYjSIdWWIXTOqGehfOrEUUZRXt2": true,
+    "9gqFDiAFACRKi2dh3ix7mU9I1xt2": true,
+    "jdXC0qzNqXbaHHAXHQXCHpABc1F3": true,
+    "7N2X7HnNLFhOMRi1F7Dyq0hnEDL2": true,
+    "KFXE0rDdT7ThUhyn2hfNPWpbhS82": true,
+    "0yAVPIiYOAgP3MRO5U14PktfrVj2": true,
+    "W5sMU6ALsLPdAj180IGEoCRpQLF3": true,
+    "j7Ep9QEpOhaBqhfLdJwR5h6qFWz1": true,
+    "mRt8RqiXYAO0jueiYhQFjU8meeO2": true,
+    "nY5BrJ9bMwb6dwspG42T2CnxVxO2": true,
+    "q4O7HqsaMTTYRSEdtZUd8kN4gIo1": true,
+    "fDsUrxNyCiPUPcVJwTJcPfqL1X33": true,
+    "vD3BS94FIATJaUWLbhYId5PjdGv1": true
+  }
 }

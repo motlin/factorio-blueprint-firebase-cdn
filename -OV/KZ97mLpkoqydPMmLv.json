@@ -1,25 +1,25 @@
 {
-	"author": {
-		"displayName": "minecrafter8001",
-		"userId": "dXT8HnkDtJhi8K1Dz9gIdnrudw93"
-	},
-	"authorId": "dXT8HnkDtJhi8K1Dz9gIdnrudw93",
-	"blueprintString": "0eNq1ll+OmzAQxq9ijVSprZxV+BcCb1V7gL6vVpGB2cQS2MiYtGnEAXqQXqwn6RiSjUSzrSglT8Ge75ufByczZ8jKFmsjlYX0DAU2uZG1lVpBCh+1UphbZjXT9oCGFXIvbcO+SHtgKPslgwXThu0NomJvRVlegxTSDoWwRlTIcl3q1pDS4DvgIHOtGkgfz9DIvRKly60ojpIWsqlLcVrVQmEJHcWqAr9C6nVPHFBZaSUO0v7htFNtlaGhAH61EIbYKrQyX+W6yqQSVhvKWutGDkc7AzmuHyIOJ+fMKauhk/Z7Ww5EZ40udxkexFGSlgQ30x1tF71R4zaepWns7nYOe6odxFEa29LKC9UQsUKRH9yxGnQ2zquxwlXfW3PQNRpxqf4bkurW1u1kc/rw38rj8/sVfrUs/kPU3S9FLQw5WTTDe3gpxz9UQ6iTPUi1hyHVpRSJe6hcGvfiUvj5/Ud/E/Ihx188E+jP//+xtrOwtkthxbOw4qWwNrOwNkthRbOwoqWwwllY4VJYwSysYCksfxaWvxSWNwvLm4+FRzT3wNazwNYE9tS5/uv6t/vTf/R4yH3uP9HaqBtcvC5th1+/pODdfD+5EYFRE8qRFo/UWkVWuo0P4CrwusWanp61qdpSuOj3/UKBNdKM4M5pTYt/dEhGBslE/Xak307UxyN9PFG/Gek3E/XRSB9N1IcjfThRH4z0wUS9P9L7d/R0J6XFivZvsy2HUmQ07aTw+Xpd5TcaUPthlV0mIncX6Rr3P71o4ydhkkRxEAVh7HfdL9A20D0=",
-	"createdDate": 1752708457117,
-	"descriptionMarkdown": "Connect to other digits with either red or green (all digits need the same colour wire)",
-	"image": {
-		"id": "qwLe1Su",
-		"type": "image/png"
-	},
-	"lastUpdatedDate": 1752708457117,
-	"numberOfFavorites": 2,
-	"tags": [
-		"/version/2,0/",
-		"/circuit/indicator/"
-	],
-	"title": "Parameterized digit display",
-	"favorites": {
-		"FZBtFEpS13N87hKr26AjNJlgda92": true,
-		"q2nT2i6whtPNOdaNRNkm1OQ38l22": true
-	}
+  "author": {
+    "displayName": "minecrafter8001",
+    "userId": "dXT8HnkDtJhi8K1Dz9gIdnrudw93"
+  },
+  "authorId": "dXT8HnkDtJhi8K1Dz9gIdnrudw93",
+  "blueprintString": "0eNq1ll+OmzAQxq9ijVSprZxV+BcCb1V7gL6vVpGB2cQS2MiYtGnEAXqQXqwn6RiSjUSzrSglT8Ge75ufByczZ8jKFmsjlYX0DAU2uZG1lVpBCh+1UphbZjXT9oCGFXIvbcO+SHtgKPslgwXThu0NomJvRVlegxTSDoWwRlTIcl3q1pDS4DvgIHOtGkgfz9DIvRKly60ojpIWsqlLcVrVQmEJHcWqAr9C6nVPHFBZaSUO0v7htFNtlaGhAH61EIbYKrQyX+W6yqQSVhvKWutGDkc7AzmuHyIOJ+fMKauhk/Z7Ww5EZ40udxkexFGSlgQ30x1tF71R4zaepWns7nYOe6odxFEa29LKC9UQsUKRH9yxGnQ2zquxwlXfW3PQNRpxqf4bkurW1u1kc/rw38rj8/sVfrUs/kPU3S9FLQw5WTTDe3gpxz9UQ6iTPUi1hyHVpRSJe6hcGvfiUvj5/Ud/E/Ihx188E+jP//+xtrOwtkthxbOw4qWwNrOwNkthRbOwoqWwwllY4VJYwSysYCksfxaWvxSWNwvLm4+FRzT3wNazwNYE9tS5/uv6t/vTf/R4yH3uP9HaqBtcvC5th1+/pODdfD+5EYFRE8qRFo/UWkVWuo0P4CrwusWanp61qdpSuOj3/UKBNdKM4M5pTYt/dEhGBslE/Xak307UxyN9PFG/Gek3E/XRSB9N1IcjfThRH4z0wUS9P9L7d/R0J6XFivZvsy2HUmQ07aTw+Xpd5TcaUPthlV0mIncX6Rr3P71o4ydhkkRxEAVh7HfdL9A20D0=",
+  "createdDate": 1752708457117,
+  "descriptionMarkdown": "Connect to other digits with either red or green (all digits need the same colour wire)",
+  "image": {
+    "id": "qwLe1Su",
+    "type": "image/png"
+  },
+  "lastUpdatedDate": 1752708457117,
+  "numberOfFavorites": 2,
+  "tags": [
+    "/version/2,0/",
+    "/circuit/indicator/"
+  ],
+  "title": "Parameterized digit display",
+  "favorites": {
+    "FZBtFEpS13N87hKr26AjNJlgda92": true,
+    "q2nT2i6whtPNOdaNRNkm1OQ38l22": true
+  }
 }
