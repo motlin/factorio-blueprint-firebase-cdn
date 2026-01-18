@@ -1,49 +1,49 @@
 {
-  "blueprintString": "H4sIAAAAAAAA/51a0Y6jOBD8ldE8h5VtjANa5VtWXILmkBIyIuR0e1H+/QImG2Jju7pfZ6rt7nJ1027ncP44nvf18ePX7tZ0Qzu0zWV3u3X1qdl9Xs7Hus++\n6645fm6+z5fHf8/d7vbvLqt+FJvfu0yaH8X9vknCDQ2ek+CKhC5I6JKElnIVfqqPx+xYn74dtJ7RW2xxGoly/Yiuf12GesQ4lEttwS9ovd9fT9djPZx7F6tc\nbGhZgQJJ21usJri6wO6v/T/NIevr1tP0BM3vm0PbN/vpz+bl+PCw+Pp7WDN8+rMwVJChYhoKph13P26AhmlXMu0klxjJZUZyqZFcbiSXHBUlJ5JC1lNFSM0F\nNib/mXWx9GibLJvZnyqrlpVtXD+7tF9d7W+zwC+2kkBAhNj90IPft2cAEqvkJLQmobc0TwQNntPghgav1uARbZaz2nDNC1DH09GXARknDd8TIAfcI0TiBZIS\nsCAcbEk6VxBdraDDTtuqVuICKMEznYgzjDM1nhhypCTMWY71glm5gk6IAOJIw0iFIuEDgleEnYTjdpURBErpaijwlapIB2RVbEBpTt5qhjRLT9NItbFVykAf\ntlnFmqRiTVDxwo1wJ5+PyILcyCuPHrw7ppv5BQbvjelmUjDtmKRIJisrdZfQFtPtFJOXOWUVsXdVYi1Bkttocs4aawant8bcMZGgwx24eQVN67+F61piBpRT\nRkAYuKSAn/Uvhyqaz3yqhQK9qChezJ8F7H5nHGhinoQtqnCocPePaHUMK3S3TJi9SxxJODeG6EQMuSTOihYURWPgkgJ+KlogU0Tv0JOCBp2oKOhsXlyA8teT\nTlChonfC8aBDX4eUXeBCGBlxiBdBqxU2TFbhcxUGKwKxAqTV5T9yrlYGWBF8qgAtgno6L3xuFeq/g1Mry51EP/zTJoEylOqoQYYKClgR2BTvXAYb9bFPp8/b\nS5cYvAFmmHnHgLe/DDPDM+NRoniU2FzhjEa0mzc5YifCu0Vv/kj3W4K46d6/7NSi136wTbNTNOyuPFczEFwRwM+yauDKNJLLmXYa9yAJgzHw5bikgAta3IoX\ntgpHHfyg25iL9695kZbpWFC3cL9ooGJeTf6DKYJMiWbdk169QXC1Ak4NxILvTynDwIw30WOUUEpaAVQU0Vdo1JoZtA7HHOlMJ99KspIFSJXyYw+uOSEB3BbE\nVe8+xjMDfHeYvsmScXGwhuSnpKkog49i2oGmBkWcMEwkimBvbQuKBC98Co1YOMBgHzsKQUpyIyv9TMS7RI6dX+7wPjFoF7zw2GL8/kqfmEKBvzIwDjQ+hQIX\nVThUuPsnxkmS8VhTegmEpDMerxtubGAFrQjz5/qYeCMJkpcYWckcHllBv9qYO5F3PadaERD9J1nQlt2swFOVG//BnARfA2wicG6CwjtY5C5QkEhSFI4EyhCB\nH81jR0e4CTZa25fmVxutxDRYFoRfrEp0AjeLGvxNw1PU4Ju5nOnFp2mSc2lV3iHiczg08oKEVhSaBE4SkyIWQasRBzsJvYZODZpk6Dc48UmTa3bftPtzN/4m\n3qbd7jb8/n4s0w7N6XNjl/xum37fdl9Zf752h0t2qr/q/9qu+XwYd4fmkTj3+/1n3wzXvvv49bPpDv8DO5Y1YXcvAAA=\n",
-  "descriptionMarkdown": "Part of a set of blueprint for a 4-lane railnetwork that includes solar power. Based closely on designs by Zisteau: https://www.youtube.com/playlist?list=PLVPJ1jbg0CaFzYF6jJyUIJYXYpCE4UIr3",
-  "image": {
-    "id": "Rio72tl",
-    "type": "image/png",
-    "width": 484,
-    "height": 435
-  },
-  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4-Lane-Left-Hand-Turn.png?alt=media&token=336a8894-ef77-48cd-b211-8b092e74c49b",
-  "lastUpdatedDate": 1499900226373,
-  "numberOfFavorites": 22,
-  "favorites": {
-    "d5E6YHHvycaJQKdJfXVjcs2OnlG2": true,
-    "IJeRHjOutkUArJr9FgbCnBuBNY42": true,
-    "5bXrHpG7GBTvxFV8pPNsFrrrVID3": true,
-    "nyFukAZ9gxUQW9OizEsResf43pI2": true,
-    "EKKP41L3kEd46Z9GrKmxR7vF5Y73": true,
-    "zxj5kFw2Eef5TyhXDfGNx4UWwa32": true,
-    "n0Nh3dOsWKZ6Jermv1Q6MhL68nH2": true,
-    "aei26q9PT9Sj1QMVapAv8dXvItw2": true,
-    "t5toFsRSAWUQITH0AiebQ2v6djY2": true,
-    "zQl7yHMmHJUywSAJ536mEKZn97n1": true,
-    "3kHQwHN3KCNQ0rQ82I1TMyMpAhk2": true,
-    "7GAGRXxT87Raiqtxn83AnoRm2GV2": true,
-    "H9Pn15jYm0VDB1a8FXBsjnaNnKO2": true,
-    "WNI2Ssm2q1cLuCYedr5qEiNwcLE2": true,
-    "znmR6aBoAffCUZRQhrybjThiBAE3": true,
-    "MoBTwA0D5LeTW0iAhipMIsHIQ6u1": true,
-    "g9lstdGYKUNp59262RucvvKw9gA2": true,
-    "UpRVn2QviNeJ38KzNFHXl3lRBog1": true,
-    "yKbkkhjhSeMtLXedtH1NKr4pkSC2": true,
-    "VOaztJBuhIbQ7IJrAPnfcmeiCAg2": true,
-    "bQuAegUl32VC7ekHPKgh1v7O6Fn2": true,
-    "AffPlmWJJNabbeMsT1mWoanZBj52": true
-  },
-  "author": {
-    "userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"
-  },
-  "authorId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2",
-  "createdDate": 1482074393511,
-  "tags": [
-    "/train/track/",
-    "/power/solar/",
-    "/mods/vanilla/",
-    "/version/0,14/"
-  ],
-  "title": "4-Lane-Left-Hand-Turn"
+	"blueprintString": "H4sIAAAAAAAA/51a0Y6jOBD8ldE8h5VtjANa5VtWXILmkBIyIuR0e1H+/QImG2Jju7pfZ6rt7nJ1027ncP44nvf18ePX7tZ0Qzu0zWV3u3X1qdl9Xs7Hus++\n6645fm6+z5fHf8/d7vbvLqt+FJvfu0yaH8X9vknCDQ2ek+CKhC5I6JKElnIVfqqPx+xYn74dtJ7RW2xxGoly/Yiuf12GesQ4lEttwS9ovd9fT9djPZx7F6tc\nbGhZgQJJ21usJri6wO6v/T/NIevr1tP0BM3vm0PbN/vpz+bl+PCw+Pp7WDN8+rMwVJChYhoKph13P26AhmlXMu0klxjJZUZyqZFcbiSXHBUlJ5JC1lNFSM0F\nNib/mXWx9GibLJvZnyqrlpVtXD+7tF9d7W+zwC+2kkBAhNj90IPft2cAEqvkJLQmobc0TwQNntPghgav1uARbZaz2nDNC1DH09GXARknDd8TIAfcI0TiBZIS\nsCAcbEk6VxBdraDDTtuqVuICKMEznYgzjDM1nhhypCTMWY71glm5gk6IAOJIw0iFIuEDgleEnYTjdpURBErpaijwlapIB2RVbEBpTt5qhjRLT9NItbFVykAf\ntlnFmqRiTVDxwo1wJ5+PyILcyCuPHrw7ppv5BQbvjelmUjDtmKRIJisrdZfQFtPtFJOXOWUVsXdVYi1Bkttocs4aawant8bcMZGgwx24eQVN67+F61piBpRT\nRkAYuKSAn/Uvhyqaz3yqhQK9qChezJ8F7H5nHGhinoQtqnCocPePaHUMK3S3TJi9SxxJODeG6EQMuSTOihYURWPgkgJ+KlogU0Tv0JOCBp2oKOhsXlyA8teT\nTlChonfC8aBDX4eUXeBCGBlxiBdBqxU2TFbhcxUGKwKxAqTV5T9yrlYGWBF8qgAtgno6L3xuFeq/g1Mry51EP/zTJoEylOqoQYYKClgR2BTvXAYb9bFPp8/b\nS5cYvAFmmHnHgLe/DDPDM+NRoniU2FzhjEa0mzc5YifCu0Vv/kj3W4K46d6/7NSi136wTbNTNOyuPFczEFwRwM+yauDKNJLLmXYa9yAJgzHw5bikgAta3IoX\ntgpHHfyg25iL9695kZbpWFC3cL9ooGJeTf6DKYJMiWbdk169QXC1Ak4NxILvTynDwIw30WOUUEpaAVQU0Vdo1JoZtA7HHOlMJ99KspIFSJXyYw+uOSEB3BbE\nVe8+xjMDfHeYvsmScXGwhuSnpKkog49i2oGmBkWcMEwkimBvbQuKBC98Co1YOMBgHzsKQUpyIyv9TMS7RI6dX+7wPjFoF7zw2GL8/kqfmEKBvzIwDjQ+hQIX\nVThUuPsnxkmS8VhTegmEpDMerxtubGAFrQjz5/qYeCMJkpcYWckcHllBv9qYO5F3PadaERD9J1nQlt2swFOVG//BnARfA2wicG6CwjtY5C5QkEhSFI4EyhCB\nH81jR0e4CTZa25fmVxutxDRYFoRfrEp0AjeLGvxNw1PU4Ju5nOnFp2mSc2lV3iHiczg08oKEVhSaBE4SkyIWQasRBzsJvYZODZpk6Dc48UmTa3bftPtzN/4m\n3qbd7jb8/n4s0w7N6XNjl/xum37fdl9Zf752h0t2qr/q/9qu+XwYd4fmkTj3+/1n3wzXvvv49bPpDv8DO5Y1YXcvAAA=\n",
+	"descriptionMarkdown": "Part of a set of blueprint for a 4-lane railnetwork that includes solar power. Based closely on designs by Zisteau: https://www.youtube.com/playlist?list=PLVPJ1jbg0CaFzYF6jJyUIJYXYpCE4UIr3",
+	"image": {
+		"id": "Rio72tl",
+		"type": "image/png",
+		"width": 484,
+		"height": 435
+	},
+	"imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/4-Lane-Left-Hand-Turn.png?alt=media&token=336a8894-ef77-48cd-b211-8b092e74c49b",
+	"lastUpdatedDate": 1499900226373,
+	"numberOfFavorites": 22,
+	"favorites": {
+		"d5E6YHHvycaJQKdJfXVjcs2OnlG2": true,
+		"IJeRHjOutkUArJr9FgbCnBuBNY42": true,
+		"5bXrHpG7GBTvxFV8pPNsFrrrVID3": true,
+		"nyFukAZ9gxUQW9OizEsResf43pI2": true,
+		"EKKP41L3kEd46Z9GrKmxR7vF5Y73": true,
+		"zxj5kFw2Eef5TyhXDfGNx4UWwa32": true,
+		"n0Nh3dOsWKZ6Jermv1Q6MhL68nH2": true,
+		"aei26q9PT9Sj1QMVapAv8dXvItw2": true,
+		"t5toFsRSAWUQITH0AiebQ2v6djY2": true,
+		"zQl7yHMmHJUywSAJ536mEKZn97n1": true,
+		"3kHQwHN3KCNQ0rQ82I1TMyMpAhk2": true,
+		"7GAGRXxT87Raiqtxn83AnoRm2GV2": true,
+		"H9Pn15jYm0VDB1a8FXBsjnaNnKO2": true,
+		"WNI2Ssm2q1cLuCYedr5qEiNwcLE2": true,
+		"znmR6aBoAffCUZRQhrybjThiBAE3": true,
+		"MoBTwA0D5LeTW0iAhipMIsHIQ6u1": true,
+		"g9lstdGYKUNp59262RucvvKw9gA2": true,
+		"UpRVn2QviNeJ38KzNFHXl3lRBog1": true,
+		"yKbkkhjhSeMtLXedtH1NKr4pkSC2": true,
+		"VOaztJBuhIbQ7IJrAPnfcmeiCAg2": true,
+		"bQuAegUl32VC7ekHPKgh1v7O6Fn2": true,
+		"AffPlmWJJNabbeMsT1mWoanZBj52": true
+	},
+	"author": {
+		"userId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2"
+	},
+	"authorId": "lP2DMMRDX3OYXzkzLM0zcpEOt2c2",
+	"createdDate": 1482074393511,
+	"tags": [
+		"/train/track/",
+		"/power/solar/",
+		"/mods/vanilla/",
+		"/version/0,14/"
+	],
+	"title": "4-Lane-Left-Hand-Turn"
 }

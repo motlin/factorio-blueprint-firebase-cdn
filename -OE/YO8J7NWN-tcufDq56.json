@@ -1,23 +1,23 @@
 {
-  "author": {
-    "displayName": "Martin Hitmar",
-    "userId": "aIPXOBaXPfeHTugnJbOHX3eiJLg2"
-  },
-  "authorId": "aIPXOBaXPfeHTugnJbOHX3eiJLg2",
-  "blueprintString": "0eNrlVkGOmzAUvUrkZWVGgUACLCr1BCNV7WoUIQOfiTVgM7aZNo04QA/Si/Uk/QZCMqlnmraLLrpJjP/z+/+/Z2wOJK87aBUXhqQHUoIuFG8Nl4Kk5F1nZMMMLxYKHjvQZlEp2Sykyrlh9aKtmamkam4IJbyQQpP07kA0vxestmSCNYAsShYPYDzNa0l6RIoSPpPU76kLO+YB5RU7/D/DB058Le+5xgI9JXN5Dl89h5t9a+FPXJkOZ+hx/YiwyYqHs9Vhv6UEhOGGw9jV8LDPRNfkoLB6euoul61UBjlbqfmo3IHYDpOYkj1JPT+KkHpqLat4jf1pC9JQWPyYYdZl29vaLxIG1CWnI+fyJjpmXd3YvGiMUbLOctixJy6VRSpgZcYNNDprZAmDujhZ8PYsQ8uGrsbp7BF1w4IwLNBy1NBR5Goukiludg1YZwrZ5Fwwg5lfkygYii25GjXBWOCu/USdYbjkk4IHUnGF8l7tObBiZy1HE5DGcmnD7FvgobmyBcWmt+ANLpWdabvfJu9dTobXORksw0sn/96g6C8M8v8Xg9YztoGSd40HNbasUKlW1uDSKJqdChNUycG5mTkrpo3HhQaFp4CLbPOc7CrJC66KjpsMBMtrKElqVAd0np5t+AMXmNibHRf3ZDxKJguW9qHBDThsm5S8RS3RhCdQipeQIap4wBxfYDroL+SI6UsHvkOQ9aUgrylgj7NMVtnZ/vAdQvw7pb5//TZo5bgOjGJ6lwlpsqMqc30zGu/fLO+qalhiY67dlly/25JXd5uD21+e+jYA9cu+xb98K/zTNaq7HAUb1v9MFSdHothJE1xFEyzXZzR4wX/CVu3dexdQn66pv6V3KxrQkAbDKMQ5O4owil37w3A1AfGXxtMowFEwjBDq0wiHmzm8mcM2RLHWaIu57eWL9Z4+viipWQ61/er6+OF2cTt9Y70fjccwvlt6aCZaB0mYJFHsr5JkGfb9D/w5SMQ=",
-  "createdDate": 1763677869455,
-  "descriptionMarkdown": "Automatic request(s) from orbital platform - doesn't insert full stacks !\n\nThe only disadvantage is that you need 2 rocket silos and personally, I think this is only for the early platform phase, because you can only use this combination of rocket launch pads just once. Otherwise, the requests will be duplicated.",
-  "image": {
-    "id": "WqpNNG0",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1763678688878,
-  "numberOfFavorites": 1,
-  "tags": [
-    "/version/2,0/"
-  ],
-  "title": "Automatic Orbital Request(s) – No Full Stacks",
-  "favorites": {
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
-  }
+	"author": {
+		"displayName": "Martin Hitmar",
+		"userId": "aIPXOBaXPfeHTugnJbOHX3eiJLg2"
+	},
+	"authorId": "aIPXOBaXPfeHTugnJbOHX3eiJLg2",
+	"blueprintString": "0eNrlVkGOmzAUvUrkZWVGgUACLCr1BCNV7WoUIQOfiTVgM7aZNo04QA/Si/Uk/QZCMqlnmraLLrpJjP/z+/+/Z2wOJK87aBUXhqQHUoIuFG8Nl4Kk5F1nZMMMLxYKHjvQZlEp2Sykyrlh9aKtmamkam4IJbyQQpP07kA0vxestmSCNYAsShYPYDzNa0l6RIoSPpPU76kLO+YB5RU7/D/DB058Le+5xgI9JXN5Dl89h5t9a+FPXJkOZ+hx/YiwyYqHs9Vhv6UEhOGGw9jV8LDPRNfkoLB6euoul61UBjlbqfmo3IHYDpOYkj1JPT+KkHpqLat4jf1pC9JQWPyYYdZl29vaLxIG1CWnI+fyJjpmXd3YvGiMUbLOctixJy6VRSpgZcYNNDprZAmDujhZ8PYsQ8uGrsbp7BF1w4IwLNBy1NBR5Goukiludg1YZwrZ5Fwwg5lfkygYii25GjXBWOCu/USdYbjkk4IHUnGF8l7tObBiZy1HE5DGcmnD7FvgobmyBcWmt+ANLpWdabvfJu9dTobXORksw0sn/96g6C8M8v8Xg9YztoGSd40HNbasUKlW1uDSKJqdChNUycG5mTkrpo3HhQaFp4CLbPOc7CrJC66KjpsMBMtrKElqVAd0np5t+AMXmNibHRf3ZDxKJguW9qHBDThsm5S8RS3RhCdQipeQIap4wBxfYDroL+SI6UsHvkOQ9aUgrylgj7NMVtnZ/vAdQvw7pb5//TZo5bgOjGJ6lwlpsqMqc30zGu/fLO+qalhiY67dlly/25JXd5uD21+e+jYA9cu+xb98K/zTNaq7HAUb1v9MFSdHothJE1xFEyzXZzR4wX/CVu3dexdQn66pv6V3KxrQkAbDKMQ5O4owil37w3A1AfGXxtMowFEwjBDq0wiHmzm8mcM2RLHWaIu57eWL9Z4+viipWQ61/er6+OF2cTt9Y70fjccwvlt6aCZaB0mYJFHsr5JkGfb9D/w5SMQ=",
+	"createdDate": 1763677869455,
+	"descriptionMarkdown": "Automatic request(s) from orbital platform - doesn't insert full stacks !\n\nThe only disadvantage is that you need 2 rocket silos and personally, I think this is only for the early platform phase, because you can only use this combination of rocket launch pads just once. Otherwise, the requests will be duplicated.",
+	"image": {
+		"id": "WqpNNG0",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1763678688878,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Automatic Orbital Request(s) – No Full Stacks",
+	"favorites": {
+		"aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true
+	}
 }

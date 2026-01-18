@@ -1,22 +1,22 @@
 {
-  "author": {
-    "userId": "pzwQSof9aFd0JgerLWKobgmGqXz2"
-  },
-  "authorId": "pzwQSof9aFd0JgerLWKobgmGqXz2",
-  "blueprintString": "0eNrtWD1v2zAQ/S+c6cD6siWj6dK9U7fAEGiJrolIlEpRSY1Ag7N16JalUwt0796/Uw/5Gz1StvwB2ZEUJHGLLMH5wnt39+7x6OQGTaKcpoJxiUY3iAUJz9Do4gZl7CMnkfLJeUrRCF0xIXPwYMRJrBzlid47VGDEeEg/o5FR4BaR77cizVaRH7YirVaRM0qE3Iq2izFGlEsmGS0b1x/mPs/jCRXQUoUwJZnsSUF4liZC9iY0kgCfJhnEJlzlBryhd+ZgNIeGXOfMgTwhEzQoD9iq0j14syW8ewQeI5ieFEnkT+iMXLFEqKiAiSBn0heUhP6M8NBXp6AMaFeKnOLqxNpfHo2TkKq51BRtdebE3i/arYG328G7/cOcGOazkeJ0JmUAVdcADirAkAYspKIXJPGEcSKhhxoWVmjDhrpYgaoGQw2UaWK2PsFlmDKRSX9zuzYFwQkgSqfopRHhHEouVKY4JUKXOEJ/vvxA6n4luUxzub9XGmClcygv59KfiiT2GQcUNJqSKKPFuKjjbLi57zGJol5E4vSoYgaarWMSoZxMIhrW6CKsMDvQBH6idm5/j7O3qLYxt2psHXpcDWbV4fBgh1mpkGzXhhmttzmGxiJJxb73we2M0Sf4BdQPTp6IWB/aafNcO3LFgAGzhGlCDxGZgyBDmgWCpWU36P7u+/3dz+Xi23Lxe7n4ury9XS5+oRqGvGajdxoQ85jRN3m5NtN39mh5Uz99o99uF9jPsQvadWr0D2+Ch5EOXHfD6LYj3dPakXgHw+dUXifiUucSG/l9FJTy9fpTZDwu8fmDaXWmKq8qosKg/mpm8HSi56jlSShown1jErqqO5jR4LLjc2eY3fTvnY7+z1/V/2Ir4N/Xv9XtXfRe8F2kJJg9pQSa031qSlgz06jzA4KwuwnCfRXEfyoIp5MgvP4pCuKRRGqKAOIaulIAFyY2sI2NMb6An3iorcGOBV+wS9NWpgmmq7x97fWU6WALTOXZsi1slLgqHsO3lJVtKtssbVud0bapbKu0LXXeLnG0ba1tS+EbY6ifSRpDb5t/XGJ0BX+k6jE5A9OzPc8ZerZleoOi+As9l0bD",
-  "createdDate": 1760106466707,
-  "descriptionMarkdown": "I have devised a mechanism within the Factorio game that allows you to step through the operation of a circuit network, which is useful for debugging. This blueprint shows an example usage of the stepwise execution of simple circuit network which flushes the lamp. See this page for more detail: https://wikiwiki.jp/factorio/Circuit%20Debugging",
-  "image": {
-    "id": "5ITw8DQ",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1760107382569,
-  "numberOfFavorites": 0,
-  "tags": [
-    "/version/2,0/"
-  ],
-  "title": "Stepwise execution of a circuit network",
-  "favorites": {
-    "eoI9vOUzouQaWFKtnTh924xv8zZ2": true
-  }
+	"author": {
+		"userId": "pzwQSof9aFd0JgerLWKobgmGqXz2"
+	},
+	"authorId": "pzwQSof9aFd0JgerLWKobgmGqXz2",
+	"blueprintString": "0eNrtWD1v2zAQ/S+c6cD6siWj6dK9U7fAEGiJrolIlEpRSY1Ag7N16JalUwt0796/Uw/5Gz1StvwB2ZEUJHGLLMH5wnt39+7x6OQGTaKcpoJxiUY3iAUJz9Do4gZl7CMnkfLJeUrRCF0xIXPwYMRJrBzlid47VGDEeEg/o5FR4BaR77cizVaRH7YirVaRM0qE3Iq2izFGlEsmGS0b1x/mPs/jCRXQUoUwJZnsSUF4liZC9iY0kgCfJhnEJlzlBryhd+ZgNIeGXOfMgTwhEzQoD9iq0j14syW8ewQeI5ieFEnkT+iMXLFEqKiAiSBn0heUhP6M8NBXp6AMaFeKnOLqxNpfHo2TkKq51BRtdebE3i/arYG328G7/cOcGOazkeJ0JmUAVdcADirAkAYspKIXJPGEcSKhhxoWVmjDhrpYgaoGQw2UaWK2PsFlmDKRSX9zuzYFwQkgSqfopRHhHEouVKY4JUKXOEJ/vvxA6n4luUxzub9XGmClcygv59KfiiT2GQcUNJqSKKPFuKjjbLi57zGJol5E4vSoYgaarWMSoZxMIhrW6CKsMDvQBH6idm5/j7O3qLYxt2psHXpcDWbV4fBgh1mpkGzXhhmttzmGxiJJxb73we2M0Sf4BdQPTp6IWB/aafNcO3LFgAGzhGlCDxGZgyBDmgWCpWU36P7u+/3dz+Xi23Lxe7n4ury9XS5+oRqGvGajdxoQ85jRN3m5NtN39mh5Uz99o99uF9jPsQvadWr0D2+Ch5EOXHfD6LYj3dPakXgHw+dUXifiUucSG/l9FJTy9fpTZDwu8fmDaXWmKq8qosKg/mpm8HSi56jlSShown1jErqqO5jR4LLjc2eY3fTvnY7+z1/V/2Ir4N/Xv9XtXfRe8F2kJJg9pQSa031qSlgz06jzA4KwuwnCfRXEfyoIp5MgvP4pCuKRRGqKAOIaulIAFyY2sI2NMb6An3iorcGOBV+wS9NWpgmmq7x97fWU6WALTOXZsi1slLgqHsO3lJVtKtssbVud0bapbKu0LXXeLnG0ba1tS+EbY6ifSRpDb5t/XGJ0BX+k6jE5A9OzPc8ZerZleoOi+As9l0bD",
+	"createdDate": 1760106466707,
+	"descriptionMarkdown": "I have devised a mechanism within the Factorio game that allows you to step through the operation of a circuit network, which is useful for debugging. This blueprint shows an example usage of the stepwise execution of simple circuit network which flushes the lamp. See this page for more detail: https://wikiwiki.jp/factorio/Circuit%20Debugging",
+	"image": {
+		"id": "5ITw8DQ",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1760107382569,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Stepwise execution of a circuit network",
+	"favorites": {
+		"eoI9vOUzouQaWFKtnTh924xv8zZ2": true
+	}
 }

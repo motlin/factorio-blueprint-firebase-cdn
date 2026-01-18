@@ -1,0 +1,23 @@
+{
+	"author": {
+		"displayName": "Tagnati",
+		"userId": "hOrAae4WNYesgNpgx0nWAsyYhIw1"
+	},
+	"blueprintString": "0eNrVWE1u4zYUvgrBzQAD2vF/bAPpoosBZtPFoO0mCQRaeraISKSGpJy4gQ/Qe/RkPUkfKdmWZSWOkjHaJkBCkY/v73t/0jNdJDlkWkhL5880AhNqkVmhJJ3TW2EhvbGxzo0FfU+urojM0wVoopZkt23uZEGX5WlWo3FbeN7vuW33QKzaX3QLla+y3BLNUSLyWQttc550jFhJntwU/zphosKHe3JDqnI+k4Jryp+IFeGDIUvlWALx5HfyCw+t0kKRSIGRnywxeZYpbclS4wkayJNSU0OMIl+RzlFpSMGrH6tHskDdvpKQp0DyjDwKGxd/bCy8vDRPuDMp5EmISwteAZ6qXFrvoyPFPlmdwydSWNV90dxEfM9F5O1tJgAexs4BJ/CQwbjX6zHyGIOG4oGgok625fKBGHQIXwFZqyRPoUsZFaGShs5vn2nB28WARHMRfK7R0hTQhE6o0oWQHG/TLd6RETzReX/LGm45cCpEg+09oyCtsAIKOf5hExSeRy5sd9NpglraqjRGM2VEEY3PFPl1RtNpd8zohs4ng3F3jJLwntUqCRYQ87XAS0hpwCNsjtcofac7o0uRuOCt7dpN5nRZJogA3au2c3FnmUOC298REzQCTyTGAHdbqHTGtVd6Tm/8Ru5Squ9QcJ7aOeSsDPUkIvEH6HZyPNjbe/xFl2QJ34AOjpP5C+qOsedC1u10yTdAuhDKiMb4MMXSGdmlTucaVoPWWF3XsIqELtCg89EPRq7mxpYoXR9DVA3mdjC8CsFvBorScXBbUT0wMVPEnBiwVsiV6e5q6iG5O+SX09JLjmtvlSbLM9ME4pC9nuBNME5agnjgHOBxJPaILoU2NnixaCDgSB7sogtx6TGqMvDtwTnwM6qncosto8KkzKeyVh4yqto96BZ/Tp0xah3Rg5cjuj+4TDEyGWZpB60ovLBXWfJ8LUy7+By+Gp+/1mKzrBZQtBATi8yQOF/USweeacBuqiT2PhkR117XrhmGMYQPC/WEDO7oN+ARSdUa4xtbsErvqCc+PrAKt61rX5gCd/J3jsOJIRUt5zhNYJxX+cjBYQPvyyE+Ipa+xesN4bYpDcZ7N0YQigjr7hngRy1zoGRbS4Dq0+1pPpwJ5VjlepVwYyrJ0jYParHx959/UXakRyDBPir94PXVENG5G1sYXWkANHfJEwNb19aLRKxPD21MCFW2CXxkBg7JQEhkuBPB3sfVhXcD3pN6UT9FuNcS4VDoMBc2AMkXycFPu+091E2F7xxWLnEKD+1KYa8G3E+00c7rAytIwE3AZ+ep0uzJG82u1uNCBmXlIsBhvISvnAArtbzXpO70A91o8qO70RlQ3NjdmHj10WP78aZVvAM4Tq1Ts6bg6Z0Sn/KS49DcHGfvwGb0L2Fz8NfJDFG8Ex0hcvUBRBpd5eaUdu1k0NJR/7l2cvD4ST9xDnpBlTOzzFHFG+5YQ1DexnnhPczXeRJymV+K/SqBBb8Q72WerPCd/ULcOUKYqAsxNyrhumM2WBLTDkQruJScmFusuhB1cCbFYvcmMe8dXyqN+ZXR5eUJ+2cwmMbm8J2KnbwQehEFhcT0X3lzybqYhPFtMdOwxvLjCfz3NeLKuxt+H2ORFF+gULZ1n6fc159yFFZ60/hS3++/fTKa/H8mIwT4EfV08N72WZ9ds/49ux2wAZuyQbka+tWQjdjYr0a4h5XcLcd4ZcyGfjXabU5wE93lGF3j5alfTfF85o9nB0r8NyxIUQ/3go5qHb6zMrrGlz1v/3gymI1ms/G0P5zNeqPt9h+FwnTz",
+	"createdDate": 1768127106642,
+	"descriptionMarkdown": "This blueprint contains tools to setup selfregulating fuel pumps for spaceships to optimize speed and efficiency. You will need to specify the amounts of thrusters and pumps your ship have, conect wires to the hub and fuel storage tanks and you are good to go. There are a lot of descriptions inside so feel free to customize the blueprint further.",
+	"image": {
+		"id": "rART4BE",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1768128271958,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,0/",
+		"/mods/vanilla/"
+	],
+	"title": "Thrusters power controller",
+	"favorites": {
+		"Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true
+	}
+}

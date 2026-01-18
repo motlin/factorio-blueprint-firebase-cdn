@@ -1,0 +1,23 @@
+{
+	"author": {
+		"displayName": "Christopher Schaaf",
+		"userId": "bfLysolClnRXWkcMMmq094Q0BJ12"
+	},
+	"blueprintString": "0eNrVVs1u2zAMfpVA18lFnNhtYqArul123G2HIjBkm2mE2pKrn3RB4QfYe2wvticZZTtO6jhNugEbdmlpUvxEfiTFPJMkt1AqLgyJnglPpdAkunsmmt8LljudYAWQiDCtoUhyLu69gqUrLsCbkooSLjL4SiK/WlACwnDDoUGoPzaxsEUCCg/QLVIGKc9AeaksEi6YkYpQUkqNrlK4GxFuNrkIKdmQyPOnV3gLxmWUzOMEVmzN0QOPtTgx2rLaVzvt/hdGseRKm/ggm5IpFAxGMXZJaHBue8fMpnTH1lwZi5ou9uaEd0vqmAoH4+KPyM9v34mjQFpTWtPn8ATcCpgyDWS5wXysMPFSySLmAsFItGS5hmpRVRU94HVCX63QIbPBHrMX4RFuU65Sy00MgiU5ZCQyygLt1B3J7myf4vOTFdow13jjHpnvm8ZKc5sBchCnii0N5tUyQYkClqHhXkHGkQ/dxFc5Q8rLfoG36vgR40Hu0CykKjC2AT6nXbwKHi1oB5Gu8P8Alf6OyqCmsnWJlzxHv7ofsbV23bgblqFSBt3Vic0fPC40KIR5fTqaizOumntqlL9cUaQnfThZ0aGMww5q63r2qxAe7d0d40fYp6SrzwvtyaGn5KCDenle1wrrKAjHWOXhmb18Q49N+6V+rbiFxIGRy1iWgBHVKP5Ajf/dWP/xjFydPSPTfq/szchsAHlGd8tBa74Gr1Ry3WyqI7UJ3lKbAfabd52ShLmHfCCm+dnZBi+zHcDyx2/bwOEe4v+xgX/8/gbee8JObGC84QkbyeHf+dSnIfUXFKUJndFJLU1Rdjr8Sy9baYKSswbONqYBiujoRGefNdrJAsE7XpoM2rh5tgv5y4qZUSZHG2lHTzhoo4JlcIN2PNRffO175b2Y7NOPWN0/7dVt/9CtEJFwvAvmk3waFTZd3dTccwOFa9buNyUlOUsAK0BurZGjj26Rg3pXf3y2ZvSBIe2UrDHdOrjwcjIP5vNw5k/n83FQVb8AI72dOw==",
+	"createdDate": 1768460515434,
+	"descriptionMarkdown": "Basically you tell it what you want to craft and how much of that item before it stops. Once it stops it stops requesting items and sends it back into the logistics network. I am using Bob's Adjustable Inserters, but it is using the vanilla movements so it should be fine.",
+	"image": {
+		"id": "jtujKLT",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1768460515434,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/production/logistic (bot) based/",
+		"/production/mall (make everything)/",
+		"/general/compact/",
+		"/mods/vanilla/"
+	],
+	"title": "Auto crafter Compact"
+}

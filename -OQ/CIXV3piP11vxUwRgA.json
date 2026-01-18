@@ -1,25 +1,25 @@
 {
-  "author": {
-    "userId": "JL8PZkCiVFQwhfR52fiGR7tacvr1"
-  },
-  "authorId": "JL8PZkCiVFQwhfR52fiGR7tacvr1",
-  "blueprintString": "0eNrNVctu2zAQ/JWCZyqwLSlIBDSf0JNvhkFQ0tomwhdIyqlg6N+7pGU7DzVO3UMLX1ZL7nB2OFwfSC07sE7oQKoDEY3RnlSrA/Fiq7mMOc0VkIq00IgWXNYYVQvNg3FkoEToFn6Saj6sKQEdRBBwrE8fPdOdqsHhBnrCUdCKTmUgoQlONJk1Eggl1ngsNjqeiIDZorgrKemxcp7flcNAP0Au6CfUJgDzV3CUtMIhgbReUIJtB2ckq2HH9wLrsWhEZbjWJiQfs6+/sM2NcD6wi1iht5HRXrjQYeZM8bgjW0bNkKblLtGsyHdySgAbi7luSez3PfYIxbtgFI8UMt8I0A1kljfPf4N8hXWzgwn8p1uglhMw0zTRUKYLtgvv/fh1srbHy+t0YBtnFBMawUi14dLDsB6mLJXfaKnFf2Wpp0/Eu+ah3whTnE+1zmwdV4rXEjJvgT/DpDTzN893Wo5GuKYT4SJHTN7uTe0Dj2NsNmHU81kxrSCAS9IfQdie4xBkwjMrQrMbPRKHmw+uU6gFE23C1SbAMUaVyFssK3lfo4hsb2QXKeLMO+eUaSPprTR1aoJLaV4Yzr7e7ozuT7aMC+A+sNzh3rRAKiSEzFLGaKa4PaXi6B5lSwzPdy15Tc7ACrzn25j+Yb458MAdNjx15eWNb6H492/hZISymM1uniPLoyp/evaVmYNsXlCayGU1p3Oa0/marhYYlWMUf0WKclqkXJ725WN03FemKF8jngigkMblf5ySPRonaV/eLx6Lx8cyf3iYze6LYfgFcYa48w==",
-  "createdDate": 1747201173927,
-  "descriptionMarkdown": "Warn if no research is happening due to lack of science packs.\nSo you can change to different research or act accordingly.\nconnect to the inserter of last lab. if there is no red science flowing than it will trigger alarm.(1.5min counter).",
-  "image": {
-    "id": "uBCefqp",
-    "type": "image/png"
-  },
-  "imageUrl": "https://imgur.com/8sf5Buh",
-  "lastUpdatedDate": 1747202489049,
-  "numberOfFavorites": 1,
-  "tags": [
-    "/production/research (labs)/",
-    "/production/science/"
-  ],
-  "title": "Lab warning system",
-  "favorites": {
-    "bF9qbyoXLeT2v5GSAFkRwGPGFop1": true,
-    "FZBtFEpS13N87hKr26AjNJlgda92": true
-  }
+	"author": {
+		"userId": "JL8PZkCiVFQwhfR52fiGR7tacvr1"
+	},
+	"authorId": "JL8PZkCiVFQwhfR52fiGR7tacvr1",
+	"blueprintString": "0eNrNVctu2zAQ/JWCZyqwLSlIBDSf0JNvhkFQ0tomwhdIyqlg6N+7pGU7DzVO3UMLX1ZL7nB2OFwfSC07sE7oQKoDEY3RnlSrA/Fiq7mMOc0VkIq00IgWXNYYVQvNg3FkoEToFn6Saj6sKQEdRBBwrE8fPdOdqsHhBnrCUdCKTmUgoQlONJk1Eggl1ngsNjqeiIDZorgrKemxcp7flcNAP0Au6CfUJgDzV3CUtMIhgbReUIJtB2ckq2HH9wLrsWhEZbjWJiQfs6+/sM2NcD6wi1iht5HRXrjQYeZM8bgjW0bNkKblLtGsyHdySgAbi7luSez3PfYIxbtgFI8UMt8I0A1kljfPf4N8hXWzgwn8p1uglhMw0zTRUKYLtgvv/fh1srbHy+t0YBtnFBMawUi14dLDsB6mLJXfaKnFf2Wpp0/Eu+ah3whTnE+1zmwdV4rXEjJvgT/DpDTzN893Wo5GuKYT4SJHTN7uTe0Dj2NsNmHU81kxrSCAS9IfQdie4xBkwjMrQrMbPRKHmw+uU6gFE23C1SbAMUaVyFssK3lfo4hsb2QXKeLMO+eUaSPprTR1aoJLaV4Yzr7e7ozuT7aMC+A+sNzh3rRAKiSEzFLGaKa4PaXi6B5lSwzPdy15Tc7ACrzn25j+Yb458MAdNjx15eWNb6H492/hZISymM1uniPLoyp/evaVmYNsXlCayGU1p3Oa0/marhYYlWMUf0WKclqkXJ725WN03FemKF8jngigkMblf5ySPRonaV/eLx6Lx8cyf3iYze6LYfgFcYa48w==",
+	"createdDate": 1747201173927,
+	"descriptionMarkdown": "Warn if no research is happening due to lack of science packs.\nSo you can change to different research or act accordingly.\nconnect to the inserter of last lab. if there is no red science flowing than it will trigger alarm.(1.5min counter).",
+	"image": {
+		"id": "uBCefqp",
+		"type": "image/png"
+	},
+	"imageUrl": "https://imgur.com/8sf5Buh",
+	"lastUpdatedDate": 1747202489049,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/production/research (labs)/",
+		"/production/science/"
+	],
+	"title": "Lab warning system",
+	"favorites": {
+		"bF9qbyoXLeT2v5GSAFkRwGPGFop1": true,
+		"FZBtFEpS13N87hKr26AjNJlgda92": true
+	}
 }

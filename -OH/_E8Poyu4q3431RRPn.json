@@ -1,24 +1,25 @@
 {
-  "author": {
-    "displayName": "eeee3514",
-    "userId": "jLPyF0tMisOcHZiQT8Z7po6IV283"
-  },
-  "blueprintString": "0eNqtVV9vmzAQ/yrRPU6mCgRQEm0v23Okaa9RhQxcEkvGUNtkjSK++84mgbahaSvtCXOcf3/uzuYMuWyx0UJZWJ9BFLUysN6ewYi94tLFFK8Q1sCNwSqXQu2DihcHoTCIoGMgVInPsA67RwaorLACewT/cspUW+WoKYHdRWLQ1IY218pxEmC0TB4SBidYp+FDQkQkzepaZjke+FHU2uVp5GVGQBpLQXxEbHWLlKyxEI0ja7gmVos6mMM1nD21XJI2+qxqXZHNjt3ojQa9O25sIJRBTTBTQuOr0IUXWgqi6ROWE8CLzwOnr4GnKlAIXbTCZqh4LrHsC8CGMG0pB8yd0MZmN519WaKexVju5iGZu7fKfbeODb5D1004isfWamEPhCWKgDbmQvmN93obvynYtMsRd3RkpizZk+/6UWhLPYZBWJ8RIM2b82jQwWSj1ZDk1A2SUS8DvtHWurVN+2XwyQolQ67GpxaNK3ZxoOfdcYo/7HpVl5jVu+yF9HCi+eN07Lg0/fnwMrKdkKTFl9L0PegP73iqp+yko3XqL9/j+2bSz5v5D3IZDBmvohOTzuDmFngz7T98oPXjQXWgStAV95dm1aFvQxaxmEWPbLugVepXMUUSWlHeQNVLuYyOKMep+dNfUcwF35EWvDq+H+v1vbpQXXrFros1JPORfMOf4W5ymIzJv1HPNkK1FsGVQFisKDr+OBhIniMdEfhZ29mGSzn7hdLpO5J/rz5Jo1W8WiXLcLFazeOu+wdPJzFH",
-  "createdDate": 1766930028439,
-  "descriptionMarkdown": "Stamp down the blueprint, choose a recipe, the limit, then the requested ingredients' multiplier.",
-  "image": {
-    "id": "uvNBElM",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1766930028439,
-  "numberOfFavorites": 1,
-  "tags": [
-    "/version/2,0/",
-    "/mods/vanilla/",
-    "/production/mall (make everything)/"
-  ],
-  "title": "Convenient Bot Mall Cell",
-  "favorites": {
-    "yt8t9iy3ZCc2INxZSibkTNMAbye2": true
-  }
+	"author": {
+		"displayName": "eeee3514",
+		"userId": "jLPyF0tMisOcHZiQT8Z7po6IV283"
+	},
+	"blueprintString": "0eNqtVV9vmzAQ/yrRPU6mCgRQEm0v23Okaa9RhQxcEkvGUNtkjSK++84mgbahaSvtCXOcf3/uzuYMuWyx0UJZWJ9BFLUysN6ewYi94tLFFK8Q1sCNwSqXQu2DihcHoTCIoGMgVInPsA67RwaorLACewT/cspUW+WoKYHdRWLQ1IY218pxEmC0TB4SBidYp+FDQkQkzepaZjke+FHU2uVp5GVGQBpLQXxEbHWLlKyxEI0ja7gmVos6mMM1nD21XJI2+qxqXZHNjt3ojQa9O25sIJRBTTBTQuOr0IUXWgqi6ROWE8CLzwOnr4GnKlAIXbTCZqh4LrHsC8CGMG0pB8yd0MZmN519WaKexVju5iGZu7fKfbeODb5D1004isfWamEPhCWKgDbmQvmN93obvynYtMsRd3RkpizZk+/6UWhLPYZBWJ8RIM2b82jQwWSj1ZDk1A2SUS8DvtHWurVN+2XwyQolQ67GpxaNK3ZxoOfdcYo/7HpVl5jVu+yF9HCi+eN07Lg0/fnwMrKdkKTFl9L0PegP73iqp+yko3XqL9/j+2bSz5v5D3IZDBmvohOTzuDmFngz7T98oPXjQXWgStAV95dm1aFvQxaxmEWPbLugVepXMUUSWlHeQNVLuYyOKMep+dNfUcwF35EWvDq+H+v1vbpQXXrFros1JPORfMOf4W5ymIzJv1HPNkK1FsGVQFisKDr+OBhIniMdEfhZ29mGSzn7hdLpO5J/rz5Jo1W8WiXLcLFazeOu+wdPJzFH",
+	"createdDate": 1766930028439,
+	"descriptionMarkdown": "Stamp down the blueprint, choose a recipe, the limit, then the requested ingredients' multiplier.",
+	"image": {
+		"id": "uvNBElM",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1766930028439,
+	"numberOfFavorites": 2,
+	"tags": [
+		"/version/2,0/",
+		"/mods/vanilla/",
+		"/production/mall (make everything)/"
+	],
+	"title": "Convenient Bot Mall Cell",
+	"favorites": {
+		"yt8t9iy3ZCc2INxZSibkTNMAbye2": true,
+		"mHwBXg2mMreXbKsmkZ7LcOlq0AQ2": true
+	}
 }

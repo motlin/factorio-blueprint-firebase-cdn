@@ -1,27 +1,27 @@
 {
-  "author": {
-    "displayName": "Falsesummer",
-    "userId": "lKvwoyuRG9Q2h8kRWLQ3gAVJeJw2"
-  },
-  "authorId": "lKvwoyuRG9Q2h8kRWLQ3gAVJeJw2",
-  "blueprintString": "0eNrtmFuP4jYUgP+K5adWSijXnQF1VmrVh1bqQzXd9mUGRSYxYI1jp7aBRSP+e8+xQwJMCHPZ3W6rDhJDfDk+l+8cO36kM7nihRHKJTOtH+jksW6xdHJ38Ih9GbepEYUTWtEJ/VWzTKgFsY5hC9kItySMpDqfCcWcNsQtmSNMSr2x9+puLYxbMRlbsVBM3oR/sTPMLmOYMSVMZeTMKMPTbSr5lIRnS5wmM04sd/fqw5JbXnWkWjmjJSm4yYVzPCNGrxy3ZG50TmA1oSzJeMGMQ+XdUti9BR0aUQHzg+VBIJqtWM7BXj83tk4XdAcDVcY/0klvFzUMRSGOKRfXzjiY099NI8qVE07wsJZ/2CZqlc+4AaFRm6CIFtqKEIRHCvJG484ools6iXu9q84IFsoEOCyMGEa0dEky40u2FiABptnQb49/gyp7uyI6F9Jxc9rqtgUqVoaJVpoeBwra/4JuMAq6lDa5HwpGgN+9ERN64xtWSFYXnbh3zsUlKmJeusgUPuCcQrItN8kxzD94Svd8AF2eGv8jWPTdWotsT4olYg7ocFIYvRYZQLbHjxlPJU5kZM0ge8h70r1XP24BujlbSRf5iSge+QP6MmHZTPKsQ9ENJyj0owb8nhDwrlfF/1nR97ISlFXwLKnxveD5DxT9V/oAmu+E4/lNysxCxxu20JDDWBS8z2VYCb66nfFwjH/X192rcfeq1x0Ox/3e9RVAu4DuiM78N8NswtTYgP6I3V0v6uNnCm24EqxYl6OISjbjoDX9/bD+BE3JUbqsgWKv8OhdH1UZXfcG43F3WGekB7Cl1P0WwmwJ/8jyQsIPPa9CCKEGdmKYqg2ErmbkmzPFDG2JkdGcQ4JNbwNgbeXvZMafgOK3ZC0YAW25MavC2X0dLKsdcqiV3B7UwRLZuvbtC/eSWd+TagOOL7QKZT14EuidXKzKUOsvlnevILmvwgXkK+3IfCXlPcWynXmiIaX4GpIAfZ1ya8UaJ6VM+cEQL1Iwt4QZTHIDo+awdi5g3IFBiLG9UM2lBka0A/FfsJrXmfI0hwfvOqPx4Kqq5OMdisXKkEi9ENaJ1CabpYDnHGhUkDpzqDg8ooAdLFkmZbfTH6Fu6ENtQJQCB7cWllathoMvqtUgaojP0w2v+wmVelOpsumSZytZBr7WGZ8HB/1ePocEy0ocn1FDN0y4pMqLMK8s0Jg01VbHk7IVCojfQspHIBV2gTVuj0+G+roIbnoAsb2+3xrBQqgdRbNKP8POhRnma6wvKdZ6pTCo+xLkNSzDd8vnKx50bDKA50WTWicWoIgElUn8Hp4wdWbOwTLo6bkw1iUNeQyPu6jKZwTp5LzwPe5wn2t9q6XIYu+Xf1ALo9MH7hrU6DepAVg4AIG7U26rALdiCpp/UlYH3ZJVOKXBhpxU8JUZjiJLOxso/okX2r2RSTgFONwDYLY3LdEmUTrBTeniXNjCEgYhKZ14JoittSGYcD4srVNe5TRM/bM+q7F8FZIXzpvHx55jWk9hfd8G6/OOVeQPJS+W3jZKXk/mbfXa9G/wc010Kky6Ep9Fqf2b5Au0sQVPxVykyWGSYtKdr0HRyynZx+rNuNVBb+Ht64n8DWbYqwnHd5b/8W66xfjqAPehejPdZcD/G2hPw2nfwdkJjVGHN2a+NdyYGe0PUv4tMrT2q1Z4tZkxP/Cgu2r0b5Etlxy35WXDL9VpO9xVPet6o9ckPPY3vgcrAFJGpI5ncbj7WnDFoaFax5/Q0DfhyqRl4d3fBofOyw==",
-  "createdDate": 1763740025411,
-  "descriptionMarkdown": "A generic train that can haul any solid cargo, with interrupts to provide a tiered destination system - Unload / Recycle / Void.\nTrains are only allowed to ship to a Recycle or Void station if their loading station provides a specific signal.\n\nBy default, there are no restrictions on trains pathing to an Unload station. You only need to supply signals if you want to enable pathing to the lower-priority destinations.\n\nThis blueprint does not come with any station designs; loading, unloading and train limit control are up to the user.",
-  "image": {
-    "id": "fpnIIdd",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1763740025411,
-  "numberOfFavorites": 4,
-  "tags": [
-    "/version/2,0/",
-    "/train/loading station/"
-  ],
-  "title": "Generic train with controlled routing",
-  "favorites": {
-    "rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
-    "q2nT2i6whtPNOdaNRNkm1OQ38l22": true,
-    "aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
-    "7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
-  }
+	"author": {
+		"displayName": "Falsesummer",
+		"userId": "lKvwoyuRG9Q2h8kRWLQ3gAVJeJw2"
+	},
+	"authorId": "lKvwoyuRG9Q2h8kRWLQ3gAVJeJw2",
+	"blueprintString": "0eNrtmFuP4jYUgP+K5adWSijXnQF1VmrVh1bqQzXd9mUGRSYxYI1jp7aBRSP+e8+xQwJMCHPZ3W6rDhJDfDk+l+8cO36kM7nihRHKJTOtH+jksW6xdHJ38Ih9GbepEYUTWtEJ/VWzTKgFsY5hC9kItySMpDqfCcWcNsQtmSNMSr2x9+puLYxbMRlbsVBM3oR/sTPMLmOYMSVMZeTMKMPTbSr5lIRnS5wmM04sd/fqw5JbXnWkWjmjJSm4yYVzPCNGrxy3ZG50TmA1oSzJeMGMQ+XdUti9BR0aUQHzg+VBIJqtWM7BXj83tk4XdAcDVcY/0klvFzUMRSGOKRfXzjiY099NI8qVE07wsJZ/2CZqlc+4AaFRm6CIFtqKEIRHCvJG484ools6iXu9q84IFsoEOCyMGEa0dEky40u2FiABptnQb49/gyp7uyI6F9Jxc9rqtgUqVoaJVpoeBwra/4JuMAq6lDa5HwpGgN+9ERN64xtWSFYXnbh3zsUlKmJeusgUPuCcQrItN8kxzD94Svd8AF2eGv8jWPTdWotsT4olYg7ocFIYvRYZQLbHjxlPJU5kZM0ge8h70r1XP24BujlbSRf5iSge+QP6MmHZTPKsQ9ENJyj0owb8nhDwrlfF/1nR97ISlFXwLKnxveD5DxT9V/oAmu+E4/lNysxCxxu20JDDWBS8z2VYCb66nfFwjH/X192rcfeq1x0Ox/3e9RVAu4DuiM78N8NswtTYgP6I3V0v6uNnCm24EqxYl6OISjbjoDX9/bD+BE3JUbqsgWKv8OhdH1UZXfcG43F3WGekB7Cl1P0WwmwJ/8jyQsIPPa9CCKEGdmKYqg2ErmbkmzPFDG2JkdGcQ4JNbwNgbeXvZMafgOK3ZC0YAW25MavC2X0dLKsdcqiV3B7UwRLZuvbtC/eSWd+TagOOL7QKZT14EuidXKzKUOsvlnevILmvwgXkK+3IfCXlPcWynXmiIaX4GpIAfZ1ya8UaJ6VM+cEQL1Iwt4QZTHIDo+awdi5g3IFBiLG9UM2lBka0A/FfsJrXmfI0hwfvOqPx4Kqq5OMdisXKkEi9ENaJ1CabpYDnHGhUkDpzqDg8ooAdLFkmZbfTH6Fu6ENtQJQCB7cWllathoMvqtUgaojP0w2v+wmVelOpsumSZytZBr7WGZ8HB/1ePocEy0ocn1FDN0y4pMqLMK8s0Jg01VbHk7IVCojfQspHIBV2gTVuj0+G+roIbnoAsb2+3xrBQqgdRbNKP8POhRnma6wvKdZ6pTCo+xLkNSzDd8vnKx50bDKA50WTWicWoIgElUn8Hp4wdWbOwTLo6bkw1iUNeQyPu6jKZwTp5LzwPe5wn2t9q6XIYu+Xf1ALo9MH7hrU6DepAVg4AIG7U26rALdiCpp/UlYH3ZJVOKXBhpxU8JUZjiJLOxso/okX2r2RSTgFONwDYLY3LdEmUTrBTeniXNjCEgYhKZ14JoittSGYcD4srVNe5TRM/bM+q7F8FZIXzpvHx55jWk9hfd8G6/OOVeQPJS+W3jZKXk/mbfXa9G/wc010Kky6Ep9Fqf2b5Au0sQVPxVykyWGSYtKdr0HRyynZx+rNuNVBb+Ht64n8DWbYqwnHd5b/8W66xfjqAPehejPdZcD/G2hPw2nfwdkJjVGHN2a+NdyYGe0PUv4tMrT2q1Z4tZkxP/Cgu2r0b5Etlxy35WXDL9VpO9xVPet6o9ckPPY3vgcrAFJGpI5ncbj7WnDFoaFax5/Q0DfhyqRl4d3fBofOyw==",
+	"createdDate": 1763740025411,
+	"descriptionMarkdown": "A generic train that can haul any solid cargo, with interrupts to provide a tiered destination system - Unload / Recycle / Void.\nTrains are only allowed to ship to a Recycle or Void station if their loading station provides a specific signal.\n\nBy default, there are no restrictions on trains pathing to an Unload station. You only need to supply signals if you want to enable pathing to the lower-priority destinations.\n\nThis blueprint does not come with any station designs; loading, unloading and train limit control are up to the user.",
+	"image": {
+		"id": "fpnIIdd",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1763740025411,
+	"numberOfFavorites": 4,
+	"tags": [
+		"/version/2,0/",
+		"/train/loading station/"
+	],
+	"title": "Generic train with controlled routing",
+	"favorites": {
+		"rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
+		"q2nT2i6whtPNOdaNRNkm1OQ38l22": true,
+		"aVoEGAAYEQQQMSwNhx0OPEnoXJx1": true,
+		"7ARTnerT29Z6Gttdt7wxIPBiEPd2": true
+	}
 }

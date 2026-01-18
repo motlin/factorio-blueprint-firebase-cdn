@@ -1,23 +1,23 @@
 {
-  "author": {
-    "displayName": "Drac00n",
-    "userId": "o14g7QVUXXaZRef2uC0k5bo4Yw53"
-  },
-  "blueprintString": "0eNqlVMtu2zAQ/BWCl1yoIJKtJBZ6KXrsoYf2lgQGJa5tohRJkEs7qqF/6jf0y7qSH3UdG2jQk6DVcGZ2NNKW1yaBD9oir7ZcQWyC9qid5RX/Yk3HFgAqskUCwzYrsKwG4zbsobz79fMTe7YfEWWzYhIZrCF0LIBs0AWmLcMVsMakiBBun+1nAM8WAeJqR9aAMZG5A8xFGKiRRa2ACx6t9Bm6bBm0Gpy98upB8I5XZS+4bpyNvHra8qiXVpoBYGUL5NmmxoAM2d4HH9BWAR3Pe3GKx84P+LUOmGgiDgQ7RFZLJN9d1mqVGVrNnDAV/YvgYFGjhp2N8aab29TWEEhKXLMjuHdR7/Idlypuy3EtupIA7YXBmXkNK7nWhCcQHVVzhNZDkJgCsWJIIPjJaP7Pa33jfT/kcGa4OOIWMmKmbYRA67+1W/5lV+kAze5pXlygnbyXNj+nnV7OpNGhSRrnYGVtQB0iOYzpiDrSL3SI+K6ERs2IcvgmqOjDbeslRT2I8w8UoeCO2k7VpOip/9+J/gfsK3aWwfQoAK+e6h+zRC0Ky+Domg2VfxvH/bWUH8XBvrY+Ib+gV/6HXn5dzyUcBan5G3o+1P4pF4WYiOKFZpraSKg/PxPBjSQxmt181a03cMOkVSy2MuDxJ7F/tQSmNOOoWN4Xs+lsVj7mk9nsbtr3vwH2ppQu",
-  "createdDate": 1765568607148,
-  "descriptionMarkdown": "Only feeds fuel when below 750°C \n\nAttach at every reactor in the cluster.\n\nKeep fresh fuel cells on the close belt side",
-  "image": {
-    "id": "tUmgifc",
-    "type": "image/png"
-  },
-  "lastUpdatedDate": 1765568649347,
-  "numberOfFavorites": 1,
-  "tags": [
-    "/version/2,0/",
-    "/power/nuclear/"
-  ],
-  "title": "'Simple' and smart reactor control",
-  "favorites": {
-    "xuiWbcAUWybPltiQlSb9QEpAGk53": true
-  }
+	"author": {
+		"displayName": "Drac00n",
+		"userId": "o14g7QVUXXaZRef2uC0k5bo4Yw53"
+	},
+	"blueprintString": "0eNqlVMtu2zAQ/BWCl1yoIJKtJBZ6KXrsoYf2lgQGJa5tohRJkEs7qqF/6jf0y7qSH3UdG2jQk6DVcGZ2NNKW1yaBD9oir7ZcQWyC9qid5RX/Yk3HFgAqskUCwzYrsKwG4zbsobz79fMTe7YfEWWzYhIZrCF0LIBs0AWmLcMVsMakiBBun+1nAM8WAeJqR9aAMZG5A8xFGKiRRa2ACx6t9Bm6bBm0Gpy98upB8I5XZS+4bpyNvHra8qiXVpoBYGUL5NmmxoAM2d4HH9BWAR3Pe3GKx84P+LUOmGgiDgQ7RFZLJN9d1mqVGVrNnDAV/YvgYFGjhp2N8aab29TWEEhKXLMjuHdR7/Idlypuy3EtupIA7YXBmXkNK7nWhCcQHVVzhNZDkJgCsWJIIPjJaP7Pa33jfT/kcGa4OOIWMmKmbYRA67+1W/5lV+kAze5pXlygnbyXNj+nnV7OpNGhSRrnYGVtQB0iOYzpiDrSL3SI+K6ERs2IcvgmqOjDbeslRT2I8w8UoeCO2k7VpOip/9+J/gfsK3aWwfQoAK+e6h+zRC0Ky+Domg2VfxvH/bWUH8XBvrY+Ib+gV/6HXn5dzyUcBan5G3o+1P4pF4WYiOKFZpraSKg/PxPBjSQxmt181a03cMOkVSy2MuDxJ7F/tQSmNOOoWN4Xs+lsVj7mk9nsbtr3vwH2ppQu",
+	"createdDate": 1765568607148,
+	"descriptionMarkdown": "Only feeds fuel when below 750°C \n\nAttach at every reactor in the cluster.\n\nKeep fresh fuel cells on the close belt side",
+	"image": {
+		"id": "tUmgifc",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1765568649347,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,0/",
+		"/power/nuclear/"
+	],
+	"title": "'Simple' and smart reactor control",
+	"favorites": {
+		"xuiWbcAUWybPltiQlSb9QEpAGk53": true
+	}
 }
