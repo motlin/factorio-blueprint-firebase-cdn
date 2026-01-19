@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "WIP BY ME WIP BY ME WIP BY ME WIP BY ME WIP BY ME \n\nBasic space age Nauvis pre-megabase base / beat-the-game-base. \n\nRequires merging chests, Cybersyn, and Cybersyn combinator mods.\nIf you do not have merging chests, you will have to fix all buffer chests at all train dropoff stations, chests in the uranium processing block, and science pack buffer chests. \nIf you do not have Cybersyn you will have to fix the train stations and routes to run off of train interrupts instead of the mod.\n\n300-ish SPM of: red, green, blue, military.\n180 SPM of purple/yellow.  \nLarge bot mall. Add more machines if something is not already there.\nEntirely nuclear powered.\n4 Rocket Silos with bot feeding for building of ships and other planets.\n\nRequires:\nWater and oil inputs, train pickup stations for the following: iron ore, copper ore, uranium ore, coal, and stone.\n1k-ish logistics robots minimum to be safe. \n\nContains no defenses or defensive processing aside from military science packs. \n\nContains no beacons, modules, blue belts, or anything from other planets. Rail segments were made by Nilaus.\nRatios are close, but not 100% perfect.",
 	"favorites": {
 		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
-		"moqBT7rwrUXizw082tPq2g0xu6z1": true
+		"moqBT7rwrUXizw082tPq2g0xu6z1": true,
+		"Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true
 	},
 	"image": {
 		"id": "j2N4FbT",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1768587588082,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/"
 	],
