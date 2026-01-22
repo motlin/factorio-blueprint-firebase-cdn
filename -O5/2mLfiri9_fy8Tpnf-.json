@@ -7,11 +7,11 @@
 	"createdDate": 1724492901338,
 	"descriptionMarkdown": "This is an early game repair train, initially inspired by the \"Maintenance/Repair - Train, (Main)Station, (Outpost)Station\" by E.L.S.N\n\nThis book contains 3 blueprints for a double-headed train, loading station and unloading station. By default it is setup to transport just 4 main items which are:\n- repair packs\n- construction robots\n- walls\n- oil barrels (used for flamethrower turrets)\n\nTo use, just copy the unloading station without renaming the station. The circuit at the unloading station will enable the station when minimum resource conditions are not met, making the train drive to any station that has no repair/wall/robots/oil-barrels.\n\nLoading Station by default has a steel chest that i manually load with the resources described above (except the oil barrels). Can be easily changed to a request chest ones science is unlocked.\n\nFunctionality of the blueprint can be extended by adding more items to the train wagons filter, and unloading station.\n",
 	"image": {
-		"id": "WbGbP5v",
+		"id": "jyPHCI3",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/WbGbP5v",
-	"lastUpdatedDate": 1724492901338,
+	"lastUpdatedDate": 1768900616205,
 	"numberOfFavorites": 4,
 	"tags": [
 		"/combat/defense/",
