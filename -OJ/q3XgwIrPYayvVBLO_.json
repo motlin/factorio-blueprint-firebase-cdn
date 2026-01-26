@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "David Felts",
+		"userId": "LMGwdF7QEDVZnXh4MMhfkmqv5nS2"
+	},
+	"blueprintString": "0eNrtWt1uozgUfpWVb1baNVUwEJJIM1f7BHs7ihAhJrEKNmNMZqKKd99jIEASmoA70rTZ9qYn/vns850fHzt5QZukoJlkXKHVC2KR4DlafXtBOdvxMNFtPEwpWiFJo2OUUIlKjBjf0p9oZZd4aKDYiExI1RtIyjVGlCumGK3hqw/HgBfpBiBXNj7N3tKIbam0IpFuGA+VkAijTOQwVXC9CsBZvuNidATBXT55sMyWwe7qAdABOigpkmBD9+GBAQDMamAD6NtWULlu7X+CTcVM5iroFFLHTG/pwKQqoKXdYz3ComG010pqzlSoCbRn8Kcb0iyU1d5X6CvSyotCZYW6pHb0AtkRdl5wFcRSpAHjgIVWcZjktL+8V67LUtvkgl3SAp/G3qPXe/Iagv1Lgm0yzHBeD8jPZVD35CwY+E0UlZetzdb2IklZkVpCUtjSd+ADVIB2LmRacXPG6peqoahI1xqfHO0KLktC9QZApwXMpNgWoNYBUKwU5IRajjmw2wLTBNgCs4Y7ThWLrDxilEfUysLo2Rzfw108Rs9UWXFBE3O4eeebGaXbX0CA3yImYsdyrbnOHMoccdG5ecLi2KI/swQ8+wApxxhz2WLG0LkNqxgwRrNnHY2RDLMzpITuKKwgj2PB7BHOXnCASqs9j8IcE0AyrEJ0FJ4zAo9mLBqL547Am0ykd8Mq0+zbhQmNY1YF8q9IFrZ/nsFlUeXXtwaMvbih+FTPWd7AmuAx5FaITPAU0kVHSlWYJIXcvTG5wjG+k6LIoP0fwf9Uf/xbl0TolWO38/1QMrVPq+w+sq7xR9Y1HfJFaWNYy8DJDTBBV1NYwKPIqKwz3wr9hU7FzHTw/p4COOx+CPlcbVbSLVqBV1PNMKW8qW3KQVpdA1rJ+6B18rzfxvzFlq/nNMVnM0kjDFvLM7DW7AGs9bextQZp7NVfxQZCs6lDXk8g3hCKj68uaUMYdouBwdjfCwoktrX7K9W9zoHXC3YHzKaIY32t2wPY4KLz9spBKrMPGTpiMiqYCuBEpYGIgx7hsOdTb+sDAeXhJmm99c3aLMdr411oM3bhO5ckg/rEmw3ej4wO/DMsx/zAP8NxzQ/8MxzvjbU1gK2H7d4r2+8a3n3/bty7ONxVx/n04wfyY9IzfPJsMZ5TCUa6k4/tp8HDpHe3u4/mnaHdDovW3eu65CoeTE72A5VHtWd8d/5gN7uicfD07V0776vq3iXOm4DmfGziurqlfT8edLZaR2d5Xu9B+cAUTZsksu09MjchMXy3rqKtbOfqyAoYP8DeBEROnZDaT2Ba0Alug6smCAd67Fd7yKs9jo7B9RAn/jhO3P8TJ12hGOo3VrigS3Govwi4X2PpXDXofUsDVOceau+F4qb9TjBu+YgW672v3GTBeWwWiMnB4NiXF9vFELbR+TqA/dEODeIalNvO7L2W28QzuDY26nyW2x+43CbzCQFMJiYH36SGfITksDC4vH5G0wNE04TXN/L+TwVnNvFFl/il/gbqB8Suxv9mYxt72FljkBw8xzZIBGtZSw78dyvJxQR6SSN5jeSApHthHrZnreicRIL9auRcrzHDHogLPbRG1zOwXSPoppNMtEzcnuzXstth6yYMxrTX67qq0wZtf4OEEaSHvNLfm5Olu1x6CzLzXNcuy/8A2kox0A==",
+	"createdDate": 1769359944555,
+	"descriptionMarkdown": "Use the constant combinator to set the blacklist (Items that won't ever be recycled).\n\nUse the Decider Combinator to set the number of items in storage before you start recyling. By default it will start recycling after there are 10k items in storage. \n\nAs you expand you will need to increase the decider combinator, as it will count the items in the buffer chests as in storage. Need to use buffer chests otherwise it will not count the items in the chest as in the network still, and it will over recycle items. ",
+	"image": {
+		"id": "vDmZHi8",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1769359944555,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Bot Based Scrap Recycling With Blacklist"
+}
