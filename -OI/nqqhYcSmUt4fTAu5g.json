@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1768854842399,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/mods/pyanodons/",
@@ -22,5 +22,9 @@
 		"/train/right-hand-drive/",
 		"/train/track/"
 	],
-	"title": "Py Train book"
+	"title": "Py Train book",
+	"favorites": {
+		"ieRuGdCwelTymC398lN7n3mhoOA2": true,
+		"UwRb9RolbBOEGmiNuRGieDImfAB3": true
+	}
 }

@@ -11,12 +11,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1766144565753,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/vulcanus/",
 		"/power/nuclear/",
 		"/mods/vanilla/"
 	],
-	"title": "Nomad's Book of Booms"
+	"title": "Nomad's Book of Booms",
+	"favorites": {
+		"2QpV8vxNl3h6ujc7i3RWosoHABu2": true
+	}
 }

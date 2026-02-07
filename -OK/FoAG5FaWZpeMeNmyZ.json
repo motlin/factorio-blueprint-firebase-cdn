@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "7o9",
+		"userId": "airC4WcFfOfx1127YomZPHrnRGv1"
+	},
+	"blueprintString": "0eNrtWd1umzAUfpXJ16bCBhKItN5M2lXfIKoQASe1AgYZky6qePcdkwTy4yyQdl2irjc5WOd89vn1Z/UNzdKKFZILhSZviMe5KNFk+oZKvhBRqtdElDE0QcXaUpFYWsSGP1RjxEXCfqEJqZ8xYkJxxdnGtPlYh6LKZkyCAt5BlFmUplYaZQXCqMhLMMmF3gJgXPvBw2iNJhYhrvvg1TU+QaLYfJhTsHELRU1ATgdUGQ/jd4dxxuBrwiWLNwo+RhAkJfM0nLGXaMVzqa1iLuOKq5CJaJayBE2UrBhul8EkaXeYc1mqsIuwWhf6LCsuVQUrXbwaDSt+YfFSR1wnB9yGTNn6IysiGSm9PXpEtclPt4VKWMwTJi2wmnHRWJ147dHW5xEk4MBrQs1ub3E7/8omGHtf07P+ztOKJ523glUALw4ddXWCd86ycGsZiQRpdwcG8mmDvRe378iMDSWdV6qo1HEz9E9VsYagVEKFc5lnIRcAhibzKC1Z/WxMlnehKPfSQ4/T4356UT5dVZCj4R3sGDt43D9Y9r0Gy+8bLO9CsIIrxwD1e4bub08BEuyPgS5q+CrUAwx8gBAKpl5zuWzOL7siWEjGxK59P2TyPH7w5Hm6cuoQe8BdSMf1Hd1+hAyre/vI0cuX/qfefhcKB7+vw/yvc9ES2ouRenS/HsyMlFxikp4/uKhus5eGUclRd4fcDJUkmwofPO6/SFP0p5/U6ZvSm6NUpDcBdVpORY2cinQMVPB8xqvMKjic+PT+JHsTwD4zRjqqt4rSFSutfMXkPM1fDXj0CO+QoJnQg+Gs2+w0tfsXiX23RULJcOJ9Jl70yqlJboZ522coyJ/HaDNp2jmqE1r/J+vvJ+vUMQ4dS+XWQgJSYphjXjcuyBkWQ90BLIbc1RuAesM60D5y9N+/AcjnvQHsr/MGoKPhM57AjIezvkJJ6JNOHUyxi91nPHUxwQF2ttIIE5A8kMaNNAK9ANOtBA9uLY5bk2BPcjA8WrWN1tKyRid6I7LZiegN6FankWljSvR2cD3rdf2zWwdVqmW9Jfx06/CDoTkafVfreIAP3nHFMghK918BjNJoxiAf6KeuoW8/8jzlYgHrQFHKJk7eiAZuEHg+tT3XJXX9G3/mI38=",
+	"createdDate": 1769808640214,
+	"descriptionMarkdown": "This is a proof of concept for temperature controls in factorio.  If you need to cool down a fluid, in this case, it's a very niche case in pyanodons, this is how I got it to work, you have to do some calculations in order to get it to work out correctly, temperatures add and average out, no need to understand thermodynamics.  This process attempts to do a two stage cooling process that ultimately increases the amount of cooling power of the lower temperature fluid by a significant amount than just mixing them straightforwardly, the middle temperature (between the cold and the hot) must be higher than the cold.  So, on the top is an input fluid at a high temperature, the bottom right in an input fluid that is used to cool it.  In the middle is a secondary stage that (in this case) cools the 4k K neutrons into 1k K neutrons, *using another pre-requisite hotter reservoir that must be made the inefficient way, called bootstrapping.  The bootstrapped 200 K neutrons are the desired product, on the bottom left.  So it overflows into another reservoir.  \n\nMechanistically, this works by using SR latches in tandem, with two stages each, top fluid in, then bottom fluid in, latch and output into another buffer.  There are two such buffers, one for 1k K neutrons and 200 K neutrons, hence two staged cooling process.  The latch currently must go to zero, which slows it, but I think you could fiddle around with some of the numbers and have it be slightly less efficient at cooling to make it go exponentially faster because pumps get slow near zero fluid.  The second stage cooling uses the variable input lower temperature neutrons (in py produced by nuclear reprocessing).  This should get around a 1:30 ratio for cooling boost from just straightforward mixing,  it is definittely worth it.",
+	"image": {
+		"id": "z2faUFY",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1769808640214,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/mods/pyanodons/"
+	],
+	"title": "Fluid Cooling"
+}
