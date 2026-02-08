@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Yurii Yablonskyi",
+		"userId": "WAhKzlp6JlhLKGRxxgtVLGHHnG62"
+	},
+	"blueprintString": "0eNq9Wk1v4zYQ/SsCTy0g7ZLilxhgTz311L0nxkJxmJSALKmS3K0R5L+XstexHZM2Z7LZk2WZfPNmyHkc0nwm983a9oNrJ3LzTB7suBxcP7muJTfka1MvJ7fM7ushe1w3TbaxTdN9z+5tM+WZrYdmkz3VK3vX3rV/tv16urlri0wwmv3R1U32OVu5Nrt1k119WfoXi/nXqqQ0+2qnoWvseuW7j/t2j83aPXzp9z8V/qfFjPzXetpDm7nvEaldz9/YMbHff1jsm3r07QrfbkFy4pZdO5Kb22cyuqe2bmZvW8/du3nUkrz4lu2D/Y/csJc80HYa6nbsu2EqZltHzcuXRU5sO7nJ2Z2d7ZfNt3a9ureDx8v3GGvfY3gaOv+5Q8lJ341uF/Rn4sEKruknmZONfywrKT5Jb2ja9HPvbhsOMrN7Y6HMIyyv4UuPH8DjIMbKnDF+cINd7hpVr/xdG6EvAPRPjMkzYwF0+YredLX35mpQeErIVQLqCVceC0vchsZPHHo8caKBr14NPLjRJ8Om6OvWNlfRWWCQ5zSLpVbAtMFPMRqfYvFYMpru64m1BF9niQs6yQ6p37veFlNX7BwNWhUXfQzBlwCfRKJPPyK51WRyoH8szmFfOXq2CpMmcwwrFKJKCqfEwpskeIWcDFv4EOBBH/zgu2mKadsrkEriWWHDoJPgYZmv1ZEBzOJSUsjieGwtaXUpT1M8CCrfuBCCKQGTQ4tLMWFlCJ9DoiAvRSGMD0nNE/6J+JDc1ByOryD4JRwfv5YLkbSWl5C01QzugUEWmYn4nGJl5wxfhOAZBL4Cw0PyV13UtCA8JH2VBrMHLawKDC+vaqRK0EiuYDWjeOfKwTUkKhIcFdA6K6ALEz/k67iqm6awjW8++JK894Xc1cWvDI+BoJB1SiYAAtdPHoE55N/yb7tyy7opfEHcXl8fynN1yon/4vq325j962//rGtfbvn+pO2G1Vz7BwhxcPhZQrQEVoRjgBILGBsIBfX7RMtjNDVgeE/072x4fQRXbhg6jzoNa/tTxrqCiH9KUoBz90QfIqiSwmQ4MsKS4Qt4ipBhWeLtMcxRgTykrmtHO8T2VfKSY8EaRwo4MktDPuTxo5/FxUV4BieusDJBI5NII/kmhqPC8mURviad74mg0ZRSQFEkOktCZ0mzTkkw7RJfkGGUQHG4I2kREnhHUBKjJKjq4VV4ViqFrMZ40omV0sii6hz+5xRVCpvW0QBiN7U8cianKbJQOQ/ZBxQqmoEqgFjUdHkdRiTAcGTZlDZ7tUCetybCy/fsr7iKxASd0TFADVMaHYGpsFKgPkYKtHnP/ioWrYpi9SAGyLCAkYGoyvfsr6I0OVa21C+QrUpghSLmrnzP/iqKqmDqGhthjd7vcMwxV1Xh7UlM8VMZ8C6Ip/3LYSgcOe102jDcfiWVOPYGB4+clRqO5JsYDuw5FI/cODEStwPiScfnRiHRkw5yjQZvSxJpV+htCUoJjIE7khQhRineE4m77gE7V+aRMzNGS2xBxpP+DaccW1jxjymsGBXYWoD/glqAUdifSfGBVdiiIjCwi5x899/n63+33OQyFzyXi3z37HcK8/P8Khfq8OxL2O2zmt8fPfsSb/s89612fWeIfXttDm3mj10bz2C+/Oi9OVzrzElT+xTz7+brk8eXMt9ckfzXDuPWE6lKI4yR2gheGvXy8j/54V9o",
+	"createdDate": 1770404671958,
+	"descriptionMarkdown": "Plactic bar full yellow belt, early game\n\nInput:\n- 410 Coal / min [item=coal]\n- 8200 Petroleum gas / min [fluid=petroleum-gas]\n\nOutput:\n- 900 Plactic bar / min (1 yellow belt) [item=plastic-bar]",
+	"image": {
+		"id": "YSTsMCK",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1770404671958,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "900 / min [item=plastic-bar]"
+}

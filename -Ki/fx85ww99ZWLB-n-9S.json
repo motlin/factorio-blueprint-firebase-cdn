@@ -6,7 +6,7 @@
 	"createdDate": 1493238583881,
 	"fileName": "zbTVvvP[1].png",
 	"imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/zbTVvvP%5B1%5D.png?alt=media&token=f0af430e-e9d1-439f-9079-a2277aabad92",
-	"numberOfFavorites": 338,
+	"numberOfFavorites": 339,
 	"title": "Nauvis science labs with beacons",
 	"authorId": "H3QlaVpvadfVuTpGGxs7016oR2K3",
 	"descriptionMarkdown": "Design by Maser-kun\n\nOriginal post [on reddit here](https://www.reddit.com/r/factorio/comments/67g5b1/optimized_015_science_setup_for_lategame/?st=J1YZF590&sh=b0e3b283).\n\n**Original description:**\n\nSo since /u/broink found that inserters can pull science packs from labs, I wanted to make an optimized lategame setup that utilizes that.\nWith the max inserter stack bonus, fast inserters move packs at approximately 6.66 items / second (a bit less from belts), so blue belts can supply 6 of these lines.\nProductivity modules should be used in all labs since they reduce resource cost greatly, and beacons in between every row save a lot of space. That row of beacons also give space for some more intricate inserter shenanigans at the top.\nThis setup has ½ of a blue belt for each of the 7 science pack types, with a fast inserter for each belt that carries 2 different packs. This is an improvement from previous designs (example) that is limited by either belt throughput (weaving red and blue belts) or inserters (long handed inserters for some belts with 2 items).\nI don't know yet how long each line of labs should be, but that can be tweaked easily.",
@@ -359,6 +359,7 @@
 		"9n34k0i4lPSz0PSnmVOOHXRXSQq2": true,
 		"HghmOhbtzIgCPndTu4o6PFQG7Jz2": true,
 		"ck0yRbsMBbgRXFkksrGK4ySdcDa2": true,
-		"2BIlDoZM3OPjDrByswnKfdcgZpL2": true
+		"2BIlDoZM3OPjDrByswnKfdcgZpL2": true,
+		"mXqgZLfyUmeXQWKCjd21s2QvJDx2": true
 	}
 }

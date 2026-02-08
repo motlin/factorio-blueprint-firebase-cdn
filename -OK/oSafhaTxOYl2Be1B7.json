@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "Yurii Yablonskyi",
+		"userId": "WAhKzlp6JlhLKGRxxgtVLGHHnG62"
+	},
+	"blueprintString": "0eNqdlV1r2zAUhv+K0FXL5BJ/JjbsYgw2etPCbpswFPskE8iS0cfSEPzfJyltkw1lqXuV43DOo/d9c2Id8JpbGBQTBjcH3IFuFRsMkwI3+Is1UsheWo1+0I4q9F2xbimW4kEa0M1SJOib5XyP6KnxZpA7UNCh9R5pyd3QQAVwjT4h2ra2t5waqfStH350B/XUA/RAWzezkQr19Jn1tket/A2KbgHtmPmFeiZ8K7KCGe1n7ztwj35gQ7VBVHRoUNAyDaiDgct9D8J4rfdisCZofZAC0I0GvkleRN76hkdrXju+SmGYsN6HCoZfRSwFJlgLOiRGJluXgg/rGTdZVhC8D58jwXTtHFsDie8cmNjixigLBLNWCo2bpwPWbCso99OC9uAyDhklISPsEEx04LjpSCK9QdNZVzauCHY2mWFwxIeH/U9h+zUohyGxYwgepGbH3zi4SGeLuzL4SGfzu3L0h/9Dyt5JSstrpJz8bSfCyN4YizijmOwrncVJ5YnkNzEBDq1RrHUbwiGmbXaNWE0l5teI88nZXyItpueWx0n1G+nsXx3TlL5wshglnb0Xk/8Xk05P6IKvNPv4QpQXkPnUrIoopvj4Yl1SVk6NP66smr5W1QVF86lZzaOYxVRjcUw9fa+CMfda3jEV3slPJSlJRcoVCZXbL19WvixC6b851m6KGejdaac7mWBO1+7MC5cxevITn8ObdHWsz5Su3Li7v3RQWlZZXdR1Oa+LPKurcfwDG+yb1Q==",
+	"createdDate": 1770406702323,
+	"descriptionMarkdown": "Autonomous Radar Grid\n\nNotes:\n- Fully autonomous (powered by solar panels + accumulators)\n- Optimally spaced for maximum coverage with minimal units\n- Ideal for fast and precise deployment\n\nInput:\n- None (self-powered)\n\nOutput:\n- Continuous radar coverage\n",
+	"image": {
+		"id": "IvdsXyN",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1770406792126,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/mods/vanilla/",
+		"/version/2,0/"
+	],
+	"title": "Autonomous Radar Grid [item=radar][item=solar-panel]"
+}
