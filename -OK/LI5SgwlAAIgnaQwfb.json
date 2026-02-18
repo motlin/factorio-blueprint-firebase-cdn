@@ -11,10 +11,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1769900632157,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/"
 	],
-	"title": "Harvestor's Base book"
+	"title": "Harvestor's Base book",
+	"favorites": {
+		"opA5gAiAobRcSJBNGgeLZUhlWw42": true
+	}
 }

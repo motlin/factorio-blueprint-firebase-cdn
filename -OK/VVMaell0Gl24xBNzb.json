@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1770071882295,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Legendary [item=foundry]"
+	"title": "Legendary [item=foundry]",
+	"favorites": {
+		"qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true
+	}
 }
