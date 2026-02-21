@@ -12,9 +12,12 @@
 	},
 	"imageUrl": "https://imgur.com/kRua41d",
 	"lastUpdatedDate": 1732740563609,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "City Block"
+	"title": "City Block",
+	"favorites": {
+		"gcG0qJUF01hARlScdBTkc9oOXbF3": true
+	}
 }

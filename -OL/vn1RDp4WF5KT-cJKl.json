@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Manuel Catena",
+		"userId": "gwKpxXjowpdHczfKy1Y3ifcp86m2"
+	},
+	"blueprintString": "{\n  \"blueprint\": {\n    \"item\": \"blueprint\",\n    \"label\": \"Express Belt Factory FULL - 2 Input\",\n    \"icons\": [\n      {\n        \"signal\": { \"type\": \"item\", \"name\": \"express-transport-belt\" },\n        \"index\": 1\n      }\n    ],\n    \"entities\": [\n\n      { \"entity_number\": 1, \"name\": \"transport-belt\", \"position\": { \"x\": -8.5, \"y\": -1.5 }, \"direction\": 2 },\n      { \"entity_number\": 2, \"name\": \"transport-belt\", \"position\": { \"x\": -8.5, \"y\": 1.5 }, \"direction\": 2 },\n\n      { \"entity_number\": 3, \"name\": \"assembling-machine-3\", \"position\": { \"x\": -4.5, \"y\": 0.5 }, \"recipe\": \"iron-gear-wheel\" },\n      { \"entity_number\": 4, \"name\": \"assembling-machine-3\", \"position\": { \"x\": -1.5, \"y\": 0.5 }, \"recipe\": \"iron-gear-wheel\" },\n\n      { \"entity_number\": 5, \"name\": \"fast-inserter\", \"position\": { \"x\": -6.5, \"y\": 0.5 }, \"direction\": 2 },\n      { \"entity_number\": 6, \"name\": \"fast-inserter\", \"position\": { \"x\": -3, \"y\": 0.5 }, \"direction\": 2 },\n\n      { \"entity_number\": 7, \"name\": \"assembling-machine-3\", \"position\": { \"x\": 2.5, \"y\": 0.5 }, \"recipe\": \"transport-belt\" },\n      { \"entity_number\": 8, \"name\": \"fast-inserter\", \"position\": { \"x\": 0.5, \"y\": 0.5 }, \"direction\": 2 },\n\n      { \"entity_number\": 9, \"name\": \"assembling-machine-3\", \"position\": { \"x\": 6.5, \"y\": 0.5 }, \"recipe\": \"fast-transport-belt\" },\n      { \"entity_number\": 10, \"name\": \"fast-inserter\", \"position\": { \"x\": 4.5, \"y\": 0.5 }, \"direction\": 2 },\n\n      { \"entity_number\": 11, \"name\": \"assembling-machine-3\", \"position\": { \"x\": 10.5, \"y\": 0.5 }, \"recipe\": \"express-transport-belt\" },\n      { \"entity_number\": 12, \"name\": \"fast-inserter\", \"position\": { \"x\": 8.5, \"y\": 0.5 }, \"direction\": 2 },\n\n      { \"entity_number\": 13, \"name\": \"pipe\", \"position\": { \"x\": 10.5, \"y\": -2.5 } },\n\n      { \"entity_number\": 14, \"name\": \"assembling-machine-3\", \"position\": { \"x\": 14.5, \"y\": -3.5 }, \"recipe\": \"express-underground-belt\" },\n      { \"entity_number\": 15, \"name\": \"assembling-machine-3\", \"position\": { \"x\": 14.5, \"y\": 4.5 }, \"recipe\": \"express-splitter\" },\n\n      { \"entity_number\": 16, \"name\": \"stack-inserter\", \"position\": { \"x\": 12.5, \"y\": 0.5 }, \"direction\": 2 },\n\n      { \"entity_number\": 17, \"name\": \"transport-belt\", \"position\": { \"x\": 16.5, \"y\": 0.5 }, \"direction\": 2 },\n      { \"entity_number\": 18, \"name\": \"transport-belt\", \"position\": { \"x\": 16.5, \"y\": -3.5 }, \"direction\": 2 },\n      { \"entity_number\": 19, \"name\": \"transport-belt\", \"position\": { \"x\": 16.5, \"y\": 4.5 }, \"direction\": 2 }\n\n    ],\n    \"version\": 281479275151360\n  }\n}",
+	"createdDate": 1771603503027,
+	"descriptionMarkdown": "Fabbrica per i nastri blu",
+	"image": {
+		"id": "oitLdpf",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1771604173094,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/belt/express transport belt (blue)/"
+	],
+	"title": "Fabrica nastri blu"
+}

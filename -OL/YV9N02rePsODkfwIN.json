@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1771197205004,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/planets/gleba/",
@@ -20,5 +20,9 @@
 		"/mods/space-age/",
 		"/general/tileable/"
 	],
-	"title": "Gleba Power (1.1 GW) - Tileable"
+	"title": "Gleba Power (1.1 GW) - Tileable",
+	"favorites": {
+		"M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
+		"wMOHZ7lMkRfvIuBDF1leBfC7PBe2": true
+	}
 }

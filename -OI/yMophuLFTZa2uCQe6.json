@@ -11,12 +11,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1768425475482,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
 		"/planets/fulgora/",
 		"/production/scrap processing/"
 	],
-	"title": "Fulgora Legendary Scrap Recycling"
+	"title": "Fulgora Legendary Scrap Recycling",
+	"favorites": {
+		"3nH3IavT18XfUtSJky8ZqAZcYZm2": true
+	}
 }
