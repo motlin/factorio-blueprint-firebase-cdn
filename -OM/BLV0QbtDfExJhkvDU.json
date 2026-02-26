@@ -11,11 +11,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1771881289799,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/power/nuclear/",
 		"/mods/space-age/"
 	],
-	"title": "40 MW Reactor"
+	"title": "40 MW Reactor",
+	"favorites": {
+		"ASp3yjDdeOdezgPcsyVIii0uvIk2": true,
+		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+	}
 }

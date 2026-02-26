@@ -10,10 +10,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1771401777939,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/"
 	],
-	"title": "Passenger train"
+	"title": "Passenger train",
+	"favorites": {
+		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+	}
 }

@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1770657453009,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
@@ -20,5 +20,8 @@
 		"/production/science/",
 		"/mods/vanilla/"
 	],
-	"title": "[item=space-science-pack] 150 SPM White Science Platform – Stable & Self-Sufficient – Space Age 2.0"
+	"title": "[item=space-science-pack] 150 SPM White Science Platform – Stable & Self-Sufficient – Space Age 2.0",
+	"favorites": {
+		"zIjeTkfyXHNWGitlNgQ57SepdPK2": true
+	}
 }

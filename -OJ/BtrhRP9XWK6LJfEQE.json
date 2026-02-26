@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "Hi Folks,\n\n i wanted to share my latest cargo ship blueprint i use currently.\nI had the intention to build a lategame cargo ship that is allmost symetrical, greetings ocd...\n\nSo, within this blueprint i realy tried to make that work, exept around the power plant / Hub i managed that quiet well i think.\nthere are around 5000 slots of storage on this ship while it can travel with allmost 500kms.\n\nThis ship will start up by just shipping the neccessary raw ressources and rockets to the ship. No extra steps ... just start the request FS MK8 RQ\nthe request is set to get all the stuff from nauvis so make sure everything is available. I rebuild my white science ship to supply most of the stuff.\n\nyou can remove the production plants next to the hub when the ship ist running but it is not neccessary, due to logic it will shut off after there is enough fuel in the tanks.\n\nI used a lot of legendary and epic items, tried to use the smallest amount of space to produce the neccessary stuff like rockets and fuel.\nIt realy eats the quality stuff so you should have a good production running.\nYou can try and change the quality stuff to a lower tier but i would not recommend it.\n\nI do have a lot of research done already, i was able to use only one crusher for each production string. \n\ni tried to make it unable to fail, used a bit of logic as i do for all my builds. This way i don´t have to throw away some of the raw materials.\n\nhope u like it\n",
 	"favorites": {
 		"r4dUgIe2P1aZ4jgbSwQSzymj4qH2": true,
-		"oCN86Ebth3Xjl5LMkBkbNYdXbxB3": true
+		"oCN86Ebth3Xjl5LMkBkbNYdXbxB3": true,
+		"QUM9TtUvsnWwqJOc58IiQKxCYER2": true
 	},
 	"image": {
 		"id": "98Xfauw",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1769982206328,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/mods/space-age/",
 		"/planets/space-platform/",
