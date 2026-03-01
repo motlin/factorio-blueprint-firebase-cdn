@@ -7,8 +7,7 @@
 	"createdDate": 1661481792000,
 	"descriptionMarkdown": "The idea here is to be a \"town\" that makes one science per second of each type from raw materials.\n\nTrains bring in iron ore, copper ore, coal, stone, crude oil, and water. That, plus an external power source and this self-contained \"town\" does the rest. It smelts what is needed where and when it is needed using an \"ore bus\" method as opposed to the more common supply bus method.\n\nRequires 50 barrels of heavy oil to be placed in the chest near the far-left refinery to get the coal liquefaction started for the rocket-producing section.\n\nYou should make sure there is always a train waiting to unload after the one that is being unloaded for each material type to keep things flowing properly.\n\nFirst rocket launches about 32 minutes after the belts are turned on. After that, a rocket launches every 16 and a half minutes.\n\nFun fact: this thing contains over 200 S/R latches. \n\n",
 	"favorites": {
-		"GF9TuIBPvjSERDMZqufGed2rmcv2": true,
-		"xsgANniFt0XomK4rBH91A4ce7cX2": true
+		"GF9TuIBPvjSERDMZqufGed2rmcv2": true
 	},
 	"fileName": "20220825222941_1.jpg",
 	"image": {
@@ -18,7 +17,7 @@
 		"width": 3440
 	},
 	"lastUpdatedDate": 1661481792000,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/production/rocket parts/",
 		"/production/science/",

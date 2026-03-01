@@ -7,7 +7,6 @@
 	"createdDate": 1733333379169,
 	"descriptionMarkdown": "https://www.reddit.com/r/factorio/comments/1h6efgq/perfect_ratio_maximum_speed_cargo_ship_all_planets/\n\nExpandable cargo space, highest top speed possible, perfect conversion of ressources, 0 overflow, 0 cooldown between trips\n\nREAD BEFORE USING! \n\nInsert fluoroketone barrel manually into the assembler. Add a few solar panels to initialize fusion power.\nAll quality components inside the blueprint must be of the same quality to ensure smooth operation. \n\nTested with asteroid productivity 12. If you don't have this, you have to offset this by having higher quality crushers and downgrade your quality thrusters",
 	"favorites": {
-		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
 		"2SKkUgIGqAMUnmM5chUzBhH8itO2": true,
 		"TxssEEX4FceznHOhiUxM5HORmEe2": true,
 		"gZZEIowIsaNS7q4xKKXu9KR4Zti2": true,
@@ -73,7 +72,7 @@
 	},
 	"imageUrl": "https://imgur.com/jySOrrY",
 	"lastUpdatedDate": 1733337683588,
-	"numberOfFavorites": 59,
+	"numberOfFavorites": 58,
 	"tags": [
 		"/planets/space-platform/"
 	],

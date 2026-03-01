@@ -8,7 +8,6 @@
 	"descriptionMarkdown": "The mall’s main benefit is central storage. Production has no set priorities or ratios.\nThe lamp at each items changes color from red to green depending on how much of the requested amount is already present.\n\nYou can replace the whole production part with your own quite easily. It is possible to expand the storage by copying a small unit, setting the constant combinator, and connecting it and the arithmetic combinator as in existing ones. \nIf you add a assembler for a new item, output the products onto a belt, that sends its contents into the circuit network, as seen in my case. \nThe green wire through the factory outputs a signal of an item if needed.  \nThe Signal N sets stack goals. \n\nThe Belts, inserters, and assemblers can all be upgraded without any problems. And the storage chests can also be replaced by passive provider chests.",
 	"favorites": {
 		"0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true,
-		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
 		"qIK0RchTGdcfQl0cY5i3YkK19Pk2": true,
 		"CQFYdfbcfraeuEcSvjt7ZLxmq2T2": true,
 		"7El66SoblkMPufIlrPMB1UYvNkp2": true,
@@ -24,7 +23,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1754945408918,
-	"numberOfFavorites": 11,
+	"numberOfFavorites": 10,
 	"tags": [
 		"/version/2,0/",
 		"/production/mall (make everything)/",
