@@ -1,0 +1,21 @@
+{
+	"author": {
+		"displayName": "happymoep",
+		"userId": "K60ijoEEvfMrzE0PpmPXEvb4TH92"
+	},
+	"blueprintString": "0eNrFV9tu4zYQ/RWCT20hBbYuuRibPnRfuii2BbqPjmHQ0tgmQpFakvLGCPzvHVKypNiyN06xGyBALHLmzJkryWe6EBWUmktLJ880B5NpXlquJJ3QP/Zb5Bu3a1IyzQqwoA2Zbri2FROh4SvJxH39L+QWirAVm5Gl0kRDxksIiLEqeySZqhCOyZxwudKQc8DPohKWl4KDfpAP8qMGZsGgEJk6wHtmDBQLgQphwbI1lxDGs5qSAQGZhbyx4oFL/K3kkq8qxCdCrbixPDPk0z9XD/IvgJJUJbGKmBJ1lhxlamqs8NzUkjiraH/DuGALAUi1YYKCmq0gzNZg7AzhPiJJA+hQz4fG668VykDfT0N+gatVCwUgGqC9tCG35LfhwLzQKgUGaPbrg/yTr9a49xUzwe2WZJotvcmavwbyCKV19BmydHmxQCq5QD9zFBvyiQaUY/QMnUyfaZ1VVxcSM4oFMZQJukMVxHuik/FuFlDkzS2HGsF/bOeyKhagUSA4ixTQUhleF98zRcAwvr2+SgO6pZMovrlK0VSdaERoyywc0f3yvIkEbkulC+SO3FwwPBme91xpJMNC5ZWAMPJu1KIoKedcbpC80ttatftKAmosyx7pZLQLTuyMT+5EJ3fi3WyHf8FR0KI2aEtmbMilAY1uD0brpo3WnY9WzjEwtcjtAHR8AfT1AfSSCzcKmvDU+Q/oQAIyVfjSU2iQ/k5djVQG5q2+1RUMcEsu4JYecMMKtlqJ+QLWbMOd4WeacZ1V3M5Bup7Oa7tBu4wqeYu65NrYeVf+dutLrhl6tGXWjD3YgN5aLOIVrY1jSt08HR84/4Hu3hy4+1cHLm3p7YeQrpv7fMUko6a/vE5nBcdAXUKHjIf9aEx33Tmmr3HOLVQ+Zk1XebxoAC+6DC/q48UDePFleHEfLxnASy7DS/p46QBeehle2scbj1rAHHxd6srn0h0hUvpuugQb5xMOqeOSu+46on+anJ8jP6rgRi+cqiR6UyCBMyV3yq2bC9xKD9w6N4LaWdMNoyUTBn58NL7ffnUscNR8w6PDoU+TIApugmiGa90N0JttxiKeq63hf+vjOfCH7TCN8MWofcXcc5lpTDWZCfY/JnTc2f7Su8bRs0ppp/Rp6LaF2xumucsNijz1wfrOfu6uZ62nBDsrg7USuYfxYTjZe61WWwAv7RwEcfw/guguaXtPQ7U8SM53DEfvZTh+L8PJexlOf4bhgTZyDYoPF+wB5vRGcz7Gt8gTruZQAs4XNx32N46TMNExTPQGmPgYJn4DTHIMk7wBJj2GSU/AzOpHBEp1z+qA4isShBuOaqHIZyYEmTbZvIeSZzPyt8rdzMRrpPHZTq+ju+TuLr2NRmmSjHe7/wDz+0tI",
+	"createdDate": 1772382591053,
+	"descriptionMarkdown": "Blueprint with parameters [virtual-signal=signal-item-parameter] for recipe, stock count and ingredient multiplier.\n\nCreates an [item=assembling-machine-3] with selected recipe and preconfigured logistics IO.\nKeep up to specified stock amount of items available in [item=storage-chest].\nCan set a multiplier for requested ingredients (e.g [item=steel-chest] requests 8 * ingredient multiplier [item=steel-plate])\nHigher quality crafted items are kept in a separate unbounded [item=storage-chest]",
+	"image": {
+		"id": "77ouSJF",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1772382591053,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/production/mall (make everything)/",
+		"/mods/vanilla/"
+	],
+	"title": "Robo Mall [quality=epic] Node"
+}
