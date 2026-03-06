@@ -11,9 +11,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1772324443205,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Starter Ship"
+	"title": "Starter Ship",
+	"favorites": {
+		"GZPPhnEqW6csn9wvk2iwJ6kUjGE3": true,
+		"Sp3zFFh5p3OSVFxr7JV59kTNG5p1": true
+	}
 }
