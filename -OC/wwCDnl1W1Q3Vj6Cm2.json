@@ -7,7 +7,6 @@
 	"createdDate": 1732967978279,
 	"descriptionMarkdown": "- I visited Shattered Planet and came back with this ship taking minimal (~8k) amount of damage (during the 4.000.000 km trip only some small asteroids somehow hit the ship, but didn't destroy anything). On the way back it took only 2k dmg, also nothing got destroyed.\n- You need to take at least 400 Fusion Power Cells for a round trip to Shattered Planet and back, but I recommed taking about 1k just in case.\n- You can control the speed and minimum loadout by using the combinator at the bottom of the ship near the engines.\n- Can use any kind of asteroid chunks. Uses robust reprocessing system.\n- Sustained max speed ~305-325km/s - depends if in gravitational field of a planet - it does need two legendary pumps to reach that speed. When going to Shattered Planet I recommend setting the max speed with the bottom combinator to max 150km/s as at higher speeds the asteroids might actually break through the defenses.\n- The ship will automatically slow down if ammo is low, but it doesn't really happen until close to Shattered Planet as it produces tons of ammo each second.\n- Automatically throws away excess resources, but tries to not overproduce them in the first place by stopping specific crushers when resources are piling up.\n- Produces *indefinitely* >20/s explosive rockets (explosive rockets are better for the trip to shattered planet especially at the second half of it where asteroids are plentiful).\n- Produces *indefinitely* >40/s firearm magazines.\n- Produces *indefinitely* ~9/s railgun ammo.\n- To jumpstart just fill in the fluoroketone using barrels imported from a planet and fly around inner planets a couple of times to accumulate some asteroids/resources.\n- Acumulators to the left of the space platform hub can be replaced with a belt to store promethium asteroids and the ship can work as a promethium hauler (then it can be built using only normal quality items). I'm using 5 of such haulers at the same time and they never get any damage. \n\n# More photos:\n- https://imgur.com/a/invincible-titan-ship-cVns0zS\n- https://imgur.com/a/ZVALUm2\n- https://imgur.com/a/6yAzTR3",
 	"favorites": {
-		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
 		"KF434v09jCMvGg8cnoOJuedk3aa2": true,
 		"uchEp5BFQ3e749acSwSSunmLIAA2": true,
 		"lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
@@ -140,7 +139,7 @@
 	},
 	"imageUrl": "https://imgur.com/AN5cQzp",
 	"lastUpdatedDate": 1733443016716,
-	"numberOfFavorites": 126,
+	"numberOfFavorites": 125,
 	"tags": [
 		"/planets/space-platform/",
 		"/mods/space-age/",

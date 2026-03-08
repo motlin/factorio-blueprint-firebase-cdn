@@ -7,14 +7,15 @@
 	"createdDate": 1772545320448,
 	"descriptionMarkdown": "爆速船と星間移動船が融合し、爆速な星間移動船が誕生しました。\n物理ダメージ15・強化爆薬12で[planet=aquilo]までの全航路を1000km/s超で、ノンストップ航行できます。電力は、ソーラー発電のみ。資源もベルトコンベアー上のみで管理しており、プラットフォームを倉庫として使用しません。\n\n後部スラスター５段にて、1050km/s\n\n後部スラスター１０段にて、1350km/s　（ノンストップで宇宙をさまよう場合は、強化爆薬２３が必要）\n\n後部スラスターへ燃料ではなくアステロイドを輸送することにより、距離制限の問題・生産量の問題が解決され、ゲームの限界速度へチャレンジすることが可能となりました。\nまた、現状[item=cargo-bay,quality=legendary] x 88ですが、無限に延長する事が可能な為、積載量も自由に調整できます。\n\nスラスターは100段や、200段でも運用可能です。（アステロイド収集が間に合わない可能性あり、ノンストップ航行は厳しいかもしれない）\n被弾時は、300km/sまで減速します。\n",
 	"favorites": {
-		"QUM9TtUvsnWwqJOc58IiQKxCYER2": true
+		"QUM9TtUvsnWwqJOc58IiQKxCYER2": true,
+		"8HfhNghSe2gdhj2iiGJErAXyDZC2": true
 	},
 	"image": {
 		"id": "bHq89pc",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1772551077903,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/planets/aquilo/",
