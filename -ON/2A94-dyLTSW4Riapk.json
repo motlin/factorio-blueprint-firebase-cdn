@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "##  Vulcanus Starter Factory Mk2\n\nVulcanus starter factory, rebuilt from scratch to solve the main issues I had with [my previous Vulcanus starter](https://factorioprints.com/view/-OU4xpv_3uAJk-nIYB2y):\n\n* weak pre-coal-liquefaction phase\n* no belt production\n* too much dependence on other planets\n* upgrades were possible, but not very straightforward\n\nThis version produces 400 SPM, includes belt production including turbo belts, basic mall items, arti and speed module 3 production, and was planned for later upgrades with EMPs, turbo belts, stack inserters and better modules.\n\nThis is not a cheap starter. It is meant for runs where Nauvis is already strong and you want Vulcanus to be mostly self-sufficient through at least mid-game.\n\n**Usage**\n\n* Pick the blueprint version that fits your run.\n  * Personally I usually skip the staged blueprints and build the full version directly.\n  * If I visit Fulgora first, I usually go straight to the EMP version instead.\n* Connect inputs and start.\n\n\n**Notes**\n\n* Before coal liquefaction tech, the base uses simple coal liquefaction to produce heavy oil. After unlocking the tech, it switches to the main coal liquefaction setup automatically based on heavy oil availability.\n* Foundry bootstrap is handled automatically with circuit logic. The assembling machine stops once a foundry is available.\n* Includes large magazine production for peace negotiations with the local worms.\n* Factory uses buffer chests to delete Vulcanus leftovers. If you intentionally put those items into logistics chests, remove those buffer chest first.\n* Easy to extend later without making the base ugly, including bus expansion, liquids, and adding more silos once productivity improves.\n\n**More**\n* [Full discussion on reddit](https://www.reddit.com/r/factorio/comments/1rmcn5d/my_new_vulcanus_starter_factory_design/)\n* As this is a massive new blueprint, I will be glad to hear about bugs, suggestions and any other feedback. ty. :)",
 	"favorites": {
 		"rgiwLlKS8seksYjJa3HJ23DYBRJ2": true,
-		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true
+		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
+		"jGfO6fbTj5dNdRD5sqbwPwgXqJj1": true
 	},
 	"image": {
 		"id": "TlpJtKb",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1772801189581,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
