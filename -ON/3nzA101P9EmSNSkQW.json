@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1772828935568,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/general/compact/",
@@ -19,5 +19,8 @@
 		"/mods/vanilla/",
 		"/production/advanced circuit (red)/"
 	],
-	"title": "Compact Tileable Red Circuit Module"
+	"title": "Compact Tileable Red Circuit Module",
+	"favorites": {
+		"3S1gUE3V5uXRaJDoPyJEfgcwUYY2": true
+	}
 }
