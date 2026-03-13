@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1770115994884,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-exploration/",
@@ -19,5 +19,8 @@
 		"/mods/aai/",
 		"/production/mall (make everything)/"
 	],
-	"title": "AUTOMALL (for SE+K2)"
+	"title": "AUTOMALL (for SE+K2)",
+	"favorites": {
+		"7gtvFuEAYcYXrGFyDB1cLmdk6612": true
+	}
 }
