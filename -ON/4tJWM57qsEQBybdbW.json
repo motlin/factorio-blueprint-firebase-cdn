@@ -7,10 +7,10 @@
 	"createdDate": 1772846663887,
 	"descriptionMarkdown": "For aesthetic reasons late-game, it's nice to not have remnants of old mining outposts. These blueprints drain a resource patch as fast as possible, destroying the ore.\n\nFor small areas (<=5x5), the alternate [item=electric-mining-drill] version is faster than  [item=big-mining-drill], though it doesn't work for tungsten ore.\n\n[virtual-signal=signal-alert] The higher the mining productivity tech level, the slower this works!\n\nblueprints by bencvt, updated 2026-03-07",
 	"image": {
-		"id": "MSMNKoY",
+		"id": "7igITRQ",
 		"type": "image/png"
 	},
-	"lastUpdatedDate": 1773007221861,
+	"lastUpdatedDate": 1773462548275,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/version/2,0/",
@@ -23,5 +23,5 @@
 		"/mods/quality/",
 		"/mods/space-age/"
 	],
-	"title": "Drain resource patch"
+	"title": "drain resource patch"
 }

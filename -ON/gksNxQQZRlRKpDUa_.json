@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Pajama Day",
+		"userId": "AfWLL9eVmAWoumgYJluZtsadijU2"
+	},
+	"blueprintString": "0eNrlWEtv4zYQ/isEL90UcmDJj8QGUmDRU049bG9eQ6ClsU1YJlWScuoN/N87pCRLTuj4sZsNFj2ZpjTfvL4ZDvVMZ1kBueLC0PEzTUEniueGS0HH9AsYwg2sNTGSzIBoI5MVpIQLMrH7D4kU2jBhOolcz7hgRqrpLfl7yTXJ5IJrwxOyULLICe7oJVMozNZSLAjLMsIKIztrXOmAaImaiBTZlgiAdK8R7GYCt1/FozPkiaMgPkgUmxtEK4ThGYm6aBtLVpqgCpIr0CCMNRMtVmwBATHWJlRd2H1N0PA5XxSKzTKw75klkDVP0ww6ii+WpvKPKW6Wa0A32h6ihUw5ESVnMpfK3NKAchsMOp48U80XgmU2nIKtAePItIb1LONige4mSy6g06M7FBEp/EvH4W4aUDSYGw4lgvuzjUWxnoHCF4IaaVZkqw4XGpTBBwHNpeZlsp4pInWi7v3tIKBbOh4ObgeoIuUKkvKN/i54hRztkRX8U4BG1E6yxF8v9t0hNjpslMziGSzZhktlX0y4Sgpu4rVMIZbzWOagWImCXtRPUTJ12DEIm4KUjucs04CglR3xnGdojLaYuvSgDE07ZkYxvYyFNHFtPQIZVcDO42oveDMdHn/Dbu3v8Ki/SFBUnvAcSs3WAZbGiI1c52iCPm5R/5q0Dl+mNYw80IM9tKdE31Zw94avdR6O5CSgrthR6+e6tMueQXfTnS8CwyYnCLeBTq7khqfnkdBGwoN512D6qteLOdxjHnG9gWq46+Iw5wrJ2lS82Vom0A1XpsCdvS3lGx1AvtnKx/AhTFwnBxPWDWirVujvKCoLkxcXg2NMaJ6xLaj4sJs/CkQbfxWTSr5Tij1U0khYEFPy2DDX9mDXZ+tu6Kmb6W/YTAulbL8t6+Cr+MvZfVwT4k/J57IXyznhhxqrUiaFxgeV5hfNaUo9eb9vwlHMMKrOa1+y96n2gIwaEMiQ4lKdoE4YlmijV93WT6R2jt2RhbH5BvTKnLlIPooNeiHV1gWzdVyvIK8PwWRFPs2VXL95roVB9TjFRLoibD27OTOvX6xTxDr1pjm+DIbdy0u3jv/9mfF/p0K+WO7H1HpwYHYswDxJtXL+qP2harsylnZ1Dr0w+bVMeYpVIuWpvPseev6JWXC1jXTYD4WV1no+OyBnPVRNb072qppdK4Dcz3TfhHoulT2F1YyUr9R6Gd1Mbq9rytucRpfRuUJ9weX2v8lPpzZ6mDPlPBzTP+jP4mhwtaMHBj+cNNijvMaAuFLJRErthFqW9ctrwdl25VvMLB6TsWU0DpWItQ/YOYG0Y9f/s3RL+CUz7kaIV4SD0rX79pp5eK/1VnB0xTg5umwmePfhMvrw4dIzGlhA11X3LKg/L7RJ4BnDziFBxbJmyDyqzZv05q5YM9p/bajyfNG11Td2hv2rJ5+77i88+XR+8cmHfFj/bF2fTndS/7gf3Vx+VXO6bOcse2dTSORTITQTyKpvkN54i2pw3Sx0NsHfcxZqeml48bzgpeJ7zAtnEfr7JoLTtGvRICAnOdj76EHhtENtVmOGnpCHNj+TKAiDu6A3DSY9XCG7y2WEmxGuBrjCFr1fdpvlwC1HVqrrpNwyrJaIhu/gEh/idq9ch611FPQDPDEsSOh098v9vpUd4BrNtN7YD4v7j/sBzdgMsva3Odzb4Fnlsj8YRqP+aDS4j7qDfj/c7f4DxeJ9ow==",
+	"createdDate": 1773498762844,
+	"descriptionMarkdown": "Set items to be stocked in [item=constant-combinator]. This logistic group is shared among all auto-malls, so it only needs to be set once.\n\nItems will be crafted until 20 stacks are present in storage, this amount is configurable in the middle-right [item=arithmetic-combinator] near the roboport.\n\nAssumes that there is adequate logistic storage space in [item=storage-chest] for outputs, and that intermediates (e.g., [item=electronic-circuit]) are available to the requester chest (though it is possible to use the mall to make the intermediates as well).",
+	"image": {
+		"id": "Zl6EVZL",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1773499009232,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Compact auto-mall"
+}
