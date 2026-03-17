@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1773465777692,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/general/mid game/",
@@ -21,5 +21,8 @@
 		"/mods/quality/",
 		"/mods/elevated-rails/"
 	],
-	"title": "quality upgrade planners"
+	"title": "quality upgrade planners",
+	"favorites": {
+		"QUM9TtUvsnWwqJOc58IiQKxCYER2": true
+	}
 }
