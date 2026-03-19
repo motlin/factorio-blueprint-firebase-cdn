@@ -1,0 +1,19 @@
+{
+	"author": {
+		"userId": "SjZYH2h0Whbc6cyqBDnJtcmoqVu2"
+	},
+	"blueprintString": "0eNq1mlFvozgQx78K4hlX2MZgR7p72Hu6h0onXd/aaEUSb2otGM6Q3VZVv/sZaJrsBtoZS8lLwOAfxjN/jz3mJd5UB906Y/t49RLvdLd1pu1NY+NVTIbfbdlrZ8qqi8bTB0v+jO6aNuqb6EvT9039YGnXRyT6q2lb7aJ/Kl+he7DM7nzh366x70UjILotn6LbZneo9DsyOvvdm17Xf5Rdp+tNZeye1OX20VhN6JqQxYvso4t8HT3Y6WrvStu1jevJRlf92rcwioobMT1aHNvAj7d/K7uezNWhb/fSdPrPjzX0U+t0181WYuymOKur3ht1cJtmtgZ/w0dsOqAsTuLOli3pG7J3ZjcY7Sle0TSJn+MVY69JbLaN7eLV/Uvcmb0tq+EWW9baG7Q8eHuVg3VJtzXabjVpy+33eKhld3oAvSbn9frndqj3w7j+4EuSI2i6g9yd1WSv6yTWtje90dPjx5Pnr/ZQb7Tz6Pfav76pp7ZNZyafm97mRoyvk94Iz98Zp7fT1Wxo3W9YBsamGCwHYxkGm4GxAoMVYGyGweZgbIHBFmBsjsFKMFZhsAqMlRjsINmjLGcGu2VVsJHu2WbUpvEjLNnr0pGfj1oPGp0uff3PK9Y/0N9iG1d79c414iTKrvV3+6H+8sH87cEU8FInNRrbafchj/3eTZTNITlaMhQGztCiuQDLOS5ejAzEzQF9e3SSDEQsENbisE49ibDWO3Ooia58BWe2pG0qvYwfGjzHU4AmMsxLsxRtHg7iUjQX1l6G7NH84x5lHB2HBSgOZ+hADOOe5HTwMw23d43//yQWX5KT41zG2PbQz42FLEcPNDnIgAWaK0BciXY4GFehuaB+4CnCkMXnhmwO/YIl+VlU84GvIlVZt8tCEfNC4Qw9nwA5NOfoCQWMmwVOKIpfJxRLiwTUxIILRGiRoNc7ybNq/Is9lt6JduRzegEKXByvUgnyeonmFiAuXqUgboYPj6B+yCjSfPkSfdZ8GWTimS91xOxKjSPlJK8opyxU2zS9Rmsw4lagzg4VN01h7oFX9yV51q3x8lYgLl7eIK7AyxvWESJU3wpkQIHRN4XlTEIFfhVNiSxw4UTp/PRFCLzLg9ahAj9PpqCFsyjwvgkD42fKwK5QgWuzJaPlKWrmOrZyDkNDwwW/gmvnmKQQzUCJSR4aL2BpjByfp6Wg1XweoEpQ+iHP8T4OAweoEtYVMjBiXOLnbagwIYODEtdpaMi4hq6KYJXn12gNSuWgFW0RrPIc5CFFgMpBqY4iQOWg3EwRoHIYOEDlsK4IVrmA2RCl8hy0jxSs8mvoSlKMrkCpFMlC55rF/HxDBuzRgLIGMkChoDSHxG/SAMEBCoV1RREqJFgGRcrQueySU6jQ8KSuICOVhsYS2AJVUbSnMtDCWjG8BECpAMUxIycojaMy1PJl7IA5jAgdgK/iOTl6Y4vBdqBVgd6Kg5Il+vMVKBmemOI4Mk3xuSkwOkCdUDRDf80CRnP09zdgdIbehAKjBXrfbBa9TuKfvmD4luyeykQkIkvEOpmOGRuPh79EqPF4uJxIdjo+lquhXI7Hw+Xp2NOHb+98I08fQCZxVfqG+rI7U+lyU+m3Twrnh5F19O905iv+0K4bGy5ypjKlhGSpyDL6+vo/OBiFKw==",
+	"createdDate": 1773819894618,
+	"descriptionMarkdown": "-----Materials -----\n-> Top to Bottom\n1st - Copper Plates\n2nd - Iron Plates\n----- Max Modules -----\n            [item=assembling-machine-1]--[item=assembling-machine-2]--[item=assembling-machine-3] \n[item=transport-belt] -   7.5      5        3\n[item=fast-transport-belt] -   15      10      6\n[item=express-transport-belt] -   22.7   15      9\n[item=turbo-transport-belt] -   30       20     12",
+	"image": {
+		"id": "xaenAbC",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1773819907936,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/general/tileable/"
+	],
+	"title": "Tileable[item=automation-science-pack] Science"
+}

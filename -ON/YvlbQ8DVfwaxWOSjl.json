@@ -10,12 +10,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1773350687422,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/space-platform/",
 		"/mods/vanilla/",
 		"/mods/space-age/"
 	],
-	"title": "Thruster single chem plant using combinators."
+	"title": "Thruster single chem plant using combinators.",
+	"favorites": {
+		"nlspLYRv6WV3xBOffsqSGmE8omO2": true
+	}
 }

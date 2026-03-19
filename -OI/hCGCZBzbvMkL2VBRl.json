@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1768137495536,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Blue chips"
+	"title": "Blue chips",
+	"favorites": {
+		"nlspLYRv6WV3xBOffsqSGmE8omO2": true
+	}
 }

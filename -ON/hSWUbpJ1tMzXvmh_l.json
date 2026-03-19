@@ -11,11 +11,14 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1773534133011,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/space-platform/",
 		"/mods/space-age/"
 	],
-	"title": "Стартовый корабль"
+	"title": "Стартовый корабль",
+	"favorites": {
+		"nlspLYRv6WV3xBOffsqSGmE8omO2": true
+	}
 }

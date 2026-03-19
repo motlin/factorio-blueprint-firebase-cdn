@@ -11,12 +11,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1773641896175,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/",
 		"/planets/aquilo/",
 		"/mods/space-age/"
 	],
-	"title": "Aquilo Grinder"
+	"title": "Aquilo Grinder",
+	"favorites": {
+		"Vx9R519Xg6TJDNtA74BzorAre3I3": true
+	}
 }

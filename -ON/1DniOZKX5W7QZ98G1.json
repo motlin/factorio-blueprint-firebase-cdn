@@ -10,11 +10,14 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1772785187926,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/vulcanus/",
 		"/mods/space-age/"
 	],
-	"title": "vulcanus_spaceport"
+	"title": "vulcanus_spaceport",
+	"favorites": {
+		"M0KdcgGSzmOVA23Bcmp8exNwO8F2": true
+	}
 }

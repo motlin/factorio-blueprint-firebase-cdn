@@ -1,0 +1,19 @@
+{
+	"author": {
+		"userId": "SjZYH2h0Whbc6cyqBDnJtcmoqVu2"
+	},
+	"blueprintString": "0eNq1W01v4zYQ/SuCzlIgfpMB2kN7KHpYoEBzS4yFYrMOUVlSJXk3QZD/XkqKY2cjrmeI2BdTFPk0HM7jzFDUc3pf7W3buXpIr5/Tje3XnWsH19TpdZqPv+RLOdjOlVWfTNd3df5rctO0ydAkvzXD0OzuatIPSZ782TV18lflm/d3Na03vuqPzto6+d11670bfO0B8TH50mz2lX3DTE5+t26wu1/Kvre7+8rV23xXrh9cbXOyyvPgTfqzm2yV3NXz3aEr675tuiG/t9Ww8kImCb0S44PJlZwlIIfG/5T9kC/1SBIxN2VXbC7QQx/72Ha27xe7qavXbuIwWPYm1767bxY7kWJqKQ/SJTzN0r4u23xo8m3nNuPMPabXpMjSp/Sampcsdeum7tPr2+e0d9u6rMYmdbmzflarZuv6wa3zfu1svbZ5W67/Tcc+9caOMC/Zaa/hqR17fXPdsPc12QFmbpHfnPSkL6sstfXgBmfnh08XT1/r/e7edh76rff7cXrUtundbHbTWPyMTIMproTH37jOrue7fJTuB1gKhiUYWAaG5RhYDoZlGFgBhpUYWAmGFRhYBYbVIVi9AKvBsAojrXmDdXVvO78ehi3Wm9jLAsRITqSRhpAIGokGkI7E2dmN2+9yW3k1dH5taJvKhg0yJBkD6ImfweBImeQZPAGQSZzBkAAMdQYDb/EUYvFEo3EJCNeAcYtXXA5aq/E8YMsapXge8ADSkQdLUUeYB2wasR+vm3yk8wFQvrVll39/sHb0lfOtr/95z+kf6JvUTbfzXnRJCIYUQl5CCI62JtisCzQug1gphbsng5JXIVZ8EbAqDcAgZzBM5AodwGMFOqaRkHlgBDBWFkIkdAmSRjqC0NCP/Koaz6yH0getmzwsrgyJuxgrcoAC9BkJBcLNhDAkchU5GKB6v4p8sA7EIsKO5Ol9kyqvyl0bNgcdGMmRPns/U922a/z/GWNVH4w1OyQwrm73w6K4BmG7CmS7vIi0NQVKICBkkyfaBQiM9YB62WxO5EEYDGfoWMOAFMXR+SYMV6AjDxiujI3Hi2UOcRXBIVKESdTshwCLuEZ7FphODDpdBuGKIjbPCOhaHFnZt97kf5poGICAFJ3QwwbO0KEYDJejc28YrkCHeDDcWE9JyPs1b3k/DbUACoX0F+y9LOeWd6ERLo5QkPoMmu8ElNBKfIhKQBmtxLjNj5CLm2M00s9/VMXivEmG3n0DKpnjgWFKFpGBxAVYJaMZzj9flmiGc5iloBjOQMYdwXAOsREVwXDQboBCMRy0EaCiGc5A86YiGA5TcgTDYUqOZvjns0pJVKZJAkmzUrFxtwwA4oNhAtpnURGcFKAXJ9HhcEAFmuDtD6QCTfHAMBWwWHehPt2wNY91F7ANCi0w7kJDVkot8aapQfOi8MAKBKwx7gK0NaNNrLuA7dOYAm/8ICWbCLqClGxid5YuwCoTy3BafL4ssQynBcxSUAwHZcwGz3AKemtvIhhuQMAYhlPYUYBohhvQvJECT3GYlkkRwXEDQ44l+QWIRQqGCgpp8MAGj4wKaei4RSHwBIIdAigiqAk7BlCoyMAwrAWNN3CgFgweGaaFk9M7SM/BPt/ATw4AIV0HLCclJ+eCAKCgPJoQ/Gk6ymFzw/HIDIYsMO6DwfQgI/0H5cDJU3gSABUdQVygok2s/7gAvWg01+UFhInmOuyUBaEorguQjdMIroNSdEI5hpESJq2IZaQAqhh/hpZKmDoiuA5UtI5l5CVIgD+LSGH5NGH444hgaPxpdzA0Rb8UB0NHcBcKHR1Qq9B5Y4G3f9CuBWERnIWqQaFf7IOhdWywHtSwQb/VhwrLC/yJaCg0QZ8ZWIReZel3XzF+y3Lrg2KR+ZVIrLK57OPOqez/MlEcy56cY3lsmnF5LL/Wj1WH9lNZqak8VmV6rh+r3pXHZHS8GOuyMSebnjZW/njFXqUqpm7eIKYrxt+u/JjG7428ao5ffmVpVXr1+LobV9nyvrLzN0mLi/fq7/nC9/pmu37SlZDUcGOEpoXgnLy8/A8Koa7Y",
+	"createdDate": 1773819598593,
+	"descriptionMarkdown": "----- Materials -----\n-> Top to Bottom\n1st - Iron Plates\n2nd - Green Circuits\n----- Max Modules -----\n            [item=assembling-machine-1]--[item=assembling-machine-2]--[item=assembling-machine-3] \n[item=transport-belt] -   2.5    1.6      1\n[item=fast-transport-belt] -     5      3.3      2\n[item=express-transport-belt] -   7.5      5        3\n[item=turbo-transport-belt] -   10     6.6       4",
+	"image": {
+		"id": "rCkR99g",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1773819598593,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/general/tileable/"
+	],
+	"title": "Tileable[item=logistic-science-pack]Science"
+}
