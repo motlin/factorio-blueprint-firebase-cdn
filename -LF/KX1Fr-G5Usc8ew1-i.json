@@ -5,7 +5,7 @@
 	"createdDate": 1529369601281,
 	"descriptionMarkdown": "- Saves you up to 80%(x5 times more efficient) of nuclear cells vs continuous insertion!!!\n- More efficient than designs based merely on steam buffer level.\n\nA steam buffered nuclear plant with 4 cores that has very low nuclear cell consumption. The surplus heat gets transformed into steam which is stored in 16 tanks. The next cell gets inserted only when the buffer runs below 50% **and** there is currently no cell in the reactor. LED power level indicator and two alarm types included.\n\nRecommended amount of accumulators for optimal performance: 1600\n\nMax power output: 460MW\n\nInstallation: \n\n1. Connect 4 separate water pipes to the input pumps. Each pipe needs its own water pump. Keep the distance to water source small - build the plant next to a lake for optimal performace, and avoid using non-underground pipes.\n2. Wait till the four requester chests(blue) are filled by your logistic robots with 50 cells each.\n3. Insert exactly 1 nuclear cell into the reactor next to the steel chest (there is only one steel chest in the setup) in order to start the cycle. It will take a few minutes.\n4. After steps 1-3 your power plant is now working. Ensure that you recycle the used cells, which are collected in the passive provider chests. Do not touch the steel chest or its content. The cells are only inserted when both BLUE and GREEN LEDs are active. Green ON = cores are empty and ready to be loaded. Blue ON = steam buffer is low and heat is required.\n5. There are two types of alarm implemented. One is turned on when your chests run below 10 supply(meaning robots aren't bringing new cells for some reason). The other alarm signals that there is not enough power produced to feed the accumulators(in this case check your power output and consumption; verify that you get enough water; build further power productions).\n",
 	"lastUpdatedDate": 1529371305358,
-	"numberOfFavorites": 67,
+	"numberOfFavorites": 79,
 	"tags": [
 		"/power/nuclear/"
 	],
@@ -97,6 +97,7 @@
 		"jNc0dyuMmTe6nYpH9ljxseG1btp2": true,
 		"nItKw8hsKldmAQVJpQYC9Qkmf423": true,
 		"Wq3hD250rZff59zIuGT692xi9L82": true,
-		"EPRqYF4gPscvsRIOFtvMzazdOba2": true
+		"EPRqYF4gPscvsRIOFtvMzazdOba2": true,
+		"YHoM8vvTe9hJB95JkWCPbBcM9Gw2": true
 	}
 }
