@@ -1,0 +1,25 @@
+{
+	"author": {
+		"displayName": "Wiktor “Puniek” Hapek",
+		"userId": "hNZVicVO9QaEbeo7c1bZiGCJTG72"
+	},
+	"blueprintString": "0eNrtWl1yqzYU3gqjZ+FBIAnwtCu4D31Ip31IMx4MSqIJBiqEEzfjBXQh3VhX0oNxbN8EbIHu9N6Z+MlGiHOk8/OdT3Be0TJvRKVkodH8FWWiTpWstCwLNEe/CbVxlkktU6cW+b1TN7VOZCGLB0fLXCTLXDhfynWixAtM0E01+6P4opJal0qWju/cVEkqMueXRs+cm+ekclZl1uSidpLa2ZQNPCOce6lnCCOZlkWN5revqJYPRZK3iymSlYBVpKLQSt43DwJtYWKRiRc0J9s7jOCG1FJ0z+0uNouiWS2Fggn47XnxUilR165WSVFXpdLuUuQadFZlLbudviIQ6TM2Yxht4J9HZgx0ZVKJtJsRbfEHFb6VCs9ERXBQsWzyJ1cWtVAabvRIDocXTzEC82pV5ouleEzWslTtY6lUaSP1QhStJzM016oR+DAMj2QHFfdS1XrxwTcNbFg2K9cPWOuc1ok6aUMJ9tderqpEJbpVh/79+x+0hTn3MocddD57cybuk4fRn02SgzVgvCjVChS/E/kzaqOgqcXiILTbQqbKanG00K1LZiSOfRKFDHt3PXamE1zJvzJ4j1BmJdTrF8pxT170CIrfhUNfACiRZIvnUj1BRr+Zbn954mq9qVp1a6l0s/PBXn83w/1951WINbmb9tThgSsKJdPHFazRrVSZwu7R26xFj1+lFqt9TGQn8QWPZg1E8Rqmux16uMEOBrr5bQgtZLEGNaXa7GPqcAVehXBMn9Dcay3ZeweAZLvtC4nQOPU4OZN6PZIjc8nBsGTi94iOx4cc98ehHvGsdBjBHiFmUc7ZNcrtopz45sEYngvGz15iLlUYEkxIm3hkak4oYzy6VMYIs1q5WcJzq5UP1EoSWjG0wGjlkZUO30jHEdbzsnhwHxMI6syQDfo9bPBsggB9L8Q3ZV/+hdzwP5aUBlalHlQJvwZcqdvjHsLLRleNRn16iDmdjt+FwfdHt5++G7Z5+Ihuvf4bUUS8M+n1uaxcroVSMhOLXY2GRf8lOnb10fzuBfsHVpTMCOd8aqXDCOd8Zh5H7Jqf5vnJze1Kr/n57fMzHFu/+Zn63XLt/7eAX6zfkRVDNMOf2EqHEf4Ek3jICQ815CGB3ctJZrQXu7eT1EjHyetJkUDWnmeincyBM3BdCUiJ0YdfMnj4JZcPvwGdwgfZJ8fF0fAXHMv6k3LfojEvk+ySqWnP2eVydvEpbJR9OhYxor5d8O+xvK1E1q5M5OAwJVO3KnNx/o0p7T+6B9FJORMid9NHUevzLuyiZZm0J+Y+kXYvR41Ql3qjTRFcMgUlVus2QnLqT2HeVyQciYQ0mELEr9A0GZooHVV6+BkC1NLufe2RxUDpocwUtagpalF+mWPxH5hj0dCKt5uhrt35wwwhYys+HZroYJ6VDm6kg0xpKQivLQVjWwqYb/X5PxzoKQgsX5Xz0yPqIJAxOrrNILx+gJ3yAZaxKX0GoUmfAeNTGg1Co0YDFlqRUjM4jKx0mMFhPLrT4BrokwKde1M6DcJrp8HYTgNOrNiQUWpy3+p7/UBx43Y9EkYJz6nlO16zAsqZFZWLjLbCrRhGNOCE0KLZIPrxmw14ZPExJvrxP8bw2Co1B6Ii9KxSsyeeYbfPcN2a7TbABAcRJnf4FgxKMJyj2/8+OY777Dge0ON4EGKGqYdZ+x+GMBxw2nF6Iqf9wVB/yN1dV+naGnRoe8coT2AHMPbr+6b2m7apHSaswR+7ZTPuxzSOWUQ9ODdG2+1/2Su1CQ==",
+	"createdDate": 1773998856809,
+	"descriptionMarkdown": "Very basic self sustaining tileable Kovarex setup.\n\nEach tile gonna needs minimum 120 u235 for startup (if you are fine with checking up on it), or 240 if you just want to fire and forget.\n\nKrastorio 2 Spaced Out",
+	"image": {
+		"id": "eqzA8vB",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1773999311161,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/mods/krastorio/",
+		"/power/kovarex enrichment/",
+		"/production/uranium/",
+		"/general/tileable/",
+		"/general/mid game/",
+		"/general/beaconized/"
+	],
+	"title": "Tilable Kovarex - Krastorio 2 Spaced Out"
+}

@@ -1,0 +1,25 @@
+{
+	"author": {
+		"displayName": "Puniek",
+		"userId": "hNZVicVO9QaEbeo7c1bZiGCJTG72"
+	},
+	"blueprintString": "0eNrtWk1u4zYUvgqhVQtIgf5ISUa7KrqaRRdTtItMYMgSbbORKJWinEkDH6AH6cV6kj5Kjp2ZSDYlDqYDxCv9kHyPfL8fyfdkrYqW1oJxaS2erJw2mWC1ZBW3FtZvVDyiVdqwDDW0WKOmbWTKOOMbJFlB01VB0btqlwr6ETrItr75wD/w99AODSuaZhVHOyoaoNa1/Jxm224k2lScp4hTmjeoBIplWyLPd1HrBxitK4GAkQCC6Du2Ro9Vi4AHWjNO0QOTW5RtaXavpgE9gAeT39sIBvmhiw79/4CpooeUSyQrGAijU54ryhsqu7m8E2kjK8Eq5KP3dZrRHP3SSsu2GMy6sRa3T1bDNjwtlFh4WlKQR0a5FGzdbqi1h448px+thbe/sy1oYJLRflz38bjkbbmiAjrYz+Ppx1rQpnGkSHlTV0I6K1oonnXVsF7mTxaQ9DG+wbb1CG+ud4OBVw4ryPoe8d5+xcI3YuHqsAiOLFZtce8w3lAhoWGAcjQ++dC2QLxSVMVyRbfpjlVCDcuYyFoml5Qrm8qthRQttY+/YUh+ZAHKbOTylW5aWDBrSwcMSClHKVGmyqhhfeqzrFORSsXO+vfvf6w99FmzAlbQ6+xZmfYQPdv6s00LkAb855UogfFnJH+0lBW0DV0eifZLyEVVL08SunW8Gy9JfC+OsO3eDcg5nKFK8onAB4hiI6LuMFFiD/jFAKHkM3MYMgBB03z5UAnl1M+iO3y+ULV8rBW7HYPQ0OngwL/v4fzeaRVsjXXd7vvI5FAuWLYtYY5OLaoMVm8991oO6JVJWh5sIn9hXzA0b8GKd9DdKeG9oE7QhYG+vzKhJeM7YFOJx4NNHb9Aq2CO2b21cJUkB1sgkOz3QyYRabse8c643gDlWJ9yME7Z8wdIJ9NNjvjTop7nGvHQCnuep2flBF+t3MzKPV/fGKNzxvjWU8ylDOMFM9wmmeiaM9IYiS+lMQ8bzVzP4YnRzEdypRcZIbRAa+axEQ9fi0dihCSCYen4rhFVf4TqydOKim+cLewAaK6JXP0B5HrWmWEzwekXRYr+BT/29QPmCwwWjGanrxshf/jf4qNrnyLkoFz1tzrEPeOib0vKFWz0BcvpssvzMOm/aI/QXovfuSD/17mjhUmLjajgqQHs/AFVHEAV4zVs8oeYYn2l46sz6TsT0ZdreHWmL+9M0dQkSM4kQQWuv24WvJgEYyO4NgYdEiOqIzAncI3gqxYIDDwjHlogMDA7bsRaPAIjHqEWD7OzNjyiZbPDtnCE6imOljRXIYYWsDbY8zt1VQyeu8UXaUZzACR+47F5cggOTiHqXjjPNlFUaX5J1OHAJuQAZKpWjiCZIJkDX/GbQzITcux5/Ybui/RHaeFkW9rI8+LuNbtK1ZZ6iORptf012nnA21MbOdJragoJf/JZnjd6luddPssL/Tlo+hpZJkaWMJgDrq+uPt/Vw0mhnJwBJApKX9qUhlg3soTakWUyjiAXsUkYGaHlMapmyH4EnYWJET7Wwq7YDOdrYVdsVlUQafEww/lEi0dghJbJyH13OKdaIbpWK0ytVsBmm51oRH3TSwui66XrnEtXPKu2INKpLcCx4TEuGT/GHd/94GROSUOkVdJAzOoNtGIumV5vcDX9WaZPZtUbRNd6g6n1BiQwAnIjKZ6ERiBLzxmx0cxHshshRjPXglXErN4g1uIRG+X+eEQ6icGtffzt39pHZklESzORZ3DpE3/7lz6Rb+SXI5YXmdVFDWgGVvsA30pst4Ht2aFre3f2LQgU3nH37vun/z4+/Q+IjW3YrGP1Hp36qIcN25vu/QUd9bAhpXl3d33yVGntWNlvW0UKK4B/v7Lik7J9Bw0XwkPDT1ua1p21HGr4FTD3kzBJcBy6sE+N9/v/AOr1Crg=",
+	"createdDate": 1774003127518,
+	"descriptionMarkdown": "Very basic self sustaining tileable Kovarex setup. Single beacon version, thanks to u/mafinerium.\n\nSingle beacon version.\n\nEach tile gonna needs minimum 120 u235 for startup (if you are fine with checking up on it), or 240 if you just want to fire and forget.\n\nKrastorio 2 Spaced Out",
+	"image": {
+		"id": "XYtVSPV",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1774003127518,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/mods/krastorio/",
+		"/power/kovarex enrichment/",
+		"/production/uranium/",
+		"/general/tileable/",
+		"/general/mid game/",
+		"/general/beaconized/"
+	],
+	"title": "Tilable Kovarex - Krastorio 2 Spaced Out - Cheaper"
+}

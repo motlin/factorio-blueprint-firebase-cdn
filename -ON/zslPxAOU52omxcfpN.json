@@ -10,10 +10,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1773819598593,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/general/tileable/"
 	],
-	"title": "Tileable[item=logistic-science-pack]Science"
+	"title": "Tileable[item=logistic-science-pack]Science",
+	"favorites": {
+		"ZjUDOJtQyZXm6gHosaHcI9zt9oC3": true
+	}
 }
