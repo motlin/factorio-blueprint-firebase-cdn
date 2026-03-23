@@ -10,9 +10,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1773408957436,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Old Requests"
+	"title": "Old Requests",
+	"favorites": {
+		"cMWC5sgQzzPFxttM1x97rxXRuQ43": true
+	}
 }

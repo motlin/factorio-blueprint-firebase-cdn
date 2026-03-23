@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1773702749300,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/general/art/",
@@ -23,5 +23,8 @@
 		"/mods/quality/",
 		"/mods/space-age/"
 	],
-	"title": "drain patch"
+	"title": "drain patch",
+	"favorites": {
+		"1IbymY0bDHZw7phmia4XQxqRY0t2": true
+	}
 }
