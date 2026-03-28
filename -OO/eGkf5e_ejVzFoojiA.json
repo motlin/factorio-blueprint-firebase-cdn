@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Sergey Smirnov",
+		"userId": "0w5QKYFD9EgECKY0VfWQXJxcEfJ3"
+	},
+	"blueprintString": "0eNrtWs2OozgQfpWVzzDCYBuI1Od9gD1GUUQSpwcNMRljejZq5d3XhgRIg0OZnpV2pb50Osb+6r9cVeQd7Yqan2UuFFq9o3xfigqt1u+oyl9FVpg1kZ04WqFjWYuDvKCrh3Jx4H+jFb56E/sqVQo+2BVeNx7iQuUq5y108+WyFfVpx6WG8e5Hz/mZ+6r0X6WhhTx0Lit9rBQGXkPR9Bv10AWtovgb1RQOueT79jkxvHwADh+Ax3AsGMJNAETeR+FHGOZoi5E2LGn9KVkW2x3/nr3lpTTbKq62mlHDw0rJmk+RIvOkSPh7SNEZtZBkSGcCgHUAu7r44eei4lLpB2N7kUeOB/bC2jg/66zQuBpHZtK4zIhS3FFStdyVvtYMl613+DteqAmS9JGkuhhVoLJW51pNkUjchUmWCZN+QphkKEwuLLLgACwMs1qGQGTB2J1SsozSbBSHM+6KozmHv6uZYAtCH50HHVzabP6+PO1ykalyQmQSt2jBlJ9MRe0NdKufHRqgyqwOv+msecxlpbZ9ur05wy3aOwb3WaVy8eoX5S//wIVm7OJXOhXstdM1adlkeJWZdE9NZm4j42POXw5+vmgxaqG2R1metq2rro5ZUfHH22IZhevmOmmgQU6rT2e7SfDYJFNwDJoirR4TgxECC0IyfyNQPASZS0neXdkrdCoLxYWfy1L4xk5+kb1l3YZtf1CU8qTtpS9zxU+tk+SH4WV/5vzgn8pDXXA/am79dqPeJ7T137RUpWa9Odh/0/GkfXD/A60CI/rkE2x9ElqfRMY/NlPaTGfs0WV3m0XDAF6mEKtZkilkPMcbm+MthPPG3HgDlEBdVTaGJF9OOFQmAZupu9Rs6SGkYKyuRDUFJCD7hXPZL2JDwCmE2eyH5xASsHgksIo32RSkcOTQTXFRAC40LGJHGIwQWRDgqYAQJ8VFEfCOBSqLAOEiGBy4q7FqDtzWkHQI9ZhDISVtBC8ObH6SLLiMbFjpgsvDgkXADQjDn9MhwQ69uYmaEY1TLqUpv02b/Im+PXRo3P9NPvrorOqdvoka/DEr7MbIJAYB+yW12J+6x1CrE4DF4UU5sXDXx53kP2teKdPIfdefz/gjDX+3A9tjrosWWbVm2ffd2X0k5qFux8Nq194Ue12coKHAXXmje8pzJpuecoVemoXa9GlhEOh6YjMpUuIecGCFpyCXYsETl6IBXOU9h/9plVMM9kPLWJGGYARmQYicp1YkXja1omT52GpMM5kfYlHqLhtbKBv7hGwMNJKjsfOgbKw10KCMJu6U2DJKKXQkZ4sAFizohBikYWXwtwl9lCUWLkOXEUzyNYJ52v2yCDyCsb13IAuq3gTkNRQ8grHxxhZU0TDeYpcRTPI1gnnqhMmCxGNLDw6ThLt9KGwAHQfQCoFaRoLxgjxIQSPBeK566a5IK2+RexyPFTc1o4gXZAhqmbDF1D2ioeZdkCysbMZwj8Zuykyg17zV0Kl7tMGcMFkwjacRCBkvsA0MuQ+c+zu4p68Re8YJ9EVi3x859kq3MvZY1Pmhfxl3uw0c+ibcdk1T0keO0rP/r/QbD/3S7Boy68gLPeKFG2+t/3qYeOT2LwmbVTxcxv06iTzq6RacbjbtZWrq+u6nOp7mTjcoem3dcP1imN38ZX5688efXPCGubU59tL8HmejT7xpwRv9URamJE1pQoIwIMn1+g9DZMIX",
+	"createdDate": 1774530792556,
+	"descriptionMarkdown": "Creates an (almost) fully compressed express lane of stone from lava. Excess molten iron is voided. Quality components can be swapped for regular ones and subsidized by adding beacons in the middle. Requires 2 offshore pump input worth of lava.",
+	"image": {
+		"id": "AzzkJ2r",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1774530792556,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "[fluid=lava]Stone Generator[item=stone]"
+}
