@@ -83,7 +83,8 @@
 		"j4jskFYpP9bp0hMsdZN3bm2eWrr2": true,
 		"hSB9C9izavgEAXIAu3cPFZ4uFTo2": true,
 		"zTZpNFKj7Ic32N4z9j8syEN6gut1": true,
-		"P5LeA7H0SQXj0slrsYIvAPVSW763": true
+		"P5LeA7H0SQXj0slrsYIvAPVSW763": true,
+		"nAKiaPqYB0bWBjWvoIoYUpdQ3Fw1": true
 	},
 	"tags": [
 		"/production/smelting/",
@@ -97,5 +98,5 @@
 	"descriptionMarkdown": "48 Electric smelters. Optimized to use as little space as possible. Length is also optimal for how much the array can process (so there's no congestion at full load). No further balancing of belts required either.",
 	"fileName": "Factorio smelter.png",
 	"lastUpdatedDate": 1731928669249,
-	"numberOfFavorites": 77
+	"numberOfFavorites": 78
 }

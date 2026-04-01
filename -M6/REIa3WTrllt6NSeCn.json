@@ -9,7 +9,7 @@
 		"width": 1019
 	},
 	"lastUpdatedDate": 1588537933407,
-	"numberOfFavorites": 21,
+	"numberOfFavorites": 26,
 	"title": "Krastorio 2 - Gas Power Station, 18 MW",
 	"author": {
 		"userId": "a6fKhOGCIhS35WXxCk4rlqPAje22"
@@ -44,7 +44,8 @@
 		"Q6OecEH6j1PTvo1OSidt5N6QkAB3": true,
 		"1v6Ja7M59KORPB8z6APCENuYJ982": true,
 		"ro9d31Zv6vW5F2SyfTa0bP6zwfi2": true,
-		"zn0PG4UKvthhOwutqwWXA18P6Eo1": true
+		"zn0PG4UKvthhOwutqwWXA18P6Eo1": true,
+		"ngjU6kJQAySfLWY93lU8puDdpLP2": true
 	},
 	"descriptionMarkdown": "This eco-friendly Gas Power Station produces 18 MW from just water and wood.\n\n**How to use:**\n\nJust connect water supply to the boilers or any of the greenhouses. After a brief startup, the station becomes self-sustaining and will only need a steady supply of water to operate.\n\n\n\n**Independent startup**\n\nIt is possible to start the station even if no electricity is available at all, for example in a new outpost off the grid:\n1. Replace the steam tank with a steam engine\n2. Provide water, the pump can be powered with a wind turbine\n3. Fuel both boilers. The steam engine will provide electricity to the greenhouses to kickstart the process\n4. Once power is available, replace the steam engine with the steam tank again.\n\n\n"
 }
