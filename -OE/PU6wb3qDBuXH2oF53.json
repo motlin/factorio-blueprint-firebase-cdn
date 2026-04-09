@@ -12,12 +12,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1763528441881,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/vulcanus/",
 		"/production/advanced circuit (red)/",
 		"/production/electronic circuit (green)/"
 	],
-	"title": "Vulcan. Blue cursuit 7200 per minute"
+	"title": "Vulcan. Blue cursuit 7200 per minute",
+	"favorites": {
+		"LDmC29ig7xa2XCTSeXV7OMUpBk32": true
+	}
 }
