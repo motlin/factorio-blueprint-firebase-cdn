@@ -8,7 +8,6 @@
 	"createdDate": 1754585155735,
 	"descriptionMarkdown": "### Fulgora Mall \n\n**Tech Level:**\n- 4 planets tech\n- Normal quality items only\n\n**Input:**\n- 2 Stacked belts of scraps\n- Heavy Oil\n\n**Output:**\n- All fulgora items (Except mech armor)\n- Items needed on Fulgora (rails, belts, inserters, etc)\n- 495 SPM\n\n**To Start:**\n- Just build the blueprint and connect all inputs, it will power itself\n- If you want to make things faster, you can connect it to a power network\n\n### Updates\n\n##### v1.6 - 9/1/2026\n\n* **Capacity:** Increased mall stock targets so you’re more likely to have enough when you need it\n* **Fix:** Fast inserter production was using Quality Modules 2 instead of Quality Modules 3\n* **Fix:** Corrected wrong request on the Level 2 roboport buffer chest\n* **Fix:** Corrected wrong request on the Tesla turret buffer chest\n* **Fix:** Fixed radar production\n* **Fix:** Fixed battery delivery to personal roboport production\n* **Throughput:** Added a 4th rocket silo\n* **Logistics:** Converted several passive provider chests to buffer chests (better local availability / export control)\n* **Export:** Now buffering all Fulgora intermediates in buffer chests for export\n* **Balance:** Removed 2 holmium foundries (excess capacity)\n* **Balance:** Removed quality modules from Quality Module 2 EMP production (not useful in this setup)\n* **Balance:** Removed quality modules from bot production (not worth the complications in early–mid game)\n\n##### v1.5.3 - 18/11/2025\n- Fixed a wrong alert message\n\n##### v1.5.2 - 16/11/2025\n\n- Fix: Several chemical plants weren't connected correctly\n- Fix: Incorrect inserters for constructor bots and logistics bots\n- Fix: Replaced fast inserters to bulk inserters for assembling machine production to meet the correct rates\n- Fix: Removed productivity modules from Lubricant production and replaced it with efficiency modules. No need for productivity when heavy oil is free\n- Feat: Replaced some pipes with underground pipes for easier navigation in the factory\n- Fix: Increased water production - the factory throwed ice while it needed it\n- Feat: Added some efficiency modules to recyclers to reduce power requirements\n- Feat: Increased lighting rods production by adding a stone bricks production as needed\n- Feat: Added repair pack production\n- Fix: 2 rocket fuel assembling machines weren't properly connected",
 	"favorites": {
-		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
 		"0YJeCHIzuWRtFLTYO4mbkcEnsxe2": true,
 		"7El66SoblkMPufIlrPMB1UYvNkp2": true,
 		"YoiszhSYNDXcJVOiwKKV2QVvrfF2": true,
@@ -68,7 +67,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1767964741004,
-	"numberOfFavorites": 54,
+	"numberOfFavorites": 53,
 	"tags": [
 		"/version/2,0/",
 		"/production/mall (make everything)/",

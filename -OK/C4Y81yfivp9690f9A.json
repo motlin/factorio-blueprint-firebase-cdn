@@ -7,7 +7,6 @@
 	"createdDate": 1769746084804,
 	"descriptionMarkdown": "### Legendary Uranium-238 + Legendary Uranium Ammo (Quality Loop)\n\nThis blueprint turns **uranium ore + molten iron/copper** into **Legendary Uranium-238 and Legendary Uranium Ammo**, while also exporting **Legendary Piercing Rounds Magazine** as a byproduct.\nEverything below Legendary gets looped + recycled until it upgrades.\n\n##### Inputs / Outputs\n\n**Inputs**\n\n* 2× stacked turbo belts of uranium ore\n* Molten iron (pipe input)\n* Molten copper (pipe input)\n* Power\n\n**Outputs**\n\n* Legendary Uranium-238 (bot chest)\n* Legendary Uranium Rounds (bot chest)\n* Legendary Piercing Rounds (bot chests)\n* U-235 leftovers (route wherever you want - 0.5/Sec)\n\n##### How to use\n\n1. Paste blueprint\n2. Connect Inputs\n3. Power\n4. Optional: change **R** on the combinator to switch mode. (Keep Ammo, or recycle Ammo and keep only Uranium-238)\n\n##### Updates\n**Update 30/1/2026:** v1.0 initial publish (testing entities included).\n",
 	"favorites": {
-		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
 		"hbidJdCRkpWdiEsbcmFUN9ys6M32": true,
 		"HShqmSxkwIW0bNaRy1eUj73AOLA3": true,
 		"Vx9R519Xg6TJDNtA74BzorAre3I3": true,
@@ -21,7 +20,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1769746084804,
-	"numberOfFavorites": 8,
+	"numberOfFavorites": 7,
 	"tags": [
 		"/version/2,0/",
 		"/mods/quality/",

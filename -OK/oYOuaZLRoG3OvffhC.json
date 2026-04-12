@@ -8,7 +8,6 @@
 	"descriptionMarkdown": "## Legendary Captive Biter Spawner (Upcycler)\n\nUpcycler to create legendary captive biter spawners.\n\nThe factory will alarm if captive biter spawners are waiting too long to be placed.\n\nThere is a constant combinator that acts as an on/off switch. The intended way to use this factory is to run the upcycler only when you need legendary spawners, and stop it when you have enough - they spoil if you stock them.\n\n##### Notes\n\n* This factory needs a massive amount of resources - make sure you have enough so you don’t starve the rest of your system.\n* The factory will craft capture bot rockets if the required materials exist in your logistics network.\n* It stops requesting U-235 if you don’t have enough in the network.\n",
 	"favorites": {
 		"Vx9R519Xg6TJDNtA74BzorAre3I3": true,
-		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
 		"M0KdcgGSzmOVA23Bcmp8exNwO8F2": true,
 		"2SArvG1t1CRb35coWlEQvYkHK8i2": true,
 		"3nH3IavT18XfUtSJky8ZqAZcYZm2": true,
@@ -19,7 +18,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1770408337571,
-	"numberOfFavorites": 6,
+	"numberOfFavorites": 5,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
