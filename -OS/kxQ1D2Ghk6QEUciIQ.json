@@ -12,10 +12,13 @@
 	},
 	"imageUrl": "https://i.imgur.com/D77AHs6.png",
 	"lastUpdatedDate": 1749946924041,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/train/track/",
 		"/circuit/indicator/"
 	],
-	"title": "7 Segment Display using Trains"
+	"title": "7 Segment Display using Trains",
+	"favorites": {
+		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+	}
 }

@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1775965256104,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/general/mid game/",
@@ -24,5 +24,9 @@
 		"/power/accumulator/",
 		"/planets/space-platform/"
 	],
-	"title": "Gigaslug 600-ton ship"
+	"title": "Gigaslug 600-ton ship",
+	"favorites": {
+		"0q0ujwCFNpVLhBSOFVdjq4laiyy1": true,
+		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+	}
 }

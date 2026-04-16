@@ -12,9 +12,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1760898886190,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Space Science"
+	"title": "Space Science",
+	"favorites": {
+		"GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+	}
 }
