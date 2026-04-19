@@ -26,10 +26,10 @@
 	},
 	"fileName": "20180614220838_1.jpg",
 	"image": {
-		"width": 1920,
 		"height": 1080,
 		"id": "G3YIm86",
-		"type": "image/jpeg"
+		"type": "image/jpeg",
+		"width": 1920
 	},
 	"lastUpdatedDate": 1529025887611,
 	"numberOfFavorites": 15,

@@ -6,14 +6,15 @@
 	"createdDate": 1774474016431,
 	"descriptionMarkdown": "My attempt at an 18x18 train system to align with a substation power grid. This took me 15,000 hours because I didn't know anything about trains when starting this so there are probably a few bugs here and there that I missed, feel free to report them in the comments. \n\nThis book follows the conventions laid out in [Avadii's Scalable Train Network](https://www.youtube.com/watch?v=G9GWl4X2ln0). This is a combinator-free, wiring-free system for people who don't support that kind of foul thing. \n\nTrains will always go to a free loading station of any kind. \n\nTheir inventory will set the Unloading station using the wildcard name system, so the only stations that need their names changed are unloading stations, and these are parameterized so the only thing you need to do is select the symbol of the item you want to unload when placing an unloading station. \n\nIf no loading stations are free, trains will go to Relax stations. \n\nI tried to make this as simple as humanly possible for my own sake, so hopefully it's not too confusing. I also tried to get good symmetry and bot network coverage as well. Hope someone finds this useful!",
 	"favorites": {
-		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true
+		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
+		"Fy5hTWEtecg2olLseEAikhkEdqj1": true
 	},
 	"image": {
 		"id": "s5yZKf3",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1774897735374,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/",
