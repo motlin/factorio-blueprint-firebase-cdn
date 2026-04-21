@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "Leland Beckwith",
+		"userId": "v5E4PdhSPvQatcxK3cfrj3KZdyU2"
+	},
+	"blueprintString": "0eNq9Vstu2zgU/RWCm5kWtMeSJcUxOt0UU2A2QTHb1BAo6comIpEaPuwIgf99Lim/7WbSLJoHQF3eF+85R+ILLRoHnRbS0vkLrcCUWnRWKEnn9B8nDeGkdrL0FoJ/dgVEyM5ZsuYYSKwiFVjQrZBANituSd04UZEG1tAEb8vlE5EAlfHOLcdK+O/XS7DBA4sKDRWpRdOQDnQJ6LKE8Xf5XX7DSpxI1xagSQF2AyBJNCFcVmQ2IWLoqFRtISS3ShM+5Cx4+UQAnVQdnjvXdixE2ZUwpBS6dMKSjS9Z4OmXpFdO46Z2Bo/j27PhNN5hOAx3VrXcipI3TT8mD6Eng001arNviRdqDb6xAlYcV6D3AWgpuTMQuoF/HQ8TxVa4JLzrtHoW7WALdQsN/MmQSm3kcCSFoaEPw0iBQxH2N0NapXA8ZretuVwCJvRHGsr7Woa3gEX6De/HlFFRKmno/PGFGrGUvPGoS3RBuA3OD+c+8ojRLbrKCp7pPNouGEVIhBUwRIaHPh9QQQe2z+BzY7QdHQHBkp0yYmDUC8V8o3ScMtpj3DjFKhViXw7bUcx8CqtVk4cTCIzHIDM4mPM1NrLvkFHECWG7tNq+822thbYOj3roczj66BtaEIkGD4NGqXQbnLD5juvQ/Jz+GQzOyyNOtwv8xZ67hveg83O1/B1kUSs9QCyXXhK1Q+ZoWLrG5xuT4GQGjLkGsgbdk4brJRAMDE+m9Qj+Hk0+PX+aTT7ssXSyQ5GI0vKi6QcOGCFLCHgHMZ5w8Rr/6tTvkqZ7Pzaow7OSSCVHwhgHY+TCFebxYZZcC7tqAWn+OurZDvX4HPPZbciPWXPcrsQB/1poY/Mjd/8XYiyHnMEc+Z6ddJ7d3cUZHkF1QaABvo8Yq5xFeN6e/YFu8ed6OtN3KiK+VMTs1wri4ecEMcrSLIln2auy+AvB29Gq9i9ZEhjXKu1phy+/aCeVmzRLDh36F/iNySW7yU3fNLfdaz8HiSKCis6tdsAO5gPTXiFa+LwdB7f/YIy80D3XjiSLrgZ3kyvpu5WU/FIlPdxUUjTxP+dK+uMdSvryAyVlB8cKSlHhoN8kpGR7exi7JBeTOH16/OnBfDkZzDvocsKQz5SdFc8lXniUfgpN6iNflxpvQXRe88bAZe3rmOB2CPIZtv6LPiB0eRV4c9tdn4e3QF5r1ebhSrjvaHETyTt2855xjeF0hyFiGRrdIMV9m48Ri1jMogV7jNmUpWE1RduwSnAvYwmuUtzNgi1D2x2LF5hFWGix9vG2y2jD8XuJtq8uXFW1srbBS5Zo0deTC7/GJvSVZvF9cn+fzpJJPElm2+1/+5Db0g==",
+	"createdDate": 1776599762101,
+	"descriptionMarkdown": "Runs a function on the input value to determine what fluid level the tank needs to maintain to get the desired fill percentage.\n\nPut a number between 10 and 80 in the combinator at the back end of the pump, and this circuit will bring your thruster to that fill level automatically. Numbers below 10 and above 80 behave eratically because the equation is an approximation that breaks down at those levels, but it's moot as those ranges all behave the same anyway.",
+	"image": {
+		"id": "RvqrNMU",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1776599762101,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/mods/vanilla/"
+	],
+	"title": "Fuel throttle limiter"
+}

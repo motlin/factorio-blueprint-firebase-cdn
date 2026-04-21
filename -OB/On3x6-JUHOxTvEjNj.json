@@ -12,11 +12,14 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1760306610727,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/general/tileable/",
 		"/mods/vanilla/"
 	],
-	"title": "Simple, Tileable, Beaconable Kovarex"
+	"title": "Simple, Tileable, Beaconable Kovarex",
+	"favorites": {
+		"JUtihGLTRgXl3VegknUWPNhfcn93": true
+	}
 }
