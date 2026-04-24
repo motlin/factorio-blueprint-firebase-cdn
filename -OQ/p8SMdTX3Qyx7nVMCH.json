@@ -1,0 +1,26 @@
+{
+	"author": {
+		"userId": "moWxiudCgHYDfSqgVXvgjjmjlQb2"
+	},
+	"blueprintString": "0eNqdnM9u4kgchF8l8hlG7v82DzDSnue4Gq0I6Z21ZAwyzmqiiHdfM1kpaOxOquqQAyT+Uml+H2U3kNfqsX/O57Ebpmr3WnWH03Cpdn++Vpfux7Dvb/dNL+dc7apuysdqUw37469b42nYnvv9lKvrpuqGp/yz2pnr5tMDL1PO/fbv53HYH+6PtdfvmyoPUzd1+S3Brxsvfw3Px8c8zvACYlOdT5f5qNNw+50zaRu+hE31Mh/xJVxviX4DWRT0CcfRgfw6yLOBCpxAB0rroMgGKnAS/5DV66SGfswKoJaP5NZJpqYzlUjCaMcCih/uEokfb9MWUPSAF0n8iFtbQNFDXiTxY25DAUXPeZHED7ptCs+X9KAXSfygu9KTOD3oRRI/6K7wBGzpQS+S3gd9GvfD5Xwap+1j7qclqv4fdXvC21RP3ZgPb9/1a9xIcw3ETTTXQtyG5jqI29Jcj3BdTXMDxDU0N0JcS3MTxHU0t4G4nua2EJf3zUDCOUE4yDjHG2cg5RyvnIGcc7xzBpLO89IZyDrPW2cg7TyvnYG887x3BhLP8+IZyDzPm2ch8zxvnoXM80LXQeZ53jwLmed58yxkXuDNs5B5gTfPQuYF3jwLmRd48yxkXuDNs5B5gTfPQeYF3jwHmRd48xxkXhBOMyHzAm+eg8yLvHkOMi/i5m1vZyr4tUfE1SPBTogMDVz0fGQMHITI0CjHyEfGwEmIDEkSGz4yBm6FyJB+qeYjY2BFP0jsJOiHgRX9oLJOgn4YWNEPOg1Ign4YWNEPOsFIgn4YWNEPOnVpBP0wsKIfthPQCP6BZKn/oJ5qlALEyIqC2A5GIzgIkhUJsd2RRrAQJCsaYjsvreAhSJZEhPqqVUTEyJKIUGO1iogYWRIR6qxWEREjSyJCrdUqImJkSUSot0ytmAiiFRWxPTpTCy6iaEVGbAfQ1IKNKFq6MrQYW7k2BNGKkNjupakFI1G0oiS2N2qMoCSKlpQMGFtREkRLSkaMrSgJoiUlE8ZWlATRkpINxlaUBNGSkliVWUVJEK0oie2nGysoiaIVJbHdemMFJVG0oiT2WoCxgpIoWtpDxarMKruoIFpREnsdwzhBSRQtKYlVmVOUBNHvSnbDJY/TfO8ysC293BBXmR5gFpF2FRmQmA0XMwLMhouZmNX0WMyGWE2PxWyZ1cRi3r0v5vPVxGLevSMGWM2ExbTEaiYspmNWE4zpidUEYwbK9BrLGRnVayxoolwHgzaM7GDQllpRBwUNNbOiDgoaDLWiYFDLrCgYlGujiAWl6ihiQbk+AoNShQQGpRppuUm3HpSppCVzPSjVSWDQyJQSGDRSrbTc0VoPytTSkrkelOolNChTTGhQqpmW2z/rQZlmWjLXg1LNhAZlmgkNSjXTcq9kNWhimmnJXA2aqGZCgzLNhAalmslhVyCJaSaHXYIkqpnQoEwzoUGpZnLYVUhimslhlyGJaiYwaMM0Exj07v0kx/zUPR+3uZ8PGLvD9nzq88efjloFWhHYlIBOBBpfInr1b65LxKASSx9uvXuLCEd0xQfm90+BHv7Jl493mooPSYOhABLkyTsHe2GhRUT5EPp98/ZfAXZ3/31gU/X7x9zP933dH6bTmH8+fB1zfvi2P577/LB9+GM8DQ/fjrmfuuHH/OP/5vHyZl4zX6C2NsUwf5l4vf4HUIb3tw==",
+	"createdDate": 1776860649062,
+	"descriptionMarkdown": "Free sample from Factorex: a ratio-perfect 24-furnace iron smelting array sized for a fully compressed yellow belt.\n\nMetrics:\n- Items/sec: 15 iron plates/sec\n- Belt saturation: 100% of a yellow belt\n- Power draw: 1.8 MW\n- Footprint: 792 tiles\n\nWhy it is optimized:\n- Shared center feed keeps the furnace count aligned to the 24-furnace yellow-belt smelting ratio.\n- Dual output lanes terminate into a small buffer so the bus stays stable during short downstream stalls.\n\nPart of the Factorex blueprint pack series — full packs at https://factorex.nanocorp.app with 3 tiers from $4.99 to $19.99\n\nFree sample — all packs include items/sec, belt sat, power draw metrics for every blueprint",
+	"image": {
+		"id": "T1rqu9g",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1776948667868,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/tag/iron/",
+		"/tag/smelting/",
+		"/tag/automation/",
+		"/tag/ratio/",
+		"/tag/starter/",
+		"/tag/metrics/",
+		"/tag/optimized/",
+		"/tag/ai-ready/",
+		"/version/1,1/"
+	],
+	"title": "Factorex Free Sample — Ratio-Perfect Iron Smelting Array (with metrics)"
+}

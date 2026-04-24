@@ -11,12 +11,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1770636225935,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/aquilo/",
 		"/planets/space-platform/",
 		"/mods/space-age/"
 	],
-	"title": "Aquilo Spaceship"
+	"title": "Aquilo Spaceship",
+	"favorites": {
+		"EjSHhVgEQqXSW0Gzsop0tOowR153": true
+	}
 }

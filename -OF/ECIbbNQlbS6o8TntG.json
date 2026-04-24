@@ -12,11 +12,14 @@
 	},
 	"imageUrl": "https://imgur.com/sXZMN6d",
 	"lastUpdatedDate": 1776396174462,
-	"numberOfFavorites": -1,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/combat/offense/",
 		"/combat/defense/"
 	],
-	"title": "Secure Wall Blueprint"
+	"title": "Secure Wall Blueprint",
+	"favorites": {
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true
+	}
 }
