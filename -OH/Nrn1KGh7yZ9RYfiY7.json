@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "Here is a self-contained, self-unfolding exploration of Factorio circuits that arrive at the culmination of 3000 hours of game time.  It is fully integrated with a multiplexer through a single line of communication and designed for user participation.\n Features include:\n    Full train logistic system with \n        pickup, drop-off, and depot stations +\n        dispatch organized by cloud computing...\n    Personal train system for automated transportation...\n    Multiplexer Playground Patio with multiple multiplexer applications...\n    Remote memory banks...\n    Garden of Circuit Components used in making larger machines...\n    Easter Eggs!\n\nThere are carefully worded signs throughout the park and each combinator is commented in regarding its function. \nThere are series' of things to do to get processes moving and invitations to explore.\n\nALSO INCLUDES A FULL BLUEPRINT BOOK  which makes the components of the complex system available as individual modules for plug-and-play parametrized installation.\n\nThere are many PUSHBUTTONS and several COMPACT CIRCUITS in the blueprint.  The bulk of it will work without the compact circuits but it will be impossible to get along without the pushbuttons.  Both are really great mods which we highly recommend.\n\n****BLUEPRINT REQUIRES EDITOR EXTENSIONS MOD** This was unintended as the mod hijacks infinity chests and electric interfaces.  But, truthfully, placing a blueprint this size without it would be difficult, getting bots to build it and whatnot.  With Editor Extensions you can just paste it into existence.\n\nThe park is designed to be placed in a sand box or an editor mode which includes sandbox items like the energy interface and infinity chest.\n    ",
 	"favorites": {
 		"Sqgtn3PWvjTnsmfLrnIWGO9aBJO2": true,
-		"xuiWbcAUWybPltiQlSb9QEpAGk53": true
+		"xuiWbcAUWybPltiQlSb9QEpAGk53": true,
+		"1p6yvSBu9AetTpZrNLzCNaTFSZq2": true
 	},
 	"image": {
 		"id": "6bWsd0G",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1766789044835,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/circuit/indicator/",

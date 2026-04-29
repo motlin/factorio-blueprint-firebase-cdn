@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1774729231398,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "cityblock 1.0"
+	"title": "cityblock 1.0",
+	"favorites": {
+		"1p6yvSBu9AetTpZrNLzCNaTFSZq2": true
+	}
 }

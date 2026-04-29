@@ -7,6 +7,7 @@
 	"createdDate": 1750598730805,
 	"descriptionMarkdown": "Blueprint for system that handles rocket delivery logistics in ways similar to a LTN Train network\n\nTo use, place down 1 mission control and as many rocket silos and landing pad prints as desired for a particular network. \n\nSignal transmitters, receivers, rocket silos, and landing pads use naming conventions like so: \"[NETWORK #], Control -> Demand\" or \"[NETWORK #], Demand -> Supply\", or some other combination thereof. Just change [NETWORK #] so that all the requesters, suppliers, and the mission control share the same ID. (Or keep it as default if only one network in the save. \n\nMission control, the requesters, and providers can be placed on any surface all completely separate. \n\nNixie tubes, text plates, and miniloaders are optional, though miniloaders are recommended for quickly loading rockets\n\nDifferent floor tiles indicate areas of where you need to interact with a combinator or larger system. Read associated loudspeaker.\n\nSEE IMPORTANT INFO BELOW. DO NOT USE WITHOUT READING\n\nImportant info:\n\n1. Make sure all signal recievers, signal transmitters, landing pad name, and rocket silo landing pad destination are set to the correct names. Naming structures for each are provided pre-installed. edit as needed.\n\n2. MAKE SURE YOU ADD USED LIFE SUPPORT CANNISTER TO EACH LANDING PAD! \n\n3. Use combinators in mission control to disable rocket loading and launches when adding new landing pads or silos\n\n4. Loudspeakers located around important combinators/areas have notes. These tell you how to use the system and how to customize it.\n\n5. DOUBLE CHECK THAT YOU ADDED USED LIFE SUPPORT CANISTER TO EACH LANDING PAD BEFORE ENABLING REQUESTS TO GO THROUGH\n\n6. Infinity chests used are only for the purpose of testing and showcasing ways to hookup wires to loading mechanism. Can use warehouses, small chests, anything, just be aware of how to connect the wires.\n\n\n",
 	"favorites": {
+		"8WtdcIFYkcSF3BryYvawcsl6ZBy2": true,
 		"FZBtFEpS13N87hKr26AjNJlgda92": true
 	},
 	"image": {
@@ -15,7 +16,7 @@
 	},
 	"imageUrl": "https://i.imgur.com/zRcRvuP.png",
 	"lastUpdatedDate": 1750598730805,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/mods/space-exploration/"
 	],
