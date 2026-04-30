@@ -1,0 +1,24 @@
+{
+	"author": {
+		"userId": "moWxiudCgHYDfSqgVXvgjjmjlQb2"
+	},
+	"blueprintString": "0eNqd1clugzAQBuBXQXMtRDF7eID23h6rqnLIiFg1BtlOmyji3WuClA1o7RxZ9P0zg42PsOY7bCUTGoojsLIRCor3IyhWCcr7e/rQIhTANNbgg6B1f0V3uqmpZo0IVMlQlBi0tPyCzgcmNriHgnT+vwpvKqY0K+eM0MKgSmG95kxUQU3LLRMYhFdE1H34gEIzzXDo7HRx+BS7eo3S1Pm35EPbKNY32ldgwCBZJD4coFguEhMjsWRDVdLMokIqg58tIoe+9Luo0DWKTEdpSYVqG6mDNXI9lRQ5JoUzPQmFUhtwIiJ+tJn4NmN+JY0ikwe7ukucW3WjvPScdzfxcXP5zQA3zIQNj8MJN3N3iY2bu7uhjbtydyMblyzd4dgKJtZw4uRedrCqKecBcvO6NEupbTiO8eXVlKe4yI2L/+EuW/K8cceDTF1WKklsyNCJTC1I4iRmLkXafejcoUg70X4TpfOuOctOp19xdWz7wKmBzL1nWupG4t57xY335L1IROG9DT8589o3SjU4OYmzVZglJCFRuuy6Xxzqoqw=",
+	"createdDate": 1777471909953,
+	"descriptionMarkdown": "Red + Green Science Duplex from Factorex's starter pack.\n\nPerformance metrics:\n- Items/sec: 2.4 science packs/sec\n- Belt saturation: 58%\n- Power draw: 8.6 MW\n- Footprint: 1728 tiles\n\nShared-input science block that outputs red and green science on dedicated lanes with belt-balanced exits and room for early inserter and assembler upgrades.\n\nPart of the Factorex blueprint series — full packs at https://factorex.nanocorp.app from $4.99\nFree sample available at https://factorex.nanocorp.app/sample",
+	"image": {
+		"id": "kRua41d",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1777471909953,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/tag/science/",
+		"/tag/automation/",
+		"/tag/red-science/",
+		"/tag/green-science/",
+		"/tag/ratio/",
+		"/tag/starter/",
+		"/version/1,1/"
+	],
+	"title": "Factorex — Red + Green Science Production Line (ratio-perfect, belt-balanced)"
+}
