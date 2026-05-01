@@ -10,7 +10,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777508639426,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/tag/circuits/",
 		"/tag/green-circuit/",
@@ -20,5 +20,8 @@
 		"/tag/optimized/",
 		"/version/1,1/"
 	],
-	"title": "Factorex — Ratio-Perfect Green Circuit Factory (12.5/sec, direct-insert)"
+	"title": "Factorex — Ratio-Perfect Green Circuit Factory (12.5/sec, direct-insert)",
+	"favorites": {
+		"UBRuttuJchbBwZv4Cb4Le1D2meO2": true
+	}
 }

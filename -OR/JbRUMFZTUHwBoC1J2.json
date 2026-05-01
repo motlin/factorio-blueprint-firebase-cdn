@@ -11,11 +11,14 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777388603532,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/",
 		"/mods/space-age/"
 	],
-	"title": "Vulcanus base"
+	"title": "Vulcanus base",
+	"favorites": {
+		"wrfECyFGzUZWB1f4Lrz2TYuqtH62": true
+	}
 }

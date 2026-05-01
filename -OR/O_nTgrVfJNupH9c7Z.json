@@ -10,7 +10,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777508602689,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/tag/science/",
 		"/tag/automation/",
@@ -20,5 +20,8 @@
 		"/tag/starter/",
 		"/version/1,1/"
 	],
-	"title": "Factorex — Red + Green Science Production Line (ratio-perfect, belt-balanced)"
+	"title": "Factorex — Red + Green Science Production Line (ratio-perfect, belt-balanced)",
+	"favorites": {
+		"UBRuttuJchbBwZv4Cb4Le1D2meO2": true
+	}
 }

@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "Ships for different stages of the game.\n\nSmart astroid handling, smart reprocessing recipe, speed control, compact layout, no quality, stress tested. \n\nBasic: travel to Vulcanus, Gleba, pause between stops to stock ammo.\n\nIntermediate: travel to Vulcanus, Gleba, Fulgora, pause between stops to stock ammo.\n\nAdvanced: travel to all planets, no pauses.\n\nThey need different level of damage upgrade researches, read description for more.\n\n\nEdit:\n27/04/2026: Modified advanced ships to only require Stronger explosives 8 (was 12)\n",
 	"favorites": {
 		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
-		"EHqWBpG6KMV7ON1my9eTPPNhUIf2": true
+		"EHqWBpG6KMV7ON1my9eTPPNhUIf2": true,
+		"wrfECyFGzUZWB1f4Lrz2TYuqtH62": true
 	},
 	"image": {
 		"id": "Yuv1Ca9",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777311797346,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
