@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Zijkhal",
+		"userId": "hGo5fog4soUnOwsYrpcrNTqex2O2"
+	},
+	"blueprintString": "0eNq1Wktv3DYQ/iuEztpUfIoy0FN7yaFAD720iRFotbSXiZZS9bC9MPzfS0ne3TiW4uFYhQFLK1HfPDicj0PyMdqWvakb67ro6jHambZobN3ZykVX0Z9NtesL05JPtjOHX61rTdOZ5prsbGOKrjySm6Y6kLrMO9N+dmRDisq1/cF/QdXpo6Zym7HF9S9tTPJvOfnatx2p7kxDcnI0ZVndk60pu5cAp++Lqq5Nc0YYG9UnvcSPmg0NPru/9rYl3hR76wbAO+OscYO6+7wlbZ0XhtxUg/TW+Nc7f/H63LxWeFSrJc48dKSrSLc3xDzYtrPullTOeHPu97bYEy/NPOSjQ4yr+tv9M/xNX5YjxoBe9V3dd4N6vzXGo+/I9kj+sV+/7fMyiiM7WB5dfXqMBrX9I98bLj8Y3w0n66In38ztzEN0RZ+u48jbZDtrpq/GH8cvrj9sfcsrGp++7prctXXVdJtBEy+prlo7dfBj5KE2Sn6QcXT03+gP0ouYOndsoJ/iV8gMg5xBkPkZOW9bc9iW3s+bQ17srTMbOoMv9Ut8j27r0WNDH96avNnc740Z3Du9+vJvn5depG/iqubgvTyjhjircZO33ebs/Rn5atFzYgZYnoFbL7rcmNK3bmyxqavS/BR+MG8GUJ0Bex8WzW1T+etSZ8ifdHMcdcfJcc7H6JxTUrhT5Bta61A3iDcAsyA38Pe4gSbw6JdsURJlc9gU7mMeNLAogyOzMGQe5PvkXb4PGJjJGyFDJRhLZIHdqALj+yJgSdk0NDGK9P9IjFTDg18kYXGUYaBhfJUgCIslIGgMyzIKgmahfa7YSwHnPn+eQRX5dgy/gA5nPJwKX3tudpQwBMu+9tw8tAyeR4gF132nVYjbVLACdF0F0vDs9rrf5qYwTCOQKQg5C05yfPWA5wkiDcEGNKcYaFAa4pgpOWMgaHgGUGIReXaYcoHRmoO0lgitOUxrBYdOAh2SIqCBWmt0afWs/HlwTbOZyvn5TGGbordd4BDLEImfQzKISFDl0ExIneeiU80+WyRSVNGBFMZQs2ykMI5I8bAwFAI9kV07DEVAAbCcMmfDUCGQYQEeQOs0TGfMzB7GICJDKA1yh0SRNYhAJGpiL0DQLLA8vDCUmC8PJccoK0HKCnwVItaalEmJ4EUJSkgytFa/0OJSZ6QIepOgcA8YozIwJjMcc0rEKo4KWUHjQWYoJCejzAiYc18IGWYGbk0NZ4ZAkD1sbKnQ5e4L1y+MLYVhVtDYUim++Fwtz6nQhfELXy45DLOqBgvSFEW+INJJUeSrQNAMURgqULinKBZOQVq/g4XTtaIzxbAw0HUKX52qdcuCFEPfKcxKjV+WTNdYFUwz/LLkKgroBEE2KSR/a4ovLFeOIM0QJKVARnI8Sa2WBrRAlHMw8ySGUUBpXysMNCg36xST9kEbV1pjoEHbbTrDZ9w1dxSzBJFuYduwGcWetmBLxwxY+BkIWHdkHHskYlFXEX6WYBFLhp8eWMRS4Xv4QB9i9rxAx3Yyjd3QX/RChqerVTf0E9QsHpS9aILa8IKdFkgwO148gWEjNr05aPOUJgK1zjKjOGAdnyYStRyClaYQJ6M47LAATVLUkgjWFMQmN9gSTEk+F7nXcXTvfw+HPz/J2P+pWF7H460e7/z/mE4Ph0us5NSAfdd4eO6JcrgfXsdKX+6z6X54HXuCGu/56bmXPhyW9VZcjg/HUZl7S/yz3z+Sv6dzvR+fXUf+qHb9mCzvTNOOJkjFMpFlUouEJUI/Pf0HQQx+HA==",
+	"createdDate": 1777719265262,
+	"descriptionMarkdown": "Produces [item=inserter] directly from plates\n - consumes 16 [item=iron-plate]/s, aka just over a yellow belt\n - consumes 6 [item=copper-plate]/s\n - produces 4 [item=inserter]/s\n\nThis design conveniently has space for a second set of [item=iron-plate] belts next to the existing ones, which is exactly enough for a full belt of output\n\nCreated by Zijkhal",
+	"image": {
+		"id": "Avx4pbu",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1777719265262,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "DI Yellow Inserter Module"
+}
