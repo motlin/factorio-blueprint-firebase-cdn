@@ -7,15 +7,14 @@
 	"createdDate": 1777585332187,
 	"descriptionMarkdown": "### Early Game Nauvis Mall\n\nA simple early-game mall for Nauvis, covering the basic items needed for the initial base.\n\nThe book includes several upgrade blueprints, allowing you to start small and paste improved versions over the previous mall as your base grows.\n\n**Usage:**\n- Build the first blueprint\n- Connect the required inputs\n- Connect power\n\n**Upgrading:**\n- Paste the next blueprint over the previous one\n- Make sure the input belts are still connected\n- Check that existing inputs were not overwritten",
 	"favorites": {
-		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
-		"vpKF8AGaOMeanbKNY6IWlcaNYka2": true
+		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true
 	},
 	"image": {
 		"id": "jEsOZ5l",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777585332187,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/general/early game/",
