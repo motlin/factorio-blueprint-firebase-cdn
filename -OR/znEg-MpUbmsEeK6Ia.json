@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Ygor Dyego Lopes de Oliveira",
+		"userId": "PmNxh1ZbplZBseokvHguJbI5MPv1"
+	},
+	"blueprintString": "0eNrVmE1v4yAQhv+KxZl0/Z0PdU973dNqL6sosrBNWlQbXMDZjSr/9x1w4jSJUzlpUzXtBY+ZgXl4B3BeUFrUtJKMazR7QSwTXKHZ/AUp9sBJYWyclBTNkBSpqITUqMGI8Zz+QzOvWWBEuWaa0dbLPqwTXpcpldABb72XROkR44pKDS8wqoQCL8HNABAp9sZ3EUZrNBv58V0EQ+RM0qzt4fkYwby0FEWS0keyYkIav4zJrGY6oZykBc3RTMua4s4MLnk3xpJJpZOjpArxwJRm2chkZ1MzADQxNFzzUFZEEm3GQ/eogfdLVkAGbbZbDPhEOIyea1IAEHjFhSxh6IOY35FBWCuadHFNEg0+QukPRzn9XJR6XZlprZjUtc1wM8+2xyh7pNnTPln/mEJHNilFbrzTgmRPBdBEw/gE3bgVUYqt6KiSYsVyKs0MbJgjUJM9UD1BQ3yk/p4w2yBR0w9XUpInTNNSbZKD/K3NqiQBKLrLC1481zDdXb5Qiu3q7WuuWfRNOLqk4MJDlYRfXSQnys86y9pmcYUSjC+BG90c3EsrcNyNm9bL5bC6a6U3VPMfv/saQ22ARK5rUtrE9N8rqb24i/5anVyyo4e3t6N//lk5vYTsZxTqaVG99+Zx5a3Pc991vEb9x6vnDTlfff/rnK/ebmcgkunHkhoFA9SUcQu1B0O4mb4/UGC7wDsxqQvK9LcRFeQGMYY7/TJOoqIgETtH9A26iFpX9UAdN73YdreznGatat5ktjs/gxOLvolzgOj10/zi+otcUxdt1odfQ8P3xmqd2EMgWUpRJoxDMDRbkkJRqy1UFWQNCeRUZZJVG9w/Wck0cYgDVlIQB2rC2daGk1Mnl4LDt1Yf4/BMxvGZurwucfcLMIf9EpjmBDhroUmxA+5w4qRE0V7w0Zngp1cV91uftLcp7Pg8vr53Stin7krXw33Dqh6ffdL5wbngP+qo+3P1o+5wmeEPFvYvpGiWde5jD0+wt8DzEFqQrmlGphngYNOMrXFijJE1wvUH/sfWDC4Bhi3ctgNj79rWbvvbgG0YE8K0rT1u4wQLmJK5B9mPt+2vehgVJKWQC/rRrgDJhSSvSg6jFVyELIIo9qfhdBpNQtd3w0nT/Af06+my",
+	"createdDate": 1778113117110,
+	"descriptionMarkdown": "Controla a quantidade de drones escalando com o numero de Roboport da base em 50 por roboport ate o limite de 5000, os combinadores de decisão podem ser alterado para escalar e limitar como vc bem entender\n",
+	"image": {
+		"id": "SQIqSpi",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1778113117110,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Controladora de drones"
+}

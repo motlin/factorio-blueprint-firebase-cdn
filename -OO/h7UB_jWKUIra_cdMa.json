@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1774578693056,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-exploration/",
@@ -19,5 +19,8 @@
 		"/production/research (labs)/",
 		"/production/science/"
 	],
-	"title": "Green Science 60/m (Space Exploration)"
+	"title": "Green Science 60/m (Space Exploration)",
+	"favorites": {
+		"ln2Bu0PgD7ZbzlEUcwd1w45FMLk1": true
+	}
 }
