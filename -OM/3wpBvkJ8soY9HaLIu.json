@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "Red wires between reactors need to be connected for each expansion. The green wires between the inserters will need connected on both sides for each expansion. The constant number in the arithmetic combinator will need to be increased by 16 for each expansion of 2x8 and 32 for each expansion of 2x16",
 	"favorites": {
 		"qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
-		"u2fbtstWcwXPbDZD6En6iFDIrF52": true
+		"u2fbtstWcwXPbDZD6En6iFDIrF52": true,
+		"Es2GuyTGjXZmx7DFRyNd4mbyicJ3": true
 	},
 	"image": {
 		"id": "awrSXpw",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1772361240692,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/general/tileable/",

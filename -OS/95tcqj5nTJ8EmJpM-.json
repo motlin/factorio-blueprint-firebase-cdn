@@ -1,0 +1,22 @@
+{
+	"author": {
+		"userId": "fLEXtAStXbc5v8DWUkHome5Psjw1"
+	},
+	"blueprintString": "0eNrdVsFu4jAQ/RXLZ4NICBSiXlbqZa97RQg5yZSMmthZe9IuQvn3HSeUst2ogksPKBKM7cm8N29eIEeZVS00Dg3J9CgL8LnDhtAamcpfoAsvqARR2T16wlxXwgC9WfcitCmEbalpyQskqEOiJqEdCDTCl9aR8G3TVIep+IFch3cLIHA1GjR78VYCp1L/WeO+JJHB6QaRWaIKDOQvfiqVxNwaL9PNUXrcG10FpkbXwBSdzWzDULLjNFPAH5lGnRpJLNA3lT5MGm2gusiOR7M9VJCTdZPc1hkazeHFPfNuqyQYQkIYePWLw860dQaOKaj/+CnZWI+DsEfJRSbrpZIH/o6ihEs7+N2Cp90zVqyRD0meKeB75+fmtl1g/AkwPgMWkGMB/xAfg54u3sFnDF6gG7BkulKS1SZnq10GpX5FLtAboy+747MCT6yO8nLFHJ/RcQcfYtKhCZRe0VHLO2eOQ8YEdF7KLmh58tGnEV95ezcmyFyND35Ei+SsxWw1XXTj/TfacblhMpuLxsPZjW1rc6CSnwA5QHnS4dmbhUUdYMLIUvnY+y0fEK6uOO6ORH3l6y8ludIetgEmPvxqDBhcdgh2teaa5Fo4PT+7i6bH2C6uH11896NbXi/G/O7FeLjVx/E3+TgeY7u6le38m9hGY2zX1xstunujRbNbZxd90+zm/f/lG5cPum4iFYdrqzaxSvgK0Vz1MUe8Vqt+b8HRQ7+37PdC9HA+DRG3HML1ECZbRglvdczu4wVRyUpn7IlUPsEz5kjiZ//i9zQ4hs9fed59T4tlvE7W68UqmcWzZNV1fwEkr4oi",
+	"createdDate": 1778286041723,
+	"descriptionMarkdown": "Reads the logistical network and outputs items that are in short supply. Aids in determining where there might be supply bottlenecks.",
+	"image": {
+		"id": "BAYETgx",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1778286041723,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,0/",
+		"/circuit/indicator/"
+	],
+	"title": "Deficit Items Display",
+	"favorites": {
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true
+	}
+}

@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777392521240,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Snowflake reactor"
+	"title": "Snowflake reactor",
+	"favorites": {
+		"HoYLmUhznff8wF4SvAG20sJpQ5Q2": true
+	}
 }
