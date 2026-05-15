@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777837531685,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "BasicBlock Book"
+	"title": "BasicBlock Book",
+	"favorites": {
+		"jqKMkzRVY7X7z7p5amA9Y4xUhup2": true
+	}
 }

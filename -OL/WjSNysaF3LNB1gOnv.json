@@ -12,10 +12,13 @@
 	},
 	"imageUrl": "https://imgur.com/iSmWw1s",
 	"lastUpdatedDate": 1742175327896,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/power/solar/",
 		"/power/accumulator/"
 	],
-	"title": "Tutorial map 5 solar array"
+	"title": "Tutorial map 5 solar array",
+	"favorites": {
+		"wm4kPAMWtdPO1ZiEyXLhHVENE9l1": true
+	}
 }
