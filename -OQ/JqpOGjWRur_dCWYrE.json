@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "# City Block Rail Grid (8x8)\n**High-throughput 4-lane rail grid skeleton for modular bases.**\n\n### Specifications\n* **Size**: 8x8 chunks\n* **Railway**: 4-lane, 2-level (Elevated Rails)\n* **Traffic**: 2 lanes per direction with **O-turn** loops\n* **Stations**: 8 slots\n  * Supports **1-3 train** configuration\n  * Dedicated space for a **buffer train** (stacker)\n* **Radar**: Use **Uncommon** (Quality 2) or higher for full area coverage.",
 	"favorites": {
 		"8h5ajI4QNla7bVslJrJXOgRiNbz1": true,
-		"5XkDMgvxrgVNQyyNCrfUYXYothu1": true
+		"5XkDMgvxrgVNQyyNCrfUYXYothu1": true,
+		"2Xim5ZLvCfdjZDWateeHLjr07Ar1": true
 	},
 	"image": {
 		"id": "myo2mrV",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1776320962796,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/version/0,15/",
