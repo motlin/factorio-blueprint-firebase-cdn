@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Joseph Gleason",
+		"userId": "6IqlIDGK3UMVniNALqxPT7mm7kS2"
+	},
+	"blueprintString": "0eNrtm+9u2jAUxd/F0j7N7RLH+attL4JQFMBtrYETOU47VPHuu7ZboIh1pCakQ/52Se1zfz6hPk6VPqPZsmON5EKh4hnxeS1aVEyeUcvvRbXU10S1YqhAleTqYcUUn9/M69WMi0rVEm0w4mLBfqMi3EwxYkJxxZmVMB/WpehWMyZhAH6VWvC2WVbrm6YSbIkwauoWZtVCdwOlLIxuY4zWqMiz2xg6AJSS9bKcsYfqkUNXGNdUEsQUk7YXDFlsNe64bFW5W4FaN7rtI5eqq3TDFw474mZRK2S7tKrSPgT6w0p30Ess0A+zzLkV/4dYgDYbfGae0IEnHICHOPCQAXgiB55oAB7qwEMH4IkdeOIBeBIHnmQAntSBJx2AJ3PgyQbgyR148gF4Dvfn7z14JFsA0dRAHQQUOT2giA+ozxdQLdMip08jdhGjB1lf7siJOxqNmzpx09G4YyfueDTuxIk7GY07deJOR+POnLiz0bhzJ+7/KOCj0wOe+oD3T6D+CdQ/gfonUP8EerGAoqcHVOwDygeUDygfUD6gfEBdLKDi0wMq8QHlA8oHlA8oH1A+oC4WUMlubDeDVgb3SDqFJpvCIDgmkuL3X3p5540VrXg87HZS5dbI1vmPvHsBA47WDZN2yQX6AjPrTjVdX+3NMUuy/paQK7ck729JfOWWaPW+ntBr9yTs70ly7Z7svWrB5nzB5PuGBPnWEPIXQ150DtzY/zTpbY7JmYOc+gmj9mVKwdRTLX+ZdnpCoWTHMLqXjAH/XbVsmbGgZ287v39303DbXrNsNVj50rMSsK7p6w09fN/z1CRv1mB2J1R5J+tVyQVIva53evyuR/3uehiMctcrsVYPXNwfMf/Dpr3V7O8c7b+HhG/MW3DJ5vbn2SV3lL7T9vecrx/dcz70O/IG+LTf6qO3KnY5PJLRtvvgYMP/dt4NP3E5P47pyrC2pC5nSPJJzgZn9iRzOUOO+FUZ1JTc5RA5minnswSC9wkiTMfuJMQEp5hO8YRAlZkqggq+l7qkUOamivXF0JSpLmNTZrpMTJnr0krBZKitWKg7hFYDjqohhpNLZGuia2JriiGXTU31GGrHUH09sddj22pXZ7ZOD2sAmcISuWIrWPvuX3IwemSyNfbFCclpnscZDUhAs83mD6eSm0Q=",
+	"createdDate": 1779218439233,
+	"descriptionMarkdown": "Displays a count of how many trains have passed this signal.  Connect green wire from bottom left combinator to regular signal.",
+	"image": {
+		"id": "NJBRWyQ",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1779218439233,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Train Counter"
+}
