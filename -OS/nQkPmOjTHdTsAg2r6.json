@@ -1,0 +1,21 @@
+{
+	"author": {
+		"userId": "ZmXOV3jGI9dzmRdmxysI9UwxTLc2"
+	},
+	"blueprintString": "0eNrNVc1uEzEQfhXLFxLkLZv9I43EAaGKO+IWqpXjnSZW/bOyvaVRlAfgLXg2noTx7rZpSxoo4sAlGXvHn7/5ZsazoyvVQeukCXSxow144WQbpDV0QT9BQ94RadouEGGNARFwJ1iyAhXIpO2Uh+kX89EBGHS0XYieE1ifkRYc0dJ0AaaUUYmnPV0sd9TLteEqXmW4BryDOxk2GoIUibB6JQ0P1tE9njEN3NLFbM+OnGpAyAbc8SPZ/pJRMEEGCcOt/WJbm06vwCEmu8MJjhvfWheSGBIyba2XQ/Q7ilBJlp+VjG6jNT8r8Y5GOpSh95hljGJgwVlVr2DDbyTSwHNCOtHJUDvgTb3hpqmjF3JAMsF1wO497vYHV20b5JTuY8RPGGf3jDU0stMJKGThULTWKjjN+y3yPgKZvxgy+x1kwU5n9RjmiFj9qbgH5Khe06P5+OFKOh/qX+urC1bz6JV4IcEISFourmO5eIgIEcYHHus/yas0ZdRi8fKxBd4g6aGuXwCN2tBW8S24+nFDXWC6HdmAAxI2QAys8fgNEHvVr5W1LQlSA/Yc/ovrL+bilutWASNwA25LSjKQ9thuSZ6m9EgWypdn4VAs1eMszP+LJLz+p0ngTSPNmuQkPiKaK39MxIqdeGpO1HH5tI6L4wqOqE/ke7ha/o2aSLLlrie5oD++fafxKRyke+79fVa/y2cV/LwBD6QgB0k8EVyJTvEwVDaGq6LIHKuWr4FMHA6OET+OEt/pHmz6YFCQiXX98kEbXA0L6c2rQGJh9G3hp31cX1HlGNVyxmYsY7NLtsRfVo5WyXJWopXjt4IVaBX4tWJ5b+VoRb/y3qrQr0I/RJYBNMZ5GI2MKo4TIs7EMbL3Y2QfbBebGj1ww/f6lFV2Xpyfl/MizdJivt//BNl8iFs=",
+	"createdDate": 1778979375047,
+	"descriptionMarkdown": "Red = input connected to belt (pulse)\nGreen = output (eg. per minute)",
+	"image": {
+		"id": "cho1C6z",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1778979375047,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Rolling average Belt Counter",
+	"favorites": {
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true
+	}
+}

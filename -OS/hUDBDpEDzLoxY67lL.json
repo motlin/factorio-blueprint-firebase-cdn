@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1778879619952,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "The Arrowhead"
+	"title": "The Arrowhead",
+	"favorites": {
+		"NTW5ZBO0MZhlMQefFUMJNGkxj1A2": true
+	}
 }
