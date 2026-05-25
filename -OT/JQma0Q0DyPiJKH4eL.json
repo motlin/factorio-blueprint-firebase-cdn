@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "Артем",
+		"userId": "1vKCw7aZNPV4tRa0kcg85Q2gukR2"
+	},
+	"blueprintString": "0eNrlWttu4yAQ/ZUVz7hr8D3SfsU+VlHk2CRFa4OLcXajyv++g51L07jZQPvirirVGMMczvEwAzgvaF11rFFcaLR4QbyQokWLxxfU8q3IK1On9w1DC6RYwaGAkchrc98WKm88qN0XFRdbePDc5RXXe3hWsS0TZa72qMeIi5L9QQvSLzFiQnPN2Qgx3OxXoqvXTEGDk+l1t9kw5RVPrNVgt5EtdJLCDAYMecTPwocII0AiUfoQ9dPQGIb83IGJ1YZXmqnW9G9ZYUyNAziODKNTi4vaw3CeZFXzrvakYhcshVQ1SIRRIesmV7mWwAL9GCo6o2fs+36/hL8eX7GlTmyzmbINLNjS2b/b8DxJwEjlVXndTHMNLt7shKnISbi5uklswTaYvZskJ/NjFIW6SabpyDP2gWXJ1Th8tEgNiNBKVqs1e8p33GC/oIKrouN6xUS+rliJFlp1DJ+qoUt5AthwBdpchfodV7obaB3deGjhbRVjwoR0kyV0bviRK+p9/14muBIgvVOA+F0Baq6UwT1wnLcc2dn7WQ42/+H3Mbnh91yz+uDLpel8HHnDWOnVsuwq5gU3cvbY3cyEFRc7GKiEB+PUON0BWaBd/EIL37CZfEKM6y8nyBL/zpdPvqr3E3KfAmn2f7g/eb0kqn55XLRM6XeD4mka0GEaXApzL+R5XaI7tZaeVrloG6m0t2aV/hdy8BaZ0CmQ0AEksQU5LxRyaLdjXqPkjpe3c2jyRsR7ZYtdwGJHsMRBvthWvtTG96JP8b3sDa8OFh1qq2DdUN5gFt1iho9zVna66fQULPXvXpyGF1BTts4RrITd4fD+Zb3mYpj+09nr1uCnAtjB8DlSDWnp9d3jdeSaWLVdxKnIH5Zl+KDTOzveOwJfs18NC73VRskaMqURfbHJq5aZvDclGXXwZt/Sm2lg483kM7yZugQ5YsvLKcj5bnGHxhYipp+SjqhDqEszWxFTBxFfodiJmDkwsk2wge+2cAhtmATkYwnWDox+LMHagQVuuc8OJLTc3ERz3twEkVsAtpM0/lg0tANL3KKhHcgHQ5MdWGZ5/JL0X2zDFfqW5y9JP3/OTl8Z4mSuJ9HU/ih6IDtly+kQf77ShZYHVF8vPkSWB1RfIT7ETvFhtl+qEqc5PVu6qcsHppnQXWL0G3ZKBuAxwRTDAocu8VBMhxL8x8QfiuaCCRnLcMEw102ZEhzicGxj+h/L5oIhIg7l8Nh+Oa6ljZqnHxFgVOWwtYO6MPW//TQ/EvgOgkD9DsgPCkcxzcIsi9LQp36Y9v1fOcbH9A==",
+	"createdDate": 1779533032237,
+	"descriptionMarkdown": "This is the most compact version to recycle 2 full lanes of scrap. You can adapt it to non-legendary setup\nIt also goes with10 buffer chests for Holmium and Decider Combinator, to stop recycling, when there is 50k Holmium in these buffer chests\nIf you use non- legendary setup - delete these 10 chests and add third Beacon, to make recycling faster\n\nIdea is - Scrap Recyclers output residuals into Active Provider chests, and Bots take it towards residual recycling setup, that you have separately (i provide it design too)",
+	"image": {
+		"id": "xawR4KQ",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1779534080651,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/mods/space-age/",
+		"/version/2,0/"
+	],
+	"title": "480/sec Scrap Deconstructor [11x11] [LEGENDARY]"
+}

@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Артем",
+		"userId": "1vKCw7aZNPV4tRa0kcg85Q2gukR2"
+	},
+	"blueprintString": "0eNrtW9GO2joQ/ZXKz3GFHQIEqW/3C24fVwiZxOxaNU5qO/SiFf9+x8luEgLZLWbbqrt+YmIn4/GxfeZMgEe0kRUvtVAWLR+RyApl0PLuERlxr5h0bYrtOFoizbNDJrlGEfpeMSnsARolv+cqZ/qAjhESKuf/oSU5riLElRVW8MZXfXFYq2q3geeXJHr2uam2W65x9sCNBb9lYeChQrlRwRFOJ9PPSYRgIEzj9HMCY0B8VhdyveEPbC8K7W7NhM4qYdfQl9fPr7liG8lztNwyafjxcsQRTOl7BSOvt0Jaro3zZXjmPDRxP08oQu0dJ61PsxAZPwFFFXoH0LlgdyXTzLow0Ze6oXI4J5PJMWod0daRKaTI8bbi8hZ/cefPFuqm0Katq6woS1ipUjJ7pUc6OXGZtC5Zvmcq4zl+Wr/r3JJTt7PWLYRorMjwhumbAp0P5565PXVTkIsuSF1k3Bih7nGlrp366RqlrVMuYfPqQsHk3wJSMmk9y+IHzrmC03nAxuoqs5W+fhs4XrjXRVVCz52wfPfFZJqVq8Z+5pfVp6+u9dO/9TUgBFZ9TNFxdXThDdiE9thEfsNCGa5tTVPndJIM6SQXujnw9V5/iVwM7/EEQDDOKm/CFRf54eqN6BCvDB8GfoZh7MXIi8DIgZEDIwdGHrDJ1I+RF4GROwyTKzCMX8hqhH5gEGd+IC4CiD0QO9btVYDn+M1b9E6xA4bdCa3doG6AMWAc4TzBkveKTlNySEe7Iq8kx/ELpWfzuMNlLdQeplBAR4NyewV8YizLvqHlE6le6CGjPXS0J3Y0uLoA3cJLVs2DrAqyKsiqIKsGbJL6yap5kFW9V48TP0kwD5KgjyL5OU1AxzXBB1IBpFuRkgEV7jkGVtyL/EVBMO82X1JvvstzPh+tlxVhkSWWbFdeHGF2OsIlX71KjjPY7q9Jl/FIf8/aktG1Jb21HVunpHdyFNytLIYDshGqPiAXN/hw6q/TbKe7/DSYd9bHg7RP30DyDH3GNys8PKbLPCQeJmOK7FYBgUdF2RsICDwdkWc3aakm5DNh0omRToZ8tcw81CLk0imZ+bAZ8WWza6vP+PixcotfiUlDiRlKzFBihhJzSCeeNSb9MzXmLytw6MQPh/i94eD3U504pJeQXkJ6CellSCfU7+0b/UNv334dr8Z+QMTvDojplW8SXX33Yb9PpIlXOiYhHYd0HNJxSMdDOpn5VTnkvVU5c79sTP7ubAyNPyB2N8gdiUgUR2QV1RZtraS2oCeattaitWa1BddR2lqw91uzeRo+aASVJHX2wtlJZ5O0196/h9Y2FOJtu/uIQDnVdu1z3rNnYK+axO3Wsf1TS4Qk20BaWKJ/eHMA6+9y9oBDvWbJjKbTNE0W0wmdTBfH4//LJ+9S",
+	"createdDate": 1779533421578,
+	"descriptionMarkdown": "Paired well with my other Scrap Recycler 480/sec BP\n\nMain idea is - you have a constant provider that tells how much of stuff you want to retain in Buffer chests. The rest - will be destroyed (except Concrete, Gears and Steel, those need their own separate design)\n\nIt is legendary setup, but you can adapt it to use non-legendary setup, and follow same design/mindset of - scrap recycled into active provider -> Bots take it to Destructor which get rid of everything, beside what is necessary",
+	"image": {
+		"id": "xawR4KQ",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1779533421578,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Destructor [LEGENDARY]"
+}
