@@ -10,7 +10,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1779031746424,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
@@ -18,5 +18,8 @@
 		"/general/early game/",
 		"/general/mid game/"
 	],
-	"title": "[entity=character] Personal Transport Ship [entity=character][planet=nauvis][planet=vulcanus][planet=gleba][planet=fulgora]"
+	"title": "[entity=character] Personal Transport Ship [entity=character][planet=nauvis][planet=vulcanus][planet=gleba][planet=fulgora]",
+	"favorites": {
+		"s0XdHneqOXUB3RmDmxfBAnC41af2": true
+	}
 }
