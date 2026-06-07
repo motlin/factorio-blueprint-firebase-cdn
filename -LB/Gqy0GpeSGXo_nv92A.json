@@ -5,7 +5,7 @@
 		"type": "image/jpeg",
 		"width": 738
 	},
-	"numberOfFavorites": 41,
+	"numberOfFavorites": 43,
 	"tags": [
 		"/mods/vanilla/",
 		"/production/oil processing/",
@@ -55,7 +55,8 @@
 		"qSEQydqRXxYF0w3GshaNOF9lE5g1": true,
 		"k23EXV6CQNP76hEWfyLAcWwqOsl2": true,
 		"GgM5tMnuXIf4Deig8GIxhfoWWns2": true,
-		"SGdv9dKN11S9oMkE1MI6CNwMQbk2": true
+		"SGdv9dKN11S9oMkE1MI6CNwMQbk2": true,
+		"J01biiF3fUbWgUizYNgIxs7F2NB3": true
 	},
 	"descriptionMarkdown": "This design heavely bases on https://factorioprints.com/view/-KoMuqtFuzvniatJuoa7\nThe desing not stacklable\n\nreareanged some stuff and changed some control system. Ratios still the same.\n\nAdded\n\n1. 40 explosive production to be able convert all the sulfur into explosive.\n2. Soundless alarm that show icon on the minimap indicating when storage tank low (except heavy oil) (triggered when there less then 1k liquid)\n\nControl pumps (changes)\n\n1. Light oil cracking activate when there less then 2.5k Petrolium gas OR more then 24K light oil (This give priority to PG but lower the change for PG to go full before LO, putting PG -> Solid fuel as last resort)\n2. Heavy oil cracking activate when there more then 24K heavy oil.\n3. Flamertrower ammo is not produced unless there more then 2.5k lubricant (the chest limited to 1 stack)\n4. Light Oil -> Solid fuel when LO > 2,5k (this allow small buffer of 2,5k LO for refueling flamertrower turret)\n5. PG -> Solid fuel when PG > 24K (this prevent backing up incase there more PG then Light oil)\n6. Sulfuric acid -> batteries when acid > 2,5k (the buffer to use acid for blue circuit or uranium mining)\n7. UPDATE 5/17/2018 Heavy oil -> lubricant. Lub < 2.5K OR heavy > 2.5K (this give a 2,5k heavy oil buffer incase you need to kickstart coal liquification but still priotise lubricant over heavy) + alarm when heavy oil low.\n\nremoved the barreling of liquid. You can input or output liquid at the storage tank or opposite side.\n\n",
 	"authorId": "kVQTSNSajtRFQLrEZr4kMxTim8X2",

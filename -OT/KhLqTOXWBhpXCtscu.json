@@ -11,11 +11,14 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1779554414128,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/version/0,15/",
 		"/mods/vanilla/"
 	],
-	"title": "Spawner Blocker"
+	"title": "Spawner Blocker",
+	"favorites": {
+		"6QpLrtB8ggQ3BSXfq4t3g9XxNnj1": true
+	}
 }

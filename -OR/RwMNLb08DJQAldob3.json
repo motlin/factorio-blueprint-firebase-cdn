@@ -6,14 +6,15 @@
 	"createdDate": 1777528305321,
 	"descriptionMarkdown": "32x32 chunk based rail network with loading stations, drop-off stations, refueling stations, and standby stations.\nDesigned for 2-2 trains with universal pick-up and no designation required for pick up. Drop-off stations require item designation.\nFluid Trains\nCargo Trains\nArtillery Trains",
 	"favorites": {
-		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true
+		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
+		"gYfObpSoSUTmqdbkf6qm3qnvAYD2": true
 	},
 	"image": {
 		"id": "JWfXqMz",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777528305321,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/"
 	],
