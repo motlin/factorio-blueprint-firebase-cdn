@@ -7,13 +7,16 @@
 	"createdDate": 1781132589289,
 	"descriptionMarkdown": "Optimized so that fuel is consumed only when Temperature (T) is below 550 and no fuel currently consumed",
 	"image": {
-		"id": "qvXh1dg",
+		"id": "HeSB0ea",
 		"type": "image/png"
 	},
-	"lastUpdatedDate": 1781132589289,
-	"numberOfFavorites": 0,
+	"lastUpdatedDate": 1781213029361,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Nuclear x 4"
+	"title": "Nuclear x 4",
+	"favorites": {
+		"iEQz3CCMOOcHLWMoOIJBh7Rz8a53": true
+	}
 }

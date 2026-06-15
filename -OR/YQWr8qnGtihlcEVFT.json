@@ -11,10 +11,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777637138022,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/krastorio/"
 	],
-	"title": "Krastorio 2 space out, Uranium processing  [item=uranium-ore]"
+	"title": "Krastorio 2 space out, Uranium processing  [item=uranium-ore]",
+	"favorites": {
+		"WuaUKFB6Q5WRn7rejgdJWEH3a2B2": true
+	}
 }
