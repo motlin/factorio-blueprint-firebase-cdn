@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Bill Johnston",
+		"userId": "CXawzjIhOxZIoO7TMAnNuRTVgx83"
+	},
+	"blueprintString": "0eNrNV0uO4zYQvQrBVQJIhiTL07KABAiyStYNZNFtCLRUlglTpIYi7RgNHyD3SC6Wk6RIyZ+eke3pmQzQgBZUsfhYfPUjX+hSWGg1l4bmL7SCrtS8NVxJmtM/1iCJWYMGwjtilCKNLdeENY2SnBEmKyKVISCVrdeElxCgNmruuBCoXtcCiIaSt9AR7pFIuYaGl0yQVjBpJl4m+EfLq6OGn3D7CdUZshtMGHDISvC2mzzLRy+qcCs0TvUqnV12hjnbSa3AGUwY0WqpWqUNWSmNK1jFZe1M7SFqjfB3MLzYKM1qIIbJzQ/djzSgvFSyo/nTC+14LZlw7Jl9C0jbSuBxUEWyxv0OdNEDLpIV/Enz+BBcLhv0jtSEnoEL9WRUvUJCKtBhqZollwwNvFgyPSwCCtJww6G30v/sC2mbJWg04WRei7Sisa3qeO/2F4oA4TSazAK6p3k2mR2cAZ8AJHcB4tsA03sAyfw2QBpcYe7GYWIcIEvoO6OVKJawZluOzKFeB6bog4zmRltAteMv7ZTgVbiyIMKVVk14dOlRpfhomUDbUFUq3aCf0BMGmp56DIaz21qtKlsavkX1sMGxgHDqPdfro7osuNziYZXe9+vPf3hmDM9yQ/PIMTI6E1+dSQ6LA36fUzk7UbkGZsJ7IREn4x758EaY6TjMQ3Ajxm8EWjxFGitM5rKfzsYdPYAWOFd5IM/65R9yvuK6M8Vnqb3l2ljv3sHCXiN8pH1UIdGukM4i99e0TEMxrMRiSV1SKmtaa65UjiHgzuhX4s5v1u7xCFaawk1hyCAszVdMdIDrweyU3viTYZk8ybHegRzi2wUDsinYHsl4XfgfiUfuSOwKYBxFAenURW3vD0FceR3KMhZXVyc9bTWZRcTwctNN6Ih7s7e591QG3o97HSGDf73ROf33r79x0SVq8SUuGI+S4Kp91zvL2bg0i0bM++e7mjfYg231tS2JN+X2vm6n07beiMPXJc9N531jQvxu8S7CMKgb0C4lhgR4po/PtM8Vd62w7Y7pqusvLdxfYiRABdVYGszP7Wvg604eZJfV91UmpNc6WnmK//PYN5T+GuJcIwzoT6V3CQ3oSMN7FXE/eYH12YK8IrMjFMTRGfp07xo7+sOxAIyBxG/sOrPxrhMnb8RJr+BMv7Z9zd5f+xq8+TP9f/rZULBCrcoNGN/Y3m8vE8yYcycjvxlSMnwksA0+A/YXekvLhX9VIPzKIdrWzzVs46T9WYk7q98ZETuABt8uS8Ci4h4pQqidqxc4bq2uwRPrXiWO1qc0SAIMqnQRPD0EcZAFUz9Kj8IMhZhJsR8mwTxIhlE2TCduuhdO3aJ4seivm8jO+fUXUMGW6I+c/jK8737FgLBY8HBqi0XC0zn7kMzT+XyWpVESpdnh8B8RmtcD",
+	"createdDate": 1781445379179,
+	"descriptionMarkdown": "When there is too much ammonia and not enough ice, this will toggle recipes in the chemical plant. the liquid in the plant is lost when the recipe flips.\nThe red wire on the substation goes to a roboport for reading ice\nThe gren wire on the substation goes to the storage tank(s)",
+	"image": {
+		"id": "XVf9FfN",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1781445379179,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Ammonia Consumer"
+}

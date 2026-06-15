@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "### Endgame Rockets\n\nEnd-game rocket factory designs for sending non-stop rockets from multiple planets.\n\nThe main goal of this blueprint book is to feed large silo blocks with 3 stacked turbo belts of rocket ingredients:\n\n* Low density structures\n* Processing units\n* Rocket fuel\n\nThe full builds are designed around 480 rocket silos. With +300% rocket part productivity, this is below the theoretical belt limit, but large enough to consume the full input belts and keep the silos launching non-stop.\n\nThe silo setup is designed so the next rocket is ready before the launch animation ends, allowing the game to skip the silo closing animation and keep launching continuously.\n\nFor more details about the design, calculations, screenshots, and discussion, [see the Reddit post](https://www.reddit.com/r/factorio/comments/1twv3sh/endgame_challenge_nonstop_rockets_from_480_silos/)\n\n\n\n#### Included\n* Full 120-silo and 480-silo builds for Nauvis\n* Full 120-silo and 480-silo builds for Vulcanus\n* Full 120-silo and 480-silo builds for Gleba\n* Standalone silo blocks:\n  * Single tileable silo\n  * 20 silos\n  * 120 silos\n  * 480 silos\n  * 120 silos for Fulgora\n* Rocket fuel modules\n  * Gleba rocket fuel versions\n  * Nauvis/Vulcanus biochamber rocket fuel versions\n* 240/sec LDS module\n* 240/sec processing unit module\n\n#### Notes\n\n* This is an end-game design, not a starter or mid-game build.\n* The full designs assume high productivity research, including +300% rocket part productivity and the relevant productivity bonuses for LDS, processing units, rocket fuel, and plastic.\n* The 120-silo versions are the more practical versions for normal games. They use the same oversized feed modules as the 480-silo versions.\n* The 480-silo versions are the full challenge versions, designed to consume 3 stacked turbo belts of rocket ingredients and launch non-stop.\n* Most machines use legendary modules.\n* Nauvis assumes connection to a fluid bus.\n* Vulcanus uses Vulcanus raw inputs and includes the needed fluid processing.\n* Gleba uses fruits, water, and calcite as inputs.\n* Gleba also expects initial spoilage, nutrients, and bioflux to be available in the logistics network for bootstrap. After startup, the factory creates its own supply.\n* Spoilage and bioflux may also be supplied from the logistics network in the other planet designs.\n* Aquilo is not included.\n* Fulgora has a silo block, but there is no full Fulgora rocket-feed factory here. I calculated it and the scrap efficiency was terrible, so I decided it was not a fun version of the challenge.\n\n#### Why?\n\nMostly for the challenge.\n\nYou usually do not need this many general-purpose rocket silos in a normal game. If you need rockets at a very large scale, direct insertion into rockets will often be the better solution.\n\nBut building a system that can consume full stacked turbo belts and launch non-stop rockets was a fun end-game design challenge, and some of these modules may still be useful in real bases.\n",
 	"favorites": {
 		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true,
-		"xsgANniFt0XomK4rBH91A4ce7cX2": true
+		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
+		"ayameSoI6ZcHGWytkMBy52Gc4ag2": true
 	},
 	"image": {
 		"id": "5oroptQ",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1780595753762,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",

@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "星間移動船 MK.Ⅵの、マイナーチェンジモデル。とにかくスピードを追求したSpeed Junkie仕様\n\nデザイン性・完全自立、無補給船であれば、MK.Ⅵをおすすめします。\n\nhttps://factorioprints.com/view/-OmnvmFQwxDDQkjXsmR5\n\n資源は[item=turbo-transport-belt]上のみで管理しており、プラットフォームを倉庫として使用しません。燃料・弾薬共に（生産＞消費）の設計である為、チャージタイム無く連続運航可能です。\n\n電力に関して（Ⅵとは違い、走った分だけ[item=fusion-power-cell]の補給が必要になってきます）\nアイドリングは[item=solar-panel,quality=legendary]でまかなえます。\n\nシャフト幅（[item=thruster,quality=legendary]が無い面積）1マスの為、フリープレイでこれ以上に速い船を作ることはできません。\n[planet=aquilo]まで航行可能\n\n←画像は、ver.2.0後部[item=thruster,quality=legendary]２２０段にて、4740km/s\n\n※(生産＞消費)で運航できる最高速度です。長期チャージをするのであればもっと早くできます。\n\n\nアップデート情報\n-\n\n- ver.10.0（2026/6/6  ）\n  - 右翼で[fluid=thruster-fuel]、左翼で[fluid=thruster-oxidizer]を作り共有する事でスラスター1段当たり[item=chemical-plant]2つ削減、省電力化と省スペース化を実現\n  - 構造的最速（シャフト幅1マス）でなおかつ完全自給自足が可能となったため、MK.ⅥとMK.Ⅶの基本的構造を統一化、以降https://factorioprints.com/view/-OmnvmFQwxDDQkjXsmR5 を更新していく予定\n\n- ver.4.0（2026/5/31  ）\n  - [item=thruster,quality=legendary]8列構成から6列構成へ圧縮。燃料消費を大幅削減。\n\n  - [item=fusion-reactor]を1基→2基構成へ、250MW→1GWへ強化。\n\n  - 「パルス信号による燃料噴射」を導入、常に最低限の燃料供給のみ行うよう制御している為「被弾時や減速信号を送信した際、即減速する」・「減速航行中の発進時に急加速をしない」様になった。\n\n- ver.3.0（2026/5/21  ）\n  - ver.2.0までの問題点として、停泊時の防衛を[item=explosive-rocket]のみで行っていた事により[planet=nauvis]以外で長期停泊を行うと[item=explosive-rocket]が枯渇する問題があった。\n\n    ver.3.0では左右スラスターをずらして配置する事により、[item=gun-turret,quality=legendary]にて全体を防衛出来る様改善、何処でも長期停泊出来る様になった。\n\n    ただし、[item=chemical-plant,quality=legendary]の配置個数が倍になった為消費電力が増大、75段程度が電力的に限界。\n\n\n- ver.2.0（2026/4/28  ）\n  - 大改修を実施、船首部分を幅7マス圧縮、[item=thruster,quality=legendary]を7列構成→5列構成へ変更し燃料消費を大幅に削減\n     \n    アステロイド生産性⑩→100段　⑳→170段　㉚→220段まで（生産＞消費）で運航可能となる。\n",
 	"favorites": {
 		"RQMPDt1bllTXJVs1F4Gd38jW5Il2": true,
-		"trWv1wAzqteajsouFPXqsQIbXjZ2": true
+		"trWv1wAzqteajsouFPXqsQIbXjZ2": true,
+		"ayameSoI6ZcHGWytkMBy52Gc4ag2": true
 	},
 	"image": {
 		"id": "fap8qC7",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1780735902406,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/",

@@ -1,0 +1,28 @@
+{
+	"author": {
+		"userId": "0mFMFSQyeXYRWvv676YNegV08Kz2"
+	},
+	"blueprintString": "0eNrdWV2P4jYU/StWnlopGeUTyKh9aCvtU6tK+7qLIicxYI2xWdthlo74770OEObDsHaYbtVKIw1xnHt8zz0+14GnoGYd2UjKdXD/FLRENZJuNBU8uA9+6bSIFpQxhfSKIE6wrHfoo6jFRkiNHqleoVpoheiin6BXkqiVYK1CWMKlEIiJR/RDEcfod7GkStMGbvEWJTDym+BKy64xYAjitmSBO6Z/vPvMP/NtcpegCH0ka7ElLeo4Jw1RCssdaqhsOqpRTZhGq10tadvH1I8EP8DcpSSEowbXjKBGmAcNgjrE7KN+oF9hHuWKSE0kUho3D0jRvyBFYeJSvkQAKyFyC6EYfSAIACG1jrVBGFAIq4L7T0+BokuOmWGO4zUBytgxzUgCSzrYw2Tekq/BfbIPLdObZxy8eSTdz8OAcE01JQe4/mJX8W5dEwkxw1MceawJLG4jFD3U7ymAIFE5CYMdBEtyiAx4WgpW1WSFt1RIM0kS3FZUk7Wq1qKFaHF4GOvXUwE7GtBhlSQM8BZTZpitTolWotObDqYdU+MdY2Gghcbs4pwrbJ0BnlNzDeTavG/wfGINYnRc20DMJPKlI0pXsA9ALMoEVUdJ9TU51TcMhhkvRi+vIAy+dJhBQeE2F3INoKZC6w2WWJvaBD/3A53Zm4URw1KKbgPjf2DK0a9YEfRnp9UDlVCh/XxvJPZKIumwgEcBxeVRs4JkbDKZ3hVHocAnyLvG8qjaVyGzIeRpB10PN+nDtVQeWAvuZ3YdHvd1Rbipf3uS3GkYHmkHiAWVyklPPe24JzCOX7H7U7C3UZY7U5a7UlY4UZb/G5TZd8aZtsSVtsmQY02XEWGwdAmV2AhGrrnS1BZr6imxmYWvo4GTqrf3yti7vTgzz+LcBFa+NASgOAJya8p7ct/iJnF2Ak6T18C5XRVnexpnVbjdYt6QNjrqyM+oEjCiuVUhSTxALLDSkZaYK+O/kWnl1uTjK8nbEBJvhMQTIXVSS3k5apLawp5NFStF1jWDM0i0xs2KchKlV9Wfxj0EANCNxQRPdypLDfuufxBB+8wTyGJBG0p4s4vgRNDBBt4Pc41eKsq3kICQu6OAhitQZL8D4BBhsrTeMQKBPwsJuTcJ+SUSrO32P0NEcYNLZN/JJQ4OLzgI7b19YnKDT2ROu3h6g0+4IZy7ChOg4hW8oYCjXvOM2WWEmQ2hfJlDBwDSHBB5eymLZ7ZkU4nebQ6+BqfgwHaW9PXvcuJHWpr4pzR1Selwsrfm5ObnxYCSutQmzXyZKjyZyr3llfnJK3U7s54rDFZsfQGZeBJ8Kc55y6quNi+l5nGrFxwDTaxhZjc02snLHrNgO/Nw312ihTRRR/SYjYTOAoXYwvTxXSa52GXiS10mLW9ot/8vKrL4hoZbvj3h/TMdV2lCWLRhWJP3arVZckOrLV2cKktvaLVuCN5mO/MEyG/o5TMXs80K3xRKzxQm41u3G8DUs1248TLzXfbUc9nl+EbtBJDHnu3PiZc8uaH9uyGk4x0xi7+XIw7fMhG+NE2r4/5vIeEQ95xyjTWA7t7LZfNsvMu+JdMqs3y8yzoiFKNd1hFgMtoDHQGmoz3QEWC8WzkCeLtV7gdQxKPt0BHA97xRZtcA5mHwCNfGHT4lYRpmYToP+09F/2li/k/DYj4/nCLN1h5+7gwDhgEVxswvmhp9oIxFg79twXR6lGKSlnlZFrM8TuN8tt//DcBbu4A=",
+	"createdDate": 1781493245710,
+	"descriptionMarkdown": "Auto-fills the nearby Roboport with bots if the thresholds are too low (500 Logistics and 100 Construction by default).\n\nYou can change the threshold by editing the circuit condition on the inserters that go into the port (click on them and change the bot count number to the right).\n\nv1.1 - Removed unnecessary circuit belt hybrid and tweaked green cable connections\nv1.1.1 - Fixed inserter stack size not being overridden like it should",
+	"image": {
+		"id": "rxUMfLS",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1781493245710,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/0,14/",
+		"/version/0,15/",
+		"/version/0,16/",
+		"/version/0,17/",
+		"/version/0,18/",
+		"/version/1,0/",
+		"/version/1,1/",
+		"/version/2,0/",
+		"/mods/vanilla/",
+		"/production/robots/",
+		"/circuit/counter/"
+	],
+	"title": "Robot Fill-inator"
+}
