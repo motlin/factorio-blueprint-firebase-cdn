@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Albert Galimov",
+		"userId": "XHB01odthYfR3wgvf7faLhpqorM2"
+	},
+	"blueprintString": "0eNrdVc1u2kAQfhU05yUVNlCw1JfoFSHL4IGsanbd9ZoUIUvpj9Rj1CfopfeSpkj0j77C+o06uxCgxE2UtlKlisPODp6Zb76Zz57DIMkxVVxoCObAh1JkEPTmkPGxiBLrE9EEIYAYhzxGVR/KyYCLSEsFBQMuYnwGQaNgFSE2mY6Ero7xij4DFJprjpua7jILRT4ZoKKk7LZEDFKZUawUtqLN1/FOWgxmELRa3fZJiypRnFYyCQd4Gk05BdGTGQ5tUPazTdWvW2Ew4olGdezdYuFKirpUSACe5lFCgMkppJpQ67biJI2UAxjAI+fILbWOoOvGD/pKU6L0/tmIO/pRh2kSzVCFMWZDxdMNG2DemrX5aBbla7Oolc/NylyZb2ZhvpgFWBxHPO/xVMy4guYdyQ8dyTFXGxohaFZTvk0b0n8x35F/eCOiR1xlOtzvkJ6lFtKUK507MrYYN0/UH8Nmvm4v3HxukHWYMRSoz6R64iorjCEYRUmGDMYKkZBrlWNhF1LmOs31sQbuAINTVDN9ysXYorpRyibfVXJ1i9um96Z8Wb4yy/K8Zr7vBrmqkXlJY1ybDzTIJVmr8qJqnP4fyKbz92Vz5xzvqSO7+PQOyUK5I/NXRL6zG2+uHhxKwOrhsjw3azor1dD8XTV0/r0a/hMBvKd9X5pP5jO9vkgCC/O1vChfmBVYfGdEsEXXa7AG81ijz3oenT7znOWzpvPRnSzroztZfp9iucYJFdh/8hgQ8MyVbbW9brPbpcPv+m2/KH4AN3CasQ==",
+	"createdDate": 1781634780574,
+	"descriptionMarkdown": "Remembers set of items, until reset signal comes.\nReleasing reset snapshots set of items until next reset comes.",
+	"image": {
+		"id": "C8KERmV",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1781634780574,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Memory cell"
+}
