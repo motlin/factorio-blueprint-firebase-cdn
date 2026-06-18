@@ -7,14 +7,15 @@
 	"createdDate": 1780935129295,
 	"descriptionMarkdown": "This Starterspaceship is the second moving Ship of the SMAECA Design family.\n\nIt is designed to further travel to Aquilo safely and support it by on-plattform-production.\n\nIt can also support [item=biter-egg]production on Nauvis with on-platform-produced[item=bioflux]\n\n\n- Reaches [planet=aquilo][planet=nauvis][planet=vulcanus][planet=gleba][planet=fulgora]\n- Can be force-build over first Ship [planet=nauvis][planet=vulcanus][planet=gleba][planet=fulgora]SMAECA Adventurer\n- expandable Smart Malls for [item=biochamber][item=foundry][item=chemical-plant][item=electromagnetic-plant][item=assembling-machine-3]\n- produces  [item=cliff-explosives][item=processing-unit][recipe=casting-low-density-structure][recipe=rocket-fuel-from-jelly][item=carbon-fiber][recipe=bioplastic][item=stack-inserter][item=bioflux] and more..(unobtainable ingredients in Space need to be sent. e.g.[item=jellynut][item=yumako][item=stone])\n- works as [quality=legendary]Space Automall if ingredients are sent\n\nSmart, Monitored, Adaptive, Expandable, Compact, Aesthetic\n\nDesigned, tested, published by Manda",
 	"favorites": {
-		"viikBby77LPUc2SIXujEHP3vhW02": true
+		"viikBby77LPUc2SIXujEHP3vhW02": true,
+		"x116iHju47YnnxylWFqbyoWR5GA2": true
 	},
 	"image": {
 		"id": "TJk41EM",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1781024140383,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",

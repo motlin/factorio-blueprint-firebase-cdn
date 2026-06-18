@@ -1,0 +1,16 @@
+{
+	"author": {
+		"displayName": "Rhino",
+		"userId": "jy7vB54miSawft1uoft3vcgweRu1"
+	},
+	"blueprintString": "0eJyll01v4zgMhv+KwONCKeKvfBg7l5nZwwK7e9hiToPAUGw6JWpLHknOtCjy3xdyEsdTK229ubUK+eglRVLWC2yrFhtN0kL6AgWaXFNjSUlI4d4qLXbIKqrJMjKsNViwUmnWaNyjtCR3zCrFaiGfGVmsDSu1qtkW3S+5FqXFgrOfD1QhE5VRrCZLO9E5tsaxVcl+tKIi+8xy0RraSVap/NGwtjnBpNK1qFj+gMYyjcZqyp1AcwccjBTNzKrZTlPhAniCNOLwDGly4EC5kgbS7y/guKJyBlLUCCkIY7DeViR3s1rkDyRxFoJzkQU+QRocNhxcgJbwSOj+ec5kW29RQxrwM6kRxtAeZ41WeypQzzqhwKFRho6J7GTN75JO2PzOScuVtFpV2RYfxJ6UdkY56bwlm+VKFp1nhlJsKywgLUVl8HDgIx1hr0PjjxaNvS4g/LCAWhWYqTJTDWpxJAT8fXn8rCErqbKojWMaPB5Wl8Rzdjn0Fr+s9inVokYXSgAcTuUBKRwrAZz42tlYJxs+dQutK+DAZeiECz24cBouHOAiDy6ahosGuNiDi6fh4gEu8eCSabhkgFt4cItpuMUAt/TgltNwywFu5cGtpuFWA9zag1tPzd3GDYy+/LWqs21bll2FW916W/dSUdu2epyRNKgt6uuTI+gatyB9bKkuEW+1cd+eToGnf51tSdrYbDQeL5mYw3FYGCu6SOevsvA7HHzBxR8NLhwE5+FcCts7sUe44ISLrg45jaLISO40FoTSng/InV5Ozevgz8vZqBrcgf8k3V0P3wMe8IgHmw2/eB+Hm33umFRAH8lXNKSxYP+iaSs3qN3V9SrlXsc/e9UsGLt1S73FTJWToeEYGt4MjcbQ6GZoPIbGN0OTMTS5GboYQxc3Q5dj6PJm6GoMXf0/6LfzZ+L5A/Kv7gPy/jhlRrusP77LaSzw8x8pJPPLvr9s947b0Evkj+zvtrLUVNSZ7YUmNzshhae3OYG/O9mX7mLgUCpdt5VwEc0zCn57Ag4FNigLdOP0OHre4If+Rr3CDyfzI3/PXuFHk/mxv32v8OPJ/MTfyVf4yWT+wt/UV/iLD/OVnZ1KXJO53NH9vstBN/3z7f6Pr/4yfA+zGmM2HNxLzd3M/cuPQyW2WEEKX9ybzb3OPqOknXS9gNp092uyCNfxep3EQRyGQXA4/AcQnrsL",
+	"createdDate": 1781735664209,
+	"descriptionMarkdown": "Storage limit is used for preventing too many items from being crafted, while also mitigating usage of quality causign locks ups from normal chest restrictions.",
+	"image": {
+		"id": "Ra1tN74",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1781735798384,
+	"numberOfFavorites": 0,
+	"title": "Crafting Benign (soaryn crafting limiter)"
+}
