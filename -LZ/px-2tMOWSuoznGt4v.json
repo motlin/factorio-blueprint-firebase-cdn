@@ -13,7 +13,8 @@
 		"4x3FiHGpbjOLt9JjvcIZrfgaO9i2": true,
 		"lJOEAbY6cxdHxYd1GVzqYGKhRLJ3": true,
 		"XezoVYwdUlf1Zpocjeu4Lfxqmg73": true,
-		"3F92OPZlcSdO8Zx34xHE0y6Zmuj2": true
+		"3F92OPZlcSdO8Zx34xHE0y6Zmuj2": true,
+		"xevz59wJucQU4A0L27lHuH0Wj6k2": true
 	},
 	"authorId": "XouwrXG85dgtwYNW2mVd2i8IbjJ2",
 	"descriptionMarkdown": "Cell layout for train base. Comes with train crossing(Closes gate when train is coming, and has warning lights), Full radar coverage, Full laser turret coverage, full roboport coverage, full power coverage, 2 train stations, and is tile-able (Cannot rotate though).\n\nDesign is based off [Train base cell](https://factorioprints.com/view/-Kt7QxVushfraBweWaRk) and [Safe Rail Crossing](https://factorioprints.com/view/-Kn0QvWiJ4FdOCBlXeuM). These are both very good designs and worth checking out, they just did not have everything i wanted in one, so i added stuff tell i got to this design.\n\n",
@@ -25,7 +26,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1580379406733,
-	"numberOfFavorites": 7,
+	"numberOfFavorites": 8,
 	"author": {
 		"userId": "XouwrXG85dgtwYNW2mVd2i8IbjJ2"
 	},

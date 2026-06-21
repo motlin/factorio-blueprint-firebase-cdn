@@ -8,7 +8,7 @@
 		"type": "image/jpeg",
 		"width": 738
 	},
-	"numberOfFavorites": 58,
+	"numberOfFavorites": 59,
 	"tags": [
 		"/production/belt based/",
 		"/version/0,17/",
@@ -85,7 +85,8 @@
 		"3CxXLjQJgBOh3WEO5FRBwPibGFE2": true,
 		"pehRmNuQphSBCMpNKRwo4Sj2loA3": true,
 		"9qEG2lkyrhOJLpQ8fMc8haDrqWJ3": true,
-		"8xR1OPULwCezXOn9tTgnzeldyfv1": true
+		"8xR1OPULwCezXOn9tTgnzeldyfv1": true,
+		"Lq7sf28jMmSrwNkJKnfuyDUgeYG2": true
 	},
 	"descriptionMarkdown": "Uranium Processing, Kovarex Enrichment, Nuclear Fuel, Uranium Fuel Cell, Nuclear Fuel Reprocessing all in one design. Simply input Uranium Ore and it takes care of the rest. Add in Iron plates and Light Oil for additional nuclear items.\n\nInputs:\n- Uranium Ore\n- Iron Plates\n- Light Oil\n\nOutputs:\n- u235\n- u238\n- Uranium Fuel Cell\n- Nuclear Fuel\n- Also Reprocesses Uranium Fuel Cells",
 	"lastUpdatedDate": 1581010349334

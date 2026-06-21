@@ -10,10 +10,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1779516435772,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/general/tileable/"
 	],
-	"title": "Tileable Rocket Garden"
+	"title": "Tileable Rocket Garden",
+	"favorites": {
+		"Bjse76JoUKeLOuLmWbhUKyWG7wJ2": true
+	}
 }
