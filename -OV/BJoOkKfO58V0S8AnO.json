@@ -7,14 +7,16 @@
 	"createdDate": 1781544472398,
 	"descriptionMarkdown": "UPDATE: (I'm currently at 260% in research productivity for asteroids)\nThe old blueprint wasn't very good, so I designed a completely new set of ships.\nThe new iron  ship now produces approximately 2.7k–3.3k legendary iron ore per minute and 300–330 legendary copper ore per minute, depending on travel direction. You can get more if you changed the recipe from advanced to the normal one.\nFor clarity, I removed the old blueprint book and replaced it with a new one containing only the three final ship designs:\n\nIron & Copper\n2.7k–3.3k legendary iron ore/min\n300–330 legendary copper ore/min\n\nCarbon & Sulfur \n1.7k–2.2k legendary carbon/min\n200–230 legendary sulfur/min\n\nCalcite & Ice\n120–220 legendary calcite/min\n400–1k legendary ice/min\n\nAll numbers are estimates based on testing and can vary depending on travel direction and asteroid density, but if anything actual production is more likely to be higher rather than lower so don't worry.\n\nNote: I'm currently removing the excess ores using recyclers for testing purposes. You probably won't want to void those resources, so if you're not swimming in resources, remove the recyclers and the inserters feeding them.",
 	"favorites": {
-		"viikBby77LPUc2SIXujEHP3vhW02": true
+		"viikBby77LPUc2SIXujEHP3vhW02": true,
+		"OIJHrM9nalegVOxIXYEViLYE3W32": true,
+		"pGfXgEIJ2CYyF499wGKW8jbGRj83": true
 	},
 	"image": {
 		"id": "KSw2YJm",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1781894464282,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",

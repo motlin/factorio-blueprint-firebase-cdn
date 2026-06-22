@@ -7,14 +7,15 @@
 	"createdDate": 1781304163101,
 	"descriptionMarkdown": "A book of space platform modules of varying widths as well as specific configurations of those modules into working vessels. Includes starter, basic inner system, Aquilo-capable and Edge of Solar System-capable classes. The basic inner system platforms can be upgraded from basic fuel/oxidizer recipes to advanced recipes in-place. None of the space platforms or modules in this book use any quality components.\n\nPlatforms are tested with all sciences (including the first level of infinite sciences) researched, which is:\n* Weapon shooting speed 6\n* Physical projectile damage 7\n* Laser shooting speed 7\n* Laser weapons damage 7\n* Stronger explosives 7\n* Railgun shooting speed 1\n* Railgun damage 1\n* Asteroid productivity 1\n\n You may need to adjust the throttle controls of the platforms if your science level does not match.\n\nEach of the fully integrated vessel classes has a few features:\n* Throttle control to manage speed via pump duty cycle.\n* Auto-feed of initial fuel and oxidizer to reduce manual intervention requirements.\n* Asteroid chunk thresholds to maintain an evenly balanced sushi belt.\n* Pre-flight checklist combinator to simplify schedule conditions.",
 	"favorites": {
-		"XxKAsFrea7MbAwnvscFzi9BO3bx2": true
+		"XxKAsFrea7MbAwnvscFzi9BO3bx2": true,
+		"M0KdcgGSzmOVA23Bcmp8exNwO8F2": true
 	},
 	"image": {
 		"id": "9Flgi3Z",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1781304163101,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/planets/space-platform/",
