@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1781702686703,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
@@ -19,5 +19,8 @@
 		"/mods/vanilla/",
 		"/version/0,15/"
 	],
-	"title": "Calcite Collector + cargo ship"
+	"title": "Calcite Collector + cargo ship",
+	"favorites": {
+		"QUM9TtUvsnWwqJOc58IiQKxCYER2": true
+	}
 }

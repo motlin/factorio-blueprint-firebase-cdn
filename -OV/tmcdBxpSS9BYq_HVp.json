@@ -1,0 +1,21 @@
+{
+	"author": {
+		"displayName": "Nir Adar",
+		"userId": "I6YX1Ar1cWUwhbQgMcW4nyZkDs52"
+	},
+	"blueprintString": "0eNrNV0tz4jgQ/isq7dUmYDABV81eZvcwe0xyoGqScgm7ARW27EhyEibFf99W+wFJCAEuM5UqIkvq7k9fqx965fOsglJLZXn0ylMwiZallYXiEX/q9wYem2/Yf1CKtfhVZPfqXn2XOqmk9ZNCWV1kGaRMKgPagmZ2JSyzYg2GwYtIbLZhMyYt5IaVuGwAhVK20EXOBEtWYGzPqbwFlFoB7WQCd1ihlzinhQVc0EW1XLEOKCuFFjmgPcOeV6Dw21iplj1253S0WCqDKKQ1TBU6FxkzViRrZuQvcFIaWFkYI+cZeM62amALVSN3RqxEsYVU+LsiVAXTIJIVYa0hEvwbeKykroU78wsExUARdBTMiycgOQMZJBZJc4frcY9L5MTw6OcrN3KJtpwf7KYE5wCpbYUzHld4YJyod/hJViRrvkVZlcILjwZbb1+63WwBcK9jeW9vsH3wOCgrrYTaLH1sYlXlc9CorLOWQiJT0OjpfI4s2EIjEmRN1vfjlaO662DaCz2+4dHoeohWmlsRz2ElniRK0K0iPbFzPskaN7v/hSgWUhsbn0zBDSdjubsLDljEv3HHwplqbj+o+Zu3ExA3wuh77lgrKltW9kxfoYXtwxatlJnYIAlvQ+xHc118DI9cWtZQRUd555fgPL8M+3+OXz7lrpHtAtrvH2fL5YekqJQLsCNUDc+kavBbqLqrqVKYmFz2HffPIO40L5SbmNiKXcaNpUJFPFqIzMARkm/AgPXLCncd43jU2ZxX2dpv894heoc7enshmk0xWSb1jslhupO6xsSgBCbolEdWV+B10x3vbu9lEd+y3v8Q/tudHcz2aexSv7NokQDzHglSFVNhiV1hqVdRwSNaRrJQXwZLUKnQm0Mchh04qbDO4FKTro+SGBCJrYSD4KofXUgNrs7EFa5l6AxIYyq+rdMPQBh3EFpOTk73IeE45D5Tu9e8HeMFbuuVx2uA72e/jJh9auu6zj9EjZuonG+pLLZl70vls/OUByHGEEbRAU6vd+lHGhdjfikUZMfZHBGbFl5QN79j3xgV+Xs1w2HTDpEvr+omCrsOXNAuVrF/wqHIsuIZ2wrqVKjLucLlXOAlUUv2WBVWNM3GCUGCl6vgh4426XYKLe0Kk7ZMTq5Dn12Xnap3+fXM0J652K3piY/XGEyrWHBFk/F83qbZs9LIkQza0O4T7Wx3PrZH1QF2pxfXrfB31q2Ly9Td0Wr/3QUA++fzEjToX5Q/R5fmz7dZ68C96pJDiMjyIqU4sX4GgjB13TqeGSl7dm8GVPVz4AXe0Bs9eDSaNKMR/gU4Cjxab0Yjb0CjVsL9n9DcEOemNDemUdCMJjSaNqtod/d8onM0PpLpzj239EZhrt1ysNMPx2zypP+mEH+dPCmjNPYaJ3rtIOJBuEPw1957kdog5wfXa3SvVY9nYo5JNeL/0nttRnDN1W39xvyx60ee8KQEMRwH09F0Gk5G42v82W7/B/iKIzg=",
+	"createdDate": 1782307261218,
+	"descriptionMarkdown": "#### Exact X Items/Second Inserter\n\n**A generic circuit controller that takes exactly X items per second from a chest.**\n\nI created this mainly for testing blueprints in the editor, when I want to see exactly how a build behaves with a fixed input rate. It also works normally in-game with no problem.\n\n**How to use:** Set the item and items/second through blueprint parameters when pasting.\n\nThe inserter uses its normal hand size while possible, then takes an exact partial final hand to reach the target. It will not take more than the configured amount per second.\n\nThe infinity chests are only there for demonstration. Replace them with your own chest, and do not connect wires to the chest itself.\n\nRequires an inserter fast enough to move the requested amount.\n",
+	"image": {
+		"id": "vWnZAsB",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1782307261218,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/circuit/counter/",
+		"/mods/space-age/"
+	],
+	"title": "Exact X Items/Second Inserter"
+}

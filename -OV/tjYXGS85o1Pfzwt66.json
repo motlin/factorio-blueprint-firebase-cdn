@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Faust19",
+		"userId": "pffH9UmevCT4NJy91E5EQxgGP5L2"
+	},
+	"blueprintString": "0eNrFmN9vmzAQx/+VyE/bZDp+JyDtaX1e+9C3KoqAuI1VwMw27bKK/31nEwpNyDBtp7VSc8H2x3ffs32mzyjNa1JxWkoUPyOasVKg+PYZCXpfJrl6ViYFQTGSPKGlJSSrUIMRLbfkF4qdZo0RKSWVlLTj9Jf9pqyLlHDogLvxQgHud9KCjxxhVDEBo1ipplAk6LlHsbX0gL6lnGRto9/gE6hrDPXMoZ4xNDCH+sbQpTk0MIZG5tDQFOrOSNTSGDojUasXaEG2tC4skkN3TjOrYjk5ZUcXXcLsi6AZAUYDLwnJrWxHhBxboVMgxzYk2ZOkft+kdf5g0VIQLqHlbyzw77V6qzGya0x2ZpI9w+i9yeh9Q5I7SQqMo3VnRhsak72Z5KVh9MFk9CtDkj9Jioyj9edF69rG5GAm2Zl5UDjhlAxuv3kSTuWuIBJoGStSWiaSjTm97J0Gl6G8Ss7yTUp2ySOFAdCrJ22geatHC9VwR7mQm5NCPEwlIAVRo9RQIRNVxX3IOqsIT1o30BfwitWyqqdYzWjI3uyQVx8XstxXauZHymWdqLrR+a17WCTJdgMNpqSaVMVwuqGXm5LIJ8YftPucbFF8l+SCYHTPCYGJJK/JGWX92cpG/19Zw3FDqb++Qeqrk8nfIXQw8yBwJyu9G87NnWu/N3f9Dndse35mro7TYr0hLdfnTom+Zg3eE85f85yja964IBq1UaiKzIj0pl07cgOvNQw03beLA7w5fJ8XL7Bkpxkai72vsl2KDEtCGOk6Nha6aKURr214v+pevNQplEOdPH46Wu9/QmxaB1QyXug4wcMq4drDGH3TD2q1tsJmDb+jOR7ck/UGYtywDoTRmSiHyxGEyx4sQX8TNDa7Z7/9tDw7/z86LY926seUHfiBd+0n2DQq5bcrHGC44QRrfBthF8Orh9uZvjbhOn5kr1p7eWR7dm9DjpWtwBiOTUWHO4+DYY07rQ0kr7W9tr/f2jBROxd8OIrptTY8DNvnobJhkjWEoZYe6N4t34MAh1zjzohR2Itxw2SSL37olgW7W3xXa1tA+yNkMUlzorsrjagkhbpOvvxjA6M8SQlIjS73QKPZ4kadLIvrw3mw+HTJWfVZscAjnaggdCM/ioKVHy7hT9P8AQihq+g=",
+	"createdDate": 1782306453982,
+	"descriptionMarkdown": "Train Priority is set dynamically by reading the contents of the buffer storage at any given station. The blueprint is parametrized so you can just set the total number of chests in the station\n\nFor those interested in the math (pretty basic):\n1. Calculate total stacks available in station i.e no of chests x 48 (steel chest has 48 slots)\n2. Get stack size of the item (can be dynamically gotten using selector combinator)\n3. Get total capacity of station i.e no of chests x 48 x stack size\n4. Read contents of chest with wires and divide by total capacity (We multiply this by 100 to get the percentage)\n5. Subtract above value from 100 since this is an unloading station (if no content in buffer chests, then priority = 100-0 = 100)\n\nNotes: \n1. The multiplication by 100 happens before the division by total capacity to get the percentage accurately otherwise since current/total is always between 0 and 1, the game will consider it as a 0.\n2. The multiplication constant can be changed from 100 to 255 since 255 is the limit of the train priority value so instead of 0 to 100, the priority will be dynamically adjusted from 0 to 255.",
+	"image": {
+		"id": "Tsfl6cA",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1782309202736,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Dynamic Train Priority (Drop)"
+}

@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Faust19",
+		"userId": "pffH9UmevCT4NJy91E5EQxgGP5L2"
+	},
+	"blueprintString": "0eNrFl11vmzAUhv9K5Kttgi58f0i72q6nXvSuiiKHOI0VwMw27bKK/75jEwpNyDBdpzVSc4Ltx+e8x/Yxz2iT16TitJQofUY0Y6VA6f0zEvShxLl6VuKCoBRJjmlpC8kq1FiIllvyE6VOs7IQKSWVlLTj9I/juqyLDeHQwerGCwV42EsbvnJkoYoJGMVKNYUiQc8jSu3IA/qWcpK1jX5jXUBdY6hnDvWMoYE51DeGRubQwBiamENDU6g7I1GRMXRGouIXaEG2tC5skkN3TjO7Yjm5ZCc3XcKWN0EzAkwGXhKS29meCDm2QqdAztKQtJwk9ftmU+cHm5aCcAktf2KBf6/Vi8fIrjHZmUn2DKP3JqP3DUnuJCkwjtadGW1oTPZmkiPD6IPJ6GNDkj9JSoyj9edF6y6NycFMsjPzoHDCKRncfvNgTuW+IBJoGSs2tMSSjTkd9U6Dy1BeJWf5ekP2+JHCAOjVk9bQvNWjhWrYUS7k+qIQD1MJSEHUKDVUSKyquA9ZZxXhuHUDfQKvWC2reorVjIbszQ45fr+Q5bFSMz9SLmus6kbnt+5hE5ztBxpMSTWpiuF0Qy/XJZFPjB+0+5xsUbrDuSAWeuCEwESS1+SKsv5sZZP/r6zhuKHUn98g9e3F5H8hdF8EBpfY63cQ5+wOMq60Rq0VqiIzBLprA5NruHMzSNax9Ry8Of2epZFiyU5nNBZ7X6a6E8LwvAoTfciOhS5aacRrGy7/3VuB2iI5HOLnT0eL0Q+ITeuASsYLHSd4WGGuPUzRF/2gVkdb2KzgM5rjQdHUxzzjhodUmFyJcriEQbjsYAv6i6DR2eO3b+Wr8/+jrdwXCme5fK8zEf7gRfAJNo1K+X1sBRaU32Bl3SeWa8G92O1MX5twVzyz49aOzmx3aEfahiLsWLCundaG0V5re20fv7UB3vLhy1Ecr7XhITi3AnfVEgN9u2V6CvSUU6szUhT2Qd8xifPFd92yYLvFV7WGBbQ/QrbwJie6u9KCSlKoO83L27WFcrwhICn6dgQazRZ36gRZ3J72/eLDLc0OdfVR0cAnnZIgdBM/SYLYDyP41zS/AVoXLrU=",
+	"createdDate": 1782306243037,
+	"descriptionMarkdown": "Train Priority is set dynamically by reading the contents of the buffer storage at any given station. The blueprint is parametrized so you can just set the total number of chests in the station\n\nFor those interested in the math (pretty basic):\n\n1. Calculate total stacks available in station i.e no of chests x 48 (steel chest has 48 slots)\n2. Get stack size of the item (can be dynamically gotten using selector combinator)\n3. Get total capacity of station i.e no of chests x 48 x stack size \n4. Read contents of chest with wires and divide by total capacity (We multiply this by 100 to get the percentage)\n\nNotes:\n1. The multiplication by 100 happens before the division by total capacity to get the percentage accurately otherwise since current/total is always between 0 and 1, the game will consider it as a 0.\n2. The multiplication constant can be changed from 100 to 255 since 255 is the limit of the train priority value so instead of 0 to 100, the priority will be dynamically adjusted from 0 to 255.\n",
+	"image": {
+		"id": "YkfWUov",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1782309253747,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Dynamic Train Priority (Pickup)"
+}

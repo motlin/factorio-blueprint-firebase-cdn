@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Robert D",
+		"userId": "jebOTQ5nhqSKS37nAzAfMSY4ncH3"
+	},
+	"blueprintString": "0eNrNWMmO4zYQ/ZWAZ6phrV6ABAjmkJyTvg0aBi1Vt4mRKA1Fddpo6APmP5Ifmy9JkZTkjW5b6mRmLnaZLj5WvVq4vJJN3kAluVBk9Up4WoqarD6+kpo/CZbrMcEKICsiGc9JSwkXGbyQld8+UAJCccXBzjA/dmvRFBuQqED7mbXCuU9b5RkISqqyxlml0OCI5IXzmJIdzkjCZdvSM6RgQNJAwqtVWTlhwj0MJeiJkmW+3sCWPfNSajUJLFvr6RVkawNGVko2QC3y8NfeebWr9MLPXKqGaeN7n4yGd68ZMagGoF6nZaOZPADtxm7H/ECQBCSNWefI7yDLDQYI7rfw6z2qF0zgvH7FnBdc6XicExfeHoJk+WYIohtDkMyvheAHJvo3KGu1e7nEcOjgJab78siYdFIS3Q3pvbiLXewmE0ol8l1I8wFp0+SfPLQepALprpbBrmiGdlGScQmp1Ykc2IsBO4OUZyC9tCw2XDBVuhcI7g6MPYJfuHOjw8U4isxg1Xr08Be2mUcuazUycdDQiklj6Ip8/fI30c2rbFTVqNNudwVOQmYBq12Xbo+yLNZcIBRZPbK8hvahdYVmOaEY3UH2ZwMUk1xtC1A8vRKMgyw0wXDRvwc7icAp5d3i6RYKniIpdcpBpOBVLP2k2alBzx9ViBiOCmRfiR7pw3Pzqk7OfX9kzibxdZr+jyz9YJNKYDMSptVMzU/d09z55++30X6ha2S81SEulHBt/6+PZfSgPzZQpCbHlnQ6+mZ0KfmMzqI3qCFKWRjHj4r6ZzNgtoQICbhAQTil0YZOqP2OWEOOjpZj2mF4E5eHFWF963y8Pa+QTlscDg/isf08PHbgW9XG0HLPwq0HYN1NZ0KrjUZnYqe2XDwdF6B/43pTy/R41dF7iZ9M2UzciTyfUhPOY4z/nhNC/N1OCF2NvBX+r1/+mZJb52ePX/7jPDqw/XISHXk2u5RSy3e0g7j9LuE6KtAfMj7wDPJdlR7MplS6szwDnx7e5b3OCect7iC0Zxu/CzqY0kTmTivD0Rtrf+2PklNb9Znn2s5qVyG0E9YFe+mvleZ0st4Xz8xpcDS6cAYCzq5d366MgKXba3ve9LQfwG/rSp5/Kf3jKenvTqxJt2z3g9R+zywg403hmdSReAuryhyudUvzCoDU/oWB18R+DGhAFzR4oEbCTjyIdjTSom/EWIszGqG4oBHFQ5wexRFfa4RWRpXAjpuZsVFHOeoBccjX46GVzZqRlXFGZHUWWmdhdfBL6/haRvMoVqnWxy+U59ZejW9kdI0rKPQjxPC2SEnONoC5Q/6Azw3UeAP46c/u5YUS7JK1YStOgmW0XMaLKJnjR9v+C9FK7Po=",
+	"createdDate": 1782271663887,
+	"descriptionMarkdown": "A requester train station (connected to radar) and a dispatch station that allow for automatic loading of requested items from an unsorted inventory (i.e. a cargo landing pad unloading bay). The system is configured to ensure the requested items are evenly distributed across all stations in the network (prioritizing items with highest count first), and the logic gates prevent the filters from being updated while a train is in the station. ",
+	"image": {
+		"id": "mJeHOj5",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1782272042834,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Tileable Circuit Based Train Dispatch Station"
+}

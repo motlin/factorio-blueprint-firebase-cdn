@@ -1,5 +1,5 @@
 {
-	"numberOfFavorites": 22,
+	"numberOfFavorites": 31,
 	"title": "ElderAxe's Beaconed Electronic Circuit (Green) Factory (v1.0.2)",
 	"authorId": "ryQ2OgSWVPeQg6YBnfsTBkKcul83",
 	"descriptionMarkdown": "#### **This blueprint is part of my [ElderAxe's Factories](https://factorioprints.com/view/-Lr1EMRsMFcK4N-Im6Df) book. Please check [that blueprint](https://factorioprints.com/view/-Lr1EMRsMFcK4N-Im6Df) for up-to-date version.**\n\n---------------------------------------------------------------------\n\nPerfect for the main bus: \n- factory uses 4 Copper Plate and 4 Iron plate belts as inputs and outputs 4 full blue belts of electronic circuit\n\n#### Output\n- Electronic Circuit: 180/s\n\n#### Consumes\n- Iron Plate: ~129/s \n- Copper Plate: ~138/s\n- Power: ~129MW/s\n\n<span style=\"color:#00FFFF\">PS: FactorioPrints doesn't notify me about the new comments on blueprints. <br/>\nPlease use [my Discord Server](https://dsc.gg/elderaxe) for your feedback and suggestions.</span>\n\n#### ChangeLog:\nv1.0.2:\n- Missing item filters for the 2 splitters are set.\n\nv1.0.1:\n- Removed two beacons and added a splitter to balance lanes\n- Removed extra belts\n\nv1.0.0: \n- Initial design",
@@ -47,7 +47,8 @@
 		"z4dUsFIBmnW3Cbu7QHuRqcbpnwt1": true,
 		"K1O1gwsYsZdYArU0Qkr210mFxQL2": true,
 		"mTHT5L8629Pl1zsHBd7nefEL7rT2": true,
-		"dWOEylhpcoeIlmiH3ZnGNKwPdWj2": true
+		"dWOEylhpcoeIlmiH3ZnGNKwPdWj2": true,
+		"1IbymY0bDHZw7phmia4XQxqRY0t2": true
 	},
 	"author": {
 		"userId": "ryQ2OgSWVPeQg6YBnfsTBkKcul83"

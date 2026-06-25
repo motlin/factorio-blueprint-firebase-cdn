@@ -7,6 +7,7 @@
 	"createdDate": 1758741242095,
 	"descriptionMarkdown": "Produces preset Item in optional multiple qualities.\nUse Constant Combinator on the left for proper setup.\n\nSupply Basic Items on Lower Storage.\nMid used Items will be produced on its own, no need to setup the whole Production chain.\n\nIf available the Factory Checks wether using the more advanced (and 50% Bonus Production) Assemblers are used.\nSmart Timer definitions, Output of Items in Loop and Count to produce.\n\nRequired Mods => Warehousing Mod https://mods.factorio.com/mod/Warehousing",
 	"favorites": {
+		"r2RBwiIgiGRD1Mf38ZNVKH00Ahv1": true,
 		"wYZz2f47LqZcxYvrizW3BVjgYwI2": true
 	},
 	"image": {
@@ -14,7 +15,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1758978643944,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/production/mall (make everything)/",
