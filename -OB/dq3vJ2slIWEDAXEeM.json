@@ -872,15 +872,17 @@
 		"rZiskjcHJYON1troTfnc3WKBFtO2": true,
 		"3ND0r72HVjOzJQZk6dvAl4VXImt2": true,
 		"Mr6FWLUgSLTLtybrHK7x14FfAy13": true,
-		"2VN47SmLG6RARt4SAh50k18eF982": true
+		"2VN47SmLG6RARt4SAh50k18eF982": true,
+		"WV5dTP2A7GaBekQdNc1k98CrE9C3": true,
+		"0lh1aNiqwcZ3U4sDfwotrce0xvs1": true
 	},
 	"image": {
 		"id": "KnWVq1c",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/oU9SxMn",
-	"lastUpdatedDate": 1781946464151,
-	"numberOfFavorites": 866,
+	"lastUpdatedDate": 1782399101752,
+	"numberOfFavorites": 868,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
@@ -889,5 +891,5 @@
 		"/production/science/",
 		"/general/tileable/"
 	],
-	"title": "Tileable factories, v0.56.0"
+	"title": "Tileable factories, v0.56.0, Factorio 2.1 version on GitHub"
 }

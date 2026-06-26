@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Joe Josephi",
+		"userId": "Ov8FpHrN3CYOPCns0N6kBC5wZga2"
+	},
+	"blueprintString": "0eNqdVtuO2zYQ/RWCT01BLSz5tjaCvPQP2r4FgUBJI5sILypJ2VUX/vcOqVu80e5m90WmeDkzPOfMyE+0kC00VmhPj0+0Alda0XhhND3SP7mujJIdKbtSgiMF+CuAJjhNSstr74jwoPCpiT8D+cNo57n2OFCF0NwbS4qOWPinBeeFPuH2sPlkoRKgcVxboyKcaX3T+rjHmwgmzUngoZJojGrs9wfKqCgxAj1+faJOnDSXIWXNFWCu3DlQhUSARPHyLDQka3rDI7qCf+kxvX1jFEMKL6BHiC9drltVgMUNbERyIKHE1JNyugWGbowTPS1PFPGSbIUnujDINg9bDFQJi8fijg2jmKi3RuYFnPlFIAIeMw1YPlBrI7WI2w/ytqm4hxxlAHsJF1vvVgjaSN6Bze9lsaMsfaaOcKS4FA30dPYcI5uO/PaiKiDNFXd+Qop+oiKbqOBW+LMCVOF1MtLD4b1kzNA5LlcRzoWFWljn81lf3zUhlYuwvsWZWaa4IwEUO+jsIMAErHhZetyzO8J/x5O9yd6LfXtJB9VKLxqJhkKPQgXVnbXR+HtGaiSbE6e4lKRo6xosbkrGQhqKKBTAaHcuiWubRnZLyqznDANiIrlqFuXYP2zvBVmSoBS2bIXPQfNCQkWP3rbApulJlg+oguqHlkH7yIMiq/CiGm6ji470C73Fddmn0xfhKT6L+OShbvFHXnnn8pBIyHCBl80Uf4z2ZvHOBGW/6FjXr7v7MXaSucW8aJW/Q0NDfYmph5bZmZZcQ1VGD0DFyFjWD0vKb6cbKjRYq5JY+hYLszHI89IVV/dXXADdTaBDiwZsemf8fYuy9ZueUqaC3NT5DyWYLlhr9l7NpUNpx0zyWkhM5zWyGfWWu3Oujc/H/CcTTzDYEfO+8NxgnwUi9hMRRSu/J0I7sBj9LVrXz52TZgvgj+zVb9RS+T4+d+cS1WPHeL1Qh9A4DdwqjHvi/2Hg+8pMV6vnxfm5b6qB2vBpmXnlVf5Dm7ubD59pXJvnwklUUgt3huo93aMK0Qe4D3SdJY0Pswyo1gWSxpqLqH7V8ulyCaWrj1kn/anpBENf8T3Y/GvKUrZh6TeGozV7jKOMZTjK4mjNdnFuPczh2dBWQhbT3zlGJcfvPM79JVQjgfDWm77bhPQuWBEx8naXHTaHw/Zxs9vj43b7H7eddNY=",
+	"createdDate": 1782414115972,
+	"descriptionMarkdown": "Randomly cycles between and crafts items in the Constant Combinator by requesting its ingredients from and outputting to the logistic network.",
+	"image": {
+		"id": "t8eLywF",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1782414115972,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Simple autocrafter"
+}
