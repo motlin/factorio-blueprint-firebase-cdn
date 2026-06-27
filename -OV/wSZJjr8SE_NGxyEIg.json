@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1782352928701,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/general/mid game/",
 		"/general/compact/",
@@ -19,5 +19,8 @@
 		"/mods/space-age/",
 		"/production/other/"
 	],
-	"title": "Space Factory for Calcite (Nauvis) [planet=nauvis]"
+	"title": "Space Factory for Calcite (Nauvis) [planet=nauvis]",
+	"favorites": {
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true
+	}
 }
