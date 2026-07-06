@@ -10,9 +10,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1774651298861,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Tileable[item=military-science-pack]Science"
+	"title": "Tileable[item=military-science-pack]Science",
+	"favorites": {
+		"n0bvWepKqcOnnzBhWwlOHpvq7y73": true
+	}
 }

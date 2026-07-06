@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1781884177607,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/mods/space-age/",
 		"/general/early game/",
@@ -21,5 +21,9 @@
 		"/production/belt based/",
 		"/general/compact/"
 	],
-	"title": "Red's Jumpstart Base v0.0.2"
+	"title": "Red's Jumpstart Base v0.0.2",
+	"favorites": {
+		"aWM1eZiOX7OH23fo0vgiDefTUpR2": true,
+		"zGCEAwcNZwfPZJQrEiGGotLqjP82": true
+	}
 }

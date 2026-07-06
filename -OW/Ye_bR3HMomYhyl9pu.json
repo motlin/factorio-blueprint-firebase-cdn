@@ -1,0 +1,21 @@
+{
+	"author": {
+		"displayName": "Lt. Dan",
+		"userId": "qGaat7KcNpOgz1L32RfDWKBh1ox2"
+	},
+	"blueprintString": "0eNqdVsmO2zAM/RVCZyeI5SXLrUV7770tCiVmMgIUyZDoZIIg/17aniaDNp5aPniTnh4fSZHWVWxNg7XXlsTmKioMO69r0s6KjZjBZ2WU3WEATXgMsEU6I1qgFwQ6O+BJnnN7UBC0PRhkhKEfdgZfTwzT+xbpERRfx8aQrhniGqobCknHoi2/gw4QSBsDdWMMVrD37gjIFOYC7oS+g4Za2dbWP8Y7jnlr9Rv6vfMstMOrI8L5pZf7JkL24ADKVvzxJqVb+4kgzTv9LC2DgNSRN7ZCf/COnzzeLwu10UToeUB34j0aRfqELBdfa7SB30EF2CvfPrZ9FH2Ag0tgyw5bR0DO8UzFxkUi9M7ZIDbfryLog1WmTYZlBzgL5JUNtfM0a8WJG4NZ06vYpLfkCfyPuHdAefuZCLSkSWNvpPu4/LLNccvITZoMGEtE7YLut8NVMNVMZuW8SMSFF6Xzgm1U2uOuR6SyVfQXt7xzvwvlMHv+AXsi6FK3TH3exBNrWYwn2aCt1RPqPIZaxgWpiOFexHGXEdxyFce9jEquXI9Jblehz3K7inFkGZXbdZwfxTD5iD2aLmIcyeMyksbUsozcpqmM2ad35XIc+aN27z3sGe09+HIM6bSqbRU/YysmtZeR/pfj/E+j/I+r0Edv6TX/fy+vJnWXofiuJ/YTOelnIReTOsq4dMp0VDplGZNOGVOAjzY1UnEWF/18TPQHu7nMx8UnG44Pn2racykzPA6xiTCKFfPYFx3Iaz5tuZaYT5GhW1eUcp2v18UqL5d8u91+Ax7YmaA=",
+	"createdDate": 1783009794572,
+	"descriptionMarkdown": "- Balances items between the two lanes of a single belt\n- Size: 14Lx2H (If you trim off the little tails on either end outside the balancers)\n- Very helpful if you have OCD (probably).\n- Works in any configuration: 1-1, 1-2, 2-1, or 2-2. In every case, it will pull input from each lane of input in a round-robin style, where a given lane will not have its item pulled unless the other lanes have all already had theirs pulled once.\n- At 14 belts, 3 sets of undergrounds, and 4 splitters (screwed that up in the description in-game - it says 2 but it's actually 4), it is relatively expensive for a 1-1 balancer, but not too bad.\n- Will not affect throughput (as far as I can tell, anyway)\n- Useful for adding to the output of mines to help pull the resources more evenly. For example, if you have a mining field with miners on either side of a belt providing a total of 6 items/sec, and on the other end you have inserters pulling 6/s off one side of that same belt: You can stick this on the output of your miners and be guaranteed that you will be drawing the ores evenly.\n- For some reason Prints isn't accepting my imgur link, so here it is here: https://imgur.com/a/Bf0WlP5",
+	"image": {
+		"id": "LtPpN1b",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1783132068082,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/belt/balancer/",
+		"/mods/vanilla/",
+		"/version/2,0/"
+	],
+	"title": "Distributor"
+}

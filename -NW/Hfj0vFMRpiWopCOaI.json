@@ -12,10 +12,13 @@
 	},
 	"imageUrl": "https://imgur.com/aG1N1QX",
 	"lastUpdatedDate": 1714005405877,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/production/mining/",
 		"/mods/other/"
 	],
-	"title": "Nullius Mining"
+	"title": "Nullius Mining",
+	"favorites": {
+		"ztWNXmCsdrPNWPMQD6Ii8xUjzPN2": true
+	}
 }

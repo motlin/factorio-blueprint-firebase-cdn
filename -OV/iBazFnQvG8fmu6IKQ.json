@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1782112743526,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Example on train station "
+	"title": "Example on train station ",
+	"favorites": {
+		"4YsVcZEUHEVCGXbGgBSQSr4gghT2": true
+	}
 }

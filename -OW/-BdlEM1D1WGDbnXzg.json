@@ -7,10 +7,10 @@
 	"createdDate": 1782414744760,
 	"descriptionMarkdown": "Mixed Elev. 3-car/3-station cityblock. 300 boilers + 600 steam engines = 540 MW. Three double-ended 1-1-1 mixed-fuel requesters retain the source-book train-interrupt workflow. Fuel priority: wood, coal, solid fuel, rocket fuel, nuclear fuel. Wood is opportunistic; continuous sizing is coal-or-better. All 300 boiler inserters are isolated on 108 solar panels + 100 accumulators (0.926 ratio). Roboports cover the full block, join adjacent blocks, and remain on the steam/main grid. Belt-only fuel logistics; no logistic robots/chests; steam engines only.",
 	"image": {
-		"id": "EzUVhkJ",
+		"id": "FgCJszr",
 		"type": "image/png"
 	},
-	"lastUpdatedDate": 1782414744760,
+	"lastUpdatedDate": 1782589967961,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/version/2,1/",

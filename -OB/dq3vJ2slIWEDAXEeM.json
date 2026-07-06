@@ -382,7 +382,6 @@
 		"dGlYJYfJm4hu23prdYTKQhGIhhI2": true,
 		"aMr0WTLXqiO978RMsc7N7vaPQdG2": true,
 		"80FyMG1NRnP2s8tlUl1W6T9x3AD2": true,
-		"uWgkvYIsOcaZw3FiPmuXKxNdOX93": true,
 		"xM9GKOCCUZOBk0QaaZ0bhUGlq3p1": true,
 		"yzHxf8cvk5MRAtfmuHAgHCqjh7C3": true,
 		"K7Uaemqxb6dFLdNq1pVlx8aUcLG3": true,
@@ -559,7 +558,6 @@
 		"xMyjauSFdYgHgPUZBEs7V09WKbq1": true,
 		"I4C9zOSmPSOMnJXp7chqlTw5IDh2": true,
 		"TVBR5owHc9ckRWGlFkMx63a5vz53": true,
-		"v3b6piP0B4fjnTxkHmE3xUPnexp1": true,
 		"uuLBBlmPR9eJ0W5prRiFTLvk7s73": true,
 		"vroIsA7L1WTWYsoQx2e7N8s8v863": true,
 		"pehRmNuQphSBCMpNKRwo4Sj2loA3": true,
@@ -874,15 +872,24 @@
 		"Mr6FWLUgSLTLtybrHK7x14FfAy13": true,
 		"2VN47SmLG6RARt4SAh50k18eF982": true,
 		"WV5dTP2A7GaBekQdNc1k98CrE9C3": true,
-		"0lh1aNiqwcZ3U4sDfwotrce0xvs1": true
+		"0lh1aNiqwcZ3U4sDfwotrce0xvs1": true,
+		"hB9PbCtx2KUmabMrRgPJ6VSLcQg2": true,
+		"tIbDAnVEaHUFLTr21oGkOTLZm4e2": true,
+		"uWgkvYIsOcaZw3FiPmuXKxNdOX93": true,
+		"SQdq1JOUJugdWvnn76gHof4MO062": true,
+		"Vny0i31TGgfJcNGjQ42Pac1Da243": true,
+		"eLH8kU5vcdfnxjQf9N0WZHfd4k92": true,
+		"4jHhBSlkxTY91wWv5NfGYnTtovs1": true,
+		"Kh7PWhLy1SSqHzkwCzy9vfjalWG3": true,
+		"5jBxe5IeTAfsVEigYwXS0c3gu6h2": true
 	},
 	"image": {
 		"id": "KnWVq1c",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/oU9SxMn",
-	"lastUpdatedDate": 1782399101752,
-	"numberOfFavorites": 868,
+	"lastUpdatedDate": 1783084246301,
+	"numberOfFavorites": 875,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",
@@ -891,5 +898,5 @@
 		"/production/science/",
 		"/general/tileable/"
 	],
-	"title": "Tileable factories, v0.56.0, Factorio 2.1 version on GitHub"
+	"title": "Tileable factories, v0.56.0, v0.59.0 (Factorio 2.1 version on GitHub)"
 }

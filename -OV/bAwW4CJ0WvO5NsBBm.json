@@ -7,14 +7,16 @@
 	"createdDate": 1781995130186,
 	"descriptionMarkdown": "## Gleba Blueprint Book\n\nThis is my complete Gleba blueprint book.\n\nIt includes the standalone blueprints I have published, together with many smaller production blocks, helpers, and infrastructure blueprints that I built for larger Gleba factories and never published separately.\n\nThe book is organized roughly by progression:\n\n* **Early Game**: starter bases, an all-items/mall base, nutrient bootstrap, and smaller production blocks.\n* **Mid Game (4 planets)**: the Mk. 7 mall plus factories for molten metals, rocket fuel, plastic, lubricant, sulfuric acid, carbon, carbon fiber, eggs, and agricultural science.\n* **Late Game**: high-throughput production blocks for ores, carbon fiber, plastic, rocket fuel, bioflux, eggs, and science.\n* **Quality**: legendary spoilage, carbon fiber, stack inserters, biochambers, and bioflux, with early, mid-game, and late-game options.\n* **Infrastructure**: tileable power, agricultural tower and soil layouts, bus management, and defense.\n* **Circuit-less Gleba**: a separate complete approach that avoids circuits.\n\nMost blueprints are usable on their own, but this is still my working Gleba library rather than a single standardized progression pack. Some are alternative designs, older revisions, or purpose-built components kept because they may fit different tech levels, throughput targets, or base layouts.\n\nCheck the individual blueprint descriptions for inputs, bootstrap steps, and special requirements. Most designs use normal-quality buildings unless stated otherwise; where quality modules are used, use the best ones you have.\n",
 	"favorites": {
-		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true,
+		"M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
+		"96scKksgGvSLlD12ApyoyA6CEFC3": true
 	},
 	"image": {
 		"id": "4aeo6Nr",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1781995130186,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/planets/gleba/",

@@ -7,14 +7,16 @@
 	"createdDate": 1781978784833,
 	"descriptionMarkdown": "### Early Gleba Quality\nFactory that produces **Legendary Stack Inserters**, **Legendary Biochambers**, and **Legendary Spoilage**.\nThis is meant for the early stage of Gleba quality production, when you want to start making legendary items but do not yet have quality items available.\n\n\n\n#### Features:\n* It uses only normal-quality items, besides quality modules. Any quality modules will work.\n* The factory creates all intermediate items it needs by itself. You only need to provide fruits, stone, calcite, water and power.\n* Included protections: flood protection, hatching egg management, warnings for missing factory inputs.\n#### To start\n\n* Connect fruits, stone, calcite, and water inputs.\n* Make sure **nutrients** and **pentapod eggs** are available in the logistics network.\n* Add logistics bots. The factory requests nutrients and eggs, and uses bots for its own operation.\n* Optional: If you have legendary stone in the logistics network, the factory can use it, but it is not required.\n* Connect external power. The factory produces power, but not enough for all of its own needs. Maximum consumption: around **900 MW**. Internal power production: **372 MW**. You need to connect additional power.\n\n#### Releases\n1.0.3 (24/6/2026)\n- Added alert if no incoming calcite for more than 5 minutes",
 	"favorites": {
-		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true,
+		"M9WGYLrgbKPOgmZtQgnEfPLzTOK2": true,
+		"UEUBYr4oHwVUYto7mHhIxWJ8lZF2": true
 	},
 	"image": {
 		"id": "cT179Jx",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1782263146803,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/planets/gleba/",

@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1781895993198,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/general/tileable/",
@@ -20,5 +20,8 @@
 		"/train/roundabout/",
 		"/train/junction/"
 	],
-	"title": "Mini city blocks"
+	"title": "Mini city blocks",
+	"favorites": {
+		"uWgkvYIsOcaZw3FiPmuXKxNdOX93": true
+	}
 }

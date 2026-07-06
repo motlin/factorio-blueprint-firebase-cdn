@@ -1,0 +1,23 @@
+{
+	"author": {
+		"displayName": "Confrade",
+		"userId": "KWnq1Z9mEGhQmBHq1hPT6r6PrfT2"
+	},
+	"blueprintString": "0eJzFWkuO4zYQvUqDa2lg/T/ALINsA2TZMAR9aJsYWVJIyjOdhg+Qg+RiOUlAyW3ZEimxpEl6121Q75WK9aqKRb2jrGxxQ0nFUfyOSF5XDMWv74iRY5WW4rcqPWMUI97SrDY5TSvW1JSbGS45uhqIVAX+gWLrakgeykidn9JzhunDUvu6NxCuOOEE92TdP29J1XYrY8uYJTVQUzPCSV0Jph8oNr3wi2egNxSb1s7/4l0NVBCK835JKCwbMdhghmCGwbIlFM6Ioq0KTI+0bqtCSeLPkhiIvzUCsG550wrnT0jdFaTenO/unKRSUHorKF2991Ry+uDtc6DbF4ApbChFuCXMPZ0wj7YwuDoM1u5OkbXlN5NUDFOO6YKEJtiuDHvIA4eU8Vlsb+yZ+oIpJQVOGE/zbwkjf2IU+zKWIRc0pMEmr80+ehfCSGsDLOcJfAFSeEUGMlY1KBZVoGPdgkA9BShcmA8B52h5FC7MBwpbiyJcFdMT86WitwZNPhTH+YieILsGojgnXZJscMXTpi5MfDyij9+TP9q0JPwNxaiq6TktZVnU3kGC05FvuQ0v1vYyKLw+28+bLAMFaVEFAtfiQ/hZkvqa1xWndZlk+JReSE3FczmheUt4QnFaJKe0KhKxClecoZjTFhv3FR+/90vPdYFFfyUzHK73B8N3Wk3VoH7WZoyn3VKZaO7+kFoarEr7Mt9qFwF7XIuBjdPUPxrNmg0vz/bz+8razt0W0J0C1IJIR2WZDQFRWTJuqwFhHIWfJz9nQ96Iok+021shxpujtdXnjNsGkPqk7lk6QTiBfjB2ryPDgDfw9pPRMswNOUFlpwuo8yq73CEDZDjN5Xl9t2gJvK5Hd0ytg707zg+sKQlXBGx0Qw409dVFU1LiQyeg4g4mhiY8FROUnXjw3KQ05eIR9FWMPRjmSV8FEkaE0not3n6awh0IZWLpxyzlFssXQnmblmgost0K8/uJcCx4Fsy48VFyPEHsH55sKKlp31QKo6Xzhy1pTjZ9+J/SnDukuQLnpMDUzOtzRqrOD3N9fxRq2XxDHfzObo6///c63fgP0T52+E/7bHnjDfvnr7+RGK/1WzYe5elHUvOW5HVb8eRA63PSp9H4kJYMX/dXqQf9FYem6ZbL5gBuAD0ySXB/yonJDQGZNFDkwC0ZXoHpQTK8r8DYcJBTYtr6QWGpN0+MaA6k5Jj2Af0xch7it6lJmR7Fi0+2cZrR9gZqGU7uiCJnyIx/OC+mjJELNhtaX/rkcMJM6pLdokvgGXIogVojOQ9+0hsYtKZa3oYxjybDhimPppfWDHmm0LJ85UVroCd+kY6PfIjSFVM6f4vSVZiAw12kGEn68LOdvYjpbhKxCtVbk9cmwfM5ec0HVGprLjw/xfhg036qonfDVUykNVP24VU/gjEE8MHPwKA1eg823MtqMgD6hUANLb/Qc8Bd5H80dw9cQK5UTMgDD4ChmGUH8DJuL9q14d5UaSdcnUNka02ugy3qnA6eZXe9cHWGQIYt6px4SdbXhAB1+jPQn1E3wjWfYwSzL7E0YgwHmQNGp5uuMcI1H2N4M1rRuMUI1wxvXR3PznA+T2817+wjxcVEuGWOq8KEZxQHpsZow0VPxyCk853Q7hOsV8cxbMP1DHtvvLqOYYm/nf3eQITjsxD8/SsxA5VphksUo9/JuSnxy2+3Qvjyy/H48iuucKfOl9e+In59rJN7ZKALpqwzyvPtyI0iL3T9wAvd6/VfBJin0Q==",
+	"createdDate": 1782863757503,
+	"descriptionMarkdown": "This is a very simple and compact Pentapod egg factory i made. It works even with yellow belts (if you're somehow still stuck with those).\n\nThere is a decider combinator which counts a certain amount of eggs in the belts (Ex: 150, but you can set the amount you like), then when the amount of eggs reach the amount you desire, it will send a signal to the splitter and it will start outputting eggs into the belt that goes to your Biochambers making Agricultural Science.\n\nIt's very safe and eggs rarely spoil enough to cause pentapods spawning. Though i do advise to have a couple of Tesla Turrets for safety.\n\n\n",
+	"image": {
+		"id": "ayRW4aa",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1782881652916,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/planets/gleba/",
+		"/mods/vanilla/"
+	],
+	"title": "Simple Pentapod Egg Generator [recipe=pentapod-egg]",
+	"favorites": {
+		"KWnq1Z9mEGhQmBHq1hPT6r6PrfT2": true
+	}
+}
