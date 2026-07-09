@@ -10,7 +10,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1780028008571,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/belt/transport belt (yellow)/",
@@ -19,5 +19,8 @@
 		"/general/compact/",
 		"/production/science/"
 	],
-	"title": "Modular Red Science"
+	"title": "Modular Red Science",
+	"favorites": {
+		"jv3Nv44tereycGpZjIZoEk4DJCF3": true
+	}
 }
