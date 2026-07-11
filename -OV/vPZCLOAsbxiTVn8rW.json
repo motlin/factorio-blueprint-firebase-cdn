@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "### Legendary Coal from Grenade Upcycling\n\nThis book contains two versions of a factory that makes legendary coal by upcycling grenades:\n* **Normal-building version:** produces about 123 legendary coal/min and 62 legendary iron plates/min.\n* **Legendary-building version:** uses legendary assemblers and recyclers, and produces about 230 legendary coal/min.\n\nBoth versions make legendary coal by upcycling grenades. Grenades of every quality, including legendary grenades, are recycled.\n\n#### To use\n\n* Make sure your coal miners and iron plate foundries use quality modules.\n* Keep enough miners/foundries that the normal-quality output remains at the required rate:\n  * Normal-building version: one full turbo belt of normal coal, 240/s.\n  * Legendary-building version: two full turbo belts of normal coal, 480/s.\n* Connect your normal coal to the right side, connect quality coal to the left side and remove the simulated inputs.\n* Connect all other inputs as well (lava, calcite).\n* Connect power.\n\n#### Notes\n\n* The left side uses simulated inputs matching the expected miner output rates. They are only there to verify that the factory can handle the full expected input mix; replace them with your own production.\n* The original version uses normal-quality assemblers and recyclers.\n* The legendary version requires legendary assemblers and recyclers.\n\n#### Updates\n\n* **0.3:** Added a second version using legendary assemblers and recyclers. It produces about 230 legendary coal/min.\n\n\n#### Updates\n28/6/2026 - v0.3 - Added a second blueprint",
 	"favorites": {
 		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true,
-		"Lq7sf28jMmSrwNkJKnfuyDUgeYG2": true
+		"Lq7sf28jMmSrwNkJKnfuyDUgeYG2": true,
+		"I5omQTpX5fUswxD7ho4GmZfI2Zc2": true
 	},
 	"image": {
 		"id": "UcKsCf4",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1782649984091,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/",

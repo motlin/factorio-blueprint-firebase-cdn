@@ -8,14 +8,16 @@
 	"descriptionMarkdown": "Modular, fool-proof train set.\n\nAny configuration of rails supports up to 6-car trains. RHD.\nOnly place rails if there are no conflicts, ie dont force-place a rail-based blueprint. \n\nI show an overview here: https://youtu.be/gJJFfhXG5JM",
 	"favorites": {
 		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
-		"OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true
+		"OxgyCJOiySeHc1hZf5NwVAGhQ6B2": true,
+		"4rgtaLnr9lXpJWkXIuxUAx9E8yk2": true,
+		"I5omQTpX5fUswxD7ho4GmZfI2Zc2": true
 	},
 	"image": {
 		"id": "UQASCrQ",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1783348962583,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 4,
 	"tags": [
 		"/version/2,0/",
 		"/train/right-hand-drive/",

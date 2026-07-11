@@ -11,12 +11,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1782204205797,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/",
 		"/version/0,15/",
 		"/production/science/"
 	],
-	"title": "Science Lab For All Science Packs"
+	"title": "Science Lab For All Science Packs",
+	"favorites": {
+		"g4CsvftDazPGgieQYFVyK20bUMB2": true
+	}
 }

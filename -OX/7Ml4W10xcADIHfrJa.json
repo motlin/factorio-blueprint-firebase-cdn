@@ -1,0 +1,23 @@
+{
+	"author": {
+		"displayName": "Courmisch",
+		"userId": "pt5WEV2fMxTM921hrmlOQ9X6nJm1"
+	},
+	"blueprintString": "0eNrNVtuO2zYQ/RWCTylAGevbbmIgBfqeAAHSPDkLghLHNrG8CCRlV1j4A/oh/bF+SYeUJbu76ma9Lyn8YGpInjlzZsjhIy11A7VXNtLVI5UQKq/qqJylK/rFaVirCOajAakaU4CGKnpVFTXO3BNnSdwB6ZbU3m29MEaUGopQg3gAf09OA/LOq+0u/kKCkkA+f/v6O/FghLJEBadFBEk23pkMl81bryTp3U3ItwB5rreQg/JocU4TtSEWQIKcfLffbaJMXs/ZHcAX4aBitUOu+Z+807DpmZomRFICqZy1EXGQZ3RnlgOdRHdCGVW4MNDV+pEGtbVCJ02tMIBiiqpqTIOxOk+PuNJK+IOupkc2snZMy4tNs+M9o2Cjigo6b/mj5bYxJa5cTVmPNCYC8qxdUF2SHykCFreTJaMtDmaT5TFRegI4GwAvJRsBOsHMkSxKEb3TvISd2CuMGpdUyleNihxsCk3SVfQNsMGMW+QAt1E+RH7WJrZ1IrBXPjZoGRh1K4rfaOczRJFqeXpzkz5NLXyWfEX//vMvirHRjjvHdRG3b4QOMBLxnI0l7nnA85cDdk2sm+uiGNN/8Uo2057NCMZywJBQYXH7AuUplR2Hupn8IJUnkHPOQk7wxdf6bTkMkECuTvxFpn/FNZeeuYV4cP4hM/Sp7HLWGd16ANsV4VPHz/d0pXra0pVNUvnnhPjx/xhiUxfCe3d4Q0JGPPcYwE/+hJU03XzdmXp6zb6OVN1iwTY28tRuuLIIdHEHXJeQ10ieb2q08utIS3ewP5f26DV0e2VfmQ6XyHhbuWMvdrz/xktt6uUO86ZW8lT2vpncPKvn47lpJbOBCD4reirwvcBnFVeB17lR9hqH6Gpea9Equ+UBMyrDMKfQm28MSsSVzD6ti5DH09S3/u0ngZSieuB7p5tEHq/+wWacTOFstStzeEJrd+CYo7beOdsOLru9/KQjNmRetoNM/SkUGvyzKHeIlyf6o5stznIj6t6UHkP9gU9R/LA8SxHRQVsYJQsNe9B0cG8gBLFNaz+5w/ndlV8jE5qPWXoSpvO1nrIlm7HlPVvP8H/OZnl0i79km6e5bFuytHKeRwt2hzZESe9C9HJ+FTOqRYlUOs/ZIRFaeIMze5Qjl9jydvZhuZgt3n+4e7+YY63/A1lj9cQ=",
+	"createdDate": 1783625617906,
+	"descriptionMarkdown": "Blares when power demand is not satisfied.\nComes with redundant power supply so loss of power does not kill the alert.",
+	"image": {
+		"id": "L6oSqM5",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1783625617906,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,1/",
+		"/circuit/indicator/"
+	],
+	"title": "Low power alarm",
+	"favorites": {
+		"pt5WEV2fMxTM921hrmlOQ9X6nJm1": true
+	}
+}
