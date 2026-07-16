@@ -7,7 +7,6 @@
 	"createdDate": 1743488612490,
 	"descriptionMarkdown": "A low waste and high efficiency Nuclear Reactor design that fits neatly into the chunk grid. Produces about 9.836GW of power and includes the necessary Steam and Accumulator storage to bridge power spikes.\n\n### Notables\n- Compatible with Space Age or rather _designed for_ Space Age.\n- High efficiency: 98.36% of Steam is converted into Power without wasting space.\n- Extremely low waste: ~0.3 wasted fuel cells per hour.\n- Separated Power Grids: Fuel Insertion and Power Generation are separated to prevent death spirals. Fuel shortages are not covered though.\n- Full Roboport Coverage: Build anywhere as long as it's in the Supply network!\n- Pasteable on Water: Offshore Pumps are included for ease of use.\n- Built-in Accumulators and Solar Panels: For when the power usage only temporarily exceeds what the reactor provides.\n\n##### Thoughts & Other Nonsense\nAfter searching for a while for decent reactor designs that didn't either waste space, waste fuel, or had poor efficiency, I figured I'd try my hand at it. Usually I use Solar exclusively but my current run required a bit more than I could reasonably fit onto the island I was dumped on top of. So I went a bit overboard and made a reactor that could easily power my base 10-15 times over - oh well, at least I won't have to worry about power for a while. \n\n##### ToDo\n- Last heat exchangers in each row tend to not get nearly enough heat to maintain steam levels so I need to find a design that moves Steam Generator and Storage to separate rows.\n\n##### Changelog\n- 2025-04-01: Fixed heat check.\n- 2025-04-02: Split power generation of each side due to pipe length. Slightly optimized Steam pipe pathing. Further reduced fuel cell waste in situations where the grid is 50-70% loaded. Optimized fuel cell insertion to limit it to 1 fuel cell per reactor. Downgraded Blue to Yellow inserters due to power limits. Got rid of two useless belts. Added missing Accumulators in places where there was space for it.",
 	"favorites": {
-		"uchEp5BFQ3e749acSwSSunmLIAA2": true,
 		"akLGPyY0nqb3bqqs0McYA9C6Tkj1": true,
 		"YWTX7Y8aIKTNdnPQJye4hHAOKFt2": true,
 		"hQouHB4fCjZGA3npyyiW6MdGmfq2": true,
@@ -30,7 +29,7 @@
 	},
 	"imageUrl": "https://imgur.com/xhlq6bv",
 	"lastUpdatedDate": 1744348264668,
-	"numberOfFavorites": 16,
+	"numberOfFavorites": 15,
 	"tags": [
 		"/power/nuclear/",
 		"/version/2,0/",

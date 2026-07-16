@@ -7,10 +7,13 @@
 	"createdDate": 1781735664209,
 	"descriptionMarkdown": "Storage limit is used for preventing too many items from being crafted, while also mitigating usage of quality causign locks ups from normal chest restrictions.",
 	"image": {
-		"id": "Ra1tN74",
+		"id": "XI06fLl",
 		"type": "image/png"
 	},
-	"lastUpdatedDate": 1781735798384,
-	"numberOfFavorites": 0,
-	"title": "Crafting Benign (soaryn crafting limiter)"
+	"lastUpdatedDate": 1783790173236,
+	"numberOfFavorites": 1,
+	"title": "Crafting Benign (soaryn crafting limiter)",
+	"favorites": {
+		"rbbvpfTloeOaI4O9naN8RjlBp6q2": true
+	}
 }

@@ -7,10 +7,10 @@
 	"createdDate": 1781544988810,
 	"descriptionMarkdown": "# Guaranteed Stacked Items from Recyclers\n\n**Inputs:** 4 scrap input belts\n**Output:** 1 central output belt (easily expandable by moving one half of the blueprint)\n\n### How it works\n\n* Each pair of recyclers outputs into a chest.\n* The chests buffer up to 64 of each item (an arbitrary threshold) to ensure stack inserters can always grab a full stack.\n* Circuit logic:\n  1. Filters for items with a count greater than 64.\n  2. Selects the item with the highest count.\n  3. Sets that item as the filter for the stack inserter.\n* The stack inserter places a full stack of the selected item onto the output belt.\n* The process repeats continuously.\n\nThis guarantees that items leave the system as properly stacked belts rather than a mixed stream of partial stacks.\n\nI’m sure the design can be improved, and I haven’t found a clean way to fit beacons into the layout yet.\n\n### Included Blueprints\n\n* Sorter with splitters\n* Sorter without splitters\n* Convenience block version\n",
 	"image": {
-		"id": "hmBQ2c6",
+		"id": "WNBQgiD",
 		"type": "image/png"
 	},
-	"lastUpdatedDate": 1781544988810,
+	"lastUpdatedDate": 1783789952870,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/version/2,0/",

@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "Raxnar",
+		"userId": "hjpUfDn3yGT7ktMmTD7zSYg2Tdg2"
+	},
+	"blueprintString": "0eNq9mVFvozgQx7+K5ZeVKqgwaUqI1Hu41T6sVqc7qSvdQzeKHJgs3oLhbNNtVOW73xiStN1CBHG2Txjb8/PMP8MYhye6ymuolJCGzp9oCjpRojKilHROPz0moDX59AMS20PKNbkTBoqbhKtVKUXic21AlSL1k6yW9wtvN16A4XneP14+ihT6Bls43nKZ7rpEAovLb/KbvLj4bIjQRIMhpiRgPSO4FPnYGBGuiTCayNIQCZBCSrDz3wwh5DYRIBMgVc7NulQF+UwKngIxGZA//yFrVRaXxK7xNcMFEi5JBnlFQOpatbMKjv4Knn/QZAW5IfcAlcYRIb9rUpQPeG2cvBVFlW9ICjmY1lJIDQqNNdmUNUlL+cGQn1wasqoNYu+B7BfZEI6NJONCQtpGfPcglKl57mvxXfL8pr34GXBlFh8VpKLRwq6DoQH58vdtI10GinwFXhCM1nqJ0qTAL4/iLi6oR0VSSk3nd0+0HbOJIXkBmBGrOr/399HQLc6VKTzSOdt6HbNTSHBJ5SdlsRKSm/KlSfjaxGwqa7JzDr3YMXbuGcV15iPlBWGyXXgUpBFGQOtvc7NZyrpYoXtz5nX77dGq1KJN8ieKJD8ML6ce3dD59eUUF0iFalOezq+sm79ww/HcaAh3Mp47G8K9Gs+Nh3Cn47ksGAK+9o6k0DE6JhXF7DWqzJcryPiDQIOmrjWYJY6ljam2vS/vMHvWQmmzfJPFPcWMtktpw23pZHFgs7GsTVWbnofnKKjaoHO1NEtbiJZCIobO1zzX0GQ5XpfP8MV226FaNFI19jtV69kixqt2FHQG1WbDkzjoLRLd+iVCJbUwS5B8lUNK50bV4B26D0LauT0y4s73i2TTwN4WFVfN7zqnf1AMC+1zu8E0Gu6LsveS4tH/sLBi5Hgvcf9riuwr0A21otWo2QFmHe7QLB6vWfR+mg1LveAEHfvI59SWBePFnb2fuMOqIZuOF7ePfFZx2Xhx4/cTt+u9+Axp24k9q6zheFk73gSO6zr80X8t2eTkB/28Gk1Gbs/B79yeB2TagL25n3KGjZk9v7aucQl7BJC6KpXx7emrQzEWv9ifu4DTU4FRD/D6VOCsBxidCox7gLNTgc3j2UWMTyaybmIYnEwMmxJyrGgo4Okyw+OwfUoMrqw76nLT304tyhTs2dRm6U8sTTY976495kUeW3jYmmBrsmvhbmI7ccjDp7ttTmzTTphhb9x0xnY8aJr2sjezFy8MnttYRZv2ZN+PPhiR7862b+rDpM317fNRueIJ+Pv/N/w1Pn8pb0ys6m8PTY72zNE+cLRv448c448c448c448c4585xj9zjH/mGP/MMf7YMf7YMf7YMf7YMX4WOArgAGCugMAVsNOAuWrAXDVgrhowVw1CVw1CVw1CVw2GAXBXtB8F7Fnj8OnCoznHt4Xnbxa31p78tfvH/vAJAyc+4Et6s/b0OoynV+FVHFxN4ohtt/8DkZaBcQ==",
+	"createdDate": 1783985127156,
+	"descriptionMarkdown": "Excess Ejection of [item=carbonic-asteroid-chunk], [item=metallic-asteroid-chunk], [item=oxide-asteroid-chunk], [item=carbon], and [item=ice].\n\n**It is set to eject all Carbon as its not needed on White Science platform I made the BP from. \n\nThis can help ensure the material's belt keeps things moving.\n\nSimply delete the inserters you don't want but make sure they are chained\n\n**[virtual-signal=signal-heart]Credit to the late KOS and her Team for this idea.[virtual-signal=signal-heart]**",
+	"image": {
+		"id": "yJOxIir",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1783985127156,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,1/",
+		"/mods/space-age/"
+	],
+	"title": "Excess Space Material Ejection"
+}

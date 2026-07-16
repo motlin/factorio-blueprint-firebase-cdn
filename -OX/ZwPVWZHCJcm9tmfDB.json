@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Chrispoot",
+		"userId": "4JtMOHzBMVNCyc8YPBU5yRly4792"
+	},
+	"blueprintString": "0eNrtV1tu2zAQvAu/qUDiI439kVP0LwgESmJiIhIpkFQaI/ABepBerCfpruTYaSwbipwCRZAvLVfLmaE1XKyfSVF3uvXGRrJ8JqZ0NpDlzTMJ5t6qGnNWNZosSaEVvCQbSoyt9BNZZhs6UhY7X7gkemVD63xMCl3HV5vY5pYSbaOJRg9E/WKd264ptAdUehKJktYF2AxKgBMAE84vJCVriIS8kMBUGa/LoeIKJb4hYGcQiCkE/AwCPoVAnEHAphDIMwiytwQZ/OBgnOhdnRd6pR6N87ivNL7sTMy9VlW+UrbKsQqUgC2i7zTdVbzkh9LGVRp9NKL7cqe76OqHxNigfYQXI4LZcdNkbAT62xzoA7uIEeSrOch8kujFHGg2RXSW7qArXZpK+6R0TWGsim4c/5g9xLg7tqj47aseKfSeebWC1nFnfIj5vgXFdYuKHo2PHWR2EoeKBBrYClsR9riosOHJFFdNq3yve0muCfYn18W2i2/74GT0dg2yOxvzO++a3FjAIss7VQfdNz945nuG282Yk7N9Gyx9F1bjHy3dm3jSjxo0XrfS4Dnwio0ys/cx849j5u/0VPofeOr78MlfWej3z18ETzcP6MWZ7GpnTZ1vt0KPHEXeArknOF2iAtxwZ6qkXHX24UDdNRmHnet6kP33GDDtmCeuyNhQcfxoU4G2srYepEeAPUxCrtQhGHv/cXdZzPR1+uXrvg0pmEGsKT+ntU+e7kx3H2L/G4PLeQbniy+D4+tGR1XXn9XgJ093psEPsT/A4JD9AZbE5Y2kGYVZN7ulN/DgFGaUPs4wz4aYYcwpx5hjLIY8pwzzYog55vsagTVyqBFYI4YagTVyqJGYl5AHMSbqBkf43f90Sh61D/2FkZdsIQUTiyxdyFRuNn8Av/plkQ==",
+	"createdDate": 1784104986803,
+	"descriptionMarkdown": "If you came looking for a simple balancer after your EACH >x  = EACH 1x  = (Recycle recipe) didn't work, or was HIGHLY inefficient or your inserters picked  up and dropped off the space debris constantly like mine originally did, this blueprint is for you.\n\nIt's a highly rudimentary and adjustable circuit logic that keeps crushers going with the same recipe for a little while despite items on the belt not meeting conditions of the first combinators. That should ensure that whatever amount of items you want on your belt stays relatively similar to whatever you put at the first each condition in the first combinator, without the insterters going back and fourth because it's constantly +1 /-1 of the threshold.\n\nThe two speed moduled crushers are just for show, put as many or as few as you want to meet demand.",
+	"image": {
+		"id": "ZmcidlX",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1784105032736,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,1/"
+	],
+	"title": "Simple space platform timer sushibelt recycler / balancer"
+}

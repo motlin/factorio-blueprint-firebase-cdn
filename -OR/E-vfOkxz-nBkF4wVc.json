@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1777294621500,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Interplanetary Frieghter"
+	"title": "Interplanetary Frieghter",
+	"favorites": {
+		"dPjb60YP06bQ1dPHzEaXAaCYkfi1": true
+	}
 }

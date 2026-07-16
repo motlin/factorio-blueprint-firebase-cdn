@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "Courmisch",
+		"userId": "pt5WEV2fMxTM921hrmlOQ9X6nJm1"
+	},
+	"blueprintString": "0eNrtnE1vozoUhv/KyNJsrpwZbMxHIs2uy+7u3VURIsRtUAlE4LQTVfnv9xg3EzqTdiCGDMqcbnJi8DmvX1z5ka3wQhbZVm7KNFdk9kLSpMgrMrt7IVX6kMeZbsvjtSQzUslMJqooJ0mxXqR5DCHZU5LmS/mdzNienuizTKtNFu8mmziXWeNuvp9TInOVqlSacvWXXZRv1wtZQjp6SBGXqVqtpUqTZmFKNkUFvYtcV4OME+5/8SjZQVcH6izTEsTWl0NKYFCqLLJoIVfxUwrdoc8xbwSXl3WuSl+4T8tKRcehqN1G63hKS7WFlh/CzB2T//SwKqlz6ESVirWTzHEoKTayjI0I8hU6Flu12XZLDX/0F3O4hTl8FOa89ebzGd7cvOONS0/PvY88cb94b11h/LQtm7iE3EqWZs7+sOYMZ260M0dLHP1lrfPrBzgj3+p/lsSk/k0qR9+r5HdIQ3TcqzBmIYw1hLG+hXELYbwhjPctzLUQ5jaEuX0LExbCREOY6FuYZyHMawjz+hbmWwjzG8L8voUFFsKChrCgb2GhhbCwISzsW9jUQti0IQziOXyLs+d4V0XVqngmM1VuJSxzEEdpHiWruFSm8cT6JLqv3d64wGY4rvEsvLl2rvHbc42HXINcg1yDXINcg1xzKa4Juq/d4s9zTetOt7rTUNwTWnh37dwzbc89ArkHuQe5B7kHuQe551Lco9e+Dw7ITixTbhN7Tq1KzaVUpZCakgeoEMHq/dhxqV7Gu47dbg7dMpk/qFUnQjq1frMzTvL4mDa8XN/p4yzvPb5h3MIfvh/WkZvTuCfET4b80yMMsw4neByJD4kPiQ+JD4kPie9ixHfGER4bG9EMt5nFPAt7rn03i3U4xmMINwg3CDcINwg3CDcXg5szzvGcv/Acj75RG+VSPRflYz2MUi7J7D7OKjD9oZQyP5j9Vuyvfcxzeu1SJ3gHIsL2EOF8CBGvk2ZGWs+1pMjgPqsZNu08w9h0TPg8KD1zx8KdMdCzPxw8c9Z63h89QXhGeEZ4RnhGeEZ4HhqeefezPBaOC20GJBvXwpxr3xfkoj3ahIg2iDaINog2iDaINhdDm+6neiz4M2hzOxja3JL+NvF4+5PAo5Gj2cTj3beJmf+3/IyVhxbmXPseXvvfczB8PweCLoIugi6CLoLuxUDXPeMAblwv6BgObFxm4c3Vv3iMtycbfEMHkg2SDZINkg2SzUBkM6fkGZYVvVzcMcqpoHxOIYLPOtItbh3ploCKOhLUq9s8iPw6CuAqLJuiDgUN68YQoqlJ6OgsHmUmFpSZ9EzXZOIQQ7spxnRdFphYV2amNNO1mSnOdHVmysNlpvO7Job217pTPQ5+iCGTY4alNXBmYq7vCQ4xtBsN8AGx0aYvU9c5xNBoRsj1ELmp5eqcrsnp6rG4ui4YnCq5hgdzfIEuJVm8gCV/Rv7dlvdxIj/dvT7ZiXmg3w47cFmRPM7h/idY0etZ5vl86gkuwmkQCtfb7/8H5gFUFw==",
+	"createdDate": 1783775626287,
+	"descriptionMarkdown": "Shows the current time of day on the surface with 24 hours corresponding to one planet day-night cycle.\n\nNote that Factorio days have noon at 00:00 and the middle of the night at 12:00.",
+	"image": {
+		"id": "cAWuNSh",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1783775626287,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,1/",
+		"/circuit/indicator/"
+	],
+	"title": "Surface local time clock"
+}

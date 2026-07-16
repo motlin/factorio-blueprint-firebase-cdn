@@ -7,7 +7,6 @@
 	"createdDate": 1742726465484,
 	"descriptionMarkdown": "A major edit of this ship here https://www.reddit.com/r/factorio/comments/1gmy4nf/i_present_my_182k_tons_32_gw_273k_cargo/\n\nStorage of promethium chunks increased from 27k to 800k.\nSpeed reduced to 90km/s\nBiter eggs auto removed if chunks used up or leaves nauvis.\nQuality is mostly optional so this ship is usable right after unlocking the solar system edge.\nIf you use all normal quality - reduce speed to about 70 by reducing the value in the engine pumps",
 	"favorites": {
-		"uchEp5BFQ3e749acSwSSunmLIAA2": true,
 		"yIWLFeobOgQjS6BqOEw2Dw9Tgxk1": true,
 		"fjiDOvTIwuZynsDOq75Kf3qcG2n2": true,
 		"nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
@@ -25,7 +24,7 @@
 	},
 	"imageUrl": "https://imgur.com/6dTBU7K",
 	"lastUpdatedDate": 1742726465484,
-	"numberOfFavorites": 8,
+	"numberOfFavorites": 10,
 	"tags": [
 		"/planets/space-platform/",
 		"/mods/space-age/"

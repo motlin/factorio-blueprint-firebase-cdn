@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1782589905318,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/"
 	],
-	"title": "[item=iron-plate,quality=legendary] from [recipe=iron-ore-melting]"
+	"title": "[item=iron-plate,quality=legendary] from [recipe=iron-ore-melting]",
+	"favorites": {
+		"UNkfAdDjYwXHQnkJiPrweWHS0lB2": true
+	}
 }
