@@ -8,13 +8,14 @@
 	"descriptionMarkdown": "Hey everyone! This is the second version of my mega base for Volcano (in my opinion, it looks way better than the first version). It's suitable for the mid-game stage, when you've conquered Glub and can import package manipulators from it + you've researched conveyor capacity technology. So let's get started!\n\nInput:  \n1. Tungsten ore - 1640 per second (7 full turbo conveyors)  \n2. Coal - 1200 per second (5 full turbo conveyors)  \n3. Calcite - 240 per second (1 full turbo conveyor)  \n4. Sulfuric acid - 21000 per second (individual, depends on geyser yield)  \n5. Lava - 30000 per second (25 pumps)  \n\nOutput:  \n1. 9 rocket parts per second  \n2. 120 tungsten beams per second (for sending to other planets)  \n3. 120 tungsten carbide per second (same as tungsten beams)  \n4. 1,8 castings per second  \n5. 1,2 large drills per second  \n6.  2 explosives for rocks per second  \n7. 12 turbo conveyors per second  \n8.  6 underground turbo conveyors per second  \n9.  3 turbo splitters per second  \n10. 1050 stone per second, which can be disposed of in lava\n\nAny feedback, optimization tips, or comments from veteran players are highly appreciated! Enjoy!",
 	"favorites": {
 		"JUAl84mnjwgCvaKu8uAwpYPOzoW2": true,
-		"GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+		"GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true,
+		"0ZhydnmD2bgIgXLcBYYEatFeq3p1": true
 	},
 	"image": {
 		"id": "Y0e4w9N",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1783123939939,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"title": "Volcanus V2 MID GAME"
 }
