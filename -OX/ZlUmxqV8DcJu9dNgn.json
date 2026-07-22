@@ -7,14 +7,16 @@
 	"createdDate": 1784102124803,
 	"descriptionMarkdown": "Tileable max-density* belt storage, with I/O.\n\nUp to 4 green in, 3.75 green out. Prioritizes slower belts so max throughput is maintained as long as possible.\n\nCreds to /u/DjinnKahn for the core tiling (~4.76 belts/tile); couldn't find BPs with the border work done so here it is.  \nI think I found maybe the only tileable wrapping point that allows the row-shifts to be done in-place efficiently.\n\n\\* There's a marginally more dense one but it sacs throughput.",
 	"favorites": {
-		"dPjb60YP06bQ1dPHzEaXAaCYkfi1": true
+		"dPjb60YP06bQ1dPHzEaXAaCYkfi1": true,
+		"BSYq863gSxV4hZhRznXPO11pmPi1": true,
+		"Bv6KnO6LllW6WjXOl7mew77X5Sp1": true
 	},
 	"image": {
 		"id": "tYwVyIe",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1784107806866,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/general/tileable/",
