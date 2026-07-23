@@ -7,14 +7,15 @@
 	"descriptionMarkdown": "I present my space platform, capable of collecting Promethium. It may not be the most efficient or the fastest, but it is fully automated to constantly produce Promethium Science. Moreover, it is built almost entirely with normal-quality items.\n\nRoute:\n\n    Collects supplies on Nauvis for the dangerous interstellar journey\n    If ammunition reserves are below the established amount, the platform will make short trips to gather resources and manufacture ammunition\n    Once all conditions are met for the voyage to the shattered planet, the platform will begin its journey\n    On the way through Aquilo, it will collect quantum processors\n    After gathering the established amount of Promethium asteroids, the platform will begin its return trip home\n\nAttributes:\n\n    The platform makes the interstellar journey with almost no damage, but stores reserves just in case\n    The platform has self-regulated speed depending on its travel direction\n    It is capable of accumulating more than 7,000 Promethium asteroids per trip\n\nImportant note: The platform’s descriptions are in Spanish since I am Argentinian. It would make me so happy if people tried it! It took me more than 10 hours to make and dozens more perfecting it.",
 	"favorites": {
 		"CfJHTtczbgasGVoE5spGpIOQb1f2": true,
-		"FcPx2w3pB3Tr3CzSAwUeY79YbDq1": true
+		"FcPx2w3pB3Tr3CzSAwUeY79YbDq1": true,
+		"3sHg3vyVPyRDqLvidj1J1I6mGLa2": true
 	},
 	"image": {
 		"id": "OvZep6f",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1780241330435,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/general/late game (megabase)/"
