@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1783351098411,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/general/mid game/",
 		"/circuit/indicator/",
@@ -20,5 +20,8 @@
 		"/version/2,0/",
 		"/general/compact/"
 	],
-	"title": "4 color lamp display"
+	"title": "4 color lamp display",
+	"favorites": {
+		"ufQ7LLgT4zMYpD3v2Ido45frSLv2": true
+	}
 }

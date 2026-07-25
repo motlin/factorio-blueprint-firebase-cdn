@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Bartosz Czarnota",
+		"userId": "IaZXYYO1FjSTPqXsM2edDTs30rF2"
+	},
+	"blueprintString": "0eNrtWNtu2zAM/Rc9y0PkS27YBgzY836gCAzHZlohtuxKctqs8L+PkhM7c9XGydqtD3sJaFo6Jg8vovJE1nkNleRCk+UT4WkpFFnePBHFb0WSG51ICiBLkoLQkm/qWyANJVxk8EiWrKGOpRmkPAPppWWx5iLRpTzZ4jcrShCLaw7tp+zDPhZ1sQaJmPQVHEqqUuHWUpjvIZzHZsGniJI9iosZfibjEtJ2wZwS9EfLMo/XcJfsOALgrgNsjO8yC6WM9vQJjdpwqXT8zLVaJoLXhecHkfHJ0KUTw104MU9FlUhr55J8JcbRstZVrYeU6n1lwHZc6ho1ncPtCi+9g3Tbwld7NLMWOt7Isoi5QDCy3CS5gmbVNIb9AXv+pez5/4S9+e/ssY9BXtCBJZLruwI0T8/xxy7kr0ceUDjkbKyfCgzOFRvLCpBvayv59uM7ORJ+BdSp7bEA/VDKrXVKQkaWWtZAya0EEEf+B2Y/32OXdZsMQuMMWUgdDcoVp7CLE0qNOzYSksxERSOUOtptlcY4Lm6PusPjxUw1Bi7ldum23CUSHj0QkqeYEUJ7lSxTUIocV8X3iIXe4mpRysLicg1FWxI8Oykt3JrVmHk7XO4VKOfg+bbttutxucAS2OFnSrlv9/dPyCJWIlq4nBiOnW+YKZqVIwRR52wBmSlvyLEG0CmvKnM403RMMByY0w5zXedbjwsFUsO5DhbZyJ7UIPPdgU65TGuu+wp0FeC5pjXs+J+JM0NnnSubROnXXZlc7wqIZJ331TbKw/Gt9KVG/cV2IJMg8dE422evqYwNz5GXQ24f5gvqOngpcdTF0Cw8P2oFcQfa0lLuQEo8v+LWZsV/wmGKGURt3tupAayZSp85ACJ3Li8uyGU2okv9ScTPjTGOKWZ8ZObjIkM7EP9tw+vgnk36OCJQPqI3Tc71JsbG5sZ0cS43mD++O5ygvU9yvEk7cHoZXNAD+3YeDHtg+BF8noz0uZ9MJNzXmCFmFh/RRVqvD3v6BH8yE1M/Yfdl+KbFaRS18TLCo37l9Ks/7qtEKb4DM7bs2qvGiEIIXiiE6RWzdz/T+c3/afsvTNtsdv3l/KUQvcuFMvoYF0o2v/46/r58fYi/L/ALD9jdDf4Noz6dU39FUQppYCW/0/moCShDKcC3M6sL8S2b9+KJ1rdiRCOKA0CE4sJoWQsfGHlKQyNPKTMbg1a2eOFq1d6azMDW/TlGCU6OyoYqmvqLcLGI5uF0hj9N8wsQH4rn",
+	"createdDate": 1784909968630,
+	"descriptionMarkdown": "Centrifuge setup with circuit logic controlling uranium enrichment (Kovarex Enrichment Process recipe, level 2 productivity modules).\n\nManual startup required: To get the process running, you need to insert 40 units of uranium-235 into the system (via the requesting chest / input buffer). Only once this threshold is exceeded will the circuit logic unlock the inserters and let the centrifuge start working on its own, continuing to produce U-235 with a net surplus through feedback.\n\nBelow the 40 U-235 threshold, the setup stays idle (no \"signal-check\" output from the comparators).",
+	"image": {
+		"id": "MCh2pyV",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1784909968630,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Automated Kovarex Enrichment Process"
+}
