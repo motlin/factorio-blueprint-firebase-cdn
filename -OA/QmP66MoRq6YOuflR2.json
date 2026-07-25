@@ -7,7 +7,6 @@
 	"createdDate": 1730264278794,
 	"descriptionMarkdown": "* All Pieces are assigned to network A - can you make a copy of the book and assign a different network id in the paramaters for more networks.\n* All Pieces are grid aligned\n* All pieces are parameterized, so you only specify network and item/fluid, it automatically sets stack/fluid counts, specific item/fluid used and train stop names.\n* All factory pieces includes map tags\n* All pieces linked to global \"Green\" circuit network, to measure all resources (red is only used locally per station so untouched and usable for anything globally)\n* All pieces can be placed anywhere (except depo and solar due to size)\n* Depo includes two \"Fluid Depos\" which you can swap for items and vice versa\n*All Pieces are focus on Max Red Belt Through put, Yellow is just mellow.\n\nPieces included: \n* Track Section\n* City Block 1x1\n* City Block 3x3\n* Station Item Provider\n* Station Fluid Provider\n* Station Item Requester\n* Station Fluid Requester\n* Defence Track\n* Defence Section\n* Defence Corner Section\n* Depo\n* Item Train\n* Fluid Train\n* Solar \n* Solar Wide\n* Solar Full \n* Indicator Lamps\n* Control Block\n* Furnace Block\n* Steel Block\n* Green Circuits Block",
 	"favorites": {
-		"famODU8cvORCQzZ0wM8bGg4TcIX2": true,
 		"dTfWfYu1KIVCKEfNP4wuladcWB63": true,
 		"lKhIUjkcuTOnnhpASMqaZUYLl7K2": true,
 		"q3ShVg8zqVhjVnssQRRznAWZCSo1": true,
@@ -34,7 +33,7 @@
 	},
 	"imageUrl": "https://imgur.com/tIlFeSc",
 	"lastUpdatedDate": 1730264361699,
-	"numberOfFavorites": 20,
+	"numberOfFavorites": 19,
 	"tags": [
 		"/belt/fast transport belt (red)/",
 		"/train/loading station/",
