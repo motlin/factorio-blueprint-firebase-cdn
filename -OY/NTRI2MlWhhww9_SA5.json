@@ -1,0 +1,20 @@
+{
+	"author": {
+		"userId": "wJUIjjtiDVeTIGdcIRs5FLiYRaj1"
+	},
+	"blueprintString": "0eNrVWN9vqzYU/lcsv0yaoAoEmhuk+7KHbdrz3m4r5MCBWJfYXNski6r87zs2wbQJaUOnaZqqqI6xz/ed7/ywyQvdNB20igtDsxdagi4Ubw2Xgmb0V6mI2XJN9FEb2JGj7MiBNw0RACUxkrRK7nkJhAkCdR22CjSoPRc1aWTNteEFa6wFUXN4IH902hANTBVbIgXgh1SsMFJxawkZaIKAtWIbUim5I2zPSs7J0ZBiy4SA5uFJPInf5YGUEvQbZgepvmdPIiS/DN4Q+7BtuLE8zVYBIHRhHdMZUbzeGhKSEgpLn1fkAN6pQrHKBKSBymS4E0jLlLELmALSaetdhTw1GGPHCn50gCTUTxp54miYQVVKspHGoCvhDUMIp1kFzZHUgBt5SWRlpdQPNKC8QLI0+/ZCNa8Fa2yABNsBRmbDJWqy24CiJ1woSviLZvHpOaAgDDcc+n3uyzEXnVuZRcGwv3dchYXcbbhgGAPEa6XmfeRfKJpLA3qkWRhFDylilFz18tEsCSgyM0o2+Qa2bM9xt8sdZzPHZ6Wzo+3s62/IqOJKm3z0xxxby2fPlelwxhPsV4R/WvesDIbZBE3X1kXZmbYzl8p8bOkUzFtvkdsj+tMJk9uMzLlAYJpVrNHgxMb/+Ujn+eQwLlSPvWmmuNnuAMvifeEfBukf3wr/ZVr40eyF9jPFBlZsrddYJ2gmH2UPMXFkC4qd+8LPdAjCXOOTAi392gHyTnmSy8yM4mmFhsp/O8b0OVcO+lfxBmv4cvbMS3RGcWStkc0P9A7Z21mpds5TZIul7dhm9Kub6Kxu0QKZ8l0rVZ8/+LRuYMOoFWEoWg/ClRRh2zAD81DCeHGJIli35/o1TOJhWvSDtbIMsc3MBIo+9Cb1MA12P9S0+acQ1648egxoMJaomq0nroqOm5lo6S2059N0LSfzOqjP1OVdhfypDjp5Ioy1G024/9pELsDY09NBKShpZlQHAa3xxBRDq/t014U9qKO7AFhWV1DOuseywKe72+qYahXTJuQCrx5YwddReByjcNkvbsThnEy5AlbmePVwvdC4+j+rM6xwD92ynSyRSzTFdExYf1cI3U3hPa6x4zrFzsGNhM4a4nUkP5u/YukzKAfBNo1XHgHOW3Lf/jCkiultLqS3NyTFlG+r+VGIbno28PUsb7jxibPt4iKxuKoKdO79M0C3kjesvq85Tzb42Z3X1kKHpeB5uShcB+GLh9gCs5fS0MjDu0FYYwwmDK2DiXZyZWXlQ5n+K6Gc3dFOQ/oX3CZBD3VRJr10dFjz1sF+Nr+KyIRE0eLejF+96TtTpsbkapnWfA/h+YXqZn9Y3dEfPqz6KSrxfK/6Ov6/1ky0nHWUr8ec/8+O8vT2MXxj5+y3F5w9oG/267coiIMoSJ4DHC2DVRDhyM6sz6MYZ2M3SvDPjhJ8irou3TAJHt1k6resrcFlbzHqx/EzInJ8g7fk/Q8RAd4eN4CO0d/sBdP9tmBfk8non/3poez6GAQUbxnaRSN9jNdpEifraJUukvh0+hsO3spd",
+	"createdDate": 1784969545083,
+	"descriptionMarkdown": "How does this thing work:\n\nBlueprint is split to three sections: right - decide if we need to craft, left: the part we are using for setting requester's chest request and bottom - the part we are using to safely get rid of eggs.\n\nWe are reading the contents of red chest for biochambers and it goes to the input of right decider combinator which outputs biochamber = 1. The green output is set to enable if biochamber=1 and set recipie biochamber. It outputs it's content (including crafting) to the red wire combining it to the read-contents hold input inserter and to the arithmetic combinator which has an everything * -1 = everything output. Green wire from constant combinator holds exact amounts of items we need to craft this.\n\nGreen output goes to another decider combinator which is outputing it's content if red wire outputs biochamber = 1.\n\nUnderneath we see a simple clock that lets inserter swing to heating tower each second just in case some eggs are waiting in the chest.\n\nNOTE! If you fail to provide ingredients in time but you will provide an egg, it will still spoil. But in this situation I'm aware of it and spoiling one egg does not destroy my entire base.",
+	"image": {
+		"id": "4okXQgE",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1784969545083,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/mods/space-age/",
+		"/planets/gleba/",
+		"/production/other/"
+	],
+	"title": "Gleba egg-safe biochamber production"
+}

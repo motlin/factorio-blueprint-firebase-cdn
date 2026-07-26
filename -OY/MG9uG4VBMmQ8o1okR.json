@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1784949288758,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/",
 		"/circuit/indicator/",
@@ -22,5 +22,8 @@
 		"/general/compact/",
 		"/version/1,1/"
 	],
-	"title": "The Sojourner"
+	"title": "The Sojourner",
+	"favorites": {
+		"gcG0qJUF01hARlScdBTkc9oOXbF3": true
+	}
 }
