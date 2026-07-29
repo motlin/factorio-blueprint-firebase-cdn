@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "Justin Suess",
+		"userId": "WRgWevjdJXW806aU0YdQI0W7LqJ3"
+	},
+	"blueprintString": "0eNrNV9GO2joQ/RXkl0q3ZtVAYAHpVqrahz72fXdlOcksWOvYlu1Ao1U+oH/Rb+uXdOxACCjbvaCudFmJNY59Zuac4zE8k0xWYKxQnqyeSQEut8J4oRVZkX/+/LpX9+rLwvN3bvRJcluOvB7xyuuSexgZrkR+E5bcq1dwCCUi18qR1d0zcWKtuAy5KF4CJuE0Yo8RDiRpcKUq4DtZJQ0dWMvzvCoryb22vbWT5oESUF54AW2Q+KFmqiozsAhGh4JRYrQTLRXPBHHGs8nNjJIaR8kkmd/MmpDEGdakwyogFwXYca7LTKiY0wDkhw4wRUBKCmEhb1ckiIW8eKsly2DDtwIhokgRmOGzIoK5MNv/hCU+Cus8OzLkaxOS2grrKx6KO1QcV4wz7j3YevxYyUizg4B3+X6pd2E71my4jTWvyL8kCKArbyp/LvIrsLBFUL8Rak2a5qEZInza7eFW+E0JXuT/mfPZOefpMOVH6DPW/w7Nwf2ehyOIVtQGkLn2BL4nB+KujTHIWXoxZ+niZc5e8unfJm3vrbfkbB+inyBT4HfaPsXMLRRk9cilA0rWFgDjeVvBMMszOtSXBvw4PfaAIZz5MduSSzwUEpm3qJjREobwkl6bmg63qdsO01i9trwseSZh7AzwJxg0wLIHOokWGNI8FzavhD8KfoXeXIL1bRfpSXzeUmgXK0yjzcBGifaqbTnea0w4ZoTPN51ozmvDjOQ1thTmdKUK1z0TGM1WJTLFBMqMXUJpD+0YOSSncQJIxvMnttWyCuljjt1cqYtQkNR5rA9V0zuGctVmo1XdRWy3sj2REgqW1R1PcU0TNiMd50VuEK/lKRqQtjNasZKbw1S4VA8mDkVcegrawCU4x9dh1Te9Azv6XKE2A45aXH3xTf8PF99pc7m6oZ+49OP1F1/vDJgaC67QlI9Wl0woBDuYY/hGXF7YL9L56/0i+XCUV7jg8xe/JZ10iuTFTtE39F1PxTdsGOFAXG4JD9/9qfvpm6f768fPKxI+mHCf8VfuRjFrtGE8zjteOxYaxf7WQnPu8NQFAe4mNKEpnT5QHKX4N9mPpnE0xf8LmuAo7Ua3uANtEYYLnIxDRBQeSgx+/FlBieQZOqVHYft7AZ/g1zsXSZzNJ8t0uZwt0vktvjXNb8H2SQM=",
+	"createdDate": 1785248278952,
+	"descriptionMarkdown": "*******************************\n\nD8ta's Alarm to automate panic.\n\n\n*******************************\nThis alarm only goes off when there is ZERO power. \n\nUseful for Mtn Fortress.\n\nAutomatically resets itself. \n\nThe accumulator powers the alarm, don't connect anything to the accumulator.",
+	"image": {
+		"id": "gYeamib",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1785255626898,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/circuit/indicator/"
+	],
+	"title": "Power Cut Alarm"
+}

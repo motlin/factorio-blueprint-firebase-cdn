@@ -7,14 +7,17 @@
 	"createdDate": 1784989855175,
 	"descriptionMarkdown": "### Fulgora Mall Mark 2\n**Version:** 1.00 Beta 2\n\nThis is my second Fulgora mall built from scratch, using a different approach from the original sushi-based version.\n\nThe blueprint book contains two versions:\n* **Normal-building version:** This is the main version and the one the design was built around.\n* **Legendary-building version:** This is not a separately optimized design. It is mostly the normal version upgraded to legendary buildings, with several simple fixes required to make it work at the higher speed.\n\nThe design is intended to work with both 0% and +300% scrap productivity. Most Fulgora designs work fine without scrap productivity, but when productivity increases, they simply process fewer scraps instead of utilizing the additional output. This mall adjusts to the available productivity, with different parts starting or stopping when needed. For example, it produces additional electronic circuits at low productivity and scraps excess electronic circuits when productivity is high.\n\n#### Scrap processing\n\n240 scrap/s produces:\n* 144 items/s at 0% scrap productivity\n* 576 items/s at +300% scrap productivity\n\nWith 480 scrap/s, two stacked turbo belts are enough for the output at 0% productivity. At +300% productivity, the output requires almost five stacked turbo belts. The previous mall used two sushi belts. This version uses four sushi belts that are sorted immediately, with logistic bots moving the remaining overflow as productivity increases.\n\nBelts handle most of the output at low productivity, while bots provide additional capacity at high productivity.\n\n#### To use\n\n* Place the blueprint.\n* Add several hundred logistic bots to start the system.\n* Connect the fluid input.\n* Connect the scrap inputs.\n* Connect external power for the initial startup.\n\nThe BPS produce their own power while operating, but they still require an external power connection for the initial startup.\n\n#### Notes\n\n* The blueprint was tested with both 0% and +300% scrap productivity.\n* The cargo landing pad recycler is used to void concrete, so the blueprint should continue working without changes in Factorio 2.1.\n* I have not switched to Factorio 2.1 yet, but the blueprint was designed according to its changes.\n* This is a beta version, so feedback and reports about any problems are welcome.\n\nFor anyone who prefers the original sushi-based approach, the first version is available here: https://factorioprints.com/view/-OX4QBKmwEZ6dIBJY5C5\n\n#### Updates\n\n##### v1.00 Beta 2 - 27/07/2026\n\n* **Fix:** Added several missing inserter filters.\n* **Fix:** Prevented a possible ice deadlock in the normal-quality version when the steam turbines are not working. Thanks to Rick Jordan for reporting it.\n* **Added:** Landfill storage chests for exporting excess landfill.\n* **Fix:** Improved iron plate disposal speed, which also prevents a possible iron gear deadlock.\n* **Fix:** Made several changes to the legendary version to prevent deadlocks when the recyclers work too quickly.\n* **Fix:** Corrected the modules in the ice voiders.\n",
 	"favorites": {
-		"dPjb60YP06bQ1dPHzEaXAaCYkfi1": true
+		"dPjb60YP06bQ1dPHzEaXAaCYkfi1": true,
+		"pPKazSLn0PZ7wtEQqaLplZrLvMy2": true,
+		"V2G9X7bL4wM5Ruu5sZN9FRi0P0S2": true,
+		"zLcY31ks1sTvLNZI9FwwGBHT7o43": true
 	},
 	"image": {
 		"id": "Gm7jQHm",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1785141673438,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 4,
 	"tags": [
 		"/version/2,0/",
 		"/planets/fulgora/",
