@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Derfliv",
+		"userId": "FAjnHzeFvvPvbtP2Xe8uOgMABTF2"
+	},
+	"blueprintString": "0eNrtWu2OqjoUfZf+hglQ+TK5TzKZmAJVm8GWU4oeY3z3s6sOdEacQ5FM7s0lMVq+1trdrF3YK55QVja0kowrtDwhlgteo+XrCdVsw0mp93Gyo2iJJM2PeUklOjuI8YL+Rkv//OYgyhVTjF6vumwcV7zZZXDm0nc+rqa/K0nr2m3gSrmRAn7djJYKOagSNQAIrrkA1PXj8CV00BEtcei9hEBXMCC/npI4SB0rjch41SgI5o40aElVIzNhS+k/phSNesCJW86sKd9dxmsqFRzoo1o8pvKDHuxFi70mtRqKfZc5gFmzEi683qmPW9iCS3Jw16zeAu6vhpQQAezkQu5ABQ7Kxa4ikigBAaF/kL7xTU1XLaKSDe2JPXTu5NMXdvCRkLuQQY9KinKV0S3ZM81+AihSrPQBILtRa0nmZVPQFeOrXJK1YnyDlmtS1lTrVdHdbdqFIem6orRwd6JoSupi1J2o0wNIeyAQ8njLV7sFYdWK5O9o6ekp9x7xHx4JHh7B57czfO6zGLVZrJUkbLNVLvyUfamM0gep7IGNW9icyI1wD2QDp/aBJgYo5SQr6aoUG1Yrlterw5bB9k7su5Q7SEgGbOQK473EoWPO+fS9FJkU3N1QIt3DltJymCKdFqhbAEAkuaSK2iJ05VyLkhXuurGPoitbllsHEBp3HDLgViWxn0Unm4woyPbRFiA2ohDcmj9pLyfFnvAcai1nMm+YskVKjTtaVVS6udagLYrvtTCVFDk8jkCx8Hiwj8c3HmwllBjoleVjJ+d3ei3FwS0oh/I7ulDqTQ5PMPtp4s+FJEZAdOIF5ekydzMirVHCz/pxM8lgnbNFiT5PZ1Qp+PFXBY2DSb7CjElup+atKHes2Y1BCToxH2CZB7WwS0BKCPsF058QK5gQC0+ItZgQK5wQK5oQK54QK5kQK50OC0+oezyh7vGEuscT6h5PqHs8oe7xhLrHE+oeT6h7PKHuF0/rHpqL+x4gsWgt4uGtRTq8H47C7/rh/g7w9qa1qqn62oIOakuNN0Gb+Lwfi88f1DdHuP+OPArrf9c4G6/Wf/VOIu+xDvskbrxm22B7gzwf4wX8amJBcfK6ElI9tLDC5BsLq48ifIbCG0QR2VOk3zhYfRTxMxQ6UX2gybO+JR5jIhqNwSjnMhhjlnqj3EX8r3AXjb7FxnYNBpWg0cgM8i7x7F32LcFGDzfcvMR/L3yjnxvqXuLZvZzdy9m9nN3L2b2c3cvZvZzdy9m9nN3L2b38D7uXQTjCvhzSXESj/EH8U/6gsVTaxBf8WHyJnX+JZ/+yv3lOR3mMeJDBgb1R4MEQW854No0wFwfGHzzDEQwxMI1H2Qh3Efe7i3jxDKiOW/tj0JPk77oY+HUCt39t6r3Q+mra2zhY6NMvqy6c8ho6vpM6/pvzCt8ONJXt0L8M4Q3Yd2D9u4wjPY6NcQLjt2u16LWn/euog/awHlxCDqMgXaRpmCyiGL7O5z8H0CC4",
+	"createdDate": 1785533281846,
+	"descriptionMarkdown": "Replace fish with desired item. Remove desired item from the cargo wagon filter.",
+	"image": {
+		"id": "DDxigRN",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1785533281846,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Tileable desired item recycler"
+}
