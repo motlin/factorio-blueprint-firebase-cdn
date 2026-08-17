@@ -1,0 +1,25 @@
+{
+	"author": {
+		"displayName": "Benjamin Robert",
+		"userId": "oZMiZc8iSCM0r0LVTdUMVvcvbrh2"
+	},
+	"blueprintString": "0eNrVlsFum0AQhl8FjeQbRGAbV0Z17r1UPSQnB1kLTOJVll26rO0giwfoe7Qv1ifpLGtZiZO4rSxs5YRg/pnZ+Rbt/lvIxAorzaWBZAsF1rnmleFKQgJfvn67vfESb+Cpe88s0eMGyzs5X3NtVkwENX+QTMzcI8gEyx9T77MXhYN3RRqL1Ls+KmlQCLWxqviI6kEjSiuaHhExgdp0/YbhAHzguZI1JPMtOIEdWbISadaC15VgTVAxiQJa0soCnyCJ2tQHlIYbji61e2kWclVmqEngv13Ch0rV3JHcAlUKhmF4FfvQUM5kdBVTj4JrzJ1k7AMtzmglFhku2ZorbfMqpqm4Qe16k6TY17znujaLV5PsU4LQzmFHNsxuL0Gwr6UVGFsefv/41Y2au4JvFzD4RMkwt5s/exZL6c84yv0SQVrwiZSmh5Cue0Hk/t9LBE9H9Ok8iHYHwdmj7iA7HVP80TE5ED1TGp2Hkr14/j/0DwR6xhNdHM+pDHoG9PpO+9kLoV4x/IVRSktmYsOaelEv1QYSo1dojcmBPTBNZYflBexNyc3Otln3UxyA8OE79SQzE7zYgd1HEkulS2atzAvCM2ht765q8sw/+iBYRs6HjCOFvJ0dos9rWl9XO54Mp/F4OJ6OwkkUjdr2D3sWxK0=",
+	"createdDate": 1786097283747,
+	"descriptionMarkdown": "INPUT : % of the item\n[virtual-signal=signal-black] < 10%\n[virtual-signal=signal-red] > 10%\n[virtual-signal=signal-yellow] > 50%\n[virtual-signal=signal-green] > 90%\n[virtual-signal=signal-alert] > 120%",
+	"image": {
+		"id": "dPV9IjT",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1786097283747,
+	"numberOfFavorites": 3,
+	"tags": [
+		"/version/2,1/",
+		"/mods/vanilla/"
+	],
+	"title": "Item display",
+	"favorites": {
+		"v5B2h9Thl0XbFMcLNuznxCvoGh02": true,
+		"gDtetIhJP2TFuYjXfp7QeLANle03": true,
+		"DOmhyRLBb6YK8sTdqUddd9EmDFC3": true
+	}
+}

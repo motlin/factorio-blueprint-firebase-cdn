@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1785533281846,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Tileable desired item recycler"
+	"title": "Tileable desired item recycler",
+	"favorites": {
+		"bd2jzqlNZdef9n64sjSeRmKoKCA3": true
+	}
 }

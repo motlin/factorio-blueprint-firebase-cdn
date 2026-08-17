@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Chevalier Gaëtan",
+		"userId": "9UAOXrGoAlgk9jzCimsuh1JkX7r2"
+	},
+	"blueprintString": "0eNrtWu1q4zgUfRUjWOaP0o1k2Y4Du1DYYRlY5sfO/pspwUmURqwju7LcJpQ8wL7J9jnyYnMlxWlm6h1/wEJI0pZyIt97dO6x7F5bfUbTtOS5ElKj8TMSs0wWaPz5GRXiXiapGdObnKMxehRKlzCCkUxWZsBFDAjaYiTknK/RmGxxh0z/KJP2zvQ7ZUZHmWx7hxGXWmjBXdH2w2Yiy9WUKyjnkJ0ooZcrrsVsMMtWUyETnSkgz7MCsjNpZgbGQXgTYLSxotBcKD5zB0cYgbFaZelkypfJo4BkyHhlncDhuWUqzIGFUIWetC6KJ7OlqavghsZwFToxJ5QMMcpyrhInA/0MqVmp87IzOXzhN/7Qzv5EF+WP39kfdlH+sM7+BBflT9DZH3pR/oSd/fEvyp+osz/kovwZHWLnosjTZDPIE8nTt75UtsDlBTI1X4M29OnD7x9v//B+e/f+419/7v55/0V+KpWXcq8o8zxT2ptzDyyT3myZifXNF3mrtRGQSewpUTyU3ETkKpumu39XvPCKdyL1Nl7i5WlZCF4qGDI1lGtvLhaL3YuC9MLjEn602r3wG1BqOrYfuZDyhR4kSmVPqM6C+BBYuf7DBTL8xoijFUJo/RIpXEDxLYZWq+oYMSyWVHP1/ehelQADB3BqNAcxD1AZiIdhmamVrRLE5omyYsfoFztQmpUT0Hi0vYPvuqLNsurZ2AWneWH81OPC+HDE7IYmkuunTP1tpSo+R2OtSo7RveIcZlkkacHrryRCereCV0frHaW9m8ero/WO+r3bzauj9Y6y3g3q1dF6R4PeLe3V0XpHw95N8NXRekdfHysKnoI7mWrXO0Wt/Dwu1fEjvAeTVbKudNpOsZMBtbWMOtYSnXAtccda2OnWQocdawlOuBbSsRZ6wrXQjrX4J1yL3+3Zd1A9/Ib/+8NvQ0HDbs/Cdlem2mfBzfs5vcn9RnLan5zh5l2h3uRBIznrTx42kgf9yaNG8rA/+Qg376f1Jo8byUf9yU3T1MAed2X/r9dJlHW8KZITvikGbd+JHtq6kb0d1ik3PkJnXN3fDu1xj+44kRu9FPIeuan2rfHwu9P1q93dbXgj+obRnNYaJ8LWTkRn7kTU2gl25k603jE4NKTn6kTc2gl63k74w9ZO+GfuBGntBDknJ+4weoK/4kboZ4IpZpjdYYugC6EWMvhgEDWDxEIfYGgjDSJ0P8hMLCCTQXwLA4CRjTSIsP0gg3SDQjMYWBgBjA+IuOMggmESOWykkJHDRilx4cRMTPdqrQQnkphpqNMGdIDd7EBHDA+pMOTuMQQ4MXAY8F5DfBRjMa0wxDht1OikThtMf4hxmFUYYpxmavT7TjM8y73GGP2+0Q8nRmi+gvP2+k9uGKXJFNbkGN0uFmK25KXyYAHvXpR4KM0m4yMsObvOgpDGLI6DEQsj+LXdfgU5J0eu",
+	"createdDate": 1786204229644,
+	"descriptionMarkdown": "Affiche le nombre donnée en entrée. La valeur peut être donnée sur n'importe quel support.\nAttention, risque de problèmes si plusieurs signaux sont donnés en entrée",
+	"image": {
+		"id": "ZPDGnHN",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1786204229644,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Afficheur numérique"
+}

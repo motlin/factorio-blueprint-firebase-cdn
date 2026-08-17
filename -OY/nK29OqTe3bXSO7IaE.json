@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1785420067627,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/",
 		"/power/nuclear/",
@@ -20,5 +20,8 @@
 		"/mods/space-exploration/",
 		"/planets/aquilo/"
 	],
-	"title": "Aquilo Class Cruiser (nuclear option)"
+	"title": "Aquilo Class Cruiser (nuclear option)",
+	"favorites": {
+		"loggfhHq9JTSwnjL60oGrvir1jK2": true
+	}
 }

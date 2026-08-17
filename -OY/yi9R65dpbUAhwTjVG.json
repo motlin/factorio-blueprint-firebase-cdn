@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "Chad Parmeter",
+		"userId": "upeeOErEk1Q5UWbgJTgKqI9MIyp2"
+	},
+	"blueprintString": "0eNrNWVuTqjgQ/itTeQ6WhHDzYZ+2zh84+zY1RUWJTmrD5YQwu9aU/307oDIyQYF1xvOiTQxfX75O043vaC1rXiqRa7R6R2JT5BVaPb+jSuxyJs1azjKOVqjShWI77miW/40OGIk85f+ilXvAls2bV56JDZNOKRkgd9vJ4QUjnmuhBW8VNRf7JK+zNVeAh08YIq+40rCGUVlUcEORGw0A4sTxwsdoD5IfLPyDMaEHQ84wWrG8KgulnTWX+jqYD2AYpULxTbvDJRZsb6KJtI8aWUApHoidBTo6Q0cNdCaUKgBDq5pjBBRqVchkzV/ZmzDrQBDXCagXJW93wU2nS1QVUqTOtubS2aoic6TYvWqnEBKdNiW/aibBWNicFyoDpi0O+KOiEl0Qd2m6BTSYQGM0kcZwosGfabxpfjSLVHJD0cMojs/ulAbX4kR4ciJY2s+luzxjZDwVdeZwCW4qsXHKQl7HHDrrrvs/MOkAJhnvqz/kq3cTI7gZL3qB4ejC2amiztOraH48gObPQgvHFDA3GO/tIJPhBAx/ACOagDHEfjwrTl4TJ9vh1DwruWK6VjzpHpZ635zON6E0nD501tnucP5CB+ujbTnLOHcMicSdELyBlCXd0UmhtqRcOZsiW4ucQQdhQ/yYtL2ybY/mETaB39IGqjKrH6+gr9gKVenPwd7KWqRdqEtu0DnUjB2rTJ9ScYNz876ugjYh+Fplr5y97VtlJiBZySCNjlsZ8G56qqLWZa37vdsoO5qWTFY86TBe7JnnzWQ2egCzF0Gbzuop0I1rK/QHGk/zHM2fUqOn/S689/Ko3EOc61wnpidIRA44aLVlkAnjM4LOzIjwARlxwe78ozcjI+Zo/paM6CX8PTLiQ4tRZ+W1HAjG5sBGqE0tdMJztpY8PXfBx+VzMpi9MyuxmXu16cxXy888W/0MRvvpP87PHr9TfQxH+0gf52PviE71MZpZwbxHV7C+d7eO/nEa7LrMwaHwbrUgnhlb8uh+4d6xvf+T11vOjK37O3TZ946vRcE9YuxOmLS8qW8RuzHp4tWqBZoMT+L06+dNz5th6PeMwh69Oa66t96JeFPeibjDJFMbdjABe7m4MgjbwMNZ4GQceDSW9CheDDZ035GdE17VROHiyvxhysI/sGDqwTPFBEeYvOBn+MRQbCmI7hL72HWxb+QY1km7hRCzh3QyDMqN7BmZnmRqZINjvjA0ys26b/YErRwYOWxloxceoEeZGrm5N27tIa1MT7Z5jQ2tPZ53ksElAdGG4HR/82Ak2ZpDyNFPU0WffkAVffqzLfbw4xtXVRMRPyCxTwmN3dBfUnI4/AdrwLSa",
+	"createdDate": 1785611200333,
+	"descriptionMarkdown": "Will make a decision based on the oil type in storage tanks (need to line up correctly) and will create solid fuel based on whichever resource is most present.",
+	"image": {
+		"id": "bC18oVE",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1785611200333,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,1/",
+		"/production/oil processing/"
+	],
+	"title": "Solid Fuel Decider"
+}

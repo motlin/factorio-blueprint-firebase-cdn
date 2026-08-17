@@ -2,7 +2,7 @@
 	"createdDate": 1598052338530,
 	"descriptionMarkdown": "Updated version of [Train Mall (Mini-Mall Series)](https://factorioprints.com/view/-LPM0kpkEWzcBa7F1ZTh) for v0.17 - v1.0\n\nThis is a mini-mall containing the train and rail network associated things to craft. Contains 4 tiers of the blueprint\n\n### Controls\nControlled by two Constant combinators:\n\n1. Toggles the whole input of materials by a switch. Use this in case of insufficient bus throughput capabilities at the time\n1. Tunes the amount of every product being crafted. Change the value if you need to have it more/less",
 	"lastUpdatedDate": 1598052338530,
-	"numberOfFavorites": 4,
+	"numberOfFavorites": 7,
 	"author": {
 		"userId": "RLSwoxUTZ6Tg3WotWmGcjwJLtsJ2"
 	},
@@ -26,7 +26,8 @@
 		"ycacQQI5RYYrztdVyHPGEw20AMC3": true,
 		"4vmDVgzQw9O1oSSxBkmmPS9mzhr2": true,
 		"kOr0z6TsV4X2XnH91rxrOEm4Pxu1": true,
-		"iioCRufBy2S5rhpfYdMGHOljl013": true
+		"iioCRufBy2S5rhpfYdMGHOljl013": true,
+		"Wu8dJNbbvQQsfGgJVw8ovb43KhT2": true
 	},
 	"authorId": "RLSwoxUTZ6Tg3WotWmGcjwJLtsJ2",
 	"fileName": "Train_Mall_v2.png"

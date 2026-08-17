@@ -7,17 +7,18 @@
 	"createdDate": 1750265260172,
 	"descriptionMarkdown": "A foundry handling molten iron and a foundry handling molten copper always produces\nwhatever is the least out of the available casting recipes (excluding pipe to ground).\n\nThe foundries do not produce anything if there is an abundance of every casting recipe as well as electronic circuits.\n\nThere are no losses of molten iron/copper when the foundries switch recipe.",
 	"image": {
-		"id": "jVNZDQ4",
+		"id": "0NC8M0Z",
 		"type": "image/png"
 	},
 	"imageUrl": "https://i.imgur.com/jVNZDQ4.jpeg",
-	"lastUpdatedDate": 1750265260172,
-	"numberOfFavorites": 1,
+	"lastUpdatedDate": 1785726438408,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/production/smelting/"
 	],
 	"title": "Smart Foundry",
 	"favorites": {
-		"8HfhNghSe2gdhj2iiGJErAXyDZC2": true
+		"8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
+		"9xhasWa2VlcPmhgAWs96oE6WZWE2": true
 	}
 }

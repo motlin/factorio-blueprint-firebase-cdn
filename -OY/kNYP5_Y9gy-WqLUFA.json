@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1785422581740,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/",
 		"/planets/aquilo/",
@@ -20,5 +20,8 @@
 		"/general/compact/",
 		"/general/storage/"
 	],
-	"title": "Aquilo Class Cruiser"
+	"title": "Aquilo Class Cruiser",
+	"favorites": {
+		"loggfhHq9JTSwnjL60oGrvir1jK2": true
+	}
 }

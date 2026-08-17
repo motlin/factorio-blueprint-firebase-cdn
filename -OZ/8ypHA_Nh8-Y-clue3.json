@@ -1,0 +1,24 @@
+{
+	"author": {
+		"displayName": "Leo ancad",
+		"userId": "iuURInyZTGWxICYfsn3tTRrLtRf1"
+	},
+	"blueprintString": "0eNrVWl+PojoU/yo3fYYNlFZHk71f4j5ODEGoM80isG1xdrLxu99TUNCxYIuYvTc+WKH9nf+n57T+Rtu8ZpXghULr34inZSHR+vU3kvytSHL9rEj2DK3RrqyLTHyio4d4kbFfaB0eNx5iheKKs3ZR8+MzLur9lgmY4J0XV4mU/MD8SpQHnjHhp+9MKuShqpSwvCw0IYAk4TfqoU+09qNv9Hj0biBxB7mt8x8+LyQTCl6MIGFA8lDGBUvb9y8eAjGVKPN4y96TAy+FXpRykdZcxZKpeMdzQAWhlKgZrK4l+/rshrXoAWlDs7RkOmRgRqTTEbEZceFskagxyDNMsJwuHTFL92ItHb703Ct/C7EBeOUOHH4FBvfoNALRdw7LDhkClok3oQPX37Jci/+zTnJgA14WpdhDgGtD7KtEJEqbAH1HmtcTUh9su0Qq/1G4PkDYr0owKScibuycIQycVRy4aljVYlv6SiSFrEqhHtRyizafmls8WcHaVu4ZlRs6Kxc7K3cmtTbO+xjYretOwbPVLXbWLbHKOeGELSq6syGHxJrZ6HJHNkFRZ6ibXPtiwl1MF3tgWwgvdhpeMV+VfhuxBihyFptYMdvvOFW9r8bwopuyZpfXPDv5FwDk9VbwNIHSzkTIfgciV9oejVm3ZDMYrVNhbuP0KdkPB+4eRcY9Cvc6PFfatxh0aJ8aKGl5UdUqLpj6KMUPqZ8IlrVSeehNMAZLd0kudX1V1so4uXnfzT4VY7pAA+Lg+mc0wZIs5gVMyziIdtadSVL79EaH09tzCkjcO1AG4jX2LPdbXjQucsvgYrDkM/N3Ao3hXdYANXq+/AVBteNCgghdA6Y+tZrRgQtVN157jrVmhs+S9B01NtE47uuuYuBv5F3Rt/aHC9pWDqdDrXW5r/2mFdtN6wk4cY+xAWdDVZ58gn4zJlPBq9YYKBXJTv11omCyer+HSZaDDUs7s2Nbs5cVAwW3zEDdkJV7AG0HcV1liWIQOuCYB62BRRAYw6bfHXWTriCt32FycN8hZi5l+15ej6+y/Nz1mn5Q66MHENpDfK9XxzsB+oE1SX3gct6SrqOHbejNUvW5kQwf7N46atSG2BwNnhvFmXpAJ6J4YnniRuSRCsaN0oNFjgWxzXXQPacFHguMQ51D3VrL2fvkEeFNNB/qpa1obeBjTPf252oLl2YITzgjW9wpXfuWRSrG8kGc5b3DXfuWZDl2ujvqr1yUhQ9lgmKztgRR4My7RTvVMPvGEuF/vINm5+U4dDTbgPkj+3r+ZeSM9A+ZLXJn/vYc1gRM3IEDZ61A6KawAUDfBemQP3T0WLyBFzip2JQmk+yQFCnL/FMn5orUa60pxMHoPHXDsjU8dbaPnd0XzrjYCnfpjEumBdmz0o39VcrqOrn/kbywct8mV9cJYux8ouv4Y1Yk27zrq42XgP3OItjPGmjb8NDmktOCXtyBzk4XIQbKobPJBq4dCZ4gQ+gkwhMyZVfAhW7d6YRkOrkunZRw3XrSh3OyDbnNgAtG0+MQzxuGxDkYokm16ZPyL7He8Ggw+cb5SdmYLJx5x5NYf5bul25ndzQc8aBnHN052q0LaOKWGKfo+JLWePYwKf7F+p6O4uGW0oS8cropoJHZnuT/c08wfi1gvFO6cy1guEr4L10L0OD+lRyNHK/kvt6cGf+kFbrdR1Dq5FxOtxGY0karHwCr1fmKPfiEHt54r4t+CF8wIF7UjuE5bp9HekzPY6Ln6DHU16EHm3sIY/3lQTw14yXMh7GeA1/Eoy0+2CLU42gDvHDFdPD3/1z0UJ5sIZ+s0T95+aEPAyU8O0C6a6SkC7yiBJNVuKQBwcfjv4IvwbM=",
+	"createdDate": 1785800119588,
+	"descriptionMarkdown": "A compact belt production machine, will slowly create every belt, underground belt and splitters if the required resources are available. \n\n- Must link a red wire from belt decider combinator input to a robotport!\n\n-Bots are required.\n\n-Usable outside Vulcanus if you swap the iron plate and gears foundry\n\n-Change what you desire to be created on the constant combinator, disable green belts outside Vulcanus",
+	"image": {
+		"id": "OyZnvv1",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1785801118562,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,1/",
+		"/general/compact/",
+		"/production/belts/"
+	],
+	"title": "Compact Slow Belts Foundry",
+	"favorites": {
+		"ZGSeDXgTlMYBram4gbC9C4m5fgT2": true
+	}
+}

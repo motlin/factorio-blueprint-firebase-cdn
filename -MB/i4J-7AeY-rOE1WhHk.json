@@ -8,7 +8,6 @@
 	"descriptionMarkdown": "Nuclear power plant for space with 8 reactors, no waste circuitry, belted input and output.\n\nConnect water to any point at outer pipe with pump, and set it to only pump in at T<800k (water+steam).\n\nLowish steam storage capacity is compensated with more heat pipes.\n\nMods: Space Exploration, Text Plates (very optional)",
 	"favorites": {
 		"MZlwWAeuMmXr8joKAfo42kFIEVE3": true,
-		"yL6ajJSLtOURTN3DO1ycraUsvkV2": true,
 		"6PonYNhVO4SkExbWRA4SLnNmEpX2": true,
 		"CG3JiKl1J9Nnl1KagcI22oMDlHw2": true,
 		"AqmwX0N6McbIKCeR8aM0LTTF1wR2": true,
@@ -40,7 +39,7 @@
 		"width": 1126
 	},
 	"lastUpdatedDate": 1673052207322,
-	"numberOfFavorites": 24,
+	"numberOfFavorites": 23,
 	"tags": [
 		"/power/nuclear/",
 		"/mods/other/",

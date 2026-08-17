@@ -7,14 +7,16 @@
 	"createdDate": 1785383383625,
 	"descriptionMarkdown": "its a box in space!",
 	"favorites": {
-		"S23c2QDbQjYQX9nuPDRG8XbYLv92": true
+		"S23c2QDbQjYQX9nuPDRG8XbYLv92": true,
+		"QUM9TtUvsnWwqJOc58IiQKxCYER2": true,
+		"akLGPyY0nqb3bqqs0McYA9C6Tkj1": true
 	},
 	"image": {
 		"id": "bc7a06u",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1785383383625,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,1/",
 		"/mods/vanilla/"

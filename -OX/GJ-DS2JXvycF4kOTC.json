@@ -11,10 +11,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1783775626287,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/",
 		"/circuit/indicator/"
 	],
-	"title": "Surface local time clock"
+	"title": "Surface local time clock",
+	"favorites": {
+		"gDtetIhJP2TFuYjXfp7QeLANle03": true
+	}
 }

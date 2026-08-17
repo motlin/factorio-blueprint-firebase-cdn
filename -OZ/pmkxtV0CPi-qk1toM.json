@@ -1,0 +1,23 @@
+{
+	"author": {
+		"displayName": "Александр K",
+		"userId": "FHJ7n9JAjCdUUCVpkhpisHmZBdx2"
+	},
+	"blueprintString": "0eNrNVs1u2zAMfhVOl22AG8SOvS7e1ssOwy5bMaSnNjAUm02E2pIhycmMIPftNfcko2Qn6dqsaLsfFD5Y4s9H8iMtec1mZYO1FtKydM0KNLkWtRVKspR90IgSSjFfWJAKKqUR7IJLUDJHwCXqFsLhcAhW5FfmGbx4T8o5wgTe9nIFXLag7AI1LDlFenPNAX58/wbhMRjMXw4u5KkmRGkNWM2FNHCpVQUF1lxbIecgJHDItVoVZHshu9xWglLyhhQCyK8EI+aSlyAMfD6bnJ5NAtBYdIYk+/iJRAQw+dX8uYEWy1KtoF5wg2AsRTUeNFeNtKhv+0BeKoMGVgtRuppPIBywgIlcScPS8zXrzBytkldIfBaYiwL1Ua6qmZDcKs025CAL/MrScBMccHHxjnrp3jbaTANGXAkrsIvlN20mm2qGmsCCO2IGrFZGdD1eM4IbHw8HScBa8qMsGBVgtSqzGS74UpCDHwwPk5Gu8K7GSa/vKIlLoY3N9jXYtnYpLIW2DUl2OXUWRxPWBSOy3fSFblNRu32SKTthrkrV2LqxNwm9H3LdZr57mZuQTEgCYuklLw16/uid7eGnm43rwA0iowcSGT0FIukL+xPq7k3O6IHkxFtyhk9pyrYCzHokLovHjx4dNn9t+OLH8hv9R367c/Nukt/9w0/5etzo3tQmwaET9gCn457T14OEEinoGsk7fRgd5tjnlkm0K6WvPL9uJFKrG0p17m6t7RhsGblt3BfWWztXR4LQeSNs5q+dXX863K1OIy9+o9p12UV5YI93Q31Hg/2x4a5ZR/p5GIRBFIymAa1GtAppFe1kbhX3qxE9TuveiV/FZJUE0ZTwhMWK4Pf/KAEr+QwpZ/bF3cQTUdGfRTQISUG/I8aXl7yKxkkcxePwOBnG0WbzEzedDc4=",
+	"createdDate": 1786535154298,
+	"descriptionMarkdown": "Turns on the red light for 1000 ticks after a train passes. (Change T < 1000 to any other value; 1000 ticks ≈ 17 sec).\nPrevents trains from departing in a crowd.\n\nGreen wire from the rail signal is OUTPUT, red wire is INPUT.\nThe rail signal's yellow phase starts the counter.\nThe rail signal closes while T > 1.\n\nFeel free to add more input signals to close the rail signal for even better traffic control",
+	"image": {
+		"id": "oR7FoQK",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1786537395618,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,1/",
+		"/mods/space-exploration/",
+		"/train/track/",
+		"/circuit/counter/",
+		"/mods/vanilla/"
+	],
+	"title": "Rail Timer 2.1"
+}

@@ -7,10 +7,10 @@
 	"createdDate": 1779533421578,
 	"descriptionMarkdown": "Paired well with my other Scrap Recycler 480/sec BP\n\nMain idea is - you have a constant provider that tells how much of stuff you want to retain in Buffer chests. The rest - will be destroyed (except Concrete, Gears and Steel, those need their own separate design)\n\nIt is legendary setup, but you can adapt it to use non-legendary setup, and follow same design/mindset of - scrap recycled into active provider -> Bots take it to Destructor which get rid of everything, beside what is necessary",
 	"image": {
-		"id": "xawR4KQ",
+		"id": "oxTgagO",
 		"type": "image/png"
 	},
-	"lastUpdatedDate": 1779533421578,
+	"lastUpdatedDate": 1785718278689,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/version/2,0/"
