@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Ghostwheel",
+		"userId": "i6B7v9IMGZZs5rjALLob4i6mzIt2"
+	},
+	"blueprintString": "0eNrdWk1v4zYQ/SuELr3YgURKomxgL/04FEVPRQ/FbhDIMm0TK1NaUnTWCPLfO7QSObuREn6kRbzIIZZMvTcznnkcUryLVrVmreSii5Z30ZqpSvK2442IltFfXSk7LrZL9GcpdFnXR9TWZcVQmqC/ZSm43s8xyRA83KBGMNRsULdj6BcmOsk3essUKsUabRhbP3ngZ7h5vN0xCQ+I0wMrVnfq6pP4JH7v0C2va6QMNWq12gE/Ulq2tVbIkDW6Q0BXN1uuOl4pBEgnFMl+MnSoXGmxLkXFrtA/jUYV3AK7qkZLxdCGq50ZvD/hrI5oZwxUDVgvEd+g21J0bH2FfmWKbwWYDVQrhlipjoiJRm93/Z0tF+gIkOiP5lBK9hUp1un25K1gB8DalQdmhnaNrnaId6jcllxcRbOIV41Q0fLjXWQoytrEvTu2DAIuWcXhwywS5d5cf+7B50xIXu32ENZ5K5uKKRXdA5BYs6/RMrmfvRUUfjso8nZQ6f31LIKveMdZH7jTxfFG6P2KSYjAgKf0CjLnlL6zqG0U7zP5LgKYOU7xLDpGS5reG+O+A8EDCPvaSrBg3kHGqraR3dzk5yhgcpWdIPPiKgOD1xwc7EcUIxQkiGJhQ5GGUNDYhiILokhsKPJnFFDSTG5lA/8tSPAzktljBnLR6i4a4aSBnPk0J0jNBGkRFEtqE8tFEIVVXidxEIdVYidJCEfxLLPTMQ4vDYgnNSDBYyQkiMQEawz1XPiqa2S5ZfNqx9TLYA/1LtkXDUNvNrzumFRmnOpd6NX2cZ6ZRcOIb+4+8OpzRwCsX6BfAAPhvmjkHiaBWVQ1+7aUJZgHdz+cbmjTdgAE3xv3bzay2ZsnSn3gMANcw9+Yr5mPr8ll+pr7+Iov01fq4yu5TF8LH1/Ty/T1PAUpQK7ndblvX3Y0G1c5HPtELb/IqOHEx1d6mb5iH1+Ly/SV+Pi6uExf05Bex65pw8/XI6oFh8D9MXSyGDqp75u1x6iZsc8iVVhFCiD7Zv+mlbyR/eCabUabf3ye21e6/jznQjH5mtl0ogHE1CPUA6plqH2WK6Rw64/xwiEqxSttMTlPGNWwKfUi0tAnnjYqXtyheBx1M5IXvGP7h+pbP8kneHStwfsDDJ/v4XPN5uS01dGPN8V6w8UBaBp5fKje4QqqSXVl9TlaxsbX0W8SU4nXY6E41/+KldX4Dsk5DH2rMeGGahlbu9ufTNqfWNiPnX9K+qP+lMSjROyW2SQNKXE7GSE+O0iEuskIcRFX6rTHRqjbjEOH6HwXm/97wiFe+p07Bn4RQmKXpWkcwmGXpanPhhPJ3IKV4iCSiVkvJTZSn307470jqU9TJ/vf3VSVZk7203dnv4t2ZpOVO1pVNCThLSu3cNPn9N2sCNKzdj4s9ZicXh0Ohv9Xq8PCcXUYx47rw8xLx1OnbMi8dJy46XiGHSqGvCLfGfEAm1oXZmmI+5Yh9mrosGOIXUQJOzV0GbVdWuAffZWYFTZTF363U2+2cP4pf9RVYh57FIxd/50nIQVvJyq5V2ucuIlKTtxaheS9LOVyL1l3fFWdZw4ZFE9L7htvR5vjQFqxc5/TSc3GzM9DYnR6OT6GSj2CMnIiZQz6LL6l0QxmlOfA1y82gd+8CB0DXfjYm9rYS+OgAE+85KNJEKqVgFEcwmEnYNRRW+JzZzGGlnqh9e8+X9Cm7O21ifq0g3jhpk00DyKZ6JYpDUGdkgxaeJ0tO+P26vHqaTK6COTJnvJMnpQr4qAg0fEgFUkQajGBioNQJ9KkICGoxUSaFKnlOVbziuzhHCtMhbdQKWZm/ZjMshlgZNfXfXtpFH843D2L6hIsM6e6YYles+Hg8m9DnwtjDjCfnpiyHC+yFKcLEudJQu7v/wVbok0R",
+	"createdDate": 1787284190760,
+	"descriptionMarkdown": "Starting: Manually place 41 Uranium-235 into one of the Centrifuges and feed Uranium-23B anywhere on the belts.\n\nIt will start pushing surplus 235 out to logistics when there's an abundance. You can of course fish them out by hand sooner if wanted. Designed to be easy enough to begin your Kovarex setup and never have to touch it again.",
+	"image": {
+		"id": "Ehc2J7M",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1787284190760,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,1/"
+	],
+	"title": "Simple Kovarex Enrichment"
+}
