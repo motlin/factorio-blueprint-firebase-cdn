@@ -7,14 +7,17 @@
 	"createdDate": 1786787396512,
 	"descriptionMarkdown": "Upgrades the rarity of modules, machines, inserters, etc.\n\nHas modded modules in some of the upgrades",
 	"image": {
-		"id": "kRua41d",
+		"id": "DxtEjRr",
 		"type": "image/png"
 	},
-	"lastUpdatedDate": 1786787508289,
-	"numberOfFavorites": 0,
+	"lastUpdatedDate": 1787077916594,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-age/"
 	],
-	"title": "Rarity Upgrade Book"
+	"title": "Rarity Upgrade Book",
+	"favorites": {
+		"0ZhydnmD2bgIgXLcBYYEatFeq3p1": true
+	}
 }

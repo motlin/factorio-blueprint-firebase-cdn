@@ -12,7 +12,8 @@
 		"r0iB5EWxtxQ5UxI2DiHtBef573t2": true,
 		"LUGrXknEmUYZZJbfAjykfMYY35g1": true,
 		"H49b6tIAFNaOs8KAofDHcwWMRZ02": true,
-		"JVRrJi3YuabviGnlO1uUf0W5wAF2": true
+		"JVRrJi3YuabviGnlO1uUf0W5wAF2": true,
+		"zXdjlFX9vohzp9XKFWp3mrfOXvv1": true
 	},
 	"createdDate": 1599439340326,
 	"descriptionMarkdown": "The medium power pole up top goes to the backup steam plant.  The large pole and accumulator down bottom goes to the main power grid.  The bottom `<` decider sets the alarm condition based on the accumulator charge.  The top `>` decider set the hysteresis condition.",
@@ -23,7 +24,7 @@
 		"width": 1031
 	},
 	"lastUpdatedDate": 1599439340326,
-	"numberOfFavorites": 5,
+	"numberOfFavorites": 7,
 	"tags": [
 		"/power/accumulator/"
 	]

@@ -7,14 +7,16 @@
 	"createdDate": 1786377390780,
 	"descriptionMarkdown": "English version of https://factorioprints.com/view/-OqLYvVcrQdLV5k4TtTr by k3rNex\n\nAll element sizes are multiples of the chunk size. A book with 4 variations of modular city blocks: 1 - Initial stage (only rails and traffic lights); 2 - Stage with drones; 3 - Energy stage (consisting of solar panels and batteries); 4 - Defense version based on version 3 (defense in the form of laser turrets). Each variation contains:\n\nThere are 3 types of intersections: 1 – Through intersection; 2 – Intersection with a U-turn inside; 3 – T-shaped intersection.\nRoad sections (TURNS): 1 — Straight section; 2 — Section with a turn; 3 — Loop turn; 4 — Economical turn to the spot (requires changes to other elements) — NOT RECOMMENDED FOR USE.\nStations (used on \"straight sections\"): 1 - Station for 3 cars; 2 - Station for 3 cars with reverse direction (used within the \"straight section\").",
 	"favorites": {
-		"ScxLLg6hVPQnH7WwI6Ujmw95COJ3": true
+		"ScxLLg6hVPQnH7WwI6Ujmw95COJ3": true,
+		"tabtFwwY2mQqS76Qc1KJnRDUvI02": true,
+		"ISlIx598w0Y2bI6M6NKKdUzHONw2": true
 	},
 	"image": {
 		"id": "HrMN3jl",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1786377390780,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/"
 	],
