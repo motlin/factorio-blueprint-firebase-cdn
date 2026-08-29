@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1786361522185,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/"
 	],
-	"title": "[planet=nauvis][item=space-platform-foundation][entity=cargo-pod-container,quality=uncommon]Sattelite MK1"
+	"title": "[planet=nauvis][item=space-platform-foundation][entity=cargo-pod-container,quality=uncommon]Sattelite MK1",
+	"favorites": {
+		"JxF9qLvaIZMof7jMH41uNoSdZOU2": true
+	}
 }

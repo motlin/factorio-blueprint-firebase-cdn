@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1787484035113,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/",
 		"/mods/other/",
@@ -19,5 +19,8 @@
 		"/general/tileable/",
 		"/production/other/"
 	],
-	"title": "Electric engine voidcrafting"
+	"title": "Electric engine voidcrafting",
+	"favorites": {
+		"8PVO2SkJMsU4qY6tUOfdpcziWk83": true
+	}
 }

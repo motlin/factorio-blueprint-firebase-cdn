@@ -10,9 +10,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1786798109058,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/"
 	],
-	"title": "Tiny Spaceship v2.1"
+	"title": "Tiny Spaceship v2.1",
+	"favorites": {
+		"GJzGGSvlAmeoVA4RCxZvU5kY1KP2": true
+	}
 }

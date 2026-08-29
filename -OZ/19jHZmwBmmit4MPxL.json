@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "[v3.4] Post-[planet=aquilo] version. Factorio v2.1+ only.\n\nTake the Space Mall pill, it gets its own surface production stats!\n\nFeatures:\n* Crafts ~any space-craftable item, imports planet-specifics\n* Low-latency recipe swapping\n   * Avoids ingredient overload slowdowns via exact inserter controls.\n* Machine-agnostic intermediate-handling\n   * If you're willing to get your hands dirty, you can add columns of modded\n      machines and it'll handle them too, though hub space is finite.\n* Fluid-handling, supplemented by asteroids.\n* ~Stateless; zero latches (no 'reset buttons' needed)\n\nSetup - see hub logistic groups:\n* Don't turn on the 'planet stock' requests, they're just there for ease-of-access.\n   Instead add these to relevant planet hub requests.\n* DO turn on all non-stock requests.\n* Set any items dependent on raws you don't export yet to 0 in request groups.\n   Mall circuitry is deliberately stateless so it has no logic to temporarily skip things it can't craft.\n   The display panels WILL show you what ingredient is missing and by how much though.\n\nUsage:\n* Your TODO list is now whatever the Mall keeps running out of (good luck with quality carbon fiber).\n* Use the Mall Priority Requests group in the top const combinator for priority items.\n* If you add a new stock-target logistic group, add it to either of the top const combinators.\n\nTo increase throughput:\n* Build 2+ mall ships\n* Send it higher level raws (it'll use anything in the hub no problem)",
 	"favorites": {
 		"8HfhNghSe2gdhj2iiGJErAXyDZC2": true,
-		"FkUV49inj5PsRvUgPTyCOem5BsE3": true
+		"FkUV49inj5PsRvUgPTyCOem5BsE3": true,
+		"JxF9qLvaIZMof7jMH41uNoSdZOU2": true
 	},
 	"image": {
 		"id": "05EnDaN",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1786083239509,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,1/",
 		"/production/mall (make everything)/",

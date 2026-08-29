@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1786986495534,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/",
 		"/power/nuclear/",
@@ -19,5 +19,8 @@
 		"/mods/space-age/",
 		"/planets/space-platform/"
 	],
-	"title": "small nuclear reactor for late-game space platforms"
+	"title": "small nuclear reactor for late-game space platforms",
+	"favorites": {
+		"8PVO2SkJMsU4qY6tUOfdpcziWk83": true
+	}
 }

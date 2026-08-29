@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1786305993541,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/",
@@ -19,5 +19,8 @@
 		"/belt/transport belt (yellow)/",
 		"/production/science/"
 	],
-	"title": "Red science"
+	"title": "Red science",
+	"favorites": {
+		"Tzt53SBoavSjgAPi5SUHIxmqk5w2": true
+	}
 }

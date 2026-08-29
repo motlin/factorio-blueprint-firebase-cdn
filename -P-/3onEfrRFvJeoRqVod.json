@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1787077929011,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Upgrade Book"
+	"title": "Upgrade Book",
+	"favorites": {
+		"kmK8EPkJgFOaeymIGMJpvDfpR3k2": true
+	}
 }
