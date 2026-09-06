@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1787512883051,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/mods/vanilla/",
 		"/train/junction/",
@@ -19,5 +19,9 @@
 		"/version/2,0/",
 		"/mods/space-age/"
 	],
-	"title": "4 way junction with a dedicated elevated left turn"
+	"title": "4 way junction with a dedicated elevated left turn",
+	"favorites": {
+		"QrHEiVCM0GbWBcezC0xa37TjoSx1": true,
+		"pGfXgEIJ2CYyF499wGKW8jbGRj83": true
+	}
 }

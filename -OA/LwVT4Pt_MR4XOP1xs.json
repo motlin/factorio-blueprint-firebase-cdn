@@ -8,14 +8,15 @@
 	"createdDate": 1759174068419,
 	"descriptionMarkdown": "A 10 Track music player designed to accomodate blueprints generated at MIDItorio.com. \nFeatures include automatic song changing, a dynamic status display, self-contained error handling, and dynamic display brightness adjustment (Daylight Sensor Module not included.)\nDue to the relatively high data-density of individual song blueprints, none have been included. Songs will have to be installed by the user.\n\nSong Installation:\nStep 1: After generating the song and importing the blueprint (I recommend making a blueprint book of songs you like), paste the blueprint in the lowest empty slot, and up against the left edge of the slot. The “play song” constant combinator should fit between the slot’s lower decider combinator and the lamp.\nStep 2: Disconnect the “play song” combinator from the decider combinator from the song blueprint, and reattach it to the input of the slot’s lower decider combinator. \nStep 3: Connect the output of the slot’s lower decider combinator to where the “play song” constant combinator was connected.\nStep 4: Repeat steps 1-3 for every song installation.\nStep 5: In the Operation Control Module (bottom left hazard concrete rectangle) select the bottom right constant combinator, and adjust the existing speaker signal to match the number of songs currently installed in the system.\nStep 6: Use the constant combinator below the Operation Control Module to enable/disable the music player.\n\nVersion 1.01 Stable.\nMade by:\nThe_Djo_Man / can_I_get_an_F_in_chat?\nInventorsteve",
 	"favorites": {
-		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true,
+		"fUSN1oaZiqYsPqzamS5kwHKhYqz2": true
 	},
 	"image": {
 		"id": "a2Vfai6",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1759180266978,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/"
 	],

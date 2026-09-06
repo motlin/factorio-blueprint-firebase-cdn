@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1787302189336,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/",
 		"/planets/vulcanus/",
@@ -20,5 +20,8 @@
 		"/general/tileable/",
 		"/mods/vanilla/"
 	],
-	"title": "Vulcanus 480/s tileable stone (+voiders)"
+	"title": "Vulcanus 480/s tileable stone (+voiders)",
+	"favorites": {
+		"QUM9TtUvsnWwqJOc58IiQKxCYER2": true
+	}
 }

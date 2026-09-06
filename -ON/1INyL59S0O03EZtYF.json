@@ -10,10 +10,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1772786389025,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/vulcanus/"
 	],
-	"title": "vulcanus_science_n_tungsten"
+	"title": "vulcanus_science_n_tungsten",
+	"favorites": {
+		"Bk8885DntSMiy3JfwxLqpsCEQtb2": true
+	}
 }

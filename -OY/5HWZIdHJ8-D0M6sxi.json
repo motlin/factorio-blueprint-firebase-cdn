@@ -7,14 +7,15 @@
 	"createdDate": 1784664431357,
 	"descriptionMarkdown": "Produces 10.5k science per minute for red/green/gray/blue/purple/yellow science. the rest can be imported via train.\n\nInput trains : \n\n* Molten copper\n* Molten Iron\n* Crude Oil\n* Stone Ore\n* Coal Ore\n* white/orange/pink/blue/black Science\n\nNote : \n\nall trains are 2-8.\nYou can increase maximum capacity by increasing the amount of Biolabs or increasing their quality.\n\n",
 	"favorites": {
-		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true,
+		"sZayqbVfmgaeRsRyznlCh7HQQlL2": true
 	},
 	"image": {
 		"id": "Vm2MqMe",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1784664431357,
-	"numberOfFavorites": 1,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/train/crossing/",
 		"/version/2,1/"

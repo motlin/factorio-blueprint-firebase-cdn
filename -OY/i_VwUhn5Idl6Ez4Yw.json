@@ -5,12 +5,12 @@
 	},
 	"blueprintString": "0eNrtWluP2joQ/ivIz04VX8JN7ct5P1If+rZCUQiGtTZxqJPQgxD//YyTEAgE4myXgqqVkAi25z7zzThih+ZRLtZaqgxNd2gh0lDLdSYThabo3+BNpIMgigaZFDodJMtBMIiTRR4JhJEME5Wi6csOpXKlgsjQqyAWQBikqYjnkVQrJw7CV6mEw9AeSNRC/IemZI9biOYiAI4nx2jrMS1+5iLNhHbCV/g+Oc9az6dZooOVuDjN9zOMhMok2FaaUfzY+iqP50KDlvhMM4zWSSpL3+yQEUi/eBht0dThXzzDORNxyUouTjVYC7FwSr9VfigPwjnlS7UBwYneloTHXyA/zYLwDU1dY1jrDtnP9vDBF8rTHsqTZ1Oe2Sv/dLrzbt1ZpfvTJY2HrxXZpRHeIXtYYUVF4C9lBFSFmqkIDUFlW1X5GNUnGquVXBEBkU6UDJ1Q6jCXRvTPPIhATdhWiY6huDEKk3gd6AAsg9VvxUJuEIy6LjgqXicaVNFJbGiCfCNTVHqjxJVanOERC2Pm8A5yWIucUT855LqcmYniZQyHtdBlkGaOVKnQIPhWBKGW2jiN8E04v8HQLVICkh9CGflz8RpspLFsh6qg+kIF80hAvmc6F7heBpJFzXIpNSTUBZ4ffTlGpRRI69pXDUd+RfsiNUO5Pqc8LPstwfjYiuRXK5KfVOS1HXp1h12r4nEdt1gsZB47ZVFBSa2TonGfx2142sVaGE6sU2rYBIWF1CUGgIW0hTFx36sqadeUWPTsAwvv2dCXHHHphotHzSLrdDHrW8XjZgzvXsX83VXM/+YqJtwmG8bNGe4kG8ZtPI8NvjkV32DcjeV1uI/5sAyiVHzcVHAM+aRn++zZPMmwj9NdK5+P3luA9LOLPrL+xjapMOmJxpPu/jR51v5EXQuPcLffCECJ7XBRc6bnjHkbX2oLdZzYN7w/CXXefaGOMptoktM7QifWUd4T64783c9h44FgRz3rKiSNFy9dCTG0f6NQc6afLxSe6YUCHfW8pHHacZ+kNq31yMWykUzeq+aVuyRzO3t1zeLpejUjfZGYW3TBRClwqZ8lfpSsZJrJ0Fci+5XotwMq1+v9YNltwjKzh2X3b4ZlRq1hmfe6CDLWA5d5s0d/+KBD/xAis3sjJbO5snPvNFJtXKwv6dy7c2TIR46gM4x+QVYaoS8jTDHxMJ3hlzH2MHGxVz1CtzGPZgUDpBfPDE7DPG9OGyIMV2rzbJYwjJzF8+hwHsTUBpQGZtsCMwABahN/SKEHbFDhCS7Q4QxUKrudBpB1O6OI6KnEM9bkN1iDZRowK8ycZHkBnzel0t+SasARsGeloa9CsvaWzh4qnT9UunePePMuqcN72twpffRQ6eOHSp/cI95jZNDTqGaG0fr/GjBuBXMBExV6MXvfmmPNrFwUy6UMwZRwe75TCZMbo2u9N4jN/z3++Q7cN4CghfbekE48TvmEjDyX0/3+f1UEcDs=",
 	"createdDate": 1785340497851,
-	"descriptionMarkdown": "Makes all tiers of a module, 3 tier-3 modules per minute",
+	"descriptionMarkdown": "Makes all tiers of a selected module type, at 3 tier-3 modules per minute.\n\nA faster alternative with circuits instead of parameters:\nhttps://factorioprints.com/view/-P-dK9oDM5752yuFIkvE",
 	"image": {
 		"id": "XG9DYv1",
 		"type": "image/png"
 	},
-	"lastUpdatedDate": 1785340497851,
+	"lastUpdatedDate": 1788119814115,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/version/2,1/",
@@ -19,5 +19,5 @@
 		"/production/modules/",
 		"/mods/vanilla/"
 	],
-	"title": "[item=speed-module-3][item=efficiency-module-3][item=productivity-module-3] mall BP"
+	"title": "Parametric module mall"
 }
