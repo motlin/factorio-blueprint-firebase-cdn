@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "Current Version: 0.65\n\nLast Update Date: 27-aug-2026\n\nThis set of blueprints are designed to help one conquer the warptorio2 modpack by Vecna. Note that at the time of upload, the modpack is in a constant state of updates and blueprint author does not guarantee returning to Vecna's iteration of the mod.\n\nThe goal of this blueprint book is to provide a basic level of design for the early game, possibly the mid-game. The goal is **not** hyper-optimized patterns as the author is limited in that capacity, but should seem to make reasonable space utilization and moderate automation where able.\n\nReading the blueprint book: All blueprints have 2 numbers, slot 1 is the floor level, with 0 being ground, 1 being factory floor, 2 being garden floor. Slot 2 is the iteration based on available space. All blueprints assume the teardown of the prior factory due to Vecna's heavier emphasis of spacial limitations (which makes straightforward upgrade-in-stages planning difficult as sushi belts are almost mandatory at some stages). **Always** be mindful of when you are upgrading, as the floor upgrades will remove items that are on the hazard concrete to place the upgrade(s). As of time of writing/updating, the water on the garden floor **will** also delete entities to restore the water.\n\nCurrent status:\noverall as of size 5: Automated red/green/blue/yellow/purple/agri science. Missing military science, space science, metallurgic, and electromagnetic... because again, vecna hates letting us have space as of current date. Surface produces base materials for factory floor use and surface-limited items. \n\n0-5 : researched, v3 in progress and feels close to final? moved yellow science to surface, added boxes to buffer hand-delivered items, heavy oil storage and cracking. revisited on .65 to fix overproduction on surface gleba as well as remove spoiled science from sushi. fixed incorrect limiters on sushi science that made it overflow.\n\n1-4: research complete. initial design is... workable. Engines are manually fed, yellow science is manually fed, sushi belt is tolerable but could be better. Waiting to determine if floor 0-5 can handle biolabs to offload the science wing surface-side and solve science feeding.\n\n2-?: Waiting to coordinate with Softpurr for designs. Anticipate providing coal (biolab synthesis from carbon from biolab spoilage conversion), sulfur, and plastic into warp chest along with barrels of water to prevent ever running out. also needs to power the base, so make use of biofuel rocket fuel burner tower arrays. goal is 50-60MW power consumption satisfaction.\n\n",
 	"favorites": {
 		"ISlIx598w0Y2bI6M6NKKdUzHONw2": true,
-		"2hOapF2wfFRegXXfXsnyW6ecrmV2": true
+		"2hOapF2wfFRegXXfXsnyW6ecrmV2": true,
+		"q0pvCWiULlSEjtUUpNhJnk6pea42": true
 	},
 	"image": {
 		"id": "3VapCtE",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1787875057721,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/"
 	],
