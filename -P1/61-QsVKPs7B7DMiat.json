@@ -1,0 +1,21 @@
+{
+	"author": {
+		"displayName": "Ellis M. Eisen",
+		"userId": "uD02ngWvQoPIQAIQfFCGhapf8xO2"
+	},
+	"blueprintString": "0eNrVW12P4jYU/StRXvqC1U34GEDqSDP9GFWq2t2dPrSqVsgkF3Bx7KztzAwazX+vHRgILASbBEJfRiPinFyfc3J8HcKrP6YZpIIwNRpzPveHr5tPpD/859WPIeJMKpFFinA2SilmDIQZKEEpwqbS/K8IhZEECstRCY/BH4ZvLZ8oSPzhDgp6R2n5FI+B6gE/bQZ4d5TqI08gpB7rD7u9cNAZDLr9Tu9G/zGgLIYXf/jhrVWpvrZDfX9qAOn9wejCqrTAvjRgiqjFaEKoArGqLGhtf7yUguFEH/MFH/OUC6UL+ZphqkfpDxkXCTa0RTxJscCK6wv5P/jbZK0QZDaWCpui3DCCIoYeShHFSeqGERYwUpKC29ntnbOR4mgqeMZiN5zO25dWddP+BvgJvAdBYitThA5+FQByhFk8EjyayxE3xhvqs8DFswbk+88GwKq+9omm3XJnRMlk4mrNOsT40VzYbqKdxia6ce+/QOlCmrmdfAsusgTPOTJeOf0eNGejD8HptyGWM01djCiJZsBOqKZTDoYmOmS0HG6g3WJUUZLqvIvmbhC9AsQk0+ag2izMEeSmADLDRCwimo1ZNnZD6RcFgwklNF+HHBAGBQRN7jzBz47G21pAzP0xEdw1doOifXXDkaSZ6z0UhFsLGWMLPdKRzqDo3yhTikLKHdexoGjbZ6zTAUWYOVo/KNp0TKbIpL0jRNGms2wKp2AUXUq0rEjnIk/0QI3gOqX+1m1Dp5nQGChvFxyRBvuQHJPuww7BT5xqmUh0AkthsMt0FbCijZ8yg5NJFM1IwmCB5My5vwvbZYAmuSJtUsf7NeyUgDpCdcvqizh1La1XhjfBsfNcb2ppQ/Kmq+XlXVfLc2hKunU0JcsjaDrjssL+wMwVCfiagVQoFfxlcXqTkmNppk7p0sNaFHkwZNhpkHsqS6dC2+cQ+QlO03fW9RKY5O36It2wr6/0HlpY86cEZtLs15Aux04UXZDiJbg7kDs7YpuitBQglpLUV9Y3oDv7YZvCZKqLULl+1Qtag+3swY4UAi+pACkvqlzHoa5Li9d1qO3c+vUsalGZGPOLqte3rurS2g2sKzu3cnoD8WWT2quQ3RPXd5R6int/6/0xf/bulxxZPHEL683uM9hn33Lglt1ncc/+BcEtu2s1z/ZCcDXZXS5f4wF+TMbGUvyQnI1GebmYDef5MSkbCvVDQjom+2eIHWK9ffWxfiByriDZD+ZNg+H+TcS45fu5tlRHRew0urWyULLbyBarRM5G8/2ong1HvIWgDaV8iaKOQX9PM3BI+s7VJ/1et15Bzh/waYMpv+PL68j4I/I1m/BHNWwm3w8K2Wv4QVq5lv2md2NH5Rw0tR07qKhjuj8IAOYQ7916410qzgBNMsFwBPU8s1IAdI3oFutX+bihkb1p/1qeFgWhnZ0fjZGMoR+N/t5jAnRZmoWnb+r1NJYSkjHVZ6IERzOiDR7UwtEe4NDR4Xsg2peorWMZSksUEF5oJ13//ytdu7p04SVqc5aubSfdoF7pCJMgak2jNWJRJysufs8v6916v2gc79dNZRZvlwZn+PK6Vm7GGZ1X4Can5Na71yiOzNT81dD2POppPXBUhZqck1u9gmkYR24qPl8lyzdY3xvWJFULlPA4o4Ak5ae1HDuYkwmJCLDoHdidnrs49n5ew9jx0rl2XlKh4SJFnoiqxszHApAdN91r50amAHElUh4Ngh0bvWtnY3V+JT4+rWqwYiR/k24Fu/45Ecp/YLRB/QsEp99J7+Pyet798jA2ToTRuokvueDbfzylwyI=",
+	"createdDate": 1788971845421,
+	"descriptionMarkdown": "A book full of deconstruction and upgrade planners. For general use or use with Xerol's Grid System book.\n\n# Deconstruction planners\n* Everything\n* Tiles only\n* \"Leave Grid\" for use with my grid system (leaves all substations, roboports, lamps, and pipes)\n* Trees+Rocks only\n* Cliffs only\n* Trees+Rocks+Cliffs\n* Ghosts (unbuilt items and empty module slots, useful for counting how many items you need to bring to finish a build). Also includes items on ground (useful with [Blueprint Shotgun](https://mods.factorio.com/mod/blueprint-shotgun) mod when doing upgrades).\n\n# Upgrade Planners\n* Belt upgrades: Converts belts of all colors to the selected color. Downgrading underground belts that are too long will break the connection, so be careful when downgrading.\n* Stone to Steel Smelter: Upgrades yellow to red belts and stone to steel smelters, so you can upgrade your entire furnace array in one click.\n* Assembler 2 and 3 (upgrades all assemblers).\n* Inserter stepwise upgrades (upgrades/downgrades inserters one level at a time).\n* Add modules (puts selected level 1 module in all empty slots) - useful for putting prod in labs, or efficiency in miners.\n\n# History/Changelog\n## Version 1\nInitial upload. Future versions may include additional module tiers and quality options, plus general improvements and incorporating feedback.",
+	"image": {
+		"id": "IW7QJMR",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1788971845421,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/mods/space-age/",
+		"/general/mid game/"
+	],
+	"title": "Xerol's Planner Book v1"
+}
