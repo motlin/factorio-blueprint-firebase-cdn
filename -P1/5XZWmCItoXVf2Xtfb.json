@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1788963604841,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Playable snake [entity=big-demolisher]"
+	"title": "Playable snake [entity=big-demolisher]",
+	"favorites": {
+		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
+	}
 }
