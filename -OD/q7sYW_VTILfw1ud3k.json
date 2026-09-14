@@ -7,11 +7,11 @@
 	"createdDate": 1733927602546,
 	"descriptionMarkdown": "Balances copper plate qualities.\nSimply put it down, and it will try its best to balance the copper plates inside of the logistics network to be all equal.\nit has an inbuilt timer of 10 minutes, so if it doesnt start right away, either reset that timer, or wait 10 minutes for it to start.\n\nit will upcycle copper plates for those 10 minutes, or until the difference between qualities is larger than 1k\nas an example (CopperNormal = 39k, CopperQualityGreen = 39.5k, it will still be upcycling copper plates, but once CopperQualityGreen = 40k, or CopperNormal = 38.5k, it will stop, and recheck for which quality has the biggest difference.\n\nedit: updated the blueprint (sorry to the two people who tried it so far lol) ",
 	"image": {
-		"id": "6DMQGJv",
+		"id": "8VxzFj9",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/SSqK5J6",
-	"lastUpdatedDate": 1733946684640,
+	"lastUpdatedDate": 1789330460286,
 	"numberOfFavorites": 8,
 	"tags": [
 		"/version/2,0/",

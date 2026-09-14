@@ -7,11 +7,11 @@
 	"createdDate": 1735621360054,
 	"descriptionMarkdown": "Hello\nI have made a blueprint inspired by Vultaran design, but for Electromagnetic crafters (https://www.factorio.school/view/-OAOJZRaFp0U8hy2mnNs) \n\nThis is a parameterized blueprint that asks for a target item to craft, and a target quality to achieve. (accepts numbers 3-5, 3 is Rare, 4 is Epic, and 5 is Legendary) It will clamp the values between 3-5 if you give it a different number.\n\nThe system is controlled by the constant combinator, if you want to target uncommon, change the Any Quality signal to value 2, for instance. You can also use this to change your target quality after creation as you gain access to higher quality tiers. the system is set up to scale up to legendary quality\n\nyou can add pipes to electromagnetic crafters if necessary.",
 	"image": {
-		"id": "O9qNzQD",
+		"id": "T3x3WdZ",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/O9qNzQD",
-	"lastUpdatedDate": 1735621360054,
+	"lastUpdatedDate": 1789329273240,
 	"numberOfFavorites": 4,
 	"tags": [
 		"/mods/space-age/",

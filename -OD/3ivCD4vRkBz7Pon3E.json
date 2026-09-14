@@ -7,11 +7,11 @@
 	"createdDate": 1733098714010,
 	"descriptionMarkdown": "If you are short on modules, and would like to kick off your legendary/rare item production, this is a perfect automated solution. The electromagnetic lab here does all the levels of items. The way it works:\n1) The assembling machine on the top sends the required ingredients (of normal rarity) to the combinators.\n2) The combinators create the copy of the ingredients of all rarities. Then they look, ingredients of what rarities are sufficient for a craft, select the recipe with the highest rarity and send it to the lab.\n\nTo use: Select the item to upcycle, and then copy the request from the assembler on the top to the requestor chest. It should be working after that. The production rate is around 0.4 rare lvl3 module per min.\n\nPS. The beacon is just a tradeoff, since the speed boost was just too good. Also, the assembler at the top is just to set the recipe ingredients\n\n",
 	"image": {
-		"id": "HEVndrz",
+		"id": "1Hb2cUV",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/HEVndrz",
-	"lastUpdatedDate": 1733098825471,
+	"lastUpdatedDate": 1789329311228,
 	"numberOfFavorites": 3,
 	"tags": [
 		"/production/modules/"

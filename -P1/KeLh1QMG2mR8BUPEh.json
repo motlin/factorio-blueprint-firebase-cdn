@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Christopher Jochla",
+		"userId": "BMR1pUsTmcSSwG2Z1wxEktU4Mg93"
+	},
+	"blueprintString": "0eNrtWUuP2zYQ/isCTy1KBXrLMpBetpceespxsTBoiV4TSz1KUd4YC//3DklJdhzJtoQkzQbGAsYnUpwZfjOcGWrf0Jo3tBKskGj5hlhaFjVaPr6hmj0XhKuxguQULVFGU5ZRYadlvmYFkaVAB4xYkdHPaOke8MASIpjc5lSydHiVd3jCiBaSSUaNVv2wXxVNvqYCxOJOlLJLkkKeCsKoKmtYWxZKJ8izXT/6EGK0B9HBhxAUZUzQ1LyxwEqIFCVfremW7BhIgGW1ma+/xGBKtzOMNoxLKs5H5b5Shm14wzLU21lLSnJ4/LchHHYCI0UpcmBFac8rIrTlS/RRDzSKdd9xnMMT/IG9FSd7KlYZrVPBKmM4emj3XlsZ3bCCCuu3jQB11kfLxVbKRMoV1mO1VcE8bKQsMmy9EiZhxjzWlixBAoE97oikltxSy7jsd6Tcd8a9N5/78Htz35FN7XJdUwHbgaW2JsBec1K8TPOAjt4uJnvP7piQjV7XqduSitqG72kKIudEg39Bg3aHvS0b8cxJXU/TEp4oCa4qSXmZvryyutuRTYQoX6dpDH7CuPXxhYw1FLb+SNC63nDUtmJXyjbWx+/pE8Tqholaro4Z8ZoztjR9UZnxjGmVIMtGVo08z8qX0s/hglN6IuHR0jFg2DaSLZozCQfOgre2Lf9DJAczSQ7+T5I/KYLNnm5fdDyLA97B0x2tGP9K1J/9GaOrVgBRxP+k3g+net8ZOWLBt3f+GCVXmBzzV0aLvXFXtV/prLfaiDJfsQJkoeWG8JoqvgdYio6yIItym3LYtoBeqCp1/fiaprgroFBJhyTGU3mPjLj4u56668V40rE7LbIzEuINB++yJ0dOzl+nJ+dBn5yaFc9QwaC9fTmpXkMHZjHTcdG7ddy4n27QOnKgEnz5YnGh7sQ3Zp6j4DMqJ6Z5lUBP2Os6aLSETFhCrJA2qv5AHU1TZY8G6j80L8XeeqCcD4Wi68xnMfo2LH7BxtR63DF7yqL941l0Jyd3p0vu8XByd72pIr3kSr1w/Zl5J3nPbdrsEvFpauvU3U90NaFiMFCCmS5Y3Gu2iYSZ9XrAXQX9LLXPmiI763gHXRfOvOQk95vk7XcJN5rJ8uLd5aiRLy73e2UfC/H8qpqMlMDFjHbHGYmwX6BpHKJofl+t6L93hOZz+fy+2nfvt5OORXf2cf0lY1Fl6lfYkcrTjy72cIS9J/zoYReQC8gHFGC/RX6LADvtdIATvSTolwS9GIXgxQBgqKCnR0O13NOvwgK80DIVcqN2MMRw/wkBxnre7ZHfIuh6zaDfwUU/v1CDvh5MlFJXK03AUNdYpUYw5O0Wg7JYKzPYM9gz7yjTlTAl0e+xIURp7nFo7D/isMOwItHWAAZCHKM3UvITIz8G3I1rbExW6hUOnsBJTNIc3Hf8ZypGnKwp11+OJESk9ffG0nXU4nRHeW1BA8stojpRCj/6OyNGOypqHTVh5CVBkoSLIIrh53D4D+QiFE4=",
+	"createdDate": 1789217303499,
+	"descriptionMarkdown": "Uses a clock to check every few seconds whether the current steam level is lower than the previous steam level. If so, it sends a deny signal.\n\nWarning! This bluebringt is not miniaturized and does not send a continuous signal.",
+	"image": {
+		"id": "phPTpce",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1789217303499,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Detect If steam levels fall and send deny"
+}

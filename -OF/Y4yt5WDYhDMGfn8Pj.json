@@ -7,11 +7,11 @@
 	"createdDate": 1735755558553,
 	"descriptionMarkdown": "---Outpost Train Supply---\n\n  This System will auto supply each outpost evenly across as many stations that are placed. Updated the logistics List to add or remove any items you would like supplied to each outpost. It is recommended to have as many trains +1 as there are outposts to ensure timely deliveries, unluss you are rarely needing supplies. If you add an outpost that requires liquids, it is recommended that you add only liquid loading stations. If you do not, a train may choose a loading station that does not have liquid supplied and will not fill up. Even delivery to each outpost station is accomplished by a timer that affects Station priority, and is reset each time a train is en route. This will allow you to have more stations than trains to service, if preferred.\n\n  As long as stations and trains are placed from the blueprint, all should be setup to run out of the box. The only thing you need to do, is supply the loading station and set your logistics groups for what you desire inside the Constant Combinators.\n\n  *Main base will auto supply the \"Outpost Supply Load Station\" with your predetermined list of supplies\n\n  *If using a fueling station, add it as an interrupt to the schedule, if you are not, you will need to add fuel to the \"Supply Load Station\"\n\n  *Be sure to edit the logistics list inside of the Constant Combinator for each station, if you choose to select an already made one, you will also need to update the logistic list chosen inside the requester chest at the \"Supply Load Station\"\n\n*Outposts read the available supplies connected to it's network...this leads to 2 complications.\n   \n   1-You cannot connect your outpost to your base logistics, ie have Roboports connected all the way out\n   \n   2-Your supply needs will need to incorporate any logistics chest at the outpost\n\n  ~~Credit to https://www.youtube.com/@InferAGoodTime for the idea to run on\n\n  ~~Credit to https://factorioprints.com/user/YkOxDfsm92Vrx8ybLTCZraRzNFf2 for their simple priority clock  \n<blockquote class=\"imgur-embed-pub\" lang=\"en\" data-id=\"a/PkjPnLY\"  ><a href=\"//imgur.com/a/PkjPnLY\">Automatic Outpost Supply Train w/ Logistics</a></blockquote><script async src=\"//s.imgur.com/min/embed.js\" charset=\"utf-8\"></script>\n",
 	"image": {
-		"id": "WM7lM8m",
+		"id": "Sfnu9Mo",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/PPsUztG",
-	"lastUpdatedDate": 1735858064530,
+	"lastUpdatedDate": 1789328560237,
 	"numberOfFavorites": 11,
 	"tags": [
 		"/version/2,0/",

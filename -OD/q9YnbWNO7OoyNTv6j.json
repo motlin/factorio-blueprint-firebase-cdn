@@ -7,11 +7,11 @@
 	"createdDate": 1733928041869,
 	"descriptionMarkdown": "Balances iron plate qualities. Simply put it down, and it will try its best to balance the iron plates inside of the logistics network to be all equal. it has an inbuilt timer of 10 minutes, so if it doesnt start right away, either reset that timer, or wait 10 minutes for it to start.\n\nit will upcycle iron plates for those 10 minutes, or until the difference between qualities is larger than 1k as an example (ironNormal = 39k, ironQualityGreen = 39.5k, it will still be upcycling iron plates, but once ironQualityGreen = 40k, or ironNormal = 38.5k, it will stop, and recheck for which quality has the biggest difference.)\n\nedit:\nupdated the blueprint, isnt exactly the same as the image anymore, just delete some extra modules if its too much. its now tiled.",
 	"image": {
-		"id": "Y7euCoI",
+		"id": "7GfdTOD",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/xK0OLxl",
-	"lastUpdatedDate": 1733946498255,
+	"lastUpdatedDate": 1789328687248,
 	"numberOfFavorites": 7,
 	"tags": [
 		"/version/2,0/",

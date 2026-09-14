@@ -7,11 +7,11 @@
 	"createdDate": 1730581091737,
 	"descriptionMarkdown": "Based on [Vulteran's original quality casino](https://www.factorio.school/view/-OAOJZRaFp0U8hy2mnNs), all credit to him for simplifying the Quality mechanic to a gambling addiction.\n\n**How to use**\n\nSimply plonk it down, say what rarity you want to work towards, (3 is Rare, 4 is Epic, 5 is Legendary) and watch it roll the dice. Highly recommend using it on Fulgora to upcycle the abundant trash into end game equipment!\n\n**Changes from original**\n\n- Added an output limit to prevent overproduction.\n- Changed the buffer chests to requesters to keep inventory clean and also use any higher tier resources you have laying around.\n- Changed the default quality modules to tier 3.\n\n",
 	"image": {
-		"id": "ACcF5c2",
+		"id": "f8Ymhml",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/ACcF5c2",
-	"lastUpdatedDate": 1730581091737,
+	"lastUpdatedDate": 1789327364221,
 	"numberOfFavorites": 10,
 	"tags": [
 		"/mods/quality/",

@@ -7,11 +7,11 @@
 	"createdDate": 1729366745658,
 	"descriptionMarkdown": "Bot based rocket silo printer. Creates requested number of silos in cycles using exact number of resources.\nIdeal for bot based bases and on other planets.\n\nTo start making silos, set ammount in constant combinator and turn it on. Global signal will inform you, when all silos have been produced, then you can turn the printer off.\n\n**Use master reset** after building the printer to clear false data in memmory cells.\n\nUse master reset when you interrupt job in progress and empty steel chests manually. \n\n//fixed issue with printer locking up when there are 2 more concrete or steel in steel chests than required. happends when requester chest doesnt have enough items for 2 stack inserters to grab - will fix in SA\n\n//printer annouces job done when only one silo is requested - will fix in SA",
 	"image": {
-		"id": "z5LXHSL",
+		"id": "NBWnCuX",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/PFFuuGn",
-	"lastUpdatedDate": 1729372024284,
+	"lastUpdatedDate": 1789327732215,
 	"numberOfFavorites": 16,
 	"tags": [
 		"/general/mid game/",

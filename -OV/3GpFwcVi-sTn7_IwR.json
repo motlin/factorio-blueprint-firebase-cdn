@@ -11,10 +11,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1752418485369,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/mods/vanilla/"
 	],
-	"title": "Train Network v1"
+	"title": "Train Network v1",
+	"favorites": {
+		"Bk8885DntSMiy3JfwxLqpsCEQtb2": true
+	}
 }

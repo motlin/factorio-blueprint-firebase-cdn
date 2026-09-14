@@ -7,11 +7,11 @@
 	"createdDate": 1727230712620,
 	"descriptionMarkdown": "Design for red circuits that can work both early and later with beacons/modules. Unmoduled/beaconed you can get ~16/sec, with modules and beacons you get just over 31, upgrade the belt if you care about that last one.\n\nConstant combinators output what needs to be put in each belt, when fully beaconed you need just under two red belts of circuits and a belt of copper for wire. You can get away with ~15/sec for electric component ingredients.",
 	"image": {
-		"id": "sGYGkP8",
+		"id": "J9P6i0w",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/sGYGkP8",
-	"lastUpdatedDate": 1727230712620,
+	"lastUpdatedDate": 1789330350503,
 	"numberOfFavorites": 4,
 	"tags": [
 		"/belt/fast transport belt (red)/",

@@ -7,11 +7,11 @@
 	"createdDate": 1731783587700,
 	"descriptionMarkdown": "Avoids the need for belts by using the hub as a buffer and limiting resource input / tossing out astroids based on circuit conditions. No quality components required. T3 crafting stations optional (I don't believe quite enough astroids approach anyways)\n\n6 Crafting stations is the proper ratio is keep in line with other sciences. EG:\n1 red science takes 5 seconds* to craft, done in 10 stations, equals 2 per second ((10 * 1) / 5 = 2)\n5 white science takes 15 seconds* to craft, done in 6 stations, equals 2 per second ((5 * 6) / 15 = 2)\n\nassume the stations had 1 crafting speed to keep the math simple",
 	"image": {
-		"id": "wqUrwbY",
+		"id": "qeSKvAB",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/wqUrwbY",
-	"lastUpdatedDate": 1731783587700,
+	"lastUpdatedDate": 1789335734241,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/production/science/",

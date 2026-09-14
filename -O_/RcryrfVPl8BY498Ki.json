@@ -12,7 +12,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1758195929474,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/production/mall (make everything)/",
@@ -20,5 +20,8 @@
 		"/general/early game/",
 		"/production/belt based/"
 	],
-	"title": "Sushi lane"
+	"title": "Sushi lane",
+	"favorites": {
+		"kFlwSgioBXhLqziMH9tsPgiGRto2": true
+	}
 }

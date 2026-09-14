@@ -7,11 +7,11 @@
 	"createdDate": 1729771571239,
 	"descriptionMarkdown": "Lower input is for use with a sushi belt, and upper output is for the desired item to go wherever you need it. By default it attempts to hold 3k of whatever item is set as the parameter, then the rest is scrapped and sent back out onto the main line. Base products will be looped and voided, any other components get sent down the rest of the sushi line.\nThe two lamps are for warning indication, top lamp is at 2.9k items to show its full, lower lamp is at 3.1k to show a warning that it can't scrap fast enough to keep up with overflow.",
 	"image": {
-		"id": "OLfmHOD",
+		"id": "fPDUWd5",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/95kVoh4",
-	"lastUpdatedDate": 1729771685162,
+	"lastUpdatedDate": 1789327164230,
 	"numberOfFavorites": 27,
 	"tags": [
 		"/general/tileable/",

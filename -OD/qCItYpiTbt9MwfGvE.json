@@ -7,11 +7,11 @@
 	"createdDate": 1733928763203,
 	"descriptionMarkdown": "Straight carbon fiber with yumako and trash in. takes about 23 fruits/s with regular plants. \n\nrequests 5 nutrients per nutrient producer to start up, after that the reuqester chests deactivate. seeds get thrown into active providers. If you want to, remove the recyclers and hook up a small buffer. this machine has no problem starting and stopping frequently. \n\nits got a small lamp showing yumako intake. green if satisfied, red if not. because im having weird spaghetti rot management (and to make startup/shutdown of the facility faster), its got a rate limited intake of rot. this will prevent the belts from clogging with rot\nit will only use as much as it needs (plus some extra for headroom) \n\n\nneeds 12 recyclers to recycle fast enough (legendary) or more if using normal ones. \n\nIgnore the modules used. (except the quality if you want quality) ",
 	"image": {
-		"id": "4Z3Ma7f",
+		"id": "rr27Qcf",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/4Z3Ma7f",
-	"lastUpdatedDate": 1733929026865,
+	"lastUpdatedDate": 1789328366261,
 	"numberOfFavorites": 6,
 	"tags": [
 		"/planets/gleba/",

@@ -7,11 +7,11 @@
 	"createdDate": 1733245080928,
 	"descriptionMarkdown": "Parameterized crafting to get desired quantities of specific items in specific qualities.\n\nWARNING: DO NOT FORGET QUALITY MODULES\n\nCrafting Recipe: Set desired item to craft\n\nRequester buffer: Multiply recipe ingredients to requester chest This is what you would normally do, with copying the recipe into the requester chest.\n\nExample: Iron gear wheel recipe requires 2 iron plates. Assembling machine 3 Iron gear wheel crafting requires 5 iron plates per second. We want a 30 second buffer, so we need 150 iron plates. 150/2 = 75, we set Requester buffer to 75.\n\nWill upcycle lower quality items untill all desired quantities have been reached.\n\nWhen desired quantities are reached crafting is stopped and requester chests will be emptied",
 	"image": {
-		"id": "n9fSXlv",
+		"id": "87Kc4De",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/n9fSXlv",
-	"lastUpdatedDate": 1733245080928,
+	"lastUpdatedDate": 1789327393226,
 	"numberOfFavorites": 9,
 	"tags": [
 		"/mods/quality/",

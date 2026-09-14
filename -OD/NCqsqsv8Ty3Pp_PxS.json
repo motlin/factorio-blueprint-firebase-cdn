@@ -7,11 +7,11 @@
 	"createdDate": 1733425590084,
 	"descriptionMarkdown": "This Build will make 36~ Ore per second for Gleba. and it will jump start itself by using the first bacterial recipe.\n\nThis build is heavily inspired by Nilaus' from his let's play guide. though this uses power poles instead of substations and I feel it streamlines the collection of the spoilage in one spot.\n\nit also has circuits to say that the jump start only happens when there is less than 8 bacteria on the input line AND if there is less than 1k worth of ore in the 4 chests. this way it only jump starts when there is little to nothing left and needs more and if this factory cell has been idle for too long. ",
 	"image": {
-		"id": "TGnUte6",
+		"id": "rqxa1I9",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/TGnUte6",
-	"lastUpdatedDate": 1733425590084,
+	"lastUpdatedDate": 1789328899234,
 	"numberOfFavorites": 9,
 	"tags": [
 		"/version/2,0/",

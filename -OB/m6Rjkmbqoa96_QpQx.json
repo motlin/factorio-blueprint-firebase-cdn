@@ -7,11 +7,11 @@
 	"createdDate": 1731712633957,
 	"descriptionMarkdown": "Circuit that will automatically request from platform only items that you need.\n\nIt work on all planets.\n\nHow to change requested items:\n\nGo to constant combinator and change logistic group to what you need.\nYou can use the same group that pulls things to the space platform from the planets.\n",
 	"image": {
-		"id": "iK7juPN",
+		"id": "xWoDnqN",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/iK7juPN",
-	"lastUpdatedDate": 1731714689327,
+	"lastUpdatedDate": 1789327624228,
 	"numberOfFavorites": 10,
 	"tags": [
 		"/version/2,0/",
