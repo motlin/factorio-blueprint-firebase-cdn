@@ -10,10 +10,13 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1789407054564,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/train/track/",
 		"/version/2,0/"
 	],
-	"title": "Stations with load tracking"
+	"title": "Stations with load tracking",
+	"favorites": {
+		"8EKKV8pF8mbwXQw18Lg8H18FfPp1": true
+	}
 }

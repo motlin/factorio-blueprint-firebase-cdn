@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Brett Anthony",
+		"userId": "9shZoIETAtTVhQVqGs3KeV1S0i33"
+	},
+	"blueprintString": "0eNrVVktu2zAQvQrBbSk3chwnFtBFgaTZFF0k3SWBQElji7BEqhRl1w10gN6iZ+tJMkMplpMaRYP+EhgWyOHMmzeP5Ei3PCkaqKzSLk6MWfLodrDUPLramdKaSo3uzLVaaFmQzW0q4BFfKesatAiuZUmGziM45a3gSmfwmUdhK54QaSHbiR23N4KDdsop6Cj4ySbWTZmARfBtfAapysAGqSkTpaUzFrErU2Oo0ZSY4I6PBd/wKJgeTEdHmCZTFtLOYSI41umsKeIEcrlSCIBRPWyMa5mHqsm6O0NSc2VrFw819pQqaXHgkNQB1YTMyELMIv796zfktxsYa3BrY5c+AckQzWVRg+ALC4AEnW2gJT1M46rGPXFHYAV243KlF0Tlh1QEvs3k82KqtqWte6T4+ImKz56L4m9egt6Ybo0KUbKrUIzpdyNwdIijEEf4xNHhDfpta+2Y9XxUNlC5BMcuO8KCFh7qI/gnJI5bG2y1JXq9EZ21saUPfSSjZ6kclDgbGoXghUwApeGnwXvp0pxdAHFBHWoPfTQdzyaz2dHJZHqMj+GSH9Ap+38dp9uEf9FzTl5Az9l7MP/OHdh73f5szzl59j3nGej9sOeEfacJxaTvPr4LicmL6Dnnvrhf6TrhPsTAfw/twEonmUdGYwZ1alXVkeZvWY2lmjnLyKcgH6gFczlYYBL/qD5bSaskflSxi7PT1+cXZ2cfRuydseRFpvt1wda5KsCbCbXbT6Zqpo0OvoA1zGi/6jEYbZfoEvd2AiMrxdQoGmRMdSuemWBSZ37aHSxyc3IJms2tKR8gDAS7XFuKnhzuJCvMQqVMVlWBDZIliLZWLvfrqSlMY5HCGpchG13ra/3RK4IJJQsDp9Ily6CQmyFzaUq87ziUrqvp1R4h6sbny5CH2S0kzaVe4Ikf0XH73dcGngiJjWIF8f2r6Scnqb0Dpera4g==",
+	"createdDate": 1789557312700,
+	"descriptionMarkdown": "A set of data latches, there are two variants RED/GREEN. For the RED variant, while the set signal is non-zero on the GREEN wire, data on the RED wire is stored in the latch, and the output is taken from the RED wire. For the GREEN variant, the same logic applies but with the colours swapped.\n\nThere is a 1-tick delay from the moment that data + the set signal is supplied, to the output changing.",
+	"image": {
+		"id": "uT2hWBU",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1789557312700,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Data Latch"
+}

@@ -11,9 +11,12 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1789217303499,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/"
 	],
-	"title": "Detect If steam levels fall and send deny"
+	"title": "Detect If steam levels fall and send deny",
+	"favorites": {
+		"ScghgmoB0HSyXjfuKFN2TazK6hA3": true
+	}
 }

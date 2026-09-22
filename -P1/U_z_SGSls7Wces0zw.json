@@ -11,12 +11,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1789383932448,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,1/",
 		"/general/late game (megabase)/",
 		"/planets/gleba/",
 		"/production/science/"
 	],
-	"title": "[item=agricultural-science-pack]Gleba science [item=turbo-transport-belt]+"
+	"title": "[item=agricultural-science-pack]Gleba science [item=turbo-transport-belt]+",
+	"favorites": {
+		"Bk8885DntSMiy3JfwxLqpsCEQtb2": true
+	}
 }

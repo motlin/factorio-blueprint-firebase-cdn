@@ -1,0 +1,30 @@
+{
+	"author": {
+		"displayName": "Dleggeo",
+		"userId": "XGlyUynp4whEdEJtEuT6T0Nnioi1"
+	},
+	"blueprintString": "0eNrNWNtu4zYQ/RWCT20hGb7IV2ALLNq0DVAsFknesoZAWyObCEVqScqJG/jfO5QlS3bkuLZ30X0JGNI8nMvhzKFe6UxkkGouLZ280gjMXPPUciXphN4L9UxmmSXGAovWE8IjYILESpO5ShIlCf7AXymRJUC4hcS0vsgv8h4ssUwvwG1U8yeSgs6XCZfELgE3S2OZtA5lxiWzSrfIb5rF1pCEG8PlYgtHlATCLGHE8gQ8cvsHuf30593N77c3nx7uCdNQQgq14MbyOZFgn5V+ahHqUe4OopPHV2r4QjLhPJQsAXSNGQPJTOBJfsLmSy7B79ENbpERvNBJZ+M1bdLcLhPAY/zK8tqu7mbqUZCWWw7bc/N/1qHMkhlohPVKqDIEdSCPpsrwbexfKeKNhq2+R9d00uu1+nhMxDXMt+uB5yCsViKcwZKtOO7HTWa7bvbHaEjpl0djLizow9nCLEw0CH++BGPRnK8ZE2g+zkulEwyFOzRJmc7NndAP+UTmqNNpu4iVcdjhafiaIRboizD7NczeDjPF3PEV+KlWKyTk9dBBzX2l2QKuDkB/hzjL4vhCE+uAgx0gw6Re63wduVPnZJo6RDYTcA1ilf7mC3MWdD1RnYoEEcy37n8L2BoBQOCtUd8It3/iul+KW7GBayV9V/eerknYsLpbWi00SxJHAd+kwJ7gTEN7deBRlS9uUsHWfsokiCsQx1WqcJfwBUvSyyPZrchvNeMulOpMuEEdrlb4GBd+0UCuKKS9fcD5MjfyathgH1afHcQ9r/sHXmdpqvRV/WOwh3geUtBuuza80CpLceXRCYkP9TI83U411qYp+bsQEobcylgzupluNs60g07ePcrswx4+2u/hFl6sk1YPH+8eyF83dzc/jmLKLblM8n3cyim0GhUKT8HZIdYekYrEIuORcei3cqEh4hhJUugCYvg/MCFJJixPBXdOF8YxXKwyVHOb/BRBzHADeem0f24VKs8F265Tl48V1zbLGVIWivy6+FzGymk1Jp7Z2oRmqZ7pxOoMPOrGIZchXi/kbT7ZkPLeybZ2kPpx5zzxVsGGuBzxnZKLuTY2rOToCU8BBa3zFAUgwoQld9wla7c9qpBcrFD4v+Bmldk0Oxu+8VYEZ4co+OFC9F0DVJXKGBmOnDSgLTQGpiwb/TehacAdvKO4D5H7+8hNYZ5zPc+4DRMVQajisBYR5HS5ustACNIJhohOYiYM3p3SinD32DjyHHHV9a03w3NpVD2UBpv/iTh+57sSZ3RCoh4GZHwqIHVbt5DUKwZhwl7K0pgnquZmu8m48fuy/GhHHOwTe9RsaYF5kLf6f48Xp3FPRPxKnXDYJu3ws8F/y1yzVnA15b3PDm+vaHcXoaNX1IANt722TJXGho1drOyxpmhkTQZ1au9T8fReGdpZgklrhOqefJkehRwfgayJXjVThZZ8Q/AcI2hfXWzqr79shjTPT2kom+WBjiTPyFoH/tjxut7QC6beYw9Ho2IUeJjzLg5x4IadfNjzBvloiL9EJ7v5MPDG+WiEk2PcjuBOVrnU7D7MeVSwGYrLUs02sahQtQflf0o+K7GOmSsYa9S2z+SzRgKh/+772AqjlXvYH3THwXjcHwWDIf7ZbP4FUyvMtw==",
+	"createdDate": 1789824398075,
+	"descriptionMarkdown": "# Low Priority Polyfactory\n\nOne assembler that keeps a target stock of many different items in your logistic network. It picks what to craft, requests its own ingredients, and idles once every target is met.\n\nIdeal for things you always use but never need in bulk: logistic chests, inserters, poles, rails, modules, repair packs...\n\n## How to use\n1. Place it inside roboport coverage.\n2. Set the items and target amounts in the **constant combinator**.\n\nBase ingredients must be available in the logistic network.\n\n## Chaining intermediates\nAdd intermediates as targets and it will craft them too (e.g. inserters → fast inserters).\n**Important:** it always crafts the item with the largest shortage, so set each intermediate's target **well above** (2×) the items that use it. Otherwise it can lock onto a recipe it can't complete.\n\n## How it works\nRoboport reads the network → combinators compute shortages → a selector combinator picks the largest → it's set as the recipe (×1000, so the assembler's own ingredient signals can't override it) → the assembler's ingredients feed the requester chest on the other wire color.\n\n## Notes\n- Factorio 2.0 (selector combinator). Space Age not required.\n- Assembler recipes without fluids only.\n- One item at a time: intentionally slow.\n- May overshoot a target by 1–2 items.\n- Request batch size = multiplier in the last arithmetic combinator (default ×10).",
+	"image": {
+		"id": "JRkilTI",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1789824398075,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/",
+		"/production/mall (make everything)/",
+		"/production/logistic (bot) based/",
+		"/production/other/",
+		"/production/modules/",
+		"/production/inserters/",
+		"/production/guns and ammo/",
+		"/production/robots/",
+		"/production/belts/",
+		"/production/rocket parts/",
+		"/general/mid game/",
+		"/general/compact/"
+	],
+	"title": "[item=assembling-machine-3][item=requester-chest] Low Priority Polyfactory"
+}
