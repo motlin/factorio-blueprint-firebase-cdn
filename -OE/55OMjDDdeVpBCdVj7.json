@@ -7,11 +7,11 @@
 	"createdDate": 1734195385977,
 	"descriptionMarkdown": "Balances output of quality stuff, i mainly use this for ore. \n\nLower two belts will contain all items with quality. If there is an excess of quality items, the upper output will also output the excess of quality items. If there is an excess of normal items, the lower belt will be filled up with those too.\n\nWhy? if you just split for quality and normal stuff, one system might get clogged preventing the other from working. this is a sorta splitter for every case scenario. \n\n![example image of my uranium ore processing](https://i.imgur.com/ZJnUjtB.png)\n the upper lane leads to the ore processing which has capability of all quality ores but mainly regular ore. the lower lanes lead to a recycler upcycling the ore to just legendary. \n",
 	"image": {
-		"id": "ut0lZLO",
+		"id": "hFI6OHW",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/ut0lZLO",
-	"lastUpdatedDate": 1734195929450,
+	"lastUpdatedDate": 1790125122083,
 	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",

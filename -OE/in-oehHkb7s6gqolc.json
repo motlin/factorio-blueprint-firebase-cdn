@@ -7,11 +7,11 @@
 	"createdDate": 1734878170536,
 	"descriptionMarkdown": "This blueprint lets you sort quality items of any kind into segregated buffer chests that are chosen to store up to 3 times the stack size of the item selected before handing overflow into a recycler in hopes of scoring higher quality ingredients. I generally use this on Fulgora to sort out and to recycle the machines and things that my scrap sorter doesn't handle.\n\nI made this when I realized my production makers on Fulgora had quality modules leading to overflow in the passive provider chest due to various quality items being made. This takes those random outputs and sorts them for you.\n\nUse the constant combinator to choose a single desired item and quantity. If anything needs the items in the green buffer chest, make sure the blue requestor chest for it requests from buffer chests.\n\nimgur link: https://imgur.com/a/htG05pE",
 	"image": {
-		"id": "dggCdvy",
+		"id": "oVbBIFr",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/htG05pE",
-	"lastUpdatedDate": 1735535527121,
+	"lastUpdatedDate": 1790133921098,
 	"numberOfFavorites": 1,
 	"tags": [
 		"/mods/quality/"

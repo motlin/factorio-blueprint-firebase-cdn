@@ -7,11 +7,11 @@
 	"createdDate": 1722414847527,
 	"descriptionMarkdown": "The nuclear reactor automatically starts if there is less than 5k steam (in one tank) and stops after 18k pack (in one tank).\n\n(Clarification: the fuel supply to the reactor stops, not when energy production crumbles.)\n\nTo start, you need to put fuel in the reactor.\n\nThe tanks can store 2 million steam (2M steam).\n\nThis scheme is not scalable!",
 	"image": {
-		"id": "9KrfHP7",
+		"id": "uUmltnf",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/y5oL4I5",
-	"lastUpdatedDate": 1722414877174,
+	"lastUpdatedDate": 1790134653103,
 	"numberOfFavorites": 2,
 	"tags": [
 		"/mods/vanilla/",

@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Falsesummer",
+		"userId": "lKvwoyuRG9Q2h8kRWLQ3gAVJeJw2"
+	},
+	"blueprintString": "0eNqVVE2P2jAQ/Stozma7OMlKoPbQH9BL1RtCkZMYGCmxs/6gi1D+e2cCSdolq6XiEsbz5s17M/YFijrq1qEJsLkAltZ42Gwv4PFgVM0xoxoNG3C2sK11AToBaCr9BptVtxOgTcCA+orq/5xzE5tCO0oQA9oH69RBL8uj9gEEtNYTyhomoErLlUyeMgFn+kylfMqIxOnXSMn5HuugnedMr0sGXbmGJgSMGf9Eb8ysKLjYA5csgulfo6qpUTo21jWkU1Be0yqnqE+KfusDkU2hStiw8HzvbMMIFU/oodvRrxN3muXIjMZrR43NypXv5VboruqIUjK7Cc7WeaGP6oTc1AVKdGXEkGujilpXsCFdWoxhglQjyx4deXc3xRk3OnGNKlabvTPiK3RzIpNRpHIYjo0OWC4JWKDpgZ8oXnXzAqdikxg/pyacWyY/oQuxn96wZn3G8heLomWhGo+DfjLItpqk933DF0qxMbTxQR9nnUrF3QWaM+d5XIYPrHFaVTkG3fi8sRXVexbXWE+e0/iCHxZCnRTWvCJ5bQ/o2c6PdAwJ0y5M4L815v9lxOOXl+8QPSK/afn5YCuFFIlId2Kb0Fcq5I5OeR1pK4YrfpvjzWExfGwgm2b6Q70tqBe/oHkupqeLirGHlDA9ewJIriZN8D0Gu/AlPQ3mwOhFjQ2SrQJOxN3PK3uR6yyV6fplvU4S2XV/AHRnz78=",
+	"createdDate": 1790113946172,
+	"descriptionMarkdown": "The inserter adds robots to the network if the number of idle bots falls below the chosen threshold, offset by the average number of bots per roboport in the network.\nThis automatically scales the upper limit with number of roboports, while only adding bots as needed.",
+	"image": {
+		"id": "cLZfvkJ",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1790113946172,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,1/"
+	],
+	"title": "Smart scaling bot limits"
+}

@@ -7,11 +7,11 @@
 	"createdDate": 1734732546090,
 	"descriptionMarkdown": "Transport spaceship, simple, efficient, and sufficient to go to Fulgora. It only requires the red, green, blue potions, and Space science pack\n\nThe Bluprinte will not automatically request resources, remember to check \"Auto Request\"\n\nThe ship can easily make several trips before having to take a break. It can store a lot of asteroid resources outside the Hub. Which also allows you to easily store enough resources for transport.\n\nIt works with a simple logic system, one for filtering Asteroid collectors, one that manages energy to reduce activity according to the charge of the accumulators. And a last one to know if the ship can leave.\n\nBe careful, the ship must have enough ammunition before leaving.\n\nThere are already examples of logical reason in the travel manager.\nIt travels most of the time in less than 3 minutes.",
 	"image": {
-		"id": "z4ZQgQZ",
+		"id": "5MiWh1C",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/z4ZQgQZ",
-	"lastUpdatedDate": 1734732546090,
+	"lastUpdatedDate": 1790130879144,
 	"numberOfFavorites": 2,
 	"tags": [
 		"/planets/space-platform/",

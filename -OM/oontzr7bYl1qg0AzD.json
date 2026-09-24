@@ -7,11 +7,11 @@
 	"createdDate": 1743569239885,
 	"descriptionMarkdown": "Processamento de Petróleo Avançado\n-\n (Funciona completamente bem sem o uso de robores.)\n\nO plano é:\n-\n* 8 refinarias → 1 craqueamento de óleo pesado → 7 craqueamentos de óleo leve.\n\n* O design deve ser um \"tudo em um\". Deve ser capaz de converter todo o petróleo bruto em plástico ou todo o petróleo bruto em baterias. Também deve produzir combustível sólido sob demanda ou se o gás natural estiver acumulando.\n\nPrioridade de produção:\n-\n* Lubrificante (o máximo possível).\n\n* 450 munições de lança-chamas (para queimar florestas e biters).\n\n* 250 explosivos (para explodir coisas).\n\n* Encha 250 barris de lubrificante (para robôs e correias azuis).\n\n* Encha 250 barris de ácido sulfúrico (para circuitos azuis).\n\n* Encha 250 barris de óleo leve (para seus lança-chamas).\n\nCaso tudo isso já estiver produzido, a fábrica pode processar todo o petróleo bruto em:\n-\n\n* Baterias (4,75/s)\n\n* Plástico (15/s)\n\nExtras:\n-\n\n* Há um medidor de fluidos para visualizar o processo.\n\n* O design é empilhável. Você não precisa empilhar (ele processa todo o input sozinho), mas facilita a alimentação e fica bonito.\n\n* Todos os valores foram calculados e testados. As medições bateram com a teoria.\n\n* Aqui estão os máximos: \n* Consome: Petróleo bruto (160/s), Água (525/s), Energia (13 MW), Carvão (7,5/s), Cobre (4,7/s), Ferro (6,8/s). \n* Produz: Plástico (15/s), Baterias (4,75/s), Combustível sólido (11,7/s).\n(São os números máximos! Use-os para dimensionar seu bus no lado direito, mas você nunca produzirá 15 plástico/s e 4,75 baterias/s ao mesmo tempo!)\n\nCálculos das fábricas químicas:\n-\n\n* 6 plástico e 19 baterias.\n\n* 1 refinaria (velocidade 1): 10 óleo pesado + 45 óleo leve + 55 gás natural a cada 5s → 8 refinarias: 16/s pesado + 72/s leve + 88/s gás.\n\n* Craqueamento de 16/s pesado (3 leve para 4 pesado) + 12 leve:\n→ 0 pesado + 84/s leve + 88/s gás.\n\n* Craqueamento de 84/s leve (2 gás para 3 leve) → +57 gás:\n→ 0 pesado + 0 leve + 145/s gás.\n\n* Plástico: 20 gás/s (velocidade 1,25) = 25 gás/s por fábrica → 145/s ÷ 25 = 5,8 fábricas (15 plástico/s).\n\nBaterias:\n-\n* Enxofre: 30 gás/s (1,25) = 37,5 gás/s → 145 ÷ 37,5 = 3,87 fábricas (9,675 enxofre/s).\n\n* Ácido sulfúrico: 5 enxofre/s (1,25) = 6,25/s → 9,675 ÷ 6,25 = 1,58 fábricas (95 ácido/s).\n\n* Baterias: 20 ácido/5s (1,25) = 5 ácido/s → 95 ÷ 5 = 19 fábricas (4,75 baterias/s).\n\n\n",
 	"image": {
-		"id": "5ewNtce",
+		"id": "ieAHet9",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/5ewNtce",
-	"lastUpdatedDate": 1743569239885,
+	"lastUpdatedDate": 1790131418128,
 	"numberOfFavorites": 2,
 	"tags": [
 		"/production/oil processing/"

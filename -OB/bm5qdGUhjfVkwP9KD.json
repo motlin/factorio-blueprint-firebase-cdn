@@ -7,11 +7,11 @@
 	"createdDate": 1731539267037,
 	"descriptionMarkdown": "This is a self-starting nuclear setup using rare quality components for some power poles, and the solar panels, and also for all boilers, turbines, and reactors.\n\nWhile the higher-quality poles are required (unless the blueprint is re-jiggered), the boilers, turbines, and reactors can probably be adjusted to lower or higher quality as the ratios remain the same. Be careful though to make sure you pump in enough water.\n\nLower quality solar panels may result in the fuel delivery system not having enough power, though it should be OK. The fuel delivery system is not powered by the reactor at all, and is fully solar powered.\n\nThis is self-starting, and will automatically start as soon as fuel is delivered to all requester chests.\n\nIt also monitors reactor temperature to reduce fuel usage when the reactor output is not being fully utilized. It will over-consume fuel a bit, but a lot less than with no regulatory mechanism.",
 	"image": {
-		"id": "KI8fBSt",
+		"id": "S5G2DEa",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/KI8fBSt",
-	"lastUpdatedDate": 1731539267037,
+	"lastUpdatedDate": 1790131008136,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/mods/quality/",
