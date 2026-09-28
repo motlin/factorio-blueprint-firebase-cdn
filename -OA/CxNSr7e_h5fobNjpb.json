@@ -7,11 +7,11 @@
 	"createdDate": 1730032273384,
 	"descriptionMarkdown": "Using DocJake's AutoRail blueprint https://factorioprints.com/view/-O9VRJfQs93GnPuihM2B, the depots were assigning stations with no items to pick up.\n\nThis blueprint uses radars to transmit an encoded availability signal using the manually configured stations combinator group as a source.\nThe decoder takes the combinator source and bit-shifts all configured signals across 1 in turn, sending them into the radar network.\n\nThe encoders encode their station's ready signal if they are ready when their matching signal is on the network. \n\nThis is just something for the early game when there aren't so many stations in your network. You can use the simpler 'All types' option when there' too many to encode.",
 	"image": {
-		"id": "MM8LhIp",
+		"id": "gVgyUXe",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/MM8LhIp",
-	"lastUpdatedDate": 1730032273384,
+	"lastUpdatedDate": 1790143274123,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/mods/vanilla/",

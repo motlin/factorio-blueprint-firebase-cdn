@@ -7,14 +7,17 @@
 	"createdDate": 1731686474868,
 	"descriptionMarkdown": "This blueprint automatically converts the excess of heavy and light oil to petroleum gas.",
 	"image": {
-		"id": "wm2rGmo",
+		"id": "PmUeXdQ",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/wm2rGmo",
-	"lastUpdatedDate": 1731747751479,
-	"numberOfFavorites": 0,
+	"lastUpdatedDate": 1790142988119,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/production/oil processing/"
 	],
-	"title": "Oil Refinery with output balancer"
+	"title": "Oil Refinery with output balancer",
+	"favorites": {
+		"YnAnkor8VZfyvS8wkhqo6Tama882": true
+	}
 }

@@ -7,11 +7,11 @@
 	"createdDate": 1736084354603,
 	"descriptionMarkdown": "\n\n\n## 5x9-bit storage bank\n### requirements:\n#### to write:\nyou will need the stack address \\\nbits that you want write \\\nin the form of signal 1-9 \\\neach with a value of 1 \\\nand the write operator W(1) \\\n**! ! Note! ! This will return nothing on red \\\nyou will need to do a read operation\nto check if it was successful** \n\n#### to erase:\nyou will need the stack address \\\nbits that you want to erase \\\nin the form of signal 1-9 \\\neach with a value of 1 \\\nand the erase operator E(1) \\\n**!!Note!! This will return nothing on red \\\nyou will need to do a read operation\ncheck if it was successful** \n\n#### to read:\nyou will need the stack address \\\nand the read operator\n\n### Stack Addresses: \nSignal: S(1001) \\\nStack 1: 1001 \\\nStack 2: 1010 \\\nStack 3: 1011 \\\nStack 4: 1100 \\\nStack 5: 1101\n\nExamples: \\\nto write bits 4, 6, and 8 in stack number 2 \\\nsend the following on the green wire: \\\n **|** S(1010) **|** W(1) **|** 4(1) **|** 6(1) **|** 8(1) **|**",
 	"image": {
-		"id": "MdtmUHG",
+		"id": "wZuyg5E",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/MdtmUHG",
-	"lastUpdatedDate": 1736084354603,
+	"lastUpdatedDate": 1790139029154,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/version/2,0/",

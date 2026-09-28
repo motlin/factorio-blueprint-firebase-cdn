@@ -7,11 +7,11 @@
 	"createdDate": 1734731494344,
 	"descriptionMarkdown": "The first spaceship, both very simple, small, and sufficient to go to Vulcanus and Nauvis. It only requires the red, green, blue potions, and Space science pack\n\nThe Bluprinte will not automatically request resources, remember to check \"Auto Request\"\n\nIt works with a simple logic system, to know if the ship can leave.\n\nBe careful, the ship must have enough ammunition before leaving. It works without risk with stocks. But cannot produce enough during its crossing.\nAlso, it will often be necessary to wait a few minutes after 1 trip before traveling again.\n\nThere are already examples of logical reason in the trip manager.\nYou can change the maximum number of objects to store in the central Hub with the resource arms. 1 ice, 1 carbon, 2 iron ore, 1 firearm magazine, 1 iron plate. I advise not to put less than 40 for each resource. Except firearm magazine which should not be below 400.",
 	"image": {
-		"id": "FY0DBAy",
+		"id": "AeG4qkF",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/FY0DBAy",
-	"lastUpdatedDate": 1736514043694,
+	"lastUpdatedDate": 1790138223121,
 	"numberOfFavorites": 0,
 	"tags": [
 		"/planets/space-platform/",

@@ -7,12 +7,12 @@
 	"createdDate": 1734729682714,
 	"descriptionMarkdown": "WIP: my first attempt at creating an automated outpost supply system. Consisting of two different blue prints for the base (provider) and the outpost (requester)\n\nUses two a separate trains for fluids and soilds. \nThe amount of fluids and soilds \n - that are stored at the provider station (the base)\n - that are loaded onto the supply trains\n - that are stored at the requester station (the outpost)\n\nare be set via constant combinators.\n\nDynamic train limits are used to activate / deativate the stations if any requester station is missing any item.\nTherefore the provider and the requester stations must be connected via a red wire. \n\nIf neither a requester nor a provider station are active the trains will wait at designated depot stations\n",
 	"image": {
-		"id": "ohu3oql",
+		"id": "AhDU30m",
 		"type": "image/png"
 	},
 	"imageUrl": "https://imgur.com/ohu3oql",
-	"lastUpdatedDate": 1734729682714,
-	"numberOfFavorites": 0,
+	"lastUpdatedDate": 1790142732135,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/train/loading station/",
 		"/train/unloading station/"
@@ -20,6 +20,7 @@
 	"title": "Outpost supply station",
 	"favorites": {
 		"5gq9LhnYZdZUNJFs0UqRgwMOHAV2": true,
-		"fwXxoN91hpZRVGqFNhqMsGUaZKq1": true
+		"fwXxoN91hpZRVGqFNhqMsGUaZKq1": true,
+		"YnAnkor8VZfyvS8wkhqo6Tama882": true
 	}
 }

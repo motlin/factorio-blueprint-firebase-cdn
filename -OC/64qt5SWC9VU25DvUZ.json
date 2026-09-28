@@ -12,7 +12,7 @@
 	},
 	"imageUrl": "https://imgur.com/Ae147YJ",
 	"lastUpdatedDate": 1790130915111,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/planets/fulgora/",
 		"/production/scrap processing/",
@@ -23,5 +23,8 @@
 		"/general/compact/",
 		"/production/belt based/"
 	],
-	"title": "Compact Fulgora Recycler Sorting System"
+	"title": "Compact Fulgora Recycler Sorting System",
+	"favorites": {
+		"s0XdHneqOXUB3RmDmxfBAnC41af2": true
+	}
 }
