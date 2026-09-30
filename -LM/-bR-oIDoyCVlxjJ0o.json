@@ -19,7 +19,7 @@
 	},
 	"descriptionMarkdown": "Rail crossing that stops trains when a player is nearby, but also stops players when a train is incoming or passing.\n\nDemo video: https://www.youtube.com/watch?v=wkExJOErxYw\n\nHow it works:\n\n- The rail signal on the left-hand side detects when a train is incoming, passing, or stopped across the crossing, and locks the gates in any of these cases.\n- The gates detect when a player is nearby, which locks the rail signal on the right-hand side.\n- The chain signal makes trains wait before entering the crossing if the following block is occupied, instead of blocking the crossing.",
 	"lastUpdatedDate": 1578698374000,
-	"numberOfFavorites": 23,
+	"numberOfFavorites": 24,
 	"favorites": {
 		"5zpbq4m4qNZUUs8tij5bzeiAK8J2": true,
 		"ZitjyEzMRLawAMlSQOUEVeNn6eH3": true,
@@ -43,6 +43,7 @@
 		"CIZhC6UO5xZy9zmCcjGL6jQB1Aq1": true,
 		"n7nbBTJbY0cBv5e8926tF16Rul43": true,
 		"UDw04hZFcLTmKWZ2Dfl18tCTSZ22": true,
-		"tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true
+		"tOcmU8sv3XQiYh7FcXqT8ruM0Il2": true,
+		"9hJLNNHcGbbHFt3TIp4ZZvXxqQ52": true
 	}
 }
