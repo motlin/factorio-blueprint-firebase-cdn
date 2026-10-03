@@ -7,7 +7,8 @@
 	"createdDate": 1734389212182,
 	"descriptionMarkdown": "This Blueprint was created by me to be used in one of my maps, but I'm sharing it here publicly for anyone who wants to use it and to keep it saved online. \n\nImportant: This Blueprint was made with 4 central blocks so that the blue tracks can be used between one side and the other without going through the middle, in addition to allowing the Roboport.\n\n\n\n\n--- Contents ---\n\n> Straight\n\n> Turn\n\n> T-Junction\n\n> 4-way Intersection\n\n> U-Turn\n\n> Station 5 Car (Limit 2)\n\n--- Bonus ---\n\n All of the above with Roboport and electricity.\n\n> Train Bus (This is a special one used by me for unloading on a Bus conveyor belt, the number of conveyors used is quite large and may not please everyone)",
 	"favorites": {
-		"FZBtFEpS13N87hKr26AjNJlgda92": true
+		"FZBtFEpS13N87hKr26AjNJlgda92": true,
+		"EVrtEyCTrGMfAavt4eQZeD66MOv1": true
 	},
 	"image": {
 		"id": "d9DOcIl",
@@ -15,7 +16,7 @@
 	},
 	"imageUrl": "https://imgur.com/FkyVDtV",
 	"lastUpdatedDate": 1790130841299,
-	"numberOfFavorites": -1,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/belt/balancer/",
 		"/belt/express transport belt (blue)/",
