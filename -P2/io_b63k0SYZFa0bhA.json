@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "A massive platform for collecting Promethium chunks. A notable feature is that it is constructed entirely from components of common rarity.\nIt is fully modular, plus there is the possibility for upgrading with higher rarity items and beacons. A wonderful playground for a real engineer.\nSteps to take to start this amazing machine:\n- paste it three times to fully create the platform blueprint\n- setup fusion fuel cell import\n - some startup power\n- load fluoroketone barrel into the assembly machine\n- ???\n\nIt is very difficult to boot this platform (need a lot of asteroids to start up and stockpile ammo), therefore, it is better to disconnect the conveyors supplying ammunition to rocket launchers and railguns, build up stockpiles of firearm magazines, and travel between planets to harvest asteroids.\n\nMinimum technology requirements for the platform to function correctly:\n- steel plate productivity >10\n- laser weapon damage >14\n- physical projectile damage >14\n- stronger explosives >14\n- asteroid productivity >11\n- railgun damage > 8\n- railgun shooting speed > 8\n\nThere is some basic speed control:\n- travels between nauvis, gleba, fulgora, vulcanus = 200\n- gleba, fulgora <---> aquillo = 180\n- solar system edge <---> aquillo = 170\n- shattered planet <---> solar system edge = 120 (working speed)\n\nTo exceed a speed of 140, it is necessary to expand fuel and oxidizer production (potentially requiring more powerful modules and rarer chemical plants (I'm already too lazy for any further modifications)). Also rare thrusters needed to achive more speed.\n\nAmmo production:\n- 9.42/s railgun ammo\n- 80/s explosive rockets\n- 7.5/s firearm magazine\n\nPromethium chunk storage:\n- 702k belt storage\n- 1.2k in asteroid collectors\n\nJourney:\n- one way jouney: 766,000 km\n- return after 351k collected promethium chunks.\n\nFeatures:\n- Oxide and metallic asteroid reprocessing\n- Automated repair packs (the platform can still sometimes be damaged).\n- Designed for upgradeability - everything is entirely in your hands.",
 	"favorites": {
 		"xsgANniFt0XomK4rBH91A4ce7cX2": true,
-		"3TfI0azhi8MahxGuAKEPT2eDAJn2": true
+		"3TfI0azhi8MahxGuAKEPT2eDAJn2": true,
+		"GzYhUR8cy5TJNgWfDF3UlUaPOAj2": true
 	},
 	"image": {
 		"id": "JadYvQA",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1790995266886,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/mods/vanilla/",
 		"/general/late game (megabase)/",
