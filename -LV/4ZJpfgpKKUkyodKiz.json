@@ -680,6 +680,7 @@
 		"Ev7PEa3OWePOwrEL5UlNa5X3sRu1": true,
 		"Evfu8Alixufm35SuBD5rHrSmjeG2": true,
 		"EyonIldtCqhMM23r9lshGA3hVTf2": true,
+		"F0CNZrhNPsQUqijoREQyrXQH4Fp1": true,
 		"F1QzkE3b5cY46WrNs0LE0NZmDLw2": true,
 		"F6quYsgu58SgzbNe8JmadK9Zgo42": true,
 		"F7vauawZctOQhy3mZdd2ezKwyMU2": true,
@@ -2775,6 +2776,7 @@
 		"z4d8LYLXFtf0kS4Y7B0xqgADZYf1": true,
 		"z5pSV5a6xxdhiRg55ntSfSaWTgA2": true,
 		"z6k1pgLwdUWAK7dnnWCCCFssig42": true,
+		"z938Bzvm6BN13Cxw0aElOMbgEUu2": true,
 		"zBC2lfciOcdr08c0r1P1RfjoVWu1": true,
 		"zC5MyQdIwueOWJM5obOWpBTTEW83": true,
 		"zCiE30GNFqTbwL4H1rnnZ0Kq6Ml2": true,
@@ -2824,19 +2826,19 @@
 		"width": 2180
 	},
 	"imageUrl": "https://firebasestorage.googleapis.com/v0/b/facorio-blueprints.appspot.com/o/Science%200.17.64%20(1)%20(1).png?alt=media&token=74a65dce-4d05-4d7b-98a4-3d3512601038",
-	"lastUpdatedDate": 1656220364766,
-	"numberOfFavorites": 2808,
+	"lastUpdatedDate": 1790989771888,
+	"numberOfFavorites": 2810,
 	"tags": [
 		"/production/research (labs)/",
-		"/version/0,18/",
-		"/version/1,0/",
 		"/general/tileable/",
 		"/production/rocket parts/",
 		"/general/compact/",
-		"/version/0,17/",
 		"/general/beaconized/",
 		"/production/science/",
-		"/mods/vanilla/"
+		"/mods/vanilla/",
+		"/version/1,1/",
+		"/belt/transport belt (yellow)/",
+		"/production/belt based/"
 	],
 	"title": "1.0 Science Book - Tileable (v. 3.7)"
 }
