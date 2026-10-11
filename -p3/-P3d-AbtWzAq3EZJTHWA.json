@@ -1,0 +1,20 @@
+{
+	"author": {
+		"displayName": "- “‪Chronolus‬” -",
+		"userId": "aisJL9deYKgVidZUtQdh0a0pgax1"
+	},
+	"blueprintString": "0eNrtV9tuEzEQ/RXLT0XaDcm2oTQSSAEeKC9UFPHSVivv7iQx8dqLL0mXKB/Af8CP8SWMnaS5lUKklIfSp83Ojs+ZczyOxhOaCQeV5tLSzoQWYHLNK8uVpB3adVaVzPKcCVETI9TYkEKNJVGS2AGQMauJVeFnptUQJKkEk2CJ0oT3SLcsneQei3BDcHXjUl7Kd85YkispIbdh6amsnPU4tXKavHUZYbIgGliBn0YgrdJ1RM4t07ZSWGf4/AaM5ZJ5cER9vQL33tlVvJ4DUbmyCqucgZCD9D3edzqsJ6oXgkoC4TNhrxaeXMpu8dkX7KMjhmFDeqguQJsBr5D84KNHdFpjqRvIVrMRCOP9Ktm1qQAKXxjaSc6CUyZCylw0SPeL40JFqyZjYtJsDsunSKlVOU9ZGP6Bl4vCz5Vg2tTGQkkOvMyM5cMnQTAmt+YYf9izBjkNO6Zwr2hEOQoxtHMxoYb3JRO+OSQrAbvCu0mnmCILuKad1jS6JamAnBeg41yVmd8npVeWJNOriKJb2BswIwkvdSpdmYFGzGiNLKKVMnzWlBOKAHFyHNHaP5Ok0Ubggmvc/5DQSiKKxVutRJrBgI04cuOynOvccZuCZJmAgnasdhDdhHFJcUPR49rYdCnK1pUvZsS1dRi5qW6WEUsVowBde4neN8v8aWr6l7JiOqjv0Bd0OvVebWhNojs8u0X54c7K57hLiSb4sfJ2sbPkT+tasVE31L6kXutvUE3FcoiFysMxWQH3nRzPWjmGog/rLK0Njp/fftBFCNI5Nrb9XdR/Kai1J0EDZi1oKOLZKdujnsUB4aBzLvuxVk4WJi5Zn33lErbkNLfIvu/Bp6S9ZdOuO/Lo3T14d48HaU6hVT7c2pQH12bJ1p/4f+vTP2gpxkXfyZjhGLKO3n7sq4dt1r6aCwdLFS4Am8PrTiNcVeOw5KRN/eCdcn9BoZ0eEwbC5IrPdMlyhWMdRsc4iPnXi1bUipLo8ApjHOUgx/KKFVHBMsCC6DkvK4Gzu78TzIe2cLM4Q0awA+5Kf73ABSPQJox37WfJSfsoOTo5fnb0/Lg9nf4CHWTJ8g==",
+	"createdDate": 1791689276033,
+	"descriptionMarkdown": "Automatically slows down on the way to the broken planet or if Ammunition is low.\n\n- Just connect the Input to your Hub and read Inventory, Speed, Startpoint and Destination.\n- Connect the Output to your fuelpump and use the configuration of the one in the Blueprint\n- Adjust the values for your ship.\n\nThe current configuration travels on maxspeed to all Planets, incl. Aquilo, slows down to 200km/s from Aquilo to the Rim of the Solarsystem (and back) and to 100km/s on the way to the broken planet. If Ammo is below 1k (Rockets or Bullets) or 500 (Railgun) it slows down to 25km/s to restock.",
+	"image": {
+		"id": "jIOPyIL",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1791691405447,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,1/",
+		"/planets/space-platform/"
+	],
+	"title": "Simple Speedcontrol for Promethiumship"
+}
