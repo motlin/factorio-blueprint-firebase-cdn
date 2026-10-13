@@ -7,14 +7,15 @@
 	"descriptionMarkdown": "Needs the Space Exploration mod. Also made to work with mods listed below, but should work without them. (However if it is designed to make an item, but the mod for it is removed, you should remove the storage chest for that item since the filter on the chest will likely be voided. Resulting in random items accumulating in it.)\n\nLTN - Logistic Train Network\n\nLTN Combinator Modernized\n\nLoaders Modernized\n\nQuality\n\nElevated Rails\n\nGrappling gun\n\n\nThe reason Quality is listed is because it makes the Recycler and the assemblers' outputs are limited by circuit logic instead of chest slot limitations. Uses filtered storage chests so that common items will return to chests automatically for organization and upgrading.\n\nThe Elevated rails and Lifesupport Facility require some hand fed items. For the former I didn't feel like setting up a refined concrete belt just for them and for the latter it's missing auto fed pumps and assemblers. Honestly ghosting in a stack of each of them might be enough for a whole game.\n\nMakes all the AAI chests but only makes logistic versions for the warehouses. (And of course the base game logistic chests.) The Strongboxes and Storehouses are made on the cargo silo module.\n\nDoesn't make Satellite Rocket Silo. By the time you need more then one of those you can just have bots do it.\n\nI've done only limited testing so some bugs may exist. \n\nAuthor: Sir_AL",
 	"favorites": {
 		"JWk3mjmjl7fhq6iUYiv3GhAylor2": true,
-		"yUzqwLKAMfQdOJiTa8LaloI19k13": true
+		"yUzqwLKAMfQdOJiTa8LaloI19k13": true,
+		"N1fWIGLJ6fOwPG0LXEozmN8WuXs2": true
 	},
 	"image": {
 		"id": "WwrlWfp",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1785634621097,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/mods/space-exploration/",
 		"/mods/elevated-rails/",
