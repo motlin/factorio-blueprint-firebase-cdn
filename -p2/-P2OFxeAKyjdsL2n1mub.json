@@ -11,12 +11,15 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1791533205275,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/space-platform/",
 		"/planets/aquilo/",
 		"/power/nuclear/"
 	],
-	"title": "Aquilo small ship"
+	"title": "Aquilo small ship",
+	"favorites": {
+		"SdqiK6HIovWXS36Gbl1sHd1Bk993": true
+	}
 }

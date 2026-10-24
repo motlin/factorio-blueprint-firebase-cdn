@@ -1,0 +1,19 @@
+{
+	"author": {
+		"displayName": "Nahuel Chupin",
+		"userId": "4FPYtlyFbSSwrPNqyxPPJ2bs5vI3"
+	},
+	"blueprintString": "0eNqtV21P2zAQ/iuWv86pmtCWthNIY9p+wPYRocpxDurNsYNfygrqf985oSQUEEpTIa5Xx77nfHnusftEcxWgslJ7unyiUhjt6PL6iTp5p7mKY5qXQJe04s7JDSSVNRtZgE3EGpynO0alLuAfXaY79s6yAkQz25S51Nwb21mS7W4YBe2ll9DA1l+2Kx3KHCzGZJ/AM1oZh8uNjpgYMslGU0a3dDkejREI9+OtUasc1nwjERxnWeDFKj5AMET1NsAu5n6AnfXHTk+FfdYfe3wq7Elv7JNBT3tDn6zis97QJyPa+fEkz4Ziz48n+WDsxfEkH4ydjo9m+XDs9GiaD8fOjub5cOxW1eIx47n23WPhDfBkNP6kwaRbxdkRkFEHIi528UHr45myP58YvZXKgz0cbXMSFjxgIveBK8wcB7WxJZ5nEb6suK0TXdKLeiDEMzOZzMfjuNn9kdaJV1WxqjxXfWMuZq9itnWT1ujkDrhNHtYAaliqHaG3RgCyQd8lQUs/LGwr4mujShnKxNi+Bcgmr0K24izFwFCt2Dpv9MBg804wfB1JpfhQ/rSi6IySRXIber/mgyQ7Updzj/zfDmNjR754seFaQJEIaUXoTZzDwG3vKPOQFKBRDraJw/YWPhzHoRv8e1eLWvK/c0P9UIoaDSykbfQFtel9YXqOGUWxkC+q1P2GCnQrrfOr9sbst1XMZyOtD/XW9kSoZySwwVfn19ikdHew7ctm342mYlLxWm2Cr4I/vMx/gnHVhN4HSj+qXtvjeVB/E6kdWGTW28LNehbumUgr0FE2V4V0tXw+S/z+6Ush45KeZbx6W72D4u1i+R4w1Vi865SlLGPpDbtGy85qDy2b1B5aNq09tGxWe2jZee2hZfPaQ8sWtYeWYUtGN34wbKfajzhpA5TG+M/DETRtsPADnYiG+UkPZSz/y683RhXPUSuW9HtTV5JmRJhb3AZRCrRxOKUAJ6ysmtLtJ/LOzHgZAChM7XO8Hxg3Ij9KRCNXFykRgevCEG8Kg1Hxv0TBs5IrnM6V4PqRa+KCIyb/Az6u/kpAkdzyR0OkFipIXO6ArHkusZM54mpydTkekV9wHyRYID+5wPciDUHOkC/kd8UFkG93MML8sQVcnft0li0mi8V0Ppmdo9nt/gOzGvQO",
+	"createdDate": 1792644330520,
+	"descriptionMarkdown": "Controla 12 cofres proveedores pasivos. Emite B=1 cuando todos los materiales alcanzan sus objetivos; el brazo incluido se habilita con B>0. Requiere Factorio 2.0 + Space Age.",
+	"image": {
+		"id": "jLgh0Qx",
+		"type": "image/gif"
+	},
+	"lastUpdatedDate": 1792644330520,
+	"numberOfFavorites": 0,
+	"tags": [
+		"/version/2,0/"
+	],
+	"title": "Control 12 cofres llenos"
+}

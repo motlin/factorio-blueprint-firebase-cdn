@@ -8,14 +8,15 @@
 	"descriptionMarkdown": "最高速度 700km/s（スラスター延長でさらに加速可能）\n\n\n積載量　 65535スタック分（[item=cargo-bay,quality=legendary] x 1310）\n\n※65535スタックがリミットであり、1つの倉庫として最大値になります。これ以上増えません。\n\n[planet=aquilo]までの航路を補給なしで航行・停泊可能",
 	"favorites": {
 		"qWU6jYYWC7Ul4bcC39eRZ2ZNWWr1": true,
-		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true,
+		"iUAbkaqoliX51aFsJ3YUJe7qSqt1": true
 	},
 	"image": {
 		"id": "rH3RKaa",
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1784092290735,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,0/",
 		"/mods/space-exploration/",

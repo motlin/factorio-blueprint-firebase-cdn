@@ -1,0 +1,22 @@
+{
+	"author": {
+		"displayName": "New New",
+		"userId": "JL8PZkCiVFQwhfR52fiGR7tacvr1"
+	},
+	"blueprintString": "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",
+	"createdDate": 1792517450954,
+	"descriptionMarkdown": "# 19 Techs (Before Aquilo)\n\n* **Rotation Time:** 1 minute per technology.\n* **Smart Logic:** Checks if science pack stock is > 20 via the red wire network.\n* **Priority 1:** Agricultural packs.\n* **Priority 2:** Electromagnetic and Metallurgic packs.\n* **Fallback (Else):** Default / Production technologies.\n* **Assumptions:** other packs are always available for simplicity, only Agricultural, Electromagnetic and Metallurgic are checked",
+	"image": {
+		"id": "XPinIsJ",
+		"type": "image/png"
+	},
+	"lastUpdatedDate": 1792552064408,
+	"numberOfFavorites": 1,
+	"tags": [
+		"/version/2,1/"
+	],
+	"title": "Smart Research Scheduler",
+	"favorites": {
+		"ScxLLg6hVPQnH7WwI6Ujmw95COJ3": true
+	}
+}
