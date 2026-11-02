@@ -11,11 +11,15 @@
 		"type": "image/jpeg"
 	},
 	"lastUpdatedDate": 1792739921717,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 2,
 	"tags": [
 		"/version/2,0/",
 		"/power/steam/",
 		"/planets/gleba/"
 	],
-	"title": "Gleba Power 440 MW"
+	"title": "Gleba Power 440 MW",
+	"favorites": {
+		"DTJkj7IeaYhOReyU2XmMuhudxwt2": true,
+		"ScghgmoB0HSyXjfuKFN2TazK6hA3": true
+	}
 }

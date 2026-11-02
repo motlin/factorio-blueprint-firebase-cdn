@@ -11,7 +11,7 @@
 		"type": "image/png"
 	},
 	"lastUpdatedDate": 1792395337966,
-	"numberOfFavorites": 0,
+	"numberOfFavorites": 1,
 	"tags": [
 		"/version/2,0/",
 		"/planets/gleba/",
@@ -21,5 +21,8 @@
 		"/general/mid game/",
 		"/production/science/"
 	],
-	"title": "Gleba Starter (100 SPM)"
+	"title": "Gleba Starter (100 SPM)",
+	"favorites": {
+		"dLuaj7RTnnYQwFy2LAYUgoWofbR2": true
+	}
 }

@@ -7,14 +7,15 @@
 	"descriptionMarkdown": "[virtual-signal=signal-alert][virtual-signal=signal-alert][virtual-signal=signal-alert] CREATE A PLATFORM THEN DELETE ALL FOUNDATIONS BEFORE PLACING THE STARTER BLUEPRINT OR THE SHIP BLUEPRINT[virtual-signal=signal-alert][virtual-signal=signal-alert][virtual-signal=signal-alert]\nPlace the starter blueprint; once you have power, super force build the ship (shift+ctrl+left click).\n\n\nThis ship has 58 cargo bays and has speed of 595 km/s and a mass of 425,6 tons, it can run continuously between inner planets with \nphysical dmg 13, laser dmg 13 (less is probably fine) and asteroid reprocessing 4.\n\n\nI've included 3 variations with 58, 18 (692 km/s, 298 tons) and 2 cargo bays (748 km/s, 245,4 tons) and a starter blueprint to get power.\n\nTo build these ships, after building the platform you have to delete all fondations around the hub before placing the blueprint or the building process will fail.\n\nI tried to optimise everything, the belt will never clog, excess asteroids are reprocessed, only excess calcite is thrown overboard (ice too is the ship idles in orbit for hours).\n",
 	"favorites": {
 		"nL7wT59syfPFSAJA6qvKLb4JcLt1": true,
-		"ScxLLg6hVPQnH7WwI6Ujmw95COJ3": true
+		"ScxLLg6hVPQnH7WwI6Ujmw95COJ3": true,
+		"dLuaj7RTnnYQwFy2LAYUgoWofbR2": true
 	},
 	"image": {
 		"id": "bC2oOv7",
 		"type": "image/jpeg"
 	},
 	"lastUpdatedDate": 1792331931437,
-	"numberOfFavorites": 2,
+	"numberOfFavorites": 3,
 	"tags": [
 		"/version/2,1/",
 		"/planets/space-platform/"
