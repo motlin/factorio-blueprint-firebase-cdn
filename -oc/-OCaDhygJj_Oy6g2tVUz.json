@@ -12,6 +12,9 @@
 	},
 	"imageUrl": "https://imgur.com/evyKgyn",
 	"lastUpdatedDate": 1790134970196,
-	"numberOfFavorites": 0,
-	"title": "primeiro teste"
+	"numberOfFavorites": 1,
+	"title": "primeiro teste",
+	"favorites": {
+		"79BJcJwfciMWNubyCasB83k6kGJ3": true
+	}
 }
